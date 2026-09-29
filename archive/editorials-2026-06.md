@@ -1,5 +1,245 @@
 # Editorials archive — 2026-06
 
+## 30 June 2026
+
+### Caught in the middle: On India and curbing drug abuse
+*The Hindu · Editorial*
+
+India is located between two major drug-producing regions: Afghanistan, Pakistan, and Iran to the west and Myanmar, Thailand, and Laos to the east. While the West has historically dominated heroin production, the International Narcotics Control Board has said Myanmar has become the world’s leading source of illicit opium while East and Southeast Asia remain major sources of methamphetamine. Officials have said drugs are being received at Gujarat, Kerala, and Tamil Nadu via maritime routes. Similarly, some drugs are produced domestically using illegally diverted pharmaceutical ingredients, aided by the fact that individuals possessing small quantities of heroin can attract up to six months’ imprisonment, whereas drugmakers that cannot account for lakhs of doses often face only slaps on the wrist. The rise of Myanmar, where the territory under ethnic armed organisations is expanding, as a key source is also troubling since it shares a border with India. The Narcotics Control Bureau has noted a dramatic surge in the use of drones to smuggle drugs across borders, especially over Punjab. Traffickers are organising over the darknet and using cryptocurrencies. The pillars of India’s response thus aim to keep the enforcement regime from being out-innovated and improve regulatory certainty.
+
+States are trying to adopt a ‘whole of society’ approach recognising the public health and social dimensions. However, India needs to do more. Physical abuse and forced detoxification are frequently reported from many private centres. Punjab has an extensive network of de addiction centres providing opioid substitution therapy, and some northeastern States to a secondary extent, but most large States have much less access relative to need. Most Integrated Rehabilitation Centres for Addicts are located in urban areas whereas the highest density of addicts in Punjab are in border villages and rural pockets. Likewise, relapse is often treated as a moral failure and many addicts avoid government centres fearing social ostracisation, particularly in rural North India. The persistence of criminal records for small-scale possession prevents youth from getting jobs, reducing their odds of escaping the drug-crime cycle. Although the Nasha Mukt Bharat Abhiyaan has said it has sensitised over six crore women, facilities dedicated to women are scarce and concentrated in urban areas; stigma, caregiving responsibilities, and lack of gender-responsive treatment keep many women from seeking or completing care. Finally, as evidence shows, disrupted supply can drive many users to cheaper alternatives unless accompanied by effective treatment. India must therefore shift public focus from seizures and arrests to the number of lives restored.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/caught-in-the-middle-on-india-and-curbing-drug-abuse/article71161480.ece)
+
+---
+
+### Delayed honour: On Operation Sindoor, gains and losses
+*The Hindu · Editorial*
+
+War is secretive and strategy may require deception. But that is no good explanation for the fact that the Narendra Modi government took over a year before formally acknowledging that six soldiers had lost their lives in Operation Sindoor in 2025. India had launched cross-border military strikes in Pakistan in retaliation for the Pahalgam terrorist attack, in April 2025, that killed 26 innocent people. From the beginning, the government has been reluctant to share any meaningful details of Operation Sindoor even as it continuously kept the hyperbolic self-congratulatory posture. Its decision to not publicly acknowledge and honour the supreme sacrifice of the fallen soldiers contemporaneously was hardly a sign of any wise strategy. Casualties can happen in any military operation and that is a key consideration in any military planning, and more importantly, the political decision to go to war or not. Not being transparent about losses, human and material, may serve the political interests of the ruling party, but not national interest. By trying to be clever and selective about facts, the government undermined its own credibility and did a disservice to those who paid with their lives. Soon after the operation concluded in May 2025, the then Director General of Military Operations (DGMO), Lieutenant General Rajiv Ghai, paid tribute, during a press briefing on May 11, 2025, to Indian military personnel who had made the supreme sacrifice, though their names were not disclosed.
+
+The cremations were done with full military honours. In August 2025, Air Chief Marshal A.P. Singh visited the family of Sergeant Surendra Kumar, who was killed during the operation, while the Ministry of Defence also announced gallantry awards for the fallen personnel. Tributes were simultaneously carried on the Indian Army’s official social media platforms. In the Lok Sabha on July 28, 2025, Defence Minister Rajnath Singh said that “no Indian soldiers were harmed” during Operation Sindoor. Following accusations that it has misled Parliament, the government is now explaining that the Minister’s remarks were made in the context of reports that Indian aircraft were shot down and were meant to clarify that no pilot was killed during the mission. The government has also maintained that details relating to aircraft losses during the conflict remain operationally sensitive and refused to disclose them. There is a distinction to be made between operational secrecy and requirements of public accountability. War is a stark demonstration of the fact that it is the public that always pays for all actions of the government. A public accounting of the gains and the losses is the best way to ensure wise decision making.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/delayed-honour-on-operation-sindoor-gains-and-losses/article71161892.ece)
+
+---
+
+### Reforms 3.0 — towards the Bharat rate of growth
+*The Hindu · Opinion*
+
+For 45 years after Independence, India grew at an anaemic 3% — the infamous “Hindu rate of growth”. Triggered by a balance-of-payments crisis, India found the gumption to liberalise. Within a decade, GDP growth surged. The lesson: crisis breeds reform, and reform breeds exponential outcomes. Artificial Intelligence (AI) provides the same transformational leverage that liberalisation provided in 1991. The question is not whether India can afford to invest — it is whether India can afford not to. After 12 years of Prime Minister Narendra Modi’s leadership, India has reached another WhatsApp moment in reform — dare I say, to take it from a Hindu rate of growth to the Bharat rate of growth — 8% and beyond for the next decade.
+
+The case for making tokens freeIndia has since proven that it can leapfrog entire generations of infrastructure. Aadhaar enrolled 1.38 billion people in a biometric identity system, the largest on earth. UPI now processes 250 billion annual transactions worth $3.4 trillion, handling 50% of the world’s real-time digital payments. Reliance Jio, launched in 2016, added 100 million subscribers in just five months and made mobile data essentially free. How India can replicate its Aadhaar, data availability deluge and UPI miracles in the age of AI — by embracing open models, diversifying compute hardware, and making tokens as free as data.
+
+India spends just about 0.65% of its GDP on research and development (R&D), well below China (2.4%), the United States (3.5%), South Korea (4.9%), and Israel (5.4%). The excuse of the socialist Congress governments of 1947-1991 was: “we can’t afford anything more”, which does not and should not apply now. The central question is this: Has the time come to make AI tokens free? If so, how do we do it? Can we begin by making tokens free for the country’s top 100 national R&D institutions and 5,000 schools, so that AI becomes a teammate for scientists and students alike?
+
+India spends approximately $49 billion each year subsidising calories, chemicals, and carbon. The question is whether it is now ready to subsidise cognition. The answer is that it already can — at a fraction of what it spends today. The entire AI token subsidy for the country’s top 100 universities and national R&D institutions, along with 5,000 high schools, would cost about $2 billion annually — roughly 0.06% of GDP. The AI investment is around one-fourteenth of India’s food subsidy, one-tenth of its fertilizer subsidy, and less than the amount paid to compensate oil marketing companies for LPG under-recoveries in a single quarter. This is not a moonshot budget. It is a rounding error in India’s existing welfare expenditure — but one with the potential to generate transformative, compounding returns.
+
+India does not need more money; it needs new priorities, new frameworks, and some reallocation. First, AI tokens can be funded without cutting a single rupee from existing beneficiaries by merely freezing subsidy growth for a year. (The fertilizer subsidy alone has been compounding at 11% CAGR over the past decade.) Second, India should forge a public-private partnership with hyperscalers such as AWS, Google, and Microsoft, exchanging data centre land, power subsidies, and data sovereignty assurances for free inference capacity. India’s 1.4-billion-user market gives it negotiating leverage that few countries can match, though such techno-commercial negotiations, shaped by geopolitics and uncertainty, will require considerable skill. Third, if necessary, paid enterprise tiers can cross-subsidise free access for schools and research institutions.
+
+Free data worked and free tokens will too. The government did not directly subsidise Jio. Instead, it created the right regulatory environment through spectrum auctions, net neutrality, infrastructure sharing, and a controversial long pilot.
+
+The result: data prices fell from about $3 per GB to $0.10 in under three years. The same playbook can apply to AI tokens. Create the right conditions, and the market will deliver abundance. India’s role is not to write the cheque, but to make it unnecessary.
+
+Hosting modelsIndia must build the competence to host and operate large language models, not merely consume them through APIs from San Francisco or Beijing. With Sarvam, it has already shown that frontier models can be trained on Indian soil. The next step is to host models such as Qwen, DeepSeek, Kimi, Llama, and Sarvam on sovereign infrastructure, even if some open-source models originate from China. The models may be free, but the intelligence to host them at scale is not. AI infrastructure should be treated as a strategic national capability, much like what the government has already done for space and nuclear programmes. India should pursue a hybrid strategy that combines sovereign and open-source models to avoid dependence on any single ecosystem. Open-source models offer four key advantages: sovereignty by reducing reliance on foreign APIs that can be restricted overnight; lower costs by eliminating per-token licensing fees, thereby enabling free education and research uses; customisation for Indic languages and cultural contexts; and transparency through auditable model weights for government and defence applications.
+
+Hosting LLMs at national scale is not “just deploy a container”. India must develop deep expertise in availability (multi-region redundancy, 99.99% uptime SLAs for critical government services; latency (<200ms token latency across Tier-2/3 cities); efficiency (like batch scheduling to maximise tokens-per-watt); security (data residency compliance, prompt injection defence, audit trails).
+
+India cannot afford to be locked into a single-vendor monopoly for its AI compute future. NVIDIA’s dominance comes at extraordinary cost — both financial and strategic. NVIDIA controls 80%+ of AI training hardware but creates deep vendor lock-in that extends far beyond hardware. For India to build sovereign AI infrastructure for 1.4 billion people, the math simply does not work at NVIDIA pricing.
+
+India spent relatively little to build UPI; it cannot afford to spend $50 billion on NVIDIA GPUs. The alternative hardware ecosystem is not just more economical — it is strategically essential. India should adopt a 40:30:30 hardware mix rather than rely on a single vendor. Around 40% should be built on AWS Trainium and AMD for cost-effective inference workloads available in India. Another 30% should use Google TPUs for research, model training, and academic partnerships. The remaining 30% should rely on NVIDIA for specialised training, legacy compatibility, and a domestic silicon hedge.
+
+AI token policy, implementation timelineIndia should announce a National AI Token Policy and implement it over the next 24 months. It should begin by signing public-private partnership agreements with AWS, Google, and Microsoft to establish a multi-vendor sovereign compute framework. The first pilot should provide unlimited research tokens to the top 20 IITs and the IISc. As hyperscaler inference capacity comes online, India should open an API sandbox for 500 startups, expand access to 100 universities, and launch an AI literacy pilot across 500 high schools in 10 States. The programme should culminate in the publication of the country’s first sovereign Indic AI model benchmarks.
+
+Thereafter India needs to scale the ecosystem through cross subsidies as mentioned above and deploy fine-tuned models into health care, agriculture, judiciary and education. It must follow this up with full deployment at 5,000 high schools and all 22 languages. With this India’s token consumption will enter the global top five. In two years, India-trained models will become competitive on international benchmarks and 10,000+ AI-native startups will bloom, rocketing GDP growth.
+
+In sum, India’s AI leapfrog is a sine qua non for national transformation. India needs to replicate its DPI (digital public infrastructure) miracles in the age of AI by embracing open models, diversifying compute hardware, and making tokens as free as data. India has all the necessary conditions — favourable policies, stable macroeconomy, prodigious talent and technology institutions — to become a global leader in AI applications. The sufficient condition is India’s decisive, visionary leadership. It will take three moves. One decade. And a transformed (AI) nation.
+
+Srivatsa Krishna is an IAS officer. The views expressed are personal
+
+[Read full article](https://www.thehindu.com/opinion/lead/reforms-30-towards-the-bharat-rate-of-growth/article71162499.ece)
+
+---
+
+### DC Edit | Rule Of Law Must Prevail In Ayodhya, Other Cases
+*Deccan Chronicle · Editorial*
+
+Caught off guard by the massive theft at the Ram temple in Ayodhya which it has assiduously planned and developed as the icon of its brand of politics, the Sangh Parivar is now making an attempt to present the act before society as a social crime much beyond those under the Indian penal system. It has made the first step towards this effort with the Uttar Pradesh unit of the BJP announcing that the thieves will face social boycott “reflecting the sentiments of Hindu society”. The BJP has pointed to a resolution passed by the Faizabad Bar Association that none of its members will represent the eight accused arrested in the case and that a lawyer who goes against the decision will face a Rs 5-lakh penalty. The lawyers have also issued an ultimatum — the three people associated with the temple management — Champat Rai, Anil Mishra and Gopal Rao — “must leave” Ayodhya within three days or else the entire city would be blockaded.
+
+The Ram temple was built as per the whims of the Sangh Parivar after destroying a historical mosque, an act the Supreme Court called an “egregious violation of the rule of law”. It’s true that the temple has come up on a later order of the Supreme Court and that the perpetrators of violence managed to go scot free but the underlying disregard by the Parivar for the rule of law and the thought process that made it all happen are etched on every brick that has gone into the construction of the temple.
+
+The BJP’s talk of social boycott and the lawyers’ warnings echo the warning of Uttar Pradesh chief minister Yogi Adityanath to those who seek accountability that “they should not test Ram devotees". A republic built and run on democratic processes and administration of criminal justice cannot approve of this thought process. It is an attempt to revisit the violence of the 1990s which must be resisted.
+
+All those who seek to dictate terms of the punishment to be meted out to the accused, if and when found guilty, must be made to understand that they cannot impose a penalty of its own. They are not a law unto themselves.
+
+It is true that the wrongdoings related to the temple must have hurt the devotees of the lord as well as those who worked for decades for the realisation of the project. The party which rules Uttar Pradesh and runs the government at the Centre had all the time and opportunities to ensure that the donations of the devotees are put to their intended use. Having failed to do that, the very same people now come up with complicated arguments with the aim of avoiding further scrutiny of their lapses. They may have been successful in whipping up passions for the construction of the temple but are unlikely to succeed in camouflaging the heist there.
+
+Much worse is the position of the lawyers. Every accused has a right to fair trial and being represented by an advocate. Individual lawyers can pick their clients but to issue a threat to the fraternity against representing someone is against the law. It is sad that the lawyer community is consumed by rhetoric and takes illegal and anti-constitutional positions. They must correct themselves, and do so at the earliest. If not, statutory bodies mandated to discipline lawyers must step in fast.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-rule-of-law-must-prevail-in-ayodhya-other-cases-1967397)
+
+---
+
+### DC Edit | WhatsApp Must Do Privacy Review
+*Deccan Chronicle · Editorial*
+
+With the introduction of usernames, WhatsApp has decided to change how 300 crore people communicate, responding to privacy concerns about the existing phone-number-based messaging system.
+
+If a person joins a group, his or her number will be visible to everyone present in it. This can expose users to unwanted calls, spam, harassment and data misuse. However, the username feature can successfully address this issue and enhance user privacy.
+
+On the flip side, however, the username feature could also empower fraudsters. Usernames can make it easier for scammers to create fake identities, imitate public figures, pose as businesses or lure people into fraudulent investment and job schemes. In India, where WhatsApp has become a default messaging platform for 85 crore people, the impersonation risk is serious.
+
+Platforms that allow a username-based messaging system have often struggled with impersonation. Fraudsters can use slight variations of people’s names, brands or official handles to mislead unsuspecting users.
+
+For example, if scamsters want to impersonate ‘Bharat’, they could use Bhaarat or Bharath, without raising any objection, as Bhaarat is a phonetically correct spelling and most people in southern India use ‘th’ for the 16th consonant in the traditional Hindi alphabet. As most people don’t pay great attention to spelling or account details before trusting a message, a small loophole can affect millions.
+
+WhatsApp must, therefore, introduce the username feature with strong safeguards.
+
+It should have a robust verification system for public figures, businesses, government agencies and well-known organisations. It must prevent lookalike usernames, detect suspicious account behaviour and make reporting impersonation fast and effective.
+
+The government should also ensure that privacy features do not create a safe zone for organised scammers. WhatsApp must allow law enforcement agencies to check the underlying phone numbers for traceability and introduce all necessary safeguards to prevent its abuse.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-whatsapp-must-do-privacy-review-1967402)
+
+---
+
+### Sanjeev Ahluwalia | Passport: A New Trauma! Who Is Really An Indian?
+*Deccan Chronicle · Opinion*
+
+Who is really an Indian? This is an odd question to ask eight decades after Independence in 1947. More worryingly, the stature of the blue Indian passport -- there are about 90 million such in existence -- has been compromised. And, of all people, by the Government of India.
+
+How have we come to this pass when more than 900 million Indians are online, 2.5 billion have retail bank accounts and 1.4 billion have Aadhaar cards?
+
+The answer is that legislating rights or disabilities -- in which we excel-fail to benefit people unless the underlying institutional capacity is also created. The uncertainty associated with Indian citizenship is not a one-off. It is an enduring feature of India’s development story. Complex rules and regulations for everything do very little to assuage the stress and helplessness of the average citizen about their rights and duties. Add under-capacitated implementation agencies and you get a perfect mix of uncertainty, confusion and discretionary decisions for getting work done: like obtaining a passport or establishing one’s Indian citizenship.
+
+How did we get here? As early as 1955, the Citizenship Act reflected the constitutional provision, founded on liberal, inclusive principles, that till July 15, 1947, anyone resident in undivided pre-1947 India was eligible for citizenship. There are three options for claiming citizenship. In all cases, if the applicant was a citizen of any other country, that affiliation must be renounced if the applicant was an adult or at the time of becoming an adult. to avail of Indian citizenship. India remains a reluctant liberaliser by not permitting dual citizenship, which more than one-half of all countries and most developed ones do now allow.
+
+Since 2023, a diluted version of dual citizenship is available to persons of Indian origin (defined as a person born to persons born in India) and to their children via the Overseas Citizens of India card. OCIs do not have the same political rights as Indians but they get accelerated rights versus non-Indian origin applicants for citizenship, the same travel, economic and financial benefits, as Non-Resident Indians except they cannot buy agricultural property or plantations. There are about four million OCI holders -- less than 25 per cent of the 18 million persons of Indian origin living abroad. NRIs (Indian passport holders) living abroad are about 18 million, while another 70 million Indian passport holders live in India.
+
+Till recently, India was relaxed about scrutinising citizenship particulars of residents. The first indication that this carefree “honeymoon” period was over was two decades ago in 2004. The government enacted an amendment to the Citizenship Act, inserting Section 14A, mandating the Union government to issue national identity cards. The Registrar-General of India – an office that exists since 1969, under the Registration of Births and Deaths Act -- was mandated as the Registrar-General of Citizen Registration, and a National Registration Authority was created. Pursuant to a 2023 amendment of the act, a national digital Civil Registration System (CRS) is being created, which would seamlessly correlate births and deaths across the country. But we are not there yet. The data remains fragmented across state governments, which implement the act, and is difficult to obtain, except by approaching the relevant jurisdictions to get a birth and a death certificates. These certificates are crucial to define the category under which citizenship is claimed.
+
+In practice, citizen records -- births and deaths and voter lists -- have tended to be generous and inclusive seeking to record the population which exists on the ground rather than determine birth or descent data forensically. The Registrar-General of births and deaths has multiple functions, including managing the decennial Census operations. Indian families tend to be self-sufficient, storing paper records -- hopefully now in the DigiLocker app -- for safe and secure storage.
+
+The general impression, till now, was that a passport is a high order, prima facie proof of citizenship -- not least because passports mention the citizenship of the holder. So, when and how does one forfeit Indian citizenship despite holding an Indian passport?
+
+Multiple newspapers reproduced a PTI/government source briefing stating that “judgments of the Bombay high court since 2013 have also made it clear that a passport, by itself, is not proof of citizenship”. No one claimed that the government had terminated the passports in question. An additional clarification by the external affairs ministry was as unhelpfully opaque. It argued that the passport is merely a travel document issuable even to persons who are not citizens of India.
+
+The MEA was factually correct. A passport is intended to serve the specific foreign travel needs of an Indian citizen. Even the destination of travel can be limited. Additionally, under Section 20 of the Passports Act 1967, the government ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjeev-ahluwalia-passport-a-new-trauma-who-is-really-an-indian-1967413)
+
+---
+
+### Sunil Gatade | New ‘Operation Tutari’ On Cards In Maha To Keep Pawar In Check?
+*Deccan Chronicle · Opinion*
+
+After cutting Uddhav Thackeray and his Shiv Sena (UBT) to size, the BJP will be turning its attention to Sharad Pawar by seeking to break his parliamentary party to swell the NDA’s numbers.
+
+It’s not that the BJP has been benevolent towards the Maratha strongman of yesteryears. Some four years ago, it engineered a split in his Nationalist Congress Party by weaning away his ambitious nephew, the late Ajit Pawar, to its side.
+
+Now, the straws in the wind suggest that the BJP, which is behaving crazily like a hungry tiger, is unlikely to stop at just “devouring” the Shiv Sena (UBT) but would take the operation to its logical conclusion. So, the next target is obviously Sharad Pawar’s NCP, already a dilapidated house.
+
+The BJP’s detractors, however, dismiss talk of the BJP being the “tiger”, insisting that the way it is behaving, it could at best be called a “hyena”, or a scavenger.
+
+“Tutari” (trumpet) is the emblem of Mr Pawar’s party after Ajit parted ways and the Election Commission handed him the “clock” symbol, which was with the undivided party since its inception way back in 1999. Sharad Pawar had come out of the Congress on the issue of Sonia Gandhi’s foreign origin.
+
+Since Ajit’s parting of ways, Sharad Pawar and his party are on a slide after momentarily making a good splash in the Lok Sabha polls in 2024. Besides Supriya Sule, one of the active leaders in the party is Rohit Pawar, grandnephew of the veteran, who is young and ambitious. Jayant Patil, who is the stalwart among the local leaders, is keeping a low profile amid suggestions from the BJP that he would be most welcome.
+
+There are challenges galore for the octogenarian Mr Pawar. He is neither in the pink of health politically nor physically since the defeat of the Opposition Maha Vikas Aghadi (MVA) in the Assembly polls in Maharashtra 18 months ago.
+
+Since then, it has been a riches-to-rags story for the MVA, which was seen as a novel experiment in Indian politics with arch-rivals Shiv Sena and the Congress sharing power in the premier state. The not-so-spectacular performance of the MVA in the civic polls further devalued the Opposition.
+
+Mr Pawar has been the architect of the MVA, which comprises the Congress, Mr Pawar’s NCP and Uddhav Thackeray’s Shiv Sena. It was formed after the 2019 Assembly polls when Uddhav broke ranks with the BJP and became the chief minister of Maharashtra.
+
+Known for his networking skills, Mr Pawar had always been in touch with a broad spectrum of leaders, including those from the BJP, including Prime Minister Narendra Modi and home minister Amit Shah.
+
+Reports had it that Mr Pawar was invited to join the NDA by none other than the Prime Minister more than once, but he had always dodged the issue. Mr Pawar has a long association with industrialist Gautam Adani since his days of taking baby steps in business. Mr Adani is now known to be the closest to the ruling side at the Centre since Mr Modi’s emergence.
+
+The problem for Mr Pawar is that he has failed to produce a second line of leadership in the party, and his reliance on his daughter, Supriya Sule, as the working president of the party has proved to be his undoing.
+
+No doubt Supriya is an articulate member of Parliament but is no mass leader. She has not ground her teeth in the rough and tumble of politics, being the darling daughter of the stalwart The elevation of Supriya was bound to lead to Ajit Pawar parting ways as he was the natural successor.
+
+Ajit’s exit and his subsequent tragic death in a plane crash a few months ago were a double whammy for Mr Pawar. This was especially so as the two had opened unity talks shortly before the end came. These talks are all effectively dead now, as a section of the Ajit group feels that the veteran would all but gobble up their party.
+
+For the BJP, the NCP (SP) parliamentary party is child's play to deal with given the fact that every legislator wants more returns for the buck. And the days of ideology and thought are long over; it has virtually become a game of pelf and power.
+
+Added to this is that the BJP has systematically weaponised the issue of development. Any legislator who wants to make his constituency a hub of development needs to be “positive” towards the powers that be at the Centre. Those who fall in the “Opposition” side are people that need to be ignored and will be ignored, or so goes the unwritten rule.
+
+It’s a moment of reckoning for Mr Pawar, whose pocket enclave of Baramati had earned recognition as the most developed in the state whose leadership decided which way the politics of Maharashtra moved for half a century, even when he was out of power.
+
+The sand is moving from under Mr Pawar’s feet; and more than murmurs are appearing from his loyalists that it may be time to return to the Congress in order to battle communal forces. Mr Pawar and the beleaguered Mamata Banerjee of West Bengal are sailing in the same boat, and must decide, sooner than later, their future course of action.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sunil-gatade-new-operation-tutari-on-cards-in-maha-to-keep-pawar-in-check-1967405)
+
+---
+
+### No exemptions in rowdy sheet reviews
+*Deccan Herald · Editorial*
+
+The Karnataka government recently announced the creation of dedicated anti-rowdy squads across the state, reflecting its determination to crack down on organised crime. That resolve, however, has been accompanied by a parallel development that exposes serious procedural weaknesses within the police force, raising difficult questions about balancing fairness with public safety.
+
+The Karnataka State Police Complaints Authority (KSPCA) has directed the removal of 66 names from the state’s rowdy register – including seven from Bengaluru – after finding that the police had failed to carry out the mandatory periodic reviews. More worrying is that the list reportedly includes some notorious rowdies who are still active. Home Minister Priyank Kharge has rightly described the lapse as “nonsense” and criticised the police for allowing such a situation to arise. But that alone will not suffice. The state police has lately been in the news for all the wrong reasons. Unless Kharge purges the force of undesirable elements, collusion between sections of the police and the underworld will continue to undermine the rule of law.
+
+While the police may open a rowdy sheet against habitual offenders, they are also under a continuing obligation to review every case periodically. Following the High Court’s 2022 judgment in B S Prakash vs. State of Karnataka, reviews must take place every two years, and any individual claiming to have reformed may seek deletion of his name. If the police reject the request, the person can approach the KSPCA, which examines whether continued surveillance is justified. These safeguards exist for good reason. A rowdy sheet entry is not meant to become a lifelong punishment. Individuals who have genuinely abandoned crime, rebuilt their lives, and remained law-abiding should not remain on the register indefinitely. Such arbitrary continuation infringes personal liberty and defeats the purpose of periodic review. At the same time, procedural lapses should not become an escape route for active criminals. If dangerous offenders are removed solely because police officers neglected their statutory duty, the consequences could be severe. Bengaluru Police Commissioner Seemanth Kumar Singh has assured that the department is examining the legal implications of the Authority’s orders.
+
+Responsibility, however, rests on both institutions. The police must comply with judicially mandated reviews rather than treating them as a routine formality. Equally, the Complaints Authority must exercise due diligence before ordering the closure of rowdy sheets, ensuring that only the truly reformed benefit from legal protections. Only then can justice serve both public safety and individual liberty.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/no-exemptions-in-rowdy-sheet-reviews-4056566)
+
+---
+
+### Revisions weaken a critical guarantee
+*Deccan Herald · Editorial*
+
+As the Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) – VB-G RAM G – gets set for a rollout on July 1, the scheme has drawn criticism even from states governed by the Bharatiya Janata Party (BJP). Its predecessor, the Mahatma Gandhi National Rural Employment Guarantee scheme, implemented by the United Progressive Alliance (UPA) government, even with some implementation challenges, effectively addressed rural joblessness.
+
+The Narendra Modi government reduced financial allocations to the scheme but retained it, given its proven value and public support. Last year, the programme was overhauled and rebranded, a restructuring that has curtailed its scale and utility.
+
+The scheme has undergone a structural shift, from a fully centrally funded wage guarantee programme to a 60:40 Centre-state cost-sharing model, placing a significant financial burden on states, many of which are already struggling with constrained budgets. This shift also marks a departure from the scheme’s original rights-based, demand-driven character, raising concerns that increased centralisation and conditional funding could undermine its core objective of guaranteeing employment. Although the Centre highlights the provision for a higher number of statutory wage employment days, there is scepticism over whether this promise will translate into practice. The introduction of a 60-day pause during the agricultural season and other procedural restrictions may reduce the scheme’s flexibility and responsiveness to local employment needs. These changes threaten a larger impact amid projections of deficient rainfall and drought conditions. Rural distress may significantly increase the demand for employment across large parts of the country. Ironically, at a time when the scheme’s relevance as a social guarantee is most critical, its redesigned funding structure and operational constraints threaten to reduce it to a shadow of its original promise.
+
+States, including those governed by the BJP, have expressed concerns. Bihar, Madhya Pradesh, and Jharkhand have appealed to the Centre to reconsider the proposed changes in the funding pattern. Sikkim and Uttarakhand, which have to bear only 10% of the programme’s cost, being hill states, have also sought a review of the funding model. Some states have sought higher wages for workers and the withdrawal of the 60-day blackout period. While Karnataka has agreed to implement the revised scheme, it plans to challenge the changes in the Supreme Court, alongside Telangana. The Centre should engage with these concerns, review the new framework, and restore the scheme’s effectiveness. At a time of deepening rural distress and employment insecurity, weakening a crucial social safety net risks leaving millions of vulnerable workers without adequate support.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/revisions-weaken-a-criticalguarantee-4056565)
+
+---
+
+### NEET Retest | NTA must learn from UPSC, IB
+*Deccan Herald · Opinion*
+
+The retest of the National Eligibility cum Entrance Test (NEET-UG) is done and dusted, but amidst the self-congratulatory and deafening noise by the government and its propagandists over ‘successful’ retest looms a big question: what is the template for next year’s NEET-UG exam?
+
+The Narendra Modi government took unprecedented steps to maintain the integrity of the exam — from using the Air Force to ferry question papers to involving the intelligence and police forces to monitor troublemakers.
+
+However, some of these steps reek of ad hoc measures. This cannot be a template for years to come. Hardworking and honest students cannot be scarred again.
+
+First, the government said the retest would be conducted in the computer-based test (CBT) mode, but later it realised the enormity of the task given the limited CBT-compliant infrastructure. Thus, it went back to pen-and-paper mode.
+
+Most likely, the next NEET-UG exam will be in the CBT mode, which takes persistent problems like printing question papers out of the equation. However, CBT comes with its own challenges.
+
+The current CBT infrastructure supports about 3 lakh candidates to take the test at one go. Since the NEET-UG exam sees about 20 lakh candidates, the exam would be conducted in multiple shifts spread over at least two days. The National Testing Agency (NTA) would need to bring uniformity in terms of the difficulty level of question papers, and also maintain confidentiality across all shifts.
+
+CBSE-NEET row | 'Let's seek accountability from govt': Cockroach Janta Party invites political parties including BJP to join stirAll these problems are scalable when you look at what the Union Public Service Commission (UPSC), which conducts the exam for civil services or what the Intelligence Bureau (IB) has been doing for its own recruitment exams.
+
+For the UPSC exam, which takes place in pen-and-paper mode, all resources are mobilised to ensure integrity of all three steps for conducting a successful exam: setting of question papers, printing, and distribution. While the finer details are not publicly known, the NTA can learn a lot at the institutional level from the UPSC.
+
+The UPSC uses the services of multiple and carefully selected domain experts to prepare questions for the exam. A question bank is prepared, and a question paper is prepared from that bank. This ensures that the experts who prepared the questions themselves do not know if their questions are part of the final question paper. For printing as well as distribution, similar levels of checks and balances are maintained. The local administration remains mobilised for security arrangements at the examination centres.
+
+The IB, too, has developed Standard Operating Procedures (SoPs) for leak-proof exams for recruitment of Assistant Central Intelligence Officers. The IB shifted to the CBT mode in 2020, and went to unprecedented lengths to maintain exam integrity.
+
+Domain experts prepare a question bank, and shortly before the exam, 100 random questions are selected by a computer and electronically transmitted to all exam centres. Since the exam is conducted in shifts, each shift has a new question paper generated. Since the difficulty can vary across shifts, scores are adjusted using normalisation; this ensures that candidates are judged fairly.
+
+Once the question papers are transmitted to the exam centres, to prevent cyberattacks, the Internet connection is cut, while the exam centre runs on a LAN. Sensors are used to check any unauthorised cyber traffic from the exam centre, and the centre is covered under CCTV surveillance. There are various other steps taken to ensure the conduct of a foolproof exam, including keeping an eye on coaching centres that offer question papers for sale.
+
+The NTA can learn from the best practices used by other agencies to conduct credible, and foolproof exams. The NTA and the government owe it to India’s young minds who appear for the exams that their efforts are not mocked at through paper leaks and retests. The resources and templates are already available within the government for maintaining exam integrity. India’s 2+ million youngsters must not pay with their time and emotions for the NTA’s lackadaisical indifference and the government’s bureaucratic inefficiency.
+
+(Rajesh Ahuja is an independent journalist who writes on national security and investigation agencies. X: @iamrajeshahuja)
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/neet-retest-nta-must-learn-from-upsc-ib-4056916)
+
+---
+
 ## 29 June 2026
 
 ### Buyer beware: On the QR code-based drug traceability framework

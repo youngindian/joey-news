@@ -1,8 +1,202 @@
 # Editorials
 
-_Last updated: 2026-09-28 07:26 UTC_
+_Last updated: 2026-09-29 07:22 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 29 September 2026
+
+### Light on truth: on the Tamil Nadu G.O. and RTI
+*The Hindu · Editorial*
+
+Protests by political parties and transparency activists have derailed the surreptitious rollout, in Tamil Nadu, of a regressive decision to exempt the Public (Law and Order) Department from the purview of the Right to Information Act, 2005. On September 21, the State government issued a Government Order (G.O.) exercising powers under Section 24 (4) of the RTI Act to notify the department as an “intelligence and security organisation” to which the provisions of the Act shall not apply. While the G.O. surfaced in the public domain only on September 27, strikingly, the Public Department’s designated authorities under the RTI Act had instantly begun citing it to deny information to applicants as early as September 22. This betrayed a system that is shy of investing in transparency. Unsurprisingly, State Law Minister C.T.R. Nirmalkumar was initially defensive about the government’s unilateral decision, which, in any case, required the State to have it placed before the legislature (Section 24 (5), RTI Act). He claimed that the ambit of the exemption was not sweeping enough to shield the entire department, but was intended to prevent the sharing of sensitive information relating to district-level inquiries into incidents of communal clashes and the like. However, shortly thereafter, he announced the G.O.’s withdrawal, without explaining why.
+
+While the State’s afterthought is welcome, the episode has again exposed the political class’s penchant for maintaining secrecy in administrative affairs. Chief Minister C. Joseph Vijay, whose promise of change came as a breath of fresh air, should have known better. It is concerning that the establishment desired to insulate itself from transparency by amending an Act which, in any case, emphatically enables non-disclosure of information through a long list of exemptions under Section 8. Even otherwise, designated information officers of central/State institutions have displayed an uncanny skill in being economical with the truth, delaying responses or bouncing off queries from RTI Act applicants, citing vague reasons. Besides, concerns about the Digital Personal Data Protection Act diluting the RTI Act further have been widely articulated. It is worrying that the Satark Nagrik Sangathan’s 2024-25 report card on Information Commissions found a backlog of over 41,000 appeals and complaints before the Tamil Nadu State Information Commission (TNSIC), as of June last year. Yet, the TNSIC is functioning with only half of its sanctioned eight Information Commissioners and has no Chief Information Commissioner. Instead of seeking to defeat the intent of a piece of legislation enacted to empower citizens with access to information, the Tamil Nadu Government would do well to strengthen the TNSIC. After all, only an administration that does not fear transparency can be the true harbinger of change.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/light-on-truth-on-the-tamil-nadu-go/article71520062.ece)
+
+---
+
+### Waves of rain: on Odisha and intense rain events
+*The Hindu · Editorial*
+
+Odisha is experiencing one of its most intense monsoons, recording 1,453 mm of rainfall between June and September 25 this year, a 29% excess. The reason is the unusually large number of atmospheric systems, including 11 over the Bay of Bengal, the latest making landfall near Kalingapatnam on September 23. The IMD had forecast that India would receive 90% of the long-period average partly because an El Niño was expected to develop; the State had finished June itself with a 47% deficit. However, rainfall in the region came to be dominated by the weather systems, which also repeatedly delivered rain without giving locals time to recover. By the State’s estimates, 5.2 lakh people had been affected by July 30 and another 13.5 lakh by August 27. At least 60 locations have so far received more than 100 mm of rain in 24 hours, with the runoff swelling multiple rivers and threatening more floods downstream, including in Bhadrak and Jajpur, and landslides in hilly areas. When a previous bout of rain has already saturated the soil and topped local storage, a new bout could lead more immediately to runoff. While the State’s south is predominantly highland and confronts slope failure risks, its coast is a depositional plain of multiple deltas, rendering a terrain with low gradient through which water does not readily drain into the sea.
+
+The efficacy of the State’s long-standing policy to have zero casualties remains to be seen, especially given the extent to which the ongoing season will stress the drain design and maintenance deficiencies that the CAG had flagged in 2024. Other important data include the eventual crop and infrastructure damage assessments and the peak levels of the Baitarani, Budhabalanga, Jalaka, and Rushikulya rivers after the 11th system fades. A study in May by the Odisha University of Agriculture and Technology, based on data from 1901-2020, reported that both maximum one-day and five-day rainfall bursts were becoming more common even as the frequency of heavy-rain days was dipping. The State has been renowned for its disaster management protocols. However, the recurrent waterlogging in urban hubs such as Berhampur and the disruption of inter-State highways and rail networks suggest that its evacuation protocols outpace its civic engineering, with significant room to improve socio-economic and infrastructural resilience. Climate change is also increasingly correlated with more protracted monsoon withdrawal and intense rain events. Taken together, Odisha needs to pivot from anticipating isolated seasonal anomalies to preparing for repeated intense downpours.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/waves-of-rain-on-odisha-and-intense-rain-events/article71520081.ece)
+
+---
+
+### Time runs short for Iran and America
+*The Hindu · Opinion*
+
+It may be tempting to see the recent jerky resumption of negotiations between the Islamic Republic of Iran (IRI) and the United States as déjà vu. Similar attempts resulted in the June 17 Memorandum that unravelled within weeks, and the two belligerents resumed their respective blockades of the Strait of Hormuz and Iranian ports.
+
+The long-term implications of the U.S.-Iran dealA different moment nowSo, what is different this time? They have both realised that time is not on their side. Their respective domestic considerations make continuation of the seven-month-old war costly and unsustainable. In the short run, going by the past pattern, September 26 saw United States President Trump’s dismissal of Iran’s seven-point proposal, which may be an opening gambit seeking better terms and sequencing. While the Iranian initiative may betray their economic desperation, it also showcases their reasonableness to the Trump sceptics in America and the region who regard his “War of Choice” against Iran as ill-begotten.
+
+The November 3 mid-term congressional elections could upend Mr. Trump as a lame duck. Iranian hardliners, too, need to exhaust this option to justify their aggressiveness. In the longer run, Mr. Trump needs to salvage his legacy to match his extravagant promises. Similarly, the Iranian theocrats need to keep Gen Z engaged and avoid regional blowback from the coagulating mistrust. Thus, while retaining their braggadocio about final victory, each needs to move away from its maximalist obduracy and seek a “Hudna” or temporary peace. The impact of the unfolding imbroglio on the two belligerents as well as on Israel and Gulf states must be examined.
+
+Statistically, the U.S. has a quantitative premium and staying power vis-à-vis Iran: It has three times the population, 85 times the GDP and 20 times the military budget. Iran is also at a disadvantage in quality and modernity of weaponry, although its asymmetric strategy has blunted that edge. Washington has weaponised ‘Operation Economic Outcast’ against the already “maximum sanctioned” Iranian economy. Yet, the IRI has not “capitulated”, and the U.S. itself faces inflation, ammunition depletion, and isolation. Battle asymmetry aside, their respective combat histories are relevant. The Iran war has been an outlier from the usual U.S. military doctrine of battle dominance through “shock-and-awe”, tech superiority, and leveraging its global primacy through the global politico-financial architecture. The last battle that the U.S. fought as an underdog was its war of independence nearly 250 years ago, and hubris haunts it now. In contrast, Iranians have often been the underdogs to Greeks, Byzantines, Arabs and Ottomans. More recently, British and American manipulation for oil, and Iraq’s 1980 invasion of a fledgling IRI, still frame Iranian political discourse. Their Shia sect being a minority among the Sunni Muslims reinforces their sense of virtues in suffering and martyrdom. The legacy has made the IRI more determined to face enemies with grit, guile and gumption.
+
+The Iran conundrum and the decline of the WestThe political ecosystem in Iran is hardened, with dissent stifled and externalised to demonised America and Israel as the two Satans. Mr. Trump has been less successful in getting Americans and the allies abroad behind his trenchant anti-Iran rhetoric. This is partly due to his divisiveness, lack of coherent endgame strategy and inability to protect his allies’ security and economy. Triggering a decapitating war that ignored Iranian politico-military resilience and retaliatory capacity was a strategic blunder. It risked the closure of the two vital maritime choke points, rising hydrocarbon prices, and threatened to push American “hyperpower” into a forever conflict against a middle-ranked, but determined, Iran. Similarly, his recent strategy of inflicting economic pain on Iranians may also fail by making them rally around the flag. Occasional tanker attacks and the ongoing Yemen-Saudi scrimmage notwithstanding, seven months on, the two belligerents are currently licking their wounds.
+
+Uncertain path aheadTwo formidable unknowns loom before some educated projections can be made about the U.S.-Iran conundrum. First, although the Iranian seven-point proposal is based on the June 17 Islamabad memorandum, its precise contents are foggy. Second, the failure of the Islamabad memorandum, subsequent tit-for-tat attacks, the U.S. blockade, Operation Economic Outcast and fire-eating rhetoric since June 17 have deepened mutual mistrust, raising the bar for the modus vivendi required for a peace deal. These negatives are balanced by awareness that the continued stalemate would lead to a shared perdition of a hostile Congress blockading Mr. Trump and anti-establishment demonstrations pulling the rug under the Mullahs.
+
+Under a positive scenario, both sides can breathe easier and develop greater mutual empathy. Failure of the June 17 Grand Bargain would have presumably made them more realistic and incremental. So, instead of a race to the bottom, each would need to reluctantly adopt a “Live and Let Live” approach. Despite Mr. Trump’s rejection, signs, such as the Iranian leaders extending their stay in New York, Tehran’s flexibility about controlling the Strait of Hormuz and the use of Qatari mediation instead of alacritous Pakistani generals, seem tentatively positive. To be effective and beneficial to both sides, the deal would have to last at least till November 3, the election date.
+
+Trump is at a strategic dead end on Iran; the war will reshape Gulf’s security architecture: Johns Hopkins professor Vali NasrEven if this band-aid deal allows the two belligerents to staunch the haemorrhage temporarily, what guarantees its long-term sequel, say, after the Congressional elections? The IRI and the U.S. are certain to use the interregnum to “recharge their batteries” and get ready for the next round. Their mutual scepticism and contentious issues such as the nuclear and missile programmes, and the proxy non-state actors could impede any progress towards permanent normalisation. A “high noon” can be expected by mid-November.
+
+The sequel would depend on which of the two belligerents is able to hold his flock together. An inherently unpredictable Mr. Trump may only suspend the gamut of anti-Iran measures and keep his forces deployed in the region. Similarly, Iran is unlikely to let go of control of the Strait of Hormuz as future deterrence. To dissuade him from resuming military kinetics, Iran has already unveiled its possible escalatory ladder that includes advanced weaponry, a possible al-Houthi blockade of Bab al-Mandeb, retaliatory attacks on America’s Gulf allies and hints of pre-emptive strikes. Simultaneously, Tehran has sought a regional diplomatic reset through an interim supervisory arrangement with Oman on the Strait of Hormuz, to be endorsed by other Gulf littoral states.
+
+Wider regional consequencesThe past two years have brought Israel and Iran into two direct no-holds-barred wars. Intense drone and missile attacks have convinced Israeli public opinion that Iran constitutes an existential threat. On its part, Iran is unlikely to forgive the Lesser Satan for the assassination of its last Supreme Leader. Their resultant intense regional geopolitical competition, particularly in the Levant, would outlast any Tehran-Washington peace deal, giving their two-millennia-old civilisational animus a new edge. Although the October 27 Knesset elections may see hawkish anti-Iran Prime Minister Benjamin Netanyahu replaced, any successor is likely to be hostile to an Iran pursuing a nuclear duality. Iran can be expected to rely on its proxies and asymmetric arsenal to create a balance of power with Israel equipped with state-of-the-art U.S. weapons. In the long run, time would favour the one with better innovative skills. While Israel is a “Startup Nation”, Iran has also been impressively inventive under pressure.
+
+In Iran, Trump faces the limits of American power | AnalysisOther regional countries in the Arabian Peninsula, Iraq and Jordan, were caught in the crossfire and suffered considerable collateral damage under Iranian retaliation. Their hydrocarbon exports and other economic activities have been stifled. In most cases, their extensive forex reserves are likely to help them tide over the turbulence. However, their long-standing security reliance on the U.S. would call for a thorough reappraisal. Among the uncertainties they need to tackle is the future of oil, now more tightly tied to geopolitics than the supply-demand equilibrium.
+
+In this war, “time” has emerged as an element even more slippery and opaque than oil.
+
+Mahesh Sachdev is is a retired Indian Ambassador, specialising in West Asian and oil issues
+
+[Read full article](https://www.thehindu.com/opinion/lead/time-runs-short-for-iran-and-america/article71520750.ece)
+
+---
+
+### A steep price for offensive speech
+*Deccan Herald · Editorial*
+
+The Karnataka High Court’s recent decision to quash a complaint against a shopkeeper in Athani is an important affirmation of personal liberty, setting a safeguard against private citizens acting as proxies for public figures and invoking criminal jurisdiction. The case arose after Imtiyaz Nuruddin Chinchali placed barricades outside his shop. The complainant, a social worker, alleged that the shopkeeper made derogatory remarks against Prime Minister Narendra Modi when questioned. The Athani police registered charges of ‘obstruction of a public way and intentional insult likely to provoke a breach of peace’. A petty dispute over a barricade was thus bundled with an alleged speech offence, giving the matter a criminal dimension.
+
+Justice Venkatesh Naik of the Dharwad bench held that Section 352 of the Bharatiya Nyaya Sanhita (BNS) requires an insult to be directed at the complainant with the knowledge that it is likely to provoke them to break the public peace. Here, the alleged remarks were directed at a third party. The unexplained four-day delay in filing the complaint further raised doubts about the motive. Surprisingly, the State defended the case without first establishing that basic legal ingredients were satisfied. The court relied on the Supreme Court’s ruling in Mohammad Wajid v. State of U.P. (2023), which clarified that mere abuse, discourtesy, or rudeness does not constitute intentional insult unless accompanied by the requisite intention or knowledge to provoke disorder. The danger in such cases is that the process itself becomes punishment. Once an FIR is registered, an individual faces investigation, questioning, legal costs, and prolonged uncertainty, even when the allegations do not amount to an offence. This burden is especially harsh when provisions meant to protect public order are misapplied.
+
+The Shaheen School case in Bidar offers another illustration. There too, the court found that the material did not satisfy the requirements of sedition or other offences invoked against the school management. Taken together, these rulings underline an important protection: criticism, offensive speech, or minor disputes cannot automatically be converted into criminal cases without the statutory elements of an offence. The Athani order does not endorse what was allegedly said, nor does it suggest that offensive speech should escape scrutiny. Rather, it reinforces a fundamental principle of criminal law: coercive action must rest on clear statutory grounds. The State’s power to investigate and prosecute is considerable; using it without meeting the law’s basic requirements risks turning a remedy meant to protect society into an instrument of harassment.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-steep-price-for-offensive-speech-4163123)
+
+---
+
+### Pointed charges, selective response
+*Deccan Herald · Editorial*
+
+The measures announced by the Election Commission of India (ECI) to address concerns over the Special Intensive Revision (SIR) of electoral rolls and the Commission’s functioning have only strengthened fresh charges against the body and the contentious voters’ scrutiny it introduced last year. These announcements came in response to last week’s media reports about dissent recorded by two election commissioners – Sukhbir Singh Sandhu and Vivek Joshi – against some of the arbitrary decisions taken by Chief Election Commissioner (CEC) Gyanesh Kumar. While revealing internal differences regarding the Commission's processes, the reports heightened existing public concerns over the integrity and legality of the roll revision.
+
+A statement issued by the ECI after a meeting on Saturday said its contents had the approval of the “full Commission”. It said the agenda of the Commission’s meetings would now be circulated in advance, and their minutes would be issued. This must be read along with the charge that some ECI decisions were taken without consensus. The Commission has also softened its position on some procedures. It has announced a special drive to enrol voters left off the rolls. Fresh voter registration will be made easier, and a committee of experts will review ECINET's functioning. Voters who have been issued notices will not need to attend hearings; Booth Level Officers (BLOs) can visit to verify documents. The ECI’s shift in position indirectly validates the reported concerns raised by the two commissioners.
+
+These measures raise more questions, while leaving some old ones unanswered. The ECI claims the declaration attached to Form 6 for including new voters—which was amended to require applicants to state if their parents were included in the previous SIR—had the Supreme Court's approval. But no judgment has upheld this specific, additional provision, which Commissioner Sandhu described as illegal and unauthorised. The Commission is also silent on an important question: Who authorised the filing of over 16.1 lakh appeals against the inclusion of voters in West Bengal? The changes proposed by the Commission do not neutralise the illegality of the revision process or make up for the inconvenience it has caused the voters. They are an admission of operational discrepancies in the constitutional body. Far from being a credible defence, they have amplified calls to halt the SIR and hold CEC Gyanesh Kumar accountable for its failings.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/pointed-charges-selective-response-4163130)
+
+---
+
+### Congress' revival hinges on more than Rahul Gandhi's charisma
+*Deccan Herald · Opinion*
+
+This is poetic justice. For 12 years, the Right-wing has been lampooning Congress leader Rahul Gandhi, and trying to wreck his political career even before it took shape. But Gandhi persevered.
+
+He brushed aside loathsome insults the way we would brush aside household flies, and relentlessly held the Bharatiya Janata Party (BJP)-led Narendra Modi government responsible for its acts of omission and commission. At a time when no one, wracked as they were by fear of retribution, dared to take on the government, Gandhi held it to account. His is a sole voice of dissent amidst a chorus of sickening adulation of the ‘supreme leader’.
+
+And he succeeded in this task. He focused on mending crevices in the body politic which are the legacy of BJP’s politics of divide and rule. He made common cause with people on the streets: cobblers and carpenters, mechanics and workers, children and young people. He jolted people from their anxiety-induced slumber.
+
+Karnataka: Congress protests against SIR, demands CEC’s removalRecently, he joined hands with protesting young people at Jantar Mantar, without appropriating the movement from student leaders. He launched Chattron ki Goonj.
+
+He wrought a victory and how! Everywhere, his arrival and presence on the stage was welcomed by cheering crowds of young people. Indians, who had once been reduced to consumers of sickening and sordid descriptions of Rahul Gandhi, shrugged aside these calumnies. They now admire and acclaim him.
+
+He deserves applause for his determination, his democratic spirit, his commitment to accountability of the government, and his empathy with the ‘wretched of the earth’.
+
+Yet uneasiness remains. Never before in India’s electoral history has a democratic leader of the Opposition had to counter a ruling party whose second name is cynicism and amorality. The BJP is bereft of a sense of ethics, or even of civility in politics.
+
+In a little more than two years, general elections will be held, and the Congress led by Gandhi will have to compete with a ruling party that has thrown out of the window all notions of integrity of democratic politics. His popularity is not questioned, but his party needs more than personal charisma to win the elections.
+
+For one, the Congress’ organisation is in a shambles. At the level of state politics, for example in Punjab, two Congress leaders compete for the leadership of the party. This is a phenomenon we have seen in Karnataka and in Kerala.
+
+There is something wrong with a party if it reveals its internal rifts and ugliness when elections are near. Differences provide a god-sent opportunity to the cash-rich BJP to buy defectors.
+
+The party’s response to internal wars is ad hoc. Its normal response is to send someone to the election-bound state to bring peace to warring leaders.
+
+'Vote chori' direct attack on Constitution; BJP, RSS, EC committed act of treason: Rahul GandhiUnfortunately, this is the same Congress that until the 1960s was known for its skill in negotiating, persuading, and arbitrating between leaders of various groups who represented different opinions. Celebrated political sociologist Rajni Kothari termed this the ‘Congress system’. India, he wrote, does not need an Opposition; the Opposition is within the party. Today all mechanisms of negotiation and arbitration have broken down. The Congress is synonymous with the personalisation of politics.
+
+This phenomenon goes back to the late 1960s and 1970s when Prime Minister Indira Gandhi eroded the party organisation, and replaced it with her own leadership. She was India’s first populist leader. The bureaucracy and the judiciary were instructed to be committed to her party ideology.
+
+The party organisation deteriorated, and loyalty to the party was replaced by unquestioning allegiance to the leader. The outcome was expected. Congress leaders competed for proximity to Indira Gandhi. From a party that had mobilised millions during the freedom struggle, the Congress became a durbar. It remains a durbar, united by the Gandhi family, no second-rung leaders, no party organisation to speak of, not even a properly elected working committee to plan policies.
+
+Today the party cannot afford to rely upon one leader to garner votes, it needs skilled election analysts and managers who can focus on what needs to be done. If the CWC is fairly and democratically elected, then allocation of tickets will not degenerate into civil war.
+
+Much more needs to be done, but let us concentrate on one issue. Criticising the government is important, but it is not enough. Where does the Congress stand on the various issues it attacks, privatisation of national assets, for instance?
+
+BJP-RSS have hollowed out education system; Rahul Gandhi standing with students: CongressThe Congress must draft a preliminary manifesto, where it makes clear its position on the following: sanctity of the Constitution, independence of institutions, equality of all religious groups, and non-discrimination based on caste, gender, language, sexual preferences, and other arbitrary distinctions. Equality of opportunity and elimination of background inequalities must form the core of the manifesto.
+
+The Congress needs to focus on redistribution and recognition.
+
+Above all, it must do away with the explosive emphasis on patriotism or unity. Patriotism, as Samuel Johnson remarked, is the last refuge of a scoundrel. If the party commits to justice, freedom, equality, and solidarity, it does not need to emphasise unity. Unity will follow distributive justice and recognition. The only way a society can be held together is through justice. That is perhaps one way in which the Congress can score over a party that shrouds its indifference to justice in the vocabulary of hyper-nationalism.
+
+Neera Chandhoke is former professor of political science, Delhi University. (X: @ChandhokeNeera)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/congress-revival-hinges-on-more-than-rahul-gandhis-charisma-4163545)
+
+---
+
+### Don’t shrink a girl’s world. Expand a boy’s morals
+*Deccan Herald · Opinion*
+
+Within three days of the Astha Kunj rape, the Internet had its lessons ready.
+
+A 17-year-old was allegedly gang-raped in the Delhi park on September 21 by three men posing as policemen. By the weekend, a former Army major was posting a video urging girls to master a CO2 air pistol. Lady Shri Ram College moved classes online after police and one of the accused exchanged fire near its back gate, and some students said their parents had asked them to come home. Karate, pepper spray, daylight hours, no parks, no going out alone. The list changes a little each time. The audience never does.
+
+None of this is silly, and it helps to say so. A girl who knows how to break a grip and to trust her alarm has something real. The best evidence is a Canadian trial of first-year university women, where a course of four three-hour units brought down the number of rape cases over one year was lower for the resistance group over the control group. It was a taught course with practice, not a weekend karate camp. Parents who enrol their daughters after a case like this are using the only tool anyone has handed them.
+
+'Painful parallels to Nirbhaya case': Supreme Court takes cognisance of minor's gang-rape in bus in Delhi-NCR The trouble starts with what the tool is asked to do. In 2012, after Nirbhaya, the Delhi Police registered 706 rape cases and said that all but 26 victims knew the accused. At the same press conference, the commissioner said 8,180 girls had received self-defence training. Fourteen years later, the accused was known to the survivor in 96.8% of registered rape cases in 2024, out of 29,536. A punch to the groin is hard to land on an uncle, a classmate, or a boyfriend.
+
+Look at who gets the homework. Girls get a curfew, a class and a route home. Boys get nothing. The Justice Verma Committee, set up after 2012, called rape an expression of power, and rejected chemical castration because it ignores the social roots of the crime. It also recommended sexuality education for children and childhoods that are not gendered. Parliament amended the criminal law, but years later Sabrang India noted that not all of the committee's recommendations had been implemented. Scroll through this week's advice and the education part is almost nowhere to be found.
+
+Talking to boys is hard to do well, and the evidence is modest. In a Mumbai trial across 46 schools, cricket coaches were trained to talk to boys aged 10 to 16 about respect and about speaking up when friends harass girls. After a year, their players showed bigger gains in gender-equitable attitudes than boys with untrained coaches, and marginally less negative bystander behaviour. That is a study of attitudes, not a fall in rapes.
+
+Meanwhile the burden slides quietly. On Monday, the Supreme Court took up the Delhi-NCR cases and said parks and buses cannot become high-risk zones through poor lighting and weak surveillance, calling it a systematic failure of law enforcement and administration. The Delhi Development Authority has ordered controlled entry after sunset, more CCTV and better lighting in its parks. Those are demands on institutions.
+
+Jamui molestation case: Bihar CM Samrat Choudhary faces criticism for revealing minor girl's identityAfter a medical student was gang-raped in Durgapur, West Bengal's chief minister said colleges should not let girls out at night, because they must protect themselves too. Advice like that carries an unspoken exemption. Someone stays in. Someone else keeps his evenings, his shortcuts, and his walk through the park, and is never asked to change any of it.
+
+Telling girls to stay in is also the cheapest response on offer, since it asks nothing of the police, the DDA, or any man. A family that pulls its daughter out of a paying-guest room has acted. The man who was never told that a girl's silence is not consent has not been asked anything.
+
+Teach girls to fight if they want to learn, and light the parks. Then put one more question beside every karate video this week: what is a 15-year-old boy being taught right now? If the answer is nothing, we have already decided who is supposed to change, and it is not him.
+
+Amit Kumar works in the corporate sector, and writes on politics and society.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/dont-shrink-a-girls-world-expand-a-boys-morals-4163560)
+
+---
+
+### Give me land, lots of land: When farmland, forests and tribal land become political prizes
+*Deccan Herald · Opinion*
+
+The words ‘Give me land, lots of land’ take me back to a song from yester years, which was oft referred to in my family. While the first few words might mislead, as the lyrics continue — Give me land, lots of land and the starry skies above; don’t fence me in—it becomes clear that the song is a celebration of open spaces and nature.
+
+Today’s politicians would probably be happy with just the first few words, as across the country all political parties seem to be obsessed with land.
+
+It would be best to start close to home where the farmers are protesting against the grandiose Bidadi township project. The agitation is on for over a year, but there is no sign of the government agreeing to the farmers’ plea to spare their land for cultivation. Nobody knows whether the farmers will succeed in saving their lands, but one can only wonder about a government which treats those who grow our food with so little respect.
+
+The government and the Opposition held a special meeting to discuss the Kasturirangan Report, which gave its recommendations in 2013 on the protection of the ecologically sensitive zone (ESZ) in the Western Ghats. These recommendations were sought after the Madhav Gadgil Report, 2011, which was found to be too stringent. The Gadgil Report focused on the need for strong conservation and treated the entire Western Ghats as ecologically sensitive. The Kasturirangan Committee was constituted after the government faced criticism and stakeholder reservations about the Gadgil Report. The Kasturirangan Report attempted to balance conservation with development and identified around 37% of the Ghats as ecologically sensitive.
+
+The Karnataka Legislative Assembly unanimously agreed to reject the Kasturirangan Report in its present form and seek a year’s time to conduct a Keralam-like physical survey of the affected 1,449 villages. The political leaders have clearly not read either of the reports and have amnesia about the 2018 Keralam floods and the 2024 Wayanad landslides. Madhav Gadgil had famously warned that the Western Ghats were ‘a ticking time-bomb’ and even identified the zones that would be affected first, suggesting a complete ban on quarrying and construction in these areas. The report was so explosive that the government refused to release it until a court order forced them to do so. Six states rebelled against the Gadgil Report that stated 64% of the Western Ghats to be ecologically sensitive areas.
+
+Karnataka CM Shivakumar asks Centre for ‘balanced approach’ to coastal, Western Ghats normsUnderstandably, there is vote bank politics at play in the state – a fear of being perceived as insensitive to the plight of landowners and those who eke out a livelihood from these areas. The unsaid aspect could also be the real estate potential of these tracts of land. The sincerity test for Karnataka’s politicians will be in their ability to unite in educating the people about the greater environmental threats from further diluting the Kasturirangan recommendations.
+
+In neighbouring Puducherry, there is an attempt to divide (and perhaps destroy) Auroville, an international township set up by Mirra Alfassa, better known as the ‘Mother’, who was a French follower of the philosopher, revered as Sri Aurobindo. The township with 300 acres of farmland has to now deal with its biggest slice of 135 acres, known as Annapurna Farm, being hived off to IIT Madras to set up its ‘sustainability campus’. Mukul Wasnik, as chairman of the Parliamentary Standing Committee on Education, cited one of the 16 panel recommendations that had mentioned protecting Annapurna Farms and offering an alternative site for this campus. Wasnik has sought transparency and a halt to eviction, as Annapurna, which does organic farming, makes up the granary of the township and also its dairy farm.
+
+The land, which was purchased by devotees, is now up for grabs, as the fine print in the memorandum of understanding indicates their repurposing to private companies. Fissures among the members of the township have been brewing ever since the BJP came to power in the Union Territory, with swathes of trees being illegally cut in the dead of the night a few years ago, inside Auroville. However, the irony cannot be missed of the Congress batting for Auroville while its chief minister in Karnataka is going all out to convert farm land in Bidadi.
+
+The plight of tribals in Madhya Pradesh, Odisha, and Jharkhand is probably even more pitiable, as their land is rich in minerals, which are being leased out to corporates. Displacement has become the lot of so many of these beleaguered people, who are forced to sell their land and then work as labourers on the land that they earlier owned.
+
+Will a day dawn when politicians will stop viewing land as real estate and let people who own it live on it with dignity?
+
+The author is an independent writer and a keen observer of politics.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/give-me-land-lots-of-land-when-farmland-forests-and-tribal-land-become-political-prizes-4163450)
+
+---
 
 ## 28 September 2026
 
@@ -36,6 +230,114 @@ India stands at a critical demographic crossroads. With one of the world’s lar
 China, despite its comparable population, is moving in the opposite demographic direction. Decades of low fertility have accelerated the ageing of its population. India, by contrast, possesses an extraordinary reservoir of young people entering the workforce. The central question is whether the country can create the economic opportunities and infrastructure needed to harness this potential.
 
 [Read full article](https://www.thehindu.com/opinion/lead/kashmir-as-indias-gateway-to-eurasian-opportunity/article71516745.ece)
+
+---
+
+### DC Edit | CEC-SIR Issues Could Be A Rallying Point For Opposition
+*Deccan Chronicle · Editorial*
+
+The logical discrepancies evident in the special intensive revision (SIR) of the voters’ list rolled out across the country by the Election Commission (EC) appear to offer the Opposition parties a rallying point, going by the response of various players in that space. True, it may help the Opposition harvest some political dividend but it should recognise the fact that the agitation they plan to launch must help undo the damage the EC has done to the electoral system in the country and doing justice to its victims. It must develop the agitation into a democratic exercise in which even those in the ruling alliance feel like participating.
+
+The INDIA bloc has already demanded the resignation of Chief Election Commissioner (CEC) Gyanesh Kumar for the series of missteps the EC has made while rolling out the SIR. It has called a meeting of its partners on September 30 to decide its future course of action. The alliance, more than three years old, has not yet shown signs of becoming a stable platform with a common minimum programme; instead, it continues to be a a part-time mechanism that comes to life when the occasion demands. The 2024 Lok Sabha election was the only instance in its existence when it showed some kind of cohesion. And the experiment paid off, too. Apart from that, the partners have no qualms about fighting one another, even at the cost of losing and allowing their political opponents to win.
+
+The parties, however, appear to have realised the danger that awaits the country if the CEC is allowed to continue with the work in the way he has been doing. CPM general secretary M.A. Baby has taken the initiative to bring all those parties that are opposed to the BJP and the NDA, including the Biju Janata Dal of Odisha, the Tamil Vetri
+
+Kazhagam of Tamil Nadu and the YSR Congress of Andhra Pradesh. The CPM leader has also spoken to his party’s bête noire in West Bengal, Mamata Banerjee and her party, forgetting the dangerous pitfalls his party could encounter in the state politics because of this bonhomie. Political realities appear to have dawned on Ms Banerjee, too, following her electoral setback and the subsequent split in the party, which has resulted in a softer approach towards the INDIA alliance.
+
+Attempts are also on to rope in the AAP, the estranged partner of the INDIA bloc, into the platform.
+
+It may be true that the EC, by admitting its wrongdoings, has given the given the Opposition a legitimate issue over which to agitate but the larger issue is the erosion of the EC as an institution. It has unjustifiably put 13 crore Indians on notice with respect to their voting rights; it conducted elections based on the faulty electoral rolls; it introduced extra-legal measures linking SIR to the enrolment of new voters; it bypassed basic democratic procedures in its own functioning. The actions of the present commission have undone the credibility it has built over the decades.
+
+The larger Opposition must go to the people explaining to them the need to resist the plans and processes to undermine democracy in the country. It is not just an INDIA-plus that must fight the illegal and unconstitutional actions of the EC; the Opposition must aim at forming a national movement that can reverse the unjust actions and send a message that such attempts will not be tolerated in the future as well.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-cec-sir-issues-could-be-a-rallying-point-for-opposition-1991361)
+
+---
+
+### DC Edit | Endless Wars, With Few Pauses
+*Deccan Chronicle · Editorial*
+
+It appears that the wars of the new millennium are endless. A more than four-year-long engagement in Europe might seem a trifle in terms of time in a continent that saw wars lasting up to 100 years. But, as an uncertain world teeters from one crisis to another currently, what has changed is not whether wars end or pause, but how the players are reshaping the battlefield with asymmetrical warfare as Iran and its proxies have done with a measure of success.
+
+The Indian Army chief’s take on warfare is interesting in that he still gives primacy to physical territorial control as the ultimate measure of military triumph. The theory is hardly contestable, and Russia’s Vladimir Putin would vouch for it as he seeks land in Ukraine.
+
+The ground reality — as seen in the fight for control of the waters of the Strait of Hormuz and incidents in the Bab al-Mandab Strait — is somewhat different as drones and missiles are calling the shots in a new kind of warfare which calls for unusual responses in defence as well as in attack.
+
+The Army Chief concedes that drones, which are being manufactured more cheaply than ever before, are challenging the traditional war manuals as they force the use of missiles launched from shield systems that cost millions.
+
+India is aware of these developments, and the Army has made several moves to pep up and prep its drone warfare and missile shield capabilities that represent ongoing military preparedness manifested in eternal vigilance which, of course, is the price to be paid for national security.
+
+The current conflicts in Europe and West Asia must be offering reams of knowledge of what today’s tech-driven wars look like and how they are leading to changing strategies on the ground and in war rooms. As far as the general’s strident call for greater self-reliance goes, the Army Chief is bang on target even if the incessant delays in deliveries by domestic manufacturers are a ready cause of concern.
+
+‘Be prepared for anything’ should be the slogan in these troubled times in which technological rivalry in AI and such is known to be driving battle plans too. And territory has taken on a different meaning when they are reachable by air.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-endless-wars-with-few-pauses-1991346)
+
+---
+
+### ABVP’s Dusu Win Isn’t End Of Student Storm
+*Deccan Chronicle · Opinion*
+
+The victory of the Akhil Bharatiya Vidyarthi Parishad (ABVP) in three of the top four posts of the Delhi University Students Union (Dusu) elections on September 19 has come as reassuring news for the rattled Bharatiya Janata Party (BJP), which was confronted with the Cockroach Janta Party (CJP)-triggered July 20 tsunami of a protest leading to the resignation of Union education minister Dharmendra Pradhan. Union home minister Amit Shah was exultant over the Dusu poll outcome when he described it as the defeat of “anti-national forces”, while BJP president Nitin Nabin had described it as the victory of “nation first” youth. It is evident that the two top BJP leaders were extremely relieved by the ABVP victory. It shows that the two leaders felt the BJP was indeed under a cloud, and the Delhi University students’ union election results cleared the skies for them.
+
+For the last two months, BJP’s top brass was in a dilemma as to whether they should take the Gen Z revolt seriously. There was the defiant group which felt the protests were a flash in the pan and should not be taken too seriously. The party is in the process of lulling itself into complacency, assuming that not all students belong to ‘Gen Z’ in terms of mind space, and that the youngsters, especially the first-time voters, can be lured into the BJP’s Hindutva camp.
+
+The ABVP’s electoral success in one of north India’s major university campus, however, has given an opportunity to the BJP leaders to reassess the magnitude of the Gen Z disenchantment with the Narendra Modi government. Dissatisfaction with the National Eligibility Cum Entrance Test (NEET) was only a trigger and the reasons for youth anger are wide-ranging.
+
+It is possible to argue that the parent body of ABVP is the RSS, and not the BJP, and an ABVP victory should reflect the credentials of the RSS and not the BJP. Of course, the ABVP and the BJP are siblings because the BJP, too, has been spawned by the RSS. In the case of the July Gen Z protests, the RSS sarsanghchalak, Mohan Bhagwat, was more conciliatory than BJP leaders including Prime Minister Narendra Modi. The young protesters confronted the BJP and the Prime Minister. They had nothing much to say about the RSS. And the youngsters did not think of the ideological equations between the RSS and the BJP. So, in many ways, the RSS was not on the radar of student anger.
+
+The question remains whether Messrs Shah and Nabin have shown undue haste in appropriating the ABVP’s victory for the BJP. For the ideological opponents of the Sangh Parivar, there is not much of a difference between the RSS, BJP, ABVP, Vishwa Hindu Parishad (VHP), Bajrang Dal (BD) and the countless others. And the victory of ABVP, and by extention, of the RSS, in the Delhi University students’ union elections is also a victory of the BJP because they all subscribe to the same noxious majoritarian ideology which equates Hinduism with nationalism.
+
+The Shah-Nabin response shows that the BJP feels that it does not have to change its course or trim its sails. It can continue to harp on its divisive Hindutva agenda in the belief that it brings the party political and electoral dividends as it has done in elections over the past decade. Of course, no one can disturb the illusions of others. They will only fall away due to an internal shake-up.
+
+Interestingly, CJP’s Saurav Das pointed out that the results showed the ABVP victory was not an absolute one and that there was substantial opposition. For one, the winning margins were much too narrow compared to previous years. And the interesting phenomenon of the person who won the vice-president’s post by a margin of over 16,000 votes being a rebel of the National Students Union of India (NSUI) of the Congress showed the miscalculation of the main Opposition party and the general sentiment among the students in the many colleges of Delhi. Saurav warned that the Opposition groups will have to join hands. If they remain scattered, then the ruling administration will continue to be where it is.
+
+It is possible to extrapolate the north Indian political situation — with the two states of Uttar Pradesh and Punjab going into Assembly elections next year — because many of the Delhi University students come from different parts of north India. This would indeed be a speculative exercise; a kind of reading of the tea leaves, as it were. It would, however, be a mistake for the BJP leaders to believe that the storm is behind them and that it has not left any wreckage and traces of destruction. There is a strange sense of unease all over the place and across all sections of society because of the perceptible economic stress and distress despite the headline growth figures for Q1 of FY2026-27. As a matter of fact, the government and its political chieftains are clinging to the growth figures like a drowning man clutching at a straw. The global stresses, whether from US President Donald Trump’s tariff war or the war in West Asia, are...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/abvps-dusu-win-isnt-end-of-student-storm-1991337)
+
+---
+
+### If It Ain’t Broke, Break It: How We Ruined India We Built Over Decades
+*Deccan Chronicle · Opinion*
+
+Corruption and bribery are two words that are interchangeable. Or are they? Bribery, as we use the word today, is of 16th-century origin and is defined as an “act of magistrates taking money for corrupted services”.
+
+Note that corruption is part of that definition, and it is a much older word, of Latin origin. Its meaning has little to do with the exchange of money for favours. It is defined as an “act of becoming putrid; dissolution, decay”.
+
+Bribery is an individual act; corruption is, in addition to bribery, the decaying and rotting of institutions. This is the distinction and it is a major one.
+
+The Economist Intelligence Unit, part of the Economist magazine, produces a crony capitalism index every few years. It measures how large a part of the economy has been surrendered to making individuals rich by manipulating policy, a practice known as rent-seeking.
+
+In 2016, crony capitalism accounted for three per cent of India’s GDP. In 2023, the last year in which this was measured, it had doubled. This may or may not be bribery but it is certainly corruption, because the power and legitimacy of the state is being eroded and misused to enrich chosen individuals.
+
+The state can decay and rot in other ways. It is important to understand that for something to rot, it has to exist fully in the first place. Indian democracy is a project that has taken a long time to build. Books have been written about what a monumental exercise the introduction of adult franchise was and how the first rolls were drawn up. And how much of an effort was made to try and include individuals, including those who were only to be found on footpaths at night. Innovations like election symbols were introduced to encourage those who could not read to participate.
+
+Credibility was built over time. Parliament tried to halt defections by elected members. The power to arbitrarily dismiss state governments was taken away from the Centre in 1994. In the same period, we finally said goodbye to one of the most persistent problems of electoral democracy in India: booth capturing and ballot stuffing. This happened with the introduction of the voting machine.
+
+A short time before that, and older readers will remember this, the Election Commission became for the first time a body that asserted itself against the government. This happened first under a maverick individual named Seshan, but it continued when the government tried to shackle him by adding two other commissioners to make it a panel of three.
+
+Progress could be seen in democratic institutions becoming more efficient, credible and trustworthy. Corruption is allowing this institution to rot and decay for individual benefit.
+
+That progress has been undone in the areas of defections and dismissals. Today, entire parties are bought out across India, from west to east. No matter whom one chooses to vote for, often the result is that the same people continue to control everything.
+
+The damage done to the institution of the Election Commission is likely to be permanent, as is the harm it has inflicted on the rolls.
+
+A future government, even if well-meaning, will have no way to undo what is unfolding before us and what has already been done.
+
+Either the entire SIR process must be vitiated (in which case it also vitiates those elections that have happened after the assault on the voter rolls) or all of the crores of individuals who have been erased must be added after they personally and individually validate themselves to the satisfaction of the state. Under what rules can this happen? Will those new rules mean that we have two tiers of voters, those who cleared SIR and those who came through another route? This is a problem that is not going away.
+
+Remember that it all began without a proximate trigger. Nobody had proven or even claimed that India’s voter rolls were damaged beyond repair and needed to be fixed with this blunt and violent instrument requiring voters to prove their authenticity through ancestry. This is a gratuitous exercise in which a hammer has been taken to our voter lists just as casually as it was taken to our currency a decade ago.
+
+There is an American saying that goes “if it ain’t broke, don’t fix it”. This earthy line tells us that if something is functioning it does not require to be meddled with. But that does not accommodate the idea of malice. If it ain’t broke, break it is the version we are living under.
+
+Though it was imperfect, and we have looked at some of the ways in which it was, Indian democracy was our crown jewel when we engaged with the world. It was messy and chaotic, but it was real and honest and true. We could confidently tell ourselves we were a democratic state. One man, one vote, and so on. Can we now?
+
+The decades of institution-building before the BJP won its majority in 2014 was a giant crumple zone.
+
+The assault on institutions — courts, universities, the election system, pluralism, political culture, media — took a whole decade because the...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/if-it-aint-broke-break-it-how-we-ruined-india-we-built-over-decades-1991354)
 
 ---
 
@@ -21297,246 +21599,6 @@ Pavithra Chandrasekar and Ashish Mathew George are researchers at the BhuSampada
 Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
 
 [Read full article](https://www.deccanherald.com/india/vb-g-ram-g-will-panchayats-be-reduced-to-implementers-4058205)
-
----
-
-## 30 June 2026
-
-### Caught in the middle: On India and curbing drug abuse
-*The Hindu · Editorial*
-
-India is located between two major drug-producing regions: Afghanistan, Pakistan, and Iran to the west and Myanmar, Thailand, and Laos to the east. While the West has historically dominated heroin production, the International Narcotics Control Board has said Myanmar has become the world’s leading source of illicit opium while East and Southeast Asia remain major sources of methamphetamine. Officials have said drugs are being received at Gujarat, Kerala, and Tamil Nadu via maritime routes. Similarly, some drugs are produced domestically using illegally diverted pharmaceutical ingredients, aided by the fact that individuals possessing small quantities of heroin can attract up to six months’ imprisonment, whereas drugmakers that cannot account for lakhs of doses often face only slaps on the wrist. The rise of Myanmar, where the territory under ethnic armed organisations is expanding, as a key source is also troubling since it shares a border with India. The Narcotics Control Bureau has noted a dramatic surge in the use of drones to smuggle drugs across borders, especially over Punjab. Traffickers are organising over the darknet and using cryptocurrencies. The pillars of India’s response thus aim to keep the enforcement regime from being out-innovated and improve regulatory certainty.
-
-States are trying to adopt a ‘whole of society’ approach recognising the public health and social dimensions. However, India needs to do more. Physical abuse and forced detoxification are frequently reported from many private centres. Punjab has an extensive network of de addiction centres providing opioid substitution therapy, and some northeastern States to a secondary extent, but most large States have much less access relative to need. Most Integrated Rehabilitation Centres for Addicts are located in urban areas whereas the highest density of addicts in Punjab are in border villages and rural pockets. Likewise, relapse is often treated as a moral failure and many addicts avoid government centres fearing social ostracisation, particularly in rural North India. The persistence of criminal records for small-scale possession prevents youth from getting jobs, reducing their odds of escaping the drug-crime cycle. Although the Nasha Mukt Bharat Abhiyaan has said it has sensitised over six crore women, facilities dedicated to women are scarce and concentrated in urban areas; stigma, caregiving responsibilities, and lack of gender-responsive treatment keep many women from seeking or completing care. Finally, as evidence shows, disrupted supply can drive many users to cheaper alternatives unless accompanied by effective treatment. India must therefore shift public focus from seizures and arrests to the number of lives restored.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/caught-in-the-middle-on-india-and-curbing-drug-abuse/article71161480.ece)
-
----
-
-### Delayed honour: On Operation Sindoor, gains and losses
-*The Hindu · Editorial*
-
-War is secretive and strategy may require deception. But that is no good explanation for the fact that the Narendra Modi government took over a year before formally acknowledging that six soldiers had lost their lives in Operation Sindoor in 2025. India had launched cross-border military strikes in Pakistan in retaliation for the Pahalgam terrorist attack, in April 2025, that killed 26 innocent people. From the beginning, the government has been reluctant to share any meaningful details of Operation Sindoor even as it continuously kept the hyperbolic self-congratulatory posture. Its decision to not publicly acknowledge and honour the supreme sacrifice of the fallen soldiers contemporaneously was hardly a sign of any wise strategy. Casualties can happen in any military operation and that is a key consideration in any military planning, and more importantly, the political decision to go to war or not. Not being transparent about losses, human and material, may serve the political interests of the ruling party, but not national interest. By trying to be clever and selective about facts, the government undermined its own credibility and did a disservice to those who paid with their lives. Soon after the operation concluded in May 2025, the then Director General of Military Operations (DGMO), Lieutenant General Rajiv Ghai, paid tribute, during a press briefing on May 11, 2025, to Indian military personnel who had made the supreme sacrifice, though their names were not disclosed.
-
-The cremations were done with full military honours. In August 2025, Air Chief Marshal A.P. Singh visited the family of Sergeant Surendra Kumar, who was killed during the operation, while the Ministry of Defence also announced gallantry awards for the fallen personnel. Tributes were simultaneously carried on the Indian Army’s official social media platforms. In the Lok Sabha on July 28, 2025, Defence Minister Rajnath Singh said that “no Indian soldiers were harmed” during Operation Sindoor. Following accusations that it has misled Parliament, the government is now explaining that the Minister’s remarks were made in the context of reports that Indian aircraft were shot down and were meant to clarify that no pilot was killed during the mission. The government has also maintained that details relating to aircraft losses during the conflict remain operationally sensitive and refused to disclose them. There is a distinction to be made between operational secrecy and requirements of public accountability. War is a stark demonstration of the fact that it is the public that always pays for all actions of the government. A public accounting of the gains and the losses is the best way to ensure wise decision making.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/delayed-honour-on-operation-sindoor-gains-and-losses/article71161892.ece)
-
----
-
-### Reforms 3.0 — towards the Bharat rate of growth
-*The Hindu · Opinion*
-
-For 45 years after Independence, India grew at an anaemic 3% — the infamous “Hindu rate of growth”. Triggered by a balance-of-payments crisis, India found the gumption to liberalise. Within a decade, GDP growth surged. The lesson: crisis breeds reform, and reform breeds exponential outcomes. Artificial Intelligence (AI) provides the same transformational leverage that liberalisation provided in 1991. The question is not whether India can afford to invest — it is whether India can afford not to. After 12 years of Prime Minister Narendra Modi’s leadership, India has reached another WhatsApp moment in reform — dare I say, to take it from a Hindu rate of growth to the Bharat rate of growth — 8% and beyond for the next decade.
-
-The case for making tokens freeIndia has since proven that it can leapfrog entire generations of infrastructure. Aadhaar enrolled 1.38 billion people in a biometric identity system, the largest on earth. UPI now processes 250 billion annual transactions worth $3.4 trillion, handling 50% of the world’s real-time digital payments. Reliance Jio, launched in 2016, added 100 million subscribers in just five months and made mobile data essentially free. How India can replicate its Aadhaar, data availability deluge and UPI miracles in the age of AI — by embracing open models, diversifying compute hardware, and making tokens as free as data.
-
-India spends just about 0.65% of its GDP on research and development (R&D), well below China (2.4%), the United States (3.5%), South Korea (4.9%), and Israel (5.4%). The excuse of the socialist Congress governments of 1947-1991 was: “we can’t afford anything more”, which does not and should not apply now. The central question is this: Has the time come to make AI tokens free? If so, how do we do it? Can we begin by making tokens free for the country’s top 100 national R&D institutions and 5,000 schools, so that AI becomes a teammate for scientists and students alike?
-
-India spends approximately $49 billion each year subsidising calories, chemicals, and carbon. The question is whether it is now ready to subsidise cognition. The answer is that it already can — at a fraction of what it spends today. The entire AI token subsidy for the country’s top 100 universities and national R&D institutions, along with 5,000 high schools, would cost about $2 billion annually — roughly 0.06% of GDP. The AI investment is around one-fourteenth of India’s food subsidy, one-tenth of its fertilizer subsidy, and less than the amount paid to compensate oil marketing companies for LPG under-recoveries in a single quarter. This is not a moonshot budget. It is a rounding error in India’s existing welfare expenditure — but one with the potential to generate transformative, compounding returns.
-
-India does not need more money; it needs new priorities, new frameworks, and some reallocation. First, AI tokens can be funded without cutting a single rupee from existing beneficiaries by merely freezing subsidy growth for a year. (The fertilizer subsidy alone has been compounding at 11% CAGR over the past decade.) Second, India should forge a public-private partnership with hyperscalers such as AWS, Google, and Microsoft, exchanging data centre land, power subsidies, and data sovereignty assurances for free inference capacity. India’s 1.4-billion-user market gives it negotiating leverage that few countries can match, though such techno-commercial negotiations, shaped by geopolitics and uncertainty, will require considerable skill. Third, if necessary, paid enterprise tiers can cross-subsidise free access for schools and research institutions.
-
-Free data worked and free tokens will too. The government did not directly subsidise Jio. Instead, it created the right regulatory environment through spectrum auctions, net neutrality, infrastructure sharing, and a controversial long pilot.
-
-The result: data prices fell from about $3 per GB to $0.10 in under three years. The same playbook can apply to AI tokens. Create the right conditions, and the market will deliver abundance. India’s role is not to write the cheque, but to make it unnecessary.
-
-Hosting modelsIndia must build the competence to host and operate large language models, not merely consume them through APIs from San Francisco or Beijing. With Sarvam, it has already shown that frontier models can be trained on Indian soil. The next step is to host models such as Qwen, DeepSeek, Kimi, Llama, and Sarvam on sovereign infrastructure, even if some open-source models originate from China. The models may be free, but the intelligence to host them at scale is not. AI infrastructure should be treated as a strategic national capability, much like what the government has already done for space and nuclear programmes. India should pursue a hybrid strategy that combines sovereign and open-source models to avoid dependence on any single ecosystem. Open-source models offer four key advantages: sovereignty by reducing reliance on foreign APIs that can be restricted overnight; lower costs by eliminating per-token licensing fees, thereby enabling free education and research uses; customisation for Indic languages and cultural contexts; and transparency through auditable model weights for government and defence applications.
-
-Hosting LLMs at national scale is not “just deploy a container”. India must develop deep expertise in availability (multi-region redundancy, 99.99% uptime SLAs for critical government services; latency (<200ms token latency across Tier-2/3 cities); efficiency (like batch scheduling to maximise tokens-per-watt); security (data residency compliance, prompt injection defence, audit trails).
-
-India cannot afford to be locked into a single-vendor monopoly for its AI compute future. NVIDIA’s dominance comes at extraordinary cost — both financial and strategic. NVIDIA controls 80%+ of AI training hardware but creates deep vendor lock-in that extends far beyond hardware. For India to build sovereign AI infrastructure for 1.4 billion people, the math simply does not work at NVIDIA pricing.
-
-India spent relatively little to build UPI; it cannot afford to spend $50 billion on NVIDIA GPUs. The alternative hardware ecosystem is not just more economical — it is strategically essential. India should adopt a 40:30:30 hardware mix rather than rely on a single vendor. Around 40% should be built on AWS Trainium and AMD for cost-effective inference workloads available in India. Another 30% should use Google TPUs for research, model training, and academic partnerships. The remaining 30% should rely on NVIDIA for specialised training, legacy compatibility, and a domestic silicon hedge.
-
-AI token policy, implementation timelineIndia should announce a National AI Token Policy and implement it over the next 24 months. It should begin by signing public-private partnership agreements with AWS, Google, and Microsoft to establish a multi-vendor sovereign compute framework. The first pilot should provide unlimited research tokens to the top 20 IITs and the IISc. As hyperscaler inference capacity comes online, India should open an API sandbox for 500 startups, expand access to 100 universities, and launch an AI literacy pilot across 500 high schools in 10 States. The programme should culminate in the publication of the country’s first sovereign Indic AI model benchmarks.
-
-Thereafter India needs to scale the ecosystem through cross subsidies as mentioned above and deploy fine-tuned models into health care, agriculture, judiciary and education. It must follow this up with full deployment at 5,000 high schools and all 22 languages. With this India’s token consumption will enter the global top five. In two years, India-trained models will become competitive on international benchmarks and 10,000+ AI-native startups will bloom, rocketing GDP growth.
-
-In sum, India’s AI leapfrog is a sine qua non for national transformation. India needs to replicate its DPI (digital public infrastructure) miracles in the age of AI by embracing open models, diversifying compute hardware, and making tokens as free as data. India has all the necessary conditions — favourable policies, stable macroeconomy, prodigious talent and technology institutions — to become a global leader in AI applications. The sufficient condition is India’s decisive, visionary leadership. It will take three moves. One decade. And a transformed (AI) nation.
-
-Srivatsa Krishna is an IAS officer. The views expressed are personal
-
-[Read full article](https://www.thehindu.com/opinion/lead/reforms-30-towards-the-bharat-rate-of-growth/article71162499.ece)
-
----
-
-### DC Edit | Rule Of Law Must Prevail In Ayodhya, Other Cases
-*Deccan Chronicle · Editorial*
-
-Caught off guard by the massive theft at the Ram temple in Ayodhya which it has assiduously planned and developed as the icon of its brand of politics, the Sangh Parivar is now making an attempt to present the act before society as a social crime much beyond those under the Indian penal system. It has made the first step towards this effort with the Uttar Pradesh unit of the BJP announcing that the thieves will face social boycott “reflecting the sentiments of Hindu society”. The BJP has pointed to a resolution passed by the Faizabad Bar Association that none of its members will represent the eight accused arrested in the case and that a lawyer who goes against the decision will face a Rs 5-lakh penalty. The lawyers have also issued an ultimatum — the three people associated with the temple management — Champat Rai, Anil Mishra and Gopal Rao — “must leave” Ayodhya within three days or else the entire city would be blockaded.
-
-The Ram temple was built as per the whims of the Sangh Parivar after destroying a historical mosque, an act the Supreme Court called an “egregious violation of the rule of law”. It’s true that the temple has come up on a later order of the Supreme Court and that the perpetrators of violence managed to go scot free but the underlying disregard by the Parivar for the rule of law and the thought process that made it all happen are etched on every brick that has gone into the construction of the temple.
-
-The BJP’s talk of social boycott and the lawyers’ warnings echo the warning of Uttar Pradesh chief minister Yogi Adityanath to those who seek accountability that “they should not test Ram devotees". A republic built and run on democratic processes and administration of criminal justice cannot approve of this thought process. It is an attempt to revisit the violence of the 1990s which must be resisted.
-
-All those who seek to dictate terms of the punishment to be meted out to the accused, if and when found guilty, must be made to understand that they cannot impose a penalty of its own. They are not a law unto themselves.
-
-It is true that the wrongdoings related to the temple must have hurt the devotees of the lord as well as those who worked for decades for the realisation of the project. The party which rules Uttar Pradesh and runs the government at the Centre had all the time and opportunities to ensure that the donations of the devotees are put to their intended use. Having failed to do that, the very same people now come up with complicated arguments with the aim of avoiding further scrutiny of their lapses. They may have been successful in whipping up passions for the construction of the temple but are unlikely to succeed in camouflaging the heist there.
-
-Much worse is the position of the lawyers. Every accused has a right to fair trial and being represented by an advocate. Individual lawyers can pick their clients but to issue a threat to the fraternity against representing someone is against the law. It is sad that the lawyer community is consumed by rhetoric and takes illegal and anti-constitutional positions. They must correct themselves, and do so at the earliest. If not, statutory bodies mandated to discipline lawyers must step in fast.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-rule-of-law-must-prevail-in-ayodhya-other-cases-1967397)
-
----
-
-### DC Edit | WhatsApp Must Do Privacy Review
-*Deccan Chronicle · Editorial*
-
-With the introduction of usernames, WhatsApp has decided to change how 300 crore people communicate, responding to privacy concerns about the existing phone-number-based messaging system.
-
-If a person joins a group, his or her number will be visible to everyone present in it. This can expose users to unwanted calls, spam, harassment and data misuse. However, the username feature can successfully address this issue and enhance user privacy.
-
-On the flip side, however, the username feature could also empower fraudsters. Usernames can make it easier for scammers to create fake identities, imitate public figures, pose as businesses or lure people into fraudulent investment and job schemes. In India, where WhatsApp has become a default messaging platform for 85 crore people, the impersonation risk is serious.
-
-Platforms that allow a username-based messaging system have often struggled with impersonation. Fraudsters can use slight variations of people’s names, brands or official handles to mislead unsuspecting users.
-
-For example, if scamsters want to impersonate ‘Bharat’, they could use Bhaarat or Bharath, without raising any objection, as Bhaarat is a phonetically correct spelling and most people in southern India use ‘th’ for the 16th consonant in the traditional Hindi alphabet. As most people don’t pay great attention to spelling or account details before trusting a message, a small loophole can affect millions.
-
-WhatsApp must, therefore, introduce the username feature with strong safeguards.
-
-It should have a robust verification system for public figures, businesses, government agencies and well-known organisations. It must prevent lookalike usernames, detect suspicious account behaviour and make reporting impersonation fast and effective.
-
-The government should also ensure that privacy features do not create a safe zone for organised scammers. WhatsApp must allow law enforcement agencies to check the underlying phone numbers for traceability and introduce all necessary safeguards to prevent its abuse.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-whatsapp-must-do-privacy-review-1967402)
-
----
-
-### Sanjeev Ahluwalia | Passport: A New Trauma! Who Is Really An Indian?
-*Deccan Chronicle · Opinion*
-
-Who is really an Indian? This is an odd question to ask eight decades after Independence in 1947. More worryingly, the stature of the blue Indian passport -- there are about 90 million such in existence -- has been compromised. And, of all people, by the Government of India.
-
-How have we come to this pass when more than 900 million Indians are online, 2.5 billion have retail bank accounts and 1.4 billion have Aadhaar cards?
-
-The answer is that legislating rights or disabilities -- in which we excel-fail to benefit people unless the underlying institutional capacity is also created. The uncertainty associated with Indian citizenship is not a one-off. It is an enduring feature of India’s development story. Complex rules and regulations for everything do very little to assuage the stress and helplessness of the average citizen about their rights and duties. Add under-capacitated implementation agencies and you get a perfect mix of uncertainty, confusion and discretionary decisions for getting work done: like obtaining a passport or establishing one’s Indian citizenship.
-
-How did we get here? As early as 1955, the Citizenship Act reflected the constitutional provision, founded on liberal, inclusive principles, that till July 15, 1947, anyone resident in undivided pre-1947 India was eligible for citizenship. There are three options for claiming citizenship. In all cases, if the applicant was a citizen of any other country, that affiliation must be renounced if the applicant was an adult or at the time of becoming an adult. to avail of Indian citizenship. India remains a reluctant liberaliser by not permitting dual citizenship, which more than one-half of all countries and most developed ones do now allow.
-
-Since 2023, a diluted version of dual citizenship is available to persons of Indian origin (defined as a person born to persons born in India) and to their children via the Overseas Citizens of India card. OCIs do not have the same political rights as Indians but they get accelerated rights versus non-Indian origin applicants for citizenship, the same travel, economic and financial benefits, as Non-Resident Indians except they cannot buy agricultural property or plantations. There are about four million OCI holders -- less than 25 per cent of the 18 million persons of Indian origin living abroad. NRIs (Indian passport holders) living abroad are about 18 million, while another 70 million Indian passport holders live in India.
-
-Till recently, India was relaxed about scrutinising citizenship particulars of residents. The first indication that this carefree “honeymoon” period was over was two decades ago in 2004. The government enacted an amendment to the Citizenship Act, inserting Section 14A, mandating the Union government to issue national identity cards. The Registrar-General of India – an office that exists since 1969, under the Registration of Births and Deaths Act -- was mandated as the Registrar-General of Citizen Registration, and a National Registration Authority was created. Pursuant to a 2023 amendment of the act, a national digital Civil Registration System (CRS) is being created, which would seamlessly correlate births and deaths across the country. But we are not there yet. The data remains fragmented across state governments, which implement the act, and is difficult to obtain, except by approaching the relevant jurisdictions to get a birth and a death certificates. These certificates are crucial to define the category under which citizenship is claimed.
-
-In practice, citizen records -- births and deaths and voter lists -- have tended to be generous and inclusive seeking to record the population which exists on the ground rather than determine birth or descent data forensically. The Registrar-General of births and deaths has multiple functions, including managing the decennial Census operations. Indian families tend to be self-sufficient, storing paper records -- hopefully now in the DigiLocker app -- for safe and secure storage.
-
-The general impression, till now, was that a passport is a high order, prima facie proof of citizenship -- not least because passports mention the citizenship of the holder. So, when and how does one forfeit Indian citizenship despite holding an Indian passport?
-
-Multiple newspapers reproduced a PTI/government source briefing stating that “judgments of the Bombay high court since 2013 have also made it clear that a passport, by itself, is not proof of citizenship”. No one claimed that the government had terminated the passports in question. An additional clarification by the external affairs ministry was as unhelpfully opaque. It argued that the passport is merely a travel document issuable even to persons who are not citizens of India.
-
-The MEA was factually correct. A passport is intended to serve the specific foreign travel needs of an Indian citizen. Even the destination of travel can be limited. Additionally, under Section 20 of the Passports Act 1967, the government ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjeev-ahluwalia-passport-a-new-trauma-who-is-really-an-indian-1967413)
-
----
-
-### Sunil Gatade | New ‘Operation Tutari’ On Cards In Maha To Keep Pawar In Check?
-*Deccan Chronicle · Opinion*
-
-After cutting Uddhav Thackeray and his Shiv Sena (UBT) to size, the BJP will be turning its attention to Sharad Pawar by seeking to break his parliamentary party to swell the NDA’s numbers.
-
-It’s not that the BJP has been benevolent towards the Maratha strongman of yesteryears. Some four years ago, it engineered a split in his Nationalist Congress Party by weaning away his ambitious nephew, the late Ajit Pawar, to its side.
-
-Now, the straws in the wind suggest that the BJP, which is behaving crazily like a hungry tiger, is unlikely to stop at just “devouring” the Shiv Sena (UBT) but would take the operation to its logical conclusion. So, the next target is obviously Sharad Pawar’s NCP, already a dilapidated house.
-
-The BJP’s detractors, however, dismiss talk of the BJP being the “tiger”, insisting that the way it is behaving, it could at best be called a “hyena”, or a scavenger.
-
-“Tutari” (trumpet) is the emblem of Mr Pawar’s party after Ajit parted ways and the Election Commission handed him the “clock” symbol, which was with the undivided party since its inception way back in 1999. Sharad Pawar had come out of the Congress on the issue of Sonia Gandhi’s foreign origin.
-
-Since Ajit’s parting of ways, Sharad Pawar and his party are on a slide after momentarily making a good splash in the Lok Sabha polls in 2024. Besides Supriya Sule, one of the active leaders in the party is Rohit Pawar, grandnephew of the veteran, who is young and ambitious. Jayant Patil, who is the stalwart among the local leaders, is keeping a low profile amid suggestions from the BJP that he would be most welcome.
-
-There are challenges galore for the octogenarian Mr Pawar. He is neither in the pink of health politically nor physically since the defeat of the Opposition Maha Vikas Aghadi (MVA) in the Assembly polls in Maharashtra 18 months ago.
-
-Since then, it has been a riches-to-rags story for the MVA, which was seen as a novel experiment in Indian politics with arch-rivals Shiv Sena and the Congress sharing power in the premier state. The not-so-spectacular performance of the MVA in the civic polls further devalued the Opposition.
-
-Mr Pawar has been the architect of the MVA, which comprises the Congress, Mr Pawar’s NCP and Uddhav Thackeray’s Shiv Sena. It was formed after the 2019 Assembly polls when Uddhav broke ranks with the BJP and became the chief minister of Maharashtra.
-
-Known for his networking skills, Mr Pawar had always been in touch with a broad spectrum of leaders, including those from the BJP, including Prime Minister Narendra Modi and home minister Amit Shah.
-
-Reports had it that Mr Pawar was invited to join the NDA by none other than the Prime Minister more than once, but he had always dodged the issue. Mr Pawar has a long association with industrialist Gautam Adani since his days of taking baby steps in business. Mr Adani is now known to be the closest to the ruling side at the Centre since Mr Modi’s emergence.
-
-The problem for Mr Pawar is that he has failed to produce a second line of leadership in the party, and his reliance on his daughter, Supriya Sule, as the working president of the party has proved to be his undoing.
-
-No doubt Supriya is an articulate member of Parliament but is no mass leader. She has not ground her teeth in the rough and tumble of politics, being the darling daughter of the stalwart The elevation of Supriya was bound to lead to Ajit Pawar parting ways as he was the natural successor.
-
-Ajit’s exit and his subsequent tragic death in a plane crash a few months ago were a double whammy for Mr Pawar. This was especially so as the two had opened unity talks shortly before the end came. These talks are all effectively dead now, as a section of the Ajit group feels that the veteran would all but gobble up their party.
-
-For the BJP, the NCP (SP) parliamentary party is child's play to deal with given the fact that every legislator wants more returns for the buck. And the days of ideology and thought are long over; it has virtually become a game of pelf and power.
-
-Added to this is that the BJP has systematically weaponised the issue of development. Any legislator who wants to make his constituency a hub of development needs to be “positive” towards the powers that be at the Centre. Those who fall in the “Opposition” side are people that need to be ignored and will be ignored, or so goes the unwritten rule.
-
-It’s a moment of reckoning for Mr Pawar, whose pocket enclave of Baramati had earned recognition as the most developed in the state whose leadership decided which way the politics of Maharashtra moved for half a century, even when he was out of power.
-
-The sand is moving from under Mr Pawar’s feet; and more than murmurs are appearing from his loyalists that it may be time to return to the Congress in order to battle communal forces. Mr Pawar and the beleaguered Mamata Banerjee of West Bengal are sailing in the same boat, and must decide, sooner than later, their future course of action.
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/sunil-gatade-new-operation-tutari-on-cards-in-maha-to-keep-pawar-in-check-1967405)
-
----
-
-### No exemptions in rowdy sheet reviews
-*Deccan Herald · Editorial*
-
-The Karnataka government recently announced the creation of dedicated anti-rowdy squads across the state, reflecting its determination to crack down on organised crime. That resolve, however, has been accompanied by a parallel development that exposes serious procedural weaknesses within the police force, raising difficult questions about balancing fairness with public safety.
-
-The Karnataka State Police Complaints Authority (KSPCA) has directed the removal of 66 names from the state’s rowdy register – including seven from Bengaluru – after finding that the police had failed to carry out the mandatory periodic reviews. More worrying is that the list reportedly includes some notorious rowdies who are still active. Home Minister Priyank Kharge has rightly described the lapse as “nonsense” and criticised the police for allowing such a situation to arise. But that alone will not suffice. The state police has lately been in the news for all the wrong reasons. Unless Kharge purges the force of undesirable elements, collusion between sections of the police and the underworld will continue to undermine the rule of law.
-
-While the police may open a rowdy sheet against habitual offenders, they are also under a continuing obligation to review every case periodically. Following the High Court’s 2022 judgment in B S Prakash vs. State of Karnataka, reviews must take place every two years, and any individual claiming to have reformed may seek deletion of his name. If the police reject the request, the person can approach the KSPCA, which examines whether continued surveillance is justified. These safeguards exist for good reason. A rowdy sheet entry is not meant to become a lifelong punishment. Individuals who have genuinely abandoned crime, rebuilt their lives, and remained law-abiding should not remain on the register indefinitely. Such arbitrary continuation infringes personal liberty and defeats the purpose of periodic review. At the same time, procedural lapses should not become an escape route for active criminals. If dangerous offenders are removed solely because police officers neglected their statutory duty, the consequences could be severe. Bengaluru Police Commissioner Seemanth Kumar Singh has assured that the department is examining the legal implications of the Authority’s orders.
-
-Responsibility, however, rests on both institutions. The police must comply with judicially mandated reviews rather than treating them as a routine formality. Equally, the Complaints Authority must exercise due diligence before ordering the closure of rowdy sheets, ensuring that only the truly reformed benefit from legal protections. Only then can justice serve both public safety and individual liberty.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/no-exemptions-in-rowdy-sheet-reviews-4056566)
-
----
-
-### Revisions weaken a critical guarantee
-*Deccan Herald · Editorial*
-
-As the Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) – VB-G RAM G – gets set for a rollout on July 1, the scheme has drawn criticism even from states governed by the Bharatiya Janata Party (BJP). Its predecessor, the Mahatma Gandhi National Rural Employment Guarantee scheme, implemented by the United Progressive Alliance (UPA) government, even with some implementation challenges, effectively addressed rural joblessness.
-
-The Narendra Modi government reduced financial allocations to the scheme but retained it, given its proven value and public support. Last year, the programme was overhauled and rebranded, a restructuring that has curtailed its scale and utility.
-
-The scheme has undergone a structural shift, from a fully centrally funded wage guarantee programme to a 60:40 Centre-state cost-sharing model, placing a significant financial burden on states, many of which are already struggling with constrained budgets. This shift also marks a departure from the scheme’s original rights-based, demand-driven character, raising concerns that increased centralisation and conditional funding could undermine its core objective of guaranteeing employment. Although the Centre highlights the provision for a higher number of statutory wage employment days, there is scepticism over whether this promise will translate into practice. The introduction of a 60-day pause during the agricultural season and other procedural restrictions may reduce the scheme’s flexibility and responsiveness to local employment needs. These changes threaten a larger impact amid projections of deficient rainfall and drought conditions. Rural distress may significantly increase the demand for employment across large parts of the country. Ironically, at a time when the scheme’s relevance as a social guarantee is most critical, its redesigned funding structure and operational constraints threaten to reduce it to a shadow of its original promise.
-
-States, including those governed by the BJP, have expressed concerns. Bihar, Madhya Pradesh, and Jharkhand have appealed to the Centre to reconsider the proposed changes in the funding pattern. Sikkim and Uttarakhand, which have to bear only 10% of the programme’s cost, being hill states, have also sought a review of the funding model. Some states have sought higher wages for workers and the withdrawal of the 60-day blackout period. While Karnataka has agreed to implement the revised scheme, it plans to challenge the changes in the Supreme Court, alongside Telangana. The Centre should engage with these concerns, review the new framework, and restore the scheme’s effectiveness. At a time of deepening rural distress and employment insecurity, weakening a crucial social safety net risks leaving millions of vulnerable workers without adequate support.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/revisions-weaken-a-criticalguarantee-4056565)
-
----
-
-### NEET Retest | NTA must learn from UPSC, IB
-*Deccan Herald · Opinion*
-
-The retest of the National Eligibility cum Entrance Test (NEET-UG) is done and dusted, but amidst the self-congratulatory and deafening noise by the government and its propagandists over ‘successful’ retest looms a big question: what is the template for next year’s NEET-UG exam?
-
-The Narendra Modi government took unprecedented steps to maintain the integrity of the exam — from using the Air Force to ferry question papers to involving the intelligence and police forces to monitor troublemakers.
-
-However, some of these steps reek of ad hoc measures. This cannot be a template for years to come. Hardworking and honest students cannot be scarred again.
-
-First, the government said the retest would be conducted in the computer-based test (CBT) mode, but later it realised the enormity of the task given the limited CBT-compliant infrastructure. Thus, it went back to pen-and-paper mode.
-
-Most likely, the next NEET-UG exam will be in the CBT mode, which takes persistent problems like printing question papers out of the equation. However, CBT comes with its own challenges.
-
-The current CBT infrastructure supports about 3 lakh candidates to take the test at one go. Since the NEET-UG exam sees about 20 lakh candidates, the exam would be conducted in multiple shifts spread over at least two days. The National Testing Agency (NTA) would need to bring uniformity in terms of the difficulty level of question papers, and also maintain confidentiality across all shifts.
-
-CBSE-NEET row | 'Let's seek accountability from govt': Cockroach Janta Party invites political parties including BJP to join stirAll these problems are scalable when you look at what the Union Public Service Commission (UPSC), which conducts the exam for civil services or what the Intelligence Bureau (IB) has been doing for its own recruitment exams.
-
-For the UPSC exam, which takes place in pen-and-paper mode, all resources are mobilised to ensure integrity of all three steps for conducting a successful exam: setting of question papers, printing, and distribution. While the finer details are not publicly known, the NTA can learn a lot at the institutional level from the UPSC.
-
-The UPSC uses the services of multiple and carefully selected domain experts to prepare questions for the exam. A question bank is prepared, and a question paper is prepared from that bank. This ensures that the experts who prepared the questions themselves do not know if their questions are part of the final question paper. For printing as well as distribution, similar levels of checks and balances are maintained. The local administration remains mobilised for security arrangements at the examination centres.
-
-The IB, too, has developed Standard Operating Procedures (SoPs) for leak-proof exams for recruitment of Assistant Central Intelligence Officers. The IB shifted to the CBT mode in 2020, and went to unprecedented lengths to maintain exam integrity.
-
-Domain experts prepare a question bank, and shortly before the exam, 100 random questions are selected by a computer and electronically transmitted to all exam centres. Since the exam is conducted in shifts, each shift has a new question paper generated. Since the difficulty can vary across shifts, scores are adjusted using normalisation; this ensures that candidates are judged fairly.
-
-Once the question papers are transmitted to the exam centres, to prevent cyberattacks, the Internet connection is cut, while the exam centre runs on a LAN. Sensors are used to check any unauthorised cyber traffic from the exam centre, and the centre is covered under CCTV surveillance. There are various other steps taken to ensure the conduct of a foolproof exam, including keeping an eye on coaching centres that offer question papers for sale.
-
-The NTA can learn from the best practices used by other agencies to conduct credible, and foolproof exams. The NTA and the government owe it to India’s young minds who appear for the exams that their efforts are not mocked at through paper leaks and retests. The resources and templates are already available within the government for maintaining exam integrity. India’s 2+ million youngsters must not pay with their time and emotions for the NTA’s lackadaisical indifference and the government’s bureaucratic inefficiency.
-
-(Rajesh Ahuja is an independent journalist who writes on national security and investigation agencies. X: @iamrajeshahuja)
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/neet-retest-nta-must-learn-from-upsc-ib-4056916)
 
 ---
 
