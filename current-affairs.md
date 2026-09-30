@@ -1,3 +1,388 @@
+## 30 September 2026
+
+### Inox Clean Energy IPO: INOXGFL Group Firm Files DRHP To Raise Up To Rs 10,000 Crore
+*Mohammad Haris · business*
+
+Inox Clean Energy IPO: The proposed IPO will comprise a fresh issue of equity shares worth up to Rs 8,000 crore and an offer-for-sale (OFS) of shares worth up to Rs 2,000 crore.
+
+[Read full article](https://www.news18.com/business/ipo/inox-clean-energy-ipo-inoxgfl-group-firm-files-drhp-to-raise-up-to-rs-10000-crore-ws-l-10360319.html)
+
+---
+
+### ED raids Bengal Congress leader's home over business dealings, coal firm links
+*Anil Giri · general*
+
+The Enforcement Directorate (ED) on Wednesday searched the residence of Congress leader Dilip Turi in West Bengal’s Paschim Bardhaman district in connection with his business dealings. The searches focussed on his reported links to vehicle and ambulance services at Eastern Coalfields Limited (ECL) collieries. The agency has not yet disclosed the specific case or allegations.
+
+The search was conducted at Turi’s residence in Andal, with an ED team arriving around 6 am along with central security officers, including CRPF personnel.
+
+ED officials searched the residence and examined documents and other materials during the operation. Central security personnel remained deployed around the premises. Details of any documents seized or whether Turi or anyone else was questioned were not immediately available.
+
+The ED searches triggered a stir in the coal belt, with multiple vehicles and security personnel outside the house drawing the attention of local residents.
+
+## DILIP TURI'S BUSINESS DEALINGS
+
+Turi, a businessman, is associated with the local Congress unit and an NGO. He is involved in providing ambulances and other four-wheelers at various ECL collieries and open-cast mines.
+
+Sources said some ambulances were brought from Jharkhand and deployed in different ECL areas through tender-based service arrangements. The nature of these contracts and their relevance to the ED search have not been established.
+
+The ED had not issued a statement on today's searches or disclosed the investigation under which it was conducted at the time of filing this report.
+
+The operation comes in the coal belt of Paschim Bardhaman, where ECL’s mining activities and associated service contracts form a significant part of the local industrial landscape.
+
+\- Ends
+
+---
+
+### Retired IAS Officer Found Murdered At Bhopal Residence, House Help On The Run
+*Meemansa Shekhawat · general*
+
+Rakesh Agrawal, a retired Indian Administrative Service (IAS) officer, was allegedly found murdered at his residence in Suraj Nagar, Bhopal, Madhya Pradesh
+
+[Read full article](https://www.news18.com/india/retired-ias-officer-found-murdered-at-bhopal-residence-house-help-on-the-run-ws-l-10360350.html)
+
+---
+
+### He spent 6 months looking for a job. These 6 lessons made a difference
+*India Today Education Desk · general*
+
+## After being laid off, a market research analyst spent six months looking for his next job. He has now shared six lessons from the experience, covering networking, freelance work, AI and salary negotiations.
+
+Laid off for 6 months, analyst finds new job, shares 6 lessons from his search
+
+New Delhi,Sep 30, 2026 10:48 IST
+
+A market research analyst with 16 years of experience has opened up about what his six-month job search taught him after losing his previous role. He described the experience as difficult, involving months of applications, long waits for responses and the uncertainty of not knowing when the next opportunity would come, as said in a Reddit post.
+
+After eventually receiving an offer for a role he was genuinely interested in, the professional decided to look back at the six months he spent searching for work. Instead of only sharing the news of his new job, he outlined six lessons he learned during the process.
+
+His advice covers several aspects of navigating unemployment, from telling family members about the situation and building professional connections to taking up freelance work. He also spoke about using AI while preparing job applications and being careful during salary negotiations.
+
+Screegrab: Reddit: IndianWorkplace r/IndianWorkplace
+
+### 1\. TELL SOMEONE IN YOUR FAMILY WHAT YOU ARE GOING THROUGH
+
+The first lesson was about dealing with the emotional side of unemployment. The analyst said people who lose their jobs may feel embarrassed and avoid telling others about their situation.
+
+He suggested sharing the situation with at least one family member. According to him, that person does not necessarily have to find a job for them. Instead, simply having someone who understands what they are going through can make the period feel less isolating.
+
+He said jobseekers do not need to announce their unemployment to everyone, but should avoid carrying the experience completely alone.
+
+### 2\. BUILD CONNECTIONS INSTEAD OF ONLY APPLYING ONLINE
+
+The analyst also said that spending all of your time applying through job portals may not be enough. With companies receiving large numbers of applications, individual profiles can easily get lost.
+
+During his search, he found introductions through people he already knew to be more useful. However, he also clarified that a referral does not guarantee a job. It can simply help a candidate get introduced to an opportunity or hiring team.
+
+### 3\. KEEP YOURSELF BUSY WITH ONLINE WORK
+
+Another lesson from his six-month research was the importance of having something to work on while unemployed. The professional took up freelance assignments and smaller online projects during the period.
+
+Although these projects did not always provide regular income, he said they helped him stay active and gave structure to his days. He noted that unemployment can otherwise become a repetitive cycle of applying for jobs, checking emails and waiting for responses.
+
+### 4\. USE AI AS A TOOL, NOT A REPLACEMENT
+
+The analyst also recommended using AI during the job application process, particularly when comparing a candidate's experience with the requirements in a job description.
+
+However, he cautioned against simply copying AI-generated content. He said he used AI as a thinking partner and editor, giving it his experience and asking it to map his skills against the job description.
+
+The final CV, he said, still had to reflect his own experience and language.
+
+### 5\. BE CAREFUL WHEN NEGOTIATING YOUR SALARY
+
+Salary discussions were another challenge he highlighted. According to the analyst, people who have been unemployed for a long period may feel pressure to accept a significant salary cut simply to secure a job.
+
+He advised candidates to think carefully before accepting a major reduction because their new salary could influence future job offers. He shared his own rule of thumb of trying to keep a pay cut from 5 to 10 per cent, if possible.
+
+Screegrab: Reddit: IndianWorkplace r/IndianWorkplace
+
+### 6\. TREAT YOUR JOB SEARCH LIKE YOUR ACTUAL JOB
+
+His final lesson was about consistency. He said rejection should not bring the process to a stop, even when applications do not immediately lead to results.
+
+Looking back, he described the six months as difficult while he was experiencing it, but said it felt different once he had moved beyond it. He encouraged jobseekers to learn from rejection and continue the process.
+
+The post also received messages from people who congratulated him and said his experience could help others facing long periods of unemployment. One commenter said they had been searching for around nine months and found the advice useful.
+
+(Disclaimer: This story is based on a social media post. The details, including figures, background, and outcomes, have not been independently verified by India Today. The article is intended for informational purposes only, and readers are advised to exercise their own discretion before drawing conclusions or making decisions based on the content.)
+
+\- Ends
+
+---
+
+### What India’s new CAFE-III fuel-efficiency norms mean for carmakers, small cars and EVs
+*Soumyarendra Barik · legal*
+
+From April 2027, carmakers will be judged on the efficiency of their overall vehicle portfolios rather than individual models. The final rules also reshape how weight and powertrains affect compliance.
+
+[Read full article](https://indianexpress.com/article/explained/explained-economics/cafe-iii-norms-2027-india-car-fuel-efficiency-rules-10900111/)
+
+---
+
+### Gold Rate Today, September 30: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+*Aanya Mehta · legal*
+
+Today's 18, 22 and 24 Carat Gold Prices in Chennai, Bangalore, Hyderabad, Mumbai, Delhi: The gold price in India today stands at Rs 14,957 per gram for 24 carat gold, Rs 13,710 per gram for 22 carat gold and Rs 11,470 per gram for 18 carat gold, as per Good Returns.
+
+[Read full article](https://indianexpress.com/article/india/gold-rate-today-september-30-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10900075/)
+
+---
+
+### Jaishankar, Guterres discuss West Asia conflicts and Global South concerns
+*India Today World Desk · general*
+
+## S Jaishankar met Antonio Guterres at the UN to discuss ongoing conflicts and their fallout. The exchange underscored concern over how wars in West Asia and Ukraine are hitting the Global South.
+
+Image used for representational purposes only
+
+Unitednations,Sep 30, 2026 10:40 IST
+
+External Affairs Minister S Jaishankar met UN Secretary-General Antonio Guterres at the United Nations headquarters on Tuesday, with the two leaders discussing ongoing conflicts, including the situation in West Asia, and their impact on countries in the Global South.
+
+The meeting took place as Jaishankar wrapped up his engagements during the high-level week of the UN General Assembly. According to the UN chief's office, the talks covered multilateralism, India-UN cooperation and wider geopolitical developments, including the war in Ukraine and the situation in the Middle East.
+
+"Glad to meet @UN Secretary General @antonioguterres today. Our discussions focused on ongoing conflicts and the need to mitigate their impact, especially on the Global South," Jaishankar said in a post on X.
+
+A readout issued by the office of the Secretary-General said Guterres and Jaishankar discussed "multilateralism, India-UN cooperation, and geopolitical developments, including the war in Ukraine and the situation in the Middle East." It added that the Secretary-General expressed appreciation for India's cooperation with the UN.
+
+During India's national statement at the General Debate on Saturday, Jaishankar had voiced appreciation for Guterres's service as head of the world body. "After a decade of service and dedication to the cause of multilateralism, we will soon bid farewell to Secretary-General Antonio Guterres. India deeply values his many contributions, in particular, his personal support for Mission LiFE," he had said.
+
+This was Guterres's final high-level UNGA week, and his second five-year term as UN chief ends in December 2026. He had visited India earlier this month for the BRICS Leaders' Summit. Speaking at the Asia Society, Jaishankar also said he had met about 85-90 counterparts through a "really very frantic week" at the UN, summing up a packed round of diplomatic engagements.
+
+With PTI Inputs
+
+\- Ends
+
+---
+
+### PM Modi's 25-Year Milestone, BJP's UP Poll Push: Why Varanasi Will Be In Focus On October 7
+*Apoorva Misra · general*
+
+A key feature of the October 7 programme will be the culmination of two Seva Yatras linking PM Modi's birthplace Vadnagar in Gujarat with his constituency Varanasi in Uttar Pradesh
+
+[Read full article](https://www.news18.com/india/pm-modis-25-year-milestone-bjps-up-poll-push-why-varanasi-will-be-in-focus-on-october-7-ws-l-10360327.html)
+
+---
+
+### Buying a TV, AC or fridge? Here’s why you may want to buy before October 1
+*India Today Business Desk · general*
+
+## If you were already planning to make a purchase for Diwali or for your home, buying before October 1 could help you avoid at least some of the upcoming price increase.
+
+Raw material costs, especially copper, driving price increases. (Photo: Reuters)
+
+New Delhi,Sep 30, 2026 10:39 IST
+
+If you have already been planning to buy an air-conditioner, television, refrigerator or washing machine, the next few days could be a good window to make the purchase, as several appliance makers are set to raise prices from October 1.
+
+Leading consumer electronics and appliance companies are planning price increases of 5-8% on some products ahead of the festive season, reported news agency PTI.
+
+AC prices are expected to see the sharpest increase, while some manufacturers are also raising prices of TVs, refrigerators and washing machines by around 2-4%.
+
+This is also expected to be the industry's third round of price hikes in 2026, with manufacturers facing higher costs for copper, aluminium, steel, crude derivatives and freight, along with currency-
+
+So, if you were already planning to make a purchase for Diwali or for your home, buying before October 1 could help you avoid at least some of the upcoming price increase. However, consumers may still find older-priced stock in shops for some time after October 1.
+
+### WHY ARE APPLIANCE PRICES GOING UP?
+
+The biggest pressure is coming from the rising cost of raw materials.
+
+Copper, in particular, has become significantly more expensive. Haier India President NS Satish told PTI that copper prices, which were around $8,000-$9,000 per metric tonne last year, have now touched $14,500. An air-conditioner typically requires 3-4 kg of copper, making the metal a major cost for AC manufacturers.
+
+Blue Star Managing Director B Thiagarajan also said commodity prices, including copper, steel and plastics, have risen because of the ongoing war, forcing the company to increase prices for the third time this year.
+
+Rising demand for copper from EVs and wider electrification. It notes that bringing new copper mines online can take several years, making it difficult for supply to catch up quickly with demand.
+
+Possible US tariffs on copper are another factor that could encourage stockpiling and divert supplies towards the US, adding to shortages elsewhere.
+
+### WHICH PRODUCTS WILL GET MORE EXPENSIVE?
+
+Air-conditioners are likely to see some of the biggest increases.
+
+AC prices are set to rise by around 5-8%, while some companies have already increased prices. Daikin, for instance, had raised prices by 8-10% from September 16, according to the report.
+
+Haier plans to increase room air-conditioner prices by around 5% from October 1. It has also indicated a 2-3% increase for products such as LED TVs and washing machines.
+
+Super Plastronics, which sells television brands including Thomson, Kodak and Blaupunkt in India, plans to increase TV prices by around 7% after October, while appliance prices have already risen 4-5%, PTI reported.
+
+### SHOULD YOU BUY BEFORE OCTOBER 1?
+
+If you were already planning to buy an appliance, there is a case for buying sooner rather than waiting for the festive season to begin.
+
+A 5% increase on a Rs 50,000 appliance would mean an additional Rs 2,500. A 7% increase would mean Rs 3,500 more, while an 8% increase would add Rs 4,000.
+
+But there is an important catch: prices will not necessarily jump across every shop on October 1.
+
+Godrej Appliances Business Head and Executive Vice President Kamal Nandi said distributors still have inventory purchased at older prices. He said existing stocks could last for around one to one-and-a-half months, meaning much of the Diwali season could still be covered by products carrying old prices.
+
+That means consumers who wait may still find some products at current prices, particularly during festive sales. But availability of old-price inventory will depend on the brand, product and retailer.
+
+### WHY PRICES COULD RISE AGAIN AFTER DIWALI
+
+The October 1 increase may not be the last one.
+
+Haier's Satish told PTI that the company is looking at a cumulative price increase of around 15% between now and January — 5% from October 1, another 5% around December and a further 5% in January if input costs remain elevated.
+
+This is particularly relevant for consumers who are planning large purchases and are considering waiting for the festive season in the hope of getting bigger discounts.
+
+The festive season usually brings aggressive discounts on electronics and appliances, but manufacturers are themselves facing higher costs.
+
+The report said the period from Onam through Dussehra and Diwali typically accounts for around 30-40% of appliance manufacturers' annual sales.
+
+Manufacturers therefore have to balance higher input costs with the need to keep festive demand strong.
+
+Some companies believe the impact on consumers could be limited because dealers have already stocked products at older prices. Others have warned that higher prices could affect festive demand.
+
+### WHAT THIS MEANS FOR BUYERS
+
+For someone who needs an AC, TV, refrigerator or washing machine soon, buying before October 1 could help lock in the current price before another round of increases starts.
+
+But there is no need to rush into a purchase solely because of the October 1 deadline if the product is not urgently required. Existing inventory could keep some older prices available through part of the festive season.
+
+The bigger point is that the industry is facing sustained cost pressures, and manufacturers are signalling that prices could move higher again if commodity and other input costs remain elevated.
+
+So, if you have already shortlisted a product and were planning to buy it anyway, checking its current price before October 1 could make sense.
+
+\- Ends
+
+---
+
+### IISc highest-ranked Indian institute at 254: THE World University Rankings 2027
+*Education Desk · legal*
+
+THE World University Rankings 2027: IISc recorded an overall score of 57.0 in the 2027 ranking. Its strongest score among the indicators provided is in research environment, at 98.0, while it scored 62.1 for teaching and 58.6 for research quality.
+
+[Read full article](https://indianexpress.com/article/education/the-times-higher-education-world-university-rankings-2027-iisc-bangalore-highest-ranked-indian-entry-jamia-millia-islamia-10900104/)
+
+---
+
+### Astonishing U-turn: Congress slams Centre for moving SC over Nicobar project row
+*India Today News Desk · general*
+
+## The Congress has criticised the Centre's move to move the Supreme Court, seeking a pause in Calcutta High Court proceedings challenging the Rs 92,000-crore Great Nicobar project. The party criticised the project, saying it violates forest rights and environmental norms.
+
+The Great Nicobar Project seeks to transform the island into a strategic maritime and economic hub. (File photo)
+
+New Delhi,Sep 30, 2026 10:37 IST
+
+The Congress on Wednesday criticised the Modi government for moving the Supreme Court to pause all proceedings in the Calcutta High Court on petitions challenging the Great Nicobar Island Project. The party called it an "astonishing U-turn" and alleged that the government was pressing ahead with a project it says could cause serious environmental damage.
+
+Congress general secretary in-charge communications Jairam Ramesh shared a screenshot of a media report saying the Union government had approached the Supreme Court to halt further proceedings in the petitions before the Calcutta High Court.
+
+The petitions allege that provisions of the Forest Rights Act were violated while obtaining consent for the Rs 92,000-crore Great Nicobar Island project. Ramesh said October 5, 2026, was the likely date for the matter to come up in the Supreme Court, while the final hearing in the High Court on one of the petitions is fixed for November 25 and 26, 2026.
+
+In his post, Ramesh said, "The Modi govt has been bulldozing through the Rs 92,000 crore (revised upward from the earlier Rs 72,000 crore) Great Nicobar Island Project. The various approvals under environment and forest laws have been deeply flawed and the impact assessment reports have been pre-fixed and are of dubious value."
+
+He said a "faint glimmer of hope" lay in the five petitions filed by citizens and civil society groups, which are pending in the Calcutta High Court.
+
+Ramesh said one of these petitions deals with "serious violations" of the Forest Rights Act, 2006, affecting local tribal communities, and that the Modi government had earlier agreed to the final hearing dates in the High Court.
+
+"But now, in an astonishing U-turn, the Modi government wants the Supreme Court to stay all proceedings in the Calcutta High Court," he said.
+
+He also said the Calcutta High Court had upheld the right of the petitioner, a former senior official in the Union Ministry of Environment, Forests and Climate Change and the Union Ministry of Tribal Affairs, to file the challenge. According to Ramesh, the Centre had questioned her right to challenge the project, but the High Court rejected that argument.
+
+"Now the Modi government is making the same argument in the Supreme Court which hopefully will allow the Calcutta High Court to proceed on the matter as scheduled," he said.
+
+Ramesh further said, "The sad fact remains that even though these five petitions are pending in the Calcutta High Court, the Modi government is mindlessly going ahead with inflicting this ecological disaster on our country."
+
+He also referred to his engagement with four Union Ministers in what he called an "unfolding catastrophe".
+
+The Congress has repeatedly opposed the project, saying the proposed transhipment port at Galathea Bay could lead to large-scale ecological damage, including the destruction of coral colonies.
+
+Ramesh has also urged Defence Minister Rajnath Singh to reconsider the rejection of a full expansion of the INS Baaz runway and asked Tribal Affairs Minister Jual Oram to ensure that the Forest Rights Act, 2006, is implemented in both letter and spirit.
+
+\- Ends
+
+---
+
+### NRE vs NRO FD TDS rules: Tax rate for NRIs, PAN rules, DTAA benefit and repatriation limit - The Economic Times
+*Sneha Kulkarni · finance*
+
+Non-Resident External (NRE) and Non-Resident Ordinary (NRO) are popular fixed deposit (FD) options for Non-Resident Indians (NRIs) looking for stable returns from their investments. However, the tax treatment is different for NRE and NRO fixed deposits.
+
+While interest earned on an NRE fixed deposit is exempt from tax in India, interest earned on an NRO fixed deposit is taxable and banks deduct Tax Deducted at Source (TDS). NRIs can, however, claim a lower TDS rate under the Double Taxation Avoidance Agreement (DTAA), if they meet the required conditions.
+
+## Is TDS deducted on NRE fixed deposits?
+
+As per the ICICI Bank website, “No, interest earned on NRE fixed deposits is tax-free in India for NRIs, so banks do not deduct TDS on the interest.”
+
+As per the HDFC Bank website, “Interest earned on NRE fixed deposits is exempt from income tax in India. This provides NRIs with a tax-free way to earn interest on their foreign income. Since the interest is tax-exempt, no TDS applies to NRE FDs.”
+
+NRE accounts are funded with foreign income and the funds are fully repatriable. This makes NRE fixed deposits different from NRO deposits when it comes to taxation in India.
+
+## NRO fixed deposit tax implications
+
+Interest earned on NRO FDs is subject to TDS. The standard rate for TDS on NRO accounts is 30% plus applicable surcharge and cess. This makes NRO deposits less tax-efficient compared to NRE deposits, as per HDFC Bank.
+
+As per Section 206AA of the Income Tax Act, if an NRI fails to provide their Permanent Account Number (PAN), TDS will be deducted at the highest applicable rate, which is the maximum marginal rate or 30% plus surcharge and cess.
+
+TDS on interest earned from NRO deposits & savings accounts held by non-resident customers
+
+**Total Interest Earned**
+
+**Withholding Tax Rate**
+
+₹50 lakhs or less  
+
+31.2% (30% tax + 0% surcharge + 4% cess)  
+
+More than ₹50 lakhs and up to ₹1 crore  
+
+34.32% (30% tax + 10% surcharge + 4% cess)  
+
+More than ₹1 crore and up to ₹2 crores  
+
+35.88% (30% tax + 15% surcharge + 4% cess)  
+
+Above ₹2 crores  
+
+39% (30% tax + 25% surcharge + 4% cess)  
+
+Double Taxation Avoidance Agreement (DTAA)
+
+To prevent NRIs from paying tax on the same income twice, India has signed Double Taxation Avoidance Agreements (DTAA) with a number of nations. NRIs are eligible for lower TDS rates on their NRO FD interest under the DTAA.
+
+Important Frequently Asked Questions (FAQs) on NRI deposits (As per SBI website)
+
+## Which bank accounts can an NRI open in India?
+
+An NRI can open and maintain accounts denominated in either Indian Rupee or a foreign currency as described below:
+
+NRE or NRO account in Indian rupees (as a running account or a fixed deposit)
+
+FCNR (B) Account in USD, EURO, GBP, CAD, JPY and AUD (only as a fixed deposit)
+
+## How much funds can be repatriated or sent overseas from an NRE / NRO / FCNR (B) account ?
+
+Funds from NRE / FCNR (B) deposits accounts are fully repatriable without any upper limit, whereas funds from NRO accounts are partially repatriable (up to USD 1 million per financial year).
+
+---
+
+### 5 Pakistanis held, 526 kg drugs worth Rs 3,000 crore seized in huge Arabian Sea haul
+*Shivani Sharma · general*
+
+The Coast Guard, in coordination with the Anti-Terrorism Squad (ATS), Gujarat, intercepted an Iranian boat carrying 526 kg of heroin and methamphetamine worth over Rs 3,000 crore in the Arabian Sea, west of Lakshadweep. Five Pakistani nationals were also arrested in connection.
+
+The operation was carried out on September 25 based on a tip-off. Coast Guard personnel maintained sea-air surveillance of the suspicious vessel before launching a pursuit and boarding it.
+
+The intercepted boat, its crew and the seized contraband have been escorted under armed guard to Mumbai for joint interrogation and further multi-agency legal proceedings.
+
+The operation was carried out as part of efforts to prevent narcotics from reaching the mainland and to disrupt transnational drug-smuggling networks operating along the maritime route.
+
+\- Ends
+
+---
+
+### ‘Promised’ Bangkok trip never happens, elderly couple wins Rs 65,000 from agency
+*Richa Sahay · legal*
+
+The Telangana couple claimed that they had booked a tour package through the agency to travel to Bangkok in November 2024, but the trip never took place.
+
+[Read full article](https://indianexpress.com/article/legal-news/bangkok-trip-never-happens-couple-wins-rs-65000-travel-agency-10900102/)
+
+
+---
+
 ## 29 September 2026
 
 ### How high crude oil prices are hurting Dalal Street investors
