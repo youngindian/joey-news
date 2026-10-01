@@ -1,3 +1,572 @@
+## 1 October 2026
+
+### Pakistan says 22 terrorists killed in Afghanistan strikes amid Taliban row
+*India Today World Desk · general*
+
+## Pakistan said it struck TTP hideouts in Afghanistan and killed 22 terrorists. The Taliban called it aggression, saying civilians died and tensions will deepen.
+
+Islamabad,Oct 1, 2026 11:20 IST
+
+Pakistan said on Thursday that it killed at least 22 terrorists in airstrikes in Afghanistan, describing the action as part of a campaign against militant hideouts across the border. Afghanistan's Taliban government, however, said the strikes killed nine Afghan civilians, including women and children, and injured 11 others.
+
+The strikes come amid a sharp escalation in already strained ties between Pakistan and Afghanistan, with both sides trading allegations over militant sanctuaries, cross-border attacks, airstrikes and border incursions. Islamabad has repeatedly accused the Taliban administration in Kabul of allowing the Tehreek-e-Taliban Pakistan (TTP) and allied groups to use Afghan territory to plan and carry out attacks inside Pakistan, a charge the Afghan Taliban has rejected.
+
+Pakistan's information ministry said the country's security forces carried out "well-planned and calibrated aerial strikes" against the hideouts and safe havens of the banned TTP. It said "selective targeting" of terrorist camps and hideouts at two locations in Afghanistan was carried out on the basis of credible intelligence with "precision and accuracy". "Targets were destroyed with precision and initial reports suggest killing of twenty-two terrorists," the statement said. It added that large quantities of weapons and ammunition stored at the hideouts were also destroyed.
+
+The ministry said Pakistan has always strived for the maintenance of peace and stability in the region, but added that "the safety and security of our citizens remains our foremost priority". It alleged that Afghanistan continues to remain a hub of terrorism and that the threat to Pakistan comes from there. "In this context, our action precisely targeted the terrorist hubs. Maximum precautions were taken, and it was ensured that no collateral damage occurs," it said. The statement also said Pakistan's counter-terrorism campaign, Ghazab lil Haq, will continue at full pace to wipe out terrorism from the country.
+
+Taliban government spokesman Zabihullah Mujahid said in a social media post on Thursday that nine Afghan civilians, including women and children, were killed in the strikes, 11 others were injured and three homes were destroyed. He said the strikes were carried out in Chugam in Shultan district of Kunar province and Safar in Garmser district of Helmand province. "We condemn this act as an aggression and crime in violation of all accepted principles," he said.
+
+Pakistan has presented the strikes as a targeted operation against TTP hideouts, while the Taliban government in Afghanistan has said civilians were killed and homes were destroyed. The latest exchange has added to tensions between the two neighbours, who remain at odds over the presence of militant groups and attacks across the border.
+
+With PTI Inputs
+
+\- Ends
+
+---
+
+### NEET-PG 2026 result: Over 250 candidates score zero or below as 2.66 lakh appear
+*Anmol Nath Bali · general*
+
+A total of 258 candidates scored zero or negative marks in the National Eligibility-cum-Entrance Test for Postgraduate courses (NEET-PG) 2026, which saw 2,65,960 candidates appear, according to an analysis of the results published by the National Board of Examinations in Medical Sciences (NBEMS).
+
+Of these candidates, 64 scored zero, while 194 received negative marks. The lowest score was minus 59 out of 720, corresponding to an All India Rank of 2,65,960.
+
+The figures are based on an analysis of the published score list and do not represent a separate category-wise breakdown released by NBEMS.
+
+### OVER 2.65 LAKH CANDIDATES TAKE THE TEST
+
+Of the total candidates who appeared, 2,63,544 took the examination on August 30.
+
+The remaining 2,416 candidates appeared for a re-examination held in Jaipur on September 5. The re-test was conducted after a power failure disrupted the examination at the affected centre.
+
+### CUT-OFFS RANGE FROM 226 TO 262
+
+The qualifying cut-off for General and Economically Weaker Section (EWS) candidates was 262 marks out of 720, corresponding to the 50th percentile.
+
+For General candidates with benchmark disabilities, the cut-off was 244 marks, or the 45th percentile.
+
+Candidates from the Scheduled Castes (SC), Scheduled Tribes (ST) and Other Backward Classes (OBC), including those with benchmark disabilities in these categories, needed 226 marks, corresponding to the 40th percentile.
+
+All 258 candidates who scored zero or below fell short of the qualifying cut-off for every category.
+
+The qualifying cut-offs for NEET\-PG 2026 were also reported to be at their lowest levels since 2021 across categories. NEET-PG is the national-level entrance examination for admission to postgraduate medical courses in India.
+
+\- Ends
+
+---
+
+### How stabbed Indian pilot's quick thinking saved 174 lives on flydubai flight
+*Abhishek De · general*
+
+Bleeding heavily after being stabbed multiple times inside the cockpit by his co-pilot, Captain Smit Machchhar's quick thinking proved to be critical to the survival of the 174 passengers aboard the Israel-bound flydubai flight. Machchhar, who is being hailed as a hero worldwide, not only sent out emergency signals but also, crucially and on time, opened the cockpit door, allowing passengers to rush in and overpower the attacking co-pilot. Israeli officials said the co-pilot, an Omani national, wanted to take over the aircraft's controls and crash it.
+
+On Wednesday, pure chaos unfolded on board flydubai's flight FZ 1073. Two hours into the three-hour flight from Saudi Arabia to Tel Aviv, the aircraft transmitted distress code 7700, the signal for a general emergency. Seconds later, it transmitted the code 7500, which indicates possible hijacking or unlawful interference.
+
+Israeli passenger Yaniv Hayoun is welcomed at the Ben Gurion International Airport in Tel Aviv (AP)
+
+### HOW THINGS UNFOLDED ON FLYDUBAI FLIGHT?
+
+While details of the sequence of events remain sketchy, Machchhar likely sent the signals even as he fought back the co-pilot. While eyewitness accounts said the captain was attacked with a folding knife, some reports suggested that the co-pilot could have well used the fire axe that is factory-fitted in the cockpit.
+
+As is the norm everywhere, pilots in the Middle East go through the same security screenings as passengers, meaning they would not be able to bring weapons such as knives or guns on board.
+
+As the drama played out, the aircraft plummeted and spun out of control - reportedly spiralling 17,000 feet. Due to the emergency signals sent by the Indian captain, Israel scrambled its fighter jets, fearing a hijacking attempt.
+
+But what unfolded inside the Boeing aircraft was nothing short of a Hollywood thriller. Lying on the cockpit floor and covered in blood, Machchhar used the "last moments of his energy" to click open the cockpit door, Doron Spielman, the Israeli Prime Minister's spokesperson, told The Times of Israel.
+
+The split-second decision proved to be massive.
+
+It allowed passengers to enter the cockpit and subdue the co-pilot, who was allegedly interfering with the aircraft's controls in a likely attempt to crash it in Israel. Tel Aviv was just an hour away.
+
+"At that moment, some of the passengers who realised something was happening raced forward and entered the pilot's cabin. They saw the injured pilot on the ground, and the other... pilot was standing over the control panel, bashing the control panel," Spielman said.
+
+The move by Machchhar was also praised by US President Donald Trump. "The pilot was in very bad shape... But in a way, he was a hero to open the door," Trump said.
+
+The timing also proved to be crucial in saving his own life as well. Among those who ran to the cockpit was Dr Shota Musaev, a dentist. His timely intervention saved Machchhar's life.
+
+"He was covered in cuts – his head, his hands – they were practically sliced open. He lost a lot of blood and was in bad shape," Musaev told CNN.
+
+"I think that if we had waited even a few more moments, we would have lost him; his blood pressure had plummeted," he further said.
+
+Subsequently, two off-duty flydubai pilots, who were among the passengers, took control of the aircraft and carried out the emergency landing at Tabuk in Saudi Arabia. Machchhar rushed to the hospital for treatment. His condition is now stable.
+
+### WHY THE COCKPIT DOOR MATTERED?
+
+The cockpit door is not an ordinary door. It is deliberately built to be very hard to get through.
+
+After the 9/11 attacks, aircraft manufacturers reinforced the doors and made them bullet-resistant. They were designed to prevent unauthorised access from the passenger cabin.
+
+Basically, cockpit doors cannot be opened from the outside. They can only be opened from the inside. The purpose is simple - no one from the cabin could force their way into the cockpit and seize control of the aircraft.
+
+However, aircraft like Boeing 737s do have an emergency mechanism.
+
+A keypad on the cockpit door allows flight crew to enter an emergency code if the pilots are in danger or incapacitated. Entering the code unlocks the door after a delay, unless a pilot denies access.
+
+This creates an important security balance to prevent possible hijackings.
+
+In the flydubai incident, the action was happening inside the cockpit itself. That is why Machchhar's decision to release the door from inside was so critical in preventing a possible 9/11-type incident.
+
+The incident will come as a new headache for airlines. How do airlines now address the reality that a terror threat could emerge inside the cockpit as well?
+
+\- Ends
+
+---
+
+### No exam fees for drought-affected Class 10, 12 students in 265 talukas: Maharashtra board
+*Education Desk · legal*
+
+The fee exemption, as directed by the board, will cover students appearing for the Secondary School Certificate (SSC) and Higher Secondary Certificate (HSC) examinations, which are likely to be held in February-March 2027, until further orders.
+
+[Read full article](https://indianexpress.com/article/education/no-exam-fees-for-drought-affected-class-10-12-students-in-265-talukas-maharashtra-board-10901725/)
+
+---
+
+### Why are Kotak Mahindra Bank shares rising today?
+*India Today Business Desk · general*
+
+## Kotak Mahindra Bank shares rose on Thursday after the lender named Anup Kumar Saha as CEO and managing director. The move brought clarity on the bank's leadership transition ahead of Ashok Vaswani's exit on December 31.
+
+Shares hit intraday high of Rs 435.55 during trading session.
+
+New Delhi,Oct 1, 2026 11:17 IST
+
+Kotak Mahindra Bank shares rose nearly 3% in Thursday's trading session after the private sector lender announced the appointment of Anup Kumar Saha as its next Managing Director and CEO.
+
+The stock was trading at Rs 426.95, up Rs 9.35 or 2.24%, from its previous close of Rs 417.60, according to the market data at the time of the screenshot. It opened at Rs 425.45 and touched an intraday high of Rs 435.55.
+
+The stock was therefore trading Rs 1.50, or around 0.35%, above its opening price, while it was up Rs 9.35 from the previous close.
+
+### ANUP KUMAR SAHA TO TAKE OVER AS CEO
+
+Kotak Mahindra Bank said on Thursday that it has appointed Anup Kumar Saha as its CEO and Managing Director for a three-year term.
+
+Saha will succeed Ashok Vaswani, whose term as CEO and MD ends on December 31.
+
+The leadership transition is the key trigger behind the rise in Kotak Mahindra Bank shares today, with investors reacting to clarity over the bank's next top executive.
+
+Kotak Mahindra Bank shares opened at Rs 425.45 and moved higher during the session, hitting an intraday high of Rs 435.55.
+
+At Rs 426.95, the stock was 2.24% higher at the time of the market data. The day's trading range so far was Rs 423 to Rs 435.55.
+
+The stock's 52-week high stands at Rs 452.98, while its 52-week low is Rs 345.40.
+
+The bank's market capitalisation stood at around Rs 4.25 lakh crore based on the data shown.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+---
+
+### Astrologer may make him US President: Kanimozhi mocks Vijay over Secretariat plans
+*Apoorva Jayachandran · general*
+
+## Kanimozhi mocked Tamil Nadu Chief Minister Vijay over the proposed new Secretariat and his reported reliance on an astrologer. Her remarks came as the project faces political criticism and fisherfolk resistance.
+
+Kanimozhi mocked Vijay over his new Secretariat plans. (PTI photos)
+
+Chennai,Oct 1, 2026 11:17 IST
+
+DMK MP Kanimozhi took a sharp jibe at Tamil Nadu Chief Minister C Joseph over his proposed plans for a new Secretariat, sarcastically linking the move to his astrologer and suggesting that the latter may even have plans to make him the President of the US.
+
+Kanimozhi made the remarks at a DMK event on Tuesday, where she mocked Vijay’s political ambitions while taking a dig at his association with astrologer Rickey Radhan Pandit Vettrivel.
+
+Referring to the plans for the new 1,200-acre Secretariat complex, the DMK MP said, “I don't know if the astrologer told him or what, but they are going to build a new Assembly.”
+
+She then took the dig further, joking that the astrologer may have told Vijay that looking at the sea had already made him Chief Minister and that looking at it again could make him Prime Minister.
+
+“Before the sea-facing office, he is Chief Minister. After the sea-facing office, maybe he will aspire to become the Prime Minister,” Kanimozhi said.
+
+Continuing her sarcasm, Kanimozhi said the astrologer could advise Vijay to see the Taj Mahal or the Himalayas in Delhi before sending him “straight to America” to become the President.
+
+Vijay’s plans for a new Secretariat have triggered a major controversy.
+
+The proposed project, estimated to cost Rs 1,200 crore, is planned on Tamil Nadu Housing Board land at Pattinapakkam, a coastal area in Chennai.
+
+The project has faced not only political opposition but also resistance from fishing communities in Pattinapakkam and surrounding areas.
+
+More than 1,500 fishing families use the land for activities including anchoring boats, repairing and drying fishing nets, drying fish and operating daily markets.
+
+While the fisherfolk have warned of mass protests if the project goes ahead, residents of Pattinapakkam and the Marina Loop Road area have said the land is closely linked to their livelihoods and traditional way of life.
+
+Kanimozhi’s remarks also revived a controversy that erupted in May over Vijay’s decision to appoint his astrologer, Pandit Vettrivel, as an officer on special duty (OSD).
+
+After assuming office on May 10, Vijay appointed Vettrivel as an OSD two days later. The appointment drew criticism from the DMK, the Viduthalai Chiruthaigal Katchi (VCK), CPI(M) and CPI.
+
+The appointment was revoked after the controversy intensified.
+
+\- Ends
+
+---
+
+### US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say
+*Reuters · business*
+
+Washington: US officials believe a Chinese invasion of Taiwan before 2028 is increasingly unlikely despite Chinese President Xi Jinping's instructions for his military to be ready by 2027 to take the democratically governed island by force, if needed, people familiar with US thinking said.
+
+The main reasons include delays in military readiness amid the Chinese Communist Party's anti-corruption campaign as well as Beijing's eagerness to see the results of Taiwan's 2028 election, which some Chinese officials hope could usher in a government more amenable to bringing the island under Chinese control, according to two current US officials, one former US official and a person familiar with the matter.
+
+Beijing may increasingly look to use force in 2028 and beyond if Taiwan's election sees the Democratic Progressive Party win a fourth consecutive term, and in particular if current President ‌Lai Ching-te wins reelection, the people added.
+
+  
+
+"If that happens, I think 2028 becomes pretty sporty," said one of the US officials, who like the other sources spoke on condition of anonymity.
+
+Lai, who took office two years ago, and his ruling DPP, champion Taiwan's separate identity from China, a position ​that frequently angers Beijing, which views the island as an inviolable part of Chinese territory. Taiwan strongly objects to China's claims and says only its people can decide their future.
+
+The assessment, which has not previously been reported, is a significant update to the years-long understanding among US officials that Xi wanted his military ready to potentially take Taiwan by force in 2027, the centenary of the founding of its People's Liberation Army. China has never ruled out using force to bring Taiwan under its control but has never publicly confirmed a 2027 readiness order.
+
+The Pentagon declined to comment.
+
+China's US embassy and Taiwan's representative office in Washington did not immediately respond to a request for comment.
+
+In a speech this week, Xi referred to Taiwan and talked about promoting the peaceful development of cross-strait relations to achieve "reunification."
+
+The 2027 benchmark, which analysts say is about Chinese military preparedness rather than a timeline for invasion, has for years created a sense of urgency across multiple US administrations in countering China in the Asia-Pacific region.
+
+The US intelligence community has hinted at Chinese wariness before. It said in its annual threat assessment in March that China did not, at least at that point, have a plan to invade Taiwan next year and still preferred to wrest control of the ​island without the use of force, if possible.
+
+## US ELECTIONS AS A FACTOR?
+
+The US is Taiwan's most important international backer and weapons supplier despite a lack of formal diplomatic ties, and US officials offered mixed assessments of the degree to which China might view the 2028 US presidential election as an important indicator for military action.
+
+While three of the people familiar with the matter said Beijing may also want to evaluate the outcome of the US election, particularly given rising American voter antipathy toward US military action abroad, the first US official said Beijing viewed both Democrats and Republicans as largely aligned on Taiwan.
+
+While China might have a preference in the 2028 US election, "it doesn't become as decisive a factor in my opinion, as it might have been 15 years ago," the official said.
+
+US President Donald Trump has downplayed the likelihood of a Chinese invasion of Taiwan during his presidency, going so far as to say last year that Xi told him China would not invade while he was in office.
+
+Trump made limited comments on Taiwan after hosting Xi in Washington last week, saying only that the issue of Taiwan came up when the two spoke and that Xi understood his position.
+
+China calls Taiwan its single most important issue and a matter of Chinese sovereignty and territorial integrity.
+
+It has called for an end to US arms sales to Taiwan. Since his May trip to Beijing, Trump has held off on approving a new arms package worth some $14 billion, describing it as a "negotiating chip."
+
+For years, the US strategy has focused on arming Taiwan so that it can hold off Chinese forces long enough for the United States and others to come to its aid.
+
+## ANTI-CORRUPTION DRIVE
+
+China's Xi has not rescinded his goal for the People's Liberation Army to have the capabilities available to take Taiwan by force by next year, officials say.
+
+But the military didn't accomplish as much last year militarily as it probably had intended because of the impact of China's anti-corruption campaign, the people said.
+
+Since coming to power in 2012, Xi has unleashed a sweeping corruption ​and discipline crackdown. Millions within China's vast bureaucracy have been investigated, with scores of senior party, government and military officials ensnared and purged.
+
+In recent years, the People's Liberation Army has been a target of the campaign. A string of investigations and expulsions has left just two active officials on the formerly seven-member Central Military Commission, including Xi himself, who serves as ​chair.
+
+## SHORT, SHARP WAR
+
+China's military exercises last year were smaller and less threatening compared to the past several years, according to the US official. While they bounced back a bit this year, the official suggested Chinese military officials were dissatisfied with their readiness.
+
+The official said China was believed to have drawn a lesson from the wars in Iran and Ukraine, which is the need to move quickly once any invasion begins and avoid getting bogged down in a sustained conflict.
+
+More work remained for China.
+
+"There are way too many pieces that aren't quite in place yet for what would be the most difficult military operation any military has attempted probably since the Allied invasion of Normandy," the official said.
+
+---
+
+### Hyundai records highest-ever monthly sales of 77,916 units in September
+*Auto Today · general*
+
+## Hyundai India recorded its highest-ever monthly sales in September 2026, with total sales of 77,916 units, driven by double-digit growth in both domestic sales and exports.
+
+Hyundai Alcazar, Creta, Creta Electric Lounge Edition
+
+New Delhi,Oct 1, 2026 11:14 IST
+
+Hyundai Motor India recorded its highest-ever monthly sales in September 2026, with total sales of 77,916 units, including domestic sales and exports. The automaker registered a 10.8% year-on-year growth during the month.
+
+Hyundai’s domestic sales stood at 57,166 units in September, up 10.9% compared to the same month last year. Exports also grew 10.4% year-on-year to 20,750 units.
+
+The September performance surpassed Hyundai’s previous record for total monthly sales, which was set in July 2026.
+
+Hyundai said the growth was supported by both its domestic and export markets. The company expects demand to remain strong during the ongoing festive season, with bookings also opening for the Hyundai Bayon, which will be introduced in India as an all-new nameplate.
+
+Commenting on the sales performance, Tarun Garg, MD and CEO, Hyundai Motor India, said the company recorded its highest-ever total monthly sales in September, with growth across both domestic and export markets.
+
+The Hyundai Bayon will expand the company’s product portfolio in India as the automaker looks to capitalise on the festive season.
+
+****Subscribe to Auto Today Magazine****
+
+\- Ends
+
+---
+
+### Calm, Focused, Aviation-Obsessed: Mumbai Neighbours Reveal The Flydubai Pilot Smit Machchhar They Know
+*Sumedha Kirti · general*
+
+Smit Machchhar News: Residents of Swastik Heights in Chembur call flydubai captain very calm and focused on work, always talking aviation, and plan a big celebration for his return
+
+[Read full article](https://www.news18.com/cities/mumbai-news/flydubai-pilot-smit-machchhar-as-his-neighbours-know-him-calm-aviation-obsessed-10361951.html)
+
+---
+
+### Allahabad High Court slams police ‘pressure tactics’, awards Rs 40,000 for illegal detention
+*Richa Sahay · legal*
+
+The police allegedly picked up the man from his home in a case where his brother was accused of an attempt to murder.
+
+[Read full article](https://indianexpress.com/article/legal-news/allahabad-high-court-slams-police-tactics-rs-40000-illegal-detention-10901812/)
+
+---
+
+### Orphaned at three, jailed among adults at 17, killed at 21: The Ajmeet Singh story
+*Kamaldeep Singh Brar · legal*
+
+Born on May 11, 2005, Singh was 17 years and five months old when Amritsar police first arrested him in October 2022, in a case where he had not even been named in the original FIR but was added later.
+
+[Read full article](https://indianexpress.com/article/cities/chandigarh/ajmeet-singh-orphaned-jailed-adults-killed-10901830/)
+
+---
+
+### Chetan tried to pursue another woman a year before Ketan's murder: Cops
+*Omkar Wable · general*
+
+Police investigating the Ketan Agarwal murder case have uncovered details of an alleged attempt by accused Chetan Chaudhary to pursue another woman about a year before the murder.
+
+According to police, Chetan allegedly tried to initiate a relationship with a college student in Pune on May 9, 2026. The woman, a native of Latur, was staying in Pune with a friend at the time. Police have recorded the statements of both women in connection with the case.
+
+According to the woman's statement, she and her friend went to a club on SB Road for a party with one woman's boyfriend and Chetan Chaudhary. After consuming alcohol, the four went to a lodge in the Market Yard area late at night.
+
+The woman's friend went into one room with her boyfriend, while the other woman went into another room with Chetan, according to the statement.
+
+The woman alleged that Chetan forcibly tried to initiate a relationship with her. She reportedly told her friend about the incident the following day. The friend also told police that Chetan had tried two or three times to pursue a relationship with her.
+
+### CHETAN, SIYA STAYED AT 2 PUNE HOTELS
+
+The investigation has also revealed details about the relationship between Chetan and Siya Goyal. According to police, the two stayed overnight at two different hotels in Pune before their marriage was fixed.
+
+Police have recorded statements of managers and staff members from both hotels and seized copies of the identity documents submitted during their stays.
+
+According to police, Chetan booked a room at a hotel on NIBM Road in November 2025. He was allotted room number 304. The hotel's assistant finance manager told police that Chetan submitted his Aadhaar card, while Siya's learning licence was provided as her identity proof.
+
+The two reportedly checked out at around 1 pm the following day. Police have taken copies of both identity documents as part of the investigation.
+
+Chetan and Siya stayed at another hotel in the Gultekdi area in January 2026. The hotel manager's statement has also been recorded by police.
+
+### CHETAN ASKED IF DELETED CHATS COULD BE RECOVERED
+
+Police have also recorded the statement of a friend of Chetan, who works for a private company.
+
+According to the statement, Chetan contacted the friend on June 22 and spoke about an incident in Lonavala in which, he said, a vehicle driven by the friend had hit another car before they left the spot.
+
+Chetan reportedly told the friend that he was subsequently being harassed on WhatsApp and Instagram using the vehicle registration number and mobile number. He asked whether deleted WhatsApp and Instagram chats could be recovered by the police.
+
+Chetan also asked whether the friend knew anyone in the Crime Branch or a mobile company who could help him, according to the police statement.
+
+The friend reportedly told police that he had no such contacts and informed Chetan that deleted data could potentially be recovered by investigators. The two had planned to meet that night, but the meeting could not take place because of the friend's work commitments.
+
+The following day, the friend learnt that Chetan and Siya had been arrested, according to his statement.
+
+\- Ends
+
+---
+
+### WhatsApp changes for parents: New controls let you track teen group activity, manage privacy settings & limit Meta AI, without seeing chats
+*Trending Desk · business*
+
+WhatsApp parental controls: WhatsApp has introduced a new set of optional parental controls for teenagers, giving parents more visibility and control over certain privacy settings, groups, Channels and the Meta AI experience.
+
+The new features are aimed at helping parents and teenagers decide together how the messaging app should be used, while keeping personal chats and calls private.
+
+  
+
+## WhatsApp parental controls give parents more privacy settings
+
+Under the new controls, parents can choose certain privacy settings for their teenage children.
+
+  
+
+These include deciding who can see the teen’s profile photo and who can add them to WhatsApp groups.
+
+If a teenager wants to make these settings less restrictive, parental approval through a parent-set PIN will be required.
+
+  
+
+## Parents can get updates about WhatsApp groups
+
+The new WhatsApp controls also give parents more information about their teen’s group activity.
+
+Parents can receive notifications when their teenager joins or leaves a group. They can also be notified when the number of members in a group increases significantly.
+
+This is designed to give parents a better idea of the kind of group activity their teenager is involved in without giving them access to private conversations.
+
+## WhatsApp adds controls for Channels and Status
+
+Parents will also get additional options to manage how their teenagers use WhatsApp Channels.
+
+They can decide which Status updates their teen can view and who can see the teenager’s own Status updates.
+
+## Parents can control Meta AI access
+
+WhatsApp is also introducing parental controls for its Meta AI experience for teenagers.
+
+Parents can choose between the standard 13+ setting and a stricter Limited Content option, depending on the level of restrictions they want.
+
+WhatsApp said these controls will be introduced gradually and may be expanded based on feedback from families.
+
+## WhatsApp messages and calls remain private
+
+The company said the new controls are optional and parents can change or turn them off whenever they want.
+
+Even when parental controls are enabled, teenagers’ personal messages and calls will continue to be protected by end-to-end encryption.
+
+WhatsApp said people outside a chat, including WhatsApp itself, cannot access or listen to users’ personal messages and calls.
+
+## What this means for WhatsApp users
+
+For parents, the new features offer more control over some aspects of a teenager’s WhatsApp use without giving them access to private chats.
+
+For teenagers, the controls allow parents to set boundaries around groups, privacy, Channels and Meta AI while keeping personal conversations protected.
+
+The move comes after WhatsApp introduced other parental tools earlier this year for younger users, allowing parents and guardians to adjust communication settings and restrict certain features.
+
+_Inputs from agencies_
+
+---
+
+### Plunged 14,000 feet in 29 secs: How stabbed Indian pilot averted flydubai crash
+*Abhishek Chakraborty · legal*
+
+The flydubai stabbing on Flight FZ1073 sent a Boeing 737 diving 14,125 feet in 29 seconds before it landed safely in Saudi Arabia.
+
+[Read full article](https://indianexpress.com/article/world/flydubai-flight-fz1073-stabbing-indian-pilot-smit-machchhar-saudi-arabia-emergency-landing-10901704/)
+
+---
+
+### India's monsoon season ends with 13% rain deficit. Now comes the real water test
+*India Today Science Desk · general*
+
+## India's southwest monsoon has ended with a 13% rainfall deficit, putting several regions under pressure. The focus now shifts to soil moisture, reservoirs and groundwater as the rabi season begins.
+
+A farmer crosses a waterlogged paddy field on a cloudy day in Amritsar. (Photo: PTI)
+
+New Delhi,Oct 1, 2026 11:10 IST
+
+India’s four-month southwest monsoon has ended, but for large parts of the country, the water story is far from over.
+
+The season closed with a 13% rainfall deficit, leaving reservoirs, soil moisture and groundwater under pressure in several regions.
+
+Now, as the country moves into the rabi sowing season, the question is whether there will be enough water left in the ground to support the next crop.
+
+The situation is already critical in Maharashtra. The state government has declared drought in 265 of its 358 talukas, covering nearly three-fourths of the state, after deficient rainfall and prolonged dry spells affected agriculture and water availability.
+
+This makes the coming months particularly important for farmers.
+
+Unlike kharif crops, which largely depend on the southwest monsoon, rabi crops are sown after the monsoon and depend more heavily on residual soil moisture, irrigation, reservoirs and groundwater. Wheat, gram, mustard and other winter crops therefore face greater water stress if the monsoon fails to adequately recharge these sources.
+
+A weak monsoon does not automatically mean a failed rabi season. But where rainfall was deficient or poorly distributed, farmers may have less moisture available when they begin sowing. In drought-hit Maharashtra, prolonged dry spells have already damaged kharif crops and strained water supplies.
+
+And the immediate weather outlook offers little relief for much of India.
+
+### BELOW-NORMAL RAIN AHEAD
+
+The India Meteorological Department (IMD) expects October rainfall over the country as a whole to be below normal, at less than 85% of the long-period average.
+
+Most parts of India are likely to receive below-normal rainfall during the month, although parts of northwest India, southern peninsular India and isolated areas of eastern India could see normal to above-normal rain.
+
+For the entire October-December post-monsoon period, the IMD expects South Peninsular India — including Tamil Nadu, Kerala, coastal Andhra Pradesh, Rayalaseema and south interior Karnataka, to receive normal rainfall, at 88-112% of its long-period average.
+
+But most of the country is expected to remain on the drier side.
+
+### EL NINO TO SHOCK THE SYSTEM
+
+There is another complication: strong El Nio conditions are currently prevailing over the equatorial Pacific, with sea-surface temperatures well above average. IMD's climate models indicate that El Nio is likely to strengthen through the end of the year.
+
+Temperatures could add to the pressure. IMD expects above-normal maximum and minimum temperatures across much of India in October, potentially increasing evaporation and water demand.
+
+So, the end of the monsoon is not the end of India's water story.
+
+The real test now begins underground, in the soil, reservoirs and wells that will determine how much of India's rabi crop can be supported through the winter.
+
+\- Ends
+
+---
+
+### After Tulu, Karnataka's Urdu Outreach: Government To Host First-Ever 'Urdu Habba' At Vidhana Soudha
+*Pragati Ratti · general*
+
+It is being positioned not merely as a literary festival but as a celebration of Urdu’s culture, heritage and artistic traditions.
+
+[Read full article](https://www.news18.com/india/after-tulu-karnatakas-urdu-outreach-government-to-host-first-ever-urdu-habba-at-vidhana-soudha-ws-lr-10362113.html)
+
+---
+
+### Huawei unveils Mate 90 phones, leans on homegrown chip design to offset US curbs
+*SECTIONS Huawei unveils Mate · business*
+
+BEIJING - Huawei Technologies unveiled its Mate 90 smartphone series on Thursday, betting on its in-house operating system and redesigned chip architecture to boost its performance in the face of US curbs on shipments of advanced semiconductors.
+
+Speaking to reporters on Tuesday ahead of the launch, Huawei consumer business chief Richard Yu said the company still faces constraints in the supply of advanced chips.
+
+"Advanced semiconductor capacity remains very limited in China, and Huawei's Ascend AI chips also draw on that same capacity," Yu said.
+
+  
+
+"The capacity for smartphone chips remains tight, even though rising smartphone prices have curbed shipment volumes (for handsets)."
+
+The launch will test whether Huawei can keep advancing its smartphone lineup despite US restrictions that have limited its access to cutting-edge chipmaking tools, forcing the company to develop alternative ways to boost processor performance.
+
+The Mate 90 series succeeds the Mate 80 line launched in November 2025. Premium models, including the Mate 90 Pro Max, are powered by Huawei's Kirin 9050 Pro, a system-on-chip built with a technique Huawei calls "LogicFolding".
+
+The method restructures a chip's internal wiring in three dimensions rather than the conventional flat, two-dimensional layout, allowing for denser, faster processing - though it requires more wafers to produce.
+
+Eric Xu, Huawei's rotating chairman, said at a media event in Shanghai last month that supply of the company's Ascend 950 AI chips could not meet domestic demand due to capacity constraints.
+
+Yu said China's advanced chipmaking still relies on deep ultraviolet (DUV) lithography machines, and that while extreme ultraviolet (EUV) technology is "valuable", Chinese manufacturers are still working towards it.
+
+Huawei would use more chips built with the LogicFolding technique in future smartphones, Yu said.
+
+Huawei did not disclose who manufactures the Kirin 9050 Pro. Semiconductor Manufacturing International Corp (SMIC), China's top logic foundry, is widely believed to produce the Kirin chips used in Huawei's Mate series as well as its Ascend AI processors.
+
+SMIC did not respond to a request for comment.
+
+Huawei's latest phones run on its homegrown, Android-free HarmonyOS 7 operating system, which Huawei says supports more than 450,000 apps and services.
+
+The Mate 90 Pro Max with 16 GB of memory and 512 GB of storage will be priced at 9,999 yuan ($1,491), 2,000 yuan more than the same version of its predecessor at launch. The standard and Pro models start at 5,999 yuan and 6,999 yuan, respectively.
+
+Huawei said the top-end Mate 90 models deliver a 31% increase in overall performance over the previous flagship generation.
+
+## HIGHER PRICES FOR HANDSETS
+
+Chinese smartphone makers are grappling with rising memory and component costs, leading them to raise prices and shift more shipments toward premium models.
+
+Yu said rising memory prices had added an average of $200 to the cost of each handset, weighing on Huawei's profit margins.
+
+"We have to increase prices as well, yet at a slower pace," Yu said.
+
+China's domestic smartphone shipments fell 7% year-on-year between January and August, even as Huawei's shipments in the country rose 13%, according to research firm International Data Corporation (IDC).
+
+The average selling price of smartphones in China climbed 11.3% year-on-year in the second quarter to $543, while the average price of Huawei smartphones declined 14.7% to $628, IDC data showed.
+
+## APPLE VS HUAWEI FOLDABLE
+
+Apple announced its first foldable phone, the iPhone Duo, last month, entering a category long dominated by Samsung Electronics and Chinese rivals such as Huawei.
+
+Yu said he welcomed Apple's entry to the market.
+
+"I am very pleased to see the launch of a similar product by our peers," Yu said.
+
+Huawei currently holds about a 75% share in China's foldable phone market, he said.
+
+"Between September 10 and 13, our Pura X Max foldable phone sales shot up 76% week-on-week right after Apple Duo's launch," Yu said, adding that shipments of the Pura X Max, which is similar in size to the iPhone Duo, had topped 1.2 million units in China since its April release.
+
+Apple is expected to ship 6 million iPhone Duo units in 2026, with China - the world's largest market for foldable phones - accounting for nearly a quarter of that total, according to data from Counterpoint Research.
+
+---
+
+### Females, especially young girls, are very vulnerable in our society: Delhi High Court
+*Jagriti Rai · legal*
+
+The court, however, upheld the acquittal of a man accused of raping a woman who later ended her life in 2006.
+
+[Read full article](https://indianexpress.com/article/legal-news/females-young-girls-vulnerable-society-delhi-high-court-10901779/)
+
+
+---
+
 ## 30 September 2026
 
 ### Inox Clean Energy IPO: INOXGFL Group Firm Files DRHP To Raise Up To Rs 10,000 Crore
