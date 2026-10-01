@@ -1,8 +1,220 @@
 # Editorials
 
-_Last updated: 2026-09-30 07:12 UTC_
+_Last updated: 2026-10-01 07:36 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 1 October 2026
+
+### Bitter pills: on Court’s intervention, drug pricing
+*The Hindu · Editorial*
+
+The Supreme Court has upbraided disparities between the price to retailer (PTR) and the maximum retail price (MRP) of certain drugs, including those used to treat cancers, in some instances up to 1,000%. These drugs are not available over-the-counter, so hospitals often control which brand a patient uses. As a result, pharmaceutical companies compete for the hospitals’ business, not patients’. To incentivise a hospital to stock specific drugs, they deliberately specify inflated MRPs while offering the hospital low PTRs, and the hospital can pocket the difference. The practice does not technically amount to a kickback but is one economically, as manufacturers effectively promise hospitals an embedded financial reward to pick specific products, and leave patients to potentially pay more than the medicines’ supply price because hospitals have an incentive to sell brands with the largest margins. When private hospitals also force patients to purchase drugs from on-premise pharmacies — as Competition Commission investigations have established — patients are unable to shop around, undermining normal price competition. So, more affordable equivalent drugs are disadvantaged because of their lower revenue generation potential for hospitals. Patients, meanwhile, face severe financial strain — a concern also flagged by drug regulators in Karnataka and Maharashtra — and could, among those with cancers and chronic conditions, reduce adherence to longer treatment regimens.
+
+The practice arises from a gap in the 2013 Drug (Prices Control) Order, which caps the final maximum price of scheduled drugs, but not the markup on hospitals’ transactions. Say the National Pharmaceutical Pricing Authority (NPPA) calculates the market-derived average price of such a drug to be ₹100, making the ceiling ₹116. If a hospital negotiates a PTR of ₹50 from the manufacturer, it can still sell the drug (or bill the government if a drug is state-financed) at ₹116, without breaching the ceiling, and enjoy the difference of ₹66. In a proof-of-concept exercise in 2019, the NPPA capped the trade margins of 42 non-schedule anti-cancer drugs at 30%. The Department of Pharmaceuticals subsequently said prices of 526 brands dropped by up to 91%, suggesting that the MRPs of several cancer drugs included compressible margins. Second, while the Court’s suggestion to have a fixed percentage markup across all drugs is appealing, it should accompany a regressive margin that applies a smaller percentage as drug prices increase, to neutralise sellers’ incentive to favour more expensive products. Overall, however, the Court is right to highlight this insidious problem, especially after refusing to intervene in Siddharth Dalmia (2025), and while the Union and States have failed to counterbalance the absence of natural market mechanisms to rationalise drug prices.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/bitter-pills-on-courts-intervention-drug-pricing/article71528814.ece)
+
+---
+
+### Good foundation: on India’s strong industrial growth performance
+*The Hindu · Editorial*
+
+India’s industrial growth performance in August continued its strong streak since the beginning of the financial year, and sets the economy up well for the upcoming festive season. Growth in the Index of Industrial Production (IIP) quickened to 8% in August 2026, the second fastest that it has been since at least April 2024, which is the earliest month for which the new series of the IIP has growth data. The fastest growth in this period, of 8.8%, came as recently as June 2026. In fact, IIP growth in the April-August period of this financial year stood at a robust 6.8%, faster than that seen during the corresponding periods of the previous two years. The new series has an updated base year, more data sources, and improved methodology, so this growth performance is as accurate an indication of industrial growth as government data can provide. Moreover, apart from a few divergences, IIP data largely match the trends evident in the Index of Core Industries (ICI), the other government index that measures industrial performance. For example, the IIP shows that the electricity sector’s growth quickened to 12.3% in August 2026, while the ICI pegs it at 11.6%. Similarly, the construction goods sector saw growth come in at a relatively strong 6.4%, albeit slower than July’s 8%. In keeping with that, the ICI shows that the cement sector grew by a robust 12.5% in August, though this was slightly slower than the 12.7% in July. The older series of both indices often provided contrary indications, so this alignment is welcome.
+
+The IIP for August also lays out some core strengths that seem to be developing in the economy. The manufacturing sector grew by nearly 9% in August, and averaged 7.6% in the April-August 2026 period. Given that it had grown by about 4.2% in the first five months of the previous financial year, this acceleration is good to see, especially since it comes at a time when producers are facing several input-related pressures. At the start of this calendar year, manufacturing growth seemed to have been driven by a growth in exports. The August data show that this is now being supplemented by a recovery in domestic consumption. The growth in consumer durables stood at 11.1% in August. The consumer non-durables sector returned to growth, of a little more than 2%, after having contracted in July. The effect of the Goods and Services Tax rate cuts in September 2025 should have petered out by now, so this boost in durables production likely means that producers are expecting a strong festive season ahead. The third quarter of the financial year will therefore be crucial for the economy, but the groundwork seems to be in place for a relatively good one.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/good-foundation-on-indias-strong-industrial-growth-performance/article71524281.ece)
+
+---
+
+### The India-EFTA partnership, one plus one equals three
+*The Hindu · Opinion*
+
+On October 1, 2025, the Trade and Economic Partnership Agreement (TEPA) between India and the four European Free Trade Association (EFTA) states — Iceland, Liechtenstein, Norway and Switzerland — entered into force. One year on, the more useful question is not how many tariff lines have fallen, but what kind of partnership the agreement is making possible.
+
+The tariff figures are substantial. EFTA states have offered concessions on 92.2% of their tariff lines, covering 99.6% of the value of India’s exports to them. India, in turn, is granting concessions on 82.7% of its tariff lines, covering 95.3% of the value of EFTA’s exports. Few market-opening exercises between India and a group of developed economies have been this ambitious.
+
+Lasting partnerships, an India focusYet, the defining feature of TEPA lies elsewhere. It was the first trade agreement that India signed with a dedicated chapter on investment and job creation. Under it, the EFTA states aim to raise investment in India by $100 billion over 15 years and to facilitate one million direct jobs. An agreement based on that is designed to build lasting industrial and technological partnerships.
+
+For a country of just under 4,00,000 people, Iceland’s contribution to that partnership was never going to be about scale. It is about experience, particularly in three areas where that experience speaks directly to India’s priorities.
+
+The first is geothermal energy, specifically a part of it that receives far less attention than power generation: the direct use of low- to medium-temperature heat. In Iceland, geothermal energy heats nearly every home, dries fish, warms greenhouses and keeps entire communities running through Arctic winters without burning fossil fuels. That century of experience in direct use is what the Himalayan geothermal belt of northern India can draw on.
+
+Consider the apple growers of Himachal Pradesh. Many have long been forced to sell their harvest immediately, at the lowest prices of the season, because they lacked the means to store their crops.
+
+That is now changing. At Tapri, in Kinnaur district, a geothermal facility operated by Geotropy, an Indian-Icelandic venture, uses heat drawn from the ground to dry fruit, and this harvest season, it is running round the clock as growers line up to use it.
+
+India and the EU — a fit partnership in a divided worldA geothermal cooling facility at the same site is due to be completed by the end of the year. Farmers there can now process their produce and time their sales rather than remain price-takers at harvest, drawing on the same direct-use techniques that Iceland has refined over generations. Or consider the high-altitude communities and installations along India’s northern frontier, which depend on fuel hauled along supply lines that can close for months. Heat drawn directly from the ground beneath them offers something no convoy can: energy security that does not depend on the road remaining open.
+
+The second area is carbon capture, utilisation and storage (CCUS). A NITI Aayog study in 2022 estimated that India could capture some 750 million tonnes of carbon dioxide a year by 2050. The scientific foundations are being laid by the Department of Science and Technology, which has steered India’s CCUS research for years and, in December 2025, published the country’s first dedicated research and development road map for CCUS in support of the 2070 net-zero goal.
+
+The Union Budget followed in February with an outlay of ₹20,000 crore over five years to take these technologies towards scale in power, steel, cement, refining and chemicals, while public sector companies such as the Oil and Natural Gas Corporation, NTPC Limited (formerly National Thermal Power Corporation) and Indian Oil Corporation Limited are taking the work into the field through feasibility studies, pilot projects and subsurface assessments.
+
+The India-EU trade deal is also a strategic turning pointThis pre-commercial stage is exactly where Iceland’s experience is most valuable, on both sides of the equation. On storage, CarbFix has shown that when carbon dioxide is dissolved in water and injected into basalt, more than 95% of it turns to stone within two years; India’s Deccan Trap basalts share striking geological similarities with Iceland’s volcanic rock.
+
+New frontiersOn utilisation, Iceland was home to the world’s first industrial-scale plant to turn captured carbon dioxide into fuel: Carbon Recycling International’s George Olah plant at Svartsengi, which began producing methanol in 2011-12. Its technology now operates on a far larger scale abroad, including in projects involving steel-sector emissions. In May, Carbon Iceland signed a memorandum of understanding with JSW Steel and Bharatia to explore a 3,00,000-tonne-a-year e-methanol project in Raigad, Maharashtra, converting steel-plant emissions into fuel using green hydrogen. The opportunity, therefore, lies less in exporting equipment than in sharing knowledge and building partnerships through technology licensing, storage assessment, monitoring and verification, and the co-development of projects as India’s pilots scale up.
+
+The third area is the ocean. Iceland’s economy was built on the sustainable management of North Atlantic fisheries, and with it came deep expertise in seafood quality, cold-chain logistics and value-added processing. Icelandic companies are already exploring how to bring further processing of North Atlantic catch to Indian shores, creating local jobs and transferring technology under the TEPA concessions.
+
+Beyond trade deals to building a new architectureIceland has also shown that the greatest gains may lie in what is usually thrown away. Where most fishing nations use only 40% to 60% of each fish, Iceland now uses around 90% of every cod landed, turning skin, liver and bones into medical products, oils and feed. India does not need to catch a single additional fish to create new value, jobs and exports. It needs only to look differently at what its fleets already bring ashore.
+
+All of this sits within a wider frame. Nearly six years of working on energy access at the United Nations, along with a seat at the table during the Paris Agreement negotiations, taught this writer that climate and energy policy are, at their core, exercises in patient and practical partnership between nations. That same spirit defines Iceland’s and India’s engagement in the Arctic. Iceland is a founding member of the Arctic Council; India has been an Observer since 2013 and has taken that role seriously, publishing its Arctic Policy in 2022 and operating the Himadri research station in Svalbard. As one of the eight Arctic States, Iceland offers India a direct and trusted bilateral channel into Arctic governance and research, complementing its multilateral engagement. For Iceland and India, energy, trade and Arctic stewardship are part of the same conversation.
+
+‘If you miss India, you’ll miss a large chunk of the 21st century’: Manuel MuñizSome Icelandic arithmeticTEPA is young, but it is already showing what an ambitious, rules-based partnership between Europe and India can deliver in investment, technology and jobs, as well as in energy, fisheries and shared stewardship of a changing Arctic. It is not a rival to the European Union (EU)-India Free Trade Agreement (FTA) but a complement to it: a working model, already in force, of what the next chapter of Europe-India trade can look like. If readers will permit a small piece of Icelandic arithmetic, TEPA and the EU-India FTA are a case of one plus one equalling three. That is not competition but addition — and a rather good addition at that.
+
+Benedikt Höskuldsson is the Ambassador of Iceland to India
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-india-efta-partnership-one-plus-one-equals-three/article71529585.ece)
+
+---
+
+### An essential exemption for teachers
+*Deccan Herald · Editorial*
+
+The Karnataka government’s proposed legislation to regulate the deployment of teachers for non-academic duties recognises a long-standing problem. Teachers are routinely assigned election work, census operations, surveys, and other administrative tasks, often at the expense of classroom instruction. The draft Karnataka Teachers Non-Teaching Duties Bill seeks to curb this practice by imposing stringent conditions on such deployment. These conditions include a certificate confirming the non-availability of other personnel, safeguards against school closures and violations of prescribed pupil-teacher ratios, and arrangements to compensate for lost instructional hours. It also proposes a roster of teachers willing to undertake public duties, who would receive preference before compulsory deployment. Teachers would be protected from disciplinary action, salary deductions, and adverse service records for refusing orders that violate the proposed rules. District-wise lists of personnel from other government departments, public sector enterprises, and corporations would be maintained to handle non-teaching assignments on priority.
+
+The move follows a memorandum submitted by teachers to Chief Minister D K Shivakumar. The recent Special Intensive Revision (SIR) exercise illustrates the cost of such diversions: teachers were drawn away from their classrooms for nearly a month, disrupting academic activity. The burden falls disproportionately on students from socio-economically marginalised backgrounds, who depend on government schools and cannot afford private tuition. The government had also promised to appoint adequate non-teaching staff as one of its eight education guarantees. Fulfilling this commitment would address the problem at its roots. The Bill must, however, navigate central legislation. The Representation of the People Act, 1951, and the Census Act, 1948, provide for requisitioning personnel for election and census duties. The Right to Education Act, meanwhile, prohibits deploying teachers for non-educational purposes except for the decennial census, disaster relief, and elections. Karnataka’s proposed restrictions must be reconciled with these statutory provisions, making state-level regulation only a partial solution.
+
+Election Commission guidelines exempt healthcare personnel, forest staff, and employees in essential utility services from polling duties. Education deserves comparable protection. Parliament should amend the relevant laws to establish a nationwide statutory bar on deploying teachers for non-academic work, subject to narrowly defined exceptions. The larger question is: Why teachers should be the first port of call whenever the government needs additional manpower? Any exceptional deployment should be confined, as far as possible, to school holidays and must not compromise academic responsibilities. Administrative convenience cannot come at the cost of classroom learning. A government that promises quality education must ensure that teachers are allowed to teach.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/an-essential-exemption-for-teachers-4166028)
+
+---
+
+### Monsoon’s retreat and rising uncertainty
+*Deccan Herald · Editorial*
+
+With the southwest monsoon starting to withdraw, the fallout of deficient rainfall is becoming increasingly evident across regions. The retreat has commenced from western Rajasthan and is set to cover the country’s eastern and southern parts soon. Weather analysts estimate that by the time the withdrawal is complete, around October 15, India will have recorded one of its weakest monsoons. The rainfall has been about 15% less than the long period average, with some states recording a drop of more than 20%. The southern peninsula has seen the largest deficit of 28%, followed by east and northeast India, at 25%. These patterns have parallels in 2014 and 2015, when El Niño originating in the Pacific waters caused a rainfall deficit of 12% and 14%, respectively. Projections of a more intense warming have heightened concerns this year. India is expected to be among the countries worst affected by the Super El Niño.
+
+The drop in rainfall has coincided with the emergence of drought conditions. Karnataka and Maharashtra have officially declared drought in 177 and 265 taluks, respectively. Many parts of Telangana, Uttar Pradesh, Andhra Pradesh, and Jharkhand have experienced long dry spells. The central government has sent observers to states to assess the situation. The kharif production is likely to be affected, especially because the overall sown area is less than last year’s by about 1.3%. The acreage of paddy – the main kharif crop – is down by 3.7%. Deficient rainfall is likely to aggravate the impact of reduced acreage. Farmers are also reportedly abandoning crops following uncertainty over yields.
+
+The central and state governments should step up efforts to mitigate the drought’s impact and deliver timely aid to farmers and those affected by the dry spells. Standard measures towards climate resilience, such as crop diversification, must be fast-tracked. Efficient management of water for irrigation and consumption needs to be prioritised, along with the supply of subsidised or free inputs. Promoting employment schemes will be crucial. The long-term impact of the monsoon deficit will be felt beyond agriculture. Industry, services, health, and tourism are among sectors that will be affected in varying degrees. A report by Climate Impact Lab says India might see an additional 15,800 heat-related deaths in the next six months. In line with increasingly disruptive climate patterns, heat and drought are likely to overwhelm some regions while excessive rainfall and flooding hit others. Embedding this unpredictability into climate preparedness will be one of India’s key tasks this year and beyond.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/monsoons-retreat-and-rising-uncertainty-4166022)
+
+---
+
+### Defence-Tech and SpaceTech are converging. What should investors do?
+*Deccan Herald · Opinion*
+
+India’s defence sector has entered a new phase. Defence production reached a record ₹1.78 lakh-crore in FY2026, while defence exports touched ₹38,424 crore, reflecting how rapidly the country’s indigenous defence ecosystem is expanding. The private sector now accounts for 24% of defence production, its highest-ever share.
+
+At the same time, Space is opening to commercial players. These developments show a change in structure: the boundary between defence technology and space technology is fading away. Satellites today bring the communications, navigation, surveillance, and targeting tools that modern militaries rely on. At the same time, tools first made for space sensors, propulsion, autonomy, secure communications, and advanced materials are now being used in land defence systems.
+
+The commercial logic of space-defence convergence is not new; established space powers built it into their systems years ago, each through a different institutional route.
+
+MP Leads Country in Implementing Space Tech Policy: CM Dr. YadavIn the United States, the model rests on integration between defence spending and venture-backed innovation. The US Space Force and Defence Innovation Unit regularly award contracts to non-traditional defence firms instead of only to legacy primes. With US national defence spending crossing $900 billion in FY2025, commercial space operators, autonomous-systems companies, and satellite-analytics firms are increasingly plugged into national security requirements.
+
+Why India is moving private now
+
+India took a different route for decades. Defence manufacturing was largely carried out by defence public sector undertakings, while ISRO handled the country’s space programme end-to-end. The private sector mainly supplied component manufacturing and build-to-print execution.
+
+India’s defence allocation for FY2027 stands at ₹7.85 lakh-crore, with ₹1.39 lakh-crore earmarked for procurement from domestic defence industries.
+
+The creation of IN-SPACe has enabled private ventures to build, launch, and operate space assets. Concurrently, the Ministry of Defence’s iDEX and ADITI schemes have expanded engagement with startups and MSMEs. By March 2026, iDEX had engaged 676 startups, MSMEs, and innovators, with 551 design and development contracts signed.
+
+The clearest marker of this shift is the Space-Based Surveillance Phase-III programme, a ₹26,968-crore initiative involving 52 satellites, of which 31 are to be built by private Indian companies and 21 by ISRO.
+
+India’s emerging role in the global market
+
+As these domestic reforms take shape, India is shifting from being a tech-importing country to becoming a key global supplier of dual-use technology. Indian startups are now offering sensors, small-satellite buses, and uncrewed platforms at much lower costs than Western options.
+
+What Tonbo Imaging's IPO reveals about India's Defence-Tech challengeModern warfare depends heavily on time, situational awareness, software, and edge computing. Indian companies are stepping into this space with software-defined defence platforms, AI-powered analytics, and autonomous navigation systems that fit easily into multinational supply chains. Recent reforms to defence export procedures are also aimed at making Indian industry more competitive in global markets.
+
+What investors should watch/do
+
+For investors, this shift creates an opportunity distinct from either a pure defence play or a pure Space play. The companies most likely to compound value are those building genuinely dual-use technology, autonomous systems, satellite intelligence, secure communications, propulsion, navigation, drones, sensors, and AI-enabled situational awareness capable of serving a defence customer and a broader commercial market from the same underlying platform.
+
+Track four operational pillars
+
+Procurement Pathways: Does a company have a route into government programmes of record or is it relying on demonstration prototypes that never convert into multi-year production orders?
+
+Exportability and Certification: Clean certification trails, such as AS9100 and MIL-STD, and export authorisations have become primary tools for scaling into international markets.
+
+Revenue Mix and Margin Quality: Platforms selling software-defined capability, data-as-a-service (DaaS), or upgradeable payload modules carry structurally higher margins than pure hardware suppliers locked into one-time manufacturing contracts.
+
+Commercial Market Expansion: The resilient companies are those that sell core technology beyond a single defence buyer into commercial aerospace, telecom, logistics or industrial monitoring, shielding the balance sheet from procurement-cycle lumpiness.
+
+India is still early in building the institutional scaffolding of dedicated dual-use venture funds, expedited testing facilities, and unified defence-Space procurement pathways that established powers built over decades. But the direction is unmistakable. As Space becomes militarily indispensable and private industry takes on a dominant share of production, the greatest venture opportunities lie in identifying the technologies capable of serving both the battlefield and the broader economy at once.
+
+(Rathnakar Samavedam, Investment Director & Managing Partner, Hyderabad Angels Fund.)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/defence-tech-and-spacetech-are-converging-what-should-investors-do-4166467)
+
+---
+
+### Mindful action for mental peace
+*Deccan Herald · Opinion*
+
+We have heard of criminals who perpetrate a series or chain of violent crimes and disrupt the harmony of a healthy society.
+
+A walk down the annals of history records the insatiable ambition in one of the most powerful kings of Magadha, way back in the fourth century BC. Kunika, who came to be known as Ajatashatru, imprisoned his father, king Bimbisara and usurped the throne that he was entitled to.
+
+His conscience bothered him endlessly. Instead of repenting, he chose the path of violence and waged many wars and expanded his kingdom.
+
+All the same, he suffered from penury of mental peace amidst abundance of affluence and authority. He craved for the calm that he never knew in his lifetime. His well-wishers acquainted him with the ascetic Gautama Buddha who had renounced his royal status in search of Truth.
+
+The traumatised tyrant sceptically sought solace in the Buddha. He was amazed to find the elusive solution to his conundrum in a personality that was diametrically opposite to that of his own.
+
+His constant interaction with the wise guide made him realise that he was chasing a white elephant in an unbecoming manner. He went on a guilt trip and repented for the unnecessary loss of life and property and the sorrows that he had heaped on the people.
+
+Historical records say that he reconciled and made peace with his soul at the end of his life.
+
+We are aware that history repeats itself. Now, a similar new order of disorders has descended on the civilians of the earth. More and more people are binge eating, drinking, watching, playing, smoking, cleaning, exercising, dieting among other things either to achieve a set goal or to beat the stress that is trampling on their psyche. A lot of time, money and resources are being washed down the drain mindlessly in the name of these indulgences.
+
+Psychologists and medicos are concerned that this habit may express itself as an ailment of both the body and the mind if it is not arrested at an early stage. They are developing psychotherapy regimes of different intensities to quell the fatal side effects of such behavioural patterns. But, is prevention not better than cure? If each one of us is mindful about all that we do, mental peace will not evade us.
+
+[Read full article](https://www.deccanherald.com/opinion/mindful-action-for-mental-peace-4166032)
+
+---
+
+### What did we turn the public sector banker into?
+*Deccan Herald · Opinion*
+
+The proposed three-day bank strike has been deferred after the Indian Banks’ Association and the United Forum of Bank Unions agreed to constitute a high-level committee to examine the demand for holidays on the remaining Saturdays. The immediate industrial dispute can now be moved into negotiation. That pause should also allow us to step back from the familiar argument over working days and ask a much larger question: what exactly have we turned the public banking industry into?
+
+Three decades ago, a public sector bank job was an assurance to a better life. It promised fixed hours, a decent salary, relatively stress-free work, a decent pension, and a stepping-stone for the next generation to aspire for a better life.
+
+Over the past decade, however, the assurance has been broken. The person sitting behind a public sector bank counter is increasingly expected to implement government schemes, facilitate welfare transfers, pursue credit targets, enforce regulatory requirements, complete KYC, promote digital adoption, respond to cyber fraud, promote UPI, participate in CBDC trials, recover loans, and satisfy customers, while continuing to perform the conventional functions of a banker. Each responsibility has a legitimate institutional purpose. The problem lies in their accumulation, and in the absence of any serious conversation about what that accumulation has done to the job.
+
+Bank holidays in October 2026: Gandhi Jayanti, Durga Puja, and more; check full listThe turning point was the DBT era.
+
+The State Level Bankers’ Committee meetings offer a revealing record. Across states, both public and private sector banks sit with government departments, state finance ministers, district administrations, the RBI, and NABARD to discuss credit plans, government schemes, recovery, NPAs, financial inclusion, and priority-sector lending. The language of banking and the language of administration frequently converge. In some instances, discussions around loan targets and priority lending sectors have also involved police complaints and FIRs.
+
+This raises an uncomfortable institutional question. Has the banking industry bank become a government department through which the State implements policy?
+
+The public interest behind such interventions is understandable. Public money cannot be allowed to disappear and credit meant for agriculture, MSMEs or other priority sectors has a developmental purpose. Yet the individual banker faces a difficult asymmetry. There can be pressure to lend in pursuit of a public objective, followed by scrutiny of the same decision when the loan becomes an NPA. The system, therefore, needs the banker to exercise judgement while also making that judgement feel personally risky.
+
+The regulatory burden of broken KYC compounds it. Every requirement eventually reaches a customer through a person at a branch, who must defend the process when the customer is unhappy. The regulator sees compliance. The bank sees risk management. The customer sees inconvenience. The employee stands between all three.
+
+Digital payments have added another dimension, where digital usage itself can become a target. A banker can, therefore, be asked to promote transactions through a platform whose purpose is to reduce dependence on the branch, while simultaneously carrying out the operational consequences when those transactions fail or go wrong.
+
+Maharashtra’s next bank may deal in carbon, not cashThe CBDC experience illustrates how quickly the definition of banking work can expand. When employees are pushed to register for and use digital-rupee wallets, the banker becomes a participant in new financial technology and potentially an adoption channel for it. The same employee who must explain a new digital product to customers may also have a target attached to its usage. The institution’s technology agenda, thereby, becomes part of an individual’s performance agenda.
+
+Then comes the ordinary business targets such as deposits, loans, recoveries, insurance, investments, and customer acquisition. None is unreasonable in isolation. The strain comes from asking the same employee to do all this and keep an increasingly impatient customer satisfied.
+
+At some point, this stops being a discussion about workload and becomes a question about the nature of the job itself. The public sector banker has acquired responsibilities from several different institutional worlds, but those worlds have not necessarily been reconciled in the design of the job. The employee is where all these expectations meet.
+
+In 2025, the finance ministry asked public sector banks to address employee stress, work pressure, unrealistic targets and staffing concerns, with corrective measures brought into the EASE reform agenda. In 2026, the ministry also pushed for more regular dialogue between the PSBs and employee organisations. These steps deserve recognition because they acknowledge that employee pressure has become an institutional issue.
+
+Yet India has largely had this conversation through industrial action. When employees strike, we debate working days, wages, pensions, and inconvenience to customers. When the strike is deferred, the underlying conversation disappears. We rarely ask what the job has become.
+
+That conversation should not be postponed until the next strike. The answer cannot be to weaken regulation, dilute accountability, or excuse poor performance. It should be examined whether the authority, training, staffing, technology, risk-sharing, and accountability attached to the job have kept pace with the responsibilities and compensation we have placed upon it.
+
+Public sector banks remain vital institutions. Their ability to combine commercial banking with public purpose has helped build India’s financial architecture and extend the State’s reach in ways few other institutions could have managed. Precisely because we ask so much of them, we should be more curious about the people through whom that mandate is delivered.
+
+Perhaps the question after this week’s deferred strike should be larger than whether bankers work five days or six. We should ask what we have asked the public sector banker to become, and whether we can re-make their jobs the institutional design it now requires.
+
+Srinath Sridharan is a corporate adviser and independent director on corporate boards. Anand Venkatanarayanan is a strategic security and digital policy researcher
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/what-did-we-turn-the-public-sector-banker-into-4166509)
+
+---
 
 ## 30 September 2026
 
@@ -33,6 +245,44 @@ Still, while the government’s action plan appears structured, its real-time ef
 While Delhi will try to control pollution sources within its jurisdiction, sustained improvement in air quality will require coordinated action across the region.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-bad-air-but-delhi-has-a-plan-1991762)
+
+---
+
+### DC Edit | India-US Ties May Never Be Same
+*Deccan Chronicle · Editorial*
+
+The push for a G-2 domination of global geopolitics was made clear in US President Donald Trump playing up to China during Mr Xi Jinping’s visit. The optics may have seemed greater than the outcome from the second US-China meeting this year. But, as two more meetings are to follow, at APEC and G-20 summits before the 2026 calendar runs out, the emerging message is that the world’s two biggest economies have agreed to manage their rivalry constructively.While the complex binary of global politics heads towards a convergence that could be mutually beneficial, what remains irksome is the US view of the India-Pakistan binary which dictates that the dictatorial army chiefs of Pakistan should be eternally preferred partners rather than the truly democratically elected leaders of India.When foreign minister Jaishankar spoke in New York about the US not fully empathising with India even as it was taking periodical blows from state-sponsored terrorism from across the border, he was stating a bigger truth which is that India’s ties with the US are not going to reclaim any of the old levels so long as Mr Donald Trump is in office to the end of 2028.The India-US trade deal negotiations are dragging as India, with its concerns swelled by small farm holdings and hundreds of millions of individual dairy farmers, finds it impossible to make compromises to seal an agreement that has long been on the horizon. Meanwhile, Mr Trump, who went to war with Iran in tandem with Israel, goes on and on about how he brought the India-Pakistan military exchanges to a halt in May 2025.Regardless of the friendship Mr Trump professes with Prime Minister Modi, the truth is that he is sold on Pakistan, with the nation’s sweet talkers covering up their doubtful peace-making skills that have been seen to go nowhere in settling the Iran conflict, not to mention a sweet deal for the Trump family in cryptocurrency personally melded by the decorated field marshal.
+
+India can do little to shake Pakistan’s hold on Mr Trump but the greater challenge may be to find a balance that keeps strategic ties with the US in Quad as well as its military supplies intact. Accepting that middle ground in global geopolitics is all that India may have left. As a middle power in a world riven with distressing conflicts, India must accept that it needs to look after its own strategic and trade interests worldwide first before it takes up the larger cause of the Global South.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-india-us-ties-may-never-be-same-1991971)
+
+---
+
+### DC Edit | Judicial Review Can Only Help Undo SIR Excesses
+*Deccan Chronicle · Editorial*
+
+The decision of the Supreme Court of India to hear a public interest litigation (PIL) seeking a review of the functioning of the Election Commission of India (ECI) with respect to the conduct of the special intensive revision (SIR) of the electoral rolls across the country and to suspend the Chief Election Commissioner (CEC) Gyanesh Kumar if he is found to have been violating the relevant laws is an important milestone in the history of both constitutional institutions. The PIL, which the court has agreed to consider next week, also calls for the constitution of an inquiry commission headed by a former judge of the apex court or a special investigation team to affix responsibility for wrongdoings.It matters less as to what could be the outcome of the hearing, given that the demand for the suspension of the CEC or for the formation of a committee to investigate the actions of the ECI by the SC has no constitutional sanction. However, a judicial review of a process which has gone hopelessly awry under CEC Kumar can help restore the credibility of the institution and of the larger democratic practices in the country.The petitioner has a point when he quotes the recent newspaper reports about the two election commissioners differing with the CEC on the SIR. As per Section 17 (2) of the Chief Election Commissioner and Other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023, “all business of the Election Commission shall, as far as possible, be transacted unanimously, and if the chief election commissioner and other election commissioners differ in opinion on any matter, such matter shall be decided according to the opinion of the majority”.If one were to go by the reports which have not been refuted point by point, it is obvious that the EC has functioned outside the mandate of the law. And the results are there for all to see: In a country that has 96 crore voters, 13 crores, about 15 per cent, have been struck off the electoral rolls! Such a purging exercise must have a logical and legal line of reasoning but the ECI has not come out with one yet. Lakhs of people are still waiting outside the court-appointed tribunals seeking re-entry into the list as they have been felled to a newly invented weapon called “logical discrepancy”. Hence this is a fit case for the apex court to ponder on.The political process that has now started in the country seeking answers from the ECI, however, should not wait for the judicial system to come to its aid. It is not for the first time that the ECI’s weird decisions on SIR have been brought to the notice of the court, yet it has offered no succour to the harried petitioners so far. The court even looked the other way when elections to state Assemblies were conducted based on the redacted voter lists, despite being requested to conduct them based on the old rolls. While it can indeed step in now, in a limited fashion, the struggle to clean up the mess the present ECI has created must go on, irrespective of the outcome of the PIL.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-judicial-review-can-only-help-undo-sir-excesses-1991974)
+
+---
+
+### John J. Kennedy | Flexibility on Paper: NEP 2020’s Hidden Hurdles to Student Mobility
+*Deccan Chronicle · Opinion*
+
+Recently, India’s higher education policy promised students something quite attractive: flexibility. A student should be able to move between institutions, change programmes, accumulate credits, and, if necessary, leave education temporarily and return later. The National Education Policy 2020 made this idea central to undergraduate reform. The Academic Bank of Credits (ABC) was created to store credits and facilitate their transfer. As of July 2026, 2,899 higher education institutions were registered on ABC, while more than 700 universities and 6,600 colleges were offering multiple entry and exit options. The idea is commendable. However, the important question now is: How much mobility have students actually acquired?The latest All India Survey on Higher Education (AISHE), for 2023-24, provides a useful starting point. Among 1,278 responding universities, 69 per cent reported registration on ABC, while only 49 per cent reported offering multiple entry and exit. Only four per cent reported collaboration with other institutions for joint degree programmes. What do these figures reveal? Certainly, a gap between digital infrastructure and academic mobility. A student may have an account in a national credit system without having many institutions willing or able to accept the credits earned elsewhere. For mobility to work, credits earned at one institution must be acceptable towards the academic requirements of another. Curricula, course content, assessment, and academic calendars will also have to be compatible.It may be useful to remember here that under the UGC framework, ABC does not make credit transfer an automatic transaction between databases. Credits can be stored and transferred through the system, but the receiving institution retains a role in determining what can count towards its qualification. This is important because a database can make credits visible without making them portable in practice. Credits earned elsewhere may still fail to satisfy a compulsory academic requirement in a new programme of study.The latest government data show the scale of the digital system. By July 2026, the 2,899 registered institutions had 4.79 crore APAAR (Automated Permanent Academic Account Registry) IDs mapped to awarding institutions and 9.78 crore credit records mapped to learners. These are significant measures of infrastructure. They are not, however, measures of actual student mobility. The missing statistics are more important: how many students have transferred credits between institutions, how many have used transferred credits to complete a qualification, how many requests were rejected, and why? And here’s where the question of institutional hierarchy comes in. Where acceptance depends on the academic requirements of the receiving institution, students may not experience the same degree of mobility across institutions. However, unless equivalence rules are clear, students from less-resourced institutions could face greater uncertainty about whether their credits will be accepted. This is a possible risk, rather than an established national pattern, but it deserves attention as the system expands.Portability also has to be balanced with institutional autonomy. Universities need some freedom to decide what counts towards their degrees, but students should be able to know these requirements before they transfer. Clear and publicly available equivalence rules would reduce uncertainty and make credit mobility more predictable.The economic dimension is equally important. The latest nationwide household survey of education expenditure is from 2017-18. It reported average expenditure on the basic course of general-course students at Rs 5,240 in rural areas and Rs 16,308 in urban areas. For technical and professional courses, the corresponding figures were Rs 32,137 and Rs 64,763. These figures are too old to estimate present costs. They do, however, show why financial and geographical mobility cannot be separated from academic mobility. A student who transfers may have to change cities. That can mean rent, food, transport and hostel expenses. For some families this may be an inconvenience. For others it may make transfer impossible. A formal right to move therefore does not have the same practical value for every student. Flexibility on paper can coexist with limited choice in practice.There is another assumption worth examining. Mobility need not mean physical movement. Academic mobility can also mean changing programmes, combining courses, using recognised online learning, or pausing study and returning later without losing academic progress. A student should not have to relocate simply to access a different academic pathway. In this sense, the real test of flexibility is not how often students move but how freely they can shape their education. This is particularly important in a system of India’s scale. AISHE 2023-24 recorded 4.50 crore students, 1,289 universities and 48,246 colleges, with the Gross...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/john-j-kennedy-flexibility-on-paper-nep-2020s-hidden-hurdles-to-student-mobility-1991990)
+
+---
+
+### Shikha Mukerjee | Why ECs Too Are To Blame for India’s Worst Electoral Crisis
+*Deccan Chronicle · Opinion*
+
+The total number of adults not eligible to vote in India, 13 crore by some accounts, which is 15 crore by others, is approximately the population of all men, women and children in countries like Mexico, Japan and the Democratic Republic of Congo. These adults are victims of the Election Commission of India’s purification of electoral rolls through a new fangled methodology, the software-driven Special Intensive Revision. The innovations in use of technology and the “logical discrepancies” could have been, in the overwhelming majority of cases, rectified had human intelligence been applied by the electoral registration officers in conjunction with the block-level officers, and that would have solved most of the problems. There is evidence to suggest that this is a truthful statement; in West Bengal, where the SIR controversy continues to rage, over 93 per cent of appeals to the Supreme Court-ordered adjudication tribunals, following discoveries of mostly “logical discrepancies,” have been found to have been filed by “eligible” voters. In other words, eligible voters were struck off the electoral rolls by the machinery of the ECI. There are confirmations of reports that voters who exercised their vote in West Bengal have now found themselves scratched off the electoral rolls, post the May elections. Reckoned at its current speed of disposing appeals, the tribunals could take 12 years or more to restore voting rights to some 37 lakhs of voters in West Bengal. If this is the consequence of the ECI’s innovations in one of India, what then will happen to the 13 crore or 15 crore adults living with uncretainty as the thrid phase of SIR nears its end? The question of who is responsible for this enormous mess is “problematic”, as Chirag Paswan, Union minister and leader of the Lok Janashakti Party, described it would be “if people begin to doubt the electoral process itself”. Is it the chief election commissioner, Gyanesh Kumar, or the trio, meaning the other two election commissioners, Messers Sandhu and Joshi, as well? The issue was raised by the news report in the Indian Express that, finally, shook the Indian political establishment which, it must be pointed out, already knew the consequences of the ECI’s decisions as the numbers of delisted voters zoomed. But was it just one man who led the assault on India’s free and fair election process or was it all three? The simple answer is all three. Regardless of how culpable Gyanesh Kumar is, neither of the two ECs quit office for the misdemeanours of the Election Commission. It is the Election Commission which has acted against the interests of the people, meaning that national interest has been dangerously compromised by the decisions of the trio selected to see that the machinery of elections runs without a glitch. As many as 13 crore or 15 crore glitches are not a pardonable mistake; the magnitude points to a reckless abuse of power amounting to irresponsibility, at the root of which is the 2023 law giving immunity from consequences to the ECs for decisions taken. If the two election commissioners, Sukhbir Singh Sandhu and Vivek Joshi, had differences with the chief election commissioner, who incidentally is not their boss, the difference between the three being of designation rather than authority, they had every reason, backed by the authority they enjoyed, to say so. Earlier election commissioners did. Legendary election commissioner T.N. Seshan challenged the appointment of M.S. Gill and G.V. Krishnamurthy. The Supreme Court rapped his knuckles for thinking his status was superior to his colleagues. In 2009, chief election commissioner N. Gopalaswami sent a 90-page report to the President asking for the removal of his colleague, election commissioner Navin Chawla. Differences of opinion are routine in a collegium-style commission or judiciary or even the Cabinet or as is so public, inside corporate boardrooms as in the Tata Trusts-Tata Sons case. Dissent, in writing, is another matter. Taking responsibility for dissenting is one step up, where resignation is the usual action taken. Neither Mr Sandhu nor Mr Joshi resigned; hiding behind a leak, these two individuals, guilty of gross violation of the law, did not make their views public and fall on the sword, as it were. These two ECs actually wrote official memos to the Cabinet Secretary of India, knowing that it was a grave transgression of the autonomy principle that underlies the constitutional provision that set up the Election Commission in the first place. Demanding the resignation or submitting a motion calling for the impeachment of CEC Gyanesh Kumar in the Lok Sabha and Rajya Sabha is good politics. Punish the guilty is what the law does and legislative power is all about making good laws. However, the impeachment in a sense absolves the CEC and, in fact, the trio of all responsibility for the SIR mess and the crisis of confidence in the public mind about the impartiality, neutrality and basic...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shikha-mukerjee-why-ecs-too-are-to-blame-for-indias-worst-electoral-crisis-1991976)
 
 ---
 
@@ -21456,245 +21706,6 @@ Every state in India is grappling with the same tension: expanding welfare commi
 governance consultancy firm)
 
 [Read full article](https://www.deccanherald.com/opinion/who-deserves-welfare-india-must-get-it-right-4060327)
-
----
-
-## 2 July 2026
-
-### Fixing the rot: On the subversion of public examinations and recruitment
-*The Hindu · Editorial*
-
-Corruption in public life is often linked to “malfeasance”, the venality of government officials in high places taking bribes and misusing their positions to enrich themselves or their cronies. But a more corrosive variant that impinges upon public life includes the systematic subversion of public examinations and recruitment. This is because public examinations and teacher recruitment are pathways to creating skilled individuals in a rapidly modernising economy where jobs increasingly depend on skills and training. Corruption in these processes, which should ideally be done on merit, will erode India’s ability to fully realise its demographic dividend. Be it the National Testing Agency having to re-conduct the National Eligibility-cum-Entrance Test (NEET) for medical undergraduate aspirants, or, the postponement of the Maharashtra Teacher Eligibility Test just before its scheduled date (June 28), the malaise seems depressingly familiar. It is driven by a cottage industry that leaks papers through insider networks and targets the vast coaching ecosystem to rake in money from those seeking shortcuts to pass. In the Maharashtra case, the alleged kingpin — a Patna resident suspected of links to an Odisha paper leak scam in 2024 and even to the NEET scam — reportedly ran teams from Bihar and Haryana that sought to sell papers to coaching classes.
-
-Eerily, a similar template surfaces in scam after scam. In Gujarat, the alleged mastermind of the 2023 junior-clerk recruitment exam leak was an employee at a Hyderabad press that printed the paper. In 2024, in Jammu and Kashmir, a printing-press insider and security men were chargesheeted in the 2022 services board exam leak case. In Rajasthan, the December 2022 teacher-recruitment paper was sold by a serving government teacher. The common element is the presence of insider networks that have worked out ways to scam the system. The vulnerability lies not only in how question papers are distributed, but also in how they are set, with the repeated involvement of a select group of experts — many are linked to the coaching ecosystem. This is why the ritual of hunting for “kingpins” and running performative investigations until public attention fades leaves the core problem untouched. Pertinent questions are rarely addressed. Is the paper set by the same closed pool of examiners each time? Are their antecedents and commercial links verified? Do the departments that run these exams scrutinise examiners for conflicts of interest? Lastly, even if the system undertakes such reforms, it would be incomplete without accountability. Education Ministers — at the Centre and States — must own these failures. When leaks recur as routinely as they now do, the Minister who presides over the system should not remain in the post.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/fixing-the-rot-on-the-subversion-of-public-examinations-and-recruitment/article71171022.ece)
-
----
-
-### Yes and no: On the erosion of India’s grassroots democracy
-*The Hindu · Editorial*
-
-A new report, based on Rural Development Ministry surveys, opens a rare data-backed window into the erosion of India’s grassroots democracy. But where the state has framed the issue as one of “vibrancy”, the report highlights a paradox. It acknowledges that “participation fatigue” has kept citizens from engaging in gram sabhas whereas its solutions, such as more meetings and oversight, are a recipe to further alienate the rural working class. The 73rd Amendment empowers gram sabhas, but governments have reduced them to clearinghouses for central and State schemes. This fundamental aspect must change. However, in response to 18%-28% of respondents citing a lack of outcomes as the reason for low interest, the report pushes for greater use of the NIRNAY app and to upload meeting minutes in real-time. In the real world, panchayat secretaries thus have less time facilitating discussion even as lacklustre oversight has allowed officials to tell workers that their MGNREGA demands were ‘not entered in the system’ due to server errors. Similarly, that more than half of the barriers to participation are related to livelihoods could point as much to visibly systemic issues — such as the precarious nature of rural labour today — as to deliberate economic exclusion by the state, as scholars have highlighted. But the report does not acknowledge such divergent possibilities. Due to the state failing to institutionalise attendance as a paid component of social protection, gram sabhas have remained a playground for the leisured elite such as landlords and contractors.
-
-According to the report, gram sabhas spend 13% of the time identifying local issues but only 4% discussing revenue generation. But gram panchayats have been systematically constrained from raising their taxes, leaving them dependent on grants. The 14th and 15th Finance Commissions grants tied panchayat spending to central priorities such as drinking water and sanitation, limiting local priorities to ‘flagship’ programmes such as the Jal Jeevan Mission and Swachh Bharat. There is thus no incentive for citizens to attend a meeting if the funds are being earmarked by Delhi bureaucrats. The report also states that Provisions of the Panchayats (Extension to the Scheduled Areas) (PESA) Act areas have “reasonably strong physical infrastructure”. Under the PESA Act 1996 and related forest rights laws, gram sabhas have the right to provide prior informed consent for land acquisition and mining. However, the state routinely bypasses them or uses the excuse of low participation to manufacture consent. The Hasdeo Arand protests were rooted in this issue. There is a right to say ‘no’ and the state simply needs to acknowledge it. If ‘yes’ must be the only answer, the report’s grouses are a farce.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/yes-and-no-on-the-erosion-of-indias-grassroots-democracy/article71170390.ece)
-
----
-
-### The case for building India’s coal chemistry capability
-*The Hindu · Opinion*
-
-There are two ways a country can survive an energy shock: by managing it skilfully through diplomacy, diversification, and fiscal measures, or by reducing dependence on the disrupted resource. India excelled at the first during the disruption in the Strait of Hormuz in 2026, with its refineries demonstrating exceptional technical flexibility in adapting to crude supply disruptions. The crisis reaffirmed that indigenous scientific capability and technological self-reliance are the decisive forms of insurance against energy market volatility — far more durable than any diplomatic or military arrangement alone. However, India has yet to reduce its underlying dependence, and coal offers a key opportunity to begin.
-
-Same discipline for coal chemistryBefore turning to that opportunity, it is worth understanding why refinery flexibility proved so effective, because the same discipline will be required for coal chemistry. India’s supplier base has nearly tripled over the past two decades. Each supplier provides a different crude slate, with distinct density profiles, sulphur content, and viscosity characteristics, and a refinery engineered for only one crude type becomes vulnerable to supply disruptions. Through investments in indigenous research, metallurgical advances, process innovation, and workforce training, India’s refining sector developed the capability to process feedstock across a broad range of specifications. When the Strait of Hormuz closed and sourcing options shifted abruptly, Indian refineries adapted with technical confidence, processing crude from the Americas, the Atlantic Basin, West Africa, Russia, and India’s West Asia partners. That flexibility at scale is the product of indigenous research and development, technical discipline, and engineers who understand their systems as interconnected processes rather than fixed machines.
-
-The speed of the transition provides concrete evidence of this capability. Within weeks of the closure, non-Hormuz sourcing increased from 55% to 70% of India’s crude intake. That pivot reflected a decade of upstream diversification combined with the downstream technical flexibility built into India’s refinery fleet. India’s private and public sector refineries had the engineering capability to process multiple crude types, adjust operating parameters at short notice, optimise fractionation patterns for different feedstock specifications, and maintain product quality and safety throughout the transition.
-
-Related StoriesA unified policy architecture for India’s energy future
-
-India’s green transition still runs on coal
-
-Chile’s lesson for India’s coal conundrum
-
-This capability was built through sustained investment in process understanding, operator training, and the institutional knowledge that enables a complex industrial system to absorb shocks without fracturing.
-
-The liquefied petroleum gas (LPG) story offers a clear example of how indigenous refining capability can absorb a supply shock faster than markets can price it. India’s LPG import infrastructure had roughly doubled over the preceding decade, providing greater distribution redundancy.
-
-Coal India targeting to spend ₹1,900 crore on R&D until FY2030When the Strait of Hormuz closure threatened LPG availability, the bottleneck was not at the import ports but in how much LPG the existing refinery fleet could produce from the available feedstock. Under the LPG control order, refineries were directed to maximise yields, and within five days, domestic production increased from 35 Thousand Metric Tonnes (TMT) per day to 54 TMT per day, with engineers adjusting fractionation and cracking units in real time. That increase was engineering in action, not an accounting adjustment. It was one half of how India closed the gap; disciplined demand management provided the other. The production side — which is the focus of this article — rested entirely on technical capability built through years of sustained investment.
-
-Energy security through moleculesRefinery flexibility solved the problem that the Strait of Hormuz crisis actually presented: how to keep a wide range of crude flowing through a fixed set of plants. It did not, and could not, solve the deeper structural problem the crisis exposed — that India’s LPG dependence is far more concentrated than its crude dependence. A refinery can be engineered to process crude from 40 different countries. LPG, however, cannot be engineered to come from 40 different geographies, because the molecule is overwhelmingly sourced from a handful of Gulf and Atlantic Basin producers. The real long-term solution to LPG vulnerability is not refining the same imported molecule more efficiently. It is producing a domestic molecule that serves the same purpose.
-
-That molecule already exists, and India has the raw material to produce it in extraordinary abundance. Dimethyl ether (DME) is a clean-burning gas chemically similar enough to LPG that it can be blended directly into existing cylinders and pipelines, requiring no new distribution network. It can be produced through coal gasification, which converts coal into syngas and then into DME. India possesses some of the world’s largest coal reserves, and the Bureau of Indian Standards has already approved blending up to 20% DME with LPG. One recent industry assessment found that a 20% blend sourced from coal gasification could displace roughly 6.3 million tonnes of LPG imports each year, saving nearly ₹34,000 crore in foreign exchange annually. That is not a marginal gain. It is the kind of structural reduction in import dependence that the Hormuz crisis should have taught India to take seriously.
-
-This crisis has demonstrated how India’s investments — in institutions, infrastructure, diplomacy and human capability — can translate into national resilience. Innovation is often equated with breakthrough technologies. In reality, it is equally about creating new ways of integrating people, institutions, and ideas to solve unprecedented problems. The Ministry of Petroleum and Natural Gas’s response exemplified this broader understanding of innovation.
-
-From innovation to executionYears ago, scientists at the CSIR’s National Chemical Laboratory developed an indigenous technology for converting methanol into DME, a clean substitute for LPG. During the recent crisis, it was deeply gratifying to see the Centre for High Technology under the Ministry of Petroleum and Natural Gas move with remarkable speed to approve the scaling up of this indigenous pilot technology. It was a powerful reminder that investments in science made years earlier can become strategic national assets when unexpected crises arise.
-
-This is exactly how innovation ecosystems should function. Research laboratories generate knowledge, government institutions identify strategic opportunities, and industry scales promising technologies. Together, they build national resilience.
-
-That structural reduction is no longer waiting on policy. The Union Cabinet has approved a ₹37,500 crore scheme to promote surface coal and lignite gasification, explicitly citing the West Asia crisis as part of its rationale and targeting 100 million tonnes of coal gasification annually by 2030. The scheme provides an incentive of up to 20% of plant and machinery costs, separate from the DME blending ratio discussed above, and extends coal linkage tenure to 30 years — the kind of long-term horizon certainty that capital-intensive process industries require before committing investment. What remains is execution. India’s coal has a higher ash content than the cleaner coal that underpinned China’s dominant coal-to-chemicals industry, and domestic gasification capacity is still far below the ambition this scheme represents. Closing that gap is now a question of industrial discipline and investment, not policy intent. The intent has already been settled.
-
-The remaining work — closing the ash-content gap, scaling gasification capacity, and building the technical depth China has spent two decades accumulating — is the same kind of work India’s refining sector undertook over two decades of investment in metallurgy, catalysis, and process engineering. The lesson of Hormuz is not that India’s refineries were ready and nothing else needs to change. It is that indigenous capability, once built, becomes a permanent strategic asset, and that the policy commitment to building the next one is now in place. The molecule is different, but the discipline required to master it is exactly the same as that which built the refineries that carried India through this crisis.
-
-R.A. Mashelkar is a distinguished scientist and former Director General of the Council of Scientific and Industrial Research (CSIR)
-
-[Read full article](https://www.thehindu.com/opinion/lead/the-case-for-building-indias-coal-chemistry-capability/article71170834.ece)
-
----
-
-### DC Edit | India’s Chip Dreams Get Boost
-*Deccan Chronicle · Editorial*
-
-The Union finance ministry has approved a budget proposal to spend Rs 1.25 lakh crore for the India Semiconductor Mission (ISM) 2.0, which is more ambitious than the first phase in both outlay and goals. Under this phase, the government seeks to boost self-reliance in the entire semiconductor value chain, spanning chip design, fabrication and packaging.
-
-Currently, India imports over 90 per cent of its semiconductor requirements — worth up to $45 billion — from global supply chains in countries like Taiwan, South Korea, China, Singapore, and the United States. As the country shifts towards greater digitalisation over the next 10 years, the value of semiconductor imports is expected to touch $300 billion, which would be more than the total foreign exchange that India is expected to spend on crude oil imports.
-
-India faces a unique dichotomy in the semiconductor space: While 20 per cent of semiconductor designers across the world are Indians, the country does not have a single world-class domestic fab plant. One of the reasons is the high capital expenditure and the lack of the necessary ecosystem to support such a facility. However, companies began to show interest after the government offered to fund 50 per cent of the cost.
-
-Despite the total public-plus-private investment pipeline generated under ISM 1.0, the country could attract only one semiconductor fabrication unit —
-
-being set up by Tata Electronics at Dholera, Gujarat, in partnership with Taiwan’s PSMC — to manufacture mature legacy nodes (28nm to 90nm), which are used in automotive electronics, power management, and consumer appliances.
-
-As semiconductors are a capital-intensive business, fab plants cannot achieve scale if they focus only on domestic demand. To scale effectively and compete globally, however, they require robust local infrastructure in addition to the Centre’s financial muscle. The Central government, therefore, should encourage states — which proved critical in India’s emergence as a software power — to play an active role in attracting them to the country.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-indias-chip-dreams-get-boost-1967949)
-
----
-
-### DC Edit | TVK Set To Gain In TN’s Shifting Political Milieu
-*Deccan Chronicle · Editorial*
-
-The Tamil Nadu political landscape has been changing rapidly. The defining moment had come the day a third force came through in the cinema actor-turned politician C. Joseph Vijay whose fledgling party Tamilaga Vettri Kazhagam finished ahead of the two Dravidian majors DMK and AIADMK in the April polls. There has been such a churn since then that, while allies are leaving the DMK, the leaders of AIADMK are crossing over in droves to join the TVK.
-
-The stunning arrival of a new force breaking the Dravidian duopoly of 60 years was bound to shake the political turf, but some of the happenings are not exactly in conformity with the best traditions of principle-driven politics in which those defeated stayed in the game while donning the coat of the opposition while the winners ruled the state.
-
-The charges of horse trading are renting the air as the Vijay government is dependent on old allies of the DMK to pass the majority mark in the Assembly. The issue was sensationalised as a hefty bribe was allegedly offered to an MLA of the ruling party to vote against the Speaker in a prospective no confidence motion and three members owing allegiance to a politician who was a minister in AIADMK and DMK cabinets in the past were arrested.
-
-Elected representatives resigning in order to shift allegiance or affiliation may be more correct than defying the party whip in voting in the Assembly, but it does not satisfy the first principles of politics as it is a negation of the mandate that the people gave in electing the individual as a representative of a certain party. But then this phenomenon of shifting allegiances is not new as we witnessed it in Maharashtra and more recently in Bengal.
-
-When the anti-defection laws were tightened in the wake of the “Aya Ram Gaya Ram” days of incessant floor crossing, what was not envisaged was the current scenario of a considerable majority of people’s representatives wishing to change allegiance without giving up their seats. The two-thirds rule ameliorating defections has been misinterpreted for political convenience, but then the courts are chary of stepping into territory belonging to Speakers because of the fear of encroaching on the authority of the presiding officers of the House.
-
-There may be reason to suspect that horse trading — a euphemism for loyalty being purchased — may be going on as elected representatives are keen on leaving parties that have been defeated in the polls. This is a scenario as much in evidence in Bengal as in Tamil Nadu where the AIADMK, which finished a distant third in the polls behind the TVK and DMK, is struggling to keep its flock together.
-
-The strategy of backing resignations to cause bypolls in which the changing winds may be recognised is evident in Tamil Nadu. This may be against the spirit of the law, but it does not go against its wording. Such tactics enable the ruling TVK to hope to cobble a clear working majority in which it does not have to depend on the whims of new allies while obviating the necessity of operations to reward change of loyalty. Primarily, what is going on is proof of the fact that all the world loves a winner and C. Joseph Vijay is a sensation among them.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-tvk-set-to-gain-in-tns-shifting-political-milieu-1967934)
-
----
-
-### Parsa Venkateshwar Rao Jr | Govt-driven AI Might Not Be Right Strategy For India
-*Deccan Chronicle · Opinion*
-
-India under the Narendra Modi government is determined to make a place for itself in the emerging sector of Artificial Intelligence, which is blazing and booming in the American markets, with the prospect of mega Initial Public Offering (IPO) by Starlink-Space X-AI owner Elon Musk, which is set to break the trillion-dollar mark, even as other AI heavyweights like Anthropic, Open AI, Alphabet and Meta are looking to the market to raise the huge funds to boost and expand AI operations through research and data centres.
-
-There was a mini-storm that shook the AI stocks from Seoul to New York, and where Elon Musk’s $600 billion were wiped out on June 23, and Samsung Electronics and SK Hynix shares fell by nine per cent each on the morning of June 26, and trading had to be stopped. But volatility is the name of the beast – or market.
-
-India’s AI gambit is government-driven so far, moving along the track laid down by AI Mission announced in March 2024 with its various bureaucratic-sounding pillars like IndiaAI Compute Capacity, IndiaAI Innovation Centre (IAIC), IndiaAI Datasets Platform, IndiaAI Applications Development Initiative, IndiaAI FutureSkills, IndiaAI Startup Financing, and Safe & Trusted AI. The fund allocated for the mission for a five-year period is Rs 10,300 crores, around $1.24 billion.
-
-India’s AI Mission is justified in its own sphere because the government is thinking of ways to make AI work for public services, governance and public digital infrastructure, as also to adapt the Large Language Models (LLMs) of AI to the Indian situation, and looking to build Small Language Models (SLMs) for specific activities. The government is also right in its desire and efforts to make AI trustworthy and safe. The regulatory framework would be necessary to make the AI ecosystem reliable. Logically, the regulatory framework would work better when the AI ecosystem is in place and the challenges that the uses of AI throw up in practice would enable both legislators and experts to think of responsive regulations.
-
-The white paper issued by the Office of the Principal Scientific Adviser in December 2025, titled “Democratising Access to AI Infrastructure”, by Animesh Jain, senior policy fellow (adjunct), gives a lucid picture of the status of AI in the country, with a section on “Industry Initiatives”. The paper notes: “Industry is also investing heavily in storage solutions for AI. Companies like Yotta Data Services, NTT, CntrlS and Adani ConneX have made large investments in hyperscale and sovereign cloud storage facilities. Yotta Data Services operates Asia’s largest single-building data centre in Navi Mumbai (72 MW IT load). CntrlS Data Centres operates 19 facilities with a combined load of 250 MW.”
-
-It also shows that the Indian AI ventures are focusing on AI storage capacities and not in new generative AI models like Open AI’s GPT-5.5, Anthropic’s Claude Opus, Google’s Gemini 3.1 Pro, and these are just retail AI models. The deeper works lies at the level of LLMs to deal with subjects like advanced physics. And that would require higher-level research teams with higher academic qualifications operating at an AI company’s research and development units.
-
-In a white paper from the Principal Scientific Adviser’s Office released in March titled “Advancing Indigenous Foundation Models”, the bureaucratic approach is laid bare. It says: “The IndiaAI Mission released a Call for Proposals for foundational AI models in January 2025 to invite startups, researchers, and entrepreneurs to develop large multimodal models, large language models, and small language models aligned to India specific needs.” This brought in 506 proposals, of which four initiatives were selected in the first phase in April 2025, and eight initiatives in September 2025. Ideally, many those who responded to the government’s call should have approached the private investors, and the private investors in turn should...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-govt-driven-ai-might-not-be-right-strategy-for-india-1967926)
-
----
-
-### ABC: Reset before raising targets
-*Deccan Herald · Editorial*
-
-Bengaluru Development Minister Krishna Byre Gowda was fully justified in pulling up officers overseeing the city’s Animal Birth Control (ABC) programme during a recent meeting of the Greater Bengaluru Authority (GBA).
-
-His frustration reflects the concerns of countless Bengalureans who have watched the stray dog problem persist despite years of assurances, extensive sterilisation drives, and substantial public expenditure.
-
-Introduced around 2000 as a humane alternative to culling, the ABC programme sought to control the stray dog population through sterilisation and vaccination.
-
-After the Bruhat Bengaluru Mahanagara Palike (BBMP) was formed in 2007, the initiative expanded through partnerships with NGOs entrusted with capturing, sterilising, and releasing dogs. Over Rs 120 crore has been spent since then, including Rs 40 crore in the last five years.
-
-The arithmetic, however, does not add up. Official records show that between 2016 and 2023 alone, 3.3 lakh sterilisation surgeries were performed – more than the entire stray dog population of 3.1 lakh recorded in the 2019 census.
-
-Given that the average lifespan of a street dog is only six to eight years, such extensive sterilisation should have caused a drastic reduction in the population. Instead, the latest survey still estimates 2.79 lakh stray dogs.
-
-'Where’s the result?' Krishna Byre Gowda fumes at poor animal birth control implementation in BengaluruEither dogs are being counted repeatedly, records are grossly inflated, animals from neighbouring areas are constantly replacing sterilised ones, or the programme has been poorly executed. Whatever the explanation, taxpayers deserve answers.
-
-The programme’s weaknesses are well known. Poor monitoring of NGOs, inadequate record-keeping, interrupted contracts, questionable surgical standards, insufficient post-operative care, and the absence of rigorous performance audits have repeatedly been flagged.
-
-The Minister has directed that annual sterilisation targets be doubled from 45,000 to 90,000 and warned officers of disciplinary action for poor performance. Accountability is welcome, but increasing targets without addressing the structural flaws risks repeating the mistakes.
-
-Experience shows that routine warnings have zero impact on complacent officers; if Byre Gowda truly means business, he must initiate exemplary punitive action as a deterrent.
-
-The GBA should suspend the programme briefly, commission an independent scientific audit, verify sterilisation records, examine the performance of every participating NGO, and identify operational gaps before resuming work.
-
-The programme requires a scientific reset before fresh targets are announced. Unless all loopholes are plugged, Bengaluru will spend several hundred crores more over the next two decades only to find the stray dog population unchanged.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/abc-reset-before-raising-targets-4059131)
-
----
-
-### State powers and a blurry red line
-*Deccan Herald · Editorial*
-
-Two bills passed this week by the West Bengal Assembly – the Public Safety and Control of Anti-Social Activities Bill, 2026, and the Maintenance of Public Order (Amendment) Bill, 2026 – risk arbitrary application of state powers.
-
-While the first bill expands powers to combat crime and “anti-social activities”, the second allows the state government to recover compensation for property damage caused during riots and violent protests.
-
-Both pieces of legislation contain stringent provisions that bypass standard democratic procedures. Notably, the Public Safety Bill authorises the government to enforce preventive detention for up to 12 months without trial.
-
-The Bill’s broad use of terms such as “anti-social activity” and “goonda” makes it vulnerable to potential misuse against political dissenters or others targeted for government action. Additionally, it empowers the state to attach properties allegedly linked to these activities, raising concerns over civil liberties.
-
-The Bill explicitly names several activities while leaving room for many more to fall under its purview. This may encourage defining dissent and protests as anti-social behaviour. While it proposes advisory boards to review applications of the detainees, it bars access to legal counsel without the board’s approval and mandates confidential proceedings, making the process opaque and undermining due process.
-
-Critics have drawn sharp comparisons with the National Security Act, 1980, and the colonial-era Bengal Regulation III of 1818, under which freedom fighters were indefinitely detained or deported.
-
-Suvendu govt in action: Bengal passes bill to detain persons for 12 months sans trial for 'anti-social' activitiesChief Minister Suvendu Adhikari has assured that the Bill will not be misused. However, such assurances ring hollow given the government’s record of weaponising existing laws against political opponents.
-
-The Maintenance of Public Order Bill seeks to establish a statutory claims commission to assess and recover compensation for damage to public and private property during riots, unlawful assemblies, and violent protests. Its powers extend beyond those directly involved in the violence to organisers, financiers, and others who may be held financially liable.
-
-While framed as a mechanism to fix responsibility, these provisions raise concerns about potential misuse against politicians in the opposition ranks, activists, and citizens protesting government policies.
-
-The broad wording of the Bill enables arbitrary action, with limited safeguards or effective redress systems. The provisions on preventive detention may facilitate executive overreach at the expense of civil liberties. Preventive detention has long been viewed with constitutional scepticism, and courts have cautioned against its misuse.
-
-By proposing a stronger statutory basis to exercise such powers, the West Bengal government has invited legal scrutiny, making constitutional challenges to the legislation almost inevitable.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/state-powers-and-a-blurry-red-line-4059127)
-
----
-
-### Future-proofing India’s real estate
-*Deccan Herald · Opinion*
-
-India’s building boom is too big to ignore. The real estate sector accounts for nearly 8% of GDP, a large share of investment, employment and household savings, and is set to add more than two billion square feet over the next two decades.
-
-It already drives more than a third of India’s energy use and accounts for a substantial portion of the country’s carbon profile. It is expected to grow from its current $0.3 trillion to around $1 trillion by 2030.
-
-How this new space is delivered will shape the country’s environmental footprint, the reliability and risk profile of power, water and basic services, and, over time, the environmental and financial risk baked into balance sheets and how easily projects and portfolios can attract capital.
-
-At its heart, real estate is about flows of materials, energy, water, and waste through buildings. Today, projects are still planned mainly to hit a price point and a deadline. What they will cost to run in a hotter, more volatile climate is often treated as tomorrow’s problem.
-
-The result is not neutral. It is a stock of assets that lock in higher operating expenses, are more exposed to heat, flooding and service disruptions, and sit uneasily with tightening disclosure and ESG expectations.
-
-A better way to see what is at stake is to think of real estate as part of a larger metabolism. Every project draws in cement, steel, glass, and other materials, and pushes out construction and demolition waste. Once occupied, it demands electricity and water every day.
-
-At the city scale, these flows shape peak power demand, water stress, and the severity of local climate impacts. When buildings are inefficient, this metabolism runs hot: grids strain on summer evenings, utilities struggle to keep up, and any disruption hits harder because underlying demand is too high.
-
-The next phase of the boom, therefore, cannot be judged only by how much is constructed, but by how each new building behaves inside this metabolism. Three shifts are central: how we build, how buildings perform, and how they connect to power systems.
-
-The first shift starts at the site gate. Materials and construction practices are often treated as execution details, but they determine a significant part of the long-term footprint and risk profile. Construction heavy in cement, steel, and glass embeds emissions and future regulatory exposure before tenants move in.
-
-Poorly handled sites generate dust and debris, trigger local anger, and invite crackdowns that developers cannot predict or price. Sloppy C&D waste management creates liabilities as landfills fill up, and dumping in wetlands and low-lying areas comes under scrutiny.
-
-The second shift concerns what buildings do over the decades they are occupied. The distinction here is between assets that are “less bad” and assets that are genuinely high-performing. The latter are designed around clear outcomes in energy and water use – kilowatt-hours per square metre, litres per person per day, limits on peak load – rather than around a checklist of green features.
-
-Super-efficient approaches – already being pursued by several Indian pioneers – use climate-responsive form and envelope to cut cooling demand, specify efficient systems and controls so that low consumption is built in, and design water systems to ease pressure on stressed municipal supply and groundwater.
-
-This kind of design can reduce energy by 30-50% and water use by 20-30% compared to conventional buildings, without increasing overall project costs if timely choices are made.
-
-Crucially, such approaches track how the building performs once occupied and treat those numbers as part of its identity, turning efficiency from a marketing claim into a measurable characteristic that can be compared, financed, and regulated.
-
-Nature and its wealth we choose to ignoreEarly adoption matters
-
-The third shift is about how buildings and power systems see each other. India’s electricity mix is adding more renewables, which means greater variability and a premium on flexibility. A city full of heavy, leaky buildings demanding maximum cooling simultaneously is a recipe for higher system costs and more frequent stress events.
-
-A city where large parts of the stock are efficient, mostly electric and designed to keep peaks under control is much easier and cheaper to serve with a cleaner grid. In that world, buildings are no longer just points of demand; they are easier partners for rooftop solar where it makes sense, for green power contracts where it does not, and for demand-response schemes that smooth out peaks.
-
-So far, much of this adjustment has been framed as an obligation. That is one reason it is resisted. Yet policy and finance are steadily moving towards closer scrutiny of building performance, ESG disclosures, and climate risk. The real question for the sector is how well it prepares for this shift, and how early it chooses to align with it.
-
-Moving early will allow firms to spread the cost of adaptation across a pipeline of projects, build internal capabilities, and demonstrate a credible record. Waiting until new standards and market norms are in place risks having to retrofit under time pressure, with fewer options and a higher chance of assets being marked down as laggards.
-
-Managing the real-estate metabolism goes beyond environmental concern; it is about prudent risk management and long-term value protection. India will build an extraordinary amount of space in the next two decades. The sector can continue to add square footage that looks good on launch day, but becomes steadily harder to operate in a changing climate and regulatory landscape. Or it can use the same investment wave to create assets that are tuned to the emerging economy: lighter on systems, easier on cities, and more durable on balance sheets.
-
-Manish is Dean and Rahul Bajaj Chair, School of Governance, and Amir is Associate Dean, School of Systems and Infrastructure, Indian Institute for
-
-Human Settlements [IIHS]
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/future-proofing-indias-real-estate-4059126)
 
 ---
 
