@@ -1,5 +1,293 @@
 # Editorials archive — 2026-07
 
+## 3 July 2026
+
+### A hold on AI: on the Preliminary Report of the Independent International Scientific Panel on AI
+*The Hindu · Editorial*
+
+The UN’s Preliminary Report of the Independent International Scientific Panel on AI drives at a few fault lines in the rapid investment into and proliferation of AI technologies: the Global South-Global North divide, with the latter poised to take the lion’s share of the benefits of the diffusion of advanced AI models in different industries; and the challenge poorer countries face in regulating models far more advanced than what their own AI ecosystems can develop. These divides force emerging countries to choose between capital-intensive undertakings to get a seat at the table, or to accept the hand dealt to them by the half-dozen companies whose decisions shape AI access and use. These divisions are all the more urgent when seen in the light of what makes a country a voice that matters in AI: abundant electricity, highly capitalised firms that employ scarce talent with high salaries, and a drive to plow through policy resistance with a competitive zeal to outdo last month’s capabilities. While the report highlights AI technologies’ transformative potential in scientific research, its development is far more rapid than that of social media — an industry that had time to act responsibly yet deformed public discourse and affected democracies, even as people were more or less able to tell what was going on in real time. It is unclear whether individual countries, even China or the U.S., have enough power to meaningfully arrest how AI develops.
+
+AI firms acting irresponsibly have already caused harms that would not be tolerated in any other industry. AI models have ensnared teenagers and adults in parasocial fantasies that have sometimes turned fatal; they have flattened the world wide web, grievously injuring the news media’s ability to deploy resources in their respective missions to inform the public; they have unleashed an epidemic of deepfakes, undermining trust in the written word and images alike; and they have deeply intertwined their promises of Artificial General Intelligence with global financial systems, with possible catastrophic economic consequences. The most important task for governments is how to hold these firms to account when needed, as taking a backseat on this conversation — even if industry leaders ignore the Global South’s concerns — carries far greater costs. India has already experienced the cost of not asserting itself in the technology development of the decade: even as Anthropic’s Mythos and Fable held out the tantalising promise of securing vast cyber systems, the U.S. pulled access, leaving the firms that had these models to ponder the risk of a different model succeeding at attacking their infrastructure. There is a limit to visions of AI as a geostrategic asset; much needs to be done to address its potential for broad damage.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/a-hold-on-ai-on-the-preliminary-report-of-the-independent-international-scientific-panel-on-ai/article71174601.ece)
+
+---
+
+### ​Unwelcome surge: On the buoyancy in GST collections
+*The Hindu · Editorial*
+
+India’s June GST collections rose 13.9% year-on-year to ₹1.95 lakh crore, driven largely by import IGST, which surged 34.6% compared with June 2025, up from 17.2% growth in May. Domestic GST collections grew by a more modest 6.5%, suggesting that the sharp increase in overall collections owes less to a broad-based improvement in domestic value addition. Some economists have argued that this reflects stronger imports of capital goods and industrial inputs. However, May petroleum products’ trade data and Q1 FY27 data on the performance of the eight core industries, point to a rather different explanation. June GST collections reflect economic activity during May. While crude and petroleum products constituted a 54% rise this May (YoY) in merchandise imports by value, the other chunk was gold, which constituted another 34% rise. The surge in gold price, by nearly 60% between last May and this May, suggests hedging during difficult times, rather than broad-based economic activity. To stem gold imports, the government hiked its import duty from 6% to 15% on May 13, which likely added to the May import GST kitty. This period also coincided with the rupee depreciating by almost 6% against the U.S. dollar since late February. This coupled with a spike in freight charges, and a 14.5% rise on non-oil imports in May at elevated global prices mechanically raised the June tax base. This suggests that much of the import GST rise is driven by imported inflation and currency depreciation rather than domestic production growth, indicating an unwelcome increase due to higher prices.
+
+Read alongside the performance of India’s eight core industries, which expanded by only about 2.8% in Q1 FY27 compared with around 6% in the corresponding period last year, the domestic economy appears more subdued. Growth has been expectedly weak in crude oil, natural gas, refinery products, fertilizers and electricity. The latest HSBC Manufacturing PMI reading of 54.2 likewise points to steady but moderating factory activity, marking the second-lowest expansion in 13 months. These figures come as India marks nine years of GST as a unified destination-based indirect tax. The government can point to the expansion of the tax base from about 66 lakh taxpayers in 2017 to over 1.65 crore today, reflecting better compliance, greater formalisation, and faster refunds, though input tax credit, litigation and federal balance in revenue sharing issues remain unresolved. GST has strengthened India’s indirect tax architecture. Yet, the June numbers are a reminder that a growing share of the recent buoyancy appears to have been underwritten by imported inflation and a depreciating rupee rather than stronger domestic value addition.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/unwelcome-surge-on-the-buoyancy-in-gst-collections/article71175114.ece)
+
+---
+
+### The right to a fair trial at the crossroads
+*The Hindu · Opinion*
+
+When, earlier this year, the Supreme Court of India denied bail to Umar Khalid and Sharjeel Imam in the 2020 Delhi Riots cases (while granting bail to five other individuals in the same case), one key question that arose was this: “how long is too long” for people to be kept in jail without being found guilty of an offence? At the time of the Court’s judgment, Umar Khalid and Sharjeel Imam had spent more than five years in jail without trial; at the time of writing, that period is approaching six years.
+
+Bail, delay, and rightsIn its own prior judgments, the Court had noted that an extended delay in trial would trigger an accused’s right to personal liberty under Article 21. Thus, even though the Unlawful Activities (Prevention) Act (UAPA) has strict requirements for delay, these statutory restrictions could not override the constitutional (and indeed, human) right to personal liberty.
+
+However, in denying bail to Umar Khalid and Sharjeel Imam, another Bench of the Court noted that a delay in the trial could not create an iron-clad right to bail, but would have to be weighed against other factors such as the gravity of the offence and which of the parties was “responsible” for the delay. With respect, these observations appear to miss the point. Issues such as the gravity of an offence are factors used to determine, in the first instance, whether or not a case for bail is made out. To then invoke the gravity of the offence—which, at the stage of bail, is only an allegation made by the state — to override the question of delay essentially creates a sliding scale under which certain individuals can be kept in jail for decades simply because they have been “accused” of grave offences.
+
+Related StoriesUmar Khalid’s prison reading list
+
+2020 Delhi riots: Sharjeel Imam, Umar Khalid move fresh bail pleas in ‘larger conspiracy’ case
+
+Indeed, this has happened: people accused under the UAPA have been kept in jail for more than two decades before eventually being acquitted, with the best years of their lives robbed from them. Indeed, the very fact that this has happened on more than one occasion ought to have given the Court pause.
+
+Nor does the argument that the accused themselves might be responsible for delaying the trial hold any water. Whatever applications an accused (or, for that matter, the state) may make, ultimately it is the judge who controls the courtroom and the pace of the trial, and it is the judge upon whom the ultimate responsibility rests to ensure that trials are completed within a reasonable timeframe.
+
+Indeed, it was clear that the Court itself recognised some of these issues when, in a rare move, another two-judge Bench recently openly criticised the Delhi Riots bail rejection as being contrary to established precedent and reiterated the fundamental principle that, under a Constitution committed to the rule of law, individuals cannot be incarcerated indefinitely without a trial.
+
+Editorial | Process as punishment: On the Umar Khalid case
+
+In response, and in another case, the Delhi Riots Bench “referred” this question to the Chief Justice to constitute a larger Bench to resolve. With respect, the very fact that the Supreme Court is effectively debating whether people who have spent more than half a decade in jail (the amount of time that another famous political prisoner, Captain Alfred Dreyfus, did) should or should not be released, is a cause for consternation.
+
+Bail and legal inconsistencyIn the meantime, at the level of the trial court and the High Courts, conflict and inconsistency in judicial decisions continue to persist. Recently, the High Court of Delhi (correctly) granted bail to the Kashmiri human rights activist, Khurram Parvez, who had been incarcerated for more than four years without trial. This length of time in prison without trial weighed heavily with the High Court in deciding to grant bail. What is curious, however, is that the judge who (correctly) granted Khurram Parvez bail had denied bail in the Delhi Riots cases the previous year, when the accused in that case had already spent more than four years in jail. Nor is this the only instance of the same judge speaking with different judicial voices: in the Delhi Riots cases themselves, on the same underlying facts, the same judge delivered opposing bail judgments a year apart.
+
+Related StoriesA nearly 40-year-old pending case spurs Supreme Court to declare speedy trial a ‘human right’
+
+Accused can't be denied access to documents forming part of charge sheet: Supreme Court
+
+Fair trial goes beyond courts, to the police and media
+
+It is trite to say that no case is identical to the other. On an issue as basic as pre-trial incarceration, repeated inconsistencies across cases and courts undermine the rule of law and, ultimately, damage the cause of fundamental rights and individual liberty. These questions assume particular significance because laws such as the UAPA, in particular, have an undeniably political character, and it has been demonstrated across the world that states are only too happy to interpret these laws in a way that blurs the line between political dissent and what the law defines as “terrorism”. Recent attempts in the United Kingdom and the United States around dissent linked to Israel’s genocide in Palestine are examples of this.
+
+What the judiciary must ensureIn such a context, it becomes particularly important for the judiciary to ensure that such laws are not weaponised. While legal interpretation is subjective, one thing is — and should be — crystal clear: that the state cannot keep people behind bars for years without trial. It makes a mockery of having a system based on the rule of law, and one that — to use the old adage — entrenches the process as the punishment.
+
+It is unclear whether — or when — the Court’s larger Bench will opine on the issue. In the meantime, however, there remain contentious UAPA cases, where individuals continue to be imprisoned without trial, and their time spent in custody continues to increase with no resolution in sight. Indeed, one such case is that of Umar Khalid and Sharjeel Imam, the last two individuals among the accused student activists who remain in custody in the “Delhi Riots cases”. After the denial of bail by the Supreme Court, the case is once again coming up before the trial court this week; in the meantime, five years in prison have turned into six, and the cost — both to the lives of the imprisoned individuals and to the rule of law — has continued to become steeper.
+
+Ultimately, therefore, this issue is both about individual human lives and about our commitment as a society to human and democratic values. As these cases continue to arise, the courts will once again have an opportunity to reaffirm these values, whether in individual bail cases before trial courts or when it comes to laying down the law before the Court. It is to be hoped that this happens, and that the cycle of endless imprisonment without trial is broken.
+
+Gautam Bhatia is a Delhi-based lawyer
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-right-to-a-fair-trial-at-the-crossroads/article71175093.ece)
+
+---
+
+### DC Edit | India, Japan: Perfect Partners
+*Deccan Chronicle · Editorial*
+
+Over 2,000 years ago, India’s celebrated strategist Chanakya’s Rajamandala Theory stated that “your neighbour is your natural enemy and the neighbour's neighbour is your friend”. If any country fits this bill for modern India, it is Japan. The strengthening relations between India and Japan for nearly two decades attest to this fact.
+
+Following the pro-India policy adopted by her predecessor Shinzo Abe, Japanese Prime Minister Sanae Takaichi reaffirmed her country’s special strategic relationship with India. Both countries signed 12 agreements on cooperation in matters such as defence, technology, and economy among others.
+
+Ms Takaichi’s visit to India is of significant value, especially in the wake of a new Trumpian era in geopolitics, which is marked by the transactional nature of relationships between countries. The withdrawal of the United States from the Indo-Pacific security architecture and an increasingly assertive China will force countries like India and Japan, the only two major powers in Asia outside the Sinosphere, to collaborate.
+
+The Indo-Japanese relationship is one of the most complementary relations in the world. Japan has technology, while India has manpower to achieve scale. One of the best and popular examples of this synergy is Maruti Suzuki, which modernised the car sector in India, while giving scale to Suzuki Motor Corporation.
+
+The Indo-Japanese relationship is also in sync with the emergence of a compact between middle powers to avoid getting sold out by a modus vivendi between the United States and China.
+
+If India and Japan can co-opt South Korea and Taiwan, which are threatened by North Korea and China, respectively, they can successfully create a defensive arc of resistance and economic cooperation, which could be a reply to the string of pearls. This new four-member bloc could be the Quad 2.0, whose interests align much more closely than those between the older Quad of the US, India, Japan and Australia.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-india-japan-perfect-partners-1968182)
+
+---
+
+### DC Edit | World Celebrates With America As It Turns 250
+*Deccan Chronicle · Editorial*
+
+America will celebrate this weekend the passage of 250 years since the Declaration of Independence was signed by 56 delegates to the Continental Congress. Since that momentous day in world history after which people mostly from across the Atlantic Ocean surged to the new land, attracted by its freedom and the hope of leaving the European class system behind, the US has grown into the world’s biggest economic power with the mightiest armed forces.
+
+To many, the American Dream is still alive as the US is always viewed as the land of equality — even if it didn’t begin that way as only whites with property had early say and the vote for nearly a century from 1776 and slavery was not abolished till 1865 — and of opportunity though it is said that Americans have grown less proud of their history and the way its democracy has been seen to work, especially most recently.
+
+President Harry Truman reportedly left the White House without any income other than monthly army pension of $113 while the current resident of the White House made at least $2.2 billion in his first year back as President, $1.4 bn of that in the cryptocurrency industry. But personal aggrandisement is not the only thing being held against him as several mighty institutions that graced the history of American independence have been compromised by a noticeably erratic wielding of presidential power.
+
+The history of commitment to equality, fraternity and the pursuit of happiness is too grand over two and a half centuries to be spoiled by a two-term President. And yet Donald Trump may have taken the most imprudent decision in his career to declare war on Iran at the behest of Israel and is still paying the price for it as he scrambles to make a meaningful peace deal. His anti-immigration policies are also a denial of the history of the contribution of migrants to the might of America.
+
+Truth to tell, there is a lot more to the US than military wins and defeats though life now seems to suffer from a toxic polarisation thanks to the divisiveness of politics and the endless capacity of the social media and cable news to thrive on outrage. It may not have helped that while the rich are getting richer in free enterprise and trade, political leaders who appear to prosper more are promoting anxiety and divisions in the public
+
+Even so, America is one of a handful of nations taking the lead in artificial intelligence today that might define how the future evolves. Where it may have lost ground under Mr Trump is that it has shed all the shine it used to have as avowedly the leader of the free world. So much has he done to alienate US's closest allies nearest to home in Canada and Mexico as well as in Europe.
+
+If optimism still prevails in America, it is because of the basic goodness of people which is more than amplified in the way in which the sporting spectacle of the World Cup has seen people spontaneously respond to sportsmen and visitors from all corners of the world, including Iran, with enthusiasm.
+
+Empathetic scenes of shared humanity invest all the world with the thought that life is worth living after all and the American people are the heroes in this, including those who came to the US in search of life, like the Indian Americans who have done very well for themselves and those who were set free only by the democratic zeal of Abraham Lincoln. It is true that America, in all its history, has been kinder to its people than its politics.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-world-celebrates-with-america-as-it-turns-250-1968197)
+
+---
+
+### Dilip Cherian | Haryana Govt In A Dilemma Over Second Extension To Its Chief Secy
+*Deccan Chronicle · Opinion*
+
+The Haryana government’s bid to secure a second one-year extension for chief secretary Anurag Rastogi is about more than administrative continuity. It is about whether governments are beginning to use service extensions to avoid uncomfortable decisions.
+
+If the Centre approves the proposal, Mr Rastogi will remain in office until June 2027. By then, his two 1990-batch colleagues, Sudhir Rajpal and Sumita Misra, who are senior to him in the gradation list, will have retired. The controversy over their supersession would fade away, not because it was resolved, but because the clock ran out.
+
+The seniority dispute that preceded Mr Rastogi's appointment was never conclusively settled. Extending his tenure again risks creating the impression that delaying a decision is easier than taking one.
+
+The Haryana episode reflects a wider trend. Across the country, governments are increasingly extending the tenures of chief secretaries, DGPs and other top officials in the name of continuity. While the rules permit extensions in exceptional cases, the exception is steadily becoming the norm.
+
+That comes at a price. It blocks career progression, unsettles the administration and weakens confidence in established service rules. More importantly, it suggests that succession planning has taken a back seat to administrative convenience. If governments increasingly rely on extensions to keep trusted officials in office, they risk sending the message that rules are flexible, but only when they suit those in power.
+
+Delhi's babu reshuffle faces a real test
+
+Every new government wants to leave its stamp on the bureaucracy. In Delhi, that process began with a sweeping transfer of more than 50 IAS and DANICS officers. On paper, it's an administrative exercise. In reality, it is a show of power.
+
+Transfers have long been the political class's favourite management tool. They are quick, visible and send an unmistakable message about who's in charge. The latest reshuffle, which affects secretaries attached to several ministers and key officials in the health department, does exactly that. It resets the balance of power inside the administration while allowing the government to put trusted officers in crucial positions.
+
+The timing isn't accidental. The Health Department has been under intense scrutiny, and civic services continue to frustrate Delhiites. Faced with mounting pressure, governments often reach for the transfer order before tackling the harder job of fixing broken systems. Moving officers is easier than reforming institutions.
+
+The trouble is that constant reshuffles rarely come free. Officers juggling multiple departments or being shifted every few months spend less time delivering results and more time figuring out where they'll land next. Long-term planning suffers, accountability gets blurred, and institutional memory takes a hit.
+
+This isn't just Delhi's problem. Every political party, once in office, discovers the usefulness of the transfer file. The Supreme Court has repeatedly argued for fixed tenures to shield civil servants from arbitrary postings, but those recommendations have remained largely on paper. Governments still prefer flexibility over stability because transfers are an effective way to reward loyalty, punish dissent and tighten political control.
+
+So, the success of this exercise won't be measured by the number of babus who changed offices. It will be measured by whether Delhi's residents see cleaner hospitals, better civic services and a government that works faster. They expect tangible outcomes, not mere optics.
+
+Amarinder Singh still casts a long shadow
+
+The closer Punjab gets to the Assembly election, the more important the bureaucracy becomes. That's why the Bhagwant Mann government can hardly afford to ignore the lingering influence of former chief minister Captain Amarinder Singh.
+
+Amarinder has been out of office since 2021. His political outfit has merged with the BJP, and he is no longer at the centre of Punjab's electoral politics. Yet, in Chandigarh's babu circles, the Captain is widely believed to retain the respect and the ear of many senior officials. Whether that influence is exercised or merely perceived is beside the point. In politics, perception often shapes decisions.
+
+Bureaucracies don't change with every election. Relationships built over decades tend to outlast governments. Having served two terms as Chief Minister, Amarinder cultivated a network of officers who know his style of functioning and trust his judgement. Those equations cannot be wished away with a change of regime.
+
+That also explains why babu reshuffles become more frequent as elections approach. Officially, they are about administrative efficiency. Unofficially, they help governments tighten control over the machinery that will implement policies and, eventually, oversee the electoral process.
+
+Punjab has seen three governments in five years, from Amarinder Singh to Charanjit Singh Channi and then Bhagwant Mann....
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-haryana-govt-in-a-dilemma-over-second-extension-to-its-chief-secy-1967955)
+
+---
+
+### Indranil Banerjie | America@250: Could It Still Inspire The World?
+*Deccan Chronicle · Opinion*
+
+During the second half of the 18th century, when India was coming under the inexorable stranglehold of British colonialism, halfway across the world, the opposite process was underway. In America, citizens were fighting to oust their British colonial overlords. The independence of the American colonies, which came at the end of a bitter eight-year-long war, ushered in a period of unprecedented prosperity and eventually transformed the country into the world’s richest and most powerful nation. India, on the other hand, slipped from being one of the most affluent and awe-inspiring empires into one of the world’s poorest and inconsequential countries.
+
+While the fortunes of India and America followed very divergent trajectories, an incipient link connected the two. This was political ideology. The United States was destined to serve as the political inspiration for India.
+
+The process started early. In 1831, an unknown American publisher sent a thousand copies of Tom Paine’s famous tracts Age of Reason and The Rights of Man by ship to Calcutta, where booksellers hawked them at one rupee a piece, not an inconsiderable sum in those days. The book proved to be such a bestseller that the booksellers quickly raised the price to Rs 5 a copy! Young Indians who had learnt English and were beginning to devour Western philosophical and political works were electrified by Tom Paine’s writings on liberty and the rights of all men. More of his books were ordered from America.
+
+The colonial masters in India were furious at this development. The Scottish missionary, Dr Alexander Duff, was among the many who condemned the book’s publisher, calling him a “wretched bookseller in America” who had “no God but his silver dollars”. Like most colonials, Duff considered Indian self-governance or political independence unthinkable, and believed it was their divine duty to rule India and eventually transform it into a Christian nation!
+
+But the damage was already done. The idea of liberty and a government of free people was so intoxicating that it would eventually spark off a revolution in Indian political thought and sow the seeds of the country’s freedom movement.
+
+The United States, even in later years, continued to champion the independence of India. During the Second World War, when US President Franklin D. Roosevelt demanded the end of British rule in India as one of the preconditions for US support for the British war effort, a furious Winston Churchill declared: “I have not become the King’s First Minister in order to preside over the liquidation of the British Empire”. But Churchill could not hold out. and in the end lamented: “The empire I believed in has gone”.
+
+Though the United States played a significant role in India's struggle to achieve Independence, the two countries drifted apart shortly after 1947. This was primarily because after World War II, America emerged as a global hegemon and took on the imperial mantle from Great Britain. Over the years, the nation that had once championed liberty and democracy grew into a ruthless superpower bent upon imposing its will on the rest of the world.
+
+Its imperialistic war machine rampaged across the globe, killing millions in countries as varied as Vietnam, Afghanistan, Iraq, Syria, Yemen, Libya, and most recently Iran. In the post-9/11 period alone, the US is estimated to have killed over 4.5 million people.
+
+As the United States marks its 250th anniversary, there is little to suggest that it could once again revert to being the beacon of democracy, justice and liberty that it once was. US President Donald Trump's threat to “wipe out an entire civilisation” (Iran) from the face of the earth is a deeply disturbing echo of the kind of amoral thinking that grips the country’s elite. His defence secretary, Pete Hegseth, hosting his first monthly Christian worship service at the Pentagon (on March 25, 2026), quoted from the Psalms: “I pursued my enemies and overtook them, and did not turn back till they were consumed.”
+
+While India since Independence steadfastly refused to hitch its fortunes to the US wagon and insisted on staying non-aligned in a deeply divided world of great powers, the old incipient link between the two countries did not completely sunder. While Tom Paine had once inspired a generation of Indians, Mahatma Gandhi inspired legions of Americans, including the legendary black leader Martin Luther King Jr.
+
+Meanwhile, millions of Indians looking for opportunities and a better life flocked to the United States while its technological strides helped the world climb another step on the development ladder. At heart, American society remained deeply committed to the idea of diversity and freedoms. Immigrants from all over the world arrived on its shores to spur innovation and germinate new ideas.
+
+America and India came geopolitically closer after President Bill Clinton’s India visit in March 2000, followed by the signing of the civil nuclear agreement under George W....
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/indranil-banerjie-america250-could-it-still-inspire-the-world-1968171)
+
+---
+
+### Electoral rolls cannot gatekeep welfare
+*Deccan Herald · Editorial*
+
+Chief Minister D K Shivakumar’s warning that those whose names do not appear in Karnataka’s electoral rolls after the Special Intensive Revision (SIR) could lose access to government welfare schemes has understandably caused widespread concern.
+
+While nudging eligible citizens to enrol as voters is a legitimate objective, linking electoral registration to welfare benefits is legally untenable. Shivakumar may have been echoing recent remarks by Bihar Chief Minister Samrat Choudhary and a Bharatiya Janata Party (BJP) minister in West Bengal who suggested that those absent from the rolls would be denied benefits.
+
+However, the constitutional position is unambiguous. Article 326 guarantees universal adult suffrage, enabling every eligible citizen to be registered as a voter, but India has never made voting compulsory.
+
+The right to vote is a statutory right, not a mandatory civic obligation. Consequently, failure to be enrolled cannot attract penalties that Parliament itself has never prescribed.
+
+The moment the state seeks to deny welfare solely because an individual’s name is absent from the voters’ list, it crosses a constitutional red line.
+
+Exclusion risks, accountability: Supreme Court’s SIR verdict vulnerable to criticism Eligibility for welfare schemes is determined by factors like residence, income, gender, and economic vulnerability – not voter registration. Making the electoral roll a gateway to social security bears no rational connection to the objectives of these schemes and would almost certainly fail the test of equality under Article 14.
+
+It could also infringe Article 21, which the Supreme Court has interpreted to include the right to live with dignity and livelihood. Denying benefits because of a procedural omission would disproportionately harm the poorest citizens.
+
+Across states, while ineligible or deceased voters have rightly been removed, the SIR exercise has left lakhs of genuine voters excluded due to clerical errors, data mismatches, spelling mistakes, migration, and other administrative lapses.
+
+Vulnerable groups often struggle with these verification exercises and risk being penalised for no fault of their own.
+
+The Supreme Court’s landmark judgment in the Justice K S Puttaswamy case established that a database created for one statutory purpose cannot be repurposed for unrelated objectives without explicit legislative sanction.
+
+The Court permitted Aadhaar to be used for welfare delivery because Parliament legislated it as a tool for identity verification tied to subsidies and services.
+
+Electoral rolls, by contrast, exist to facilitate democratic franchise, not to serve as an instrument of socio-economic exclusion. While every citizen who qualifies to vote should strive to register, withholding welfare merely because a person’s name is absent from this database is constitutionally indefensible.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/electoral-rolls-cannot-gatekeep-welfare-4060341)
+
+---
+
+### The costs of deferred truth
+*Deccan Herald · Editorial*
+
+The disclosure of the names of six soldiers who were killed during last year’s Operation Sindoor – recently inscribed on the National War Memorial – ironically underlines the Union government’s failure to uphold the democratic norms of transparency.
+
+While India rightly honours the ultimate sacrifices of Subedar Major Pawan Kumar, Rifleman Sunil Kumar, Lance Naik Dinesh Kumar, Havildar Sunil Kumar Singh, Sergeant Surendra Kumar, and Agniveer Mood Muralinaik, the delay in a ceremonial announcement formally recording their identities has led to scrutiny. These revelations have emerged more than a year after the operation, raising critical questions about accountability.
+
+The government’s subsequent explanations regarding the delay have not been convincing. Important questions on the credibility of official positions now cloud what should have been a time for remembering the fallen.
+
+In May 2025, then Director General of Military Operations (DGMO) Lieutenant General Rajiv Ghai acknowledged that the operation had resulted in casualties but did not reveal the identities or the number of soldiers who had died.
+
+Air Chief Marshal A P Singh visited the family of Sergeant Surendra Kumar, and the families of the fallen personnel were honoured with gallantry awards, in acknowledgment of the fact that military losses had occurred.
+
+Yet, Defence Minister Rajnath Singh told the Lok Sabha that no Indian soldiers were harmed during the operation. The government has since argued that the minister was responding specifically to reports concerning the deaths of fighter pilots.
+
+That explanation, however, has failed to blunt the questions. The opposition Congress has sought a privilege motion against the minister, arguing that Parliament was misled. The episode adds to a pattern of contradictory official narratives regarding the losses sustained during Operation Sindoor, undermining public confidence in these accounts.
+
+No one expects the government or the armed forces to reveal operational details of the conflict or sensitive information that could compromise national security. However, in a democracy, transparency about casualties, setbacks, and the operational costs of military action is important. Public confidence cannot be ensured through selective disclosure, suppression, or exaggeration of facts.
+
+A government’s credibility rests not on projecting a face of invincibility but on demonstrating honesty and accountability to the citizens. When official statements are perceived as evasive or inconsistent, they risk creating doubts regarding the government’s claims in other domains as well.
+
+Democracies derive strength from their openness, not the illusion of perfection and infallibility. Military operations involve human action and carry the risk of failure. Acknowledging failures does not signal weakness. Concealing truths undermines democratic values.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-costs-of-deferred-truth-4060340)
+
+---
+
+### Who deserves welfare? India must get it right
+*Deccan Herald · Opinion*
+
+A rickshaw puller’s widow can be denied a ration card because of issues in eKYC. Across the country, anyone can secure an income certificate declaring a household income of Rs 17,000 per year with negligible verification.
+
+These are symptoms of a deeper structural failure at the heart of India’s welfare: a system that is spending more than ever and making even bigger promises but is operating suboptimally due to constrained precision.
+
+Welfare is now the central currency of Indian electoral politics. Between FY21 and FY25, combined social services expenditure rose from Rs 14.8 lakh crore to Rs 25.7 lakh crore, a compounded annual growth of 15%. As a share of GDP, expenditure on social services climbed from 6.7% in 2017-18 to 7.8% in 2023-24.
+
+But scale alone does not win elections. Research from the Carnegie Endowment for International Peace, ahead of the 2024 general elections, found that voters across India were not simply rewarding governments that spent more. They were rewarding governments that delivered outcomes. The Karnataka Congress’s 2023 victory has been widely attributed to the credibility of its welfare guarantees.
+
+The Bharatiya Janata Party (BJP)’s Laadli Behna Yojana gave it the edge in Madhya Pradesh the same year, not because it was generous in design but because it was felt on the ground. Voters are discerning. They notice when welfare reaches them and when it does not.
+
+A NITI Aayog assessment found that PDS alone suffers from leakages of 36% and diversions of 21%, a large share traceable to faulty beneficiary identification. A hospital-based study at AIIMS, New Delhi, found that over 69% of the genuinely poor did not possess a BPL card, while 5.5% of Above Poverty Line patients did. Welfare that does not reach the right people is not just a fiscal problem. It is a political liability. The lesson for governments is clear: the question is no longer only how much to spend on welfare but also how to ensure it reaches the right people.
+
+The dominant instrument for determining economic eligibility, the income certificate, is structurally broken. Built on self-declaration and manual checks, its objective reliability can be highly contested. Those who need benefits but lack the social and economic capital to navigate the system can be left out. The path forward is not to abandon targeting but to do it properly. NITI Aayog’s Multidimensional Poverty Index (MPI), developed in partnership with UNDP and OPHI, measures poverty across 12 indicators focusing on health, education, and standard of living – observable dimensions rather than a single self-declared income figure.
+
+Ask not how much the State spends, but what society gains from that spendingThe data is already here
+
+Government databases are full of information about economic status. Citizens file income taxes and GST. They contribute to EPF. They register property, pay electricity bills, and send their children to fee-charging schools. They own vehicles and hold land. What is needed is a two-step framework built on economic exclusion rather than self-reported inclusion. The first step is identifying reliable, scalable data points that serve as proxies for economic well-being: electricity consumption, land records, vehicle ownership, income tax filings, school fee payments, property tax records, EPF contributions, and income from government contracts. These are observable, verifiable, and already digitised.
+
+The second step is defining calibrated exclusion thresholds, that is, the point at which a household, by its demonstrated consumption or assets, should reasonably be considered non-poor and, therefore, ineligible for means-tested benefits. Electricity consumption is a particularly useful proxy because it is metered, verifiable, and a strong correlate of household appliance ownership and overall economic standing. Data from the Centre for Policy Research, using CEA and NSSO figures, shows that about 80% of electrified households consume under 100 units a month, and in rural areas, 90% fall below that mark. A threshold of around 200 units a month is well-
+
+justified for the southern parts of India. Crossing 200 units almost certainly means using appliances that are credible signals of economic comfort. This is also the upper band used by states
+
+as their domestic subsidy limit, suggesting a broad cross-state consensus on the number.
+
+Critically, this data must be mapped at the family level rather than the individual level, because welfare flows to households. Seeding citizen and family identifiers across these datasets, using Aadhaar, phone numbers, names, and addresses as matching keys, is needed.
+
+Data-driven exclusion can itself go wrong, and the record shows it has. Certain states have implemented mechanisms that have wrongfully excluded food security cardholders owing to faulty matches and data errors. The lesson from such experiences is not that data cannot always be trusted but that data governance must be robust, transparent, and grievance-responsive. No family should lose benefits on the basis of a database error without recourse.
+
+Designed well, this approach does not punish the poor. It protects them by ensuring that the finite resources of a state government reach the families that genuinely need them, rather than being spread thin across a bloated and inaccurate beneficiary list.
+
+The ingredients for a better system already exist across India. What has been missing is the will to stitch them together into a coherent picture to determine economic status and benefit eligibility. This is a governance problem, one that requires states to agree on what exclusion thresholds are fair, to build systems that can be audited and appealed, and to accept that a smaller but more accurate beneficiary list serves the poor better.
+
+Every state in India is grappling with the same tension: expanding welfare commitments on the one hand and managing fiscal pressure on the other. Improving targeting by better leveraging data is today an imperative fix.
+
+(The writer leads the family benefit management system programme in Andhra Pradesh at Samagra, a
+
+governance consultancy firm)
+
+[Read full article](https://www.deccanherald.com/opinion/who-deserves-welfare-india-must-get-it-right-4060327)
+
+---
+
 ## 2 July 2026
 
 ### Fixing the rot: On the subversion of public examinations and recruitment

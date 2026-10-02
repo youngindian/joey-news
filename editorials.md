@@ -1,8 +1,332 @@
 # Editorials
 
-_Last updated: 2026-10-01 07:36 UTC_
+_Last updated: 2026-10-02 07:24 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 2 October 2026
+
+### Other than outrage: On women, unsafe public spaces
+*The Hindu · Editorial*
+
+There is a sickening sense of déjà vu in last month’s headlines of sexual assaults against women and children. In the national capital alone, the gang-rape of a 17-year-old girl in Astha Kunj Park by three men posing as police personnel, the gang-rape and murder of a 16-year-old in Swaroop Nagar, and the gang-rape of another 17-year-old on a sleeper bus travelling from Greater Noida to Delhi have each shocked the nation briefly before giving way to a numb outrage. Little seems to have changed in the 14 years since the candlelight marches and commissions after the Nirbhaya case unleashed a slew of new schemes, laws and funds that vowed to protect women and girls from sexual violence, especially in public spaces. The latest report of the National Crime Records Bureau shows an 80% surge in crimes against women since Nirbhaya, from 2.4 lakh in 2012 to 4.4 lakh in 2024. Some of this can be attributed to higher reporting of crimes, facilitated by those new laws and schemes, but that is not sufficient to account for the vast number of them. In 2024, more than 50 crimes against women were reported every hour, with the highest rate of such crimes seen in the metro cities of Jaipur, Indore, Lucknow, and Delhi.
+
+The government has listed a slew of initiatives meant to deal with the problem, from the Safe City project to Mission Shakti, from a women’s helpline and emergency response support system to one-stop centres for survivors of sexual violence and fast-track courts, many of which have been financed through the Nirbhaya Fund. The recent crimes, however, put a question mark on the implementation of such schemes. A safe city cannot be created simply by installing lighting and CCTV cameras, if they are not functional, monitored, and connected to a response system. Police patrols and emergency numbers matter only if they result in prompt intervention from trained and sensitised personnel. It is important to move from scheme-based policing to preventive, and outcome-based policing, with public audits of vulnerable locations with deadlines and accountability to rectify deficiencies. The justice system must address the enormous backlog of cases; the promise of speedy investigation loses meaning if survivors spend years awaiting trial. The authorities must also resist the temptation to convert women’s safety into restrictions on women’s freedom. The answer to unsafe public spaces cannot be that women should avoid parks after dark, return home earlier, travel only with companions, or otherwise organise their lives around the possibility of male violence. Most importantly, there is a need to challenge the culture of sexual violence and toxic masculinity, enabled by age-old patriarchal traditions.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/other-than-outrage-on-women-unsafe-public-spaces/article71533047.ece)
+
+---
+
+### Gandhiji’s many ways of understanding ‘genius’
+*The Hindu · Opinion*
+
+This column is not about Gandhi as a genius (which, with a laugh, he would say he certainly was not) or about the spectacularly original man I believe him to have been. It is about the place of the word ‘genius’ in Gandhi’s thought and in his writings.
+
+Why should that common word be picked up from Gandhi’s teeming English vocabulary for special attention? Because his use of that valuational word tells us a great deal about his assessment of persons and situations — a matter of interest in itself. And also because we can apply (or not apply) his yardsticks for evaluating persons and happenings in our contemporary times.
+
+Gandhiji’s unfinished work on the world stageThere is another non-Gandhi reason as well. Most users of the word do not know that ‘genius’ is a Latin word. Not just a word of Latin origin but a Latin word in its totality — in the way it is spelt, pronounced and meant. English has borrowed ‘genius’ from the language of Virgil, Horace, Ovid without any change whatsoever, somewhat like how C.V. Raman describes the journey of the diamond from its womb under the earth to human hands ‘…absolutely fresh…perfect from nature’s crucible.’ And so, reflecting on the word, one might also ponder its travel from one language register to another, admitting some variations in its action.
+
+Here are representative examples culled by Gandhi-researcher Murtaza Gandhi from The Collected Works of Mahatma Gandhi (CWMG).
+
+Pronounced in both Latin and English identically, as Jee-nee-us, its meaning in classical Latin is ‘divine inner power’. In modern English, when used as a noun, for example, ‘the genius S. Ramanujan…’, it denotes a person with exceptional intellectual or creative ability. When used as an adjective, for example, ‘the genius of India…, it refers to a singular or unique characteristic.
+
+The first encounterGandhi uses the word in both senses. His first recorded use of it is as a skill, a vision, an act of sheer dare. He talks about it as an achievement, not as the description of a person. The reference goes back to 1888, when he was 19 years old and when his English was unpolished. Travelling by the liner S.S. Clyde from Bombay to England to start his law studies, he was taken up by the sight of the Suez Canal. Cutting the slender isthmus of the Suez between Asia and Africa to save on journey time by several days, it was a marvel to behold.
+
+The young and the satyagraha | Gandhi’s motto was truth and non-violence, and so is Gen Z’sHe writes in what is now known as his London Diary: “The construction of the Suez Canal I am not able to understand. It is indeed marvellous. I cannot think of the genius of a man who invented it. I don’t know how he would have done it.” (CWMG, Vol.01, p.11). The ‘man who invented it’ is, of course, Ferdinand de Lesseps (1805-1894), a French diplomat and entrepreneur, who thought of and made the Canal with the help of two engineers — the Austrian Alois Negrelli and fellow Frenchman Linant de Bellefond.
+
+In this year, 2026, which marks the 70th anniversary of the 1956 Anglo-French-Israeli bombardment of Egypt, which aimed to take over the Suez Canal — which Egypt’s President Gamal Abdel Nasser had nationalised — Israel is using more lethal bombs with prodigal abandon in Palestine and Gaza and, with the United States joining the fire-play over Iran, causing the death, among others, of the Supreme Leader of the Iranian state, no less. So, today, we can reflect on Gandhi’s marvelling at the genius that went into the making of that oceanic passageway only with anxiety for the future of the area around that marvel.
+
+The dark sideThis brings one to a phrase which is twinned to ‘genius’: evil genius (or malignum genium). The earliest known use of that phrase as a concept is in French philosopher Rene Descartes’ use of it in his 1641 opus Meditations on First Philosophy. He posits in it the existence of a power that is the very opposite of the divine power that actuates ‘genius’ — evil genius, a malignant God or evil power.
+
+Revisit history with The Hindu’s special Gandhi Jayanthi editionBy 1893, Barrister M.K. Gandhi was in South Africa and soon became the spokesman and leader of the Indian community there in its strivings for the recognition of its rights and its dignity. Stung by the discriminations and humiliations that Indian South Africans were subjected to, particularly at the hands of the Asiatic Department, we see him use the word not just in its simple sense of a compliment but in its contrary avatar: “There seems to be somewhere in the Asiatic Department of the government an evil genius working through it.” (CWMG, Vol.04, p.26, 23. The Bazaars in The Transvaal).
+
+‘Evil genius’ occurs in Gandhi’s vocabulary again when he is back in India, where he uses it in the context of the Jallianwala Bagh massacre (April 13, 1919) but very pointedly for an individual: “General Dyer has been haltingly blamed, and his evil genius, Sir Michael O’Dwyer, entirely exonerated…” (CWMG, Vol.19, p.339). Just stopping short of using the phrase ‘evil genius’, he invokes the word witheringly with sarcasm, to describe the British Raj’s policy of ‘Divide and Rule’: “But just now I am speaking of the genius of the Government. It has not hesitated to divide Hindus from Muslims in order to be able to retain its hold on us.” (CWMG, Vol.19, p.398, Speech at Nankana Saheb — March 3, 1921).
+
+As a term of praiseThe earliest recorded reference by him of a person as a genius in a wholly complimentary sense, is for Lokamanya Bal Gangadhar Tilak, who, in 1916, in the town of Belgaum, famously declared (in Marathi) “Swaraj is my birthright, and I shall have it.” The ‘Father of Indian Unrest’ had been dead four years, but addressing the Indian National Congress’ session in the same town of Belgaum in December 1924 as Congress President, Gandhi could not but refer to him and said (in English): He was the genius of swaraj (CWMG, Vol.25, p.508, Concluding Speech at Belgaum Congress, December 27, 1924). Gandhi is doing something very interesting here. He is terming Tilak as a genius of and in something very singular, very specific — swaraj. He is using the term very precisely, very contextually, like he would be if he were to describe Einstein as a genius of the Theory of Relativity.
+
+What would Mahatma Gandhi do if he were alive today? We ask Gen ZThe next most notable use by him of the word as a personal tribute is for Rabindranath Tagore. Speaking of him in 1931, Gandhi says: “In common with thousands of his countrymen I owe much to one who by his poetic genius and singular purity of life has raised India in the estimation of the world.” (CWMG, Vol.45, p.125, Tribute to Rabindranath Tagore — January 26, 1931).
+
+He was to use the word for him again but again, not as a direct adjective but with a value added: “His creative genius has also given us Santiniketan, Sriniketan and Visvabharati” (CWMG, Vol.84, p.124, Speech at Prayer Meeting, May 8, 1946).
+
+There is one person for whom Gandhi uses the word ‘genius’ without any niche that encases ‘genius’. It is for his friend and almost-preceptor, the young Bombay-based jeweller, poet, Jaina ascetic Rajchandra or Raychandbhai as Gandhi called him: “Kavi Rajchandra was born in a place called Vavania in Kathiawar... His schooling was quite elementary. But he was a genius. He knew Sanskrit, Magadhi and, I believe, Pali” (CWMG, Vol.43, p.98, A Great Seer — March 18, 1930).
+
+Genius can do marvels and do evil. Remembering Gandhi’s awareness of that truth is today not a matter of language alone but of life and death.
+
+Gopalkrishna Gandhi is a teacher who has held administrative, diplomatic and constitutional positions.
+
+Collection - 11 stories GANDHI JAYANTHI, OCTOBER 2 Gandhiji’s many ways of understanding ‘genius’ Gopalkrishna GandhiYou're in this story Gandhi through the eye of the artist Neville TuliGANDHI JAYANTHI, OCTOBER 2 Gandhiji’s unfinished work on the world stage M. Kalyanaraman For ‘Gandhi’ Basappa’s family in Shivamogga, Gandhi Jayanthi is a family affair The Hindu Bureau A reflection on two songs and their nationalisms Sanjay Hegde Bengaluru’s upcoming Naturally Dyed Handmade Festival celebrates khadi and natural dyes Nidhi AdlakhaBinge Watch Column | Gandhi beyond the biopic Aditya Mani Jha The young and the satyagraha | Gandhi’s motto was truth and non-violence, and so is Gen Z’s Rohit Kumar What would Mahatma Gandhi do if he were alive today? We ask Gen Z Tanushree Ghosh,Maitri Porecha,Surya Praphulla Kumar,Julie Merin Varughese Excerpt from Ramachandra Guha’s Arguments with Gandhi Ramachandra Guha What does Mahatma Gandhi mean to you? The Hindu Bureau0 / 0
+
+[Read full article](https://www.thehindu.com/opinion/lead/gandhijis-many-ways-of-understanding-genius/article71533761.ece)
+
+---
+
+### DC Edit | SC’s Balanced Stance On Crackers
+*Deccan Chronicle · Editorial*
+
+The Supreme Court has struck a pragmatic balance in dealing with the contentious question of firecrackers. Its observation that neither a total ban nor unrestricted bursting of crackers throughout the day is desirable recognises both the environmental consequences of fireworks and the practical difficulties involved in regulating a practice that crores of people have come to associate with Diwali.
+
+Firecrackers aggravate air and noise pollution and impose costs particularly on children, senior citizens, people with respiratory ailments and animals. Therefore, the argument against their indiscriminate use is compelling. However, the regulation must also pass the test of enforceability. A ban that cannot realistically be implemented risks diminishing respect for both environmental regulation and also the authority of the court. Previously, the Supreme Court’s prohibition on firecrackers was violated at many places in Delhi.
+
+The present approach — prescribing what kind of crackers may be used and restricting their use to specified hours — therefore offers a more workable path. The government’s proposal to permit joint firecrackers containing lower amounts of barium allows regulation to evolve with scientific evidence rather than treating every firecracker alike.
+
+Though the argument of environmentalists is sound, they must realise that courts cannot resolve cultural and religious issues, especially in a country like India, where religious hurt led to the First War of Independence in 1857.
+
+Bursting firecrackers has become deeply embedded in the popular celebration of Deepavali, though widespread use of firecrackers by people started after the British amended the Indian Explosive Rules in 1940. Such cultural practices cannot simply be erased by judicial fiat. Lasting change must come from society itself.
+
+Environmentalists must, therefore, move beyond litigation and engage religious leaders, spiritual organisations and influential cultural figures. They should convince them to disassociate modern firecrackers with the religious customs of Diwali. The objective should not be to diminish Diwali but to separate its enduring religious and cultural significance from practices that impose avoidable costs on others.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-scs-balanced-stance-on-crackers-1992409)
+
+---
+
+### EC Dysfunctional Or Fit For A Fractured Polity?
+*Deccan Chronicle · Opinion*
+
+The Election Commission of India — a foundational constitutional body (Article 324) serves three primary functions. It is the apex body which oversees the maintenance of the electoral roll (list of registered voters), manages the elections for state legislatures, Parliament, the vice-president and the President of India, and registers political parties.
+
+Executive authority is vested in a triumvirate — the chief election commissioner and two election commissioners, all of whom are appointed by the President acting on the advice of a committee comprising the Prime Minister, another Union minister and the Leader of the Opposition. Being “smart” bureaucrats, one would expect a CEC not to rely on just his elevated status to push through a decision not acceptable to the other two commissioners. But that is exactly what seems to have transpired. Who then is responsible for the ECI’s inept screening technology, which disenfranchised 130 million voters, with an excessively high rate of false positives, in the small number of decided appeals?
+
+Curiously, the two aggrieved commissioners never approached the President of India for redressal. This reflects a lack of trust in grievance handling mechanisms within the ECI. Alternatively, it might reflect the absence of a spirit of habitual independence from government, within the ECI. Per the ECI September 26 Press note, they approached the Cabinet secretary about ECI staff ignoring them. Was this a government servant’s instinct to approach the head of their previous service — someone they could trust? Ideally commission decisions should be unanimous. In the event of a divide a simple majority of two vs one is legally sufficient to settle the matter. Since the CEC chairs the Commission, the administrative responsibility to discipline staff vests principally with him.
+
+Disciplining ECI staff, irrespective of where they come from, is for the Commission to accomplish, including by cutting short their deputation and returning them to their parent cadre. Has the ECI become effectively comatose because of a possible irreversible fracture and loss of trust within the Commission? What then are the prospects for its functionality?
+
+To whom is the ECI accountable? It is accountable to the government which appointed them and to Parliament whose approval is needed to impeach and remove any of the three commissioners as prescribed for Supreme Court judges because commissioners enjoy similar privileges. Impeachment by Parliament needs a simple majority in the Lok Sabha and the Rajya Sabha and two-thirds of the MPs present and voting in both Houses.
+
+Who appoints the Commission? Appointment of the commissioners is by a three-person committee comprising the Union government represented by the Prime Minister and a Union minister and Parliament by the Leader of the Opposition. This puts government in the driver’s seat for appointments. Adding the CJI to this committee would be fitting and in the interests of transparency. Asymmetry between the process of appointment and removal is also intentional to ensure some Parliamentary protection from executive pressure, for the Commission.
+
+Two primary flaws are clear. First, the appointments process relies overly on Union government largesse. Though the appointed commissioners have the rank of a Supreme Court judge, even the Chief Justice of India is not a member of the selection committee.
+
+Second, populating the Commission with retired bureaucrats is no longer a bulwark against politicisation of the Commission. The civil service is no longer bound by immutable, informal codes. Heterogeneity, whilst valuable for efficiency and inclusion in the civil service, comes at the cost of the earlier unity of purpose within a closed, entitled community.
+
+A rule for efficient institutional functioning is that form, functions, powers and finance must be aligned to ensure that executive responsibility is narrowly defined and accountability is enforceable, in a functioning democracy — holding timely and fair elections, ensuring that the voter lists correctly records all eligible voters and registering political parties. Two changes can help enhance effectiveness.
+
+First, remove the institutional link between the ECI and government and house it within Parliament. The task of appointing ECI commissioners should be done by an empowered joint parliamentary committee for elections (EJPCE) reflecting the proportional representation of all parties in Parliament. Based on their recommendation, the Prime Minister would endorse the appointment to the President of India for approval.
+
+Second, as suggested in a private member’s bill tabled in the Rajya Sabha in 2023, to give the same level of independence as the Comptroller and Auditor General the expenses of the ECI could be charged to the Consolidated Fund of India.
+
+Third, in the state legislatures, empowered committees for elections — cloned from the ECI pattern — could select the chief electoral officer of each...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/ec-dysfunctional-or-fit-for-a-fractured-polity-1992405)
+
+---
+
+### UN’s journey: From Purpose To Pageantry
+*Deccan Chronicle · Opinion*
+
+There was a time when the United Nations was not merely a venue. It was a stage upon which the architecture of the world was contested, dismantled and occasionally reinvented. Its great speeches carried the weight of historical rupture, i.e., decolonisation, nuclear annihilation, revolution, sovereignty, racial equality and national liberation. Their protagonists arrived not merely to occupy a lectern but to announce that something in the world had changed.
+
+Jawaharlal Nehru's interventions at the UN in 1948 came from a newly independent India wrestling with sovereignty, peace and the end of imperial domination. In 1953, Dwight Eisenhower delivered “Atoms for Peace”, proposing an international framework for peaceful nuclear energy, an initiative that contributed to the creation of the IAEA.
+
+Then came 1960. The colonial empires were cracking, newly independent African and Asian states were entering the Assembly, and Washington and Moscow were competing for influence. Nikita Khrushchev put colonial independence squarely before the General Assembly. Fidel Castro then spoke for 269 minutes, the longest timed General Assembly speech in UN history, attacking imperialism and American interventionism. Patrice Lumumba embodied Africa's emergence as a political subject. In 1964, Che Guevara presented Cuba's revolutionary internationalism before the world.
+
+These were not speeches written to fill television slots. They were arguments about the world. In 1974, Yasser Arafat presented the Palestinian national cause directly before the international community. His appeal that he had come bearing an olive branch and a freedom fighter's gun became one of the defining rhetorical moments in the history of Palestine at the UN. And in 1988, Mikhail Gorbachev delivered perhaps the great UN speech of the dying Cold War, outlining a radically altered Soviet conception of international relations.
+
+The world order was changing, and the UN podium was where that change was being spoken aloud. And then something changed. The UN did not suddenly become irrelevant. It remained indispensable in humanitarian relief, peacekeeping, refugees, development, international law and diplomacy. But its institutional reach became increasingly misaligned with geopolitical power. The organisation was designed after the Second World War. Since then, came decolonisation, the nuclear revolution, China's rise, globalisation, technological disruption and renewed great-power rivalry. Yet its institutional skeleton remains remarkably familiar.
+
+The speeches changed. The world changed. The institutional bargain changed far less. So every September the ritual continues. Leaders arrive. Motorcades move. Flags rise. Speeches are delivered. Cameras flash. And then comes the choreography. A delegation walks out. Another applauds. A leader delivers a “thunderous” rebuttal. Cameras capture a gesture. Newsrooms dissect facial expressions, seating arrangements and who appeared to glare at whom. The spectacle becomes the story. The substance becomes the transcript. And the transcript disappears.
+
+The problem is not that nothing happens at the UN. It is that its capacity to compel the most powerful actors increasingly depends on those same actors accepting constraint.
+
+The vocabulary has become predictable e.g., “Deep concern”, “Strongly condemn”, “Call upon all parties”, “Reaffirm our commitment”, “Rules-based international order”, “Multilateral cooperation”, etc. None is meaningless. But endless repetition has drained such phrases of political voltage.
+
+The problem is not rhetoric. It is rhetoric divorced from consequence. The old UN speeches were powerful because they represented incompatible visions of the future. America and the Soviet Union contested rival systems. Newly independent nations demanded the destruction of colonialism. Revolutionary movements challenged existing states. Palestine demanded recognition. Africa demanded emancipation. Nuclear powers confronted the possibility of civilisation's destruction. There were stakes. Today, much diplomatic language is negotiated until nobody can object, and, in the process, nobody is particularly moved. Meanwhile, the world outside moves faster than the chamber itself. Wars do not wait for communiqués. Great powers do not necessarily wait for Security Council approval. Technology does not wait for conventions. Geopolitics certainly does not wait for the next General Assembly speech.
+
+And the media has discovered an easier product. Instead of asking what a speech changes, it asks what a leader looked like while delivering it.
+
+Instead of examining whether diplomacy alters power, it reports the walkout. Instead of asking whether a resolution will be implemented, it reports the applause. The UN becomes content. Delegations become performers. Domestic political machinery takes the footage home. Our leader “slammed” them! Their leader was “stumped”! The chamber erupted! The world is watching!
+
+Except that the world may ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/uns-journey-from-purpose-to-pageantry-1992412)
+
+---
+
+### MRPL blast: A call for stronger safeguards
+*Deccan Herald · Editorial*
+
+The blast at a Mangalore Refinery and Petrochemicals Ltd (MRPL) unit on Wednesday, which killed one person and injured 12, has renewed concerns about safety standards and regulatory oversight at industrial facilities. The explosion and fire at the refinery's coker hydrotreater unit in Phase III, triggered by the rupture of a high-pressure cold separator, damaged 54 houses in the surrounding areas. The impact on homes, places of worship, and neighbourhoods underlines the risks faced by communities living alongside major industrial installations. MRPL, a subsidiary of ONGC, must answer questions about the circumstances that led to the accident.
+
+Surathkal police have registered a case alleging negligence in the unit's maintenance and supervision, naming its head as an accused. The allegations must be investigated fairly. However, the recurrence of serious accidents makes it difficult to dismiss this as an isolated incident. In July 2025, two MRPL operators died after inhaling hydrogen sulphide gas while inspecting plant infrastructure, prompting criminal cases against six personnel. The latest incident raises legitimate questions about whether safety shortcomings identified after that tragedy were adequately addressed. Residents and civic groups have voiced concerns about pollution, industrial hazards, and the refinery's proximity to inhabited areas. These grievances are not proof of negligence in the present case, but they reflect a wider trust deficit between the refinery and its neighbours. Industrial accidents elsewhere reinforce the need for vigilance. The June 2025 explosion at Sigachi Industries in Telangana killed more than 50 people, while other factory, pharmaceutical, and chemical plant incidents have exposed the potentially devastating consequences of safety failures. Though differing in circumstances, these incidents highlight the need for rigorous enforcement of safety standards.
+
+Oversight responsibility at MRPL is distributed across several agencies. The Oil Industry Safety Directorate prescribes technical standards for petroleum installations, while the Petroleum and Explosives Safety Organisation, the Petroleum and Natural Gas Regulatory Board, and the state factories inspectorate have regulatory or enforcement responsibilities. The inquiry must establish whether these agencies adequately discharged their regulatory responsibilities and ensured compliance with the prescribed safety standards. An independent, comprehensive inquiry is essential to determine the immediate cause of the accident and establish accountability, as an internal review alone would not adequately address public concerns. It must also evaluate risks to nearby settlements, review emergency preparedness, and recommend enforceable corrective measures. The lives lost, the injured, and the affected communities deserve more than compensation and assurances. They deserve verifiable answers and protection against another disaster.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/mrpl-blast-a-call-for-stronger-safeguards-4167422)
+
+---
+
+### Rural job loss signals a failing promise
+*Deccan Herald · Editorial*
+
+The Samyukta Kisan Morcha’s statement that 9.56 crore rural workdays were lost during July-August compared to the same period in 2025 confirms some fears about last year's revamp of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA). A coalition of over 400 farmer unions, the Morcha said the revamped programme – Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission Gramin (VB-G RAM G) – generated only 20.21 crore person-days as against 29.77 crore in 2025. The data from the Ministry of Rural Development deflates the government’s projections. Notably, this fall in employment has come at a time marked by high rural distress.
+
+The downward trend could be traced to multiple reasons. One factor is the scheme's provision of a 60-day pause period, which halts employment during peak sowing and harvesting seasons. Problems with KYC requirements, such as biometric authentication and facial recognition, have also excluded labourers. These structural concerns were highlighted when VB-G RAM G was introduced, leading to apprehensions about a substantial reduction in the number of the scheme’s beneficiaries. The Narendra Modi government was critical of the MNREGA framework, though it retained the scheme after coming to power. The changes introduced last year were widely seen as an attempt to dismantle the original programme, a contention that appears increasingly credible.
+
+In the first sign of disruption, the structure of the original rights-based job guarantee scheme was altered, turning it into a centrally controlled plan where states bear substantial operational costs. The scheme now has a 60:40 Centre-state funding pattern, but many financially constrained states are finding it difficult to contribute their share and support the programme. While the new conditions have limited the scope of the programme, its significance has only increased amid economic uncertainties. This year has been particularly critical, as the southwest monsoon recorded deficit rainfall, leading multiple states to report drought and crop failures. Some states have demanded an expansion of the programme to benefit more sections of workers. The government had claimed that it aimed to increase the employment guarantee from 100 days to 125 days per rural household every year, but with the shrinking of the scheme, that objective stands unrealised. Early-stage operational issues are a given for any redesigned programme of this scale, but the government must now revisit the fundamentals of that new design. The important question is whether India can afford to dilute rightful rural employment by tying it to the State’s efficiency and resources.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/rural-job-loss-signals-a-failing-promise-4167423)
+
+---
+
+### India’s paradox needs Gandhi’s experiments
+*Deccan Herald · Opinion*
+
+Mahatma Gandhi is typically known by the symbols: the spinning wheel, the Salt March, the simple and frugal ashram, and the weak man facing an empire. These symbols have kept him alive in India's national memory, but they have also locked him there.
+
+Gandhi is either treated as a saint who can never be criticised, or as an anachronism whose thoughts could not possibly survive in the modern world. Both readings, however, overlook the enduring relevance of his ideas and the need to engage with them critically in addressing the moral and democratic challenges of our times.
+
+Gandhi was not just a freedom fighter; he was a political experimenter who constantly challenged existing truths, updated his own beliefs, and tried to imbibe ethics into every public action. In this sense, he can be interpreted as a postmodern thinker — carefully, not so anachronistic to label him one.
+
+India lives in paradox. Armed with more information than ever, it struggles to agree on basic facts. Outrage fuels websites: ‘It's a reflection of what's wrong with us’. Politics hardens into identity; ‘truth’ is often ‘truth’ for the ideological camp. Public life is caught in a strangeness between two extremes, both dangerous: absolute certainty, which is immune to criticism, and absolute relativism, which sees each opinion as just as valid as any other. Gandhi provides a relief from both.
+
+His autobiography, The Story of My Experiments with Truth, was not a traditional autobiography or a proclamation of its author's unerring truth. The word ‘experiments’ is important. Gandhi lived his life as a continuous field of inquiry, where belief was to be put to the test of action. An experiment can go wrong; it is something that must be honestly observed and ready to change. Under Gandhi, self-criticism became a part of political thought.
+
+By no means should Gandhi's life be closed to examination. He has had sufficient and appropriate criticism for his opinions on caste, race, sex, and industrialisation. Some of his positions shifted, others were not satisfactory. A postmodern interpretation of Gandhi is not a way to canonise him. In contrast, it is his fault for being inconsistent. Gandhi matters not because he was right all the time, he matters because he made it acceptable to be wrong as a part of his public philosophy.
+
+This ethical direction is illuminated by his shift from ‘God is truth’ to ‘Truth is god’. Truth provides a standard that no community can claim, and religious certainty can be exclusionary, especially when it is backed by political power and given religious authorisation. On a philosophical level, Gandhi's saying inverted the usual association of divinity and truth, against the backdrop of Friedrich Nietzsche's assertion that ‘God is dead’.
+
+This notion is especially relevant in today's 'post-truth' era. For Gandhi, truth was never a slogan or a weapon against an opponent. His understanding of truth was firmly established and constantly developing, but never lacking in moral content.
+
+Mahatma Gandhi beyond the textbooksHe believed that there were no grand stories to tell, that no hierarchy was natural, and that ‘truth’ claims frequently mask relations of power, as do postmodern thinkers. Non-violence was not passive, but rather the result of recognising the fallibility of man. This insight manifested itself as Satyagraha in politics. The satyagrahi was determined to fight injustice without compromising the moral responsibility of the person who was responsible for it. This is a radical democratic proposition in contemporary politics where one’s opponent is packaged as an enemy and differences as treachery.
+
+The use of political symbols also gives the impression of a post-modern Gandhi. Salt, khadi, and the spinning wheel were no side-shows of nationalism. Gandhi knew that politics was not just an institutional and legal force, but also a force of bodies, habits, stories, and symbols. He made the national movement available to people in the clothes they wore, the salt they ate, and the work they did.
+
+His concept of swaraj also went beyond the transfer of power from the British to the Indians. Swaraj needed self-control over appetites, responsibility to neighbours, and the power of communities to run their own affairs. Gram Swaraj provided an alternative to unchecked capitalist urbanisation and too much centralised State socialism. Gandhi envisioned communities that were relatively autonomous and interdependent, with decision-making that was close to those impacted by decision-making. The ideal of the village that he cherishes in his mind is certainly suspect, and his greater problem lies in the fact that he cannot romanticise the presence of caste, patriarchy, and economic domination in the Indian village.
+
+Panchayati Raj was intended to give institutional expression to decentralised democracy, but its implementation reveals the distance between Gandhi’s ethical ideal and bureaucratic reality. Decentralisation becomes hollow when local bodies receive responsibilities without resources or when participation is reduced to procedural compliance.
+
+India does not need another ceremonial Gandhi, invoked on anniversaries and ignored in public conduct. It needs a Gandhi who can be argued with, an unfinished thinker whose failures remain visible and whose experiments can be resumed under altered conditions.
+
+Mahatma Gandhi is typically known by the symbols: the spinning wheel, the Salt March, the simple and frugal ashram, and the weak man facing an empire. These symbols have kept him alive in India's national memory, but they have also locked him there.
+
+Gandhi is either treated as a saint who can never be criticised, or as an anachronism whose thoughts could not possibly survive in the modern world. Both readings, however, overlook the enduring relevance of his ideas and the need to engage with them critically in addressing the moral and democratic challenges of our times.
+
+Gandhi was not just a freedom fighter; he was a political experimenter who constantly challenged existing truths, updated his own beliefs, and tried to imbibe ethics into every public action. In this sense, he can be interpreted as a postmodern thinker — carefully, not so anachronistic to label him one.
+
+India lives in paradox. Armed with more information than ever, it struggles to agree on basic facts. Outrage fuels websites: ‘It's a reflection of what's wrong with us’. Politics hardens into identity; ‘truth’ is often ‘truth’ for the ideological camp. Public life is caught in a strangeness between two extremes, both dangerous: absolute certainty, which is immune to criticism, and absolute relativism, which sees each opinion as just as valid as any other. Gandhi provides a relief from both.
+
+His autobiography, The Story of My Experiments with Truth, was not a traditional autobiography or a proclamation of its author's unerring truth. The word ‘experiments’ is important. Gandhi lived his life as a continuous field of inquiry, where belief was to be put to the test of action. An experiment can go wrong; it is something that must be honestly observed and ready to change. Under Gandhi, self-criticism became a part of political thought.
+
+He taught us never to bow before injustice: Congress pays tributes to Mahatma GandhiBy no means should Gandhi's life be closed to examination. He has had sufficient and appropriate criticism for his opinions on caste, race, sex, and industrialisation. Some of his positions shifted, others were not satisfactory. A postmodern interpretation of Gandhi is not a way to canonise him. In contrast, it is his fault for being inconsistent. Gandhi matters not because he was right all the time, he matters because he made it acceptable to be wrong as a part of his public philosophy.
+
+This ethical direction is illuminated by his shift from ‘God is truth’ to ‘Truth is god’. Truth provides a standard that no community can claim, and religious certainty can be exclusionary, especially when it is backed by political power and given religious authorisation. On a philosophical level, Gandhi's saying inverted the usual association of divinity and truth, against the backdrop of Friedrich Nietzsche's assertion that ‘God is dead’.
+
+This notion is especially relevant in today's 'post-truth' era. For Gandhi, truth was never a slogan or a weapon against an opponent. His understanding of truth was firmly established and constantly developing, but never lacking in moral content.
+
+He believed that there were no grand stories to tell, that no hierarchy was natural, and that ‘truth’ claims frequently mask relations of power, as do postmodern thinkers. Non-violence was not passive, but rather the result of recognising the fallibility of man. This insight manifested itself as Satyagraha in politics. The satyagrahi was determined to fight injustice without compromising the moral responsibility of the person who was responsible for it. This is a radical democratic proposition in contemporary politics where one’s opponent is packaged as an enemy and differences as treachery.
+
+The use of political symbols also gives the impression of a post-modern Gandhi. Salt, khadi, and the spinning wheel were no side-shows of nationalism. Gandhi knew that politics was not just an institutional and legal force, but also a force of bodies, habits, stories, and symbols. He made the national movement available to people in the clothes they wore, the salt they ate, and the work they did.
+
+His concept of swaraj also went beyond the transfer of power from the British to the Indians. Swaraj needed self-control over appetites, responsibility to neighbours, and the power of communities to run their own affairs. Gram Swaraj provided an alternative to unchecked capitalist urbanisation and too much centralised State socialism. Gandhi envisioned communities that were relatively autonomous and interdependent, with decision-making that was close to those impacted by decision-making. The ideal of the village that he cherishes in his mind is certainly suspect, and his greater problem lies in the fact that he cannot romanticise the presence of caste, patriarchy, and economic domination in the Indian village.
+
+Panchayati Raj was intended to give institutional expression to decentralised democracy, but its implementation reveals the distance between Gandhi’s ethical ideal and bureaucratic reality. Decentralisation becomes hollow when local bodies receive responsibilities without resources or when participation is reduced to procedural compliance.
+
+India does not need another ceremonial Gandhi, invoked on anniversaries and ignored in public conduct. It needs a Gandhi who can be argued with, an unfinished thinker whose failures remain visible and whose experiments can be resumed under altered conditions.
+
+Jisu Ketan Pattanaik is Assistant Professor of Sociology, and Sumit Kumar Singh is Research Assistant and student at the National University of Study and Research in Law, Ranchi. (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/indias-paradox-needs-gandhis-experiments-4167891)
+
+---
+
+### What about Gyanesh Kumar’s backroom collaborators?
+*Deccan Herald · Opinion*
+
+The legal plea of ‘just following orders’ (known as the Nuremberg defence) is untenable in modern criminal law. If a subordinate knowingly carries out a criminal order, he is equally liable as the superior who gave the order.
+
+This principle will most likely be tested in the context of some of the Election Commission of India (ECI)’s officials, including its Director General IT, Seema Khanna, and Senior Deputy Election Commissioner, Maneesh Garg.
+
+Trinamool Congress MP Mahua Moitra has filed a police complaint seeking an FIR against Khanna at Parliament Street Police Station in New Delhi. Moitra alleges that Khanna and Chief Election Commissioner Gyanesh Kumar manipulated voter rolls while restricting access to the software (ECINet and ERONet) for the local Electoral Registration Officers (EROs), who are legally authorised to revise the rolls.
+
+'Gyanesh Kumar, his bosses conducting illegal SIR': Ex-BJP Minister R K Singh calls for Oppn 'unity', criminal case against CECMoitra held Khanna’s actions significant in light of the objections raised by Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi. She also questioned Khanna’s complicity in adding a question on parentage/SIR history to the digital version of Form 6 for new voters, despite their objections.
+
+Additionally, Moitra cited the West Bengal Supervisory Controllers Association, which had raised concerns about back-end deletion of voters by the ECI, bypassing EROs and Booth Level Officers (BLOs) with whom the deletion process must originate. Similar allegations have now surfaced in some districts of Odisha — massive deletions in the name of BLOs while they were unaware of them.
+
+Garg figures in a separate Supreme Court proceeding seeking criminal action against him, Kumar, Khanna, and other ECI officers. As senior deputy election commissioner, he holds administrative authority for electoral-roll/SIR operations and co-ordination with state election machinery.
+
+The allegations against him concern centralisation of electoral-roll databases through ECINet/ERONet; restricting the EROs' ability to operate independently within the software; changes to the digital Form 6; failure to restore eligible voters despite the EROs determining their inclusion, and taking SIR decisions without the concurrence of the other two election commissioners. The petition seeks prosecution of Khanna, Garg, and the CEC, and a forensic audit of ECINet and ERONet.
+
+The strongest argument against them is that the IT architecture was allowed to override or frustrate decisions by the EROs who had statutory authority to decide voter eligibility. Under Section 22 of the Representation of the People Act 1950, correction or deletion of a roll entry is the function of the ERO or Assistant ERO of the constituency. The software was meant to be a channel for the EROs to do their job. Under Khanna, the software, or those with access to it in the IT division, usurped the statutory authority to make such decisions.
+
+This became evident in the case of 97 wrongly deleted voters in Goa. Despite the Goa ERO sending eight emails in seven days asking for access to the software to roll back the deletions, he received no response. The 97 were excluded from the final voters’ list.
+
+Goa: CEO says 88 of 97 left-out voters have filed Form 6, applications acceptedDespite repeated warnings, Khanna persisted in maintaining an architecture that restricted the powers Parliament gave to the EROs. The ECI announced a review of the voter-roll software only after public pressure grew following the Indian Express exposé of the objections raised by the two commissioners.
+
+Courts have recognised the role of the EROs in maintaining the rolls. On October 1, the Bombay High Court said "administrative software systems cannot supersede statutory laws", in a case where the software was unable to process the request of six family members for address change. The Court asked the ECI what in the Act empowered it to delete these names without a hearing.
+
+Another important allegation against Khanna concerns implementation of a change to the online version of Form 6 despite the two commissioners’ objections. An additional declaration is demanded of applicants in the online version whether they or specified relatives appeared in the 2003 rolls. Sandhu and Joshi pointed out that this could not be done legally without amending the Registration of Electors Rules. Sandhu recorded it as "illegal, unauthorised " and said it would create difficulties for young and would-be first-time voters.
+
+The change was made in July, immediately after the Gen Z anti-Narendra Modi government agitation of June. One cannot claim it was meant to keep younger voters out, but a structural hurdle was definitely created for them.
+
+The ECI has indirectly admitted this addition disadvantaged youth by now saying that those left out during or after SIR, including young and first-time voters, can seek inclusion through continuous updating. The digital version of Form 6 has also been removed for states that have already undergone SIR — it remains for others.
+
+Deleting an elector or making registration harder for young voters is no minor matter, at a time when the political preferences of the young are attempting to shape a new politics.
+
+Khanna enters the picture as head of ECI's IT architecture. The Indian Express investigation claims the IT division developed and implemented new modules and portals without the full commission's knowledge. A Supreme Court petition alleges the modified Form 6 was implemented on ECINet in July by the CEC, Garg, and Khanna in breach of their official duties.
+
+EC-SIR dissent row | Congress to take fight to streets; Mallikarjun Kharge says PM Modi should resign for 'pressuring' CECThese are only allegations as of now. The apex court will have to decide whether Khanna as head of IT personally ordered the change in Form 6 or acted on patently illegal orders.
+
+Garg’s role in bypassing procedures by centralising software has also come under question. On September 24, Maharashtra's Chief Electoral Officer wrote to Garg, Khanna, and two other ECI officials asking for four changes to ECINet to restore local officials' discretion, including greater ability for the EROs to deal with "logical discrepancies", and to act on their statutory decisions without being limited by the central software.
+
+This came after the two commissioners flagged the constraints as illegal. Yet Garg took no remedial measures.
+
+Garg’s role may be more consequential than it seems. While he reported directly to the CEC, he supervised Khanna, who oversaw ECINet/ERONet, the platform used to constrain the EROs’ statutory functioning. Only a forensic audit and a full inquiry can determine their level of administrative culpability in this massive exclusion of voters.
+
+Proving the culpability of CEC Gyanesh Kumar will not be easy. He enjoys absolute immunity from any suit or proceeding in any court or before any authority in respect of anything done in his official capacity. The Opposition also lacks the numbers to impeach him.
+
+Khanna and Garg do not enjoy such immunity. If found guilty of executing unconstitutional orders, they may be held personally liable under the ordinary criminal law for denying a citizen their fundamental right to vote.
+
+Bharat Bhushan is a New Delhi-based journalist.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/what-about-gyanesh-kumars-backroom-collaborators-4167839)
+
+---
+
+### Why isn’t Gandhi trending?
+*Deccan Herald · Opinion*
+
+‘Does the Mahatma inspire you?’
+
+‘Do you relate to Gandhiji at all?’
+
+Ahead of Gandhi Jayanti, while visiting rural Uttar Pradesh, I asked these two questions to the young people around me. The answer was a firm and unequivocal ‘No’.
+
+I had suspected this for some time now. Gen Z and Gen Alpha, the most connected generations India has ever raised, mostly meet Gandhi in fragments.
+
+A still in a 30-second reel, a round-spectacled sticker in a family WhatsApp group, or a meme that borrows his face for a joke he never made. He is everywhere and nowhere at once. He is so familiar that he has become invisible, and so revered that he has become remote. What gets lost is the man who argued, experimented, failed, and tried again, and whose ideas were meant to be lived, not framed.
+
+Quote of the day by Mahatma Gandhi: “Persistent questioning and healthy inquisitiveness are…”Among the founders of modern India, Gandhi was the most steadfast believer in the village. His first satyagraha on Indian soil was for the indigo farmers of Champaran. In Hind Swaraj, he imagined an India built from self-governing villages. He chose to live at Sevagram, among farmers and spinners, and made the charkha a symbol of what rural hands could produce.
+
+For Gandhi, India's freedom and its villages were never separate; they were part of the same equation.
+
+Across rural communities, these interconnections are visible in everyday ways.
+
+Women, for instance, have built strong networks of Self-Help Groups and, through them, gained greater economic and social independence. These groups often become spaces where women come together to address concerns beyond livelihoods, from household decisions to issues affecting their communities.
+
+Young people are bringing new ideas and aspirations into rural life, while farmers are finding ways to strengthen local economies, and respond to changing circumstances.
+
+This is gram swaraj as Gandhi envisaged it.
+
+Yet as we work towards a prosperous rural India, one question stands out more than any other: what will the young take from Gandhi, if they take anything at all?
+
+In an age where a lie can travel across India before the truth has found its feet, Gandhi's insistence that truth is a daily practice, not a slogan, is not old-fashioned. It is urgent. In a culture that rewards the loudest voice and the quickest outrage, his belief that lasting change comes from small, stubborn, consistent acts is quietly radical.
+
+At a time when work is ranked by how it looks on a screen, he reminds us that there is dignity in every kind of labour, including the work of the hand. Above all, there is his talisman, which asks more of us than any trend ever will: when in doubt, recall the face of the poorest person you have seen and ask whether your next step will be of any use to them.
+
+Mahatma Gandhi beyond the textbooksSome of his ideas also ask to be read afresh. Ahimsa can mean refusing violent language online, and his silence remains the most eloquent answer to a troll army. Swaraj now includes our digital rights alongside our civil liberties.
+
+Perhaps the medium itself is part of the answer. Gandhi was, among other things, a tireless editor. Young India and Harijan carried his ideas into homes across the country, week after week. The same reels and feeds that have flattened him into a sticker could just as easily carry his ideas to a new generation.
+
+"I have nothing new to teach the world," Gandhi said. "Truth and non-violence are as old as the hills." The ideas are old. What they need now is a new voice.
+
+Anish Kumar is Co-lead, Transform Rural India (TRI).
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/why-isnt-gandhi-trending-4167911)
+
+---
 
 ## 1 October 2026
 
@@ -25,6 +349,17 @@ India’s industrial growth performance in August continued its strong streak si
 The IIP for August also lays out some core strengths that seem to be developing in the economy. The manufacturing sector grew by nearly 9% in August, and averaged 7.6% in the April-August 2026 period. Given that it had grown by about 4.2% in the first five months of the previous financial year, this acceleration is good to see, especially since it comes at a time when producers are facing several input-related pressures. At the start of this calendar year, manufacturing growth seemed to have been driven by a growth in exports. The August data show that this is now being supplemented by a recovery in domestic consumption. The growth in consumer durables stood at 11.1% in August. The consumer non-durables sector returned to growth, of a little more than 2%, after having contracted in July. The effect of the Goods and Services Tax rate cuts in September 2025 should have petered out by now, so this boost in durables production likely means that producers are expecting a strong festive season ahead. The third quarter of the financial year will therefore be crucial for the economy, but the groundwork seems to be in place for a relatively good one.
 
 [Read full article](https://www.thehindu.com/opinion/editorial/good-foundation-on-indias-strong-industrial-growth-performance/article71524281.ece)
+
+---
+
+### Season’s end: On the India Meteorological Department forecasts, rainfall deficit
+*The Hindu · Editorial*
+
+The India Meteorological Department (IMD) issues two forecasts — in April and May — before the monsoon. Both unambiguously pointed to a dry monsoon — confidence boosted by global unanimity that one of the strongest El Niño ever was in the offing — and the consequential question was, ‘How bad?’ It turns out that the IMD’s forecast of ‘below normal’ rain (90% to 95% of average) was conservative. This was surprising, given that its models pointed to ‘deficient’ rains (below 90%). On September 30, when India’s monsoon tally ended, the IMD announced 759 mm across the country, 87% of the normal 869 mm. El Niño years, when the Central Equatorial Pacific warms and suppresses monsoon rains, test a weather department’s mettle because predicting the extent of the shortfall is challenging. It is perplexing why the agency opted for ‘below normal’ rainfall when it could have warned of a ‘deficiency’ and claimed accuracy. As of now, the IMD can only claim technical victory because the final number sits within the 4%-5% error window. However, at a disaggregated level, the IMD’s struggle with getting magnitude right is far more glaring. June got 65% of its normal, far drier than the 92% forecast. July, expected to be below 94%, ended up with 1% point more rain. August came in at 84% of the LPA, in line with the “below 94%” forecast. September at 92.4% finished a little above the forecast of ‘below 91%.’ The IMD expected a ‘normal’ monsoon in the northeast, which then recorded its driest since 1901, or 26% short. The south peninsula ran 23% short. Central and north-west India — tipped to fall below normal — finished close to predictions, driven by ocean conditions and Western disturbances.
+
+Climate change makes this more complicated. Western disturbances, extra-tropical rain-bearing systems, have been bringing more rain to India in the monsoon months, while southern India seems more vulnerable to El Niño-triggered volatility. This is reflected in kharif sowing. On July 10, kharif sowing trailed last year’s by 16%; by early September the gap had narrowed to under 2%. Karnataka has declared drought in well over a 100 taluks and Maharashtra in 265 of 358, though the national deficit of about 12% is below the Centre’s 20% threshold for an ‘agricultural drought.’ The IMD expects El Niño to strengthen and bring below normal rain over most of the country from October to December, threatening soil moisture and reservoir recharge. The Cabinet has lifted wheat’s support price by ₹25 a quintal and mustard’s by ₹413, nudging diversification. Given the consequences of IMD’s forecasts, it should improve its sub-regional forecast systems and not shy from being the bearer of ill-news, if needed.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/seasons-end-on-the-india-meteorological-department-forecasts-rainfall-deficit/article71533150.ece)
 
 ---
 
@@ -66,6 +401,31 @@ All of this sits within a wider frame. Nearly six years of working on energy acc
 Benedikt Höskuldsson is the Ambassador of Iceland to India
 
 [Read full article](https://www.thehindu.com/opinion/lead/the-india-efta-partnership-one-plus-one-equals-three/article71529585.ece)
+
+---
+
+### DC Edit | No Praise Too High For Pilot Who Stopped Terror
+*Deccan Chronicle · Editorial*
+
+No praise could be too high for the Indian pilot Smit Machchhar who played the principal heroic role in foiling what could have been Tel Aviv’s 9/11 moment in what appears to have been an attempt at a terrorist attack by the co-pilot of the FlyDubai jet. The scenes from the cockpit must have resembled a horror film on the hijacking of an airliner with 174 passengers on board.
+
+An Israeli passenger, Yaniv Hayun, who wrestled the alleged terrorist out of the cockpit and held him for fellow passengers to subdue before righting the plane’s controls was the other hero in this midair horror. But it was captain Smit Machchhar’s presence of mind in being able to spring the lever to open the cockpit door despite being mortally wounded in an attack with the plane’s crash axe which may have helped frustrate what was clearly enough a crazed impulse to carry out a jihadi-style attack on a city.
+
+The dentist who gave CPR to Captain Smit narrated how badly he was injured by a deadly weapon despite which he fought his Omani co-pilot resolutely leading to the plane’s flight being soon corrected from a 15,000 foot nose-diving plunge in 37 seconds that brought passengers face to face with a potentially horrendous end to their lives.
+
+As Captain Smit recuperates in a Saudi Arabia hospital after two on-duty pilots in the passenger cabin took over the controls and passengers recover from a tryst with near death that no flier should experience, Israel, which had 169 citizens on board, can heave a sigh of relief that the event ended as it did with a fortuitous final twist as collective bravery overcame the cowardly terror plot of an individual.
+
+The incident, which could have come straight out of the many hijacking scenarios that Hollywood script writers have drummed up over the years, is just a reminder of the perils that are permeating a world of wars, conflicts and misunderstanding. It is considered near miraculous that the Boeing 737 Max 8 aircraft survived the G forces in that precipitous dive.
+
+The security scenario is such around the world that to expect the unexpected has been the norm as revenge plots abound. And Israel, with a complex history and being situated in the world’s most religiously restive zone, should know that better than many other nations.
+
+Israel could fault the Dubai airline for using an Omani pilot whose country has no diplomatic relations with it. But this is splitting hairs since a terrorist cannot be said to come from any particular country. A 24x7 vigil against terror is the price the people of the world at war with themselves must continue to pay.
+
+With the attack by the copilot on the pilot taking place close to the Israeli border when the plane was over Jordan was revealing of the intentions, conspiracy theories are already being manufactured. Such are the ways of a convoluted world in which tensions are commonplace enough even without big wars being waged by nations.
+
+Unless a miracle happens and the world lurches towards genuine peace after all wars are halted, living with the threat of vengeful attacks is going to be the norm. We know we are far from resolving any one crisis, leave alone the 65 conflicts that the world is said to have been host to in 2025 with much the same scenario spilling over into 2026.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-no-praise-too-high-for-pilot-who-stopped-terror-1992311)
 
 ---
 
@@ -21418,294 +21778,6 @@ Citizens cannot demand accountability from the system while they themselves perp
 Both the authorities and the citizens must face ruthless accountability. Without radical, immediate action, India risks being branded as the dirtiest major nation. Indian cities are drowning literally and figuratively. The monsoons will return. The question is whether India will finally wake up before the next body count rises. The time for excuses is over. The time for ruthless accountability is now.
 
 [Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Jul/04/indias-cities-drown-in-neglect)
-
----
-
-## 3 July 2026
-
-### A hold on AI: on the Preliminary Report of the Independent International Scientific Panel on AI
-*The Hindu · Editorial*
-
-The UN’s Preliminary Report of the Independent International Scientific Panel on AI drives at a few fault lines in the rapid investment into and proliferation of AI technologies: the Global South-Global North divide, with the latter poised to take the lion’s share of the benefits of the diffusion of advanced AI models in different industries; and the challenge poorer countries face in regulating models far more advanced than what their own AI ecosystems can develop. These divides force emerging countries to choose between capital-intensive undertakings to get a seat at the table, or to accept the hand dealt to them by the half-dozen companies whose decisions shape AI access and use. These divisions are all the more urgent when seen in the light of what makes a country a voice that matters in AI: abundant electricity, highly capitalised firms that employ scarce talent with high salaries, and a drive to plow through policy resistance with a competitive zeal to outdo last month’s capabilities. While the report highlights AI technologies’ transformative potential in scientific research, its development is far more rapid than that of social media — an industry that had time to act responsibly yet deformed public discourse and affected democracies, even as people were more or less able to tell what was going on in real time. It is unclear whether individual countries, even China or the U.S., have enough power to meaningfully arrest how AI develops.
-
-AI firms acting irresponsibly have already caused harms that would not be tolerated in any other industry. AI models have ensnared teenagers and adults in parasocial fantasies that have sometimes turned fatal; they have flattened the world wide web, grievously injuring the news media’s ability to deploy resources in their respective missions to inform the public; they have unleashed an epidemic of deepfakes, undermining trust in the written word and images alike; and they have deeply intertwined their promises of Artificial General Intelligence with global financial systems, with possible catastrophic economic consequences. The most important task for governments is how to hold these firms to account when needed, as taking a backseat on this conversation — even if industry leaders ignore the Global South’s concerns — carries far greater costs. India has already experienced the cost of not asserting itself in the technology development of the decade: even as Anthropic’s Mythos and Fable held out the tantalising promise of securing vast cyber systems, the U.S. pulled access, leaving the firms that had these models to ponder the risk of a different model succeeding at attacking their infrastructure. There is a limit to visions of AI as a geostrategic asset; much needs to be done to address its potential for broad damage.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/a-hold-on-ai-on-the-preliminary-report-of-the-independent-international-scientific-panel-on-ai/article71174601.ece)
-
----
-
-### ​Unwelcome surge: On the buoyancy in GST collections
-*The Hindu · Editorial*
-
-India’s June GST collections rose 13.9% year-on-year to ₹1.95 lakh crore, driven largely by import IGST, which surged 34.6% compared with June 2025, up from 17.2% growth in May. Domestic GST collections grew by a more modest 6.5%, suggesting that the sharp increase in overall collections owes less to a broad-based improvement in domestic value addition. Some economists have argued that this reflects stronger imports of capital goods and industrial inputs. However, May petroleum products’ trade data and Q1 FY27 data on the performance of the eight core industries, point to a rather different explanation. June GST collections reflect economic activity during May. While crude and petroleum products constituted a 54% rise this May (YoY) in merchandise imports by value, the other chunk was gold, which constituted another 34% rise. The surge in gold price, by nearly 60% between last May and this May, suggests hedging during difficult times, rather than broad-based economic activity. To stem gold imports, the government hiked its import duty from 6% to 15% on May 13, which likely added to the May import GST kitty. This period also coincided with the rupee depreciating by almost 6% against the U.S. dollar since late February. This coupled with a spike in freight charges, and a 14.5% rise on non-oil imports in May at elevated global prices mechanically raised the June tax base. This suggests that much of the import GST rise is driven by imported inflation and currency depreciation rather than domestic production growth, indicating an unwelcome increase due to higher prices.
-
-Read alongside the performance of India’s eight core industries, which expanded by only about 2.8% in Q1 FY27 compared with around 6% in the corresponding period last year, the domestic economy appears more subdued. Growth has been expectedly weak in crude oil, natural gas, refinery products, fertilizers and electricity. The latest HSBC Manufacturing PMI reading of 54.2 likewise points to steady but moderating factory activity, marking the second-lowest expansion in 13 months. These figures come as India marks nine years of GST as a unified destination-based indirect tax. The government can point to the expansion of the tax base from about 66 lakh taxpayers in 2017 to over 1.65 crore today, reflecting better compliance, greater formalisation, and faster refunds, though input tax credit, litigation and federal balance in revenue sharing issues remain unresolved. GST has strengthened India’s indirect tax architecture. Yet, the June numbers are a reminder that a growing share of the recent buoyancy appears to have been underwritten by imported inflation and a depreciating rupee rather than stronger domestic value addition.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/unwelcome-surge-on-the-buoyancy-in-gst-collections/article71175114.ece)
-
----
-
-### The right to a fair trial at the crossroads
-*The Hindu · Opinion*
-
-When, earlier this year, the Supreme Court of India denied bail to Umar Khalid and Sharjeel Imam in the 2020 Delhi Riots cases (while granting bail to five other individuals in the same case), one key question that arose was this: “how long is too long” for people to be kept in jail without being found guilty of an offence? At the time of the Court’s judgment, Umar Khalid and Sharjeel Imam had spent more than five years in jail without trial; at the time of writing, that period is approaching six years.
-
-Bail, delay, and rightsIn its own prior judgments, the Court had noted that an extended delay in trial would trigger an accused’s right to personal liberty under Article 21. Thus, even though the Unlawful Activities (Prevention) Act (UAPA) has strict requirements for delay, these statutory restrictions could not override the constitutional (and indeed, human) right to personal liberty.
-
-However, in denying bail to Umar Khalid and Sharjeel Imam, another Bench of the Court noted that a delay in the trial could not create an iron-clad right to bail, but would have to be weighed against other factors such as the gravity of the offence and which of the parties was “responsible” for the delay. With respect, these observations appear to miss the point. Issues such as the gravity of an offence are factors used to determine, in the first instance, whether or not a case for bail is made out. To then invoke the gravity of the offence—which, at the stage of bail, is only an allegation made by the state — to override the question of delay essentially creates a sliding scale under which certain individuals can be kept in jail for decades simply because they have been “accused” of grave offences.
-
-Related StoriesUmar Khalid’s prison reading list
-
-2020 Delhi riots: Sharjeel Imam, Umar Khalid move fresh bail pleas in ‘larger conspiracy’ case
-
-Indeed, this has happened: people accused under the UAPA have been kept in jail for more than two decades before eventually being acquitted, with the best years of their lives robbed from them. Indeed, the very fact that this has happened on more than one occasion ought to have given the Court pause.
-
-Nor does the argument that the accused themselves might be responsible for delaying the trial hold any water. Whatever applications an accused (or, for that matter, the state) may make, ultimately it is the judge who controls the courtroom and the pace of the trial, and it is the judge upon whom the ultimate responsibility rests to ensure that trials are completed within a reasonable timeframe.
-
-Indeed, it was clear that the Court itself recognised some of these issues when, in a rare move, another two-judge Bench recently openly criticised the Delhi Riots bail rejection as being contrary to established precedent and reiterated the fundamental principle that, under a Constitution committed to the rule of law, individuals cannot be incarcerated indefinitely without a trial.
-
-Editorial | Process as punishment: On the Umar Khalid case
-
-In response, and in another case, the Delhi Riots Bench “referred” this question to the Chief Justice to constitute a larger Bench to resolve. With respect, the very fact that the Supreme Court is effectively debating whether people who have spent more than half a decade in jail (the amount of time that another famous political prisoner, Captain Alfred Dreyfus, did) should or should not be released, is a cause for consternation.
-
-Bail and legal inconsistencyIn the meantime, at the level of the trial court and the High Courts, conflict and inconsistency in judicial decisions continue to persist. Recently, the High Court of Delhi (correctly) granted bail to the Kashmiri human rights activist, Khurram Parvez, who had been incarcerated for more than four years without trial. This length of time in prison without trial weighed heavily with the High Court in deciding to grant bail. What is curious, however, is that the judge who (correctly) granted Khurram Parvez bail had denied bail in the Delhi Riots cases the previous year, when the accused in that case had already spent more than four years in jail. Nor is this the only instance of the same judge speaking with different judicial voices: in the Delhi Riots cases themselves, on the same underlying facts, the same judge delivered opposing bail judgments a year apart.
-
-Related StoriesA nearly 40-year-old pending case spurs Supreme Court to declare speedy trial a ‘human right’
-
-Accused can't be denied access to documents forming part of charge sheet: Supreme Court
-
-Fair trial goes beyond courts, to the police and media
-
-It is trite to say that no case is identical to the other. On an issue as basic as pre-trial incarceration, repeated inconsistencies across cases and courts undermine the rule of law and, ultimately, damage the cause of fundamental rights and individual liberty. These questions assume particular significance because laws such as the UAPA, in particular, have an undeniably political character, and it has been demonstrated across the world that states are only too happy to interpret these laws in a way that blurs the line between political dissent and what the law defines as “terrorism”. Recent attempts in the United Kingdom and the United States around dissent linked to Israel’s genocide in Palestine are examples of this.
-
-What the judiciary must ensureIn such a context, it becomes particularly important for the judiciary to ensure that such laws are not weaponised. While legal interpretation is subjective, one thing is — and should be — crystal clear: that the state cannot keep people behind bars for years without trial. It makes a mockery of having a system based on the rule of law, and one that — to use the old adage — entrenches the process as the punishment.
-
-It is unclear whether — or when — the Court’s larger Bench will opine on the issue. In the meantime, however, there remain contentious UAPA cases, where individuals continue to be imprisoned without trial, and their time spent in custody continues to increase with no resolution in sight. Indeed, one such case is that of Umar Khalid and Sharjeel Imam, the last two individuals among the accused student activists who remain in custody in the “Delhi Riots cases”. After the denial of bail by the Supreme Court, the case is once again coming up before the trial court this week; in the meantime, five years in prison have turned into six, and the cost — both to the lives of the imprisoned individuals and to the rule of law — has continued to become steeper.
-
-Ultimately, therefore, this issue is both about individual human lives and about our commitment as a society to human and democratic values. As these cases continue to arise, the courts will once again have an opportunity to reaffirm these values, whether in individual bail cases before trial courts or when it comes to laying down the law before the Court. It is to be hoped that this happens, and that the cycle of endless imprisonment without trial is broken.
-
-Gautam Bhatia is a Delhi-based lawyer
-
-[Read full article](https://www.thehindu.com/opinion/lead/the-right-to-a-fair-trial-at-the-crossroads/article71175093.ece)
-
----
-
-### DC Edit | India, Japan: Perfect Partners
-*Deccan Chronicle · Editorial*
-
-Over 2,000 years ago, India’s celebrated strategist Chanakya’s Rajamandala Theory stated that “your neighbour is your natural enemy and the neighbour's neighbour is your friend”. If any country fits this bill for modern India, it is Japan. The strengthening relations between India and Japan for nearly two decades attest to this fact.
-
-Following the pro-India policy adopted by her predecessor Shinzo Abe, Japanese Prime Minister Sanae Takaichi reaffirmed her country’s special strategic relationship with India. Both countries signed 12 agreements on cooperation in matters such as defence, technology, and economy among others.
-
-Ms Takaichi’s visit to India is of significant value, especially in the wake of a new Trumpian era in geopolitics, which is marked by the transactional nature of relationships between countries. The withdrawal of the United States from the Indo-Pacific security architecture and an increasingly assertive China will force countries like India and Japan, the only two major powers in Asia outside the Sinosphere, to collaborate.
-
-The Indo-Japanese relationship is one of the most complementary relations in the world. Japan has technology, while India has manpower to achieve scale. One of the best and popular examples of this synergy is Maruti Suzuki, which modernised the car sector in India, while giving scale to Suzuki Motor Corporation.
-
-The Indo-Japanese relationship is also in sync with the emergence of a compact between middle powers to avoid getting sold out by a modus vivendi between the United States and China.
-
-If India and Japan can co-opt South Korea and Taiwan, which are threatened by North Korea and China, respectively, they can successfully create a defensive arc of resistance and economic cooperation, which could be a reply to the string of pearls. This new four-member bloc could be the Quad 2.0, whose interests align much more closely than those between the older Quad of the US, India, Japan and Australia.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-india-japan-perfect-partners-1968182)
-
----
-
-### DC Edit | World Celebrates With America As It Turns 250
-*Deccan Chronicle · Editorial*
-
-America will celebrate this weekend the passage of 250 years since the Declaration of Independence was signed by 56 delegates to the Continental Congress. Since that momentous day in world history after which people mostly from across the Atlantic Ocean surged to the new land, attracted by its freedom and the hope of leaving the European class system behind, the US has grown into the world’s biggest economic power with the mightiest armed forces.
-
-To many, the American Dream is still alive as the US is always viewed as the land of equality — even if it didn’t begin that way as only whites with property had early say and the vote for nearly a century from 1776 and slavery was not abolished till 1865 — and of opportunity though it is said that Americans have grown less proud of their history and the way its democracy has been seen to work, especially most recently.
-
-President Harry Truman reportedly left the White House without any income other than monthly army pension of $113 while the current resident of the White House made at least $2.2 billion in his first year back as President, $1.4 bn of that in the cryptocurrency industry. But personal aggrandisement is not the only thing being held against him as several mighty institutions that graced the history of American independence have been compromised by a noticeably erratic wielding of presidential power.
-
-The history of commitment to equality, fraternity and the pursuit of happiness is too grand over two and a half centuries to be spoiled by a two-term President. And yet Donald Trump may have taken the most imprudent decision in his career to declare war on Iran at the behest of Israel and is still paying the price for it as he scrambles to make a meaningful peace deal. His anti-immigration policies are also a denial of the history of the contribution of migrants to the might of America.
-
-Truth to tell, there is a lot more to the US than military wins and defeats though life now seems to suffer from a toxic polarisation thanks to the divisiveness of politics and the endless capacity of the social media and cable news to thrive on outrage. It may not have helped that while the rich are getting richer in free enterprise and trade, political leaders who appear to prosper more are promoting anxiety and divisions in the public
-
-Even so, America is one of a handful of nations taking the lead in artificial intelligence today that might define how the future evolves. Where it may have lost ground under Mr Trump is that it has shed all the shine it used to have as avowedly the leader of the free world. So much has he done to alienate US's closest allies nearest to home in Canada and Mexico as well as in Europe.
-
-If optimism still prevails in America, it is because of the basic goodness of people which is more than amplified in the way in which the sporting spectacle of the World Cup has seen people spontaneously respond to sportsmen and visitors from all corners of the world, including Iran, with enthusiasm.
-
-Empathetic scenes of shared humanity invest all the world with the thought that life is worth living after all and the American people are the heroes in this, including those who came to the US in search of life, like the Indian Americans who have done very well for themselves and those who were set free only by the democratic zeal of Abraham Lincoln. It is true that America, in all its history, has been kinder to its people than its politics.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-world-celebrates-with-america-as-it-turns-250-1968197)
-
----
-
-### Dilip Cherian | Haryana Govt In A Dilemma Over Second Extension To Its Chief Secy
-*Deccan Chronicle · Opinion*
-
-The Haryana government’s bid to secure a second one-year extension for chief secretary Anurag Rastogi is about more than administrative continuity. It is about whether governments are beginning to use service extensions to avoid uncomfortable decisions.
-
-If the Centre approves the proposal, Mr Rastogi will remain in office until June 2027. By then, his two 1990-batch colleagues, Sudhir Rajpal and Sumita Misra, who are senior to him in the gradation list, will have retired. The controversy over their supersession would fade away, not because it was resolved, but because the clock ran out.
-
-The seniority dispute that preceded Mr Rastogi's appointment was never conclusively settled. Extending his tenure again risks creating the impression that delaying a decision is easier than taking one.
-
-The Haryana episode reflects a wider trend. Across the country, governments are increasingly extending the tenures of chief secretaries, DGPs and other top officials in the name of continuity. While the rules permit extensions in exceptional cases, the exception is steadily becoming the norm.
-
-That comes at a price. It blocks career progression, unsettles the administration and weakens confidence in established service rules. More importantly, it suggests that succession planning has taken a back seat to administrative convenience. If governments increasingly rely on extensions to keep trusted officials in office, they risk sending the message that rules are flexible, but only when they suit those in power.
-
-Delhi's babu reshuffle faces a real test
-
-Every new government wants to leave its stamp on the bureaucracy. In Delhi, that process began with a sweeping transfer of more than 50 IAS and DANICS officers. On paper, it's an administrative exercise. In reality, it is a show of power.
-
-Transfers have long been the political class's favourite management tool. They are quick, visible and send an unmistakable message about who's in charge. The latest reshuffle, which affects secretaries attached to several ministers and key officials in the health department, does exactly that. It resets the balance of power inside the administration while allowing the government to put trusted officers in crucial positions.
-
-The timing isn't accidental. The Health Department has been under intense scrutiny, and civic services continue to frustrate Delhiites. Faced with mounting pressure, governments often reach for the transfer order before tackling the harder job of fixing broken systems. Moving officers is easier than reforming institutions.
-
-The trouble is that constant reshuffles rarely come free. Officers juggling multiple departments or being shifted every few months spend less time delivering results and more time figuring out where they'll land next. Long-term planning suffers, accountability gets blurred, and institutional memory takes a hit.
-
-This isn't just Delhi's problem. Every political party, once in office, discovers the usefulness of the transfer file. The Supreme Court has repeatedly argued for fixed tenures to shield civil servants from arbitrary postings, but those recommendations have remained largely on paper. Governments still prefer flexibility over stability because transfers are an effective way to reward loyalty, punish dissent and tighten political control.
-
-So, the success of this exercise won't be measured by the number of babus who changed offices. It will be measured by whether Delhi's residents see cleaner hospitals, better civic services and a government that works faster. They expect tangible outcomes, not mere optics.
-
-Amarinder Singh still casts a long shadow
-
-The closer Punjab gets to the Assembly election, the more important the bureaucracy becomes. That's why the Bhagwant Mann government can hardly afford to ignore the lingering influence of former chief minister Captain Amarinder Singh.
-
-Amarinder has been out of office since 2021. His political outfit has merged with the BJP, and he is no longer at the centre of Punjab's electoral politics. Yet, in Chandigarh's babu circles, the Captain is widely believed to retain the respect and the ear of many senior officials. Whether that influence is exercised or merely perceived is beside the point. In politics, perception often shapes decisions.
-
-Bureaucracies don't change with every election. Relationships built over decades tend to outlast governments. Having served two terms as Chief Minister, Amarinder cultivated a network of officers who know his style of functioning and trust his judgement. Those equations cannot be wished away with a change of regime.
-
-That also explains why babu reshuffles become more frequent as elections approach. Officially, they are about administrative efficiency. Unofficially, they help governments tighten control over the machinery that will implement policies and, eventually, oversee the electoral process.
-
-Punjab has seen three governments in five years, from Amarinder Singh to Charanjit Singh Channi and then Bhagwant Mann....
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-haryana-govt-in-a-dilemma-over-second-extension-to-its-chief-secy-1967955)
-
----
-
-### Indranil Banerjie | America@250: Could It Still Inspire The World?
-*Deccan Chronicle · Opinion*
-
-During the second half of the 18th century, when India was coming under the inexorable stranglehold of British colonialism, halfway across the world, the opposite process was underway. In America, citizens were fighting to oust their British colonial overlords. The independence of the American colonies, which came at the end of a bitter eight-year-long war, ushered in a period of unprecedented prosperity and eventually transformed the country into the world’s richest and most powerful nation. India, on the other hand, slipped from being one of the most affluent and awe-inspiring empires into one of the world’s poorest and inconsequential countries.
-
-While the fortunes of India and America followed very divergent trajectories, an incipient link connected the two. This was political ideology. The United States was destined to serve as the political inspiration for India.
-
-The process started early. In 1831, an unknown American publisher sent a thousand copies of Tom Paine’s famous tracts Age of Reason and The Rights of Man by ship to Calcutta, where booksellers hawked them at one rupee a piece, not an inconsiderable sum in those days. The book proved to be such a bestseller that the booksellers quickly raised the price to Rs 5 a copy! Young Indians who had learnt English and were beginning to devour Western philosophical and political works were electrified by Tom Paine’s writings on liberty and the rights of all men. More of his books were ordered from America.
-
-The colonial masters in India were furious at this development. The Scottish missionary, Dr Alexander Duff, was among the many who condemned the book’s publisher, calling him a “wretched bookseller in America” who had “no God but his silver dollars”. Like most colonials, Duff considered Indian self-governance or political independence unthinkable, and believed it was their divine duty to rule India and eventually transform it into a Christian nation!
-
-But the damage was already done. The idea of liberty and a government of free people was so intoxicating that it would eventually spark off a revolution in Indian political thought and sow the seeds of the country’s freedom movement.
-
-The United States, even in later years, continued to champion the independence of India. During the Second World War, when US President Franklin D. Roosevelt demanded the end of British rule in India as one of the preconditions for US support for the British war effort, a furious Winston Churchill declared: “I have not become the King’s First Minister in order to preside over the liquidation of the British Empire”. But Churchill could not hold out. and in the end lamented: “The empire I believed in has gone”.
-
-Though the United States played a significant role in India's struggle to achieve Independence, the two countries drifted apart shortly after 1947. This was primarily because after World War II, America emerged as a global hegemon and took on the imperial mantle from Great Britain. Over the years, the nation that had once championed liberty and democracy grew into a ruthless superpower bent upon imposing its will on the rest of the world.
-
-Its imperialistic war machine rampaged across the globe, killing millions in countries as varied as Vietnam, Afghanistan, Iraq, Syria, Yemen, Libya, and most recently Iran. In the post-9/11 period alone, the US is estimated to have killed over 4.5 million people.
-
-As the United States marks its 250th anniversary, there is little to suggest that it could once again revert to being the beacon of democracy, justice and liberty that it once was. US President Donald Trump's threat to “wipe out an entire civilisation” (Iran) from the face of the earth is a deeply disturbing echo of the kind of amoral thinking that grips the country’s elite. His defence secretary, Pete Hegseth, hosting his first monthly Christian worship service at the Pentagon (on March 25, 2026), quoted from the Psalms: “I pursued my enemies and overtook them, and did not turn back till they were consumed.”
-
-While India since Independence steadfastly refused to hitch its fortunes to the US wagon and insisted on staying non-aligned in a deeply divided world of great powers, the old incipient link between the two countries did not completely sunder. While Tom Paine had once inspired a generation of Indians, Mahatma Gandhi inspired legions of Americans, including the legendary black leader Martin Luther King Jr.
-
-Meanwhile, millions of Indians looking for opportunities and a better life flocked to the United States while its technological strides helped the world climb another step on the development ladder. At heart, American society remained deeply committed to the idea of diversity and freedoms. Immigrants from all over the world arrived on its shores to spur innovation and germinate new ideas.
-
-America and India came geopolitically closer after President Bill Clinton’s India visit in March 2000, followed by the signing of the civil nuclear agreement under George W....
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/indranil-banerjie-america250-could-it-still-inspire-the-world-1968171)
-
----
-
-### Electoral rolls cannot gatekeep welfare
-*Deccan Herald · Editorial*
-
-Chief Minister D K Shivakumar’s warning that those whose names do not appear in Karnataka’s electoral rolls after the Special Intensive Revision (SIR) could lose access to government welfare schemes has understandably caused widespread concern.
-
-While nudging eligible citizens to enrol as voters is a legitimate objective, linking electoral registration to welfare benefits is legally untenable. Shivakumar may have been echoing recent remarks by Bihar Chief Minister Samrat Choudhary and a Bharatiya Janata Party (BJP) minister in West Bengal who suggested that those absent from the rolls would be denied benefits.
-
-However, the constitutional position is unambiguous. Article 326 guarantees universal adult suffrage, enabling every eligible citizen to be registered as a voter, but India has never made voting compulsory.
-
-The right to vote is a statutory right, not a mandatory civic obligation. Consequently, failure to be enrolled cannot attract penalties that Parliament itself has never prescribed.
-
-The moment the state seeks to deny welfare solely because an individual’s name is absent from the voters’ list, it crosses a constitutional red line.
-
-Exclusion risks, accountability: Supreme Court’s SIR verdict vulnerable to criticism Eligibility for welfare schemes is determined by factors like residence, income, gender, and economic vulnerability – not voter registration. Making the electoral roll a gateway to social security bears no rational connection to the objectives of these schemes and would almost certainly fail the test of equality under Article 14.
-
-It could also infringe Article 21, which the Supreme Court has interpreted to include the right to live with dignity and livelihood. Denying benefits because of a procedural omission would disproportionately harm the poorest citizens.
-
-Across states, while ineligible or deceased voters have rightly been removed, the SIR exercise has left lakhs of genuine voters excluded due to clerical errors, data mismatches, spelling mistakes, migration, and other administrative lapses.
-
-Vulnerable groups often struggle with these verification exercises and risk being penalised for no fault of their own.
-
-The Supreme Court’s landmark judgment in the Justice K S Puttaswamy case established that a database created for one statutory purpose cannot be repurposed for unrelated objectives without explicit legislative sanction.
-
-The Court permitted Aadhaar to be used for welfare delivery because Parliament legislated it as a tool for identity verification tied to subsidies and services.
-
-Electoral rolls, by contrast, exist to facilitate democratic franchise, not to serve as an instrument of socio-economic exclusion. While every citizen who qualifies to vote should strive to register, withholding welfare merely because a person’s name is absent from this database is constitutionally indefensible.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/electoral-rolls-cannot-gatekeep-welfare-4060341)
-
----
-
-### The costs of deferred truth
-*Deccan Herald · Editorial*
-
-The disclosure of the names of six soldiers who were killed during last year’s Operation Sindoor – recently inscribed on the National War Memorial – ironically underlines the Union government’s failure to uphold the democratic norms of transparency.
-
-While India rightly honours the ultimate sacrifices of Subedar Major Pawan Kumar, Rifleman Sunil Kumar, Lance Naik Dinesh Kumar, Havildar Sunil Kumar Singh, Sergeant Surendra Kumar, and Agniveer Mood Muralinaik, the delay in a ceremonial announcement formally recording their identities has led to scrutiny. These revelations have emerged more than a year after the operation, raising critical questions about accountability.
-
-The government’s subsequent explanations regarding the delay have not been convincing. Important questions on the credibility of official positions now cloud what should have been a time for remembering the fallen.
-
-In May 2025, then Director General of Military Operations (DGMO) Lieutenant General Rajiv Ghai acknowledged that the operation had resulted in casualties but did not reveal the identities or the number of soldiers who had died.
-
-Air Chief Marshal A P Singh visited the family of Sergeant Surendra Kumar, and the families of the fallen personnel were honoured with gallantry awards, in acknowledgment of the fact that military losses had occurred.
-
-Yet, Defence Minister Rajnath Singh told the Lok Sabha that no Indian soldiers were harmed during the operation. The government has since argued that the minister was responding specifically to reports concerning the deaths of fighter pilots.
-
-That explanation, however, has failed to blunt the questions. The opposition Congress has sought a privilege motion against the minister, arguing that Parliament was misled. The episode adds to a pattern of contradictory official narratives regarding the losses sustained during Operation Sindoor, undermining public confidence in these accounts.
-
-No one expects the government or the armed forces to reveal operational details of the conflict or sensitive information that could compromise national security. However, in a democracy, transparency about casualties, setbacks, and the operational costs of military action is important. Public confidence cannot be ensured through selective disclosure, suppression, or exaggeration of facts.
-
-A government’s credibility rests not on projecting a face of invincibility but on demonstrating honesty and accountability to the citizens. When official statements are perceived as evasive or inconsistent, they risk creating doubts regarding the government’s claims in other domains as well.
-
-Democracies derive strength from their openness, not the illusion of perfection and infallibility. Military operations involve human action and carry the risk of failure. Acknowledging failures does not signal weakness. Concealing truths undermines democratic values.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/the-costs-of-deferred-truth-4060340)
-
----
-
-### Who deserves welfare? India must get it right
-*Deccan Herald · Opinion*
-
-A rickshaw puller’s widow can be denied a ration card because of issues in eKYC. Across the country, anyone can secure an income certificate declaring a household income of Rs 17,000 per year with negligible verification.
-
-These are symptoms of a deeper structural failure at the heart of India’s welfare: a system that is spending more than ever and making even bigger promises but is operating suboptimally due to constrained precision.
-
-Welfare is now the central currency of Indian electoral politics. Between FY21 and FY25, combined social services expenditure rose from Rs 14.8 lakh crore to Rs 25.7 lakh crore, a compounded annual growth of 15%. As a share of GDP, expenditure on social services climbed from 6.7% in 2017-18 to 7.8% in 2023-24.
-
-But scale alone does not win elections. Research from the Carnegie Endowment for International Peace, ahead of the 2024 general elections, found that voters across India were not simply rewarding governments that spent more. They were rewarding governments that delivered outcomes. The Karnataka Congress’s 2023 victory has been widely attributed to the credibility of its welfare guarantees.
-
-The Bharatiya Janata Party (BJP)’s Laadli Behna Yojana gave it the edge in Madhya Pradesh the same year, not because it was generous in design but because it was felt on the ground. Voters are discerning. They notice when welfare reaches them and when it does not.
-
-A NITI Aayog assessment found that PDS alone suffers from leakages of 36% and diversions of 21%, a large share traceable to faulty beneficiary identification. A hospital-based study at AIIMS, New Delhi, found that over 69% of the genuinely poor did not possess a BPL card, while 5.5% of Above Poverty Line patients did. Welfare that does not reach the right people is not just a fiscal problem. It is a political liability. The lesson for governments is clear: the question is no longer only how much to spend on welfare but also how to ensure it reaches the right people.
-
-The dominant instrument for determining economic eligibility, the income certificate, is structurally broken. Built on self-declaration and manual checks, its objective reliability can be highly contested. Those who need benefits but lack the social and economic capital to navigate the system can be left out. The path forward is not to abandon targeting but to do it properly. NITI Aayog’s Multidimensional Poverty Index (MPI), developed in partnership with UNDP and OPHI, measures poverty across 12 indicators focusing on health, education, and standard of living – observable dimensions rather than a single self-declared income figure.
-
-Ask not how much the State spends, but what society gains from that spendingThe data is already here
-
-Government databases are full of information about economic status. Citizens file income taxes and GST. They contribute to EPF. They register property, pay electricity bills, and send their children to fee-charging schools. They own vehicles and hold land. What is needed is a two-step framework built on economic exclusion rather than self-reported inclusion. The first step is identifying reliable, scalable data points that serve as proxies for economic well-being: electricity consumption, land records, vehicle ownership, income tax filings, school fee payments, property tax records, EPF contributions, and income from government contracts. These are observable, verifiable, and already digitised.
-
-The second step is defining calibrated exclusion thresholds, that is, the point at which a household, by its demonstrated consumption or assets, should reasonably be considered non-poor and, therefore, ineligible for means-tested benefits. Electricity consumption is a particularly useful proxy because it is metered, verifiable, and a strong correlate of household appliance ownership and overall economic standing. Data from the Centre for Policy Research, using CEA and NSSO figures, shows that about 80% of electrified households consume under 100 units a month, and in rural areas, 90% fall below that mark. A threshold of around 200 units a month is well-
-
-justified for the southern parts of India. Crossing 200 units almost certainly means using appliances that are credible signals of economic comfort. This is also the upper band used by states
-
-as their domestic subsidy limit, suggesting a broad cross-state consensus on the number.
-
-Critically, this data must be mapped at the family level rather than the individual level, because welfare flows to households. Seeding citizen and family identifiers across these datasets, using Aadhaar, phone numbers, names, and addresses as matching keys, is needed.
-
-Data-driven exclusion can itself go wrong, and the record shows it has. Certain states have implemented mechanisms that have wrongfully excluded food security cardholders owing to faulty matches and data errors. The lesson from such experiences is not that data cannot always be trusted but that data governance must be robust, transparent, and grievance-responsive. No family should lose benefits on the basis of a database error without recourse.
-
-Designed well, this approach does not punish the poor. It protects them by ensuring that the finite resources of a state government reach the families that genuinely need them, rather than being spread thin across a bloated and inaccurate beneficiary list.
-
-The ingredients for a better system already exist across India. What has been missing is the will to stitch them together into a coherent picture to determine economic status and benefit eligibility. This is a governance problem, one that requires states to agree on what exclusion thresholds are fair, to build systems that can be audited and appealed, and to accept that a smaller but more accurate beneficiary list serves the poor better.
-
-Every state in India is grappling with the same tension: expanding welfare commitments on the one hand and managing fiscal pressure on the other. Improving targeting by better leveraging data is today an imperative fix.
-
-(The writer leads the family benefit management system programme in Andhra Pradesh at Samagra, a
-
-governance consultancy firm)
-
-[Read full article](https://www.deccanherald.com/opinion/who-deserves-welfare-india-must-get-it-right-4060327)
 
 ---
 
