@@ -1,3 +1,565 @@
+## 2 October 2026
+
+### IIT Bombay students announce hunger strike after Sahil’s death, list 10 demands
+*Dipesh D Tripathi · general*
+
+Students at IIT Bombay have announced a hunger strike after continuing their protest on campus for 14 days following BTech student Sahil Wakode's death by suicide. The protesting students have demanded accountability from the institute administration and action on issues including the ongoing investigation, student welfare, disciplinary proceedings and caste-
+
+The announcement came on a day when the institute declared a holiday and, according to the students, invoked the values of peace, justice and equality associated with Mahatma Gandhi and the freedom struggle.
+
+The students said they would begin their hunger strike to demand that the institute "walk the path it preaches".
+
+### STUDENTS DEMAND ACCOUNTABILITY FROM IIT BOMBAY
+
+According to the students, hundreds gathered on campus after news of Sahil Wakode's death spread and marched towards the main gate. They collectively demanded the resignation of Director Shirish Kedare and Professor Doolla.
+
+The students said the Director came to the gathering following the protest but alleged that he did not address their concerns and instead repeated promises of change. The protest continued through the night, during which students discussed issues affecting campus life and formulated a set of demands.
+
+The students said they continued their sit-in protest over the following two days and reached a collective understanding that "any change can begin only after the institute acknowledges its failure and takes accountability".
+
+They also alleged that the Director made promises that have not been fulfilled and subsequently resorted to "fear and intimidation" among students.
+
+### STUDENTS HOLD DISCUSSIONS DURING 14-DAY PROTEST
+
+The students said that despite communicating their demands, the IIT Bombay administration had not officially responded to them.
+
+During the 14-day protest, students organised discussions on mental health, student-teacher relationships, placement pressure, evaluation systems and dealing with loss on campus.
+
+According to the statement, the protest also created avenues for dialogue among students across batches, departments and degree programmes at a time when several campus spaces were "increasingly being shut down".
+
+The students said they remained determined to continue their protest and listed the following demands:
+
+### THE 10 DEMANDS OF STUDENTS
+
+1.  Ensure that Sahil's parents feel safe to visit the IIT Bombay campus and meet with students and the administration.
+2.  Immediate suspension of Prof Doolla from ALL responsibilities until the conclusion of the ongoing criminal investigations against him.
+3.  Dissolve the currently constituted investigation committee. Several of its members have publicly expressed support for Prof. Doolla before the investigation’s conclusion, creating a clear apprehension of bias. No current IIT Bombay employee or student should serve on the reconstituted committee. Establish an independent external investigation committee whose members have no prior allegations of caste-based discrimination. At least two of the following individuals should be included: Bhalchandra Mungekar, P. Sainath, Ram Punyani and Sukhadeo Thorat.
+4.  Immediate resignation of the Director for his failures that resulted in four suicides in the last two semesters, and for the gross mishandling of Sahil’s case.
+5.  SWC-
+6.  DAC-
+7.  SC/ST Cell 
+8.  Student concerns: Students from the same batch must be given the option to stay on the same floor. There should be a three-day buffer before and after mid-semester examinations. There should be no multiple examinations on the same day.
+9.  Ensure safer working conditions for workers and end gender disparities among workers.
+10.  No action must be taken against the students protesting at the Main Gate, during or after the protest.
+
+The students said they would continue their protest until the institute addresses their demands and takes concrete steps towards accountability and reform.
+
+\- Ends
+
+---
+
+### iPhone 16 available at old price, details here
+*INDIATODAY · general*
+
+Worried about iPhone price hike? It turns out you can still grab the iPhone 16 for its older price on Croma.
+
+The platform is selling the iPhone 16 for Rs 69,900 right now, down from its new Rs 89,900 price.
+
+This means that you save Rs 20,000 on the iPhone 16 straightaway with this deal.
+
+And you can save more with bank offers or via exchange. Though the exchange value will depend on the condition of your old phone.
+
+At this price, iPhone 16 is not a bad option in today’s smartphone market, delivering you a premium experience.
+
+The iPhone 16 is powered by the A18 chipset. We tried out heavy titles such as Genshin Impact on the device, and the performance was quite impressive.
+
+The iPhone 16 packs a 6.1-inch OLED display. The display is vibrant, and colour accuracy is good. However, it is a 60Hz panel.
+
+The iPhone 16 comes with a 48-megapixel primary sensor and a 48-megapixel ultrawide. The cameras deliver consistent results, making it ideal for social media. The front sensor is a 12-megapixel sensor.
+
+The iPhone 16 promises all-day battery life. For us, the device would easily last a day, even with heavy use. But the max charging speed is only 25W.
+
+---
+
+### Tennessee halts executions after Christa Pike survives lethal injection attempt
+*India Today World Desk · general*
+
+## Tennessee halted this year's executions after Christa Pike survived a lethal injection attempt. The unprecedented failure has triggered an independent review and renewed scrutiny of execution procedures.
+
+Image used for representational purposes only
+
+Nashville,Oct 2, 2026 11:04 IST
+
+Tennessee Governor Bill Lee has halted further executions in the state this year and ordered an independent review after a failed attempt to execute death row inmate Christa Pike. Pike, who was sentenced to death for a 1995 murder, was in critical condition in hospital on Thursday and receiving “lifesaving care”, her lawyers said.
+
+Pike was taken to hospital on Wednesday night after surviving what her lawyers said was a double dose of pentobarbital, the drug Tennessee uses to execute prisoners. Attorney Randy Spivey said, “We don't have a sense of her prognosis or much update on her health at the moment. But we know she is alive right now.”
+
+The failed execution, which one death penalty expert described as unprecedented, led Lee to call the episode “deeply disturbing”. He indefinitely postponed Pike’s execution and another execution that had been scheduled for this year. The incident also revived questions over the state’s execution procedures, including its use of single-drug lethal injections.
+
+Spivey said the process was cruel and torturous. He said he was “haunted” by watching and hearing Pike talking, singing and then snoring loudly during more than 90 minutes in the death chamber. Her lawyers also said it was unclear whether she might have suffered brain damage from being deprived of oxygen.
+
+May Martinez, whose daughter Colleen Slemmer was murdered by Pike and Pike’s boyfriend, had travelled to Nashville to watch the execution. “I didn't get justice for my daughter,” Martinez told The Associated Press on Thursday. She said, “I watched the whole thing. She was awake. She was laughing. She was moving her head, moving her feet. She was trying to sit up. Didn't work the first time they gave her a shot. It didn't work the second time.”
+
+It was not immediately clear what went wrong. Pike’s lawyers said there were several possibilities. Spivey said the execution team spent an hour trying to administer the lethal drugs and that he counted at least seven needles in her left arm. During the struggle to find a vein, he said, Pike even suggested where they might try. Spivey recalled her saying, “Please try here, please try here. She told them over and over, please try higher on my shoulder.” At one point, he said, Pike asked prison officials whether her arm was supposed to feel that way, though it was unclear whether that happened after the first dose had entered her body because officials do not share that information.
+
+According to her lawyers, neither the initial dose nor the backup dose of pentobarbital worked. Pike was still snoring when the microphone in the execution chamber was cut off more than an hour into the attempt. Another lawyer, Steve Ferrell, said Pike had long feared complications because of a lifelong blood disorder that made it difficult to get needles into her veins. “Throughout her life, she's explained to us that she had trouble having blood drawn,” he said. Ferrell said it was quite possible that the IV line had not properly entered a vein and that the drug was filling her arm instead of entering her bloodstream. Lee said it appeared prison staff had followed procedure.
+
+Pike’s lawyers are now seeking commutation of her death sentence. Now 50, she was sentenced to death for a murder committed when she was 18. She would have been the first woman executed in Tennessee in more than 200 years. An appeals court had stopped her execution an hour before it was due to begin on Wednesday morning, but the US Supreme Court overturned that stay later in the day.
+
+It was the second time this year that Tennessee was unable to complete an execution. In the other case, officials could not find a suitable vein for an IV line, so the drugs were not administered. Pentobarbital has been used for executions in several states and by the federal government, but concerns have been raised about the potential for “unnecessary pain and suffering”. Dr Ervin Yen, an anaesthesiologist in Oklahoma City who had no connection to Pike’s execution but has witnessed others, said it was possible that if prison staff were using a small vein, there could have been some burning, as Pike’s lawyers suggested. “It just depends on the vein that you're injecting it in and how fast you are injecting,” Yen said.
+
+Witnesses said Pike, strapped to a gurney, described herself as at peace and said, “I'm ready to be free. ... This is a happy day.” But she remained awake, and at one point complained about a feeling in her arm. An hour after officials first raised the curtains, witnesses reported that a second dose of pentobarbital was administered. Pike could still be heard snoring behind a closed curtain until the microphone was cut off almost 30 minutes later. Her lawyers then filed an emergency motion with the Tennessee Supreme Court, saying she was in “unnecessary agony” and that the procedure violated her right to be executed free of cruel and unusual punishment.
+
+Pike and her boyfriend were convicted of fatally stabbing 19-year-old classmate Colleen Slemmer in a case that drew attention because a pentagram had been carved on Slemmer’s body. Pike did not dispute that she helped kill Slemmer, but her supporters argued that her mental illness and allegations of severe sexual abuse should be taken into account. She was diagnosed with bipolar disorder and post-traumatic stress disorder after the killing. She once said, “It took me numerous years to even realise the gravity of what I'd done.” The failed execution has now left Pike in hospital, paused executions in Tennessee for the year, and prompted a fresh review of the state’s death penalty procedures.
+
+With PTI Inputs
+
+\- Ends
+
+---
+
+### Nursing job promise turns nightmare, Ranchi woman held captive in Dubai
+*India Today News Desk · general*
+
+## A Ranchi woman alleges she was lured to Dubai for a nursing job and then held captive. Her family has sought her return as police probe a suspected recruitment fraud and passport seizure.
+
+A Ranchi woman alleges she was lured to Dubai for a nursing job and then held captive.
+
+Ranchi,Oct 2, 2026 11:00 IST
+
+A woman from Ranchi was allegedly held captive in Dubai, abused and forced to do household work after she travelled there for a nursing job promised by a private recruiting agency, police said on Friday.
+
+Based on a complaint filed by her father on Tuesday, an FIR has been registered at the airport police station against Priyanka, an agent of private company AMD Trend Solutions, her husband Ritesh, and Md Meraj Ansari.
+
+According to the complaint, Monica Kachhap travelled to Dubai on May 5 after seeing a job advertisement on social media and being promised work as a nurse.
+
+Her father alleged that Monica, who was working as a nurse at a private hospital in Ranchi and holds a B.Sc. in nursing, transferred Rs 15,000 electronically to Priyanka on April 22. Priyanka later asked for money for an air ticket, which was also paid, he alleged.
+
+Police said Monica travelled from Delhi to Sharjah on May 5 and was picked up at the airport by a driver sent by the company, who allegedly took away her passport.
+
+Airport police station officer-in-charge Pankaj Sharma, citing the complaint, said Monica was taken the next day to an office on the 24th floor of a building in Ajman, where Ritesh and Meraj Ansari allegedly pressured her to sign documents written in Arabic.
+
+She was later allegedly told that, according to the documents she had signed, she had taken a loan of 12,600 dirhams and would be allowed to return to India only after repaying the amount.
+
+Her mother told PTI news agency that Monica's visa had expired and that her passport had been confiscated by the company agents who had promised her employment, food and accommodation.
+
+The family has urged the authorities to bring Monica back home.
+
+\- Ends
+
+---
+
+### Delhi University to start placement drive on October 7, 4,000 students register
+*Education Desk · legal*
+
+According to the university, the highest annual salary package on offer exceeds Rs 10 lakh, while the highest internship stipend is up to Rs 60,000 per month.
+
+[Read full article](https://indianexpress.com/article/education/delhi-university-to-start-placement-drive-on-october-7-4000-students-register-10903440/)
+
+---
+
+### Join Congress, Leave The Baggage Behind: Adhir Chowdhury’s Surprise Pitch To Mamata Banerjee
+*Unknown · politics*
+
+In an unusual political overture, senior Congress leader Adhir Ranjan Chowdhury on Thursday asked Trinamool Congress (TMC) chief Mamata Banerjee to return to the party she left nearly three decades ago, saying the Congress was even prepared to accept her leadership in West Bengal.The invitation from...
+
+[Read full article](https://www.news18.com/videos/politics/join-congress-leave-the-baggage-behind-adhir-chowdhury-s-surprise-pitch-to-mamata-banerjee-10363961.html)
+
+---
+
+### VdoCipher Co-founder Siddhant Jain Says Stopping Video Piracy Means Identifying Pirates, Not Just Blocking Them
+*Prakash Chand · general*
+
+## VdoCipher Co-founder Siddhant Jain Says Stopping Video Piracy Means Identifying Pirates, Not Just Blocking Them
+
+As piracy grows more organized, from Telegram channels to illegal sports streams, the Gurugram-based secure video platform is betting on technology that doesn't just block pirates, but identifies them.
+
+Before the IPL 2026, the High Court of Delhi issued an injunction against JioStar on rogue sites and apps from illegally streaming matches, allowing the broadcaster to inform any other infringing websites in real time. According to the court, since piracy now works through anonymous, continuously evolving networks, the action needed consistent enforcement.
+
+In a worldwide perspective, the problem is still bigger in size. An organization specializing in cybersecurity, Silent Push, reported the discovery of an IPTV piracy organization operating through over 1,000 domains and 10,000 IP addresses and affecting more than 20 major companies like Netflix, Prime Video, Premier League, and Formula 1.
+
+"Seizures and court orders are important but occur after the damage is already done," commented Siddhant Jain, Co-founder and CEO of VdoCipher. "Every pirated video stream starts from some video being pulled from where it was uploaded."
+
+However, DRM encryption isn't a magic bullet anymore. "Hackers are getting cleverer," Jain added. "Drm-breaking programs and applications are shared on the Internet. If your protection consists only of DRM, then you are protected against thieves of yesterday."
+
+The discovery made VdoCipher create Piracy Tracker and Hacker Identification Engine which are in some ways anti piracy solution that help compare the playback sessions with more than 300 parameters like user or device. These programs check device simulation, and DRM violation attempts; geo-switching and suspicious devices are detected by the software making the blocking of illegal sessions possible in real time.
+
+Jain stated that, "Blocking attempts provides immense help. Knowing the logged-in user who made this attempt turns the whole situation into vicious power." The app’s informational panel shows piracy attempt's user ID so content owners can restrict the user from accessing the content or pursue legal action.
+
+In the one year alone, 370,000+ hacking attempts based on DRM were blocked by the engine and it identified 11,300+ people involved in piracy attempts with this information provided to customers of the service. VdoCipher's technology, in total, provided around $200 million of extra profits thanks to the pirating prevention and conversion of users into paid audience.
+
+The problem is bigger than just sports and media. For those who teach online, a course that is even leaked just once can wipe away weeks or months of hard work. Even a lecture that could be sold for thousands of rupees will end up on Telegram for free. Jain says that this is the elephant in the room when it comes to online education.
+
+"Video piracy strips educators of their earned income, but it also takes away a chance for students to learn from good teachers," Jain said. "When a creator’s materials are stolen, they stop paying for their original ideas. It leads to the decline in the quality of education."
+
+The issue strikes a familiar experience for Jain. As students at IIT Delhi, he and co-founder Vibhav Sinha enjoyed seeing a friend, who was an educator, always treat the risk of his premium lectures being subjected to piracy with concern and distress. It was in October 2015, after graduating, when they started VdoCipher in Gurugram to solve that problem.
+
+"DRM encryption and secure playback were technologies available to only giants like Netflix," Jain said. "We wanted any website or app, of any size, to integrate the same level of protection in a day or two. We are, in a way, democratizing protection from video piracy."
+
+At present, VdoCipher covers the secure video hosting platform of more than 7,000 video press in over 120 countries, offering technology for DRM protection, dynamic watermarking based on the user and detailed analytics.
+
+Moving forward Jain believes the key groundwork done by VdoCipher's team and the culture based on flat organizational hierarchy and fitness-first principles has helped the company survive two crises. The company is going to achieve the goal of becoming the best secure video hosting company providing piracy protection for recorded and live video content..
+
+---
+
+### My Autobiography: Building a Digital Legacy Around the Stories That Shape Our Lives
+*Prakash Chand · general*
+
+## My Autobiography: Building a Digital Legacy Around the Stories That Shape Our Lives
+
+Harman Wander is exploring how artificial intelligence can help people preserve the experiences, knowledge and stories that define a lifetime
+
+There are countless moments in the life of anyone, only a small part of which is documented anywhere.
+
+Many childhood memories are shared at family gatherings, lessons learned in multiple jobs through the years, old photographs are kept in family albums, and there are experiences kept only in the memory of specific individuals.
+
+Canadian enterpreneur and inventor Harman Wander suggest that new advanced technologies will be able to save those stories.
+
+He is the founder of **My Autobiography**, an AI-based platform intended to help people tell their stories and keep their memories, life experiences, and achievements for the generations to come.
+
+The platform is newly launched and is coming through the author's early program since the company is working on improving the product.
+
+**Reimagining the Personal Story**
+
+Traditionally, the autobiography has been the means for an author to look back.
+
+It is written recall of one’s childhood, career, personal life achievements and many others in recalling one’s memory.
+
+In writing My Autobiography, I take a different approach than traditional approaches.
+
+I strongly believe that story of one’s life should start being written right away instead of waiting for the future hence the platform enables documenting all those experiences one undergoes in the present day and sharing that with others – family members, friends and colleagues through photographs, videos, important moments, thoughts, family stories and professional experience collected over the person’s life.
+
+**When More Digital Content Still Isn't Enough**
+
+Nowadays, people have access to an incredible number of devices that help them to record their lives.
+
+Mobile phones save the average human’s everyday life. Social networks carry posts from many years back. Cloud services play important role in preserving images and video files. Communication apps keep such conversations that would probably be lost otherwise.
+
+However, many pieces still do not correlate with each other.
+
+For example, a photo shows where a person was, but not what his/her thoughts were. A post about an achievement does not tell about hardships someone went through in order to get there. A video shows how a person sounds but does not deliver knowledge learned through his/her life.
+
+My Autobiography will thus help to supplement those private documents.
+
+The target is not just to collect files but to put together a whole story.
+
+**Bringing AI Into the Story**
+
+AI adds a new dimension to the concept.
+
+My Autobiography is creating AI-driven experiences based on the data that people want to share about their life in a story format.
+
+As time goes by, this information can consist of memories, experiences, knowledge, values, professional lessons, and personal insights.
+
+One of the ideas that the company has is to create an AI avatar that will let users access this information conversationally.
+
+Imagine being a child hearing stories of their parent’s youth, or a grandchild learning about their grandparent’s career.
+
+The aim of the technology is not to replicate the individual.
+
+The idea is to create a new way for future generations to have an opportunity to learn and understand the knowledge that someone wants to pass on to them.
+
+**From Digital Records to Digital Legacy**
+
+The notion of leaving a legacy has usually been connected to books, family pictures, belongings and tales told over the ages.
+
+However, modern technology allows us to widen this definition.
+
+One's digital heritage can include not only the most significant events and proceedings of a person's life but also information about his approach and feelings of emotions concerning these affairs.
+
+From the perspective of business, this can mean the recording of key lessons learned while running a firm.
+
+From the point of view of parent one, this process can help save memories about the childhood of his kids and family traditions.
+
+If we consider a teacher or a specialist, this may help to save the experience and knowledge accumulated by that person for dozens of years.
+
+My Autobiography is built on the conviction that stories, told by a common individual are just as valuable as those narrated by world-famous people.
+
+The company explains its philosophy by saying that "Every life counts. Every story is to be saved."
+
+**A Vision That Goes Beyond Social Media**
+
+Social media has simplified the process of sharing news about one's life and experiences.
+
+However, a social profile does not mean that a person’s life is accurately depicted.
+
+My autobiography is about looking at storytelling with a long-term meaning.
+
+The emphasis is on what the person is currently doing, but also on where they come from and what they experienced in their life.
+
+This is the key point in the vision of the company.
+
+The aim of the platform is to give a person an opportunity to continue the development of his/her story.
+
+**Exploring Immersive Experiences**
+
+The company's ambitions go beyond text, photographs, and conversations: My Autobiography is experimenting with immersive technologies like virtual reality that might one day allow people to experience their own lives, and others', in ways previously impossible.
+
+The company is working on new technology that could make personal stories more engaging, like a virtual-reality experience that would allow users to feel as if they were really there, and make it easier for future generations to access and experience the past.
+
+For now, these projects are on the company's wish list, as executives focus on laying the groundwork for a broader product launch.
+
+**The Journey Behind the Idea**
+
+Harman Wander has gone through many job experiences in a variety of fields.
+
+He started in the field of construction before switching to business consultancy, real estate investing, and technology development in Canada.
+
+His experience allowed him to learn a lot about how different businesses can be improved in completely different ways.
+
+Eventually, it led him to an important question.
+
+In life, some lessons are written down, others are shared with your family or colleagues, while many lessons remain secrets.
+
+And when the teacher is not around anymore, this piece of knowledge might disappear forever.
+
+The idea of My Autobiography is that technology may provide means for preserving more secrets.
+
+**Starting With the Story**
+
+The platform may still be in its infancy, but its future vision has never been clearer.
+
+Harman Wander is hoping for the day when individuals can live out their own stories, families can document their past, and people from future generations can get in touch with the life experiences of their predecessors and learn from them.
+
+Eventually, this could mean using artificial intelligence-based inventions or technologies that will be able to create digital stories for one to enjoy.
+
+At this point, however, the most important task is to encourage people to share their stories.
+
+The company is now actively using the beta phase to further develop its platform and attract potential users.
+
+If you wish to find out more about My Autobiography and join the early access program, go to  **www.myautobiography.com** to register.
+
+**About Harman Wander**
+
+Harman Wander is a Canadian businessman, business strategist and IT innovator whose activities cover a wide range of areas: construction and business consulting, real estate investment and IT startups.
+
+As an initiator of My Autobiography, he aims to mix the idea of artificial intelligence with personal storytelling in order to create a new dimension in the sphere of digital legacy.
+
+His goal is simple and at the same time quite ambitious - help people preserve their memories, experiences, knowledge and views so that their stories will continue to resonate in future generations.
+
+---
+
+### Tamil Nadu CM Vijay expands free bus travel scheme to benefit 84 lakh women
+*Majid Alam · legal*
+
+The TVK government's 'Vettri Payanam' scheme was expanded to cover women across income groups and removing the limit on daily trips.
+
+[Read full article](https://indianexpress.com/article/cities/chennai/tamil-nadu-cm-vijay-expands-free-bus-travel-scheme-to-benefit-84-lakh-women-10903439/)
+
+---
+
+### IIT Bombay opens CEED, UCEED 2027 registrations: Check exam date, eligibility criteria, and more
+*Education Desk · legal*
+
+CEED is for postgraduate design courses like MDes and PhD, while UCEED is for four-year BDes programmes, across multiple IITs such as IIT Bombay, Delhi, Hyderabad and others.
+
+[Read full article](https://indianexpress.com/article/education/uceed-ceed-iitb-ac-in-design-entrance-registration-begins-important-dates-exam-schedule-eligibility-criteria-fees-10903430/)
+
+---
+
+### A galactic Nobel? Experts float the International Space Station among contenders for the Peace Prize
+*SECTIONS A galactic Nobel Experts float the International Space Station among contenders · general*
+
+STAVANGER: Not-so-outlandish, prognosticators say: The Nobel Peace Prize this year could go galactic, with an award to the International Space Station. But terrestrial contenders loom too, including U.S. President Donald Trump, Prime Minister Mark Carney of Canada, emergency teams in Sudan, children's advocates in Ukraine and two top international courts, experts say.
+
+The annual guessing game about who will win the prize, often called the most prestigious award on the planet, is revving up ahead of the Norwegian Nobel Committee's Oct. 9 announcement of the winner in Oslo.
+
+Predicting the outcome is inherently speculative. Some surprising and controversialchoices have appeared over the years. The committee received 287 candidates for this year's prize, and just over a quarter of them are organizations.
+
+  
+
+Experts say the committee, in its process of awarding the prize, typically focuses on the durability of peace, the promotion of international fraternity and the quiet work of institutions that strengthen those goals.
+
+## International Space Station a symbol of global cooperation
+
+Haakon Gjerlow, director of the Peace Research Institute Oslo, is considered a top forecaster. He says the ISS - well, the organization behind it - is a rare symbol of global cooperation in a quest toward the heavens at a time when multilateralism is crumbling and many countries have retreated into narrower national interests on Earth.
+
+The institute's annual watch list is one of the sources that most informs pundits and punters about the top contenders.
+
+Trump has made no secret of his desire to win the prize, and has been nominated again, but could be viewed as a controversial choice after the U.S., along with Israel, launched an ongoing war on Iran in February.
+
+## Trump and Canada's Carney are both candidates
+
+Canada's Carney has made a mark internationally this year, in large part by standing up to Trump on issues like U.S. tariffs.
+
+Gjerlow's list this year also features Ukrainian children's advocate Mykola Kuleba and Save the Children; Sudan's Emergency Response Rooms, a grassroots relief network; and the Committee to Protect Journalists after the deadliest two years for reporters since record-keeping began nearly 45 years ago.
+
+The International Court of Justice and International Criminal Court, jointly, also got a nod. The ICC has faced criticism and controversy among some, and respect from others, over its arrest warrants against leaders like Russian President Vladimir Putin and Israeli Prime Minister Benjamin Netanyahu.
+
+Trump has long criticized the ICC, and Secretary of State Marco Rubio in July announced a campaign to "dismantle the threat ... posed by the International Criminal Court to U.S. sovereignty." Later that month, the ICC's chief prosecutor was removed from office over sexual misconduct allegations.
+
+Gjerlow said the committee's choice is complicated by recent turmoil after 2025 laureate Maria Corina Machado of Venezuela, in a symbolic gesture, presented her prize to Trump days after U.S. forces removed Venezuelan President Nicolas Maduro from power.
+
+## Conflicts and wars mark this year's prize
+
+This year's peace prize comes in an era marked by the most war and conflict in decades, including in Sudan, Ukraine, Yemen, Iran and the Middle East.
+
+Shawn Davies, a senior analyst at the Uppsala Conflict Data Program, which monitors conflicts, cited "increased international tensions and changes in the global security order" that he linked to an erosion of U.S. willingness to enforce international rules. Washington has gone from guarantor of the postwar order to a violator of it in some cases, he said.
+
+"I don't even think his own base would believe" Trump could win the prize now, "given how he's stuck in what looks like a forever war in Iran," Davies said.
+
+Jody Williams, who won the 1997 Peace Prize jointly with the International Campaign to Ban Landmines, says she hopes for a continued trend toward awarding the prize to women. Only 20 of the prize's 112 individual laureates have been women in its 125-year history.
+
+In the past 15 years, eight women have won the prize individually, compared to just six men.
+
+Among names of the women circulating in prediction markets this year are Gaza surgeon Sara al-Saqqa and Yulia Navalnaya, the Russian opposition figure and widow of Alexei Navalny.
+
+## Nobels start with prize for medicine
+
+Nobel week kicks off Monday with the announcement of the medicine prize, followed by the physics prize on Tuesday, chemistry on Wednesday and literature on Thursday. After Friday's peace prize is awarded, the Nobel Memorial Prize in Economic Sciences will be announced on Oct. 12.
+
+The prize money this year is 12 million Swedish kronor (about $1.2 million), whether for an individual, small group of laureates or organization.
+
+When it comes to the peace prize selection, expect political fallout no matter who wins.
+
+"Trump will be unhappy whoever gets the Nobel," said Nelson Wiseman, a University of Toronto professor emeritus. "If Carney got it, it would make relations with Canada rockier than they are."
+
+---
+
+### Back on voter list? EC orders special drive for left-out, new voters in states where SIR over
+*SECTIONS Back · general*
+
+The Election Commission has directed state election officials to launch a special drive to identify and register eligible voters who were left out of electoral rolls following the Special Intensive Revision (SIR), according to a PTI report.
+
+The exercise will also cover first-time and young voters in areas where the electoral roll revision has already been completed. The Commission's instructions were issued after a virtual meeting with state Chief Electoral Officers.
+
+The move comes amid criticism from Opposition parties over the SIR exercise and allegations that eligible voters were excluded from electoral rolls.
+
+  
+
+## EC asks officials to identify voters missing from final rolls
+
+The Election Commission has emphasised that voter registration is an ongoing process and that eligible citizens should not be left out simply because their names were not included during the SIR enumeration.
+
+As part of the special drive, Booth Level Officers (BLOs) have been asked to compare the current electoral rolls with lists prepared before the SIR. This will help identify voters whose names appeared in earlier rolls but were missing from the final list.
+
+The BLOs will then carry out house-to-house verification of the identified voters.
+
+## BLOs given one-month target for verification
+
+According to PTI, each BLO has been assigned a target of covering 20 to 25 electors every week, with the verification exercise expected to be completed within a month.
+
+Officials will also collect Form 6 applications from eligible young voters and genuine cases of people who were left out of the revised rolls.
+
+The lists will subsequently be shared with Booth Level Agents (BLAs) of recognised political parties, a step the Commission said would help maintain transparency in the process.
+
+## Opposition raises concerns over SIR voter roll revision
+
+The special drive comes against the backdrop of Opposition criticism of the SIR exercise. Opposition parties have accused the Election Commission of working in tandem with the BJP and of disenfranchising eligible citizens through the revision process.
+
+Data shared by the poll authority and state election officials showed that the combined electoral rolls in nine states and three Union territories had been reduced by 10.2% following the SIR exercise. More than 60 lakh deceased voters were also removed from the rolls.
+
+The Opposition's criticism comes amid protests over the functioning of the Election Commission and demands for accountability over the SIR exercise.
+
+## EC says SIR decisions were taken unanimously
+
+The decision to conduct the special inclusion drive also comes amid reports of differences within the Election Commission over decisions linked to the SIR.
+
+The Commission, however, has maintained that all decisions relating to the exercise were taken unanimously.
+
+With the latest instructions, election officials in areas where the SIR process is complete will now focus on identifying eligible voters who may have been left out, while also facilitating registration of new and young electors.
+
+_Inputs from agencies_
+
+---
+
+### Anti-CEC protest: Delhi commuters on alert, traffic cops warn of diversions
+*India Today News Desk · general*
+
+## The traffic advisory comes in the wake of a protest called by the AAP, Youth Congress, RJD and student unions at Jantar Mantar, demanding the resignation of CEC Gyanesh Kumar over the Special Intensive Revision of electoral rolls and the mass deletion of voters.
+
+The Delhi Traffic Police have advised to avoid areas in and around Jantar Mantar in the wake of the anti-CEC protest.
+
+New Delhi,Oct 2, 2026 10:47 IST
+
+Delhi Traffic Police on Friday advised commuters to plan their journeys in advance and avoid stretches around Jantar Mantar and adjoining areas, where traffic restrictions and regulated movement will be in place in the wake of an Opposition protest seeking the resignation of Chief Election Commissioner Gyanesh Kumar.
+
+The protest at Jantar Mantar has been called by the AAP, Youth Congress, RJD and student unions, who are demanding the resignation of the poll body chief over the Special Intensive Revision of electoral rolls and the mass deletion of voters.
+
+According to the traffic advisory, traffic moving from Connaught Place towards Patel Chowk will be diverted along alternate routes, while movement from Patel Chowk towards GPO will be regulated or diverted at suitable points.
+
+> Traffic Advisory
+> 
+> In connection with traffic restrictions and regulated movement around Jantar Mantar and adjoining areas on 02 October 2026, commuters are advised to avoid the affected stretches wherever feasible and plan their journeys in advance.
+> 
+> Traffic pic.twitter.com/3oGsoRHBP0— Delhi Traffic Police (@dtptraffic) October 1, 2026
+
+Traffic on Tolstoy Marg will also be regulated or diverted, while movement on Jantar Mantar Road will be restricted or diverted.
+
+Commuters have been asked to use alternate routes and avoid Jantar Mantar, Parliament Street, Ashoka Road and adjoining roads wherever possible.
+
+"Barricading and traffic diversions may be put in place. Commuters should expect increased travel time on adjoining roads," the advisory said.
+
+Motorists travelling towards Connaught Place, Patel Chowk, GPO, Parliament Street and Central Delhi have been advised to plan alternate routes and leave extra time for their journeys.
+
+"Stopping or parking of vehicles on or near the regulated stretches is prohibited and may further disrupt traffic movement," the advisory said.
+
+It also said Section 163 of the Bharatiya Nagarik Suraksha Sanhita will remain in force in the specified area as per orders of the competent authority, and urged people to follow directions issued by authorities and personnel on the ground.
+
+\- Ends
+
+---
+
+### India-Pakistan Rivalry Gets Asian Games Stage, Gold Medal At Stake
+*Unknown · sports*
+
+India and Pakistan will be meeting each other in the Asian Games for the first time, and the clash will be for the biggest prize as the two men's teams battle it out for the gold medal on Saturday at the Karogi Sports Park in Nisshin.
+
+[Read full article](https://sports.ndtv.com/asian-games-2026/india-pakistan-rivalry-gets-asian-games-stage-gold-medal-at-stake-12128678)
+
+---
+
+### Barapullah Jam | Promised 15 Mins, Got 2 Hours: Drone Survey Says It's Not Just New Road's Fault
+*Sumedha Kirti · general*
+
+Two days after the Phase III corridor opened, Delhi Traffic Police and PWD are studying lane merges, a three-to-two-lane squeeze and Google Maps routing to ease the jams.
+
+[Read full article](https://www.news18.com/cities/new-delhi-news/barapullah-jam-drone-survey-says-its-not-just-new-road-fault-explained-10363911.html)
+
+---
+
+### EPFO enrolment campaign for workers left out of PF coverage: Will they lose interest on past contributions? | Mint
+*Eshita Gain · economy*
+
+## Eligible salaried workers outside the formal provident fund system can be enrolled now through EPFO's special one-time window. But does it mean they will lose interest on past contributions?
+
+EPFO enrolment campaign for workers left out of PF coverage: Will they lose interest on past contributions?**(AI generated image for representational purposes only)**
+
+Salaried workers who were eligible for provident fund (PF) coverage but remained outside the formal system between April 1, 2009 and March 31, 2026, can now be enrolled under a one-time special EPFO campaign.
+
+The Employees’ Enrolment Campaign (EEC) 2026, open until October 31, 2026, allows employers to voluntarily bring eligible employees under the coverage of benefits such as PF, pension and insurance.
+
+However, to avail of the relief, the employee must be alive and still employed with the establishment when the employer makes the declaration.
+
+The campaign provides employers a simplified route to regularise past PF coverage by paying a nominal fee of and meeting other prescribed requirements, instead of facing potential higher costs and consequences later.
+
+## Who makes up for the lost PF contributions, interest?
+
+A key relief under the campaign is that the employee’s share of EPF contributions will be waived if it was not deducted from wages at the time. This means employees who received their full salary without PF deductions in earlier years will not have to pay those contributions now.
+
+The employer, however, will have to deposit its PF share from the employee’s declared date of joining, along with applicable interest for the past period, administrative charges, and a lump-sum damage of ₹100.
+
+So, employees who were not covered by the Employees Provident Fund Organisation (EPFO) during the prescribed 17-year window will neither lose the contributions, nor the interest that would have accrued otherwise.
+
+## Which employees cannot be declared?
+
+Employees who had already exited the establishment before the date of declaration cannot be declared under the campaign.
+
+EPFO has also clarified that no suo motu compliance action will be initiated against employees who exited the establishment before the declaration, provided the employer submits the prescribed undertaking and meets the conditions.
+
+Salaried employees who believe that they were wrongly left outside EPF coverage should raise the issue with their employer before the campaign closes by the end of this month.
+
+## How to register employees under the scheme?
+
+Employers are required to generate a face authentication-based Universal Account Number (UAN) through the UMANG mobile application for every declared employee. Once the registration is done, the statutory contributions must be remitted through the Electronic Challan-cum-Return (ECR) platform.
+
+As part of the process, establishments have also been asked to conduct internal audits of their employment and wage records to identify individuals who qualify under the eligibility criteria.
+
+The fully digital process for registrations and payments seeks to ensure transparency and avoid any hassle. Employers must carry out all formalities through the designated online portal only.
+
+The campaign can also be used by establishments facing certain quasi-judicial proceedings under the earlier EPF law or the Code on Social Security, subject to the prescribed conditions.
+
+However, eligible employees must should note that the relief on their contribution applies only when it was not deducted from their wages. Employers must therefore ensure accurate payroll reconciliation before calculating and depositing the applicable amount under the campaign.
+
+### About the Author
+
+Eshita Gain
+
+Eshita Gain is a digital journalist at Mint, where she joined in May 2025. She writes on corporate developments, personal finance, markets, and business trends, with a focus on delivering timely and relevant stories to a broad audience. <br><br> While her core beat lies in business and finance, she is not confined to a single niche and frequently explores stories across domains, including international relations and policy developments. <br><br> She holds a postgraduate diploma in business and financial journalism by Bloomberg from the Asian College of Journalism (ACJ), Chennai. During her time there, she received rigorous training in tracking financial data, interpreting corporate filings, and reporting on business developments. She has pursued her graduation from St. Joseph’s University, Bengaluru in a multi-disciplinary course. Her majors included Journalism, International Relations, peace and conflict studies. <br><br> Eshita has previously worked in digital marketing, which enables her to write SEO friendly copies that are clear and engaging. <br><br> Her primary interest lies in breaking down complex subjects and writing clear, accessible copies that inform readers. She aims to bridge the gap between technical financial language and everyday understanding. Outside the newsroom, Eshita enjoys reading non-fiction, and exploring new places, constantly seeking fresh perspectives and stories beyond headlines.
+
+
+---
+
 ## 1 October 2026
 
 ### Pakistan says 22 terrorists killed in Afghanistan strikes amid Taliban row
