@@ -1,3 +1,323 @@
+## 3 October 2026
+
+### Al-Qaida leader's pic, Syrian mother: What we know on flydubai Omani co-pilot
+*India Today News Desk · general*
+
+## The flydubai co-pilot, identified as Hamam al-Hammami, attacked Indian captain Smit Machchhar earlier this week on an Israel-bound flight in an apparent attempt to take over the aircraft and crash it.
+
+The Omani co-pilot has been identified as Hamam al-Hammami by Al Arabiya
+
+New Delhi,Oct 3, 2026 10:51 IST
+
+Photo of al-Qaeda terrorists on social media, alleged visits to radical websites, deeply religious views, and a controversial stint at Oman Air - disturbing details emerging about the Omani co-pilot have raised serious questions about how he found his way into the cockpit of the Israel-bound flydubai flight. The co-pilot, identified as Hamam al-Hammami by Al Arabiya, attacked Indian captain Smit Machchhar aboard flight FZ1073 earlier this week in an apparent attempt to take over the aircraft and crash it.
+
+Since the September 30 incident, scant details have emerged about the co-pilot, who is presently in UAE custody. Israeli Prime Minister Benjamin Netanyahu previously said he "underwent Islamic radical indoctrination" without giving any details. He has now been identified as al-Hammami, born to an Omani father and Syrian mother.
+
+### WHO IS FLYDUBAI CO-PILOT AL-HAMMAMI?
+
+However, al-Hammami spent most of his life in the UAE, according to reports in CBS News and CNN. The Omani government has not officially confirmed his nationality.
+
+Reports indicated it was possible that al-Hamami held dual citizenship. If it is true, it will help explain how he was permitted to serve as a pilot on a flight to Israel.
+
+Oman does not have diplomatic ties with Israel. The Abraham Accords, which normalised relations between Israel and the UAE in 2020, bar pilots from countries that do not have diplomatic ties with Israel from flying into Tel Aviv.
+
+Before joining flydubai around eight months ago, al-Hammami worked for the state-run Oman Air and Royal Air Maroc, the Moroccan national carrier.
+
+He came under scrutiny during his stint at Oman Air for his extremist views. He was also found visiting radical websites.
+
+Amid concerns over his activities, al-Hammami was removed from flying duties and assigned an office job by Oman Air. Desk duty was not much to his liking. He eventually left Oman Air around 2025.
+
+A LinkedIn profile with the name Hamam al-Hammami mentions that he worked with Oman Air for seven years before joining Royal Air Maroc in June 2025. He left the Moroccan carrier in January 2026. However, the page had no mention of flydubai.
+
+India Today, however, could not independently verify if the page belonged to the co-pilot behind the September 30 incident.
+
+However, the timeline matches his stint with flydubai. One of al-Hammami's colleagues told Israel's Channel 16 that he joined flydubai around eight months ago. This means around February 2026.
+
+The pilot further said he was "deeply religious", "prayed a lot" and would not shake hands with women. This was also reported by The Times of Israel.
+
+\- Ends
+
+---
+
+### The flydubai incident: Every bit of it happened
+*Bikram Vohra · general*
+
+Why are we so easily swayed by deception? The flydubai incident is a case in point where sensational fabrication becomes marketable. There is nothing that occurred outside the realm of probability to suspect some sort of gigantic conspiracy involving several disparate elements. The waters were muddied by false and fake video designed to produce shock and horror. And the meme menace.
+
+Lean back a moment and think it out. What is anyone involved getting out of such a lie? Nothing at all. There just aren't any upsides to deliberately creating such a dire situation.
+
+The idea that Israel planned this elaborate scheme to discredit Iran is absurd. That concept is trumped by an ongoing war since February 28.
+
+The other scenario says there is a glass of water on a table that did not fall despite a deep dive of 14,000 feet. That water, if it is actually real, could be kept there after the crisis. If you have just escaped the jaws of death, you could get thirsty.
+
+Much is also being made of oxygen masks not dropping down. For one, there was no loss of cabin pressure, so they did not deploy. Can happen. In September 2008, during a Ryanair flight from Dublin to London Stansted, a tail-strike during take-off led the crew to open a pressurisation valve, causing rapid cabin decompression. When the passenger oxygen system was manually deployed, nine oxygen masks failed to deploy.
+
+An Air Asia Airbus A320 in 2018 suffered a pressurisation malfunction during climb, prompting an emergency descent. Although the crew manually deployed the passenger oxygen masks, several units either did not deploy or deployed without providing masks.
+
+Now let's be sensible. flydubai issued official statements. A physical altercation in the cockpit. A diversion to Tabuk. Everyone safe. Airlines do not admit to mid-air fisticuffs for fun. If they wanted publicity, they'd offer a seat sale. Saudi Arabia backed it up in toto with its parallel enquiry.
+
+The Kingdom's Ministry of Interior investigated and said the co-pilot assaulted the captain. When Riyadh and Dubai are saying the same thing, you sit up and pay attention. You don’t invent a story and get a sovereign government to sign off on it.
+
+### PLANE'S RADAR TRAIL WAS PURE DRAMA
+
+A plunge of roughly 14,125 feet in 29 seconds. That is not a normal flight path. That is a Bollywood climax. You can't fake that with a joystick and a prayer. The radar data is there for anyone with the patience to look. The black box will prove it.
+
+If this was a gimmick, who would dare take a chance like that? Nobody.
+
+You can’t fake a planeload of people. You can't fake an emergency landing. You can’t fake a mayday call and hijacking signals and then pretend it was a setup. That just does not happen.
+
+### TOO MANY GOVTS, PLAYERS INVOLVED
+
+For a deception to work, you'd need three sovereign governments and a commercial airline to lie in perfect harmony. And 174 passengers and crew. Have you ever tried to get three people to agree on lunch? Exactly.
+
+### PASSENGERS REVEALED ALL
+
+They were there. They saw. Their accounts match the core facts. No credible passenger has come forward to say the whole thing was staged. They said it as it unfolded.
+
+The Israeli embassy in Australia publicly called the anti-Semitic "false flag" theories exactly what they are. Rubbish. When even an embassy has to issue a statement, you know the conspiracy is drowning in its own nonsense. Iran's press and TV offered no evidence. Analysts have found none.
+
+### FAKE BBC REPORT SWIFTLY EXPOSED
+
+That purported BBC report implicating the Mossad and India? Entirely fabricated. AI-generated audio. Fake captions. The only thing missing was a laugh track. The existence of a fake report doesn’t discredit the real one. It just proves liars are working overtime.
+
+### VIRAL VIDEO WAS A DEEPFAKE
+
+Old footage of a plane over a city, mixed with real video from inside the flight, and deepfake technology. Fact-checkers pulled it apart like a samosa at tea time. If your evidence is a deepfake, you don’t have evidence. You have a mockery. The fact that multiple false stories competed with each other doesn’t prove a cover-up. It proves that disinformation agents were scrambling to exploit the incident. And probably still are.
+
+The wounded Commander, Captain Smit Machchhar, is in hospital with genuine wounds. That in itself is evidence that the flight went to hell and back. Time to honour the courage and offer thanks, not cook up total nonsense.
+
+\- Ends
+
+(Views expressed in this opinion piece are those of the author)
+
+---
+
+### ‘Vijay Asked Me To Be Brave’: TVK’s Dharapuram Candidate On Stalin Remarks, Social Media Trolling
+*Mallika Soni · general*
+
+Speaking to CNN-News18, Sathyabama said she would not be deterred by the criticism and social media trolling directed at her during the campaign.
+
+[Read full article](https://www.news18.com/india/vijay-asked-me-to-be-brave-tvks-dharapuram-candidate-on-stalin-remarks-social-media-trolling-ws-l-10365349.html)
+
+---
+
+### Narco-trafficking kingpin Navpreet Singh deported from Turkiye: Amit Shah
+*Business Standard · business, entrepreneur, finance*
+
+Union Home Minister Amit Shah said Singh had obtained Turkish citizenship under a fake identity and was involved in smuggling heroin and methamphetamine from Afghanistan to India
+
+[Read full article](https://www.business-standard.com/india-news/narco-trafficking-kingpin-navpreet-singh-deported-from-turkiye-amit-shah-126100300151_1.html)
+
+---
+
+### Hardened narco-trafficking kingpin Navpreet Singh deported from Turkiye: Amit Shah
+*SECTIONS Hardened narco-trafficking kingpin Navpreet Singh deported · business*
+
+New Delhi: Union Home Minister Amit Shah on Saturday said hardened narco-trafficking kingpin Navpreet Singh has been deported from Turkiye.
+
+Terming it a "historic milestone of the Modi government", Shah posted on X that Singh obtained Turkish citizenship under the fake identity of Navab Virk and continued to smuggle heroin and methamphetamine to India from Afghanistan.
+
+  
+
+"Our agencies tracked him down, ripping apart veil after veil to unmask his true identity, and secured his deportation. Today he has been brought back to India and put behind bars in connection with cases involving drug trafficking and other crimes he is accused of. Congratulations to all the agencies for this success," Shah said.
+
+The Modi govt is committed to destroying every narco-cartel before December 2029, he said.
+
+---
+
+### ‘Trust In The Skies’: IAF Shares F-35, Tejas Formation Video From Tarang Shakti | Watch
+*Aanchal Sinha · general*
+
+The video opens with the US F-35 fighter jet flying alongside India’s LCA Tejas, followed by visuals of other aircraft, including the Su-30MKI, C-130J and MiG-29.
+
+[Read full article](https://www.news18.com/india/trust-in-the-skies-iaf-shares-f-35-tejas-formation-video-from-tarang-shakti-watch-ws-klt-10365321.html)
+
+---
+
+### Canadian minister to lead 300-member Trade Mission to India this month
+*SECTIONS Canadian minister · business*
+
+Washington: Canada's Trade Minister Maninder Sidhu on Friday said he was heading to India later this month with a 300 strong business delegation to explore opportunities across sectors in the world's fastest-growing markets.
+
+Sidhu, who met Commerce Minister Piyush Goyal in Milwaukee on Thursday, said India and Canada will start another round of talks with negotiators from New Delhi as part of efforts to conclude the Comprehensive Economic Partnership Agreement by the end of the year.
+
+India and Canada announced a bilateral trade deal in March this year with an aim to expand the bilateral trade between the two countries to USD 70 billion by 2030.
+
+  
+
+"After wrapping up the fourth round of negotiations in Mumbai, I met again with Minister Piyush Goyal at the G20 ahead of the next round beginning October 5 to advance negotiations to conclude towards a deal before the end of this year," Sidhu said in a post on X.
+
+The next round of negotiations on the CEPA are scheduled to start in Ottawa.
+
+"With more than Canadian dollars 30 billion in two-way trade today and a shared goal of reaching Canadian dollars 70 billion by 2030, there is significant room to grow the trade and investment relationship between our two countries," Sidhu said.
+
+The Canadian minister said he was leading a Team Canada Trade Mission to India this month to explore opportunities across sectors in India.
+
+"That's why this month I am leading a Team Canada Trade Mission to India, bringing close to 300 Canadian delegates from businesses across key sectors to make connections, find new customers and pursue opportunities in one of the world's fastest-growing markets," Sidhu said.
+
+He said from critical minerals and energy to agriculture, technology and other sectors where Canada is a global leader, we are helping Canadian companies build partnerships and grow in India.
+
+In a separate post on X, Goyal said he had a "productive meeting" with the Canadian Trade Minister Maninder Sidhu and reviewed the ongoing negotiations for the India-Canada Comprehensive Economic Partnership Agreement (CEPA).
+
+The India-Canada CEPA was launched by Prime Minister Narendra Modi and Canadian Prime Minister Mark Carney in March to take bilateral trade to USD 50 billion by 2030.
+
+"Building on our recent meeting in Mumbai, we reaffirmed our commitment to expediting negotiations and working towards an early conclusion of the agreement," Goyal said.
+
+---
+
+### Pune’s Alandi coaching academy sealed after 8 students drown at Diveagar beach
+*Soham Shah · legal*
+
+Wrote many times to authorities for lifeguard: Gram panchayat
+
+[Read full article](https://indianexpress.com/article/cities/pune/punes-alandi-coaching-academy-sealed-students-drown-diveagar-beach-10904811/)
+
+---
+
+### US man shows how Indian wife left hotel room after checkout, one detail stands out
+*India Today Trending Desk · general*
+
+## A man from the US in Thailand showed a glimpse of the tidy hotel room his Indian wife left behind, including flowers and a thank-you note for housekeepers. The video sparked comments on showing respect to staff and on avoiding stereotypes about Indians abroad.
+
+US man shares glimpse of how his Indian wife left their hotel room after checkout (Photos: @kipcrossing/Instagram)
+
+An American man based in Thailand showed how his Indian wife left their hotel room after their stay, and one thoughtful detail for the housekeeping staff caught his attention.
+
+Instagram user Kip Crossing shared the video on his account, giving viewers a room-by-room look at the space before they checked out. As he filmed, he explained that his wife is from Mizoram in Northeast India and said people from the state are known for being considerate and tidy.
+
+He first pointed out that the room had been left almost immaculate. Then he gestured towards something special near the entrance, where his wife had left flowers for the housekeepers along with a handwritten note thanking them for their hard work.
+
+“Check this out,” he said, pointing out the flowers and note before moving towards the kitchen.
+
+There, he showed that all the dishes had been washed, and the rubbish had been collected into neatly tied bags and placed together in one corner. He then walked through the bathrooms, which had also been left clean and orderly.
+
+As he continued the tour, Kip showed the main bedroom, pointing out the towels neatly placed in one corner and the bed made before moving on to the other room, which had also been tidied up.
+
+Towards the end of the video, he used the example to make a broader point about India’s diversity. “India is such a diverse country with a lot of different cultures,” he said, urging people not to stereotype an entire country based on the behaviour of a minority.
+
+In the caption, Kip referred to recent social-media discussions portraying Indians as lacking civic sense or being messy while travelling abroad.
+
+He argued that such behaviour should not be generalised to everyone from India and said people should be treated as individuals rather than judged by their nationality.
+
+Watch the video here:
+
+The video prompted discussion in the comments, with viewers pointing out that although hotel staff would clean the room regardless, leaving it reasonably tidy can be a way of showing respect for the people doing the work.
+
+Others agreed that paying for a service should not mean abandoning basic consideration, while one Mumbai-based user said they follow the same practice because they see it as simple decency.
+
+\- Ends
+
+---
+
+### Tennessee death row: Christa Pike unconscious, on ventilator after failed lethal injection
+*Express Web Desk · legal*
+
+Tennessee death row inmate Christa Pike is in critical condition on a ventilator after surviving a botched execution attempt involving seven needle attempts and two doses of pentobarbital.
+
+[Read full article](https://indianexpress.com/article/world/christa-pike-tennessee-death-row-unconscious-put-on-ventilator-execution-10904700/)
+
+---
+
+### US 'severely disappointed' in lack of G20 consensus on overproduction
+*SECTIONS US · business*
+
+Washington: The US G20 presidency is "severely disappointed" that some members rejected a statement this week for action against excess industrial capacity, a criticism commonly aimed at China, according to a statement made public Friday.
+
+The United States holds the rotating presidency of the Group of 20 major economies this year, a grouping that also includes China, India, France, Germany and Japan.
+
+But trade ministers failed to reach agreements on countering overcapacity and forced labor after two days of talks in Milwaukee.
+
+  
+
+A draft ministerial statement against excess capacity, seen as driving costs down unfairly, "was supported by all but a handful of members," said top US trade official Jamieson Greer.
+
+This had called on all countries to move to eliminate structural excess capacity in their economies, among other actions.
+
+Greer's chair statement, made public Friday, did not specify which countries disagreed.
+
+But China in September objected to wording in a finance ministers' statement calling for members to "eliminate non-market policies."
+
+Asked about the topic on the sidelines of G20 talks, China's international trade representative Li Chenggang would only say that parties expressed their respective opinions.
+
+G20 members similarly did not reach a common position on eliminating forced labor from supply chains. Only Mexico and Argentina joined the United States to issue a statement.
+
+Earlier this year, Washington cited concerns over forced labor to slap sweeping tariffs on dozens of economies, including G20 members.
+
+But G20 trade ministers "agreed that trade in food and agricultural products should not be used as a tool for economic or political coercion," Greer's statement said.
+
+---
+
+### Omani co-pilot who stabbed Capt Machchhar inside flydubai flight wanted a wife who wears niqab, stops working after marriage which families rejected until they learned he was a pilot
+*Unknown · business*
+
+Omani co-pilot accused of attacking Indian Captain Smit Machchhar inside the cockpit of a Flydubai flight bound for Tel Aviv has been identified as Hamam al-Hammami, according to CNN and other reports. The 29-year-old is now at the centre of an investigation into the September 30 incident, while reports have brought renewed scrutiny on his earlier career, social media activity and alleged extremist views.
+
+A string of deleted tweets is now giving a clearer picture of the man accused of attacking Captain Smit Machchhar inside a Flydubai cockpit. CNN, citing multiple sources familiar with the matter, reported that Hamam al-Hammami had very specific ideas about what he wanted from a future wife, and he had talked about it openly online before the posts were quietly taken down.
+
+According to CNN, al-Hammami wanted a wife who would wear a niqab and give up working once married. His mother had reportedly been searching for a match on his behalf, and the conditions were not an easy sell to most families.
+
+  
+  
+
+### Who is Hamam al-Hammami and where did he work?
+
+CNN reported that al-Hammami was an Omani citizen born in the UAE to an Omani father and Syrian mother. The network said a LinkedIn profile bearing his name showed that he worked for Oman Air for about seven years before leaving in February 2025.
+
+> — IsraelWarRoom (@IsraelWarRoom)
+
+The same profile reportedly showed later employment at Royal Air Maroc from June 2025 until January 2026. CNN said a source familiar with the matter confirmed that the profile belonged to the Flydubai pilot. A university source also told CNN that al-Hammami completed a three-year distance-learning course in aviation management and graduated in 2023.
+
+He later joined Flydubai. An Israeli official told CNN that al-Hammami had worked for the Dubai-based airline for about eight months.
+
+His employment history has now become an important part of the investigation because reports say concerns had previously been raised about his views while he was at Oman Air.
+
+  
+
+### **What Did He Want From A Future Wife?**
+
+CNN reported that one deleted post from February 2022 laid out the terms plainly. His mother was reportedly looking for prospective brides who would agree to wear a niqab and stop working after the wedding. Several families, according to the report, said no at first.
+
+Here is the part that stands out. Once those families learned he worked as a pilot, CNN says some of them reportedly changed their minds. A job title, it seems, was enough to soften conditions that had just been turned down.
+
+### **What Else Did His Old Posts Reveal?**
+
+CNN, cting the same deleted account, the network said al-Hammami had also written about mixed-gender workplaces in a separate post from January 2022. He reportedly questioned what such environments do to women, suggesting that religious women could be, in his words, ruined by working alongside men.
+
+CNN described the overall account, reviewed using an AI powered semantic search tool across nearly 3,000 deleted tweets from 2021 and 2022, as reflecting deeply religious and misogynistic views. That is CNN's characterisation of what it says it found, not an independent judgement being added here.
+
+### **How Does This Fit Into The Larger Investigation?**
+
+CNN's report notes that these posts represent al-Hammami's past online statements, and do not by themselves establish his motive in the Flydubai incident. Strong personal views on marriage and workplaces are simply not the same thing as proof of what happened inside that cockpit on September 30.
+
+What investigators appear to be doing, based on CNN's reporting, is placing these posts alongside other material, including separate posts referencing killing Jews that an Israeli official described to Times of Israel, and alleged anti-Israeli literature reported by i24 News. Officials are reportedly examining whether al-Hammami had been radicalised, a question CNN frames as still under investigation rather than settled.
+
+### **Why Are These Old Posts Surfacing Now?**
+
+The timing is not a coincidence. CNN's report says the deleted posts came to light as part of the wider investigation following the September 30 incident, in which al-Hammami allegedly attacked Captain Machchhar inside the cockpit of a Dubai to Tel Aviv flight. The confrontation reportedly sent the aircraft dropping sharply before crew and passengers managed to overpower him, and the flight made an emergency landing in Saudi Arabia.
+
+With al-Hammami's background now under scrutiny from several directions, his flying record, his social media posts, and his personal views on women and marriage, each piece is adding to a fuller picture of who he was before that flight. CNN's reporting on the niqab and workplace posts is one part of that picture, offered with the same caution the network itself attached to it, that striking personal views are not confirmation of motive on their own.
+
+---
+
+### Gold Rate Today, October 3: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+*Aanya Mehta · legal*
+
+Today's 18, 22 and 24 Carat Gold Prices in Chennai, Bangalore, Hyderabad, Mumbai, Delhi: The gold price in India today stands at Rs 14,918 per gram for 24 carat gold, Rs 13,675 per gram for 22 carat gold and Rs 11,189 per gram for 18 carat gold, as per Good Returns.
+
+[Read full article](https://indianexpress.com/article/india/gold-rate-today-october-3-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10904788/)
+
+---
+
+### 'Historic Milestone': Modi Govt Secures Deportation Of Narco Kingpin Navpreet Singh From Türkiye
+*Mallika Soni · general*
+
+Navpreet Singh has now been brought back to the country and lodged in custody in connection with cases involving drug trafficking and other alleged crimes.
+
+[Read full article](https://www.news18.com/india/historic-milestone-modi-govt-secures-deportation-of-narco-kingpin-navpreet-singh-from-turkiye-ws-l-10365334.html)
+
+
+---
+
 ## 2 October 2026
 
 ### IIT Bombay students announce hunger strike after Sahil’s death, list 10 demands
