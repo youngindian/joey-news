@@ -1,5 +1,317 @@
 # Editorials archive — 2026-07
 
+## 4 July 2026
+
+### Counting cancer: On making cancer a notifiable disease in India
+*The Hindu · Editorial*
+
+What’s good for the goose is surely good for the geese. What the States will benefit from, the country could too. In India, cancer is not a notifiable disease at the national level, keeping with the Health Ministry’s position that such notification is only for communicable diseases. Population-based cancer registries and hospital-based cancer registries are currently the only national tool at the disposal of the Centre to count cancer cases. Unfortunately, these registries cover about 10%-16 % of the population, and have an urban, government health care set-up skew. However, several States have taken the lead on this front, making cancer a notifiable disease within their boundaries. Telangana is the latest to join the list of States that have made cancer a notifiable disease, bringing the total number of States doing so to 17.
+
+With the Global Cancer Observatory (affiliated to the World Health Organization) projecting an estimated increase of 1.05 million cases between 2022 (1.41 million) and 2045 (2.46 million), the rise is expected to be a staggering over 74%. Given these projections, thanks to an increasing life span and ageing demographics, changes in lifestyle and diet, it becomes all the more important to be armed with data and get ready for vanguard action from a public health point of view. While State action can, to an extent, solve the data question, any benefit thus derived from notifying health authorities of every single case of cancer, it cannot become a rubric by which the nation can contour its cancer control programme. Apart from existing registries covering mostly urban and semi-urban posts, care in India is also delivered in good measure through the private sector and that data set is not uniformly captured. The Indian government must pay heed to its own counsel, the Indian Council of Medical Research, National Centre for Disease Informatics and Research (now ICMR-NINE) had recommended that cancer be made a notifiable disease years ago. It is a fact that establishing cancer as a notifiable disease will mean a sudden increase in the number of cases being recorded, but it must not be considered a liability. Instead, it is merely part of the process of crafting a studied, and evidence-based response — health care and information, education, and communication (IEC) — to cancer at the country level. While bold advances in research and treatment methodologies have retrieved cancer from the fear and the utter helplessness surrounding it, the heart of the issue remains the lack of data. Taking lessons from the States, the Centre must recalibrate and make cancer a notifiable disease in India.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/counting-cancer-on-making-cancer-a-notifiable-disease-in-india/article71179346.ece)
+
+---
+
+### ​Manufacturing justice: On the top court, AI use observations
+*The Hindu · Editorial*
+
+But for its serious implications, a judge relying on Artificial Intelligence (AI) hallucinations to arrive at a judicial determination would have been comical. Given the serious miscarriage of justice that such hallucinations can lead to, if used in the judicial processes, the Supreme Court of India has likened it to methyl isocyanate, the poisonous gas that led to the Bhopal gas tragedy in 1984 — “invisible, insidious, and catastrophic by the time anyone notices”. The Court made these observations while setting aside the orders of the National Company Law Tribunal (NCLT) and the National Company Law Appellate Tribunal (NCLAT) in an insolvency case after finding that the NCLT had relied on fictitious AI-generated legal citations, a lapse overlooked by the appellate tribunal. This is the latest in a series of interventions by the Court this year, cautioning against the use of AI-generated fictitious judicial precedents in court proceedings. Through its rulings and oral observations, the Court has consistently adopted a strict and cautionary approach to the deployment of AI in the justice delivery system. On February 27, the same Bench of Justices P.S. Narasimha and Alok Aradhe took cognisance of a trial court relying on AI-generated fictitious case laws and underlined that it was not merely “an error in decision-making” but amounted to judicial “misconduct”.
+
+The Court has made clear that AI may serve as an assistive tool to improve efficiency, but it can never replace independent human reasoning, judicial discretion or professional accountability. In AI, humanity is encountering what many experts fear might well be an existential question. AI disruption is a known unknown — everyone knows that it is happening but nobody quite knows its extent or implications. There is, however, enough evidence of a combination of human stupidity and deliberate design leading to dangerous social outcomes being derived from AI. Human oversight is the essential counter to these dangers. The Court has said that presenting fabricated, machine-generated judgments to a court constitutes professional misconduct for advocates and a serious lapse of duty for judges; and any judgment influenced by an iota of fake or hallucinated AI material is “no decision in the eyes of law”. The draft ‘Regulations for Use of Artificial Intelligence (AI) in Courts, 2026’ prohibits AI in the making of judicial outcomes such as the function of adjudication, sentencing, or deciding bail eligibility and evaluating the credibility of parties or witnesses. Even as the draft is open for public consultation, the Court has directed the Bar Council of India (BCI) to set up a dedicated committee to formulate strict norms and define disciplinary actions for lawyers who cite unverified AI material. Justice must be done and seen; not hallucinated.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/manufacturing-justice-on-the-top-court-ai-use-observations/article71179263.ece)
+
+---
+
+### The Iran conundrum and the decline of the West
+*The Hindu · Opinion*
+
+Ever since 1945, the dominance of the United States and western Europe in world affairs has been taken for granted, largely because of their military power, technological innovations, and financial strength. This situation continued until fairly recently. However, the rise of China, along with the growing prominence of certain “middle powers” in recent years, has begun to dent — though not eclipse — the image of the U.S. as a superpower.
+
+As China’s influence over world affairs has grown, driven by its technological and innovative capabilities and its stranglehold over scarce strategic resources, the supremacy of the U.S. and the West has, however, appeared to wane. Many experts, nevertheless, continued to believe that there was still time before the West faced an effective challenge to its leadership. Concerns had, no doubt, grown about the U.S.’s structural vulnerabilities, though few expected that a country such as Iran would effectively deal a mortal blow to the image of the U.S. as the world’s leading power.
+
+Moving from war to deal in a deeply divided regionThe (now deceased) Iranian Supreme Leader, Ayatollah Ali Khamenei, had once observed that, while Americans constantly threatened war, they lacked “staying power”. This has now become apparent in ample measure. By contrast, in the course of the Iran-Iraq war (1980-1988), Iran’s Islamic regime demonstrated remarkable endurance, resilience, and determination to preserve the regime by all means necessary. U.S. President Donald Trump’s failure to recognise this aspect has since cost him dearly. One leader who is seen to have emerged from the ashes of the U.S.-Iran conflict is Ali Khamenei’s presumed successor, his son Mojtaba Khamenei, who is presently viewed by many as a “living martyr”.
+
+A nation determined to endure and overcomeThe new Iran-U.S. frameworkEven prior to embarking upon substantive negotiations in Switzerland on all contentious issues, the U.S. and Iran entered into an “initial deal” (mid-June 2026) to end the war and reopen the Strait of Hormuz. The announcement of the talks was cautiously welcomed by world leaders, though all agreed that difficult negotiations lay ahead. Prior to the formal talks, a 14-point Memorandum of Understanding was, interestingly enough, signed by Mr. Trump at the Palace of Versailles, France, on June 17, 2026, evoking comparisons with the 1919 Treaty of Versailles, which is widely regarded as having imposed humiliating terms on Germany following the First World War.
+
+Moving from war to deal in a deeply divided regionThe June 17 agreement was widely criticised as little more than a latter-day endorsement of the status quo that had existed prior to the U.S.-Israel strikes on Iran, on February 28, 2026. The terms of the agreement included the reopening of the Strait of Hormuz, the lifting of the U.S. blockade, and a vague commitment by the U.S. and its regional partners to initiate plan, for at least $300 billion, for the reconstruction and economic development of Iran — the U.S. has since declared that no U.S. funds would flow directly to Iran. If so, this commitment could possibly refer to the release of Iranian assets that have been frozen by the U.S. over the years. The agreement also reportedly contains an important pledge by Iran not to develop a nuclear weapon.
+
+The talks in Switzerland soon thereafter seemed little more than a formality, with the U.S. claiming, following their successful conclusion, that it had achieved a major milestone by persuading Tehran to allow inspectors from the International Atomic Energy Agency back into the country, thereby opening a pathway to international monitoring of its nuclear programme. But Iran is said to have told its state media that Tehran had made “no new commitments” on nuclear inspections. The conclusion of the talks appeared to many observers to represent a “desperately needed truce” for the U.S., as it was followed shortly thereafter by the lifting of U.S. oil sanctions on Iran and the issuance of a 60-day waiver authorising the sale and transport of Iranian crude oil and petroleum products.
+
+The U.S.-Iran ‘peace deal’ confronts spoiler IsraelNewspaper headlines across the world had little to say about the deal and instead harped on the enormity of the setback to the image of the U.S. resulting from its coming to terms with Iran. Perhaps the most telling headline appeared on the front page of The Times of India (June 19, 2026): “Versailles II: Trump rushes where historians would dread to tread”. Apart from the fact that the U.S. and its President have been excoriated for what critics have termed the “surrender blunder”, the reality is that the deal has brought the U.S. few tangible benefits.
+
+Intrinsic to, or as part of the deal are several other aspects of considerable interest, apart from sanctions relief for Iran’s oil exports, viz., the possibility of Iran assuming a formal role in managing traffic through the Strait of Hormuz and, (potentially), charging transit fees for passage through the Strait. Questions remain, however, regarding the safety of shipping routes, vessel security procedures, naval protection, and emergency response mechanisms. Many of these issues remain to be clarified.
+
+India’s ‘Israel habit’ meets West Asian realitiesThe deal is important, even though its wording remains inchoate. It is widely portrayed as a deal between unequals, with Goliath having been worsted — or at least caught unawares by David. It also does not read like a standard diplomatic document. The implications of a superpower — the world’s leading nuclear power — conceding ground to a battered Iran are huge and are unlikely to be lost on nations and major powers across the globe.
+
+Israel-U.S. relations fractureIt also entails an important rupture in relations between the U.S. and Israel. Israel Prime Minister Benjamin Netanyahu’s devious plans to inveigle the U.S. in a conflict in West Asia, which was aimed at decimating Iran and establishing Israel’s undisputed supremacy over the region has now become part of the detritus of history. The Israel-U.S. rupture, unless Tel Aviv bends substantially hereafter, could alter power equations in West Asia, leading to either an unsettled peace or further wranglings among Arabs, Iranians and Israelis.
+
+What is also quite plausible is that Iran’s claims to have bested the Great Satan, could lead the new Iranian regime, now increasingly under the tutelage of Islamic Revolutionary Guard Corps (IRGC) hotheads rather than the Ayatollahs, to revive conflicts with other Arab nations, apart from Israel itself. Such ‘adventurism’ could lead to more disparate conflicts in a vital region, which incorporates a critical artery of global energy supplies.
+
+War on Iran | The story of a shipwrecked hegemonMany imponderables are still present. For one, the U.S.-Iran Agreement is almost certain to give a boost to hardliners in Iran who may believe that they have managed to ‘defeat’ the mighty U.S., signalling scope for a still more hardline policy, vis-à-vis not only Israel, the U.S., and other Arab States in the region but also their own people as well. For another, the IRGC, already on the ascendant, could feel more emboldened to act with impunity, having a new Ayatollah identified with it. The impact of all this would be felt not only in Iran but also in countries with large Shia populations, including India. A worsening of Shia-Sunni tensions in different pockets across the globe cannot, therefore, be ignored.
+
+For a third, Israel and its leaders could be expected to behave like ‘wounded tigers’. Their ploy of inveigling the U.S. into supporting their bid for supremacy in West Asia having failed —and with the U.S. President distancing himself from Mr. Netanyahu — they could be expected to embark on a fresh bout of ‘adventurism’, especially with their Arab neighbours and across West Asia. This could aggravate tensions and undermine the fragile peace that has existed since the Abraham Accords. Furthermore, with the U.S. seen as a major loser and its influence across the region set to wane, Gulf nations may be prompted to take a hard look at relying on the U.S. for protection against external threats, including a resurgent Iran. Interestingly, there could also be growing demands to reduce the presence of U.S. troops in West Asia.
+
+Radical groups could regain groundNeither Russia nor China have gained much from the conflict, even as both claim to have supported Iran and some of the other Arab countries. What the world needs to examine closely is whether this level of uncertainty could lead to the re-emergence of well-organised terrorist organisations and entities such as al Qaeda, capable of even greater destruction than their forebears. They could well become the forerunners of many more disparate Arab groups and forces centred in West Asia, capable of extending their activities from Africa and parts of Asia to Europe, if not the U.S. itself.
+
+M.K. Narayanan is a former Director, Intelligence Bureau, a former National Security Adviser, and a former Governor of West Bengal
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-iran-conundrum-and-the-decline-of-the-west/article71179900.ece)
+
+---
+
+### Anita Katyal | Yogi Left To Face Ayodhya Music... Will Venugopal Be Next Cong Prez?
+*Deccan Chronicle · Opinion*
+
+The large-scale theft of donations at the Ram Mandir in Ayodhya has predictably dominated newspaper headlines and has been the subject of animated debates on television news channels. Reactions expressing anger and disbelief have been pouring in while political parties, especially the Congress and the Samajwadi Party, have been seeking accountability from Prime Minister Narendra Modi since he had handpicked the members of the trust which manages the Ram Mandir. Even as accusations and allegations are flying thick and fast, the Bharatiya Janata Party’s top brass has maintained a studied silence on this burning issue. That there has been no word from Mr Modi or any other senior party leader appears surprising since the Ram Mandir movement was at the heart of BJP’s agenda and the construction of the temple was touted as the party’s biggest achievement. However, BJP insiders maintain the party’s response, or rather lack of it, is actually a well-thought-out strategy to keep Uttar Pradesh chief minister Yogi Adityanath in the spotlight through the raging controversy.
+
+While everyone else has deliberately taken a backseat, Yogi has been left to respond to questions about enquiries, FIRs and arrests. Incidentally, this decision to remain silent is also being viewed as a fall-out of the known tensions between Yogi and home minister Amit Shah. Another theory is that the “chanda chori” campaign is being conveniently used to put Yogi down as he is seen as a possible future prime ministerial contender along with Maharashtra chief minister Devendra Fadnavis.
+
+When the media splashed reports about an alleged land scam involving Madhya Pradesh chief minister Mohan Yadav’s extended family, it was expected that the Opposition would hit the streets and run a full-scale campaign on this issue. But from all accounts, the Congress has failed to do so. The state Congress chief Jitu Patwari did hold a press conference demanding Mr Yadav’s resignation and a probe by a sitting Supreme Court judge while the Congress Party’s Delhi office has held a few press briefings on the subject.
+
+But the Congress has been unsuccessful in pinning down Mr Yadav. Instead, the Congress state unit has got caught up in factional battles. A few state Congress leaders, including former Madhya Pradesh chief minister Digvijaya Singh, even sought to play down the controversy by going soft on the chief minister. Reports from Madhya Pradesh suggest that the growing discontent with Mr Patwari has stymied efforts to mount a campaign against the chief minister. A section of the state unit is convinced that Mr Patwari’s press conference was nothing more than an act as he is known to be on friendly terms with the chief minister. Patwari’s camp followers, however, charge that Digvijaya Singh is not allowing the party’s campaign to pick up speed.
+
+As a result, a divided Congress is busy waging war against its own instead of putting up a joint fight against Mohan Yadav.
+
+After a series of meetings, the Congress finally unveiled the party’s election-related committees for Punjab last week. There had been considerable chatter when these discussions were underway that former chief minister and the party’s well-known Dalit face Charanjit Singh Channi would replace Amrinder Singh Raja Waring as the president of the party’s state unit. As these reports gained traction, there was a major revolt in the party with many leaders going into sulk mode while others openly threatened that they would not contest next year’s assembly polls if Mr Channi was given charge of Punjab Congress. These threats posed a big problem for the Congress leadership which held as many as eight rounds of meetings to discuss the organisational structure for assembly polls. It is clear from the final announcement that the threats worked as Waring has been retained as Punjab Congress chief while Pratap Singh Bajwa is to continue as leader of opposition. Mr Channi has been given charge of the campaign committee. The effort here has been to accommodate all the main players but, in the process, the Congress has also created some confusion about its chief ministerial face as Waring, Mr Bajwa and Mr Channi all see themselves as contenders for the top job.
+
+Each time the Congress organises any public meeting, the posters and billboards adorning the stage or plastered across the venue, feature photographs of Congress president Mallikarjun Kharge, Sonia Gandhi, Rahul Gandhi and could even include Priyanka Gandhi Vadra. Lately, it has been noticed by many party leaders that another photo is being increasingly featured in the publicity material for a party programme. The new face is none other than of the all-powerful K.C. Venugopal, Congress general secretary in charge of organisation and more importantly, known to be close to Rahul Gandhi. This is a clear signal that despite all the complaints about him, Mr Venugopal’s stars are on the ascendant. Congress insiders maintain they will not be surprised if Mr...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/anita-katyal-yogi-left-to-face-ayodhya-music-will-venugopal-be-next-cong-prez-1968393)
+
+---
+
+### Pavan K. Varma | If Passports Not Proof Of Citizenship, What Is?
+*Deccan Chronicle · Opinion*
+
+As a diplomat, I have been posted abroad and travelled the world.
+
+In doing so, the passport I have held, declaring me to a citizen of the Republic of India, an emerging major power and a great civilisation, is a matter of abiding pride for me. I was, therefore, perplexed why the ministry of external affairs (MEA) recently announced that a passport is not proof of citizenship.
+
+The government must have its reasons, but for decades Indians have understood that a passport was a solemn affirmation that the holder was a citizen of India. The process of obtaining it requires extensive pre-checks. Applicants must furnish documents, establish identity, provide proof of residence and undergo police verification. The passport was issued not merely because a person wished to travel abroad, but because the state was satisfied that he or she belonged to India. In fact, Section 6 (2) (a) of the Passport Act specifically says that a passport can only be issued to a citizen of India.
+
+Indeed, the emotional significance of the document went beyond its administrative utility. It represented a bond between the individual and the nation. For millions of Indians travelling overseas, it was not merely a booklet but a declaration of identity and belonging. It is true, of course, that passports can be fraudulently obtained by concealing facts, forging documents, or misrepresenting identities. In such situations, the State has every right to cancel the passport, and prosecute the offender. But the existence of fraudulent passports should not normally be used to negate the basic presumption that a valid passport issued through due process is evidence of citizenship.
+
+Many citizens have asked me which document is now proof of citizenship. Election cards can be obtained fraudulently. Ration cards can be manipulated. Aadhaar cards can be misused. Property documents can be forged. The issue becomes more troubling when viewed against the larger backdrop of documentation in India today. Aadhaar is not proof of citizenship. Election cards are not proof of citizenship. Ration cards are not proof of citizenship. Birth certificates are often challenged on procedural grounds. Now, if passports too are not proof of citizenship, the inevitable question arises: what exactly is proof of citizenship?
+
+A modern State cannot function on the basis of ambiguity. Citizenship is not a philosophical abstraction. It is the foundational status upon which all constitutional rights ultimately rest. Before one can exercise the right to vote, claim legal protections, seek government benefits, or enjoy the privileges guaranteed by the Constitution, one must first be recognised as a citizen.
+
+If no commonly accepted document conclusively establishes this status, the burden shifts decisively from the State to the individual. Instead of the State certifying citizenship through its institutions and documents, the citizen is compelled repeatedly to demonstrate that he belongs.
+
+This inversion is, to my mind, very problematic. When the State reserves for itself the right to question citizenship despite having issued documents that traditionally established it, the citizen enters a zone of unacceptable uncertainty. He possesses papers, yet the papers may not suffice. He complies with procedures, yet compliance offers no finality. If citizenship remains perpetually contestable, discretionary powers inevitably expand. Officials acquire greater authority to demand additional proof. Citizens become vulnerable to arbitrary interpretation and bureaucratic satisfaction.
+
+In many countries, including the United States, the United Kingdom, Canada, Australia, and most European nations, a passport is generally accepted as strong evidence of citizenship, precisely because citizenship is ordinarily verified before issuance. This does not mean that passports are infallible. Governments retain the authority to revoke passports obtained through fraud or mistake. But the ordinary citizen carrying a valid passport is not expected to live under a permanent cloud of doubt regarding his nationality.
+
+The principle is straightforward. Verification occurs before issuance. Once the document is issued, the presumption operates in favour of the citizen unless compelling evidence establishes otherwise.
+
+History teaches us that whenever discretion expands at the expense of clearly defined rights, the balance tilts away from the citizen. Democracies are strengthened not by enlarging uncertainty but by reducing it. The State must certainly guard against fraud, illegal migration and identity manipulation. These are legitimate concerns. But the remedy lies in strengthening scrutiny at the point of document issuance, improving verification mechanisms, integrating databases, and enforcing penalties against deception.
+
+A passport occupies a unique place in the hierarchy of official credentials. It is granted after multiple layers of verification. It is recognised internationally. It is accepted by...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/pavan-k-varma-if-passports-not-proof-of-citizenship-what-is-1968412)
+
+---
+
+### Shashi Warrier | How Certificates Can Become Big Business
+*Deccan Chronicle · Opinion*
+
+Ex-professor Raghavan turned up one evening, looking careworn and despairing. “What’s up?” I asked, seating him and fetching him a large drink.
+
+“I don’t think we’ll ever have a good education system in this country!” he said.
+
+Prita joined us with snacks. “Why?” she asked as he helped himself. “You’ve seen how well graduates from our better universities do when they go abroad.”
+
+“They’re the exceptions,” Raghavan replied. “They’re mostly the best products of the IITs. They’re the best one per cent of the best one per cent. The average degree-holder from the average Indian university is unemployable.”
+
+“Hasn’t it been like this for the last fifty years?” asked Prita.
+
+“Yes,” replied Raghavan. “But the system’s getting worse. You know about the Neet question papers leak.”
+
+“What about the New Education Policy of 2020?” she asked.
+
+“People think that the new policy caused the leak,” said Raghavan.
+
+“How could that be?” asked Prita.
+
+With the new policy,” said Raghavan, “the government introducted centralised exams like Neet and CUET. That’s given birth to a new range of institutions that coach students for these exams. More and more people who can afford it — and some who can’t — are shifting to private schools and coaching classes with centralised curricula that train youngsters specifically for these tests.
+
+“The NEP said that it’s about testing ‘core competencies’, whatever that is, and not ‘rote memorisation’, whatever that is… But what it’s really gone and done is create more coaching classes. And, of course, they’re more competitive than ever.”
+
+The doorbell rang just then, and, when I opened the door, there was Murthy on the doorstep, leading with his nose for Scotch, as usual. “I was passing by…” he began.
+
+“Come right in,” I said, interrupting him. “Raghavan’s already here, upset and consoling himself in the usual manner, and I’ll get you your drink right away.”
+
+“It’s been difficult all round,” said Murthy. “Let’s see what we can make of Raghavan’s problem.”
+
+I went off to the kitchen to fetch refreshments and a glass for Murthy while Prita and Raghavan brought Murthy up to date with Raghavan’s complaint. As I handed Murthy his glass and a napkin, Raghavan began telling us all why it all happened. “The education policy has got it backwards,” he said. “We should have started with schools before we moved on to colleges. If you have poor schooling standards there’s no kind of policy that’s going to make sure that college education will be good.”
+
+“But who decides what schools teach,” asked Murthy, “and how they run examinations?”
+
+“State governments,” replied Raghavan.
+
+“That’s part of the problem,” said Murthy. “Unless states follow a broadly uniform school education policy, how can the central government implement a working higher education policy across the country? So it’s not that easy.”
+
+“It isn’t,” said Raghavan, “so what do you propose we do?”
+
+“I haven’t proposed anything,” said Murthy, “and I won’t.”
+
+“Why not?” asked Raghavan.
+
+“Because no education policy is perfect,” replied Murthy. “We live in an electoral democracy, so the opposition will always oppose any education policy. You see, people vote for politicians they like, and, broadly, they get what they asked for.”
+
+“What do you mean?” asked Raghavan.
+
+“I mean that people want to go through school and college without trouble,” said Murthy, “and, at the end of their education, get jobs with good salaries, healthcare, regular raises, a pension at the end of it… No party or leader can deliver that.”
+
+“So?” asked Raghavan.
+
+“A working education policy would teach kids to think,” replied Murthy, “and they’d figure this out for themselves, and maybe vote for someone different. No politician wants that. So there’s no way you’re getting an education system that makes students capable of thinking critically.”
+
+“What about the problems with the present system?” asked Raghavan.
+
+“Remember the Roman poet, Juvenal?” said Murthy. “He talked about how the emperor gave the masses just enough bread to survive, and distracted them with circuses. Well, this Neet paper leak is one of the circuses…”
+
+“What do you mean?” asked Raghavan.
+
+“Only a few people, committed teachers like you and maybe a few journalists and others,” replied Murthy, “want a better system. Others might want it, but they prefer distractions like the Neet scandal, or that shootout in Patna between the founders of the two most popular coaching centres in the city. That’s the big circus. The public wonder who’s going to win: Khan Saheb or Roshan Anand. Like a cricket match.”
+
+“But that’s mafia violence!” said Raghavan. “What’s that got to do with education policy?”
+
+“Where there’s money there’s mafia,” replied Murthy. “Their touts work with coaching centres. A few days before the examinations, they spread rumours that the paper’s been leaked, that it can be had for a certain large sum of money. Anxious parents pay large amounts of cash to touts, who give them papers that look like the...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shashi-warrier-how-certificates-can-become-big-business-1968408)
+
+---
+
+### India, Japan in a strategic axis
+*Deccan Herald · Editorial*
+
+India and Japan have further strengthened their decades-long bilateral relations following the visit of Prime Minister Sanae Takaichi. Economic and technological cooperation remain the core dimensions of the relationship, marked by billions of dollars in Japanese investments.
+
+Now, there is a growing emphasis on cooperation in defence and security. The visit yielded 16 major outcomes, emphasising the deepening mutual connection. Notably, Indian and Japanese companies signed 129 memorandums of understanding spanning technology, investment, and artificial intelligence.
+
+Japan is expected to invest $1 trillion in India. The two nations have adopted a roadmap for economic security, focusing on critical minerals and semiconductors. To further boost bilateral trade, they have also agreed to review their 15-year-old Comprehensive Economic Partnership Agreement (CEPA).
+
+One of the key outcomes of the three-day visit was Prime Minister Narendra Modi’s announcement of the first co-development defence project involving the two countries: the Unified Complex Radio Antenna (UNICORN). Modi noted that the new collaboration would help build defence technologies supporting regional peace, maritime security, and a rules-based order.
+
+Prime Minister Takaichi highlighted maritime security as central to stability in the Indo-Pacific region, noting that Japan’s vision for a Free and Open Indo-Pacific (FOIP) aligns with India’s belief that the ocean is a shared space vital for sustaining growth and sovereignty.
+
+India, Japan seal warship stealth deal, raise concerns over militarisation in East and South China seasThe two sides also committed to deepening defence ties, agreeing to expand cooperation through joint military exercises, along with the transfer and sale of defence equipment and technology, reinforcing a broader strategic partnership.
+
+The renewed focus on the India-Japan relationship must be seen in the context of a rapidly changing geopolitical landscape in the Indo-Pacific. The region is witnessing growing uncertainty over the direction of the United States’ policy, particularly its approach to China and the future of security commitments to its allies.
+
+Washington’s decision to rename the Indo-Pacific Command (INDOPACOM) back to Pacific Command (PACOM), coupled with perceptions that the Quadrilateral Security Dialogue (Quad) has received less strategic attention, has raised questions about the durability of the existing regional security architecture. President Donald Trump’s recent visit to China has heightened speculation about possible shifts in US priorities.
+
+For countries such as Japan, whose security has long depended on the US alliance, these developments have revived concerns about strategic reliability. India also faces challenges from China’s assertions.
+
+Stronger India-Japan ties present the two Asian powers an opportunity to enhance regional stability, while strengthening strategic autonomy and shared security interests.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/india-japan-in-a-strategic-axis-4061490)
+
+---
+
+### Quarry safety demands relentless oversight
+*Deccan Herald · Editorial*
+
+The death of seven labourers at a stone quarry near Tavarekere, on Bengaluru’s outskirts, is the result of criminal negligence and a collapse of regulatory oversight.
+
+The victims, who had travelled from Madhya Pradesh, Chhattisgarh, and Karnataka’s Yadgir district in search of a livelihood, paid with their lives for a system that consistently places profit above human safety.
+
+Their families, who depended on them, are now left to bear an irreparable loss. The quarry owner undoubtedly bears primary responsibility. But to stop there would be to ignore the larger machinery of official complicity. The Department of Mines and Geology must also share the blame.
+
+If workers were made to labour beneath unstable rock faces without helmets, harnesses or basic protective equipment, where were the inspecting officers? Equally answerable is the Labour Department, whose officials are entrusted with enforcing workplace safety, labour welfare, and statutory protections.
+
+Regulatory failure on this scale does not occur overnight; it is the product of inspections that never happened, violations that were overlooked, or worse, ignored.
+
+Rescue personnel described the labourers as being treated like “slaves”. They were reportedly assigned to zones already flagged as dangerous after earlier blasting, while living in makeshift shelters beside the crushing units. It is difficult to imagine a more blatant violation of labour and human dignity.
+
+The government must also determine whether these workers were registered under applicable labour laws and covered by mandatory accident insurance. If not, the violations extend into wilful exploitation. Residents had reportedly raised repeated complaints about the quarry’s operations and safety record.
+
+Bengaluru quarry tragedy | Fire officials expose deadly safety lapses, say workers were 'treated like slaves'Local MLA S T Somashekar has said he raised the matter in the Assembly and before the Petitions Committee on multiple occasions, yet no action followed. Unsafe quarrying on this scale rarely survives without administrative protection.
+
+This is not an isolated tragedy. In December last year, a lorry driver lost his life after his tipper plunged into a gorge inside an illegal stone quarry in Mandya district. The government has ordered statewide safety audits and temporarily suspended quarry operations.
+
+A few notices will be issued, some inspections conducted, and within weeks, business will resume as usual. These reactive gestures have become the hallmark of governance. What is needed is relentless enforcement and continuous monitoring. Jurisdictional officers of both the relevant departments must be held responsible for safety violations.
+
+Unless negligent officers are prosecuted alongside errant quarry owners, more workers will continue to lose their lives to systemic indifference.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/quarry-safety-demands-relentless-oversight-4061484)
+
+---
+
+### Reframing copyright for the AI age
+*Deccan Herald · Opinion*
+
+A huge amount of litigation is happening across the world on the use of copyrighted works by generative AI companies. In India, the Delhi High Court has been hearing the ANI v. OpenAI case, which involves different creative industries fighting together against OpenAI.
+
+The Court is due to announce its decision on an interim injunction against OpenAI anytime now. While the resistance by creative industries is remarkable, litigation cannot resolve the challenge they face. The real difficulty is not copyright breach or the limits of fair use. It is that the dispute itself lies beyond what a court can resolve.
+
+This dispute requires revisiting copyright law, and only Parliament can meaningfully resolve it.
+
+Copyright law draws a line between two kinds of use. First, using a work for its expression. This includes adapting a novel into a film, translating a book, or publishing a sequel. This is protected as the author’s market, and any use requires a licence. Second, using a work for some other purpose.
+
+This includes using the copyrighted work to criticise it, study it, teach it, or take inspiration and produce something transformative. In this use, there is no reselling the author’s expression. It is considered fair dealing. For a century, every copyright fight was a fight about which side of that line a use fell.
+
+Which side does AI training fall on? If a large language AI model reads a novel, it does not consume the expression. It extracts statistical patterns and uses the book as data. This is the second kind of use: fair and legally non-protectable.
+
+But ingesting the book as data, the AI model can produce many books in the author’s voice and compete with them. This is the first kind of use, the kind that is protected and requires a licence.
+
+This is the heart of the matter. AI models use protected work as data, which is permissible, to build something that competes in the market for the protected expression. The law has no resolution for this. It is not that the law was drafted badly. It was just drafted for a different world. The Copyright Act 1957 was passed in a world of human-scale where the line between using a work’s expression and using it for other purposes never had to bear much weight. This world is gone and is being replaced by a technology that lives right on the line.
+
+Accordingly, there is a need to strike a fresh bargain on what deserves protection and what can be considered fair dealing. The Court will have to choose between infringement and fair dealing for something which is neither. Therefore, it is time to strike a fresh bargain, and it is the Parliament that represents the society on such questions. The Department for Promotion of Industry and Internal Trade released a working paper presenting the government’s position on this bargain. It concludes, correctly, that the old deal does not fit.
+
+However, the government has proposed a mandatory, retroactive, blanket licence: train AI models on whatever you like, and pay a slice of your revenue into a central pool that a new collecting body distributes to rights-holders. This solution is destined to fail not only because it cannot capture training that happens outside India. But also, its stated goal to sustain human creativity by collecting royalties for human creators and dividing it amongst them cannot produce sizeable incentives. The aggregators will collect; the writer, photographer, or musician will not meaningfully benefit.
+
+The working paper erroneously treats the harm as occurring at the moment of training. But training, in itself, harms no one. A model that reads every newspaper and sits in a vault injures no publisher. The harm arrives when the model generates work that substitutes for the human work it learned from. This threatens the journalist, the novelist, the composer. This is the competition that can hollow out a creative economy.
+
+We are pouring effort into licensing the input, where the act is borderless, and the harm is speculative. On the other hand, the output where the harm is real and concrete goes largely unaddressed. It is as though we set out to tax the reading of books to protect authors from plagiarism, and left the plagiarism itself untouched. We need to revisit this problem with honesty. It means aiming at where the harm actually lands, not where it is easiest to install a tax.
+
+(The writer is a dual- qualified lawyer [India and UK] and teaches law at Cyril Shroff Centre, Jindal Global University)
+
+[Read full article](https://www.deccanherald.com/opinion/reframing-copyright-for-the-ai-age-4061487)
+
+---
+
+### India’s cities drown in neglect
+*The New Indian Express · Opinion*
+
+This is not nature’s fury alone. It’s the predictable, man-made catastrophe born of corruption, indifference and criminal neglect by those sworn to serve. It’s an annual festival of fatalities caused by failures on all fronts. India has been pushed into an engineered paralysis.
+
+India’s urban landscape is governed by more than 250 municipal corporations and thousands of municipal councils and nagar panchayats. These bodies—bloated with babus, contractors and politicians locked in a rotten nexus—have presided over the systematic collapse of civic life. Every monsoon exposes their failure with brutal clarity.
+
+Consider the deluges that have become annual rituals. In 2005, Mumbai’s streets swallowed more than 1,000 lives as the Mithi river and silted drains failed spectacularly. Chennai in 2015 saw three-fourths of the city submerged, displacing over 500,000 people amid choked waterways and vanished wetlands. Delhi, Bengaluru, Hyderabad and countless tier-2 cities repeat the horror yearly—water-logging that electrocutes pedestrians, stalls traffic for days and turns homes into cesspools. Major drains in Mumbai, Chennai and Delhi lie completely silted, their desilting either botched or abandoned.
+
+Newly-laid “world-class” roads crack within months, victims of substandard material, kickbacks and zero maintenance. Traffic in tier-2 cities has become a daily apocalypse. Poor road engineering narrow lanes, missing signals, chaotic junctions combined with lazy, bribe-hungry traffic police creates gridlocks that devour hours and fuel.
+
+Ambulances crawl while patients die. The stench of failure hangs everywhere. Piling garbage chokes roads and pavements because municipal agencies have no scalable solution for waste amid a real-estate boom that spews construction debris and household refuse.
+
+The Swachh Bharat Mission, once hailed as transformative, lies in tatters. Celebrity ambassadors and local volunteers have vanished. Landfills in major cities remain uncleared in many cases; segregation is inconsistent; processing claims mask overflowing dumps and toxic leachate. Big cities routinely rank poorly in cleanliness surveys. Foreign visitors increasingly skip India or cut short trips, repelled by the filth that greets them at airports and follows them everywhere.
+
+The Smart Cities Mission, meant to revolutionise 100 urban centres with modern infrastructure and technology, has been all but forgotten. After extensions and over Rs 1.5 lakh crore used by early 2025 across thousands of projects, only a handful of cities achieved anything close to transformation.
+
+Data from the Council for Active Mobility shows that only 9-20 percent of footpaths in major Indian cities meet official standards. Vast majorities are encroached by hawkers, illegal parking, shops and debris. Illegal construction is the cancer eating our cities alive. Far more unauthorised buildings rise every year than approved ones in many cities. They violate every fire-safety norm, lack emergency exits and proper structural integrity.
+
+In Delhi alone, the municipal corporation booked 4,766 unauthorised constructions in 2025 and issued thousands of demolition orders. Nationwide, structural collapses linked to illegal or substandard buildings have caused thousands of deaths in recent years. Fire accidents tell an even grimmer tale: in 2024, the National Crime Records Bureau recorded 5,971 fire accidents that claimed 5,888 lives—nearly 16 deaths every single day.
+
+Authorities wake up for a few days of token action after each tragedy and then slip back into slumber. The nexus between babus, contractors and politicians ensures violators escape with nominal fines or political protection. At the rotting core of this national disgrace stands the highly-protected Indian bureaucracy—the IAS officers, state civil servants and municipal commissioners who enjoy near-impenetrable job security under service rules that render dismissal virtually impossible even for gross negligence or corruption. These mandarins, cocooned in their air-conditioned offices and fortified by Article 311 protections, routinely receive promotions, foreign postings, gubernatorial sinecures and fat pensions while the cities they were meant to serve degenerate into open sewers.
+
+They sign off on illegal constructions that violate every safety code, ignore decades of silt accumulation in critical drains, rubber-stamp shoddy road projects that collapse in the first monsoon, and preside over the criminal mismanagement of garbage and footpath encroachments.
+
+While citizens drown in sewage, get electrocuted on flooded roads and lose loved ones in building fires, these bureaucrats climb the career ladder with clockwork regularity, collecting salaries, perks and assured retirement benefits as if the rotting infrastructure were someone else’s problem. Even official reports have exposed the pathetic conditions of Indian cities. According to an assessment of 4,589 urban local bodies done under Swachh Survekshan, 3,642 including Greater Mumbai and Bengaluru scored zero out of 1,300 allocated for the garbage-free city metric.
+
+They thrive on the very decay they create. They are fully protected by both the rules and the political rulers. While the civic agencies and the protected bureaucracy have failed the nation, ordinary Indians are equally responsible for making India dirty and chaotic.
+
+They keep their homes spotlessly clean, yet casually throw garbage on roads, indulge in illegal construction, encroach upon pavements and drains. Even NGOs engaged in promoting green and clean India spend more time of promoting technologies and products than guiding the citizens to about cleanliness.
+
+Citizens cannot demand accountability from the system while they themselves perpetuate filth, chaos and corruption through their own actions. A total, uncompromising ban on illegal construction must be enforced with immediate demolitions and criminal prosecutions. Long-term jail terms, not fines, for violators, builders, complicit officials and politicians must be put in place. Civic engineers and municipal officers who enable encroachments or approve unsafe structures must face dismissal, blacklisting and prosecution. The Centre must impose binding model civic plans on all states, with real-time monitoring and funding linked to performance. The toxic nexus must be shattered through independent oversight, asset disclosures, swift transfers and exemplary punishment.
+
+Both the authorities and the citizens must face ruthless accountability. Without radical, immediate action, India risks being branded as the dirtiest major nation. Indian cities are drowning literally and figuratively. The monsoons will return. The question is whether India will finally wake up before the next body count rises. The time for excuses is over. The time for ruthless accountability is now.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Jul/04/indias-cities-drown-in-neglect)
+
+---
+
 ## 3 July 2026
 
 ### A hold on AI: on the Preliminary Report of the Independent International Scientific Panel on AI
