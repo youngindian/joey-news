@@ -1,3 +1,336 @@
+## 4 October 2026
+
+### A for Alert, B for Bunker: How Maharashtra’s school kids are learning disaster ABCs
+*Purnima Sah · legal*
+
+It began as an alphabet a disaster management officer made for his toddler. Now it's in government classrooms across Maharashtra, teaching children words like evacuation and tsunami warning.
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/mumbai-a-for-alert-b-for-bunker-palghar-officials-disaster-management-chart-maharashtra-schools-10905937/)
+
+---
+
+### Delhi: Three women journalists allege sexual harassment during protest, crime branch to probe
+*SECTIONS Delhi Three women journalists allege sexual harassment during protest · business*
+
+New Delhi: The complaints from three women journalists alleging sexual harassment during protests in the national capital have been received, Delhi Police said on Sunday.
+
+The complaints have been made against police personnel.
+
+"On 03-10-26, during the protest in New Delhi area, while being in law and order situation, allegations of sexual harassment were made by three female journalists against police officers. New Delhi District has received their complaints," Delhi Police informed on X.
+
+  
+
+Delhi Police said the complaints are being transferred to the Crime Branch, Kamla Market.
+
+"Same are transferred to Crime Branch for fair and impartial enquiry," police added.
+
+The Leader of the Opposition in the Lok Sabha, Rahul Gandhi, on Saturday accused Delhi Police of misconduct at Jantar Mantar, alleging that a female journalist was subjected to misbehaviour by a police officer. The protests were being held in the national capital against Chief Election Commissioner Gyanesh Kumar.
+
+Holding the Home Ministry accountable for the actions of the Police, Gandhi questioned the Home Minister, stating, "Amit Shah ji, where are you? You have to answer for this."In a post on X, Gandhi said that hundreds of journalists had been sitting at Jantar Mantar for hours demanding registration of an FIR."
+
+Gandhi said women across Delhi and students were gripped by fear for their safety and were staging satyagraha, while the police responsible for protecting women were raising hands against them.
+
+He further alleged that hundreds of people were taken into custody at Jantar Mantar on Saturday, and there were allegations of misconduct with women protesters.
+
+Delhi Police on Saturday detained several members of the All India Students' Association (AISA) during a protest near Jantar Mantar against Chief Election Commissioner (CEC) Gyanesh Kumar, as demonstrations over the Special Intensive Revision (SIR) of electoral rolls continued in the national capital.
+
+Several protesters, including AISA president Neha Bora and senior advocates Prashant Bhushan and Kapil Sibal, attempted to breach police barricades near Jantar Mantar and move forward.
+
+Meanwhile, Delhi Police have registered at least three FIRs in connection with the mass protest held near Jantar Mantar on October 2. Two FIRs were registered at Parliament Street (Sansad Marg) Police Station and one at Connaught Place Police Station.
+
+---
+
+### Can economics explain human beings? Antara Haldar’s Everyman takes on the ‘rational’ man
+*Pratap Bhanu Mehta · legal*
+
+Written in part as intellectual history, part fable, Everyman is meant to be an indictment of economics, of a world caught up in its own limitations
+
+[Read full article](https://indianexpress.com/article/books-and-literature/can-economics-explain-human-beings-antara-haldars-everyman-takes-on-the-rational-man-10905929/)
+
+---
+
+### ‘One last fight left in me’: Smit Machchhar details cockpit attack, fight to open door
+*Shubhajit Roy · legal*
+
+Recovering in an Abu Dhabi hospital, Indian pilot Smit Machchhar told Israeli PM Benjamin Netanyahu how he fought through blurred vision to open the cockpit door, allowing the crew to intervene.
+
+[Read full article](https://indianexpress.com/article/india/flydubai-cockpit-attack-indian-pilot-smit-machchhar-benjamin-netanyahu-call-10905941/)
+
+---
+
+### Delhi CM Rekha Gupta lays foundation of waste processing, biogas plant; inspects Okhla landfill
+*Majid Alam · legal*
+
+Delhi generates around 13,500 tonnes of municipal waste every day, while MCD currently processes around 60 per cent of the waste generated in the city.
+
+[Read full article](https://indianexpress.com/article/cities/delhi/delhi-cm-rekha-gupta-lays-foundation-of-waste-processing-biogas-plant-inspects-okhla-landfill-10905938/)
+
+---
+
+### Honda Elevate Facelift launch on October 6: Expected price, new features, design changes and more
+*Trending Desk · business*
+
+Honda Cars India has released another teaser of the upcoming Elevate facelift, offering a closer look at some of the SUV's exterior updates ahead of its October 6 launch. Pre-bookings for the updated model have already started.
+
+## Honda Elevate facelift: New front design revealed
+
+The latest teaser highlights changes to the front section of the SUV. The facelift will feature horizontal, segmented LED DRLs integrated into the grille, giving the front-end a revised appearance.
+
+Honda has also repositioned its logo, moving it from the grille to the bonnet.
+
+  
+  
+
+## Honda Elevate facelift: 360-degree camera to be offered
+
+The teaser also confirms the presence of a 360-degree camera, indicating that the facelifted Elevate will receive an upgrade to its equipment and technology package.
+
+However, not all exterior elements are expected to change. The SUV is likely to retain its existing LED headlamps, eyebrow-style DRLs and 17-inch alloy wheels.
+
+  
+
+## Honda Elevate facelift: No major mechanical changes expected
+
+The Honda Elevate facelift is not expected to receive significant mechanical updates. As a result, the SUV is likely to continue with the existing powertrain options.
+
+Honda is expected to reveal more details about the updated model at its launch.
+
+## Honda Elevate facelift launch and expected price
+
+Honda will officially launch the updated Elevate on October 6, with its prices also set to be announced on the same day.
+
+The current Honda Elevate is priced between Rs 15.30 lakh and Rs 20.50 lakh (ex-showroom). The facelift's final pricing will be disclosed at the time of launch.
+
+---
+
+### Spotify deletes most of a song's data. Your ears let it get away with this
+*Radifah Kabir · general*
+
+Take any carriage of the last Metro out of Rajiv Chowk. It is nearly midnight, the doors sigh, the rails hum a low, steady note beneath everything. A woman by the window has closed her eyes, one earphone in, a song she has loved since college folded into the rattle of the train. The song reaching her is mostly absent.
+
+Somewhere between a studio and that earphone, a machine went through the song moment by moment and removed most of the information a CD would have carried, so carefully that she would never miss it.
+
+In this instalment of _Science of Sound,_ we find out what was removed, and why her own ears let the streamed song get away with it.
+
+### THE FILE THAT SHRINKS
+
+Sound is a river, and a CD cannot carry a river. It carries snapshots of it, taken so fast that the ear hears a flow. Think of a flipbook, where each page is a still picture and the pages turn so quickly that the picture seems to move. A CD's flipbook turns 44,100 pages or snapshots every second.
+
+Why 44,100 pages? The human ear hears sounds up to about 20,000 vibrations a second or hertz. To capture any vibration faithfully, you must take at least two snapshots for every one of its cycles or frequencies. Engineers call this the Nyquist sampling rule. Twice 20,000 is 40,000. Adding a small margin of safety gave the CD its figure of 44,100 vibrations per second.
+
+Here is how much information those pages hold.
+
+**Step 1: One snapshot.**
+
+Each snapshot records how loud the sound is at that instant, and the machine writes that loudness as a code of 16 switches, each either on or off. Each switch is called a bit. Together, 16 switches can be set in 65,536 different ways, so a snapshot can pick from 65,536 loudness levels.
+
+**Step 2: One second, one ear.**
+
+Take 44,100 snapshots and give each one 16 bits.
+
+44,100 multiplied by 16 equals 705,600 bits.
+
+**Step 3: One second, two ears.**
+
+Music on a CD has a left channel and a right channel, so everything doubles.
+
+705,600 multiplied by 2 equals 1,411,200 bits every second.
+
+That is where the figure of 1,411 kilobits per second comes from. Kilo means a thousand, so 1,411 kilobits is about 1,411,000 bits.
+
+**Step 4: What Spotify Premium sends.**
+
+At its best setting, Spotify sends 320 kilobits, or 320,000 bits, every second. Set that against the CD.
+
+320,000 divided by 1,411,200 equals 0.227, or about 23 per cent.
+
+**Step 5: What the free tier sends.**
+
+The free tier sends about 160,000 bits every second.
+
+160,000 divided by 1,411,200 equals 0.113, or about 11 per cen**t.**
+
+**Step 6: What is left behind.**
+
+Take each answer away from 100 per cent.
+
+100 minus 23 equals 77 per cent gone on Premium.
+
+100 minus 11 equals 89 per cent gone on the free tier.
+
+**Step 7: What it means for a phone.**
+
+One hour has 3,600 seconds. Eight bits make one byte, the unit your phone uses to count storage.
+
+On a CD: 1,411,200 multiplied by 3,600, divided by 8, equals 635,040,000 bytes, or about 635 megabytes.
+
+On Premium: 320,000 multiplied by 3,600, divided by 8, equals 144,000,000 bytes, or 144 megabytes.
+
+On the free tier: 160,000 multiplied by 3,600, divided by 8, equals 72,000,000 bytes, or 72 megabytes.
+
+Spotify streams to free listeners at about 160 kilobits per second, barely 11 per cent of the 1,411 kilobits a CD carries. (Photo: Unsplash)
+
+Spotify is not alone. Google's support page says YouTube Music Premium members can stream at up to 256 kilobits per second, using codecs called AAC and Opus, while the default setting tops out at 128.
+
+Between 77 and 89 per cent of a CD's information never leaves Spotify's servers, and the only witness is the listener who did not miss it.
+
+An hour of CD-quality music takes about 635 megabytes. At 320, it takes about 144. For a service with hundreds of millions of listeners, that difference is the whole business.
+
+This is lossy compression. Compression means the file is made smaller, and lossy means something is lost along the way. Its opposite, lossless compression, is like a zipped folder, which shrinks and then restores everything exactly.
+
+Amrit Srivastava, a musicologist based in Rome, puts it plainly. You make the bitrate smaller to get a smaller file, he told India Today Digital, and what you are doing is squeezing out some parts of the sound.
+
+The astonishing part is that the deletion is chosen, so that it falls only on what the ear would have missed anyway. How can a machine know that?
+
+### WHEN ONE SOUND BLINDS ANOTHER
+
+The answer is masking, and everyone has experienced it. Stand beside a roadside drill and try to hear a friend whisper. The whisper still travels through the air. The ear simply cannot register it under the roar.
+
+Hearing science measures this. A loud sound raises the level a quieter sound must reach to be heard, and the effect is strongest for sounds close to it in pitch. Pitch is how high or low a sound is, counted in vibrations per second, or hertz. This is frequency masking. The ear sorts pitch into about 24 bands, called critical bands, a division first set out by Eberhard Zwicker in a 1961 paper in the _Journal of the Acoustical Society of America_.
+
+Spotify Premium streams at up to 320 kilobits per second, so an hour of music takes about 144 megabytes against 635 for a CD. (Photo: Unsplash)
+
+Masking also works across time. After a loud burst, the ear stays partly deaf to quieter sounds for a fraction of a second. This is temporal masking. A technical report on the theory behind MP3 describes how both effects are used to decide what a compressed file can drop.
+
+So, when a cymbal crashes, a soft violin note at a similar pitch in that instant is still in the air, yet effectively gone from hearing.
+
+### THE EAR'S OWN BLIND SPOTS
+
+Masking is not the only gap. The ear is also unevenly sensitive. It hears best between about 2,000 and 5,000 hertz, and grows steadily deafer towards deep bass and very high pitches, a pattern first mapped by Harvey Fletcher and Wilden Munson in 1933 and known as the equal-loudness contours.
+
+The software that does this is called a codec, short for coder and decoder.
+
+It slices the song into frames, each lasting a tiny fraction of a second. For every frame, it splits the sound into frequency bands that mirror the ear's own. It finds the loudest components and calculates how much each one masks the sounds beside it. The result is an invisible line called the masking threshold.
+
+Spotify's apps use Ogg Vorbis, an open, patent-free format that discards sound the ear is unlikely to miss. (Photo: Unsplash)
+
+Everything above the line is kept. Everything below it is judged inaudible and is not stored.
+
+This is the idea behind MP3. The audio standard it belongs to, MPEG-1, was published in 1993, and its engineers Karlheinz Brandenburg and Gerhard Stoll described the scheme in a 1994 paper in the _Journal of the Audio Engineering Society_. Spotify's apps use a relative called Ogg Vorbis, an open, patent-free format built on the same principle.
+
+Brandenburg has recalled how he tuned his encoder on an unaccompanied recording of Suzanne Vega singing Tom's Diner. He knew it would be nearly impossible to compress that warm a cappella voice. A lone voice leaves nothing to hide behind, which made it the hardest possible test.
+
+### WHAT YOU LOSE, AND WHO NOTICES
+
+What disappears is subtlety. Srivastava compares the effect to hanging four carpets on your wall when the neighbours are having a party. The party is still there, but its finer textures are muffled.
+
+Whether you notice, he says, depends on how you listen. The difference shows only if you listen to a lot of good, well-mixed music on great headphones or a hi-fi. A casual listener has long been used to it.
+
+Spotify added a lossless tier for Premium listeners in September 2025, streaming FLAC at 24-bit and 44.1 kilohertz with nothing deleted. (Photo: Unsplash)
+
+Apple makes a similar point. Its support page says the difference between AAC, its compressed format, and lossless is virtually indistinguishable, though it still offers lossless as an option for those who want it.
+
+Srivastava's advice for anyone who wants the subtleties back is simple: a good pair of speakers at home, a soundbar for a television, and better headphones on the move.
+
+### WHERE THE TRICK STRUGGLES
+
+Masking works beautifully inside a dense rock chorus, where plenty of loud sound is available to hide the deletions. It has less cover when a single voice or a single flute holds a note.
+
+Indian music asks a particular question here. A gamakam is an ornament, a continuous glide or oscillation around a note, and it is the soul of a raga. Professor M. Ramanathan of IIT Madras, who works on teaching machines to recognise ragas, says the music resists easy rules. Each performer can render a raga in a different manner, he told India Today Digital, so it is difficult to formulate rules, and only broad guidelines are available.
+
+We asked him two questions. Could compression make gamakams harder to catch? And might compression built mainly for simpler, Western-style music handle such variations badly? He said he would have to test both before answering properly.
+
+Even on Spotify's lossless tier, a Bluetooth earphone compresses the sound again before it reaches the ear. (Photo: Unsplash)
+
+His possible short answers were these. To the first: "No, we don't usually compress." To the second: "Maybe yes."
+
+On a 
+
+Recognising a raga is a different task from savouring one, and the first may survive compression better than the second. The question for the next experiment is whether a method tuned to hide deletions in dense music treats a gliding note with the same care.
+
+### THE LOSSLESS TWIST
+
+The industry has an answer of its own. After announcing changes to its Premium plans in August 2025, Spotify added a lossless tier in September, streaming Free Lossless Audio Codec (FLAC) at 24-bit and 44.1 kilohertz, with nothing deleted.
+
+It arrived late. Apple's support page says Apple Music offers lossless audio in a format called ALAC (Apple Lossless Audio Codec), from CD quality up to 24-bit and 192 kilohertz, and Apple announced it in 2021. In the same month, Amazon Music said its HD tier would stream lossless audio at CD quality, with Ultra HD going up to 24-bit and 192 kilohertz, at no extra cost to Unlimited subscribers.
+
+There is one more catch, and Apple states it itself. AirPods and Beats headphones use Apple's AAC Bluetooth codec, and Bluetooth connections are not lossless. So, even on a lossless stream, the last few metres to a wireless earphone are compressed again.
+
+Every song on a phone is a quiet collaboration between the recording and the limits of the person listening. The ear has blind spots, and a machine learnt to hide inside them.
+
+Music has always been finished by the listener. Streaming has simply learnt where the listener stops.
+
+\- Ends
+
+---
+
+### Who is Jay Clayton, a Trump loyalist tapped as new US AI czar?
+*Karan Mahadik · legal*
+
+Clayton’s appointment as the new AI czar follows shortly after AI industry leaders met with Trump, and signed onto an agreement of voluntary safety standards.
+
+[Read full article](https://indianexpress.com/article/technology/artificial-intelligence/who-is-jay-clayton-new-us-ai-czar-trump-10905916/)
+
+---
+
+### She lost three family members to farm distress in five years. Now, drought is back
+*Ankita Deshkar · legal*
+
+Nima Malekar has now lost both her children and her husband to suicides, reportedly caused by farm distress and the wait for a borewell electricity connection. Meanwhile, drought has returned
+
+[Read full article](https://indianexpress.com/article/mumbai/yavatmal-farmer-suicides-maharashtra-drought-pimplapur-family-tragedy-crop-failure-10905902/)
+
+---
+
+### Former Akali sarpanch shot dead by bike-borne assailants in Ludhiana
+*Express News Service · legal*
+
+Navtej Singh, a former sarpanch of Manewal village, was shot dead by two motorcycle-borne assailants near Ladhowal in Ludhiana while driving home early Sunday morning.
+
+[Read full article](https://indianexpress.com/article/cities/chandigarh/ludhiana-former-akali-sarpanch-navtej-singh-shot-dead-10905917/)
+
+---
+
+### 'We’re gonna shove it up their as**': Trump at MAGA Rally in Ohio, says Republicans going to win big
+*ET Online · business*
+
+Trump has embarked on what he says will be a 32-day blitz ahead of the Nov. 3 elections, hitting the deep red states of Texas, Oklahoma and Alabama this week. Saturday's rally is just outside Dayton, Ohio, where he is stumping for key candidates in competitive races for the House, Senate and the gov...
+
+[Read full article](https://economictimes.indiatimes.com/news/international/world-news/were-gonna-shove-it-up-their-as-trump-at-maga-rally-in-ohio-says-republicans-going-to-win-big/videoshow/134670110.cms)
+
+---
+
+### Six lanes to two: What Barapullah can learn from traffic solutions abroad
+*Pragynesh · legal*
+
+In 2003, a six-lane highway over Cheonggyecheon River – used by around 160,000 vehicles every day – was demolished to revive the water body. The expectation was that the traffic would be in a deadlock.
+
+[Read full article](https://indianexpress.com/article/cities/delhi/delhi-barapullah-phase-3-flyover-traffic-bottleneck-urban-planning-10905888/)
+
+---
+
+### Brazil votes in high-stakes Lula vs Flavio Bolsonaro presidential race
+*India Today World Desk · general*
+
+## Brazil heads into a knife-edge presidential vote between Luiz Inacio Lula da Silva and Flavio Bolsonaro. The result will test the country's deep polarisation and may hinge on turnout and late shifts.
+
+Image used for representational purposes only
+
+Saopaulo,Oct 4, 2026 10:44 IST
+
+Brazilians vote on Sunday in a high-stakes presidential election that has turned into a straight fight between incumbent Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro, two ideological rivals who are both seen as having a chance of winning outright. If no candidate gets more than 50 per cent of the vote, the top two will go to a run-off on October 25.
+
+Almost 159 million Brazilians are eligible to vote in the contest in Latin America’s biggest economy. Ten other candidates are expected to win much smaller shares of the vote. Voters will also elect 27 state governors, members of state legislatures, all 513 federal congressmen and 54 of the country’s 81 senators.
+
+Bolsonaro, 45, is the son of former far-right President Jair Bolsonaro and an ally of US President Donald Trump. Lula, 80, is contesting his seventh presidential election and has strengthened Brazil’s ties with Beijing. While Bolsonaro has leaned into his ideological alliance with Trump, Lula has criticised Washington and often spoken about the risks of US intervention in Brazil’s elections after the Trump administration imposed high tariffs on Brazilian exports, revoked the visa of the country’s ambassador in Washington and sanctioned a Supreme Court justice who chaired the probe that led to Jair Bolsonaro being sentenced.
+
+Flavio Bolsonaro has highlighted his proximity to the White House and said Brazil needs better deals with the Trump administration, including in the rare minerals sector. Brazil estimates its deposits at up to 21 million tonnes, second only to China. He has also campaigned on freeing his father from a 27-year prison sentence for attempting a coup and bringing him back into politics. Bolsonaro has denied receiving help from the US government. “That narrative won’t stick, sorry,” he said at a September campaign event.
+
+Political consultant Thomas Traumann said late mistakes by either candidate or their allies could prove decisive among undecided voters. “Polarisation in Brazil created a trap. There’s no third candidate. You only have two options, and they fight each other in an atmosphere that becomes worse and worse,” Traumann said. “It is much more a competition of accusations than a competition of proposals.”
+
+Four years ago, Lula beat Jair Bolsonaro by 2.1 million votes, a margin of just under 2 percentage points. At the time, Brazilians were unhappy with the then president’s handling of the coronavirus pandemic, his repeated threats to democracy, his attacks on the electronic voting system and the poor state of the economy as inflation rose. Now Lula faces a difficult fight because of an affordability crisis and a corruption scandal that ensnared the same justice who led the investigation into Bolsonaro.
+
+Carlos Melo, a political science professor at Insper University in Sao Paulo, said some voters have grown tired of Lula, who is seeking a fourth non-consecutive term as president. “Many in the Lula campaign were not expecting such a difficult election a few weeks ago, and it is clear to them that the present election is a tough battle and the next ones, without Lula, could be even more so,” Melo said. Bolsonaro, meanwhile, has faced several corruption accusations, the latest involving a disgraced banker who allegedly paid him millions of dollars to produce a film on his father’s life. More recently, he has also come under criticism from Roman Catholics who fear he could make too many concessions to his evangelical base.
+
+The election has left Brazil facing a tense and closely fought contest between Lula and Bolsonaro, with the result likely to depend on turnout, undecided voters and whether either side makes a late mistake before the count.
+
+With PTI Inputs
+
+\- Ends
+
+
+---
+
 ## 3 October 2026
 
 ### Al-Qaida leader's pic, Syrian mother: What we know on flydubai Omani co-pilot
