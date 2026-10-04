@@ -1,8 +1,197 @@
 # Editorials
 
-_Last updated: 2026-10-03 06:57 UTC_
+_Last updated: 2026-10-04 07:17 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 4 October 2026
+
+### China is building a tech empire: From loft SUVs to rare earth dominance
+*Deccan Herald · Opinion*
+
+Last month, Chinese tech conglomerate Xiaomi unveiled a brand-new line of SUVs, headlined by the Xiaomi SkyNomad Studio. At first glance, the SkyNomad Studio looks like any other SUV anywhere in the world – except that it’s in fact a studio apartment on wheels.
+
+This new car features a built-in loft that pops up over the car’s roof with the push of a button. Its backseats flatten out into a foam mattress, with tiny cupboards decked along the walls. The cabin comes with heated floors and a 30-inch projection screen to create a mini home theatre (on wheels). And it does all of that for just over $44,000.
+
+To give you some context, if you were to buy a car at that price anywhere else in the world, you would most likely get a standard SUV or electric sedan – a Hyundai Tucson, a Toyota Fortuner, or a Tesla. But none of them come with a separate attic or bedroom.
+
+Why India’s electronics story could hit a geopolitical wallThe Xiaomi SkyNomad Studio is only the latest in a long line of gizmos and gadgets emanating from China – including cars that can launch drones, $200 mini computers, and the much-vaunted DeepSeek chatbot – which threaten to upend the global consumer market. In most domains, China still trails the United States in terms of technical capabilities, engineering precision, and quality. But China has made a reasonable bet that by offering products that are almost as good at only half the price, it can still capture a sizeable market share.
+
+In some areas, such as electric vehicles and robotics, this strategy appears to have already succeeded. China now produces three out of every four electric cars sold in the world. It controls over 80% of global battery cell production. It also accounts for 59% of all industrial robots installed worldwide.
+
+This rising tech dominance is underpinned by China’s longstanding advantages: low-cost labour, manufacturing capacity, state sponsorship and subsidies. But Beijing has also quietly complemented these traditional strengths with some incredibly foresighted steps aimed at capturing the global supply chain.
+
+Is India ready to move beyond manufacturing?Take crude oil, for instance – a historical source of anxiety. China imports over 70% of its crude oil. Most of that oil must pass through three geopolitically dangerous flashpoints, which may at any time jeopardise the Chinese economy, either deliberately or otherwise: the Strait of Hormuz between Iran and the Gulf states, the seas abutting India’s Andaman and Nicobar Islands, and the Strait of Malacca between Singapore and Malaysia.
+
+China has long worried that its rivals influence much of this maritime route. Additionally, it worried that a tumult in the Middle East could suffocate its economy. And so, it diversified. Over the past several years, China has worked quietly to befriend alternative suppliers and build supply routes from Africa, Latin America, and Russia. It also stockpiled massive quantities of crude oil during good times and expanded its refining capacity. It complemented these steps by investing in alternative energy sources such as wind and solar.
+
+Bit by bit, Beijing’s clout grew. In 2022, China became the largest refiner of crude oil in the world, surpassing the US. Its renewable industries have advanced so much that it now produces 80% of the solar panels and 60% of the wind turbines installed globally.
+
+By the time of the Iran war, all this investment had begun to bear fruit. With the Strait of Hormuz incapacitated, much of Southeast Asia became increasingly dependent on China for energy, thirsting for its excess reserves, oil refining capacity, and renewable energy sources.
+
+China has taken similar steps to secure its dominance of other supply chains critical to emerging technology. The country controls a whopping 90% of the world’s refining of rare earth minerals – elements that are used in making magnets, batteries, chips, and even quantum computers. Similarly, as the US and its allies shift their focus to AI chips, China now controls over a third of the old semiconductor chips that are still used in cars, medical devices and power grids – double its share in 2020.
+
+What makes China’s tech empire notable is its commitment to playing the long game: Unlike its rivals, who depend more on private sector leadership and whose policy frameworks often play catch-up with big tech, China plunges policy-first into its tech endeavours. First, Beijing sets up a general sense of where it thinks the world is heading a few years down the line. Then, it builds the supply chain it needs to get there.
+
+The writer is a student of all things global and, self-confessedly, master of none, notwithstanding his Columbia Master’s, a stint with the UN and with monarchs in the Middle East.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+Write to us at: theprism@deccanherald.co.in
+
+[Read full article](https://www.deccanherald.com/opinion/china-is-building-a-tech-empire-from-loft-suvs-to-rare-earth-dominance-4169708)
+
+---
+
+### In fine print: The quiet erosion of the India's democratic edifice
+*Deccan Herald · Opinion*
+
+If you’ve watched a cricket match on TV or streamed a game in recent years, you’ve seen the ads: flashy, high-decibel videos featuring the logos of popular beer, whiskey, gin, and vodka brands. You would have also seen the spots for lottery-style gaming apps luring in millions of people. But isn’t advertising these products to live audiences explicitly banned? And do we really want millions of kids watching live sports to be bombarded with them?
+
+The secret lies in the fine print. Technically, these commercials aren’t for booze or gambling. They’re for “brand extensions” — things like packaged drinking water, club soda, or mouth freshener. It’s a transparent end-run around the law, yet top celebrities happily star in these multi-crore campaigns, beaming with wild enthusiasm over the virtues of a soda bottle.
+
+Does anyone actually believe a global alcohol giant is spending millions to hawk a 5-rupee sachet of elaichi or a 10-rupee bottle of tap water? Of course not. But as long as the manufacturer produces and sells even a tiny amount of these surrogates, they buy a legal shield against regulators and court injunctions. With enough fine print, you can defeat the entire purpose of any law.
+
+Everything by Everyone: If Bengaluru can solve global problems, why can’t it solve its own?Fixing this requires someone to take up the fight, demanding tighter legal frameworks, pushing celebrities to care about the public interest, and fighting exhausting court battles. Very few attempt the climb because it’s a steep, lonely trek. Worse still, an entire army profits from the status quo. Ad agencies, media networks, filmmakers, designers, corporate executives, and regulators who look the other way are all part of the same lucrative disco. Anyone trying to fix the system is fighting all of them at once. Fine print and inertia add up to the quiet subversion of the public interest.
+
+Once you spot this pattern, you begin to see it everywhere. Public political discourse in India is built on grand narratives and dramatic ideological clashes, such as liberty versus security, welfare spending versus fiscal discipline, and centralisation versus federalism. But this political theatre is largely a facade. The real mechanics of power lie submerged in administrative fine print, budget line-items, and executive orders.
+
+To understand where we are actually heading, we must stop listening to what politicians argue about and start asking three practical questions: Who is moving the ball, in which direction, and through what exact mechanisms?
+
+Take urban mobility in Bengaluru. After years of public outrage and sustained civic pressure, the government passed a landmark law mandating that all major mobility projects undergo review and approval by a unified body: the Bengaluru Metropolitan Land Transport Authority (BMLTA). It was hailed as a massive win for city planning. Then came the fine print.
+
+Why Bengaluru needs all three sides of the triangleWhen the actual administrative rules were published months later, a quiet surprise was tucked inside: projects already announced were completely exempt from review.
+
+Why would lawmakers pass a bill that lets the biggest, most expensive projects skip independent scrutiny? Because opening those projects to real technical review might reveal they shouldn’t exist. The rules were supposed to operationalise the law; instead, they were used to neuter it. Just like surrogate ads, an entire ecosystem of contractors, bureaucrats, and political leaders used administrative sleight-of-hand to keep the gravy train rolling uninterrupted.
+
+The same game is now playing out in the Election Commission’s Special Intensive Revision (SIR) of electoral rolls. Who stays on the voter list and who gets purged has almost nothing to do with constitutional rights or grand political speeches. It is governed entirely by procedural forms, field circulars, and administrative deadlines. A citizen’s fundamental right to vote comes down to whether they can successfully navigate a bureaucratic paper trail to prove they exist where they live.
+
+Here, too, the ecosystem thrives in the shadows. Local political operatives exploit procedural loopholes to challenge rival voters, bureaucrats meet processing targets through swift, unchecked mass deletions, and returning officers take shelter behind statutory immunity.
+
+Or look at the Karnataka Public Service Commission (KPSC), currently trapped in yet another news cycle of scandal. Ask ordinary citizens about it, and almost everyone agrees it has become a den of corruption where government jobs are traded for bribes. But ask how it happens, and few can explain the mechanics. They see the dubious final selections and hear the stories, but the granular administrative procedures that enable the corruption remain buried in a black box.
+
+Our democratic journey is currently struggling in low gear. If we want to go any higher, we have to stop acting like passive spectators. We must build the energy, technical persistence, and patience to drag these administrative, regulatory, and political processes out of the fine print and into the sunlight.
+
+The writer is a social entrepreneur, founder of Mapunity and LVBL, and co-founder, Lithium, wakes up with hope for the city and society, goes to bed with a sigh.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+Write to us at: theprism@deccanherald.co.in
+
+[Read full article](https://www.deccanherald.com/opinion/in-fine-print-the-quiet-erosion-of-the-indias-democratic-edifice-4169709)
+
+---
+
+### SIR: When the voter is put on trial to remain on the roll
+*Deccan Herald · Opinion*
+
+There is no democracy without a clean electoral roll. Dead voters must be removed, duplicate entries corrected, migrant voters shifted and ineligible persons excluded. But there is an equally important democratic principle: cleaning the roll must not become an exercise in putting the voter on trial.
+
+The Special Intensive Revision (SIR) has reversed the normal relationship between citizen and electoral authority. A person who has been on the roll for years, has voted repeatedly and possesses an EPIC is suddenly required to trace their eligibility to a roll prepared in 2002 or 2003, or produce prescribed documentary evidence to establish an entitlement that the Commission’s own rolls had recognised election after election.
+
+The Supreme Court on May 27 upheld the Election Commission’s (EC) authority to conduct SIR under Article 324 and Section 21(3) of the Representation of the People Act. But the legality of the power does not answer every question about the manner in which that power has been exercised.
+
+EC-SIR Row Updates | If Gyanesh Kumar doesn’t resign, cockroaches from across India will march to Delhi and protest at Jantar Mantar on October 10: Abhijeet DipkeThis leads to the question that troubles me most. What happened to the January 2025 electoral rolls in six months?
+
+If they were reliable enough to conduct elections, why did they become trash overnight? What does that say about elections already conducted on them?
+
+Gravity of the exercise
+
+The scale makes the burden more serious. In Bihar, nearly eight crore electors went through the exercise. The final roll recorded 68.6 lakh deletions and 21.5 lakh additions. The exercise began mainly in the name of removing illegal immigrants. How many were found? The EC has not declared this to date. There were reports of about 500 cases, including roughly 150 Bangladeshis and 350 Nepali women married into families in Bihar.
+
+West Bengal shows the gravity of exclusions. The Election Commission told the Supreme Court that 27.16 lakh voters were deleted through the adjudication process; 22.21 lakh of them (about 82%) appealed for restoration. Another 16.10 lakh appeals — by the Election Commission — challenged voters who had been included. When Election Commissioner Sukhbir Singh Sandhu reportedly asked who had been authorised to file appeals “on behalf of ECI”, and by whom, the question went beyond Bengal. Who can act in the Commission’s name and who authorised the act? Certainly not the electoral registration officers (EROs), the only statutory authority.
+
+It will be interesting to know the breakup of these 16.10 lakh appeals, for the real reason behind the exercise to emerge.
+
+Then came the Election Commission’s press note of September 26. Booth level officers (BLOs) will now visit voters instead of voters visiting them. Is it a favour? BLOs were already required to make three house-to-house visits. Shifting the venue of harassment from the BLO’s office to the voter’s home does not solve the core problem — the documents.
+
+Similarly, special camps for homeless and vulnerable citizens help only if they facilitate inclusion rather than create another venue for demanding papers.
+
+In Goa, EROs and AEROs reportedly found 97 electors to be eligible, yet centrally controlled software could not restore them before the final roll; 81 were then asked to file Form 6 afresh. Software cannot acquire a veto over a statutory officer.
+
+The Commission has now ordered an expert review to “double-check” whether ECINet complies with electoral law — a clear admission that such scrutiny had not been undertaken earlier.
+
+Form 6 presents a disturbing case. The issue is not merely that an additional SIR declaration was attached to a statutory form.
+
+SIR and the project of disenfranchisementThe record reported by The Indian Express shows that Election Commissioner Vivek Joshi objected to the proposal on May 16, pointing out that Form 6 is prescribed by the Registration of Electors Rules, 1960 and cannot be altered through an administrative SIR order; Election Commissioner Sukhbir Singh Sandhu concurred on May 19. Yet the altered online process was nevertheless introduced and continued. That raises a question of legality.
+
+The Election Commission is a three-member constitutional body, not the office of the Chief Election Commissioner. Section 18(2) of the 2023 law is categorical: where the Commissioners differ, the matter is decided according to the opinion of the majority. If two Commissioners opposed this change, the contrary view of the Chief Election Commissioner could not become a decision of the Election Commission. It was not merely procedurally irregular; it lacked the authority of the Commission. The full Commission’s September 26 decision has now created an anomaly.
+
+The additional SIR declaration has been removed from Form 6 in states where SIR is underway, while the additional declaration continued to apply in states where SIR had already been completed. Withdrawing the requirement for supplementary information is not enough. If the original direction was issued despite the recorded opposition of a two-member majority, every consequential action taken under that unauthorised direction must be undone. An illegal order cannot be cured simply by stopping its operation for the future.
+
+The press note now promises that agendas will be circulated before Commission meetings, minutes issued afterwards, IT modules institutionally scrutinised and directions of Election Commissioners “meticulously complied with”. But each corrective raises the question: what was happening before? The press note says the original SIR decision was unanimous. That does not answer whether every subsequent decision on deletion, restoration, Form 6, software or appeals was approved by the full three-member Commission. A corrective is not an explanation. In this case, it amounts to a confession of serious omissions and commissions that were rampant.
+
+The Commission’s October 1 decision is even more revealing. In the 20 States and Union Territories where SIR has been completed, it has directed officials to compare pre- and post-SIR rolls, identify missing voters and undertake a special drive to re-enrol those found eligible. This is a welcome corrective, but it also acknowledges the possibility of wrongful exclusions. The remedy, however, raises another fundamental question. Why should voters previously registered by the Commission, whose names disappeared during its own exercise, now be required to submit Form 6, the form also used by first-time voters? A deleted voter is not a new voter. Removing the additional SIR declaration does not resolve this contradiction. Identifying excluded voters is only the beginning. Correcting wrongful deletions and establishing how they occurred are equally important.
+
+Impact beyond polling booth
+
+And the consequences are no longer confined to the polling booth. In West Bengal, the government said persons deleted through SIR could not access government schemes, subject to pending tribunal cases. Chief Minister Suvendu Adhikari later said approximately 30 lakh beneficiaries of a women’s welfare scheme were ineligible for reasons including deletion from the voter roll. In Bihar, Chief Minister Samrat Choudhary went further: persons deleted from the electoral roll, he said, would not be entitled to government benefits, including ration benefits, and their bank passbooks would eventually be cancelled.
+
+The Election Commission itself told the Supreme Court that exclusion from an electoral roll does not terminate a person’s citizenship. An electoral roll determines electoral entitlement; it is not a universal certificate of citizenship, much less a ration card, welfare register or banking licence.
+
+Members of student bodies and political parties protest against Chief Election Commissioner Gyanesh Kumar near Jantar Mantar in New Delhi over alleged SIR irregularities. PTIArticle 326 is not merely about the mechanics of an election. It embodies the constitutional promise of adult suffrage. Citizens should not have to prove their democratic existence over and over again because an algorithm flags a “logical discrepancy”, a decades-old linkage cannot be established, or software cannot implement the decision of the officer.
+
+A clean roll is indispensable. So is an inclusive roll. The Commission’s duty is to achieve both, with accuracy, transparency, due process and respect for the voter. The computer must remain the clerk, not the judge. In a democracy, voters should enter the polling booth as sovereign — not spend the months before it proving that they are not impostors.
+
+S Y Quraishi is a former Chief Election Commissioner of India and the author of ‘An Undocumented Wonder - The Making of the Great Indian Election’.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/sir-when-the-voter-is-put-on-trial-to-remain-on-the-roll-4169701)
+
+---
+
+### Fastest economy, weakest market
+*The New Indian Express · Opinion*
+
+Even a cursory glance at the facts ought to have flattered India. Its economy grew by 7.8 percent between April and June, much faster than every major rival. Its fifty biggest listed companies swelled their profits by 18 percent, the steepest climb in ten quarters. Yet on last Friday, the Sensex closed at 71,910, bruised by its eighth losing week in a row. It was its longest streak of falls since the Covid 2020. The jury of Keynes's contest had studied India's handsome figures and they chose another face.
+
+Both the financial and political costs of the Indian market mayhem were staggering. Since August 5, the index has lost nearly 6,700 points, about 8.5 percent. On a rough reckoning, between ₹30 lakh crore and ₹40 lakh crore of market capitalisations has evaporated. Measured against other emerging markets, India has turned in its weakest performance in more than two decades.
+
+Behind these abstractions stand real people. The stock market clerk in Kanpur and the nurse in Kochi who poured a few thousand rupees each month into an SIP were promised that patience pays. They did not lose their savings in a single terrifying afternoon. They watched them seep away week after weary week. The humiliation lies in the company India kept. In the same weeks the Nasdaq struck a record, Korea's Kospi reclaimed 7,000 and Japan's Nikkei loitered near its summit. Across 2026, Seoul has soared about 68 percent, Tokyo by 29 percent and New York by 13 percent. The Sensex has sunk more than 12 percent in rupees and nearly 18 percent in dollars. All weathered the same war, the same crude and the same Fed. They flourished while India floundered.
+
+The plunge unfolded in three acts. In August, oil crept upward as Washington and Tehran squared up across the Strait of Hormuz. In September, the Federal Reserve raised rates, American bond yields reached their highest since 2007 and the rupee crashed through 96 to the dollar. Then, on September 28, US President Donald Trump spurned Iran's peace proposal. That day 47 of the 50 Nifty stocks fell, in a session that was less a retreat than a rout.
+
+Why did India alone bleed? The storm was shared, but the ships were not. Three haemorrhages, long patched and long postponed, burst open together. The first was oil. India imported most of the crude it burnt, so every price surge swelled the import bill, sank the rupee and stoked inflation, which reached 4.82 percent in August. Carmakers, ports and engineering firms, all wagers on India's own growth, headed the casualty list. The second haemorrhage was artificial intelligence, the gold rush of this decade. Korea's chip exports leaped about 170 percent in eight months as Samsung and SK hynix sold the memory that data centres devour. India sells the world almost none of that hardware, and its proud IT giants are cast as prey for automation rather than its predators. When global capital went shopping for the future, they found India's shelves empty. How, then, can booming profits coexist with a bleeding market? Benjamin Graham, the mentor of Warren Buffett, supplied the answer long ago. In the short run, he taught, the market is a voting machine; in the long run, it is a weighing machine. GDP weighs the quarter just gone. Share prices are votes on the year ahead, cast by people who can move their money to Seoul before lunch. Those voters saw softer consumption and an oil shock with no end in sight. Even the Reserve Bank of India expected growth to cool to 6.4 to 6.8 percent. When External Affairs Minister S Jaishankar warned the United Nations last month of a crisis in fuel, food, fertiliser and finance, he gave voice to fears the market had already priced.
+
+What happens next hinges partly on forces far from New Delhi? When the Reserve Bank meets on October 7, it must choose between shielding the rupee and sparing borrowers. A ceasefire in the Gulf would revive Indian shares faster than any budget. Yet hope is not a policy. India is now cheaper against its peers than at any point in two decades. The real question is whether India can give investors a reason to return.
+
+It can, if it builds on three pillars at once. The Modi government must deliver a liberal dose of vitamin M (more money) for boosting domestic demand. Indian savers have already shown their steel. During the last week of September, foreigners sold about ₹11,500 crore of shares, while domestic institutions bought ₹16,400 crore. A market anchored in a confident consumer is far less hostage to a fund manager in London or New York. The second accelerator is investment. Fixed investment grew by almost 12 percent in the June quarter, and it must now be aimed squarely at the wounds this September exposed. Every rupee spent on solar power, storage and electric transport trims the war tax India pays whenever crude spikes. Every serious wager on chips, electronics and data centres offers global capital something it cannot yet buy in Mumbai.
+
+The third booster is trust, and it is the hardest to build. Capital flees from caprice, as the sudden rise in the tax on derivatives trading showed on Budget day in February. Steady taxes would shrink the premium investors’ demand. So would swifter trade deals with America, Europe and the Gulf, and a diplomacy that secures energy rather than bemoaning its price. India has long told the world it is the next great market. Now it must behave like one. None of this will restore the lost lakhs of crores by Diwali. Yet the lesson is plain. India's economy did not fail these past eight weeks; investors' faith did. Keynes's conviction rewards the face the crowd expects to win. India must now make itself that face.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Oct/03/fastest-economy-weakest-market)
+
+---
+
+### AI reads the pink slip. Politicians don't
+*The New Indian Express · Opinion*
+
+Updated on: 03 Oct 2026, 6:57 pm4 min readCopiedBots are calling and closing loans at Bajaj Finance. Xiaomi produces smartphones in a lights out plant with no workers on site. AI agents at LimeChat and Haptik handle 95 percent of customer queries, cutting staffing by four-fifths. Hyundai plans more than 25,000 Boston Dynamics Atlas robots across its plants by 2030. TCS, which has been shedding workforce, has set up a dark factory lab in Pune. Meituan’s Keeta Drone makes food deliveries in Dubai. Salesforce has trimmed over 4,000 jobs as it has built what it calls an “Agentforce” of customer service bots. At IBM, an AI agent called AskHR now handles about 94 percent of routine HR tasks. AI has withered the hiring process, with candidates now applying to and being interviewed by AI as the first filter of recruitment.
+
+In Kazuo Ishiguro's Klara and the Sun, the machine studies the humans it serves more closely than they study themselves. AI is retrenching human interface across sectors. Last month I asked Claude, Grok, ChatGPT, DeepSeek, Perplexity, Kimi and HY4 to map an atlas of jobs at risk. They were given the same brief: map, occupation by occupation, which jobs AI eliminates, compresses, transforms, augments, spares or creates, and analyse the investment and business models behind it. The bots didn’t need research assistants to produce over 160 pages. The coming compression of the human footprint in the job market is stark. Jobs at greatest risk include the data-entry clerk, telemarketer, call-centre agent, bookkeeper, paralegal, junior coder and claims processor.
+
+On the safe-for-now list are the electrician, plumber, bedside nurse, carer, firefighter and those roles that need a human to own the call. AI reads the scan, but the radiologist stays because regulation requires a human sign-off. And all seven were silent on two things. None put a figure on the money driving the disruption. None estimated how many new jobs AI would create. The jobs AI removes were scored to the decimal. The machines also agreed on the sequence, and the sequence explains why the damage is invisible until it is done.
+
+AI does not take jobs. It takes over tasks first, and jobs follow. The machine learns to read—invoice, claim, complaint. It drafts replies, codes and summaries. AI-plus human becomes the norm. Ten customer service agents are shrunk to two-plus AI. Five bookkeepers become one controller. Hiring freezes first, followed by headcount cuts. Often the ones on the roster are longer doing the work but catching the machine when it errs.
+
+The hierarchy of risk shows up in data at the entry level. Stanford Digital Economy Lab’s research titled, Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence, found employment of 22-to-25-year-olds in AI-exposed occupations running “about 19 percent below where it would have been. Across the G7, youth unemployment averaged 10 percent in July: 20.7 percent in France, 18.9 percent in Italy, 16.4 percent in Britain. In India, the jobs most at risk are the ones a generation was told to chase: the BPO seat, testing desk, back-office ledger, junior coder's cubicle. TCS has pared its campus intake, and its chairman expects “half a million AI agents” to sit alongside half a million employees. In India, the pink slip is mostly an offer letter never sent.
+
+Dario Amodei, who runs Anthropic, issued two warnings. In May 2025, he said AI could “wipe out half of all entry-level white-collar jobs” and push unemployment to 10-20 percent within five years. Last month he told the UN Security Council that, “if managed poorly”, AI “could be a risk to humanity as a whole”. Governments heard the second warning—it even got a Security Council session. The warning about job loss manifesting across economies got a shrug. It is easier to legislate against an apocalypse than to budget for a 22-year-old without a job.
+
+Investments signal the magnitude of disruption. Goldman Sachs Research expects global AI investment to top $1 trillion this year. Capital at scale does not wait for linear evolution of business models. The investment cycle turns tech capability into headcount decisions. What AI can do decides little. What it can do profitably, at scale, decides everything. Escape and relief are rare. In April, a court in Hangzhou ruled that a fintech firm had unlawfully dismissed a worker replaced by AI and ordered it to pay 260,000 yuan.
+
+The potential for retrenchment of human interface is real. MIT/Oak Ridge’s Iceberg Index estimates 11.7 percent of US workforce tasks ($1.2 trillion in wages) as already automatable. The IMF estimates AI will affect roughly 40 percent of jobs globally and 60 percent in advanced economies; the ILO finds that about one in four workers worldwide is exposed and vulnerable to generative AI.
+
+The impact of pink slips is still unfolding, and the consequences are grave. Job losses hit incomes, shrink revenues, dent spending and weaken growth. As the tax base thins, the welfare bill is bound to rise—already 81 crore people in India draw free grain. The room to pay for it is thin. In the G7, public debt runs at 126 percent of GDP in the US, 138 percent in Italy, 118 percent in France and 204 percent in Japan; India's general government debt is near 80 percent. A state that borrows to pay interest cannot easily borrow to pay the unemployed, and no one has worked out how to tax the software that replaced the taxpayer.
+
+India's Parliament spent its monsoon session debating how many members the Lok Sabha should have. The politicians are counting seats. So are the machines—the ones at the desk. The machines have decided whose jobs go first. The voters will decide who goes next. The 21-plus cohort denied the first job is bound to identify the politicians who did not notice. Power in democracies rests with the masses.
+
+THE THIRD EYE | Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Oct/03/ai-reads-the-pink-slip-politicians-dont)
+
+---
 
 ## 3 October 2026
 
@@ -62,6 +251,55 @@ The Court, in its original conception, was seen as a guardian of the Constitutio
 Suhrith Parthasarathy is an advocate practising in the Madras High Court
 
 [Read full article](https://www.thehindu.com/opinion/lead/a-court-divided-by-its-own-architecture/article71537992.ece)
+
+---
+
+### Manish Tewari |Kathmandu, Islamabad and a Decade of Silence
+*Deccan Chronicle · Opinion*
+
+A forum that cannot meet cannot fail, but it cannot succeed either. New Delhi has never been more present in the world’s councils, and never more absent from the only table its own neighbourhood has ever shared.As the last Brics motorcade cleared Bharat Mandapam on September 13, with the SCO summit a fortnight behind and the G20 ahead, one could be forgiven for asking an impertinent question. When did an India last sit at one table with all seven South Asian neighbours? It was November 27, 2014, in Kathmandu.
+
+Everything since has been a chronicle of the empty chair.The irony is sharp. The Prime Minister told the Brics leaders that the Global South sits in the front row of the world’s crises and the back row of its decisions, and that we must transform this “pyramid of privilege” into a “platform of partnership”. South Asia, a quarter of humanity, has no row at all. An estimate by The Peterson Institute for International Economics, based on GDP per capita, suggests, “The Global South represents 85 per cent of the world's population and nearly 39 per cent of global GDP.” Saarc has held no summit in 12 years, and its foreign ministers last met formally in March 2016.
+
+Door ke dhol suhavane lagte hain: distant drums sound sweet. The drum in the neighbourhood has been silent for a decade.Saarc was Bangladesh’s idea before it was anyone else’s, and its 1985 Charter made it, on paper, the most populous regional grouping on earth. On paper is where much of it has remained. Article III commits leaders to meet at least once a year. Article X requires unanimity at every level and excludes “bilateral and contentious issues”.
+
+India has roughly three-quarters of Saarc’s population and 75 to 80 per cent of its output.
+
+Unanimity, the price of admission, gave everyone a veto. The founders did not foresee that a veto held by everyone is a veto held by whoever is angriest. The forum was fragile long before it was paralysed: Eleven of its 18 summits were postponed, all of them before the terror attack on the administrative base of the 12th Infantry Brigade in Uri, Jammu & Kashmir, on September 18, 2016. Sri Lanka refused to host in the late 1980s until the Indian Peace Keeping Force (IPKF) withdrew; Maldives and Bhutan postponed due to infrastructure, financial, and political hurdles; and domestic instability across Pakistan, Bangladesh, and Nepal caused further disruptions.After the Uri terror attack, India told Nepal, the chair, that cross-border terrorism had made the Islamabad summit impossible, four other members followed within days, and Pakistan postponed it, promising new dates that never arrived. A summit cannot be held if one member opts out, and the agreements that matter need every signature. Uri was the Pakistan sponsored dastardly provocation. The charter supplied the lock.What survived was a shadow. Foreign ministers met informally at the General Assembly until 2021, when the question of who speaks for Kabul ended even that. Nepal has held the chair since 2014. Committees meet at joint-secretary level and dues are paid.New Delhi did what large powers do: it built around the forum. Within a month of Uri, India hosted the Bimstec Outreach Summit alongside the Brics summit in Goa. The Bay of Bengal grouping has five of Saarc’s eight members and not Pakistan.
+
+It cannot reach Kabul, Male or the Indus. Everyone found somewhere else to be. Nobody found a substitute.The neighbourhood has stopped waiting politely. Bangladesh, the forum’s author, has been its loudest mourner. Muhammad Yunus said in December he would have settled for a Saarc gathering “even if only for five minutes”.
+
+Tarique Rahman’s elected government calls revival a foreign policy objective and says Dhaka need not choose between Saarc and Bimstec.
+
+The Maldives President Mohamed Muizzu has twice called for revival, offering Male as mediator. New governments, battered economies and a tariff war have reminded small states that a bloc is their only bargaining chip.
+
+New Delhi’s reply is unchanged: Everyone in South Asia knows which country is stymying Saarc; it is Pakistan that refuses to abandon terror as an instrument of state policy. For Saarc to take off again it requires cooperation and that requires goodwill.
+
+India’s reply is accurate and is addressed to Islamabad. The people asking are in Dhaka and Male.Islamabad has begun shopping for alternatives. Pakistani, Chinese and Bangladeshi diplomats met in Kunming in June 2025, Pakistan has said regional groupings should not be “held hostage to anyone’s rigidity”, and Pakistani reporting describes an organisation, drawn up with Beijing, that could replace Saarc.
+
+Nature abhors a vacuum. Beijing in its current avatar is willing to fill it.The charter’s Article VII already allows action committees of the members concerned, the minus-X formula under which the willing proceed and the unwilling join later. India has utilised this mechanism: the Reserve Bank’s Saarc currency swaps have given the Maldives...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/manish-tewari-kathmandu-islamabad-and-a-decade-of-silence-1992846)
+
+---
+
+### Shashi Warrier|The Silent Generation & the Grandparent App
+*Deccan Chronicle · Opinion*
+
+Raghavan showed up after a gap of nearly a month. When he did show up, he seemed downcast. “What’s up?” I asked, leading him into the drawing room to give him a bottle and a glass.“My father passed last month,” he replied. “He was nearly ninety, and his mind was going, but there’s still a gap in my life.”“Of course,” Prita said, bringing him a plate of his favourite samosas, fresh from the pot. “Condolences. Parents always leave a big hole in your life when they go, no matter how old and infirm they are, and how old and mature you are.”Raghavan was reaching for a tentative samosa when the doorbell rang, and, sure enough, it was Murthy and his nose. “Come in,” I said, “and help perk Raghavan up. Lost his father last month.”“Sure,” he said. Inside, he offered Raghavan his hand. “Sorry for your loss,” he said. He paused. Then, “What do you miss the most about him?”“A lot,” replied Raghavan, “but there’s one regret emerging.”“What?” asked Murthy.“That he didn’t get a chance to get close to my children,” replied Raghavan. “Unlike my kids, I spent plenty of time with my grandparents, not just the occasional holiday.”“What difference does that make?” asked Murthy.“You learn more about change,” replied Raghavan, “because your memory stretches back a generation beyond your parents. Another quarter century or even more.”“Give me an example,” said Murthy. “I don’t understand.”“Lots of things,” said Raghavan, his voiced tinged with nostalgia. “From my grandparents I know of times when all dairy was natural. When all we wore was cotton. When we didn’t have colourful clothes because we didn’t have synthetic dyes. When all paneer was from milk. When all honey was honey. When autoimmune diseases, heart disease, cancer, and obesity were all rare. When music was special.” Raghavan smiled. “When you had to wait in line to pay your electricity bill, and there was only one TV channel available, the government’s. When people used to wait for 8:30 pm on Wednesdays for Chitrahaar, a half-hour program of Hindi movie songs on national TV...”“So there were fewer options,” said Murthy, “and less convenience. Again, what difference does that make?”“You remember the early 1990s, when the economy opened up a little,” said Raghavan in a tone so solemn we didn’t think it appropriate to interrupt or question him. “When foreign things began to come into the country. Your children don’t. So they assume it was always like it is today. They can’t imagine that there was a system where you had to wait six years to get a new scooter, and you had a choice of just two or three brands. Or having a landline was a luxury, and you had to wait years for a gas connection.“If you go back to the 1980s, there a time when cement and steel were rationed, and were every builder’s nightmare. Or when newsprint — paper for newspapers and magazines — was rationed and the simplest way for the government to censor a publication was to cut off its supply of paper: and there was only one TV channel in the whole country, Doordarshan.“But I learnt about British India from my grandparents, and about the two world wars, and how Gandhi affected the morality of the general public. We know how common people burnt and boycotted British goods on the street, and women gave jewellery for the Independence movement.”We took a moment to absorb all this. Then Prita asked, “What brought this history to your mind?”“President Trump,” replied Raghavan. “He’s been ranting at the UN, he’s been courting Xi Jinping, he’s been backing the Pakistanis, and all the while sweeping inconvenient truths under the White House carpet.”“So what?” asked Murthy.“If you’d spent time with your grandparents, like I did, you wouldn’t find it all that surprising,” replied Raghavan.“What do you mean?” asked Murthy.“Back in 1960,” said Raghavan, “the head of the USSR’s government, Nikita Khrushchev, made a fiery speech in the UN General Assembly.
+
+They say he took off his shoe and thumped the table with it during that speech. That’s the gold standard for theatrics at the UN.“And the debate was about just the kind of thing we talk about these days: a heated debate on colonialism and the Congo. The USSR — you need your grandfather to tell you that there was such a country — introduced a resolution saying colonialism must go, and the Philippine delegate, one Lorenzo Sumulong, argued that the Soviets were doing what they were accusing colonists of doing.“That was pretty much the opposite of what Khrushchev wanted. He was furious, or at least he pretended to be so. They say he pounded the table with his shoe. The thing is, Westerners thought it meant that Soviets were crude. That’s exactly what most of the world thinks of Trump, more so now than during his first term. The boot — or shoe — is on the other foot now. Except that Khrushchev was much less crude than Trump. He acknowledged the next day that he might have offended Sumulong, but said that the Philippines’s statement had offended him as well.”“The history...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shashi-warrierthe-silent-generation-the-grandparent-app-1992852)
+
+---
+
+### Suman Sahai|98% Shortfall in Green Mission & Deforestation Amid Climate Change
+*Deccan Chronicle · Opinion*
+
+The Comptroller and Auditor General of India told Parliament in August 2026 that the government has failed to meet its targets to increase and improve forest cover in India, by nearly 98 per cent.South Asia is one of the regions most vulnerable to the global climate crisis. The World Bank’s South Asia Climate Change Roadmap warns that annual economic losses could hit $160 billion by 2030 in the region, heavily impacting poor families and worsening food insecurity. The Bank also estimates that over the past two decades more than 750 million people in South Asia have been affected by at least one climate-related disaster. For a region so vulnerable to climate change, forests, a crucial asset for any nation, should be at the centre of our adaptation strategies. They hold water, protect soil, moderate temperatures, store carbon and provide suitable habitats for an extraordinary range of plants animals, microbes. For millions of people, particularly forest-dependent communities, they are also a source of food, fuel, medicine and livelihoods. So, the obvious policy response should be to protect existing forests and increase green cover. Recognising the climate catastrophe staring at us, The Government of India formulated the National Action Plan on Climate Change (NAPCC) 18 years ago in 2008. Of the eight missions flagged for urgent action to cope with climate change, an important one was the Green India Mission (GIM). The focus of the GIM is on restoring, enhancing and protecting, the country’s diminishing forest and tree cover. Three specific targets were laid down: Increase forest and tree cover on five million hectares; Improve the quality of the forest and its species diversity on another five million hectares and Support and Supplement the forest-based livelihoods of the roughly three million households of forest dwelling communities.We are failing on all fronts of the Green India Mission. The Comptroller and Auditor General’s performance audit of the Green India Mission, tabled in Parliament in August 2026, shows just how large the gap is between stated goals and what has been achieved. The GIM had set a target of increasing forest cover by 1.4 million hectares between 2015-16 and 2024-25. The actual increase was only about 0.03 million hectares, a 97.57% shortfall. This embarrassing figure reveals the absolute and total failure on the part of those whose job it was to use the allotted funds to meet the targets of the National Mission to increase forest cover. The story is similar when it comes to improving the quality of existing forests. The CAG found a shortfall of nearly 92%. This is not just inefficiency; it is a catastrophic inability to recognise the gravity of the climate crisis and its consequences.Why did this happen? The CAG audit is scathing, pointing to the i) Failure to use available funds with states utilising just half of the money available; ii) Lack of convergence between programs and deficient monitoring leading to structural gaps; iii) Failure to secure the massive fund proposed for the second phase and inappropriate selection of landscapes for afforestation.In this backdrop, the scale of government sanctioned deforestation, the cutting down of large tracts of forest for so called ‘development’ is baffling. Government data shows that between April 2023, and March 2026, 71,023.30 hectares of forest land was approved for diversion to non-forestry purposes across India. Madhya Pradesh accounted for 19,432 hectares, Odisha 8,966 hectares, Arunachal Pradesh 7,335 hectares, Jharkhand 5,410 hectares and Chhattisgarh 4,219 hectares. Mining and stone quarrying accounted for the largest share of 16,463 hectares. Hydroelectric and irrigation projects accounted for another 14,294 hectares, while roads accounted for 12,715 hectares. These are not just numbers on a spreadsheet. Every hectare represents a piece of an ecosystem, and often a landscape that has taken decades, sometimes centuries, to evolve. Look at Hasdeo in Chhattisgarh. The Hasdeo-Arand forest in North Chhattisgarh is one of the most important forest patches of Central India, popularly referred to as the lungs of Central India. The Adani Parsa East and Kente Basan (PEKB) coal mine is located in this biodiversity-rich region. Approximately 4.48 lakh trees are slated to be cut down in phases. Around 1,013 hectares of closed canopy forest has already been cleared and the government has also given in-principle clearance for the felling of trees in 1,742.6 hectares for the Kente Extension coal block. In the misguided project to link the Ken and Betwa rivers in Madhya Pradesh, 9,000 hectares including 5,761 hectares of forest land will be submerged. This will involve killing approximately 215,875 trees. Not just that, the project will also claim over 4,000 hectares of the densely forested Panna Tiger Reserve and 1,314 hectares of its buffer zone. The highway widening construction activity linking the Char Dhams of Uttarakhand (Badrinath,...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/suman-sahai98-shortfall-in-green-mission-deforestation-amid-climate-change-1992849)
 
 ---
 
@@ -21537,199 +21775,6 @@ Even a butterfly struggles to emerge from its cocoon, and that very struggle str
 To shine like the sun is a noble aspiration. But only those willing to burn with passion, perseverance, and purpose will ever radiate that enduring light.
 
 [Read full article](https://www.deccanherald.com/opinion/the-alchemy-of-perseverance-4063199)
-
----
-
-## 5 July 2026
-
-### DC Edit | Why Is Jail, Not Bail, The Order?
-*Deccan Chronicle · Editorial*
-
-The judges of the Supreme Court often criticise those in the lower judiciary on public platforms about the latter declining bail to undertrial prisoners for one reason or the other and offer their pontifications about the right to bail, but while on the bench will pronounce judgments that almost pre-close the options of the very same judges in trial courts. And then there are judges and magistrates who go after apex court verdicts which give them an excuse to keep people behind bars forever. Between them they display legal insensitivity of the worst kind, disregard for human rights and total neglect of constitutional positions on individuals’ freedom.
-
-A Delhi court has again rejected the bail applications of student activists Umar Khalid and Sharjeel Imam in a case linked to the 2020 Delhi riots as it had “little option but to follow the Supreme Court order on January 5” which quite inappropriately commented on the merits of the case while declining bail. “Following the said order of the Supreme Court, this court cannot entertain the applications and grant bail to the applicants. In fact, the applications are not maintainable and they are hereby dismissed,” the court said. In the judge’s opinion, there is “no substantial change of circumstances”.
-
-A two-member bench of the Supreme Court had recently expressed “serious reservations” on the narrow reading of a judgment of a larger, three-member bench which held that prolonged incarceration without trial warrants constitutional intervention. The bench had pointed to situations where statutory conditions for bail will “melt down” if there is no likelihood of trial being completed within a reasonable time and the period of incarceration already undergone has exceeded a substantial part of the prescribed sentence.
-
-Mr Khalid and Mr Islam have been in jail for nearly six years with no end to their trial or incarceration in sight while judges scramble for reasons to keep them in jail. While Article 21 of the Constitution talks of “procedure established by law” before stripping someone of their right to life and personal liberty, some courts make the procedure the punishment. This is an affront to the spirit of the Constitution and hence must end.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-why-is-jail-not-bail-the-order-1968606)
-
----
-
-### DC Edit | Will Consensus On Ladakh Cut Tension, Bring Peace?
-*Deccan Chronicle · Editorial*
-
-The emerging consensus between Ladakh’s representative bodies — the Leh Apex Body (LAB) and the Kargil Democratic Alliance (KDA) — and the Union government is more than an administrative breakthrough; it is a reaffirmation of India’s democratic spirit and a vital step toward stabilising one of the nation’s most sensitive frontiers.
-
-After months of tension, shutdowns, and public mobilisation, the agreement signals a shift from uncertainty to constructive partnership — something Ladakh urgently needed and the country could not afford to ignore.
-
-The finalised minutes of the May 22 meeting capture this turning point. As the document records, both sides agreed to craft an appropriate customised model of governance suited to Ladakh’s unique socio cultural, geographical and strategic characteristics, empowering a new elected body with executive, financial and legislative authority.
-
-This is not a symbolic gesture. It restores democratic participation to a region that has repeatedly voiced its desire for meaningful self governance since becoming a Union Territory in 2019.
-
-The elected executive will exercise the highest level of control over subjects falling under the purview of the Union Territory-level elected body and supervision over civil servants, including appraisals.
-
-Equally significant is the agreement on constitutional safeguards. The minutes emphasise that Ladakh requires a distinct and tailor made arrangement, potentially through a sui generis model analogous to Article 371. This recognition directly addresses public anxieties over land, jobs, culture and environmental fragility — concerns that fuelled the region wide shutdowns in Leh and Kargil. Those protests, reflecting the widening trust deficit, were a clear signal that Ladakh’s patience was wearing thin.
-
-Ignoring such discontent would have been a grave mistake. Ladakh is not just another administrative unit; it is India’s shield along the borders with Pakistan and China. In times of crisis, Ladakhis have stood unflinchingly with the nation. During the Kargil war, they supported the Army with unmatched courage — protecting supply lines, volunteering for service, and offering every possible assistance. Their patriotism is woven into India’s national security fabric.
-
-To alienate such a people would not only be ungrateful, it would also be strategically reckless. This consensus therefore does more than resolve a political standoff — it strengthens India’s frontier stability. A region that guards the nation’s highest peaks and most volatile borders cannot be governed through mistrust or unilateral decisions. By choosing dialogue over delay, the Centre has prevented a potentially combustible situation from escalating.
-
-The agreement also lays the groundwork for a future democratic architecture that could eventually evolve into full statehood. It balances Ladakh’s aspirations with fiscal realities, offering a phased path that is both pragmatic and respectful. In embracing Ladakh’s demands for representation and protection, the government has reaffirmed a simple truth: India is strongest when every region feels heard, valued and empowered.
-
-The people of Ladakh have always stood for India. Today, the country stands with them — and the nation is safer, stronger and more united for it.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-will-consensus-on-ladakh-cut-tension-bring-peace-1968601)
-
----
-
-### John J. Kennedy | Mental Health On Campus: It Needs Much More Than Just Counselling!
-*Deccan Chronicle · Opinion*
-
-The University Grants Commission’s new guidelines on mental health and well-being in higher educational institutions deserve appreciation. They recognise a crisis that India’s universities can no longer ignore. Student suicides, rising anxiety, depression and emotional distress have become recurring features of higher education across India. The guidelines propose dedicated mental health centres, counselling services, faculty mentoring, peer support, crisis management systems and awareness programmes. These are sensible measures. They reflect a welcome shift from treating mental health as a private problem to recognising it as an institutional responsibility.
-
-The real challenge, however, begins after the policy is announced. India has produced many thoughtful education policies. Their impact has often depended on implementation, or the lack of it. The UGC guidelines face the same test.
-
-Many universities and colleges already struggle with severe faculty shortages, inadequate funding, overcrowded classrooms and weak student support systems. Hundreds of affiliated colleges lack enough teachers to meet academic requirements. Expecting these institutions to recruit qualified psychologists, establish fully functioning wellness centres, and sustain professional counselling services without additional financial support may not be realistic. There is a risk that many institutions will comply on paper while changing very little on the ground.
-
-The shortage of trained mental health professionals presents another challenge. India already has too few psychiatrists, psychologists and counsellors for its population. Recruiting qualified professionals is difficult even for well-funded private universities. Smaller colleges in rural districts will face even greater difficulties. Partnerships with hospitals and external agencies may help, but they cannot substitute for a permanent support system within campuses.
-
-The guidelines also recommend faculty mentoring. Many students need a trusted teacher who listens, guides, and notices when something is wrong. But mentoring requires time, training and continuity. Faculty members who teach large classes, handle administrative responsibilities, meet research targets, and work on short-term contracts cannot easily provide sustained mentoring.
-
-Unless universities improve staffing and reduce excessive workloads, mentoring may remain an aspiration rather than a reality.
-
-Implementation alone, however, is not the central issue. The larger question concerns the way Indian universities themselves have changed. The discussion on student mental health increasingly uses the language of counselling, therapy and psychological intervention. These services are necessary. They provide support when students face emotional crises. However, emotional distress does not develop in isolation. Universities themselves often create conditions that contribute to stress, loneliness and hopelessness.
-
-Many campuses have become highly competitive spaces where academic performance, placements and employability tend to dominate student life. Students move constantly between classes, coaching, internships, competitive examinations and online learning. Success is measured through grades, rankings and job offers. Failure carries a high social cost. Many students hesitate to admit that they are struggling because they fear being judged by peers, teachers or even their families.
-
-Several institutional practices add to this pressure. Delayed examinations, uncertain admissions, inconsistent evaluation, research pressure, administrative indifference and poor grievance mechanisms create avoidable anxiety. Ragging, discrimination, harassment and social exclusion continue to affect many campuses. Counselling can help students cope with these experiences, but it cannot remove the conditions that produce them.
-
-Many students also experience a deep sense of isolation. Universities were once places where students formed lasting friendships, participated in debates, joined cultural groups, and built close relationships with teachers. Today, digital communication has expanded social networks, but it has not replaced human connection. Students may interact constantly online and still feel profoundly alone.
-
-This loss of community affects some students more than others. First-generation learners, students from rural backgrounds, linguistic minorities, and students from marginalised communities often enter campuses that are culturally unfamiliar. Many still struggle with language, confidence and social acceptance alongside academic work. A counselling session may help them after distress becomes severe. A supportive campus community may prevent that distress from developing in the first place.
-
-Another concern deserves attention. Over-relying on therapy can shift blame from institutions to individuals. Students who feel lonely are encouraged to seek counselling; those experiencing burnout are advised to manage stress; those...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/john-j-kennedy-mental-health-on-campus-it-needs-much-more-than-just-counselling-1968614)
-
----
-
-### SANJAYOVACHA | The Missing Dimension In India-Japan Relationship | Sanjaya Baru
-*Deccan Chronicle · Opinion*
-
-The India-Japan strategic partnership is one of India’s “truly strategic” partnerships, considering that we have defined over thirty bilateral relationships over the past three decades as “strategic”. The relations between India and Japan at the State-to-State level are defined by Kautilya’s simple and straightforward proposition that “a neighbour’s neighbour is a friend”. Shared cross-border concerns bring the two together. These relations were once again in focus last week during the visit to New Delhi of Japan’s Prime Minister Sanae Takaichi.
-
-While these relations have developed vigorously over the past quarter century under three successive Indian Prime Ministers, on the Japanese side two Prime Ministers must be credited for their commitment to relations with India -- Junichiro Koizumi and Shinzo Abe. Prime Minister Takaichi is a disciple of Abe and has restored momentum to the relationship during her brief tenure. Her visit to New Delhi was, therefore, significant.
-
-However, and interestingly, in their present state the India-Japan bilateral relations appear to be the exact reverse of the present state of bilateral relations between India and the United States. Consider this. In the case of the US and India, people-to-people (P2P) and business-to-business (B2B) relations remain robust even as government-to-government (G2G) have become testy, transactional and wanting in trust. India-Japan relations, on the other hand, testify to a robust and growing G2G engagement, with high levels of trust between political leaderships, but remain constrained by inadequate B2B connect and very low level of P2P engagement.
-
-In fact, as a Japanese scholar said to me, in the case of Japan’s relations with China and India there is a similar imbalance. While India-Japan G2G are strong and B2B and P2P remain weak, Japan-China G2G relations have become very strained, especially after Ms Takaichi took charge, while Japan-China P2P and B2B relations remain fairly robust.
-
-Prime Minister Takaichi arrived in New Delhi at a time when the Japanese media was reporting a wave of anti-immigrant, including an anti-tourist, sentiment at home. Japan has hiked its visa fee by more than three times to discourage tourism in a Japan over-run by tourists. Indians have not been spared from this anti-immigrant sentiment. Indian tourists have been reporting back home that several restaurants refuse to admit Indian customers. Apart from traces of racism, the bad behaviour of many Indian tourists overseas has made them unwelcome in many countries, including Japan. This despite the fact that the numbers of Indian tourists travelling to Japan remains low.
-
-Japan’s diplomats in India have been trying to encourage more Indian students to study in Japan, but with limited success. More than the limit imposed on P2P engagements due to low numbers, the quality of such engagement as there is has also been found wanting. While Japanese and Indian elites have high regard for each other’s culture and civilisation, there is very little appreciation of this among ordinary folk in both countries and little is taught about each country in the other’s.
-
-What of the B2B engagements? Japanese businesses, big, medium and small, continue to find China and Southeast Asia more attractive as destination for their overseas investments. It is only post-Covid that Japanese direct investment in China has begun to taper off and Japanese FDI into India has shown any appreciable increase.
-
-As a perceptive Indian business person based in Tokyo observed recently, India remains a daunting place for Japanese firms to do business in. “Many Japanese corporations have become accustomed to operating in China which efficiently ‘packages’ everything necessary to ‘plug and play’ in the country.” In India they have to still figure out how to go about doing business.
-
-The Japanese scholar I spoke to also believes that even though the political elites in both Japan and China are wary of each other, the business and social elites in Japan still retain a more positive view of China compared to their view of India. Given that they are themselves so disciplined, organised and efficient, the Japanese elites appreciate a similar commitment to order and civility among other East Asian societies, including China. Indians, on the other hand, come across as noisy, messy, chaotic and boisterous.
-
-These remarks reminded me of Prime Minister Junichiro Koizumi’s question to Prime Minister Manmohan Singh when, in 2005, he asked the latter whether India was part of “Rising Asia” to its East or “Unstable Asia” to its West. It takes more than brotherly and sisterly feelings between political leaders for societies at large to feel more comfortable with each other. East Asians in general, including Japanese, Koreans, Taiwanese and, indeed Chinese, feel more comfortable dealing with the West and with some Southeast Asian nations. India is still viewed by most of them as a difficult place to travel to, to do...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjayovacha-the-missing-dimension-in-india-japan-relationship-sanjaya-baru-1968633)
-
----
-
-### The hidden costs of the tourism boom
-*Deccan Herald · Opinion*
-
-Countries across the world are eager to attract more international tourists. The incentives are credible: jobs, investment, and economic growth. However, policymakers appear to pay less attention to the environmental and social costs of mass tourism. Many countries in the Global South point to the perils of unchecked tourist inflows – particularly from wealthy Western nations – in the form of damaged ecosystems, strained infrastructure, and disrupted local communities. There are important lessons in these cautionary examples.
-
-As to just what exactly these problems are, and how the world is responding to them, you may wish to read Paige McClanahan’s book, The New Tourist. The author states that, spurred by tourist misbehaviour, anti-tourism movements are springing up across the world in countries such as Spain, Italy, the Netherlands, Vietnam, Thailand, and Indonesia. Just recently, a coastal luxury resort project in Albania linked to the family of United States President Donald Trump sparked massive protests.
-
-It is ludicrous that the Andaman and Nicobar Islands and cities such as Visakhapatnam and Kochi are considering expanding their port facilities to include cruise ship terminals without considering the ramifications of such a move.
-
-'Want free booze, skip queues': Man who visited 40 countries in 18 yrs flags how Indians behave abroadWhen a cruise ship docks in towns, the sudden influx of several thousands of tourists can prove problematic. The local chamber of commerce, the hotels, and the shops may welcome the surge, but what about the rest of the citizens?
-
-A temporary rise in the local economy benefits some but not all. The people who work in the tourism industry may suddenly find themselves priced out of the housing market. The local shops, including grocery stores, are likely to increase their prices to the detriment of the locals. Every home with an extra room may turn into an Airbnb overnight for as long as the cruise ship is in town. The town’s sewage system is adversely impacted, road traffic becomes a nightmare, and little attention is paid to the environmental effects of these ships. Here is a little-known fact about cruise ships: the workers are mostly Asian; their overlords are all white.
-
-What McClanahan fails to mention in her book is that the ugly behaviour of Western tourists, especially in the Global South, is also driven by a racist and colonial mindset that ignores local social, cultural, and religious norms. Moreover, when these visitors are arrested by local police on traffic and drug-related charges, a phone call to the nearest consular representative of their home countries is all it takes to get them released with few consequences. This is a throwback to the principle of extra-territoriality from the colonial times. Indian tourists in the US engaging in acts of vandalism face stiff fines, long prison sentences, and subsequent deportation. Rarely do Indian consular officials intercede.
-
-Medical tourism has become a profitable add-on for the hospitality industry. Since medical care is much cheaper in the Global South than in Western nations, chartered flights from cities such as Frankfurt and San Francisco commonly take patients to big private hospitals in Mexico, India, and the Philippines. However, this has an undesirable side effect: local private hospitals ignore local patients and prefer foreign ones since they can be charged more.
-
-Regarding tourist misbehaviour, is there any need to announce to the world that Tarzan loves Jane or Rinku loves Tinku in childish scribbles on Egypt’s Pyramids or carved into the barks of trees in city parks? Incidents involving naked tourists in Cambodia’s Angkor Wat led the authorities to order crackdowns. In one particularly egregious incident in 2016, a Dutch tourist in Myanmar had the nerve to disconnect the loudspeakers carrying Buddhist prayer chants because they were interrupting his sleep. He was jailed for three months.
-
-The East is not the Westerner’s playground to do as they will. A cautionary note is provided by what has happened in Jamaica. The local government cut off access to many of the beaches and ceded the shorelines to big hotel chains, if only to benefit private investors and tourists. This has deprived Jamaicans who depend on the sea for their livelihoods. I can bear witness to the fact that portions of the beach in Vizag have already been made off-limits to the general public since they adjoin big hotels.
-
-Barcelona has been at the centre of the pushback against overtourism. The protesters’ placards, asking tourists to “go home”, may soon resonate in distant cities strained under the promise of a thriving tourism economy.
-
-(Roger Marshall is a computer scientist, a newly minted Luddite and a cynic)
-
-[Read full article](https://www.deccanherald.com/opinion/the-hidden-costs-of-the-tourism-boom-4062592)
-
----
-
-### Why Bollywood won't make its next 'Dhurandhar' about China
-*Deccan Herald · Opinion*
-
-While watching and absorbing the hype and hyperbole engulfing the Dhurandhar films, this writer kept hearing a counter-intuitive question: Why hasn’t mainstream Indian cinema, especially Bollywood, which carries the load of muscular hyper-nationalism, done to China and the Chinese what it has done to Islam and Pakistan in a series of films leading up to Dhurandhar?
-
-Some of our cinema has gone hammer and tongs against Indian Muslims over their “allegiances”, expediently forgetting that a sizeable population of Hindus live in and send money from Islamic nations, enabling them with better economic prospects than in India. Bollywood lampoons Pakistan but is unwilling to confront the true superpower of the 21st century, which sometimes subtly, sometimes brutally, transgresses boundaries.
-
-Juxtaposing the growth of China and India inconveniences many Indian hyper-nationalists. China’s usually inscrutable and spasmodically unsubtle assertions concerning the big-ticket matters of the world disconcert these hyper-nationalists and erode specious perceptions of Indian might. Therefore, confronting Muslims and Pakistan becomes a lot easier. Battling China in popular culture could be the real deal, but India’s soft-power impresarios continue to pull away from that punch.
-
-China, perhaps even more than Pakistan, merits a Dhurandhar-like portrayal. In the recent past, one must not overlook how influential China has been over matters involving Pakistan and India, consistently favouring the former. How can one disregard the 2020-2021 skirmishes along the Line of Actual Control? Yet, that is where Bollywood will draw the line. Let me explain why.
-
-Pigeonholing Muslims and demonising Pakistan are far easier within the populist vocabulary of film, since these notions have been in the cultural ethos for long and thus have established idioms and cliches. But, even from the scaffolding of propaganda, an anti-China film poses filmic and intellectual challenges.
-
-Star power and the political divide between Tamil and Hindi cinemaDhurandhar did not occur in a vacuum: Entire influence machineries and preceding films tilled the ground for its almost preordained triumph. In the common imagination, typecasting Muslims and Islam got hardwired, in particular in the last twelve years. Treating China likewise is tough. Notably, producers of the upcoming Salman Khan-starrer Maatrubhumi, set around the Galwan clash, have dismissed reports that the film is facing censor issues.
-
-It makes for an enthralling line of inquiry: If attempted, how would an anti-China Hindi propaganda storyboard appear? For one, the makers would have to liken China to how Dhurandhar showed Pakistan. That is unconvincing, for much of China may look better than India. There, the premise of a Chinese Dhurandhar already looks rickety. In the ossifying of Muslims, the Urdu language has been parodied and caricatured. A similar attempt involving China implies investing in knowing the many major dialects of the Chinese language. That is more trouble; even AI might not help, yet.
-
-Then, there’s the facial visualisation. The Indian mainstream tends to fossilise Muslims; it treats people from the North East almost correspondingly. Now, if we consider Dhurandhar as the template for a muscular Hindu India, then there’s no other choice but to show mongoloid-featured folks as savages. That depiction sits at odds with people who have given a firmer handshake to parties that have brought Hindutva to their states. Cinematically, it’s challenging to nuance and individuate the facial and other distinctions of Indians bearing mongoloid features vis-a-vis the Chinese. Upshot: this film requires artistry and depth—qualities our propagandists lack abundantly.
-
-In the Cold War era, Hollywood dropped a blitz of films demeaning Russians, Arabs, and Africans. They, too, might find such an enterprise hard. Moreover, clothing, utensils, camera equipment, mise-en-scène materials, and software technologies deployed for such a film might be ‘Made in China’. After watching Dhurandhar, I wondered how China must have profited from a Bollywood film on Karachi. I now wish for Dhurandhar parts three, four, and more, and they tackle India’s other neighbours (once friends, now not so much) like Bangladesh, Sri Lanka, and Nepal. The lower-rung foes underestimate India’s wingspan and heft. They must be taught a lesson, even if they possess Chinese ammunition. Groan.
-
-(Rahul Jayaram teaches at the School of Film, Media and Creative Arts, R V University, Bengaluru)
-
-[Read full article](https://www.deccanherald.com/opinion/why-bollywood-wont-make-its-next-dhurandhar-about-china-4062591)
-
----
-
-### Radio silence: Central banks leave markets flying blind
-*The New Indian Express · Opinion*
-
-Updated on: 04 Jul 2026, 6:33 pm4 min readCopiedFor the first 70 years of the automobile, cars had no seatbelts. Nash Motors offered lap belts in 1949 but buyers rejected it, and governments looked away till it was made mandatory in the US in 1968. The logic was, “We always managed without it.” That logic was never defeated by argument. It was defeated by the body count.
-
-The saga merits attention. This week, the world’s most powerful central bankers gathered at the ECB Forum at Sintra in Portugal. Forward guidance—signalling the path of interest rates—was given a joint burial by the central banks of the US, Europe, Britain and Canada. ECB’s Christine Lagarde even offered the eulogy regretting she felt “bound and compelled” by it. Kevin Warsh, the new Fed chair, declared “common cause” with his mantra: no forward guidance. India’s RBI, notably, has not yet boarded the silence wagon—suffice to say silence is not an indulgence developing economies can afford.
-
-Alan Greenspan practised ambiguity; Sintra has proclaimed it. The timing is an indictment. Earlier this week, a Bank for International Settlements report named the AI investment boom a threat to financial stability. It warns that repricing caused by higher rates or an AI bust could be as disruptive as the crisis of 2008. Paradoxically, researchers warn of a crisis-scale correction; the principals respond by switching off the lights.
-
-The risks are not hypothetical. The largest hyperscalers are pouring over a trillion dollars on AI infrastructure. The gap between available cash and need is bridged with debt, much of it in off-balance-sheet vehicles tied to insurers and banks. Add circularity and deals so opaque that the same asset risks being pledged twice. The bankers know it— Bank of England’s Andrew Bailey catalogued the leverage on stage; Bank of Canada’s Tiff Macklem warned of a painful correction.
-
-What Sintra withdrew was the word map. The case for silence is that the world managed without guidance in the past. It is true that till 1994, the Federal Reserve didn’t disclose the Funds Rate, even litigated in 1976 to deny disclosure and ended the release of minutes. Rate announcement began in February 1994—at the very meeting that detonated the $1.5-trillion bond massacre. The market could not navigate the surprise tightening and the resultant crash entrenched what the courtroom could not compel. The bond market got its seatbelts the way cars got theirs—after the crash. Forward guidance arrived a decade later.
-
-Today’s market is not the one Greenspan mumbled at and nudged. It is driven by sentiment engines, by algorithms trading in milliseconds. The reality was flagged by Bailey at Sintra. Under the circumstances, hyper-volatility is a given. Warsh, however, asserted that “volatility is not up, it’s down” since forward guidance was dumped. Fact is, two-year bond yields jumped 15 basis points; Dow hit a high and then shed 1,151 points in two days. Semiconductors plunged 6.5 percent in a session, the US dollar hit a 40-year high against the yen and the rupee fell despite RBI’s new wall against free-kicks. Volatility has not fallen, but migrated.
-
-The no-guidance thesis does not survive its own logic. Warsh & Co say markets freed of guidance will price data independently. The question is whether central banks will treat this as uncontaminated information or an instrument of affirmation. Without a published reaction function, every decision can be retro-fitted as data-consistent. The abolition of guidance is, effectively, the abolition of the audit trail.
-
-The dodge of Sintra triggers an existential question. Central bankers have repeatedly stated they will not comment on deficits, tariffs or fiscal expenditure of governments that drive inflation more than any output gap. Now they will not disclose views or intentions on inflation or rates either.
-
-Consider the context: governments define fiscal expenditure, consumers define consumption levels and markets price risk. If the central bank offshores pricing to markets, renounces both commentary and prophecy, what justifies its place at the pulpit?
-
-Yes, they will determine policy rates. The policy rate, though, only touches overnight money. That which matters—mortgages, bonds, the yen, the rupee—are priced on the expected path of policy. Expectations are not a fashionable accessory in debates; they are the driver of transmission. Transparency about the present and silence about the future is not a policy, but a perilous contradiction.
-
-Greenspan wrote in Ayn Rand’s newsletter in 1966: “Deficit spending is simply a scheme for the confiscation of wealth.” He then ditched Rand at the altar of alternative monetary theories and read vows with the market to practise discretionary pricing. The strategy was scaffolded by overt incoherence and covert action—the market rescues for 1987, LTCM collapse, dot-com burst. The Fed Put was actually born as the Greenspan Put. The belief was Greenspan would step in to save markets. The halo was wrecked by the confession before the US Congress in 2008 that he “found a flaw in the model”, the ideology that markets discipline themselves.
-
-Warsh is Greenspan’s heir in method—constructed ambiguity, distrust of official data and faith that markets deprived of guidance grow up. The challenge to this belief is right around the corner—concentration risk in tech stock valuations, opacity of private credit bubbling into redemption gates, profligacy of governments. The central banks may not see it, but the Sintra consensus consecrated a church that abolished sermons to assume infallibility.
-
-Forward guidance was the three-point belt central banking invented after its own crash of 1994. At Sintra, the belt was unbuckled. Seventy years of motoring swore seatbelts were unnecessary—right up to the windshield. Markets are now asked to ride the fastest vehicle finance has ever built on the same assurance.
-
-Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Jul/04/radio-silence-central-banks-leave-markets-flying-blind)
 
 ---
 

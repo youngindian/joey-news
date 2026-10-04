@@ -1,5 +1,198 @@
 # Editorials archive — 2026-07
 
+## 5 July 2026
+
+### DC Edit | Why Is Jail, Not Bail, The Order?
+*Deccan Chronicle · Editorial*
+
+The judges of the Supreme Court often criticise those in the lower judiciary on public platforms about the latter declining bail to undertrial prisoners for one reason or the other and offer their pontifications about the right to bail, but while on the bench will pronounce judgments that almost pre-close the options of the very same judges in trial courts. And then there are judges and magistrates who go after apex court verdicts which give them an excuse to keep people behind bars forever. Between them they display legal insensitivity of the worst kind, disregard for human rights and total neglect of constitutional positions on individuals’ freedom.
+
+A Delhi court has again rejected the bail applications of student activists Umar Khalid and Sharjeel Imam in a case linked to the 2020 Delhi riots as it had “little option but to follow the Supreme Court order on January 5” which quite inappropriately commented on the merits of the case while declining bail. “Following the said order of the Supreme Court, this court cannot entertain the applications and grant bail to the applicants. In fact, the applications are not maintainable and they are hereby dismissed,” the court said. In the judge’s opinion, there is “no substantial change of circumstances”.
+
+A two-member bench of the Supreme Court had recently expressed “serious reservations” on the narrow reading of a judgment of a larger, three-member bench which held that prolonged incarceration without trial warrants constitutional intervention. The bench had pointed to situations where statutory conditions for bail will “melt down” if there is no likelihood of trial being completed within a reasonable time and the period of incarceration already undergone has exceeded a substantial part of the prescribed sentence.
+
+Mr Khalid and Mr Islam have been in jail for nearly six years with no end to their trial or incarceration in sight while judges scramble for reasons to keep them in jail. While Article 21 of the Constitution talks of “procedure established by law” before stripping someone of their right to life and personal liberty, some courts make the procedure the punishment. This is an affront to the spirit of the Constitution and hence must end.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-why-is-jail-not-bail-the-order-1968606)
+
+---
+
+### DC Edit | Will Consensus On Ladakh Cut Tension, Bring Peace?
+*Deccan Chronicle · Editorial*
+
+The emerging consensus between Ladakh’s representative bodies — the Leh Apex Body (LAB) and the Kargil Democratic Alliance (KDA) — and the Union government is more than an administrative breakthrough; it is a reaffirmation of India’s democratic spirit and a vital step toward stabilising one of the nation’s most sensitive frontiers.
+
+After months of tension, shutdowns, and public mobilisation, the agreement signals a shift from uncertainty to constructive partnership — something Ladakh urgently needed and the country could not afford to ignore.
+
+The finalised minutes of the May 22 meeting capture this turning point. As the document records, both sides agreed to craft an appropriate customised model of governance suited to Ladakh’s unique socio cultural, geographical and strategic characteristics, empowering a new elected body with executive, financial and legislative authority.
+
+This is not a symbolic gesture. It restores democratic participation to a region that has repeatedly voiced its desire for meaningful self governance since becoming a Union Territory in 2019.
+
+The elected executive will exercise the highest level of control over subjects falling under the purview of the Union Territory-level elected body and supervision over civil servants, including appraisals.
+
+Equally significant is the agreement on constitutional safeguards. The minutes emphasise that Ladakh requires a distinct and tailor made arrangement, potentially through a sui generis model analogous to Article 371. This recognition directly addresses public anxieties over land, jobs, culture and environmental fragility — concerns that fuelled the region wide shutdowns in Leh and Kargil. Those protests, reflecting the widening trust deficit, were a clear signal that Ladakh’s patience was wearing thin.
+
+Ignoring such discontent would have been a grave mistake. Ladakh is not just another administrative unit; it is India’s shield along the borders with Pakistan and China. In times of crisis, Ladakhis have stood unflinchingly with the nation. During the Kargil war, they supported the Army with unmatched courage — protecting supply lines, volunteering for service, and offering every possible assistance. Their patriotism is woven into India’s national security fabric.
+
+To alienate such a people would not only be ungrateful, it would also be strategically reckless. This consensus therefore does more than resolve a political standoff — it strengthens India’s frontier stability. A region that guards the nation’s highest peaks and most volatile borders cannot be governed through mistrust or unilateral decisions. By choosing dialogue over delay, the Centre has prevented a potentially combustible situation from escalating.
+
+The agreement also lays the groundwork for a future democratic architecture that could eventually evolve into full statehood. It balances Ladakh’s aspirations with fiscal realities, offering a phased path that is both pragmatic and respectful. In embracing Ladakh’s demands for representation and protection, the government has reaffirmed a simple truth: India is strongest when every region feels heard, valued and empowered.
+
+The people of Ladakh have always stood for India. Today, the country stands with them — and the nation is safer, stronger and more united for it.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-will-consensus-on-ladakh-cut-tension-bring-peace-1968601)
+
+---
+
+### John J. Kennedy | Mental Health On Campus: It Needs Much More Than Just Counselling!
+*Deccan Chronicle · Opinion*
+
+The University Grants Commission’s new guidelines on mental health and well-being in higher educational institutions deserve appreciation. They recognise a crisis that India’s universities can no longer ignore. Student suicides, rising anxiety, depression and emotional distress have become recurring features of higher education across India. The guidelines propose dedicated mental health centres, counselling services, faculty mentoring, peer support, crisis management systems and awareness programmes. These are sensible measures. They reflect a welcome shift from treating mental health as a private problem to recognising it as an institutional responsibility.
+
+The real challenge, however, begins after the policy is announced. India has produced many thoughtful education policies. Their impact has often depended on implementation, or the lack of it. The UGC guidelines face the same test.
+
+Many universities and colleges already struggle with severe faculty shortages, inadequate funding, overcrowded classrooms and weak student support systems. Hundreds of affiliated colleges lack enough teachers to meet academic requirements. Expecting these institutions to recruit qualified psychologists, establish fully functioning wellness centres, and sustain professional counselling services without additional financial support may not be realistic. There is a risk that many institutions will comply on paper while changing very little on the ground.
+
+The shortage of trained mental health professionals presents another challenge. India already has too few psychiatrists, psychologists and counsellors for its population. Recruiting qualified professionals is difficult even for well-funded private universities. Smaller colleges in rural districts will face even greater difficulties. Partnerships with hospitals and external agencies may help, but they cannot substitute for a permanent support system within campuses.
+
+The guidelines also recommend faculty mentoring. Many students need a trusted teacher who listens, guides, and notices when something is wrong. But mentoring requires time, training and continuity. Faculty members who teach large classes, handle administrative responsibilities, meet research targets, and work on short-term contracts cannot easily provide sustained mentoring.
+
+Unless universities improve staffing and reduce excessive workloads, mentoring may remain an aspiration rather than a reality.
+
+Implementation alone, however, is not the central issue. The larger question concerns the way Indian universities themselves have changed. The discussion on student mental health increasingly uses the language of counselling, therapy and psychological intervention. These services are necessary. They provide support when students face emotional crises. However, emotional distress does not develop in isolation. Universities themselves often create conditions that contribute to stress, loneliness and hopelessness.
+
+Many campuses have become highly competitive spaces where academic performance, placements and employability tend to dominate student life. Students move constantly between classes, coaching, internships, competitive examinations and online learning. Success is measured through grades, rankings and job offers. Failure carries a high social cost. Many students hesitate to admit that they are struggling because they fear being judged by peers, teachers or even their families.
+
+Several institutional practices add to this pressure. Delayed examinations, uncertain admissions, inconsistent evaluation, research pressure, administrative indifference and poor grievance mechanisms create avoidable anxiety. Ragging, discrimination, harassment and social exclusion continue to affect many campuses. Counselling can help students cope with these experiences, but it cannot remove the conditions that produce them.
+
+Many students also experience a deep sense of isolation. Universities were once places where students formed lasting friendships, participated in debates, joined cultural groups, and built close relationships with teachers. Today, digital communication has expanded social networks, but it has not replaced human connection. Students may interact constantly online and still feel profoundly alone.
+
+This loss of community affects some students more than others. First-generation learners, students from rural backgrounds, linguistic minorities, and students from marginalised communities often enter campuses that are culturally unfamiliar. Many still struggle with language, confidence and social acceptance alongside academic work. A counselling session may help them after distress becomes severe. A supportive campus community may prevent that distress from developing in the first place.
+
+Another concern deserves attention. Over-relying on therapy can shift blame from institutions to individuals. Students who feel lonely are encouraged to seek counselling; those experiencing burnout are advised to manage stress; those...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/john-j-kennedy-mental-health-on-campus-it-needs-much-more-than-just-counselling-1968614)
+
+---
+
+### SANJAYOVACHA | The Missing Dimension In India-Japan Relationship | Sanjaya Baru
+*Deccan Chronicle · Opinion*
+
+The India-Japan strategic partnership is one of India’s “truly strategic” partnerships, considering that we have defined over thirty bilateral relationships over the past three decades as “strategic”. The relations between India and Japan at the State-to-State level are defined by Kautilya’s simple and straightforward proposition that “a neighbour’s neighbour is a friend”. Shared cross-border concerns bring the two together. These relations were once again in focus last week during the visit to New Delhi of Japan’s Prime Minister Sanae Takaichi.
+
+While these relations have developed vigorously over the past quarter century under three successive Indian Prime Ministers, on the Japanese side two Prime Ministers must be credited for their commitment to relations with India -- Junichiro Koizumi and Shinzo Abe. Prime Minister Takaichi is a disciple of Abe and has restored momentum to the relationship during her brief tenure. Her visit to New Delhi was, therefore, significant.
+
+However, and interestingly, in their present state the India-Japan bilateral relations appear to be the exact reverse of the present state of bilateral relations between India and the United States. Consider this. In the case of the US and India, people-to-people (P2P) and business-to-business (B2B) relations remain robust even as government-to-government (G2G) have become testy, transactional and wanting in trust. India-Japan relations, on the other hand, testify to a robust and growing G2G engagement, with high levels of trust between political leaderships, but remain constrained by inadequate B2B connect and very low level of P2P engagement.
+
+In fact, as a Japanese scholar said to me, in the case of Japan’s relations with China and India there is a similar imbalance. While India-Japan G2G are strong and B2B and P2P remain weak, Japan-China G2G relations have become very strained, especially after Ms Takaichi took charge, while Japan-China P2P and B2B relations remain fairly robust.
+
+Prime Minister Takaichi arrived in New Delhi at a time when the Japanese media was reporting a wave of anti-immigrant, including an anti-tourist, sentiment at home. Japan has hiked its visa fee by more than three times to discourage tourism in a Japan over-run by tourists. Indians have not been spared from this anti-immigrant sentiment. Indian tourists have been reporting back home that several restaurants refuse to admit Indian customers. Apart from traces of racism, the bad behaviour of many Indian tourists overseas has made them unwelcome in many countries, including Japan. This despite the fact that the numbers of Indian tourists travelling to Japan remains low.
+
+Japan’s diplomats in India have been trying to encourage more Indian students to study in Japan, but with limited success. More than the limit imposed on P2P engagements due to low numbers, the quality of such engagement as there is has also been found wanting. While Japanese and Indian elites have high regard for each other’s culture and civilisation, there is very little appreciation of this among ordinary folk in both countries and little is taught about each country in the other’s.
+
+What of the B2B engagements? Japanese businesses, big, medium and small, continue to find China and Southeast Asia more attractive as destination for their overseas investments. It is only post-Covid that Japanese direct investment in China has begun to taper off and Japanese FDI into India has shown any appreciable increase.
+
+As a perceptive Indian business person based in Tokyo observed recently, India remains a daunting place for Japanese firms to do business in. “Many Japanese corporations have become accustomed to operating in China which efficiently ‘packages’ everything necessary to ‘plug and play’ in the country.” In India they have to still figure out how to go about doing business.
+
+The Japanese scholar I spoke to also believes that even though the political elites in both Japan and China are wary of each other, the business and social elites in Japan still retain a more positive view of China compared to their view of India. Given that they are themselves so disciplined, organised and efficient, the Japanese elites appreciate a similar commitment to order and civility among other East Asian societies, including China. Indians, on the other hand, come across as noisy, messy, chaotic and boisterous.
+
+These remarks reminded me of Prime Minister Junichiro Koizumi’s question to Prime Minister Manmohan Singh when, in 2005, he asked the latter whether India was part of “Rising Asia” to its East or “Unstable Asia” to its West. It takes more than brotherly and sisterly feelings between political leaders for societies at large to feel more comfortable with each other. East Asians in general, including Japanese, Koreans, Taiwanese and, indeed Chinese, feel more comfortable dealing with the West and with some Southeast Asian nations. India is still viewed by most of them as a difficult place to travel to, to do...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjayovacha-the-missing-dimension-in-india-japan-relationship-sanjaya-baru-1968633)
+
+---
+
+### The hidden costs of the tourism boom
+*Deccan Herald · Opinion*
+
+Countries across the world are eager to attract more international tourists. The incentives are credible: jobs, investment, and economic growth. However, policymakers appear to pay less attention to the environmental and social costs of mass tourism. Many countries in the Global South point to the perils of unchecked tourist inflows – particularly from wealthy Western nations – in the form of damaged ecosystems, strained infrastructure, and disrupted local communities. There are important lessons in these cautionary examples.
+
+As to just what exactly these problems are, and how the world is responding to them, you may wish to read Paige McClanahan’s book, The New Tourist. The author states that, spurred by tourist misbehaviour, anti-tourism movements are springing up across the world in countries such as Spain, Italy, the Netherlands, Vietnam, Thailand, and Indonesia. Just recently, a coastal luxury resort project in Albania linked to the family of United States President Donald Trump sparked massive protests.
+
+It is ludicrous that the Andaman and Nicobar Islands and cities such as Visakhapatnam and Kochi are considering expanding their port facilities to include cruise ship terminals without considering the ramifications of such a move.
+
+'Want free booze, skip queues': Man who visited 40 countries in 18 yrs flags how Indians behave abroadWhen a cruise ship docks in towns, the sudden influx of several thousands of tourists can prove problematic. The local chamber of commerce, the hotels, and the shops may welcome the surge, but what about the rest of the citizens?
+
+A temporary rise in the local economy benefits some but not all. The people who work in the tourism industry may suddenly find themselves priced out of the housing market. The local shops, including grocery stores, are likely to increase their prices to the detriment of the locals. Every home with an extra room may turn into an Airbnb overnight for as long as the cruise ship is in town. The town’s sewage system is adversely impacted, road traffic becomes a nightmare, and little attention is paid to the environmental effects of these ships. Here is a little-known fact about cruise ships: the workers are mostly Asian; their overlords are all white.
+
+What McClanahan fails to mention in her book is that the ugly behaviour of Western tourists, especially in the Global South, is also driven by a racist and colonial mindset that ignores local social, cultural, and religious norms. Moreover, when these visitors are arrested by local police on traffic and drug-related charges, a phone call to the nearest consular representative of their home countries is all it takes to get them released with few consequences. This is a throwback to the principle of extra-territoriality from the colonial times. Indian tourists in the US engaging in acts of vandalism face stiff fines, long prison sentences, and subsequent deportation. Rarely do Indian consular officials intercede.
+
+Medical tourism has become a profitable add-on for the hospitality industry. Since medical care is much cheaper in the Global South than in Western nations, chartered flights from cities such as Frankfurt and San Francisco commonly take patients to big private hospitals in Mexico, India, and the Philippines. However, this has an undesirable side effect: local private hospitals ignore local patients and prefer foreign ones since they can be charged more.
+
+Regarding tourist misbehaviour, is there any need to announce to the world that Tarzan loves Jane or Rinku loves Tinku in childish scribbles on Egypt’s Pyramids or carved into the barks of trees in city parks? Incidents involving naked tourists in Cambodia’s Angkor Wat led the authorities to order crackdowns. In one particularly egregious incident in 2016, a Dutch tourist in Myanmar had the nerve to disconnect the loudspeakers carrying Buddhist prayer chants because they were interrupting his sleep. He was jailed for three months.
+
+The East is not the Westerner’s playground to do as they will. A cautionary note is provided by what has happened in Jamaica. The local government cut off access to many of the beaches and ceded the shorelines to big hotel chains, if only to benefit private investors and tourists. This has deprived Jamaicans who depend on the sea for their livelihoods. I can bear witness to the fact that portions of the beach in Vizag have already been made off-limits to the general public since they adjoin big hotels.
+
+Barcelona has been at the centre of the pushback against overtourism. The protesters’ placards, asking tourists to “go home”, may soon resonate in distant cities strained under the promise of a thriving tourism economy.
+
+(Roger Marshall is a computer scientist, a newly minted Luddite and a cynic)
+
+[Read full article](https://www.deccanherald.com/opinion/the-hidden-costs-of-the-tourism-boom-4062592)
+
+---
+
+### Why Bollywood won't make its next 'Dhurandhar' about China
+*Deccan Herald · Opinion*
+
+While watching and absorbing the hype and hyperbole engulfing the Dhurandhar films, this writer kept hearing a counter-intuitive question: Why hasn’t mainstream Indian cinema, especially Bollywood, which carries the load of muscular hyper-nationalism, done to China and the Chinese what it has done to Islam and Pakistan in a series of films leading up to Dhurandhar?
+
+Some of our cinema has gone hammer and tongs against Indian Muslims over their “allegiances”, expediently forgetting that a sizeable population of Hindus live in and send money from Islamic nations, enabling them with better economic prospects than in India. Bollywood lampoons Pakistan but is unwilling to confront the true superpower of the 21st century, which sometimes subtly, sometimes brutally, transgresses boundaries.
+
+Juxtaposing the growth of China and India inconveniences many Indian hyper-nationalists. China’s usually inscrutable and spasmodically unsubtle assertions concerning the big-ticket matters of the world disconcert these hyper-nationalists and erode specious perceptions of Indian might. Therefore, confronting Muslims and Pakistan becomes a lot easier. Battling China in popular culture could be the real deal, but India’s soft-power impresarios continue to pull away from that punch.
+
+China, perhaps even more than Pakistan, merits a Dhurandhar-like portrayal. In the recent past, one must not overlook how influential China has been over matters involving Pakistan and India, consistently favouring the former. How can one disregard the 2020-2021 skirmishes along the Line of Actual Control? Yet, that is where Bollywood will draw the line. Let me explain why.
+
+Pigeonholing Muslims and demonising Pakistan are far easier within the populist vocabulary of film, since these notions have been in the cultural ethos for long and thus have established idioms and cliches. But, even from the scaffolding of propaganda, an anti-China film poses filmic and intellectual challenges.
+
+Star power and the political divide between Tamil and Hindi cinemaDhurandhar did not occur in a vacuum: Entire influence machineries and preceding films tilled the ground for its almost preordained triumph. In the common imagination, typecasting Muslims and Islam got hardwired, in particular in the last twelve years. Treating China likewise is tough. Notably, producers of the upcoming Salman Khan-starrer Maatrubhumi, set around the Galwan clash, have dismissed reports that the film is facing censor issues.
+
+It makes for an enthralling line of inquiry: If attempted, how would an anti-China Hindi propaganda storyboard appear? For one, the makers would have to liken China to how Dhurandhar showed Pakistan. That is unconvincing, for much of China may look better than India. There, the premise of a Chinese Dhurandhar already looks rickety. In the ossifying of Muslims, the Urdu language has been parodied and caricatured. A similar attempt involving China implies investing in knowing the many major dialects of the Chinese language. That is more trouble; even AI might not help, yet.
+
+Then, there’s the facial visualisation. The Indian mainstream tends to fossilise Muslims; it treats people from the North East almost correspondingly. Now, if we consider Dhurandhar as the template for a muscular Hindu India, then there’s no other choice but to show mongoloid-featured folks as savages. That depiction sits at odds with people who have given a firmer handshake to parties that have brought Hindutva to their states. Cinematically, it’s challenging to nuance and individuate the facial and other distinctions of Indians bearing mongoloid features vis-a-vis the Chinese. Upshot: this film requires artistry and depth—qualities our propagandists lack abundantly.
+
+In the Cold War era, Hollywood dropped a blitz of films demeaning Russians, Arabs, and Africans. They, too, might find such an enterprise hard. Moreover, clothing, utensils, camera equipment, mise-en-scène materials, and software technologies deployed for such a film might be ‘Made in China’. After watching Dhurandhar, I wondered how China must have profited from a Bollywood film on Karachi. I now wish for Dhurandhar parts three, four, and more, and they tackle India’s other neighbours (once friends, now not so much) like Bangladesh, Sri Lanka, and Nepal. The lower-rung foes underestimate India’s wingspan and heft. They must be taught a lesson, even if they possess Chinese ammunition. Groan.
+
+(Rahul Jayaram teaches at the School of Film, Media and Creative Arts, R V University, Bengaluru)
+
+[Read full article](https://www.deccanherald.com/opinion/why-bollywood-wont-make-its-next-dhurandhar-about-china-4062591)
+
+---
+
+### Radio silence: Central banks leave markets flying blind
+*The New Indian Express · Opinion*
+
+Updated on: 04 Jul 2026, 6:33 pm4 min readCopiedFor the first 70 years of the automobile, cars had no seatbelts. Nash Motors offered lap belts in 1949 but buyers rejected it, and governments looked away till it was made mandatory in the US in 1968. The logic was, “We always managed without it.” That logic was never defeated by argument. It was defeated by the body count.
+
+The saga merits attention. This week, the world’s most powerful central bankers gathered at the ECB Forum at Sintra in Portugal. Forward guidance—signalling the path of interest rates—was given a joint burial by the central banks of the US, Europe, Britain and Canada. ECB’s Christine Lagarde even offered the eulogy regretting she felt “bound and compelled” by it. Kevin Warsh, the new Fed chair, declared “common cause” with his mantra: no forward guidance. India’s RBI, notably, has not yet boarded the silence wagon—suffice to say silence is not an indulgence developing economies can afford.
+
+Alan Greenspan practised ambiguity; Sintra has proclaimed it. The timing is an indictment. Earlier this week, a Bank for International Settlements report named the AI investment boom a threat to financial stability. It warns that repricing caused by higher rates or an AI bust could be as disruptive as the crisis of 2008. Paradoxically, researchers warn of a crisis-scale correction; the principals respond by switching off the lights.
+
+The risks are not hypothetical. The largest hyperscalers are pouring over a trillion dollars on AI infrastructure. The gap between available cash and need is bridged with debt, much of it in off-balance-sheet vehicles tied to insurers and banks. Add circularity and deals so opaque that the same asset risks being pledged twice. The bankers know it— Bank of England’s Andrew Bailey catalogued the leverage on stage; Bank of Canada’s Tiff Macklem warned of a painful correction.
+
+What Sintra withdrew was the word map. The case for silence is that the world managed without guidance in the past. It is true that till 1994, the Federal Reserve didn’t disclose the Funds Rate, even litigated in 1976 to deny disclosure and ended the release of minutes. Rate announcement began in February 1994—at the very meeting that detonated the $1.5-trillion bond massacre. The market could not navigate the surprise tightening and the resultant crash entrenched what the courtroom could not compel. The bond market got its seatbelts the way cars got theirs—after the crash. Forward guidance arrived a decade later.
+
+Today’s market is not the one Greenspan mumbled at and nudged. It is driven by sentiment engines, by algorithms trading in milliseconds. The reality was flagged by Bailey at Sintra. Under the circumstances, hyper-volatility is a given. Warsh, however, asserted that “volatility is not up, it’s down” since forward guidance was dumped. Fact is, two-year bond yields jumped 15 basis points; Dow hit a high and then shed 1,151 points in two days. Semiconductors plunged 6.5 percent in a session, the US dollar hit a 40-year high against the yen and the rupee fell despite RBI’s new wall against free-kicks. Volatility has not fallen, but migrated.
+
+The no-guidance thesis does not survive its own logic. Warsh & Co say markets freed of guidance will price data independently. The question is whether central banks will treat this as uncontaminated information or an instrument of affirmation. Without a published reaction function, every decision can be retro-fitted as data-consistent. The abolition of guidance is, effectively, the abolition of the audit trail.
+
+The dodge of Sintra triggers an existential question. Central bankers have repeatedly stated they will not comment on deficits, tariffs or fiscal expenditure of governments that drive inflation more than any output gap. Now they will not disclose views or intentions on inflation or rates either.
+
+Consider the context: governments define fiscal expenditure, consumers define consumption levels and markets price risk. If the central bank offshores pricing to markets, renounces both commentary and prophecy, what justifies its place at the pulpit?
+
+Yes, they will determine policy rates. The policy rate, though, only touches overnight money. That which matters—mortgages, bonds, the yen, the rupee—are priced on the expected path of policy. Expectations are not a fashionable accessory in debates; they are the driver of transmission. Transparency about the present and silence about the future is not a policy, but a perilous contradiction.
+
+Greenspan wrote in Ayn Rand’s newsletter in 1966: “Deficit spending is simply a scheme for the confiscation of wealth.” He then ditched Rand at the altar of alternative monetary theories and read vows with the market to practise discretionary pricing. The strategy was scaffolded by overt incoherence and covert action—the market rescues for 1987, LTCM collapse, dot-com burst. The Fed Put was actually born as the Greenspan Put. The belief was Greenspan would step in to save markets. The halo was wrecked by the confession before the US Congress in 2008 that he “found a flaw in the model”, the ideology that markets discipline themselves.
+
+Warsh is Greenspan’s heir in method—constructed ambiguity, distrust of official data and faith that markets deprived of guidance grow up. The challenge to this belief is right around the corner—concentration risk in tech stock valuations, opacity of private credit bubbling into redemption gates, profligacy of governments. The central banks may not see it, but the Sintra consensus consecrated a church that abolished sermons to assume infallibility.
+
+Forward guidance was the three-point belt central banking invented after its own crash of 1994. At Sintra, the belt was unbuckled. Seventy years of motoring swore seatbelts were unnecessary—right up to the windshield. Markets are now asked to ride the fastest vehicle finance has ever built on the same assurance.
+
+Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Jul/04/radio-silence-central-banks-leave-markets-flying-blind)
+
+---
+
 ## 4 July 2026
 
 ### Counting cancer: On making cancer a notifiable disease in India
