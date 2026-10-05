@@ -1,10 +1,302 @@
 # Editorials
 
-_Last updated: 2026-10-04 07:17 UTC_
+_Last updated: 2026-10-05 07:32 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 5 October 2026
+
+### Outbound force: On the U.S. leaving Iraq
+*The Hindu · Editorial*
+
+The United States invaded Iraq in March 2003, saying that Saddam Hussein’s regime possessed weapons of mass destruction (WMD) and harboured terrorist groups. In 2011, then U.S. President Barack Obama announced America’s withdrawal, but its troops returned when the Islamic State captured huge swathes of territory in Iraq and Syria. On September 30, 2026, more than 23 years after the invasion, U.S. troops finally left Iraq, in the midst of another American war in the region. The war on Iraq has been one of the gravest strategic and humanitarian disasters of the 21st century. The WMD claim turned out to be false, if not an outright lie, while al-Qaeda built one of its most violent branches in post-war Iraq. The destruction of Saddam’s Ba’athist state and the abrupt rise of Shia parties widened social cleavages, triggering a deadly civil war, killing hundreds of thousands of Iraqis. The disastrous consequences of George W. Bush’s war did not end there. Al-Qaeda in Iraq transformed into the Islamic State by 2014 and spread terror across the region and beyond. The Popular Mobilisation Forces (PMFs, or Hashad al-Shabi), an umbrella of Iran-backed Shia militias, have since emerged as a state within the state.
+
+Saddam’s Iraq, despite its hostile relations with Gulf monarchies, was a buffer between the Arab Gulf countries and Iran. When Saddam’s regime was toppled, Iran extended its influence across Iraq through Shia parties and militias. It is an irony that the U.S. is leaving Iraq at a time when it is trying to defeat Iran in a major regional war. But beneath the irony lies everything that went wrong with America’s regime-change wars, which destabilised parts of West Asia, gave rise to militias and jihadists and exposed the limits of American power in the region. When the U.S. and Israel began bombing Iran on February 28, Hashad joined the war. Since then, Iran and its allies have carried out at least 600 attacks on U.S. military and diplomatic facilities in Iraq, a stark reminder to Washington that maintaining troops there had become unsustainable. If in Afghanistan the U.S. exited after 20 years of war leaving the country in the hands of the same Taliban that it had toppled in 2001, in Iraq, America is leaving behind a war-ravaged country in the hands of a weak government and powerful militias backed by a resurgent Iran. Iran and its allies have vowed to push the U.S. out of West Asia. They may not have the wherewithal to achieve that goal, but they have managed to drive the U.S. out of Iraq.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/outbound-force-on-the-us-leaving-iraq/article71543933.ece)
+
+---
+
+### Two or three?: On the Court, students, three-language policy
+*The Hindu · Editorial*
+
+The Supreme Court, through its frequent interventions, is pointing to the various aspects of the three-language policy that the Central Board of Secondary Education (CBSE) does not seem to have thought through. Regardless of its eventual judgment, the Court’s intent at this stage seems to be to point to the pitfalls of the policy and at least soften the rough edges. In its latest ruling, the Court has said that current Class 6 students should be given the same relief as students in Classes 7, 8 and 9, whose final Class 10 examination will only be an internal assessment, not a Board examination. The Court is seeking to lessen the load on the students, at least until schools are fully prepared. It had earlier asked if the policy could start from 2027, not 2026. The CBSE has stubbornly resisted compromise at various stages in the hearing. Earlier, the Court had intervened to point out that suddenly learning a new language in Class 9 would be too disruptive if the students had not studied a second “Indian” language until Class 8. The Court had also mooted careful consideration of treating English as indigenous, putting its categorisation as a foreign language under question.
+
+English is a de facto Indian language. It has been in use in India for at least 300 years and is the leading language of education, courts, and professions widely practised by Indians; it also serves as the preferred link language for many. English knowledge has consistently given Indians an edge in employment in global industries such as the IT sector. Indians will want English to remain one of their unique selling points as the government looks to jobs in global industries as a pathway to prosperity. The National Education Policy 2020, though advocating for two Indian languages, also mentions the importance of learning foreign languages to facilitate the global mobility of Indians seeking employment. The Hindu’s reportage has shown that since English is the language of instruction in other subjects, it will become the only so-called foreign language students will take in CBSE schools. Many schools will stick to Sanskrit as the second Indian language all the way up to Class 10 while Hindi would be the first. Some schools, especially in the southern States, will continue with the regional language such as Tamil or Kannada as the other Indian language. The practical consequence of the current policy is removing Spanish, French and other foreign languages from schools. But any purported intent of promoting cross-regional language learning may just not be served though the Court has found merit in learning more Indian languages as a way of strengthening the federal structure. A strenuous learning of an additional Indian language serves little practical purpose though it may cater to the atavistic impulses of some. The two-language policy — English and mother tongue — would be best for India. Students can be tested on a third language of their choice through internal assessment, not through a Board examination.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/two-or-three-on-the-court-students-three-language-policy/article71543906.ece)
+
+---
+
+### The ECI’s constitutional mandate is under strain
+*The Hindu · Opinion*
+
+Never before has the Election Commission of India (ECI) been subjected to such public opprobrium as it is witnessing today. This constitutional body has always enjoyed the admiration of people both within and outside the country. Indeed, the reputation of India’s ECI has been global, because of its competence, impartiality and unwavering commitment to democratic norms. But today, its reputation is in the mud because of its actions in recent times, which smack of illegality, partisanship and worse. The manner in which it has carried out the Special Intensive Revision (SIR) of electoral rolls in various States shows an utter disregard for the law and a disdain for procedural correctness and constitutional propriety.
+
+Explained | When Election Commission was rocked by internal disputes
+
+Electoral fearsThe debate in the Constituent Assembly on the Election Commission (Draft Article 289) throws light on the thinking of its members about the functioning of this constitutional body. There was, in fact, unanimity among the members, including the Chairman of the Drafting Committee, Dr. B.R. Ambedkar, that the ECI should be outside the control of the executive. Dr. Ambedkar was quite emphatic on this point. He said, “So far as the fundamental question is concerned that the election machinery should be outside the control of the executive government there has been no dispute.”
+
+The members were conscious of the danger of an election commission being under the control of the government, which would undermine the integrity of the election. In fact, the proposal in the Draft Constitution was for a decentralised election machinery under which each province would have a chief election commissioner who would oversee the preparation of electoral rolls and the conduct of elections to the State legislatures. Elections to Parliament, as well as to the offices of the President and the Vice-President of India, would be conducted by a chief election commissioner at the Centre.
+
+This proposal was rejected by Dr. Ambedkar himself, who moved an entirely different Article proposing to centralise the election machinery. The reason for rejecting the proposal and deciding to centralise the election machinery was that there had been instances in the provinces of large-scale deletion of voters regarded as opponents of the ruling party by the Chief Election Commissioners (CEC) of the States. These Commissioners were mostly political nominees of the Chief Ministers.
+
+A new Article was therefore introduced, providing for a central Election Commission consisting of the CEC and other Election Commissioners (EC), with the responsibility of preparing electoral rolls and conducting elections to Parliament, State legislatures and the offices of the President and the Vice-President. It is an irony that, almost 80 years later, the same complaints against the CEC — of large-scale deletion of voters from electoral rolls without strict adherence to the law — have come up. The greater irony is that the ECs themselves have voiced complaints about the “illegal and unconstitutional” acts of the CEC.
+
+It is interesting to note that senior members of the Constituent Assembly, such as Shibban Lal Saxena, had expressed the fear that a party in power in the future might appoint a staunch party loyalist as the CEC, who could manipulate the election machinery in favour of the ruling party. To avoid this, his suggestion was that any person appointed by the President should have to be approved by Parliament by a two-thirds majority, along the lines of the United States Senate’s confirmation of senior-level appointments.
+
+The point is that the Constitution-makers could foresee the danger of a CEC acting in the interests of the ruling party and thereby subverting the entire constitutional scheme governing elections. It now appears that their fears were not unfounded.
+
+Comment | A Court divided by its own architecture
+
+An uncertain legal foundationThe SIR that has stirred up the present controversy is, in fact, not backed by any clear legal provision. Section 21 of the Representation of the People (RP) Act, 1950, provides for the preparation and revision of electoral rolls. It states: “The electoral roll for each constituency shall be prepared in the prescribed manner by reference to the qualifying date and shall come into force immediately upon its final publication in accordance with the rules made under this Act” [Section 21(1)].
+
+“The said electoral roll shall ... be revised in the prescribed manner by reference to the qualifying date — (a) before each general election to the House of the People or to the Legislative Assembly of a State; (b) before each by election; and (c) shall be revised in any year in the prescribed manner by reference to the qualifying date if such revision has been directed by the Election Commission” [Section 21(2)]. Under Rule 25 of the Registration of Electors Rules, 1960, a revision under Section 21(2) may be either intensive or summary, or partly intensive and partly summary.
+
+There is yet another category of revision in Section 21(3), which says: “Notwithstanding anything contained in sub-section (2), the Election Commission may at any time, for reasons to be recorded, direct a special revision of the electoral roll for any constituency or part of a constituency in such manner as it may think fit.” The words “any constituency or a part of a constituency” make it abundantly clear that this special revision is meant to be done only in a limited number of constituencies where special circumstances exist. Thus, intensive revision and special revision are two different types of revision under different circumstances. The above provisions make it clear that there is no mention in the law of a special intensive revision. How, then, could the ECI conduct a revision that is not provided for in law? Article 324 does not empower the ECI to do things against the law.
+
+Under this Article, the ECI can exercise powers in respect of matters that are not covered by statute. Otherwise it is bound to act in accordance with the law
+
+Also Read | A ‘superior’ CEC renders Election Commissioners ‘non-functional’, Supreme Court had warned
+
+The cost of unilateralismAccording to media reports, 13 crore Indian voters have already been removed from the electoral rolls across the country as a result of the SIR operations. Perhaps this is the biggest disenfranchisement exercise ever undertaken in any democratic country in the world. This exercise, needless to say, violates Article 326, which provides for universal adult suffrage and the right of eligible citizens to be registered as voters, subject to disqualification under law. The scheme of Article 326 is to include eligible voters, not to exclude them. But the objective of the SIR seems to be to exclude the maximum possible number of voters from the electoral rolls.
+
+This huge mess has been created by the now obvious unilateralism that prevails in decision-making within the ECI. The appalling state of affairs in the domain of decision-making has been brought to light by the two ECs; according to them, they were not kept in the loop when crucial decisions were taken by the CEC.
+
+The ECI is a constitutional body, and the procedure for decision-making is well laid in the law. A decision taken unilaterally by the CEC is not a valid decision, and all actions that follow from it have no legal validity. This creates a real constitutional crisis.
+
+Opposition parties are preparing to move an impeachment motion against the CEC for serious misconduct. The CEC can be impeached in the same manner and on the same grounds as a judge of the Supreme Court of India. For the CEC to be removed, however, misbehaviour must be proved. The law also empowers the presiding officers of the two Houses of Parliament to disallow an impeachment motion at the threshold.
+
+This provision could frustrate any attempt by Opposition Members of Parliament to initiate proceedings against either a judge or the CEC. Further, Section 16 of the Chief Election Commissioner and Other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023, further fortifies the CEC and other ECs by providing lifelong immunity from any civil or criminal liability. It may be noted that even the President of India does not enjoy such lifelong immunity. Such is the level of protection provided to the CEC and the other ECs. It is no wonder, therefore, that the Constitution, the law and citizens appear to have become helpless before an omnipotent ECI.
+
+P.D.T. Achary is former Secretary General, Lok Sabha
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-ecis-constitutional-mandate-is-under-strain/article71544434.ece)
+
+---
+
+### Abhijit Bhattacharyya | IAF at 94: Glory, Grit & the Need To Evolve
+*Deccan Chronicle · Opinion*
+
+As the IAF completes 94 years, the commanders thereof can justifiably feel happy to have proved themselves to be exemplary and commendably apolitical professional torchbearers carrying the flag of an aerial legacy, appreciated by every Indian. The October 1932-born IAF is the eighth seniormost air force among all contemporary world peers. Those preceding IAF are Royal Air Force (1918), Italy (1923), New Zealand (1923), Romania (1924), Afghanistan (1924), Finland (1928) and Chile (1930).Understandably, any combat institution of a subcontinent like India has to have a story of ups and downs owing to the vagaries and unpredictability of international factors and a myriad combo of local and regional developments. What won out, however, were the guts, grit and glory of IAF leaders and their lads’ impeccable professionalism albeit taught by the white colonial rulers. No doubt the story of British imperialism doesn’t create positive vibes for the ordinary Indian. Still, the fact is that setting up an institution like IAF proved beneficial for Independent India. The British introduced air power in India for their own benefit in order to rule for long. However, with their 1947 departure, New Delhi got a first-class ready-made military machine. The institution, born as Royal Indian Air Force, is the pride of the nation today. Nevertheless, a birthday is also a time for self-assessment and reflection. “How are you IAF? All well, one hopes?” The IAF is bound to say “I am fine”, but surely things could have been better if one delves slightly deep to assess the reality for the men and women who are on a 24/7/365 mission for the nation.According to Jane’s World Air Forces 2025 (Issue 62, page 278), “The IAF is world’s fourth-largest air force. Although it’s a competent and professional service, it faces increasing challenges, especially due to dwindling fleet numbers and procurement issues… the IAF admitted that inventory numbers are not adequate to fully execute air campaigns in a ‘two-front’ scenario against China and Pakistan.” In several policy documents, “India sanctioned 42-fighter squadrons”. However, the IAF inventory is filled with an ageing fleet of “approximately 28 squadrons”. That’s disappointing. According to Military Balance 2026 IISS, London (pages 264-265), the IAF consists of 1,51,800 personnel and “29 squadrons of 636 combat capable fighters”. The capable fighters of IAF have no doubts, along with capable people in air and on ground. However, a relook at age of machines recorded by Jane’s World Air Forces 2025 should be enough to coax every Indian to ponder corrective action.Of 28/29 combat squadrons, the original “Deep Penetration Strike Aircraft” (DPSA) Anglo-French SEPECAT Jaguars are 46 years old or more, inducted as they are in 1979. The twin-engine Russian MiG-29 was commissioned in 1986 (40 years) and the single-engine French Mirage 2000H joined IAF in 1984 (42 years). The first batch of the twin-engine Russian Sukhoi-30MKI joined squadron service in 1997, more than 29 years ago. Actual users and ops experts may point out that “age alone is not the sole factor for determining or judging a fighter aircraft quality and performance in actual battle because every machine is under the command, control, supervision and maintenance of experts of the force and fleet upgrading is an ongoing process”. Yet would it be far-fetched to suggest that the older the flying machine, the more time, energy and money are spent to keep it “flight worthy” for air ops? Along with wear and tear, logistics and training, won’t it always be an avoidable additional challenge for the pilots and their engineering colleagues to stay at par with newly inducted fighters in complex aerial exercise and routine training sorties?That said, the redeeming feature of the IAF’s ageing fleet is HAL’s 2016-inducted Bangalore-made single-engine indigenous Tejas Mark 1 and the French-manufactured twin-engine Rafale EH commissioned in 2019. The IAF does have a formidable task cut out for an onerous responsibility of eternal vigilance over the South Asian airspace.The 94-year-old IAF is one of the three principal arms of the Indian defence system with the second biggest manpower, the Army being the largest and the Navy with a manpower of 84,350 the smallest. What’s, however, striking is that, unlike IAF, the indigenous industrial capacity of the four principal shipyards in Mumbai, Kolkata, Visakhapatnam and Kochi successfully ensured that the Indian admiralty does not become an exclusively buyer’s navy banking on on foreign suppliers. If the Navy does well every Indian feels happy. A builder’s navy, or for that matter, army and air force, too, would always be the best for India. Hence, if IAF operates below strength, with vintage craft aged between three and four decades having high maintenance, challenging logistics and expensive spare parts and frequent “down times”, it’s indeed a matter of serious national concern. What’s the remedy then?...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/abhijit-bhattacharyya-iaf-at-94-glory-grit-the-need-to-evolve-1993167)
+
+---
+
+### Climate index rings alarm bells
+*Deccan Herald · Editorial*
+
+Every new climate study delivers dispiriting information and throws up more danger signals about global changes and their impact on human lives. No region will be spared, though some will suffer more due to geographical, economic, social, or other reasons, and differing capacities to cope with the changes. South Asia, especially India, will be among the hardest hit. A new survey shows that the impact varies across India. It says that the land area affected by temperature extremes expanded by 20% to 40% per decade across central and north-west India between 1971 and 2022. It found that areas appearing as scattered heat hotspots in the 1980s turned into broad, continuous zones of heat stress by the 2010s. North-west India showed the sharpest increases in daytime highs, heatwave severity, and humid heat stress. Southern India is drying at the fastest rate, with drought hotspots centred along the eastern coast. The north-eastern region has shown rising hydro-climatic extremes, with short-duration heavy downpours and more frequent drought episodes.
+
+The study, Evolution of Climate Extremes Over the Indian Subcontinent Using a Revised CEI, was conducted by scientists from the India Meteorological Department (IMD), the National Centre for Medium Range Weather Forecasting (NCMRWF), and Atria University. It combined seven separate hazards, including daytime heat, humid heat, heatwave severity, and drought, into a single India Climate Extremes Index. Over five decades, the index shows, India has not only warmed but also experienced expanding zones of heat and drought extremes. South India is drying up the fastest, with Odisha, Andhra Pradesh, and Tamil Nadu consistently recording drought conditions. More than 40% of the region along the eastern coast experienced droughts in recent years.
+
+The study shows that the varying trends call for region-specific response plans to counter the effects of climate change. The authors of the study said that the response must focus on heat action for the north-west, water and drought resilience for the south, and flood and rainfall management for the northeast. They have called for district-level planning and monitoring, and for using the new index to find out the areas where climate stress is building up so that adaptation measures can be taken accordingly. District administrations and state governments should co-ordinate to optimise resources. Ideally, the climate strategy should have local, regional, and national elements in it, and be part of a global framework.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/climate-index-rings-alarm-bells-4170354)
+
+---
+
+### Intent alone will not help reform policing
+*Deccan Herald · Editorial*
+
+Karnataka Home Minister Priyank Kharge’s decision to constitute three committees to recommend police reforms acknowledges the need to improve the force’s services, capabilities, and organisational structure. Retired directors general of police R K Dutta, M N Reddi, and Kamal Pant have been tasked with examining these areas and submitting recommendations within two months. Dutta’s committee will review citizen services, including FIR registration and complaint handling, and consider a Citizens’ Charter prescribing service standards. Reddi’s panel will prepare a modernisation plan covering cybercrime, artificial intelligence, forensic facilities, and emergency response. Pant’s committee will examine recruitment, cadre strength, promotions, and career progression. These are necessary interventions, but their success will depend on implementation.
+
+Police reform is hardly a new subject. The National Police Commission (1977-1981), Ribeiro Committee, Padmanabhaiah Committee, and Soli Sorabjee Committee, among others, recommended insulating policing from political interference, establishing independent complaints authorities, ensuring fixed tenures for key officers, and making transfers transparent. The Malimath Committee stressed specialised investigation and better use of forensic evidence. In 2006, the Supreme Court’s Prakash Singh judgment directed states to establish safeguards such as State Security Commissions, Police Establishment Boards, and complaints authorities, while protecting tenures and separating investigation from law-and-order functions. Yet implementation remains inadequate, particularly in separating investigation from law-and-order duties. The consequences are visible: routine VIP bandobast and other deployments leave investigators overburdened, delaying charge sheets, and weakening prosecutions. The latest exercise should, therefore, lead to enforceable reforms, including amendments to the Karnataka Police Act, 1963, rather than stop at administrative circulars.
+
+Policing begins with high moraleThe larger challenge is integrity within the force. The suspension of over 230 personnel in connection with serious offences, including extortion, bribery, robbery, suppression of evidence, and alleged links with criminal networks, points to the need for stronger internal accountability. Such cases demand rigorous investigation and firm action. Even more corrosive is the market for transfers and postings, which is no longer spoken about in hushed tones. Payments for desirable postings incentivise officers to recoup their investments through illegal collections and build funds for future transfers. Persistent complaints also suggest that some officers spend more time brokering real-estate deals than policing. Left unchecked, these practices undermine the purpose of reform. Kharge must address political interference, cash-for-postings, and police misconduct alongside improvements in technology, recruitment, and infrastructure. The real test is whether the committees help make the police answerable to the law and citizens, rather than to political patrons, private interests or criminal networks.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/intent-alone-will-not-help-reform-policing-4170355)
+
+---
+
+### Modi @25 | From invincible to vulnerable
+*Deccan Herald · Opinion*
+
+Watching Prime Minister Narendra Modi and his cohorts within the Bharatiya Janata Party (BJP) sycophantically celebrate, first his 76th birthday and subsequently, the silver jubilee of his unbroken run in executive office, cannot but arouse a supreme, almost cruel, irony.
+
+The almost 20-day period, from September 17 to October 7, points to a merciless paradox — after having spent a quarter of a century perfecting the craft of absolute dominance, first as the Hindu Hriday Samrat (Emperor of Hindu Hearts) of Gujarat, and later, as the infallible emperor seated in New Delhi, Modi walks past a monumental milestone, not at the peak of his power, but at its most visible decline since October 2001.
+
+The public construct of Modi, the electoral and political phenomenon that he has been since assuming office, was based on the idea of being an invincible leader with unconcealed zeal to break every record of governance and statesmanship from the past.
+
+25 Years of Service: PM Shri Narendra Modi Has Enhanced India’s Prestige and Honour On Global Stage, Dr. Mohan YadavEvery imagination of him had no disputing: Modi worked towards emerging as an electorally unassailable personality and a messianic ruler (he once told me about being god-gifted to conjure up previously unheard solutions to complex problems, besides, of course, his infamous declaration in 2024 of being a non-biological being), whose authority was absolute and personal brand subsumed both State and party.
+
+Yet, as the party and official apparatus rolled out the ceremonial spectacles to mark his unbroken run, a combination of forces — from exacting allies and elders in the Sangh parivar to a re-energised Opposition, and from previously de-politicised youth brigade who have now shed the fear of staging protests to an electorate that hinted at the power it held with the mandate of 2024 — have taken away the one attribute he prized above all else: total, unquestioned control.
+
+It is more than two months since Modi secured the resignation of the education minister, Dharmendra Pradhan, under public and Opposition pressure. With multiple new protests rearing their heads across India, Modi faces a deficit of something that he was always successful in invoking: a counter strategy to fell his adversaries with one perfect stroke.
+
+Within the BJP, Modi was a lateral entrant to governance. Although inducted from the Rashtriya Swayamsevak Sangh (RSS) into the BJP in 1987, he was deployed in the organisational wing of the party, and not its legislative branch, which leads to governmental roles in the event of the party securing a legislative majority.
+
+Modi had never contested an election when he was deputed to Gandhinagar in October 2001, to assume charge as chief minister, replacing the ineffective Keshubhai Patel. His brief was to urgently set the house in order, and get the state government back on track.
+
+‘Not a day's off in 25 years’: Piyush Goyal hails Modi's uninterrupted tenure as CM, PMStreamlining relief and rehabilitation in Kutch after the devastating earthquake on January 26, 2001, was a prerequisite to this. Positive intervention in post-natural disasters was a long tradition within the RSS, and Modi had toiled in such activities, especially the Machchhu dam failure in August 1979, which remains the worst flood disaster in Saurashtra's history.
+
+A 29-year-old Narendra Modi, then a young RSS pracharak, was dispatched from Ahmedabad to act as one of the key ‘first responders’ leading the ground-level operations.
+
+Abandoning political ethics
+
+Politically, however, Modi made little headway. Bye-elections to three Assembly seats were held in February 2002. The BJP won just one of these — vacated for Modi to become a legislator. The Congress wrested the other two seats from the BJP.
+
+With Assembly polls scheduled in early 2003, the portents were not good. The Godhra carnage and the consequent riots across Gujarat provided Modi with a huge ‘opportunity’ and he harnessed it to the fullest, abandoning political ethics.
+
+From statements justifying the carnage as a trail of “action and reaction”, to the recent declaration of close aide and Union Home Minister Amit Shah that the Uniform Civil Code (UCC) will be implemented across all 21 NDA-ruled states before the 2029 Lok Sabha elections, Hindutva remains Modi’s go-to agenda over the past 25 years.
+
+Lal Krishna Advani may have shepherded the Ram temple agitation into the national arena, but Modi it is, who normalised alienation of minorities, especially Muslims and Christians, as State policy. He also regularised the use of pejoratives against them, especially during elections. Other BJP leaders have taken to aping him and litter India’s political terrain with corrosive vocabulary.
+
+Spin and centralisation
+
+Realising early that Hindutva must be tactically veiled at times, he turned to institutionalising Vibrant Gujarat Global Investor Summits, repositioning his public image around economic governance and industrial growth. Modi also fast-tracked clearances for big corporations, and claimed with pride to have introduced ‘single-window clearance’.
+
+In the Gujarat of that time, it was also a synonym for over-centralisation, or what was given the spin as ‘Gujarat Model’. Ministers merely occupied positions, and party office-bearers whiled away their days while the all-powerful Chief Minister’s Office, alongside chosen bureaucrats in other ministries and departments, emerged as the all-pervasive political force. Since 2014, this became India’s model too — now even the majority of BJP-governed states are remote-controlled by the Prime Minister’s Office.
+
+India’s UNGA story | From Rao-Vajpayee consensus to Modi-Jaishankar patternEventually, centralisation became State policy, and in September 2021, the Centre launched a centralised one-stop shop — National Single Window System — to obtain all requisite central and state regulatory approvals and clearances required to start and run businesses in India.
+
+Economic disparity in India is at its highest, and even among the big corporates, a handful of them always appear to have special privileges and greater proximity to Modi and his close associates.
+
+From the outset, the Hindutva narrative was allowed a free-run. Horrific incidents of mob-lynching and hate speech — the latter even by BJP leaders holding official positions — were not put down sternly.
+
+But, after securing an enhanced parliamentary majority in 2019, Modi went the whole hog. Ban on Triple Talaq, abrogation of Article 370 and 35A, upscaling repressive facets of the Unlawful Activities Prevention Act (UAPA), passage of the Citizenship Amendment Act (CAA), which legislatively intertwined citizenship rights with religious identity, were pushed through in quick time.
+
+Many would even argue that the Centre quietly prodded the Supreme Court on the pending Ayodhya matter and secured a verdict which awarded the disputed properties to Hindu parties and placed them under the PMO’s control.
+
+Undeniably, Modi presides over the most ideologically driven regime in independent India’s history. The quarter of a century that he has occupied high offices, represents the most significant consolidation and centralisation of political power in post-Independence India. This was coupled with the weakening of autonomous State institutions, democratic values, and ideas on which the republic was founded.
+
+Seva Sankalp Abhiyan | Modi's birthday celebration in shadow of political setbacksYet, at the precise moment when the political command celebrates its unprecedented tenure, Modi is faced with unanticipated structural vulnerabilities. His brand of muscular nationalism in the wake of the terrorist strike at Pahalgam, appeared to have made the 2024 verdict and its political fallout, a bad dream.
+
+But the limits of hyper-centralised strongman politics in a complex, multi-layered federal democracy have been proven, especially in a political phase where Modi is constrained by coalition dependence. Additionally, the government is facing challenges from new forms of demographic movements coupled with social-media-driven takedowns of Modi.
+
+Over the past 25 years, Narendra Modi has navigated past political criticism and countered personalised attacks with greater coarseness, but is now at sea when faced with mockery and lampooning. Quite clearly, the leak of the NEET examination paper proved to be the crucial tipping point, and by the time Pradhan bowed out, disparate groups had brought diverse issues for redress to Jantar Mantar.
+
+In his entire political innings, Modi has, to use a cricketing analogy, not faced such hostile bowling. How he navigates the play post-celebrations, whether or not he succeeds in drawing a countermove, will greatly determine his epitaph.
+
+Nilanjan Mukhopadhyay is a journalist and author of ‘Narendra Modi: The Man, The Times’ and ‘The RSS: Icons of the Indian Right’. X: @NilanjanUdwin
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/modi-25-from-invincible-to-vulnerable-4170652)
+
+---
+
+### Mysuru's leisurely tryst with tomorrow
+*Deccan Herald · Opinion*
+
+A flair for all tastes refined, did you say? And if a city were to encapsulate that flair? Mysuru does, certainly. A former boss of mine once told me, “You Mysureans have a royal air about and around yourselves," which probably explains our indulgences.
+
+Be it the melt-in-the-mouth Mysore pak which the royal cook is said to have conjured up in the palace kitchen; the lilt-in-the-ears ragas that make Dasara so special; the sweet scent of the jasmine that our region is famous for and the oil we extract out of sandalwood even to this day, the fragrance of which seems to waft in Mysuru’s air.
+
+The tenderness of the betel leaves grown in the old Mysuru region, I bet, can give other varieties a run for their money.
+
+Not to forget what the eyes pine for: the palaces and the annual ‘Nada Habba’, with a certain gentle giant of an animal parading the divine mother on his back on the ultimate day of Dasara, Mysuru’s trademark festival.
+
+While one can wallow endlessly in the romance of Mysuru’s royalty, the same has also come to label it as a city of laid-back, non-enterprising and closeted people.
+
+Heritage city Mysuru to go flex-free from Dasara 2026Is Bengaluru too like that? The answer is: it was a few decades ago, but not now. It used to be called a pensioner’s paradise, with nothing much beyond being the state’s administrative capital, housing the country’s scientific and defence PSUs and its once-envied moderate climate.
+
+How it 'Bangalored' the world post-IT boom, becoming the world’s back-end office and a hub for innovation and startup ecosystems, is part of technology lore. The fact that growth has not been planned and that a robust mass transport system is still in the works has turned a happy city into a haphazard urban sprawl.
+
+Ever since Bengaluru’s rise, we were told that Mysuru could be a counter-magnet to the IT and other sectors. That was not to be, as there is no world-class transport infrastructure to reach the city, including a decent airport — much to the disappointment of generations of job-seekers in various sectors.
+
+Youngsters are forced to migrate to Bengaluru and beyond in pursuit of lucrative employment.
+
+Will Mysuru finally take off, or will it not, lest it unsettle the heritage and leisurely feel of the city? Or can it balance the boom, if that happens, and its fairy-tale city-like feel? Like Pune, which took on Mumbai’s excess load while continuing as a cultural and literary city. The jury is out on that.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/mysuru-s-leisurely-tryst-with-tomorrow-4170353)
+
+---
+
+### When juvenile justice arrives too late: Supreme Court ruling exposes critical gaps in age determination
+*Deccan Herald · Opinion*
+
+The Supreme Court’s verdict in Mahavir @ Avnish v State of Madhya Pradesh (2026 INSC 942) raises a perplexing dilemma in the Indian juvenile justice system.
+
+Section 9(2) of the JJ Act, 2015 allows for a plea of “juvenility” to be made at any time in a criminal case. That’s a vital safeguard. But when a person has gone through investigation, trial and appeal as well as the years of criminal process and is finally determined to be a juvenile, this is also a sign of institutional failure.
+
+Mahavir is a case in point. The offence was from September 2004. An investigation by the Juvenile Justice Board determined that he was born on July 1, 1987, which made him about 17 years, two months and 12 days old at the time of the incident. The question asked by the judgment is emphatic: Why wasn’t a fact that can fundamentally change the legal process uncovered at the start of the process?
+
+Implementation gap persists
+
+There is definitely no lack of an elaborate juvenile justice framework in India. The Juvenile Justice (Care and Protection of children) Act, 2015, puts the best interest of the child at the core of decision making.
+
+Juvenile Justice Act: Why Section 15’s ‘capacity’ test raises a constitutional questionIt is guided by the principles of dignity, participation, safety, non-stigmatising treatment, privacy, institutionalisation as a last resort, diversion and the opportunity for a new start. The real difficulty lies in translating these principles in actuality.
+
+Children entering the criminal process are from different socio-economic milieus that involve poverty, lack of education or lack of legal representation. Expecting them to understand that their age can alter the entire legal process effectively transfers the burden of implementing the statute from the State to the child. Juvenility cannot, therefore, be something that a child has to plead, but rather something that the system has to detect.
+
+The law already has the mechanism. Section 94 of the 2015 Act sets out the procedure for age determination and specifies that certain documents such as school records, matriculation certificate, or birth certificate have priority over the process of age determination; and when they cannot be used, medical age determination is considered. This mechanism needs strengthening.
+
+If the accused person is young or there is a reasonable doubt about his age, verification should be a part of the initial investigation. If there is any doubt about a person’s age, the police should record the reason why that person is being treated as an adult.
+
+This is because an incorrect determination of age is not just a ‘procedural defect’; juvenility alters the nature of the institution with whom the child is in contact, the character of proceedings and the potential consequences that may occur.
+
+The verification by the police can’t be the only responsibility. Magistrates and trial courts should be a second institutional check. The Supreme Court has consistently held that the issue of juvenility can be considered at a later stage, even after the proceedings have been disposed of.
+
+It has also said that claims made will require sufficient and satisfactory material if made late. Proposition 1 and proposition 2 are both important.
+
+Statutory protection of juveniles must not be denied simply because it was not previously considered, and it should not be reduced where there are dubious claims. However, the idea should be to eliminate the need for later claims altogether.
+
+When a magistrate is first presented with an accused who is a young person, a few basic questions should be asked: What age has been recorded? On what document is it based? Does there seem to be any differences that need to be checked?
+
+This examination would not be burdensome on judges and would provide another chance to keep a child out of the adult criminal system.
+
+The Juvenile Justice Board is also crucial. It can’t be just another statutory body. This difference is especially important when children aged 16 or 17 are charged with serious crimes.
+
+Section 15 considers an initial evaluation of the child’s physical and mental fitness, explanation of the consequences of the alleged offence and of the circumstances attendant to the offence. This kind of evaluation requires an experienced and sensitive eye.
+
+States should also provide district level data on vacancies, pendency and frequency of Board sittings.
+
+Another important protection is provided by legal services authorities. One of the initial tasks of a counsel should be to verify the age of the youth accused.
+
+A straightforward legal-aid intake procedure that documents date of birth, schooling history and discrepancies between police records and documents might be able to identify possible cases of juvenility early on.
+
+The system shouldn’t rely on some especially diligent lawyer years later realising that the person they represented ought never to have been charged as an adult.
+
+These are protections that can be complemented with technology. Police and court case management systems could help identify cases where an accused was slightly over 18 on the date of the claimed offence and may need verification that they had met the age requirement.
+
+Such a flag would not make anyone or anything ‘juvenile’, it would just make sure that the question is asked.
+
+There’s a risk in making implementation just a question of age verification too. Correctly identifying a child is just the first step. The rehabilitation and social reintegration is expressly provided for in the 2015 Act, ideally through family-based care and individual care plans.
+
+The Supreme Court has made it clear that child welfare laws must be interpreted liberally and the benefits of the law can’t be avoided on technicalities.
+
+The chain of responsibility needs to be strengthened around it: the police need to take notice of the age, legal aid counsels must check it, the magistrate must verify, the Board needs to have the expertise to assess the child, and rehabilitation should go beyond adjudication.
+
+Ashok is vice chancellor, National University of Study and Research in Law, Ranchi, and Sumit is a scholar at NUSRL
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/when-juvenile-justice-arrives-too-late-supreme-court-ruling-exposes-critical-gaps-in-age-determination-4170372)
+
+---
+
 ## 4 October 2026
+
+### DC Edit | India Basks in Games Glow After Japan Asiad
+*Deccan Chronicle · Editorial*
+
+As the curtain fell on the Asian Games in Aichi-Nagoya, most of India and its athletes are sporting a satisfied grin. They managed to maintain their fourth place on the continental medals table behind powerhouse China, host Japan and sharp South Korea just like the previous edition in the Chinese city of Hangzhou, where India had recorded its largest tally of 107 medals.The 2026 version fetched 22 fewer medals, but it certainly put springs in the steps of the sports fraternity. The fortnight was a roller-coaster for India, which started slow before picking up pace and finally finishing with a flourish. It resembled the women’s 4x400 metres relay race, in which the country struck gold thanks to Vithya Ramraj’s searing sprint in the final stretch of the anchor leg. That was the only gold at the popular track and field events from which Indian athletes bagged 24 medals, the most by any sport for the country.Vithya also did herself proud by breaking the legendary P.T. Usha’s 42-year-old national record in the women’s 400 metres hurdles (of 55.42 seconds set at the 1984 Los Angeles Olympics) by clocking 54.75 seconds on her way to the bronze medal. Usha, who is the current Indian Olympic Association president, was present in person in Nagoya to congratulate the beaming achiever.Gulveer Singh was another track hero, running his way to silvers in the 10,000 and 1,500 metres and a bronze in the 5,000 m events while Sawan Barwal landed the marathon silver with a national record of 2 hours 11 minutes and 37 seconds.The archers were A+, shooting right into the tight-10 circle to collect five golds. Overall, they nailed nine medals from the arena for an amazing accomplishment.The shooters and boxers were the next best with three golds each, but the ones wielding guns tallied 15 medals overall to six from the pugilists. The wrestlers also contributed six medals, including two golds while the kabaddi, cricket and hockey teams (men and women) swept the top medals to power India’s golden run.Individually, four athletes finished with three medals each — shooter Neeru Dhanda and archer Kumkum Mohod (two golds and a silver); long distance runner Gulveer (two silvers and a bronze) while Vithya completed the set — gold, silver and bronze.The Games turned the spotlight on achievers in new disciplines. Baranica Elangovan’s bronze in pole vault was India’s first ever at the Games. The other breakthroughs came from golfer Pranavi Urs (gold), Anahat Singh’s silver from the squash court, Roshiniba Devi’s wushu silver, Suchika Tariyal (Mixed Martial Arts, bronze), Pincky Balhara’s bronze from kurash, Jay Meena’s bronze in soft tennis, rowers Satnam Singh & Salman Khan (bronze) and the sepaktakraw men’s quadrant that kicked in a historic bronze medal. This clearly points to sports culture spreading far and wide in the country.However, the established badminton and table tennis players could not measure up and managed just a bronze each, much to the dismay of fans who had pinned multi-medal hopes on them. A bit too disappointing when viewed against the backdrop of the Union Sports Ministry spending Rs 700 crore on athletes’ preparation for the Asian Games.Overall, the Asiad success could not have come at a better time with India gearing up to host the Commonwealth Games in 2030 as well as bidding for the 2036 Olympics. It’s game on.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-india-basks-in-games-glow-after-japan-asiad-1993145)
+
+---
+
+### DC Edit | Make Traffic Offenders Sorry
+*Deccan Chronicle · Editorial*
+
+The Supreme Court’s order linking unpaid traffic challans to blockage of vehicle registration, pollution under control (PUC) certificates and driving licences deserves commendation as it solves the basic issue of accountability and governance. The court has also ordered officials to take action against repeat offenders by impounding vehicles. Detecting a violation and generating a digital notice cannot constitute effective enforcement if the offender can ignore it indefinitely.The principle underlying the court’s order is sound. A motorist who pays promptly should not feel foolish while another who accumulates violations without consequence should not look smart. Such unequal outcomes weaken respect for the law and encourage the belief that persistence in evasion pays. Higher fines alone cannot repair this. No penalty is worth the paper it is printed on unless it is enforced within a reasonable, clearly defined period. The fact that nearly Rs 50,000 crore was outstanding dues against e-challans issued across the country speaks volumes about the poor recovery of penalties. While Uttar Pradesh, the country’s most populous state, contributes 21 per cent of total challans, major cities which switched to CCTV-based automatic issue of e-challans lead in pending challans.Currently, motorists are informed through text messages alone. If someone does not check text messages, they are bound to miss the payment. Governments, therefore, must set up a transparent timetable for notification of penalty, payment, objections, adjudication and recovery. Enforcement agencies could send regular alerts and notices to the motorists to allow those, who are genuinely unaware of penalties an opportunity to clear the pending dues. Once liability is settled and the payment period expires, prescribed consequences should follow predictably. Similarly, a disputed challan should receive timely adjudication before coercive recovery. At the same time, citizens should not be made to run pillar to post to settle the issue.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-make-traffic-offenders-sorry-1993128)
+
+---
+
+### R. Mohan | Entertainment at Its Best As Blasts From the Willow Reverberate
+*Deccan Chronicle · Opinion*
+
+It has been a great time for armchair spectating. The power of the willow has never been so emphasised as in the three India-West Indies ODIs. Sustained power hitting over the length of 50 overs and the chasing down relatively comfortably of a target ion excess of 400 pointed to how much the modern batsmen have come to dominate limited-overs cricket.Beyond the comfort of batting on home pitches that tend to accentuate batting prowess that singes the souls of suffering bowlers, what made the week even more memorable was the march of India in T20i cricket that appears unstoppable at the moment, even if the final of the Asia Cup was closer than captain Shreyas Iyer and coach VVS Laxman would have imagined.The Indian juggernaut marches on, downing Pakistan for the 15th time in the format (against 3 losses) even as they reeled off a seventh win in a row against hapless opponents who seem to have lost all hope of ever upsetting the applecart as they once did in Dubai with two virtually unplayable sharp in-cutters from Shaheen Afridi upending India’s top order a few years ago.The pitches at the Korogi Sports Park in Nisshin, Japan were not like the ones usually tailored for the big T20 blasters of the game. Having staved off an upset win for Japan by a mere two runs, India found their footing while expanding their batting lineup knowing that a couple of finger spinners in the mix would be sufficient to contain the opposition by taking wickets.Tilak Varma may not be the most attractive of India’s array of T20 batsmen who have established such a dominance as to be ranked the stop side in both LOI formats, but he is always ready to grapple and bat the depth of the 20 overs to make the running as in the Japan Asiad or in chasing as he did in the last Asia Cup to land the spoils against Pakistan.It is a tribute to the depth of T20 batting lineup Team India boasts of that not even Shubman Gill, that sublime striker of the ball, even within the confines of overs-limit cricket, gets a place in the shortest format. That Gill has taken his batting to an altogether higher level was noticeable in his double century in the chase, which is a unique record in ODI cricket.The sky’s the limit as the ODI and Test skipper has established himself as one of the premier batsmen of the game by the age of 27. As he is so well ensconced in his leadership role, he has adjusted splendidly to having two very senior strikers in the team like Virat Kohli at 37 and Rohit Sharma at 39.Seeing the senior men reel off the runs in centuries even as Kohli explained so well why he can bat more freely now and hit the ball now that his role has moved on from being the principal batsman with a sense of responsibility to take the game deep every time he is at the crease, means Team India is at a great place ahead of the ODI World Cup of 2027. And KL Rahul reminds us that no matter where he is in the batting order, he can produce the classiest of innings with brutal hitting towards the end overs. Such versatility makes him one of the most valuable members of the ODI team.Of course, the West Indies, batting splendidly throughout the ODI series, put up mammoth totals while batting first and proving to India that they can chase competently too in the conditions in the third ODI, did serve up a reality check. The stirring deeds of John Campbell, Justin Greaves, Shai Hope - who made the highest score by a captain and wicket-keeper in ODI history – and Amir Jangoo at the batting crease went to show how much more competitive the West Indies can be in ODIs if their bowling is more incisive.The warning bells over Team India’s ODI bowling were clear enough in such a high scoring series. Given the uncertainty over Bumrah’s continued presence, it is crystal clear that Team India has much work to do with the quick bowlers in settling them into a combination while also ensuring their fitness levels stay consistently high.The slow over rate is also a problem that the skipper and his bowlers must work on if they are not to suffer from the field placement restrictions in the death overs when a fifth fielder must remain in the ring whenever the over rate becomes a problem. But, before worrying over future events, let us rejoice in where Team India has got to as the clear major force in limited-overs formats.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/r-mohan-entertainment-at-its-best-as-blasts-from-the-willow-reverberate-1993157)
+
+---
 
 ### China is building a tech empire: From loft SUVs to rare earth dominance
 *Deccan Herald · Opinion*
@@ -21519,262 +21811,6 @@ Tomorrow, read how the theft may be less than half of `7.5 crore suspected by SI
 S Gurumurthy,Editor, Thuglak Tamil Magazine.Chairman, Vivekananda International Foundation Strategic Think Tank
 
 [Read full article](https://www.newindianexpress.com/opinion/columns/s-gurumurthy/2026/Jul/07/ram-mandir-theft-hindu-nationalism-and-politics)
-
----
-
-## 6 July 2026
-
-### Old wine, new bottle: on the EPFO’s recent changes
-*The Hindu · Editorial*
-
-The Union Labour and Employment Ministry’s notification of fresh rules for the Employees’ Provident Fund (EPF), Employees’ Pension Scheme (EPS), and Employees’ Deposit Linked Insurance (EDLI) is a procedural formality following the enforcement of the Code on Social Security, 2020, since November last year. Four months ago, the Central Board of Trustees (CBT) of the Employees’ Provident Fund Organisation (EPFO) approved the implementation of social security measures framed as a sequel to the Code that subsumes nine laws, including the Employees’ State Insurance Act, 1948, and the Employees’ Provident Funds and Miscellaneous Provisions Act, 1952. With around eight crore subscribers, changes to the PF legal framework have wide implications for members and their families. Viewed from this angle, the notification signalled continuity and sought to make the framework align with the Code. Even the feature of PF contributions being made voluntary in excess of the statutory wage ceiling of ₹15,000 is not new. The practice of allowing contributions up to 12% of the basic pay, regardless of the wage ceiling, was the norm till the COVID-19 pandemic hit. It was only then that many establishments, while experiencing the shortage of funds, had begun limiting their contributions to the wage ceiling. However, pensioners and members had hoped that the notification would revise the minimum monthly pension of ₹1,000 and the monthly wage ceiling for contribution to the PF beyond ₹15,000, both of which were determined 12 years ago. But they have been left disappointed. According to the EPFO’s 2024-25 annual report, about 36.8 lakh of its 81.5 lakh pensioners receive a monthly pension of ₹1,000 or less.
-
-Yet, the government has taken no decision on either issue despite repeated demands from pensioners and other stakeholders. Even if financial implications are a concern, the government’s grant-in-aid for the minimum pension, benefiting about 20.6 lakh pensioners, is only around ₹1,000 crore annually. Of the government’s outlay of ₹11,000-odd crore towards the EPS for the current year, most of its provision goes for the component of its contribution at 1.16% of the monthly pay (limited to the wage ceiling of ₹15,000) of EPS members. The government should restore the applicability of the EPS to all workers, regardless of pay. If the government feels that the EPFO is getting overburdened with its work, it can formulate a tailored scheme with the Pension Fund Regulatory and Development Authority. Efforts to expedite and simplify claim settlements should continue. The government must remember that substantive EPFO decisions affect crores of employees.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/old-wine-new-bottle-on-the-epfos-recent-changes/article71185821.ece)
-
----
-
-### ​Two together: on the Japanese Prime Minister’s visit to India
-*The Hindu · Editorial*
-
-Japanese Prime Minister Sanae Takaichi’s first official visit to India turned out to be an occasion to signal enhanced bilateral coordination in the face of global uncertainties. Rapid changes in geopolitics and technological advances are forcing all countries into fresh thinking, most consequentially with regard to China. The U.S. appears less enthusiastic about the Quad grouping (with India, Japan, and Australia) and is unsure of the nomenclature “Indo-Pacific” in its strategy. Against this backdrop, India and Japan declared a joint intent to continue with an ‘updated’ Free and Open Indo-Pacific (FOIP) posture, ring-fencing bilateral ties from multilateral arrangements. Ms. Takaichi signed at least 16 agreements and documents, including a joint statement on energy resilience to support bilateral cooperation along the ‘maritime energy transport value chain’. The commitments to energy cooperation were supported by the awareness that to play lead roles in the FOIP, the two sides should cooperate in the energy domain from South Asia to the Indo-Pacific. This concern was also linked with the problems both sides faced regarding the safety of energy-carrying ships and sailors during the U.S.-Israel war against Iran. The two major Asian economies have a shared interest in ensuring that the nearest energy sources in the Gulf remain accessible. They have agreed to build naval platforms to enhance maritime domain awareness and surveillance.
-
-A joint statement issued during the visit mentioned “serious concerns” about the prevailing situation in the South China and East China Seas, and Japanese officials spoke to the media frankly about the need to address the Taiwan issue peacefully. Though a planned visit to Guwahati was dropped, Ms. Takaichi underscored Japan’s attention to the northeastern regions of India by connecting them with “relevant partners and regional organisations” of the Bay of Bengal region. BIMSTEC was mentioned as a partner organisation for Japan. Japan has major investments in Bangladesh and Thailand, and connecting these projects, including the Matarbari port in Cox’s Bazar, through an ‘industrial value chain’ with India’s northeast can boost regional prosperity and security. Ms. Takaichi has painted a vast canvas of cooperation stretching from India’s neighbourhood to the Pacific Ocean to protect the India-Japan relationship from the uncertainties of the current world order, but both sides have to manage multiple other relations effectively to ensure optimal outcomes. They have to manage their relations with China and the U.S. in such a manner that their strategic interests are protected and conflicts avoided. It can be a path of mutual learning and cooperation for India and Japan as they seek to navigate the global turbulence.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/two-together-on-the-japanese-prime-ministers-visit-to-india/article71185797.ece)
-
----
-
-### The right to belong beyond official documentation
-*The Hindu · Opinion*
-
-On June 24, 2026, a member of India’s Ministry of External Affairs (MEA) released a startling statement. The Indian passport, the person said, is a “travel document” and not a “citizenship document”. The assertion set off a minor storm. The reasonable question that followed from many was if the passport would not do it, what document would?
-
-Posed this way, the MEA’s statement and the questions it raises become something of a red herring. A passport can only be issued to a non-citizen in exceptional circumstances, where the Government of India is of the opinion that it is necessary to do so in “public interest”. Surely, therefore, barring those cases where this power is exercised, a passport must be seen as conclusive proof of a person’s citizenship.
-
-If a passport is not proof of citizenship, then what is? | ExplainedNo doubt, it might be open for the government to establish under law that a person obtained the document by concealing the true status of his or her citizenship. But that does not mean a passport can be dismissed as merely a travel document.
-
-Citizenship under scrutinyThe MEA’s statement takes on an ominous heft when set against the milieu in which it was made. It arrives in the middle of the Election Commission of India (ECI)’s Special Intensive Revision (SIR) of electoral rolls in various States. It also comes in the wake of a pair of pronouncements by the Supreme Court of India, most recently on the validity of the SIR in Bihar and the ECI’s power to scrutinise citizenship, and, before that, on the Assam Accord, in which the Court had much to say on how it conceives republican ideas of citizenship. Moreover, since an amendment to the Citizenship Act in 2019 (made operational in 2024), rules of naturalisation have been rewritten along religious lines. Taken together, all these developments must prompt us to ask an elementary question: what does it mean to be a citizen of India, who belongs, and on what terms?
-
-The Constitution’s answers to these questions, even if some find them indecisive, were reached with some amount of care and caution. Part II to the document, comprising Articles 5 to 11, settled the citizenship of those caught amidst the tragedies of Partition. Article 11 reserved to Parliament a seemingly plenary power to legislate and “make any provision with respect to the acquisition and termination of citizenship and all other matters relating to citizenship”.
-
-Assam labourer shows 15 documents but fails citizenship test in High CourtOn a plain and literal reading, it might seem like the Union legislature was accorded unlimited authority to determine what factors can govern citizenship. Indeed, much of the contemporary defence of religiously founded citizenship laws has rested on such an interpretation. But a careful construal of the Constituent Assembly debates, as Gautam Bhatia has shown, suggests that the framers did not treat citizenship as a matter on which Parliament could do as it pleased.
-
-The foundations of citizenshipConsider, for example, an amendment moved to the draft provisions of the Constitution by P.S. Deshmukh. He sought to include an express stipulation “that every person who is a Hindu or a Sikh by religion and is not a citizen of any other State, wherever he resides shall be entitled to be a citizen of India”. The effort was met with sharp resistance. Among those opposing the move was Jawaharlal Nehru, who rejected the amendment outright, finding it “absurd on the face of it”.
-
-Alladi Krishnaswami Ayyar provided the most forthright response to it. He argued that India was plighted to the principles of a secular state. Therefore, there was simply no question of making a distinction between one kind of person and another on any “racial or religious” ground. Ultimately, Deshmukh’s proposal was defeated, and B.R. Ambedkar’s neutral citizenship clause was affirmed.
-
-Thus, freestanding as the words in Article 11 might be, they must be understood in the context of their wider framing. They have in them an implied limitation drawn from the Constitution’s most cherished and foundational commitments to secularism, equality, and non-discrimination. Parliament can decide the modalities of citizenship, but it cannot make religion a condition for entry.
-
-SIR: Citizens, citizenship, and Right to VoteAt its conception, India adopted the principle of jus soli, that is a form of citizenship predicated on residence and birth. The Citizenship Act, 1955, saw the principle as its primary governing creed. But over time, the legislature moved away from the theory. First, in 1985, Section 6A was introduced into the Act to give effect to the Assam Accord, suspending the conferment of citizenship based on the dates on which people of “Indian origin” had come into India. Second, in 2003, the statute was further amended to deny citizenship to persons born in India even when only one of the parents of such person was an “illegal migrant”.
-
-In upholding Section 6A, the Supreme Court in October 2024, appeared to fortify two principles. It effectively saw no implied limitation in Article 11 and instead viewed the grant of power to Parliament to be virtually unlimited. It also appeared to lend constitutional respectability to an idea first promulgated by it in Sarbananda Sonowal vs Union Of India & Anr. (2005), that migration into Assam constituted “external aggression” against the State.
-
-This rationale carried into its judgment in Association for Democratic Reforms vs Union of India, delivered in May this year, where the Court upheld the SIR exercise in Bihar, holding that the ECI may enquire into a person’s citizenship, for the “limited” purpose of deciding eligibility for the electoral roll. The Court described the distinction it drew as “principled”, between an adjudication on citizenship and on the administrative satisfaction concerning the continuation of a person’s name on the electoral roll. Where the ECI is not satisfied with a person’s assertion of citizenship, it ought simply to refer the case to the “competent authority” under the Citizenship Act.
-
-But we have been down this road before. In Assam, during an earlier revision, voters marked “doubtful” were despatched to foreigners’ tribunals and consigned to an endless bureaucratic maze to establish their citizenship. Today, therefore, we have ourselves a machinery in which a person need not be declared as a foreigner to be stripped of their basic rights. Instead, they are placed in a vacuum, neither confirmed nor cleared, with their rights being held in indefinite suspension.
-
-Against this backdrop the MEA’s clarification appears menacing. Running through all these exercises to establish citizenship is a common thread over the burden of proof. Where a resident could once rely on the state to take their citizenship as given, the onus today has been quietly shifted onto them. Almost any document adduced is seen as inadequate evidence. The Aadhaar card, we are told, is proof only of residence; the voter ID, only of prior registration; and now the passport, only of a right to travel.
-
-Satire | Birth certificate is not proof of birth: Ministry OfficialThe primacy of personhoodUnder the Constitution, many of our basic privileges are premised on personhood. Article 14 guarantees equality before the law to “any person”, and Article 21 the right to life and personal liberty to all. Citizenship is built on this foundation. It allows one the freedoms guaranteed under Article 19, to speech and expression, to carry on any trade or business, and to assemble peacefully. And it is the status of citizenship that guarantees one the statutory right to vote, to choose one’s lawmakers, and to decide how one ought to be governed. Therefore, to be cast out of the position is to forfeit what Hannah Arendt called the right to have rights.
-
-In a constitutional order where personhood comes first, the rules that determine who qualifies as a citizen must rest on more than the accident of paperwork. They must be built on what the Constitution most cherishes, on the equal dignity of every person and the right of each to equal protection of the law.
-
-Suhrith Parthasarathy is an advocate practising in the Madras High Court
-
-[Read full article](https://www.thehindu.com/opinion/lead/the-right-to-belong-beyond-official-documentation/article71186432.ece)
-
----
-
-### DC Edit | CJI Must Review SIR Objections
-*Deccan Chronicle · Editorial*
-
-The letter 24 Opposition political parties have jointly written to Chief Justice of India Surya Kant registering their serious objections to the way the Election Commission of India is going about performing its job reflects the apprehensions that a large section of the population holds against the poll body and their faith in the judiciary to make a meaningful intervention to force a course correction. It is now up to the CJI, and the larger judiciary, to decide whether to act and restore the confidence of the people in the constitutional institutions or not.
-
-The letter, which is literally a chargesheet against the EC, points to the series of actions that cannot be classified as above board. They are predominantly about the disenfranchisement of crores of people through an exercise called special intensive revision, the interventions it made during state Assembly elections especially in West Bengal, the preference it has allegedly shown towards the ruling party at the Centre and the tweaking of the law to drop the CJI from the panel for the selection of CEC.
-
-The criticism against the SIR process was the sharpest in that the parties said it “was rushed, poorly implemented and disenfranchised lakhs of voters, putting the country’s democratic process in jeopardy”. It pointed out that the process was particularly targeted at the poor, the uneducated, including Dalits, Adivasis, members of the minority community and migrant workers, and urged the CJI to suspend the exercise and restore the integrity of the electoral process.
-
-Since elections are a critical and key component of a functional democracy, the poll panel must command the confidence of all sections of society, including the Opposition. It has unfortunately shown no sign of a change of mind or the willingness to even address the complaints.
-
-The Opposition has now knocked on the doors of the judiciary as it believes “when all else fails, people still repose their trust in the judiciary.” The judiciary should rise to the occasion; its failure will be the failure for the republic.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-cji-must-review-sir-objections-1968882)
-
----
-
-### DC Edit | WhatsApp, Insta Must Focus Much More On Safety Issues
-*Deccan Chronicle · Editorial*
-
-The latest controversies surrounding WhatsApp and Instagram — both owned by Meta Platforms — have highlighted a major issue that social media companies are too often accused of: Social media platforms rush to launch new features but act too slowly to prevent harm emanating from them.
-
-Recently, WhatsApp has proposed a username-based messaging system for improving privacy by letting users communicate without sharing their phone numbers. Shortly afterwards, Instagram has been accused of running paid ads facilitating access to child sexual exploitation and abuse material. In both instances, the government had to intervene to protect the interests of people. Though these two issues may seem unrelated, they share a common thread of prioritising engagement and growth over user safety that connects the two incidents.
-
-Currently, WhatsApp uses phone numbers, which are personal identifiers, for communication. If phone numbers are exposed, it can lead to spam, fraud, stalking, harassment, and unwanted contact.
-
-The allegations against Instagram are far more alarming. Meta’s own advertising guidelines state that ads are screened for compliance with its policies, and advertisers must adhere to both Community Standards and Advertising Standards. The policies also ban child sexual exploitation, abuse, and nudity.
-
-Nevertheless, Instagram is alleged to have shown paid advertisements that facilitated child sex abuse, raising serious questions about Meta's oversight mechanisms. If Meta’s famous algorithm fails to detect and prevent such harmful content, it would represent a failure in moderation but also a systemic failure in the advertising process.
-
-In its response to the allegations, Meta had merely asserted its policy of zero-tolerance towards child sexual abuse material (CSAM). However, the real issue is not whether Meta has written policies or not; Most major platforms do. The concern is whether those policies effectively prevent harm.
-
-Meta had recently laid off 8,000 employees this year to expand the use of artificial intelligence. However, in both cases, it was human intelligence — civil society and journalists — that highlighted the potential misuse, which the platforms should have done.
-
-These incidents should serve as a lesson for Meta and other platforms. They need to understand that trust is their most important infrastructure. They cannot market privacy on WhatsApp while allowing safety failures on Instagram. A username system could be a positive change, but only if it is accompanied by built-in safeguards from day one.
-
-In cases involving child safety, there can be no acceptable error rate, no vague reassurances, and no excuses based on scale. Social media companies have become communication utilities. Therefore, social media companies should prioritise the public interest, not just corporate growth.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-whatsapp-insta-must-focus-much-more-on-safety-issues-1968875)
-
----
-
-### Aakar Patel | Why The State Must Stop Use Of Pellet Guns To Control Crowds
-*Deccan Chronicle · Opinion*
-
-The teaser for Chauhaan — latest in the line of movies selling majoritarian propaganda — is out. It opens in the sort of place that the Indian government prefers to have its stories set — a street in Pulwama, stones in the air, the security forces in formation. The voiceover calls teargas ineffective because protection masks are easily accessible online. Water cannons are called temporary solutions.
-
-What is required, the movie insinuates, is something much harsher: 12-gauge shotguns firing birdshot into crowds. We should pause here. Narrative building for majoritarianism in India now runs on the confidence that such claims are never checked. So, let us check.
-
-In 2017, Amnesty International India documented 88 people whose eyesight was damaged by shotguns between 2014 and 2017 by the Jammu & Kashmir police and the Central Reserve Police Force. Some recovered, many did not. A single cartridge scatters between 360 and 600 metal balls with no way to govern where they land. The injuries caused by pellet guns are indiscriminate by design: shotgun barrels are not rifled and there is no control over their projectiles.
-
-It is evident from the fact that fourteen of those 88 we spoke to were not protesters but women hit inside their own homes. The security forces themselves have been treated for injuries from the weapons their colleagues have fired, so dangerous is their use.
-
-And then, there was Insha Mushtaq, a 154-year-old girl, who on the evening of July 11, 2016 opened a window in her village in Kashmir to look at the street. She never saw the street, or anything, ever again. Fully blinded: Her doctors called it the worst case they had ever seen.
-
-The state’s official data says 6,221 people were injured between July 2016 and February 2017, with 782 of them hit in their eyes. The United Nations’ human rights office called the pellet shotgun “one of the most dangerous weapons used in Kashmir” and recommended its removal from the India’s arsenal of weapons for crowd control. When the Indian government was asked why it fires into the faces of children, it declined to answer, citing national security. Clearly, “limited damage” is then not a description that evidence can bear.
-
-The Chauhaan teaser’s complaint that limited force produces no result is untrue because in Kashmir there has never been restraint from the government or a shortage of force. The position reflects what over three decades of force has done to the region. A government that answers a violation with another, graver violation, does not earn trust; it forfeits it.
-
-The protesters come to the streets because the doors of India’s Parliament have been shut for them. And this is not just in Kashmir. The Indian government’s Pre-Legislative Consultation Policy, which was adopted in 2014, calls for all draft laws to be discussed with the public for 30 days. Yet, according to data from PRS Legislative Research, of the 301 bills introduced since 2014, 227 underwent no public consultation at all. Of the 74 that were published, at least 40 fell short of the 30-day time limit. The mother of democracy will not discuss family matters with the family.
-
-Further evidence that we are a parliamentary democracy only in name: The share of bills that have been sent to standing committees have fallen from 71 per cent before 2014 to below 20 per cent afterwards.
-
-In December 2025, the Indian government was asked if it was monitoring the implementation of the policy; its response was that it had never evaluated the policy and kept no record of who followed it. Increasingly, the most problematic commands of the government do not arrive as laws but as rules and advisories that the executive writes without any legislative consultation, let alone public consultation.
-
-The State needs reminding that a country cannot keep calling itself a democracy while hollowing the word out one law, one rule, one advisory at a time. While doing so, the government has assembled a working dictionary: the dissenter is “anti-national”, the activist is an “Urban Naxal”, the protester an “andolanjeevi”, the reporter a “presstitute” and the boy at a funeral is a “stone-pelter”. Once the words seep into the Indian mindset through propaganda, the deeds of the State need no defence. A movie teaser that recasts a maiming weapon as heroic restraint is not breaking with that dictionary. It is, in fact, reading fluently from it, in a medium built to manufacture assent.
-
-To look at a girl who was blinded for looking outside a window and call it “limited damage” is not strength. Quite the opposite. When the Amnesty report was published, I went with my colleague Raghu to the man heading the Jammu and Kashmir police, S.P. Vaid, who is quite active on Twitter these days. The police headquarters in Srinagar and the ethnicity of the officials manning it was revealing, and I will write about that another time. Mr Vaid was hospitable as he accepted a copy of our report. He heard us go through our findings about ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-why-the-state-must-stop-use-of-pellet-guns-to-control-crowds-1968870)
-
----
-
-### Sanjeev Ahluwalia | Next-Gen Reforms: Could India Shed Its Reluctance?
-*Deccan Chronicle · Opinion*
-
-India is a reluctant reformer for good reasons. First, the rational hesitation to fix what isn’t irretrievably broken. Second, there is much going right for India. Even without deep reforms, it chugs along in a band of six to seven per cent annual growth when the average growth in middle-income economies is around between 4.1 to 4.4 per cent and China is slowing from five to four per cent.
-
-Why then the anxiety around the absence of reforms to improve incomes and well-being? Blame it on comparison bias. If China grew in double digits, at a comparable time two decades ago, why can’t we? This false equivalence ignores that the high growth period in China coincided with rapid globalisation of trade and investment. Also, to its credit, China took advantage of supportive geo-politics — the perennial US obsession with defanging Communism — to advance its own interests. It is sweet irony that New York — that iconic US immigrant town and headquarters of American capitalism — is now more “socialist” than China!
-
-The dissatisfaction in India is two-fold. First, the revenues generated from economic growth have not been used to reduce disparity in opportunities. Instead, the focus is on comforting the poor and near-poor — around one-fourth of the country’s population — through government-provided food, cash handouts and free or highly subsidised, utility services. Higher growth and government revenues could similarly be wasted on placating vote banks and not generate any new jobs — the linchpin of household stability and dignity. It is also unlikely that the bottom two-thirds of 300 million families can be sufficiently placated with handouts. How do we know this?There are only about 82 million individual income-taxpayers. Some families have multiple taxpayers. So, less than one-third of India’s 300 million families pay income-tax. GST coverage is comprehensive but designed to reduce indirect tax on consumption goods for the “poor” or “near poor”. The tax-free limit for income of Rs 4 lakhs per year sets the upper bound for defining the poor and near poor. The lower bound for a living wage is enshrined in the government’s flagship programme to alleviate rural distress — VB G RAM G, which assures up to 125 days’ employment at Rs 300 per day. Assuming a working year of 300 days, the “liveable rural income” for a family of two working adults becomes Rs 1.8 lakh per year.
-
-The puny scale — about 100 million, or 12 per cent of the workforce in formal employment — generates dissatisfaction all around. Income disparity varies significantly across states, feeding work migration patterns within India — from the North and the East towards the private jobs-rich West and the South.
-
-Is the answer then to unleash some “big” reform which could unplug India’s economic potential?
-
-Sadly, the basket of “low hanging fruit” for “big reform” is meagre. The 1991 liberalisation was the last such reform. It added around two percentage points to the annual growth trajectory since. What remains to be tackled requires “deep” reforms, which comes with the attendant political cost of upending special interests and privilege.
-
-The next wave of incremental two percentage points of steady economic growth is likely from two sources. First is deeper digitisation of the economy. This strategy is organically familiar for the Indian economy, which is simultaneously a lower middle-income economy and yet the most intensive adopter of digital payments built upon a locally created India stack of digital public infrastructure — digital identity, account aggregation and risk mitigation.
-
-Indian Tech Bros are agreed that if India focuses on deepening use case integration of AI into enterprises, more jobs can potentially be created than destroyed, despite the personal cost for mid-life IT workers, unable or unwilling to upgrade technologically.
-
-The digital economy in India employs about eight to 10 million people, which might grow to 30 million people by 2035 — still less than five percent of the working age population. But the benefit lies in boosting productivity and competitiveness and hence employment in the real economy. This dispersed impact will take time to spread.
-
-Something else is needed to boost economic efficiency and create decent jobs. Reforming agriculture remains a yawning gap. We have yet to take the long-term structural decisions — corporate ownership of agriculture and increased labour demand from manufacturing — to absorb the surplus labour supply from rural areas.
-
-Liberating large cities from the stranglehold of state government sovereignty is also a structural change we have shied away from. About eighty cities with a collective population of 230 million (about one-seventh of India) could be self-sufficient in revenues because they are large market towns, urban agglomerations, manufacturing hubs or pilgrimage centres. Some of these are also state government capitals.
-
-Empower such cities politically and administratively to function...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjeev-ahluwalia-next-gen-reforms-could-india-shed-its-reluctance-1968845)
-
----
-
-### Custodial horror exposes policing rot within Karnataka police
-*Deccan Herald · Editorial*
-
-The arrest of Sub-Inspector Praveen Kumar of Amruthahalli police station in Bengaluru for allegedly subjecting minor boys to horrific custodial abuse has shaken public confidence in the police, and revealed a disturbing moral crisis within the force.
-
-According to investigators, the children, detained in connection with a murder investigation, were taken to a private lodge where they were allegedly stripped, beaten, and forced to perform sexually explicit acts on one another, which were filmed on the officer's mobile phone.
-
-The charges under the Protection of Children from Sexual Offences Act and the Juvenile Justice (Care and Protection of Children) Act, 2015, include aggravated sexual assault by a person in a position of authority, use of children for pornographic purposes, physical assault, and criminal intimidation. This goes far beyond excessive policing; it is an act of criminal depravity.
-
-The institutional failure is as damning as the crime itself. The incident remained concealed for nearly a year and came to light only after the videos were copied from the accused officer's mobile phone during an unrelated domestic dispute, and later surfaced on social media.
-
-Even more disturbing, the jurisdictional Deputy Commissioner of Police remained oblivious throughout this period, exposing a complete breakdown of supervisory responsibility.
-
-PSI arrested for alleged custodial abuse in BengaluruThis is not an isolated aberration. In recent years, an alarming number of personnel have been booked for grave offences ranging from drug trafficking to kidnapping and dacoity. Rampant politicisation of transfers and postings has hollowed out the chain of command, leaving officers beholden to political patrons rather than to their superiors or the law.
-
-Unless Home Minister Priyank Kharge dismantles this culture of patronage, misconduct will continue to fester. The Director General of Police must also institute mandatory psychological evaluations of personnel, with temperamentally unfit officers reassigned away from public-facing duties.
-
-The Karnataka High Court should invoke its extraordinary jurisdiction under Article 226 of the Constitution and take suo motu cognisance of this case. A court-monitored Special Investigation Team must be constituted, employing the same forensic rigour, digital evidence analysis, and scientific standards used in the Prajwal Revanna probe.
-
-Given the grave nature of allegations, the inquiry must extend beyond this single incident to scrutinise the officer’s entire service record, as similar abuses may have been committed in the past.
-
-Only an independent investigation can protect the child victims from intimidation, preserve crucial digital evidence, eliminate institutional bias, and restore public faith in the rule of law.
-
-Karnataka deserves a police force that inspires confidence, not fear. Those entrusted to uphold the law must never become the very predators from whom the law is meant to protect society.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/custodial-horror-exposes-policing-rot-4063205)
-
----
-
-### Stop misuse of SIR data to deny welfare
-*Deccan Herald · Editorial*
-
-The West Bengal government has wrongly tried to extend exclusions under the Special Intensive Revision (SIR) of electoral rolls, held in the State before the recent elections, to other areas of citizen rights.
-
-The Suvendu Adhikari government recently issued an order to remove the names of the beneficiaries of the public distribution system (PDS) and other State-run welfare schemes, such as the Annapurna Yojana, a cash transfer scheme for women, based on booth-wise lists of electors deleted under the SIR.
-
-That meant that people whose names were deleted from the rolls would be denied rations. R Rajagopal, former editor of a prominent Kolkata newspaper, The Telegraph, was unable to renew his passport because his name had been deleted from the rolls. He got his passport after there was a public debate on the matter.
-
-The government’s decision to link the PDS to the outcome of the SIR was challenged in the Supreme Court, but the court directed the petitioners to approach the high court.
-
-The SIR exercise is conducted by the Election Commission of India (ECI), with the stated purpose of cleansing and updating the electoral rolls by identifying duplicate, deceased, or otherwise ineligible voters. The electoral roll data should not be used for any other purpose.
-
-The apex court has clearly said in ADR vs ECI, 2026, that a person's citizenship under the Citizenship Act does not cease merely because they are found ineligible for inclusion in the electoral rolls pursuant to an SIR.
-
-Asaduddin Owaisi slams Bengal govt drive to delete ration cards based on SIR-linked verification “Such an enquiry does not amount to a determination of citizenship in the strict sense, and any action taken pursuant thereto is confined to electoral consequences alone,’’ the court said.
-
-Welfare benefits offered by the State are also not limited to citizens. The National Food Security Act, 2013, under which the PDS works, is based on the right to food.
-
-The right to food, which has been recognised by the Supreme Court as part of the right to life under Article 21, is not restricted to citizens. Denying basic welfare measures such as PDS entitlements based on the SIR exercise is, therefore, unconstitutional.
-
-The State can formulate and implement welfare measures and target or limit them on the basis of its own criteria and rationale. The West Bengal government has said that it wants to reduce fraud and pilferage in the PDS system.
-
-It is an administrative matter and should be addressed administratively, not through a list prepared by the ECI.
-
-The commission should insist that its data should not be used for any purpose other than those related to elections. The SIR process itself was faulty, and its outcome is being put to other kinds of wrong uses.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/stop-misuse-of-sir-data-to-deny-welfare-4063210)
-
----
-
-### The alchemy of perseverance
-*Deccan Herald · Opinion*
-
-Few quotations capture the essence of success as powerfully as these words of A P J Abdul Kalam: “If you want to shine like a sun, first burn like a sun.” Simple yet profound, they remind us that greatness is never an accident.
-
-Just as the sun radiates light only because it burns with immense energy, every remarkable achievement is preceded by years of hard work, sacrifice, perseverance, and unwavering determination.
-
-The world admires success, but it often overlooks the struggle that made it possible. The sun is nature’s greatest example of selfless endurance. It rises every day without fail, bringing warmth, light, and life to the Earth. We look at its radiant light and admire its effortless dominance over the sky. Yet, science and philosophy alike remind us that the sun’s blinding radiance is not a passive state of being. Behind this brilliance lies an unimaginable process of continuous burning.
-
-Abdul Kalam uses this powerful metaphor to teach us that excellence demands effort. Consider the very life of this man who came from a humble background in Rameswaram to become India’s ‘Missile Man’ and eventually its president; it was not all luck.
-
-It was a masterclass in burning. As a young boy, he distributed newspapers to support his family, studying under the dim light of kerosene lamps.
-
-Later, as a scientist, he faced massive, public failures, including the crash of the early SLV-3 satellite launch vehicle. Instead of retreating, he internalised the heat of that failure, laboured through the technical errors, and emerged with a successful launch just a year later.
-
-Kalam did not just preach resilience; he lived it. He understood that talent is merely raw fuel; it requires the spark of relentless effort to ignite into true capability.
-
-Nature itself reinforces this timeless lesson. A fragile seed pushes through heavy soil, breaking through darkness and channelling all its energy upwards before it emerges as a flourishing tree. Coal undergoes tremendous pressure over millions of years before transforming into a diamond.
-
-Even a butterfly struggles to emerge from its cocoon, and that very struggle strengthens its wings for flight. Every beautiful creation in nature undergoes a process of hardship before revealing its true splendour.
-
-To shine like the sun is a noble aspiration. But only those willing to burn with passion, perseverance, and purpose will ever radiate that enduring light.
-
-[Read full article](https://www.deccanherald.com/opinion/the-alchemy-of-perseverance-4063199)
 
 ---
 

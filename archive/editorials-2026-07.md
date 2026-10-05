@@ -1,5 +1,261 @@
 # Editorials archive — 2026-07
 
+## 6 July 2026
+
+### Old wine, new bottle: on the EPFO’s recent changes
+*The Hindu · Editorial*
+
+The Union Labour and Employment Ministry’s notification of fresh rules for the Employees’ Provident Fund (EPF), Employees’ Pension Scheme (EPS), and Employees’ Deposit Linked Insurance (EDLI) is a procedural formality following the enforcement of the Code on Social Security, 2020, since November last year. Four months ago, the Central Board of Trustees (CBT) of the Employees’ Provident Fund Organisation (EPFO) approved the implementation of social security measures framed as a sequel to the Code that subsumes nine laws, including the Employees’ State Insurance Act, 1948, and the Employees’ Provident Funds and Miscellaneous Provisions Act, 1952. With around eight crore subscribers, changes to the PF legal framework have wide implications for members and their families. Viewed from this angle, the notification signalled continuity and sought to make the framework align with the Code. Even the feature of PF contributions being made voluntary in excess of the statutory wage ceiling of ₹15,000 is not new. The practice of allowing contributions up to 12% of the basic pay, regardless of the wage ceiling, was the norm till the COVID-19 pandemic hit. It was only then that many establishments, while experiencing the shortage of funds, had begun limiting their contributions to the wage ceiling. However, pensioners and members had hoped that the notification would revise the minimum monthly pension of ₹1,000 and the monthly wage ceiling for contribution to the PF beyond ₹15,000, both of which were determined 12 years ago. But they have been left disappointed. According to the EPFO’s 2024-25 annual report, about 36.8 lakh of its 81.5 lakh pensioners receive a monthly pension of ₹1,000 or less.
+
+Yet, the government has taken no decision on either issue despite repeated demands from pensioners and other stakeholders. Even if financial implications are a concern, the government’s grant-in-aid for the minimum pension, benefiting about 20.6 lakh pensioners, is only around ₹1,000 crore annually. Of the government’s outlay of ₹11,000-odd crore towards the EPS for the current year, most of its provision goes for the component of its contribution at 1.16% of the monthly pay (limited to the wage ceiling of ₹15,000) of EPS members. The government should restore the applicability of the EPS to all workers, regardless of pay. If the government feels that the EPFO is getting overburdened with its work, it can formulate a tailored scheme with the Pension Fund Regulatory and Development Authority. Efforts to expedite and simplify claim settlements should continue. The government must remember that substantive EPFO decisions affect crores of employees.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/old-wine-new-bottle-on-the-epfos-recent-changes/article71185821.ece)
+
+---
+
+### ​Two together: on the Japanese Prime Minister’s visit to India
+*The Hindu · Editorial*
+
+Japanese Prime Minister Sanae Takaichi’s first official visit to India turned out to be an occasion to signal enhanced bilateral coordination in the face of global uncertainties. Rapid changes in geopolitics and technological advances are forcing all countries into fresh thinking, most consequentially with regard to China. The U.S. appears less enthusiastic about the Quad grouping (with India, Japan, and Australia) and is unsure of the nomenclature “Indo-Pacific” in its strategy. Against this backdrop, India and Japan declared a joint intent to continue with an ‘updated’ Free and Open Indo-Pacific (FOIP) posture, ring-fencing bilateral ties from multilateral arrangements. Ms. Takaichi signed at least 16 agreements and documents, including a joint statement on energy resilience to support bilateral cooperation along the ‘maritime energy transport value chain’. The commitments to energy cooperation were supported by the awareness that to play lead roles in the FOIP, the two sides should cooperate in the energy domain from South Asia to the Indo-Pacific. This concern was also linked with the problems both sides faced regarding the safety of energy-carrying ships and sailors during the U.S.-Israel war against Iran. The two major Asian economies have a shared interest in ensuring that the nearest energy sources in the Gulf remain accessible. They have agreed to build naval platforms to enhance maritime domain awareness and surveillance.
+
+A joint statement issued during the visit mentioned “serious concerns” about the prevailing situation in the South China and East China Seas, and Japanese officials spoke to the media frankly about the need to address the Taiwan issue peacefully. Though a planned visit to Guwahati was dropped, Ms. Takaichi underscored Japan’s attention to the northeastern regions of India by connecting them with “relevant partners and regional organisations” of the Bay of Bengal region. BIMSTEC was mentioned as a partner organisation for Japan. Japan has major investments in Bangladesh and Thailand, and connecting these projects, including the Matarbari port in Cox’s Bazar, through an ‘industrial value chain’ with India’s northeast can boost regional prosperity and security. Ms. Takaichi has painted a vast canvas of cooperation stretching from India’s neighbourhood to the Pacific Ocean to protect the India-Japan relationship from the uncertainties of the current world order, but both sides have to manage multiple other relations effectively to ensure optimal outcomes. They have to manage their relations with China and the U.S. in such a manner that their strategic interests are protected and conflicts avoided. It can be a path of mutual learning and cooperation for India and Japan as they seek to navigate the global turbulence.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/two-together-on-the-japanese-prime-ministers-visit-to-india/article71185797.ece)
+
+---
+
+### The right to belong beyond official documentation
+*The Hindu · Opinion*
+
+On June 24, 2026, a member of India’s Ministry of External Affairs (MEA) released a startling statement. The Indian passport, the person said, is a “travel document” and not a “citizenship document”. The assertion set off a minor storm. The reasonable question that followed from many was if the passport would not do it, what document would?
+
+Posed this way, the MEA’s statement and the questions it raises become something of a red herring. A passport can only be issued to a non-citizen in exceptional circumstances, where the Government of India is of the opinion that it is necessary to do so in “public interest”. Surely, therefore, barring those cases where this power is exercised, a passport must be seen as conclusive proof of a person’s citizenship.
+
+If a passport is not proof of citizenship, then what is? | ExplainedNo doubt, it might be open for the government to establish under law that a person obtained the document by concealing the true status of his or her citizenship. But that does not mean a passport can be dismissed as merely a travel document.
+
+Citizenship under scrutinyThe MEA’s statement takes on an ominous heft when set against the milieu in which it was made. It arrives in the middle of the Election Commission of India (ECI)’s Special Intensive Revision (SIR) of electoral rolls in various States. It also comes in the wake of a pair of pronouncements by the Supreme Court of India, most recently on the validity of the SIR in Bihar and the ECI’s power to scrutinise citizenship, and, before that, on the Assam Accord, in which the Court had much to say on how it conceives republican ideas of citizenship. Moreover, since an amendment to the Citizenship Act in 2019 (made operational in 2024), rules of naturalisation have been rewritten along religious lines. Taken together, all these developments must prompt us to ask an elementary question: what does it mean to be a citizen of India, who belongs, and on what terms?
+
+The Constitution’s answers to these questions, even if some find them indecisive, were reached with some amount of care and caution. Part II to the document, comprising Articles 5 to 11, settled the citizenship of those caught amidst the tragedies of Partition. Article 11 reserved to Parliament a seemingly plenary power to legislate and “make any provision with respect to the acquisition and termination of citizenship and all other matters relating to citizenship”.
+
+Assam labourer shows 15 documents but fails citizenship test in High CourtOn a plain and literal reading, it might seem like the Union legislature was accorded unlimited authority to determine what factors can govern citizenship. Indeed, much of the contemporary defence of religiously founded citizenship laws has rested on such an interpretation. But a careful construal of the Constituent Assembly debates, as Gautam Bhatia has shown, suggests that the framers did not treat citizenship as a matter on which Parliament could do as it pleased.
+
+The foundations of citizenshipConsider, for example, an amendment moved to the draft provisions of the Constitution by P.S. Deshmukh. He sought to include an express stipulation “that every person who is a Hindu or a Sikh by religion and is not a citizen of any other State, wherever he resides shall be entitled to be a citizen of India”. The effort was met with sharp resistance. Among those opposing the move was Jawaharlal Nehru, who rejected the amendment outright, finding it “absurd on the face of it”.
+
+Alladi Krishnaswami Ayyar provided the most forthright response to it. He argued that India was plighted to the principles of a secular state. Therefore, there was simply no question of making a distinction between one kind of person and another on any “racial or religious” ground. Ultimately, Deshmukh’s proposal was defeated, and B.R. Ambedkar’s neutral citizenship clause was affirmed.
+
+Thus, freestanding as the words in Article 11 might be, they must be understood in the context of their wider framing. They have in them an implied limitation drawn from the Constitution’s most cherished and foundational commitments to secularism, equality, and non-discrimination. Parliament can decide the modalities of citizenship, but it cannot make religion a condition for entry.
+
+SIR: Citizens, citizenship, and Right to VoteAt its conception, India adopted the principle of jus soli, that is a form of citizenship predicated on residence and birth. The Citizenship Act, 1955, saw the principle as its primary governing creed. But over time, the legislature moved away from the theory. First, in 1985, Section 6A was introduced into the Act to give effect to the Assam Accord, suspending the conferment of citizenship based on the dates on which people of “Indian origin” had come into India. Second, in 2003, the statute was further amended to deny citizenship to persons born in India even when only one of the parents of such person was an “illegal migrant”.
+
+In upholding Section 6A, the Supreme Court in October 2024, appeared to fortify two principles. It effectively saw no implied limitation in Article 11 and instead viewed the grant of power to Parliament to be virtually unlimited. It also appeared to lend constitutional respectability to an idea first promulgated by it in Sarbananda Sonowal vs Union Of India & Anr. (2005), that migration into Assam constituted “external aggression” against the State.
+
+This rationale carried into its judgment in Association for Democratic Reforms vs Union of India, delivered in May this year, where the Court upheld the SIR exercise in Bihar, holding that the ECI may enquire into a person’s citizenship, for the “limited” purpose of deciding eligibility for the electoral roll. The Court described the distinction it drew as “principled”, between an adjudication on citizenship and on the administrative satisfaction concerning the continuation of a person’s name on the electoral roll. Where the ECI is not satisfied with a person’s assertion of citizenship, it ought simply to refer the case to the “competent authority” under the Citizenship Act.
+
+But we have been down this road before. In Assam, during an earlier revision, voters marked “doubtful” were despatched to foreigners’ tribunals and consigned to an endless bureaucratic maze to establish their citizenship. Today, therefore, we have ourselves a machinery in which a person need not be declared as a foreigner to be stripped of their basic rights. Instead, they are placed in a vacuum, neither confirmed nor cleared, with their rights being held in indefinite suspension.
+
+Against this backdrop the MEA’s clarification appears menacing. Running through all these exercises to establish citizenship is a common thread over the burden of proof. Where a resident could once rely on the state to take their citizenship as given, the onus today has been quietly shifted onto them. Almost any document adduced is seen as inadequate evidence. The Aadhaar card, we are told, is proof only of residence; the voter ID, only of prior registration; and now the passport, only of a right to travel.
+
+Satire | Birth certificate is not proof of birth: Ministry OfficialThe primacy of personhoodUnder the Constitution, many of our basic privileges are premised on personhood. Article 14 guarantees equality before the law to “any person”, and Article 21 the right to life and personal liberty to all. Citizenship is built on this foundation. It allows one the freedoms guaranteed under Article 19, to speech and expression, to carry on any trade or business, and to assemble peacefully. And it is the status of citizenship that guarantees one the statutory right to vote, to choose one’s lawmakers, and to decide how one ought to be governed. Therefore, to be cast out of the position is to forfeit what Hannah Arendt called the right to have rights.
+
+In a constitutional order where personhood comes first, the rules that determine who qualifies as a citizen must rest on more than the accident of paperwork. They must be built on what the Constitution most cherishes, on the equal dignity of every person and the right of each to equal protection of the law.
+
+Suhrith Parthasarathy is an advocate practising in the Madras High Court
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-right-to-belong-beyond-official-documentation/article71186432.ece)
+
+---
+
+### DC Edit | CJI Must Review SIR Objections
+*Deccan Chronicle · Editorial*
+
+The letter 24 Opposition political parties have jointly written to Chief Justice of India Surya Kant registering their serious objections to the way the Election Commission of India is going about performing its job reflects the apprehensions that a large section of the population holds against the poll body and their faith in the judiciary to make a meaningful intervention to force a course correction. It is now up to the CJI, and the larger judiciary, to decide whether to act and restore the confidence of the people in the constitutional institutions or not.
+
+The letter, which is literally a chargesheet against the EC, points to the series of actions that cannot be classified as above board. They are predominantly about the disenfranchisement of crores of people through an exercise called special intensive revision, the interventions it made during state Assembly elections especially in West Bengal, the preference it has allegedly shown towards the ruling party at the Centre and the tweaking of the law to drop the CJI from the panel for the selection of CEC.
+
+The criticism against the SIR process was the sharpest in that the parties said it “was rushed, poorly implemented and disenfranchised lakhs of voters, putting the country’s democratic process in jeopardy”. It pointed out that the process was particularly targeted at the poor, the uneducated, including Dalits, Adivasis, members of the minority community and migrant workers, and urged the CJI to suspend the exercise and restore the integrity of the electoral process.
+
+Since elections are a critical and key component of a functional democracy, the poll panel must command the confidence of all sections of society, including the Opposition. It has unfortunately shown no sign of a change of mind or the willingness to even address the complaints.
+
+The Opposition has now knocked on the doors of the judiciary as it believes “when all else fails, people still repose their trust in the judiciary.” The judiciary should rise to the occasion; its failure will be the failure for the republic.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-cji-must-review-sir-objections-1968882)
+
+---
+
+### DC Edit | WhatsApp, Insta Must Focus Much More On Safety Issues
+*Deccan Chronicle · Editorial*
+
+The latest controversies surrounding WhatsApp and Instagram — both owned by Meta Platforms — have highlighted a major issue that social media companies are too often accused of: Social media platforms rush to launch new features but act too slowly to prevent harm emanating from them.
+
+Recently, WhatsApp has proposed a username-based messaging system for improving privacy by letting users communicate without sharing their phone numbers. Shortly afterwards, Instagram has been accused of running paid ads facilitating access to child sexual exploitation and abuse material. In both instances, the government had to intervene to protect the interests of people. Though these two issues may seem unrelated, they share a common thread of prioritising engagement and growth over user safety that connects the two incidents.
+
+Currently, WhatsApp uses phone numbers, which are personal identifiers, for communication. If phone numbers are exposed, it can lead to spam, fraud, stalking, harassment, and unwanted contact.
+
+The allegations against Instagram are far more alarming. Meta’s own advertising guidelines state that ads are screened for compliance with its policies, and advertisers must adhere to both Community Standards and Advertising Standards. The policies also ban child sexual exploitation, abuse, and nudity.
+
+Nevertheless, Instagram is alleged to have shown paid advertisements that facilitated child sex abuse, raising serious questions about Meta's oversight mechanisms. If Meta’s famous algorithm fails to detect and prevent such harmful content, it would represent a failure in moderation but also a systemic failure in the advertising process.
+
+In its response to the allegations, Meta had merely asserted its policy of zero-tolerance towards child sexual abuse material (CSAM). However, the real issue is not whether Meta has written policies or not; Most major platforms do. The concern is whether those policies effectively prevent harm.
+
+Meta had recently laid off 8,000 employees this year to expand the use of artificial intelligence. However, in both cases, it was human intelligence — civil society and journalists — that highlighted the potential misuse, which the platforms should have done.
+
+These incidents should serve as a lesson for Meta and other platforms. They need to understand that trust is their most important infrastructure. They cannot market privacy on WhatsApp while allowing safety failures on Instagram. A username system could be a positive change, but only if it is accompanied by built-in safeguards from day one.
+
+In cases involving child safety, there can be no acceptable error rate, no vague reassurances, and no excuses based on scale. Social media companies have become communication utilities. Therefore, social media companies should prioritise the public interest, not just corporate growth.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-whatsapp-insta-must-focus-much-more-on-safety-issues-1968875)
+
+---
+
+### Aakar Patel | Why The State Must Stop Use Of Pellet Guns To Control Crowds
+*Deccan Chronicle · Opinion*
+
+The teaser for Chauhaan — latest in the line of movies selling majoritarian propaganda — is out. It opens in the sort of place that the Indian government prefers to have its stories set — a street in Pulwama, stones in the air, the security forces in formation. The voiceover calls teargas ineffective because protection masks are easily accessible online. Water cannons are called temporary solutions.
+
+What is required, the movie insinuates, is something much harsher: 12-gauge shotguns firing birdshot into crowds. We should pause here. Narrative building for majoritarianism in India now runs on the confidence that such claims are never checked. So, let us check.
+
+In 2017, Amnesty International India documented 88 people whose eyesight was damaged by shotguns between 2014 and 2017 by the Jammu & Kashmir police and the Central Reserve Police Force. Some recovered, many did not. A single cartridge scatters between 360 and 600 metal balls with no way to govern where they land. The injuries caused by pellet guns are indiscriminate by design: shotgun barrels are not rifled and there is no control over their projectiles.
+
+It is evident from the fact that fourteen of those 88 we spoke to were not protesters but women hit inside their own homes. The security forces themselves have been treated for injuries from the weapons their colleagues have fired, so dangerous is their use.
+
+And then, there was Insha Mushtaq, a 154-year-old girl, who on the evening of July 11, 2016 opened a window in her village in Kashmir to look at the street. She never saw the street, or anything, ever again. Fully blinded: Her doctors called it the worst case they had ever seen.
+
+The state’s official data says 6,221 people were injured between July 2016 and February 2017, with 782 of them hit in their eyes. The United Nations’ human rights office called the pellet shotgun “one of the most dangerous weapons used in Kashmir” and recommended its removal from the India’s arsenal of weapons for crowd control. When the Indian government was asked why it fires into the faces of children, it declined to answer, citing national security. Clearly, “limited damage” is then not a description that evidence can bear.
+
+The Chauhaan teaser’s complaint that limited force produces no result is untrue because in Kashmir there has never been restraint from the government or a shortage of force. The position reflects what over three decades of force has done to the region. A government that answers a violation with another, graver violation, does not earn trust; it forfeits it.
+
+The protesters come to the streets because the doors of India’s Parliament have been shut for them. And this is not just in Kashmir. The Indian government’s Pre-Legislative Consultation Policy, which was adopted in 2014, calls for all draft laws to be discussed with the public for 30 days. Yet, according to data from PRS Legislative Research, of the 301 bills introduced since 2014, 227 underwent no public consultation at all. Of the 74 that were published, at least 40 fell short of the 30-day time limit. The mother of democracy will not discuss family matters with the family.
+
+Further evidence that we are a parliamentary democracy only in name: The share of bills that have been sent to standing committees have fallen from 71 per cent before 2014 to below 20 per cent afterwards.
+
+In December 2025, the Indian government was asked if it was monitoring the implementation of the policy; its response was that it had never evaluated the policy and kept no record of who followed it. Increasingly, the most problematic commands of the government do not arrive as laws but as rules and advisories that the executive writes without any legislative consultation, let alone public consultation.
+
+The State needs reminding that a country cannot keep calling itself a democracy while hollowing the word out one law, one rule, one advisory at a time. While doing so, the government has assembled a working dictionary: the dissenter is “anti-national”, the activist is an “Urban Naxal”, the protester an “andolanjeevi”, the reporter a “presstitute” and the boy at a funeral is a “stone-pelter”. Once the words seep into the Indian mindset through propaganda, the deeds of the State need no defence. A movie teaser that recasts a maiming weapon as heroic restraint is not breaking with that dictionary. It is, in fact, reading fluently from it, in a medium built to manufacture assent.
+
+To look at a girl who was blinded for looking outside a window and call it “limited damage” is not strength. Quite the opposite. When the Amnesty report was published, I went with my colleague Raghu to the man heading the Jammu and Kashmir police, S.P. Vaid, who is quite active on Twitter these days. The police headquarters in Srinagar and the ethnicity of the officials manning it was revealing, and I will write about that another time. Mr Vaid was hospitable as he accepted a copy of our report. He heard us go through our findings about ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-why-the-state-must-stop-use-of-pellet-guns-to-control-crowds-1968870)
+
+---
+
+### Sanjeev Ahluwalia | Next-Gen Reforms: Could India Shed Its Reluctance?
+*Deccan Chronicle · Opinion*
+
+India is a reluctant reformer for good reasons. First, the rational hesitation to fix what isn’t irretrievably broken. Second, there is much going right for India. Even without deep reforms, it chugs along in a band of six to seven per cent annual growth when the average growth in middle-income economies is around between 4.1 to 4.4 per cent and China is slowing from five to four per cent.
+
+Why then the anxiety around the absence of reforms to improve incomes and well-being? Blame it on comparison bias. If China grew in double digits, at a comparable time two decades ago, why can’t we? This false equivalence ignores that the high growth period in China coincided with rapid globalisation of trade and investment. Also, to its credit, China took advantage of supportive geo-politics — the perennial US obsession with defanging Communism — to advance its own interests. It is sweet irony that New York — that iconic US immigrant town and headquarters of American capitalism — is now more “socialist” than China!
+
+The dissatisfaction in India is two-fold. First, the revenues generated from economic growth have not been used to reduce disparity in opportunities. Instead, the focus is on comforting the poor and near-poor — around one-fourth of the country’s population — through government-provided food, cash handouts and free or highly subsidised, utility services. Higher growth and government revenues could similarly be wasted on placating vote banks and not generate any new jobs — the linchpin of household stability and dignity. It is also unlikely that the bottom two-thirds of 300 million families can be sufficiently placated with handouts. How do we know this?There are only about 82 million individual income-taxpayers. Some families have multiple taxpayers. So, less than one-third of India’s 300 million families pay income-tax. GST coverage is comprehensive but designed to reduce indirect tax on consumption goods for the “poor” or “near poor”. The tax-free limit for income of Rs 4 lakhs per year sets the upper bound for defining the poor and near poor. The lower bound for a living wage is enshrined in the government’s flagship programme to alleviate rural distress — VB G RAM G, which assures up to 125 days’ employment at Rs 300 per day. Assuming a working year of 300 days, the “liveable rural income” for a family of two working adults becomes Rs 1.8 lakh per year.
+
+The puny scale — about 100 million, or 12 per cent of the workforce in formal employment — generates dissatisfaction all around. Income disparity varies significantly across states, feeding work migration patterns within India — from the North and the East towards the private jobs-rich West and the South.
+
+Is the answer then to unleash some “big” reform which could unplug India’s economic potential?
+
+Sadly, the basket of “low hanging fruit” for “big reform” is meagre. The 1991 liberalisation was the last such reform. It added around two percentage points to the annual growth trajectory since. What remains to be tackled requires “deep” reforms, which comes with the attendant political cost of upending special interests and privilege.
+
+The next wave of incremental two percentage points of steady economic growth is likely from two sources. First is deeper digitisation of the economy. This strategy is organically familiar for the Indian economy, which is simultaneously a lower middle-income economy and yet the most intensive adopter of digital payments built upon a locally created India stack of digital public infrastructure — digital identity, account aggregation and risk mitigation.
+
+Indian Tech Bros are agreed that if India focuses on deepening use case integration of AI into enterprises, more jobs can potentially be created than destroyed, despite the personal cost for mid-life IT workers, unable or unwilling to upgrade technologically.
+
+The digital economy in India employs about eight to 10 million people, which might grow to 30 million people by 2035 — still less than five percent of the working age population. But the benefit lies in boosting productivity and competitiveness and hence employment in the real economy. This dispersed impact will take time to spread.
+
+Something else is needed to boost economic efficiency and create decent jobs. Reforming agriculture remains a yawning gap. We have yet to take the long-term structural decisions — corporate ownership of agriculture and increased labour demand from manufacturing — to absorb the surplus labour supply from rural areas.
+
+Liberating large cities from the stranglehold of state government sovereignty is also a structural change we have shied away from. About eighty cities with a collective population of 230 million (about one-seventh of India) could be self-sufficient in revenues because they are large market towns, urban agglomerations, manufacturing hubs or pilgrimage centres. Some of these are also state government capitals.
+
+Empower such cities politically and administratively to function...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjeev-ahluwalia-next-gen-reforms-could-india-shed-its-reluctance-1968845)
+
+---
+
+### Custodial horror exposes policing rot within Karnataka police
+*Deccan Herald · Editorial*
+
+The arrest of Sub-Inspector Praveen Kumar of Amruthahalli police station in Bengaluru for allegedly subjecting minor boys to horrific custodial abuse has shaken public confidence in the police, and revealed a disturbing moral crisis within the force.
+
+According to investigators, the children, detained in connection with a murder investigation, were taken to a private lodge where they were allegedly stripped, beaten, and forced to perform sexually explicit acts on one another, which were filmed on the officer's mobile phone.
+
+The charges under the Protection of Children from Sexual Offences Act and the Juvenile Justice (Care and Protection of Children) Act, 2015, include aggravated sexual assault by a person in a position of authority, use of children for pornographic purposes, physical assault, and criminal intimidation. This goes far beyond excessive policing; it is an act of criminal depravity.
+
+The institutional failure is as damning as the crime itself. The incident remained concealed for nearly a year and came to light only after the videos were copied from the accused officer's mobile phone during an unrelated domestic dispute, and later surfaced on social media.
+
+Even more disturbing, the jurisdictional Deputy Commissioner of Police remained oblivious throughout this period, exposing a complete breakdown of supervisory responsibility.
+
+PSI arrested for alleged custodial abuse in BengaluruThis is not an isolated aberration. In recent years, an alarming number of personnel have been booked for grave offences ranging from drug trafficking to kidnapping and dacoity. Rampant politicisation of transfers and postings has hollowed out the chain of command, leaving officers beholden to political patrons rather than to their superiors or the law.
+
+Unless Home Minister Priyank Kharge dismantles this culture of patronage, misconduct will continue to fester. The Director General of Police must also institute mandatory psychological evaluations of personnel, with temperamentally unfit officers reassigned away from public-facing duties.
+
+The Karnataka High Court should invoke its extraordinary jurisdiction under Article 226 of the Constitution and take suo motu cognisance of this case. A court-monitored Special Investigation Team must be constituted, employing the same forensic rigour, digital evidence analysis, and scientific standards used in the Prajwal Revanna probe.
+
+Given the grave nature of allegations, the inquiry must extend beyond this single incident to scrutinise the officer’s entire service record, as similar abuses may have been committed in the past.
+
+Only an independent investigation can protect the child victims from intimidation, preserve crucial digital evidence, eliminate institutional bias, and restore public faith in the rule of law.
+
+Karnataka deserves a police force that inspires confidence, not fear. Those entrusted to uphold the law must never become the very predators from whom the law is meant to protect society.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/custodial-horror-exposes-policing-rot-4063205)
+
+---
+
+### Stop misuse of SIR data to deny welfare
+*Deccan Herald · Editorial*
+
+The West Bengal government has wrongly tried to extend exclusions under the Special Intensive Revision (SIR) of electoral rolls, held in the State before the recent elections, to other areas of citizen rights.
+
+The Suvendu Adhikari government recently issued an order to remove the names of the beneficiaries of the public distribution system (PDS) and other State-run welfare schemes, such as the Annapurna Yojana, a cash transfer scheme for women, based on booth-wise lists of electors deleted under the SIR.
+
+That meant that people whose names were deleted from the rolls would be denied rations. R Rajagopal, former editor of a prominent Kolkata newspaper, The Telegraph, was unable to renew his passport because his name had been deleted from the rolls. He got his passport after there was a public debate on the matter.
+
+The government’s decision to link the PDS to the outcome of the SIR was challenged in the Supreme Court, but the court directed the petitioners to approach the high court.
+
+The SIR exercise is conducted by the Election Commission of India (ECI), with the stated purpose of cleansing and updating the electoral rolls by identifying duplicate, deceased, or otherwise ineligible voters. The electoral roll data should not be used for any other purpose.
+
+The apex court has clearly said in ADR vs ECI, 2026, that a person's citizenship under the Citizenship Act does not cease merely because they are found ineligible for inclusion in the electoral rolls pursuant to an SIR.
+
+Asaduddin Owaisi slams Bengal govt drive to delete ration cards based on SIR-linked verification “Such an enquiry does not amount to a determination of citizenship in the strict sense, and any action taken pursuant thereto is confined to electoral consequences alone,’’ the court said.
+
+Welfare benefits offered by the State are also not limited to citizens. The National Food Security Act, 2013, under which the PDS works, is based on the right to food.
+
+The right to food, which has been recognised by the Supreme Court as part of the right to life under Article 21, is not restricted to citizens. Denying basic welfare measures such as PDS entitlements based on the SIR exercise is, therefore, unconstitutional.
+
+The State can formulate and implement welfare measures and target or limit them on the basis of its own criteria and rationale. The West Bengal government has said that it wants to reduce fraud and pilferage in the PDS system.
+
+It is an administrative matter and should be addressed administratively, not through a list prepared by the ECI.
+
+The commission should insist that its data should not be used for any purpose other than those related to elections. The SIR process itself was faulty, and its outcome is being put to other kinds of wrong uses.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/stop-misuse-of-sir-data-to-deny-welfare-4063210)
+
+---
+
+### The alchemy of perseverance
+*Deccan Herald · Opinion*
+
+Few quotations capture the essence of success as powerfully as these words of A P J Abdul Kalam: “If you want to shine like a sun, first burn like a sun.” Simple yet profound, they remind us that greatness is never an accident.
+
+Just as the sun radiates light only because it burns with immense energy, every remarkable achievement is preceded by years of hard work, sacrifice, perseverance, and unwavering determination.
+
+The world admires success, but it often overlooks the struggle that made it possible. The sun is nature’s greatest example of selfless endurance. It rises every day without fail, bringing warmth, light, and life to the Earth. We look at its radiant light and admire its effortless dominance over the sky. Yet, science and philosophy alike remind us that the sun’s blinding radiance is not a passive state of being. Behind this brilliance lies an unimaginable process of continuous burning.
+
+Abdul Kalam uses this powerful metaphor to teach us that excellence demands effort. Consider the very life of this man who came from a humble background in Rameswaram to become India’s ‘Missile Man’ and eventually its president; it was not all luck.
+
+It was a masterclass in burning. As a young boy, he distributed newspapers to support his family, studying under the dim light of kerosene lamps.
+
+Later, as a scientist, he faced massive, public failures, including the crash of the early SLV-3 satellite launch vehicle. Instead of retreating, he internalised the heat of that failure, laboured through the technical errors, and emerged with a successful launch just a year later.
+
+Kalam did not just preach resilience; he lived it. He understood that talent is merely raw fuel; it requires the spark of relentless effort to ignite into true capability.
+
+Nature itself reinforces this timeless lesson. A fragile seed pushes through heavy soil, breaking through darkness and channelling all its energy upwards before it emerges as a flourishing tree. Coal undergoes tremendous pressure over millions of years before transforming into a diamond.
+
+Even a butterfly struggles to emerge from its cocoon, and that very struggle strengthens its wings for flight. Every beautiful creation in nature undergoes a process of hardship before revealing its true splendour.
+
+To shine like the sun is a noble aspiration. But only those willing to burn with passion, perseverance, and purpose will ever radiate that enduring light.
+
+[Read full article](https://www.deccanherald.com/opinion/the-alchemy-of-perseverance-4063199)
+
+---
+
 ## 5 July 2026
 
 ### DC Edit | Why Is Jail, Not Bail, The Order?
