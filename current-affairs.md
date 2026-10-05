@@ -1,3 +1,251 @@
+## 5 October 2026
+
+### Shyam Metalics signs MoU for ₹50,000 crore steel plant in Maharashtra
+*Business Standard · business, entrepreneur, finance*
+
+Shyam Metalics & Energy Ltd signed MoU: 9-MTPA Chandrapur complex to be built in two phases, with 30,000 direct and indirect jobs; company to begin approvals in FY27
+
+[Read full article](https://www.business-standard.com/companies/news/shyam-metalics-rs-50000-crore-integrated-steel-complex-chandrapur-maharashtra-126100500246_1.html)
+
+---
+
+### 'Losing Out On Aviation Factory': BJP Leader Vinoj P Selvam Targets Tamil Nadu Govt Over C-390 Plan
+*Mohammad Haris · business*
+
+BJP leader Vinoj P Selvam says Gujarat, Andhra Pradesh and Maharashtra are actively engaging with industrial groups to drive economic growth.
+
+[Read full article](https://www.news18.com/india/losing-out-on-aviation-factory-bjp-leader-vinoj-p-selvam-targets-tamil-nadu-govt-over-c-390-plan-ws-l-10367420.html)
+
+---
+
+### World Teachers’ Day: What global shortages and India’s numbers tell us
+*Education Desk · legal*
+
+UNESCO warns the world needs 44 million teachers by 2030, as India's high pupil-teacher ratios highlight severe global school shortages.
+
+[Read full article](https://indianexpress.com/article/education/world-teachers-day-unesco-ilo-observation-oecd-pupil-teacher-ratio-more-students-less-teaching-staff-sbi-research-udise-10906887/)
+
+---
+
+### 2020 Delhi riots: Delhi HC dismisses pleas seeking FIRs against political leaders over 'hate speeches'
+*Kanchan Yadav · regional, india*
+
+HC rejected pleas seeking registration of FIRs.
+
+NEW DELHI: The Delhi high court on Monday dismissed a batch of petitions seeking an SIT probe into the 2020 Delhi riots and the 2019 violence at Jamia Millia Islamia.The court also rejected pleas seeking registration of FIRs against certain political leaders over alleged “hate speeches” linked to the 2020 riots, as well as action against police officers accused of dereliction of duty, PTI reported.The petitions included pleas filed by former Rajya Sabha MP Brinda Karat and Jamiat Ulama-i-Hind seeking investigations into alleged police inaction and hate speeches.Other petitions sought probes into the alleged role of rioters, including an NIA investigation into alleged funding of the riots. Some also raised allegations against Congress leaders Sonia Gandhi and Rahul Gandhi.The petitions sought further investigation into various aspects of the violence, including alleged police lapses, hate speeches and the circumstances surrounding the 2020 riots and 2019 Jamia violence.
+
+---
+
+### El Nino, rain deficit likely to add to Mumbai’s pollution and poor air
+*Nayonika Bose · legal*
+
+As many as 21 districts in the state recorded deficit rainfall as the India Meteorological Department (IMD) declared the withdrawal of monsoon on Saturday
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/el-nino-rain-deficit-mumbai-pollution-poor-air-aqi-10907079/)
+
+---
+
+### Protesters detained outside Delhi police station, demand FIR over journalists’ harassment claims
+*Pti · business*
+
+New Delhi: Protesters gathered outside the Parliament Street police station on Monday demanding registration of an FIR and a probe into allegations of sexual harassment of three women journalists by police personnel during a protest at Jantar Mantar on October 3.
+
+Several protesters were detained as they held a demonstration outside the police station, demanding that CCTV footage of the alleged incident be examined and action be taken on the complaints.
+
+  
+
+A protester said they had approached the police station on the day of the alleged incident seeking CCTV footage but were asked to return after 24 hours.
+
+"We went back and again asked for the CCTV footage, but they did not provide it. They did not register an FIR or give us any update on the case. Instead, we were detained," the protester told PTI Videos.
+
+Another detained protester said the CCTV footage should be properly examined and alleged that a similar complaint had also been made in July against the concerned police officer, who is accused of harassment.
+
+"That is our demand because a case had also come up against the concerned police officer in July," she alleged.
+
+She further claimed that this was the second complaint, but no investigation had been conducted into the first complaint and the present case was also not being taken seriously.
+
+The protest followed allegations by three women journalists of sexual harassment by police personnel during a protest against Chief Election Commissioner Gyanesh Kumar at Jantar Mantar.
+
+The New Delhi district police transferred the complaints to the Crime Branch for a "fair and impartial enquiry", a police officer had earlier said.
+
+One of the women journalists had told PTI that an assistant commissioner of police (ACP) sexually assaulted her when she questioned the absence of women police personnel at the protest site.
+
+---
+
+### CJP leaders likely to be arrested before October 10 Delhi protest: Saurav Das
+*Alok Singh · legal*
+
+The group has called for a nation-wide protest against the Special Intensive Revision exercise and Chief Election Commissioner Gyanesh Kumar.
+
+[Read full article](https://indianexpress.com/article/cities/delhi/cjp-leaders-arrested-october-10-delhi-protest-saurav-das-10907084/)
+
+---
+
+### CJP Claims Govt Plans To Arrest Saurabh Das, Abhijeet Dipke Ahead Of October 10 Protest
+*Aanchal Sinha · general*
+
+In a late-night post on Sunday, Das said the government would be mistaken if it believed that such “dictatorial actions” could stop the planned demonstration.
+
+[Read full article](https://www.news18.com/india/cjp-claims-govt-plans-to-arrest-saurabh-das-abhijeet-dipke-ahead-of-october-10-protest-ws-kl-10367404.html)
+
+---
+
+### ‘Rs 3.5 lakh weekly rental for a 3BHK’: Man compares expensive living costs in Europe with India after his one-week stay in a Barcelona Airbnb
+*Unknown · business*
+
+An Indian founder's trip to Barcelona has turned into a talking point online after he revealed what his week long stay actually cost him. Shiv Pratap Singh shared a video of the three bedroom Airbnb he booked in the city, and the price tag attached to it left many viewers stunned.
+
+**Rs 3.5 Lakh Airbnb Cost In Barcelona**
+
+Singh opened his video by addressing people back home who feel rents in India are already too high. "If you live in India and think that inflation has gotten very high and rents are very high in India, right now I am in Barcelona, Spain," he said. "We have taken a 3BHK apartment from Airbnb that cost us 3.5 lakh rupees in Indian currency."
+
+**3BHK Barcelona Apartment Walkthrough**  
+Singh then walked viewers through the property, starting with the living area. "Right now, I am standing here in a living room. There is a sofa placed here, a dining table here, and a TV mounted here," he said, before moving to the kitchen, which had a refrigerator and oven, though guests still had to buy their own groceries during the stay.
+
+**Spacious Balcony Inside The Airbnb**
+
+The balcony got a special mention in the video. "The balcony is very nice, quite spacious," Singh said. "You could host a get-together of about 20 people here on the balcony. You can comfortably set up tables and sit out here, host a party."
+
+After the tour, Singh used the cost of his stay to make a broader comparison. "Pick any European country, go to any country, and compared to India, you will find it way more expensive," he said, adding that his video was meant to show people what rents actually look like outside India.
+
+**Weekly Or Monthly, Users Ask**  
+The video quickly drew questions about whether Rs 3.5 lakh was the cost for a month or a week. One user asked, "One month ka rate h itna" (Is this the rate for one month). Singh replied, "No, it is just for a week."
+
+**Salary Gap Between India And Barcelona**  
+Not everyone agreed with the comparison Singh made. One user wrote, "I mean yes India is much costly than Barcelona, In Barcelona average gross salary of people is 30-40 lakhs per year in Indian Currency, and in Indian average salary of a person is 3-4 lakhs per year, bruhhh what data are you even comparing these based on." The same user added, "don't act like Indian News channels pleasee."
+
+Some comments took a more measured view of the debate. One user wrote, "It really highlights the massive difference between purchasing power parity (PPP) and lifestyle expectations. India can be expensive in premium pockets, but Europe's rental market is on another level entirely."
+
+Others reacted with simple disbelief at the figure itself. User sparshdubey77 commented, "3.5 lakhs per week?? Kuch zyada luxury apartment h ky, bcz me 45k me reh rha hu" (Isn't this a bit too luxury of an apartment, because I live in Rs 45,000).
+
+Singh's own caption for the video read, "Rs 3.5 lakh rent for just one week in Barcelona,"
+
+---
+
+### After Express report, Supreme Court notice to Centre on Central Secretariat Library relocation
+*Ananthakrishnan G · legal*
+
+The court will hear the matter next on November 16.
+
+[Read full article](https://indianexpress.com/article/legal-news/supreme-court-central-secretariat-library-centres-affidavit-proposed-relocation-10907092/)
+
+---
+
+### Canadian YouTuber gets tight slap from Indian man over racist comments on camera
+*India Today Trending Desk · general*
+
+## A Canadian streamer was confronted by two Indian men at a 7-Eleven in Vietnam. The argument escalated, with one of the men slapping the streamer.
+
+A live streamer was slapped by an Indian man for making racist comments. (Photos: @Ip2AlwaysWin/X)
+
+New Delhi,Oct 5, 2026 11:01 IST
+
+A Canadian streamer was slapped during a livestream at a 7-Eleven store in Vietnam after two Indian men confronted him over filming them without their consent. The altercation, which began with repeated demands to stop recording, escalated into an argument before one of the men slapped him.
+
+The streamer named John Ly, who goes by JohnWhatsGoingOn online, was recording live from Vietnam’s Saigon.
+
+In a clip circulating on social media, John was seen filming as two men confronted him. They repeatedly objected to being recorded and asked him to stop pointing the camera at them.
+
+Instead of ending the livestream, John continued recording and speaking to the men. The exchange became increasingly heated as the men continued to challenge him over the filming.
+
+The situation then turned physical. One of the men approached John and slapped him while the livestream continued and John kept on hurling abuse in Hindi at the men.
+
+The clip has since spread across X, Instagram and Reddit, where users debated what led to the altercation and whether John should have stopped filming when the men objected.
+
+**Watch the video here:**
+
+The incident has also reignited a familiar debate around IRL streaming, where creators broadcast their interactions and surroundings in real time. While public filming can capture people who happen to appear in the background, deliberately continuing to record someone who has objected can quickly turn a livestream into a confrontation.
+
+As the video continues to circulate, the incident has divided online opinion, with viewers debating both the responsibilities of live streamers when filming strangers and the decision to respond physically to a camera being pointed at them.
+
+\- Ends
+
+---
+
+### CEC Gyanesh Kumar Faces Old Case In Kerala | Political Tensions Rise | Govt Revives 20-Year-Old Case
+*Unknown · general*
+
+BJP’s Narayanan Thirupathy criticises Kerala’s revival of a 20-year-old case involving the Chief Election Commissioner, calling it politically motivated. Congress defends the move, citing serious allegations and the need for a fresh probe, amid calls for the CEC’s resignation. n18oc_breaking-news n1...
+
+[Read full article](https://www.news18.com/videos/breaking-news/cec-gyanesh-kumar-faces-old-case-in-kerala-political-tensions-rise-govt-revives-20-year-old-case-10367475.html)
+
+---
+
+### CBI probe ordered into corruption allegations against Punjab CM Bhagwant Mann’s aides
+*Kanchan Vasdev · legal*
+
+The Punjab and Haryana High Court ordered a probe into alleged corruption involving close aides of CM Bhagwant Mann.
+
+[Read full article](https://indianexpress.com/article/cities/chandigarh/cbi-probe-ordered-into-corruption-allegations-against-punjab-cm-bhagwant-manns-aides-10907085/)
+
+---
+
+### Delhi riots: HC rejects pleas for FIRs against politicians for hate speech
+*India Today News Desk · general*
+
+## The 15 petitions had sought directions for the registration of FIRs against politicians over the alleged hate speeches linked to the 2020 northeast Delhi riots, along with a probe by a Special Investigation Team.
+
+BJP leaders Kapil Mishra, Anurag Thakur and Parvesh Verma were accused of making hate speeched during the 2020 Delhi riots.
+
+The Delhi High Court on Monday dismissed all 15 petitions seeking the registration of FIRs and a Special Investigation Team (SIT) probe into alleged hate speeches by political leaders during protests against the Citizenship Amendment Act (CAA) and the National Register of Citizens (NRC), which petitioners claimed helped instigate the 2020 northeast Delhi riots that killed over 50 people.
+
+A bench comprising Justices Vivek Chaudhary and Manoj Jain dismissed the petitions, filed in 2020 in the aftermath of the riots, which also sought action against police officials accused of dereliction of duty.
+
+One of the pleas, filed by Shaikh Mujtaba, sought an FIR against BJP leaders Kapil Mishra, Anurag Thakur, Parvesh Verma and Abhay Verma, alleging that their speeches contributed to the violence during the riots, reports Live law.
+
+Another petition, filed by Lawyers Voice, named Congress leaders Sonia Gandhi, Rahul Gandhi and Priyanka Gandhi Vadra; AAP leaders Manish Sisodia and Amanatullah Khan; AIMIM chief Akbaruddin Owaisi; and former MLA Warris Pathan.
+
+On February 24, 2020, communal clashes broke out in northeast Delhi amid protests against the CAA and NRC, leaving at least 53 people dead and around 700 injured.
+
+The violence was marked by incidents of arson and vandalism, making it one of the deadliest episodes of communal violence in the national capital in recent years.
+
+\- Ends
+
+---
+
+### Delhi Riots: Delhi High Court Dismisses Plea Seeking FIR Against Kapil Mishra, Parvesh Verma
+*Mallika Soni · general*
+
+The development comes months after a Delhi court, in March this year, refused to direct registration of an FIR against Kapil Mishra.
+
+[Read full article](https://www.news18.com/india/delhi-riots-delhi-high-court-dismisses-plea-seeking-fir-against-kapil-mishra-parvesh-verma-ws-l-10367416.html)
+
+---
+
+### RBI MPC begins 3-day meeting today amid expectations of first rate hike since 2023
+*SECTIONS RBI MPC begins · business*
+
+New Delhi: The Reserve Bank of India's (RBI) Monetary Policy Committee (MPC) begins its 3-day meeting on Monday amid growing expectations of the first interest rate hike since 2023.
+
+The RBI has kept the repo rate unchanged at 5.25 per cent for four consecutive policy meetings after cutting rates by a cumulative 125 basis points in 2025. However, mounting inflationary risks and elevated crude oil prices have strengthened expectations that the central bank could shift towards monetary tightening.
+
+In the commodity market, Brent crude was trading at around USD 101.26 per barrel while crude oil was trading at around USD 89.98 per barrel, at the time of reporting.
+
+  
+
+The policy decision is due on Wednesday, October 7. The market largely expects the apex bank to increase the interest rates by 25 bps.
+
+Union Bank of India expects the RBI to raise the repo rate by 25 basis points in October and deliver further hikes in FY27, potentially taking the rate to 5.75-6 per cent.
+
+"We expect a 25bps rate hike, followed by one or two additional hikes during the remainder of FY27, taking the repo rate to 5.75-6.00%, accompanied by hawkish guidance signalling continued vigilance on inflation," it said in its report.
+
+As per EY, the apex bank is likely to weigh four key factors at its October 2026 Monetary Policy Committee (MPC) meeting: the US Federal Reserve's recent 25-basis-point rate hike, India's comfortable growth outlook, persistent inflationary pressures reflected in WPI and CPI, and sustained above-trend growth in broad money supply (M3).
+
+"Chances for a change in the RBI's policy stance and a 25-basis-point hike in the repo rate are high," it said.
+
+At its August policy meeting, the Reserve Bank of India's Monetary Policy Committee (MPC) kept the benchmark repo rate unchanged at 5.25 per cent and retained its 'neutral' stance, opting to wait for greater clarity on the inflation outlook amid uncertainties over the southwest monsoon, El Nino, geopolitical tensions and global trade policies.
+
+The central bank also kept the Standing Deposit Facility (SDF) rate unchanged at 5 per cent, while retaining the Marginal Standing Facility (MSF) rate and the bank rate at 5.5 per cent.
+
+RBI Governor Sanjay Malhotra said headline inflation was expected to rise, largely due to supply-side pressures from food and fuel, while core inflation remained moderate and was projected to ease after peaking in the third quarter. He further noted that the MPC needed greater clarity on the trajectory and composition of inflation before taking further policy action.
+
+According to an SBI Research report, consumer price inflation is expected to breach 6.5 per cent in the coming months, strengthening the case for the RBI to build a policy buffer against rising inflationary risks.
+
+"Going forward, we believe CPI inflation may cross the 6.5% mark before dropping to less than 6% in early 2027. Time to build moats through a 25-bps hike in October and Dec MPC each, and then to pause and take stock with upcoming data," it said.
+
+
+---
+
 ## 4 October 2026
 
 ### A for Alert, B for Bunker: How Maharashtra’s school kids are learning disaster ABCs
