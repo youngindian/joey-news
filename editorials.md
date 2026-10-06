@@ -1,8 +1,204 @@
 # Editorials
 
-_Last updated: 2026-10-05 07:32 UTC_
+_Last updated: 2026-10-06 07:58 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 6 October 2026
+
+### Bird islands: On India’s bustard conservation programme
+*The Hindu · Editorial*
+
+This week, at the Desert National Park in Jaisalmer, two male Great Indian Bustards were released into the wild. It was a ceremony with considerable bureaucratic pomp; the Union and the Rajasthan Environment Ministers were in attendance. The conservation plan now has 97 birds, with nine more awaiting release. Of these, 57 are captive-bred and have produced 29 chicks this year and 24 last year. These are notable numbers for a species with a population of around 120 that has teetered on the brink of extinction for nearly half a century. It is worth recounting the bird’s conservation travails. Ornithologist Salim Ali wanted it as the national bird, so that protection would follow; the Indian Board for Wildlife chose the peacock instead. Numbering about 1,260 in 1969, it dipped to 600 by 2000, and 140-175 in Rajasthan by the 2010s. Hunters, royal ones included, prized the bird, with shooting reportedly lasting into the late 1970s. The rise of irrigation in Rajasthan led to the grasslands, which were once dismissed as ‘wastelands,’ give way to irrigated, pesticide-soaked fields and roads making the bird more vulnerable. The most recent threat came in the form of high-tension power lines. As a heavy bird, the bustard tends to fly at the same height as power lines and has poor vision. The Supreme Court in 2021 ordered that low-voltage lines in priority habitats be underground. After opprobrium from renewable energy companies, on the grounds that this compromised the economics of solar power, the Court modified the order requiring that only a subset of the power lines — those part of the bird’s ‘critical’ habitat — be made underground.
+
+While the cultural links of the ‘Godawan’ – the bird’s local name – to Rajasthan’s habitat are now part of government and private marketing efforts, there are several other birds that are not as fortunate. Nearly 1,256 bird species, about 11.5% of the world’s total, are classified as threatened. Skylark numbers have fallen nearly 80% and Indian rollers 30% in 12 years. India’s conservation policy is captive to symbolism. A tigress from Valmiki flown to Buxa; African cheetahs in enclosures; Gir’s lions, confined to Saurashtra and straying into human habitations stoking conflict; the Delhi Ridge, being planted with peepal and banyan that ecologists say do not belong to its dry ecology. The conservation ethos — on paper emphasising coexistence between the wild and human — is practically promoting islands and African-style reserves. These have merits but populations that thrive inside walls overflow into villages and fields, as India’s challenges with elephants show. Landscapes, not species, ought to be the unit of conservation.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/bird-islands-on-indias-bustard-conservation-programme/article71547828.ece)
+
+---
+
+### Good, not good enough: On India and the Aichi-Nagoya Asian Games 2026
+*The Hindu · Editorial*
+
+Aspiring to host the Olympic Games in 2036, India faced a harsh reality check at the Aichi-Nagoya Asian Games. Compared with the previous Hangzhou Games, where it won 106 medals with a 650-plus contingent, the country won 85 medals from around 500 athletes. The aggregate fell short of an internally projected figure of around 100 medals. It is likely to invite a thorough postmortem, given the hundreds of crores of public money spent on the athletes’ preparation. India laboured to 21 gold medals, seven fewer than in Hangzhou, after a late surge of 11 top honours in the last two days, driven by the exploits of archers, boxers, wrestlers, and hockey and cricket players. It tied with Uzbekistan but managed to retain its fourth spot on the strength of a bigger haul of silver. Thirteen of the gold medals came from team events, with cricket, kabaddi and hockey making a clean sweep of titles. It underscored a stark reality: the country needs to raise its bar in medal-fetching individual sports, such as athletics, swimming, gymnastics, fencing and cycling, which determine success in multi-disciplinary Games. China, the runaway winner with a massive aggregate of 341 medals, including 169 gold, secured 54 medals in swimming alone. Barring athletics, India stood nowhere.
+
+On a brighter note, India fielded 310 debutants and recorded a marginal increase in its athlete-to-medal ratio ahead of Los Angeles 2028. Several historic performances provided reasons to rejoice. Seventeen-year-old rookie recurve archer Kumkum Mohod dismantling the Korean women’s hegemony to help the archery team contribute five gold medals was a defining moment. Trap shooter Neeru Dhanda, golfer Pranavi Urs, wrestler Sujeet Kalkal and the women’s hockey team, which upset Paris Olympics silver medallist China to clinch gold after 44 years, hogged the limelight. Lovlina Borgohain, Aman Sehrawat, Mirabai Chanu, Vithya Ramraj and Gulveer Singh lived up to their billing. Boxers, wrestlers and golfers registered noticeable improvement. Olympic quota places in archery and hockey added to the excitement. Indian women catching up with men — both genders delivered 38 medals apiece — was another encouraging sign. On the flip side, India’s two major contributors, athletics and shooting, which earned 24 and 15 medals, respectively, yielded 12 fewer medals than in 2023. The shuttlers slipped, while the tennis players returned empty-handed after 40 years. P.V. Sindhu and Manu Bhaker flopped. Stricter scrutiny of athletes’ funding and efficient implementation of the revamped Khelo India scheme, designed with a long-term vision, are essential for course correction. Without propelling India’s sporting standards, a bid to host the Olympics may become a countdown to international embarrassment.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/good-not-good-enough-on-india-and-the-aichi-nagoya-asian-games-2026/article71547798.ece)
+
+---
+
+### The looming crisis of world unemployment
+*The Hindu · Opinion*
+
+A recent World Bank forecast reveals that the global economy stands at the precipice of a silent catastrophe. A recent warning issued by Bank President Ajay Banga is stark: over the coming decade, an astonishing 1.2 billion young men and women in the Global South will reach working age, but the global economy is projected to generate no more than 400 million viable jobs. This creates a staggering deficit of 800 million opportunities in the job market, a demographic chasm of such unprecedented magnitude that it threatens to convert what should be the greatest economic dividend of the 21st century into a catalyst for widespread instability.
+
+For decades, economic theorists have championed the demographic dividend as the primary engine for lifting developing nations out of poverty. The formula appeared straightforward: as fertility rates decline, the proportion of working-age adults relative to dependents increases, creating a temporary window of high productivity, elevated domestic savings, and rapid capital accumulation that fuelled the East Asian economic miracle in the late 20th century. Today, however, that classic blueprint is failing. Developing nations such as India are experiencing their youth bulges at a historical moment when the traditional escalators of economic mobility are stalling. The sheer velocity of demographic growth in many countries is outstripping the rate at which domestic markets, infrastructure, and institutional frameworks can absorb new labour, turning the potential dividend into a looming crisis.
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-looming-crisis-of-world-unemployment/article71548426.ece)
+
+---
+
+### KPSC rot demands reform at source
+*Deccan Herald · Editorial*
+
+The Karnataka Public Service Commission (KPSC) scam has exposed something far more disturbing than a mere question paper leak. The Criminal Investigation Department (CID) and the Enforcement Directorate (ED) have uncovered a network in which candidates were coached in resorts, marks systematically manipulated, and results withheld to demand bribes. In the recruitment of veterinary officers, candidates are alleged to have paid lakhs of rupees, with the ED tracing part of the illicit proceeds. The probe has since widened to the Karnataka Administrative Service (KAS) recruitment and other examinations. The controversy centres on suspended KPSC chairman Shivashankarappa S Sahukar and former controller of examinations, IAS officer Gyanendra Kumar Gangwar. While Gangwar has been arrested, the role of other commission members is under investigation.
+
+13 recruitments by KPSC in two years under ED scannerThe Congress government has repeatedly pointed out that Sahukar and other commission members were appointed during B S Yediyurappa's tenure. But that does not absolve the present administration of responsibility. The irregularities occurred under its watch. Responsibility for an appointment may lie with a previous regime, but the onus for oversight rests with the government in power. More importantly, the KPSC's deficiencies are hardly unknown. There has been no shortage of committees or recommendations. The Hota Committee identified most structural deficiencies years ago and proposed corrective measures. A reform agenda already exists, including an annual recruitment calendar, long-term manpower planning, safeguards modelled on those adopted by the Karnataka Examination Authority, elimination of interviews for Group C posts, digital OMR management, and parallel document verification. Two more committees, one headed by R V Deshpande, MLA, and another led by retired IAS officer S V Ranganath, are examining further reforms.
+
+The deficiencies and remedies have largely been identified. What is lacking is the political will to implement them. The first and most critical reform concerns appointments. The chairman and members of a constitutional recruitment body must be chosen through an independent and transparent process based on integrity, competence, and administrative credibility, rather than political patronage. Equally, the KPSC investigation must not degenerate into a partisan contest. The ED’s inquiry should cover Sahukar's entire tenure instead of confining its focus to the period during which the Congress government has been in office. KPSC recruits personnel who ultimately run the state machinery. When merit is compromised at the point of entry, the integrity of governance is undermined. The state needs credible appointments, independent investigations, and, above all, the political courage to implement reforms on the table for years.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/kpsc-rot-demands-reform-at-source-4171574)
+
+---
+
+### SIR: Defending the indefensible
+*Deccan Herald · Editorial*
+
+The gross irregularities and undemocratic nature of the Special Intensive Revision (SIR) of electoral rolls demand accountability beyond mere course corrections. Media revelations have forced the Election Commission of India (ECI) to come out with explanations in its defence and take a few corrective steps. But the explanations do not justify the errors, primarily because these were not lapses that occurred in the normal course of implementing a national-scale programme involving many millions of people. These were predetermined actions intended to take the exercise in a particular direction and lead to an undemocratic outcome. The corrective measures do not neutralise the wrongs but only confirm them and strengthen the demand to establish greater accountability. The fundamental wrong of the SIR is more than the sum of all the individual wrongs exposed as part of its operation.
+
+The ECI has ordered a special drive for the enrolment of voters left out and of young and first-time eligible voters in states and Union Territories where the revision has been completed. Form 6, prescribed for the registration of new voters, was illegally altered, as pointed out by Election Commissioner Sukhbir Singh Sandhu. This alteration had consequences, denying a large number of citizens their voting rights. Relaxation or cancellation of a wrong decision does not absolve an authority of its accountability for that decision, especially when the authority stuck to the decision even after the illegality was pointed out by a responsible official. The official in this case should also have had a role in the decision. The same is the case with the operationalisation of a software that took away the power of state-level officers to decide on the eligibility of voters and the appeals made in West Bengal against the inclusion of over 16 lakh voters in the rolls.
+
+Chief Election Commissioner (CEC) Gyanesh Kumar took these and other crucial decisions without the concurrence of the two other election commissioners. That makes these decisions procedurally wrong, too, apart from being undemocratic in intent. This should render every action based on these decisions null and void. Kumar should be held accountable for the trauma and difficulties caused to millions of voters and the wastage of financial, material, and human resources in the exercise. Notably, the Commission has not addressed the nation on the controversy even in the face of credible evidence that its actions conflicted with its constitutional mandate and the essential principles of India’s electoral democracy.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/sir-defending-the-indefensible-4171570)
+
+---
+
+### FPIs abandon India’s growth story
+*Deccan Herald · Opinion*
+
+Foreign Portfolio Investors (FPIs; foreigners investing in stock markets for financial returns) were net sellers (total of sales and purchases) of Rs 9,980 crore equity on September 29. On September 30, that figure rose to Rs 10,198 crore. The FPIs remained relentless on October 1 also, dumping Rs 9,570 crore equity.
+
+Selling about Rs 30,000 crore worth of equity in three days was unprecedented and foreboding.
+
+Recently, the FPIs have also been selling Indian government securities. They sold Rs 2,132 crore of fully accessible route (FAR; no restrictions on buying and selling) on September 30.
+
+Are the FPIs running away from India’s equity and debt markets? Have they lost faith in the India story and the claims of high GDP and GST growth? Will they return soon? What does this mean for India’s foreign reserves?
+
+Beyond GDP: Why India's missing informal sector numbers distort economic realityTreating India very differently
+
+The nine months of 2026 have been very productive for the FPIs in most global markets. South Korean KOSPI has given a humongous return of 68%, Japan’s Nikkei has given 30%, and the United States’ NASDAQ delivered an impressive 15.6%. In a glaring contrast, India’s NIFTY delivered a (-)19.58% return in dollar terms during the same period.
+
+The FPIs make investments in stock markets around the world seeking the best net dollar returns. Wherever they expect the stock markets (and individual listed companies) to do well, they go and buy, investing top dollars. Wherever they find that the listed companies are unlikely to make excellent profits or the markets might not rise, they sell and exit with their dollars. Their investment decisions are also hugely impacted by their view about appreciation/depreciation of the local currency.
+
+At the moment, all these factors are signalling red for India.
+
+Over the next 2-3 years, corporate profits are expected to be not very high, as Indian companies are neither technology leaders nor major investors in future industries, such as chips (most prominently GPUs), and digital, tech, and energy transition. India’s stock markets are performing poorly; NSE/BSE indices are -15% compared to September 2024, and valuations remain high. The rupee is depreciating despite the RBI stockpiling over $130 billion through FCNR deposits.
+
+All this has sent shockwaves through the FPIs.
+
+The FAR route was introduced in 2020 to entice the global bond market indices to include Indian government bonds therein. Two global bond market indices included Indian bonds as well. Despite all this, the FPIs are not enthusiastic because the difference in yields on their rupee and dollar bond investments has become too small to cover rupee depreciation, making their net return on rupee bonds much less in comparison to US bonds.
+
+The FPIs are not in the business of charity. They do take some short-term losses when there is hope for making it up. That hope is vanishing. No wonder, they are dumping both equities and government bonds in India.
+
+The US interest rates are a critical factor for the FPIs to return to the Indian stock market.
+
+Yield on a 10-year US Treasury bond briefly crossed 5.3% (the highest in 20 years). There is enormous demand for debt from US corporates investing in AI and related industries and also from the US government to finance a huge fiscal deficit. The supply is, however, dwindling. Global investors (China, Japan, and others) are selling US securities and taking out their money.
+
+In this scenario, it is highly unlikely that US interest rates would ease anytime soon; they may rise further. In such a situation, if India wants the FPIs to return to buy Indian bonds and invest in equity, the RBI must raise the interest rates.
+
+Interest rates on government bonds are going up (crossed 7.2% on 10-year bonds). This, however, yields only 2% more than the US bonds. Considering likely rupee depreciation, unless the RBI creates a differential of 4% (raising yield to 9+%, which is nearly impossible for the bank to stomach), the FPIs are not going to buy the government bonds aggressively.
+
+The dollar interest rates are used for discounting stock market returns globally.
+
+As India’s stock markets are yielding negative returns and with no likelihood of the Narendra Modi government permitting Chinese to aggressively invest in India in future industries, including batteries and EVs, the FPIs are likely to keep away from India’s equity markets for some time.
+
+Reserves under pressure
+
+Foreign exchange reserves reached the high of $785.71 billion (foreign currency assets $648.17 billion) on September 4, riding over $130 billion FCNR(B) inflows.
+
+The foreign exchange reserves have begun falling rapidly since then. In the week ending September 18, total reserves fell by $14.88 billion (currency reserves $14.82 billion) and on September 25 by $18.34 billion (currency reserves $15.57 billion). On September 25, the foreign reserves were down to $747.56 billion (currency reserves $615.41 billion).
+
+Considering all factors (the current account deficit, NRIs encashing old FCNR and NRE deposits, the FPIs remaining reluctant, etc.), by the end of December, the reserves are likely to fall below their June 5 levels (total $681.61 billion, foreign currencies $543.44 billion). This may take the rupee to 100 per dollar, and that’s a scary scenario.
+
+Subhash Chandra Garg is former Finance & Economic Affairs Secretary, and author of ‘The Ten Trillion Dream Dented’, ‘Commentary on Budget 2026-2027’, and ‘We Also Make Policy’.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/fpis-abandon-indias-growth-story-4171902)
+
+---
+
+### The high price of institutional capture: How backing the CEC is costing the BJP
+*Deccan Herald · Opinion*
+
+A stage has been reached where the Union government seems almost incapable of thinking through the challenges it faces and how it responds. The handling of the largely peaceful protests against the Chief Election Commissioner (CEC) Gyanesh Kumar over the extended Gandhi Jayanti weekend, when hundreds were detained at Jantar Mantar, is proof of this. The government appears unable to act even in its own narrow self-interest of protecting its reputation and political standing. What is gained politically by unleashing police force on those protesting against an already disgraced CEC, while BJP functionaries rally to his defence? The defence only proves the charge: that the CEC and the party in power are one in the exercise of targeted voter exclusion.
+
+The national anger against the CEC, for his role in the widespread disenfranchisement of ordinary citizens, runs deep. His fellow election commissioners objected at least 14 times in 10 months to decisions taken without their knowledge, as reported. Given the depth of this anger, political survival dictates that the BJP maintain strategic silence on the issue, if not distance itself entirely. A formal dissociation would be a face-saving device for the party, but therein lies the bind: it would also raise questions about the legitimacy of recent state elections held on his watch, notably Bihar, where the BJP-led NDA won, and West Bengal, where the BJP came to power.
+
+As matters stand, Kumar cannot continue in his role with any credibility for long. His continued defence, then, means spending political capital on a lost cause. Each detention at Jantar Mantar only reinforces the image of the CEC being in the service of the BJP.
+
+‘Vote Bachao, Desh Bachao’: Congress announces nationwide campaign against CEC from October 10The Kumar affair, though, is a symptom, not the disease. There is little doubt that the Narendra Modi government is sinking deeper into a political quagmire. Even if it holds on, it will be a government with little political legitimacy. As developments have panned out, it will be very difficult to emerge from this crisis without extensive damage. This is a good time for the BJP to reflect on where it has landed under the Narendra Modi-Amit Shah capture. The question is even more urgent for the RSS, which, as the ideological root of the BJP, may face a bigger challenge. It runs the risk of being marked as a movement that enjoyed the spoils of power, built glamorous offices for itself, and watched silently as Indian institutions and the democratic framework were torn apart by the party it birthed and supported.
+
+Historically, the RSS has been accused of not standing up to the British during the freedom struggle. It has been charged with propagating the communal hatred that led to the killing of Mahatma Gandhi. If that was history the RSS wanted to leave behind, here was a chance to build an agenda for growth and truly live the promise on which the BJP won its first full majority in the Lok Sabha: sab ka saath, sab ka vikas. What it oversaw instead was more communal hatred, a divisive agenda, renewed attacks on Gandhi, rising joblessness, a directionless foreign policy, and a new phase of unabashed crony capitalism. The slogan of development was, observers will argue, a well-thought-through ruse to grab power and play with India’s crown jewels, the ECI being just one among the many that have been vandalised.
+
+India’s Preamble says the nation is constituted as a “sovereign, socialist, secular, democratic republic.” Consider how each of those words has come under attack. The Indo-US trade deal, under which, by Washington’s account, India agreed to stop buying Russian oil in return for lower tariffs, undermines sovereignty. The socialist ideal has been under attack for some time now. The latest examples are the Delhi government’s decision to let private schools self-certify in place of the essentiality certificate, and the rapid march of private equity into hospitals across the nation. Unions have been marginalised and their leaders detained often. Secularism remains under attack internally, given the number of violations of minority rights. Democracy is threatened by the functioning of the ECI under Kumar.
+
+Yet all of this has awakened and rekindled the republican spirit. “Republic” comes from the Latin res publica, “the public thing”, which holds that the nation belongs to the people, not to kings. India, as a republic, means its people, who must have a voice in how the nation’s affairs are run. People play an active part in shaping policy and driving direction. This is the part that has traditionally been weak in India, and which the government has tried to extinguish, but the protesters have brought alive.
+
+What is the immediate way out of this entanglement? The CEC cannot be sacked. He can be removed only the way a Supreme Court judge is, which in effect means impeachment by Parliament. For that to succeed, the BJP has to dump him and ask its MPs to vote for his removal, or its allies [JD(U) and TDP] have to turn.
+
+This appears unlikely: dumping Gyanesh Kumar means conceding the charge, along with questions over the mandates delivered on his watch. The other way involves backroom talks, in which the CEC is asked to resign voluntarily. How and why would he oblige? What price would he extract, and what secrets might he hold? Those become the levers in play if this option is pursued.
+
+All of this only highlights the bind in which the government finds itself. The lasting lesson is that institutions must be left independent and due process respected. Playing with institutions is like playing with fire. The thrills of capture are short-term; the pain plays out in the longer run.
+
+The writer is a journalist and faculty member at SPJIMR; Syndicate: The Billion Press.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-high-price-of-institutional-capture-how-backing-the-cec-is-costing-the-bjp-4171576)
+
+---
+
+### Why Keralam is right to reopen the Gyanesh Kumar case
+*Deccan Herald · Opinion*
+
+Keralam’s decision to reopen a two-decade-old vigilance inquiry involving Chief Election Commissioner Gyanesh Kumar should not be dismissed as political retaliation. On the facts currently available, a fresh investigation is not only defensible; it is necessary.
+
+The issue dates back to 2006, when Kumar, a Kerala-cadre IAS officer, served as secretary of the Public Works Department. Malaysian civil engineer Lee See Been, associated with the India-Malaysia PATI-BEL consortium working on the MC Road component of the Kerala State Transport Project, died by suicide that year. Contemporary and current reports say a purported suicide note named Kumar contained allegations connected to the clearing of project payments. Those allegations have never been judicially established, and Kumar is entitled to the presumption of innocence. But that is precisely why an unfinished inquiry is unsatisfactory: serious allegations require either substantiation or authoritative closure, not administrative oblivion.
+
+Keralam’s Home Minister Ramesh Chennithala has now directed the Vigilance and Anti-Corruption Bureau (VACB) to conduct a preliminary inquiry following a complaint by KPCC leader Malayinkeezhu Venugopal. Reports indicate the original inquiry began after Lee’s death but did not reach a conclusion; Kumar later moved to the Union government on deputation.
+
+That history creates the strongest case for reopening the matter.
+
+The relevant question is not why Keralam is investigating the 2006 case in 2026. The question is why a vigilance process arising from such grave allegations remained inconclusive for nearly 20 years.
+
+A public servant’s career progression cannot substitute for a finding on the merits. Nor should the passage of time automatically convert an unresolved allegation into exoneration. If the original material was insufficient, an inquiry can establish that. If investigators found no wrongdoing, the record should show why. If, however, the investigation was abandoned because of administrative intervention or external pressure, that itself becomes a matter of legitimate public concern. The fact that Kumar is today India’s chief election commissioner makes the need for institutional clarity greater, not smaller.
+
+The Election Commission of India occupies an exceptional place in India’s constitutional order. Article 324 entrusts it with the superintendence, direction, and control of elections. Its authority depends not merely upon statutory powers but upon public confidence that those exercising them meet exacting standards of independence and integrity.
+
+Independence, however, cannot be confused with immunity from scrutiny.
+
+The allegations being examined do not concern an act Kumar performed as chief election commissioner. They concern his tenure as Kerala’s PWD secretary almost two decades earlier. Constitutional protection for the independence of the ECI is intended to prevent governments from intimidating commissioners in the exercise of electoral functions. It cannot reasonably mean that a person appointed to constitutional office acquires retrospective insulation from scrutiny over unrelated conduct in an earlier administrative post.
+
+This distinction matters, especially because criticism of Kumar’s stewardship of the ECI has intensified over the Special Intensive Revision (SIR) of electoral rolls. A petition before the Supreme Court has also raised allegations concerning whether major ECI decisions were being taken collegially, while the ECI has rejected suggestions that its decisions lacked the concurrence required within the multi-member body.
+
+None of this proves the 2006 allegations. Nor should the vigilance inquiry be used as a proxy trial of Kumar’s current performance as CEC.
+
+But the contemporary political controversy cannot logically erase an older allegation merely because investigating it is politically inconvenient to Kumar. If anything, the correct response to accusations of political motivation is a transparent, evidence-based investigation — not abandonment of the inquiry.
+
+Keralam’s government should proceed firmly but scrupulously. The VACB should retrieve the original case diary, correspondence, contractual records, payment files, and statements recorded in 2006. It should establish why the earlier inquiry stalled, whether officers recommended further action, whether records were suppressed or ignored, and whether any outside intervention affected the investigation.
+
+The State should also make clear that political office-bearers will not dictate the outcome.
+
+There is a larger democratic principle at stake here.
+
+India often invokes institutional independence when powerful office-holders face scrutiny. But independence without accountability can easily become institutional exceptionalism. The credibility of constitutional bodies is strengthened — not weakened — when those who lead them can withstand legitimate examination of their public record.
+
+Thus, the Keralam government is right to reopen the matter.
+
+Twenty years is too long for serious allegations involving a major public project, a senior bureaucrat, and the death of an engineer to remain suspended between accusation and closure. The public interest now lies in finding out what really happened.
+
+If Gyanesh Kumar has no case to answer, a professional investigation can establish that. If wrongdoing or interference is uncovered, accountability must follow irrespective of the office he currently holds. Neither outcome should frighten a democracy.
+
+What should concern us far more is an unresolved vigilance file quietly surviving for two decades simply because the officer at its centre went on to occupy more powerful positions.
+
+Amal Chandra is an author and policy analyst, serving as a core member of the policy department, Keralam PCC. X:@ens_socialis. (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/why-keralam-is-right-to-reopen-the-gyanesh-kumar-case-4171998)
+
+---
 
 ## 5 October 2026
 
@@ -75,12 +271,41 @@ P.D.T. Achary is former Secretary General, Lok Sabha
 
 ---
 
+### DC Edit | Simplify GST, Spur Investment
+*Deccan Chronicle · Editorial*
+
+The GST Council meeting on October 7 offers an opportunity to make India a more attractive place to invest by removing tax uncertainties that complicate ordinary business decisions. With industrialised economies increasingly favouring protectionism and domestic production and negotiations on the India-US trade deal plateaued, India must strengthen its own investment climate by offering an efficient tax system that can restart the investment boom.A proposal to ease the definition of service exports is one of the important decisions. Indian companies often serve foreign clients through overseas branches that negotiate contracts and receive payments. Such arrangements reflect commercial necessity. They should not become grounds for denying export benefits merely because the Indian supplier and its overseas branch belong to the same legal entity.The Council should also ensure that qualifying services supplied to foreign customers receive zero-rated treatment, with clear rules governing the customer’s location, place of supply and receipt of payment. Foreign exchange earnings matter, but they alone cannot establish that every transaction constitutes an export. IT companies, consultants, research organisations and engineering firms should be allowed to structure legitimate overseas operations without inviting avoidable tax disputes.Export clarification must also be part of a broader effort to reduce the cost of doing business. Faster refunds are essential. Money trapped in the tax system cannot finance wages, equipment or expansion.Input tax credit also needs greater certainty. Simpler registration, fewer repetitive information demands and consistent interpretations across states would help smaller companies enter organised supply chains.Domestic investment cannot be stimulated through incentives alone. Entrepreneurs must believe that expansion will not expose them to unpredictable liabilities. The Council should measure reform by the time, money and uncertainty it removes from business operations. As globalisation loses some of its appeal abroad, India’s strongest response is to make productive investment easier at home.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-simplify-gst-spur-investment-1993362)
+
+---
+
+### Aakar Patel | Why Modi Govt Needs To Learn Accountability From British Raj
+*Deccan Chronicle · Opinion*
+
+While Gandhi Jayanti is still fresh in our minds and the right to peaceful assembly is in the news again, let’s look at a few things that may be relevant. The Narendra Modi government is stopping protesters from gathering as I write, because it wants to shield the chief election commissioner from accountability. His misconduct is not disputed: the facts are before us, but the government has adopted what we Indians say is a “jo karna hai kar lo” posture. Is it sustainable? We will get to that, but first a detour.Gandhi’s opening protest in India was in 1917 when he was 47.He learned that the tenant farmers of Champaran were bound by law to plant indigo on 15 per cent of their land, whether they wanted to or not, under a system called tinkathia.Gandhi decided to go on a fact-finding mission to Champaran and was ordered by the British magistrate to leave, which Gandhi decided not to do. He writes in his autobiography about what happened next:“A sort of friendliness sprang up between the officials — collector, magistrate, police superintendent — and myself. I might have legally resisted the notices served on me. Instead, I accepted them all, and my conduct towards the officials was correct. They thus saw that I did not want to offend them personally, but that I wanted to offer civil resistance to their orders. In this way they were put at ease, and instead of harassing me they gladly availed themselves of my and my co-workers’ co-operation in regulating the crowds. But it was a visible demonstration to them of the fact that their authority was shaken. The people had for the moment lost all fear of punishment and yielded obedience to the power of love which their new friends exercised.”The British quickly assessed the situation as not winnable. Gandhi writes:“Before I could appear before the court to receive the sentence, the magistrate sent a written message that the lieutenant governor had ordered the case against me to be withdrawn, and the collector wrote to me saying that I was at liberty to conduct the proposed inquiry, and that I might count on whatever help I needed from the officials. None of us was prepared for this prompt and happy issue. Crowds of peasants came to make their statements, and they were followed by an army of companions who filled the compound and garden to over-flowing.”It should be noted that the British government then moved with empathy. Gandhi writes:“The ever-growing number of ryots coming to make their statements increased the planters’ wrath, and they moved heaven and earth to put an end to my inquiry. But Sir Edward Gait, the lieutenant governor, asked me to see him, expressed his willingness to appoint an inquiry and invited me to be a member of the committee. The committee voted in favour of the farmers, and recommended that the planters should refund a portion of the exactions made by them which the committee had found to be unlawful, and that the tinkathia system should be abolished by law. The tinkathia system which had been in existence for about a century was thus abolished, and with it the planters’ raj came to an end.” This is how a government must work: it must concede the right to peaceful assembly and protest and it must undo injustice.Let us return to the present day. The Modi government was forced to concede the principle of accountability when it fired Dharmendra Pradhan over the botched functioning of the exam system. This concession came after it became clear that the government’s posture, including the Prime Minister’s Instagram videos, was not acceptable to the protesters.The government is now resisting the firing of the chief election commissioner. He is of great importance to the BJP, as we have observed not only in the handling of the SIR but also in his conduct towards Opposition parties.The furious back-pedalling on the SIR shows that the government has become alarmed and wants to be seen making minor concessions so that the anger dissipates. There is a tweak in the process here, a new form there.Alas, this has not worked because citizens have seen how egregious the whole electoral roll scandal is. The problem for the government is that once a large enough section of the citizenry has taken to the streets, the state has to fold. This happened with the farmers, it happened on the issue of the NRC, and it happened with Dharmendra Pradhan. It will happen again, because there is no real alternative. Gyanesh Kumar has another two-and-a-half years left in office, till January 2029, and it is hard to see the government being able to hold on to him, however precious he may be to Mr Modi, till then.If the protesters remain mobilised, the government will be compelled to do the right thing ultimately and concede again the principle of accountability.It seems absurd to say this, but it is appropriate: The Modi government must learn from the conduct of the British raj with Gandhi at Champaran. Accept the right to peaceful assembly; reverse the injustice done to...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-why-modi-govt-needs-to-learn-accountability-from-british-raj-1993378)
+
+---
+
 ### Abhijit Bhattacharyya | IAF at 94: Glory, Grit & the Need To Evolve
 *Deccan Chronicle · Opinion*
 
 As the IAF completes 94 years, the commanders thereof can justifiably feel happy to have proved themselves to be exemplary and commendably apolitical professional torchbearers carrying the flag of an aerial legacy, appreciated by every Indian. The October 1932-born IAF is the eighth seniormost air force among all contemporary world peers. Those preceding IAF are Royal Air Force (1918), Italy (1923), New Zealand (1923), Romania (1924), Afghanistan (1924), Finland (1928) and Chile (1930).Understandably, any combat institution of a subcontinent like India has to have a story of ups and downs owing to the vagaries and unpredictability of international factors and a myriad combo of local and regional developments. What won out, however, were the guts, grit and glory of IAF leaders and their lads’ impeccable professionalism albeit taught by the white colonial rulers. No doubt the story of British imperialism doesn’t create positive vibes for the ordinary Indian. Still, the fact is that setting up an institution like IAF proved beneficial for Independent India. The British introduced air power in India for their own benefit in order to rule for long. However, with their 1947 departure, New Delhi got a first-class ready-made military machine. The institution, born as Royal Indian Air Force, is the pride of the nation today. Nevertheless, a birthday is also a time for self-assessment and reflection. “How are you IAF? All well, one hopes?” The IAF is bound to say “I am fine”, but surely things could have been better if one delves slightly deep to assess the reality for the men and women who are on a 24/7/365 mission for the nation.According to Jane’s World Air Forces 2025 (Issue 62, page 278), “The IAF is world’s fourth-largest air force. Although it’s a competent and professional service, it faces increasing challenges, especially due to dwindling fleet numbers and procurement issues… the IAF admitted that inventory numbers are not adequate to fully execute air campaigns in a ‘two-front’ scenario against China and Pakistan.” In several policy documents, “India sanctioned 42-fighter squadrons”. However, the IAF inventory is filled with an ageing fleet of “approximately 28 squadrons”. That’s disappointing. According to Military Balance 2026 IISS, London (pages 264-265), the IAF consists of 1,51,800 personnel and “29 squadrons of 636 combat capable fighters”. The capable fighters of IAF have no doubts, along with capable people in air and on ground. However, a relook at age of machines recorded by Jane’s World Air Forces 2025 should be enough to coax every Indian to ponder corrective action.Of 28/29 combat squadrons, the original “Deep Penetration Strike Aircraft” (DPSA) Anglo-French SEPECAT Jaguars are 46 years old or more, inducted as they are in 1979. The twin-engine Russian MiG-29 was commissioned in 1986 (40 years) and the single-engine French Mirage 2000H joined IAF in 1984 (42 years). The first batch of the twin-engine Russian Sukhoi-30MKI joined squadron service in 1997, more than 29 years ago. Actual users and ops experts may point out that “age alone is not the sole factor for determining or judging a fighter aircraft quality and performance in actual battle because every machine is under the command, control, supervision and maintenance of experts of the force and fleet upgrading is an ongoing process”. Yet would it be far-fetched to suggest that the older the flying machine, the more time, energy and money are spent to keep it “flight worthy” for air ops? Along with wear and tear, logistics and training, won’t it always be an avoidable additional challenge for the pilots and their engineering colleagues to stay at par with newly inducted fighters in complex aerial exercise and routine training sorties?That said, the redeeming feature of the IAF’s ageing fleet is HAL’s 2016-inducted Bangalore-made single-engine indigenous Tejas Mark 1 and the French-manufactured twin-engine Rafale EH commissioned in 2019. The IAF does have a formidable task cut out for an onerous responsibility of eternal vigilance over the South Asian airspace.The 94-year-old IAF is one of the three principal arms of the Indian defence system with the second biggest manpower, the Army being the largest and the Navy with a manpower of 84,350 the smallest. What’s, however, striking is that, unlike IAF, the indigenous industrial capacity of the four principal shipyards in Mumbai, Kolkata, Visakhapatnam and Kochi successfully ensured that the Indian admiralty does not become an exclusively buyer’s navy banking on on foreign suppliers. If the Navy does well every Indian feels happy. A builder’s navy, or for that matter, army and air force, too, would always be the best for India. Hence, if IAF operates below strength, with vintage craft aged between three and four decades having high maintenance, challenging logistics and expensive spare parts and frequent “down times”, it’s indeed a matter of serious national concern. What’s the remedy then?...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/abhijit-bhattacharyya-iaf-at-94-glory-grit-the-need-to-evolve-1993167)
+
+---
+
+### Bharat Bhushan | Corporates Hedging Political Bets Suggest Changing Mood
+*Deccan Chronicle · Opinion*
+
+Could Opposition parties and Indian corporates be readying for a post-Modi polity? Two small moves suggest that such realignment of political investments may be taking place on both sides.Samajwadi Party leader Akhilesh Yadav has nominated Dhanraj Parimal Nathwani for one of the two Rajya Sabha seats it can safely secure from Uttar Pradesh in the routine six-year cycle of Upper House elections on October 16.
+
+He has been chosen over long-time party loyalists. The other SP candidate is Akhilesh’s uncle, Ram Gopal Yadav.Parimal Nathwani is group president of Reliance Industries, a director of Reliance New Energy and other Mukesh Ambani entities, and president of the Gujarat Cricket Association. His father, Parimal Dhirajlal Nathwani, also a long-standing Reliance executive, is already a Rajya Sabha member backed by the ruling National Democratic Alliance in his latest election. The father, although an independent, stands with the Narendra Modi government while his son now stands with forces opposed to Mr Modi.The other noteworthy gesture is that while Rahul Gandhi’s political rhetoric has attacked “Adani-Ambani” in the same breath as crony capitalists of the regime, Mukesh Ambani’s photo was dropped from Mr Gandhi’s political presentation (captioned: “Destroyers of Democracy”) to the Congress Party on September 26. Until recently, hoardings at Rahul Gandhi’s rallies such as Chhatron Ki Goonj, also featured Mukesh Ambani in slide presentations titled “the system has captured the country”. However, at the recent party gathering, while pictures of Prime Minister Narendra Modi, Home minister Amit Shah, RSS chief Mohan Bhagwat, NSA Ajit Doval, along with industrialists Gautam Adani and others, were displayed on the hoarding — Mukesh Ambani was not.These moves can be read as straws in the wind. Akhilesh has publicly explained why he fielded the junior Nathwani — claiming that he wanted to connect with the corporate world and bring a younger generation into Parliament. He also argued that socialism, too, requires industries and investment.Like his father, Mulayam Singh Yadav, the political language remains that of social justice but business and capital have never been outside the politics of either (one only has to recall the unctuous Amar Singh facilitating Mulayam’s corporate and Bollywood links). The significance of Mr Nathwani’s nomination may lie not so much in Reliance moving towards the SP as in the party itself becoming confident enough about its future to invite a corporate honcho into its fold. Mr Nathwani also has close Gujarat links — he succeeded Amit Shah as president of the Gujarat Cricket Association and was associated with the cricket stadium Mr Modi renamed after himself.This by no means implies that Reliance has abandoned Mr Modi. Given Mr Nathwani’s Gujarat connections, he could also be used by Reliance and the present establishment as a bridge between politically opposed worlds when necessary.However, his presence in SP’s ranks might also indicate that Reliance may be adopting more deliberately pluralistic relationships with the political class after sensing a shift in the political environment. It suggests that the risks of maintaining political relationships with the Opposition are lessening for a corporate house like Reliance and it needs to prepare the ground for a different political scenario for its continued growth. It allows for the possibility that Akhilesh could become an important political figure in the next state government and that today’s Opposition could eventually become the government at the Centre.The exclusion of Mukesh Ambani from the ranks of “destroyers of democracy” suggests a greater discernment by the Congress Party between Adani and Ambani in not using their names interchangeably as proximates of the Modi regime. This is a deeper commitment than simply wooing Ambani for election resources. It signals that Congress’ criticism should not be misunderstood as blanket hostility towards big business.The Congress, in fact, has had a long history of ties with Reliance and the Ambanis. Reliance patriarch Dhirubhai Ambani’s close relationship with Indira Gandhi from 1980 onwards led to the extraordinary rise and expansion of the Reliance empire. His most important intermediary was none other than Indira Gandhi’s commerce and finance minister Pranab Mukherjee, who, in his ministerial capacity, is believed to have facilitated Reliance’s extraordinary access to capital.Initially, under Rajiv Gandhi, Dhirubhai Ambani was seen as the embodiment of Licence Raj. But after V.P. Singh targeted both Ambani and Rajiv Gandhi, the wariness between the two lessened. The Congress has never been inherently anti-Reliance and the relationship was never ideological but essentially transactional. Both political power and economic power needed each other. Rahul Gandhi seems to be retreating to a familiar pattern as the Congress removes Mukesh Ambani from its blacklist of enemies of democracy, while ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/bharat-bhushan-corporates-hedging-political-bets-suggest-changing-mood-1993391)
 
 ---
 
@@ -21563,254 +21788,6 @@ Since the UP election is months away, the opposition’s effort to use the theft
 S Gurumurthy,Editor, Thuglak Tamil Magazine.Chairman, Vivekananda International Foundation Strategic Think Tank
 
 [Read full article](https://www.newindianexpress.com/opinion/columns/s-gurumurthy/2026/Jul/08/will-theft-affect-hindutva-up-poll)
-
----
-
-## 7 July 2026
-
-### Bad for both: On the Russia-Ukraine conflict
-*The Hindu · Editorial*
-
-More than four years into Russia’s invasion, Ukraine has found ways to raise the cost of the war for the Kremlin — striking its energy infrastructure with drones and imposing a drone blockade on Crimea. When the war began in February 2022, Ukraine’s immediate response was to resist Russia’s battlefield advances, while mobilising international support. As the war dragged on, Ukraine received advanced defensive and offensive weapons from its western partners, while Russia was subjected to sweeping sanctions. But this approach did not slow Russia, which reinforced its front lines and captured more Ukrainian territory. Both sides have suffered tens of thousands of casualties. Ukraine’s economy has become heavily dependent on western aid. Kyiv has also transformed the way the war is fought by launching hundreds of drones each day at Russian troops and critical infrastructure. For President Vladimir Putin, who initially sought to shield the Russian public from the consequences of the war, these attacks are a stark reminder that the war has come home. Strikes on Russian oil facilities, described by Ukrainian President Volodymyr Zelenskyy as “long-range sanctions”, have knocked out parts of Russia’s refining capacity. Ukraine has also targeted the electricity infrastructure and fuel logistics of Crimea, the Black Sea peninsula Russia annexed in 2014, forcing a state of emergency.
-
-Mr. Zelenskyy wants to use this offensive pressure to force Mr. Putin to the negotiating table and secure a ceasefire. But drone warfare has only slowed Russian advances. Last week, Russia’s Defence Ministry announced the capture of the eastern city of Kostiantynivka and a closing in on Lyman. Russia now controls over 20% of Ukraine since 2014. Russia has repeatedly accused NATO countries of enabling Ukraine to strike deep inside its territory. Mr. Putin is already under pressure over his inability to secure a decisive victory, and nationalist voices have urged him to widen the conflict to increase pressure on NATO. The situation remains highly volatile with no political settlement in sight. Ukraine can hurt Russia economically, but it continues to lose ground on the battlefield. Russia can inflict military losses on Ukraine, but it is also facing attacks on a scale unseen since the Second World War. Neither side has a viable military path to achieving its objectives. Mr. Putin and Mr. Zelenskyy should adopt a more accommodative position with mutual concessions. They should agree to a ceasefire and be ready to begin substantive negotiations on the outstanding issues, including the security concerns of both countries and the future of NATO.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/bad-for-both-on-the-russia-ukraine-conflict/article71189848.ece)
-
----
-
-### ​Falling behind: On Mumbai and the monsoon
-*The Hindu · Editorial*
-
-The southwest monsoon has been highly active over western India, with southwesterly winds loaded with moisture sweeping over the Western Ghats and delivering intense rains along the Konkan coast, while other weather systems offshore are routing more moisture over Mumbai and the surrounding areas. In urban areas in general, rainfall intensity matters more than volume. Mumbai itself can generally absorb moderate rainfall over several hours; however, its drainage — like in many Indian cities — cannot handle several hundred millimetres in short bursts. Heavy rainfall also overwhelmed river catchments in parts of Maharashtra, including around Nashik, while high tides reduced the efficiency of Mumbai’s stormwater drainage, worsening flooding in the city. Mumbai-Pune rail services were suspended after landslides in the Bhor Ghat and flights were affected. The closures of the Mumbai-Pune expressway and the Mumbai-Goa highway and significant flooding on the Mumbai-Ahmedabad expressway were disruptive, speaking to the increasing erraticity of monsoon rainfall, the vulnerabilities associated with linear infrastructure projects, and the ease with which the effects of natural disasters are compounded by cascading failures. A chawl collapse in Mankhurd took the lives of five children.
-
-Mumbai lies on a peninsula built mostly on reclaimed land, former marshes, tidal flats, and low-lying coastal areas, creating the characteristic risk of higher flooding when rainfall coincides with high tide. It is compounded by decades of haphazard urbanisation that has encouraged water to run-off rather than be absorbed by the ground, forcing drains to handle more water than their design limits. After the July 2005 floods, when it received 944 mm in 24 hours, Mumbai launched the BRIMSTOWAD project and widened drains, installed pumping stations, and undertook premonsoon de-silting. Many of these works remain incomplete while some completed upgrades are based on assumptions about the monsoon that climate change has since undermined. Officials have also argued that pre-monsoon desilting helped reduce flooding in parts of Mumbai, but water on the Mumbai-Ahmedabad expressway, the chawl collapse, deadly tree falls in Kurla and Aarey, lack of redundancies in public transport, and the BMC’s belated advisory to builders to halt hazardous construction all suggest a governance lapse. Mumbai’s accountability also remains split across the BMC for local drainage and roads, the IMD for forecasting, the NDRF, two Railway zones, the State government, and highway authorities. Overall, the city has improved at shutting down to save lives and minimising the death toll — but as climate change and urbanisation evolve faster than infrastructure upgrades, simply waiting for system capacity to catch up to demand will be a failing strategy.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/falling-behind-on-mumbai-and-the-monsoon/article71189812.ece)
-
----
-
-### In India, voting cannot remain merely a statutory right
-*The Hindu · Opinion*
-
-Recently, a Congress leader revived an old constitutional debate by demanding that voting should be recognised as a fundamental right. At first sight, the demand appears unexceptionable. In a democracy, what could be more fundamental than a citizen’s right to choose those who govern? Yet, for more than seven decades, the Supreme Court of India has consistently held that the right to vote is not a fundamental right but merely a statutory right.
-
-This judicial position, though well established, has become increasingly difficult to reconcile with the Court’s own evolving jurisprudence. In a series of landmark decisions, the Court has gradually transformed the voter from a passive statutory creature into an active constitutional actor.
-
-The result is a curious paradox: while the act of voting itself continues to be described as statutory, many of its essential facets have already acquired constitutional protection.
-
-The traditional position dates back to N.P. Ponnuswami vs Returning Officer (1952), where the Court held that the right to vote and the right to contest elections are not common law rights but rights created by statute. The principle was reaffirmed in Jyoti Basu & Others vs Debi Ghosal & Others (1982), where Justice O. Chinnappa Reddy observed that the right to elect, “fundamental though it is to democracy”, is neither a fundamental right nor a common law right, but “purely a statutory right”. A Constitution Bench reiterated this position in Kuldip Nayar vs Union of India (2006), holding that while democracy forms part of the basic structure of the Constitution, the individual right to vote flows from legislation, principally the Representation of the People Acts.
-
-The logic behind this approach is understandable. The Constitution does not expressly enumerate the right to vote among the fundamental rights contained in Part III. Parliament, therefore, enjoys considerable latitude in prescribing qualifications, disqualifications and procedures governing elections.
-
-However, the story does not end there.
-
-Constitutionalising the poll processBeginning in the early years of this century, the Court embarked upon a process of constitutionalising the electoral process. In Union of India vs Association for Democratic Reforms (2002), the Court held that voters have a right to know the criminal antecedents, educational qualifications and financial assets of candidates. This right was located squarely in Article 19(1)(a), the fundamental right to freedom of speech and expression. The Court reasoned that meaningful participation in democracy is impossible unless voters are adequately informed.
-
-A year later, in People’s Union of Civil Liberties vs Union of India (2003), the Court drew an important distinction. While reiterating that the right to vote is statutory, it held that the freedom of voting — that is, the freedom to make an informed choice — is a fundamental right protected by Article 19(1)(a).
-
-The most intriguing development came in the 2013 NOTA judgment. Recognising the option of “None of the Above”, the Court held that a voter’s decision to reject all candidates is a form of political expression protected by Article 19(1)(a). The Court further held that secrecy of the ballot must extend even to those who choose not to vote for any candidate.
-
-This produces an extraordinary constitutional anomaly. The Court has effectively held that the right to know is fundamental, the freedom to make an informed choice is fundamental, the secrecy of the ballot is fundamental, and even the right to reject all candidates is constitutionally protected. Yet, the act of voting itself continues to be treated as a mere statutory entitlement.
-
-One is tempted to ask: if the Constitution protects the right to reject all candidates, why does it not protect the right to choose one?
-
-Recent constitutional jurisprudence also points in this direction. In Anoop Baranwal vs Union of India (2023), Justice Ajay Rastogi, in his separate opinion, expressly favoured recognising voting as a fundamental right. Although this view did not command a majority, the Constitution Bench repeatedly referred to voting as a constitutional right rather than merely a statutory one. This marks an important shift in judicial understanding. The Court may not yet have elevated voting to the status of a fundamental right, but it has undoubtedly moved beyond the narrow statutory conception that dominated earlier decisions.
-
-The anomaly becomes even more striking when viewed through the prism of the basic structure doctrine. Since Kesavananda Bharati vs State of Kerala (1973), the Court has repeatedly held that democracy forms part of the Constitution’s basic structure. In Indira Nehru Gandhi vs Shri Raj Narain & Anr. (1975), the Court underscored that free and fair elections are an essential feature of democracy. Subsequent decisions have consistently reaffirmed this principle.
-
-Democracy begins with votesBut democracy does not exist in the abstract. It operates through elections, and elections derive their legitimacy from the participation of citizens through the ballot. The vote is the very instrument through which popular sovereignty is exercised. It is through the vote that “We, the People” periodically renew the legitimacy of the state and hold governments accountable.
-
-If democracy is a part of the Constitution’s basic structure, and if free and fair elections are indispensable to democracy, it is difficult to explain why the citizen’s right to vote should remain outside the constitutional core. To say that democracy is basic to the Constitution while the citizen’s vote is merely a statutory right appears incongruous. A democracy without voters is inconceivable.
-
-This does not necessarily mean that every aspect of voting should be elevated into an absolute fundamental right immune from regulation. Parliament must continue to prescribe qualifications, disqualifications and procedures necessary for the conduct of elections. Age requirements, electoral rolls, residency conditions, disqualifications for corrupt practices and other regulatory provisions are indispensable for orderly elections.
-
-What requires constitutional recognition is not every procedural detail but the core right of every eligible citizen to participate in the democratic process.
-
-This becomes particularly evident when one examines Article 326 of the Constitution. The Article mandates that elections to the Lok Sabha and State Legislative Assemblies shall be based on universal adult suffrage. Every citizen above the age of 18 is constitutionally entitled to be registered as an elector, subject only to narrowly defined disqualifications. The source of this entitlement is not legislation but the Constitution itself. The Representation of the People Acts merely operationalise that constitutional command.
-
-Thus, while the mechanics of voting may be statutory, the citizen’s entitlement to be a voter flows directly from the Constitution. Exclusion from the electoral roll, except in accordance with constitutionally permissible limitations, therefore, strikes at a constitutional guarantee.
-
-A matter for the Court to revisitThe distinction between statutory and constitutional rights may have served a useful purpose in the early years of the Republic, when electoral jurisprudence was still in its infancy. But the Court’s own decisions have steadily blurred that distinction by progressively constitutionalising various facets of voting.
-
-Perhaps the time has come for the Court to revisit an old doctrine. In a Constitution where democracy and free and fair elections constitute the basic structure, the citizen’s vote cannot remain a constitutional orphan. The ballot is not merely a statutory privilege conferred by Parliament. It is the instrument through which popular sovereignty is expressed and the Republic periodically renews its democratic legitimacy.
-
-After all, if the Constitution protects the right to reject every candidate, it can scarcely deny protection to the right to choose one.
-
-S.Y. Quraishi is a former Chief Election Commissioner of India and author of An Undocumented Wonder: The Making of the Great Indian Election
-
-[Read full article](https://www.thehindu.com/opinion/lead/in-india-voting-cannot-remain-merely-a-statutory-right/article71190420.ece)
-
----
-
-### Why India must get the Caste Census right
-*The Hindu · Opinion*
-
-The Narendra Modi government’s decision to include caste enumeration in the next Census is one that is bold, transformative and commendable. Counting caste is not capitulation to identity politics. It is a mirror to the lived realities of millions. It marks a vital step towards evidence-based policymaking to build a more just and inclusive India. A nation that refuses to see itself cannot hope to heal itself.
-
-Caste Census: The methodology, challenges, and the road ahead | Explained
-
-Post-Independence, India attempted to abolish caste while simultaneously pursuing social justice — a textbook example of policy schizophrenia, as the two goals are fundamentally incompatible. The refusal to count caste in the Census was a corollary of the policy of caste blindness. But the Constitution explicitly mandates the pursuit of social justice through reservations in education, public employment, and electoral constituencies — measures that require precise, disaggregated caste data. Although the Constitution uses the term “class”, the Supreme Court of India has repeatedly ruled that caste is a valid, and often necessary, proxy for identifying backwardness and has insisted on detailed caste-wise data to uphold reservation policies.
-
-In his 1955 essay, ‘Thoughts on Linguistic States’, Dr. B.R. Ambedkar denounced the omission of caste tables from the 1951 Census as an act of “petty intelligence”. Visibility in data is the first step toward meaningful inclusion. Caste data collection across all major social groups is essential not only for administering reservations, but also for equity-driven planning, targeted policymaking, and tracking disparities over time. Not collecting it has rendered many of India’s marginalised communities invisible in official statistics. Worse, a narrow elite of upper castes and dominant Other Backward Classes (OBCs) has entrenched its grip over wealth, opportunity and power behind the smokescreen of caste anonymity. In hindsight, this ranks among India’s gravest policy failures.
-
-A legal and administrative necessitySince 1951, the Census has enumerated Scheduled Castes (SCs) and Scheduled Tribes (STs) but excluded OBCs, even though all three groups are constitutionally eligible for reservations in education and public employment. The usual justification, that OBCs lack reserved seats in Lok Sabha and State Legislative Assemblies (that SC/ST have) collapsed with the 73rd and 74th Amendments, which mandated OBC reservation (in addition to SC/ST reservation) in electoral constituencies of panchayats and municipalities. Implementing these provisions requires granular, area-wise OBC data. With the introduction of reservations in education and public employment for the Economically Weaker Sections (EWS) among upper castes (2019), a comprehensive enumeration of all castes has now become a legal imperative.
-
-India’s reservation policy currently operates in an evidence vacuum, leaving it vulnerable to arbitrary demands from powerful caste groups and politically expedient decisions by governments. With reliable caste data, the demands of the Marathas, Patidars, Jats, and others can be assessed transparently and on merit. The limited data we do have reveal deep inequities. According to submissions made by the Government of India to the Justice G. Rohini Commission, just 10 OBC castes cornered 25% of all public jobs and education seats reserved for OBCs, while a quarter of OBC castes secured 97% of the benefits. Shockingly, 38% of OBC castes received only 3% of the benefits, and another 37% got nothing at all.
-
-Hence, caste enumeration is also an administrative imperative — to prevent the elite capture, enable rational sub-categorisation within social groups, and allow a more precise definition of the “creamy layer”.
-
-Collection of caste data must go beyond the decennial Census. All periodic government surveys should enumerate OBCs and upper castes alongside SCs and STs. The era of partial counting must end.
-
-Learning from failure and successIn 2010, Parliament unanimously resolved to count caste in the 2011 Census. The 1931 Census had recorded 4,147 castes (excluding the then-called Depressed Classes). The Anthropological Survey of India has identified 6,325 castes. But the Socio-Economic and Caste Census (SECC) of 2011, conducted by the United Progressive Alliance-II government, was a debacle. It produced a ludicrous figure of 46 lakh castes and was never released.
-
-What went wrong? First, the SECC-2011 was not conducted under the Census Act, 1948 and lacked legal authority. Second, it was conducted through the Union Ministries of Rural Development and Urban Development with no expertise for handling a complex socio-anthropological survey. Third, its open-ended questions about caste created confusion. Undertrained enumerators conflated castes, aliases, sub-castes, gotras, clan names, surnames and broader caste groups. The result was a chaotic, unusable data set. Was it sabotage or incompetence? Either way, a historic opportunity was squandered.
-
-In contrast, in Bihar’s caste survey, enumerators were given a vetted list of 214 castes specific to the State, with a 215th option for “Other Castes”. The survey was well-planned, well-executed, and showed that a credible caste count is entirely feasible.
-
-Blueprint for a successful Caste CensusTo avoid repeating the SECC-2011 fiasco, here is what must be done.
-
-First, legal backing. Amend the Census Act, 1948 to explicitly mandate caste enumeration and insulate the process from shifting political agendas.
-
-Second, the right institution. Entrust the exercise solely to the Office of the Registrar General and Census Commissioner of India, and not Ministries that lack domain expertise.
-
-Third, a standardised questionnaire. Use closed-option questions with dropdown menus covering sub-caste, caste (including aliases), broader caste group, and caste-linked surname (optional). Having ‘caste’ alone as an option can lead to errors since some caste names such as Rao, Naik, Singh or Bhandari span multiple communities. Assign unique digital codes to avoid duplication and semantic confusion (e.g., grouping “Iyer” and “Aiyar” under one code).
-
-Fourth, State-specific caste lists. Develop draft lists in consultation with State governments, sociologists, and community leaders. Publish them online and invite public feedback before finalisation. Use a similar participatory approach for questionnaire design.
-
-Fifth, enumerator training. Conduct region-specific training sessions with mock examples, clear dos and don’ts, and guidance on local caste nuances.
-
-Sixth, digital tools. Equip enumerators with handheld devices that are preloaded with validated caste lists. Restrict data entry to predefined options to minimise human error.
-
-Seventh, representative staffing. To ensure data integrity, deploy enumerators from diverse communities and in areas where they have no conflict of interest.
-
-Eighth, independent oversight. Establish district-level committees to audit samples and monitor data integrity.
-
-Ninth, pilot testing. Run trials in diverse States such as Tamil Nadu, Gujarat, Uttar Pradesh and Assam to refine methodology before nationwide rollout.
-
-In every Census since 1951, the Government has successfully enumerated nearly 2,000 castes and tribes under the SC/ST categories. Counting the remaining 4,000-odd OBCs and upper castes (most of them State-specific) is not only doable but also long overdue. The delayed 2021 Census offers a rare chance to finally close this data gap. The time for denial and delay is over. The time to get the Caste Census right is now.
-
-K. Ashok Vardhan Shetty is a former IAS officer of the Tamil Nadu cadre and a former Vice-Chancellor of the Indian Maritime University, Chennai
-
-[Read full article](https://www.thehindu.com/opinion/lead/why-india-must-get-the-caste-census-right/article69564756.ece)
-
----
-
-### A second home for survival
-*Deccan Herald · Editorial*
-
-The recent deaths of eight lion cubs from heat-induced dehydration in Gujarat’s Gir forest have revived debates over the overcrowding of the sanctuary and the potential relocation of the lions. The incident initially triggered concern over a possible epidemic caused by the Babesia parasite. However, forestry officials denied any outbreak after conducting medical examinations and confirmed that several lions were temporarily isolated before being released back into the wild. The forest department also launched targeted operations to eliminate the parasite and enhanced monitoring efforts across the landscape. While the authorities maintain that no recent lion fatalities in Gir have been caused by disease, the incident underscores the challenges in managing the sanctuary.
-
-Gir remains the only habitat of Asiatic lions, and experts warn that it may now be overcrowded. In 2025, the authorities recorded 891 lions in the sanctuary within a habitat spanning 35,000 sq km across several districts. This is a sharp rise from 674, reported in 2020. Gir's conservation success is widely celebrated, but many believe this very success now also poses a threat. Overcrowding has pushed the lions beyond the sanctuary’s edges, causing conflicts with humans and putting the animals at risk. Lions have died in collisions with speeding vehicles. A greater danger lies in infectious diseases transmitted by dogs, cattle, and other domestic animals living on the periphery of the forest. In 2018, 23 lions died from an infection believed to have spread from domestic and other animals. The authorities initially denied the outbreak.
-
-Environment activists raise concerns over decisions affecting Asiatic lions, their habitatAs part of efforts to mitigate the risks in conservation, experts have long advocated for relocating a section of the Gir lion population to the Kuno National Park in Madhya Pradesh. Although the Supreme Court ordered this translocation in 2013, the directive remains unimplemented. The Gujarat government has resisted the move, contending that the Asiatic lions are a symbol of the state’s pride. However, housing an entire endangered species in a single habitat violates standard practices of conservation. This concentration also increases the animals’ vulnerability to dangerous infections and localised natural hazards, while inbreeding risks a fall in genetic immunity. A recent memorandum highlighting these concerns was submitted to President Droupadi Murmu, urging the immediate translocation of the lions. The Kuno National Park was established in 1981 to serve as a secondary habitat for the species, a project that required evacuating several villages. This relocation is essential to securing the lions’ long-term survival and genetic health.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/a-second-home-for-survival-4064364)
-
----
-
-### Limits of the American alliance
-*Deccan Herald · Editorial*
-
-Recently, the United States announced that it was renaming the US Indo-Pacific Command back to its original US Pacific Command. William Shakespeare, who asked ‘What’s in a name?’, might not have thought much of it, but in diplomacy, optics are often as decisive as substance. This is bad news for India as it is yet another sign of New Delhi being pushed to the periphery of Washington’s vision. The US’ claim that there would be no change in the geographic jurisdiction and mission is hard to believe.
-
-This move underscores that Washington no longer sees New Delhi as a counterweight to an aggressive Beijing in the region. In September 2018, when then US Defence Secretary James Mattis announced the USINDOPACOM, geopolitical equations were very different: Washington championed a free and open rules-based international order. It focused on containing Beijing’s influence, and India-US ties were riding high on the personal rapport between Prime Minister Narendra Modi and US President Donald Trump. Today, Sino-US ties are undergoing a cautious recalibration, with Trump even seeing a ‘G2’ (Group of Two). This shift spells trouble for the US’ allies in the region and puts the Quad’s future in uncertainty. The renaming signals that the US no longer considers India central to its South Asian calculus. From regime change in Bangladesh to its policies in Myanmar, recent US actions have cut against India’s interests. Above all, the current Washington-Islamabad bonhomie has come at New Delhi’s expense. Sergio Gor, the US Ambassador to India, downplayed the renaming, saying he didn’t “care what name is on the letterhead”. It would appear that Gor is a fan of Shakespeare. Yet, his appointment as ambassador was a clear sign of Washington downgrading its ties with India – not because of his lack of diplomatic chops, but because of his dual role as both ambassador to India and Special Envoy for South and Central Asian Affairs, with 12 other countries on his roster.
-
-India’s strategic autonomy undone by US pivotThis is the latest in a string of anti-India actions by Washington: from terminating duty-free access to many Indian goods to imposing exorbitant tariffs and penalties, and from interfering in India’s energy policies to hosting Pakistani leaders while both neighbours were at heightened hostilities. Though it cannot stand up to the US like China, by now it must be clear to New Delhi that Washington is not a reliable ally. Towards that end, India’s trade deals with various countries and blocs are steps in the right direction. Strategic autonomy must be safeguarded, along with geopolitical and defence interests.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/limits-of-the-american-alliance-4064363)
-
----
-
-### Beyond Trade | India and Japan redraw the Indo-Pacific map
-*Deccan Herald · Opinion*
-
-Japan’s Prime Minister Sanae Takaichi’s maiden visit to India marked an important shift in the India-Japan ties. For years, it was largely understood through the language of infrastructure, investment, connectivity, and official development assistance (ODA). They remain important, but the centre of gravity is shifting. The new vocabulary of the relationship is technology, supply chain resilience, economic security, energy security, digital infrastructure, and defence-industrial co-operation.
-
-This reflects a deeper transformation in Asia’s strategic environment. From the Russia-Ukraine war to continuing instability in West Asia, India and Japan understand that trade, investment, and technology can no longer be separated from geopolitics. Supply chains are now strategic assets. Critical minerals are instruments of power. Artificial intelligence, semiconductors, batteries, telecom networks, and advanced materials are no longer only commercial sectors. They are becoming the foundations of national capability.
-
-Takaichi signalled this shift even before she landed in New Delhi. In an op-ed she described India as an indispensable partner in Japan’s Free and Open Indo-Pacific (FOIP) vision. She also linked Japan’s FOIP with India’s MAHASAGAR and IPOI frameworks, and identified economic security, energy security, and AI as pressing priorities for the summit. The message was clear. Tokyo now sees India not merely as a friendly Asian democracy or a destination for Japanese capital, but as a strategic partner in managing and shaping the Indo-Pacific.
-
-The July 2 Modi-Takaichi press meet confirmed this reading. The two sides adopted three major documents covering economic security, energy resilience, and AI. Prime Minister Narendra Modi underlined co-operation in semiconductors, quantum technology, advanced materials, and battery technologies. He also made an important observation: India and Japan see economic security as shared security.
-
-After the summit, Foreign Secretary Vikram Misri said the economic security declaration gives practical guidance to strengthen project-based co-operation. The Economic Security Fact Sheet 2.0 lists ongoing government and business engagements. Many summit outcomes fall directly into this category: co-operation on batteries and pharmaceuticals, and technical collaboration on resource exploration and mapping of critical minerals.
-
-India, Japan seal warship stealth deal, raise concerns over militarisation in East and South China seasThis economic security agenda could give much-needed depth to the bilateral commercial relationship. Currently, India-Japan trade remains modest. According to the MEA’s India-Japan bilateral brief, bilateral trade in FY2026 stood at around $27.48 billion, with India exporting $~6 billion and importing over $21 billion. In 2025, the two sides set a target of $~67 billion, in Japanese private investment in India over the next decade. The economic security and AI-related initiatives will be crucial if this target is to translate into real industrial co-operation, trusted supply chains, and higher trade volumes.
-
-Energy resilience was another important aspect of the summit. The joint statement highlighted collaboration on strategic stockpiling and reserve systems for crude oil and petroleum products, as well as potential joint investments in maritime energy transportation. This matters because both countries depend largely on sea lanes for energy needs. Moreover, the Japan-India Cooperative Biogas for Growth Initiative is noteworthy. Japan will partner with India to set up 1,000 biogas plants across the country using India’s dairy co-operative network. These plants will produce bio-CNG and organic fertiliser from rural biomass. If implemented well, this can link energy resilience with rural prosperity.
-
-Finally, the announcement of the India-Japan co-development project in defence added strategic weight to the visit. India and Japan were already co-developing UNICORN masts for the Indian Navy, and a memorandum of implementation was signed in November 2024. Defence ties are now moving from exercises and dialogue into industrial collaboration. The relationship has long included the 2+2 dialogue, logistics agreements, and an increase in military exercises. Yet real co-production remained limited. If Tokyo is now willing to move forward on defence technology with India, even cautiously, that is a significant development in the bilateral ties.
-
-The biggest takeaway from Takaichi’s visit is that it strengthens India-Japan alignment against coercive economic practices and supply-chain vulnerabilities. Both countries understand that in the current Indo-Pacific, security will not come only from military capability. It will also come from resilient supply chains, reliable energy systems, trusted technologies, diversified manufacturing, and stronger maritime connectivity. In that sense, the visit takes India-Japan strategic co-operation to its next stage.
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-Prakash Panneerselvam, Japan Foundation’s Indo-Pacific Partnership Research Fellow, is Assistant Professor, National Institute of Advanced Studies, Bengaluru.
-
-[Read full article](https://www.deccanherald.com/opinion/beyond-trade-india-and-japan-redraw-the-indo-pacific-map-4064739)
-
----
-
-### Ram Mandir theft, Hindu nationalism, and politics
-*The New Indian Express · Opinion*
-
-The cash theft at Ram Mandir that dominates national and international media headlines, has escalated into a massive political controversy, recalling the ideological conflicts of the 1990s. Just as the Mandir movement assumed immense political significance then, the theft at the temple too has gained political traction with the assembly elections in UP, the nerve centre of the Mandir movement, just months away.
-
-While this political interest is natural and understandable, the situation today presents a stark difference. The Mandir movement then did not have to face today’s hyper-competitive, minute-by-minute breaking news media. When such a frenzied media apparatus mixes with political agendas, truth can be uncovered only by taking a helicopter view that avoids the narratives arrested by contextual sensationalism.
-
-The theft has miraculously transformed the erstwhile opponents of Ram Mandir into his ardent devotees chanting “Jai Shri Ram”. The Congress party, which boycotted the ‘Pran Pratishtha’ ceremony in 2024, dispatched a nine-member high-level delegation for Ram Lala’s darshan last week. Even if driven by pure political opportunism, this is a welcome development, as Mahatma Gandhi, whom it swears by, regarded “Ram Naam” as cure for all ills, national and personal.
-
-Arvind Kejriwal, who had boycotted the 2024 Mandir ceremony, too has undergone instant metamorphosis into a Ram Bhakt, declaring that the theft had deeply pained all Sanatanis and announcing his Friday visit for darshan. Most ironically, when Mulayam Singh Yadav was Chief Minister in 1990, he ordered the police to fire and kill 16 kar sevaks and later proudly declared he would have issued the same order even if 30 had to die. Today, his Samajwadi Party sheds tears, claiming Ram Bhakts have been cheated.
-
-The overexcited Indian media competing for breaking news, too joined this political chorus. One media predicted long-term damage to the BJP. Another claimed this was a severe setback to BJP’s promise of Ram Rajya—the gold standard of probity in governance.
-
-Capitalising on the geopolitical significance of the temple, global media entities with a history of anti-India and anti-Hindu bias, the Reuters, BBC, and Al-Jazeera, painted the incident as if it were a billion-dollar heist. “Stealing from the gods: India’s Ram Temple hit by corruption scandal. The temple is mired in embezzlement allegations before crucial state elections, embarrassing PM Modi’s government,” screamed Al-Jazeera.
-
-What has happened at the Ram Mandir is a theft. A pilferage easily executed by lower-level staff handling cash. Not a corruption or a scam. It would be corruption only if the top management had attempted to hush it up. On the contrary, within days of the theft coming to light, the higher-ups initiated severe, uncompromising action. There was no sign of an institutional cover-up which only will make it a scam.
-
-Theft happens everywhere. To know the times we live in, one must recall Swami Chinmayananda’s observation: “In the Krita Yuga, good and evil lived in different worlds (Devas and Asuras). In Treta Yuga, they existed in the same world (Ram and Ravana). In Dwapara Yuga, they were in the same family (Pandavas and Kauravas). But in Kali Yuga, they exist within the same human being.” We live in Kali Yuga, where good and evil reside simultaneously in man.
-
-When desire and greed overpower even inherently good people, crimes can occur in the most sacred of spaces—be it churches, mosques or temples. Stealing from a temple Hundi (donation box) is notoriously easy. As the C P Ramaswami Iyer Committee report on temple administration astutely noted, money dropped into a Hundi is sacred, but the moment it is taken out, it becomes mere currency notes. It was based on this very logic that the judiciary permitted secular governments to take over temple funds.
-
-The true metric of integrity in any institution is not the absence of wrong doing—which is ideal—but the speed and decisiveness with which authorities respond to it. Covering up a theft is what constitutes corruption and fraud—usually orchestrated to protect higher-ups. The Bofors scandal was exposed in 1987. As it involved the then prime minister Rajiv Gandhi, no FIR was registered till he was ousted from power. It was filed three years later, in 1990, after he was voted out. Let us examine the Ram Temple Trust’s actions against this historical backdrop of cover-ups in recent cases of theft in temples involving the government as trustee.
-
-The Ram Mandir theft is undoubtedly shocking and painful to anyone who cares about the nation’s reputation symbolised by the geopolitical reputation of the Mandir. Yet, the tsunami of hyperbolic news and allegations that obscured crucial facts, have unfairly cast an avoidable shadow on the national brand. Even neutral commentators have sadly failed to notice the sheer speed at which the Trust and the UP government acted, which was in direct contrast to similar instances of temple thefts, but was drowned out in the noise. Read on.
-
-Recall the allegations of property misappropriation and idol thefts in government-administered temples in Sabarimala, Thiruvananthapuram, Puri, and Tamil Nadu. Comparing the response of the government bodies to that of the Ram Temple Trust reveals the stark difference between the Ram Mandir trust response and government-controlled Trusts in those cases. It doesn’t need turning the pages of decades of history. Today, the AI tool brings the history with references on the computer screen.
-
-When AI tool Gemini was prompted to compare the scenarios of how the Ram Mandir Trust and government Trusts in those cases acted, it replied: “Compared to how governments blocked and delayed action on allegations in temples under their control, the Ram Temple Trust’s swift action is astonishingly different.”
-
-It noted that in cases like Sabarimala, Puri, and the Tamil Nadu idol thefts, the sheer inaction of government boards forced courts to intervene and order probes, delaying justice by years, sometimes decades. In stark contrast, the Ram Temple Trust requested the UP government to form a Special Investigation Team (SIT) within days of the crime coming to light.
-
-The AI rightly summarised: “Driven by its ideology and self-esteem, the Ram Mandir Trust took immediate action. Conversely, government Trusts acted sluggishly in a bid to protect their systems and bureaucracy.” (The very ideology that some media claimed would be tainted by this theft is precisely what catalysed such uncompromising action.)
-
-The AI tool also said, “Furthermore, top officials of the Ram Temple took moral responsibility and resigned immediately. In government temple scandals, officials not only cling to their posts but fight legal battles using taxpayer money to protect their positions.” It concluded: Everything regarding the Ram Mandir theft — from the SIT probe to the official report and mass arrests — happened in a matter of days.
-
-Further, it said “the Trust voluntarily submitted its finances to a comprehensive five-year re-audit. Government-run temples routinely dodge external audits citing tradition or autonomy.” An AI savvy 10th class student could have done this comparison by clicking the laptop mouse, which the multi trillion dollar global and India media in its excitement failed to do.
-
-The unprecedented actions by the Ram Mandir Trust also clearly imply that this was a low-level theft, not a high-level scam. For political leaders, aided by the media, to suspect it as a high level affair is a tragedy. Now let us turn to the “stark contrast” in facts of the Ram Mandir Trust’s action as compared to the temple Trusts mentioned.
-
-It is baffling that the media missed this stark contrast: government trusts covering up wrongs till courts intervene versus the Ram Mandir Trust acting against the wrong voluntarily, at lightning speed. See the chronology of facts:
-
-June 4: First clue emerges. An unclaimed bag containing `2 lakh in cash found in a washroom in the Mandir complex. Trust officials immediately begin reviewing CCTV footage.
-
-June 5: General Secretary Champat Rai orders an internal probe targeting key suspect Avinash Shukla. His house is raided, and `58 lakh is recovered before the police even arrive. Rai struck first against a man in his own inner circle. This severe crackdown terrified other accomplices into quietly depositing stolen money back into bank accounts, leading the Trust to believe for a while that the issue could be resolved internally.
-
-June 7: News of the recovery leaks, sparking wild rumours of stolen gold and silver. Rai, relying on preliminary assessments that the money could be fully recovered internally, states that audits showed no significant discrepancies.
-
-June 13: Realising that assessment was wrong, the Trust formally requests the UP government to set up a high-level SIT probe. This six-day stagnation was the only delay in the entire action.
-
-June 25: SIT probe reveals that Manish Yadav, a cash counter employee, repeatedly stole money by exploiting CCTV blind spots. An FIR is registered. Midnight raids are conducted with lightning speed into the early hours of June 26, resulting in eight arrests.
-
-June 26: Taking absolute moral responsibility for the administrative lapses, General Secretary Champat Rai and Trustee Anil Mishra resign.
-
-Rai, an RSS pracharak who has dedicated his entire life to the nation, is a symbol of honesty and integrity. The media unfortunately drags him into the controversy, not mentioning that he was the first to initiate action ahead of the police.
-
-Tomorrow, read how the theft may be less than half of `7.5 crore suspected by SIT, how pseudo-secular political forces are trying to weaponise the Mandir theft to smear the Hindu nationalist perspective, and how their chances of finding resonance in battleground UP are slim.
-
-S Gurumurthy,Editor, Thuglak Tamil Magazine.Chairman, Vivekananda International Foundation Strategic Think Tank
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/s-gurumurthy/2026/Jul/07/ram-mandir-theft-hindu-nationalism-and-politics)
 
 ---
 
