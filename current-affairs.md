@@ -1,3 +1,532 @@
+## 6 October 2026
+
+### Who Is Nadeem Ahmed? The 24-Year-Old YouTuber At The Centre Of Delhi Police's AI Deepfake Allegations
+*Pragati Ratti · general*
+
+Police allege Ahmed used AI tools to fabricate the objectionable material and circulate it on social media in an attempt to create tension and disturb public order.
+
+[Read full article](https://www.news18.com/india/who-is-nadeem-ahmed-the-24-year-old-youtuber-at-the-centre-of-delhi-polices-ai-deepfake-allegations-ws-l-10368985.html)
+
+---
+
+### Digital arrest scam: 67-year-old woman loses ₹13 lakh to fake police officials; 5 money lessons for senior citizens | Mint
+*Shivam Shukla · economy*
+
+## A 67-year-old woman in Maharashtra allegedly lost ₹13 lakh after cyber criminals posing as police officials threatened her with arrest. Here are 5 key money lessons for senior citizens.
+
+A 67-year-old woman in Maharashtra allegedly lost ₹13 lakh in a digital arrest scam after fraudsters posing as police officials threatened her with arrest. Here are five practical lessons senior citizens can follow to stay safe from similar cyber frauds. (AI-generated image for representational purposes only)
+
+A 67-year-old senior citizen in Chhatrapati Sambhajinagar, Maharashtra, allegedly lost ₹13 lakh after cyber criminals posing as police officials kept her under “digital arrest” for about a week.
+
+The fraudsters allegedly threatened her with arrest, claiming that her bank account was linked to an account suspected of being involved in terrorism. Fearing legal action, the woman transferred money to bank accounts provided by the scammers, according to a report by The Times of India.
+
+## **How did the scam take place?**
+
+The woman received WhatsApp calls between 23 and 30 September from an individual claiming to be a police official. He allegedly told her that her bank account was linked to a suspected terrorist account and threatened her with arrest.
+
+Fearing legal action and its consequences, she transferred ₹8 lakh via Real-Time Gross Settlement (RTGS) to a bank account provided by the cybercriminals on 29 September.
+
+The following day, she transferred another ₹5 lakh to a different account. She later realised that she had been duped and approached the authorities to report the alleged cyber fraud.
+
+## **5 key money lessons for senior citizens**
+
+### **1\. Police do not demand money to avoid arrest**
+
+There is no such thing as ‘digital arrest’ in Indian law, as explained by a former judge earlier in his exclusive conversation with _Mint_. Further, any caller asking for money in order to settle a criminal proceeding or to prevent arrest should be treated as a serious fraud warning. Cases are not resolved through digital interactions or phone calls alone.
+
+### **2\. Never transfer money under pressure**
+
+Fraudsters focus on creating fear and urgency in victims. That is why senior citizens should pause, reflect, and independently verify any serious allegations before making any payments.
+
+### **3\. Do not trust video calls or official-looking setups**
+
+Scammers may use police uniforms, digital paperwork, logos, backgrounds and fake documents to appear genuine. Such visuals do not prove that the caller is an actual officer.
+
+### **4\. Never share banking details or credentials**
+
+Do not disclose confidential data such as OTPs, PINs, passwords, card details, or net banking information to callers, even if they claim to represent a government agency or bank.
+
+### **5\. Verify independently and report quickly**
+
+If a caller claims that an account is involved in a crime, contact the nearest police station or the concerned bank through an independently verified number. This number must be verified and obtained only from the official website of the respective bank. In case of suspected cyber fraud, report it immediately to the authorities.
+
+The incident shows how digital arrest scams use fear and pressure to manipulate victims. Senior citizens and their families should stay aware of such scams and keep themselves updated about new fraud tactics. Most importantly, a suspicious call or message should never lead to an immediate financial decision, especially when the caller demands money or threatens arrest.
+
+### About the Author
+
+Shivam Shukla
+
+Shivam writes on personal finance, equity markets, and mutual funds. He has previously contributed to several leading publications, including Moneycontrol. He can be reached at shivam.shukla@htdigital.in
+
+---
+
+### Sonos Play review: A premium portable speaker that sounds superb
+*Anuj Bhatia · legal*
+
+A premium portable speaker with excellent sound and smart software, the Sonos Play suits buyers already invested in the ecosystem.
+
+[Read full article](https://indianexpress.com/article/technology/tech-reviews/sonos-play-review-premium-portable-speaker-10908123/)
+
+---
+
+### Ahmedabad man gets video call, finds nude woman on screen, hangs up in fear, loses Rs 49 lakh
+*Brijesh Doshi · general*
+
+A 25-year-old man in Ahmedabad was allegedly extorted of more than Rs 49 lakh by scammers who tricked him into believing that his face had appeared in a "nude video" and threatened to make it viral.
+
+He eventually lodged a complaint with the police, with a probe into the matter now underway.
+
+According to the police, the blackmail started after the man received a WhatsApp video call from an unknown number on September 3. When he answered the call, a nude woman suddenly appeared on the screen.
+
+Shocked by this, he immediately disconnected the call and blocked the number. A short while later, the man, who works for a private company, received another WhatsApp call from a different number.
+
+This time, the caller told him that his "nude video" had been recorded and would be made viral unless money was transferred to their bank account.
+
+The complainant again disconnected the call and blocked the number. During the exchange, he also received a video, which he later deleted.
+
+The fraudsters contacted him once again on September 27, this time from another unknown number. The caller identified himself as Sanjay Arora, saying he was an officer with the Delhi Cyber Crime Branch.
+
+The man became frightened when the caller spoke about the "nude video" and threatened police action.
+
+The caller told him that offences 
+
+He then allegedly told the complainant to speak to a supposed YouTube representative and complete a "due process" to avoid arrest.
+
+The accused subsequently connected the unsuspecting man with another scammer who claimed to be a YouTube executive.
+
+According to the police, this person told the complainant that two nude videos had surfaced in his name and that he would have to pay Rs 71,250 to get them deleted.
+
+Fearing police action and wanting to prevent the supposed videos from being circulated, the man agreed to pay the amount. The scammers then allegedly began demanding more money from him, citing different reasons each time.
+
+They repeatedly threatened to make the "nude video" viral and ruin his career. He claimed that he was also intimidated with threats of police action and arrest.
+
+He kept giving in to the repeated demands, transferring a total of Rs 49.78 lakh over various occasions to the accounts provided by the scammers.
+
+However, even after receiving the amount, the accused continued to demand more money.
+
+The man eventually realised that he had fallen victim to cyber fraud and approached the Cyber Crime Branch.
+
+Investigators are examining the bank accounts into which the money was transferred and trying to determine how many people were involved in the fraud.
+
+\- Ends
+
+---
+
+### Pakistan's bizarre anti-drone fix: Cover army posts with fishing nets
+*India Today News Desk · general*
+
+## Pakistan's latest weapon to take down drones isn't a missile or a radar system. It's the humble fishing net. Security forces near the Afghanistan border are using the simple mesh to shield military and police posts from drone attacks by the Pakistani Taliban.
+
+Security personnel fortify a police post with fishing nets at Bara in Pakistan's Khyber Pakhtunkhwa province (AFP)
+
+New Delhi,Oct 6, 2026 11:59 IST
+
+Pakistan army chief Asim Munir seems to have come up with a bizarre fix to protect military posts near Afghanistan from drone attacks - fishing nets. Amid escalating drone attacks by the Tehreek-e-Taliban Pakistan (TTP) in Pakistan's Khyber Pakhtunkhwa province, the army has started covering vulnerable police and military checkpoints with fishing nets, according to a report in Al Jazeera.
+
+Fighting between Pakistan and Afghanistan has escalated in recent weeks after nearly three months of uneasy calm. Behind it is Pakistan's longstanding grouse - accusing Kabul of giving safe haven to the TTP, also known as the Pakistani Taliban. While Afghanistan has denied the charge, Pakistan has alleged that the TTP has been behind a series of attacks on its security forces.
+
+### TTP DRONE ATTACKS RATTLE PAKISTAN
+
+It was after one such attack in April in Hangu district, about 30 km from the Afghanistan border, that the Pakistani army decided to go fishing. Not for fish. But to catch enemy drones.
+
+On April 16, drones bombarded the Sarki Piyala police checkpost before TTP fighters opened fire on the security personnel. It left one dead and dozens injured.
+
+It was not the first time that Hangu has been attacked. Due to its proximity to the Afghan border, the district has been a hotbed of deadly drone attacks. Hangu has faced 16 attacks this year.
+
+In fact, the condition is so dire that Pakistani security personnel do not leave their barracks without security cover, the report said.
+
+However, instead of installing anti-drone systems, cash-strapped Pakistan has decided to use fishing nets as a jugaad. They have installed these nets overhead, between the checkpost's rooftops and perimeter walls.
+
+In fact, a checkpost can be covered with such nets for about $1,400 (Rs 1.30 lakh). Anti-drone systems, on the other hand, can cost anywhere between $5,000 and $5,000,000.
+
+Over the past few months, these fishing nets have been installed in military outposts across five districts - Kohat, Karak, Bannu, Lakki Marwat and Dera Ismail Khan - along the Afghanistan border.
+
+Pakistan army personnel stand amid the rubble following an explosion police headquarters at Kohat in Khyber Pakhtunkhwa (AFP)
+
+### WHY IS PAKISTAN USING FISHING NETS?
+
+The logic behind the bizarre idea is to snag a drone's propellers in the nets before it can release the explosives.
+
+"If a drone comes over the checkpoint, there is a possibility that it could get caught in the net and be defused or stopped," Fayyaz Khan, a police officer, told Al Jazeera.
+
+"Even if a drone does not get caught and explodes above the net, the damage is expected to be much less because most of the shrapnel and fragments would be dispersed in the air rather than falling directly onto the ground," he further said.
+
+However, defence experts have warned that fishing nets were far from a complete solution and could offer a "false sense of security".
+
+"Deploying nets is an immature, cheap ploy because police stations are not necessarily always the target," Imtiaz Gul of the Centre for Research and Security Studies told Al Jazeera.
+
+"The drones are intended to hit prominent locations and generate dramatic optics," he said. Gul flagged that the pressing need for Pakistan was to intercept these drones as soon as they take to the air.
+
+Pakistan relies on Chinese and Turkish anti-drone systems to guard against rogue UAVs. However, last year's Operation Sindoor exposed their vulnerabilities. To plug the gap, Pakistan has now turned to US-based Powerus, a firm linked to Donald Trump's sons, for its anti-drone system.
+
+Even the security personnel know that having fishing nets was no foolproof solution. It only offers some reassurance. "We cannot say that the netting system provides complete protection," Khan said.
+
+### PAKISTAN TALIBAN'S DRONE WARFARE
+
+Behind the panic in Pakistan is TTP's changing warfare tactics. Cheap drones have become a vital part of TTP's attack toolkit.
+
+In December 2025, the group formed a special drone unit led by Maulvi Saleem Haqqani. It mostly relies on readily available, relatively inexpensive, and easy-to-modify commercial drones.
+
+Over the past couple of years, the TTP has steadily improved its proficiency in using quadcopter drones. According to research by Global Network on Extremism and Technology, the TTP is using "Honda motorcycle batteries" to power drones for longer periods.
+
+According to a report in The Dawn, Pakistan has claimed to have foiled 341 drone attacks in the first half of 2026 in Khyber Pakhtunkhwa. Another 100 drone attacks have killed around 30 security personnel and left 90 injured.
+
+It has thoroughly exposed gaps in Pakistan's counter-terror response. With Pakistan playing catch-up against the militant group, it seems to have turned to the humble fishing net to shield its military.
+
+\- Ends
+
+---
+
+### Airline ‘fails to refund’ rescheduling fee for Chicago ticket, man wins Rs 41,000 payout
+*Jagriti Rai · legal*
+
+Denying that it had cancelled the complainant’s ticket or that its staff misbehaved with him, the airline said the man approached its office one day before the scheduled journey seeking cancellation, which could not be accommodated.
+
+[Read full article](https://indianexpress.com/article/legal-news/airline-fails-refund-rescheduling-fee-chicago-ticket-wins-rs-41000-10908595/)
+
+---
+
+### Akhilesh Yadav's '403' message amid buzz over SP's 3rd Rajya Sabha candidate
+*India Today News Desk · general*
+
+## Akhilesh Yadav said the Samajwadi Party is focused on 403 Assembly seats, not a third Rajya Sabha nominee. His remark keeps suspense alive over the Uttar Pradesh contest as parties weigh numbers and vote transfers.
+
+Samajwadi Party president Akhilesh Yadav (Image: PTI)
+
+Lucknow,Oct 6, 2026 11:41 IST
+
+Amid speculation over whether the Samajwadi Party will field a third candidate for the Rajya Sabha polls in Uttar Pradesh, party chief Akhilesh Yadav on Tuesday indicated that his focus is elsewhere. In a post on X, the former chief minister said, "Now, our focus is not on three, but on 403".
+
+The remark came even as the deadline for filing nominations for the Rajya Sabha election fell on Tuesday. The SP has already fielded veteran leader Ram Gopal Yadav and Reliance Industries executive Dhanraj Parimal Nathwani, while the BJP has announced eight candidates.
+
+Yadav had earlier said that his party would field a third candidate once the required numbers were secured. His latest statement shifted the focus to the 403 Assembly seats in Uttar Pradesh, amid continued buzz over the possibility of an additional SP nominee entering the contest.
+
+According to the election schedule, scrutiny of nomination papers will be held on October 7. Names can be withdrawn till October 9, and polling will take place on October 16. Ram Gopal Yadav and Nathwani have filed their nominations in Lucknow.
+
+The BJP's eight candidates are state minister Dharampal Singh, Shruti Gangwar, Prakash Pal, Vidya Sagar Sonkar, Priyanka Singh Rawat, Radhakant Ojha, Gopi Krishna Pandey and Ram Pratap Singh Chauhan. The party has said its list includes Dalits and Brahmins.
+
+The Rajya Sabha polls are held through proportional representation and the single transferable vote system, under which surplus votes of winning candidates are transferred to the remaining candidates on the basis of second preferences. Party leaders on both sides said that if the contest has more than 10 candidates, the result would depend on technicalities and astute planning.
+
+After the recent death of Fatehabad BJP MLA Chhotelal Verma, the BJP-led alliance has 288 MLAs in the 403-member Uttar Pradesh Assembly. This includes 255 BJP MLAs, 13 from Apna Dal (Sonelal), nine from the Rashtriya Lok Dal, six from the Suheldev Bhartiya Samaj Party and five from the NISHAD Party. The SP-Congress combine has 103 MLAs, including 101 from the SP. The Jansatta Dal Loktantrik has two MLAs, while there are three unattached legislators.
+
+With nominations closing and the numbers under close watch, the focus remains on whether the Rajya Sabha contest in Uttar Pradesh stays straightforward or turns into a more closely managed battle.
+
+\- Ends
+
+---
+
+### Moscow Format ends without statement as Pakistan, Afghanistan clash
+*India Today World Desk · general*
+
+## The Moscow Format consultations ended without a joint statement after Pakistan and Afghanistan disagreed over the final text. The deadlock underscored how their worsening tensions are complicating regional consensus on Afghanistan.
+
+Image used for representational purposes only
+
+Islamabad,Oct 6, 2026 11:40 IST
+
+The eighth edition of the Moscow Format regional consultations on Afghanistan ended without a joint statement after the Pakistani and Afghan delegations failed to agree on the final text, according to a media report on Tuesday. The meeting brought together special envoys and senior officials from Afghanistan, China, India, Iran, Kazakhstan, Kyrgyzstan, Pakistan, Russia, Tajikistan and Uzbekistan, while Belarus and Egypt attended as guests.
+
+Russian presidential envoy for Afghanistan Zamir Kabulov said Moscow regretted that the participants could not agree on the final document. “When drafting the final joint statement, we encountered one problem, that problem was that our Afghan and Pakistani colleagues didn’t see eye to eye,” he said, according to Dawn newspaper.
+
+The format, established in 2017, has become one of the main regional diplomatic tracks on Afghanistan. The failure to adopt a joint statement highlighted how the worsening dispute between Pakistan and Afghanistan is affecting wider regional efforts to build consensus on the country. The two sides’ tensions were among the main issues discussed at the meeting, and differences over terrorism and counterterrorism language ultimately blocked the joint document.
+
+Kabulov said the Afghan side objected to references that placed Afghanistan in a terrorist context. Pakistan’s special envoy for Afghanistan, Mohammad Sadiq, told the meeting that Islamabad wanted peace and stability in the region and had stayed engaged with the Taliban leadership through political and diplomatic channels. “Pakistan desires peace and stability in the region and has remained patiently engaged in political and diplomatic efforts aimed at addressing the menace of terrorism emanating from Afghan soil,” he said. He added, “However, it is unfortunate that Pakistan’s numerous goodwill gestures and highly responsible approach were misconstrued, resulting in increased terrorist attacks from Afghan soil, with the active support and backing of the Taliban Regime.”
+
+Afghan Taliban Foreign Minister Amir Khan Muttaqi criticised Pakistan’s statements and actions towards Afghanistan, accusing Islamabad of using military pressure, refugees, students and transit routes as instruments of leverage. At the same time, he said the problems affecting ties between the two neighbours could be resolved through dialogue and diplomacy.
+
+Russia offered to help reduce tensions, though Kabulov said resolving bilateral disputes was not the purpose of the Moscow Format. “Russia is ready to assist in ending this conflict in any possible, permissible way either on its own or in partnership with our other partners provided that both sides make such a request,” he said. Russian Foreign Minister Sergey Lavrov, who opened the meeting, backed the performance of the Taliban authorities, warned against any attempt by NATO to set up military infrastructure in Afghanistan or neighbouring countries, and said helping Kabul and strengthening Afghanistan’s counterterrorism capacity served regional interests.
+
+The forum’s main goal is to promote national reconciliation in Afghanistan and support the quickest possible establishment of peace in the country, but this round ended without a joint statement because of disagreements between Pakistan and Afghanistan.
+
+With PTI Inputs
+
+\- Ends
+
+---
+
+### Why Steve Jobs’ Ideas Still Matter at Apple 15 Years After His Death, Tim Cook, John Ternus Reveal
+*Priya Singh · technology*
+
+Fifteen years after Steve Jobs’ death, his influence remains deeply embedded in Apple’s products and design philosophy. From the Mac and iPhone to the iPad and the discontinued iPod, Jobs played a defining role in shaping the company’s approach to technology and its emphasis on simplicity. On his death anniversary, former Apple CEO Tim Cook and current CEO John Ternus remembered the co-founder and highlighted the lasting impact of his vision on Apple.
+
+## Tim Cook and John Ternus Remember Steve Jobs 15 Years Later
+
+Apple is marking 15 years since the death of Steve Jobs, the co-founder whose influence extends far beyond the products he helped launch. Tim Cook and John Ternus used the occasion to remember Jobs and the principles he brought to Apple. Cook said Jobs had changed the world while also having a lasting impact on the people around him, while Ternus pointed to Jobs’ insistence on getting even the smallest details right.
+
+> There are people who leave a mark on the world, and then there are people who change it entirely. Steve changed the world and so many lives in the process. He certainly changed my life forever. His spirit lives on in everything he created and everyone he inspired. https://t.co/8p08BcSlTS
+> 
+> — Tim Cook (@tim\_cook) October 5, 2026
+
+## How Steve Jobs Helped Build Apple
+
+Jobs’ Apple story began in 1976, when he teamed up with Steve Wozniak and Ronald Wayne to start the company. The Apple II gave the young business its early breakthrough, followed by the Macintosh, which helped make graphical computing more accessible. Jobs’ relationship with Apple later became complicated, and he left the company in 1985. His time away included building NeXT and working with Pixar before Apple’s purchase of NeXT brought him back in 1997.
+
+> The way Steve taught us to care about every detail, every experience, every person, still guides our work today. Forever grateful.
+> 
+> — John Ternus (@johnternus) October 5, 2026
+
+## The Products That Changed Apple Forever
+
+Jobs’ return triggered a dramatic turnaround at Apple. The company introduced the colourful iMac, followed by the iPod, iPhone and iPad, as it expanded from computers into a much broader consumer technology business. But the transformation wasn't limited to devices. Apple also grew its retail stores and digital services, while its close integration between hardware and software became one of the company’s defining characteristics.
+
+## Why Steve Jobs Cared So Much About Simplicity
+
+For Jobs, good technology wasn't simply about packing a product with features. He wanted people to understand and use technology without having to fight their way through complicated interfaces. That thinking influenced everything from product design to the overall user experience. His preference for clean, uncomplicated design was also reflected in his personal style, while influences such as Zen philosophy and collaborations with designers including Jony Ive helped shape the visual identity Apple became known for.
+
+## Is Apple Returning to a More Jobs-Like Design Philosophy?
+
+Jobs died on October 5, 2011, aged 56, shortly after handing over the CEO role to Cook. His approach has remained visible at Apple even as the company and its product portfolio have evolved. Ternus, who previously headed hardware engineering, has increasingly become involved with Apple’s design decisions, according to recent reports. His closer relationship with the design team could mark a different approach from Cook’s tenure and potentially put greater emphasis on the product-focused, detail-oriented philosophy that became synonymous with Jobs.
+
+**ALSO SEE: OpenAI Is Offering Free ChatGPT Plus in India: How To Get It Now?**
+
+---
+
+### Water rationing in Maharashtra, Gujarat dams not full: El Nino begins to pinch India
+*India Today Science Desk · general*
+
+## Maharashtra has ordered a 10 per cent water cut as weak monsoon rains strain reservoir stocks. Uneven dam levels in Gujarat and drought relief demands from Karnataka underline wider water stress.
+
+The government has also asked local authorities to reduce losses by launching special drives against water leakage. (Photo: PTI)
+
+New Delhi,Oct 6, 2026 11:39 IST
+
+India’s monsoon has ended, and the impact of rain shortage is only beginning to show up in the country’s water reservoirs.
+
+In Maharashtra, the government has announced a minimum 10 per cent water cut across urban and rural areas from October 16, citing deficient monsoon rainfall and the growing risk of a drought-like situation.
+
+At the same time, dam storage remains uneven across neighbouring Gujarat, while Karnataka has sought thousands of crores in drought relief as farmers and communities face water stress.
+
+The developments offer an early warning of how a weaker and uneven monsoon can translate into a water crisis months after the rains have disappeared, with the developing El Nio adding another layer of uncertainty.
+
+Maharashtra Water Resources Minister Girish Mahajan said the government had carried out dam-wise and sector-wise planning of available water stocks up to August 31, 2027, taking into account the impact of El Nio and the possibility of drought-like conditions.
+
+“Drinking water will be given the highest priority,” Mahajan said, directing municipal corporations, municipalities and gram panchayats to implement the 10 per cent cut.
+
+The state will also maintain an additional 10 per cent emergency water buffer in every dam. Water for drinking purposes will be reserved until August 2027 after accounting for evaporation, silt and unauthorised extraction.
+
+Irrigation releases will be considered only after drinking water, livestock and fodder requirements are met.
+
+The government has also asked local authorities to reduce losses by launching special drives against water leakage and operating sewage treatment plants at full capacity. Treated wastewater will be diverted for gardening, construction and washing.
+
+Industries have been asked to reuse or recycle at least 30 per cent of the water they consume.
+
+The pressure is not limited to Maharashtra.
+
+In Karnataka, Chief Minister D K Shivakumar has sought Rs 7,142.64 crore in drought relief from the Centre. Of the state's 240 taluks, 217 have been identified as drought-affected, with 177 officially declared drought-hit.
+
+Gujarat presents a more complicated picture. State Emergency Operations Centre data showed that 109 of the state's 206 dams were below 50 per cent capacity by September end.
+
+Another 28 dams were between 50 and 70 per cent full, while 37 had between 70 and 100 per cent storage. Thirty-two dams were completely full.
+
+Yet Gujarat's largest reservoir, the Sardar Sarovar Dam, reached its full reservoir level of 138.68 metres for the seventh time since its inauguration in 2017.
+
+That contrast is important. A few full reservoirs do not necessarily mean the entire state has abundant water. Storage can vary dramatically between river basins and regions.
+
+For farmers, the consequences could become more serious as the country moves into the Rabi season. Maharashtra has prioritised Rabi foodgrains and fodder for available irrigation water, followed by other Rabi crops. Perennial crops will receive water only if supplies permit.
+
+The emerging picture shows why El Nio is more than a Pacific Ocean phenomenon. By altering atmospheric circulation and weakening or disrupting rainfall patterns, it can influence India's monsoon.
+
+But El Nio is not the only factor controlling Indian rainfall; ocean temperatures, monsoon circulation, local weather systems and regional variability also matter.
+
+The real test will come in the months ahead. The monsoon may be over, but the water story it leaves behind is only beginning.
+
+\- Ends
+
+---
+
+### RSS go back: Protests erupt at Kerala university over Vande Mataram seminar
+*India Today News Desk · general*
+
+## Students at the Central University of Kerala protested against J Nandakumar's participation in a Vande Mataram seminar. The agitation intensified after claims that registered students were denied entry to the venue.
+
+Central University of Kerala students protest against RSS-linked speaker invited to seminar.
+
+Kasaragod,Oct 6, 2026 11:35 IST
+
+Students at the Central University of Kerala staged protests on Tuesday against the presence of J Nandakumar, national convener of RSS-linked organisation Prajna Pravah, at an event linked to Vande Mataram. The protesters also alleged that several students who had registered for the programme were not allowed to enter.
+
+Activists from various student organisations, including the Kerala Students Union (KSU) and the Muslim Students Federation (MSF), took part in the protest. Left-affiliated groups, the Students Federation of India (SFI) and the All India Students' Federation (AISF), also joined the agitation outside the venue.
+
+There was heavy police presence at the programme venue, and protesting students were stopped from entering the hall where the event was being held. Carrying the flags of their organisations, they raised slogans like "Down with RSS" and "RSS go back". There were scuffles with the police as they tried to gain entry to the programme.
+
+Later, a university official who identified himself as the Dean of Student Affairs told reporters that he was not aware why registered students were being denied entry and said he would have to ask the organisers of the programme. The two-day national seminar, being held on October 6 and 7 on the '150th Anniversary of Vande Mataram', is being organised by the Sahitya Akademi in collaboration with the Akhil Bharatiya Sahitya Parishad and the university as part of a nationwide observance marking 150 years of the national song.
+
+Nandakumar is scheduled to deliver the keynote address at the event, and the students told reporters that they were opposed to his presence at the programme. The valedictory ceremony on October 7 will have Rajendra Vishwanath Arlekar as the chief guest, according to a post on the university's Facebook page. The protest at the university centred on both Nandakumar's participation in the seminar and the allegation that registered students were denied entry to the event.
+
+\- Ends
+
+---
+
+### GST process reforms pin hope on data, tech to ensure compliance
+*Siddharth Upasani · legal*
+
+Ease of doing business in focus: from no arrest, minimum sentencing removal to Rs 10,000-threshold for notices
+
+[Read full article](https://indianexpress.com/article/business/gst-process-reforms-data-tech-compliance-10908590/)
+
+---
+
+### MPSC row: Maharashtra CM Fadnavis seeks panel to probe former and serving members
+*India Today Education Desk · general*
+
+## The Maharashtra government has proposed a committee headed by a retired High Court judge to examine the conduct of former and serving MPSC members. The move comes as MPSC aspirants continue protests in Pune over alleged irregularities and demand the chairman's resignation.
+
+The Maharashtra government has proposed a committee headed by a retired High Court judge to examine the conduct of former and serving MPSC members. (File Photo: ITG)
+
+Mumbai,Oct 6, 2026 12:00 IST
+
+Maharashtra Chief Minister Devendra Fadnavis has proposed setting up a committee to examine the conduct of former and serving chairpersons and members of the Maharashtra Public Service Commission after allegations of exam paper leaks, sources said on Tuesday. He has sent the recommendation to Governor Jishnu Dev Varma.
+
+The move comes amid protests by MPSC aspirants over alleged irregularities in the functioning of the commission and controversies linked to examinations. According to sources, the chief minister has proposed that the committee be headed by a retired high court judge and submit its report within three months, after which further action should be taken on the basis of its findings.
+
+The recommendation has been made under Article 317 of the Constitution, which deals with the removal and suspension of the chairperson and members of public service commissions.
+
+### MPSC PROTESTS CONTINUE IN PUNE
+
+The issue has gathered momentum as protests seeking the resignation of the MPSC chairman have continued for six days in Pune, with support coming from various quarters.
+
+Opposition leader Rahul Gandhi is likely to meet the aspirants on October 7 or 8. Demonstrations are being held over several demands, including whether the MPSC examinations should follow an objective or descriptive format, but the main demand remains the resignation of MPSC chairman Vivek Bhimanwar.
+
+### GOVERNMENT MOVES TOWARDS JUDICIAL ENQUIRY
+
+The Maharashtra government had also terminated the deputation of Mahendra Uttamrao Harpalkar as secretary of the MPSC.
+
+Earlier, after a delegation of MPSC students met Fadnavis, the government said on September 30 that a judicial inquiry would be conducted within three months into the functioning of former and serving MPSC chairpersons and members, as sought by the aspirants, under Article 317 of the Constitution.
+
+In sum, the government has moved towards a judicially led review of the MPSC leadership under Article 317 even as protests by aspirants continue over alleged irregularities and the demand for the chairman's resignation.
+
+(With PTI inputs)
+
+\- Ends
+
+---
+
+### How to Remove Your Personal Information From Google Search: Step-by-Step Guide
+*Mashable News Staff · technology*
+
+Google gives users the option to ask for certain types of personal and sensitive information to be removed from its search results. This can include phone numbers, residential addresses, email IDs, government identification numbers, financial information, account credentials and some intimate images shared without permission.
+
+However, it is important to understand that removing a result from Google Search does not erase the information from the internet. The original webpage can continue to host the content unless the website owner or administrator removes it.
+
+## Use Google’s “Results About You” Feature
+
+The “Results About You” feature from Google helps users find any personal information available in the Google Search results, which can be removed from the website. This feature can be accessed by going into the privacy settings in the Google Account.
+
+Personal information such as the complete name, contact number, email, and even the physical address can be submitted by users to Google. Google then scans its search results for any matching information.
+
+In this way, it becomes easy to know any information about yourself that becomes publicly available without having to visit Google all the time.
+
+## Submit a Removal Request From Google Search
+
+Google also makes it possible for users to request the removal of some information from their results. To begin, search for your name or any other personal data on Google.
+
+After finding the result that contains your personal data, click on the menu icon that appears besides the result and select the option “Request removal of personal information.” Follow the on-screen instructions to make the request.
+
+The firm then analyzes the request based on its privacy policy before determining if the result can be removed.
+
+## Request Removal of Government IDs and Sensitive Information
+
+The privacy tools provided by Google also extend to highly sensitive personal data. In some cases, individuals have the ability to remove their personal data, which may include passports numbers, driving license information, taxpayer ID numbers and other government-issued IDs.
+
+Account credentials and financial information may also fall under the category that allows individuals to have their data removed from search results.
+
+## Ask the Website Owner to Delete the Information
+
+It should be noted that removing a Google Search result will not lead to removal of the corresponding webpage. In case the information can still be found on the original source, the user must get in touch with the owner, administrator or publisher of that site and ask for removal of this particular data.
+
+The best way to remove the information from the Internet is to have it deleted from its source. After the webpage is removed or its contents are altered, Google will later change its index.
+
+## Use Google’s Outdated Content Tool
+
+In some instances, a website may have updated the information it holds about a person, but the previous one keeps coming up in Google searches. Google has some mechanisms for removing out-of-date information which could come in handy.
+
+These include notifying Google that the information it displays in its search results is out-of-date and does not match the latest information on the web page it links to.
+
+**Also See: OnePlus Festive Sale 2026: OnePlus 15 Gets Up To Rs 4,000 Discount**
+
+---
+
+### Karnataka to introduce AI training in government schools from Class 6
+*India Today Education Desk · general*
+
+## Google expressed interest in providing AI training in schools, and officials were asked to examine the company's initiatives in Telangana as part of this exercise, a CMO statement issued in this regard said.
+
+The directions were released in a review meeting on the progress of the government’s 100-day programmes, recruitments and priority schemes (Image:magnific.com)
+
+New Delhi,Oct 6, 2026 11:28 IST
+
+Karnataka Chief Minister D K Shivakumar on Monday directed officials to explore means to introduce Artificial Intelligence (AI) training in government schools from Class 6, with support from the Information Technology department and private partners.
+
+He issued these directions at a review meeting on the progress of his government's 100-day programmes, recruitments and priority schemes.
+
+"AI training has already started for Class 9 students in government schools. The officials were asked to work toward extending it to students from Class 6," Shivakumar said.
+
+Google expressed interest in providing AI training in schools, and officials were asked to examine the company's initiatives in Telangana as part of this exercise, according to the CMO statement.
+
+Shivakumar also directed officials to identify land for establishing an AI university in the state. Steps are being taken to recruit 956 teachers on an outsourcing basis, it said.
+
+Reviewing the School Education Department, the chief minister directed officials to organise visits for Class 9 and 11 students from 941 urban schools to progressive farmers' fields.
+
+The students should be provided facilities to stay overnight in villages, including community halls and hostels, and private schools should also mandatorily implement the programme, he said. The programme should be completed by December.
+
+On the development of 1,000 Karnataka Public Schools (KPS), Shivakumar directed officials to complete preparations for laying the foundation stones by November 14.
+
+The implementation process has been simplified by authorising deputy commissioners to approve detailed project reports and tenders for KPS, he said.
+
+### GOVERNMENT PLANS TO DEVELOP 100 KPS SCHOOLS THROUGH CSR
+
+"The government also plans to develop 100 KPS schools through corporate social responsibility (CSR) funds, with companies having already shown interest in developing 60 schools."
+
+Reviewing the Agriculture Department, the chief minister said 25 lakh SMS messages had been sent to farmers under the CM Raitha Chaitanya Agritech Mission.
+
+He directed officials to also send video messages explaining the scheme in a simple manner.
+
+Integration of a chatbot is under way, while preparations are being made to invite tenders for drone and satellite-based crop estimation and digital crop surveys.
+
+Under the CM Negilu Yogi scheme, aimed at promoting farm mechanisation, the JFarm app has been developed. About 2.5 lakh people have already registered to provide services through the platform, and officials were directed to launch the service from November 1.
+
+On promoting agricultural and horticultural exports, the government has set a target of training and preparing 2,000 farmers to become exporters by March 2027, including guidance on certification and other requirements.
+
+Officials were directed to encourage farmers to take up group farming and provide guidance on scientific processing and storage. Officials should also promote floriculture and identify at least five acres of land for marketing purposes, the CM said.
+
+Reviewing the Animal Husbandry Department, Shivakumar directed officials to develop four protein parks in Chamarajanagar, Chitradurga, Haveri and Koppal under the Protein Mission.
+
+The government also plans to increase egg production, the CM said, adding that, to address electricity-
+
+Noting that a target of Rs 25,000 crore investment was set for the 100-day period, the meeting chaired by Shivakumar discussed, approvals have already been granted for 150 proposals worth Rs 43,214 crore.
+
+"A target of Rs 50,000 crore in investment has been set for the period up to March 2027. The goal is to create 1 lakh jobs through 200 industries," he said.
+
+A government order has been issued regarding an investment incentive package for industries in backward regions, with an annual subsidy provision of Rs 200 crore, he further said, adding the initiative aims to attract investments worth approximately Rs 1,000 crore and create 50,000 jobs in these areas. Instruction were given to set a timeline for implementation.
+
+Advanced Aerospace and Defence policy has been approved and will be implemented soon.
+
+A government order has already been issued to incentivise companies that generate significant employment to provide housing near the workplace. Provisions have been made to offer land at concessional rates and capital subsidies.
+
+A subsidy of 20 per cent of the unit cost, up to a maximum of Rs 1 lakh per unit, will be provided.
+
+A notification has been issued to establish an advanced manufacturing cluster over an area of 4,513 acres in Doddaballapur; 2,479 acres are available for allotment, the CMO release noted.
+
+The Jeans Park project has already been launched, and plot allotments are being made.
+
+The tender process for establishing a Common Effluent Treatment Plant (CETP) at a cost of Rs 50 crore is currently underway.
+
+A real-time, GIS-based digital land bank portal covering all 228 KIADB industrial areas is ready. Instructions have been given to make this portal citizen-friendly, the release said.
+
+\- Ends
+
+---
+
+### 'Wanted To Spread Anarchy': Delhi Police Call Viral 'Groping' Video AI-Generated, Arrest 24-Year-Old YouTuber
+*Apoorva Misra · general*
+
+The accused allegedly runs a YouTube channel named News Aiyna, which was created around April and has around 24,000 followers
+
+[Read full article](https://www.news18.com/india/wanted-to-spread-anarchy-delhi-police-call-viral-groping-video-ai-generated-arrest-24-year-old-youtuber-ws-l-10368912.html)
+
+
+---
+
 ## 5 October 2026
 
 ### Shyam Metalics signs MoU for ₹50,000 crore steel plant in Maharashtra
