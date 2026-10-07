@@ -1,3 +1,573 @@
+## 7 October 2026
+
+### Nepal seeks China nod to reopen Tatopani border after floods
+*India Today World Desk · general*
+
+## Nepal is in talks with China to resume transport services through Tatopani and restore Rasuwagadhi operations. The push underscores how floods, landslides and the August 26 disaster have disrupted Himalayan trade links.
+
+Image used for representational purposes only
+
+Kathmandu,Oct 7, 2026 11:32 IST
+
+Nepal is in talks with China to resume transport services through the Tatopani border point, which has remained closed after recent floods and landslides, Infrastructure Development Minister Sunil Lamsal has said.
+
+Lamsal told a parliamentary committee on Tuesday that the government was also working to restart operations at Rasuwagadhi, another major transit point on the Nepal-China border, after recent disasters disrupted movement through both routes.
+
+According to the minister, discussions are under way with Chinese officials to reopen the Tatopani trade route linking Nepal with Tibet. He said there were currently no problems on the Nepali side of Tatopani and the road on Nepal's side had already been reopened. However, he said the Chinese side did not yet appear ready to resume operations at Tatopani.
+
+The Tatopani border point, around 110 kilometres northeast of Kathmandu, is an important trade route between Nepal and China. Rasuwagadhi, another major trade and transit point, is in Rasuwa district, north of Kathmandu. The Rasuwagadhi crossing was catastrophically damaged by a massive high-altitude glacial collapse and rock-ice avalanche on August 26, which triggered a high-speed debris flood down the Lhende, Bhotekoshi and Trishuli rivers, claiming at least 1,455 lives. Tatopani has remained suspended by Chinese authorities since August 26 following severe monsoon disruption, flash floods and continuing landslide risks along the border and connecting highways.
+
+Lamsal told the Parliamentary Special Committee on the Impact of Climate Change in the Himalayas, Climate Justice and the Bhotekoshi-Trishuli Disaster that recent floods and landslides, including the August 26 Bhotekoshi flood, had made it difficult to immediately resume operations at the two major border points connecting Nepal with Tibet. "We are ready even now. There is no problem in operating the border point from our side. We are also in regular communications with the Chinese side. We are working on how to reopen the Rasuwagadhi border point," he said. Lamsal also said the government was working to construct and restore infrastructure in areas affected by the recent disasters.
+
+In sum, Nepal is pressing for the reopening of Tatopani and working to restore Rasuwagadhi, with the government saying the Nepali side of Tatopani is ready but broader operations remain affected by the damage caused by recent floods, landslides and the August 26 disaster.
+
+With PTI Inputs
+
+\- Ends
+
+---
+
+### Mint Explainer: How are Indians shopping for home and kitchen this Diwali? | Mint
+*Soumya Gupta · industry, economy*
+
+India’s home, kitchen and 
+
+Summary
+
+Higher input costs and consequent price hikes could weigh on sales.
+
+India’s festive season is a crucial period for makers of household goods, kitchenware and small appliances. This year, too, brands and retailers are expecting brisk sales driven by premiumization as Dussehra and Diwali demand picks up. However, higher input costs and consequent price hikes could play spoilsport. _Mint_ explains.
+
+## What are the growth prospects of home and kitchen goods?
+
+On the face of it, they are looking good. In a 29 September report, professional services firm Deloitte estimated that durables, furniture, appliances, and other kitchen and bath goods will grow 1.6x over the next five years, led by kitchenware, interior services, and home security systems. The overall industry, valued at $166 billion as of 2025, is expected to grow to $260 billion by 2030. Durables and appliances account for the largest share of this market, valued at $66 billion as of 2025 and expected to grow to $95 billion by 2030. Much of this growth is coming from premiumization, as customers plan home improvements around “lifestyle aspirations” rather than an immediate need for repair or replacement.
+
+## How are retailers tapping into this growth?
+
+Retailers, both online and offline, are offering more brands across these home and kitchen categories. E-commerce giant has expanded its Great Indian Festival to its quick-commerce service, Amazon Now, for the first time, offering kitchen and home goods and small appliances as part of the annual sale. The company is already seeing 30-40% growth in gross sales in pre-sale offers, encouraged by solid growth in the platform’s Independence Day and Prime Day sales, Aman Deep Lohan, director of home, kitchen, and outdoors of Amazon India, told _Mint_ in an interview.
+
+## What role are EMIs and offers playing?
+
+Consumers are buying pricier goods, but these purchases are increasingly being fuelled by bank offers and EMIs. This is particularly evident as appliance makers pass on rising costs of plastic, copper and electronic components, driven by the West Asia war.
+
+Customers applied bank offers to 70-75% of all Amazon sales transactions in the home and kitchen categories; this rate is expected to rise to 80% in this year’s sales, Lohan said. Similarly, no-cost EMIs accounted for 20-25% of total sales transactions in this category but are expected to rise to 30-35% this year. “The lever of affordability will be on this Diwali,” he said.
+
+## What are brands doing about input price hikes?
+
+While input costs remain stable in most home and kitchen goods, they have been rising for small and large appliances, the largest segment in value of home and kitchen goods. Most companies have been hiking prices across product portfolios, although large manufacturers have been trying to stave them off. LG Electronics, for example, hiked prices of its air conditioners by 5-6% starting 1 October, but has maintained prices for its other categories, including washing machines and TVs. Meanwhile, brand manufacturers are betting on localizing manufacturing to offset rising import costs.
+
+## So will this year be a little grim for home and kitchen products?
+
+Perhaps. The industry has been sounding the alarm. In September, the Retailers Association of India said retail spending had begun recovering across the board as of August, indicating a better second quarter. But, the RAI said, growth in the consumer electronics category stood at 5% year-on-year for the month, unchanged from the previous month’s growth rate. However, as the Deloitte data shows, premiumization is driving medium- and long-term sales growth. Besides, consumption is rising in tier-II and smaller cities, closing the gap with large metros, also fuelling growth across home and kitchen categories.
+
+---
+
+### A whisper before detention: Woman cop’s handling of transgender protester in Delhi wins praise
+*India Today Trending Desk · general*
+
+## A woman police officer quietly clarified a transgender protester's gender before detaining them at Delhi's Jantar Mantar. The officer has received praise for her "thoughtful" gesture.
+
+A woman cop has received praise for discreetly handling the detention of a protester. (Photos: @Viglnthindutva/X)
+
+New Delhi,Oct 7, 2026 11:31 IST
+
+A woman police officer’s discreet handling of a transgender protester during a detention at Delhi’s Jantar Mantar has won praise on social media.
+
+In a video of the moment that has gone viral, the officer was seen leaning towards the protester and whispering to them before quietly clarifying their gender and proceeding with the detention.
+
+The protester was speaking to the media when a group of women police constables approached them. One of the officers leaned towards the protester and whispered something before the detention proceeded.
+
+The protester then told the officer, “You can’t detain me, ma’am. I’m a journalist, I have a card.” The officer asked, “You need women?” to which the protester responded, “I’m a transgender.”
+
+However, despite the clarification, the police personnel then escorted them away from the protest site.
+
+**Watch the video here:**
+
+> Chad Delhi Police came, asked his name, whispered “You’ve been detained” then asked “Do you need a male or female police officer?” Bro panicked so hard he became transgender journalist in seconds https://t.co/hdnOYreoxP— Hindutva Vigilant (@Viglnthindutva) October 6, 2026
+
+As the video garnered thousands of views, several people applauded the officer for the “thoughtful” manner in which she handled the situation. There were many others who also commended the cop for her “presence of mind.”
+
+The video, however, did not provide further details about the protester’s identity, the reason for their detention or what happened after they were taken away from the site.
+
+The incident occurred amid protests at Jantar Mantar, where demonstrators had gathered demanding the resignation of Chief Election Commissioner Gyanesh Kumar. The protests were centred on demands concerning electoral-roll revisions and the functioning of the Election Commission.
+
+\- Ends
+
+---
+
+### Okinawa presses Japan after US Marine arrested in local woman's murder case
+*India Today World Desk · general*
+
+## Okinawa Governor Genta Koja urged Japan's defence minister to tighten discipline among US troops after a Marine was arrested in a woman's murder and robbery case. The case has reignited anger over the island's heavy base burden and repeated crime concerns.
+
+Stock photo used for illustration
+
+Tokyo,Oct 7, 2026 11:30 IST
+
+Okinawa Governor Genta Koja on Wednesday asked Japan's central government to step up efforts to ensure effective discipline among US service members on the southern island after a US Marine was arrested on accusations that he robbed and murdered a local woman.
+
+Meeting Defence Minister Shinjiro Koizumi in Tokyo for the first time since taking office last month, Koja also sought further efforts to reduce the burden of hosting US military bases on Okinawa, where public opposition to the heavy American military presence has continued for years.
+
+The case centres on Lance Cpl. Devin Jacob Ballard, a 20-year-old Ohio native attached to Marine Corps Air Station Futenma. He was arrested over the weekend on suspicion of strangling 39-year-old Anna Yagi at a hotel and stealing her wallet and backpack. According to Japanese media, he has denied the allegations.
+
+As they met in the minister's office in front of reporters and photographers, Koja told Koizumi, "Okinawa has requested preventive measures every time similar crimes were repeated in past, and now we have this case again." He added, "I must say past disciplinary measures and human rights education implemented by the US military have not worked at all."
+
+Koizumi said he was aware of Okinawa's concerns and that the government would work with the US side to discuss effective preventive measures. Hours earlier, the US military in Okinawa announced a 48-hour pause in all military operations for training until noon on Friday. It also restricted troops from leaving their bases and banned alcohol consumption.
+
+Lt. Gen. Benjamin Watson, commander of the III Marine Expeditionary Force, said in a letter posted on X on Tuesday that episodes like these "demand we pause for reflection" and that serving on the Japanese island "comes with responsibility". He said US troops on Okinawa would also be under a curfew from midnight to 5 am for 30 days after the two-day training period.
+
+Okinawa has long complained about noise, pollution and crime linked to American bases, though some residents have come to recognise their strategic value amid what is widely seen as a growing threat from China. A majority of the more than 50,000 US troops stationed in Japan under the bilateral security agreement are based on the island. Koja was also scheduled to meet Prime Minister Sanae Takaichi and Foreign Minister Toshimitsu Motegi later in the day to press the same demands.
+
+With PTI Inputs
+
+\- Ends
+
+---
+
+### Why Tamil Nadu teachers and CPI(M) are opposing an Australian university in Chennai
+*India Today Education Desk · general*
+
+The University of Western Australia (UWA) is set to open its first campus in Tamil Nadu after receiving final approval from the University Grants Commission. The Chennai campus in Velachery is expected to begin classes this month, with programmes in areas including computer science, data science, artificial intelligence, business and information technology.
+
+But the approval has also triggered strong opposition in Tamil Nadu.
+
+The Tamil Nadu Government Collegiate Teachers’ Association (TNGCTA) has criticised the move, while the Communist Party of India (Marxist) has demanded that the approval be withdrawn. At the centre of their objections is a basic question: why bring in a high-fee foreign university when government universities and colleges are struggling with vacant teaching posts?
+
+Meeting between UWA team and Tamil Nadu officials (Photo: X/DR TRB Raja)
+
+### THE APPROVAL THAT SET OFF THE PROTEST
+
+For UWA, the Chennai campus is part of its expansion in India and is being presented as a way to give students access to an internationally recognised Australian education without leaving the country. UWA says its Indian campuses will follow the same academic standards and quality assurance frameworks as its Perth campus.
+
+The Tamil Nadu government has also backed the move, describing UWA’s presence as an opportunity to strengthen the state’s education, technology and industry ecosystem.
+
+Teachers, however, see the decision differently.
+
+### THE FIRST PROBLEM: WHO CAN AFFORD IT?
+
+One of their biggest concerns is the fee.
+
+The TNGCTA said UWA’s proposed fees, ranging from around Rs 14 lakh to Rs 23 lakh, would put the university beyond the reach of a large section of students.
+
+The CPI(M) pointed to first-year fees of around Rs 23.10 lakh for the MBA, Rs 17.93 lakh for artificial intelligence, and Rs 14.52 lakh each for business management and data science, apart from other charges.
+
+That, the critics argue, makes the question of access unavoidable.
+
+### WHILE GOVERNMENT COLLEGES WAIT FOR TEACHERS
+
+The fee issue leads directly to their second concern: the condition of public higher education.
+
+The TNGCTA said state universities and government colleges are already facing a severe shortage of teachers. It cited the University of Madras, where 180 full-time faculty members are working against a sanctioned strength of 550. Madurai Kamaraj University has 202 against 405, while Bharathidasan University has 119 against 230.
+
+The CPI(M) put the wider figure at 7,198 vacant faculty posts in government arts colleges, while claiming that 30 to 50 per cent of teaching posts remain vacant across 21 state universities.
+
+### FROM VACANCIES TO PRIVATISATION
+
+This is why the opposition is not limited to UWA itself.
+
+The teachers’ association has linked the decision to the larger expansion of private and foreign universities under the National Education Policy, 2020. The CPI(M) has similarly argued that foreign universities could commercialise higher education and create institutions accessible mainly to affluent students.
+
+The party has also objected to recent changes to Tamil Nadu’s private universities law, saying the state is making it easier for private institutions to enter higher education while public universities continue to face staff shortages.
+
+### AND THEN COMES THE SOCIAL JUSTICE QUESTION
+
+For the protesters, this finally comes down to the kind of higher education Tamil Nadu wants to build.
+
+The CPI(M) has argued that high-fee foreign universities could affect access for lower- and middle-income students and raised concerns over reservation and social justice.
+
+So, while UWA sees Chennai as a gateway to global education, its critics see a different priority: strengthen the public system first, fill vacant posts and ensure affordable higher education before opening the door wider to expensive foreign institutions.
+
+\- Ends
+
+---
+
+### Meta wants to make Facebook all about Reels, testing video-first experience in India
+*Divya Bhati · general*
+
+What comes to your mind when you think of the Facebook app? Well, of course, the Feed, where you can check all the updates from your friends, pages and groups. But Meta is now looking to change that experience. The company has been putting more focus on short-form video content, particularly Reels. Now, according to a report, it is testing a new experience in India that takes some users straight to a full-screen Reels feed instead of the traditional Facebook Feed.
+
+According to TechCrunch, some users in India are seeing the full-screen video interface when they open the app, putting Reels at the centre of the Facebook experience. The test is said to be part of Meta’s effort to make video more prominent on Facebook. However, the company is not getting rid of the traditional Feed. Users included in the test can still opt out and return to the Feed-first experience, while the classic Feed remains available as a separate tab.
+
+For users in the test, Facebook is opening directly to Reels instead of the usual Feed of posts from friends, pages and groups. Meanwhile, the regular Feed is not going away. Users can switch back to it, with the Feed also available as a separate tab.
+
+### Meta had already hinted at a Reels-first Facebook
+
+The test is not entirely unexpected. Facebook head Tom Alison first outlined the plan in July, saying Meta would begin testing a redesigned, more video-forward Facebook experience later this year in countries where people watch a lot of video.
+
+“People are showing us they want more immersive, visual, video-forward experiences, and video is where conversations are happening, communities are forming, and even commerce is starting to take place,” he wrote. “So later this year, we’ll begin testing a reimagined experience that puts a subset of people who we think want more video on Facebook into full-screen video the moment they open the app.”
+
+“People will have the option to opt out and go back to a Feed-first experience if they choose, and Classic Feed will always be available as the second tab in the app, just one click away,” he added.
+
+At the time, Alison did not name the countries involved, but said Meta would explore bringing the experience to the US next year.
+
+India appears to be the first market where this test has been publicly reported. And the choice makes sense given how heavily Indian users consume video on Meta’s platforms.
+
+Meta says 97 per cent of people surveyed in India watch videos on its platforms every day, while 89 per cent of Gen Z respondents use Reels daily. This is also why Meta has been gradually making Facebook more video-focused. Last year, the company said all new videos uploaded to Facebook would be shared as Reels, regardless of their length or format, and also renamed the Video tab to Reels.
+
+There is also some history behind India’s role in Meta’s video strategy. Instagram began testing a dedicated Reels tab in India in 2020, shortly after TikTok was banned in the country. Meta later tested a Reels-first experience on Instagram for some users in India and South Korea, where the app opened directly into the video interface.
+
+\- Ends
+
+---
+
+### RBI hikes repo rate after nearly 4 years: Are your personal loan EMIs set to rise?
+*Jasmine Anand · general*
+
+The Reserve Bank of India (RBI) has raised the repo rate by 25 basis points to 5.50%, making borrowing costs a key concern for people with floating-rate loans. But will your personal loan EMI also go up?
+
+The rate hike, the first since February 2023, comes as the central bank flags rising inflation pressures and a challenging global economic environment. The RBI has also changed its policy stance to “calibrated tightening”, signalling that it is no longer considering rate cuts in the near term.
+
+For personal loan borrowers, the impact will depend largely on whether the loan is linked to an external benchmark and how the lender passes on the rate change.
+
+### WILL YOUR PERSONAL LOAN EMI INCREASE?
+
+A repo rate hike increases the cost at which banks and other financial institutions borrow funds. When the cost of funds rises, lenders may increase lending rates, which can make new loans more expensive.
+
+For existing borrowers, however, the impact is not always immediate or the same for everyone. It depends on the terms of the loan, the lender's benchmark and whether the interest rate is fixed or floating.
+
+Borrowers with floating-rate personal loans could see their interest rates, EMIs or loan tenures change if the lender passes on the increase.
+
+Kumar Binit, CEO, airpay money, said the impact could be felt across household budgets, particularly with festive spending picking up.
+
+“A 25 basis point hike to 5.50%, right ahead of Diwali, will be felt across household budgets. Floating-rate EMIs on home loans, personal loans, and auto loans will rise at a time when festive spending is already at its peak,” he said.
+
+If a lender increases the interest rate on a floating-rate personal loan, borrowers could face a higher monthly EMI if the loan tenure remains unchanged.
+
+Alternatively, the lender may keep the EMI broadly unchanged but extend the repayment period. In that case, the borrower could end up paying more interest over the life of the loan.
+
+The exact impact will depend on the outstanding loan amount, remaining tenure, existing interest rate and the extent to which the lender passes on the RBI's rate hike.
+
+For borrowers planning to take a personal loan, the change could mean slightly higher borrowing costs compared with the rates available before the repo rate hike.
+
+### LENDERS MAY ALSO RAISE DEPOSIT RATES
+
+The impact of a higher repo rate is not limited to borrowers.
+
+Banks could also increase fixed deposit (FD) rates as they adjust to the new interest-rate environment. This could benefit savers looking for relatively stable returns.
+
+“The silver lining is for depositors - banks are likely to revise FD rates upward in the coming weeks, making this a favourable environment for parking festive bonuses and seasonal savings,” Binit said.
+
+Why personal loan borrowers need to watch the next few months
+
+The latest move is important not just because of the 25-basis-point hike, but also because of the RBI's change in policy stance.
+
+Puja Abhishek Singh, CEO, Manipal Fintech, said the rate hike was widely expected and reflected the RBI's focus on price stability amid global economic uncertainty.
+
+“With geopolitical developments in the Middle East influencing energy prices and the inflation outlook, the policy decision highlights the need for a balanced approach to managing inflation while supporting economic growth,” she said.
+
+For lenders, the immediate impact is likely to be a modest increase in the cost of funds. That could eventually feed into lending rates, depending on how banks and financial institutions respond.
+
+Singh added that borrowers with repo-linked loans may see changes in their EMIs or loan tenures, while deposit rates could also rise as banks adjust to the new rate environment.
+
+### BORROWERS COULD FACE HIGHER REPAYMENT PRESSURE
+
+A higher EMI may not look significant on a monthly basis, but it can add to the financial burden for borrowers who already have several loans or are managing higher household expenses.
+
+Siddharth Agarwal, Founder & Managing Director, Mobicule Technologies, said the rate hike could quickly affect borrowers with floating-rate loans.
+
+“A rate hike by 25 bps after an extended pause will quickly reach borrowers on floating-rate loans, either through higher EMIs or longer loan tenures. For households and small businesses already managing rising costs, this adds meaningful pressure,” he said.
+
+He also said lenders should communicate any changes to borrowers before they take effect and consider measures such as tenure extensions or restructuring where appropriate.
+
+### WHAT SHOULD PERSONAL LOAN BORROWERS DO?
+
+If you already have a personal loan, check whether your interest rate is fixed or floating and understand the benchmark to which it is linked.
+
+It is also worth checking whether your lender changes the EMI or the loan tenure when interest rates move. If the EMI rises, borrowers should review their monthly budget and avoid taking on additional high-cost debt unless necessary.
+
+For those planning to take a new personal loan, comparing interest rates and other charges across lenders becomes even more important in a rising-rate environment.
+
+The RBI's latest move does not necessarily mean that every personal loan EMI will immediately rise by the same amount. But with the policy stance now shifting towards calibrated tightening, borrowers should be prepared for the possibility of higher borrowing costs if rates remain elevated.
+
+\- Ends
+
+---
+
+### Have you ever seen a sunrise on Mars? Curiosity captures stunning Martian morning
+*India Today Science Desk · general*
+
+Nasa’s Curiosity rover has captured an early-morning view of Mars, giving Earth a detailed look at wind-carved cliffs on the Red Planet as bright morning light illuminated the scenic landscape.
+
+The newly released panorama was captured by Curiosity on August 11, 2026, and shows a distant layer of rocky formations known as yardangs, which are cliffs and ridges carved by wind over long periods.
+
+HOW DOES A SUNRISE LOOK ON MARS?
+
+The image is actually a panorama made by joining six photographs taken by Curiosity's Mastcam, its main camera system.
+
+Nasa processed the pictures without its usual colour adjustment, allowing the scene to retain the appearance of the early Martian morning.
+
+The result shows blue hues in the foreground, with sunlight falling on the distant yardangs.
+
+The six shots that make up this panorama, captured by Nasa’s Curiosity. (Photo: Nasa)
+
+The formations stretch for about 16 kilometres across the northwestern part of Mount Sharp, a mountain inside Gale Crater that rises about 5 kilometres above the surrounding terrain.
+
+Curiosity has been climbing Mount Sharp since 2014 and recently reached an elevation gain of 1 kilometre, the most the rover has climbed on Mars.
+
+### WHY ARE ROCKS ON MARS IMPORTANT?
+
+The yardangs are more than a scenic feature in a photograph.
+
+They have prompted numerous scientists to want to understand how this unusual layer formed and what it can reveal about Mars' past.
+
+The Arabia Terra region on Mars as captured by the Nasa rover. (Photo: Nasa)
+
+Mount Sharp is made up of layers of rock and sediment deposited during different periods of Martian history.
+
+Curiosity's investigations have shown that this part of Mars once had lakes and streams billions of years ago.
+
+Those wetter conditions eventually disappeared, leaving behind minerals formed as the water dried up. Later, wind may have removed some of the material, helping create the yardangs seen today.
+
+Scientists are not yet certain how the yardang layer formed. One possibility is that it contains ash left behind by ancient volcanic eruptions.
+
+An image of Nasa's Curiosity Rover on Mars. (Photo: Nasa)
+
+Curiosity is expected to spend much of the next year travelling through layers containing sulphates and carbonates, which are minerals that can provide clues about how Mars changed as its ancient surface became drier.
+
+Nasa scientists hope the rover will reach the base of the yardangs sometime in 2027.
+
+There, Curiosity's robotic arm could examine the formations more closely and collect new information about their origin.
+
+\- Ends
+
+---
+
+### AI voice company ElevenLabs to invest millions in India, says it will create a 100-member team
+*Armaan Agarwal · general*
+
+London-based AI voice company ElevenLabs is expanding in India with plans to invest millions of dollars in the country. India is ElevenLabs’ biggest market outside of the US, and now, the company wants to grow with local teams and models designed for Indian languages.
+
+ElevenLabs co-founder Mati Staniszewski said that the company is planning to invest "hundreds of millions of dollars" in its India operations. The company is working on building a team of close to 100 people in the country by the end of the year. “I 100 per cent believe India can lead in voice AI... India can be the laboratory of the world for voice AI," Staniszewski told CNBC TV18.
+
+Mati Staniszewski added that the company was going to focus on training its voice models on Indian languages from the ground-up. “Even when we started with V1, the first model we released, Hindi was a big part of it. The architecture was optimised from the very start to support those languages,” he explained. “In the past, companies would do English first and then bring it to other languages. We didn't like that idea. We think you really need to build locally, and that means not only the team but also the architecture.” ElevenLabs currently supports 14 Indian languages and is working to add 22 more.
+
+ElevenLabs General manager and country leader Karthik Rajaram said the company has worked with 250 enterprises in the region and is seeing 100 million annual AI-agent conversations across 14 Indian languages. He stated more than 25,000 developers and businesses in India use its API each month, up about 2.5 times over the past year. "So what's striking is that it is not just only the size of the opportunity that we have in the country. It is the sheer breadth and complexity of the market that we have,” Rajbram said during a media briefing.
+
+India customers named by the company include PhysicsWallah, Havells and Razorpay, while other clients mentioned in company statements include Meesho, Urban Company, Cars24, 99acres, TVS Motor, Mahindra and IDFC First Bank.
+
+### What is ElevenLabs?
+
+Founded in 2022 by Mati Staniszewski and Piotr Dabkowski, ElevenLabs builds AI voice technology that can convert text into speech, clone voices and run conversational agents.
+
+The company has gained popularity among creators. Creators can lend their voice to ElevenLabs’ models and earn royalties. As per the company, about 700 Indian creators are part of its programme. That is, a creator can lend their voice to the platform, which can then be accessed by users, giving a more human-sounding voice to the models.
+
+ElevenLabs’ tools are used for tasks such as customer support while processing refunds or renewing insurance policies. The company said its platform is built around conversation, intelligence and workflow layers, combining speech-to-text. Its agents are designed in-line with Indian voices and accents.
+
+### ElevenLabs signs MoUs in India
+
+Alongside plans to expand its operations in India, ElevenLabs announced a partnership with the Karnataka Innovation and Technology Society. Under the memorandum of understanding (MoU), ElevenLabs will provide free lifetime licences to eligible citizens identified by the state government or institutions working under it through its One Million Voices programme. "Voice is the most natural way people interact with technology, and we're excited to work with the Karnataka Innovation and Technology Society to explore how voice AI can make citizen services more accessible and restore the voices of those who have lost theirs,” Mati Staniszewski said.
+
+The initiative is meant for people who have lost speech because of oral and throat cancer, ALS and other neurological or degenerative conditions, and can allow them to communicate using a synthetic version of their own voice, including in Kannada. KITS is engaging with Mysuru's All India Institute of Speech and Hearing to explore implementation and identify beneficiaries.
+
+Separately, ElevenLabs signed a national-level memorandum of understanding with the Coalition of the Willing, which is working with the Department of Empowerment of Persons with Disabilities, The Quantum Hub and the Ministry of Social Justice and Empowerment to expand access to voice technology for people with speech, hearing and voice-loss disabilities.
+
+The company’s push in India comes as global AI firms deepen their focus in the country. In the past few months, OpenAI and Anthropic have opened their first India offices and expanded local partnerships, alongside large commitments from Amazon, Microsoft and Google in AI, cloud and data centre infrastructure.
+
+\- Ends
+
+---
+
+### Jaguar Type 01 unveiled with 1,030bhp and 644km range
+*Auto Today · general*
+
+## Jaguar has unveiled the Type 01, a new all-electric four-door GT with up to 1,030bhp, a claimed 644km EPA range, 350kW charging and a 3.2-second 0-100kmph time.
+
+New Delhi,Oct 7, 2026 11:28 IST
+
+Jaguar has unveiled the Type 01, its first production model under the brand’s new design direction and an all-electric four-door GT built on the company’s bespoke Jaguar Electric Architecture (JEA). Revealed in New York, the Type 01 combines a 1,030PS powertrain with an expected EPA range of up to 400 miles (644km).
+
+### Jaguar Type 01 design
+
+The Type 01 carries over much of the dramatic design approach first seen on the Type 00 concept. It features a long bonnet, a low roofline and a wide stance, while Jaguar’s new ‘strikethrough’ graphic forms a key element at both the front and rear.
+
+At the front, the design incorporates four-line LED daytime running lights and slim headlamps. Active aerodynamic elements and a low-drag body help the Type 01 achieve a claimed drag coefficient of 0.23, making it the most aerodynamic Jaguar to date.
+
+The car also gets 23-inch wheels, flush door handles and a long wheelbase measuring 3.2 metres. At the rear, the Type 01 does away with a conventional rear windscreen and instead uses a camera-based digital rear-view system. An electronically deployable rear spoiler is also part of the aerodynamic package.
+
+Jaguar has retained some unconventional features from the Type 00 concept, including the absence of a conventional rear window and the distinctive body surfacing around the rear fenders.
+
+### Jaguar Type 01 interior and features
+
+The cabin follows a minimalist approach, with a prominent central spine separating the front and rear sections. A large 24-inch display combines the instrument cluster and infotainment functions, while the interior uses brass-finished elements and a mix of premium materials.
+
+The front seats get heating, ventilation and massage functions. The Type 01 also features a digital rear-view mirror, while climate and other vehicle functions are accessed through the central touchscreen.
+
+The design-led proportions do, however, come with some compromises. The low roof and small side windows restrict the sense of space in the rear, while entry and exit require occupants to negotiate the car's high-sided bodywork.
+
+### 1,030bhp electric powertrain
+
+The Jaguar Type 01 uses a three-motor electric powertrain, with two motors driving the rear wheels and one powering the front axle. The system produces up to 1,030bhp and 1,365Nm of torque.
+
+Jaguar claims a 0-100kmph time of 3.2 seconds. The car also gets multiple drive modes and torque vectoring, while its chassis uses air suspension and twin-valve active dampers. Rear-wheel steering helps reduce the turning circle to 11.5 metres.
+
+Power comes from a 118kWh usable battery pack. The 850-volt electrical architecture supports DC charging at up to 350kW, allowing the Type 01 to add up to 321km of range in 13 minutes. Jaguar says the car can deliver up to 320 miles (515km) of sustained highway-speed range.
+
+### Jaguar Type 01 production and India launch
+
+Production of the Jaguar Type 01 is scheduled to begin in 2027 at JLR's Solihull plant in the UK. Its electric drive units and battery packs will be produced in Wolverhampton, while pressed body panels will come from Halewood, Merseyside.
+
+JLR says customers will be able to place orders for the Type 01 in early 2027. The company has not yet announced an India launch timeline or pricing for the electric GT.
+
+****Subscribe to Auto Today Magazine****
+
+\- Ends
+
+---
+
+### RBI MPC speech: FDI, forex reserves, credit growth — what Governor Sanjay Malhotra said on global financials | Mint
+*Kirti Jha · economy*
+
+## Governor Sanjay Malhotra highlighted stronger FDI inflows, $734.6 billion forex reserves and 18.1% bank credit growth, while noting $10.3 billion FPI outflows amid global financial risks.
+
+India's domestic financial system remains resilient, supported by stronger FDI, healthy bank credit and large forex reserves, even as global financial conditions remain volatile and foreign portfolio flows stay under pressure. (AI-generated image used for representational purpose.)
+
+The Reserve Bank of India (RBI) raised the repo rate by 25 basis points to 5.5% on Wednesday and changed its monetary policy stance to “calibrated tightening”, as the central bank assessed rising inflation risks and a challenging global environment. The Monetary Policy Committee kept its options open for either a further rate hike or a pause, depending on how economic conditions evolve.
+
+Beyond the rate decision, RBI Governor Sanjay Malhotra's policy statement offered a detailed assessment of India's financial position. Foreign direct investment has strengthened, bank credit is growing at a faster pace and foreign exchange reserves remain high.
+
+At the same time, foreign portfolio investors have continued to withdraw money from Indian markets amid global uncertainty, higher bond yields and elevated crude oil prices.
+
+## FDI inflows rise, but foreign portfolio investors remain cautious
+
+India's net FDI inflows rose to $13.8 billion between April and August 2026, compared with $9.6 billion in the same period last year. The RBI said the improvement was driven by higher gross FDI inflows and slower outward FDI. Gross FDI grew 20.6% during the period.
+
+The RBI also highlighted India's position in greenfield investments. India ranked third globally in announced greenfield FDI projects during April-August 2026, with projects worth $41.3 billion.
+
+Portfolio flows, however, have been weaker. FPIs recorded net outflows of $10.3 billion between April and 5 October 2026. The RBI said measures announced in June had supported capital inflows and that the balance of payments was expected to remain in healthy surplus.
+
+## India's forex reserves remain a major buffer
+
+India's foreign exchange reserves stood at $734.6 billion as of 2 October 2026, according to the RBI. The reserves provide around 11 months of import cover and cover 94.4% of India's external debt.
+
+The RBI said it would continue to facilitate an orderly adjustment of the exchange rate in line with macroeconomic fundamentals while curbing excessive volatility.
+
+Other external flows have also strengthened. Net inflows into non-resident deposits rose to $119.2 billion during April-August 2026, compared with $5.6 billion a year earlier. Gross external commercial borrowing disbursements increased to $23.9 billion from $17 billion.
+
+## Bank credit growth accelerates
+
+The RBI also pointed to stronger credit activity in the domestic economy. Bank credit grew 18.1% year-on-year as of 15 September 2026, compared with 10.4% a year earlier. Credit growth was broad-based, with retail and services lending remaining buoyant. Industrial credit growth more than doubled, while lending to MSMEs and agriculture also strengthened.
+
+The health of the banking system has also improved. Scheduled commercial banks had a 17.87% capital adequacy ratio in June 2026. Gross non-performing assets fell to 1.67% from 2.22% a year earlier, while net NPAs declined to 0.39% from 0.51%.
+
+The RBI said the non-banking financial company sector also remained sound, with a capital adequacy ratio of 25.50% and gross NPAs of 2.50%, down from 3.09% a year earlier.
+
+## Global financial conditions remain a key risk
+
+The RBI's assessment of India's financial sector comes against a difficult global backdrop. The central bank flagged the West Asia conflict, elevated crude oil prices, higher global bond yields, a stronger dollar and fragile financial-market sentiment as key risks.
+
+India's current account deficit remained contained at 0.5% of GDP in the first quarter of FY27, or $4.2 billion, compared with 0.4% a year earlier. However, the merchandise trade deficit widened to $58.7 billion in July-August 2026 from $55.1 billion a year earlier, partly due to higher electronics and crude oil imports.
+
+The RBI said India's services surplus, remittances and trade agreements provide resilience, but global trade moderation, high energy prices and trade-policy uncertainty remain risks.
+
+Overall, the Governor's message was that India's domestic financial system remains resilient, supported by stronger FDI, healthy bank credit and large forex reserves, even as global financial conditions remain volatile and foreign portfolio flows stay under pressure.
+
+### About the Author
+
+Kirti jha
+
+Kirti Jha is a Senior Content Producer at Mint, where she writes on mutual funds, taxation, personal finance and macroeconomic developments. Her reporting focuses on helping readers understand complex financial developments through data-driven, research-backed stories that explain how policy changes, market trends and regulatory decisions affect investors and households. <br><br> Before joining Mint, Kirti worked at ET Money, where she specialised in mutual fund research and investment analysis. She tracked portfolio disclosures, fund manager strategies, sectoral allocation shifts and investment trends, distilling large datasets into investor-focused insights. Her work combined quantitative analysis with consumer-centric storytelling, enabling readers to better understand fund positioning, portfolio changes and long-term investment opportunities.<br><br> Kirti holds a Bachelor's degree in Economics from Indraprastha College for Women, University of Delhi, and a Master's in Finance from the Jindal School of Banking & Finance at O.P. Jindal Global University. Her academic training emphasised analytical thinking, quantitative research and financial decision-making, providing a strong foundation in understanding capital markets, financial systems and economic policy. With a combined experience in investment research and financial journalism, she is committed to producing accurate, accessible and insightful journalism that empowers readers to make well-informed financial decisions.
+
+---
+
+### Mere eyewash: Court tears into Delhi Police over organised crime case
+*India Today News Desk · general*
+
+## A Delhi court rebuked the police for failing to arrest MCOCA accused for years despite repeated offences. The judge said the delay defeated the law's purpose and warranted an enquiry into erring officials.
+
+A court has slammed Delhi Police over six-year delay in arrests.
+
+New Delhi,Oct 7, 2026 11:18 IST
+
+A court has sharply criticised Delhi Police for the handling of an organised crime case, saying two accused allegedly continued to commit serious offences, including murder, for years after the stringent Maharashtra Control of Organised Crime Act (MCOCA) was invoked against them, but were arrested only in 2026.
+
+Special Judge Gaurav Rao said the police report placed before the court was an "absolutely perfunctory and mere eyewash".
+
+The court has sent a copy of its October 5 order to the Delhi police commissioner, saying the matter "calls for a detailed inquiry and appropriate action against all the erring officials/investigating officers." It has also sought a report from the commissioner's office by the next hearing and directed the concerned joint commissioner of police to remain present in person with the report and his comments.
+
+The case relates to an FIR registered in September 2020, in which MCOCA was invoked against Mukesh alias Punit and Pardeep alias Guri.
+
+The court noted that when MCOCA was invoked, Mukesh was already involved in around 20 FIRs, including two for murder and one for attempt to murder.
+
+After that, he was allegedly named in eight more FIRs between 2021 and 2024, including cases of murder, attempt to murder, robbery and kidnapping. He was arrested only on February 9, 2026, by Assistant Commissioner of Police Rakesh Kumar after the investigation was assigned to him on September 25, 2025.
+
+"Hence, before ACP Rakesh Kumar, none of the IOs made any efforts to arrest the said accused," the court said.
+
+The court said Pardeep alias Guri was also involved in several cases and, according to the chargesheet, committed a number of heinous offences in 2020 after MCOCA was invoked against him. He was also named in two FIRs registered in 2024, yet was arrested only on April 16, 2026.
+
+The court further noted that three other accused — Vinod alias Sonu alias Praveen alias Khalifa, Pardeep alias Anil alias Salamuddin and Vikas alias Vicky alias Pankaj — have still not been arrested, and investigation against them remains incomplete despite more than six years having passed.
+
+The judge said that at the previous hearing, the court had asked whether Mukesh was on bail or in judicial custody when MCOCA was invoked against him and till the time of his arrest. It had also sought details of the other cases and explanations from the investigating officers.
+
+However, the judge said the report filed by the deputy commissioner of police, Outer North district, was "absolutely silent" on these points. "The report of the DCP, Outer North district, is absolutely perfunctory and a mere eyewash. The report failed to address the query raised by this court and though lapses as well as the considerable delay is writ large from the record, the additional DCP said that 'police officials have made best efforts in the present case and are still making their best efforts'," the judge said.
+
+Taking strong exception to that stand, the court said, "if, according to the additional DCP, this is the best effort, then this court has nothing more to say". The judge said the officer was perhaps "insensitive to the legislative intent behind the MCOCA", which was enacted to curb organised crime. The court said that if accused persons are allowed to remain free and commit serious offences despite the invocation of such a stringent law, it defeats the purpose of the legislation. "But for the fact that the accused persons were not arrested, the crimes could not have been committed by them, especially after the MCOCA was invoked against them," the court said.
+
+The court added that failure to arrest a person accused of several heinous offences emboldens him to commit further crimes and "sends an extremely wrong message to the society". It also noted that the DCP's report referred to a Delhi Police headquarters circular dated July 11, 2024, on expeditious investigation and timely arrests. Despite that, the accused remained at large for six years, getting more time and opportunity to commit more crimes. The court said the additional DCP appeared to feel he was not answerable to the court or the public, "who has all this while borne the brunt of the criminal activities of the crime syndicate", and called such a "lackadaisical approach" unacceptable.
+
+Underlining that long delays in investigation and filing chargesheets can harm a trial because crucial evidence may be lost and witnesses' memories may fade, the court said it appeared that the matter had not been brought to the notice of the police commissioner. The matter has now been listed for further proceedings on October 13, with the court expecting the investigation to be concluded at the earliest.
+
+\- Ends
+
+---
+
+### NIRF Ranking 2026 delayed as institutions face scrutiny over retracted papers
+*India Today Education Desk · general*
+
+## The NIRF Ranking 2026 has been delayed as authorities examine research data and flag retracted papers submitted by institutions. With negative marking in place, officials are considering barring repeat offenders from future rankings, shifting focus to research credibility over rank positions.
+
+NIRF Ranking 2026 delayed as institutions face scrutiny over retracted papers (AI generated content)
+
+New Delhi,Oct 7, 2026 11:18 IST
+
+The NIRF Ranking 2026 is facing an unusual delay this year, with the Ministry of Education yet to announce the much-awaited rankings despite the usual August-September release window. According to a report by ThePrint, the delay comes amid a closer examination of research data submitted by higher education institutions, with several retracted research papers flagged during this year's assessment.
+
+Last year, the NIRF rankings were released on September 4. Authorities are now considering stricter action against institutions that have repeatedly recorded retractions, with debarment from future NIRF rankings reportedly being examined.
+
+### NIRF RANKING 2026: WHY HAS THE RELEASE BEEN DELAYED?
+
+The National Institutional Ranking Framework (NIRF) rankings are among India’s most closely watched annual higher education rankings, but this year’s assessment is taking longer as authorities scrutinise research-
+
+The National Board of Accreditation (NBA), which oversees the NIRF ranking exercise, has flagged a significant number of retracted research papers during the ongoing assessment. Institutions are reportedly being warned about such cases as authorities examine the quality and credibility of research output used for ranking purposes.
+
+A senior government official cited in the report said several cases of retracted publications had been identified this year, prompting closer scrutiny of the data submitted by institutions.
+
+The development is significant because Research and Professional Practice is one of the key parameters used to assess institutions under the NIRF framework.
+
+### RETRACTED RESEARCH PAPERS TO ATTRACT NEGATIVE MARKING
+
+The NIRF 2025 methodology introduced negative marking for retracted research papers and citations linked to them, with the data sourced from third-party databases. The move aimed to improve the credibility of research data used in the rankings.
+
+Authorities are now reportedly considering stricter action, including possible debarment of institutions with repeated research paper retractions from future NIRF rankings.
+
+However, a retraction does not necessarily indicate misconduct, as papers may be withdrawn due to genuine errors, data issues, methodological flaws or other concerns identified after publication.
+
+### INDIA RECORDED 887 RESEARCH PAPER RETRACTIONS IN 2025
+
+The increased scrutiny comes amid growing concerns over research integrity in India and globally. According to Retraction Watch data cited by ThePrint, India recorded 887 research paper retractions in 2025, making it the second-highest country globally after China, which recorded 1,701 retractions.
+
+A research paper may be retracted because of plagiarism, fabricated or manipulated data, duplicate publication, ethical violations or problems with the peer-review process.
+
+At the same time, retractions can also occur because researchers or journals identify genuine errors or flaws that affect the reliability of published findings. Therefore, the presence of a retracted paper alone does not establish research misconduct.
+
+The issue has nevertheless become increasingly important for higher education institutions, particularly as universities compete for better positions in national and global rankings.
+
+### NIRF RANKING 2025: IIT MADRAS RETAINED TOP POSITION
+
+The NIRF 2025 rankings were released on September 4, 2025, with IIT Madras retaining the top position in the overall category, followed by IISc Bengaluru, IIT Bombay, IIT Delhi and IIT Kanpur. IIT Madras also retained the No. 1 position in engineering.
+
+IISc Bengaluru topped the university category, while IIM Ahmedabad and AIIMS Delhi retained the top positions in management and medical categories, respectively.
+
+The delay in the 2026 rankings becomes more noticeable against previous release dates: September 4 in 2025, August 12 in 2024 and June 5 in 2023.
+
+The NIRF framework evaluates institutions on parameters including Teaching, Learning and Resources, Research and Professional Practice, Graduation Outcomes, Outreach and Inclusivity, and Perception.
+
+The Ministry of Education is yet to announce the release date. With retracted research papers under greater scrutiny and possible action against repeat offenders, this year's rankings could place renewed focus on the quality and credibility of institutional research, alongside institutions' overall rankings.
+
+\- Ends
+
+
+---
+
 ## 6 October 2026
 
 ### Who Is Nadeem Ahmed? The 24-Year-Old YouTuber At The Centre Of Delhi Police's AI Deepfake Allegations
