@@ -1,3 +1,343 @@
+## 8 October 2026
+
+### Ukraine drone edge blunted by troop shortage as war enters fifth year
+*India Today World Desk · world*
+
+## Ukraine's commanders say severe troop shortages are limiting the army's ability to exploit drone-led battlefield advantages against Russia. The shortfall is worsening exhaustion, weakening reserves and reducing the scope for larger offensives.
+
+Image used for representational purposes only
+
+Kyiv,Oct 8, 2026 11:42 IST
+
+Ukraine's gains in drone technology and battlefield tactics have drawn global attention, but commanders and analysts say a chronic shortage of combat-ready troops continues to limit what the country can achieve against Russia. As the war enters its fifth year, some units are operating at only half strength, leaving Ukraine without enough personnel to fully use the advantages created by its drone innovations.
+
+The shortage is affecting both defence and offensive operations along the 1,250-kilometre front line. Commanders say there are not enough troops to rotate exhausted soldiers, reinforce weak sectors or turn temporary gains into sustained advances, even as the Defence Ministry pushes reforms in mobilisation, training and military organisation.
+
+"Based on the equipment and the number of people we have today, we barely have enough to hold the sector we currently have," said "Afer", deputy commander of the Da Vinci Wolves battalion in the Pokrovsk area of eastern Ukraine, one of the focuses of Russia's offensive. "To move forward would inevitably mean greater losses," he said, identifying himself only by his call sign because of military rules.
+
+Military experts say long-running mobilisation problems, including draft dodging and desertion, have made it harder for Ukraine to build reserves, resulting in only incremental changes on the battlefield. Nick Reynolds of the UK-based Royal United Services Institute said Ukraine needs to be able to commit forces quickly without stripping troops from other parts of the front. Otherwise, he said, commanders have fewer options to turn a temporary advantage into a sustained operation. The shortage also means units cannot be rotated often enough, "leading to exhaustion and, in turn, exacerbating casualties", he said.
+
+The Defence Ministry, which underwent a shake-up by President Volodymyr Zelenskyy in July, is trying to address the issue through changes to mobilisation, training and the structure of the army. But uneven performance among front-line units has worsened the problem, with weaker formations taking heavier losses and creating a cycle of attrition and constant replenishment. The ministry did not respond to Associated Press requests for comment, but one of its officials summarised the issue by saying, "There just are not enough people." The official, who was not authorised to brief the media and spoke on condition of anonymity, said a new mobilisation policy, including efforts to encourage deserters to return to duty, was among the most sensitive issues under consideration.
+
+Former Defence Minister Mykhailo Fedorov, who was replaced by Yevhenii Khmara in the summer shake-up, had pushed to reorganise the military around fewer but stronger units by reinforcing those that performed well and disbanding weaker ones. Khmara has said he wants to continue those changes, but Yehor Cherniev, a member of parliament's defence committee, said lawmakers have yet to see mobilisation initiatives. In June, Fedorov introduced reforms to military contracts aimed at making infantry service more attractive through higher salaries and fixed terms of service.
+
+Recruitment remains difficult after more than four years of war in a country with an estimated population of 39 million. The pool of eligible men aged 25 to 60 has been reduced by years of demographic decline, displacement and migration. UN figures provided by Ukraine's National Health System put the number of men aged 25 to 59 at about 6.8 million, though that includes wounded veterans and others unable to serve. Official figures put the military's overall strength at about 1 million, with only a small fraction deployed at the front.
+
+Compulsory service applies only to men. Women can volunteer, and those with medical or pharmaceutical training must register with the military. Defence Ministry statistics from January 2025 showed more than 70,000 women serving in the army. In March, Fedorov said about 2 million Ukrainian men were evading service, while about 200,000 soldiers had deserted or left their units without authorisation. Desertion can carry a prison term of up to 12 years. Some men flee the country illegally or stay hidden at home, while recruiters stop men on streets and trains and send those without valid exemptions into the army. In January 2025, the government said about 950,000 men had deferments requested by businesses.
+
+Russia is also struggling to fill its ranks. After announcing a widely unpopular partial mobilisation of 300,000 reservists months after the invasion began, it saw hundreds of thousands of men leave the country. Since then, the Kremlin has relied on volunteers drawn by relatively high pay and benefits to sustain a force that President Vladimir Putin has said includes about 700,000 men fighting in Ukraine.
+
+Military analyst Taras Chmut, who also heads the charity Come Back Alive, said Ukraine's problem is not only a shortage of personnel but also how troops are managed and deployed. Increasing the number of personnel in the defence forces does not necessarily make them more effective, he said. Soldiers and analysts say exhaustion, poor organisation, inadequate training and the lack of a clear end-of-service date are pushing recruits to desert. At the front, that leaves fewer troops available to replace battered units, respond to emergencies or exploit openings, though drones can sometimes ease the shortages.
+
+Afer said some troops have spent up to a year at the front with little chance of rotation because replacements are scarce. His unit is operating at about half strength while its area of responsibility has doubled, meaning the same number of troops must defend about twice the territory. He said at least twice as many men were needed simply to hold current positions, without counting the constant reserve required to replace casualties. He also said qualified specialists capable of operating increasingly sophisticated battlefield equipment were hard to find, and that troops "who know how to think" were in short supply.
+
+Analysts say Ukraine can still carry out localised offensives, but not at a scale that changes the wider balance on the battlefield despite rising Russian losses. It has retaken territory in several areas, including near the eastern city of Lyman. Military analyst Pavlo Narozhnyi said manpower was not an insurmountable problem for holding the defensive line. "We can do limited offensives," he said, pointing to recent actions in the Dnipropetrovsk and Lyman areas, "but it's relatively small." According to figures cited by Zelenskyy, Russian forces have occupied roughly 990 square kilometres of Ukrainian territory since the start of 2026, while Ukrainian forces have retaken about 820 square kilometres. He said Kyiv wanted to bring those figures closer to parity by the end of the year, although Reynolds said there would be no fundamental change in the broader battlefield balance and that the front line would remain essentially the same.
+
+Overall, Ukraine's troop shortage remains a central constraint on its war effort, limiting rotation, weakening reserves and reducing the scope for larger offensives even as the country continues to modernise its battlefield tactics and technology.
+
+With PTI Inputs
+
+\- Ends
+
+---
+
+### Sony ULT Tower 5, Tower 7 and Tower Max Launched in India: Check Price, Specifications And More
+*Waquar Haider · technology*
+
+Sony has launched two new party speakers – the second generation ULT Tower 5, ULT Tower 7 and the flagship ULT Tower Max – as part of its ULT Power Sound speaker portfolio in India. The new lineup incorporates Sony’s ULT Power Sound audio tech and features for indoor and outdoor parties, including built-in batteries on the ULT Tower 5 and Tower 7. The new model also features DJ-focused controls, karaoke support, multi-speaker pairing and improved lighting across the range. The ULT Tower Max is the most powerful of the three and the top of the new lineup.
+
+> Three speakers. Three levels of ULT energy. One unstoppable lineup. Powerful bass. Room-shaking sound. An experience you can feel. Meet the new ULT TOWER 5, ULT TOWER 7 & ULT TOWER MAX. More bass. More power. More ULT. #ULTIsHere #SonyULT Know more: https://t.co/TqjJOUm8ha https://t.co/OgStumPUkI
+> 
+> — Sony India (@sony\_india) October 7, 2026
+
+## Sony ULT Tower 5, ULT Tower 7 and ULT Tower Max: Price in India
+
+ULT Tower 5 and ULT Tower 7 have been introduced with the prices of Rs. 32,990 and Rs. 49,990 respectively. Both of these will be available from October 8 through the retail channels of Sony including Sony Centre and Sony Exclusive stores, as well as Amazon.
+
+The premium ULT Tower Max costs Rs. 1,39,990 and is available for purchase from November 15 through the same channels and also through Amazon.
+
+Sony is providing some launch discounts along with the introduction of new speakers. The customers who buy ULT Tower Max can take a dual wireless microphone which costs Rs. 19,990 along with cashback worth up to Rs. 15,000. The ULT Tower 7 provides cashback worth Rs. 4,999 and ULT Tower 5 provides cashback worth Rs. 3,000.
+
+## Sony ULT Tower 5 and ULT Tower 7: Features
+
+ULT Tower 5 produces an output of up to 300W using a 230mm woofer featuring ULT DUCT technology and two tweeters. ULT Tower 7 increases output to 420W using a larger 280mm circular woofer with a rear tweeter. Two midrange drivers and four tweeters are incorporated into the speaker in total.
+
+Two speakers have Sony’s ULT sound modes, and the ULT Tower 7 also has the Live Sound mode and a 10-band equalizer allowing for better audio output customization.
+
+They can be both installed vertically and horizontally and have four integrated handles for convenience when transporting the speaker. Both models are equipped with IPX4 water protection and Sound Field Optimization technology that optimizes sound according to the surrounding environment.
+
+According to Sony, ULT Tower 5 allows for up to 20 hours of continuous playing time using one charge, while ULT Tower 7 is capable of playing for 30 hours per one battery charge.
+
+Lighting options differ between the speakers. While ULT Tower 5 has 56 LEDs, ULT Tower 7 has 72 LEDs. The list of connection options available in both speakers include Bluetooth, USB-C, DJ Inputs, Karaoke mode and multi-speaker grouping.
+
+ULT Tower 5 has an additional USB-A port, RCA
+
+## Sony ULT Tower Max: Features and Specifications
+
+ULT Tower Max is the strongest device in the new Sony series with its output power of 2,150 W. The speaker comprises three 280mm circular woofers consisting of two placed in the front and one placed in the back. These are additionally supplemented by ULT DUCT technology, two midrange drivers, and four tweeters.
+
+It provides ULT1, ULT2, and LIVE FLAT audio modes as well as a 10-band equalizer for sound profile adjustment.
+
+Sony has provided the speaker with 360-degree sound output and Sound Field Optimisation technology that allows adjusting the audio based on factors such as ambient noise and wall proximity.
+
+The connectivity options include XLR/RCA DJ input, USB-C ports for PC and smartphone connection, wired multi-speaker connections and stereo pairing as well as low-latency DSP for minimum audio latency.
+
+In addition to that, it has Karaoke mode, and users can adjust microphone volume and echo parameters using either the speaker's rear controls or the accompanying application.
+
+The ULT Tower Max has a splash-proof top panel, four carrying handles, and wheels on both sides for easy relocation. As any other devices from this series, it is possible to use this speaker in both vertical and horizontal positions.
+
+**Also See: Airtel Postpaid Users Get Free International Roaming With 5GB Data And 60 Minutes Of Calls**
+
+---
+
+### World Space Week 2026: 8 Milestone ISRO Missions That Made India A Space Power
+*Priyanka Das · general*
+
+From Aryabhata, India’s first satellite, to Chandrayaan-3’s historic lunar landing, these ISRO missions mark some of the biggest milestones in India’s space journey.
+
+[Read full article](https://www.news18.com/photogallery/science/world-space-week-2026-8-milestone-isro-missions-that-made-india-a-space-power-ws-l-10372124.html)
+
+---
+
+### 'Left lasting imprint': PM Modi visits LK Advani on completing 25 years as head of govt
+*Aastha Jha · general*
+
+NEW DELHI: Prime Minister Narendra Modi on Wednesday visited the residence of former deputy prime minister and BJP veteran LK Advani to seek his blessings as he completed 25 years as a head of government."Met Advani Ji at his residence and sought his blessings. His decades of public service and contribution to our national life have left a lasting imprint. He has played a pivotal role in strengthening India's progress," PM Modi said in a post on X.
+
+PM Modi has remained in government leadership continuously since October 7, 2001, first serving three terms as Gujarat chief minister before becoming prime minister after the BJP’s victories in three Lok Sabha elections.The prime minister’s visit came as he marked the milestone of 25 years in government.
+
+PM Modi sought his blessings as he completed 25 years as a head of government
+
+While addressing a ‘Viksit Bharat Sankalp Sabha’ to mark the milestone, PM Modi coined the slogan “we will do it” and said India would become a developed country by 2047.He, however, identified caste-based divisions during elections as a major challenge.
+
+---
+
+### PM Modi Highlights India's Telecom Growth at India Mobile Congress 202
+*Aanchal Sinha · general*
+
+The Prime Minister said India’s telecom sector had undergone significant changes through reforms and technological expansion.
+
+[Read full article](https://www.news18.com/india/digital-ecosystem-ensured-we-didnt-stop-during-covid-pm-modi-hails-indias-telecom-sector-10372335.html)
+
+---
+
+### Apple MacBook Neo Gets Rs 25,000 Cheaper During Amazon Great Indian Festival Sale
+*Priya Singh · technology*
+
+Apple’s MacBook Neo 13-inch is set to get a steep price reduction on Amazon, with the laptop’s sale price dropping from Rs 89,990 to Rs 64,990. That translates to a Rs 25,000 reduction on the model powered by the A18 Pro chip and equipped with 8GB unified memory and a 256GB SSD. The offer is listed for the Indigo variant and is expected to go live with the Amazon Great Indian Festival sale, which opens for Prime members tonight before becoming available to all shoppers on October 9.
+
+## Amazon sale brings MacBook Neo price down to Rs 64,990
+
+Amazon is preparing a much lower price for Apple’s MacBook Neo as part of its upcoming sale. The laptop currently carries a Rs 89,990 price tag, but shoppers will be able to get it for Rs 64,990, effectively saving Rs 25,000. Amazon is also advertising a three-month No Cost EMI plan for eligible Amazon Pay ICICI Credit Card customers, although the monthly amount and final payable price depend on the applicable offer terms.
+
+> Apple product deals during Flipkart BBD & Amazon GIF sale 🥵 • MacBook Air M5 (16/512GB) : ₹1,24,990\* • MacBook Neo 13" : ₹67,990\* • iPad A16: ₹39,990\* • iPad Air M4 : ₹64,999-67,999\* • Airpods Pro 3 : ₹21,490\* • Mouse: ₹5,399\* • iPhone 17: ₹82,999\* iPad Air M4 could be a good deal since it will be available around launch price. I hope Flipkart has enough stocks for iPhone 17 Ask your queries in the comments below
+> 
+> — Sanju Choudhary (@saaaanjjjuuu) October 4, 2026
+
+## Sale price includes discounts and bank offers
+
+The Rs 64,990 figure is not simply a direct reduction from Apple’s listed price. Amazon says the advertised sale price takes into account the flat discounts and eligible bank benefits that become available once the sale goes live. This means buyers should check the final price displayed at checkout, particularly if they are planning to use a specific card or payment method.
+
+## What you get with the MacBook Neo
+
+The MacBook Neo is built around Apple’s A18 Pro processor, paired with 8GB of unified memory and 256GB of SSD storage. It comes with a 13-inch Liquid Retina screen and a 1080p FaceTime HD camera, while macOS handles the software experience. The hardware is aimed more at everyday users than those looking for a high-end workstation, with tasks such as browsing, documents, streaming and video calls falling within its intended use.
+
+## Is Rs 64,990 a good price for MacBook Neo?
+
+The biggest change here is the price. At Rs 64,990, the MacBook Neo becomes considerably more accessible than its Rs 89,990 listing, particularly for shoppers who want macOS in a compact form factor. However, the 8GB RAM and 256GB storage configuration are worth considering before buying, especially for users who expect to store large files or run demanding workloads. For everyday computing, the A18 Pro chip and Apple’s software ecosystem remain the key reasons to consider the laptop at this sale price.
+
+**ALSO SEE: Amazon Layoffs: Retail Employees in India Impacted as Company Cuts Nearly 1,000 Jobs**
+
+---
+
+### Bihar woman harassed, sexually assaulted; 2 arrested after video goes viral
+*India Today News Desk · general*
+
+## A woman was harassed and sexually assaulted by a group of men in Muzaffarpur while she was on her way to the market. The video of the incident surfaced online, prompting arrests and a wider police search for others involved.
+
+The woman was on her way to the market when a group of men approached her.
+
+Two men have been arrested after a video showing a woman being harassed and sexually assaulted in Bihar’s Muzaffarpur went viral on social media, police said.
+
+The incident took place on Tuesday, when the woman was on her way to the market.
+
+According to information, a group of men surrounded the woman, harassed her and sexually assaulted her. The accused also filmed the incident, and the video later surfaced on social media.
+
+After the video went viral, police began investigating the incident and subsequently arrested two accused, identified as Anoop Kumar and Roshan Kumar.
+
+Police are now working to identify the other individuals seen in the video and have launched raids to arrest them.
+
+\- Ends
+
+---
+
+### Hinduism Inclusive, Abrahamic Religions Inherently Exclusive: Madras High Court Upholds Denial Of FCRA Registration To Zen Trust
+*Swarajya Staff · politics*
+
+The Madras High Court upheld the Centre's decision to deny Foreign Contribution Regulation Act (FCRA) registration to a Kodaikanal-based trust while making striking observations about religious traditions.
+
+A Division Bench of Justices GR Swaminathan and MD Sumathi observed that "unlike Hinduism which is inclusive, the Abrahamic religions are inherently exclusive" as devout Jews, Christians and Muslims believe theirs is the one true revelation.
+
+The Madurai Bench dismissed an appeal by Kanzeon Public Charitable Trust, which runs a Zen meditation centre and Montessori school near Kodaikanal in Dindigul district.
+
+The court held that the trust had failed to correctly disclose its religious character, having presented itself as a non-religious body despite subscribing to Zen Buddhist philosophy.
+
+The Bench noted that the trust's founder and "moving spirit", Rev Fr Ama Samy SJ, was an ordained Christian priest.
+
+The trust argued that Zen meditation belonged to India's Dhyana tradition and its activities should not be classified as religious.
+
+However, the Bench observed that Christianity is a messianic religion whose theological mission is to bring everyone within the fold of Jesus Christ.
+
+The court stated that organisations engaged in religious conversion shall be denied FCRA registration, though it clarified it was not accusing the trust of having any conversion agenda.
+
+The court warned that foreign-funded conversion activities could disturb India's pluralistic character and even imperil national sovereignty.
+
+The Bench emphasised that Section 12(4)(a)(ii) of the FCRA applies across religions, noting that "a fundamentalist Hindu Organisation engaged in Ghar Wapsi cannot be registered under FCRA".
+
+The judgment distinguished religious activity from teaching Indian Knowledge Systems, stating that organisations teaching Vedanta, the Bhagavad Gita, Upanishads and Yoga should ordinarily be treated as educational or cultural bodies.
+
+The 14-page order, pronounced on 6 October after being reserved on 1 October, concluded with wordplay on the priest's name.
+
+The Bench stated the authority had to say "Illa Samy" (No Sir) to Rev Fr Ama Samy, whose name literally translates as "Yes".
+
+**Please click here to add** _**Swarajya**_ **as your preferred and trusted news source on Google**
+
+---
+
+### India joins 14 economies to push global action on excess industrial capacity
+*India Today World Desk · world*
+
+## India joined 14 other economies in Washington to demand action against structural industrial overcapacity. The move sharpens pressure on market-distorting policies and exposes divisions within the G20.
+
+Washington,Oct 8, 2026 11:18 IST
+
+India and 13 other countries have called for coordinated global action to curb excess industrial production, saying it distorts markets, hurts domestic industries and adds to an imbalance between supply and demand.
+
+In a joint statement issued on Wednesday, the countries said all economies should act to remove structural excess capacity and production. The statement came after a meeting held on the sidelines of the Organisation for Economic Co-operation and Development Trade Committee deliberations in Washington.
+
+"We call on all countries to take steps to eliminate structural excess capacity and production in their economies, including by ending the use of non-market policies and practices that distort markets and contribute to the problem," the joint statement said.
+
+Building on discussions at the G20 Trade Ministerial in Milwaukee, the economies joined the US in signing a Joint Ministerial Statement to work together through new, dedicated sectoral platforms to examine and take effective action against structural excess capacity and production in several key sectors of concern, the Office of the US Trade Representative said.
+
+The signatories are the trade ministers of Argentina, Australia, Canada, the European Union, France, Germany, India, Italy, Japan, South Korea, Mexico, Poland, Turkiye, the United Kingdom and the United States. G20 members China, Brazil, Indonesia, Russia, Saudi Arabia and South Africa did not sign the joint statement. The G20 trade ministerial in Milwaukee had failed to reach a consensus on issues 
+
+"Over the course of the US G20 presidency, numerous economies raised instances of structural excess capacity and production in economies that persistently exceeded global demand and were sustained by foreign governments' non-market policies and practices," USTR Jamieson Greer said in a statement.
+
+"Left unchecked, these issues will continue to cripple domestic industries, displace local production, and hinder our ability to raise the standard of living for workers and their families," he said. Greer added that the Trump Administration would continue to engage with US trading partners to defend its domestic industries, workers and economy from distortions resulting from such policies and practices.
+
+In all, the statement marked a joint push by India and the other signatories to address excess industrial capacity through coordinated action, while also underlining differences within the G20 on the issue.
+
+With PTI Inputs
+
+\- Ends
+
+---
+
+### Google launches website to help you detect AI slop, here is how it works
+*Divya Bhati · general*
+
+Not sure whether that image or video you just saw online is real or an AI deepfake? Google has a new tool that could help you find out. The company has made its SynthID Detector publicly available, allowing users to check whether an image, video or audio file was created or edited using supported AI tools.
+
+The website is now available globally in English, after previously being offered in limited access to journalists, media professionals and testers. Google says SynthID Detector can identify content made using its own AI tools as well as supported systems from partners including OpenAI, NVIDIA and Kakao. Support for Apple-generated content is also expected soon.
+
+### How does Google's SynthID Detector work?
+
+Google's deepfake detector website is based on SynthID, the company's watermarking technology for AI-generated content. The system adds an invisible watermark to AI-generated media when it is created. Unlike a visible logo or label, the watermark cannot be seen in an image or heard in an audio file.
+
+Google says these watermarks are designed to remain detectable even after common changes are made to a file, such as cropping, applying colour filters, changing the frame rate or using lossy compression.
+
+### How to use Google's SynthID Detector?
+
+To use Google's SynthID Detector, simply upload a supported image, video or audio file. The tool will scan it for an invisible SynthID watermark and, if it finds one, indicate whether the content was created or modified using an AI system that supports SynthID.
+
+Google has also integrated similar verification features into some of its other products. Users can check suspected content through Gemini, Search and Chrome, while Circle to Search can look for SynthID watermarks as well as C2PA content credentials.
+
+### It won't detect every AI-generated image
+
+There is one important thing to keep in mind, though. SynthID Detector is not a universal AI detector. It can only identify content if it has a SynthID watermark, so AI-generated images, videos or audio made using tools that do not support SynthID may not be detected.
+
+Google has used SynthID to watermark more than 180 billion images and videos, along with around 240,000 years of audio. The company claims that its verification features across Search, Gemini and Chrome now handle more than one million requests every day.
+
+Where is SynthID Detector available?
+
+SynthID Detector is available globally through the web in English. Google is also expanding support across its products and partner AI systems, with Apple support expected in the future.
+
+\- Ends
+
+---
+
+### 'Beyond just means of chatting': PM Modi highlights biggest citizen dividend of technology
+*SECTIONS PM Modi highlights biggest citizen dividend · business*
+
+Prime Minister Narendra Modi on Thursday said mobile phones have evolved beyond being a means of communication, helping people cut travel and waiting time, reduce costs and access greater convenience. He described these benefits as the “biggest citizen dividend” of technology.
+
+He described the Digital India initiative as a major effort towards the democratisation of technology, stressing that the government sought to bridge the digital divide and ensure modern technology did not remain a privilege limited to those with access to resources.
+
+While speaking at the 10th edition of India Mobile Congress in Delhi, Modi said, "Mobile phones are no longer just a means of chatting. They have ensured less travel, less waiting, lower costs and greater convenience. This is the biggest citizen dividend of technology."
+
+  
+
+"Through the Digital India initiative, we resolved to change this situation, with the mobile phone at the centre of this transformation. This has been a major effort towards the democratisation of technology," Prime Minister Modi stated.
+
+He said India had faced a major challenge in the form of the digital divide, with modern technology increasingly becoming a privilege for those who had the resources to benefit from it.
+
+"Over the past 10–12 years, the mobile phone has emerged not only as a means of modern communication, but also as an important tool for good governance. It has remained at the core of our Digital India vision," he added.
+
+PM Modi said the government undertook reforms in the telecom sector and expanded infrastructure as part of its efforts to democratise access to technology.
+
+"We also focused on ensuring that mobile phones and other telecom hardware were manufactured in India itself," he said.
+
+The Prime Minister also highlighted the expansion of 5G connectivity in the country, noting that the technology had reached every district. He said there were more than 5.5 lakh 5G base stations operating across India, powering the 5G network, while mobile internet speeds had increased tenfold compared to 2022.
+
+Recalling his participation in previous editions of the India Mobile Congress, PM Modi said the platform had witnessed the evolution of India's telecom sector and digital connectivity over the years. He noted that 5G was launched in the country from the India Mobile Congress platform in 2022, while in 2023 he had spoken about India's transition from 5G rollout to 5G reach-out.
+
+The Prime Minister also expressed gratitude to citizens and friends of India across the world for their wishes and greetings on the completion of 25 years of his service as the Head of Government.
+
+Earlier, PM Modi inaugurated the 10th edition of the India Mobile Congress at Yashobhoomi in the national capital. Upon his arrival, he was felicitated by Union Minister for Communications Jyotiraditya Scindia.
+
+---
+
+### CAT 2026 registrations at 2.84 lakh, minor dip from last year’s 3.29 lakh
+*Education Desk · legal*
+
+CAT score is used for admission to the postgraduate management programmes offered by the IIMs and several other participating business schools.
+
+[Read full article](https://indianexpress.com/article/education/cat-2026-registrations-at-2-84-lakh-minor-dip-from-last-years-3-29-lakh-10911910/)
+
+---
+
+### Two runners completed the London Marathon inside one giant inflatable elephant in 4:15:40; they set a world record while raising money for type 1 diabetes
+*TOI World Desk · politics*
+
+Two runners from Looe have set a world record after completing the London Marathon inside a giant inflatable elephant. Jo Robinson and Emma Langstaff finished the race in 4:15:40, recording the fastest marathon time ever recorded in a two-person inflatable costume.
+
+As members of the Looe Pioneers running club, they took on the challenge to raise money and awareness for type one diabetes.According to the Cornish Times, Emma works as a doctor and treats patients with type one diabetes, while both of Jo’s daughters live with type one diabetes. The pair had trained only twice in the costume before race day, but worked together to manage shorter steps and a matching cadence. Their run also followed Jo’s failed attempt to set a record dressed as a lobster in 2023.
+
+## How did two runners set a marathon world record in an inflatable elephant
+
+Jo Robinson and Emma Langstaff completed the London Marathon in 4:15:40 while wearing an inflatable elephant costume. The time they took to run the marathon made them the fastest pair ever to complete one in a two-person inflatable costume.They are members of the Looe Pioneers running club, but the challenge was about more than the novelty of running as an elephant. They also wanted to raise money and awareness for type one diabetes.
+
+Emma is a doctor who works with patients living with the condition. Both of Jo’s daughters are also suffering from type one diabetes. Jo said, “It was physically demanding, especially starting further back, but we spent much of the race overtaking people, which gave us a real lift psychologically.
+
+I’m not sure those being passed by an elephant enjoyed it quite as much, but it certainly kept us going.”
+
+## The teamwork behind the inflatable elephant marathon
+
+The shared inflatable costume meant the pair had to change their usual running style. Jo Robinson said, “You’ve got to completely change your stride”“Shorter steps, matching cadence, it’s all about working together.
+
+But I knew Emma was the perfect partner. We’ve done loads together over the years.”“We only practised twice, once along Hannafore in the dark and once around town on a Saturday night”“I think we definitely confused a few people who were out as there were some faces like, ‘I need to stop drinking!”
+
+## How did Jo turn a failed lobster attempt into an elephant world record
+
+The elephant challenge also had a personal significance for Jo Robinson. In 2023, she made an attempt at a Guinness World Record while dressed as a lobster, but the effort ended in failure when the costume became soaked.Jo said, “The costume got soaked and it was like running with a wet towel wrapped round my legs”.“This time, I was determined to get it done.”The London Marathon also left a strong impression on the runners. Jo had previously taken part in the Paris and Berlin marathons, but said neither compared with London because of the crowd support. She said the cheers from strangers gave the runners a boost and kept them going throughout the race.
+
+## The elephant costume turned a marathon into a memorable challenge
+
+The Cornish Times reports they now have a certificate of sorts, but the official one still needs to be ordered. Both runners are turning 50 this year, but said their plans were not the result of a midlife crisis. Instead, they said their motivation came from their love of running, sense of humour and desire to do something different.They are already considering their next challenges, including the Scilly 60 and the New York Marathon. Jo said the elephant made people smile, which was what the challenge was all about. The record attempt brought together their running experience, their efforts to raise money and awareness for type one diabetes, and a memorable sight for marathon spectators.
+
+
+---
+
 ## 7 October 2026
 
 ### Nepal seeks China nod to reopen Tatopani border after floods
