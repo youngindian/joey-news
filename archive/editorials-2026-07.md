@@ -1,5 +1,121 @@
 # Editorials archive — 2026-07
 
+## 9 July 2026
+
+### Checkbox caste: On the counting of caste, Census 2027
+*The Hindu · Editorial*
+
+The rehearsal for the second phase of Census 2027, under way in 16 States and Union Territories since July 6, carries a key feature: an “open column” where respondents can state their caste, which the enumerator will record. Unlike the 2011 Socio-Economic and Caste Census (SECC), which also had this feature, this counting of caste in the Census itself has statutory backing. The pre-test ends on July 20, and the government says that it will then finalise the methodology for counting caste. The hope is that the pre-test findings will corroborate what is known: an open-ended response on caste yields only unwieldy data, as seen in the 2011 SECC, which eventually proved unusable. It is not difficult to understand why. The method led the 2011 SECC to return more than 46 lakh “caste names”, against the 4,147 in the 1931 Census, the last to tabulate caste. Respondents entered surnames, sub-castes and clan names as if interchangeable, inflating the count into incoherence. The Centre told the Supreme Court in 2021 that the SECC figures were too error-ridden to be relied upon for reservation. The pre-test should instead point to a better method — using the digital Census’s hand-held devices, pre-loaded with a curated list of castes and sub-castes, so that the enumerator selects the ‘correct’ entry after asking the respondent. Mistakes and mismatches will happen, but as the 2022-23 Bihar caste survey revealed, this method could return more usable data.
+
+Unlike the other identities — linguistic, religious and gender — that the Census notes, caste is an abstract, irrational one that designates people not by biological, physical, or professed attributes, but by a perceived, primordial identity conferred at birth and arranged in a hierarchy. Even this hierarchy is not self-evident, with the perceptions of social status of different castes often contradicting one another. India’s Constitution, committed to social justice, set itself against caste by abolishing untouchability, forbidding caste-based discrimination and holding out the promise of a republic where birth would not determine a citizen’s standing. So why count caste when the very act of enumeration can ossify or reify this abstract identity? The only rationale is that self-perceived or imposed caste identity creates social inequities, and welfare and social justice measures that address caste-based injustice can, over time, be expected to delegitimise the casteism rather than entrench it. Through sharper targeting of welfare and affirmative action, empirical caste data can also inform questions of the creamy layer and the sub-categorisation of castes and classes already benefiting from reservation. In these, better data are indispensable. If caste is to be counted, it should be counted well. The open-ended way of registering it will not serve the intended purpose.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/checkbox-caste-on-the-counting-of-caste-census-2027/article71198212.ece)
+
+---
+
+### Prisoners of violence: On Sri Lanka’s prison riots
+*The Hindu · Editorial*
+
+The killing of 28 people in sudden, apparently uncontrolled violence in an overcrowded prison outside Colombo, on Monday, speaks to a culture of mismanagement and official apathy. Reports of tensions inside the premises emerged on Sunday, with two inmates reported dead initially. Authorities deployed the military around the prison soon after, but the violence escalated on Monday, leaving more than two dozen dead and over 100 injured. Monday’s riots followed a group of inmates tipping off officials on an alleged drug operation on the prison premises. Some inmates reportedly grabbed arms from the guards, while others assaulted rival gang members with clubs and stones, even as guards struggled to contain the violence; eight guards were among those dead. Authorities have transferred hundreds of remaining inmates to other prisons. The incident, one of the deadliest prison riots in Sri Lanka, foregrounds two key challenges facing the Anura Kumara Dissanayake administration — the narcotics menace that it has resolved to wipe out, and the chronic overcrowding in prisons, a concern that rights defenders have repeatedly highlighted for years.
+
+In 2020, the Human Rights Commission of Sri Lanka found prison conditions to be dire, owing to overcrowding and under-resourcing. As of December 31, 2024, the country’s prisons housed 28,278 inmates against an approved capacity of 10,395, operating at nearly thrice their capacity, according to the 2024 Auditor General’s Report. Authorities have linked the immediate trigger for the riots to the drug underworld, which the Dissanayake administration has been trying to crack down on. Justice Minister Harshana Nanayakkara has rightly noted that regardless of the attackers’ motivations or the crimes they are accused of, the death of people in state custody is “deeply shocking”, and that the government accepts responsibility. The Cabinet has appointed a three-member committee headed by a retired Supreme Court judge to carry out a thorough investigation. The government’s response and seeming willingness to probe the causes for the deadly incident, are welcome and necessary. It is the third after the 2012 Welikada prison riots, where 27 inmates were shot dead by police, and the 2020 riots in Mahara, near Colombo, which claimed 11 lives. The pace of the probe and the government’s response will reveal its intent to address long-pending concerns around the country’s prisons. It must work towards improving prison conditions, living standards, and security, to prevent further clashes. Meanwhile, authorities must persist with the efforts to disable drug networks that pose a grave threat to society, including within prisons.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/prisoners-of-violence-on-sri-lankas-prison-riots/article71198236.ece)
+
+---
+
+### Revolution to resurgence — Iran’s strategic moment
+*The Hindu · Opinion*
+
+The gloves are off and the ceasefire is in trouble as the United States and Iran traded strikes, once again, on July 8, over the safe passage of commercial ships across the Strait of Hormuz.
+
+However, looking beyond this flareup, the recent visuals coming out of Iran are extraordinary. After more than 40 days of sustained attacks by the combined military power of the U.S. and Israel, the country is projecting an image of pride, defiance, and resilience. The funeral of its slain Supreme Leader, Ali Khamenei, drew millions of mourners and high-level representatives from Russia, China, Saudi Arabia, Qatar, Türkiye, Egypt, Iraq, Pakistan, Armenia, and several other countries. Even the Taliban government in Afghanistan was represented. Notably absent were the entire Western bloc, much of Africa, and some regional countries such as the United Arab Emirates, Bahrain, and Kuwait, which bore the brunt of Iran’s retaliation during the war.
+
+Did the scenes witnessed reflect the image of a nation defeated? Did the millions of people on the streets, eager to catch a final glimpse of their assassinated leader, appear coerced or forced to mourn? Did the visuals coming out of Tehran and other parts of Iran reflect a nation that is economically bankrupt? The answer to all these questions is a bold ‘no’. What was on display was a nation eager to use this opportunity to tell the world that it is still standing on its own — and may be more powerful, confident and resilient than ever before.
+
+The regime has not only survived the war but has emerged stronger than before, with the Islamic Revolutionary Guard Corps (IRGC) in full control. Its nuclear programme still remains off the table and there is no mention of its ballistic missile programme in the 14-point Memorandum of Understanding with the U.S. The windfall gains from removal of sanctions, sale of crude oil and natural gas, a defreezing of its money and assets and the monetisation of the Strait of Hormuz promise an economic revival for Iran, although some of it may now be under question after the rapidly escalating situation. This resurrection of Iran almost feels like a revolution, and is a reminder of how a new nation, the ‘Islamic Republic of Iran’ emerged from the Iranian Revolution of 1979, overcoming the threats and challenges from a monarchy supported and abetted by the West.
+
+The first revolutionThe 1979 revolution was the culmination of a year-long protests against the Iranian regime, ignited by multiple factors, mainly political repression and economic hardships. There was also a strong undercurrent to reclaim Iran’s cultural and religious legacy which had been suppressed by the pro-western Shah regime. The combined effect created an unprecedented popular movement led by Ayatollah Khomeini, the exiled cleric and former philosophy professor from Qom, who had been banished in 1964 for opposing the Shah’s reform programme. The movement ultimately overthrew Shah Mohammad Reza Pahlavi.
+
+The Shah and his family fled Iran in January 1979 and Ayatollah Khomeini returned on February 1 to a jubilant welcome. 10 days later, Iran’s armed forces declared their neutrality, effectively ending the Shah’s rule. On April 1, following a successful referendum, Khomeini proclaimed Iran as the Islamic Republic. The new republic drew its legitimacy from three pillars: restoring Iran’s national pride, establishing theological discourse and Islamic governance, and promising economic progress and social justice. However, the 1979 hostage crisis, the eight-year Iran-Iraq war, prolonged nuclear programme-related sanctions, and support for regional militia proxies severely tested the country’s economic and political resilience.
+
+Revolution 2.0Why is the current post-war situation akin to a second revolution? Like in 1979, this war too has led to the emergence of a stronger and a nationalist regime. However, unlike 1979, when an earlier regime had to be overthrown, this time, the regime, despite being hit badly and its Supreme Leader assassinated, has emerged stronger as it has survived. Once again, key issues such as national pride, dignity, strength and unity are being made the central pillars. And the millions of people on the street now mirror the visuals of millions on the streets of Iran in February 1979 when they welcomed Ayatollah Ruhollah Khomeini after his return from exile. And, like in 1979, this revolution too promises to bring in long-lasting changes in Iran and the region.
+
+The most prominent change is obviously the security architecture. Soon after the 1979 revolution, the nations in the Gulf had formed the Gulf Cooperation Council (GCC) in 1981, to forge a common platform to fight the threat from a revolutionary Iran. The region turned to the U.S. which then carried out its most extensive and permanent military deployment after the Second World War — it stationed thousands of troops and hundreds of military assets across multiple bases, promising a security umbrella against Iran (and Iraq).
+
+Well, this war has shattered this myth with the punishment and huge losses that American bases and the countries in the region had to suffer from Iranian strikes. Countries in the region are not only frustrated with the failed U.S. security assurances but are looking at alternatives to secure themselves in the future, including maybe, making peace with Iran.
+
+The second issue is the regime’s survival which had been at its weakest in the past few years due to economic sanctions and growing frustration within over its enforcement of Islamic laws, especially against women. The most recent protests in December 2025, ignited over severe inflation and job losses and massive devaluation of its national currency Rial (1.54 million Rials traded for one U.S. dollar) posed one of the most severe threats to the regime, one which the U.S. too attempted to support and ignite. However, it failed as it was suppressed by a brutal crackdown by the regime. Even the slain Supreme Leader’s advanced age and declining health had raised questions about the regime’s ability to retain control after his death. However, those doubts have now been consigned to history, with the regime emerging stronger and more firmly in control.
+
+The third important factor is identity. If the first revolution gave the nation a ‘Religion First” ideological identity, this war has brought national pride to the fore and made it the primary agent of resilience and defiance. Iran’s ability to absorb the punishment of military strikes, endure the pain and then strike back effectively, have brought people and nation together.
+
+The fourth factor has to relate to the economy. A nation which has survived and sustained under severe economic sanctions for almost three decades, now faces a pleasant possibility of huge influx of money into its coffers thanks to a possible easing of sanctions, defreezing of assets and sale of petroleum products. The monetisation of the Strait of Hormuz is obviously a bonus and now a powerful negotiating instrument with Iran.
+
+A balancing act for IndiaIndia clearly has a decision to make. The war marked India’s definite and noticeable tilt toward the Israel-U.S.-United Arab Emirates bloc, with several decisions that many analysts have found difficult to explain or defend. By sending a Minister-led delegation to the funeral, India may have walked a diplomatic tightrope. Going forward, however, it will have to make a strategic choice on how to balance its ties with Iran and the wider Gulf region, which itself appears deeply divided after the war.
+
+Iran is resurgent and is unlikely to let go of the opportunity that this war has provided it. The scale of the irreversible changes unfolding in Iran and the region may become clearer over time. However, one thing is certain — the security and economic landscape of the region has changed forever. How Iran uses this opportunity, and how the region responds, will shape the destiny of its people and the region for decades to come.
+
+Rajeev Agarwal is a Senior Research Consultant at the CRF, Delhi, and the author of the book, Between Tehran and Tel Aviv – Gaza’s Story of Unending War
+
+[Read full article](https://www.thehindu.com/opinion/lead/revolution-to-resurgence-irans-strategic-moment/article71199110.ece)
+
+---
+
+### Common ground on equal opportunity
+*Deccan Herald · Editorial*
+
+The continuing dispute between the Karnataka government and private school managements over reimbursement under the Right to Education (RTE) Act deserves a fair and balanced resolution. At stake is not merely the financial viability of private institutions but also the effective implementation of a law intended to guarantee educational opportunity for children from disadvantaged backgrounds. The RTE Act was enacted in 2009 to enforce the fundamental right to education for every child between six and 14 years of age, enshrined in Article 21A of the Constitution. One of its key provisions requires private unaided schools to reserve 25% of entry-level seats for children from economically weaker sections and disadvantaged groups. Beyond free education, the provision seeks to ensure access to neighbourhood schools, promote social integration by preventing educational segregation, and enable poor families to share the same educational aspirations enjoyed by more affluent households.
+
+The present disagreement centres on the reimbursement paid by the government to private schools for these students. The Associated Managements of Primary and Secondary Schools contends that the per-child expenditure fixed by the state has not been revised since 2017 despite a substantial rise in educational costs. They argue that the existing formula excludes several legitimate operational expenses, leaving schools to absorb the shortfall. The association also highlighted delays in the release of reimbursement dues, which it says have placed additional financial strain on the schools. The government is under no obligation to accept the figures put forward by private managements. Equally, it cannot ignore the reality that costs have increased significantly. A reimbursement mechanism that remains frozen despite inflation and higher salaries is unlikely to reflect present-day realities. Instead of relying on competing claims, the state should commission an independent and transparent assessment of the per-child expenditure and revise the reimbursement accordingly. Such an exercise would lend credibility to the process and reduce recurring disputes.
+
+Karnataka likely to withdraw Right to Education Act amendments Private schools must recognise that participation in the RTE framework carries a measure of social responsibility. The Act was never intended to become a source of commercial gain. Institutions cannot seek to profit from educating poor children under welfare legislation. The state and schools are partners in fulfilling a public obligation. A transparent reimbursement formula, periodic revisions and timely payments, coupled with a recognition of the Act’s social purpose, would serve the interests of schools, the government and, above all, the children whose future depends on this partnership.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/common-ground-on-equal-opportunity-4067080)
+
+---
+
+### Teach AI to unlearn the bias
+*Deccan Herald · Editorial*
+
+As Artificial Intelligence expands into all areas of life, UN Women has made an important call for wider adoption of gender-sensitive AI. The appeal goes beyond general caution; it stems from a study revealing that algorithmic bias is reinforcing systemic gender inequalities, leaving women increasingly vulnerable to discrimination and violence. The problem has been built into the technology. When systems learn from historical, flawed data, they tend to replicate and amplify societal prejudices. An analysis of 133 generative AI systems found that 44% demonstrated clear gender bias, while 26% exhibited a combination of both gender and racial bias.
+
+The study found that AI actively absorbs human prejudices, racial biases, and tendencies to discriminate based on gender. These biases are not mere algorithmic glitches; they are systemic patterns reflecting deep-seated societal flaws. Large Language models (LLMs) routinely perpetuate stereotypes, linking women with home, family, and children, and men with careers, business, executive roles, and salaries. Many systems have also been seen as exhibiting sexist or misogynistic attitudes, reducing women to sex objects or the property of their husbands. UN Women noted that these toxic outputs are the natural outcome of training AI on decades of unequal data. Global policy has failed to keep pace with these emerging realities. Out of the 138 countries assessed in the analysis, only 24 referenced gender in their national AI strategies, and only 18 adopted substantive gender-responsive measures. UN Women sees this as a choice made “over and over” in training data, design rooms, and policy documents "that stay silent on half of the population”.
+
+UN report warns AI could soon use 3% of world’s electricity and more water than we need to drinkUnder-representation of women across the AI ecosystem, particularly in decision-making roles managing core technology and product development, has been cited as a key reason for AI systems inheriting gender bias. UN Women notes that women risk bearing higher costs of AI adoption, as they face a bigger threat of losing jobs to automation and are more vulnerable to AI-enabled abuse. Addressing these inequities requires systematic gender- and race-based audits of AI models and the output they generate. Investment must be enhanced towards equipping women with AI skills; their representation in leadership roles is critical in shaping gender-sensitive technological decisions. UN Women has urged governments, companies, and experts researching and developing AI to integrate gender equality throughout the AI life cycle, from design and development to deployment and governance. The group has rightly noted that “when designed with safety and used with intention,” AI can help detect stereotypes, broaden representation, and improve accessibility at scale.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/teach-ai-to-unlearn-the-bias-4067079)
+
+---
+
+### Mind your language: How a little linguistic knowledge led to hilarious misunderstandings
+*Deccan Herald · Opinion*
+
+I was on a visit to Madras (now Chennai) in 1977 and was watching a television programme at a relative’s house. The results of the epoch-making 1977 Lok Sabha elections, which saw the coming to power of the first non-Congress government after Independence, had just been announced. One of the people responsible for this historic victory was Jayaprakash Narayan.
+
+The TV anchor announced in Tamil that makkal had visited JP’s residence to congratulate him on this astounding victory. I was confused because, to the best of my knowledge, JP had never shown any extraordinary interest in children. One could understand children calling on Jawaharlal Nehru, since he had exceptional fondness for children and was lovingly called Chacha Nehru by them; his birthday on November 14 is observed as Children’s Day.
+
+High-altitude linguistic mysteriesSensing my confusion, my relatives explained that makkal in Tamil means people, whereas in Kannada it means children.
+
+While working in Kochi, I was exposed to many words that I found both interesting and confusing. Once, after buying an article in a shop, I was told it cost ambadhu paisa. Mistaking it for Kannada’s embattu, meaning 80, I promptly paid the shopkeeper 80 paisa, which he accepted quite happily.
+
+Only later did I learn that ambadhu means 50. The next time I heard someone say ambadhu, I confidently advised him that for 50 he should say aivadhu (aivattu in Kannada). He readily accepted my suggestion, thus averting what could have become a potential inter-state dispute.
+
+On another occasion, in a Kochi restaurant, I heard customers calling out choru. I assumed that there was perhaps a thief around. I asked the manager whether there was a thief in the restaurant and he responded with the characteristic sideways nod that meant ‘no’. Then why, I wondered, were people shouting choru? The amused manager cleared the air: choru is Malayalam for rice. He added, “The Malayalam chor is quite harmless unlike his Hindi counterpart.”
+
+Everything would be hunky dory if one were to use the word peddu while talking to a Telugu-speaking person, since it means big in Telugu. But using the same word in Kannada could land one in trouble because peddu is synonymous with a fool or a nincompoop.
+
+I would like to narrate another incident that occurred when I visited a restaurant on the outskirts of Bengaluru in the 1970s. At that time, I knew very little about North Indian cuisine. Seeing aloo-mutter on the menu, I mistook mutter for mutton. Since spelling mistakes on hotel menus were common, I hurried out, convinced I had entered a non-vegetarian restaurant.
+
+Ironically, dishes containing mutter are among my favourites today.
+
+From these little experiences, I have learnt that one has to be very careful while conversing in a language in which one has only a smattering of knowledge.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/mind-your-language-how-a-little-linguistic-knowledge-led-to-hilarious-misunderstandings-4067081)
+
+---
+
 ## 8 July 2026
 
 ### Deceptive dispute: On the Taj Mahal

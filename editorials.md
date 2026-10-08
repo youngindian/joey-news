@@ -1,8 +1,212 @@
 # Editorials
 
-_Last updated: 2026-10-07 07:36 UTC_
+_Last updated: 2026-10-08 07:53 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 8 October 2026
+
+### From the brink to a comeback, hope for India’s wildlife
+*The Hindu · Opinion*
+
+Across the world, scientists, governments and communities are bringing plants and animals back from the brink of extinction. In India, a Great Indian Bustard chick has hatched in Kutch, Gujarat, after a decade, bringing fresh hope for this critically endangered bird. In Spain and Portugal, restoring habitat and prey, breeding lynx and returning them to the wild helped the Iberian lynx grow from 62 mature individuals in 2001 to 648 in 2022. The return of the scimitar-horned oryx to the wild in Chad, Africa, and the saiga antelope’s recovery in Kazakhstan offer further proof of what determined action can achieve. During Wildlife Week (October 2-8), we can celebrate these gains while asking what it will take to sustain them.
+
+The Government of India’s Integrated Development of Wildlife Habitats scheme supports recovery action for 24 identified species and their habitats. States are mandated to undertake research, habitat improvement, protection and community participation. The species span India’s landscapes: the great Indian bustard in Rajasthan’s grasslands, the Sangai in Manipur’s wetlands, the dugong in coastal seagrass meadows and the hangul in Kashmir’s forests. The list is a starting point; India’s National Red List Assessment can show where focused efforts are needed next.
+
+Related StoriesFarmers of the sea: India’s dugongs must stay a conservation priority
+
+Bird islands: On India’s bustard conservation programme
+
+Three Great Indian Bustard chicks placed in rewilding tunnel in Jaisalmer
+
+India’s rarest heron faces a silent end as new dam ignores its home
+
+India launched its National Red List Roadmap at the IUCN World Conservation Congress in Abu Dhabi in 2025; the aim was to produce National Red Data Books for plants and animals by 2030. India occupies just 2.4% of the world’s land area, yet supports nearly 8% of its flora and 7.5% of its fauna. It is one of 17 megadiverse countries and contains parts of four of the world’s 36 biodiversity hotspots. Around 28% of its plants and more than 30% of its animals are found nowhere else. Of the 7,516 Indian animal species assessed for the IUCN Red List, 1,012 are threatened, which includes Vulnerable, Endangered and Critically Endangered species.
+
+These assessments cover only 7.2% of India’s documented animal species. The figure of 1,012 tells us what is known so far, not the full extent of the threat. The National Red List Assessment can help close that gap and direct recovery efforts where they are needed most.
+
+The projects in StatesIn Tamil Nadu, Project Nilgiri Tahr combines population surveys, radio-collaring, habitat assessment and mapping across Tamil Nadu and Keralam to conserve the tahr, which is the State animal of Tamil Nadu. Working with the Wildlife Institute of India (WII), the Advanced Institute for Wildlife Conservation, the International Union for Conservation of Nature (IUCN), the Tamil Nadu Veterinary and Animal Sciences University (TANUVAS) and other partners, the project is strengthening the scientific understanding needed to secure the tahr’s future. Surveys recorded 1,303 tahrs in 2025 and 1,364 in 2026.
+
+Vulture conservation is an example of how sustained action through conservation breeding, safer habitats, monitoring and public awareness can help reverse a devastating decline. India’s ban on the veterinary use of diclofenac, which had caused catastrophic losses in vulture populations, was a crucial step in this effort. At Pinjore, the Jatayu Conservation Breeding Centre, run by the Haryana Forest Department and the Bombay Natural History Society, works with white-rumped, long-billed and slender-billed vultures. Madhya Pradesh’s 2025 census recorded 12,981 vultures, up from 8,397 in 2019. Tamil Nadu’s Segur Plateau remains an important habitat. Tamil Nadu’s raptor conservation work and synchronised surveys across Tamil Nadu, Keralam and Karnataka track these birds, which include breeding populations in the Mudumalai Tiger Reserve.
+
+Long-term protection, including habitat management, scientific monitoring and the help of local communities, has helped the Asiatic lion in Gujarat — the population rose from 674 in 2020 to 891 in 2025, with lions occupying a wider part of Saurashtra.
+
+The road ahead for the Asiatic lionMonitoring, grassland management, invasive plant control, research and translocation have helped secure and expand greater one-horned rhinoceros populations against poaching. In Assam’s Pobitora Wildlife Sanctuary, which has an exceptionally high rhino density, working with communities on awareness, monitoring, livelihoods and conflict reduction has made rhino protection an enduring part of the landscape.
+
+Understanding clouded leopards and their habitats In Meghalaya, the action plan for the clouded leopard, the elusive State animal, combines habitat protection and restoration, scientific monitoring, frontline training and community participation. As the animal is dispersed across the northeast, 14 priority landscapes have been identified as understanding population connections and keeping them intact are central to its future.
+
+Dugong conservation calls for a different approach. Tamil Nadu established India’s first dugong conservation reserve across 448.34 square kilometres of the Palk Bay and its seagrass habitat. A 2026 Wildlife Institute of India assessment estimated a total of 270 dugongs, including 158 dugongs in the Palk Bay and 112 in the Gulf of Mannar, providing a baseline for measuring change. Fishermen who release dugongs caught in nets may lose valuable gear. But the government provides compensation for damaged nets and recognises their efforts.
+
+High up in the Himalayas, science and local stewardship have helped the snow leopard. In 2024, India’s first scientific population assessment estimated 718 snow leopards. In Himachal Pradesh, women from Kibber have worked with Forest Department field teams, the Snow Leopard Trust and the Nature Conservation Foundation to set camera traps, monitor population and participate in protection activities.
+
+Political support is essentialMuch depends on the commitment of State governments. Political leadership is crucial in prioritising the recovery of species, bringing government departments together and, most importantly sustaining action through successive budgets. Transferring that commitment into land use, infrastructure and livelihood decisions are what will help recovery plans being implemented. State forest teams have to turn plans into work on the ground. Recovery requires lasting cooperation with communities, scientists and national agencies. Results may take years, and setbacks require programmes to adapt. This would require clear goals, steady investment and careful monitoring.
+
+Species that receive little public attention can struggle to attract funding. State-level funds can bring government, industry, philanthropy and scientific institutions together around local priorities. Tamil Nadu’s recently established Endangered Species Conservation Fund reflects this approach, with its focus on the mahseer, striped hyena, Madras hedgehog, lion-tailed macaque and the hornbill.
+
+There is similar commitment internationally. Launched in 2026 by Re:wild and the Bezos Earth Fund, the Phoenix Species Project has committed $200 million to recovering 100 of the world’s most threatened species, by supporting conservationists, indigenous peoples and local communities over several years. This is a lesson for India: recovery needs dependable resources for habitats, monitoring and the people doing the work.
+
+Forest departments need scientific support close to the field and staff need to be trained in surveys, habitat assessment, conservation breeding and genetic analysis. Communities must be involved meaningfully in surveys, habitat work and ground decisions. Their knowledge can sharpen plans and their true participation can sustain them.
+
+For India, a national picture of risk can guide priorities; States, scientists and communities can translate them into plans with mapped habitats, clear timelines and measurable outcomes. The bustard, vulture, tahr and dugong show that species recover in different ways. But their survival depends on sustained effort — to learn, to act and to stay with a species long enough for its future to change.
+
+Supriya Sahu is a senior administrator in the Government of Tamil Nadu, and has worked extensively on environmental policy, ecosystem restoration, wildlife and biodiversity conservation and climate action. She is a recipient of the UNEP Champions of the Earth award 2025. Yash Veer Bhatnagar, the Country Representative for the International Union for Conservation of Nature (IUCN) in India, is a scientist with over three decades of experience in conservation science and practice. He received the SANCTUARY Asia Wildlife Service Award in 2015.
+
+[Read full article](https://www.thehindu.com/opinion/lead/from-the-brink-to-a-comeback-hope-for-indias-wildlife/article71556672.ece)
+
+---
+
+### Slogans of dissent transcend politics
+*Deccan Herald · Editorial*
+
+The dramatic protests in Delhi over the last couple of days lend new momentum to calls for reform in the Election Commission of India (ECI), which has persistently undermined citizens' right to vote. With the standoff between the police and the protesters leading to the detention of the Leader of the Opposition (LoP) Rahul Gandhi on Wednesday, the demand for Chief Election Commissioner (CEC) Gyanesh Kumar’s resignation is at the forefront of national politics. While the politics of the protests is undeniable, the spirit and sweep of this agitation go beyond mere political interests. This is about the sanctity and survival of electoral democracy – and that growing realisation has taken the protests beyond party affiliations. While the Congress and the I.N.D.I.A bloc constituents, the Aam Aadmi Party (AAP), and the Cockroach Janta Party (CJP) are staging protests individually or together, the presence of the Biju Janata Dal (BJD) reflects a larger opposition against the CEC’s arbitrary decisions in implementing the Special Intensive Revision (SIR) of electoral rolls.
+
+'We will take a call': Supreme Court to examine plea for recall of split verdict on law governing appointment of CEC, ECsRahul Gandhi is at the centre of the agitation, matching his relentless criticism of the ECI over its irregularities with his continued presence on the ground. The protests are set to continue and are likely to escalate in the days to come. Delhi saw a citizens’ march that broke security cordons and led to the detention of hundreds of students and political workers. Youth protests under the CJP’s banner are being staged. Mumbai saw a well-attended ‘Virat Garjana Morcha’ led by Uddhav Thackeray, Raj Thackeray, and leaders of other parties, demanding a rollback of the SIR.
+
+While their central demand remains the resignation of the CEC and action to undo the damage done to voters’ rights, the protests are also directed against the Narendra Modi government and the Bharatiya Janata Party (BJP), which has repeatedly defended the Commission’s actions. Ironically, the protests are gaining vigour as Modi completes 25 years in power. Popular protests have a way of widening their scope by taking on new issues and assuming new dimensions. That explains why the ongoing agitation emphasises everything from the suppression of democratic rights in the country to the poor state of education to rising unemployment. The multitude of flags and diverse slogans raised at the protest venues reflect a collective disgruntlement with the system. Both the Commission’s and the government’s responses to that discontent have been grossly inadequate. This apathy will be tested as the voices of dissent get clearer and louder.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/slogans-of-dissent-transcend-politics-4174166)
+
+---
+
+### The real measure is reintegration
+*Deccan Herald · Editorial*
+
+The Karnataka government is planning an intensive drive to make Bengaluru beggar-free by 2027, but the campaign must not become an exercise in merely removing people from streets and traffic signals. Begging is not always an individual’s first response to poverty. Behind some of the city's most visible begging is an organised system that exploits vulnerable people and collects a share of their earnings. In some cases, interstate trafficking syndicates control these networks, turning begging into a lucrative criminal racket and undermining efforts to rehabilitate those trapped within them. The most disturbing manifestation of this abuse is the use of children. Juveniles and infants are deployed at busy intersections to evoke sympathy, with rescue operations having uncovered cases of children being trafficked and, in some instances, infants being sedated. Older children can be subjected to financial targets, coercion, and abuse, while prolonged exposure to life on the streets deprives them of education, healthcare, and a normal childhood. Their rescue must therefore be treated primarily as a child-protection exercise, accompanied by sustained efforts to trace families, provide care, and prevent their return to begging.
+
+Karnataka govt aims for ‘beggar-free’ Bengaluru by end of 2027 Rescue operations alone, however, cannot break the cycle. The organised nature of begging also exposes the limitations of the rehabilitation system. The Central Relief Committee (CRC) has 14 functional centres across the state, housing thousands of rescued people. Yet nearly as many are released within relatively short periods. This revolving door underscores the challenge of long-term reintegration. The government must thus strengthen the centres with counselling, healthcare, and post-release support. Rehabilitation cannot end the moment a person walks out of a centre. Another sensitive dimension is the harassment of motorists by some transgender persons at traffic signals. Aggressive solicitation, obstruction, or intimidation cannot be condoned. At the same time, the socio-economic exclusion that pushes transgender persons towards street begging cannot be ignored. Better access to employment and social-security opportunities, combined with firm action against unlawful behaviour, offers a more sustainable response than periodic crackdowns.
+
+The 2027 target should therefore be measured not by how many people are removed from Bengaluru’s roads, but by how many are enabled to quit begging permanently and rebuild their lives with dignity. Police, child-protection agencies, the CRC, local authorities, and NGOs need a coordinated strategy to identify handlers, trafficking syndicates, and their financiers. Unless the syndicates that profit from human misery are dismantled and lasting reintegration becomes possible, a beggar-free Bengaluru will remain a slogan rather than a sustainable achievement.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-real-measure-is-reintegration-4174165)
+
+---
+
+### Data is everywhere. India now needs intelligence that connects it
+*Deccan Herald · Opinion*
+
+“Water, water everywhere, nor any drop to drink.” Coleridge’s line was about a sailor surrounded by the sea and yet unable to get what he needed most. Our predicament is becoming strangely similar, except that the ocean around us is made of data.
+
+Data, data everywhere, but can we trust it to draw the intelligence needed to act? Consider a flood approaching a city. The warning may begin with an alert from the meteorological department. But to act, the government would need satellite imagery, data on river levels, dam releases, terrain, traffic, population density, hospitals, power networks, emergency resources, and reports from people on the ground. No single department would have a complete picture. Yet the decision-maker needs one.
+
+This is the paradox of the digital age: the information needed to understand a problem is distributed everywhere, while the intelligence required to act is needed in one place, at one moment. Artificial Intelligence changes the equation, but it can do so responsibly only when the underlying information is discoverable, connected, and sufficiently trustworthy.
+
+The challenge today is no longer merely how to digitise the government, but how to make a digitised government capable of seeing and acting across its own boundaries.
+
+Google brings Gemini AI-powered auto browse feature to Chrome app in IndiaEvery ministry or department has a reason to protect its institutional boundary. The problem begins when these boundaries become information boundaries, preventing the government from connecting data sitting in different ministries. For instance, handling a disease outbreak that would need crossing the boundaries between public health, supply chain, transport, and local administration.
+
+Over the years, through my work – proposals, pilots, and concept public initiatives, primarily in India and other regions in the United States, Europe, South Asia, and Africa – I have encountered different versions of this challenge. The departments are highly capable, and the data is abundant. And yet, each stakeholder can live in their own world.
+
+This distinction needs greater attention as India embraces AI. Data is raw material used for training, while information is organised data. Intelligence is the context-based understanding that can support a decision. Going back to the example of the flood situation, a disaster management authority would need data points cutting across multiple agencies and the ability to connect them intelligently to act. The recent glacier meltdown in Nepal is a stark reminder of why this kind of connected intelligence matters.
+
+This is why the future of AI will be determined not only by the quality of the models but by the quality of the data and information environment in which those models are trained. In their absence, we will be risking AI hallucinations and existential threats.
+
+Retrieval-Augmented Generation (RAG) is valuable precisely because it can ground an AI response in authorised information rather than relying solely on the model’s pre-existing knowledge. Agentic AI can go further by orchestrating multiple tasks and sources. But neither approach removes the need for trustworthy data, clear permissions, common standards, and human accountability.
+
+The next layer beyond India’s remarkable progress in digitisation is a connected intelligence that can bring the right information from multiple legitimate sources together, establish its reliability, and turn it into actionable intelligence for a specific problem in a specific place, and at a specific time, with the right guardrails.
+
+Silos may remain; blind spots should not. Here is a radical proposition: India should consider establishing a Ministry of Data, Digitisation, Guardrails, and Connected Intelligence, not to replace MeitY. Its job would be to create the common national framework that enables the government to become intelligently connected across departments.
+
+National security makes a strong case for this kind of connected intelligence because the information is inherently distributed and often sensitive. Relevant signals may exist across intelligence organisations, police, cyber systems, financial intelligence, telecommunications, immigration, geospatial sources, open-source intelligence, academia, and international partners. The objective is to discover relationships that individual systems may not be able to see, proactively.
+
+India’s judiciary offers another powerful illustration. The challenge is not simply the massive volume of pending cases, but understanding where pendency is accumulating, which cases are becoming time-critical, and where intervention could have the greatest impact.
+
+Imagine asking a government system: What has changed in this geography during the last 30 days? Which infrastructure, population, and environmental vulnerabilities overlap here? What happened during the last three comparable events? Which signals are becoming unusual? Such questions draw answers from multiple sources, joined by time and geography. This is where AI-assisted correlation and reasoning can become powerful, provided the underlying data is trustworthy.
+
+The challenge will be overcoming the hardened institutional culture that makes departments resistant to sharing and wary of actions that create more work.
+
+There is an institutional precedent worth considering: the Central Vigilance Commission. The CVC does not run every ministry’s administration, but its mandate cuts across government organisations in relation to vigilance. This analogy is useful because connected intelligence, too, needs a similar principle. The world is still learning how to govern and tame AI. Governments and institutions are experimenting with models, agents, RAG systems, digital twins, and increasingly autonomous decision-support systems, but there is no settled global playbook. That uncertainty is an opportunity for India.
+
+India cannot afford to wait; it can build its information architecture along with its AI capability. The new institution cannot just be advisory. Legislation should define its mandate, authority, responsibilities, and limits; establish national standards for interoperability and data quality; and establish checks and balances for the greater good. And it should establish an interoperable environment that allows an ecosystem to innovate.
+
+Of course, introducing another layer of bureaucracy will raise concerns; this can be addressed with the right design. For the institution to be effective, it should function directly under the Prime Minister’s watch, with autonomy.
+
+India can lead while the world is still figuring out how to tame this new Frankenstein called AI.
+
+(The writer is the CEO of a data analytics company)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/data-is-everywhere-india-now-needs-intelligence-that-connects-it-4174177)
+
+---
+
+### Dating apps, AI, and the privacy hazard of group photos
+*Deccan Herald · Opinion*
+
+The Delhi High Court’s recent decision protecting Bollywood star Tabu’s personality rights from unauthorised deepfakes using artificial intelligence (AI) and commercial exploitation highlights India’s evolving jurisprudence relating to digital identity.
+
+While celebrities litigate to protect their likenesses, ordinary citizens not only remain oblivious to non-consensual facial scraping but also often end up handing not only their own but also their friends’ and children’s faces to AI databases themselves. Such exposure is especially pervasive on dating platforms, where individuals upload group photographs, inadvertently exposing unsuspecting friends, colleagues, and children to the public domain.
+
+As of March, India has 100 million registered dating app users. Consider the dater’s paradox: a profile explicitly seeking monogamy yet fronted by a lead photo of a chaotic group of five. Before reading a single line of the bio, you are dragged into a digital hide-and-seek; the online equivalent of hunting for paneer in a wedding buffet gravy. You know the main subject is in there, but you must wade through a crowd just to find them. While finding the actual dater is a minor annoyance, the underlying socio-legal hazard is severe.
+
+Privacy on digital platforms is a gender-neutral imperative; everyone has a right to control their digital footprint. Unlike searchable social network platforms, content on dating apps is hidden behind algorithms, thus leaving non-users exposed to strangers without their knowledge or an option to request a takedown. Daters who broadcast other individuals, thus, strip their peers of agency, leaving non-users exposed to harms of cross-platform stalking, data harvesting, and malicious AI exploitation.
+
+At the heart of this issue lies the constitutional guarantee of informational self-determination, articulated in the Puttuswamy judgment, which protects control over one’s digital footprint. Unconsented group photos frequently leak secondary identifiers like institutional logos, and background locations. Indian users routinely cross-reference profile pictures on LinkedIn or Instagram; a group photograph can turn this habit outward by letting strangers crop out unwitting third-parties and trace them to their workplaces or social handles, subjecting them to unwanted and non-consensual tracking.
+
+Unconsented group photos run into direct conflict with India’s regulatory frameworks. Under Section 72A of the Information Technology (IT) Act, 2000, disclosing personal information without consent carries penalties. Dating platforms claiming intermediary immunity under Section 79 of the IT Act must adhere to strict due diligence under Rule 3 of the IT Rules 2021; hosting unconsented third-party imagery risks compromising safe harbour protections if they fail to act upon grievance reports.
+
+Complementing this, Section 6(1) of the Digital Personal Data Protection (DPDP) Act, 2023 mandates that identifiable photographs can only be processed with free, specific, informed, and unambiguous consent. Thus, platforms acting as ‘Data Fiduciaries’ under Section 2(i) of the DPDP Act, face immediate statutory liability for hosting unconsented third-party facial data.
+
+The statutory exposure deepens significantly under Section 9 of the DPDP Act, 2023, which imposes strict duties on platforms processing children’s data. Section 9(1) mandates verifiable parental consent, while Sections 9(2) and 9(3) prohibit processing harmful to child well-being along with tracking or targeted advertising directed at children.
+
+TikTok’s recent $400 settlement over child privacy shows the steep price of digital negligence; yet, dating platforms operating in India routinely invite the very same legal exposure through unmoderated user uploads. When daters post children to project warmth, platforms process children’s biometric data without parental consent, thus being in direct breach of Section 9.
+
+Pasting emojis or blurring faces offers a false sense of security. Modern generative AI tools easily bypass basic stickers, reverse pixelation, and use background context, clothing, and even posture to crossmatch identities. For children, domestic surroundings and developmental milestones remain dangerously exposed to data aggregation. Dating profiles require clean solo photographs; if an image requires heavy digital censoring to be uploaded, it simply has no place on a dating app.
+
+Since major tech platforms rely on machine learning, companies already possess the computer vision tools to prevent non-consensual photo upload at the time of profile creation. They must enforce automated onboarding holds, rejecting profile creation until user provide only solo pictures, coupled with an outright ban on images featuring children, regardless of sticker placements or accompanying adults. Dating platforms should further introduce automated cropping at the upload stage to strip out non-user faces, isolating the user, paired with accessible portals for non-users to demand immediate erasure of their images under Section 12 of the DPDP Act.
+
+Dating apps are built for single individuals seeking personal connections, not for broadcasting unconsented images of others. Dating platforms should no longer dismiss user-uploaded group shots as a harmless quirk. If you are looking for ‘The One’, start by showing up as one.
+
+In a country that takes Hum Do, Humare Do still seriously, starting your romantic journey with Hum Paanch on a single dating profile is a privacy red flag no algorithm should swipe right on.
+
+(Saraswathy Vaidyanathan is Assistant Professor, School of Law, BML Munjal University. Views are personal.)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/dating-apps-ai-and-the-privacy-hazard-of-group-photos-4174665)
+
+---
+
+### The gendered anatomy of India’s democratic decline
+*Deccan Herald · Opinion*
+
+A gang-rape, a sexual assault, and grave concerns over one of the fundamental democratic institutions, the Election Commission of India, rocked the news cycle in the same week. Though these events may appear disparate, they are deeply connected. Gender is one of the many sites where democratic decline becomes visible, since democratic institutional decline is intertwined with anti-gender rhetoric.
+
+Democratic backsliding in contemporary India is gendered, where it is visible in power relations and the denial of political agency. Gender here is not just confined to women as an amorphous demographic category, nor reducible to women’s political participation. It encompasses a fundamental question: who is allowed to exercise freedom in a democracy, and on what terms.
+
+This gendered nature of democratic decline was evident in the incidents during the third week of September, shaking India’s conscience and raising pointed questions about the State.
+
+On September 21, a minor was allegedly gang-raped at Aastha Kunj Park in Delhi. The reactions from authorities were telling. Barely two kilometres away, Lady Shri Ram College for Women suspended physical classes and moved online, advised students and staff to avoid the back gate, and requested increased police patrolling. On September 23, the Delhi Development Authority (DDA) issued new security directions for its parks, including entry restrictions after 10 pm. Yet, the fundamental question was not asked: Why was the minor not safe?
+
+Students protested this protectionist response. A slogan from it strikes a chord: ‘Todh k rakh do woh samaj/jisme nari bandhi aaj’ (break the chains of the societal shackles that bind women). Their call was for breaking the chains of a patriarchal social discourse that binds women by restricting their mobility and increasing surveillance on them. Their demand was not for surveillance, but for freedom without compromise.
+
+Another slogan was equally indicting: ‘Hum apna adhikar maangte/Nahin kisise bheekh maangte’ (We demand our rights, not charity). These slogans remind us that in a democracy, freedom is a right. The freedom sought here is political as much as it is social — the freedom to vote, to move freely, and to express oneself are all woven into political agency.
+
+Voices were raised against being asked to comply under the garb of protectionism, which protects ‘good’ women and ‘good’ citizens. The ‘good woman’ is cautious, knows her boundaries, and hence is deserving of protection. The ‘good citizen’, on the other hand, is electorally manageable, compliant, and non-disruptive.
+
+On September 23, The Indian Express’ report revealed that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi recorded 14 objections over 10 months to decisions by Chief Election Commissioner of India Gyanesh Kumar concerning electoral-roll management, voter deletions, and the centralisation of the voter database. Universal adult franchise is increasingly being filtered through administrative mechanisms such as the Special Intensive Revision (SIR).
+
+Its implications are gendered. In West Bengal, the highly politicised SIR raised concerns about disenfranchisement among women and Muslims during the 2026 Assembly polls. When democratic institutions are subverted, freedom becomes conditional upon conformity, and rights are displaced by surveillance and policing of public spaces.
+
+On September 19, a teenage boy and girl were assaulted in Bihar’s Jamui district. The girl was sexually assaulted, and the perpetrators circulated the video online, exuding vitriolic bravado. The act reflects the same impulse towards policing women’s conduct, entangled with public morality.
+
+This morality discourse was weaponised during the Cockroach Janata Party (CJP)’s Jantar Mantar protest in July, where women protesters were disproportionately targeted, with surging incidents of online harassment. A 15-year-old student, Ruchika Singh, posted a video online purportedly using vulgar words against Prime Minister Narendra Modi. The backlash was swift: online abuse, a zero FIR, and her eventual apology. Modi’s gesture of ‘forgiveness’ cast him as the nation’s protective patriarch, transforming political expression into transgression, apology, and pardon. Meanwhile, the witch-hunt continued unabated.
+
+These are not stray instances. They are uncannily similar to the sentiment of celebrating the release and subsequent garlanding of those convicted in the Bilkis Bano case. Together, they reveal structural democratic backsliding in which gender equality becomes politically acceptable only when ideologically aligned.
+
+Women and non-conforming citizens are asked: why did you cross the line? The boundaries are different, but their trajectories are similar: a social boundary prohibiting loitering after dark, a political boundary proscribing participation in a democratically held protest, and an administrative boundary segregating the ‘illegitimate’ electors.
+
+Recently, BJP MP Bansuri Swaraj challenged Rahul Gandhi’s invocation of the ‘smash the patriarchy’, saying “If you want to smash the patriarchy, then sing Vande Mataram in its entirety”. Swaraj’s comment demonstrates how dismantling patriarchy is made conditional on conformity to restrictive political values.
+
+This is precisely where ‘smashing patriarchy’ becomes a necessary democratic project, since it is to break the gendered decline where women’s freedom converges closely with minority rights, freedom of expression, political participation, and democratic accountability.
+
+Debangana Chatterjee is Assistant Professor, and co-director, Centre for Women and the Law, National Law School of India University.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-gendered-anatomy-of-indias-democratic-decline-4174657)
+
+---
 
 ## 7 October 2026
 
@@ -17,6 +221,17 @@ In 2025-26, workers screened more than 70 crore people in highly endemic areas, 
 
 ---
 
+### Eyes on ice: On the Nobel Prize for physics
+*The Hindu · Editorial*
+
+The Nobel Prize for physics to Francis Halzen recognises a clever idea: to use the Antarctic landmass to detect one of the universe’s most elusive particles. Halzen’s efforts helped create the IceCube observatory, which went on to detect high-energy particles from astronomical sources thousands to billions of light-years away and transformed astronomy. Yet, the committee’s decision to award Halzen alone also perpetuates a deleterious tradition in how the institution has been recognising scientific achievement. The observatory consists of thousands of sensors embedded up to 2.5 kilometres beneath the South Pole, connected by cables to a laboratory aboveground. When subatomic particles called neutrinos interact with atoms in the ice, reactions lead to a small flash of light. Sensors detect and record it, allowing scientists to reconstruct the incoming neutrino’s energy and direction. Since coming online in 2011, IceCube has detected neutrinos of extremely high energy, giving scientists stronger clues about the crucibles in which these particles were created, and strengthening neutrino astronomy. The IceCube collaboration consists of over 400 experts from 14 countries, spanning astrophysics, engineering, and software development. Halzen’s leadership was necessary to create this entity.
+
+However, the need to build IceCube at its scale should also have rendered the collective nature of its success impossible to ignore. The Nobel Foundation’s statutes prohibit dividing each prize among more than three individuals. So, in 2017 as well, the physics prize was awarded to three scientists for the detection of gravitational waves, which really required a collaboration of hundreds of researchers. The rules that govern prizes are human arrangements, and the Foundation’s choices are not explained away by its fealty to its traditions; in fact, its statutes allow prizes to be awarded to organisations as well — an option repeatedly overlooked. Every new science prize begins with distinguishing itself by identifying the ‘right’ laureates; the Nobel Prizes did so, too, until their accumulated prestige became so great that laureates were distinguished by receiving the prizes rather than distinguishing the prizes. Thus, even when the prize-giving committee follows an outdated model of scientific recognition, in the present instance by reinforcing the notion that exceptional scientific achievements can be cleanly attributed to exceptional individuals, it suffers minimal reputational damage. The institution is using its prestige — owed to the science it celebrates — to entrench a distorted understanding of how science works, more so at a time when scientific progress increasingly depends on extensive cooperation. No man is an island, least of all in science.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/eyes-on-ice-on-the-nobel-prize-for-physics/article71555859.ece)
+
+---
+
 ### Let there be light: On the 2026 Nobel Prize in Physiology/Medicine
 *The Hindu · Editorial*
 
@@ -28,6 +243,17 @@ As technology facilitates easier pathways to translating scientific research tha
 
 ---
 
+### Past forward: On Brazil’s presidential election, the first round
+*The Hindu · Editorial*
+
+Flávio Bolsonaro, the eldest son of former President Jair Bolsonaro, took a surprise lead in the first round of Brazil’s presidential election on Sunday, bringing the far right, defeated four years ago and embroiled in legal battles ever since, back to the centre of the country’s politics. Most opinion polls had put President Luiz Inácio Lula da Silva, the 80-year-old leftist President, in the lead. But Mr. Flávio, who ran a pro-business election campaign, appears to have mobilised the right-wing and centrist votes, winning 47% of the vote, while Mr. Lula, seeking a fourth term, finished second with 45%. The popular mood in Latin America’s biggest economy seems to be shifting to the right, reflecting a broader trend across the continent. Jair Bolsonaro, the former President, is serving a 27-year sentence in jail since 2025 for plotting a coup, in 2022, against Mr. Lula and has been barred from contesting elections. But his wife Michelle and another son Carlos have been elected to the Senate, while Jair Renan, his youngest son, will become a federal Congressman. While the Bolsonaro clan has made a political comeback with its Liberal Party doubling its representation in the Senate and cementing its position in the lower house, Mr. Lula’s Workers’ Party struggled to hold its ground.
+
+Mr. Lula, who came back to active politics after his corruption convictions were annulled, beat Jair Bolsonaro in 2022, promising to rebuild Brazil’s social welfare system and economy and strengthen its democracy. He did relatively well in terms of macroeconomic indicators — Brazil recorded an average annual growth of 3% during 2023-25, and the annual unemployment rate fell from 6.6% in 2024 to 5.6% last year. His government raised spending and expanded welfare measures, which was a campaign promise to his core base. Real income rose and poverty fell. But three factors worked against him. First, Brazil’s fiscal situation became worse under Mr. Lula, and interest rates rose, upsetting the middle class and businesses. Second, he faced criticism over his handling of organised crime, while Mr. Flávio offered a more hardline approach. Third, Brazil’s conservative and evangelical sections, traditionally anti-left, rallied behind the Bolsonaro clan, mobilising right-wing support for Mr. Flávio, while many left-wing supporters, angry with mainstream politics, either abstained or cast invalid ballots. Mr. Lula’s camp accused the U.S. of electoral interference in favour of the Bolsonaros. As both candidates prepare for the October 25 run-off, Mr. Flávio may have an advantage as he and other right-wing candidates won more than 50% of the first-round vote. Mr. Lula will now have to persuade disillusioned voters on the left and appeal to the centrist swing votes to turn the tide. A tall ask, indeed.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/past-forward-on-brazils-presidential-election-the-first-round/article71555887.ece)
+
+---
+
 ### Twenty-five years of leadership, an India transformed
 *The Hindu · Opinion*
 
@@ -36,6 +262,46 @@ In my 48 years in public life, I have seen political parties rise and fall. I ha
 In today’s world, technology, knowledge, capital and ideas are freely available. But the true differentiator for nations is leadership — one with vision, integrity, credibility and the ability to execute.
 
 [Read full article](https://www.thehindu.com/opinion/lead/twenty-five-years-of-leadership-an-india-transformed/article71552707.ece)
+
+---
+
+### DC Edit | Modi’s Jubilee in Power a Feat
+*Deccan Chronicle · Editorial*
+
+To complete 25 years in public service as a top elected official as chief minister of a state and then Prime Minister of the country is a phenomenal achievement, especially in modern times which make for a fractious era in a nation of very loud politics obsessed with elections as a means to power.Mr Narendra Modi is the longest-serving elected PM according to people who pay attention to such records. Three terms as PM are no mean achievement either, particularly as India moved into the coalition era around 1989. Not until the BJP’s success in 2014 was any Central government ruled by a party with a majority of its own. That changed somewhat in 2024 and yet Mr Modi has ruled on with an enviable grip on the nation.His completion of 25 years in public service since being sworn in as CM of Gujarat on October 7, 2001, was an occasion to recapture the highlights of his time in office as well as reaffirm a commitment to build India as a developed, self-reliant nation with much more to achieve in manufacturing, space and sports.Elected successively by a majority of people residing mostly in the Hindi belt while his popularity was overshadowed in the south by the charisma of regional chieftains, Mr Modi has long moved out of the shadow of the Gujarat riots of 2002, an issue that afflicted his political career as much as the killing of Sikhs in 1984 was to stalk one of his predecessors, Rajiv Gandhi.There is no escaping the fact that Mr Modi is a divisive figure with sections of people not sure they have his ear and attention. But, as a political strategist of the RSS who, along with his chief political aide Amit Shah, astutely used the Hindutva and anti-Congress cards, he has few equals.In shades of authoritarianism that he may have displayed, he tended to lean more towards the reign of Mrs Indira Gandhi than any other PM. But, to his credit, he kept a nation together in difficult, even trying times while also delivering a strong message in responding aggressively to Pakistan’s use of cross-border terror as a state policy.Strong nationalism was another message that Mr Modi conveyed, even as he takes credit for suppressing terrorism and nationalism and finding a unique solution for the fissiparous woes of Jammu & Kashmir.Huge challenges are building, particularly regarding what is seen as the degradation of institutions that safeguard democracy. How he responds in the remainder of his third term to the political encounters may define what his political legacy will be.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-modis-jubilee-in-power-a-feat-1993897)
+
+---
+
+### DC Edit | RBI Was Forced To Hike Rate, Govt Must Plan Intervention
+*Deccan Chronicle · Editorial*
+
+After three years and eight months, the Reserve Bank of India’s Monetary Policy Committee (MPC) has decided to increase the repo rate by 25 basis points to 5.50 per cent. The Central bank has sent an unambiguous message to financial markets by adopting “calibrated tightening” as its policy stance, which indicates the era of monetary easing is over, at least for the foreseeable future.While the rate hike was expected, RBI governor Sanjay Malhotra made it clear that future policy action could only be a rate hike or a pause, depending on the evolving growth-inflation balance.
+
+The calibrated tightening indicates the Central bank’s intention to hike interest rates as and when it is required. The fact that there is no talk of easing reflects the Central bank’s assessment of the global and domestic economic situation.Inflation is the prime contributor to the policy change. Since last year, the inflationary environment has deteriorated substantially. Consumer price inflation rose to 4.8 per cent in August from 4.5 per cent in July, driven largely by food and fuel. Core inflation, too, increased to 4.2 per cent after remaining at 3.9 per cent for three consecutive months.The more worrying factor for the RBI is evidence that price pressures are spreading. The continued hostility in West Asia and Ukraine has pushed up global crude oil prices, while the El Nino left vast tracks of India receiving deficient rainfall. As a result, the RBI now expects inflation to average nearly 5.8 per cent over the next three quarters — which is the upper border of its band of acceptable inflation of plus or minus four per cent. The inflation is also expected to be at 5.2 per cent for 2026-27.Though much of the pressure is coming from global factors, which are beyond the control of monetary policy, higher interest rates will allow the country to maintain the yield differential between the US dollar and the rupee, which plays a crucial role in money markets. The fact that India is entering monetary tightening when its economic fundamentals are strong should give policymakers some comfort. The country’s gross domestic product (GDP) expanded by 7.8 per cent in the first quarter and the RBI has raised its full-year growth projection by 40 basis points to 7.1 per cent. Private consumption remains resilient, credit growth is robust and services continue to expand.Though higher interest rates will hurt borrowers and could eventually moderate consumption and investment, the RBI had no option as the greater danger lay in allowing an inflation shock to become entrenched and being forced into much sharper tightening later.The government — both at the Centre and in states — should promote policies that reduce India’s dependence on foreign countries, which the RBI or monetary policy cannot fix. The ruling parties should take along Opposition parties and civil society to make a national movement to truly free India from continued foreign dependence. People should be encouraged to join the movement for India’s economic independence.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-rbi-was-forced-to-hike-rate-govt-must-plan-intervention-1993891)
+
+---
+
+### Chandrakant Lahariya | India Is Both Overmedicated and Massively Undertreated
+*Deccan Chronicle · Opinion*
+
+India has a peculiar healthcare problem. Some people are getting too much medicine, while others are not getting enough. In one part of the country, patients are being over-tested, over-scanned, over-supplemented and over-prescribed. In another, millions still struggle to obtain a basic consultation, a blood pressure check, a timely diagnosis or an essential medicine. One India is drowning in medical intervention. The other is waiting for it.Consider two patients. The first lives in a large city and visits a private hospital because he feels tired. A battery of tests is ordered. Vitamin D is low, uric acid is slightly high, cholesterol is borderline, and several numbers are highlighted in red. Within days, he has acquired new diagnoses, new tablets, supplements and advice to repeat the tests in a few months. The second patient lives in a small town or village. His blood pressure has been high for years, but nobody has monitored it regularly. Diabetes is diagnosed late. Medicines are taken intermittently because they are not always available or follow-up is difficult. He reaches a hospital only when a stroke, kidney problem or another serious complication occurs. Both patients are victims of the same health system. One receives more medicine than he may need. The other receives less than he certainly needs.This is one of the central paradoxes of Indian healthcare today. Half the problem is overtreatment and the other half is undertreatment. In urban India, healthcare is increasingly driven by the assumption that more must be better. More tests appear to mean greater thoroughness. More scans suggest greater caution. More medicines create the impression of more active treatment. But good medicine has never been about doing the maximum. It is about doing what is necessary.Not every abnormal number is a disease. Not every disease requires an immediate drug. And not every prescription makes a person healthier. A raised uric acid level is not the same as gout. A low vitamin D result does not automatically make someone ill. A single cholesterol value cannot define cardiovascular risk. Age, blood pressure, diabetes, smoking, family history, body weight and physical activity all matter. Clinical decisions must be made by looking at the whole person, not one number printed in bold on a report.Yet medicine is becoming increasingly report-centred rather than patient-centred. The patient may say, “I feel perfectly well”, while the laboratory report says that one value is outside the normal range. Too often, the number wins. That is how overdiagnosis begins. One test leads to another. A minor abnormality gets a medical label. The label generates a prescription. The prescription then continues for months or years, sometimes without anyone asking whether it was necessary in the first place.This is not harmless. Unnecessary medicines can cause side effects. Excessive testing can generate false-positive results and incidental findings. Scans may detect abnormalities that would never have caused disease but now trigger anxiety, repeated investigations and even procedures. Costs rise, worry increases and a healthy person starts living like a patient. More healthcare is not always better healthcare.But move away from the better-served pockets of the country and the picture changes dramatically. Primary care remains uneven. Hypertension often goes undetected or poorly controlled. Diabetes is diagnosed late. Pregnant women, older people and those living with chronic illnesses may not get regular follow-up. Mental health services remain thin. In many areas, even uninterrupted access to essential medicines cannot be taken for granted.The contradiction is extraordinary. In one city, a person may be undergoing a third MRI for a minor complaint, while somewhere else another person has never had his blood pressure measured properly. One family spends thousands of rupees every month on vitamins, protein powders and supplements of questionable value. Another struggles to obtain one inexpensive medicine that could prevent a stroke. These are not two separate health problems. They arise from the same failure to ask a simple question: Who needs what?The solution is not merely more hospitals, more machines and more specialists. India needs stronger primary healthcare and greater emphasis on clinical judgement. We need doctors who see people rather than laboratory panels; clinicians who know when to investigate, when to wait, when to advise lifestyle change and when specialist intervention is genuinely necessary.We also need to restore the distinction between fast medicine and slow medicine. Fast medicine saves lives. A heart attack, stroke, severe infection, major trauma or another emergency demands quick decisions and aggressive treatment. But every medical problem is not an emergency. Borderline cholesterol, mildly raised uric acid, age-related changes and minor abnormalities without symptoms often allow time. Diet can be improved. Weight...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/chandrakant-lahariya-india-is-both-overmedicated-and-massively-undertreated-1993905)
+
+---
+
+### Parsa Venkateshwar Rao Jr | BJP Left Red-Faced After EC Backtracked on SIR
+*Deccan Chronicle · Opinion*
+
+The September 26 press release of the Election Commission of India coming as it does after The Indian Express expose of how Special Intensive Revision (SIR) has been carried out from the middle of 2025 in the run up to the Bihar Assembly elections last November, reads like a mea culpa note for the highhanded manner in which the commission had gone about its work, deleting 13 crore of the nearly 100 crore electorate. The press note starts with the corrective measure: “In case of any person to whom notice has been issued during the ongoing SIR, for being unmapped and logical discrepancies, BLOs will visit the homes of such persons for collection of documents and thereafter upload them on the ECINet.” It is very clear that the SIR exercise has been predatory in nature, issuing notices and summoning people. There is both change of heart and of mind about how the SIR is to be conducted. Two others of the several clarifications of the commission’s press release of penitence are that the for the meeting of the election commissioners the agenda will be prepared and after the meeting the minutes of the meeting will be released, and secondly though SIR has been completed in 20 states/UTs, those who have been left out can apply for enrolment. Also, that the CEOs (chief election commissioners) in the states have been asked to facilitate the continuous upgradation of the rolls. The final confession of the press note is that “it has been issued as per the decisions of the meeting of the Commission held on 26.09.2026 and has the approval of the full commission”.
+
+Transparency at last! It appears so because there is much more than meets the eye, and that is the political agenda behind the SIR. It is pretty evident that the SIR is not the simple updating the electoral rolls which had happened every 10 years, and the break came after 2002.The idea behind the SIR is to “detect, delete and deport” the infiltrators or the illegal immigrants which Union Home Minister Amit Shah declared in his reply to the debate on electoral reforms in the Lok Sabha in December 2025, six months after the SIR exercise began. Mr Shah was careful enough to talk about the cleaning up of the electoral rolls in terms of removing the names of the voters who had died, and those who moved places. But the emphasis was on the infiltrators who through their vote were deciding who would become the chief minister or the Prime Minister. Of course, Mr Shah and Prime Minister Narendra Modi shared the paranoid perception, that was the driving force behind the SIR. Yet, neither the Election Commission nor the Modi government would not disclose the number of illegal immigrants or ‘Bangladeshis’ detected during the SIR in West Bengal. There were not enough of them to fill the detention centres which were ostentatiously set up for the purpose. The reason that the SIR exercise went rogue is to be traced to the firm belief of Mr Modi and Mr Shah that the electoral rolls must be purged of the names of the ‘Bangladeshis’. And of course the attempt to single out Muslims in West Bengal and Assam and call them Bangladeshis has ended up in deleting the names of ordinary Indian voters, including Muslims. It is a political agenda that has become self-defeating. Both Mr Modi and Mr Shah have tactfully distanced themselves from the overenthusiasm of the Gyanesh Kumar-led Election Commission, who had tried to keep the other two commissioners out of the frame. Mr Kumar is now forced to retrace his steps as his overzealous attempt to get rid of Bangladeshis on the voters’ lists has boomeranged in the face of the Indian Express expose. The common Indian voter was going through the trauma and tribulation of getting notices from the Election Commission as he felt helpless in the face of the commission’s absolute powers in deciding the voter’s right to remain a voter. Whether or not the political opposition can make SIR into a powerful issue in the state Assembly elections due in 2027 and 2028, and in the run-up to the 2029 Lok Sabha elections, people have suddenly realised that the Modi government is losing its democratic credentials. The fact that the SIR has come after the 2024 Lok Sabha elections, where the ruling Bharatiya Janata Party (BJP) faced its worst electoral setback, raised the suspicion that the BJP wants to manipulate the electoral system to claw its ways back to the position that it had in the 2014 and the 2019 parliamentary elections. It is the near-defeat that the Modi-led BJP suffered in 2024 that is behind the desperation to manage the electoral rolls and to push for one nation, one election. But desperate measures never pay dividends. The SIR programme has not really worked for the BJP as can be seen in the Election Commission’s blunders in going about the job. The one nation, one election may also go against the BJP going by the 2024 mood. Of course, the BJP is finding solace in the several state Assembly elections it had won from Maharashtra, Haryana and Delhi...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-bjp-left-red-faced-after-ec-backtracked-on-sir-1993916)
 
 ---
 
@@ -21744,122 +22010,6 @@ While the game continues to give dignity and identity to the subaltern classes h
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/where-pel%C3%A9-rules-over-ipl-4068328)
-
----
-
-## 9 July 2026
-
-### Checkbox caste: On the counting of caste, Census 2027
-*The Hindu · Editorial*
-
-The rehearsal for the second phase of Census 2027, under way in 16 States and Union Territories since July 6, carries a key feature: an “open column” where respondents can state their caste, which the enumerator will record. Unlike the 2011 Socio-Economic and Caste Census (SECC), which also had this feature, this counting of caste in the Census itself has statutory backing. The pre-test ends on July 20, and the government says that it will then finalise the methodology for counting caste. The hope is that the pre-test findings will corroborate what is known: an open-ended response on caste yields only unwieldy data, as seen in the 2011 SECC, which eventually proved unusable. It is not difficult to understand why. The method led the 2011 SECC to return more than 46 lakh “caste names”, against the 4,147 in the 1931 Census, the last to tabulate caste. Respondents entered surnames, sub-castes and clan names as if interchangeable, inflating the count into incoherence. The Centre told the Supreme Court in 2021 that the SECC figures were too error-ridden to be relied upon for reservation. The pre-test should instead point to a better method — using the digital Census’s hand-held devices, pre-loaded with a curated list of castes and sub-castes, so that the enumerator selects the ‘correct’ entry after asking the respondent. Mistakes and mismatches will happen, but as the 2022-23 Bihar caste survey revealed, this method could return more usable data.
-
-Unlike the other identities — linguistic, religious and gender — that the Census notes, caste is an abstract, irrational one that designates people not by biological, physical, or professed attributes, but by a perceived, primordial identity conferred at birth and arranged in a hierarchy. Even this hierarchy is not self-evident, with the perceptions of social status of different castes often contradicting one another. India’s Constitution, committed to social justice, set itself against caste by abolishing untouchability, forbidding caste-based discrimination and holding out the promise of a republic where birth would not determine a citizen’s standing. So why count caste when the very act of enumeration can ossify or reify this abstract identity? The only rationale is that self-perceived or imposed caste identity creates social inequities, and welfare and social justice measures that address caste-based injustice can, over time, be expected to delegitimise the casteism rather than entrench it. Through sharper targeting of welfare and affirmative action, empirical caste data can also inform questions of the creamy layer and the sub-categorisation of castes and classes already benefiting from reservation. In these, better data are indispensable. If caste is to be counted, it should be counted well. The open-ended way of registering it will not serve the intended purpose.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/checkbox-caste-on-the-counting-of-caste-census-2027/article71198212.ece)
-
----
-
-### Prisoners of violence: On Sri Lanka’s prison riots
-*The Hindu · Editorial*
-
-The killing of 28 people in sudden, apparently uncontrolled violence in an overcrowded prison outside Colombo, on Monday, speaks to a culture of mismanagement and official apathy. Reports of tensions inside the premises emerged on Sunday, with two inmates reported dead initially. Authorities deployed the military around the prison soon after, but the violence escalated on Monday, leaving more than two dozen dead and over 100 injured. Monday’s riots followed a group of inmates tipping off officials on an alleged drug operation on the prison premises. Some inmates reportedly grabbed arms from the guards, while others assaulted rival gang members with clubs and stones, even as guards struggled to contain the violence; eight guards were among those dead. Authorities have transferred hundreds of remaining inmates to other prisons. The incident, one of the deadliest prison riots in Sri Lanka, foregrounds two key challenges facing the Anura Kumara Dissanayake administration — the narcotics menace that it has resolved to wipe out, and the chronic overcrowding in prisons, a concern that rights defenders have repeatedly highlighted for years.
-
-In 2020, the Human Rights Commission of Sri Lanka found prison conditions to be dire, owing to overcrowding and under-resourcing. As of December 31, 2024, the country’s prisons housed 28,278 inmates against an approved capacity of 10,395, operating at nearly thrice their capacity, according to the 2024 Auditor General’s Report. Authorities have linked the immediate trigger for the riots to the drug underworld, which the Dissanayake administration has been trying to crack down on. Justice Minister Harshana Nanayakkara has rightly noted that regardless of the attackers’ motivations or the crimes they are accused of, the death of people in state custody is “deeply shocking”, and that the government accepts responsibility. The Cabinet has appointed a three-member committee headed by a retired Supreme Court judge to carry out a thorough investigation. The government’s response and seeming willingness to probe the causes for the deadly incident, are welcome and necessary. It is the third after the 2012 Welikada prison riots, where 27 inmates were shot dead by police, and the 2020 riots in Mahara, near Colombo, which claimed 11 lives. The pace of the probe and the government’s response will reveal its intent to address long-pending concerns around the country’s prisons. It must work towards improving prison conditions, living standards, and security, to prevent further clashes. Meanwhile, authorities must persist with the efforts to disable drug networks that pose a grave threat to society, including within prisons.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/prisoners-of-violence-on-sri-lankas-prison-riots/article71198236.ece)
-
----
-
-### Revolution to resurgence — Iran’s strategic moment
-*The Hindu · Opinion*
-
-The gloves are off and the ceasefire is in trouble as the United States and Iran traded strikes, once again, on July 8, over the safe passage of commercial ships across the Strait of Hormuz.
-
-However, looking beyond this flareup, the recent visuals coming out of Iran are extraordinary. After more than 40 days of sustained attacks by the combined military power of the U.S. and Israel, the country is projecting an image of pride, defiance, and resilience. The funeral of its slain Supreme Leader, Ali Khamenei, drew millions of mourners and high-level representatives from Russia, China, Saudi Arabia, Qatar, Türkiye, Egypt, Iraq, Pakistan, Armenia, and several other countries. Even the Taliban government in Afghanistan was represented. Notably absent were the entire Western bloc, much of Africa, and some regional countries such as the United Arab Emirates, Bahrain, and Kuwait, which bore the brunt of Iran’s retaliation during the war.
-
-Did the scenes witnessed reflect the image of a nation defeated? Did the millions of people on the streets, eager to catch a final glimpse of their assassinated leader, appear coerced or forced to mourn? Did the visuals coming out of Tehran and other parts of Iran reflect a nation that is economically bankrupt? The answer to all these questions is a bold ‘no’. What was on display was a nation eager to use this opportunity to tell the world that it is still standing on its own — and may be more powerful, confident and resilient than ever before.
-
-The regime has not only survived the war but has emerged stronger than before, with the Islamic Revolutionary Guard Corps (IRGC) in full control. Its nuclear programme still remains off the table and there is no mention of its ballistic missile programme in the 14-point Memorandum of Understanding with the U.S. The windfall gains from removal of sanctions, sale of crude oil and natural gas, a defreezing of its money and assets and the monetisation of the Strait of Hormuz promise an economic revival for Iran, although some of it may now be under question after the rapidly escalating situation. This resurrection of Iran almost feels like a revolution, and is a reminder of how a new nation, the ‘Islamic Republic of Iran’ emerged from the Iranian Revolution of 1979, overcoming the threats and challenges from a monarchy supported and abetted by the West.
-
-The first revolutionThe 1979 revolution was the culmination of a year-long protests against the Iranian regime, ignited by multiple factors, mainly political repression and economic hardships. There was also a strong undercurrent to reclaim Iran’s cultural and religious legacy which had been suppressed by the pro-western Shah regime. The combined effect created an unprecedented popular movement led by Ayatollah Khomeini, the exiled cleric and former philosophy professor from Qom, who had been banished in 1964 for opposing the Shah’s reform programme. The movement ultimately overthrew Shah Mohammad Reza Pahlavi.
-
-The Shah and his family fled Iran in January 1979 and Ayatollah Khomeini returned on February 1 to a jubilant welcome. 10 days later, Iran’s armed forces declared their neutrality, effectively ending the Shah’s rule. On April 1, following a successful referendum, Khomeini proclaimed Iran as the Islamic Republic. The new republic drew its legitimacy from three pillars: restoring Iran’s national pride, establishing theological discourse and Islamic governance, and promising economic progress and social justice. However, the 1979 hostage crisis, the eight-year Iran-Iraq war, prolonged nuclear programme-related sanctions, and support for regional militia proxies severely tested the country’s economic and political resilience.
-
-Revolution 2.0Why is the current post-war situation akin to a second revolution? Like in 1979, this war too has led to the emergence of a stronger and a nationalist regime. However, unlike 1979, when an earlier regime had to be overthrown, this time, the regime, despite being hit badly and its Supreme Leader assassinated, has emerged stronger as it has survived. Once again, key issues such as national pride, dignity, strength and unity are being made the central pillars. And the millions of people on the street now mirror the visuals of millions on the streets of Iran in February 1979 when they welcomed Ayatollah Ruhollah Khomeini after his return from exile. And, like in 1979, this revolution too promises to bring in long-lasting changes in Iran and the region.
-
-The most prominent change is obviously the security architecture. Soon after the 1979 revolution, the nations in the Gulf had formed the Gulf Cooperation Council (GCC) in 1981, to forge a common platform to fight the threat from a revolutionary Iran. The region turned to the U.S. which then carried out its most extensive and permanent military deployment after the Second World War — it stationed thousands of troops and hundreds of military assets across multiple bases, promising a security umbrella against Iran (and Iraq).
-
-Well, this war has shattered this myth with the punishment and huge losses that American bases and the countries in the region had to suffer from Iranian strikes. Countries in the region are not only frustrated with the failed U.S. security assurances but are looking at alternatives to secure themselves in the future, including maybe, making peace with Iran.
-
-The second issue is the regime’s survival which had been at its weakest in the past few years due to economic sanctions and growing frustration within over its enforcement of Islamic laws, especially against women. The most recent protests in December 2025, ignited over severe inflation and job losses and massive devaluation of its national currency Rial (1.54 million Rials traded for one U.S. dollar) posed one of the most severe threats to the regime, one which the U.S. too attempted to support and ignite. However, it failed as it was suppressed by a brutal crackdown by the regime. Even the slain Supreme Leader’s advanced age and declining health had raised questions about the regime’s ability to retain control after his death. However, those doubts have now been consigned to history, with the regime emerging stronger and more firmly in control.
-
-The third important factor is identity. If the first revolution gave the nation a ‘Religion First” ideological identity, this war has brought national pride to the fore and made it the primary agent of resilience and defiance. Iran’s ability to absorb the punishment of military strikes, endure the pain and then strike back effectively, have brought people and nation together.
-
-The fourth factor has to relate to the economy. A nation which has survived and sustained under severe economic sanctions for almost three decades, now faces a pleasant possibility of huge influx of money into its coffers thanks to a possible easing of sanctions, defreezing of assets and sale of petroleum products. The monetisation of the Strait of Hormuz is obviously a bonus and now a powerful negotiating instrument with Iran.
-
-A balancing act for IndiaIndia clearly has a decision to make. The war marked India’s definite and noticeable tilt toward the Israel-U.S.-United Arab Emirates bloc, with several decisions that many analysts have found difficult to explain or defend. By sending a Minister-led delegation to the funeral, India may have walked a diplomatic tightrope. Going forward, however, it will have to make a strategic choice on how to balance its ties with Iran and the wider Gulf region, which itself appears deeply divided after the war.
-
-Iran is resurgent and is unlikely to let go of the opportunity that this war has provided it. The scale of the irreversible changes unfolding in Iran and the region may become clearer over time. However, one thing is certain — the security and economic landscape of the region has changed forever. How Iran uses this opportunity, and how the region responds, will shape the destiny of its people and the region for decades to come.
-
-Rajeev Agarwal is a Senior Research Consultant at the CRF, Delhi, and the author of the book, Between Tehran and Tel Aviv – Gaza’s Story of Unending War
-
-[Read full article](https://www.thehindu.com/opinion/lead/revolution-to-resurgence-irans-strategic-moment/article71199110.ece)
-
----
-
-### Common ground on equal opportunity
-*Deccan Herald · Editorial*
-
-The continuing dispute between the Karnataka government and private school managements over reimbursement under the Right to Education (RTE) Act deserves a fair and balanced resolution. At stake is not merely the financial viability of private institutions but also the effective implementation of a law intended to guarantee educational opportunity for children from disadvantaged backgrounds. The RTE Act was enacted in 2009 to enforce the fundamental right to education for every child between six and 14 years of age, enshrined in Article 21A of the Constitution. One of its key provisions requires private unaided schools to reserve 25% of entry-level seats for children from economically weaker sections and disadvantaged groups. Beyond free education, the provision seeks to ensure access to neighbourhood schools, promote social integration by preventing educational segregation, and enable poor families to share the same educational aspirations enjoyed by more affluent households.
-
-The present disagreement centres on the reimbursement paid by the government to private schools for these students. The Associated Managements of Primary and Secondary Schools contends that the per-child expenditure fixed by the state has not been revised since 2017 despite a substantial rise in educational costs. They argue that the existing formula excludes several legitimate operational expenses, leaving schools to absorb the shortfall. The association also highlighted delays in the release of reimbursement dues, which it says have placed additional financial strain on the schools. The government is under no obligation to accept the figures put forward by private managements. Equally, it cannot ignore the reality that costs have increased significantly. A reimbursement mechanism that remains frozen despite inflation and higher salaries is unlikely to reflect present-day realities. Instead of relying on competing claims, the state should commission an independent and transparent assessment of the per-child expenditure and revise the reimbursement accordingly. Such an exercise would lend credibility to the process and reduce recurring disputes.
-
-Karnataka likely to withdraw Right to Education Act amendments Private schools must recognise that participation in the RTE framework carries a measure of social responsibility. The Act was never intended to become a source of commercial gain. Institutions cannot seek to profit from educating poor children under welfare legislation. The state and schools are partners in fulfilling a public obligation. A transparent reimbursement formula, periodic revisions and timely payments, coupled with a recognition of the Act’s social purpose, would serve the interests of schools, the government and, above all, the children whose future depends on this partnership.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/common-ground-on-equal-opportunity-4067080)
-
----
-
-### Teach AI to unlearn the bias
-*Deccan Herald · Editorial*
-
-As Artificial Intelligence expands into all areas of life, UN Women has made an important call for wider adoption of gender-sensitive AI. The appeal goes beyond general caution; it stems from a study revealing that algorithmic bias is reinforcing systemic gender inequalities, leaving women increasingly vulnerable to discrimination and violence. The problem has been built into the technology. When systems learn from historical, flawed data, they tend to replicate and amplify societal prejudices. An analysis of 133 generative AI systems found that 44% demonstrated clear gender bias, while 26% exhibited a combination of both gender and racial bias.
-
-The study found that AI actively absorbs human prejudices, racial biases, and tendencies to discriminate based on gender. These biases are not mere algorithmic glitches; they are systemic patterns reflecting deep-seated societal flaws. Large Language models (LLMs) routinely perpetuate stereotypes, linking women with home, family, and children, and men with careers, business, executive roles, and salaries. Many systems have also been seen as exhibiting sexist or misogynistic attitudes, reducing women to sex objects or the property of their husbands. UN Women noted that these toxic outputs are the natural outcome of training AI on decades of unequal data. Global policy has failed to keep pace with these emerging realities. Out of the 138 countries assessed in the analysis, only 24 referenced gender in their national AI strategies, and only 18 adopted substantive gender-responsive measures. UN Women sees this as a choice made “over and over” in training data, design rooms, and policy documents "that stay silent on half of the population”.
-
-UN report warns AI could soon use 3% of world’s electricity and more water than we need to drinkUnder-representation of women across the AI ecosystem, particularly in decision-making roles managing core technology and product development, has been cited as a key reason for AI systems inheriting gender bias. UN Women notes that women risk bearing higher costs of AI adoption, as they face a bigger threat of losing jobs to automation and are more vulnerable to AI-enabled abuse. Addressing these inequities requires systematic gender- and race-based audits of AI models and the output they generate. Investment must be enhanced towards equipping women with AI skills; their representation in leadership roles is critical in shaping gender-sensitive technological decisions. UN Women has urged governments, companies, and experts researching and developing AI to integrate gender equality throughout the AI life cycle, from design and development to deployment and governance. The group has rightly noted that “when designed with safety and used with intention,” AI can help detect stereotypes, broaden representation, and improve accessibility at scale.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/teach-ai-to-unlearn-the-bias-4067079)
-
----
-
-### Mind your language: How a little linguistic knowledge led to hilarious misunderstandings
-*Deccan Herald · Opinion*
-
-I was on a visit to Madras (now Chennai) in 1977 and was watching a television programme at a relative’s house. The results of the epoch-making 1977 Lok Sabha elections, which saw the coming to power of the first non-Congress government after Independence, had just been announced. One of the people responsible for this historic victory was Jayaprakash Narayan.
-
-The TV anchor announced in Tamil that makkal had visited JP’s residence to congratulate him on this astounding victory. I was confused because, to the best of my knowledge, JP had never shown any extraordinary interest in children. One could understand children calling on Jawaharlal Nehru, since he had exceptional fondness for children and was lovingly called Chacha Nehru by them; his birthday on November 14 is observed as Children’s Day.
-
-High-altitude linguistic mysteriesSensing my confusion, my relatives explained that makkal in Tamil means people, whereas in Kannada it means children.
-
-While working in Kochi, I was exposed to many words that I found both interesting and confusing. Once, after buying an article in a shop, I was told it cost ambadhu paisa. Mistaking it for Kannada’s embattu, meaning 80, I promptly paid the shopkeeper 80 paisa, which he accepted quite happily.
-
-Only later did I learn that ambadhu means 50. The next time I heard someone say ambadhu, I confidently advised him that for 50 he should say aivadhu (aivattu in Kannada). He readily accepted my suggestion, thus averting what could have become a potential inter-state dispute.
-
-On another occasion, in a Kochi restaurant, I heard customers calling out choru. I assumed that there was perhaps a thief around. I asked the manager whether there was a thief in the restaurant and he responded with the characteristic sideways nod that meant ‘no’. Then why, I wondered, were people shouting choru? The amused manager cleared the air: choru is Malayalam for rice. He added, “The Malayalam chor is quite harmless unlike his Hindi counterpart.”
-
-Everything would be hunky dory if one were to use the word peddu while talking to a Telugu-speaking person, since it means big in Telugu. But using the same word in Kannada could land one in trouble because peddu is synonymous with a fool or a nincompoop.
-
-I would like to narrate another incident that occurred when I visited a restaurant on the outskirts of Bengaluru in the 1970s. At that time, I knew very little about North Indian cuisine. Seeing aloo-mutter on the menu, I mistook mutter for mutton. Since spelling mistakes on hotel menus were common, I hurried out, convinced I had entered a non-vegetarian restaurant.
-
-Ironically, dishes containing mutter are among my favourites today.
-
-From these little experiences, I have learnt that one has to be very careful while conversing in a language in which one has only a smattering of knowledge.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/mind-your-language-how-a-little-linguistic-knowledge-led-to-hilarious-misunderstandings-4067081)
 
 ---
 
