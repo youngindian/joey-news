@@ -1,3 +1,318 @@
+## 9 October 2026
+
+### Delhi Protests: 25 FIRs Registered; Rahul, Priyanka Gandhi Named For Entering Akashvani Bhavan Without Permission
+*Vani Mehrotra · general*
+
+Delhi Police registered around 25 FIRs over protests since October 2, naming Rahul Gandhi and Priyanka Gandhi Vadra in cases involving alleged vandalism, assault and obstruction.
+
+[Read full article](https://www.news18.com/india/delhi-protests-25-firs-registered-rahul-priyanka-gandhi-named-for-entering-akashvani-bhavan-without-permission-ws-l-10373864.html)
+
+---
+
+### 57 Delhi Metro Stations May Shut Entry, Exit Gates Tonight; Police Write To DMRC Over Jantar Mantar Protests
+*Sumedha Kirti · general*
+
+Jantar Mantar Protests-Delhi Metro News: Interchange facilities would remain available, police said. DMRC’s confirmation is still awaited.
+
+[Read full article](https://www.news18.com/cities/new-delhi-news/57-delhi-metro-stations-may-shut-entry-exit-gates-tonight-police-write-to-dmrc-over-jantar-mantar-protests-10374021.html)
+
+---
+
+### Time Out Market Delhi Opens Dec 2026; Bhawan, Chard & Mizu Named First Kitchens
+*The Quint · regional*
+
+Time Out Market Delhi will open in December 2026 at 5 Worldmark, Aerocity, bringing the best of the city's food, drinks and cultural experiences together under one roof. Developed and operated by Quint Digital Limited (QDL) under its franchise agreement with Time Out Group, the Market today announces its first three kitchens: Bhawan, Chard and Mizu.
+
+The capital's dining culture spans long-standing institutions, street food staples, neighbourhood favourites and innovative restaurants, and the first three names reflect that range: a Delhi burger and grill concept, regional Indian street food and a Mumbai izakaya joining from beyond the capital. These are three of the 11 kitchens, with further partners and announcements from Time Out Market Delhi to follow over the next few weeks.
+
+Time Out Market's approach to curation starts with the city itself, considering the cuisines, categories and talent that best represent its food scene. The resulting mix can bring together established names, much-loved local favourites and rising talent, with the line-up continuing to evolve after opening.
+
+“Every Time Out Market has its own dynamic, a unique, unexpected experience, yet one that unmistakably belongs to the city it calls home. Lisbon is nothing like Dubai, and Delhi shouldn’t be anything like either of them. Our first Time Out Market in India will look, feel and taste like Delhi. For us, bringing Time Out Market here was about trusting the city to shape the experience, not arriving with a fixed idea of what that experience should be. That is what makes this such an exciting moment for us: bringing a global concept to India, but allowing Delhi to make it entirely its own,” says Ritu Kapur, Co-founder and Managing Director, Quint Digital Limited.
+
+**Bhawan**, established in New Delhi in 2020, serves chaat, snacks and mithai from across India with a philosophy of putting the street back in street food. Guests can expect classics like Ajmeri Kadhi Kachori and Palak Patta Chaat, alongside reimagined dishes including Mutton Birria Seekh Kebab, Egg Appam Benedict and Tiramisu Rasmalai. For the Market, they will be dishing out signature takes on the classic dosa.
+
+"Delhi takes its food seriously, and in this city, flavour trumps everything. People from every corner of India have made Delhi their home, and each community has added something to the richness of what we eat here, from Bihar's litti chokha to Naga smoked pork to Bombay's sev puri. We are honoured to be part of India's first Time Out Market, sharing the stage with so many talented chefs and restaurants," says Bhawan Co-founder, Rahul Dua.
+
+**Chard** is the burger and grill concept from Hanisha and Jamsheed Bhote. Both began their careers at The Oberoi before building a decade of concepts based on careful cooking that doesn't take itself too seriously. At the Market, Chard will serve new variances of The OG: grilled double patty, caramelised onions, melted cheese, homemade pickles and house sauce in a Hokkaido-style brioche bun.
+
+"Delhi’s food scene is unlike anywhere else in the country: street food with a cult following perfected over generations, sitting right next to some of the most exciting new restaurants and bars opening right now," says Jamsheed Bhote. "As people who travel to eat, Time Out Market has always been one of our first stops in any city. To be part of the first one in India, in our own city, is genuinely something we've been looking forward to."
+
+**Mizu Izakaya** is Chef Lakhan Jethani's take on the Japanese izakaya: relaxed, social dining where food and drinks are shared. Born in Mumbai, it is grounded in Japanese flavours, ingredients and technique, while staying approachable and contemporary. Mizu's Time Out Market signature will be Hamachi Smoked Ponzu: thinly sliced hamachi with cucumber and radish, in a ponzu made in-house over about two weeks and smoked with garam masala.
+
+"Delhi has always had a very strong food culture, and what I find interesting is how open the city is to different cuisines and new dining experiences. Japanese food has found its own audience here, and we're excited to be bringing Mizu to that conversation. We want to keep the food true to what we do at the Japanese restaurant, while bringing in the more relaxed, social spirit of an izakaya," says Chef Lakhan Jethani.
+
+In the months before opening, Time Out Market Delhi will be announcing further partners, details on the beverage programme and a first look at its cultural calendar. 
+
+As part of the Market’s expansive offerings, Time Out Studio will be the home of the programming and events calendar, hosting its cultural formats, from art and theatre to music and comedy. It will also serve as a private events space, available for corporate and private hire, with the Market's kitchens and bars on hand to cater events.
+
+The first Time Out Market opened in Lisbon in 2014, and Markets now operate in cities across the globe including New York, Montréal, Dubai, Cape Town and Osaka. Each follows the same proposition, and each is distinctly local: in Delhi, that means cooking from India's regions sitting alongside Delhi's own.
+
+Set within the mixed-use Worldmark high street beside Indira Gandhi International Airport, and linked to the rest of the city by the Airport Express Metro, the Market will welcome office workers, hotel guests, residents and travellers.
+
+**About Time Out Market Delhi**
+
+Time Out Market Delhi is a food and cultural destination at 5 Worldmark, Aerocity, New Delhi, opening in December 2026. Across approximately 25,000 sq. ft., it will have 11 kitchens, two full-service bars, a private events space, Time Out Studio, a live performance stage and seating for around 500 guests. It is brought to India by Quint Digital Limited (QDL), a digital and media-tech company focused on AI, which is the master franchise partner for Time Out Market and Time Out Media in India.
+
+Time Out Market brings a city together under one roof: chefs, restaurateurs, drinks and cultural experiences, from live music to installations by local artists. The first opened in Lisbon in 2014, and there are now 13 Markets in cities including New York, Montréal, Dubai, Cape Town and Osaka. It is part of Time Out Group PLC (AIM: TMO), a global brand that connects people with city life through Time Out Media and Time Out Market. Time Out launched in London in 1968, and local experts now create and curate content on what to do, see and eat across more than 350 cities in over 50 countries.
+
+For more information, please visit our website at https://www.timeout.com/time-out-market-delhi, and for the latest company news, visit our Press Office. In addition, connect with us on Instagram at @timeoutmarketdelhi.
+
+### Read Latest News and Breaking News at The Quint, browse for more from news and india
+
+### Topics:  Lifestyle   Business News
+
+---
+
+### BJP ahead in Assam, Bengal bypolls; TVK, AIADMK battle it out in Tamil Nadu
+*India Today News Desk · general*
+
+NewsElectionsBJP ahead in Assam, Bengal bypolls; TVK, AIADMK battle it out in Tamil Nadu
+
+## Counting is under way in by-elections across Tamil Nadu, West Bengal, Assam and Puducherry, with the BJP leading in Assam and West Bengal and TVK locked in a close fight with the AIADMK in Tamil Nadu.
+
+Counting of votes for by-elections to Assembly constituencies in Tamil Nadu, West Bengal and Puducherry, along with a Lok Sabha constituency in Assam, is underway.
+
+New Delhi,Oct 9, 2026 11:49 IST
+
+Counting of votes in by-elections across Tamil Nadu, West Bengal, Puducherry and Assam is underway, with the BJP taking the lead in Assam and West Bengal, while actor-turned-politician Vijay’s TVK and the AIADMK are in a tight fight in Tamil Nadu.
+
+The results are being closely watched for the political mood in the four constituencies and the Puducherry Assembly seat. In Tamil Nadu, the outcome will test the strength of Vijay's newly formed government, while the West Bengal bypolls will gauge the BJP's popularity after ending the Trinamool Congress's 15-year reign in May.
+
+## BYPOLL RESULTS: TOP POINTS
+
+-   Vijay's TVK is leading in Madurantakam and had a narrow advantage over the AIADMK in Dharapuram. A strong showing could help the ruling party move closer to the majority mark in the Assembly.
+    
+-   TVK candidate P Sathyabama is ahead in Dharapuram assembly constituency with 24,047 votes, followed by AIADMK's K Banumathi in second place with 21,935 votes. In Madurantakam, TVK's K Maragatham Kumaravel is in the lead with 15,725 votes, with DMK candidate trailing by 4,484 votes.
+    
+-   The results are also crucial for MK Stalin's DMK. The party is contesting the polls without the support of former allies, including the Congress, the VCK and Left parties, making the bypolls a litmus test of its strength outside the alliance.
+    
+
+\- Ends
+
+---
+
+### India’s ‘cockroach’ movement says members detained as protests continue
+*AP · *
+
+_India’s opposition and student-led CJP movement demand election chief’s resignation, plan mass demonstration on Saturday._
+
+India’s Cockroach Janata Party (CJP) says that authorities have detained many of its members as thousands of the group’s supporters and members of several student groups continue to protest, demanding the election chief’s resignation.
+
+Thursday’s demonstrations come ahead of CJP-led antigovernment protests planned for Saturday, with thousands expected to march to Jantar Mantar, the designated protest site in the capital, New Delhi.
+
+The CJP emerged in mid-May after remarks by Chief Justice Surya Kant in which he called unemployed youth “cockroaches”, sparking nationwide outrage. Since then, the CJP has garnered a large following among India’s youth.
+
+Ashutosh Ranka, a spokesperson for the movement, said in a post on X on Thursday that “at least 10,000” people from CJP demonstrations, student organisations, affiliated grassroots groups and political parties had been detained across the country.
+
+Among those arrested is CJP national spokesman Deepak Baliyan, who was taken into police custody on Thursday, according to the group’s statements.
+
+Al Jazeera could not immediately verify the claims, but videos posted on X showed activists being taken away in vans.
+
+Opposition parties and students affiliated with the CJP movement have been demanding the resignation of the chief election commissioner, Gyanesh Kumar, over a controversial revision of voter lists.
+
+They accuse the poll body he heads of benefitting Prime Minister Narendra Modi’s ruling Bharatiya Janata Party (BJP).
+
+A man walks past a graffiti-marked poster of India’s Prime Minister Narendra Modi during a protest by the opposition alliance in New Delhi on October 8, 2026, calling for the resignation of the country’s chief election commissioner, Gyanesh Kumar \[Arun Sankar/AFP\]
+
+On Thursday, CJP said that among those detained was ‌a group of students from the city of Pune who were headed for New Delhi to participate in planned protests at the iconic Jantar Mantar observatory. CJP said they were taken away in a bus to an unknown location.
+
+“Why not just declare EMERGENCY?” CJP founder Abhijeet Dipke said in a response to a post with a video of activists being detained.
+
+## ‘Every vote matters’
+
+India’s Election Commission has so far removed more than 130 million names from the voter lists, with millions appealing the removals. About 969 million people were eligible to vote in the 2024 election.
+
+Protesters allege the changes disproportionately removed voters who support opposition parties while preserving or adding voters more likely to back Modi’s party.
+
+The commission and government deny the allegations. They say the revision has no political motive but is aimed at removing duplicate and ineligible entries while ensuring eligible voters remain registered.
+
+Earlier on Thursday, thousands of supporters of the CJP youth movement protested in the tech hub of Bengaluru.
+
+Many of the protesters held posters that said, “Every name counts, Every vote matters” and “Stop the Murder of ⁠Democracy”.
+
+Khushi Shrivastava, a 22-year-old architecture student at the protest, told the Reuters news agency: “I think voting right is the most basic point of democracy … People ⁠who actually want to vote, who actually care about the future of India, they are just being \[denied\] voting rights.”
+
+India’s Congress party leader Rahul Gandhi waves from a bus during a protest by the opposition alliance in New Delhi on October 8, 2026 \[Arun Sankar/AFP\]
+
+On Wednesday, Indian opposition leader Rahul Gandhi was briefly detained for the third time in two days, as his Congress ‌Party accused police of using “brute force”.
+
+Police said the allegations were being used to “defame” them. BJP’s spokesperson ‌Gaurav ‌Bhatia said the allegations were “being levelled by an irresponsible, anarchist opposition”.
+
+---
+
+### Thailand’s Queen Suthida makes her solo flying debut in a Gripen fighter jet
+*India Today Trending Desk · general*
+
+## Thailand's Queen Suthida flew a solo sortie in a JAS 39 Gripen fighter jet at Wing 7 in Surat Thani. The flight extends her aviation record from a first Cessna sortie in 2010 to operating a high-performance military aircraft.
+
+Thailand’s Queen Suthida makes her solo flying debut in a Gripen fighter jet (Photos: @awkwardgoogle/X)
+
+Thailand’s Queen Suthida took to the skies in a JAS 39 Gripen fighter jet for a first ever solo flight, marking another milestone in her aviation journey.
+
+According to a report by _The Bangkok Post_, the Queen arrived at Wing 7 in Phun Phin district of Surat Thani province at 10 am, where she received King Maha Vajiralongkorn. The royal couple then attended a briefing on the flight plan before heading to the parking bay of the single-seat Gripen C fighter jet.
+
+The Queen inspected the aircraft before taking it to Runway 22 for takeoff. After completing the solo flight, the King presented her with a bouquet and a Gripen Order Golden Patch.
+
+Watch the video here:
+
+> The Queen of Thailand flew a fighter solo today, becoming the first and only queen in the world to pilot a fighter jet https://t.co/I88eJH5Q32— Interesting things (@awkwardgoogle) October 9, 2026
+
+The flight added to a long record of aviation experience for Queen Suthida, who first became a pilot on May 13, 2010. She flew a Cessna T-41D aircraft belonging to Fleet 604 at Wing 6 in Bangkok, beginning a journey that has since seen her accumulate 1,188.48 flying hours across different aircraft, according to The Bangkok Post.
+
+Queen Suthida is the Queen of Thailand and the wife of King Maha Vajiralongkorn. Alongside her royal duties, she has maintained a long-standing interest in aviation, first qualifying as a pilot in 2010.
+
+With 1,188.48 flying hours across different aircraft and experience serving as co-pilot to the King on royal flights, her solo flight in the Gripen fighter jet marks another milestone in her journey as a pilot, as reported by The Bangkok Post.
+
+\- Ends
+
+---
+
+### IT Ministry flags misleading protest content, tells social media platforms to act on official complaints
+*SECTIONS IT Ministry flags misleading protest content · business*
+
+New Delhi: The government has advised large social media firms to prioritise action against unlawful content 
+
+The Ministry of Electronics and IT (MeitY) is learnt to have issued an advisory to social media platforms on October 8, expressing concern over the online circulation of certain information 
+
+  
+
+The IT Ministry has expressed apprehension that such unlawful content may disturb public order, social tranquility and raise law and order concern as well as may incite violence.
+
+"MeitY has advised large social media platforms to identify such unlawful content and prioritise action based on complaints received from authorised government bodies," an official source aware of the development said.
+
+The advisory has asked social media platforms to label synthetically generated content on their platform particularly where the content is presented to depict the ongoing events.
+
+"MeitY has advised social media companies to ensure timely cooperation with law enforcement and other authorised government agencies for action and furnishing information as well as provide assistance as per the applicable law within stipulated timelines under the IT Rules, 2021," the source said.
+
+---
+
+### Govt moves to stop pharmacy ads for Mounjaro, Ozempic and other prescription drugs
+*India Today Health Desk · general*
+
+## The Union government has proposed amending the Drugs Rules to bar pharmacy advertisements for prescription medicines. The move seeks to close a loophole, tighten oversight and curb self-medication risks.
+
+The Union government has proposed an amendment to the drug rules to strengthen regulation of advertisements relating to prescription-only medicines by pharmacies and wholesalers.
+
+Under the existing norms in the Drugs Rules, 1945, while drugmakers are barred from advertising medicines which are specified under schedules H, H1 and X – the drugs that can be dispensed only with a doctor’s prescription, the same does not explicitly cover retailers, distributors and wholesalers.
+
+This anomaly, according to governments, means that no action can be taken against pharmacies advertising several blockbuster medicines – which in recent times have included GLP-1-based drugs such as Mounjaro, Ozempic and Wegovy – and offering discounts on them.
+
+GLP-1 based medicines, originally developed to treat type 2 diabetes are now also indicated for weight-loss and their market has grown exponentially in India over the last several months.
+
+The Centre said that the draft amendment has been notified through September 28 following consultations with the Drugs Technical Advisory Board (DTAB) of the Central Drugs Safety and Standard Control Organisation (CDSCO).
+
+“The proposed amendment is intended to strengthen regulatory oversight across the pharmaceutical supply chain, discourage unauthorised promotion of prescription medicines and reduce risks associated with inappropriate self-medication,” said the Union health ministry in a statement.
+
+### FOCUS ALSO ON ANTIBIOTICS, PSYCHOTROPIC MEDICINES
+
+The measure is expected to reinforce safeguards relating to medicines that require appropriate medical supervision, including certain antibiotics, psychotropic medicines and other prescription-only drugs.
+
+The proposal follows the recommendations of the 93rd meeting of the Drugs Technical Advisory Board, held on 16 February 2026, which considered the need for appropriate provisions governing advertisements by drug sale and distribution licence holders.
+
+The Ministry has invited objections and suggestions from stakeholders and members of the public within 30 days from the date on which copies of the Gazette containing the draft rules are made available to the public.
+
+“Submissions received within the prescribed period will be considered by the Central Government before finalisation of the amendment,” said the ministry.
+
+\- Ends
+
+---
+
+### West Bengal Bypolls: BJP Leads in Nandigram & Rejinagar | TMC Under Pressure? | TMC | News18
+*Unknown · general*
+
+West Bengal’s by-election battle in Nandigram and Rejinagar has put the state’s political contest under the spotlight, with early counting trends reportedly showing the BJP ahead. The developments are being closely watched as the BJP and the Trinamool Congress (TMC) compete to demonstrate their poli...
+
+[Read full article](https://www.news18.com/videos/breaking-news/west-bengal-bypolls-bjp-leads-in-nandigram-rejinagar-tmc-under-pressure-tmc-news18-10374030.html)
+
+---
+
+### UP teacher laughs while ‘playing tabla’ on child’s head, suspended as video goes viral
+*India Today Trending Desk · general*
+
+## A primary school teacher in Uttar Pradesh's Etawah was suspended after a video showed him tapping a child's head like a tabla.
+
+UP teacher laughs while 'playing tabla' on child’s head
+
+New Delhi,Oct 9, 2026 11:26 IST
+
+A primary school teacher in Uttar Pradesh’s Etawah has been suspended after a video of him ‘playing tabla’ on a child’s head in the classroom went viral on social media.
+
+The teacher, Dinesh Kumar Mathur, had the video recorded and later posted it on his Facebook account.
+
+The video showed Mathur seated on a chair while a child sat on the floor in front of him.
+
+Mathur repeatedly tapped the child’s head as if playing a drum, laughing hysterically as other children seated around them joined in.
+
+The video, meanwhile, came to the attention of the Basic Education Department after it went viral on social media. Taking note of the incident, Basic Shiksha Adhikari (BSA) Dr Rajesh Kumar suspended Dinesh Kumar Mathur with immediate effect, treating his conduct as an act of indiscipline.
+
+The department is investigating the matter, and further action will be taken based on its findings.
+
+\- Ends
+
+---
+
+### NDA ally AINRC retains Thattanchavady as Ashok Anand defeats Congress by 8,482 votes
+*India Today News Desk · general*
+
+## All India NR Congress retains Thattanchavady seat as Ashok Anand defeats Congress's E Vinayagam by 8,482 votes
+
+N Rangaswamy's party retains Thattanchavady seat (Photo: PTI)
+
+All India NR Congress (AINRC) candidate Ashok Anand has won the Thattanchavady Assembly bypoll in Puducherry, defeating Congress candidate E Vinayagam by 8,482 votes.
+
+Anand secured 13,358 votes, while Vinayagam polled 4,876 votes, according to the final figures provided by the Election Commission of India.
+
+The victory is significant for AINRC, an ally of the BJP-led National Democratic Alliance (NDA), as the bypoll was held in a constituency previously represented by Puducherry Chief Minister and AINRC founder N Rangaswamy. Rangaswamy vacated the seat after winning both Thattanchavady and Mangalam in the 2026 Assembly elections, choosing to retain Mangalam.
+
+Thattanchavady has long been associated with Rangaswamy, who has represented the constituency multiple times. Anand's victory returns the seat to the party founded by the Chief Minister and adds to the NDA's presence in the Union Territory.
+
+The bypoll was closely watched as a contest involving the ruling NDA ally and the Congress, which fielded Vinayagam.
+
+_This is a developing story. It will be updated._
+
+\- Ends
+
+---
+
+### 'Delhi Police break into volunteer’s house at 1am, thrash him, misbehave with wife': CJP's Saurav Das
+*Lairenlakpam Warli · regional*
+
+Saurav Das also claimed that Yadav’s two young children were traumatised during the incident
+
+NEW DELHI: Cockroach Janata Party (CJP) chief spokesperson Saurav Das on Friday alleged that Delhi Police personnel entered the house of the party’s North Zone coordinator, Mohan Yadav, in South Extension around 1am and misbehaved with his wife.Das also claimed that Yadav’s two young children were traumatised during the incident, describing the situation as a “state of emergency” in India.
+
+“It’s 1 AM and the Delhi Police is illegally breaking into our North Zone Coordinator Mohan Yadav’s house in South Extension. They are also misbehaving with his wife. They have two small kids who are currently traumatised!” Das posted on X.“It’s a state of emergency. The government has completely LOST IT! But we won’t back down.
+
+Cockroaches incoming!” Das tweeted.In another post, Das shared what he described as the screams of Yadav and his children, alleging that the volunteer had not broken any law and was being targeted for his association with the movement.
+
+“Our North Zone volunteer Mohan Yadav’s SCREAMS.“Let entire India listen to this and the screams of his little kids being thrashed by the Delhi Police.“He hasn’t broken a single law till date. His only ‘crime’ is being a volunteer for a youth movement!“State of Emergency in India!” Das wrote.
+
+Sharing another video, Das alleged that the incident showed the government was acting against its own citizens.“Like I said, the Government of India is at war with its own citizens. The visual here proves it,” he said.The allegations could not be independently verified.CJP plans October 10 protest at Jantar MantarThe allegations come ahead of a youth-led CJP protest scheduled for October 10 at Delhi’s Jantar Mantar.The party has said the demonstration will focus on alleged “vote theft”, the alleged exclusion of young voters from electoral rolls and other concerns
+
+---
+
+### Amit Shah to visit Manipur this month, assures CM of Centre’s support for peace
+*Bikash Singh · business*
+
+Guwahati: Manipur Chief Minister Yumnam Khemchand Singh called on Union Home Minister Amit Shah at his official residence in New Delhi. During the meeting, the Chief Minister apprised the Union Home minister of the measures taken up by the State Government for restoring peace and normalcy in the State.
+
+Singh informed the union Home minister that the State Government has succeeded in resuming the Imphal-Dimapur-Guwahati bus service, which has brought much-needed relief to the common people.
+
+He also urged the union Home minister to help the State to tide over the various issues being faced by the State and sought continued support from the Central Government. The Chief Minister reiterated his invitation to Amit Shah to visit the State. Accepting the invitation, the union home minister told Singh that he will visit the State in this month.
+
+  
+
+Shah gave a patient hearing to the Chief Minister and assured all support in bringing peace and progress and in fulfilling the aspirations of the people of Manipur. The Home Minister also appreciated the sustained efforts of the State Government to bring peace and normalcy in Manipur.
+
+A senior official said that the Manipur government has sought 30 additional companies of the Central Armed Police Forces (CAPFs) from the Union Ministry of Home Affairs (MHA.
+
+Frequent incidents are taking place in the state. At least 306 people have been killed, and 49 remain missing in the ethnic violence that has gripped Manipur since May 2023, Home Minister Govindas Konthoujam told the state assembly on September 3, 2026.
+
+More than 60,000 displaced after ethnic violence broke out between the Meitei and Kuki-Zo communities on May 3, 2023. The violence erupted after a ‘Tribal Solidarity March’ was organised in the hill districts to protest the Meitei community’s demand for Scheduled Tribe status.
+
+
+---
+
 ## 8 October 2026
 
 ### Ukraine drone edge blunted by troop shortage as war enters fifth year
