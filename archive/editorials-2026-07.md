@@ -1,5 +1,374 @@
 # Editorials archive — 2026-07
 
+## 10 July 2026
+
+### A perfect storm: On the Wayanad debris slip
+*The Hindu · Editorial*
+
+The fragile hills of Kerala’s Wayanad district turned into the theatre of yet another weather-induced disaster when a heavy downpour, on July 7, triggered what looked like a debris slide at the entrance to the under-construction twin tunnel at Kalladi in Meppadi panchayat, in the vicinity of Chooralmala, which was wrecked by massive landslides two years ago. Six workers were confirmed dead. The Kerala government has suspended construction work until the completion of a comprehensive probe into the causes and whether the work complied with the conditions set by the Expert Appraisal Committee under the Union Ministry of Environment, Forests and Climate Change (MoEFCC) while granting environmental clearance for the project. Ever since the great floods of 2018, Meppadi panchayat, which is over 7,000 ft above sea level, has witnessed severe climate-induced catastrophes. Landslides hit the Puthumala area in 2019, within hours of an equally lethal landslide across the hills in Kavalappara in Malappuram district. Environmentalists, therefore, made an impassioned plea against the ₹2,100 crore (approximately) 8.73-km-long twin-tube tunnel road, linking Anakkampoyil in Kozhikode to Meppadi, flagging it as a recipe for disaster. It was instead fast-tracked, citing the need for accelerated mobility for the people of Wayanad, which does not have tertiary care facilities. In April this year, the Supreme Court cited the project’s ‘national importance’ and rejected the Wayanad Prakrithi Samrakshana Samithi’s plea to halt it. The group is planning to seek a review of the order.
+
+As with all major disasters, this, too, appears to have stemmed from a heady mix of failures. Kerala Public Works Minister hurriedly pointed to the company executing the construction on behalf of the contractor, Konkan Railways, alleging that it ignored the department’s June 20 deadline to remove excavation debris from the area. The company fell back on the rainfall data and the region’s landslide susceptibility. Security camera visuals suggest an avalanche-like flow of debris down the slope of the hill that was being bored. Whether a mudslip in the upper reaches caused the debris to cascade down will only be known after a geomorphological probe. On the face of it, the State’s disaster management machinery was not up to the job. The synoptic conditions in the area on the eve of the present disaster were eerily similar to those on the eve of the 2024 calamity. Wayanad has a fragile ecology, and any infrastructure project must involve meticulous ecological and climate-resilience planning and uncompromising execution. As it investigates the lapses, the State should review the project’s social and environmental costs and ensure that climate-induced catastrophe in Wayanad is prevented, not just responded to.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/a-perfect-storm-on-the-wayanad-mudslide/article71202507.ece)
+
+---
+
+### Far from over: On the U.S.-Iran conflict
+*The Hindu · Editorial*
+
+It took only 20 days for the U.S.-Iran memorandum of understanding (MoU), which promised to extend the ceasefire by 60 days and launch talks about outstanding issues, including Iran’s nuclear programme, to start unravelling. On Tuesday night, the U.S. carried out sweeping air strikes in Iran after three tankers were attacked in the Strait of Hormuz. Iran struck American bases in Kuwait and Bahrain after which Mr. Trump declared that the ceasefire was over. While he is known for making exaggerated claims, the current crisis poses the biggest challenge to the peace process since the June 17 MoU. The crisis did not emerge overnight. From the outset, the agreement had three major sticking points — Israel’s war in Lebanon; Iran’s access to its frozen funds and the status of the Strait of Hormuz. Tehran sees Israel’s refusal to withdraw from southern Lebanon, along with Washington’s push for a parallel trilateral framework involving the U.S., Lebanon and Israel, as violations of the spirit of the MoU. And, despite talks, Iran has yet to get access to its frozen funds. Finally, Iran appears determined to assert control over the Strait. It has opened a “safe passage route” along its coast, while the U.S. is backing an alternative route along Oman’s coast.
+
+Iran fears that the U.S. is trying to strip away the leverage it established over the Strait during the war by promoting an alternative route. The U.S. does not want Iran to emerge as the sole custodian of a strategic waterway. These conflicting positions trigger skirmishes, further undermining the MoU. What Mr. Trump, who senses strategic defeat, is trying to do is to mount economic and military pressure on Tehran to change its position on the Strait. He can continue his air campaign, but his years-long maximum pressure and 40 days of bombing have done little to alter Iran’s negotiating positions. If he returns to war over Hormuz, Iran’s stance on its nuclear programme — still unaddressed — would only get hardened. If war resumes, it would be bad news for the whole West Asia region and the entire global economy. Mr. Trump is at a strategic dead end, and instead of digging deeper, should stick to his way-out road map — the MoU. An obstacle in the peace process is the complete absence of trust. Mr. Trump’s public tirades and abuses against Iran’s leadership and hyperbolic threats, which are detached from ground realities, are not helping his cause. Equally, if Iran continues targeting commercial vessels, it risks being seen as an aggressor rather than a victim. Both sides should address the trust deficit, resolve the sticking points in the MoU and begin serious talks about the outstanding issues for a final settlement.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/far-from-over-on-the-us-iran-conflict/article71202807.ece)
+
+---
+
+### Over and above: On the All India Survey on Higher Education data
+*The Hindu · Editorial*
+
+With more Indian women entering university campuses, the gender gap in college classrooms has narrowed. The latest All India Survey on Higher Education (AISHE) data for 2023-24 reveal that absolute female enrolment rose by 42% over the past decade, climbing from 1.57 crore in 2014-15 to 2.24 crore. In comparison, male enrolment grew from 1.85 crore to 2.26 crore during the same period. Women have comfortably surpassed the male growth rate of 22.16%, pushing total higher education enrolment to a record 4.5 crore. They now account for nearly half (49.7%) of all students in Indian universities and colleges. With a Gender Parity Index of 1.08, 108 young women now enter higher education for every 100 men. This marks a hard-won victory, especially for marginalised communities, where female enrolment among Scheduled Castes and Scheduled Tribes rose by 51.4% and 75.7%, respectively. Yet, a deeper look at the data demands caution. High enrolment numbers are a superficial veneer if the pipeline of employment opportunities beyond the college gate remains broken. While women make up 44% of STEM students, this number is heavily skewed toward the “S” (general sciences such as biology and chemistry), where they hold a 54.6% majority. In contrast, engineering and technology remain male-dominated, with women making up just 31.1% of enrolment. By clustering in traditional sciences, women are isolated from the future-proof economic drivers of artificial intelligence and software engineering.
+
+Educational institutions remain largely patriarchal. While the student body reflects a 50-50 split, there are only 82 female teachers for every 100 male teachers. Women remain absent from top-tier leadership roles. Further, the influx of students has coincided with an explosion of private and low-tier colleges, which face acute faculty shortages and poor infrastructure. India also faces a disconnect between higher education and the formal job market. The Female Labor Force Participation Rate remains low due to societal expectations, domestic responsibilities, and safety barriers. According to the 2025 PLFS report, men dominate the regular salaried workforce (26.5% versus 18.2%) and earn more. Average monthly earnings stand at ₹24,217 for men, compared with ₹18,353 for women. While 64.2% of women are classified as self-employed, this categorisation is vague and the statistic often includes unpaid household or farm labour, failing to show where women students go after they exit lecture halls. As 2.24 crore young women claim their place on campuses, the burden shifts to policymakers, institutional heads, and industry leaders to ensure that these women stay on in fruitful paid employment aligned with their degrees.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/over-and-above-on-the-all-india-survey-on-higher-education-data/article71206768.ece)
+
+---
+
+### SIR in Manipur is a pathway to exclusion
+*The Hindu · Opinion*
+
+Manipur is one of the States covered under Phase III of the Special Intensive Revision (SIR) of electoral rolls being implemented by the Election Commission of India (ECI) currently. The SIR has already drawn adverse criticism from civil society organisations and the Opposition, particularly after the recent Bihar and West Bengal elections, due to its hasty, disproportionate and summary deletion of voters from voters’ lists, resulting in the disenfranchisement of large sections of politically “undesirable” communities and voters. Concerns have been expressed by informed citizens about the lack of transparency and often blatant bias of the State and the ruling party in relation to the SIR, and its relationship with the planned delimitation, the 2029 elections and perhaps even an oddly timed Census. These concerns apply to Manipur as well. In addition, there are features of the situation in Manipur that are little known outside — and even within — the State, making the implementation of the SIR in Manipur even more egregious.
+
+Fractured social fabricFirst, Manipur has been in the throes of an intense ethnic conflict involving the majority Meiteis (54% of the population, inhabiting the dense Imphal Valley), the Kuki-Zo peoples (15%, inhabiting the surrounding hills) and, more recently, the Manipuri Nagas (26%, mainly in the northern part of Manipur). It has resulted in over 260 deaths in pogroms, attacks, and retaliatory violence; displaced some 60,000 people within and outside Manipur; led to the burning of hundreds of villages and places of worship; and witnessed unimaginable atrocities, including beheadings, dismemberment, and rapes as forms of collective punishment, disproportionately inflicted on the Kuki-Zo.
+
+It has led to a demand by the Kuki-Zo for a ‘Separate Administration’ for themselves — and an equally stout opposition by the Meiteis to it — while many Manipuri Nagas led by the National Socialist Council of Nagalim (Isak-Muivah), or NSCN-IM, remain committed to their decades old demand for integration of Naga-inhabited areas in a sovereign ‘Nagalim’. Many are backed by political, militant and proscribed insurgent groups of diverse persuasions.
+
+Three years after the start of the conflict, not a single case of violence has been brought to book through the courts. An Inquiry Commission formed by the Ministry of Home Affairs (MHA) has yet to present its report. Thousands of internally displaced persons languish in camps with little relief.
+
+Ethnic divisions have worsened and spread. Long-standing Naga-Kuki hostilities have been added to the three-year-old Meitei-Kuki conflict marked by the burning of villages (mostly Kuki), ambushes, and recently in May, the killing of three Thadou-Kuki pastors, and, in retaliation, tit-for-tat hostage-taking and the horrific killing of six Nagas in Kuki custody that has in turn set off a full economic blockade of Kangpokpi district. In response, State and central security forces have appeared passive, paralysed and at times, biased.
+
+The conduct of the State government has been widely viewed as partisan, but the role of the Centre and even courts cannot be said to be above board. Conducting the SIR under these conditions, under a pretence of normalcy, is inexplicable.
+
+Narratives driving electoral exclusionSecond, unlike the rest of the country, where the SIR is being driven by the central government through the ECI with the partisan support of the ruling party, in Manipur the demand to “cleanse” the State of alleged “illegal migrants” — a code word for Kukis — is in line with perceptions of politically radicalised Meiteis and Manipuri Nagas, who together constitute about 80% of the population. These allegations have no basis in Census figures for over a century, and are based on recent distortions of history, fake narratives and loud propaganda that feed directly into the SIR exercise. They create a very negative environment for a fair SIR, particularly in mixed areas, that is itself, ipso facto, biased against certain communities.
+
+Third, there are several features peculiar to the Kukis themselves that lend themselves to their victimisation by the SIR. The first reason is that close to 50,000 Kuki-Zo remain displaced and scattered in Manipur and outside. There does not seem to be any provision in place for their fair enumeration.
+
+The second reason is that together with their displacement, many are known to have lost many of their identity, residence, election, education and other documents that could have helped establish their voter credentials. There are visual records of Kuki-Zo educational certificates, Aadhaar cards, and driving licences in Imphal being destroyed after the violence of May 2023.
+
+The third reason is that customary naming systems — where names are derived from the last syllable of complex parental names, nicknames often substitute formal names, and names are converted from tribal names to English orthography — create vast scope “logical discrepancies”, making people far more vulnerable to exclusion than in States such as West Bengal. Possibly, more than 90% of Kuki-Zo people are unlikely to be able to produce a single, consistent spelling of their own names, let alone maintain consistency across generations.
+
+The fourth reason is that by some historical anomaly, Manipuri tribals, both Kuki-Zo and Naga, do not enjoy Sixth Schedule status, although they enjoy some measure of autonomy under Article 371C and very weak Autonomous Councils.
+
+This served them well during periodic bouts of violence and displacement, most recently during the Naga-Kuki violence of the 1990s, which again disproportionately affected the Kukis. Village chiefs and local authorities were then able to certify the identities of villagers under their jurisdiction. Such arrangements are unlikely to be recognised in the present exercise and prevailing atmosphere.
+
+Finally, the Kuki-Zo leadership appears, for some reason, unaware of the nature, motivations, and implications of the SIR exercise. They seem to believe, perhaps naively, that as Indian citizens who have lived here all their lives and in possession of necessary documents, including voter ID cards, they have nothing to fear, and that opposing the exercise would amount to an admission of guilt. The dangers of the SIR now appear to be dawning on them, with some Kuki-Zo civil society organisations issuing statements highlighting its shortcomings, although opposition has yet to take a political form.
+
+Safeguarding belongingA nationwide SIR is now a fait accompli following the ruling by the Supreme Court of India in its favour. However, the process can still be made fairer and more sensitive to the risks of exclusion. Unless measures are adopted to limit its potential harm, by 2029 we may see a pathway to statelessness not only for the Kuki-Zo but also for other tribal communities in the Northeast, with their plight obscured amid the broader exclusion and disenfranchisement of Muslims labelled as “illegal migrants”.
+
+Gautam Mukhopadhaya is a former Ambassador of India to Myanmar, Afghanistan and Syria, and is engaged in issues facing the northeast of India
+
+[Read full article](https://www.thehindu.com/opinion/lead/sir-in-manipur-is-a-pathway-to-exclusion/article71203437.ece)
+
+---
+
+### DC Edit | J&K: Halt Libraries’ Crackdown
+*Deccan Chronicle · Editorial*
+
+The Jammu and Kashmir administration’s territory wide campaign to screen and purge “objectionable” books marks a profound and troubling shift. It is one thing for a government to decide what textbooks align with its educational vision. It is quite another to raid bookstores, blacklist authors, confiscate publications and police every shelf in every school and coaching centre. This is not curriculum oversight. It is state driven narrative control.
+
+The trigger was the discovery of allegedly separatist linked content in two school library books — Personalities and Legends of J&K and Great Personalities of Jammu and Kashmir. These titles referred to Jammu and Kashmir as “India occupied Kashmir” and described pro independence leader Muhammad Maqbool Bhat as “Shaheed e Azam” or great martyr.
+
+Bhat, co founder of the Jammu Kashmir National Liberation Front (JKNLF), a militant organisation advocating the reunification of J&K as an independent state, was hanged in Delhi’s Tihar Jail on Feb. 11, 1984 after being convicted on murder charges. Over time, he came to be seen as a foundational figure in the violent separatist movement that gripped the region for more than three decades.
+
+Glorifying him as a martyr undeniably contradicts India’s stance. But the administration’s response — suspending officials, blacklisting authors, withdrawing all their works, launching criminal investigations and ordering a territory wide sweep of every book in every institution — goes far beyond correcting a procurement lapse.
+
+That is part of a broader pattern. In 2025, the government banned 25 books by respected scholars, journalists and historians — from A.G. Noorani, Arundhati Roy, Sumantra Bose, Victoria Schofield, David Devadas and Anuradha Bhasin to Piotr Balcerowicz and others — alleging they promoted “false narratives” and “glorified terrorism”. Critics countered that these were rigorously researched works offering critical political analysis, not propaganda.
+
+The new directive, therefore, intensifies that fear. Schools must now eliminate anything “prejudicial”, “age inappropriate” or “contrary to national interest” — elastic categories easily stretched to fit any inconvenient fact. Police raids on bookstores make the message unmistakable: Only one version of Kashmir’s story is now permissible.
+
+Kashmir’s history — its conflicts, aspirations, traumas and political movements — cannot be erased by administrative order. Memory lives in people, not just pages.
+
+Article 19(1)(a) of the Indian Constitution protects the freedom of speech and expression. The current campaign in J&K undermines that guarantee, replacing dialogue with decree.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-jk-halt-libraries-crackdown-1969955)
+
+---
+
+### DC Edit | Nijjar Face-saver Holds Lessons
+*Deccan Chronicle · Editorial*
+
+The US decision to charge Lawrence Bishnoi and his crime syndicate with ordering and executing the 2023 murder of Khalistani separatist Hardeep Singh Nijjar in Canada has laid bare an impalpable truth for Canada and India each. As for Canada, its Prime Minister almost wrecked its mutually beneficial relationship with India by accusing the Government of India with the crime with no proof to show. As for India, the development points to the fact that a criminal gang can plan, organise and executive a high-profile murder in a foreign country even while spending its days behind bars in this one.
+
+The Nijjar murder had undoubtedly put pressure on the then government of Justin Trudeau in Canada thanks to the presence of the vocal Sikh community in that country but it chose to blame India instead of trying to get to the roots of the crime. It may be remembered that the US decision now comes after a thorough year-long investigation codenamed Operation Hard Ball which hit upon three India-based organised crime groups, including the Bishnoi gang, followed by arrests in the US, Canada and Europe. It has come to the fore that Mr Trudeau’s statement in the country’s parliament and to the public putting India under a cloud over the murder had no force of truth. It is sad that the two countries wedded to democratic ideals had better avenues and platforms to work together to put down crime syndicates but the Canadian administration chose not to do so. It is the duty of the Canadian establishment to introspect and correct that grievous error.
+
+The US decision is an acknowledgment of India’s response to the Canadian charge as “absurd and motivated” but India must admit that it exposes unacceptable gaps in the administration of criminal justice in this country. All those who are responsible for a situation where a person lodged in high security prisons after being charged under anti-terror and anti-organised crime laws and their associates can operate at will in India and abroad must be brought to book. US action may make India feel like it has scored a point in its quarrel with Canada but that cannot be a reason for complacency; it must be taken as an eye-opener instead.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-nijjar-face-saver-holds-lessons-1969720)
+
+---
+
+### DC Edit | Uranium Deal Icing On Cake Of Modi’s Visit To Australia
+*Deccan Chronicle · Editorial*
+
+Securing an agreement for supply of Australian uranium to fuel India’s nuclear power programme was Prime Minister Narendra Modi’s prize catch on his eastern trip to the Antipodes. The landmark deal should open the way to give a new impetus to India’s clean energy objectives, the plans for which have either lain dormant or moved at snail’s pace for over the 12 years since India and Australia had agreed in 2014 on a civil nuclear cooperation pact.
+
+Australia’s preparedness to get its miners to enhance their operations to fulfil India’s large order for nuclear fuel to energise its green ambitions as well as steer away from fossil fuels a little more drastically because of current uncertainties over crude oil supplies and their carbon footprint also sends a message to the world on India as a reliable user of uranium for peaceful purposes.
+
+The ground realities changed in the years since 2014 as the regulations over culpability and compensation in the event of a nuclear accident were altered in the ‘Shanti Act’ of 2025, limiting liabilities to international standards. In those 12 years, much may have been said about selling nuclear fuel but the uranium never came from Down Under. Against a planned nuclear power generation of 100GW by 2047 (22.5GW by 2032), India’s current installed capacity is just 8.8GW from 25 plants that generate only around three per cent of the nation’s power consumption.
+
+As Australian Prime Minister Antony Albanese pointed out, the pre-2014 bilateral ties — and perhaps the ties in the last 12 years — were “underdone” and it is only now that India appears to have moved up the international order to be considered a crucial strategic partner, if not quite an ally though both countries are fellow members in Quad. The nuclear deal caps this new effort to further ties and take the bilateral aspects further regardless of divergent views on China, the country that is invariably the elephant in the room at every major diplomatic meeting.
+
+As Prime Minister Modi vibrantly pointed out, the Indo-Pacific is not just the confluence of two great oceans, it also symbolises shared concerns over maritime security in view of the current geostrategic fears and suspicions. An array of pacts with Indonesia as well as Australia are set to operationalise closer cooperation in maritime matters in which India’s role as a facilitator and coordinator of data sharing has been rising.
+
+The other great worry emanating from recent geopolitical shifts in the wake of US trade moves has been in the field of critical minerals and India’s search for reliable supply chains is spurred by events after China clamped up supplies. And Australia may be well placed with the capacity to supply many materials from its Critical Minerals List. With the nations kicking on towards a fuller ECTA by building on the interim deal of 2022, India may also be hoping to reduce the trade deficit with Australia.
+
+With investments to begin flowing in — an Australian pension fund is taking a $346 million punt on India’s infrastructure fund and New Zealand mulls earmarking an ambitious $20 billion — the importance of pitching India internationally is stressed. Prime ministerial visits carry a lot more significance than the civilian awards that Mr Modi is adorned with but which are a recognition of India’s global heft today.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-uranium-deal-icing-on-cake-of-modis-visit-to-australia-1969945)
+
+---
+
+### DC Edit | US-Israel-Iran War: Talks The Only Exit, But When?
+*Deccan Chronicle · Editorial*
+
+More questions have arisen than answers can be provided to as the US struck more than 200 targets in three days in replying to Iran’s strikes on oil tankers in the Strait of Hormuz and Iran responded to that by launching missiles at Kuwait, Bahrain and Qatar. In the absence of clarity on the ceasefire, which US President Donald Trump hinted “is over”, and the talks which remain stalled despite assumptions that the negotiations will somehow continue.
+
+The world is tired of this clash of egos between the US President and whoever is running Iran now as it brought the days-long funeral for their leader Ayatollah Khamenei who was killed on February 28 in the US bombing of Tehran to an emotional close. Neither Iran hitting ships and US bases in the Gulf nor the US striking Iranian targets is new. The fact remains that this pointless war is still in its stop-start-stop phase and the ceasefire can no longer be called one.
+
+As oil-consuming nations move on from dependence on crude oil and gas from the Gulf, the main losers from the war action are the US, now hurtling towards the midterms amid rising petrol prices and inflation, and the Iranian people who are hapless spectators as their country is being bombed ruthlessly and deaths are mostly confined to civilians in latest military action.
+
+Until the hotheads in Iran realise that using the chokehold of the strait in fits and starts by hitting cargo vessels and oil tankers will prove counterproductive and the US is denuded of its grandiose views of its global military superiority in the age of the modern wars that are fought with missiles and drones rather than territorially, West Asia will remain a live theatre of war action that may remain inconclusive.
+
+Latest bombing action by the US, mostly against military targets in Iran, is being touted as the only way to ensure uninterrupted navigation through Hormuz and stave off another hindrance that could trigger the next big shock to global energy markets. Iran sees US action in guiding ships through the southern tip of Oman as sneaky flouting of the MoU and hence its sporadic acts of targeting ships in Hormuz. Breaking this cycle of aims and counter aims is going to be the key to the calling off hostilities again and resuming talks.
+
+The day appears to be far off when Mr Trump can walk off from the Iran war by projecting himself as the victor even as a resilient Iran appears ready to take more pain as it tests the limits of its single biggest bargaining chip which is the Strait of Hormuz. The only path away from this madness of strikes at ships and bombing by the US is to fall back on the MoU and resume talks in earnest and see who can compromise how much for peace to prevail.
+
+As the oil prices may rise again from the near pre-war levels they had hit when optimism over negotiations had soared in the time of the so-called ceasefire agreed upon through an MoU signed by the two principal combatants, the world will have to face paying a higher price. For instance, the three major Indian fuel retailers may have lost close to Rs 50,000 crore in the June quarter and may bleed more as the government has been unable to raise prices again due to political compulsions. Like the rest of the world, India can only hope that the madness ends soon.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-us-israel-iran-war-talks-the-only-exit-but-when-1969729)
+
+---
+
+### Abhijit Bhattacharyya | Disasters In Air: A Tale Of 3 Avoidable Crashes
+*Deccan Chronicle · Opinion*
+
+All air disasters broadly fall into two categories -- avoidable or unavoidable. The former is due to forced or unforced human errors or unexpected machine failure over maintenance or allied factors, which could have prevented an accident; and the latter (unavoidable) disaster is owing to something which is beyond human error or machine malfunction -- like a lightning strike of engine or unprecedented fury of nature breaking the craft in mid-air into pieces.
+
+Today, one must examine flight safety in various crashes which holds lessons for the future. On November 12, 1996 (under New Delhi’s ATC), 80 km near Palam airport, two airborne craft -- a passenger-carrying Saudi Air 747 which was climbing after departure from Delhi, and a “descending” Kazakhstan Air cargo-laden Ilyushin-76 -- collided at 14,000 feet. It was the world’s worst avoidable mid-air disaster due to human failure (Kazakhstan Air pilot error), killing all of 349 people on board.
+
+An unusually bizarre combination of both “unavoidable” and “avoidable” accident, however, took place June 23, 1985 when an Air India Boeing 747 “Kanishka” exploded mid-air off the Ireland coast, killing all 329 crew and passengers. Now, if a full-load airworthy 747 explodes in fair weather at 15,000 feet while descending, it would prima facie be seen as “unavoidable”. But investigation showed that it was an act of terrorism, due to several lapses of grave nature and criminal negligence by the ground staff at Toronto, from where it took off. The term “unavoidable”, therefore, gets superseded by “avoidable”, and the ground staff error becomes the reason. The Air India crash cause shifts from “unavoidable” mid-air explosion to “avoidable” professional failure by the Canadian authorities.
+
+A “real” unavoidable disaster occurred on March 5, 1966 in Japan when a BOAC Boeing 707, soon after take-off, “broke up after encountering an abnormally strong gust of wind that generated a load considerably in excess of the craft design limits”. All 124 on board perished.
+
+After reviewing these three airborne accidents, let’s get down to basics. If any aircraft faces a major disaster, resulting in 100 per cent fatalities of crew and passengers near, or on, ground in fair weather, with all other factors being normal, the likelihood of such an accident being classified as “avoidable” will be absolutely correct.
+
+Thus, when in clear weather Thursday, June 12, 2025, the fully-laden Air India Boeing 787-8 “Dreamliner”, Flight 171, took off from Ahmedabad and crashed after being airborne for just 32 seconds (from liftoff), there is no doubt that this was an avoidable disaster. But the bigger question is linked to the multi-billion-dollar aviation business. Was this crash owing to human error or a catastrophic machine failure?
+
+The powerful aircraft manufacturer, Boeing, is trying to put the entire blame on the pilot, who is dead, and cannot defend himself. Given whatever familiarity this writer has with the world of aviation, it might be time for some self-introspection by the Western mega-corporation. What does Boeing have to say about the June 15, 2026 crash of the B-52H Stratofortress at Edwards Air Force Base in California, killing all eight crew members on board?
+
+The B-52H is a behemoth, the backbone of the USAF’s manned strategic bomber command. After a 60-second take-off run, it could not even "lift" itself from 15,000-feet runway, crashing after being airborne for just a few seconds. Was this not one of the deadliest peacetime crashes for US Air Force’s 419th flight test squadron? Who was at fault? Man, or machine? Is there any doubt that it was avoidable?
+
+The eight-engine super-bomber rolls down the concrete path 60 seconds to be airborne, but fails to keep climbing. Instead, it falls with a thud and is engulfed by fire. Whatever may be the result of the official inquiry, whosoever may have been at fault, whatever the man-machine deficiency, the final conclusion of the accident inquiry team is bound to conclude that this was an avoidable accident.
+
+Let’s turn now to June 13, 2026, to the Indian Air Force’s Antonov-32 crash on the runway at Jorhat. Jane’s All the World’s Aircraft 1999-2000 has this to say about the original Soviet Russia-manufactured, but now in Ukraine, twin-engine, 27-ton MTOW “short/medium range transport”, which was ordered by the Indira Gandhi government in 1976. According to Jane’s, India procured 123 Antonov-32s, being the first overseas customer of the (then) Moscow-made flying machine.
+
+Unlike other air crashes referred to above, however, any and every Indian could see the IAF AN-32 mishap live from Internet. In fair weather on the morning of June 13, the plane made a perfect touchdown on the 9,000-foot Jorhat runway and rolled steadily for at least five seconds.
+
+Thereafter, in what is still hard to explain, the aircraft, which had already landed, wobbled, stuttered, and made movements like a late-night drunkard trying to do the Bharatanatyam by veering...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/abhijit-bhattacharyya-disasters-in-air-a-tale-of-3-avoidable-crashes-1969710)
+
+---
+
+### Dilip Cherian |The Invisible Hand  Of The Bureaucrat In India’s Pvt Banks
+*Deccan Chronicle · Opinion*
+
+For a country that prides itself on producing world-class financial talent, India displays surprisingly little faith in its own bankers. We've produced institution builders like Deepak Parekh; Indian professionals have gone on to lead some of the world’s biggest global banks, and an Indian now heads the World Bank. Yet when it comes to choosing the people who will preside over our largest private banks, the search often ends not in the banking industry but in the ranks of retired IAS officers.
+
+HDFC Bank’s appointment of former Chief Election Commissioner of India Rajiv Kumar as its part-time chairman is merely the latest example. ICICI, Axis, Kotak Mahindra, Bandhan and Federal Bank have all made similar appointments. Individually, these appointments may be perfectly justified. Together, they reveal a mindset. It isn’t about the competence of retired senior babus but about why they have increasingly become the default choice.
+
+The banks are, in many ways, mirroring Mr Modi's own governance philosophy. Over the past decade, retired and serving officials have increasingly occupied key positions across regulators, commissions and public institutions. Domain expertise often takes a back seat to administrative pedigree. The IAS has become India’s all-purpose leadership cadre. Private banks appear to have internalised the same logic.
+
+But if India’s premier private banks don’t trust career bankers to occupy their own boardrooms, who exactly does? Three decades after liberalisation, we still instinctively look towards North Block whenever an important chair falls vacant. Ownership may have changed, but the mindset hasn’t.
+
+Why Modi is keeping Vikram Misri
+
+The Modi government has made its choice. By extending foreign secretary Vikram Misri’s tenure by another year, it has made one thing clear: this isn't the time to change India’s top diplomat.
+
+The decision is less about one individual than about the moment India finds itself in. The coming year will test Indian diplomacy like few others, with the BRICS chairmanship, a fragile relationship with China, wars in Europe and West Asia, and the challenge of balancing ties with both Washington and Moscow while championing the Global South.
+
+This is hardly the time for a handover, the government believes.
+
+Mr Misri, a 1989-batch IFS officer, is one of the government's most trusted diplomats. He has served in Beijing, worked as deputy national security adviser and advised three Prime Ministers. Few officers understand the China brief as well as he does, and this qualification carries considerable weight in the MEA today.
+
+The extension also fits a broader pattern. The Modi Sarkar has never been rigid about retirement dates when it believes continuity serves the national interest. Experience and institutional memory have repeatedly trumped convention.
+
+There is, of course, a downside. Every extension delays promotions and leaves younger officers waiting longer for the top job. That is a legitimate concern. But in today’s volatile geopolitical climate, for the government to keep a steady hand at the wheel was an easy call.
+
+Haryana’s real crisis
+
+Haryana’s real crisis isn’t corruption. It’s the collapse of accountability.
+
+If this doesn’t shake confidence in Haryana's administration, it's hard to imagine what will. Three IAS officers were arrested in 12 days, and nearly ₹600 crore of public money was allegedly siphoned off. More babus are reportedly under the scanner.
+
+These officials occupied some of the highest offices in the state administration. The arrested babus R.K. Singh, Pankaj Agarwal and Pradeep Kumar handled education, agriculture, urban governance and environmental regulation.
+
+The obvious question is one the government cannot duck: how does almost ₹600 crore disappear without anyone noticing? Government money doesn't simply walk out of the treasury. It passes through approvals, audits, finance departments, treasury officials and senior supervisors. If the investigators are right, this wasn’t just the failure of a few individuals. It was the failure of the system that was supposed to stop them.
+
+That is what makes this scandal so disturbing, even in this current season of scandals erupting all around.
+
+Governments love talking about transparency, digital governance and ease of doing business, but if the state’s own financial safeguards can allegedly be bypassed with such ease, citizens are bound to worry about policy uncertainty. If the government can’t protect its own money, how can it protect yours?
+
+Suspending officers after they’re arrested is the easy part. The difficult part is fixing an administration where accountability often begins only after the CBI arrives. The real scandal isn’t that corruption allegedly happened. Sadly, India has seen that before. The real scandal is that it appears to have flourished inside a system built to prevent exactly this sort of abuse. That’s the lesson Haryana cannot afford to ignore.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-the-invisible-hand-of-the-bureaucrat-in-indias-pvt-banks-1969742)
+
+---
+
+### OF CABBAGES AND KINGS | Perils Of Being ‘Cancelled’… The Twisted Saga Of My Jinnah Play! | Farrukh Dhondy
+*Deccan Chronicle · Opinion*
+
+“The magpie’s cry goes clackety-clack --
+
+It says she’s gone and won’t come back…
+
+Why personify the cry of a bird?
+
+The notes or the sentiment overheard?
+
+The magpie knows nothing of your loss…
+
+And even if it did, it wouldn’t give a toss.”
+
+From Flutter Gutter Verses, by Bachchoo
+
+Unlike some distinguished writers – such as J.K. Rowling -- and several academics, I have never experienced “being cancelled”. This is the contemporary practice of being refused a platform to which one was formerly invited, owing to protests from people and lobbies who don’t like your opinions.
+
+So, JK has been denied a hearing and banned from several platforms because she believes that humans are assigned a gender at birth through their chromosomes and through formation of their sexual organs and secondary gender manifestations.
+
+These bans and cancellations make me wonder if my opinions, which I express in these columns, in others and in my books and speeches from various platforms, are innocuous and not worth bothering about? Perhaps in my short and happy life, though I have acquired the description of being “radical”, I have never sufficiently offended any vociferous lobby.
+
+Luck? Caution? Fence-sitting? (I plead not-guilty, m’lud!)
+
+Not for my opinions, but for my very existence, I have indeed suffered some bans or omissions.
+
+I suppose the first one that comes to mind was when, in the wake of Richard Attenborough’s Gandhi, I was approached by two Pakistanis -- the distinguished director Jamil Dehlavi and a contemporary from Cambridge, Akbar Ahmad, proposing that I write a film on Jinnah.
+
+I said I was out of sympathy with Jinnah for splitting the sub-continent. They said my Indo-nationalist view probably didn’t take in all the facts that caused the fragmentation of British India. They urged me to read Stanley Wolpert’s biography of Jinnah. I did.
+
+Akbar, as producer of the tentative project, had offered me a decent sum of money if I would write the film. And yes, gentle reader, after reading two or three biographies of the Quaid-e-Azam, I understood the complexities that led to “Partition” and told Jamil and Akbar that I would write a script as I conceived it. They agreed and I did.
+
+When I handed in the completed screenplay, Akbar said to me: “That’s great, we’ll start production soon, but Farrukh, you won’t get a credit on screen as the writer!”
+
+I was about to say “pour the hell qua non?” but instead simply asked why.
+
+“Because the film is being financed by Pakistani capitalists who would not support the production if the screenplay was by a non-Muslim Parsi of Indian origin, resident in Britain with a reputation for Marxist views and radical ‘socialistic’ activity.”
+
+“And you are to promise to never claim to have written the film,” Akbar said, “and I want to increase your fee by a thousand pounds”.
+
+Gentle reader, being of a modest (and acquisitive?) disposition, could I refuse?
+
+The film went into production with Christopher Lee, famous for playing Dracula, as the mature Jinnah, and Shashi Kapoor as the angel Jibrail who questions Jinnah in heaven (yes, one of the opening scenes!).
+
+The film was a success in Pakistan -- so much so that General Pervez Musharraf, who was hen in charge, appointed Akbar Ahmad as Pakistan’s high commissioner to Britain.
+
+Then came the unravelling. Jamil and Akbar fell out, with Jamil accusing Akbar of inflating the budget and carrying away extremely large sums of money by pretending they were paid to (non-existent) “script consultants” and other such fabrications.
+
+Jamil blew the gaff, and journalists then called me to ask if I had written the script. I, sticking to my promise, said “no comment”, or the equivalent. Then Seamus Milne, a Guardian journalist, showed me a document which said that I sold the script of Jinnah to Akbar Ahmad for “£1”. It had my signature.
+
+So, he said either I did write Jinnah, or I was accusing the high commissioner of Pakistan of forging my signature. I said I wasn’t accusing Akbar of forging my signature.
+
+“So, you did write Jinnah,” says Seamus Milne.
+
+Out of the bag burst pussy. The UK and Pakistani papers picked up the story and when they called me, I told them that if Gen. Musharraf was handing out diplomatic posts for writing Jinnah, I would be quite happy to be Pakistan’s ambassador to Tahiti and will look after Pakistan’s interests after I’ve looked after some of my own. It was a joke! Dawn printed it.
+
+I subsequently met General (no longer supremo) and Mrs Musharraf at a friend’s party and Mrs Musharraf asked me why my name was not on the film. I told her, and she, and the general, who was listening, said words to the effect of “that’s absurd!”
+
+So, to the latest of such reverses:
+
+I’ve written a play called Karna: Warrior of The Sun, based on the Mahabharata.
+
+My good friend, a producer, proposed to stage it in India in partnership with the National School of Drama. Great!
+
+He subsequently informs me that one of the members of the governing body of...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-cabbages-and-kings-perils-of-being-cancelled-the-twisted-saga-of-my-jinnah-play-farrukh-dhondy-1969968)
+
+---
+
+### Shobhaa De | Did Fadnavis Fiddle While Mumbai Nearly Drowned?
+*Deccan Chronicle · Opinion*
+
+“Rain… rain… go away… Little Donald wants to play…” While Mumbai drowned, the rest of the world stayed afloat, and in particular Big Bully Donald Trump, who tossed away any thoughts about a peace deal with Iran by declaring it was “over”.
+
+Closer to home, Mumbai just about managed to keep its head above water. Without writing another whiney column about the “multiple organ failures” of the BMC (Brihanmumbai Municipal Corporation), which is the primary civic body responsible for the civic infrastructure and day-to-day administration of Mumbai, and also happens to be India’s richest civic body, I do need to vent. When a megapolis virtually shuts down for two
+
+to three days, it is not just unacceptable but borders on the criminal.
+
+A crime minus any punishment. Year after year, Mumbai comes to a standstill because of an annual event -- the devastating monsoon. Note: This is an annual event. Not something that takes Mumbai by surprise. The Mumbai Monsoon is not an ambush. It is not a sneaky stealth attack that catches the city off guard. It is a closely tracked weather pattern. A known beast. “A Hungry Tide”, that sweeps over a city with due warning. Year after year. Despite its predictability and well-established savage behaviour, the lack of preparedness by the civic authorities is nothing short of vicious negligence. It is a wonder, in a city that boasts of the country’s top legal brains, nobody has taken the authorities to court on behalf of citizens. When things get desperate, we invoke the mysterious “Spirit of Mumbai”. Mumbaikars are expected to miraculously rise to the occasion with zero help, and even less responsibility, from those civic bosses and politicians sitting pretty in their homes and offices, offering lame excuses for all the disasters inflicted on sitting ducks -- ordinary citizens.
+
+To add insult to injury, just as Mumbai was staggering back to life, the ineffective and weak Maharashtra government has announced a Rs 13,000-crore “flood plan”. Maharashtra chief minister Devendra Fadnavis rolled out the plan in the state Legislative Assembly -- and nobody laughed! The BMC is currently hanging on to a staggering Rs 78,000 crores in FDs: which is taxpayers’ money.
+
+What is it doing lying around in FDs when there is a dire need to disburse funds right now and rescue Mumbai before some more disasters and deaths occur? Let’s not even talk about The Missing Link – which is CM Fadnavis’s biggest folly. A folly that exposed the worst in our system. The much-touted “Missing Link” (what a strange name!) collapsed before it had even taken off. The “engineering marvel”, built at a cost of Rs 6,695 crores and described as a “feat”, the bypass with two major tunnels connecting Mumbai and Pune, was inaugurated only on May 1, 2026! It is already being described as a gigantic embarrassment … an expensive “link” that is missing! Had it not been for the alertness of a 24-year-old young man named Sandesh Kharat, who, thanks to his presence of mind, pressed an emergency SOS button near the exit of tunnel number 2, when he and his friends witnessed a landslide from a distance of 200 metres. The control room in Pune swung into action. But even before that, the young men stopped approaching vehicles and warned motorists about the landslide. They deserve recognition and gratitude. But hey… that does not absolve the administration from taking full responsibility, owning up and explaining where that money was spent -- who pocketed how much. Rampant corruption in high places has paralysed Mumbai for decades… But the worm is ready to turn!
+
+Despite the downpour that converted Mumbai into a filthy, dangerous swamp, there was reason to cheer -- two high-profile celebrity shaadis were celebrated with the expected dhoom dhaam -- nothing was allowed to dampen the spirits of Bollywood revellers. Mumbai loves its “Monsoon Weddings”, especially if those involve our movie folks. Aamir Khan, 61, lived up to his well-established reputation as a life-long, diehard non-conformist, by marrying for the third time, surrounded by his loving family (which includes two former wives and their children).
+
+The latest Khan wedding generated such a strong buzz on social media that for a few short, sweet hours we forgot all about our soggy, miserable, rain-soaked lives, and joined the party. Hurrah! Aamir set a new fashion trend for desi bridegrooms by wearing heavy anklets and a nose clip. Disappointingly, a beautiful “maang tikka”, sindoor and mangalsutra were missing from his attire.
+
+Not to worry. The wedding of Anshula marked the first marriage in Boney Kapoor’s family. It was celebrated with all the traditional trimmings associated with a boisterous Punjabi shaadi. Rohan Thakkar, the lucky bridegroom, was around. Of course. If fans cared to look for him, beyond the dazzling guests dancing energetically, while the rest of the city limped back to semi-normalcy.
+
+Hallelujah! At least one global person was home and dry even if the ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shobhaa-de-did-fadnavis-fiddle-while-mumbai-nearly-drowned-1969978)
+
+---
+
+### Bonded labour and a ban that failed
+*Deccan Herald · Editorial*
+
+The police rescue of 12 bonded labourers from a factory in Muzaffarnagar in Uttar Pradesh starkly reminds us of India’s persistent, shameful system of forced labour. Hailing from Uttar Pradesh, Haryana, Bihar, Uttarakhand, and Nepal, the labourers were lured by false promises of decent wages, food, and accommodation for working in the manufacturing unit. The victims’ identity documents were taken away, and they were forced to work gruelling, day-long shifts. They were under constant surveillance in the premises guarded by pit bulls. Some of them reportedly endured this ordeal for over 18 months. Their demands for wages were met with severe beatings and torture. Police and government officials acted on a tip-off and raided the unit, rescuing the workers. However, some of the culprits involved in the operation are still at large.
+
+Bonded labour was abolished by law in 1976, but cases continue to surface across the country, exposing an unaddressed systemic failure in enforcing the ban. The Muzaffarnagar incident highlights administrative shortfalls in monitoring for possible violations. It is alarming that an industrial unit was allowed to exploit workers undetected for months. This incident also reflects the desperation of job-seekers and growing vulnerabilities that push them into exploitative workplaces. Most of the victims were picked up from railway stations and public places while they were looking for work. A substantial segment of work-related migration in India is tied to the informal and unorganised sectors, exposing many to deceptive offers of employment. Once trapped in these abusive setups and the documents seized, escape becomes extremely difficult. That many of these captive workers are unaware of their legal and human rights further complicates redress. Weak enforcement, despite strong criminal laws, enables such informal workplaces to function outside the regulatory scope.
+
+Four hours of sleep, husk rotis, Pit Bulls as guards: Rescued bonded labourers narrate harrowing tales in Uttar PradeshFor the administrators, rehabilitating the rescued workers remains one of the toughest challenges. Many survivors require medical treatment and psychological counselling, apart from fair compensation and sustainable livelihoods to rebuild their lives. The onus is on the state to provide these; its role extends beyond legal obligations to ensuring justice and dignity for the victims. The persistence of bonded labour and manual scavenging raises deeper moral questions for society. Oppressive labour practices adopted on farms, in factories, and at other workplaces reflect not only a failure of law enforcement but also a disregard for human dignity. The continued existence of practices that violate individuals’ fundamental rights and honour reminds us simultaneously of institutional gaps and society’s collective inability to eliminate such exploitation.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/bonded-labour-and-a-ban-that-failed-4068329)
+
+---
+
+### For the record: These numbers don’t count
+*Deccan Herald · Editorial*
+
+On June 27, the Bangalore Development Authority (BDA), working with environmental groups, volunteers, resident welfare associations, students and corporate employees, planted 15 lakh native saplings in a single day. The feat earned it a place in the Guinness Book of World Records and drew international attention. Organised to mark the 517th birth anniversary of Bengaluru’s founder, Nadaprabhu Kempegowda, the campaign showcased the city’s collective commitment to environmental conservation. The scale of public participation was remarkable, and the objective of creating urban forests to mitigate rising temperatures and improve groundwater recharge was both timely and commendable.
+
+Unfortunately, the celebration has been short-lived. Reports from several plantation sites reveal a distressing reality. Across parts of Nadaprabhu Kempegowda Layout, Dr K Shivaram Karanth Layout, and other locations, hundreds of saplings are withering. In some places, unplanted saplings have been left abandoned. Instead of lush green patches, several stretches now present rows of dry, lifeless plants, raising questions about whether adequate planning accompanied the record-setting exercise. The BDA had announced that every sapling would be geo-tagged, enabling continuous online monitoring, while officers and partner NGOs were entrusted with maintaining the plantations for three years. Those assurances created an expectation that the campaign would continue beyond the photo opportunity. Yet the condition of many sites suggests that monitoring and maintenance have fallen well short of the promise. Officials point to the delayed monsoon. But the Indian Meteorological Department (IMD) had already predicted late rains. If the plantation schedule was fixed to coincide with Kempegowda Jayanti despite this risk, contingency plans should have been in place. Water tankers, temporary irrigation systems, and alternative sources ought to have been arranged before planting began. Environmental initiatives cannot hinge on weather alone.
+
+Bengaluru: Saplings wither days after world-record plantation driveThis episode raises the question of whether the emphasis was on securing a world record rather than ensuring ecological success. A plantation drive should ultimately be judged not by the number of saplings planted in a day but by the number of trees that survive years later. A dried sapling is more than a failed plant; it represents wasted public effort, squandered resources, and diminished trust – all the more so given that the drive cost nearly Rs 90 crore, largely funded through corporate CSR contributions. The damage can still be reversed. The BDA must urgently intensify watering, replace dead saplings, publicly disclose survival rates and hold partner agencies accountable for maintenance lapses. Bengaluru needs trees, far more than records.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/for-the-record-these-numbers-dont-count-4068330)
+
+---
+
+### Where Pelé rules over IPL
+*Deccan Herald · Opinion*
+
+The summer months in India witness a unique cultural phenomenon: the Indian Premier League (IPL). This multi-billion-dollar franchise cricket tournament becomes an integral part of daily conversations, while creating unprecedented digital engagement through the many streaming platforms that have emerged to showcase the gentleman’s game. Almost every household becomes a participant in this two-month-long festival. One can commonly witness children and youth playing cricket in playgrounds, on campuses, in the streets, and even on rooftops.
+
+However, if you happen to live in or stroll through the Halasuru neighbourhood in central Bengaluru, such a sight is a rarity. One will not see much excitement about cricket among the youngsters here. They live as if they are totally disconnected from a world where cricket is treated as a religion. Cricket was never a passion, attraction, or forte for the people of Halasuru, who predominantly comprise the working class. Unlike the rest of India, where cricket reverberates through every nook and corner, football is the lifeblood for generations of youth here.
+
+They Built a Cricket League to Fix What Apartment Life BrokeAmidst the choked, chaotic traffic circles of Halasuru’s Gun Troop area, a majestic statue of Pelé stands tall. To the locals, he is not just a legend; he is a deity. These residents might overlook a personal injustice or forgive a direct insult, but they will never tolerate a smear against the king of football. Every other house here boasts football players who have competed at district, state, and national levels. The sport has anchored the lives of thousands of youths, offering a reliable pathway to secure government jobs through sports quotas.
+
+Yet, this devotion has a bittersweet edge. For some, an obsessive passion for the game created a tragic illusion of guaranteed stardom, prompting them to drop out of school and college. Their lives became entangled in a web of triumph and unfulfilled promise. Many aspirations often culminate in frivolous local tournaments organised by politicians eager to keep the youth “within the fold” during election seasons. Political affiliations, both direct and indirect, have at times contributed to the decline of promising players, teams, and football clubs.
+
+While the game continues to give dignity and identity to the subaltern classes here, local power structures have proven to be successful in trying to manipulate the vulnerability of the sport. Ultimately, one truth remains absolute: football in Halasuru is historically a working-class, localised counter-narrative to India’s mainstream cricket obsession.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/where-pel%C3%A9-rules-over-ipl-4068328)
+
+---
+
 ## 9 July 2026
 
 ### Checkbox caste: On the counting of caste, Census 2027

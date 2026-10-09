@@ -1,8 +1,239 @@
 # Editorials
 
-_Last updated: 2026-10-08 07:53 UTC_
+_Last updated: 2026-10-09 07:51 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 9 October 2026
+
+### Adequate response: on the RBI and inflation
+*The Hindu · Editorial*
+
+After months of waiting and watching, the Reserve Bank of India (RBI)’s Monetary Policy Committee (MPC) has decided to act to try to rein in rising inflation. Its decision to raise interest rates by 25 bps seemed increasingly inevitable. The RBI now projects retail inflation at 4.9% in Q2, higher than its August projection of 4.7%. This is set to rise in Q3 to 6% before easing marginally to 5.7% in Q4. Global oil prices have again crossed $100 a barrel following a brief reprieve. India’s oil marketing companies, likely following government instructions, have held off on passing most of this increase on to consumers. However, they cannot withstand such fiscal pressures forever. The impact of higher crude prices has been bad enough, but higher petrol and diesel prices will likely send inflation spiralling. Simultaneously, a deficient monsoon is pushing up food prices and will continue to do so for the rest of the year. When supply-side factors are the primary drivers of inflation, an interest rate hike can only have second-order and largely marginal effects on inflation. In such a scenario, the signal sent by the MPC becomes as important as the actual action. The MPC has used this latest policy review to attempt to dampen inflation expectations, an important area of action. The expectation of high inflation in the near future can often become a self-fulfilling prophecy, independent of the factors driving prices up.
+
+A 25 bps interest rate hike is a careful nudge rather than an inevitably ineffectual bludgeon. The fact that the MPC has changed its stance to ‘calibrated tightening’ from ‘neutral’ is the bigger signal. The question no longer is whether the RBI will hike rates in its next meeting in December, but by how much. The message from this stance change is that the central bank will use all the tools at its disposal to keep inflation in check. The RBI also clearly thinks that the economy can withstand such tightening. It has revised upwards its GDP growth forecast for 2026-27 to 7.1% from the 6.7% projected in August. That said, all economic agencies have, even before interest rates were hiked, been predicting a slowdown in the second half of the year. The growth-inflation trade-off will again test the RBI’s deftness. Higher interest rates may also pause the ongoing exodus of Foreign Portfolio Investors (FPIs), giving the RBI some exchange rate-related breathing room. The central bank has done what it can on inflation so far. The onus is now on the government. It has several tools to control food inflation, such as strategic buffers, import and export controls, anti-hoarding measures, and open market operations. Those need to be used more effectively.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/adequate-response-on-the-rbi-and-inflation/article71560012.ece)
+
+---
+
+### Chance and happenstance: On the Nobel Prize in Chemistry
+*The Hindu · Editorial*
+
+Only in imagination, the mathematical imagination, does perfect equality exist. A fair coin has an equal probability of heads and tails, so across many tosses, the expectation is for the proportions to approach 50:50. Laborious demonstrations have shown that this is rarely the case; bias is preloaded into life. Only about 10% of humans are naturally left-handed; a species that is a minority can overwhelm a resident population within a few generations. Economists refer to the ‘Matthew effect’ of the rich getting richer and the Pareto principle, and small accretive effects compounding. This is not just human sociology at work. It has been known since the work of the French chemist Louis Pasteur in 1848 that lifeless molecules can have mirror-image forms, like a left-handed glove and a right-handed glove. Chirality is the term chemists use for this molecular “handedness”: a left-handed glove fits the left hand better than the right, even though the two may look like mirror images of one another. Chemists call the resulting predominance of one molecular handedness homochirality, from the Greek words for “same” and “hand”. As with hands, almost all amino acids — the building blocks of proteins — exist as two mirrored variants, but only one of them, the ‘L’ or left-handed version, is found in the proteins in the cells. In the case of sugar molecules, it is the right-handed, or ‘D’, that are part of human DNA. Despite the various available options, life likes to choose one. In their labs, chemists have been able to create equal numbers of left- and right-handed variants of these mirrored molecules, but it turns out that for making pharmaceuticals, it greatly matters which version of a mirrored molecule one uses. The thalidomide drug exists in two mirror-image forms, and their different three-dimensional shapes affect how they interact with biological molecules. Between 1957 and 1961, thalidomide resulted in more than 10,000 babies across the world being born with severe congenital abnormalities.
+
+Henri Kagan and Kenso Soai have been awarded the Nobel Prize in Chemistry for explaining how such homo-chirality may have emerged and devising a reliable method for ensuring that a desired variant of a molecule be synthesised. Kagan’s insight has an intriguing parallel with evolutionary biology: small initial differences need not produce proportionately small outcomes. Soai showed that a tiny initial excess of one molecular form can, under the right conditions, be amplified: the product of his reaction catalyses the formation of more products with the same handedness. Other than laying forth a model of how Matthew effects may underlie evolution, their work underlines how the quest to explain natural phenomena, driven by curiosity alone, can yield insights with practical applications to improve lives and also blaze trails for the future.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/chance-and-happenstance-on-the-nobel-prize-in-chemistry/article71559993.ece)
+
+---
+
+### Flawed by design, exclusionary in impact
+*The Hindu · Opinion*
+
+For more than 75 years, the defining preoccupation of the Election Commission of India (ECI) has been “inclusion”. The first general election of 1951-52 had to enrol an electorate of around 17 crore from scratch, many of whom were illiterate. Successive Commissioners treated universal adult franchise as a promise to be fulfilled rather than just a principle to be stated on paper. India could genuinely be proud of being an electoral democracy where voter turnout among the poor is higher than that among the rich, unlike in many western democracies.
+
+Editorial | Obstacle race: On Special Intensive Revision exercise
+
+The Special Intensive Revision (SIR) of electoral rolls launched by the Chief Election Commissioner (CEC) of India, Gyanesh Kumar, has reversed this progressive direction. It was termed an exercise to “purify” the electoral rolls, but in practice, it is riddled with methodological flaws and ad hoc rule changes, resulting in the deletion of a large number of genuine voters.
+
+The names of 13.37 crore people were struck off during the draft stage across 30 States and Union Territories in the three phases of the SIR. The figure includes 65 lakh in Bihar, 6.57 crore in the 12 States and Union Territories covered in Phase 2, and 6.15 crore in Phase 3, whose final rolls are yet to be published. The deletion rate doubled as SIR progressed — from 8.3% in Bihar to 12.9% in Phase 2 and 17% in Phase 3 (it was 32.8% in Delhi and 21.7% in Telangana). In Phases 1 and 2, even after names were added back, net deletions were about 6.2 crore.
+
+Deleted, and left in limboIn Delhi, the draft roll has only 97.54 lakh electors, barely above the 94.95 lakh who voted in the February 2025 Assembly election. In 24 of Delhi’s 70 constituencies, the draft roll now has fewer electors than the number who voted in the election. The ECI has in effect conceded the point about disenfranchisement. It has now directed officials to run a “special drive” to enrol anyone “whose name has got left out” — an implicit admission that its rolls are missing eligible voters.
+
+Flaws by designFirst, enumeration. The ECI’s Manual on Electoral Rolls (2023) describes an intensive revision as a “denovo process without reference to the earlier existing roll” (paragraph 9.3.1); enumerators visit every house and record the particulars of each eligible resident. If a particular elector’s citizenship is in doubt, the Manual requires officials to give “probative value” (paragraph 7.4.2) to their presence on the preceding roll, and places the onus on the objector and not the elector.
+
+The SIR inverts this procedure. It shifts enumeration on to electors and presumes that they are ineligible until they can trace themselves or a parent to the last intensive revision conducted more than two decades ago, or produce documents to establish their eligibility in what resembles a citizenship test.
+
+Should the EC take action against those filing forms for mass deletions?Electors who could not be found, did not receive or return the form, or were unable to fill it — due to illiteracy, for example — were dropped from the draft roll, even if they had voted in the last election. All this was done at breakneck speed, on the eve of elections in several States.
+
+Second, re-entry. A deleted voter cannot be easily restored, even if he or she has merely shifted address within the constituency. They must apply through Form 6 — the application for new voters — as though they had never been on the rolls. Since newly eligible 18-year-olds also use Form 6, the ECI has made it impossible to distinguish new voters from returning voters in the published figures, preventing a proper audit.
+
+Third, “logical discrepancies”. Software matched electors against two-decade-old rolls and flagged mismatches for scrutiny. These included spelling differences, more than six voters linked to one ancestor, and parent-child age gaps outside 15 to 45 years, among other arbitrary criteria.
+
+Decoding 2 crore deletions in Maharashtra’s draft electoral roll after state-wide SIRThis was first fully applied in West Bengal, where 60 lakh names were flagged and judicial officers deployed by the Supreme Court of India struck off 27 lakh names. Appellate tribunals appointed since then have restored electors in 93% of the cases, bringing back about one lakh names onto the rolls. But by early September — months after the Assembly election — they had disposed of only 1.22 lakh of more than 38 lakh appeals, or 3.2%. Moreover, 16.1 lakh appeals were filed to remove electors whom judicial officers had found eligible. Who authorised this on the ECI’s behalf remains unanswered. Meanwhile, another 19.33 lakh electors on Delhi’s draft rolls have been flagged for “logical discrepancies”.
+
+Fourth, centralisation. Changes to the rolls increasingly flow through the Electoral Roll Officers’ Network (ERONet) database, overriding Electoral Registration Officers, who are the statutory authorities on eligibility. State election officials have complained that they cannot see centrally made changes to the rolls in their own constituencies.
+
+Fifth, lack of a baseline. Without the latest Census — which has been delayed by the Centre — there is no firm population baseline to check the rolls. The ECI also dismisses projected population figures as mere estimates. For example, in Tamil Nadu, the final roll of 5.67 crore is about 33 lakh short of the projected 6.02 crore.
+
+Why West Bengal’s decision of linking social security benefits to SIR is being challenged | ExplainedThe impact of these flaws was drastic but varied across States. In Bihar, where migration for work is overwhelmingly male, more women than men were struck off the rolls, particularly those aged 18-29 years and recorded as “permanently shifted”. The gender ratio in the final SIR rolls fell to 892 from 907 in the 2024 Lok Sabha rolls.
+
+In West Bengal, statistical analyses by the Kolkata-based SABAR Institute, a public policy and research organisation, estimated that 65% of those deleted after adjudication for “logical discrepancies” were Muslims, despite Muslims accounting for roughly 27% of the State’s population.
+
+A protest in Bengaluru | Photo Credit: THE HINDU/ALLEN EGENUSE J.
+
+A deferential CourtFor months, the Court confined itself to managerial interventions on the SIR. It ruled only on May 27, after Phase 2 had ended and Phase 3 was notified, upholding the SIR.
+
+Legal scholars have raised three broad substantive objections to the judgment. First, Section 21(3) permits a special revision “for any constituency or part of a constituency” — an exceptional and targeted power. Yet, the Court allowed the ECI to use it for a State-wide exercise, freeing it from the Registration of Electors Rules governing ordinary revisions.
+
+Second, rather than asking whether a less harmful method, such as door-to-door verification and enrolment, could achieve the same objective, the Court asked only whether the SIR was “manifestly excessive”.
+
+Decoding 2 crore deletions in Maharashtra’s draft electoral roll after state-wide SIRThird, the Court sidestepped its own three-judge ruling in Lal Babu Hussein (1995), which struck down a “sweeping” revision that demanded citizenship documents from nearly 18,000 residents of Delhi’s Matia Mahal. The ruling, also incorporated into the ECI’s Manual, held that a name on the electoral roll is presumed valid and can be removed only after notice and a hearing.
+
+Essentially, the Court found that disenfranchisement was not “widespread or systemic” enough to warrant intervention, without specifying what would matter instead. The judgment emboldened the ECI to proceed with the flawed SIR in Phase 3, where deletions have risen sharply.
+
+Dissent from withinReports revealed that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi recorded at least 14 objections between October 2025 and August 2026. One concerned Form 6 being altered, without amending the rules, requiring applicants to state whether they or their parents or grandparents appeared on the “last SIR” roll. The ECI’s response to the revelations was mere window-dressing with some administrative changes. As the two Commissioners constituted a majority, they should have used it to stop these decisions, but did not.
+
+The Court is now hearing petitions concerning West Bengal and Delhi, as well as pleas seeking the CEC’s suspension over the ECI’s conduct. It should use these proceedings to revisit its judgment on review or before a Constitution Bench. It should halt the SIR and order an audit of rolls finalised so far before any further deletions. Enumeration should return to door-to-door verification by Booth Level Officers, while States going to the polls soon should use their pre-SIR rolls, updated with fresh enrolments.
+
+Decoding SIR impact in West BengalAnything less would endorse a process that professes time and again that no eligible elector will be left out while patently doing the opposite. It has removed more than a lakh genuine voters for certain, and possibly crores. The ECI, built to widen India’s adult franchise, has instead spent more than a year narrowing it.
+
+srinivasan.vr@thehindu.co.in
+
+ponvasanth.ba@thehindu.co.in
+
+[Read full article](https://www.thehindu.com/opinion/lead/flawed-by-design-exclusionary-in-impact/article71560731.ece)
+
+---
+
+### Redrawn boundaries: A policing challenge
+*Deccan Herald · Editorial*
+
+The proposal to split the Bengaluru City Police Commissionerate into five units deserves scrutiny before it becomes another fait accompli in the city’s administrative reorganisation.
+
+The plan envisages five territorial commissionerates, each headed by an officer of IGP or DIG rank, functioning under a Chief Police Commissioner whose post will be upgraded to the DGP rank. There is a reasonable case for decentralising policing in a city of more than 1.5 crore people that continues to expand geographically.
+
+A single commissionerate may no longer be best suited to oversee such a vast and complex urban region. Smaller jurisdictions could enable quicker decision-making, closer supervision of police stations, and more effective deployment of personnel based on local crime and traffic patterns.
+
+Aligning the police structure broadly with the Greater Bengaluru Authority’s five corporations could facilitate coordination between law enforcement and civic agencies. Greater field-level presence of senior officers could strengthen accountability and grievance redress.
+
+Bengaluru to get 5 police commissionerates: What works, what may notHowever, the proposal is not a straightforward replication of models adopted elsewhere. Hyderabad has four commissionerates, while Chennai has three. Each functions independently, with its commissioner reporting directly to the DGP.
+
+Bengaluru, in contrast, proposes five territorial commissionerates under a single citywide Chief Police Commissioner, retaining unified command while decentralising the force. This hybrid arrangement may offer advantages, but raises important questions. It could create a top-heavy hierarchy, while jurisdictional disputes, delays in inter-commissionerate operations, and difficulties in pursuing crimes that cross boundaries are genuine risks.
+
+Former police officers have also questioned whether a civic structure can simply be replicated in policing, since crime, law and order, traffic management, and emergency mobilisation do not necessarily follow municipal boundaries.
+
+Critics have suggested that the proposal could partly be intended to accommodate senior officials seeking postings in Bengaluru rather than being driven by operational necessity.
+
+The government should therefore undertake wider consultation before finalising the restructuring. The recently constituted police reform committees offer an appropriate forum for such an exercise. Equally important is the long-pending need for dedicated investigation wings in every police station.
+
+The quality of investigation and prosecution suffers when officers have to juggle law and order and other duties. Bengaluru needs police reform proportionate to its size and complexity, but structural reorganisation should deliver demonstrable improvements for citizens – not become an end in itself.
+
+A broader consultative process can help ensure that reform addresses the city’s most pressing policing deficiencies rather than merely adding layers to the chain of command.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/redrawn-boundaries-a-policing-challenge-4175709)
+
+---
+
+### Repo rate hike is a necessary check
+*Deccan Herald · Editorial*
+
+The Reserve Bank of India (RBI)’s decision to increase the repo rate by 25 basis points is not unexpected, given the developments over the past few weeks.
+
+The Monetary Policy Committee (MPC) has raised the rate to 5.5% – a unanimous call, with the Committee also delivering a 4-2 verdict favouring a shift in its monetary stance from “neutral” to “calibrated tightening”. This change in position shows that the MPC does not envisage further easing of the rate in the near term – “policy action ahead can only be a rate hike or a pause”.
+
+The latest hike is the first since February 2023. In 2025, the RBI reduced the repo rate by a cumulative 125 points and had since held it stable at 5.25%.
+
+Indian stocks tank after RBI hikes repo rate; over Rs 10 lakh crore of investors’ wealth wiped outA repo rate hike was imperative for the MPC in the face of rising inflation, a decline in agricultural output caused by a deficient southwest monsoon, and an unfavourable geopolitical environment. Inflation has remained above the bank’s comfort level of 4% in the past three months and was 4.8% in August.
+
+The RBI estimates consumer price inflation for the current financial year to increase to 5.2%. While headline inflation is expected to average around
+
+5.8% in the next three quarters, core inflation is projected at 4.4% this financial year. The bank is committed to keeping inflation within the prescribed limits and has used the monetary tool at its disposal to counter the rising trend.
+
+Challenging geopolitical developments, primarily caused by the reescalation of the war in West Asia in September, have been cited among the key factors that contributed to the MPC’s decision. Crude prices are at a high, other commodity prices are rising, and the volatility in financial markets remains a concern. Other central banks have increased interest rates in recent weeks.
+
+The pressure on the rupee has continued. RBI Governor Sanjay Malhotra said the duration and extent of further increases in the rate would depend on the actual growth-inflation movement and outlook. The economy, as it stands now, gives RBI the room to raise the rate. Real GDP grew at 7.8% in the first quarter of FY 2026-27, and the apex bank has raised the full-year forecast from 6.7% to 7.1%.
+
+The numbers point to conditions favourable to absorbing a higher repo rate without the move causing any serious fallout. Housing loans may become dearer, and pressure may emerge on discretionary spending. But the economy can only weaken without a check on inflation.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/repo-rate-hike-is-a-necessary-check-4175710)
+
+---
+
+### Elon-Gated: Musk’s global clout meets India’s regulatory moat
+*Deccan Herald · Opinion*
+
+Elon Musk appears to feel ‘Elon-gated’ in India. After years of preparing to launch Starlink, his satellite-Internet business, he is still waiting for the final regulatory clearances to begin commercial operations. Frustrated, he has suggested that powerful Indian business interests are protecting their monopolies, even asking whether Mukesh Ambani is the “real boss of India”.
+
+It is a clever play for global attention, but it raises a question far more consequential than Musk’s impatience: must India lower its guard whenever a global technology billionaire wants access to its market?
+
+The facts, however, deserve more attention than the theatrics. Starlink has obtained an initial licence, but security clearances and spectrum-related approvals remain outstanding. The government says the regulatory process applies to Starlink, Reliance Jio Satellite Communications, and Eutelsat OneWeb, and has rejected allegations of discrimination.
+
+A company’s global reach, its technological sophistication, and its owner’s extraordinary wealth and closeness to the White House cannot confer a special right to enter the Indian market on its own terms. Nor does a delay in regulatory approval automatically establish that somebody is protecting a monopoly.
+
+We should understand the strategic importance of Satellite communications. A network that can connect a remote village, a ship at sea or an area beyond the reach of conventional broadband can be transformative. Yet the same technology can carry communications across borders, operate beyond the familiar footprint of terrestrial networks, and create dependencies that may become difficult to unwind. The promise is immense, but so are the questions about security, surveillance, data, jurisdiction, and control.
+
+But satellites cross borders, and sovereignty cannot depend on a foreign company’s assurances. Where does Indian data travel? Can our agencies lawfully intercept communications or restrict services when security demands it? And if things go wrong, how easily can Indian consumers or the government hold a foreign operator accountable? Indian ownership does not guarantee better conduct, but domestic jurisdiction offers more direct avenues for legal redress and political accountability.
+
+Sovereignty cannot be outsourced to billionaires
+
+For decades, countries worried about who controlled their ports, oil supplies, power grids, and defence systems. The digital age has added communications networks, cloud infrastructure, data centres, and satellite systems to that list. The strategic question is increasingly about who owns the infrastructure, who controls its operations, and what happens when commercial interests collide with national priorities.
+
+India needs a deep sovereign moat around critical digital infrastructure. That means domestic capabilities, secure networks, regulatory authority, and credible alternatives when foreign suppliers become unreliable or strategic relationships change.
+
+This is why the government has every right to examine Starlink’s security arrangements and decide what safeguards are necessary. The same right belongs to every sovereign country.
+
+'Is Ambani the real boss of India?': Musk doubles down as govt rejects Starlink charges; 'Wait till you discover the other guy', Rahul responds Of course, sovereignty must not become a convenient excuse for endless paperwork. If clearances are pending, the government should explain what remains to be done, and complete the process within a reasonable timeframe. Rules must be consistent, and regulators must be accountable for delays. But there is a world of difference between demanding administrative efficiency and suggesting that India owes a company unconditional entry because it has already entered other markets.
+
+Indian business needs no foreign moral lectures
+
+Musk’s allegation against Indian conglomerates raises another question. Why should an established Indian business be expected to surrender its market simply because a formidable foreign competitor wants a share of it? Every business has a right to defend its commercial terrain through investment, innovation, pricing, and competition within the law. Protecting market share is part of business everywhere, not some uniquely Indian affliction.
+
+Look at the Western world, where corporate giants fight fiercely to protect their markets, acquire competitors, lobby governments, and influence the rules under which they operate. Technology companies have built enormous businesses around platforms that shape how people communicate, consume information, and conduct commerce. Their private capital gives them the ability to compete across borders and influence public narratives on a scale that few institutions can match. The sharks in Western waters are no less formidable than those in India.
+
+India has its own market quirks, and allegations of preferential treatment towards certain conglomerates deserve scrutiny. But our leading business groups have demonstrated project management, execution at scale, and the ability to deliver complex infrastructure that can stand alongside the global best. A country accounting for roughly one-sixth of humanity, with a young population and enormous technological ambitions, cannot afford to hand over its frontier industries to Western companies before building the capacity to compete on its own terms. Our dependence on US Big Tech for much of our digital infrastructure is already a strategic vulnerability that India must learn to manage.
+
+A foreign billionaire cannot turn suspicion into a verdict simply by posting it to millions of followers. Nor should his company’s commercial ambitions be confused with the Indian public interest.
+
+Centre, Elon Musk clash over Starlink licensing delaysThere is an irony in seeing global technology leaders cast themselves as champions of fairness while commanding extraordinary economic and narrative power. Their businesses have interests to protect, markets to capture, and competitors to outmanoeuvre. They are entitled to make their case in India, just as Indian businesses are entitled to defend theirs. They are not entitled to a higher moral standing merely because they operate at a global scale.
+
+Political theatre must not eclipse national interest
+
+The political response to Musk’s remarks has been equally revealing. Rahul Gandhi’s exchange with the entrepreneur, including his reference to another powerful figure in India, turned a regulatory question into an opportunity for political theatre. Politicians are entitled to question corporate influence and demand answers from the government. They should also understand what is at stake when they endorse a foreign billionaire’s framing without examining the technology behind the controversy.
+
+There are two possibilities. They may be underestimating the risks that frontier technologies pose to sovereignty, security, and democratic accountability. Or they may recognise those risks but find Musk’s complaint politically useful.
+
+The real test of sovereignty is whether India can engage with the world’s most powerful companies without being overawed by their money, technology or ability to command global attention. We should welcome innovation, invite investment, and compete with the best. But the terms must be India’s to set, because the consequences will ultimately be borne by Indians.
+
+Srinath Sridharan is a corporate adviser and independent director on corporate boards. X: @ssmumbai. Anand Venkatanarayanan is a strategic security and digital policy researcher. X: @iam_anandv. (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/elon-gated-musks-global-clout-meets-indias-regulatory-moat-4176147)
+
+---
+
+### Rahul Gandhi’s new protest playbook redefines grammar of dissent
+*Deccan Herald · Opinion*
+
+Congress leader Rahul Gandhi’s protests have shifted from large rallies of party supporters planned weeks ahead to surprise actions designed to catch eyeballs.
+
+The new tactics first appeared in July, during the Gen-Z protests, when Congress MPs gathered to celebrate party president Mallikarjun Kharge’s birthday and unexpectedly marched to 7, Lok Kalyan Marg, the prime minister's residence.
+
+In August, Rahul Gandhi and his sister Priyanka Gandhi Vadra staged a sit-in at Parliament Street police station to ensure the police registered an FIR by a student whose eye was injured by a police pellet gun. More recently, eyeballs caught him climbing a police barricade and waving the tricolour. This was followed by an impromptu decision by the siblings to enter Akashvani Bhavan and convert it into a protest site after police blocked the route to the office of the Election Commission of India (ECI).
+
+A day later, a lunch gathering of over 100 Opposition MPs in Connaught Place turned into a surprise march to Jantar Mantar against Chief Election Commissioner (CEC) Gyanesh Kumar. When police stopped the MPs, Priyanka Gandhi lay down on the road, producing viral posts and reels. The lunch turned into a six-hour protest, and a police bus ferrying the protesting MPs to a police station took two-and-a-half hours to cover a distance of barely 10 minutes. Thousands of reels would have been made in that time.
+
+Reportedly, at a closed-door meeting of party functionaries on October 5, Rahul Gandhi urged them to devise out-of-the-box protest techniques with an element of surprise and shock value. He reportedly cited the instance of Youth Congress workers staging a ‘shirtless protest’ at the global AI Summit organised by the Narendra Modi government in February that took media attention away from the event.
+
+Improvisation and street-level politics may in fact be a useful strategy for an embattled Opposition stymied by the ruling party’s overwhelming strength in Parliament, to raise political issues.
+
+Rahul Gandhi's own body plays a part in conveying the message of civil disobedience: sitting outside the prime minister’s residence or lying on the road as police grapple to remove him by force, climbing on police barricades with the national flag, or resisting with his body as he is pushed into a police vehicle. While a young protester may be pushed, dragged or detained with little institutional consequence, doing this to the Leader of the Opposition, surrounded by MPs and TV cameras, can carry severe political costs. Both he and the police are well-aware of this. It forces the government into a policing dilemma. Blocked from the protest site, detained or dragged by the police, Rahul Gandhi becomes the story and an abiding political image.
+
+The availability and reach of mobile cameras have changed the economy of policing since the July student and youth protests. After visual recordings of brutal treatment of youngsters with tasers, spiked batons and pellet guns were publicly circulated, the Delhi Police seem to have realised that power is harder to use when they are themselves under surveillance by thousands of protestors recording their actions on mobile cameras.
+
+As recordings of visible coercion can lead to accountability and scrutiny, the police have been pushed to adopt less visually damaging forms of control. The formulaic strategy of batons and tear gas to disperse protestors has given way to barricades, containment, detention, and FIRs. Some personnel have been issued bodycams, and frontline police no longer carry batons or weapons, although occasionally name tags are still missing when in action.
+
+Rahul takes centre stage of street politics in protest against CEC Gyanesh KumarMoreover, the State no longer has a monopoly over the record of coercive force, particularly before the law. The police can no longer assume that the only visual record of violence is their own. Perhaps Rahul Gandhi is moving into a political space and practice created by the Gen-Z protests.
+
+How do these guerrilla-style protests differ from earlier party rallies? For one, they draw far greater attention. A large conventional rally speaks to people who are already supporters or have been bussed-in or paid to attend. Any confrontations with the police en route draw little or no attention. By contrast, Rahul Gandhi's video waving the tricolour from a police barricade on October 6 crossed 2.7 million Instagram views in just three hours, on one platform and from one post.
+
+Such protests also turn abstract claims (‘The CEC is manipulating electoral rolls’, ‘ECI is not independent’, ‘SIR is vote-theft’) into a visual image. As a visual vocabulary is built gradually through social media reels, people can grasp the meaning behind ‘vote-chori’ and ‘Gyanesh, you are done bro’.
+
+Because these posts stay in circulation, the narrative outlives the event. Public participation no longer requires physical presence; watching videos does the job, and reels draw more attention than a one-time rally can. The message is economical as it reaches people who would never attend a party rally. As it speaks to the language of Gen Z, it is likely to attract younger citizens as well.
+
+In effect, a political protest is no longer about a mass gathering at one site but a confrontation that creates dramatic optics, captured on camera, and spread online. These images of confrontation with the State machinery become more powerful than a speech in Parliament or at a rally. Once they become viral, government control over the ‘Godi media’ or mainstream media weakens as they too must follow them.
+
+Performative protests, however, have a serious downside. Memorable, camera-friendly confrontations alone are not sufficient to convert public attention into popular belief. ‘Vote-chori’ must become more than a highly recognisable slogan for the Congress. It will have to become a deep-rooted conviction among the masses. The protests must be accompanied by party cadre helping citizens whose voting rights have been denied by documenting their problems and getting them re-registered as voters. Only when that is done on as large a scale as possible and in a non-partisan manner — by helping even those who are outside the Congress ecosystem — will the narrative acquire political durability and pay electoral dividends.
+
+The Congress’ ‘Vote Bachao, Desh Bachao’ campaign attempts to do this: party workers have apparently been asked to identify people whose names are missing from the rolls and help restore them. Providing this service should be the sequel to the visible protests.
+
+For the message of theft of democracy to endure, the party organisation at the ground level will have to put its shoulder to the wheel. It will also have to work harder with allies who have deep and strong political organisations but may feel left out of the limelight with Rahul Gandhi’s new improvisational style.
+
+Bharat Bhushan is a New Delhi-based journalist. (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/rahul-gandhis-new-protest-playbook-redefines-grammar-of-dissent-4176103)
+
+---
 
 ## 8 October 2026
 
@@ -52,6 +283,46 @@ For India, a national picture of risk can guide priorities; States, scientists a
 Supriya Sahu is a senior administrator in the Government of Tamil Nadu, and has worked extensively on environmental policy, ecosystem restoration, wildlife and biodiversity conservation and climate action. She is a recipient of the UNEP Champions of the Earth award 2025. Yash Veer Bhatnagar, the Country Representative for the International Union for Conservation of Nature (IUCN) in India, is a scientist with over three decades of experience in conservation science and practice. He received the SANCTUARY Asia Wildlife Service Award in 2015.
 
 [Read full article](https://www.thehindu.com/opinion/lead/from-the-brink-to-a-comeback-hope-for-indias-wildlife/article71556672.ece)
+
+---
+
+### DC Edit | Dialogue Key to Resolving CEC-Opposition Standoff
+*Deccan Chronicle · Editorial*
+
+The agitation demanding the resignation of Chief Election Commissioner Gyanesh Kumar for the alleged wrongdoings associated with the special intensive revision of the electoral rolls across the country will enter a new phase when the Cockroach Janta Party (CJP), along with various student organisations, join the ongoing agitations at the Jantar Mantar protest site on October 10. It is in the interest of all that the agitations go on peacefully and the protesters and the government, especially the Delhi Police, handle the situation with wisdom and equanimity.The Constitution allows peaceful assembly of people for legitimate reasons, and both the protesters and the government need to recognise this. It is going to be an assembly of young people with little or no training, though the Left student unions are part of these protests. The leadership must take every possible measure to ensure that the crowd can raise its voice demanding justice for the masses who have been struck off the electoral rolls for no fault of theirs in a peaceful manner. The means matter equally or even more than the end. The people have a cause, genuine and bona fide. They should not allow an occasional rogue element or two to derail it.The July 20 police brutality on the students who were protesting against then Union education minister Dharmendra Pradhan in the same place has cast a doubt on the attitude with which members of the force took on unsuspecting protesters, several of them teenagers. The police are accused of using excessive force and even sexually assaulting them. The police action triggered so much public agitation that the Supreme Court was compelled to set up a commission under the leadership of a former judge of the apex court to investigate it.The police behaviour this time around does not inspire confidence either. There have been instances of police excesses: a journalist has accused a senior police officer of groping her. The protesters and the civil society members had to amplify their voice to get an investigation against the officer concerned started. The CJP has already raised serious complaints about the police misbehaving with the protesters. The police must rein in the rogue elements within it and everyone in uniform must be told in no uncertain terms that they are to act in accordance with the law.The showdown between the student-protesters and the police last time had brought to the fore this disturbing fact. Several of the assailants in uniform had their nameplates removed, too. There were also visual proof of people with no uniform, or who are not part of the force, acting in concert with the men and women in it. This is not acceptable. True, the police must handle the difficult task of controlling a highly charged group of students and young people which could test their nerve. But they must depend on their own professionalism and skills, and not on hired hooligans.There are also reports of right-wing activists moving towards Jantar Mantar. The people who run the government at the Centre must not consider it a wise option to allow them to unleash violence. They must instead trust in the power of democracy and engage the protesters in dialogue. This is not a new idea as it is the same advice Prime Minister Narendra Modi shares on global platforms. Democracy has the power to address issues in democratic terms, and both sides must be mindful of that.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-dialogue-key-to-resolving-cec-opposition-standoff-1994183)
+
+---
+
+### DC Edit | Farewell, Natsamrat
+*Deccan Chronicle · Editorial*
+
+The sudden passing of Nana Patekar at the age of 75 leaves a void that no performer in Hindi or Marathi screen history can easily fill. In an industry often dominated by polished glamour and predictable heroism, Patekar was a trendsetter — he reminded Indian cinema that performance need not be glossy to be powerful.Born Vishwanath Patekar and trained at the Sir J.J. Institute of Applied Art, he started as an actor in theatre, carried the discipline of the stage into cinema and treated performance as craft. His breakthrough performances in Ankush, Pratighaat and Vidhu Vinod Chopra’s Parinda disrupted traditional paradigms of screen performance. As Anna Seth in Parinda, he redefined the Indian cinematic villain — earning him his first National Film Award. He went on to win two more national awards and a Padma Shri.Krantiveer, Prahaar: The Final Attack, Salaam Bombay!, Ab Tak Chhappan and Welcome revealed different facets of an artiste who resisted being confined to a particular kind of role. He could play rage without becoming theatrical, vulnerability without becoming sentimental and comedy without surrendering his intensity. In his later years, his soul-stirring turn as an ageing theatre actor in the Marathi masterpiece Natsamrat showcased a masterclass in tragic restraint. His face, voice and extraordinary command of silence could dominate a scene.Off-screen, Patekar was as uncompromising as the characters he played. He trained with the Indian Army to prepare himself for the role in Prahaar: The Final Attack. At the peak of the Kargil war in 1999, he used that same experience to convince then defence minister George Fernandes to let him work for the Army. He spent around 60 days with the troops in conflict zone.His social consciousness was not a public relations exercise; through his NAAM Foundation, he worked tirelessly for rural development and agrarian relief in drought-stricken Maharashtra, standing alongside farmers when they needed his voice the most.Uninterested in the trappings of stardom, he lived with deliberate simplicity and spoke his mind without mincing words.That Maharashtra chose to accord him a funeral with full state honours was fitting recognition of a career that enriched Marathi theatre as well as Marathi and Hindi cinema.The lights have gone out on one of Indian cinema’s most unmistakable voices. What remains is the body of work — angry, tender, flawed, unforgettable — that cannot be measured merely in films, awards or memorable dialogues. And that is how an artiste must be remembered.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-farewell-natsamrat-1994167)
+
+---
+
+### Pradeep S. Mehta | How to Sustain the Modi Effect to Achieve Goal of Viksit Bharat
+*Deccan Chronicle · Opinion*
+
+The case for a “Modi Restoration” rests on carrying the vision of Viksit Bharat beyond individual programmes and embedding it in India’s democratic institutions across generations. We have not had a leader like Mr Narendra Modi, who is celebrating 25 years in public life, since long. The task now is to make that his vision endures through productive, quality jobs, investment in people and research, and institutions reinforced to work together. The Meiji lesson remains relevant: National ambition must be supported by capabilities that sustain progress through changing circumstances.Development is increasingly becoming a cross-sectoral affair. Manufacturing requires energy, transport, finance, technology and skills; disruption in one can affect them all. Catastrophic changes like environmental disasters, geopolitical conflicts and cyberattacks can compound each other. Such polycrises calls for anticipating risks and preparing responses before emergencies arise.Preparation requires testing assumptions. What if automation raises output without creating sufficient employment? What if an energy shortage coincides with floods and cyberattacks? Counterfactual thinking compares policy choices with alternatives; scenario testing examines possible disruptions and better options. Thus, resilience must be accompanied by adaptability and the capacity to improve through out-of-box thinking.Let’s begin with small enterprises, the backbone of our economy and society. Their participation in value chains connects industrial expansion with local suppliers, employment and household incomes. India’s Export Promotion Mission, with an approved outlay of Rs 25,060 crore for 2025-26 to 2030-31, recognises their interconnected financing, compliance and market-access constraints. Its success will depend on whether smaller firms can secure buyers, meet standards, fulfil orders profitably and receive payments promptly. Stronger links with large firms who can be incentivised for helping smaller suppliers meet quality standards, reporting requirements and delivery schedules may work. Access to technology and technical guidance can also build their capacity to undertake higher-value activities. Budgetary support and trade partnerships create opportunities; coordinated implementation determines their value.Mineral security presents similar opportunities. The National Critical Mineral Mission supports domestic capabilities as clean-energy technologies increase demand for strategic materials. AI and subsurface mapping can guide exploration, alongside viable processing, reliable transport and environmental safeguards. Recycling batteries, electronic waste and industrial scrap can recover valuable materials, provided collection and processing are safe. Both require coordination across mining, manufacturing, energy and urban management, with attention to workers’ health.Research underpins these capabilities. Figures as of July 2026 show research expenditure reaching 0.84 per cent of GDP in 2023-24, compared with 0.64 per cent in 2020-21. Further investment should strengthen connections between universities, public laboratories and enterprises. Smaller firms need access to research facilities and expertise; researchers need dependable funding and professional freedom.The August 2026 Periodic Labour Force Survey recorded labour force participation among those aged 15 and above at 55.6 per cent, including women’s participation of 34.8 per cent. These gains, including their progress, must translate into better earnings, productive employment and opportunities for advancement.NITI Aayog’s 2026 skilling report highlights the substantial number of young people outside education, employment and training. This underscores the need to connect education with livelihoods. Apprenticeships, industry partnerships and affordable retraining should respond to changing demand in an adventurous way, because the existing methods have not delivered. Success should be measured by whether those trained secure and sustain productive employment, rather than simply by the number of schemes or apprenticeships undertaken. Alongside finance, technology and skills, a predictable regulatory environment is a catalyst for development. Optimal regulation requires assessing economic, social and environmental consequences together. Regulatory Impact Assessment provides a systematic way to examine the need for intervention, compare alternatives and assess likely costs, benefits and unintended consequences before rules are adopted. It can, therefore, help identify approaches that advance development while safeguarding businesses, workers, consumers and environment.These priorities require institutions capable of working together. Industrial incentives cannot compensate for unreliable electricity, inadequate skills or delayed approvals. Inter-ministerial coordination must, therefore, extend beyond consultation to shared outcomes, aligned budgets, compatible information systems and...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/pradeep-s-mehta-how-to-sustain-the-modi-effect-to-achieve-goal-of-viksit-bharat-1994191)
+
+---
+
+### Sunanda K. Datta-Ray | Rohingya Wound Festers; Can India Stay ‘Neutral’?
+*Deccan Chronicle · Opinion*
+
+The recent reported “arrangement” between Dhaka and Yangon may lead to nothing. But the announcement deserves at least a conditional welcome because it might hold out the hope, however slender, of a secure future for one of the world’s most persecuted stateless minorities.As it happens, the overwhelming majority of these Indo-Aryan ethno-linguistic people concentrated in Myanmar’s western Rakhine State, follow Islam. But despite a substantial migrant population in Saudi Arabia, that doesn’t seem to mean that orthodox Islamic communities hold Rohingyas in high esteem. Indigenous Myanmarese have always looked down on them for being darker-skinned and for their suspected roots in the Indian subcontinent.Before the Rohingya genocide of 2017, when more than 7,40,000 fled to Bangladesh, an estimated 1.4 million Rohingya had lived in Myanmar for many decades. Nevertheless, Myanmar’s 1982 nationality law denied them citizenship rights. There were also restrictions on their freedom of movement, access to state education and civil service jobs. The Yangon authorities don’t even recognise the term “Rohingya”, preferring to refer to the community as “Bengali” to highlight its supposed foreign origins.
+
+Finally, Myanmar formally banned the word “Rohingya” on March 29, 2014, demanding that members of the minority group be registered as “Bengalis” in Myanmar’s 2014 Census, the first to be held in three decades.However, no realistic assessment of the future can any longer overlook the fact that various armed insurrections by the Rohingya have taken place since the 1940s and that the population as a whole suffered military crackdowns in 1978, 1991-1992, 2012, 2015, and particularly in 2016-2018. Most of the Rohingya population was driven then into neighbouring Bangladesh. By December 2017, an estimated 6,25,000 refugees from Rakhine had crossed the border into Bangladesh since August 2017 in a brutal sequence that UN officials and Human Rights Watch observers described as ethnic cleansing. The UN human rights envoy to Myanmar reported that “the long history of discrimination and persecution against the Rohingya community... could amount to crimes against humanity”, and warned of an unfolding genocide.The path to the recent agreement was paved by signs of increasing incitement of hatred and religious intolerance by “ultra-nationalist Buddhists” while the Myanmar security forces are reportedly busy conducting “summary executions, enforced disappearances, arbitrary arrests and detentions, torture and ill-treatment, and forced labour” against the community.Before the 2015 Rohingya refugee crisis and the military crackdowns in 2016 and 2017, Myanmar’s Rohingya population was close to 1.4 million, chiefly in the northern Rakhine townships, where the population was between 80
+
+and 98 per cent Rohingya. Since 2015, over nine lakh Rohingya refugees have fled to southeastern Bangladesh alone, and more to other surrounding countries, and major Muslim nations like Pakistan, Malaysia and Indonesia. More than one lakh Rohingyas in Myanmar are confined in squalid camps for internally displaced persons. Others are periodically exposed to brutal exploitation.Brief reports of the supposed agreement don’t give any details or say anything about where returning Rohingyas are to be accommodated. Or their status. Obviously, citizenship rights will still be denied since the notification refers to them as only “displaced residents”. The calculated use of that term seeks to absolve Yangon of all responsibility for the targeted ill-treatment of — and violence against — Myanmar’s Rohingyas. No wonder some younger militants, especially some who take their Islam seriously, look for a solution to organisations like the Arakan Rohingya Salvation Army which operates primarily in Myanmar's Rakhine State and along the border with Bangladesh. There is talk, too, of “an autonomous Muslim zone” in Rakhine.Associating the name “Rohingya” with some such drastic solution, the military junta that has controlled Myanmar since 1962 refuses to use it. In fact, the authors of the 2014 census forced Rohingyas to identify themselves as “Bengali”. Many Rohingya equate this denial of their name with denying their basic rights and identity, and the UK Special Rapporteur on human rights in Myanmar agrees. The name “Bengali” implies that far from being native to Rakhine or Myanmar, the Rohingya are recent interlopers with no historic hereditary ties to a region that is the only home that generations of Rohingya have ever known.India is carefully neutral on this aspect of the controversy because although Narendra Modi’s Hindu revivalist ruling party has instituted a fast-track mechanism for the repatriation of Hindus stranded in neighbouring countries, it has no wish to become involved in their citizenship battles. Muslims already account for more than 172 million Indians (14.2 per cent of the population) with Rakhine State a western coastal administrative division of Myanmar...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sunanda-k-datta-ray-rohingya-wound-festers-can-india-stay-neutral-1994201)
 
 ---
 
@@ -21641,375 +21912,6 @@ The children in those recordings could not report their trauma, challenge their 
 multidisciplinary organisation involved in early childhood care and education)
 
 [Read full article](https://www.deccanherald.com/opinion/who-is-watching-our-creches-4069597)
-
----
-
-## 10 July 2026
-
-### A perfect storm: On the Wayanad debris slip
-*The Hindu · Editorial*
-
-The fragile hills of Kerala’s Wayanad district turned into the theatre of yet another weather-induced disaster when a heavy downpour, on July 7, triggered what looked like a debris slide at the entrance to the under-construction twin tunnel at Kalladi in Meppadi panchayat, in the vicinity of Chooralmala, which was wrecked by massive landslides two years ago. Six workers were confirmed dead. The Kerala government has suspended construction work until the completion of a comprehensive probe into the causes and whether the work complied with the conditions set by the Expert Appraisal Committee under the Union Ministry of Environment, Forests and Climate Change (MoEFCC) while granting environmental clearance for the project. Ever since the great floods of 2018, Meppadi panchayat, which is over 7,000 ft above sea level, has witnessed severe climate-induced catastrophes. Landslides hit the Puthumala area in 2019, within hours of an equally lethal landslide across the hills in Kavalappara in Malappuram district. Environmentalists, therefore, made an impassioned plea against the ₹2,100 crore (approximately) 8.73-km-long twin-tube tunnel road, linking Anakkampoyil in Kozhikode to Meppadi, flagging it as a recipe for disaster. It was instead fast-tracked, citing the need for accelerated mobility for the people of Wayanad, which does not have tertiary care facilities. In April this year, the Supreme Court cited the project’s ‘national importance’ and rejected the Wayanad Prakrithi Samrakshana Samithi’s plea to halt it. The group is planning to seek a review of the order.
-
-As with all major disasters, this, too, appears to have stemmed from a heady mix of failures. Kerala Public Works Minister hurriedly pointed to the company executing the construction on behalf of the contractor, Konkan Railways, alleging that it ignored the department’s June 20 deadline to remove excavation debris from the area. The company fell back on the rainfall data and the region’s landslide susceptibility. Security camera visuals suggest an avalanche-like flow of debris down the slope of the hill that was being bored. Whether a mudslip in the upper reaches caused the debris to cascade down will only be known after a geomorphological probe. On the face of it, the State’s disaster management machinery was not up to the job. The synoptic conditions in the area on the eve of the present disaster were eerily similar to those on the eve of the 2024 calamity. Wayanad has a fragile ecology, and any infrastructure project must involve meticulous ecological and climate-resilience planning and uncompromising execution. As it investigates the lapses, the State should review the project’s social and environmental costs and ensure that climate-induced catastrophe in Wayanad is prevented, not just responded to.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/a-perfect-storm-on-the-wayanad-mudslide/article71202507.ece)
-
----
-
-### Far from over: On the U.S.-Iran conflict
-*The Hindu · Editorial*
-
-It took only 20 days for the U.S.-Iran memorandum of understanding (MoU), which promised to extend the ceasefire by 60 days and launch talks about outstanding issues, including Iran’s nuclear programme, to start unravelling. On Tuesday night, the U.S. carried out sweeping air strikes in Iran after three tankers were attacked in the Strait of Hormuz. Iran struck American bases in Kuwait and Bahrain after which Mr. Trump declared that the ceasefire was over. While he is known for making exaggerated claims, the current crisis poses the biggest challenge to the peace process since the June 17 MoU. The crisis did not emerge overnight. From the outset, the agreement had three major sticking points — Israel’s war in Lebanon; Iran’s access to its frozen funds and the status of the Strait of Hormuz. Tehran sees Israel’s refusal to withdraw from southern Lebanon, along with Washington’s push for a parallel trilateral framework involving the U.S., Lebanon and Israel, as violations of the spirit of the MoU. And, despite talks, Iran has yet to get access to its frozen funds. Finally, Iran appears determined to assert control over the Strait. It has opened a “safe passage route” along its coast, while the U.S. is backing an alternative route along Oman’s coast.
-
-Iran fears that the U.S. is trying to strip away the leverage it established over the Strait during the war by promoting an alternative route. The U.S. does not want Iran to emerge as the sole custodian of a strategic waterway. These conflicting positions trigger skirmishes, further undermining the MoU. What Mr. Trump, who senses strategic defeat, is trying to do is to mount economic and military pressure on Tehran to change its position on the Strait. He can continue his air campaign, but his years-long maximum pressure and 40 days of bombing have done little to alter Iran’s negotiating positions. If he returns to war over Hormuz, Iran’s stance on its nuclear programme — still unaddressed — would only get hardened. If war resumes, it would be bad news for the whole West Asia region and the entire global economy. Mr. Trump is at a strategic dead end, and instead of digging deeper, should stick to his way-out road map — the MoU. An obstacle in the peace process is the complete absence of trust. Mr. Trump’s public tirades and abuses against Iran’s leadership and hyperbolic threats, which are detached from ground realities, are not helping his cause. Equally, if Iran continues targeting commercial vessels, it risks being seen as an aggressor rather than a victim. Both sides should address the trust deficit, resolve the sticking points in the MoU and begin serious talks about the outstanding issues for a final settlement.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/far-from-over-on-the-us-iran-conflict/article71202807.ece)
-
----
-
-### Over and above: On the All India Survey on Higher Education data
-*The Hindu · Editorial*
-
-With more Indian women entering university campuses, the gender gap in college classrooms has narrowed. The latest All India Survey on Higher Education (AISHE) data for 2023-24 reveal that absolute female enrolment rose by 42% over the past decade, climbing from 1.57 crore in 2014-15 to 2.24 crore. In comparison, male enrolment grew from 1.85 crore to 2.26 crore during the same period. Women have comfortably surpassed the male growth rate of 22.16%, pushing total higher education enrolment to a record 4.5 crore. They now account for nearly half (49.7%) of all students in Indian universities and colleges. With a Gender Parity Index of 1.08, 108 young women now enter higher education for every 100 men. This marks a hard-won victory, especially for marginalised communities, where female enrolment among Scheduled Castes and Scheduled Tribes rose by 51.4% and 75.7%, respectively. Yet, a deeper look at the data demands caution. High enrolment numbers are a superficial veneer if the pipeline of employment opportunities beyond the college gate remains broken. While women make up 44% of STEM students, this number is heavily skewed toward the “S” (general sciences such as biology and chemistry), where they hold a 54.6% majority. In contrast, engineering and technology remain male-dominated, with women making up just 31.1% of enrolment. By clustering in traditional sciences, women are isolated from the future-proof economic drivers of artificial intelligence and software engineering.
-
-Educational institutions remain largely patriarchal. While the student body reflects a 50-50 split, there are only 82 female teachers for every 100 male teachers. Women remain absent from top-tier leadership roles. Further, the influx of students has coincided with an explosion of private and low-tier colleges, which face acute faculty shortages and poor infrastructure. India also faces a disconnect between higher education and the formal job market. The Female Labor Force Participation Rate remains low due to societal expectations, domestic responsibilities, and safety barriers. According to the 2025 PLFS report, men dominate the regular salaried workforce (26.5% versus 18.2%) and earn more. Average monthly earnings stand at ₹24,217 for men, compared with ₹18,353 for women. While 64.2% of women are classified as self-employed, this categorisation is vague and the statistic often includes unpaid household or farm labour, failing to show where women students go after they exit lecture halls. As 2.24 crore young women claim their place on campuses, the burden shifts to policymakers, institutional heads, and industry leaders to ensure that these women stay on in fruitful paid employment aligned with their degrees.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/over-and-above-on-the-all-india-survey-on-higher-education-data/article71206768.ece)
-
----
-
-### SIR in Manipur is a pathway to exclusion
-*The Hindu · Opinion*
-
-Manipur is one of the States covered under Phase III of the Special Intensive Revision (SIR) of electoral rolls being implemented by the Election Commission of India (ECI) currently. The SIR has already drawn adverse criticism from civil society organisations and the Opposition, particularly after the recent Bihar and West Bengal elections, due to its hasty, disproportionate and summary deletion of voters from voters’ lists, resulting in the disenfranchisement of large sections of politically “undesirable” communities and voters. Concerns have been expressed by informed citizens about the lack of transparency and often blatant bias of the State and the ruling party in relation to the SIR, and its relationship with the planned delimitation, the 2029 elections and perhaps even an oddly timed Census. These concerns apply to Manipur as well. In addition, there are features of the situation in Manipur that are little known outside — and even within — the State, making the implementation of the SIR in Manipur even more egregious.
-
-Fractured social fabricFirst, Manipur has been in the throes of an intense ethnic conflict involving the majority Meiteis (54% of the population, inhabiting the dense Imphal Valley), the Kuki-Zo peoples (15%, inhabiting the surrounding hills) and, more recently, the Manipuri Nagas (26%, mainly in the northern part of Manipur). It has resulted in over 260 deaths in pogroms, attacks, and retaliatory violence; displaced some 60,000 people within and outside Manipur; led to the burning of hundreds of villages and places of worship; and witnessed unimaginable atrocities, including beheadings, dismemberment, and rapes as forms of collective punishment, disproportionately inflicted on the Kuki-Zo.
-
-It has led to a demand by the Kuki-Zo for a ‘Separate Administration’ for themselves — and an equally stout opposition by the Meiteis to it — while many Manipuri Nagas led by the National Socialist Council of Nagalim (Isak-Muivah), or NSCN-IM, remain committed to their decades old demand for integration of Naga-inhabited areas in a sovereign ‘Nagalim’. Many are backed by political, militant and proscribed insurgent groups of diverse persuasions.
-
-Three years after the start of the conflict, not a single case of violence has been brought to book through the courts. An Inquiry Commission formed by the Ministry of Home Affairs (MHA) has yet to present its report. Thousands of internally displaced persons languish in camps with little relief.
-
-Ethnic divisions have worsened and spread. Long-standing Naga-Kuki hostilities have been added to the three-year-old Meitei-Kuki conflict marked by the burning of villages (mostly Kuki), ambushes, and recently in May, the killing of three Thadou-Kuki pastors, and, in retaliation, tit-for-tat hostage-taking and the horrific killing of six Nagas in Kuki custody that has in turn set off a full economic blockade of Kangpokpi district. In response, State and central security forces have appeared passive, paralysed and at times, biased.
-
-The conduct of the State government has been widely viewed as partisan, but the role of the Centre and even courts cannot be said to be above board. Conducting the SIR under these conditions, under a pretence of normalcy, is inexplicable.
-
-Narratives driving electoral exclusionSecond, unlike the rest of the country, where the SIR is being driven by the central government through the ECI with the partisan support of the ruling party, in Manipur the demand to “cleanse” the State of alleged “illegal migrants” — a code word for Kukis — is in line with perceptions of politically radicalised Meiteis and Manipuri Nagas, who together constitute about 80% of the population. These allegations have no basis in Census figures for over a century, and are based on recent distortions of history, fake narratives and loud propaganda that feed directly into the SIR exercise. They create a very negative environment for a fair SIR, particularly in mixed areas, that is itself, ipso facto, biased against certain communities.
-
-Third, there are several features peculiar to the Kukis themselves that lend themselves to their victimisation by the SIR. The first reason is that close to 50,000 Kuki-Zo remain displaced and scattered in Manipur and outside. There does not seem to be any provision in place for their fair enumeration.
-
-The second reason is that together with their displacement, many are known to have lost many of their identity, residence, election, education and other documents that could have helped establish their voter credentials. There are visual records of Kuki-Zo educational certificates, Aadhaar cards, and driving licences in Imphal being destroyed after the violence of May 2023.
-
-The third reason is that customary naming systems — where names are derived from the last syllable of complex parental names, nicknames often substitute formal names, and names are converted from tribal names to English orthography — create vast scope “logical discrepancies”, making people far more vulnerable to exclusion than in States such as West Bengal. Possibly, more than 90% of Kuki-Zo people are unlikely to be able to produce a single, consistent spelling of their own names, let alone maintain consistency across generations.
-
-The fourth reason is that by some historical anomaly, Manipuri tribals, both Kuki-Zo and Naga, do not enjoy Sixth Schedule status, although they enjoy some measure of autonomy under Article 371C and very weak Autonomous Councils.
-
-This served them well during periodic bouts of violence and displacement, most recently during the Naga-Kuki violence of the 1990s, which again disproportionately affected the Kukis. Village chiefs and local authorities were then able to certify the identities of villagers under their jurisdiction. Such arrangements are unlikely to be recognised in the present exercise and prevailing atmosphere.
-
-Finally, the Kuki-Zo leadership appears, for some reason, unaware of the nature, motivations, and implications of the SIR exercise. They seem to believe, perhaps naively, that as Indian citizens who have lived here all their lives and in possession of necessary documents, including voter ID cards, they have nothing to fear, and that opposing the exercise would amount to an admission of guilt. The dangers of the SIR now appear to be dawning on them, with some Kuki-Zo civil society organisations issuing statements highlighting its shortcomings, although opposition has yet to take a political form.
-
-Safeguarding belongingA nationwide SIR is now a fait accompli following the ruling by the Supreme Court of India in its favour. However, the process can still be made fairer and more sensitive to the risks of exclusion. Unless measures are adopted to limit its potential harm, by 2029 we may see a pathway to statelessness not only for the Kuki-Zo but also for other tribal communities in the Northeast, with their plight obscured amid the broader exclusion and disenfranchisement of Muslims labelled as “illegal migrants”.
-
-Gautam Mukhopadhaya is a former Ambassador of India to Myanmar, Afghanistan and Syria, and is engaged in issues facing the northeast of India
-
-[Read full article](https://www.thehindu.com/opinion/lead/sir-in-manipur-is-a-pathway-to-exclusion/article71203437.ece)
-
----
-
-### DC Edit | J&K: Halt Libraries’ Crackdown
-*Deccan Chronicle · Editorial*
-
-The Jammu and Kashmir administration’s territory wide campaign to screen and purge “objectionable” books marks a profound and troubling shift. It is one thing for a government to decide what textbooks align with its educational vision. It is quite another to raid bookstores, blacklist authors, confiscate publications and police every shelf in every school and coaching centre. This is not curriculum oversight. It is state driven narrative control.
-
-The trigger was the discovery of allegedly separatist linked content in two school library books — Personalities and Legends of J&K and Great Personalities of Jammu and Kashmir. These titles referred to Jammu and Kashmir as “India occupied Kashmir” and described pro independence leader Muhammad Maqbool Bhat as “Shaheed e Azam” or great martyr.
-
-Bhat, co founder of the Jammu Kashmir National Liberation Front (JKNLF), a militant organisation advocating the reunification of J&K as an independent state, was hanged in Delhi’s Tihar Jail on Feb. 11, 1984 after being convicted on murder charges. Over time, he came to be seen as a foundational figure in the violent separatist movement that gripped the region for more than three decades.
-
-Glorifying him as a martyr undeniably contradicts India’s stance. But the administration’s response — suspending officials, blacklisting authors, withdrawing all their works, launching criminal investigations and ordering a territory wide sweep of every book in every institution — goes far beyond correcting a procurement lapse.
-
-That is part of a broader pattern. In 2025, the government banned 25 books by respected scholars, journalists and historians — from A.G. Noorani, Arundhati Roy, Sumantra Bose, Victoria Schofield, David Devadas and Anuradha Bhasin to Piotr Balcerowicz and others — alleging they promoted “false narratives” and “glorified terrorism”. Critics countered that these were rigorously researched works offering critical political analysis, not propaganda.
-
-The new directive, therefore, intensifies that fear. Schools must now eliminate anything “prejudicial”, “age inappropriate” or “contrary to national interest” — elastic categories easily stretched to fit any inconvenient fact. Police raids on bookstores make the message unmistakable: Only one version of Kashmir’s story is now permissible.
-
-Kashmir’s history — its conflicts, aspirations, traumas and political movements — cannot be erased by administrative order. Memory lives in people, not just pages.
-
-Article 19(1)(a) of the Indian Constitution protects the freedom of speech and expression. The current campaign in J&K undermines that guarantee, replacing dialogue with decree.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-jk-halt-libraries-crackdown-1969955)
-
----
-
-### DC Edit | Nijjar Face-saver Holds Lessons
-*Deccan Chronicle · Editorial*
-
-The US decision to charge Lawrence Bishnoi and his crime syndicate with ordering and executing the 2023 murder of Khalistani separatist Hardeep Singh Nijjar in Canada has laid bare an impalpable truth for Canada and India each. As for Canada, its Prime Minister almost wrecked its mutually beneficial relationship with India by accusing the Government of India with the crime with no proof to show. As for India, the development points to the fact that a criminal gang can plan, organise and executive a high-profile murder in a foreign country even while spending its days behind bars in this one.
-
-The Nijjar murder had undoubtedly put pressure on the then government of Justin Trudeau in Canada thanks to the presence of the vocal Sikh community in that country but it chose to blame India instead of trying to get to the roots of the crime. It may be remembered that the US decision now comes after a thorough year-long investigation codenamed Operation Hard Ball which hit upon three India-based organised crime groups, including the Bishnoi gang, followed by arrests in the US, Canada and Europe. It has come to the fore that Mr Trudeau’s statement in the country’s parliament and to the public putting India under a cloud over the murder had no force of truth. It is sad that the two countries wedded to democratic ideals had better avenues and platforms to work together to put down crime syndicates but the Canadian administration chose not to do so. It is the duty of the Canadian establishment to introspect and correct that grievous error.
-
-The US decision is an acknowledgment of India’s response to the Canadian charge as “absurd and motivated” but India must admit that it exposes unacceptable gaps in the administration of criminal justice in this country. All those who are responsible for a situation where a person lodged in high security prisons after being charged under anti-terror and anti-organised crime laws and their associates can operate at will in India and abroad must be brought to book. US action may make India feel like it has scored a point in its quarrel with Canada but that cannot be a reason for complacency; it must be taken as an eye-opener instead.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-nijjar-face-saver-holds-lessons-1969720)
-
----
-
-### DC Edit | Uranium Deal Icing On Cake Of Modi’s Visit To Australia
-*Deccan Chronicle · Editorial*
-
-Securing an agreement for supply of Australian uranium to fuel India’s nuclear power programme was Prime Minister Narendra Modi’s prize catch on his eastern trip to the Antipodes. The landmark deal should open the way to give a new impetus to India’s clean energy objectives, the plans for which have either lain dormant or moved at snail’s pace for over the 12 years since India and Australia had agreed in 2014 on a civil nuclear cooperation pact.
-
-Australia’s preparedness to get its miners to enhance their operations to fulfil India’s large order for nuclear fuel to energise its green ambitions as well as steer away from fossil fuels a little more drastically because of current uncertainties over crude oil supplies and their carbon footprint also sends a message to the world on India as a reliable user of uranium for peaceful purposes.
-
-The ground realities changed in the years since 2014 as the regulations over culpability and compensation in the event of a nuclear accident were altered in the ‘Shanti Act’ of 2025, limiting liabilities to international standards. In those 12 years, much may have been said about selling nuclear fuel but the uranium never came from Down Under. Against a planned nuclear power generation of 100GW by 2047 (22.5GW by 2032), India’s current installed capacity is just 8.8GW from 25 plants that generate only around three per cent of the nation’s power consumption.
-
-As Australian Prime Minister Antony Albanese pointed out, the pre-2014 bilateral ties — and perhaps the ties in the last 12 years — were “underdone” and it is only now that India appears to have moved up the international order to be considered a crucial strategic partner, if not quite an ally though both countries are fellow members in Quad. The nuclear deal caps this new effort to further ties and take the bilateral aspects further regardless of divergent views on China, the country that is invariably the elephant in the room at every major diplomatic meeting.
-
-As Prime Minister Modi vibrantly pointed out, the Indo-Pacific is not just the confluence of two great oceans, it also symbolises shared concerns over maritime security in view of the current geostrategic fears and suspicions. An array of pacts with Indonesia as well as Australia are set to operationalise closer cooperation in maritime matters in which India’s role as a facilitator and coordinator of data sharing has been rising.
-
-The other great worry emanating from recent geopolitical shifts in the wake of US trade moves has been in the field of critical minerals and India’s search for reliable supply chains is spurred by events after China clamped up supplies. And Australia may be well placed with the capacity to supply many materials from its Critical Minerals List. With the nations kicking on towards a fuller ECTA by building on the interim deal of 2022, India may also be hoping to reduce the trade deficit with Australia.
-
-With investments to begin flowing in — an Australian pension fund is taking a $346 million punt on India’s infrastructure fund and New Zealand mulls earmarking an ambitious $20 billion — the importance of pitching India internationally is stressed. Prime ministerial visits carry a lot more significance than the civilian awards that Mr Modi is adorned with but which are a recognition of India’s global heft today.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-uranium-deal-icing-on-cake-of-modis-visit-to-australia-1969945)
-
----
-
-### DC Edit | US-Israel-Iran War: Talks The Only Exit, But When?
-*Deccan Chronicle · Editorial*
-
-More questions have arisen than answers can be provided to as the US struck more than 200 targets in three days in replying to Iran’s strikes on oil tankers in the Strait of Hormuz and Iran responded to that by launching missiles at Kuwait, Bahrain and Qatar. In the absence of clarity on the ceasefire, which US President Donald Trump hinted “is over”, and the talks which remain stalled despite assumptions that the negotiations will somehow continue.
-
-The world is tired of this clash of egos between the US President and whoever is running Iran now as it brought the days-long funeral for their leader Ayatollah Khamenei who was killed on February 28 in the US bombing of Tehran to an emotional close. Neither Iran hitting ships and US bases in the Gulf nor the US striking Iranian targets is new. The fact remains that this pointless war is still in its stop-start-stop phase and the ceasefire can no longer be called one.
-
-As oil-consuming nations move on from dependence on crude oil and gas from the Gulf, the main losers from the war action are the US, now hurtling towards the midterms amid rising petrol prices and inflation, and the Iranian people who are hapless spectators as their country is being bombed ruthlessly and deaths are mostly confined to civilians in latest military action.
-
-Until the hotheads in Iran realise that using the chokehold of the strait in fits and starts by hitting cargo vessels and oil tankers will prove counterproductive and the US is denuded of its grandiose views of its global military superiority in the age of the modern wars that are fought with missiles and drones rather than territorially, West Asia will remain a live theatre of war action that may remain inconclusive.
-
-Latest bombing action by the US, mostly against military targets in Iran, is being touted as the only way to ensure uninterrupted navigation through Hormuz and stave off another hindrance that could trigger the next big shock to global energy markets. Iran sees US action in guiding ships through the southern tip of Oman as sneaky flouting of the MoU and hence its sporadic acts of targeting ships in Hormuz. Breaking this cycle of aims and counter aims is going to be the key to the calling off hostilities again and resuming talks.
-
-The day appears to be far off when Mr Trump can walk off from the Iran war by projecting himself as the victor even as a resilient Iran appears ready to take more pain as it tests the limits of its single biggest bargaining chip which is the Strait of Hormuz. The only path away from this madness of strikes at ships and bombing by the US is to fall back on the MoU and resume talks in earnest and see who can compromise how much for peace to prevail.
-
-As the oil prices may rise again from the near pre-war levels they had hit when optimism over negotiations had soared in the time of the so-called ceasefire agreed upon through an MoU signed by the two principal combatants, the world will have to face paying a higher price. For instance, the three major Indian fuel retailers may have lost close to Rs 50,000 crore in the June quarter and may bleed more as the government has been unable to raise prices again due to political compulsions. Like the rest of the world, India can only hope that the madness ends soon.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-us-israel-iran-war-talks-the-only-exit-but-when-1969729)
-
----
-
-### Abhijit Bhattacharyya | Disasters In Air: A Tale Of 3 Avoidable Crashes
-*Deccan Chronicle · Opinion*
-
-All air disasters broadly fall into two categories -- avoidable or unavoidable. The former is due to forced or unforced human errors or unexpected machine failure over maintenance or allied factors, which could have prevented an accident; and the latter (unavoidable) disaster is owing to something which is beyond human error or machine malfunction -- like a lightning strike of engine or unprecedented fury of nature breaking the craft in mid-air into pieces.
-
-Today, one must examine flight safety in various crashes which holds lessons for the future. On November 12, 1996 (under New Delhi’s ATC), 80 km near Palam airport, two airborne craft -- a passenger-carrying Saudi Air 747 which was climbing after departure from Delhi, and a “descending” Kazakhstan Air cargo-laden Ilyushin-76 -- collided at 14,000 feet. It was the world’s worst avoidable mid-air disaster due to human failure (Kazakhstan Air pilot error), killing all of 349 people on board.
-
-An unusually bizarre combination of both “unavoidable” and “avoidable” accident, however, took place June 23, 1985 when an Air India Boeing 747 “Kanishka” exploded mid-air off the Ireland coast, killing all 329 crew and passengers. Now, if a full-load airworthy 747 explodes in fair weather at 15,000 feet while descending, it would prima facie be seen as “unavoidable”. But investigation showed that it was an act of terrorism, due to several lapses of grave nature and criminal negligence by the ground staff at Toronto, from where it took off. The term “unavoidable”, therefore, gets superseded by “avoidable”, and the ground staff error becomes the reason. The Air India crash cause shifts from “unavoidable” mid-air explosion to “avoidable” professional failure by the Canadian authorities.
-
-A “real” unavoidable disaster occurred on March 5, 1966 in Japan when a BOAC Boeing 707, soon after take-off, “broke up after encountering an abnormally strong gust of wind that generated a load considerably in excess of the craft design limits”. All 124 on board perished.
-
-After reviewing these three airborne accidents, let’s get down to basics. If any aircraft faces a major disaster, resulting in 100 per cent fatalities of crew and passengers near, or on, ground in fair weather, with all other factors being normal, the likelihood of such an accident being classified as “avoidable” will be absolutely correct.
-
-Thus, when in clear weather Thursday, June 12, 2025, the fully-laden Air India Boeing 787-8 “Dreamliner”, Flight 171, took off from Ahmedabad and crashed after being airborne for just 32 seconds (from liftoff), there is no doubt that this was an avoidable disaster. But the bigger question is linked to the multi-billion-dollar aviation business. Was this crash owing to human error or a catastrophic machine failure?
-
-The powerful aircraft manufacturer, Boeing, is trying to put the entire blame on the pilot, who is dead, and cannot defend himself. Given whatever familiarity this writer has with the world of aviation, it might be time for some self-introspection by the Western mega-corporation. What does Boeing have to say about the June 15, 2026 crash of the B-52H Stratofortress at Edwards Air Force Base in California, killing all eight crew members on board?
-
-The B-52H is a behemoth, the backbone of the USAF’s manned strategic bomber command. After a 60-second take-off run, it could not even "lift" itself from 15,000-feet runway, crashing after being airborne for just a few seconds. Was this not one of the deadliest peacetime crashes for US Air Force’s 419th flight test squadron? Who was at fault? Man, or machine? Is there any doubt that it was avoidable?
-
-The eight-engine super-bomber rolls down the concrete path 60 seconds to be airborne, but fails to keep climbing. Instead, it falls with a thud and is engulfed by fire. Whatever may be the result of the official inquiry, whosoever may have been at fault, whatever the man-machine deficiency, the final conclusion of the accident inquiry team is bound to conclude that this was an avoidable accident.
-
-Let’s turn now to June 13, 2026, to the Indian Air Force’s Antonov-32 crash on the runway at Jorhat. Jane’s All the World’s Aircraft 1999-2000 has this to say about the original Soviet Russia-manufactured, but now in Ukraine, twin-engine, 27-ton MTOW “short/medium range transport”, which was ordered by the Indira Gandhi government in 1976. According to Jane’s, India procured 123 Antonov-32s, being the first overseas customer of the (then) Moscow-made flying machine.
-
-Unlike other air crashes referred to above, however, any and every Indian could see the IAF AN-32 mishap live from Internet. In fair weather on the morning of June 13, the plane made a perfect touchdown on the 9,000-foot Jorhat runway and rolled steadily for at least five seconds.
-
-Thereafter, in what is still hard to explain, the aircraft, which had already landed, wobbled, stuttered, and made movements like a late-night drunkard trying to do the Bharatanatyam by veering...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/abhijit-bhattacharyya-disasters-in-air-a-tale-of-3-avoidable-crashes-1969710)
-
----
-
-### Dilip Cherian |The Invisible Hand  Of The Bureaucrat In India’s Pvt Banks
-*Deccan Chronicle · Opinion*
-
-For a country that prides itself on producing world-class financial talent, India displays surprisingly little faith in its own bankers. We've produced institution builders like Deepak Parekh; Indian professionals have gone on to lead some of the world’s biggest global banks, and an Indian now heads the World Bank. Yet when it comes to choosing the people who will preside over our largest private banks, the search often ends not in the banking industry but in the ranks of retired IAS officers.
-
-HDFC Bank’s appointment of former Chief Election Commissioner of India Rajiv Kumar as its part-time chairman is merely the latest example. ICICI, Axis, Kotak Mahindra, Bandhan and Federal Bank have all made similar appointments. Individually, these appointments may be perfectly justified. Together, they reveal a mindset. It isn’t about the competence of retired senior babus but about why they have increasingly become the default choice.
-
-The banks are, in many ways, mirroring Mr Modi's own governance philosophy. Over the past decade, retired and serving officials have increasingly occupied key positions across regulators, commissions and public institutions. Domain expertise often takes a back seat to administrative pedigree. The IAS has become India’s all-purpose leadership cadre. Private banks appear to have internalised the same logic.
-
-But if India’s premier private banks don’t trust career bankers to occupy their own boardrooms, who exactly does? Three decades after liberalisation, we still instinctively look towards North Block whenever an important chair falls vacant. Ownership may have changed, but the mindset hasn’t.
-
-Why Modi is keeping Vikram Misri
-
-The Modi government has made its choice. By extending foreign secretary Vikram Misri’s tenure by another year, it has made one thing clear: this isn't the time to change India’s top diplomat.
-
-The decision is less about one individual than about the moment India finds itself in. The coming year will test Indian diplomacy like few others, with the BRICS chairmanship, a fragile relationship with China, wars in Europe and West Asia, and the challenge of balancing ties with both Washington and Moscow while championing the Global South.
-
-This is hardly the time for a handover, the government believes.
-
-Mr Misri, a 1989-batch IFS officer, is one of the government's most trusted diplomats. He has served in Beijing, worked as deputy national security adviser and advised three Prime Ministers. Few officers understand the China brief as well as he does, and this qualification carries considerable weight in the MEA today.
-
-The extension also fits a broader pattern. The Modi Sarkar has never been rigid about retirement dates when it believes continuity serves the national interest. Experience and institutional memory have repeatedly trumped convention.
-
-There is, of course, a downside. Every extension delays promotions and leaves younger officers waiting longer for the top job. That is a legitimate concern. But in today’s volatile geopolitical climate, for the government to keep a steady hand at the wheel was an easy call.
-
-Haryana’s real crisis
-
-Haryana’s real crisis isn’t corruption. It’s the collapse of accountability.
-
-If this doesn’t shake confidence in Haryana's administration, it's hard to imagine what will. Three IAS officers were arrested in 12 days, and nearly ₹600 crore of public money was allegedly siphoned off. More babus are reportedly under the scanner.
-
-These officials occupied some of the highest offices in the state administration. The arrested babus R.K. Singh, Pankaj Agarwal and Pradeep Kumar handled education, agriculture, urban governance and environmental regulation.
-
-The obvious question is one the government cannot duck: how does almost ₹600 crore disappear without anyone noticing? Government money doesn't simply walk out of the treasury. It passes through approvals, audits, finance departments, treasury officials and senior supervisors. If the investigators are right, this wasn’t just the failure of a few individuals. It was the failure of the system that was supposed to stop them.
-
-That is what makes this scandal so disturbing, even in this current season of scandals erupting all around.
-
-Governments love talking about transparency, digital governance and ease of doing business, but if the state’s own financial safeguards can allegedly be bypassed with such ease, citizens are bound to worry about policy uncertainty. If the government can’t protect its own money, how can it protect yours?
-
-Suspending officers after they’re arrested is the easy part. The difficult part is fixing an administration where accountability often begins only after the CBI arrives. The real scandal isn’t that corruption allegedly happened. Sadly, India has seen that before. The real scandal is that it appears to have flourished inside a system built to prevent exactly this sort of abuse. That’s the lesson Haryana cannot afford to ignore.
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-the-invisible-hand-of-the-bureaucrat-in-indias-pvt-banks-1969742)
-
----
-
-### OF CABBAGES AND KINGS | Perils Of Being ‘Cancelled’… The Twisted Saga Of My Jinnah Play! | Farrukh Dhondy
-*Deccan Chronicle · Opinion*
-
-“The magpie’s cry goes clackety-clack --
-
-It says she’s gone and won’t come back…
-
-Why personify the cry of a bird?
-
-The notes or the sentiment overheard?
-
-The magpie knows nothing of your loss…
-
-And even if it did, it wouldn’t give a toss.”
-
-From Flutter Gutter Verses, by Bachchoo
-
-Unlike some distinguished writers – such as J.K. Rowling -- and several academics, I have never experienced “being cancelled”. This is the contemporary practice of being refused a platform to which one was formerly invited, owing to protests from people and lobbies who don’t like your opinions.
-
-So, JK has been denied a hearing and banned from several platforms because she believes that humans are assigned a gender at birth through their chromosomes and through formation of their sexual organs and secondary gender manifestations.
-
-These bans and cancellations make me wonder if my opinions, which I express in these columns, in others and in my books and speeches from various platforms, are innocuous and not worth bothering about? Perhaps in my short and happy life, though I have acquired the description of being “radical”, I have never sufficiently offended any vociferous lobby.
-
-Luck? Caution? Fence-sitting? (I plead not-guilty, m’lud!)
-
-Not for my opinions, but for my very existence, I have indeed suffered some bans or omissions.
-
-I suppose the first one that comes to mind was when, in the wake of Richard Attenborough’s Gandhi, I was approached by two Pakistanis -- the distinguished director Jamil Dehlavi and a contemporary from Cambridge, Akbar Ahmad, proposing that I write a film on Jinnah.
-
-I said I was out of sympathy with Jinnah for splitting the sub-continent. They said my Indo-nationalist view probably didn’t take in all the facts that caused the fragmentation of British India. They urged me to read Stanley Wolpert’s biography of Jinnah. I did.
-
-Akbar, as producer of the tentative project, had offered me a decent sum of money if I would write the film. And yes, gentle reader, after reading two or three biographies of the Quaid-e-Azam, I understood the complexities that led to “Partition” and told Jamil and Akbar that I would write a script as I conceived it. They agreed and I did.
-
-When I handed in the completed screenplay, Akbar said to me: “That’s great, we’ll start production soon, but Farrukh, you won’t get a credit on screen as the writer!”
-
-I was about to say “pour the hell qua non?” but instead simply asked why.
-
-“Because the film is being financed by Pakistani capitalists who would not support the production if the screenplay was by a non-Muslim Parsi of Indian origin, resident in Britain with a reputation for Marxist views and radical ‘socialistic’ activity.”
-
-“And you are to promise to never claim to have written the film,” Akbar said, “and I want to increase your fee by a thousand pounds”.
-
-Gentle reader, being of a modest (and acquisitive?) disposition, could I refuse?
-
-The film went into production with Christopher Lee, famous for playing Dracula, as the mature Jinnah, and Shashi Kapoor as the angel Jibrail who questions Jinnah in heaven (yes, one of the opening scenes!).
-
-The film was a success in Pakistan -- so much so that General Pervez Musharraf, who was hen in charge, appointed Akbar Ahmad as Pakistan’s high commissioner to Britain.
-
-Then came the unravelling. Jamil and Akbar fell out, with Jamil accusing Akbar of inflating the budget and carrying away extremely large sums of money by pretending they were paid to (non-existent) “script consultants” and other such fabrications.
-
-Jamil blew the gaff, and journalists then called me to ask if I had written the script. I, sticking to my promise, said “no comment”, or the equivalent. Then Seamus Milne, a Guardian journalist, showed me a document which said that I sold the script of Jinnah to Akbar Ahmad for “£1”. It had my signature.
-
-So, he said either I did write Jinnah, or I was accusing the high commissioner of Pakistan of forging my signature. I said I wasn’t accusing Akbar of forging my signature.
-
-“So, you did write Jinnah,” says Seamus Milne.
-
-Out of the bag burst pussy. The UK and Pakistani papers picked up the story and when they called me, I told them that if Gen. Musharraf was handing out diplomatic posts for writing Jinnah, I would be quite happy to be Pakistan’s ambassador to Tahiti and will look after Pakistan’s interests after I’ve looked after some of my own. It was a joke! Dawn printed it.
-
-I subsequently met General (no longer supremo) and Mrs Musharraf at a friend’s party and Mrs Musharraf asked me why my name was not on the film. I told her, and she, and the general, who was listening, said words to the effect of “that’s absurd!”
-
-So, to the latest of such reverses:
-
-I’ve written a play called Karna: Warrior of The Sun, based on the Mahabharata.
-
-My good friend, a producer, proposed to stage it in India in partnership with the National School of Drama. Great!
-
-He subsequently informs me that one of the members of the governing body of...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-cabbages-and-kings-perils-of-being-cancelled-the-twisted-saga-of-my-jinnah-play-farrukh-dhondy-1969968)
-
----
-
-### Shobhaa De | Did Fadnavis Fiddle While Mumbai Nearly Drowned?
-*Deccan Chronicle · Opinion*
-
-“Rain… rain… go away… Little Donald wants to play…” While Mumbai drowned, the rest of the world stayed afloat, and in particular Big Bully Donald Trump, who tossed away any thoughts about a peace deal with Iran by declaring it was “over”.
-
-Closer to home, Mumbai just about managed to keep its head above water. Without writing another whiney column about the “multiple organ failures” of the BMC (Brihanmumbai Municipal Corporation), which is the primary civic body responsible for the civic infrastructure and day-to-day administration of Mumbai, and also happens to be India’s richest civic body, I do need to vent. When a megapolis virtually shuts down for two
-
-to three days, it is not just unacceptable but borders on the criminal.
-
-A crime minus any punishment. Year after year, Mumbai comes to a standstill because of an annual event -- the devastating monsoon. Note: This is an annual event. Not something that takes Mumbai by surprise. The Mumbai Monsoon is not an ambush. It is not a sneaky stealth attack that catches the city off guard. It is a closely tracked weather pattern. A known beast. “A Hungry Tide”, that sweeps over a city with due warning. Year after year. Despite its predictability and well-established savage behaviour, the lack of preparedness by the civic authorities is nothing short of vicious negligence. It is a wonder, in a city that boasts of the country’s top legal brains, nobody has taken the authorities to court on behalf of citizens. When things get desperate, we invoke the mysterious “Spirit of Mumbai”. Mumbaikars are expected to miraculously rise to the occasion with zero help, and even less responsibility, from those civic bosses and politicians sitting pretty in their homes and offices, offering lame excuses for all the disasters inflicted on sitting ducks -- ordinary citizens.
-
-To add insult to injury, just as Mumbai was staggering back to life, the ineffective and weak Maharashtra government has announced a Rs 13,000-crore “flood plan”. Maharashtra chief minister Devendra Fadnavis rolled out the plan in the state Legislative Assembly -- and nobody laughed! The BMC is currently hanging on to a staggering Rs 78,000 crores in FDs: which is taxpayers’ money.
-
-What is it doing lying around in FDs when there is a dire need to disburse funds right now and rescue Mumbai before some more disasters and deaths occur? Let’s not even talk about The Missing Link – which is CM Fadnavis’s biggest folly. A folly that exposed the worst in our system. The much-touted “Missing Link” (what a strange name!) collapsed before it had even taken off. The “engineering marvel”, built at a cost of Rs 6,695 crores and described as a “feat”, the bypass with two major tunnels connecting Mumbai and Pune, was inaugurated only on May 1, 2026! It is already being described as a gigantic embarrassment … an expensive “link” that is missing! Had it not been for the alertness of a 24-year-old young man named Sandesh Kharat, who, thanks to his presence of mind, pressed an emergency SOS button near the exit of tunnel number 2, when he and his friends witnessed a landslide from a distance of 200 metres. The control room in Pune swung into action. But even before that, the young men stopped approaching vehicles and warned motorists about the landslide. They deserve recognition and gratitude. But hey… that does not absolve the administration from taking full responsibility, owning up and explaining where that money was spent -- who pocketed how much. Rampant corruption in high places has paralysed Mumbai for decades… But the worm is ready to turn!
-
-Despite the downpour that converted Mumbai into a filthy, dangerous swamp, there was reason to cheer -- two high-profile celebrity shaadis were celebrated with the expected dhoom dhaam -- nothing was allowed to dampen the spirits of Bollywood revellers. Mumbai loves its “Monsoon Weddings”, especially if those involve our movie folks. Aamir Khan, 61, lived up to his well-established reputation as a life-long, diehard non-conformist, by marrying for the third time, surrounded by his loving family (which includes two former wives and their children).
-
-The latest Khan wedding generated such a strong buzz on social media that for a few short, sweet hours we forgot all about our soggy, miserable, rain-soaked lives, and joined the party. Hurrah! Aamir set a new fashion trend for desi bridegrooms by wearing heavy anklets and a nose clip. Disappointingly, a beautiful “maang tikka”, sindoor and mangalsutra were missing from his attire.
-
-Not to worry. The wedding of Anshula marked the first marriage in Boney Kapoor’s family. It was celebrated with all the traditional trimmings associated with a boisterous Punjabi shaadi. Rohan Thakkar, the lucky bridegroom, was around. Of course. If fans cared to look for him, beyond the dazzling guests dancing energetically, while the rest of the city limped back to semi-normalcy.
-
-Hallelujah! At least one global person was home and dry even if the ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/shobhaa-de-did-fadnavis-fiddle-while-mumbai-nearly-drowned-1969978)
-
----
-
-### Bonded labour and a ban that failed
-*Deccan Herald · Editorial*
-
-The police rescue of 12 bonded labourers from a factory in Muzaffarnagar in Uttar Pradesh starkly reminds us of India’s persistent, shameful system of forced labour. Hailing from Uttar Pradesh, Haryana, Bihar, Uttarakhand, and Nepal, the labourers were lured by false promises of decent wages, food, and accommodation for working in the manufacturing unit. The victims’ identity documents were taken away, and they were forced to work gruelling, day-long shifts. They were under constant surveillance in the premises guarded by pit bulls. Some of them reportedly endured this ordeal for over 18 months. Their demands for wages were met with severe beatings and torture. Police and government officials acted on a tip-off and raided the unit, rescuing the workers. However, some of the culprits involved in the operation are still at large.
-
-Bonded labour was abolished by law in 1976, but cases continue to surface across the country, exposing an unaddressed systemic failure in enforcing the ban. The Muzaffarnagar incident highlights administrative shortfalls in monitoring for possible violations. It is alarming that an industrial unit was allowed to exploit workers undetected for months. This incident also reflects the desperation of job-seekers and growing vulnerabilities that push them into exploitative workplaces. Most of the victims were picked up from railway stations and public places while they were looking for work. A substantial segment of work-related migration in India is tied to the informal and unorganised sectors, exposing many to deceptive offers of employment. Once trapped in these abusive setups and the documents seized, escape becomes extremely difficult. That many of these captive workers are unaware of their legal and human rights further complicates redress. Weak enforcement, despite strong criminal laws, enables such informal workplaces to function outside the regulatory scope.
-
-Four hours of sleep, husk rotis, Pit Bulls as guards: Rescued bonded labourers narrate harrowing tales in Uttar PradeshFor the administrators, rehabilitating the rescued workers remains one of the toughest challenges. Many survivors require medical treatment and psychological counselling, apart from fair compensation and sustainable livelihoods to rebuild their lives. The onus is on the state to provide these; its role extends beyond legal obligations to ensuring justice and dignity for the victims. The persistence of bonded labour and manual scavenging raises deeper moral questions for society. Oppressive labour practices adopted on farms, in factories, and at other workplaces reflect not only a failure of law enforcement but also a disregard for human dignity. The continued existence of practices that violate individuals’ fundamental rights and honour reminds us simultaneously of institutional gaps and society’s collective inability to eliminate such exploitation.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/bonded-labour-and-a-ban-that-failed-4068329)
-
----
-
-### For the record: These numbers don’t count
-*Deccan Herald · Editorial*
-
-On June 27, the Bangalore Development Authority (BDA), working with environmental groups, volunteers, resident welfare associations, students and corporate employees, planted 15 lakh native saplings in a single day. The feat earned it a place in the Guinness Book of World Records and drew international attention. Organised to mark the 517th birth anniversary of Bengaluru’s founder, Nadaprabhu Kempegowda, the campaign showcased the city’s collective commitment to environmental conservation. The scale of public participation was remarkable, and the objective of creating urban forests to mitigate rising temperatures and improve groundwater recharge was both timely and commendable.
-
-Unfortunately, the celebration has been short-lived. Reports from several plantation sites reveal a distressing reality. Across parts of Nadaprabhu Kempegowda Layout, Dr K Shivaram Karanth Layout, and other locations, hundreds of saplings are withering. In some places, unplanted saplings have been left abandoned. Instead of lush green patches, several stretches now present rows of dry, lifeless plants, raising questions about whether adequate planning accompanied the record-setting exercise. The BDA had announced that every sapling would be geo-tagged, enabling continuous online monitoring, while officers and partner NGOs were entrusted with maintaining the plantations for three years. Those assurances created an expectation that the campaign would continue beyond the photo opportunity. Yet the condition of many sites suggests that monitoring and maintenance have fallen well short of the promise. Officials point to the delayed monsoon. But the Indian Meteorological Department (IMD) had already predicted late rains. If the plantation schedule was fixed to coincide with Kempegowda Jayanti despite this risk, contingency plans should have been in place. Water tankers, temporary irrigation systems, and alternative sources ought to have been arranged before planting began. Environmental initiatives cannot hinge on weather alone.
-
-Bengaluru: Saplings wither days after world-record plantation driveThis episode raises the question of whether the emphasis was on securing a world record rather than ensuring ecological success. A plantation drive should ultimately be judged not by the number of saplings planted in a day but by the number of trees that survive years later. A dried sapling is more than a failed plant; it represents wasted public effort, squandered resources, and diminished trust – all the more so given that the drive cost nearly Rs 90 crore, largely funded through corporate CSR contributions. The damage can still be reversed. The BDA must urgently intensify watering, replace dead saplings, publicly disclose survival rates and hold partner agencies accountable for maintenance lapses. Bengaluru needs trees, far more than records.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/for-the-record-these-numbers-dont-count-4068330)
-
----
-
-### Where Pelé rules over IPL
-*Deccan Herald · Opinion*
-
-The summer months in India witness a unique cultural phenomenon: the Indian Premier League (IPL). This multi-billion-dollar franchise cricket tournament becomes an integral part of daily conversations, while creating unprecedented digital engagement through the many streaming platforms that have emerged to showcase the gentleman’s game. Almost every household becomes a participant in this two-month-long festival. One can commonly witness children and youth playing cricket in playgrounds, on campuses, in the streets, and even on rooftops.
-
-However, if you happen to live in or stroll through the Halasuru neighbourhood in central Bengaluru, such a sight is a rarity. One will not see much excitement about cricket among the youngsters here. They live as if they are totally disconnected from a world where cricket is treated as a religion. Cricket was never a passion, attraction, or forte for the people of Halasuru, who predominantly comprise the working class. Unlike the rest of India, where cricket reverberates through every nook and corner, football is the lifeblood for generations of youth here.
-
-They Built a Cricket League to Fix What Apartment Life BrokeAmidst the choked, chaotic traffic circles of Halasuru’s Gun Troop area, a majestic statue of Pelé stands tall. To the locals, he is not just a legend; he is a deity. These residents might overlook a personal injustice or forgive a direct insult, but they will never tolerate a smear against the king of football. Every other house here boasts football players who have competed at district, state, and national levels. The sport has anchored the lives of thousands of youths, offering a reliable pathway to secure government jobs through sports quotas.
-
-Yet, this devotion has a bittersweet edge. For some, an obsessive passion for the game created a tragic illusion of guaranteed stardom, prompting them to drop out of school and college. Their lives became entangled in a web of triumph and unfulfilled promise. Many aspirations often culminate in frivolous local tournaments organised by politicians eager to keep the youth “within the fold” during election seasons. Political affiliations, both direct and indirect, have at times contributed to the decline of promising players, teams, and football clubs.
-
-While the game continues to give dignity and identity to the subaltern classes here, local power structures have proven to be successful in trying to manipulate the vulnerability of the sport. Ultimately, one truth remains absolute: football in Halasuru is historically a working-class, localised counter-narrative to India’s mainstream cricket obsession.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/where-pel%C3%A9-rules-over-ipl-4068328)
 
 ---
 
