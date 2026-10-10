@@ -1,3 +1,370 @@
+## 10 October 2026
+
+### iPhone Air gets Rs 30,000 off, no conditions
+*INDIATODAY · general*
+
+The iPhone Air just got a big price cut on Reliance Digital, and you don’t need any bank offers to get this deal.
+
+The iPhone Air is available right now for Rs 1,19,900, down from the Rs 1,49,900 listed price.
+
+This means that you save Rs 30,000 on the iPhone Air straightaway with this deal.
+
+Of course, you can save extra with bank offers or by exchanging your old device for the iPhone Air.
+
+The iPhone Air is the thinnest iPhone ever made with a thickness of just 5.6mm, making it standout among other phones.
+
+Under the hood, the iPhone Air packs the A19 Pro chipset, albeit with one less GPU core compared to the iPhone 17 Pro. Nonetheless, the device was able to handle everyday tasks and multitasking with ease during our review.
+
+The iPhone Air comes with a 6.5-inch OLED display on the front. We found the screen to be quite immersive with good colours, making it ideal for streaming movies or shows.
+
+The iPhone Air gets a single 48-megapixel camera on the back. But we found that this should do the job for most users with sharp details and good colours.
+
+Apple promises all-day battery life for the iPhone Air. During our time with the device, it would usually make it till a day’s end on a single charge. You get USB-C and MagSafe support for charging.
+
+---
+
+### Dipke, Ranka & Saurav Das allegedly detained by police inside the plane
+*Unknown · general*
+
+Dipke Ranka  Saurav Das allegedly detained by police inside the plane
+
+[Read full article](https://www.indiatoday.in/newsmo/short-videos/dipke-ranka-saurav-das-allegedly-detained-by-police-inside-the-plane-3013909-2026-10-10)
+
+---
+
+### World Mental Health Day: 48% of workers aged over 65 years report infrequent stress
+*India Today Education Desk · general*
+
+## ADP Research's People at Work 2026 report says older workers globally report negative stress less often than younger age groups. The findings also point to generational gaps in financial confidence, career readiness and employer support.
+
+Only 10% of workers aged 55 to 64 strongly agree that they feel good about their financial health (representative image)
+
+New Delhi,Oct 10, 2026 11:32 IST
+
+As World Mental Health Day is observed on October 10, findings from ADP Research’s People at Work 2026 report highlight differences in the frequency of negative stress across age groups, with older workers reporting less frequent experiences of such stress globally.
+
+The report says that “almost half (48%) of those aged 65 and above, and 32% of those aged 55 to 64” experience negative stress less than once a month. The findings indicate that workers aged 55 and above are less likely to report frequent negative stress.
+
+The report added that “Workers aged 55 and older are just as likely to find meaning in their work and feel engaged,” highlighting the continued importance of meaningful work and employee engagement among older workers.
+
+### FINANCIAL CONFIDENCE VARIES ACROSS GENERATIONS
+
+The report also examined financial confidence across age groups. Globally, only 10% of workers aged 55 to 64 strongly agree that they feel good about their financial health, compared with 19% of workers aged 18 to 26 and those aged 27 to 39.
+
+In India, however, financial confidence follows a different pattern. According to the report, 37% of workers aged 27 to 39 say they feel good about their financial health, compared with 31% of those aged 55 to 64 and 28% of workers aged 18 to 26. The share among Indian workers aged 27 to 39 is also higher than the global figure of 19% for the same age group.
+
+### CAREER DEVELOPMENT, SKILLS READINESS
+
+Career development and skills readiness also vary across generations. Globally, 30% of workers aged 27 to 39 say they have the skills needed to advance their careers over the next three years, the highest share across age groups. In India, the figure rises to 42% among workers in the same age group.
+
+The report added that 35% of workers in India said it had become easier to change jobs over the previous 12 months, including 12% who said it had become much easier. However, younger workers reported greater challenges, with 19% of those aged 18 to 26 saying it had become much harder to change jobs during the same period.
+
+The findings also point to a gap in employer support for career development. Only 30% of workers in India strongly agree that their employer is investing in the skills they need to advance their careers, according to the report.
+
+Commenting on the findings, Dr Nela Richardson, chief economist at ADP, said: “As AI reshapes work at the task level, organisations need people-centric, yet data-driven human capital management strategies to address the diverse career needs of a multigenerational workforce.”
+
+The report added that employers can support workers at different career stages through tailored upskilling initiatives, fair compensation practices, clearer career pathways and stronger mentoring and knowledge-sharing across age groups.
+
+Titled People at Work 2026, the report draws on ADP Research’s Global Workforce Survey of more than 39,000 working adults across 36 markets. The survey examines workforce sentiment across geographies, job types and other demographic dimensions.
+
+The findings highlight differences in how workers experience stress, financial confidence and career development across generations. While the report does not directly measure mental health conditions, its findings offer insights into the varied experiences of employees in an increasingly multigenerational workforce.
+
+\- Ends
+
+---
+
+### Home loan rates October 2026: Compare rates starting from 7% across 12 public sector banks | Mint
+*Shivam Shukla · economy*
+
+## Home loan rates start at 7% at select public sector banks in October 2026. Compare rates across 12 public sector banks, including SBI, Bank of Baroda and PNB, and understand the factors that can affect your final borrowing cost before applying.
+
+Home loan rates start at 7% at select public sector banks in October 2026. Borrowers should carefully compare rates, loan slabs, fees and other borrowing costs before applying. (AI-generated image for representational purposes only)
+
+Are you looking for a home loan? Have you decided which lending institution you will take out your home loan with? Do you have a well-planned strategy not only to borrow but also to ensure you repay the home loan seamlessly?
+
+These are some core questions that an aspiring home loan borrower must answer before proceeding with their home loan application, as proper planning is essential to ensure borrowing remains a pleasant experience.
+
+Furthermore, home loan interest rates start from 7% at some prominent public sector banks in October 2026, although the rate applicable to a borrower can vary based on the lending institution, borrower profile, credit score, past borrowing history, loan amount and other fundamental factors.
+
+With this in mind, let us look at the home loan rates offered by prominent public sector banks in the country for October 2026. The rates provided below cover three loan slabs: up to ₹30 lakh, above ₹30 lakh and up to ₹75 lakh, and above ₹75 lakh.
+
+It is also important to note that Bank of Maharashtra and Central Bank of India offer starting rates of 7% across all three loan slabs. Bank of Maharashtra's rate ranges from 7% to 9.90%, while Central Bank of India's rate ranges from 7% to 9.15%. The complete list of all banks is discussed in detail below.
+
+## **Public sector bank home loan rates in October 2026**
+
+**Name of lender**
+
+**Up to ₹30 lakh**
+
+**Above ₹30 lakh & up to ₹75 lakh**
+
+**Above ₹75 lakh**
+
+Bank of Baroda
+
+7.20%-9.00%
+
+7.20%-9.00%
+
+7.20%-9.25%
+
+Bank of India
+
+7.10%-10.00%
+
+7.10%-10.00%
+
+7.10%-10.25%
+
+Bank of Maharashtra
+
+7.00%-9.90%
+
+7.00%-9.90%
+
+7.00%-9.90%
+
+Canara Bank\*
+
+7.25%-10.00%
+
+7.25%-10.00%
+
+7.15%-9.90%
+
+Central Bank of India
+
+7.00%-9.15%
+
+7.00%-9.15%
+
+7.00%-9.15%
+
+Indian Bank
+
+7.15%-9.15%
+
+7.15%-9.15%
+
+7.15%-9.15%
+
+Indian Overseas Bank
+
+7.20% onwards
+
+7.20% onwards
+
+7.20% onwards
+
+Punjab and Sind Bank
+
+7.35%-10.75%
+
+7.35%-10.75%
+
+7.35%-10.75%
+
+Punjab National Bank
+
+7.25%-9.25%
+
+7.25%-9.15%
+
+7.20%-9.15%
+
+State Bank of India
+
+7.25%-8.55%
+
+7.25%-8.55%
+
+7.25%-8.55%
+
+UCO Bank\*\*
+
+7.15%-9.25%
+
+7.15%-9.25%
+
+7.15%-9.25%
+
+Union Bank of India\*\*\*
+
+7.15%-9.60%
+
+7.15%-9.60%
+
+7.15%-9.60%
+
+_Note: \*Under CRG-Prime, CRG-1 and CRG-2, Canara Bank offers an additional 5 basis points concession for takeover/ready-to-move home loan proposals and for salaried employees maintaining a salary account with the bank._
+
+_\*\*UCO Bank offers an additional 0.05% concession for women borrowers and 0.10% for takeover loans._
+
+_\*\*\*Union Bank of India offers an additional 0.05% interest rate concession to borrowers opting for an insurance policy._
+
+_Source: Paisabazaar.com. Rates as of 7 October 2026._
+
+## **What should borrowers check before applying for a home loan?**
+
+It is vital for aspiring home loan borrowers to carefully compare the rate applicable to their loan amount. Focusing only on the headline home loan rate might not provide the complete picture. The home loan must be evaluated holistically, taking into account the processing fee, tenure, overall interest costs, the flexibility offered by the lending institution, and any applicable fines or penalties if repayment does not go as planned.
+
+The table above highlights that the starting rate can differ depending on the loan amount. For example, Canara Bank's rates start at 7.25% for loans up to ₹30 lakh, 7.20% for loans above ₹30 lakh and up to ₹75 lakh, and 7.15% for loans above ₹75 lakh.
+
+On similar lines, Punjab National Bank's starting rate falls from 7.25% in the lowest slab to 7.20% in the two higher slabs.
+
+Still, do note that the lowest rate depicted in a lending institution's range does not simply mean that every borrower will receive the same rate. This is because the final interest rate depends on the borrower’s creditworthiness, credit profile, current credit score, income, employment, total loan amount and a host of other factors.
+
+Therefore, to ensure that a meaningful and beneficial home loan is secured, borrowers should be vigilant and compare rates, applicable fees, processing charges, and other factors relevant to their specific loan amount.
+
+Even a minor difference in the interest rate can impact the total interest payable over the repayment period. Furthermore, if you have any hesitation or doubts, it is wise to seek professional advice from a certified financial advisor to secure the best possible home loan that meets your current financial requirements and future economic needs.
+
+_**Disclaimer:** The interest rates mentioned above are based on data from Paisabazaar.com and are current as of 7 October 2026. Actual rates may vary depending on the borrower profile, loan amount, property and lender-specific terms and conditions. Borrowers should verify the latest applicable rate and charges with the respective lender before taking a home loan._
+
+### About the Author
+
+Shivam Shukla
+
+Shivam writes on personal finance, equity markets, and mutual funds. He has previously contributed to several leading publications, including Moneycontrol. He can be reached at shivam.shukla@htdigital.in
+
+---
+
+### The CJP protest's viral faces are back for season 2
+*Unknown · general*
+
+The CJP protests viral faces are back for season
+
+[Read full article](https://www.indiatoday.in/newsmo/short-videos/the-cjp-protests-viral-faces-are-back-for-season-2-3013905-2026-10-10)
+
+---
+
+### Gold Rate Today, October 10: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+*Aanya Mehta · legal*
+
+Today's 18, 22 and 24 Carat Gold Prices in Chennai, Bangalore, Hyderabad, Mumbai, Delhi: The gold price in India today stands at Rs 15,142 per gram for 24 carat gold, Rs 13,880 per gram for 22 carat gold and Rs 11,357 per gram for 18 carat gold, as per Good Returns.3
+
+[Read full article](https://indianexpress.com/article/india/gold-rate-today-october-10-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10915189/)
+
+---
+
+### ‘Gyanesh Kumar will go, this govt will go’: Rahul Gandhi as Delhi braces for ‘Jantar Mantar 2.0’
+*Abhishek Mishra · regional, india*
+
+‘This govt will go’: Rahul’s blunt message ahead of CJP’s ‘Jantar Mantar 2.0’
+
+NEW DELHI: Lok Sabha leader of opposition Rahul Gandhi on Saturday reiterated his demand for chief election commissioner Gyanesh Kumar's removal, declaring that both the CEC and the government would go.His remarks came as Delhi was placed under heightened security ahead of a massive protest organised by the Cockroach Janta Party (CJP) at Jantar Mantar.
+
+The Centre has imposed several restrictions, including curbs on Metro services and mobile internet, amid preparations for the demonstration.
+
+In a post on X, the former Congress chief wrote: "Gyanesh Kumar will go. This government will go. "
+
+"Then the repair of democracy will begin," he added, ending his post with the national flag emoji.Seeking to mobilise young protesters, the CJP has called for a major demonstration on Saturday, October 10, demanding the removal of chief election commissioner Gyanesh Kumar over the Election Commission's special intensive revision (SIR) of electoral rolls.This will be the CJP's second major protest at Jantar Mantar, after the group gained widespread attention and emerged as a pressure group. Months ago, it staged a demonstration at the same venue demanding the resignation of Dharmendra Pradhan as education minister over the NEET leak fiasco.
+
+---
+
+### Who was Roshan Kumari? The Kathak maestro who dazzled in Satyajit Ray’s Jalsaghar
+*Suanshu Khurana · legal*
+
+Reclusive Kathak exponent Roshan Kumari, part of the celebrated trinity of Sitara Devi and Damayanti Joshi and best remembered for her nine-minute performance in Satyajit Ray’s Jalsaghar, died this week in Mumbai
+
+[Read full article](https://indianexpress.com/article/express-sunday-eye/who-was-roshan-kumari-kathak-maestro-satyajit-ray-jalsaghar-10915192/)
+
+---
+
+### Two-stage exam, age cap, CBT shift in NEET: Parliamentary panel calls for major changes
+*PTI · legal*
+
+Urging that India needs a system where Director General to the entrance exam centre invigilator see themselves as guardians of examination integrity rather than just jobholders, the panel said rebuilding trust of people will require consistent, transparent, and two-way communication with stakeholder...
+
+[Read full article](https://indianexpress.com/article/education/two-stage-exam-age-cap-cbt-online-mode-shift-parliament-panel-proposes-major-changes-nta-overhaul-paper-leak-10915193/)
+
+---
+
+### Have come to get arrested: CJP's Abhijeet Dipke to cops inside AI plane in Delhi
+*India Today News Desk · general*
+
+## CJP leader Abhijeet Dipke was detained by Delhi Police inside an Air India aircraft after it landed in Delhi on Saturday. He repeatedly told officers to arrest him and said he was not afraid.
+
+CJP leader Abhijeet Dipke was detained by Delhi Police inside an Air India aircraft.
+
+In scenes rarely witnessed aboard a commercial flight, the Cockroach Janata Party's Abhijeet Dipke, Saurav Das and Aushtosh Ranka were detained from inside an aircraft shortly after landing in Delhi, ahead of their proposed protest against Chief Election Commissioner Gyanesh Kumar on Saturday.
+
+A Delhi Police team, notably comprising mostly women cops, entered the Air India flight from Mumbai within minutes of touchdown and detained the trio as co-passengers looked on and shot videos. The extraordinary scenes, captured on multiple mobile phone cameras, showed a visibly agitated Dipke telling the officers that he "had come to get arrested".
+
+The CJP soon condemned the action, calling the detention authoritarian and a "blatant violation of freedom of movement".
+
+The CJP had called the demonstration to demand the resignation of Chief Election Commissioner Gyanesh Kumar over alleged irregularities in the Special Intensive Revision (SIR) of electoral rolls.
+
+In a statement issued on Saturday, the party strongly condemned the detention of Dipke, Das and Ranka. It alleged that the police had carried out a pre-planned interception to prevent its leaders from reaching the protest site and described the action as an attempt to cripple the leadership of the peaceful demonstration.
+
+The CJP also accused the police of violating the leaders’ freedom of movement and demanded their immediate and unconditional release.
+
+\- Ends
+
+---
+
+### Anthropic says Claude tried to access US govt websites, gave false tip to police in homicide case
+*Armaan Agarwal · general*
+
+AI models are going rogue. Now, Anthropic has revealed new cases of its Claude AI models trying to break into websites, including those of the US government. One rogue AI model even gave a false homicide tip to the Philadelphia Police Department.
+
+In a blog post, Anthropic listed examples of “unintended model actions” seen in evaluations and internal use. According to Anthropic, its models tried to access several federal, state and local government websites. The company said it had briefed the White House on the incidents and notified the agencies involved. It chose not to name the organisations because of security concerns and at their request.
+
+Anthropic said none of the cases, to its knowledge, involved customer data or its own internal systems.
+
+### Claude gives false tip to police
+
+In the homicide case, Anthropic stated that its Claude Haiku 4.5 landed on a page referencing an unsolved homicide during a task 
+
+As per Anthropic, the webpage did not give any description of the perpetrator. The AI model left the name and contact fields empty in its submission. “The submission was flagged as spam and was never forwarded for investigation,” the company said. Philadelphia police earlier disclosed the incident after Anthropic informed it this week.
+
+As per the police, the false tip came through PhillyUnsolvedMurders.com on July 18, 2026. The department said the two-month delay in detecting and reporting the incident was unacceptable.
+
+While Claude was not allowed to log in, create accounts, enter personal data, make purchases, or submit anything destructive, Anthropic said, “the instructions did not rule out form submissions.”
+
+### More than just form submissions
+
+There were more cases of Claude going rogue. In one incident, Anthropic stated that an unreleased Claude model “was meant to fill out a practice copy of a government form.” However, when the copy “failed to load or the model closed it by mistake,” the AI went to the actual website where the real form is normally hosted and submitted the form there.
+
+In another case, Anthropic’s Claude Mythos Preview model needed to run an analysis with a tool hosted by a university. When the AI could not access the tool at first, it explored the website and found a script on the university’s server that would return any file it was asked for. In other instances, Claude Mythos 5 managed to obtain publicly available data without paying a fee to a state agency after finding ways to obtain access tokens and getting results for its queries.
+
+Anthropic said it found most of the cases through a review of transcripts that began in July and was later expanded to lower-severity incidents in which Claude interacted with real websites or systems in unintended ways.
+
+The company announced that it has since turned off live internet access for all internal evaluations until it is satisfied that its security and monitoring measures can reliably catch such behaviour. Anthropic said the cases were less severe than cyber incidents it reported earlier this year, but added that it would continue reporting concerning behaviour as its review continued. It said the findings had minimal impact, but that “the larger the role models play in society, the more the public deserves to know how they behave.”
+
+Anthropic’s disclosure comes just days after OpenAI revealed similar cases of its own AI models trying to access government websites. As per OpenAI, its rogue agents tried to break into websites run by the US and Australian governments, and even the UN.
+
+\- Ends
+
+---
+
+### Have come to get arrested: Moment Team CJP was detained aboard Air India flight
+*India Today Video Desk · general*
+
+## CJP Leaders Detained on Flight in Delhi, Massive Police Deployment Around Jantar Mantar
+
+Delhi Police placed Cockroach Janta Party leaders Abhijeet Dipke, Ashutosh Ranka, and Saurabh Das in preventive detention inside their aircraft immediately after landing at Delhi airport from Mumbai. The detentions occurred ahead of a planned march towards Jantar Mantar. Police denied permission for the agitation, warning that public assemblies in the designated zones are prohibited and subject to legal action. Heavy security measures transformed Central Delhi and the New Delhi area into heavily barricaded sectors, with 20 sectors supervised by Indian Police Service officers. Vehicular traffic, auto-rickshaws, and metro services faced extensive curbs across the surrounding vicinity to restrict mass mobilisations. Police forces stationed across key locations, including Regal Theatre, Connaught Place, and Raisina Road, actively dispersed student gatherings attempting to proceed towards the protest venue.
+
+---
+
+### Abhijeet Dipke detained from flight after landing in Delhi ahead of CJP protest
+*Express Web Desk · legal*
+
+The other two CJP leaders Saurav Das and Ashutosh Ranka were also detained from Air India flight along with Dipke
+
+[Read full article](https://indianexpress.com/article/delhi/cjp-leaders-abhijeet-dipke-saurav-das-ashutosh-ranka-detained-delhi-jantar-mantar-protest-10915197/)
+
+---
+
+### What’s on the agenda as Home Ministry meets Ladakh stakeholders this month?
+*Naveed Iqbal · legal*
+
+The October 15 meeting comes amid discussions on an alternative constitutional arrangement for the Union Territory
+
+[Read full article](https://indianexpress.com/article/india/whats-on-the-agenda-as-home-ministry-meets-ladakh-stakeholders-this-month-10915182/)
+
+
+---
+
 ## 9 October 2026
 
 ### Delhi Protests: 25 FIRs Registered; Rahul, Priyanka Gandhi Named For Entering Akashvani Bhavan Without Permission
