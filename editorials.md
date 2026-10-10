@@ -1,8 +1,202 @@
 # Editorials
 
-_Last updated: 2026-10-09 07:51 UTC_
+_Last updated: 2026-10-10 07:37 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 10 October 2026
+
+### Beyond forms: On the 2026 Nobel Prize in Literature
+*The Hindu · Editorial*
+
+Every year, before the announcement of the Nobel Prize in Literature, there is strong speculation among literary critics about the possible contenders. The Swedish Academy, which keeps its nominations secret for 50 years, has often sprung surprises. But this year, it has chosen a bookmaker’s favourite in Anne Carson, the 76-year-old Canadian poet, essayist, translator, and dramatist. It has also kept in tune with its decade-old trend of recognising women writers every two or three years — Carson is the 19th woman among the 123 Nobel laureates in literature. The Academy praised her “bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature”. Known for continually dismantling the boundaries between poetry, prose, and scholarship, Carson seamlessly brings the classical in conversation with the contemporary and personal, often through strange juxtapositions. She has also frequently collaborated with theatre directors, choreographers, and visual artists, expanding our understanding of what constitutes literature.
+
+A scholar of classics and ancient Greek, Carson’s works explore love, desire, mysticism, antiquity, and despair. Her first book, Eros the Bittersweet (1986), a reworked version of her PhD thesis on Sappho, examines the pleasure and pain of desire through the Greek idea of lack. Short Talks (1992) is a series of brief, lyric prose poems, each approaching its subject through fragments and shifts in voice. In Autobiography of Red (1998), perhaps her best-known work, she reimagines the ancient Greek myth of Geryon and Heracles as a queer coming-of-age story, combining poetry and prose. The Beauty of the Husband (2001), a semi-autobiographical work of narrative verse about the painful disintegration of a marriage, borrows its imagery from tango while opening its sections with lines from John Keats; she became the first woman to win the T.S. Eliot Prize for it. Her later works — Nox (2010), which is at once a book, an elegy, and an art object; Red Doc (2013), a sequel to Autobiography of Red; and Float (2016), which takes the form of 22 chapbooks housed in an acetate case — all resist easy categorisation. The Prize is thus not just a recognition of an outstanding poet or classicist, but also a celebration of literary experimentation and a reminder of the limitless possibilities of human imagination and creativity at a time of AI slop. In an age of polarised debates, her writing never simplifies the complexities of human experience or forces them into neat conclusions. By reworking classical traditions in unexpected ways, she makes the ancient feel startlingly contemporary while retaining a sense of its historical specificity. The Academy has chosen a writer who belongs in no category in particular, and everywhere at once.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/beyond-forms-on-the-2026-nobel-prize-in-literature/article71564244.ece)
+
+---
+
+### Delivery completed: On the GST Council meet, reforms
+*The Hindu · Editorial*
+
+The decisions taken by the Goods and Services Tax (GST) Council in its 57th meeting on Thursday reveal two distinct changes in the attitude of the tax administration: increased trust in the taxpayer, and reduced anxiety over tax revenues. This is a big change from the system in place so far, where taxpayers have been bogged down by compliance requirements, and the tax enforcement has used this complexity to try to extract every rupee it can. The data show gross collections have not often deviated significantly from the mean over the last two years. After nine years, taxpayers have also become familiar, if not comfortable, with the tax filing system. The previous meeting also rectified most rate-related issues in GST and even reduced the number of slabs, a major driver of the complexity of the tax system. The time was ripe for a significant overhaul of the processes and administration of GST, and the Council has delivered. Thursday’s reforms address complications in the entire chain of GST paperwork, from registration and return filing, to refunds and litigation. The thrust is to reduce human discretion in these processes by automating registrations, reducing the number of times small businesses have to file returns, handling refunds through computer-based verification, and significantly reducing the powers of GST officers. In essence, trust the taxpayer to comply, and crack down only when non-compliance is demonstrable. That is the way it should be, instead of a ‘guilty until proven innocent’ approach.
+
+While all the simplification measures are welcome, some specific ones deserve special mention as they will substantially ease areas of major discontent. So far, taxpayers were denied input tax credits (ITC) until their suppliers had filed their returns. This meant that thousands of genuine businesses that had received supplies and paid taxes on them were denied ITC, leading to a drying up of crucial working capital. The GST Council has tasked a committee to find a solution that can be implemented by April 1. Removing the arrest powers of GST officers is another step that will significantly reduce harassment, as will tightening the rules around inspection, searches, and seizures of consignments. The Centre has also used this opportunity to introduce a faceless assessment system for Central GST registered companies, along the lines of the popular faceless system in income tax. The decision to review rates only once a year, and implement rate changes only at the start of financial years, removes significant uncertainty that usually arises each time the Council meets. In its 10th year, GST is finally starting to look like what it should have at the time of rollout.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/delivery-completed-on-the-gst-council-meet-reforms/article71564732.ece)
+
+---
+
+### BRICS in a fragmented world order, a test of relevance
+*The Hindu · Opinion*
+
+The 18th BRICS Summit, held in New Delhi on September 12-13, 2026, was an extravaganza of sorts. The summit’s New Delhi Declaration has been widely hailed as a major achievement for reconciling the divergent views of the 11-member grouping. Its unanimous adoption is again a major achievement in a world often works at cross purposes. Achieving this consensus under India’s chairmanship, is an excellent example, at one level, of India’s standing within BRICS and its importance in the councils of the world
+
+The Declaration covered matters such as reform of global governance, trade, finance, energy, climate, technology, health and agriculture. The decisions taken were unanimous, involving aspects such as mutual respect, sovereignty, equality, openness and consensus. It proposed that the BRICS group should work towards local currency trade and inter-operable cross-border payment systems, extend support for the BRICS Economic Partnership Strategy 2030; a Global Value Chain Action Plan for 2026-2030; seek a more representative United Nations (UN) and international financial system with greater regard given to developing countries, and supporting de-escalation in West Asia as also humanitarian access in Gaza.
+
+The message, the approachThe political message conveyed was that global institutions no longer adequately reflected contemporary economic and demographic reality. This underlined the need for a stronger voice for emerging markets and developing economies. This in turn called for a broader effort to promote multi-polarity, reform of the Bretton Woods institutions, underline preference for dialogue, diplomacy and political solutions, and on trade, defend the World Trade Organization (WTO) and the rules-based multilateral trading system, including a two-tier WTO disputes settlement mechanism. It supported the Palestine people’s rights to determination as well as a just and lasting settlement based on international law.
+
+Related StoriesIndia and the plausible multilateralism of BRICS
+
+BRICS leaders voice concern over ‘growing risks’ of nuclear conflict
+
+‘From rule-takers to rule-shapers’: PM Modi’s big pitch to BRICS leaders in welcome address
+
+India’s opportunity to put BRICS back together
+
+The Summit contained a detailed reference to Artificial Intelligence (AI), acknowledging its potential to stimulate economic growth, improve public services and accelerate sustainable development. The Declaration supported international cooperation on AI governance, including wider access to computing resources, research, skill and innovation. Over all, the Declaration appeared to adopt a pragmatic approach to issues concerning energy, health, climate and food security.
+
+In his inaugural address, Prime Minister Narendra Modi urged BRICS leaders to draw up 10 global governance reform proposals, adding that the message from the BRICS Summit should be that ‘if our future is shared, then the right to shape the future must also be assured’.
+
+Editorial | More heft: On India and the 18th BRICS Summit
+
+Among the many comments on the New Delhi Declaration, the broad consensus was that it was in keeping with India’s policy of strategic autonomy, multi-alignment, and multi-vector engagement. The optics were excellent. The presence of Chinese President Xi Jinping and Russian President Vladimir Putin lent gravitas to the proceedings, and the fact that the United Arab Emirates and Iran participated without indulging in mutual recriminations was also significant. All this seemed to suggest that BRICS is beginning to make some progress on matters of substance, rather than merely being a diplomatic spectacle. Among other highlights was the atmosphere of bonhomie that seemed to prevail and, at the very least, appeared to reflect an Indian approach to BRICS, viz., cooperation and consensus and for consultation and discussion on dispute settlement.
+
+‘India must face the reality that membership of BRICS hardly gives it any additional political or economic strength’ | Photo Credit: Sputnik via Reuters
+
+What a more sober assessment showsNotwithstanding all this, it is important to acknowledge that this is the age of ‘variable geometry’ and not of ‘deep seated’ alliances. Given the state of the world, this is the grim reality of today. While, this BRICS Summit might seem to have ‘bucked’ this trend, a more sober and realistic assessment would seem to suggest that this is not the case. It may perhaps be too radical or drastic to cast BRICS as outdated; perhaps BRICS could possibly hope to become something in the nature of Europe’s ‘coalition of the willing’ which has been contrived in the wake of the near demise of the North Atlantic Treaty Organization in Europe.
+
+Trade between BRICS countries shows marked increaseThe fault may not lie entirely with the leaders of BRICS, for evidently no one could have predicted or anticipated the shifts and changes that have taken place in the international order since the first BRIC summit in Yekaterinburg, Russia, in 2009. Ad hoc cooperation rather than firm alliances is the order of the day at present, alongside pragmatic coalitions built around shared ‘interests’, rather than true values and intentions.
+
+This is often justified as pragmatism that is often needed during difficult periods, wherein multilateralism is replaced by plurilateralism in different corners of the globe. To expect that BRICS would remain unaffected given the many iterations taking place across the globe, and amidst the virtual collapse of the international economic and political order, would hence, be too much to hope for.
+
+Related StoriesA bigger BRICS, shaped by India’s vision
+
+The BRICS bank — an alternative that wasn’t
+
+Harnessing BRICS ‘POWER’ to empower the world
+
+Each of the demands made by the original BRICS countries — Brazil, Russia, India, China and South Africa — meanwhile remain unfulfilled to this day, including aspects such as reform of the International Monetary Fund, the World Bank, and the UN. Also unfulfilled is the strengthening of cooperation among developing countries, to reduce dependence on western financial systems so as to create a more multipolar world.
+
+Notwithstanding the creation of better opportunities for trade, BRICS has failed to become a well-integrated economic bloc that could stand up to the tyranny of the Bretton Woods Twins, let alone become a highly integrated economic bloc.
+
+The China factorApart from its failure to promote multilateralism, or extend strong support to a more democratic and just multipolar world (combined with other weaknesses such as the failure to strengthen global South-South Cooperation), is another reality that cannot be ignored. In the nearly two decades since Yekaterinburg, China’s economic preponderance has far eclipsed that of all other BRICS members, and has, in the process, achieved a political heft that is leading to a serious imbalance within the BRICS community.
+
+The spectacle of United States President Donald Trump’s kowtowing to Mr. Xi, during Mr. Xi’s visit to Washington DC in September 2026, demonstrates that China can no longer be regarded as a member of the Global South, and hardly (any longer) championing many of the demands espoused by the BRICS nations such as the tyranny of the Big Powers. A fledgling economic power in 2009, China’s heft threatens to derail the stance that BRICS has consistently held, viz., that of opposing the hegemony of the West.
+
+Does the BRICS summit signify a shift for Indian foreign policy?Tensions remain between China and India, which are the leading members of BRICS. While no serious conflict has taken place since 2020 (Galwan), thanks to diplomatic efforts at all levels, relations remain uneasy notwithstanding the present diplomatic calm. This in turn does affect the future trajectory of BRICS and how far it can succeed in achieving its objective.
+
+Hence, notwithstanding the surface calm evident at the New Delhi Summit, the reality is that the ability of BRICS to act in unison in a world that is in disarray is strictly limited. As far as India is concerned, while it does not have to fear the so-called Thucydides Trap or be concerned about U.S. economist Charles Kindleberger’s theories, it must face the reality that membership of BRICS hardly gives it any additional political or economic strength. The increasing imbalance in BRICS — in terms of political and economic strength and influence — perhaps contains the seeds of its irrelevance in the years ahead, notwithstanding the hopes expressed during the New Delhi Declaration.
+
+M.K. Narayanan is a former Director, Intelligence Bureau, a former National Security Adviser, and a former Governor of West Bengal
+
+[Read full article](https://www.thehindu.com/opinion/lead/brics-in-a-fragmented-world-order-a-test-of-relevance/article71564925.ece)
+
+---
+
+### Form 7 misuse tests electoral integrity
+*Deccan Herald · Editorial*
+
+Chief Electoral Officer V Anbukkumar's assurance that no voter will be deleted from Karnataka's electoral rolls without a proper inquiry offers some respite amid the controversy over bulk Form 7 applications.
+
+But it does not end the ordeal of voters whose names have been flagged. Between June and October, the Election Commission received around 91,000 applications seeking voter deletion. The volume and manner of filing warrant a thorough investigation.
+
+Congress has alleged that Bharatiya Janata Party (BJP) workers submitted bulk applications disproportionately targeting minorities and Dalits. In Puttur, dozens of names were allegedly submitted on a BJP letterhead. In Vijayapura, third parties submitted death certificates against eight names, all issued by competent municipal authorities.
+
+EC limits Form 7 submissions seeking voter deletion to 10 per person during SIRLegally, there is nothing wrong with an elector pointing out a bogus entry. But a legitimate right cannot become a licence for mass, unverified objections.
+
+The question that demands an immediate answer is: who supplies pre-printed forms in bulk to party workers?
+
+That BJP workers allegedly filed written apologies admitting they submitted Form 7 applications without proper verification after receiving police notices points to a conspiracy to purge voters from minority communities.
+
+The claim by the BJP and Janata Dal (S) that only the Election Commission can act on such complaints overlooks the distinction between an electoral objection and a criminal offence.
+
+A false declaration attracts punishment under Section 31 of the Representation of the People Act, 1950. Forgery, cheating, and using fabricated documents can additionally attract provisions of the Bharatiya Nyaya Sanhita (BNS). The High Court’s interim stay on Friday on proceedings against BJP booth-level agents in Bengaluru’s Malleshwaram Assembly constituency is no green signal for fraudulent submissions.
+
+While criminal liability must be pursued, the immediate concern is the genuine voter. Many struggled to establish their eligibility during the flawed SIR exercise. The burden falls disproportionately on the vulnerable sections who may not receive a notice or fail to respond to it. They should not now face another round of scrutiny merely because somebody has submitted an unsubstantiated Form 7.
+
+Where suspicion exists, the Election Commission should first verify the claim against available records. Only in unavoidable cases should the voter be summoned. The integrity of an electoral roll rests not merely on preventing bogus voters from entering it, but equally on ensuring genuine voters are not pushed out.
+
+The EC must ensure that no citizen loses the right to vote because of somebody else's fraud or political design.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/form-7-misuse-tests-electoral-integrity-4177162)
+
+---
+
+### Literature Nobel: Text and subtext
+*Deccan Herald · Editorial*
+
+Anne Carson winning the Nobel Prize for Literature may not have been a surprise, especially for those following reports on the world’s most prestigious literary honour. The Canadian poet and essayist was on the unofficial short list of top contenders.
+
+Very often, writers from such lists win the Prize, though the Swedish Academy has, sometimes, come up with surprises. This is also an honour that her readers expected her to win someday. She is among the most eminent writers in the world, though she may not be among the most well-known.
+
+Popularity is no measure of excellence in literature, and sometimes, it is even seen as a limitation. Anne Carson is beyond these limitations and may well be of the revered Nobel standard, though that standard itself defies definitions.
+
+Canadian writer Anne Carson wins 2026 Nobel Prize in LiteratureThe Swedish Academy cited Carson’s “bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature”. Her works are anchored in classical literature, especially Greek literature and mythology, which she has reinterpreted in diverse forms.
+
+The Academy said her writing was at the intersection of a philological obsession with words, classical traditions, and experimental prose forms. She has defied traditions of lyrical poetry and explored new forms of expression, which is seen even in her translations – in one, she introduces a character the original Greek classical play did not feature.
+
+A rich, if riotous, imagination has served her world, where both beauty and terror are real. She has also given expression to a feminine sensibility, shaped by her times and circumstances. Like all masters, she has engaged with the eternal concerns of love, loss, memory, language, silence, light, and darkness.
+
+What also stands out is that year after year, the Prize refuses to leave Europe and North America. Of the 123 Nobel Literature laureates since the Prize was established in 1901, 99 were from these two regions. There have been 30 English-speaking laureates, followed by 16 French and 14 German laureates.
+
+Among the nine top contenders for the Prize this year, six were from other regions. They included Salman Rushdie, Amitav Ghosh, Haruki Murakami, and Can Xue.
+
+Comparing writers across forms and genres can become an unwieldy proposition, but very often, the Nobel Literature Prize gives the impression of a bias working in favour of writers from Europe and North America. That detracts from the value of the global prize, though not always from the worth of the laureate.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/literature-nobel-text-and-subtext-4177160)
+
+---
+
+### World Mental Health Day 2026 | The voices we need to hear
+*Deccan Herald · Opinion*
+
+On October 10, World Mental Health Day is observed under the theme ‘Lived experiences heard: real voices, real change’. It asks governments and health systems to treat the knowledge of people who have lived with mental illness as "a vital form of expertise", and to let it shape the policies, services, and decisions that affect their lives.
+
+This is a significant and overdue shift. Of the WMHD themes since 2000, this year's is the first to explicitly name “lived experience”. Earlier themes largely spoke about people with mental illness. This one asks us to listen to them, and to let them "influence decisions" and "co-design services".
+
+Why should lived experience count as expertise? A professional may understand how a disorder presents clinically. A person who has lived with it knows what it means to wait months for a diagnosis, lose a livelihood, be taken to a faith healer, or remain in hospital long after recovery.
+
+That knowledge is not learned from a textbook. Systems designed without it can fail the people they serve. Therefore, this knowledge should inform how services are designed, funded, and evaluated.
+
+Consider a man we’ll call Lakshman, from a village in Chhindwara district, Madhya Pradesh. He began hearing voices in his early 20s. His family took him to a shrine, where he was chained for weeks while a healer tried to drive out the "spirit".
+
+He was later admitted to a mental hospital. His symptoms eased within months, yet he remained there for years because no one came to take him home and, crucially, no one asked where he wanted to live.
+
+From art to athletics: Bengaluru finds new ways to talk mental healthLakshman is a composite example, but the circumstances are all too familiar. In July 2023, after the National Human Rights Commission's teams visited all 47 government mental health institutions, its then chairperson Justice (Retd) Arun Kumar Mishra noted that there were more than 2,000 cured patients in these hospitals who should not stay there “even for an extra day”.
+
+The Mental Healthcare Act, 2017, provides a strong legal foundation. It gives every person with mental illness the right "to live in, be part of and not be segregated from society", and says no one should remain in an institution simply because they have no family or home.
+
+It prohibits chaining "in any manner or form whatsoever". It also allows people to decide in advance how they wish to be treated and to appoint someone they trust to represent them. The Act puts people at the centre of decisions about their care.
+
+The gap, therefore, is not one of intent but of implementation. Meaningful agency is difficult to achieve when people are separated from their families, communities, and everyday lives. Community-based care is not merely an alternative model of service delivery; it is central to rights, dignity, and inclusion.
+
+The World Health Organization is clear that people with lived experience want "rights-based, person-centred care, rather than custodial systems". Institutions, it notes, "tend to be isolating and are too often associated with poor-quality care, coercion and human rights abuses".
+
+Yet India's mental health funding remains heavily skewed towards institutions. In 2025-26, NIMHANS and the Lokpriya Gopinath Bordoloi Regional Institute of Mental Health in Tezpur together received 92% of direct mental health allocations, according to the Centre for Mental Health Law and Policy.
+
+These institutions remain essential, but community-based services need a larger share if our mental health system aims to reach people like Lakshman.
+
+Evidence supports this shift. A 2025 study in the journal SSM – Mental Health followed people who moved from long stays in psychiatric institutions into shared homes under The Banyan's Home Again programme.
+
+After a year, "statistically significant improvements were observed in disability, quality of life, community integration, clinical symptoms and hope."
+
+This is consistent with our experience at The Live Love Laugh Foundation. Across Chhindwara and 17 other districts in seven states, its programme has reached more than 30,000 persons with mental illness and their caregivers.
+
+An independent evaluation by Population Council Consulting found that 94% of those supported through treatment and follow-up continued treatment. Among those reporting strong social support, caregiver burden fell from 85% to 37%. Every rupee invested returned Rs 8.70 in social value.
+
+The question is how to make lived experience part of designing and delivering mental health policy and services. Four steps could help turn this year’s theme into practice.
+
+First, institutionalise the participation of people with lived experience. They should have a formal role in designing and evaluating mental health programmes at the national, state, and district levels. Participation should be meaningful and not tokenistic.
+
+Second, shift more public funding towards community-based care. Section 19(3) of the Mental Healthcare Act provides for less restrictive establishments, including halfway homes and group homes. These provisions need dedicated budgets, trained personnel, and sustained follow-up support.
+
+Third, make rights and social support usable in practice. An advance directive or nominated representative means little if people do not know these options exist. Frontline workers should help people exercise these rights. Disability certificates, pensions, food security, and livelihood opportunities should be part of community mental health work, not left to families to navigate. Mental health review boards must also be functional.
+
+Fourth, measure what matters to people with lived experience. Beds, prescriptions, and helpline calls are important, but they do not tell the whole story. Programmes should also track employment, independence, relationships, community participation, and people’s experience of care.
+
+People like Lakshman can lose years to a system that does not ask what they want, even when the law recognises their rights. Policy implementation, budgetary allocation, and service design must come together to make those rights real.
+
+This WMHD, the message should be simple: build mental healthcare with people with lived experience, not merely for them.
+
+Dr Indu Bhushan was the founding CEO of the National Health Authority and Ayushman Bharat; Anisha is CEO of The Live Love Laugh Foundation.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/world-mental-health-day-2026-the-voices-we-need-to-hear-4177166)
+
+---
 
 ## 9 October 2026
 
@@ -84,6 +278,48 @@ srinivasan.vr@thehindu.co.in
 ponvasanth.ba@thehindu.co.in
 
 [Read full article](https://www.thehindu.com/opinion/lead/flawed-by-design-exclusionary-in-impact/article71560731.ece)
+
+---
+
+### DC Edit | A Deserving Peace Nobel Winner
+*Deccan Chronicle · Editorial*
+
+Handpicked by Nelson Mandela to be the first non-white judge to serve in the High Court of South Africa, the lawyer and jurist of Indian origin who is a granddaughter of indentured workers who moved from Tamil Nadu to Durban in South Africa, Navanethem ‘Navi’ Pillay becomes a most interesting choice to be the recipient of the Nobel Peace Prize of 2026.Her decades of legal work which also served to define the long march to freedom of the non-white people of her country, were followed by a relentless fight for preserving international human rights law with a focus on crimes of rape and sexual violence against women and children. That makes her a great pick in these fractured times when the world is on edge thanks to the on-off Iran war.Currently a judge on the International Court of Justice, Ms Pillay, whose work to keep international law relevant in a conflicted world is seen as a “source of hope and inspiration for all those who seek to bring about a more peaceful world”. The UN panel she led determined gutsily that Israel has committed genocide against Palestinians in Gaza. While the jury may be still out on that sweeping conclusion, the bravery in calling out aggression, or disproportionately fierce response to the Hamas attack as in the case of Israel, has become necessary in a world of endless wars.The Nobel committee’s chosen personality for the coveted Peace Prize is the diametrical opposite of succumbing to the pressures that the US President Donald Trump put on the committee, recommending himself unabashedly for the honour like a stuck vinyl record. That he ordered the bombing of Iran’s nuclear energy assets in 2025 and then a full-scale aerial war against that nation in 2026 makes him a candidate least suited to the privilege of being named a peacemaker.At a time when the US President seems to be taking on India at every turn while professing great friendship with Prime Minister Narendra Modi, the situational irony of an Indian origin person landing the grand prize makes for the kind Greek philosophers may have grappled with. It may even have riled the committee that its last year’s pick, the Venezuelan Opposition leader María Corina Machado handed her Nobel medal to Mr Trump at the Oval Office. The 2026 medal will be in good hands soon.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-a-deserving-peace-nobel-winner-1994468)
+
+---
+
+### DC Edit |Trump Admin Going After Indians To Win Midterms?
+*Deccan Chronicle · Editorial*
+
+US Vice President J.D. Vance’s description of foreign workers as “indentured servants” of “visa mills” reflects growing xenophobia in the Donald Trump administration and worsening relations between India and the United States.He argues that employer-linked visas, which were created under the sanction of law, leave workers vulnerable to exploitation. Yet his administration is trying to obstruct their very route to permanent residency — the status that would emancipate them from their dependence on so-called visa mills. If dependence is the problem, deepening it is a perverse remedy.Indisputably, the US has the sovereign right to decide whom it admits. It can regulate immigration, enforce employment standards and prosecute fraud. However, sovereignty is no defence for selective outrage, unfounded accusations or rules that punish people, such as foreign students and legally admitted workers, who organised their lives around an existing legal framework.A proposal to collect a fee of $70,000 from foreign students for initial Optional Practical Training and $30,000 for a subsequent extension is patently unfair and immoral.Though these measures are still at the proposal stage, levying such hefty fees on students who have already enrolled in American universities based on existing legal provisions would upend their choices and potentially throw many of them into deep financial distress.Though a student visa guarantees no employment, the US administration should not change the terms of a visa retrospectively. If it believes foreign students are adversely affecting the interests of US citizens, it should change the terms of the F-1 visa, including scrapping OPT, from the next academic year. But it should desist from changing the rules of the game midway.The Trump administration’s decision to suspend eight companies, including two American and six Indian companies, from the Permanent Labour Certification programme (PERM) over alleged misuse of employment-based immigration programmes appears to be mostly targeted at Indian companies.While it is not for India to lobby the US to grant green cards to its citizens, who are not stateless, New Delhi must oppose the selective targeting of Indian citizens and companies to appeal to the administration’s core MAGA voter base ahead of the midterm elections to Congress.Officials in the Trump administration and the MAGA ecosystem should not forget that the United States was founded by immigrants who came from around the world. If previous leaders in Washington or Philadelphia had shut out immigrants, neither Trump nor Vance could have called themselves American, a term that rightfully belongs to Native Americans who were persecuted in their own land for hundreds of years.An analysis of the 2026 Fortune 500 shows that 229 companies — nearly 46 per cent — were founded by immigrants or their children. Together, they employed 15.3 million people worldwide. Immigrants have helped create the businesses on which American prosperity rests; treating them as a threat wilfully ignores that record.If companies have hired foreign workers primarily for wage arbitrage and have acted against the law, the Trump administration should act against them instead of denigrating people and imputing servitude to them. If all Indians settled in the US were to return to their motherland with their talent and money, it would be immensely beneficial to India, as it would turbocharge its economy and speed up its rise. The biggest casualty, however, would be the India-US strategic partnership.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-trump-admin-going-after-indians-to-win-midterms-1994477)
+
+---
+
+### Farrukh Dhondy | New Anti-Israeli Shade Colours Priorities of UK’s Greens
+*Deccan Chronicle · Opinion*
+
+The traditions of Islam say that the inhabitants of paradise wear green silk accoutrements and relax on green cushions. And the Prophet chose to wear green gowns and a green turban. Britain’s Green Party was dedicated to saving the planet from global warming and to campaign for an end to fossil fuels. It was named for all those aims and policies — absolutely nothing to do with Islam or Muslims… (What???? And you call yourself a columnist, au fait with the facts? — Ed.) Oops, sorry, gentle reader: that statement about the Green Party is — or has recently become — manifestly untrue. In 2005, the party elected Zack Polanski as its leader. Under his leadership, its founding aims have steadily eroded. The Greens still talk, of course, about global warming, alternative power sources and green energy, but their focus has shifted towards a different political agenda. Polanski presumably believes the party should pursue broader aims than curbing global warming. He certainly wants more MPs in the House of Commons and, although he has not adopted Malcolm X’s slogan, “by any means necessary”, he has set out to challenge — or, as far as his party can, displace — Labour’s socialist or left-wing position.The Greens have just held their annual Party conference. The resolutions they passed were national news, and the subject of controversy within the Party and in the media. But no, gentle reader, the talk of the town was not some resolution of the Party to ban diesel cars, to stop the use of gas cookers, to close all factories that still burn fossil fuels… No sirrah, no sirree! The resolution of the Green Party that hit the headlines and caused splits of opinion in the Party itself was the motion, enthusiastically passed by a majority, “Zionism is Racism”!Zack, himself Jewish, but very far from supporting the present government of Israel, was not present at the vote, as he was conveniently campaigning as a candidate in the forthcoming by-election in London for the vacancy left by Kier Starmer’s parliamentary resignation.Was it a dodge? Did he want to be seen to abstain from passing this motion? And what was the motion expected to achieve? Very clearly, it was aimed at the Muslim vote in the forthcoming local elections, in any possible by-election to Westminster and of course in the long term when the country goes to the polls in 2029 — at the latest.
+
+The motion, though wider in scope, is an obvious expression of anti-Netanyahu and his cabinet’s policies, of the Israeli military action leading to devastation in Gaza and of the invasion of new, aggressive Jewish settlers in the West Bank, involving the displacement of Palestinian inhabitants. Such a stance is a guarantee of the Muslim vote as it makes Green the chosen colour next to which to put their ballot cross. The resolution caused ructions in the Party.
+
+Four of the five MPs the Green Party has have denounced the resolution. Jewish organisations have reacted in no uncertain terms, condemning the Party’s stance — and Israel has banned Zack Polanski from ever entering the country.If the resolution condemns the atrocities against the innocent citizens of Gaza, it should have said so. If it seeks to condemn the infringement of the rights and habitation of the Palestinians of the West Bank, it should have said so. If it is against the general stance of the Netanyahu government — well what’s to disagree with? But, gentle reader, what one can critically accuse this motion of is intellectual laziness.Zionism is the nationalism of Israel. Yes, there may be very many Israelis who regard the Palestinians as people of a different and inferior race. This, despite the fact that millions of Jews native to Palestine probably have the same DNA as Palestinians. Zionism, the conviction that Jews should have a homeland safe from the racism they suffered as a religion from the days of the Roman Empire through the massacres inflicted by the medieval crusaders to Hitler’s genocide, is an absolutely humane and necessary contention or even conviction. The assertion that they should have a secure homeland doesn’t imply racism against Palestinians, even though the actions of successive vicious governments of Israel have descended into ethnic cleansing, which can certainly be labelled ‘racist’. The Green Party motion was passed by a majority at their Brighton conference but it now emerges that it was proposed by a British Palestinian member of the Party called LubnaSpeitan, an “artist and activist”. The Times alleges that Lubna is a friend and associate of Minh Quang Pham, a British citizen who was trained in terrorism at an Al Qaeda camp and planned to detonate a bomb in the passenger area of Heathrow airport in London. He was stopped, apprehended and tried and Lubna volunteered to testify on his behalf at the trial.Despite this taint on the origin of the resolution, the Party has deployed it now to influence the by-election vote on the eighth of October in Camden, in which Zack is a candidate...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/farrukh-dhondy-new-anti-israeli-shade-colours-priorities-of-uks-greens-1994498)
+
+---
+
+### Shobhaa De|Flak in Delhi, Mumbai: Are Gyanu’s Days Numbered?
+*Deccan Chronicle · Opinion*
+
+“Don’t sell Chai to a Matcha generation”, read a poster held up by a cheerful protester in Mumbai. It couldn’t have been stated more pithily. Thousands of Mumbaikars pouring into Shivaji Park, raisingslogans, flashing posters (“I speak today so my kids can live without fear tomorrow”) — just too wow! Women protesters thanking Mumbai Police profusely, gushing “’You are the best!” — double wow.
+
+I devoured clips of SoBo hot mommies in shorts and tees taking to the streets to enthusiastically participate in their very first andolan — I wanted to hug them. Instead of sweating it out at Shivaji Park, they could have met for an energetic Padel game or a mahjong session at their swanky club. But no, something significant had shifted. They weren’t there to create content. These were not ‘influencers’ looking for numbers. Most of the reels I watched featured concerned citizens worried about their fundamental rights and willing to fight for them.The Delhi story is different. It is a strident “Janata ki Awaz Suno” political cry that is echoing around India. Cynics can call this a carefully orchestrated drama choreographed by a photogenic, middle-aged brother-sister duo hogging the headlines as they are seen being dragged, roughly manhandled and shoved into cop vans by Delhi Police (most of them minus badges). It makes me wonder — imagine the short-sightedness of the political bosses in Delhi! They are handing this protest on a platter to the incensed Opposition, which is frothing at the mouth and demanding the resignation of “Gyanu”. The optics say it all — like Rahul Gandhi calmly munching on a kathi roll or rushing to protect a prone Priyanka Gandhi, who is dramatically clutching a copy of the Constitution and refusing to budge. Then there’s Renuka Choudhary showing “red-red eyes” (Bong shorthand fordisplaying rage) to reporters as she slams the BJP. And look — it’s Jaya Bachchan sporting her party’s red topi as she physically hits out at a TV cameraman.It’s become a question of “vishwas” — trust. Belief. Faith. Anger and aggression are sure signs of weakness and panic. A political party that is confident of its unassailable position would never fallfor or be upstaged by high drama enacted by opponents. As of now, the BJP is on the backfoot as the ongoing protests gain momentum plus public sympathy. Cops seen mercilessly attacking unarmedprotesters is hardly the way to generate “vishwas”. What these bully tactics show is fear. Fear of women. Fear of students. Fear of protesters. And most of all, fear of Rahul Gandhi’s growing popularity as Gen Z cheer him on and hail him as their hero. This is the Janata Ki Awaaz that the BJP continues to scorn, mock and ignore. Resistance and disruption — the absolute birthright of youth worldwide. Mighty empires have been dismantled overnight by those willing to risk it all for a larger common good. A peaceful protest is being barred in the national capital of the world’s largest democracy. Gyanu’s days of rigging elections are numbered. If the BJP bosses continue to be indenial and protect this man… well then, wake up and smell the chai! It’s game over, Bro!I love conspiracy theories. Please don’t tell me to blindly accept the official version of the “Cockpit Diaries”. Yes, the ghastly story is no longer frontpage news. Which suits the principal non-state actors just fine. But I’m stubbornly stuck scrolling scraps of news even as the story dies a slow death in the media. “Like a vertical roller coaster”, is the chilling description of Flydubai’s flight FZ1073, which plunged 16,000 feet in 30 seconds before getting levelled out, according to Alberto Paduanelli, an aviation instructor who recreated the descent in a flight simulator. The world is still reeling from theunprecedented horror in the cockpit that could have killed 170 innocents, but for the heroism of the captain, our very own Smit Machchhar. Hold the thought for a minute. And visualise the scenario ifyou dare — an unsuspecting captain grants his co-pilot a few minutes off to say his prayers. Which Smit says is standard ‘courtesy’ extended to crew. The co-pilot goes behind the captain’s chair, ostensibly to pray. Within seconds, the captain feels blows to his head. He is stunned and mistakenly thinks something is wrong with the aircraft. The blows continue and the heavily injured Captain responds like a true leader and lurches towards the knob that unlocks the cockpit door. This single act of a wounded man fighting for his own life, yet thinking of saving the lives of his passengers first, has ensured Smit Machchar a permanent place in the Hall of Heroes.The world watched open mouthed as the first live telecast with Captain Machchar went viral. The captain calmly and methodically narrated what took place during the attack. He did this from his hospital bed, with a fractured, dented skull and blurred vision. It is interesting to note that this key interview with Benjamin Netanyahu, Prime Minister of Israel, which was...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shobhaa-deflak-in-delhi-mumbai-are-gyanus-days-numbered-1994487)
 
 ---
 
@@ -21806,112 +22042,6 @@ Tolstoy observed that happy families are all alike, while each unhappy family is
 Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
 
 [Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Jul/11/urban-india-republic-of-recurring-outrage)
-
----
-
-## 11 July 2026
-
-### Fix the house: On social media, social media access
-*The Hindu · Editorial*
-
-The more wicked the problem, the more the people yearn for a simpler solution. This tendency has complicated the public debate on how and how much social media harm teenagers. While the idea that these platforms were stoking a mental health crisis prevailed in several countries for long, researchers have now adopted a more cautious stance. Social media use and mental health are clearly associated — more so among girls — but how much of that is actually causal and in what circumstances is still being debated. Recently, Prime Minister Narendra Modi spoke favourably of Australia’s decision, in 2024, to ban social media access for those aged 16 and below. His words augur a similar ban in India, one that Andhra Pradesh and Karnataka have publicly mulled as well. However, Australian psychologists, digital health researchers, child-rights scholars, and online safety experts have criticised the ban because, while there is a credible body of evidence linking social media use and harm among children, evidence of a link between an age-based access ban and better mental health has been lacking. In the absence of a real-world precedent, Australia has effectively been conducting a natural experiment. And research has estimated that around 85% of 12-16-year-olds still use social media platforms.
-
-While some psychologists and advocacy groups have argued that waiting for perfect evidence to act would recreate the mistake governments made with tobacco, many experts believe that the state should drop the ban and instead adopt a stronger duty of care, include digital literacy in school education, restrict addictive user interfaces/experiences, mandate a chronological feed for minors, enforce stronger content moderation, improve privacy protections, and introduce effective parental controls. Most studies of adolescent harm due to social media have also been observational and thus susceptible to reverse causation (depressed teenagers may spend more time online) and smaller average effects; experts have also noted that hours per day is less explanatory than passive versus active engagement, participation in supportive versus hostile communities, and so on. Indeed, while social media use can disrupt sleep and increase exposure to cyber-bullying, addictive recommendation patterns, and content about self-harm and eating disorders, it can also help maintain friendships and explore one’s identity, offer peer support, and increase access to LGBTQIA+ communities and mental health information. The overall picture is mixed and the solutions are not simple. However, the first step could be: rather than regulate ‘who may enter’, governments should change how platforms operate.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/fix-the-house-on-social-media-social-media-access/article71206737.ece)
-
----
-
-### Terrorism’s data retreat hides emerging global threats
-*The Hindu · Opinion*
-
-At first glance, the macroeconomic indicators of global security offer a rare moment of statistical comfort. Recent reports suggest that global terrorism experienced a noteworthy decline in 2025, with fatalities around the world falling to 5,582 across 2,944 recorded incidents — representing a 28% drop in deaths and a 22% reduction in overall attacks. With as many as 81 nations registering measurable improvements in their domestic security landscapes, a superficial reading of the data might suggest that the international community is finally turning the tide against terror, or as the strategists prefer to call it, asymmetric warfare.
-
-Beyond statistical comfortYet, there lies a far more unsettling reality: the world is not necessarily becoming safer; it is becoming unevenly unsafe. The aggregate reduction in violence masks a profound structural mutation in how terror operates, where it thrives, and how we, as a global society, perceive it.
-
-It raises a haunting philosophical and strategic question: have we begun to subconsciously accept terrorism not as a horrific aberration to be entirely eradicated, but as a “normal” tax on modern civilisation?
-
-There is an insidious trap in treating aggregate declines as a triumph. When violence becomes highly concentrated, it risks becoming invisible to the global conscience. The data show that nearly 70% of all terrorism-related deaths are now compressed into five countries: Pakistan, Burkina Faso, Nigeria, Niger, and the Democratic Republic of the Congo. Sub-Saharan Africa, particularly the volatile Sahel region, alone accounts for over half of all global fatalities.
-
-Because the vast majority of this devastation occurs within these specific, vulnerable geographies, the wealthier and more stable quarters of the world are prone to a dangerous complacency. When terrorism is confined to nations already beset by chronic systemic fragility, the international community tends to relegate it to background noise — a tragic feature of post-colonial states.
-
-This regional containment fosters a false sense of security. Not every terror incident is a Pahalgam: organised, ruthlessly planned and flawlessly executed. The rise of decentralised, transnational, and rapid digital recruitment has facilitated lone-actor attacks in many countries. When the methodology of terror shifts from massive, complex operations to low-tech, high-impact individual strikes incited on online echo-chambers, the threat becomes an internalised, ambient hazard of modern pluralistic societies. By treating these as an unavoidable operational hazard of the 21st century, we risk normalising the unacceptable.
-
-Reaction to preventionTo prevent terrorism from metastasising further, counter-terrorism strategy must move away from reactive responses and toward addressing the structural ecology of extremist violence. There are two critical arenas where this intervention must take place: the blurring line between state conflict and terrorism, and the specific vulnerability of international frontiers.
-
-First, the data establishes an overwhelming correlation between political instability and violent extremism: an estimated 99% of all terrorism-related deaths occur in nations already entangled in armed conflict. Terrorism is rarely an isolated phenomenon generated in a vacuum; it is the ultimate by-product of institutional or diplomatic collapse. Where state capacity is hollowed out, extremist groups swiftly step into the vacuum, offering alternative forms of primitive security, or ideological certainty to disillusioned populations.
-
-Second, the geography of modern terror has become distinctly granular. Over 60% of attacks now take place within 100 kilometres of international borders. These frontier zones, frequently neglected (or weaponised) by central governments, offer ideal operational sanctuaries. In these porous margins, terrorist syndicates manage cross-border movements, establish illicit supply lines, and conduct recruitment enabled or unhindered by state authority.
-
-Curbing this threat requires an intentional re-investment in state capacity, development and border sovereignty. If central authorities continue to treat borderlands as secondary priorities, they leave the door open for non-state actors to entrench themselves. Furthermore, development assistance must be strategically aligned with security imperatives, treating the reinforcement of judicial systems, localised policing, and basic administrative services as the primary bulwarks against extremist encroachment.
-
-Whether the statistical downward trend recorded in 2025 will endure remains an open and highly precarious question. The contemporary security landscape is caught in a tug-of-war between institutional stabilisation efforts and powerful destabilising catalysts.
-
-The constriction of violent extremism to a smaller pool of actors — specifically the five dominant networks (Islamic State, Jama’at Nusrat Al-Islam wal Muslimeen (JNIM), Tehrik-e-Taliban Pakistan (TTP), Lashkar-e-Taiba and al-Shabaab) — means that counter-terrorism forces can achieve maximum impact through highly focused intelligence and interdiction efforts. As the threat becomes more localised and frontier-centric, multinational intelligence apparatuses must become equally agile, disrupting cross-border logistics before they can scale into wider insurgencies. Tech platforms and state regulatory bodies must continue to refine their capabilities to detect and dismantle decentralised digital radicalisation pipelines before they can catalyse lone-actor violence.
-
-However, the headwinds militating against a sustained decline are formidable. The ongoing conflicts in West Asia threaten to completely reverse recent global gains. Prolonged warfare, mass displacement, and the systematic erosion of state institutions create a uniquely fertile breeding ground for extremist resurgence in 2026 and beyond. The persistence of major geopolitical conflicts, including India-Pakistan, lowers the barriers to entry for new, fragmented radical actors, further complicating the global threat matrix.
-
-Furthermore, even within the current downward trend, the stark resilience and adaptability of organisations such as the TTP — which bucked the general decline by increasing its attacks — serve as a potent warning. Modern terrorist organisations are highly adaptive entities. When squeezed globally, they fragment, localise, and embed themselves within pre-existing domestic ethnic or political grievances, making them extraordinarily difficult to curb.
-
-The complacency trapThe ultimate lesson of the contemporary security paradigm is that terrorism is not receding; it is simply reorganising. The international community cannot afford to be lulled into a state of complacency by declining aggregates; it is simultaneously confronting a far more complex, resilient, and adaptive adversary.
-
-For nations such as India, navigating an immediate strategic environment surrounded by highly volatile neighbourhoods and cross-border security challenges, these transformations require a continuous, sophisticated recalibration of both domestic and regional counter-terrorism doctrines. We must not surrender the moral and strategic clarity required to defeat it. The numbers may be falling, but the structural risks are not. True security will not be achieved by celebrating statistical lulls, but by relentlessly dismantling the fault lines of conflict, governance failures, and digital radicalisation that allow the ideology of terror to survive.
-
-Shashi Tharoor is the fourth-term Member of Parliament (Lok Sabha) for Thiruvananthapuram (Congress party), the Chairman of the Parliamentary Standing Committee on External Affairs and the Sahitya Akademi Award-winning author of 29 books, including Pax Indica: India and the World of the 21st Century
-
-[Read full article](https://www.thehindu.com/opinion/lead/terrorisms-data-retreat-hides-emerging-global-threats/article71207512.ece)
-
----
-
-### A generation at climate risk
-*Deccan Herald · Editorial*
-
-UNICEF’s Children’s Climate Risk Report 2026, released recently, carries a stark warning about the growing impact of climate change on children, with India figuring among the most vulnerable regions. The report estimates that 1.1 billion children – nearly half the world’s child population – are exposed to at least three overlapping climate hazards: drought, extreme heat, and heatwaves. It emphasises the fallout on children’s health, education, and survival. No child is entirely free from climate risk, while around four million of them face as many as six climate-related threats. These primary threats are compounded by secondary impacts, including air pollution and vector-borne diseases. UNICEF has mapped these risks in detail, providing a template for governments to design child-centric climate frameworks. It has called for strategies to improve education, healthcare, sanitation, and other essential infrastructure to help children withstand the impact of climate change. The report also underscores the need to integrate child-critical social services into national adaptation plans.
-
-Children in India are significantly impacted, with nearly every child exposed to at least one climate hazard. Alarmingly, 97% face two or more risks, while 55% – over 234 million children – confront three or more such risks. These statistics need to be seen in a larger context for what they represent as real-world consequences: widespread malnutrition, disease, disrupted schooling, and denied development opportunities. Climate manifestations such as droughts, extreme heat, floods, and storms devastate agriculture, livelihoods, and broader economic stability. As society’s most vulnerable members, children suffer the heaviest toll during environmental crises. Although public rhetoric claims that the safety and welfare of women and children receive top priority during disasters, actual practice tells a different story.
-
-In 2024, climate-related disruptions affected nearly 54 million students in India. India’s massive child population may have contributed to this statistic, but it still highlights a failure to shield children from such events. Climate change affects societies differently, with social inequalities considerably influencing the outcomes. The UNICEF report notes that 40% of children in the country experience food poverty, and almost half of those aged under 15 years lack access to social security programmes. Despite years of warnings regarding these environmental impacts, effective action has remained elusive. The report is yet another call for the world, and India, to step up with informed policies that keep pace with the evolving crisis. Systemic interventions to safeguard the youngest – and most vulnerable – citizens must be integral to the country’s climate strategy.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/a-generation-at-climate-risk-4069595)
-
----
-
-### Who is watching our crèches?
-*Deccan Herald · Opinion*
-
-The videos are agonising to watch. Toddlers locked inside dark bathrooms; water sprayed into their faces with toilet jets; a crying child placed inside the drum of a washing machine.
-
-This did not happen in some neglected corner of the informal economy. It occurred at a crèche located within the Bengaluru campus of a leading multinational company, a facility promoted as a benefit for working parents. Five caregivers have reportedly been booked under the Juvenile Justice Act, two have been arrested, and the employee who first raised concerns about the abuse is reported to have lost her job.
-
-This event becomes even more disturbing when viewed through the lens of developmental science. During the first three years of life, a child’s brain develops at a pace that is never again repeated. Early brain development depends on what scientists call “serve-and-return” interactions: a child cries, gestures, babbles or seeks comfort, and a responsive adult responds. These seemingly ordinary interactions build the foundations of trust, language, learning, emotional security, and self-regulation.
-
-What the children in the Bengaluru videos experienced was the opposite. A toddler locked in a bathroom is not simply being disciplined. A toddler placed inside a washing machine drum is not merely being frightened. These are experiences that can leave deep developmental scars long after visible bruises have disappeared. When a child experiences prolonged, unbuffered stress in the absence of supportive caregiving, research in neuroscience on early brain development describes this as toxic stress. Over time, such experiences can disrupt healthy brain development, impair emotional regulation, and increase vulnerability to later learning, emotional responses and mental health.
-
-Examining the law to protect children from physical abuse and violence, the Juvenile Justice Act rightly treats cruelty towards children as a serious crime. Section 75 of the Act provides stringent punishment for physical or mental abuse by those entrusted with a child’s care. Alongside Section 75, police also invoked Section 351 of the Bharatiya Nyaya Sanhita (BNS) for criminal intimidation. Yet punishment alone cannot be the foundation of a child protection system. The real question is why the abuse occurred in the first place.
-
-The Bengaluru incident is not merely about a few abusive caregivers. It exposes a much deeper problem: the absence of a robust childcare safety system in a country where millions of parents increasingly depend on day-care centres and crèches. Across urban India, employer-supported childcare is often presented as evidence of progressive workplaces and support for women’s participation in the workforce. Yet many organisations continue to treat childcare as a service that can simply be outsourced and forgotten. Professionalising this workforce is the single most effective lever for change.
-
-While Anganwadi centres under the Ministry of Women and Child Development, which, as per official figures, serve about 7-8 crore children under six years of age, face numerous resource constraints, they nevertheless operate within a recognised framework of training, supervision, and programme standards. In contrast, many private childcare facilities continue to function within a fragmented and weakly regulated environment. The standards expected of those caring for our youngest children vary enormously depending on where a child happens to be enrolled.
-
-India has invested remarkably little in creating a professional childcare workforce for infants and toddlers under 3. Caring for very young children continues to be viewed as low-skilled work, despite overwhelming scientific evidence that the early years are among the most consequential periods of human development. A certified early childhood caregiver understands developmental milestones, emotional regulation and responsive caregiving, recognises the difference between manageable frustration and deep distress, and is equipped with non-punitive strategies. Leaving infants in the custody of uncertified workers is an act of systemic negligence. Would we ever permit an untrained individual to administer medicines in a hospital?
-
-From guidelines to enforcement
-
-The Bengaluru case should compel corporate India to reset its systems. Vendor contracts cannot become liability shields to hide behind that paperwork to avoid real-world accountability.
-
-It is worth noting that India still lacks a robust national licensing and inspection regime for private crèches comparable to systems in countries like the United Kingdom’s Ofsted (Office for Standards in Education, Children’s Services and Skills) or Australia’s ACECQA (Australian Children’s Education and Care Quality Authority). Many experts argue that registration, periodic inspections, CCTV governance, staff qualification standards, child-staff ratios, and safeguarding audits should be legally mandated rather than remaining largely guideline-based.
-
-India needs a comprehensive regulatory framework for private and corporate crèches that goes far beyond basic commercial registration requirements. Every childcare facility should be subject to licensing, minimum staffing standards, caregiver qualification requirements, have safety SoPs, regular independent inspections, and transparent grievance mechanisms. Parents must have meaningful rights to information and oversight. Corporations hosting childcare facilities must remain legally accountable for the safety and well-being of the children entrusted to those facilities, irrespective of outsourcing arrangements.
-
-The National Minimum Standards and Protocol for Crèches (2024) provides operational standards for all crèche providers, but it lacks a robust regulatory architecture or mandated legal provisions for child protection to ensure strict enforcement across childcare centres.
-
-The children in those recordings could not report their trauma, challenge their abusers or ask for help in words. They depended entirely on the adults around them, and on the systems behind those adults to keep them safe. Both failed. The question now is whether policymakers, regulatory authorities, and corporate leaders will finally build the safeguards that children deserve, or whether we will simply wait for the next video to go viral.
-
-(The writer is a retired professor, University of Delhi, and founder of a
-
-multidisciplinary organisation involved in early childhood care and education)
-
-[Read full article](https://www.deccanherald.com/opinion/who-is-watching-our-creches-4069597)
 
 ---
 

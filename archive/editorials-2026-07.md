@@ -1,5 +1,111 @@
 # Editorials archive — 2026-07
 
+## 11 July 2026
+
+### Fix the house: On social media, social media access
+*The Hindu · Editorial*
+
+The more wicked the problem, the more the people yearn for a simpler solution. This tendency has complicated the public debate on how and how much social media harm teenagers. While the idea that these platforms were stoking a mental health crisis prevailed in several countries for long, researchers have now adopted a more cautious stance. Social media use and mental health are clearly associated — more so among girls — but how much of that is actually causal and in what circumstances is still being debated. Recently, Prime Minister Narendra Modi spoke favourably of Australia’s decision, in 2024, to ban social media access for those aged 16 and below. His words augur a similar ban in India, one that Andhra Pradesh and Karnataka have publicly mulled as well. However, Australian psychologists, digital health researchers, child-rights scholars, and online safety experts have criticised the ban because, while there is a credible body of evidence linking social media use and harm among children, evidence of a link between an age-based access ban and better mental health has been lacking. In the absence of a real-world precedent, Australia has effectively been conducting a natural experiment. And research has estimated that around 85% of 12-16-year-olds still use social media platforms.
+
+While some psychologists and advocacy groups have argued that waiting for perfect evidence to act would recreate the mistake governments made with tobacco, many experts believe that the state should drop the ban and instead adopt a stronger duty of care, include digital literacy in school education, restrict addictive user interfaces/experiences, mandate a chronological feed for minors, enforce stronger content moderation, improve privacy protections, and introduce effective parental controls. Most studies of adolescent harm due to social media have also been observational and thus susceptible to reverse causation (depressed teenagers may spend more time online) and smaller average effects; experts have also noted that hours per day is less explanatory than passive versus active engagement, participation in supportive versus hostile communities, and so on. Indeed, while social media use can disrupt sleep and increase exposure to cyber-bullying, addictive recommendation patterns, and content about self-harm and eating disorders, it can also help maintain friendships and explore one’s identity, offer peer support, and increase access to LGBTQIA+ communities and mental health information. The overall picture is mixed and the solutions are not simple. However, the first step could be: rather than regulate ‘who may enter’, governments should change how platforms operate.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/fix-the-house-on-social-media-social-media-access/article71206737.ece)
+
+---
+
+### Terrorism’s data retreat hides emerging global threats
+*The Hindu · Opinion*
+
+At first glance, the macroeconomic indicators of global security offer a rare moment of statistical comfort. Recent reports suggest that global terrorism experienced a noteworthy decline in 2025, with fatalities around the world falling to 5,582 across 2,944 recorded incidents — representing a 28% drop in deaths and a 22% reduction in overall attacks. With as many as 81 nations registering measurable improvements in their domestic security landscapes, a superficial reading of the data might suggest that the international community is finally turning the tide against terror, or as the strategists prefer to call it, asymmetric warfare.
+
+Beyond statistical comfortYet, there lies a far more unsettling reality: the world is not necessarily becoming safer; it is becoming unevenly unsafe. The aggregate reduction in violence masks a profound structural mutation in how terror operates, where it thrives, and how we, as a global society, perceive it.
+
+It raises a haunting philosophical and strategic question: have we begun to subconsciously accept terrorism not as a horrific aberration to be entirely eradicated, but as a “normal” tax on modern civilisation?
+
+There is an insidious trap in treating aggregate declines as a triumph. When violence becomes highly concentrated, it risks becoming invisible to the global conscience. The data show that nearly 70% of all terrorism-related deaths are now compressed into five countries: Pakistan, Burkina Faso, Nigeria, Niger, and the Democratic Republic of the Congo. Sub-Saharan Africa, particularly the volatile Sahel region, alone accounts for over half of all global fatalities.
+
+Because the vast majority of this devastation occurs within these specific, vulnerable geographies, the wealthier and more stable quarters of the world are prone to a dangerous complacency. When terrorism is confined to nations already beset by chronic systemic fragility, the international community tends to relegate it to background noise — a tragic feature of post-colonial states.
+
+This regional containment fosters a false sense of security. Not every terror incident is a Pahalgam: organised, ruthlessly planned and flawlessly executed. The rise of decentralised, transnational, and rapid digital recruitment has facilitated lone-actor attacks in many countries. When the methodology of terror shifts from massive, complex operations to low-tech, high-impact individual strikes incited on online echo-chambers, the threat becomes an internalised, ambient hazard of modern pluralistic societies. By treating these as an unavoidable operational hazard of the 21st century, we risk normalising the unacceptable.
+
+Reaction to preventionTo prevent terrorism from metastasising further, counter-terrorism strategy must move away from reactive responses and toward addressing the structural ecology of extremist violence. There are two critical arenas where this intervention must take place: the blurring line between state conflict and terrorism, and the specific vulnerability of international frontiers.
+
+First, the data establishes an overwhelming correlation between political instability and violent extremism: an estimated 99% of all terrorism-related deaths occur in nations already entangled in armed conflict. Terrorism is rarely an isolated phenomenon generated in a vacuum; it is the ultimate by-product of institutional or diplomatic collapse. Where state capacity is hollowed out, extremist groups swiftly step into the vacuum, offering alternative forms of primitive security, or ideological certainty to disillusioned populations.
+
+Second, the geography of modern terror has become distinctly granular. Over 60% of attacks now take place within 100 kilometres of international borders. These frontier zones, frequently neglected (or weaponised) by central governments, offer ideal operational sanctuaries. In these porous margins, terrorist syndicates manage cross-border movements, establish illicit supply lines, and conduct recruitment enabled or unhindered by state authority.
+
+Curbing this threat requires an intentional re-investment in state capacity, development and border sovereignty. If central authorities continue to treat borderlands as secondary priorities, they leave the door open for non-state actors to entrench themselves. Furthermore, development assistance must be strategically aligned with security imperatives, treating the reinforcement of judicial systems, localised policing, and basic administrative services as the primary bulwarks against extremist encroachment.
+
+Whether the statistical downward trend recorded in 2025 will endure remains an open and highly precarious question. The contemporary security landscape is caught in a tug-of-war between institutional stabilisation efforts and powerful destabilising catalysts.
+
+The constriction of violent extremism to a smaller pool of actors — specifically the five dominant networks (Islamic State, Jama’at Nusrat Al-Islam wal Muslimeen (JNIM), Tehrik-e-Taliban Pakistan (TTP), Lashkar-e-Taiba and al-Shabaab) — means that counter-terrorism forces can achieve maximum impact through highly focused intelligence and interdiction efforts. As the threat becomes more localised and frontier-centric, multinational intelligence apparatuses must become equally agile, disrupting cross-border logistics before they can scale into wider insurgencies. Tech platforms and state regulatory bodies must continue to refine their capabilities to detect and dismantle decentralised digital radicalisation pipelines before they can catalyse lone-actor violence.
+
+However, the headwinds militating against a sustained decline are formidable. The ongoing conflicts in West Asia threaten to completely reverse recent global gains. Prolonged warfare, mass displacement, and the systematic erosion of state institutions create a uniquely fertile breeding ground for extremist resurgence in 2026 and beyond. The persistence of major geopolitical conflicts, including India-Pakistan, lowers the barriers to entry for new, fragmented radical actors, further complicating the global threat matrix.
+
+Furthermore, even within the current downward trend, the stark resilience and adaptability of organisations such as the TTP — which bucked the general decline by increasing its attacks — serve as a potent warning. Modern terrorist organisations are highly adaptive entities. When squeezed globally, they fragment, localise, and embed themselves within pre-existing domestic ethnic or political grievances, making them extraordinarily difficult to curb.
+
+The complacency trapThe ultimate lesson of the contemporary security paradigm is that terrorism is not receding; it is simply reorganising. The international community cannot afford to be lulled into a state of complacency by declining aggregates; it is simultaneously confronting a far more complex, resilient, and adaptive adversary.
+
+For nations such as India, navigating an immediate strategic environment surrounded by highly volatile neighbourhoods and cross-border security challenges, these transformations require a continuous, sophisticated recalibration of both domestic and regional counter-terrorism doctrines. We must not surrender the moral and strategic clarity required to defeat it. The numbers may be falling, but the structural risks are not. True security will not be achieved by celebrating statistical lulls, but by relentlessly dismantling the fault lines of conflict, governance failures, and digital radicalisation that allow the ideology of terror to survive.
+
+Shashi Tharoor is the fourth-term Member of Parliament (Lok Sabha) for Thiruvananthapuram (Congress party), the Chairman of the Parliamentary Standing Committee on External Affairs and the Sahitya Akademi Award-winning author of 29 books, including Pax Indica: India and the World of the 21st Century
+
+[Read full article](https://www.thehindu.com/opinion/lead/terrorisms-data-retreat-hides-emerging-global-threats/article71207512.ece)
+
+---
+
+### A generation at climate risk
+*Deccan Herald · Editorial*
+
+UNICEF’s Children’s Climate Risk Report 2026, released recently, carries a stark warning about the growing impact of climate change on children, with India figuring among the most vulnerable regions. The report estimates that 1.1 billion children – nearly half the world’s child population – are exposed to at least three overlapping climate hazards: drought, extreme heat, and heatwaves. It emphasises the fallout on children’s health, education, and survival. No child is entirely free from climate risk, while around four million of them face as many as six climate-related threats. These primary threats are compounded by secondary impacts, including air pollution and vector-borne diseases. UNICEF has mapped these risks in detail, providing a template for governments to design child-centric climate frameworks. It has called for strategies to improve education, healthcare, sanitation, and other essential infrastructure to help children withstand the impact of climate change. The report also underscores the need to integrate child-critical social services into national adaptation plans.
+
+Children in India are significantly impacted, with nearly every child exposed to at least one climate hazard. Alarmingly, 97% face two or more risks, while 55% – over 234 million children – confront three or more such risks. These statistics need to be seen in a larger context for what they represent as real-world consequences: widespread malnutrition, disease, disrupted schooling, and denied development opportunities. Climate manifestations such as droughts, extreme heat, floods, and storms devastate agriculture, livelihoods, and broader economic stability. As society’s most vulnerable members, children suffer the heaviest toll during environmental crises. Although public rhetoric claims that the safety and welfare of women and children receive top priority during disasters, actual practice tells a different story.
+
+In 2024, climate-related disruptions affected nearly 54 million students in India. India’s massive child population may have contributed to this statistic, but it still highlights a failure to shield children from such events. Climate change affects societies differently, with social inequalities considerably influencing the outcomes. The UNICEF report notes that 40% of children in the country experience food poverty, and almost half of those aged under 15 years lack access to social security programmes. Despite years of warnings regarding these environmental impacts, effective action has remained elusive. The report is yet another call for the world, and India, to step up with informed policies that keep pace with the evolving crisis. Systemic interventions to safeguard the youngest – and most vulnerable – citizens must be integral to the country’s climate strategy.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-generation-at-climate-risk-4069595)
+
+---
+
+### Who is watching our crèches?
+*Deccan Herald · Opinion*
+
+The videos are agonising to watch. Toddlers locked inside dark bathrooms; water sprayed into their faces with toilet jets; a crying child placed inside the drum of a washing machine.
+
+This did not happen in some neglected corner of the informal economy. It occurred at a crèche located within the Bengaluru campus of a leading multinational company, a facility promoted as a benefit for working parents. Five caregivers have reportedly been booked under the Juvenile Justice Act, two have been arrested, and the employee who first raised concerns about the abuse is reported to have lost her job.
+
+This event becomes even more disturbing when viewed through the lens of developmental science. During the first three years of life, a child’s brain develops at a pace that is never again repeated. Early brain development depends on what scientists call “serve-and-return” interactions: a child cries, gestures, babbles or seeks comfort, and a responsive adult responds. These seemingly ordinary interactions build the foundations of trust, language, learning, emotional security, and self-regulation.
+
+What the children in the Bengaluru videos experienced was the opposite. A toddler locked in a bathroom is not simply being disciplined. A toddler placed inside a washing machine drum is not merely being frightened. These are experiences that can leave deep developmental scars long after visible bruises have disappeared. When a child experiences prolonged, unbuffered stress in the absence of supportive caregiving, research in neuroscience on early brain development describes this as toxic stress. Over time, such experiences can disrupt healthy brain development, impair emotional regulation, and increase vulnerability to later learning, emotional responses and mental health.
+
+Examining the law to protect children from physical abuse and violence, the Juvenile Justice Act rightly treats cruelty towards children as a serious crime. Section 75 of the Act provides stringent punishment for physical or mental abuse by those entrusted with a child’s care. Alongside Section 75, police also invoked Section 351 of the Bharatiya Nyaya Sanhita (BNS) for criminal intimidation. Yet punishment alone cannot be the foundation of a child protection system. The real question is why the abuse occurred in the first place.
+
+The Bengaluru incident is not merely about a few abusive caregivers. It exposes a much deeper problem: the absence of a robust childcare safety system in a country where millions of parents increasingly depend on day-care centres and crèches. Across urban India, employer-supported childcare is often presented as evidence of progressive workplaces and support for women’s participation in the workforce. Yet many organisations continue to treat childcare as a service that can simply be outsourced and forgotten. Professionalising this workforce is the single most effective lever for change.
+
+While Anganwadi centres under the Ministry of Women and Child Development, which, as per official figures, serve about 7-8 crore children under six years of age, face numerous resource constraints, they nevertheless operate within a recognised framework of training, supervision, and programme standards. In contrast, many private childcare facilities continue to function within a fragmented and weakly regulated environment. The standards expected of those caring for our youngest children vary enormously depending on where a child happens to be enrolled.
+
+India has invested remarkably little in creating a professional childcare workforce for infants and toddlers under 3. Caring for very young children continues to be viewed as low-skilled work, despite overwhelming scientific evidence that the early years are among the most consequential periods of human development. A certified early childhood caregiver understands developmental milestones, emotional regulation and responsive caregiving, recognises the difference between manageable frustration and deep distress, and is equipped with non-punitive strategies. Leaving infants in the custody of uncertified workers is an act of systemic negligence. Would we ever permit an untrained individual to administer medicines in a hospital?
+
+From guidelines to enforcement
+
+The Bengaluru case should compel corporate India to reset its systems. Vendor contracts cannot become liability shields to hide behind that paperwork to avoid real-world accountability.
+
+It is worth noting that India still lacks a robust national licensing and inspection regime for private crèches comparable to systems in countries like the United Kingdom’s Ofsted (Office for Standards in Education, Children’s Services and Skills) or Australia’s ACECQA (Australian Children’s Education and Care Quality Authority). Many experts argue that registration, periodic inspections, CCTV governance, staff qualification standards, child-staff ratios, and safeguarding audits should be legally mandated rather than remaining largely guideline-based.
+
+India needs a comprehensive regulatory framework for private and corporate crèches that goes far beyond basic commercial registration requirements. Every childcare facility should be subject to licensing, minimum staffing standards, caregiver qualification requirements, have safety SoPs, regular independent inspections, and transparent grievance mechanisms. Parents must have meaningful rights to information and oversight. Corporations hosting childcare facilities must remain legally accountable for the safety and well-being of the children entrusted to those facilities, irrespective of outsourcing arrangements.
+
+The National Minimum Standards and Protocol for Crèches (2024) provides operational standards for all crèche providers, but it lacks a robust regulatory architecture or mandated legal provisions for child protection to ensure strict enforcement across childcare centres.
+
+The children in those recordings could not report their trauma, challenge their abusers or ask for help in words. They depended entirely on the adults around them, and on the systems behind those adults to keep them safe. Both failed. The question now is whether policymakers, regulatory authorities, and corporate leaders will finally build the safeguards that children deserve, or whether we will simply wait for the next video to go viral.
+
+(The writer is a retired professor, University of Delhi, and founder of a
+
+multidisciplinary organisation involved in early childhood care and education)
+
+[Read full article](https://www.deccanherald.com/opinion/who-is-watching-our-creches-4069597)
+
+---
+
 ## 10 July 2026
 
 ### A perfect storm: On the Wayanad debris slip
