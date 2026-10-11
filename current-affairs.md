@@ -1,3 +1,586 @@
+## 11 October 2026
+
+### Nepal urges villagers to evacuate after flood triggered by landslide
+*SECTIONS Nepal urges villagers · business*
+
+Nepali authorities urged villagers on Sunday to move to safer places after a flood in a river in the central part of the country swept away several houses and infrastructure, but there were no reports of any casualties.
+
+A dry landslide in Chumnubri village in Gorkha district, about 100 km (62 miles) west of Kathmandu, blocked the Budhi Gandaki River, leading to downstream flooding, authorities said.
+
+The Budhi Gandaki is a tributary of the Trishuli River, downstream from another tributary where a glacier collapse caused a catastrophic flood in August that killed 1,457 people, with thousands still missing.
+
+  
+
+"We have asked villagers living along the river banks downstream to evacuate and remain safe," said Dharmendra Kumar Mishra, the Gorkha district's most senior bureaucrat.
+
+Mishra said about a dozen houses and two suspension bridges had been swept away, and a hydroelectric project camp was damaged by the flood.
+
+The flooded river carrying muddy sludge is rising and has washed away a highway bridge connecting Gorkha with the neighbouring Dhading district, said Dharam Raj Uprety, chief of the National Disaster Risk Reduction and Management Authority.
+
+The army rescued six people from Jagat who were facing the risk of a landslide, Prime Minister Balendra Shah said in a social media post. Another 18 workers at the hydroelectric project that had its camp was damaged escaped to safety, Uprety said.
+
+National disaster authorities alerted people living along the river in the Gorkha, Tanahun, Chitwan, East Nawalparasi and West Nawalparasi districts about the flood.
+
+"Please help ensure that people in at-risk areas are moved to safe locations in time and assist search and rescue operations as needed," the National Disaster Risk Reduction and Management Authority said in a social media post.
+
+Officials said army and police rescue personnel had reached the area and were also monitoring the situation from a helicopter.
+
+---
+
+### The rise of AI personal assistants and the battle for users' trust
+*Jaspreet Bindra · business*
+
+Thirty years ago, children walked around feeding a tiny digital pet called Tamagotchi. It beeped when it was hungry, sulked when ignored and demanded that humans organise their lives around it.
+
+At Meta Connect a couple of weeks back, Mark Zuckerberg unveiled something that looks uncannily similar: Muse Charm, a palm-sized, keychain-like home for Meta’s new personal AI agent. It is the first real “hardware for AI” that people have been talking about.
+
+  
+
+There is a more important story behind the gadget. After years of chatbots, copilots and voice assistants, AI may finally be approaching one of computing’s oldest holy grails: the true personal assistant.
+
+## DIGITAL ALTER EGO
+
+It is not an app that answers questions, or a Siri that sets an alarm, or even a ChatGPT that polishes an email. This AI PA will be closer to a chief of staff or alter ego: persistent, personalised, aware of your past and priorities, able to act across your work and life, and increasingly capable of anticipating what needs doing even before you ask.
+
+This shift was visible even before Muse.
+
+Instinct, an invite-only assistant founded by 23-year-old Noah Shinn, became something of a cult product among early adopters this summer. It connects to email, messaging, calendars and other personal systems, and can be reached by text, WhatsApp or phone.
+
+Users ask it to book hotels, organise inboxes, arrange rides, cancel subscriptions or simply follow up on the loose ends of life. The startup raised $250 million at a $2.5 billion valuation in August and was valued at $10 billion just a month later.
+
+I have been experimenting with Instinct myself. I connected it to my email and asked it recently to set up my out-of-office message. I did not open Outlook, search through settings or configure anything. I simply asked my assistant, and it did that.
+
+That tiny example hints at a much larger change: computing moves from “find the right app and operate it” to “tell someone what you want done”.
+
+Meta’s Muse pushes this idea into the mainstream. Muse can connect to email, calendars and other services, browse the web through its own secure virtual machine, book appointments, fill forms, shop, track long-term goals and continue working after you close the app.
+
+Meta says it asks for approval before sensitive actions such as purchases or sending messages. Within weeks of launch, Muse reached the top of US app charts; Meta is now putting it into its glasses and, through Muse Charm, giving it a little body of its own. It will soon be available globally, including in India.
+
+The genealogy is amusing.
+
+Microsoft’s much-mocked Clippy was an early ancestor, forever popping up to ask whether we were writing a letter. Then came Siri, Google Assistant and Alexa: useful for timers, weather and music, but rarely something one would call a chief of staff.
+
+Generative AI gave assistants language and reasoning; agents are now giving them hands. And suddenly everybody wants one.
+
+Apple’s new Siri AI can draw on messages, emails, photos and on-screen context, and act across apps. Google’s Gemini Spark works in the background across Gmail and Workspace. Amazon’s Rufus, now replaced with Alexa for Shopping, searches, compares, tracks prices and can auto-buy under certain conditions.
+
+## QUESTION OF TRUST
+
+The next platform war may not be over the best chatbot. It may be over who becomes the trusted intelligence sitting between you and the rest of the digital world.
+
+That word “trusted” is key here. A genuinely useful personal assistant must know almost everything you normally protect—email, calendar, contacts, location, preferences, purchases, perhaps bank details, health information and intimate conversations.
+
+It becomes useful precisely because it becomes intrusive. The better it knows you, the better it can serve you.
+
+Instinct has already faced criticism over the breadth of permissions and data rights in its terms. Meta says Muse uses secure credential storage, virtual machines and permission controls, and that Muse conversations are not shared with its advertising systems.
+
+Yet Meta’s long history of privacy controversies means many users will understandably demand more than assurances before handing it the keys to their lives.
+
+## WAR OF AGENTS
+
+Then there is also a new kind of platform conflict. Amazon has already blocked Muse from shopping on Amazon, arguing that Meta’s agent was accessing its systems without authorisation and raising privacy and security concerns.
+
+That is a glimpse of a coming agent war: my assistant may want to act for me, while your platform may refuse to let it in. The internet built for humans browsing websites may have to decide whether their autonomous digital alter egos have the right of way.
+
+The hardware will follow the assistant.
+
+Today it is a phone, Rabbit or Charm; tomorrow it may live in glasses, earbuds, watches or whatever replaces the smartphone. The important continuity will not be the device. It will be the persistent AI identity that follows us everywhere.
+
+That may ultimately be what personal computing was always trying to become—not a computer that belongs to you, but a computer that knows you. The relationship, however, has flipped. The old Tamagotchi needed us to remember its life and look after it; the new one will remember ours and look after us.
+
+The child has become the parent.
+
+(Disclaimer: The opinions expressed in this column are that of the writer. The facts and opinions expressed here do not reflect the views of www.economictimes.com.)
+
+---
+
+### Architect fights to save India's past, built on 'stone, tears and sweat'
+*Afp · business*
+
+Mumbai: For three decades, Abha Narain Lambah has pioneered efforts to preserve some of India's most significant historic sites --- from ancient Buddhist caves and Islamic tombs to Hindu temples and Mumbai's imperial-era Gateway of India.
+
+"My journey began as a concerned citizen," the 56-year-old architect told AFP.
+
+"I felt very strongly about the way heritage was completely left to decay," Lambah said from her bustling Mumbai office overlooking the glittering Arabian Sea.
+
+  
+
+In the world's most populous nation and one of its fastest-growing major economies, urban development is advancing at dizzying speed.
+
+"It's only in the last 30 years that we've managed to have city-wide listings and heritage regulations, and even those are very limited to cities such as Delhi, Mumbai, Hyderabad and Kolkata," she said.
+
+"Historical buildings are neither protected by government, nor do local communities or owners have the funds to look after them."
+
+Lambah's career began partly as an activist, after she worked with Joseph Allen Stein, the American architect whose modernist buildings in Delhi set concrete and local stone among courtyards and gardens.
+
+"He showed me this interface between old and new."
+
+## Rescuing city's soul
+
+After moving to Mumbai in 1995, Lambah encountered a city where hundreds of historic buildings stood outside government protection.
+
+"A lot of colonial heritage was technically considered too young to be declared national monuments," she said.
+
+"The challenge was: what do you do about historic buildings, that are not protected under central government rules and have no funding?"
+
+She has since also supported conservation plans for more than 20 world heritage sites.
+
+That includes a 15th-century Hindu temple at Hampi, Le Corbusier's 20th century masterpieces in Chandigarh, Rajasthan's Amer Fort, and Bodh Gaya, where Buddha is said to have attained enlightenment.
+
+In Mumbai, where ornate Victorian Gothic facades and geometric Art Deco buildings face salt air, neglect and redevelopment, she turned to the challenge of saving the city's wider architectural fabric.
+
+"Every city faces this challenge -- there is a warp and weft of new and old, and a tug of war between development and conservation," she said.
+
+"These are cultural assets."
+
+At Mumbai's 19th-century David Sassoon Library and Keneseth Eliyahoo Synagogue, Lambah helped bring together private donors, foundations and community groups to rescue the Victorian heritage site and the blue-and-white house of worship after their restoration stalled due to lack of funds.
+
+"When people have been working, living and even commuting through these historic buildings, they feel intensely passionate about them," she said.
+
+Her work to restore Mumbai's 19th-century Bandra railway station had to be carried out around trains and commuters.
+
+"Random people commuting past would tap me on the shoulder and say... 'We know what you're doing -- you're doing it for us.'"
+
+She pointed to her work at Mumbai's Royal Opera House, once facing demolition but with its ornate gilt interiors and grand auditorium now intact.
+
+"We could have lost it entirely," she said.
+
+"Instead, its life has been extended and it has become a cultural space that is actively used by people."
+
+## 'Arduous road'
+
+Lambah is also working to conserve Mumbai's most recognisable landmark, the Gateway of India, built under British rule but shaped by Indian architectural traditions and embraced by generations since the country's independence.
+
+People at times ask her why India should conserve "a vestige of colonialism".
+
+She argues in response that "these buildings are as Indian as they get, because they're built from the stone, tears and sweat of Indians".
+
+"I have to look at the entire palimpsest of 6,000 years of India's built heritage. What doesn't seem convenient can't be left out or forgotten."
+
+When she started working in Mumbai, she remembered, there were only two qualified conservation architects in the entire city.
+
+"Today, there is a larger number of young architects who are studying conservation, who are practising."
+
+For Lambah, that growth is welcome, but the task remains enormous.
+
+"We have to catch up," she said.
+
+"It's a long, arduous road ahead."
+
+---
+
+### Budhi Gandaki flash flood sweeps away over 35 houses, bridges in Nepal's Gorkha
+*SECTIONS Budhi Gandaki flash flood sweeps away over · business*
+
+Synopsis
+
+A flash flood in Gorkha district, Nepal, caused significant damage by sweeping away over 35 houses and several bridges. Authorities urged residents along the Budhi Gandaki River to evacuate to higher ground for safety. The flood was attributed to a possible blockage in the Syar stream, a tributary of the river. Rescue efforts were initiated with helicopters deployed for evacuations and relief distribution.
+
+Massive flooding in the Budhi Gandaki River in Nepal's western Gorkha district swept away dozens of houses and other infrastructure
+
+Kathmandu: A debris-laden flash flood in a river has swept away more than 35 houses and bridges in Nepal's Gorkha district on Sunday, authorities said, urging people living along the stream to move to higher ground.
+
+The flood in the Budhi Gandaki River swept away houses in Salleri, Paiyuka and the riverbed at Jagat, as well as a suspension bridge connecting the ward, Ram Kumar Gurung, ward chair of Chumnubri Rural Municipality-3, was quoted as saying by the Kathmandu Post.
+
+  
+
+Dharmendra Kumar Mishra, Gorkha's chief district officer, said preliminary reports indicated that a landslide had occurred above Siuribas. No casualties have been reported so far, he said.
+
+The cause of the sudden surge remained unclear. Residents suspect that the Syar stream, a tributary of the Budhi Gandaki between Lokpa and Chumling in Chumnubri-6, may have been blocked, triggering the flood.
+
+The flash flood in the river swept away more than 35 houses in several locations in northern Gorkha, officials said.
+
+Chumnubri Rural Municipality Deputy Chair Laxmi Gurung said the flood that hit the Budhi Gandaki this morning is reminiscent of the Bhotekoshi flood in Rasuwa, Online Khabar news portal reported.
+
+"The Budhigandaki flood is reminiscent of the Bhotekoshi flood," she said. "It has washed away dozens of houses. It is not possible to say the exact extent of the damage right now."
+
+The devastating flooding struck the Bhote Koshi River in Rasuwa district on August 26. The floods in the Rasuwa and Trishuli river areas claimed 1,455 lives, while 5,285 people remained missing, according to the National Disaster Risk Reduction and Management Authority (NDRRMA).
+
+Home Minister Sudan Gurung said the flood had also swept away the bridge linking Nyakchet and Philim bazaar in Chumnubri-3. With the river continuing to rise, helicopters had been deployed for rescue operations, relief distribution and evacuations, he said.
+
+Nepal Police, the Armed Police Force and local authorities were mobilised to carry out rescue and relief operations.
+
+"The flood came early in the morning, and we could not even take out our belongings," Ram Kumar said.
+
+"Everyone fled as soon as we heard the flood was coming." The full extent of the damage was not yet known, he said.
+
+Residents in riverside settlements, including Chumling and Lokpa, fled their homes after hearing loud roaring sounds from the streams from around 4am. Tourists staying at local hotels also fled, residents said.
+
+Sherap Gurung, a resident of Lokpa, said the sound suggested that the water flow had repeatedly stopped and resumed.
+
+"Because it was dark, we could not tell whether the stream had been blocked or a landslide had occurred. It had not rained either," he said.
+
+Authorities were using loudspeakers to warn people living along the river and urge them to move to safer locations.
+
+---
+
+### Delhi Government To Add 200 Electric Buses To City’s Fleet Next Week
+*Arjun Brij · politics*
+
+Delhi’s public bus fleet is expected to exceed 7,000 on 14 October, with the government preparing to introduce 200 electric buses.
+
+The induction will take place under the month-long Seva Sankalp Abhiyaan, being held from 17 September to 17 October to mark Prime Minister Narendra Modi’s completion of 25 years in public service.
+
+The new buses will comprise both 12-metre and nine-metre models, allowing the government to cater to different commuter requirements across the capital.
+
+The buses will be fully electric, low-floor and air-conditioned. They will also feature CCTV cameras, panic buttons and real-time vehicle tracking systems. Accessibility provisions for persons with disabilities will be included.
+
+Delhi currently operates around 6,840 buses through 52 depots. Of these, 5,088 are electric buses, while the remaining 1,752 run on compressed natural gas (CNG).
+
+The network serves approximately 40 lakh passengers on a normal day, underlining the importance of bus services to daily travel in the city.
+
+The government has set a target of increasing the fleet to nearly 14,000 buses by 2028-29.
+
+The 14 October induction is one of several initiatives planned under the Seva Sankalp Abhiyaan.
+
+**Please click here to add** _**Swarajya**_ **as your preferred and trusted news source on Google**
+
+---
+
+### India has the hair, China has the wigs: Inside a $940 million trade
+*Shantanu Nandan Sharma · business*
+
+The long, flowing hair of Indian women has been the stuff of Kalidasa’s poetry. Now it is the hottest commodity in the global hair market. It is turned into ash-blonde wigs for Scandinavian women, auburn extensions for Russians, and black and brown wefts for African Americans.
+
+“Indian hair is valued across the world for its colour and quality,” says George Cherian, CEO of Raj Hair International.
+
+  
+
+The walls of his corporate office in Chennai have tresses in scores of shades rippling down the walls like a global catalogue. “We work with 47 international colours,” he says, adding that Indian black and brown hair is in great demand as it provides a versatile base—it can be transformed, coloured and blended into almost any shade for wigs, extensions and wefts.
+
+  
+  
+
+## SHOCK OF HAIR
+
+Even though India has prized human hair, its wig industry is minuscule. And the handful of hair exporters are facing headwinds. Raw hair is becoming scarce as large quantities make their way through Myanmar to China—the wig route.
+
+In FY2026, India exported around $940 million (over ₹9,000 crore) worth of human hair, including $287 million of raw or unprocessed hair and $652 million of semi-processed hair that is disentangled and straightened in the hands of thousands of workers, mostly women, in cottage industries and rural hubs across states like Tamil Nadu, Andhra Pradesh and West Bengal.
+
+  
+
+India’s processed hair industry is small, exporting just $1.35 million worth of wigs, extensions, wefts and 
+
+The wig exporters are bemoaning the shortage of raw hair. About 98% of raw hair is officially destined for Myanmar, where it is processed before making its way to the real market—Xuchang in China. The city in Henan province is often dubbed the wig capital of the world, producing nearly 60% of finished hair products.
+
+However, Indian exporters say official numbers tell only part of the story. They allege that the actual volume of raw human hair leaving India is far higher—and that it is getting smuggled into China.
+
+## HERE TO THERE
+
+About 90% of India’s hair exports is goli—balled-up hair that falls from our millions of heads or gets coiled in combs and is collected from homes, barbershops and salons, says Sathish Gandhi, director of Chennai-based exporting company Allure Hair Products.
+
+The other 10% of exports is shorn hair that is donated by devotees in shrines like the Venkateswara temple in Tirupati.
+
+These are high-quality locks known in the industry as Remy hair. To add stress to tresses, the auction prices of this hair have soared, pushing it beyond the reach of Indian wig makers.
+
+“In September, we left midway through an online hair auction in Tirupati after we noticed some aggressive, even abnormal, bidding by some,” recalls Cherian.
+
+The identities of bidders in this quarterly auction are kept confidential. “How can the price of hair rise to ₹85,000 a kilo?” he asks.
+
+That was the price commanded by the finest, grade-1 black hair—27 inches or longer—donated by devotees. About 700 kg of this premium mane was up for auction last month.
+
+Cherian and several other hair exporters in Chennai claim that Chinese interests may be behind some of these unnaturally high bids, possibly made by dummy exporters deployed to bargain and procure the finest Remy hair, which is available in substantial quantities in shrines like Tirupati and the Basilica of Our Lady of Good Health at Velankanni in Tamil Nadu.
+
+China buys—and allegedly even smuggles—Indian hair, adds value to it, and sells finished wigs, extensions and wefts at premium prices in American and European markets. In other words, India has the hair, China adds value and the West pays a premium.
+
+Meanwhile, India misses a flourishing industry that can bridge the astonishing gap between hair and there, where costly wigs are sold.
+
+At the hilltop temple in Tirupati in Andhra Pradesh, where nearly 1 lakh pilgrims arrive every day, thousands—men, women and children—make a stop before proceeding for darshan.
+
+They enter a hall called Kalyanakatta, collect a coupon and a blade, and join long queues in front of barbers who tonsure their heads. For them, it is an act of devotion. For the hair trade, not all offerings are equal.
+
+“Two grades command the highest prices at auction—hair measuring 27 inches and above, and hair between 19 and 26 inches, that too black, not grey,” explains Gandhi.
+
+The longer the hair, the higher its value. Coloured hair, by contrast, will fetch less. Hair shorter than 5 inches is largely used as fertiliser, he says.
+
+Indian hair might have even reached Pyongyang. “As labour costs in China have risen in recent years, we have heard that some Chinese companies are sending raw hair from India to North Korea for processing,” says Gandhi.
+
+The semi-processed hair from Pyongyang, he claims, is then brought back to China, where it is turned into finished products—wigs and extensions—before being shipped to the US and Europe.
+
+## MANE DEMAND
+
+“We have been demanding that the government immediately ban the export of chutti or goli—raw human hair—so that it can be processed in India and create employment for more than a million people, mainly women,” says Benjamin Cherian, president, Human Hair & Hair Products Manufacturers and Exporters Association of India.
+
+“The reality is that Chinese buyers come as tourists and purchase goli or chutti. They also work through local agents in several cities, including Gudiyatham and Vellore in Tamil Nadu,” he alleges, adding that the number of people buying and hoarding hair in India has gone up.
+
+Cherian, an industry veteran who entered the business in the early 1980s by exporting salon-cut hair to the Japanese corporation Sumitomo for amino-acid production, lays out why Indian companies have to move up the value chain.
+
+Raw goli fetches just $100–150 a kilo, while semi-processed or worked hair commands $200–250 a kilo. The same hair, transformed into wigs or other products, can be worth around $1,000 a kilo.
+
+China’s ascent to the top of the global wig market began in the 1990s, gradually taking the reins from Italy and South Korea. While it has made an aggressive shift towards high-end, value-added products, India continues to largely remain a supplier.
+
+According to MM Gupta, chairman of the Gupta Group, which manufactures and exports hair, the problem begins with the government policy that allows raw human hair to be exported at a minimum price of $65 a kg.
+
+“That’s too low,” he says. “How can the export price be $65 a kg when the price in the domestic market is around $150?”
+
+Gupta alleges that some of these Indian exporters are fronts for Chinese buyers.
+
+Like several Indian export houses, Gupta’s company works on goli hair and exports semi-processed hair to Chinese manufacturing hubs. Around 30–40% of Gupta’s exports are destined for China.
+
+For Indian exporters of finished wigs and extensions, the shortage and rising cost of raw hair are not the only clouds on the horizon.
+
+A new threat is looming over the industry—a law passed by the US House of Representatives last month empowers President Donald Trump to impose tariffs of up to 100% on countries buying Russian oil and gas. For hair exporters heavily dependent on the US market, it is another potential shock.
+
+After earlier tariff blows, some are already diversifying away from the US.
+
+“Until 2024, 90% of our business was with US. We have brought that down to 60% and are now actively looking for new buyers in Europe, Africa, the Arab markets and India,” says Gandhi.
+
+Tamil Nadu-based export house Nandalala Indian Hair, too, has been reducing its exposure to the US market.
+
+“Now our main markets are UAE and Africa, with just 5-10% of our business coming from US,” say Radhika and Athira Kumaran, sisters and directors of Nandalala Indian Hair.
+
+The Kumarans have around 100 employees, and “some of them earn salaries comparable to those of tech professionals,” they say.
+
+Their next bet is home: India’s expanding domestic wig and hair-extension market, fuelled by women who are spending on hair products.
+
+## STRAND BY STRAND
+
+On the shop floors of three hair-processing factories that ET visited in Tamil Nadu, workers—mostly women—move through a long sequence of work: sorting, grading and washing strands of hair before moving on to machine-wefting, hand-tying, colouring and bleaching.
+
+It is a labour-intensive industry and can potentially create thousands of jobs in India. But the bigger question remains: can Chennai or Kolkata become the next Xuchang?
+
+“We have a long way to go to catch up with China,” says Gandhi. “They have some 8,000 factories processing hair, with some employing as high as 2,000-3,000 workers.”
+
+Even at Cosmoprof Worldwide, the annual beauty trade show in Bologna, Italy, you will find only 20–25 Indian hair companies, compared with more than 500 Chinese hair exporters exhibiting their products, he says.
+
+Adds Gupta: “In India, we are still fighting for the basics—ban the export of raw hair and stop smuggling. Our question is simple: how can human hair be smuggled from Hyderabad to China on chartered flights when Indian manufacturers themselves are struggling with a shortage of raw material?”
+
+The irony is obvious, like a shiny pate: India offers the hair, China turns it into big wig business.
+
+---
+
+### Day after Akhilesh’s Ayodhya challenge, Yogi dares him: ‘Contest against me’
+*Bhupendra Pandey · legal*
+
+Calls SP a 'Parivar Development Authority', says it only protected the mafias when in power.
+
+[Read full article](https://indianexpress.com/article/cities/lucknow/yogi-adityanath-akhilesh-yadav-ayodhya-election-challenge-10916362/)
+
+---
+
+### A 100-kg green anaconda can almost vanish in the Amazon; scientists found giant snakes hiding under logs, leaf matter, vegetation, and riverbanks
+*TOI Science Desk · politics*
+
+Green anacondas can remain difficult to spot in the western Amazon, even when they weigh 100 kg. A study of the snakes in Peru found that they were usually visible only when basking.
+
+When they were not basking, radio-tracked anacondas were almost always partly or completely concealed by fallen logs, leaf matter, submerged vegetation, fallen palm trunks, or riverbanks. Researchers recorded 180 observations of at least 50 individual Green Anacondas in the Madre de Dios region. Four adults were fitted with radio transmitters and tracked across rivers, streams, oxbow lakes, and aguajales.According to the study published in the Journal of Natural History titled 'Habitat use of cryptic Green Anaconda (Eunectes murinus) in the western Amazon', the snakes’ hidden behaviour can affect efforts to detect them and assess their presence in Amazon rainforest habitats and population trends.
+
+## What habitats did Green Anacondas use for shelter and basking
+
+The study found that Green Anacondas were difficult to detect unless they were basking. Only 17.7% of the radiolocations of tagged individuals involved snakes that researchers could observe without disturbance.
+
+At other locations, the researchers had to disturb the snakes to determine their location. When not basking, the radio-tracked anacondas were almost always partly or entirely concealed.They hid among fallen logs, detritus and submerged vegetation, inside fallen Mauritia flexuosa trunks, beneath undercut banks and, on one occasion, inside a burrow of unknown origin. On rivers, log jams appeared to be the preferred basking habitat.
+
+In oxbow lakes and aguajales, the snakes basked on fixed or free-floating vegetation mats, while well-vegetated embankments were also used as basking sites by snakes.
+
+PC: Wikipedia
+
+## Green Anacondas were recorded across diverse habitats in Peru
+
+Researchers combined opportunistic sampling, intensive surveys, and radio telemetry tracking in the Madre de Dios region of Peru. Sampling took place between 2008 and 2020 across primary and disturbed lowland humid tropical rainforests. The team recorded Green Anacondas in rivers, oxbow lakes, aguajales and streams, with observations also made in rural communities, urbanised zones, river ports and agricultural areas.Most records came from protected areas or privately protected conservation and ecotourism concessions. Among the 166 records with forest type information, 91.6% were associated with floodplain forests, while 8.4% were recorded on terra firma. In those terra firma locations, the snakes were on or next to river and stream embankments.
+
+## Green Anacondas used logs and floating vegetation for basking
+
+In rivers, Green Anacondas initially observed by researchers were basking or had recently been killed by people.
+
+Basking snakes were found on top of or intertwined in log piles and under overhanging vegetation. In aguajales and associated lakes, individuals were commonly found basking on floating vegetation mats or heavily vegetated embankments.Some were seen facing the shoreline with their heads barely breaking the water surface. In surrounding flooded aguajales, snakes moved through dense vegetation while remaining partly in water or completely within decaying vegetation.In permanent oxbow lakes, all nine initially found anacondas were basking on floating grass mat vegetation. Temporary oxbow lakes were used when filled with water, with a tracked snake hidden by emergent vegetation, detritus, or logs nearby.
+
+## How did researchers locate hidden Green Anacondas
+
+One radio-tracked female weighed 100 kg and measured 486 cm in snout-to-vent length, with a 77 cm tail. During June and July, she was located in the closed-canopy aguajal in 63.3% of records, while other records placed her on grass mats in open water.
+
+Another tracked male was nearly invisible in shallow pools beneath dense vegetation in temporarily flooded forest.On one occasion, researchers found him buried by leaf matter and shallow water, with only his nares exposed. In streams, the same male was only partially visible in 8.3% of records and was otherwise hidden in log jams, embedded trees, or stream banks.
+
+---
+
+### 4 dead from storm as Isaias brings threat of floods across the Southeast United States
+*SECTIONS · business*
+
+Panama city beach: Isaias peeled off hotel and condominium rooftops and facades along the Florida Panhandle before charging north Saturday, dishing out torrential rains and the threat of flash floods and tornadoes across the Southeast.
+
+At least four deaths were linked to the storm, including two people killed when trees fell onto homes in Florida and Alabama. Forecasters warned that flooding could stretch into the Appalachians.
+
+Isaias came ashore as a Category 2 hurricane Friday near Destin, Florida, a Gulf Coast vacation spot filled with high-rises and tourist shops. The storm weakened overnight but remained dangerous.
+
+  
+
+Despite warnings of storm surges ahead of the storm, several major routes along the coast were open by daybreak Saturday and free of downed trees and power lines typically seen after major hurricanes.
+
+  
+
+## Scattered damage across the Gulf Coast
+
+Within the first hours after landfall, nearly 900,000 customers were without power, mostly in Florida and Alabama.
+
+Hurricane-force winds in the Florida Panhandle blew the roof off a Pensacola hotel, and the city's mayor said the airport "took some damage." The storm flattened a boathouse in Destin and ripped away part of the facade of a high-rise in Panama City Beach.
+
+A worker in a condominium parking lot swept piles of the building's insulation while others put back beach chairs that had been tossed about.
+
+In Florida's Escambia County, Sheriff Chip Simmons said a woman was killed when a tree fell on her home and a man died of carbon monoxide fumes from a generator running in his garage. Four of the man's family members, ranging in age from 4 to 72, were treated but expected to survive, the sheriff said.
+
+Nearby in Gulf Breeze, Jayme Mitich wiped tears away Saturday as she surveyed the damage to her apartment. Her living room was soaked and covered in insulation.
+
+She and her 13-year-old daughter, Jeweliana Jackson, hid beneath a mattress before the storm tore off part of their roof. "The noise got so loud, and I just kept hearing things break and crash into everything," Mitich said.
+
+The rest of their apartment complex was littered with roof shingles and broken beams from a wooden fence. The winds uprooted trees and flipped a truck on its side.
+
+"It's going to be OK," Mitich said. "No matter what, we're going to make it."
+
+## Isaias hits Alabama with devastating winds
+
+Isaias, the first hurricane of the Atlantic season, roared farther into Alabama with tropical-force winds.
+
+One person died when a tree fell on a house in Birmingham, said Cory Moon, the city's fire chief. A second storm-
+
+Along Alabama's Gulf Coast, authorities in Mobile reported numerous downed trees and power lines.
+
+Maranie Adams, who rode out the storm with her family and their chickens in Gulf Shores, Alabama, said the winds rocked their home, but it was nothing like Hurricane Sally, which left water under their elevated house.
+
+"I feel very much more relieved today," she said.
+
+## Wind and rain still threaten the Southeast
+
+President Donald Trump approved an emergency declaration for Georgia after earlier doing the same for Florida and Alabama, allowing for federal aid.
+
+The U.S. Energy Department authorized emergency exchanges of crude oil from the nation's strategic petroleum reserve to address disruptions in supply because of the storm.
+
+The Atlantic hurricane season has been unusually quiet this year, and Isaias was the first hurricane to hit the eastern U.S. since 2024.
+
+The National Weather Service advised that parts of Georgia and the Carolinas could see heavy rains capable of causing flash floods. The storm was expected to move into the Tennessee Valley and then the mid-Atlantic on Sunday.
+
+## A pair of storms in the Pacific Ocean
+
+Meanwhile, in the Pacific, Simon strengthened into a Category 4 hurricane as it approached Mexico's coast. Simon was expected to bring heavy rainfall beginning Sunday to parts of southwestern Mexico with life-threatening flooding and mudslides.
+
+Tropical Storm Rachel was also expected to bring heavy winds and rain to northern Mexico and Southern California over the weekend.
+
+---
+
+### Bhagwant Mann accuses Delhi Police of violating Bangla Sahib sanctity; police cite ‘malicious’ video
+*Pti · business*
+
+Chandigarh: Punjab Chief Minister Bhagwant Mann on Sunday condemned the alleged entry of Delhi Police personnel into Gurdwara Bangla Sahib in the national capital on Saturday, accusing them of having a "Taliban-like attitude" and violating the sanctity of the shrine.
+
+A controversy had erupted over Delhi police personnel allegedly entering the gurdwara premises in Delhi on Saturday as some protesters, facing police action during demonstrations against the Chief Election Commissioner, sought refuge there.
+
+  
+
+The Delhi Police said the video was circulated with "malicious intent" on social media and added that it would initiate legal action.
+
+"I strongly condemn the forcible entry by the BJP's police into Gurdwara Sri Bangla Sahib in Delhi yesterday... History bears witness that Guru's houses of worship always keep their doors open to provide shelter to those in need... If the young people of this country who were protesting entered there yesterday, then the principle of Guru's house is that the sevadars should provide them shelter.
+
+"The BJP's Delhi Police, with its Taliban-like attitude, entered the Gurdwara Sahib bareheaded and wearing boots on their feet, and they trampled upon the sanctity of Guru's house... The Sikh community will never forgive the BJP for this shameful act," Mann said in a post on X.
+
+Responding to the video, Deputy Commissioner of Police (New Delhi) Sachin Sharma, in a post on X, said the personnel seen in the video were walking through a common passage used by devotees to reach the point where they remove their shoes before entering the gurdwara.
+
+"The video has been circulated deliberately with malicious intent, to outrage the feelings of a respectable religious community and is prejudicial to the religious harmony," Sharma said on Saturday.
+
+The Delhi Sikh Gurdwara Management Committee (DSGMC) chief Harmeet Singh Kalka had accused Aam Aadmi Party leaders of politicising the issue and defaming the religious institution.
+
+Kalka alleged that some protesters entered the gurdwara premises with placards and raised slogans as part of their demonstration.
+
+He said staff members stopped them from forcing their way into the hall.
+
+Questioning the criticism of police personnel who entered the premises to remove the protesters, Kalka said the police had intervened after the demonstrators entered the gurdwara.
+
+Delhi Police detained more than 7,000 protesters attempting to reach the Jantar Mantar during the Cockroach Janta Party's (CJP) protest against Chief Election Commissioner Gyanesh Kumar in Delhi on Saturday.
+
+---
+
+### US May Consider Direct Intervention in Saudi-Houthi Conflict After Riyadh Airport Strike: What Trump Said
+*Aishwarya Singh · general, business*
+
+Trump said the US may join Saudi-led strikes against Yemen’s Houthis after a missile hit Riyadh’s King Khalid International Airport, injuring several people and escalating regional tensions. No final decision has been announced.
+
+[Read full article](https://www.ndtvprofit.com/world/us-may-consider-direct-intervention-in-saudi-houthi-conflict-after-riyadh-airport-strike-what-trump-said-12168263)
+
+---
+
+### Indian private sector to bolster nuclear energy capacity by 2047: Atomic Energy Commission Chief
+*SECTIONS Indian private sector · business*
+
+India’s private sector could potentially generate up to 30 gigawatt (GW) of India’s target of achieving 100 GW nuclear power capacity by 2047, Atomic Energy Commission Chairman A K Mohanty said on Sunday.
+
+The AEC chief said the development would bring in an estimated ₹7.5 lakh crore investment as the country opens up its nuclear power sector to private players.
+
+Mohanty highlighted that India has 25 percent of the world’s thorium reserves which would help drive the country’s second and third stages of its nuclear programme.
+
+  
+
+_(With inputs from PTI)_
+
+---
+
+### 'Going bankrupt': Iran shopkeepers struggle as war dims demand
+*AFP · business*
+
+At a Tehran bazaar where fragrant herbs and spices whet the appetite, shopkeeper Nasir says locals once bought his nuts by the kilo but soaring prices caused by the US-Iran war have eaten into sales, leaving businesses fighting for survival.
+
+The marketplace in the Iranian capital's north would usually be abuzz with customers, but shops now sit mostly empty with only small numbers of people walking its old narrow paths, a jarring shift for the sellers shouting to promote their goods.
+
+"There used to be customers who bought two to five kilograms. Now, they're down to buying one kilogram or half a kilogram," said the 61-year-old.
+
+  
+
+"Prices are truly high. We all know it, and it would be a lie to say otherwise."
+
+Nasir called on authorities to stabilise the currency so businesses could plan ahead.
+
+"We're left in limbo, everyone is," said the fruit and nut seller.
+
+"They need to stabilise the dollar exchange rate."
+
+Iran's economy has been battered by years of sanctions, but the conflict that began in February with US-Israeli attacks and an American blockade of the country's ports has put extra strain on daily life.
+
+Rising inflation, nearly 90 percent year-on-year in September according to official figures, and erratic currency exchange fluctuations have driven up the cost of everyday items. Food prices have more than doubled since last year.
+
+At the bazaar, a historic covered market in Tehran's Tajrish square, locals surrounded by Iranian flags and Persian signage try to escape the economic gloom, scanning sweets, jewellery, traditional garments and cuts of meat before their weekend begins.
+
+In an alley, a street artist plays a guitar while another drums his hands on a box to draw tips from passersby.
+
+**Just need stability**
+
+But across the commercial district, many struggle to see a future for their businesses.
+
+"It is a desperate, last-ditch struggle. Manufacturers are going bankrupt, laying off staff and closing shops, and the impact inevitably reaches us," said Ali Nowruzi, 36, who runs a sportswear shop in the bazaar.
+
+The businessman now orders only a few items for display on his shop's shelves to stop them from looking bare like his warehouse, which he says lies empty due to lack of demand.
+
+"We have absolutely no plan for the future. When people don't come to buy... it effectively spells bankruptcy for the business," he said, citing rising rent and utility bills.
+
+"We just need some stability."
+
+Many shoppers, whose purchasing power has weakened since the outbreak of war, are seen leaving the bazaar without buying anything.
+
+Azadeh, a 45-year-old woman currently out of work, says she just goes there to "watch the shops".
+
+Mounting pressure over the war saw Iran's GDP contract 10.1 percent year-on-year between late March and late June, according to official figures.
+
+The rial traded at around 2.7 million to the dollar on the unofficial market in the past week, compared with about 1.7 million before the war.
+
+The minimum monthly wage that stood at around $120 a year ago has fallen to $65.
+
+The country's economy minister has rejected predictions of an imminent economic collapse, accusing Iran's foes of trying to fuel public anxiety and drive up exchange rates.
+
+**Prices 'skyrocketed**
+
+Azadeh offers a price comparison of a kitchen cloth bought several months ago for 22 cents. She says that item now costs $1.10, five times more.
+
+"It shows that prices haven't just gone up - they've truly skyrocketed," she said.
+
+She has stopped buying some fruits and says she can no longer afford holidays.
+
+"We aren't meant to just exist, we're meant to actually live, right?" she asked.
+
+Car mechanic Mojtaba Rezaei says his customers have "dropped to a tenth of what it was" because "goods now cost two or three times as much".
+
+"I actually feel embarrassed telling prices to customers. People just come in, ask the price, and leave," the 57-year-old told AFP at the bazaar.
+
+"So many things - buying clothes, going out for leisure, dining at restaurants - have all been cut out of our lives."
+
+
+---
+
 ## 10 October 2026
 
 ### iPhone Air gets Rs 30,000 off, no conditions
