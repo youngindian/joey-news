@@ -1,8 +1,183 @@
 # Editorials
 
-_Last updated: 2026-10-10 07:37 UTC_
+_Last updated: 2026-10-11 07:42 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 11 October 2026
+
+### Dharma, Nyaya, Niti & The Indian Art Of The Excuse
+*Deccan Chronicle · Opinion*
+
+What is Dharma? Derived from the root word ‘dhr’, which means to support and to uphold, dharma is commonly translated as duty, righteousness, morality, law, or the ethical order that sustains society. But none of these words quite captures its extraordinary range. In the Hindu conception of life, dharma is not merely a set of commandments telling us what we must and must not do. It is a way of negotiating the moral complexities of existence.
+
+That is precisely what makes it both intellectually exhilarating and morally dangerous. Dharma is one of the four purusharthas, the legitimate goals of human existence, along with artha (material prosperity), kama (desire) and moksha (liberation). The Hindu genius was perhaps to recognise that human beings cannot live by morality alone. They desire wealth, pleasure, power, family, achievement and ultimately transcendence. The challenge is to pursue these without destroying the larger moral order.
+
+But unlike a rigid code, dharma does not always provide a ready-made answer. The Hindu epics are full of situations in which the apparently righteous course conflicts with another moral obligation. Truth can collide with compassion; loyalty with justice; duty to the family with duty to society; individual virtue with a larger collective purpose. The Mahabharata, in particular, is less a manual of morality than an immense laboratory of moral ambiguity.
+
+This is why the Hindu imagination is reluctant to divide the world permanently into saints and sinners. Dharma certainly provides a clear normative framework of ethical conduct, but human ingenuity has allowed dharma to be influenced by several expedient factors: desh dharma, or conduct in different regions, ashram dharma or stage of life, kula dharma or family duties, jati dharma or caste loyalties, svabhava dharma or personal nature, svadharma or choice of conscience, and appadharma or action taken in times of dire emergency.
+
+The caveats can be endless, because dharma puts the onus on the individual to interpret it correctly. The Hindu epics are full of situations in which the apparently righteous course conflicts with another moral obligation. Truth can collide with compassion; loyalty with justice; duty to the family with duty to society; individual virtue with a larger collective purpose. This is why the Hindu imagination is reluctant to divide the world permanently into saints and sinners. Duryodhana is unquestionably responsible for grave wrongdoing. Yet, in the epic, the heavens rein flowers on him when he dies. Ravana commits acts that cannot be morally defended, yet the Ramayana remembers him also as a scholar and a great Shiva devotee.
+
+In theory, dharma is a profoundly courageous idea. It refuses the comfort of moral absolutism. It asks us to examine context, motive, circumstance and consequence before passing judgment. But this sophisticated complexity also cynically — and criminally — allows people to use dharma to justify transparent culpability. Consider the familiar response of the powerful when confronted with wrongdoing. There was a compelling circumstance. There was political pressure. There were security considerations. The decision was taken in the larger public interest. Someone else was responsible. The intention was not corrupt. The circumstances were exceptional. The rules were interpreted differently.
+
+If every action can be explained by circumstances, then every wrongdoing can acquire an alibi. If every violation is accompanied by an explanation, explanation can gradually become exoneration. And if moral judgment is endlessly postponed until every nuance has been considered, responsibility itself can disappear into an ocean of qualifications.
+
+One could argue that something similar has happened in our jurisprudential culture. The principle that it is better for several guilty persons to escape than for one innocent person to be punished is humane. But a noble principle can produce ignoble consequences if the system becomes so labyrinthine that establishing culpability becomes almost impossible. The innocent must certainly not be punished. But what happens when the guilty are allowed to escape accountability because the machinery of accountability moves too slowly, or because the law provides innumerable procedural avenues through which responsibility can be postponed?
+
+The danger is particularly acute in public life. A private citizen who commits an offence may have to face the consequences. But the person who occupies high office can surround an action with explanations: constitutional compulsions, political compulsions, administrative compulsions, coalition compulsions, national security compulsions. The greater the power, paradoxically, the greater the number of circumstances available to explain away its misuse.
+
+This is where dharma demands something more rigorous than relativism. For dharma does not mean that anything is permissible if a sufficiently persuasive explanation can be found. The ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/dharma-nyaya-niti-the-indian-art-of-the-excuse-1994817)
+
+---
+
+### In Support Of Every Janhvi Kapoor
+*Deccan Chronicle · Opinion*
+
+The recent transmogrification of the song “Chuttamalle” (from the movie Devara) that turns it into something utterly vile, leaving the heroine Ms Kapoor’s dignity and identity profoundly violated, while shocking, isn’t surprising.
+
+Look around. See what women from every part of society are going through in our country. See what men in general think they have the right to do with them. To them. The space available for me here wouldn’t cover even a fraction of the examples I could come up with off the top of my head.
+
+Junior NTR, Devara’s lead actor, issued a prompt response on X, calling the video “Disgusting. Sick. Shameless,” speaking of the irony of someone being exploited in this manner in a culture that reveres women as goddesses, warned both creators and distributors of legal action, and urged fans not to watch or share the video. Industry veteran Chiranjeevi weighed in, expressing profound anger and dismay over the content, calling it “cruel, shameful, and completely unacceptable”.
+
+That the big names of Tollywood came out — fiercely, spontaneously and in numbers — in support of Ms Kapoor is worthy of appreciation. She could do with all the help she can get, considering how she must be feeling; cold is the heart that cannot feel for her.
+
+I have a question, though. Not one that’s going to make me popular (not that I have ever been in those stakes).
+
+Only a few months ago, there was an intense backlash over the blatant objectification of the heroine of a film. Critics, audiences, and women’s rights groups came down hard on the makers for reducing her to a prop, meant only for exploitation, in ways not worth repeating in this piece so as not to revictimise her.
+
+That wasn’t all. Overwhelmingly, opinion was that there were scenes in the film that glorified non-consensual behaviour and blurred the lines of consent, all in the name of ‘playful romance’. So strong was the outcry that the director of the film issued a public apology, the production team assured moviegoers that the required edits would be made; the filmmakers swore they would be cautious with the representation of female characters in future projects.
+
+The movie: Peddi. The heroine: alas, Janhvi Kapoor.
+
+Ms Kapoor, not surprisingly, stayed away from the movie’s success meet.
+
+My question: did the film industry — that arrived in droves to condemn the AI video — come out, openly, courageously, and unequivocally, in support of Ms Kapoor when this happened as well?
+
+I’m sure I’ll be told in irate (even abusive, perhaps) letters that the need never arose when prompt corrective measures were taken by the makers themselves. Let me save them the trouble by telling them why I disagree.
+
+No one from the film industry who mattered came out openly in support of Ms Kapoor, or for that matter, took the filmmakers to task, even if some of them may have wanted to, because they couldn’t.
+
+Because, for decades, almost every one of them has been an active, willing and (dare I say) gleeful part of an ecosystem that’s normalised and profited from the hyper-sexualisation of women, the rampant objectification of heroines, passing off their abuse – verbal, emotional and physical — as comedy and romance.
+
+The dire warnings and potted moral lessons from the film industry seem to be, sadly, only, for outsiders.
+
+Some may argue that there is no comparison between how women are depicted in our films, however exploitative that may be, and this AI video. Again, I would have to disagree.
+
+What we should be looking at is not the extent; what matters is the intent.
+
+What I found most saddening, while it may have been meant in the right spirit, was how one tweet said: ‘Tomorrow, it could be your mother, sister, wife or daughter’.
+
+For years I’ve been baffled by this all-purpose memo to men. That we need to be protective of women because it could well be someone from our own family at the receiving end next.
+
+Why any woman should be respected by men merely because she is related in some ‘sacred’ manner to some other man beats me. Why can’t a woman be respected for herself? Why does she need prefixes, roles, designations, symbols or property documents to be treated right? Why do we have only two options? Putting them on pedestals as mother, sisters and goddesses, and worshipping them. Or doing the vilest of things to them.
+
+I sign off with something most heartening from a film I just saw, Bethlehem Kudumba Unit. It deals with what could have been a problematic subject: a romance between a young woman and an older man. What I liked most about the film was the manner in which it depicted love. That a man can be decent, restrained, unselfish, patient, honourable and vulnerable —and put the well-being of a woman above all else, especially when she is completely in his power — is what will stay with me.
+
+We need more men like this in our films. And in the film world. The average man will have no choice then but to follow suit.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/in-support-of-every-janhvi-kapoor-1994826)
+
+---
+
+### Rahul Rewrites Protest Playbook; What Is BJP’s Plan For Puri?
+*Deccan Chronicle · Opinion*
+
+Unlike the Left parties and the earlier avatar of the Bharatiya Janata Party, Congress leaders were not known to go in for mass mobilisation. The Congress Party’s methods of protest generally did not go beyond large public rallies, small corner meetings or an occasional march to Rajghat or the Rashtrapati Bhavan. However, after his Bharat Jodo Yatra, Rahul Gandhi appears to have acquired an appetite for street protests, sit-ins and picketing. This was witnessed when he staged a dharna outside the Prime Minister’s residence to demand Dharmendra Pradhan’s resignation over the Neet exam paper leaks. And last week Rahul Gandhi was at his aggressive best when a march by Opposition MPs to press for the removal of the chief election commissioner Gyanesh Kumar turned into a series of dharnas by the Congress leaders, ending in their forcible removal by the police. According to Congress insiders, Rahul Gandhi was so enthused about these programmes that he asked party general secretary K.C. Venugopal to issue instructions to all MPs that they must participate in the street protests and that explanations be sought from members who did not show up. It is said he also wanted Mr Venugopal to issue show cause notices to the MPs who did not have a valid reason for their absence.
+
+There has been endless speculation in the Capital’s political circles about Union petroleum minister Hardeep Puri’s future ever since he was dropped from the Bharatiya Janata Party’s list of candidates for the Rajya Sabha elections from Uttar Pradesh. Rules allow him to continue as minister for six months after his term ends in November. But the question is: What next? Will Mr Puri be sidelined or, as the grapevine says, there is a possibility he could be given a gubernatorial posting. There are murmurs that Jharkhand governor Santosh Kumar Gangwar may be moved out as his daughter Shruti Gangwar has been nominated to the Rajya Sabha from Uttar Pradesh. If not a governor’s post, will Mr Puri be accommodated in some other position or will he be involved in the upcoming Punjab Assembly elections even though he lost the Amritsar Lok Sabha seat in 2019?
+
+It was generally believed that Mr Puri was on a safe wicket, since he remained untouched even after his controversial links with Jeffrey Epstein surfaced earlier this year. It was also expected that Mr Puri would be re-nominated ahead of Punjab Assembly polls. But clearly, everyone’s been proved wrong.
+
+Former Uttarakhand chief minister Harish Rawat was recently in the eye of a storm over the launch of an independent Dhanyavad Evam Jansamvad Yatra ahead of the forthcoming Assembly elections. Mr Rawat was pulled up by Congress general secretary K.C. Venugopal and told that individual programmes will not be tolerated and that poll campaigns must be undertaken collectively under the party’s banner. Mr Rawat has since agreed not to go ahead with any solo programmes but Congress insiders maintain, the former chief minister is unlikely to give in easily and can be expected fight for his political space. The Congress could then find itself in a tight spot if it sidelines Rawat who will resist any such attempt and thwart the party’s plans to promote fresh leadership in the poll-bound hill state. There is all-round agreement that Mr Rawat may no longer be in his prime and lacks the wherewithal to deliver a victory for the Congress but his capacity to damage the party cannot be underestimated. So the big question is: How do you solve a problem like Mr Rawat?
+
+Senior Congress leader Ambika Soni, who worked closely with Sonia Gandhi, may no longer be politically active these days but state leaders she interacted with as party general secretary continue to line up at her new Delhi residence.
+
+As a former MP from Punjab, Ms Soni retains links with state leaders who turn to her regularly, even amid the recent internal factional battle which culminated in the appointment of former national hockey captain Pargat Singh as the party’s state unit chief. The stream of visitors who called on her recently include Singh, his predecessor Amrinder Singh Raja Warring and Charanjit Singh Channi who spearheaded a campaign against Warring. Ms Soni has been house-bound as she recently dislocated her shoulder, a development which kept her away from the last meeting of the party’s working committee.
+
+With Uttar Pradesh heading for Assembly polls next year, Samajwadi Party chief Akhilesh Yadav’s moves are under constant scrutiny. Lately, doubts have arisen in some quarters that he is not serious in taking on the Bharatiya Janata Party in the forthcoming election. For instance, he has not displayed the same enthusiasm on the INDIA bloc’s demand for the removal of the chief election commissioner Gyanesh Kumar though he did come for the joint meeting and was seen marching along with other opposition MPs in Delhi last week. But back in his home state, his party’s response to the Special Intensive Revision of voters’ rolls and the demand...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/rahul-rewrites-protest-playbook-what-is-bjps-plan-for-puri-1994823)
+
+---
+
+### Less lament, more action: The way forward for Kannada beyond Rajyotsava tokenism
+*Deccan Herald · Opinion*
+
+This is the season when Kannada Sanghas everywhere plan their Rajyotsava celebrations. November 1 is just three weeks away. The era of street Rajyotsava pandals is behind us, but in school classrooms and apartment clubhouses, children are rehearsing their songs and dances for the month-long celebrations.
+
+And in every Kannada group in Bengaluru, you hear the same anxious conversations. Kannadigas feel outflanked in their own capital. You hear it on the BMTC bus, in the tech park cafeteria, in the resident welfare association.
+
+What they can’t fathom is why migrants, and even some who have lived here all their lives, so aggressively resist Kannada, while Kannadigas who have never lived in any other state so effortlessly pick up their languages. Beyond tokenism, the Karnataka government can do a lot for the Kannada cause. Here is a wish-list.
+
+‘Learn Kannada in a month’: A non-Kannadiga’s long, funny journeyDemand a fair language policy: Migration from the northern states is not going to abate in the near future, given that much of the north is obsessed not with job creation but with the Hindu-Muslim question, and nor should it in a country where every Indian has the right to work anywhere. But the old argument that Kannadigas should learn Hindi to get jobs outside Karnataka deserves a UNO reverse card.
+
+If mobility for work is the logic used to teach Hindi to Kannadigas, the same logic should be used to teach Kannada in the northern states. It is long overdue, and it would be fair for Karnataka and the southern states to put forth a case for the southern languages to be taught in the northern states. Federalism cannot be a one-way street, and it is high time the southern states joined hands to demand not just their GST dues but also their linguistic ones.
+
+Hire the best legal counsel, and emphasise how a language policy that honours our rich southern languages is in the best interests of national integration. This is doable – the Constitution recognises four southern languages as official languages.
+
+Harness coastal strengths: Every region in Karnataka has something to offer for the Kannada cause. Coastal Karnataka, with a rich mix of languages, teaches Kannada meticulously, and is a publishing hub. The first Kannada newspaper, Mangaluru Samachara, came out of this region in 1843. Yakshagana, the operatic form that dominates the coastal landscape, uses Kannada with great felicity.
+
+In Bengaluru and Mysuru, Kannada is inundated with English. Taking Yakshagana, now mostly performed in the coastal districts, to all parts of Karnataka could further the Kannada cause. The region is also known for its bankers and entrepreneurs. Filmmakers from the coast have ushered in a fresh wave of Kannada cinema, and they know a thing or two about how to market their wares.
+
+Make the best of radio, television, and social media: Kannada sugama sangeeta (called bhavageete earlier) is perhaps the most popular genre of Kannada music. It enjoys a huge number of practitioners but is not adequately represented on commercial FM and TV channels.
+
+Kalinga Rao, Mysore Ananthaswamy, and C Ashwath are the trinity that scaled great heights, setting Bendre and Kuvempu to tunes that continue to be sung decades later. But a vacuum has set in after the departure of the trinity. What we need is a government push. How about an annual Ugadi music festival that gets musicians and poets to collaborate and produce new songs?
+
+Additionally, get the bands to make new Kannada music. Get classical musicians to sing and record more Kannada compositions – there is still a lot waiting to be discovered in the dasara padas and vachanas. Let the top new songs play live on the grand steps of the Vidhana Soudha. Let the bands battle it out for an annual prize. Collaborate with AIR and the private radio channels for airtime. Promote the new songs on social media. Songs are a great way to popularise a language.
+
+Build premier government schools with a Kannada ethos: The medium of instruction in government schools, which was largely Kannada, is now Kannada and English. We have government schools across Bengaluru, conveniently located and equipped with playgrounds and labs.
+
+Use the Kendriya Vidyalaya model to build high-quality schools where students are proficient in Kannada and English. Parents will flock to them. Lighten the burden for those who find the language difficult. Linguists led by D N Shankara Bhat are trying to bring the spoken word and the written word closer. Set up a panel of new-age linguists who can help clear the clutter.
+
+Preserving and promoting a language is a long-term game. It is won in the classroom, in cinema halls, on the radio, in the media, and on the street. If we start today, perhaps we won’t be wringing our hands so hard two decades from now.
+
+The writer often sees high art in kitsch and vice versa.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+Write to us at: theprism@deccanherald.co.in
+
+[Read full article](https://www.deccanherald.com/opinion/less-lament-more-action-the-way-forward-for-kannada-4178345)
+
+---
+
+### The limits of app-based inquiry
+*Deccan Herald · Opinion*
+
+Of the many things one could do on a lazy Saturday afternoon, I travelled across Bengaluru to watch a bunch of short wildlife films curated for children. The films covered a range of topics, including spectacular footage of hornbills bathing in the mud and the Draco (flying lizard), spreading its ribs and taking flight.
+
+During the refreshment break, a child, accompanied by his parent, approached us, a group of researchers. “What is the predator of the Draco?” he asked. “What do you think can feed on the Draco?” I asked him before anyone could reply. The kid, taken aback, replied with a doubtful “Eagle?” We all chimed in to appreciate the response and told him how even creatures like hornbills and snakes could prey on the Draco.
+
+Only a few moments earlier, when the floor was opened for questions, a parent had asked if there was an app or a tool to identify bats. Bats are secretive and communicate in ultrasound. Searching for a tool to identify them is a natural thought process.
+
+The world through another’s eyes: How curiosity reveals hidden storiesI explained briefly that while there were tools that help us visualise the high-frequency vocalisations, databases for automated detection were yet to be developed for India. What struck me was the remarkable contrast between the two questions.
+
+The kid cared about what an animal did, while we adults search for tools to automate the process of identifying animals. While making a species checklist is certainly essential, stepping out at dusk and trying to identify the silhouette of the wing shape as bats fly past a street light will teach us far more about nature than an app ever could.
+
+We see this in bird-watching groups. People often point to a bird and ask what it is, expecting a straight answer. Asking them counter questions about its size or colour patterns and urging them to point at the bird so we all can look creates a sense of discomfort and conflict. After all, we were the experts, and how could we answer a question with a series of questions? But for us researchers, asking questions is a birthright.
+
+Science is a way of thinking. Observation and thought are fundamental components of the spirit of inquiry. The kid was doing exactly that. The movie had set him to think about the world of the Draco on the swaying treetops. Children have an innate sense of curiosity. They are also not burdened by the inhibitions of sounding ignorant or silly, like most adults are. If questions are a manifestation of curiosity and a method of making sense of the world, the kid was already on track to become a researcher.
+
+Technology and tools have certainly lowered the entry bar for beginners. We now have apps that listen to bird calls and tell you the names of the species. They also let you create a checklist and upload it to a database in the name of citizen science. If we want the name of something, we whip out our phone, click a picture, and get the name. While this is knowledge, it is not the kind that creates an itch to learn more. Checklists can be gamified: the longer or more frequent the list, the bigger the badge of made-up honour.
+
+Not long ago, a naturalist would have to slog for years to develop the craft of paying attention to sounds, colour, behaviour, odour, and making detailed field notes. Then came the task of referring to field guides in libraries to get the names and learn about their life histories. There is distinct joy in the process, and one often learns to observe, curate, document, and share that joy. The process is as rewarding as it is for a scientist.
+
+Today, knowledge is downgraded to bite-sized nuggets served up on a platter. The cognitive burden has been passed off to a device. The amateur naturalist who shadows a senior to learn is passé. As the renowned physicist Richard Feynman put it, there is a difference between knowing the name of something and knowing something.
+
+Before we left, we nudged the parents to take their child to the Western Ghats and show him the animal. When they do, I hope they will not be caught up in the name, Draco dussumieri, but be enchanted by the sight of a Draco breaking its camouflage by showing off the bright yellow throat flap before gliding away like a falling leaf.
+
+The writer is an ecologist and believes there is profound wisdom to be found in paying attention to the overlooked and the mundane.
+
+Write to us at: theprism@deccanherald.co.in
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-limits-of-app-based-inquiry-4178328)
+
+---
 
 ## 10 October 2026
 
@@ -21789,259 +21964,6 @@ After Prophet Muhammed’s death there was a debate as to who should be the lead
 He had three sons-- the middle son being Hussain. After Ali’s death, the debate over whether the Caliphate ought to go to somebody from the bloodline of the Prophet came up. However, Yazid, the son of Muawiyah who succeeded Ali, became the caliph. Hussain refused to pledge allegiance to him and travelled towards Kufa (in present-day Iraq) with a small band of 72 people, including women, where he was promised support. But the support did not come. Yazid’s forces marched with anything between 4,000 and 30,000 men, vastly outnumbering Hussain. The battle, more like a massacre, happened in the plains of Karbala (again, in present-day Iraq) on the tenth day of Muharram (known as Ashura) in 680 CE. Hussain was killed. The survivors were captured. What happened in Karbala became the basis for the schism in Islam between the Sunnis, those who followed the Sunnah – the traditions and practices of the Prophet – and Shias, the followers of Ali. Muharram commemorates the martyrdom of Hussain. It commemorates the principles of justice, integrity, and commitment to truth. Hussain’s refusal to surrender is seen as a model of resistance. It is not just death, which is being commemorated every Muharram, especially on the day of Ashura; moral questions are being raised. Will you stand up for justice? Shias remember the martyrdom of Hussain with mournful gatherings, or majlis. A public display of grief accompanied by the rhythmic beating of chests (matam), which can shake and move even a passive onlooker, takes place. To weep for Hussain is to align with him; to self-flagellate is to feel his suffering. The Shias believe that ‘every day is Ashura, every land is Karbala’. Central to the Shia psyche is the shahada, martyrdom, which Hussain chose. The spirit of Karbala resonates to this day.
 
 [Read full article](https://www.deccanherald.com/opinion/the-significance-of-muharram-4071448)
-
----
-
-## 12 July 2026
-
-### Chandrakant Lahariya and Abhishek Garg | A ‘Cadaver’ Isn’t A Specimen; It’s The First Teacher In Medical Colleges
-*Deccan Chronicle · Opinion*
-
-The recent controversy over a medical student’s “cadaver” remarks had provoked outrage. A video went viral, apologies followed, an institution ordered an inquiry, and social media did what it often does: converted discomfort into judgment. Yet the incident should not be remembered as one young person’s lapse in language or maturity. It must be treated as a mirror held up to medical education itself.
-
-The question is not whether a cadaver deserves respect. That answer is obvious. The deeper question is why any student could pass through the early years of medical training without absorbing what a cadaver represents. If the first encounter with a donated body becomes only a technical exercise, if the anatomy hall becomes merely a place to identify nerves, vessels and muscles for marks, something fundamental has already been lost.
-
-For generations, dissection halls have marked the beginning of medical education. The earliest doctors were often anatomists who tried to understand the human body. Even today, before a future doctor touches a living patient, listens to a heartbeat, inserts a needle, or counsels a frightened family member, he or she learns from someone who can no longer speak. The cadaver is not a specimen. It is a human being who, through body donation, continues to serve society after death. It is every doctor’s first teacher.
-
-This is why the issue goes beyond hurt sentiments. Body donation is built on trust. Families donate the body of a loved one because they believe medical science will treat it with dignity.
-
-Donors pledge their bodies because they believe that, even after death, they can help train doctors, advance research and future patients. If society feels donated bodies may be treated casually, joked about, discussed without reverence, or turned into entertainment, that trust will erode. The consequences will affect anatomy education, surgical training, research and patient care.
-
-Modern medicine depends on trust. Patients trust doctors with pain, fear, secrets and vulnerability. Families trust hospitals with dying relatives. Body donors trust institutions with mortal remains. Medical education is not merely a transfer of knowledge. It is an initiation into responsibility.
-
-The last decade has seen rapid expansion of medical seats and colleges. Competitive examinations have become more intense, coaching industries have grown, and students enter medical colleges after years of being trained to memorise, compete and outperform. The tragedy is that the same system expects empathy to appear automatically once admission is secured. But empathy is not decorative. It has to be cultivated, modelled, practised and assessed.
-
-A medical student learns not only from lectures, textbooks and examinations, but also from institutional culture. If the senior students and teachers treat cadavers as teaching material without acknowledging the donor, students absorb that. If ward rounds reduce patients to “the liver case” or “the fracture”, students learn distance before care. If colleges celebrate marks more than manners, rank more than reflection, and speed more than sensitivity, the outcome should not surprise us.
-
-There have been attempts to address this gap. The introduction of AETCOM -- Attitude, Ethics and Communication in medical education -- in 2019 was meant to remind future doctors that medicine is not only about diagnosis and treatment, but also about conduct, communication and values. The intention was important. But in many colleges, such modules risk becoming ritualistic: lectures, attendance sheets, role-play exercises, perhaps a question in examinations. Values cannot be imbibed through PowerPoint slides alone. They require lived practice.
-
-Anatomy begins with science, but it must also begin with humility. Medical colleges should treat the first anatomy session as a moral moment. Faculty members must model respect in language and conduct. There should be clear protocols on discussion of cadavers, confidentiality and public behaviour. Students should know that professionalism does not end when they leave campus or enter a comedy club, party or social media platform. The white coat is not worn all the time, but the responsibility of being a doctor-in-training does not disappear.
-
-At the same time, public anger must not become a hunt for one individual. A young student can err in judgment. She can apologise, learn and grow. The purpose of ethics is not to destroy people for lapses, but to build professionals and institutions. If we make this incident only about one person, we will miss its larger lesson.
-
-The real failure is systemic. We have built a medical education pipeline that selects for performance under pressure, rewards memory, tolerates hierarchy, and leaves empathy to chance. We have added ethics to the timetable but not always to institutions. We speak of producing more doctors for India, but not enough about what kind of doctors India needs.
-
-India’s medical education system...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/chandrakant-lahariya-and-abhishek-garg-a-cadaver-isnt-a-specimen-its-the-first-teacher-in-medical-colleges-1970413)
-
----
-
-### Krishna Shastri Devulapalli | How A Safe Space Triggered My Trauma
-*Deccan Chronicle · Opinion*
-
-Not too long ago, friendships, romantic partnerships, and business relationships ended because one person couldn’t tolerate the smell of the other’s hair oil, hated the way they chewed or found their taste in bhajans appalling. And one of them punched the other in the nose to announce the termination of a relationship. Those were good times, trust me.
-
-Today, everyone is a psychology major, and their starting point for every disagreement is trauma. For instance, recently, someone I know leapt over a counter with surprising agility considering her size, caught the chef in a headlock, and recited Sivaji Ganesan’s monologue from Parasakthi to him as he fought for his life.
-
-Because the buffet had ran out of puris. She called it trauma.
-
-Listen, all you psychobabblers out there, using big words wrongly just because it permits you to be tardy, excessive or rude, I’m going to share a few here so ordinary folk like me can protect themselves somewhat.
-
-Let’s start with ‘boundaries’. Here’s the thing about boundaries. Because everyone is talking about them these days, and most are getting it wrong. People think the boundaries they draw pertain only to themselves. No, sir. That’s not how boundaries work. The very same tailormade boundary you have drawn to protect yourself, and ensure your well-being, gets automatically drawn for everyone else to protect them from you.
-
-Every time you change the shape or thickness of your boundary, voilà, it magically changes for everyone in your ambit. Same shape, same size, same thickness, same permeability, an exact clone of your boundary.
-
-The best example of a boundary is the two blue ticks on WhatsApp. If you change your privacy setting to ‘turn off read receipts’, you automatically turn it off for all your contacts.
-
-How about ‘triggered’ next. Everyone on social media is apparently triggered now.
-
-You say something — measured enough, you’d think — and someone or the other is triggered.
-
-It basically means they absolve themselves of the responsibility to remain courteous in their responses. Holster that gun, friends. This isn’t the Wild West. And you’re not Wild Bill Hickock. Make sure that safety catch is on, and load that Colt with blanks if you must.
-
-I disagree with most things most people say on social media. But I exercise my right to not respond. Because I don’t see what they’re saying as an invitation to a duel at high noon. Perhaps the so-called triggers of most people have become hair-triggers precisely because they’re walking around with their forefingers constantly caressing those wretched things.
-
-(I’m going to bet that this piece is going to ‘trigger’ someone.)
-
-Here’s another favourite: safe space.
-
-I dread it when someone tells me I’m their safe space, because, sooner or later, I know that I am going to become the opposite. Why? Because they have understood the term ‘safe space’ wrong.
-
-What kind of person is a safe space? To my understanding, it is anyone who gives space to another to be vulnerable without judging them, never using that vulnerability against them. Being a safe space doesn’t include giving blanket permission and encouragement for everything one does. A safe space isn’t a place that validates one’s indulgences. That isn’t a safe space. That’s an enabler. And an enabler, ironically, is an unsafe space. (See how I used a term correctly.)
-
-Then there is ‘expectations’. Yes, this isn’t a purely psychological term, but I see people, when questioned, using this term to get out of responsibility, reciprocity.
-
-‘You seem to have unfair expectations of me.’
-
-I’ve heard this more than a couple of times — from friends/family/colleagues — whenever I’ve made my displeasure known, courteously, mind you, and addressed my concerns.
-
-My response has always been the same.
-
-‘I have no expectations of you whatsoever. I just have prerequisites for myself.’
-
-Wanting, and demanding, courtesy, promptness, fairness, acknowledgement, why, even gratitude, aren’t expectations. That’s bare minimum. Both ways.
-
-Then there is ‘self-care’. Saw this article about a Bollywood star recently with the headline “… celebrates Valentine’s Day with her sister… indulging in self-care”.
-
-How, man? How? How can you ‘indulge’ in ‘self-care’? Indulge is the opposite of self-care.
-
-Going to a spa and having someone put baby oil in your ****-crack, getting a nose job, going off on a boy-gang holiday and letting it all hang out — those don’t come under self-care. They are self-indulgence.
-
-People seem to use the word self-care when they mean self-indulgence. Self-care involves attending to one’s needs, like rest, nutritious food, exercise, solitude, quiet. Often, it requires doing less. Not more. You can’t buy self-care. You learn it. You practise it.
-
-Self-indulgence, on the other hand, involves attending to one’s wants — which we often confuse for our needs.
-
-Also, while we’re at it, when you ask a man a question or you put him in a place where he has to...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/krishna-shastri-devulapalli-how-a-safe-space-triggered-my-trauma-1970255)
-
----
-
-### Manish Tewari | Middle Powers And the 4th Technological Order
-*Deccan Chronicle · Opinion*
-
-The former US defence secretary famously articulated on February 12, 2002, that “as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns — the ones we don’t know we don’t know”.
-
-Though Rumsfeld’s words were in response to a query about the complete absence of evidence linking Saddam Hussein’s regime in Iraq to the supply of “weapons of mass destruction” to various terrorist groups.
-
-Though this remark earned him a foot in the mouth award of 2002 for the gobbledegook of political dissimulation. However, it is very prescient in the case of the evolutionary trajectory of the technologies of the Fourth Industrial Revolution and their impact on human kind.
-
-It would be a trite to underscore that the United States (US) and China are the leaders in fourth industrial revolution technologies. While the US is broadly ahead in quantum computing, semi-conductors, genomics, bio technology and space China leads in electric batteries, hypersonics, solar technology, 6G networks and drones and robotics. Both these countries are in intense competition qua artificial intelligence, advanced materials, quantum sensors, machine learning and
-
-nano technology. This list is indicative and not illustrative
-
-A broader reality check is however imperative. The rivalry between the prevailing hegemon, the United States, and its nearest competitor China is exacerbating across the spectrum especially in the field of military applications of fourth generation technologies. Xi Jingping recently characterised this struggle by spotlighting the fact as to whether the US and China can “overcome the ‘Thucydides trap’ and establish a new paradigm for relations between great powers”. A potential G-2 leveraging their huge lead in frontier technologies.
-
-Middle powers are structurally dependent on the Great Power order that they critique but cannot mould. A liberal and internationalist order was willing to pay the middle powers some attention, proffer membership of coalitions and allow a degree of participation in norm-setting in exchange for military and diplomatic support. The current US administration today demonstrates disdain for such templates.
-
-The Trump administration has demonstrated no restraint in conveying that in its estimation and scheme of things the middle powers remain dependent on the great powers — principally the US — for their prosperity and security, and it is only too happy to let that model perpetuate itself while berating the middle powers step up to the plate of burden sharing.
-
-The Trump administration may be will to cut some slack to the middle powers and that too at the margins; however, it is unwilling to countenance middle power aspirations to attempt and shape the epicentre of the international system, particularly when the MAGA spectre is actively trying to redesign the hardware and software of the global order.
-
-China under the Xi Jingping dispensation has also become more authoritarian, jingoistic and is now more than comfortable in flexing its new found strategic heft as underscored by the syndrome of wolf warrior diplomacy going back almost a decade.
-
-These broader trends actually impel intensified middle power cooperation and technological
-
-synergies as they are actually a necessary subset of the overarching geo strategic matrix. For middle powers, this is extraordinarily important.
-
-What efficacy is there in increasing your strategic autonomy in terms of hard and soft power when middle powers and lesser developed nations will remain dependent on the goodwill and myriad mercantile interests of private technology behemoths whose revenues are bigger than the GDP of most developing economies?
-
-However, again the reality here is sobering. By way of example on artificial intelligence alone, China will spend $295 billion in the next five years to build data hubs. China spent $98 billion on AI in 2025 alone. China’s government spend was USD 56 billion dollars.
-
-Five US based private companies Amazon, Google, Microsoft, Meta and oracle will collectively invest $700 billion in 2026.
-
-India’s AI mission by comparison between 2025-2030 would spend a measly $1.2 billion.
-
-What then was the purpose of holding an ostentatious the AI Summit when there is no appetite for putting your money where mouth is?
-
-The middle powers, therefore, have to decide as to whether they want to train the global AI economy’s middle management, or build its c-suite. Till the time the middle powers do not have their own foundational model/ models they will always remain on the sidelines of the technology frontier as the horizons of deep and big tech keep evolving and expanding at an exponential pace. This can only happen with massive public investments or very intense public private partnerships as cutting edge 2026 frontier runs can cost upwards of $2 trillion to build and operate before...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/manish-tewari-middle-powers-in-the-fourth-industrial-era-1970253)
-
----
-
-### Pradeep S. Mehta and Sohom Banerjee |Trans-humanism: The Silent Capture Of The Human Mind
-*Deccan Chronicle · Opinion*
-
-A young professional wakes up in the morning. Before touching water, before offering a prayer, before looking at the sky, he checks his phone which tells him what meeting comes first, what news deserves his fear, what food may improve his health, what music may improve his mood, and what advertisement may match his hidden desire. He still believes he is free. But slowly, quietly, the first decisions of his day have already been outsourced.
-
-This is the real debate behind the growing anxiety around trans-humanism, wearable devices, spatial computing, artificial intelligence and Big Tech. The issue is not whether Apple, Meta, Google or any other declares itself “transhumanist”. Most of them do not. The issue is more subtle and more serious. Technology is moving from the outside to the inside of human experience. It’s no longer only on our desks. It’s in our pockets, on our wrists, in our ears, before our eyes, inside our homes and increasingly around our emotions, behaviour and attention.
-
-The old idea of transhumanism imagined a dramatic future: humans with chips in their brains, robotic limbs, artificial organs and machine-augmented intelligence. But the modern version may not arrive through surgery. It may arrive through comfort. It may arrive as a beautifully designed device, a health feature, a pair of earbuds, a watch, a headset, an assistant or a screen that understands your gestures, voice, your habits and eventually your intentions.
-
-That’s why the debate shouldn’t be dismissed as a conspiracy. The extreme claim that users will immediately become “drones” or “robots” is exaggerated. The underlying fear isn’t irrational. Human autonomy doesn’t disappear in one dramatic moment. It weakens gradually.
-
-First, we use technology for convenience. Then we depend on it for memory, direction, communication, entertainment, health tracking and decision-making. Finally, we reach a point where the human mind becomes uncomfortable without technological mediation.
-
-This is the deeper civilisational risk. Big Tech is not merely building devices. It is building environments. It is building ecosystems that understand, predict and shape behaviour.
-
-The human mind isn’t just another market. It’s the crucible of judgment, memory, emotion, imagination, conscience and freedom. When technology occupies this space, it’s not only about innovation. It’s a question of power. Who controls the interface between the individual and the world? Who owns the data?
-
-Indian philosophical traditions understood the power of the mind long before modern technology companies tried to monetise it. In the Bhagavad Gita, Krishna tells Arjun that the mind can be the greatest friend when controlled and the greatest enemy when uncontrolled. Kurukshetra was not just a political or military battlefield; it was also psychological and spiritual. Arjun’s crisis was one of perception, emotion and judgement. Krishna doesn’t ask him to surrender his mind to an external system; but to awaken his consciousness, discipline his senses and act with clarity.
-
-This is where the contrast becomes powerful. Yoga is about mastery over the self. Big Tech often creates dependency on the system. Yoga teaches control over senses. Digital platforms stimulate the senses continuously. Yoga disciplines desire. Consumer technology monetises desire. Yoga cultivates silence, concentration and inner awareness.
-
-Real human enhancement, therefore, can’t be reduced to better devices. A human being isn’t enhanced merely because he can track his sleep, receive faster notifications, wear smarter glasses or outsource memory to artificial intelligence. A person is truly enhanced when he becomes more conscious, more disciplined, more compassionate, more independent in thought and more capable of acting with wisdom. If technology strengthens these qualities, it serves humanity. If it weakens them, it becomes a sophisticated form of mental colonisation.
-
-The danger is not technology itself. Hearing aids, prosthetics, health monitors, accessibility tools and medical innovations can transform lives. A diabetic patient using a sensor, a disabled person using an advanced prosthetic limb, or an elderly person using fall-detection technology is not a victim of trans-humanism. These are examples of technology serving with dignity. The problem begins when technology moves from helping humans overcome limitations to capturing human attention, shaping behaviour and converting intimate life into data that can be monetised.
-
-That’s why the ownership structure matters. If a handful of corporations control hardware, software, app ecosystems, payments, artificial intelligence, content distribution, health data and immersive interfaces, they become more than companies. They become gatekeepers of human experience. No democratic society should allow such concentrated power over the mind, body and behaviour of citizens without strict accountability.
-
-The policy conclusion is clear. Governments should not ban ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/pradeep-s-mehta-and-sohom-banerjee-trans-humanism-the-silent-capture-of-the-human-mind-1970249)
-
----
-
-### A quiet revolution in the queue for justice
-*Deccan Herald · Opinion*
-
-It is no secret that India’s justice system groans under its own weight. Three numbers tell the story. As of today, the National Judicial Data Grid records 5,04,12,584 cases pending before our courts. In the last month alone, 17,89,241 fresh cases were instituted. And behind this mountain stands a bench stretched impossibly thin: India has roughly 22 judges per million people, against the long-recommended benchmark of 50 per million, as a news report noted this January.
-
-Where, in this vast and slow-moving machine, does a litigant with a disability figure? Until recently, nowhere in particular. Their matters joined the same endless queue as everyone else’s and waited – frequently for years – regardless of the additional barriers, expense, and physical difficulty that attending court imposes on them. A blind litigant who cannot read an inaccessible paper-book, a wheelchair user for whom a trip to a court complex is an ordeal, a person with a psychosocial disability navigating a system built for no one like them: all were left to the mercy of the calendar. The 2011 Census counted 2.68 crore persons with disabilities in India, a figure almost universally regarded as a gross undercount. For such a large population, an indefinite delay is not a minor inconvenience. It is a quiet denial of justice.
-
-Against this backdrop, something has begun to change. Over the past several months, some of our most important courts have decided that these litigants need not wait their turn forever. By a circular in December 2025, the Supreme Court created a dedicated category in its miscellaneous-day cause list for “cases relating to specially abled persons” – alongside new heads for senior citizens, persons below the poverty line, and legal-aid matters – and directed advocates and parties to flag such cases at the filing stage, backed by documentary proof, so the Registry can prioritise them. The Delhi High Court outstripped the Supreme Court in this regard, deciding to prioritise such cases from April 2024 onwards, and its practice is by now the most settled. The High Court of Meghalaya, with effect from July 1 2026, has begun identifying cases involving persons with disabilities (as defined under the Rights of Persons with Disabilities Act, 2016) for priority listing, allowing even pending matters to be moved up on production of a disability certificate. The Nagpur Bench of the Bombay High Court has started collecting particulars of matters in which a disabled person is a litigant, precisely so that their hearing and disposal can be expedited.
-
-This is a genuine expansion of access to justice for a class of litigants who have long been an afterthought. Its significance is sharpened by how poorly the RPwD Act has been implemented since it was passed. Digital platforms – government portals and increasingly private services – remain inaccessible to screen-reader users. Public buildings continue to be sanctioned without any check for accessibility before approval. Reservation norms in public employment are honoured more in the breach than in observance. Reasonable accommodation, the statutory duty to make individual adjustments so a disabled person can participate on equal terms, is routinely denied. And the bodies meant to enforce these rights – the disability commissions at the Centre and in the states – carry only recommendatory power and are chronically short-staffed, unable to compel compliance even when they find a violation.
-
-In that landscape, the courtroom is often the only forum where a disabled person can obtain a binding remedy. Priority listing means that this remedy will no longer be swallowed by the backlog. When the very rights that the executive machinery fails to deliver can be vindicated quickly through litigation, the practical value of those rights rises sharply.
-
-It would be dishonest, though, to declare victory. We still have a long way to go. Reforms of this kind live or die in the implementation, and the early signs are uneven. Despite the Supreme Court’s clear direction, only one case, at last count, appears to have been properly categorised and prioritised under the new head: a reminder that a circular is only as good as the Registry’s diligence and the Bar’s awareness. Outside the Delhi High Court, the practice has not yet bedded down into routine. Categories can quietly lapse if no one insists on them.
-
-Yet the promise is real, and it extends beyond the cases already in the system. The deepest impact will be on people who have never approached a court at all – those who assumed, not unreasonably, that pursuing their rights meant surrendering years of their lives to an indifferent docket. Knowing that the system will now hear them without an endless wait may embolden many to come forward and claim, at last, their day in court. That is worth building on.
-
-The writer is a practising lawyer with expertise in disability rights and IP law, and is co-founder of Mission Accessibility. He wears more hats than he can himself sometimes count.
-
-Rahul Bajaj is a practising lawyer with expertise in disability rights and IP law, and is co-founder of Mission Accessibility. He wears more hats than he can himself sometimes count.
-
-[Read full article](https://www.deccanherald.com/opinion/a-quiet-revolution-in-the-queue-for-justice-4070742)
-
----
-
-### EVMs and their deepening opacity
-*Deccan Herald · Opinion*
-
-The third phase of the electoral roll clean-up through the Special Intensive Revision (SIR) has begun. Citizens are queuing up to prove their eligibility to elect their representatives to Parliament and state legislatures. When the demonetisation exercise was announced a decade ago, as a surgical strike on black money, people had similarly stood in front of banks to prove that the currency notes they held were earned legitimately. Subjecting people to such agni parikshas (tests by fire), repeatedly, has become a habit with the Union government. Very few have questioned the cramped SIR time-frames. We are made to believe, once again, that this is best for the country, regardless of the fact that many of us might board the same boat as the lakhs of people disenfranchised in West Bengal after SIR-II. The Calcutta High Court lamented last week that their appeals might be cleared in just about two decades!
-
-We perform another ritual every five years by pressing the button on the Electronic Voting Machine (EVM). We are repeatedly made to believe that this is the best method for electing our MPs and MLAs because ‘no vote is wasted’, and the ‘results are declared in a few hours’. The 124 FAQs published by the Election Commission of India (ECI) apparently dispel all doubts about the efficacy of machine-based voting. But deeper probing throws up more questions. For example, after the 2019 Lok Sabha elections, I asked the two manufacturing companies under RTI: How many votes can be printed on the VVPAT units? BEL mentioned 1,300 slips, and ECIL said 1,400, at maximum. This year, answers to the same question, about the 2024 Lok Sabha polls, were 1,400 and 1,500, respectively.
-
-So what is wrong with these replies? Nothing much, except that in a polling station like booth no. 8 located at St Mary’s High School, Vettukadu, in the Thiruvananthapuram constituency, if all 1,396 electors turned up to vote, would one paper roll from a BEL-manufactured machine be enough? Every Presiding Officer is mandated to conduct a mock poll by printing 50 votes before polling begins. The handbooks for election officials are silent about the protocol for replenishing the paper rolls if they run out.
-
-In the same RTIs, I asked these companies about the state-wise deployment of EVMs during the 2024 general elections. BEL said its EVMs were used for the Lok Sabha elections across the country, but only in Andhra Pradesh for the simultaneously held Assembly elections. ECIL claimed it does not know where its EVMs were deployed because they all go to a common pool. This reply is unreliable because their engineers know which polling station to visit if their EVMs become defective. And thousands of them do, every election season.
-
-Few voters know that the patent protection granted to these companies for exclusively manufacturing the EVMs expired in March 2021. In January 2022, BEL secured a patent for an enhanced EVM (certificate no. 387537). It claimed several advanced features, including integration of the control unit and the ballot unit into a single body and a special unit for verifying the authenticity of a voter before he/she is permitted to vote. The patent documents do not explain how the ballot’s secrecy will be preserved.
-
-In 2025, BEL told me under RTI that it supplied these new machines to the ECI between 2022 and 2024. It told the Patent Office the machines were sold for Rs 1.19 crore in 2022-23. But in 2025, it claimed the machines were still under development/commercial trial, so it had not sold any. The latest RTI replies state these machines were not used in the 2024 elections, and ECIL is not manufacturing them at all. What has happened to them is a sarkari secret. Instead, the old M3 model of EVMs and VVPATs manufactured by these companies were deployed in the 2024 elections.
-
-Except for the voters’ records and their choice of candidates, all information about EVMs ought to be in the public domain. They will not tell if we do not ask repeatedly and loudly. It is every thinking person’s obligation to get bitten by the Enlightenment bug of ‘permanent critique’ and question the grand narratives, to push past the boundaries set by the power structures about “what we cannot know”, like Michel Foucault, the French historian of ideas, wrote long ago.
-
-The writer wakes up every morning thinking someone somewhere is hiding something.
-
-Venkatesh Nayak wakes up every morning thinking someone somewhere is hiding something.
-
-[Read full article](https://www.deccanherald.com/opinion/evms-and-their-deepening-opacity-4070745)
-
----
-
-### Urban India: Republic of recurring outrage
-*The New Indian Express · Opinion*
-
-Updated on: 11 Jul 2026, 7:10 pm4 min readCopiedIndia runs on many calendars. The fiscal calendar defines the spend of the exchequer, the academic year for students, the kharif and rabi calendars for farmers, the festival calendar for the soul. There is a fifth calendar that is unprinted and unfailing, observed with the devotion of the faithful. It is the calendar of outrage.
-
-It opens with January and February focused on air pollution. This January, 123 of 148 cities recorded higher-than-recommended PM2.5 levels, and 53 cities figured in the most polluted lists. March arrives with water worries. Taps run dry and tanker mafias rule the roost in Bengaluru, Chennai, Mumbai, Pune. By May, it is inverter raj as power outages haunt homes and offices. June brings the rains; July brings the floods. The clouds clear for potholes and craters to show up in August and September. October is open for suggestions, followed by November and December, when the nation returns to smog, stubble burning, winter inversion. Between the recurring surprises, there is the parade of preventable disasters—hotels and hospitals on fire, collapsing flyovers, derailed trains, stampedes at shrines and attacks on hospitals.
-
-The disasters arrive without appointment, but rarely without precedent. The rituals that follow events are as predictable. The visuals surface on social media followed by headlines. Whether the government follows depends on the math of casualties and momentum of opposition—and is usually followed by announcements. This year when the 50 hottest cities of the planet were in India, the minister stayed in the shade and mum.
-
-Explanations for events sound more like alibis—“this much rain was not expected”. It is also the only time climate change is acknowledged. Nature is ahead of the curve, governance is behind it—and the distance between the two is measured in committee reports that are old enough to vote and are still waiting to be read. The unprecedented has become India’s most precedent justification.
-
-The response to events is predictable. So is the follow up. After the catastrophe in Mumbai in 2005, the Madhav Chitale committee delivered a 359-page report. Twenty years later, its core prescriptions—no development zones along rivers, relocation of encroachments, mangrove protection—remain largely unimplemented. In 2018, a Supreme Court-appointed committee reported on the lack of effective steps and that even the 50-metre buffer had not been created. This week, Mumbai and Pune were inundated by flood waters for over 48 hours at places, bringing the cities to a standstill.
-
-Mumbai presents the template for unattended issues. Following a major flood in 1985, a committee identified the need for a new stormwater drainage system. In 1993, the BMC came up with the Brihan Mumbai Storm Water Disposal System, but didn’t implement it for lack of funds. BRIMSTOWAD surfaced again after the 2005 floods, but is incomplete in 2026. On Thursday, the Maharashtra government announced yet another plan that will cost over Rs 13,000 crore and which will make Mumbai “a sponge city”.
-
-The archives damn governments. This week, Surat received the heaviest rainfall in its history. Its vulnerabilities though are not new, though. The recommendations for solution date back several decades to after the 1968 floods. The expert panel which examined the 2006 floods indicted the construction sprawl on Tapi’s flood plains. Two decades later, the floodwaters followed the construction sprawl. The response: announcement of a `500-crore project.
-
-Bengaluru and Chennai have refined the absurdity of circumstance. Both face water distress and often ration water by tankers in April. They also end up evacuating people by boat in November. Chennai 2015 followed a drought; Bengaluru’s 2022 floods arrived months after its borewells ran dry. Same lakebeds—concretised for shortage, submerged in surplus. In Delhi, the government declared the waterlogging “under control” the same afternoon the opposition declared that the capital a sea. In 2024, a landslide in Kerala’s Wayanad district buried over 400 people. This week, another landslide struck Kalladi in the same district. The hillside was mapped, vulnerability documented, warnings issued.
-
-On paper, India is a global superpower of committees. The Rashtriya Barh Aayog (National Commission on Floods) was constituted in 1976. It submitted 207 recommendations that were sent to states in 1981. But the recommendations stayed on paper. In 2001, the Rangachari Committee reviewed and shortlisted 40 recommendations for immediate implementation. Guidelines followed disasters. The National Disaster Management Authority’s guidelines came in 2010. The BJP’s promise of 100 new cities in 2014 were followed by Smart Cities and the AMRUT programme. Yet, on ground, there is little to assure people.
-
-India does not lack for diagnosis. But it suffers from a 20-year lag between the diagnosis and implementation. Consider this nugget. In 1975, the Union government drafted a model law for flood plain zoning and shared it with the states. Suffice to say it did not get far. But in 2022, the idea was back in circulation. And in 2026, it is stranded between the Centre and the states. Unlike in the past, weather updates are fairly robust these days. The warnings land. The orange alerts are issued. What does not exist is the machinery to act on foresight—because the entire apparatus of Indian administration is trained to react, not prevent.
-
-Tolstoy observed that happy families are all alike, while each unhappy family is unhappy in its own way. Indian cities are unhappy for the same reasons, only on different schedules. Different rivers, identical post-mortems. Encroached flood plains. Concretised lakebeds. Desilting claims disproven at the first cloudburst. The calendar of outrage will keep its appointments. The question is whether governments will keep their appointment with governance.
-
-Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Jul/11/urban-india-republic-of-recurring-outrage)
 
 ---
 
