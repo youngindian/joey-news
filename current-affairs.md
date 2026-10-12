@@ -1,3 +1,485 @@
+## 12 October 2026
+
+### After Jantar Mantar crackdown, Delhi High Court to hear protest plea tomorrow
+*Sohini Ghosh · legal*
+
+Delhi High Court agrees to hear on Tuesday plea against closure of Jantar Mantar as protest site.
+
+[Read full article](https://indianexpress.com/article/legal-news/delhi-high-court-hear-plea-closure-jantar-mantar-protest-site-cjp-10917594/)
+
+---
+
+### NEET PG Counselling 2026: Round 1 registrations to begin today; check steps to apply
+*Education Desk · legal*
+
+According to the NEET PG 2026 counselling schedule released by the committee on its official portal, mcc.nic.in, the Round 1 registration link will remain active till 12 pm on October 21, while the fee payment facility will be available until 3 pm.
+
+[Read full article](https://indianexpress.com/article/education/neet-pg-counselling-2026-round-1-registrations-begin-mcc-nic-in-steps-to-apply-10917533/)
+
+---
+
+### What is the unique airship DRDO tested that reached 21 km in the sky?
+*India Today Science Desk · general*
+
+## DRDO has flight-tested its High Altitude Platform System airship to 21 km in the stratosphere. The milestone advances India's work on recoverable long-endurance platforms for surveillance and communications.
+
+It remained at 20 km for more than 30 minutes while carrying instrumentation systems. (Photo: DRDO)
+
+New Delhi,Oct 12, 2026 11:26 IST
+
+India has taken a significant step towards developing long-endurance surveillance platforms in the stratosphere, with the Defence Research and Development Organisation (DRDO) successfully flight-testing its High Altitude Platform System (HAPS).
+
+Designed and developed by the Aerial Delivery Research and Development Establishment (ADRDE) in Agra, the lighter-than-air platform reached an altitude of 21 kilometres above mean sea level (AMSL).
+
+It remained at 20 km for more than 30 minutes while carrying instrumentation systems before being commanded to descend.
+
+The system was successfully recovered, and its flight performance data was analysed, marking an important milestone in India’s efforts to develop aerial platforms capable of operating at extremely high altitudes for extended periods.
+
+### WHAT IS DRDO’S HAPS?
+
+A High Altitude Platform System is designed to operate in the stratosphere, above most weather systems and conventional air traffic, but much closer to Earth than satellites.
+
+A High Altitude Platform System is designed to operate in the stratosphere. (Photo: DRDO)
+
+Unlike satellites that move along orbital paths, an airship-based platform can potentially remain over a particular region for long periods. This could make it useful for persistent surveillance, communications and monitoring remote areas.
+
+At an altitude of around 20 km, such a platform could potentially provide a wide field of view, depending on its sensors, atmospheric conditions and the terrain being observed.
+
+The October 6 test demonstrated the platform’s ability to reach the stratosphere, maintain altitude for more than half an hour and return safely. However, the flight duration should not be confused with the weeks or months of endurance being sought for operational systems.
+
+### WHY DOES IT MATTER FOR INDIA?
+
+A mature HAPS capability could strengthen India's ability to monitor sensitive border regions, particularly mountainous terrain where maintaining continuous surveillance can be challenging.
+
+The platforms could also serve as communications relays in remote areas with limited connectivity and support disaster monitoring when terrestrial communication networks are disrupted.
+
+Unlike satellites, stratospheric airships could potentially be recovered, serviced and redeployed, offering a different operational model for persistent observation. Their eventual utility would depend on endurance, payload capacity, weather resilience and operating costs.
+
+The DRDO test comes as India explores airship-based pseudo-satellites for defence applications.
+
+The October flight is an experimental milestone, not yet proof of an operational surveillance system capable of remaining airborne for months.
+
+For ADRDE, an establishment known for developing parachutes and aerial delivery systems, the test represents an expansion into a new frontier: platforms designed not just to descend safely from the sky, but to operate high above it.
+
+\- Ends
+
+---
+
+### Why do your eyes slam shut every time you sneeze? No, it is not to save your eyeballs
+*Radifah Kabir · general*
+
+It happens quicker than thought. A tickle climbs the back of your nose, your breath snatches inward, your face crumples, and in the half-second before the _aaa-CHOO_, your eyes clamp shut entirely on their own. You might be mid-sentence, mid-road, mid-anything. It makes no difference. For one brief, blind moment, the world goes dark, and then it is over, your eyes flick open, and you carry on as though nothing strange has happened at all.
+
+But something strange has. You have just been briefly blinded by your own body, dozens of times a year, without ever once agreeing to it. So why do our eyes insist on closing every single time we sneeze?
+
+### WHY DO WE CLOSE OUR EYES WHEN WE SNEEZE?
+
+Because you are not the one giving the order. Shutting your eyes during a sneeze is a reflex, an automatic action your body carries out without waiting for your permission, in the same family as your leg kicking out when a doctor taps your knee.
+
+To see why, follow a sneeze from its beginning. A sneeze, known to doctors by the splendid name sternutation, is your nose's way of blasting out something that should not be there: a fleck of dust, a grain of pollen, a lungful of pepper, or a cold virus. When the delicate lining of your nose is irritated, it fires a warning along the trigeminal nerve, the main nerve that carries sensation from your face and nose, up to a small cluster of cells low in the brain, in the region called the brainstem, that acts as the sneeze's command centre.
+
+A sneeze travels from the nose along the facial nerves to the brain, which fires the eyelids shut too. (Photo: Getty)
+
+From there, the order goes out, and it is not a single tidy instruction. It is a whole coordinated storm. You draw a deep breath, your chest and belly muscles brace, the back of your throat closes, pressure builds, and then everything releases in one violent rush of air. Swept up in that same burst of signals, almost as an afterthought, are the small muscles that ring your eyes and pull the lids down. The sneeze command simply spills over onto them. Your eyes close, in other words, because they happen to be wired into the same circuit that is busy firing everything else.
+
+### WILL YOUR EYES REALLY POP OUT IF YOU SNEEZE WITH THEM OPEN?
+
+Almost certainly you were told, as a child, the delicious warning: keep your eyes open when you sneeze, and they will shoot clean out of your head. It is a wonderful story. It is also completely untrue.
+
+Each of your eyes is held firmly in its socket by six muscles, and the socket has no open passage connecting it to your nose, so the force of a sneeze has no route by which to push an eyeball out from behind. The pressure that does build during a sneeze gathers in your airways, and a little in your blood vessels, not behind your eyes.
+
+Shutting the eyes may shield them from the spray of germs and irritants a sneeze flings out. (Photo: Getty)
+
+Doctors are clear that a sneeze cannot launch your eyes from their sockets, whether they are open or shut. You can, with enough effort, sneeze with your eyes wide open, and the only thing that pops is the myth. The tale seems to have grown from a single 19th-century anecdote about a burst eyeball, hardened over generations of schoolyards into a supposed law of nature.
+
+### SO WHY DID OUR EYES LEARN TO SHUT AT ALL?
+
+Here the science turns satisfyingly uncertain. If the eyelids are not holding your eyeballs in, what exactly are they doing?
+
+The most popular answer is protection. A sneeze is a dirty business, flinging a fine spray of mucus, irritants and germs out of the nose and mouth at considerable speed, and drawing the lids shut may be the body's way of closing the curtains before the mess flies, keeping that cloud of expelled particles from landing straight back in your eyes.
+
+Not everyone is convinced it is so purposeful. Because it is possible, with effort, to sneeze with the eyes open. Some doctors argue the closing is not strictly necessary and may be little more than an accidental side effect of so many neighbouring muscles firing at once, a reflex that rides along for free. What is certain is that it is deeply built in, not a habit we pick up. Even newborn babies scrunch their eyes shut when they sneeze, long before they could have learnt it by watching anyone at all.
+
+### WHY DO SOME PEOPLE SNEEZE WHEN THEY STEP INTO SUNLIGHT?
+
+If you want proof of how easily the body's wires cross, consider this. Roughly a quarter of all people sneeze when they walk from shade into bright sunshine, a quirk scientists have given the gleeful name the ACHOO syndrome, short for Autosomal Dominant Compelling Helio-Ophthalmic Outburst. It runs in families, handed down from parent to child.
+
+The likeliest explanation is a crossed signal. The sudden flood of light sets off the nerve that shrinks your pupils, and because that nerve runs so close to the trigeminal nerve, the one that sparks a sneeze, the message appears to spill from one into the other, and the brain, briefly muddled, calls up a sneeze. It is the same principle as eye-closing itself, one reflex bleeding into another, the nervous system's signals brushing shoulders in a crowded corridor.
+
+So, the next time a sneeze seizes you and the world blinks out for half a second, do not fight it. There is no danger in it, and there is no need to prise your eyes open against the tide. It is only your body doing what it has always done, firing off an ancient, tangled reflex so fast and so completely that it sweeps your eyes shut along with it, and hands them back a heartbeat later, blinking, as if to ask where you were.
+
+\- Ends
+
+---
+
+### ‘Pyaar se’ detention? RAF officer carries YouTuber in his arms at Delhi protest
+*India Today Trending Desk · general*
+
+## YouTuber Nikhil Verma, known as Chhota Chetan, was briefly detained by cops during demonstrations near Connaught Place in Delhi. His detention video has gone viral.
+
+A YouTuber was detained by a cop in the Delhi protests. (Photos: Nikhil Verma/Instagram)
+
+New Delhi,Oct 12, 2026 11:26 IST
+
+A video of YouTuber Nikhil Verma, popularly known as Chhota Chetan, being carried away by a Rapid Action Force (RAF) official during the Cockroach Janta Party (CJP) demonstrations in Delhi has gone viral for an unexpectedly amusing exchange between the two.
+
+The officer’s gentle manner of detaining him and their light-hearted conversation have prompted social media users to call the moment “pookie” behaviour.
+
+Nikhil was detained near Connaught Place on October 10 as police personnel moved to control the demonstrations demanding Chief Election Commissioner Gyanesh Kumar’s resignation.
+
+In a video shared on his Instagram account, he can be seen running through the lanes of Connaught Place as police officers chase him.
+
+When an RAF official eventually caught up with him, Nikhil appeared to take the situation in his stride. The official picked him up and carried him away, prompting Nikhil to remark, “_Finally police ne pakad liya_ (The police have finally caught me)."
+
+The official joined in on the light-hearted exchange, asking him, “_Tu bada viral ho raha hai na_ (You’re going really viral, aren’t you?)"
+
+The interaction continued as the officer put Nikhil down and turned towards his colleagues with a smile, saying, “_Detain hogaya ye toh_ (He has been detained).”
+
+The video soon caught the attention of social media users, with several sharing screenshots of the moment. Many were amused by the officer’s expression and the way he carried Nikhil, describing the interaction as “pookie” behaviour.
+
+As journalists approached Nikhil to ask about his experience, he summed it up with a smile, saying, “_Police ne bade pyaar se pakda hai_ (The police caught me very lovingly).”
+
+**Watch the video here:**
+
+In a follow-up video, Nikhil was seen walking with some officials of Delhi Police. One of them offered water to him as well.
+
+**Here's the clip:**
+
+The demonstrations on Saturday were organised by the CJP and student groups. Protesters raised concerns over the Special Intensive Revision (SIR) of electoral rolls and alleged irregularities in the voter-list revision process.
+
+Heavy security was deployed across Delhi as protesters attempted to gather, and police detained demonstrators at various locations, including Connaught Place.
+
+Nikhil Verma has a substantial online following, with 572,000 followers on Instagram and more than 270,000 subscribers on YouTube. His detention has surely made for a light-hearted moment amid the protests.
+
+\- Ends
+
+---
+
+### Lancet releases 17 threats to health: India faces all of them
+*Anuradha Mascarenhas · legal*
+
+Climate change, obesity, antimicrobial resistance and pandemics could take a heavy toll by 2100. Dr Soumya Swaminathan calls for long-term planning, better use of data and a stronger Indian voice in global health negotiations
+
+[Read full article](https://indianexpress.com/article/health-wellness/lancet-releases-threats-health-india-10917564/)
+
+---
+
+### Gen Z's Garba glow trend: Do IV drips really work?
+*Chaitanya Dhawan · general*
+
+As Ahmedabad gears up for Navratri, some young revellers are turning to intravenous (IV) drip therapy in the hope of achieving glowing skin, staying hydrated and maintaining energy through hours of Garba. But dermatologists caution that the promise of an instant glow may be greater than the scientific evidence supporting it.
+
+Reports from Ahmedabad suggest that beauty and wellness IV drips are gaining attention ahead of the festival, with clinics seeing interest from people seeking quick fixes for their skin and energy levels. These infusions may contain vitamins, minerals, antioxidants and glutathione, an antioxidant that is also marketed for skin-lightening benefits.
+
+However, the treatment raises questions about its effectiveness, safety and whether healthy individuals need such infusions in the first place.
+
+### WHAT IS BEHIND THE IV DRIP TREND?
+
+IV therapy delivers fluids and selected nutrients directly into the bloodstream. While it has established medical uses, beauty and wellness clinics also promote certain formulations for hydration, skin brightness and energy.
+
+Ahead of Navratri, the appeal is easy to understand. With late nights, elaborate outfits, makeup and hours of dancing, some young people are looking for ways to maintain their appearance throughout the festivities.
+
+But a treatment being marketed for glowing skin does not necessarily mean it has been proven to deliver that result.
+
+IV beauty drips can cost anywhere between Rs 4,000 and Rs 10,000 per session, with some packages going up to Rs 15,000. The price depends on the clinic and the ingredients used in the infusion.
+
+### DO BEAUTY IV DRIPS ACTUALLY IMPROVE SKIN GLOW?
+
+Dr. Nitika Nijhara dermatologist and skin specialist, said the benefits of beauty IV drips are often exaggerated on social media.
+
+"Although these drips may help correct dehydration or nutritional deficiencies when medically indicated, there is insufficient high-quality evidence that they significantly improve skin glow, brightness or collagen production in otherwise healthy individuals," she said.
+
+According to the dermatologist, testimonials and before-and-after photographs should not be treated as reliable evidence of a treatment's effectiveness.
+
+Vitamin C, for instance, plays an essential role in collagen synthesis, wound healing and antioxidant protection. However, Dr Nijhara said there is no convincing evidence that high-dose intravenous vitamin C improves skin appearance in people who are not deficient.
+
+Glutathione may influence melanin production, but evidence supporting its use through IV infusions for skin lightening remains limited. Its long-term safety for cosmetic use is also uncertain.
+
+### THE RISKS OF GETTING AN IV DRIP WITHOUT MEDICAL NEED
+
+Despite being promoted as a beauty or wellness treatment, IV therapy is a medical procedure and is not risk-free.
+
+Dr. Nijhara warned that potential complications include bruising at the injection site, inflammation of the veins, infections, and allergic reactions, including rare severe reactions.
+
+High-dose intravenous vitamin C may also cause kidney injury in susceptible individuals and increase the risk of hemolysis in people with glucose-6-phosphate dehydrogenase (G6PD) deficiency, a condition affecting red blood cells.
+
+"Since IV administration bypasses normal gastrointestinal absorption, unnecessary high-dose infusions may expose individuals to risks without established cosmetic benefits," she said.
+
+The dermatologist added that evidence on the long-term safety of repeated cosmetic IV drips remains inadequate. People with kidney disease, heart failure, or a history of severe allergic reactions should exercise particular caution. Those considering high-dose vitamin C should also be assessed for relevant medical risks, including G6PD deficiency.
+
+### WHAT CAN YOU DO FOR HEALTHY, GLOWING SKIN INSTEAD?
+
+For young people hoping to achieve a healthy glow this Navratri, Dr. Nijhara recommends focusing on consistent skincare and everyday habits rather than seeking rapid results through unproven treatments.
+
+"For most young, healthy individuals, a consistent skincare routine, balanced nutrition, adequate hydration, and sufficient sleep are more sensible and evidence-based approaches," she said.
+
+A simple routine can include a gentle cleanser, moisturiser, and daily broad-spectrum sunscreen with SPF 30–50. Ingredients such as topical vitamin C, niacinamide, and azelaic acid may help address specific skin concerns, depending on individual skin needs.
+
+A balanced diet can provide essential nutrients, while correcting genuine deficiencies may further support skin health.
+
+The dermatologist's advice is to focus on healthy, even-toned skin rather than pursuing rapid skin lightening through treatments whose benefits remain uncertain.
+
+IV drips may have a role when medically indicated, but they are not a proven shortcut to glowing skin. Before opting for a cosmetic infusion this Navratri, consult a qualified medical professional and weigh the potential risks against the unproven benefits.
+
+\- Ends
+
+---
+
+### Apple launches festive edition AirPods 5 in India, here’s what’s special
+*Kazi Nasir · general*
+
+Apple has announced a special edition of the AirPods 5 in India to celebrate the festive season. The new edition comes with a custom-designed rangoli engraving on its Wireless Charging Case, which gives the earbuds a festive look. Apart from the special edition earbuds, Apple is also offering festive deals on select products, including iPhones, Macs and iPads.
+
+The special edition is available in limited quantities and is designed around the traditional Indian art of rangoli. While the festive engraving sets it apart from the regular model, the earbuds retain the same features.
+
+### AirPods 5 special edition: Specs and features
+
+The Special Edition AirPods 5 comes with a Wireless Charging Case featuring a custom rangoli engraving inspired by the traditional Indian art form. While the design is different, the earbuds retain the features of the regular AirPods 5.
+
+The AirPods 5 offer Active Noise Cancellation (ANC), which Apple claims is up to 1.5 times more effective than the previous generation. They also feature a redesigned acoustic architecture and next-generation Adaptive EQ, which are designed to deliver richer and more detailed sound.
+
+The earbuds feature an open-ear design for all-day comfort. They also support Live Translation, powered by Apple Intelligence, to help users communicate across supported languages. However, language support is currently limited to select languages.
+
+There is also a force sensor with a volume swipe gesture, allowing users to adjust the volume easily. The Wireless Charging Case offers up to 22 hours of battery life with ANC enabled. It also comes with a built-in speaker to help locate the case through Find My. Users can charge it using an Apple Watch charger or a Qi wireless charger.
+
+### Price and availability
+
+The Special Edition AirPods 5 with Wireless Charging Case is priced at Rs 17,900 in India. Apple says the special edition will be available in limited quantities through the Apple Store Online, Apple Store app and six Apple Store locations across India.
+
+These include Apple BKC and Apple Borivali in Mumbai, Apple Saket and Apple Noida in the Delhi-NCR region, Apple Hebbal in Bengaluru, and Apple Koregaon Park in Pune.
+
+In terms of offers, Cupertino is offering six months of no-cost EMIs and up to Rs 4,000 instant cashback on AirPods with eligible cards. Notably, Apple’s festive offers will run from October 11 to November 11, 2026.
+
+\- Ends
+
+---
+
+### BJP's Rajeev Chandrasekhar warns protests against dignitaries could affect Centre-state relations
+*PTI · business*
+
+Thiruvananthapuram: BJP state president Rajeev Chandrasekhar on Monday warned that protests and incidents involving the security convoys of Union Home Minister Amit Shah and Vice President C P Radhakrishnan during their visits to Keralam could adversely affect Centre-state relations.
+
+In a Facebook post, Chandrasekhar shared images of Prime Minister Narendra Modi being welcomed by Tamil Nadu Chief Minister C Joseph Vijay during his recent visit to the state.
+
+He referred to a Youth Congress protest against Shah during his recent visit to Kollam and an incident in which two youngsters riding a motorcycle came close to the Vice President's convoy during his visit to Keralam.
+
+  
+
+Describing such incidents as "petty political theatrics", Chandrasekhar said they could have serious consequences or, at the very least, create an impression that relations between the Centre and the state were strained.
+
+He also warned that the fallout could affect investments and employment opportunities in Keralam.
+
+"The victims of such low-level politics are not politicians, but ordinary Malayalis who live in the hope of jobs and development," he said.
+
+Politicians would not have to bear the consequences, but ordinary people waiting for development would be forced to endure hardship repeatedly, Chandrasekhar said.
+
+He also alleged that Congress's "politics of lies" would lead to continued unemployment, high inflation and a lack of development, problems which Keralam had faced during the previous 10 years of Pinarayi Vijayan's rule.
+
+BJP had carried out protests by blocking Keralam minsiters across Keralam in response to Youth Congress agitation against Shah.
+
+---
+
+### Riyadh airport blast caught on camera, pilgrims flee terminal as explosion strikes
+*Apurwa Amit · general*
+
+The video compiles visuals from multiple areas of King Khalid International Airport moments before the missile struck the premises on Saturday.
+
+Panic gripped travellers, including pilgrims headed to Islam's two holiest sites, after a missile hit Riyadh airport. The chaos after the attack was captured in CCTV footage released by Saudi state television.
+
+The video compiles visuals from multiple areas of King Khalid International Airport moments before the missile struck the premises on Saturday.
+
+The footage shows travellers waiting to board their flights when a bright orange flash erupts, forcing scores of people to scramble for safety.
+
+Parts of the roof can also be seen caving in.
+
+At least 13 people were killed, including a man from Hyderabad travelling to Medina with his family, and over 380 were injured in the attack.
+
+## **Watch Viral video**
+
+> Dramatic footage of the moment yesterday’s Houthi attack struck King Khalid International Airport in Riyadh, including Umrah pilgrims preparing to board their flights before the strike. https://t.co/KWJ3fQiTpW
+> 
+> — Aditya Raj Kaul (@AdityaRajKaul) October 11, 2026
+
+Claiming responsibility, Yemen's Iran-backed Houthi rebels said through military spokesperson Yahya Saree that they also targeted Dammam airport in Saudi Arabia's Eastern Province and two facilities of Saudi oil major Saudi Aramco.
+
+The attacks continued on Sunday with Riyadh airport being targeted again.
+
+An unidentified projectile struck Terminal 4 and triggered a fire, leaving one dead and 11 injured, Saudi authorities said, citing the Saudi-led coalition forces in Yemen and the Saudi civil aviation authority.
+
+Saudi air defences also intercepted a drone over the Eastern Province and a ballistic missile aimed at Khamis Mushait.
+
+According to Saudi Civil Defense, emergency alerts were sounded in Abha early Monday, but the danger has passed.
+
+The death toll from strikes on Riyadh airport has now reached 18 for the week following the latest attacks.
+
+The Houthis had earlier again warned against the use of Saudi airports, asking people to take their warnings seriously and holding Saudi Arabia responsible if interceptions fail.
+
+As threats escalate, Britain's embassy in Saudi Arabia has advised its citizens to avoid all but essential travel to Jeddah, Dammam and airports across the kingdom, with the exception of Medina airport. US aviation authorities have also issued a notice asking American airlines to exercise caution while operating flights to or over Saudi Arabia.
+
+Separately, Saudi authorities announced that in-person classes in Riyadh schools will be moved online from Sunday to Thursday.
+
+The latest attacks come amid stepped-up Saudi military involvement in Yemen, with Riyadh launching strikes against the Houthis and backing a government counteroffensive after the rebels seized strategic territory along the Red Sea coast last month.
+
+On Sunday, the Houthis said Saudi Arabia had conducted 124 air strikes in Yemen in the past 24 hours. Yemen's Houthi-run foreign ministry warned of further escalation unless Riyadh stops its military action and interference in the country.
+
+Washington is considering joining Saudi strikes against the Houthis, US President Donald Trump said on Saturday. The conflict has spilled over from the broader war involving Iran launched by the United States and Israel in February.
+
+Meanwhile, Iran's Foreign Minister Abbas Araqchi said in a Telegram post that he had informed his Saudi counterpart that Tehran stands ready to help facilitate dialogue between Saudi Arabia and Yemen.
+
+---
+
+### PM Kisan 24th Instalment Date: PM Modi To Release Next Tranche Of Rs 2,000 On This Date; Check Latest Update
+*Mohammad Haris · business*
+
+Since the previous instalment was released on June 20, 2026, the next payment is expected around October 2026, according to reports.
+
+[Read full article](https://www.news18.com/business/economy/pm-kisan-24th-instalment-date-pm-modi-to-release-next-tranche-of-rs-2000-on-this-date-check-latest-update-ws-l-10377566.html)
+
+---
+
+### Vijay’s vettri weekend: From under a cloud to cloud nine
+*TR Jawahar · general*
+
+Friday sounded the victory trumpet. Saturday brought Rahul Gandhi calling. Sunday put Narendra Modi alongside him. For Tamil Nadu Chief Minister C Joseph Vijay, it was a weekend straight out of a film script. Last October, in the sombre aftermath of the Karur stampede, Vijay was under a cloud, his political future uncertain. This October, he is on cloud nine. Two Assembly by-election victories, a warm reunion with Rahul and a day of official engagements with the Prime Minister have placed him firmly in the national political frame. If _vetri_ means victory, Vijay appeared to have earned an entire weekend of it.
+
+In politics, as in mass cinema, fortune does not merely turn; it revolves on a well-greased wheel. In his 2003 blockbuster _Thirumalai_, a youthful Vijay delivered a punch dialogue that has since passed into the philosophical vernacular of Tamil pop culture: _“Vaazhkai oru vattam da; inge jeyikkaravan thoppan, thokkaravan jeyippan ...”_ (_Life moves in circles. The winner may lose and the loser may win._)
+
+The cinematic axiom has undergone an uncanny real-life reiteration. Seventeen years ago, in August 2009, an ambitious cine-star travelled to New Delhi, cooling his heels at 12 Tughlak Lane for an audience with Rahul Gandhi. Twelve years ago, in April 2014, on the eve of a parliamentary wave, he called upon prime-ministerial candidate Narendra Modi in a Coimbatore hotel suite. In both instances, the actor sought the politician; the petitioner awaited the patron. By this autumn, the geometry had inverted itself with mathematical neatness.
+
+The national titans came calling on the Coromandel coast. The petitioner of yesterday had become the Chief Minister of today, holding the keys to Fort St George.
+
+### THE BYPOLL TRUMPET AND THE MUFFLED MARGIN
+
+The factual runway for this dizzying weekend was laid on Friday, October 9, when the electronic voting machines unburdened themselves in Madurantakam (SC) and Dharapuram (SC). The Chief Minister’s fledgling Tamilaga Vettri Kazhagam (TVK) annexed both casual vacancies, expanding its legislative buffer from 107 to 109 and proving that its May 2026 debut was neither a passing delirium nor an accident of multi-cornered math.
+
+Yet, a rigorous political audit must inspect the ledger behind the brass band. The victory trumpet sounded, but the margins supplied the muffler.
+
+The two verdicts were delivered in strikingly different keys. In northern Madurantakam, TVK’s K Maragatham Kumaravel rode a runaway chariot, building an unassailable lead of over 20,000 votes that relegated the DMK to a distant second and crushed the AIADMK into third. But deep in the western Kongu belt, Dharapuram told a vastly more gruelling, sweat-stained tale. For four consecutive rounds of counting, TVK’s P Sathyabama trailed as the AIADMK and DMK fought for the tape. It was only after Round 5 that the ruling party began its grinding crawl, eventually scraping home with a lead of approximately 9,500 votes.
+
+The lesson is plain: celluloid charisma can ignite an atmosphere, but booth-level arithmetic still dictates the margin of victory. Furthermore, winning casual vacancies on borrowed incumbents—both candidates had discarded their AIADMK seats five months earlier to join the treasury—proves that TVK can acquire legislators, not necessarily that it has built an organic grassroots cadre. Charisma carried the day, but local machinery determined the sweat.
+
+### SATURDAY: RAHUL’S POLITICS OF PROXIMITY
+
+If Friday delivered the arithmetic, Saturday furnished the political bonhomie. Rahul Gandhi arrived at Vijay’s private Neelankarai residence for an intimate living-room conclave. There were no microphones, no staged joint communiqus, and no awkward protocol officials holding stopwatches. There was only warm camaraderie over lunch, accompanied by photographs designed to send a frisson through the Dravidian landscape.
+
+Yet camaraderie is not subordination. The Congress, reduced to a four-seat rump in Fort St George, desperately needs regional anchors to keep its national secular coalition afloat. TVK, having christened its ruling coalition the Secular Social Justice Victory Alliance (SSJVA), welcomed the national pedigree that Rahul carries.
+
+The political nuance lay in the boundaries Vijay quietly drew. While Rahul subsequently mounted the stage at Island Grounds to deliver an ideological broadside against central institutions, federal encroachments, and the looming spectre of delimitation, the Chief Minister remained pointedly absent. Vijay extended hospitality; he declined co-sponsorship. He was willing to break bread with the leader of the national opposition; he was not eager to become an opening act for a Congress student convention.
+
+The message was calibrated with exquisite precision: lunch can warm an alliance; it cannot, by itself, write its arithmetic. The Congress brought its historical brand to the table, but TVK held the actual legislative currency. Proximity was established, but dependence was politely refused.
+
+### SUNDAY: PROTOCOL WITHOUT SURRENDER
+
+If Saturday was a study in political warmth, Sunday was a masterclass in constitutional equilibrium. Prime Minister Narendra Modi landed in Chennai to inaugurate infrastructure projects valued at roughly 13,000 crore, including the commercial commissioning of the Chennai Metro Phase II stretch between Poonamallee and Vadapalani, alongside official engagements at IIT Madras.
+
+In Tamil Nadu’s polarised theatre, relations between Fort St George and New Delhi have traditionally oscillated between two crude extremes: gravelling sycophancy or shrill, theatrical obstructionism. Vijay shattered that inherited binary by executing a tightrope walk: protocol without surrender.
+
+He received the Prime Minister at the tarmac, rode in the official motorcade through avenues roaring with flag-waving BJP supporters, and shared the dais with institutional poise. Yet he did so wearing a crisp black shirt.
+
+In the home of Periyar and the Dravidian Self-Respect movement, black is not an accidental thread; it is the historical livery of resistance. Worn beside the head of the Union government, it captured the visual paradox of a Chief Minister who complies with constitutional decorum while preserving regional autonomy. A black shirt is not necessarily a black flag. It was an aesthetic statement of self-possession: the Chief Minister stood beside the Prime Minister without standing behind his politics.
+
+Equally revealing was Vijay’s conduct during the official walkthroughs. While bureaucratic delegations briefed Modi on technical exhibits, Vijay stepped back, declining to elbow his way into the lens. Silence is not always submission, nor is proximity necessarily partnership. In an era where regional satraps measure their stature by how aggressively they can photobomb the Prime Minister, Vijay understood that sovereign dignity often resides in stepping aside.
+
+When his turn came at the IIT Madras microphone, the courtesy vanished into a forensic federal audit. Vijay did not waste his minutes in vacuous pleasantries. Standing shoulder to shoulder with the Prime Minister, he placed Tamil Nadu’s legitimate grievances squarely upon the official record. He demanded the immediate release of withheld Samagra Shiksha Abhiyan funds, refusing to let New Delhi hold primary school allocations hostage to central conditionalities. He pressed for formal Union sanctions for the overdue Coimbatore and Madurai Metro Rail projects. And, touching the rawest nerve of regional pride, he demanded the use of Tamil as an official language of proceedings in the Madras High Court.
+
+Even the ceremonial choreography maintained federal dignity. The proceedings observed the National Anthem followed by the _Thamizh Thai Vazhthu_ without manufactured friction. Protocol requires a handshake, not an ideological surrender; Vijay offered the hand while keeping the State’s ledgers open.
+
+### HIGH ON PROFILE, LOW ON PRESENCE
+
+The weekend laid bare the supreme paradox of national parties operating in Tamil Nadu: They are high on profile, low on presence. Their leaders arrive with prime-ministerial convoys, SPG cordons, and breathless national media coverage; their local organisations return to decimal points on counting day.
+
+Consider the May 2026 electoral baseline. In a House of 234 seats, the BJP has exactly one solitary legislator. It commands the Union, controls central agencies, and flies its leaders across the peninsula in VIP jets; yet inside the chamber of Fort St George, its legislative presence can be accommodated on a single scooter. The Congress fares only marginally better, clinging to four seats entirely dependent on regional alliance goodwill.
+
+As for the ideological purists of the Left, the weekend supplied a comic epitaph. The CPI and CPI(M), holding four seats between them, supported the TVK government inside the Assembly while running candidates against it in Dharapuram and Madurantakam. The sovereign electorate, unimpressed by comrades attempting to run with the hare in the House and hunt with the hounds at the hustings, sent both Left candidates packing without their security deposits. The comrades have Left absolutely no ‘Marx’ on the electoral terrain.
+
+Delhi can command the protocol; it cannot command the ballot. Both Rahul and Modi arrived in Chennai not as imperial proconsuls dispensing favours, but as political suitors acknowledging a regional order they can neither bypass nor bend. The national leviathans may control the central narrative, but on the sands of the Marina, regional power dictates the terms of engagement.
+
+### THE CIRCLE CLOSES, THE LEDGER OPENS
+
+Seventeen years after seeking an audience with Rahul Gandhi in Delhi, and twelve years after calling on Narendra Modi in Coimbatore, the cinematic circle has traced its complete perimeter. The actor who once sought validation from national icons now receives them as the elected Chief Minister of India’s most politically assertive State.
+
+Yet, as every student of statecraft knows, the crest of the wheel is the most precarious place to sit. The wheel moves in circles; it does not freeze simply because the hero has reached the top.
+
+A weekend that opened with firecrackers in Madurantakam ended with a federal balance sheet at IIT Madras. Charisma can fill a living room with Rahul Gandhi, and constitutional protocol can frame a photograph with Narendra Modi. But neither solves the fiscal burden of populist giveaways, the structural deficits of local governance, or the bureaucratic friction of a rookie administration finding its feet.
+
+Whether the weekend was an enduring victory or a fleeting public-relations triumph will be settled not by Saturday’s lunch or Sunday’s sartorial symbolism, but by whether the files finally move. Vijay has proved that he can bring the nation’s power centres to his doorstep. He has yet to prove that their visits can move Delhi’s pen.
+
+The arclights have dimmed, the convoys have departed for the airport, and the weekend matinee has rolled its credits. For C Joseph Vijay, Cloud Nine was an intoxicating vantage point; the unsparing ledgers of Fort St George now demand that he step back onto the earth.
+
+\- Ends
+
+(Views expressed in this opinion piece are those of the author)
+
+---
+
+### Oppo is launching Pad Mini and Enco X4 soon in India, here is everything we know about them.
+*Krishna Goswami · general*
+
+Oppo is expanding its hardware lineup in India with the upcoming launch of two new flagship products: the Oppo Pad Mini Matte Display Edition tablet and the Enco X4 true wireless stereo (TWS) earbuds. While the company has not yet confirmed specific India launch dates or pricing, the debut is widely expected to align with the official rollout of ColorOS 17, which begins rolling out on October 13.
+
+Both devices have already debuted in China, giving consumers a clear preview of what to expect under the hood. Here is a quick breakdown of the key features and specifications teased by Oppo ahead of the official Indian release.
+
+### Oppo Pad Mini Matte Display Edition: What to expect
+
+The Oppo Pad Mini Matte Display Edition is designed primarily for on-the-go productivity, sketching, and long reading sessions. The tablet sports a compact 8.8-inch 2.5K AMOLED screen with a resolution of 1680 x 2520 pixels and an ultra-smooth 144Hz refresh rate. It features narrow 2.9mm bezels, making it slim and comfortable enough for one-handed use. The matte finish helps eliminate screen glare, and Oppo has shown off a light purple (lavender) colour option. The slate supports official stylus input, aimed at users who regularly take notes, mark up PDFs, or sketch while travelling. Based on the China variant, the tablet runs on Qualcomm’s flagship Snapdragon 8 Gen 5 processor. It is backed by a large 8,000mAh battery that supports 67W fast wired charging. In China, the tablet launched with ColorOS 16 software.
+
+### Oppo Enco X4: What to expect
+
+The Enco X4 arrives as Oppo's premium audio offering, featuring hardware co-tuned with Danish loudspeaker specialist Dynaudio. The earbuds house a coaxial dual-driver arrangement consisting of an 11mm dynamic woofer paired with a 6mm planar tweeter. They support lossless audio transmission at transfer rates up to 2.3Mbps, Hi-Res Audio, LHDC 5.0, Bluetooth 6.1, and spatial audio. Oppo has equipped the Enco X4 with a dedicated 6nm audio chip powering adaptive Active Noise Cancellation (ANC), claiming up to 99.8% background noise reduction. The earbuds also introduce real-time AI translation across more than 20 languages, piping translated dialogue directly into your ears while subtitles appear on the paired smartphone. The earbuds promise up to 13 hours of continuous playback on a single charge with ANC turned off, expanding to a total of 53 hours including the case. They also carry an IP55 rating for dust and water resistance, providing sweat and splash protection for daily workouts.
+
+### India availability and pricing
+
+Oppo has officially teased both the Pad Mini Matte Display Edition and the Enco X4 on social media channels, but official India prices and sale dates remain unannounced. With the ColorOS 17 rollout is scheduled to start on October 13, more official announcements regarding pricing and retail availability are expected in the coming days.
+
+\- Ends
+
+Why Dell Got the XPS Back! Chris Cowger Exclusive Interview | Future of AI PCs
+
+---
+
+### No more a free circus, but a tamasha worth crores | India News - The Times of India
+*Keshav Upadhye · regional, india*
+
+The protest launched by Congress and left-wing student unions in Delhi against Chief Election Commissioner Gyanesh Kumar has posed several serious questions before the country’s political culture and democratic system.
+
+Congress and left-wing organizations have demanded the immediate removal of Gyanesh Kumar from the post of Chief Election Commissioner.A petition regarding this had also been filed in the Supreme Court. This petition demanded the removal of Gyanesh Kumar from his post. Even after the Supreme Court dismissed this petition, Congress’ Yuvraj Rahul Gandhi, along with his party’s MPs, has been wreaking havoc on the streets of Delhi every single day.There is a popular saying in Maharashtra, “Bin Paishacha Tamasha”, which means a tamasha born out of sheer foolishness that costs not even a penny. This surely entertains the onlookers. But the tamasha of the protest staged by the Congress and left-wing organizations is not free of cost; instead, it is costing crores of rupees every day. Paid protesters are being brought in. Unmasking the mastermind behind this multi-crore drama deserves a separate article.
+
+There is a competition going on between Rahul Gandhi and left-wing student unions to prove who is better in expressing fierce opposition to the Modi government by taking to the streets. When the footage of a young woman representing left-wing organizations climbing over a barricade and pushing women police officers went viral on social media, Yuvraj Gandhi felt a sudden urge to show just how brave he was. He began to fear that his own TRP might drop when this young woman was systematically brought into the limelight by left-wing organizations.It was out of this fear that he staged a protest march to the Chief Election Commissioner's office and satisfied his urge by climbing over police barricades. No country in the world has ever seen an opposition leader so childish, shallow and terrified for his very existence. Rahul Gandhi has sworn to tarnish the reputation of the office of Leader of the Opposition in the Lok Sabha.He takes pride in bringing each and every Lok Sabha session to a standstill by creating a ruckus.
+
+Even though the Delhi Police have denied permission for the protest, Rahul Gandhi has become an expert at things like pushing down the police barricades and manhandling police officers. He is making a desperate attempt to prove himself as the Leader of the Opposition by acting like a Bollywood hero. He has destroyed his own reputation due to this frenzied behaviour.Rahul Gandhi does not have the intellectual capacity to understand that such cheap aggression does not help in politics.
+
+He should learn how to oppose a government from his grandmother Mrs. Indira Gandhi's life. The Janata Party government had appointed the Shah Commission to inquire into the atrocities committed during the Emergency.The Shah Commission found Indira Gandhi guilty. Subsequently, the police went to her home to arrest her. Mrs. Indira Gandhi surrendered to the police without any ruckus. But before that, she had called all the journalists and photographers in Delhi to her home.
+
+She calmly got herself arrested in front of them. She systematically gained the sympathy of voters through this. Now, that is what you call a shrewd politician.These days, Rahul Gandhi keeps on picking fights with the police over one thing or the other. His tactics, like marching towards the Prime Minister’s residence or attempting to enter the Election Commission’s office, show that he does not have even a basic understanding of politics.
+
+Even the common man has started to realise that Rahul Gandhi was just trying to get some publicity by trying to enter the Election Commission’s office without any prior appointment.
+
+Rahul Gandhi has decided to defy all parliamentary and government rules, conventions and laws.From a security perspective, security rules are extremely strict at places in Delhi such as Parliament House, Rashtrapati Bhavan, the Prime Minister’s residence etc.
+
+Rahul Gandhi must certainly be aware of the laws and rules, as he has been an MP for more than 22 years. Still, he is trying to break the law again and again. He is still not mature enough to understand that such gimmicks give temporary publicity, but do not make his leadership popular.
+
+In fact, it seems that he does not even want to develop such maturity.Not a single Congress leader currently has the courage to tell Rahul Gandhi, who has been criticizing the Special Intensive Revision (SIR), that the Congress won in Kerala after this exercise was carried out.
+
+Rahul Gandhi, who accuses the EVMs of being manipulated, deliberately ignores the fact that he himself won an election by a margin of more than six lakh votes which was conducted using these very EVMs. He also conveniently forgets that the BJP won a majority when election was conducted through EVMs in 2014, when his own party was in power.
+
+Yuvraj is even failing to understand that such behaviour is causing him to lose his standing among the people.
+
+He is so obsessed with publicity that he has even forgotten that he is fighting against Narendra Modi and the Bharatiya Janata Party. He thinks that he is in competition with the youth who are gaining publicity by protesting in Delhi. He is not even bothered that he is adding to the difficulties faced by ordinary people in the Delhi region by staging protests every now and then and blocking roads.
+
+These protests can, at most, make him a reel star for a few days. He won’t get anything beyond that. Of course, he does not have the intellectual capacity to understand this. Therefore, there is no doubt that he will be more provocative and dramatic in the coming days.
+
+---
+
+### Riyadh airport attack: One Indian dead, 3 others in ICU in projectile attack on Saudi airport
+*Express Global Desk · legal*
+
+3 Indians hurt in the Riyadh airport attack are in ICU but stable, the Indian Embassy says. Hyderabad IT professional Mohammed Yousuf, 46, died while on an Umrah trip, and his family was injured.
+
+[Read full article](https://indianexpress.com/article/world/indians-icu-riyadh-airport-attack-embassy-support-hyderabad-10917421/)
+
+
+---
+
 ## 11 October 2026
 
 ### Nepal urges villagers to evacuate after flood triggered by landslide
