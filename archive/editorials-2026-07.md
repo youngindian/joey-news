@@ -1,5 +1,277 @@
 # Editorials archive — 2026-07
 
+## 13 July 2026
+
+### ​Insular incentive: On ethanol-blended fuel and the Indian consumer
+*The Hindu · Editorial*
+
+The Indian government’s policy to continue producing E20 petrol at a cost higher than that of pure petrol when oil prices dip under $70 a barrel to “compensate farmers adequately” is a deceptively well-formulated proposition. Most feedstock for the fuel-blending programme is from sugarcane, one of India’s most water- and fertilizer-intensive crops, mainly grown in water-stressed Maharashtra and Karnataka. Whether the policy’s net economic benefit remains positive will depend on the gains from lower crude imports, environmental improvements, and higher rural incomes outweighing these additional costs. Efficiency also remains a concern. Consumers — including people who are poorer than sugarcane farmers — pay more at the pump, oil marketing companies procure ethanol at the administered price, distilleries buy feedstock, and only then do farmers receive higher prices. Higher feedstock prices also do not address most reasons farmers have lower incomes, such as post-harvest losses and limited market access. Crucially, if the government rewards every unit of ethanol irrespective of feedstock, the policy will favour whichever feedstock has the largest installed base: sugarcane. Instead, the objectives should include resource efficiency and food security. The state could invest in irrigation and logistics and institute revenue-sharing arrangements with ethanol producers and cooperatives.
+
+India has encouraged maize and grain-based distillation capacity has expanded rapidly, periodically allowed ethanol to be produced from the Food Corporation’s surplus or damaged rice holdings, and has supported commercial plants using agricultural residues such as rice straw under Ministry of Petroleum and Natural Gas schemes. Maize and millets are less thirsty but maize still demands significant fertilizer inputs while millets produce less fermentable starch per hectare. Sweet sorghum is less water-intensive and has a shorter growing season than sugarcane. Lignocellulosic biomass such as rice and wheat straw, maize stover and groundnut shells can also support second-generation (2G) ethanol. 2G ethanol from agricultural residues can avoid using cropland for fuel, reducing competition with food crops and addressing stubble burning. It is more expensive and technologically demanding but that is a better problem to solve, with proactive policymaking. The government could pay a premium for ethanol produced from residues, subsidise equipment and infrastructure to collect and store crop residue, facilitate contracts between aggregators and distilleries, and provide viability-gap funding and offtake agreements. Ultimately, ethanol policy should not be independent of agricultural policy. And import substitution is no excuse for consumers being forced to pay more for lower-mileage fuel than pure petrol.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/insular-incentive-on-ethanol-blended-fuel-and-the-indian-consumer/article71214023.ece)
+
+---
+
+### Oil conundrum: On India’s energy imports from Russia
+*The Hindu · Editorial*
+
+Union Ministry of Commerce and Industry (MCI) data on India’s May crude imports show that receipts from Russia had reached the pre-sanction levels of more than 40%, which is also the highest in two years. Though India has defended this as commercially prudent, its yuan-based payments give China an edge to internationalise its currency at India’s expense, even if it has no bearing on the domestic strength of the Indian rupee due to strict capital controls. Oil import concentration from a single source, and paying a premium, is risky for India, which has long pursued a diversified energy strategy. Moreover, sourcing fuel from the Gulf spot market amid evolving sanctions has its own risks. Secondary sanctions could hit trade channels, exposing Indian refiners to severe supply shocks. India’s crude imports from Russia surged in June, while UAE shipments were at record levels as refiners sought to secure supplies after the Strait of Hormuz reopened. However, renewed Iran-U.S. hostilities have put those flows at risk. And even as Venezuela has emerged as a key supplier, increasing and unsustainably high one-country concentration could weaken India’s bargaining power, reduce flexibility, and erode its credibility as an independent balancing power.
+
+MCI data highlight the price impact: Russian imports carried a $46-per-ton premium. Import value surged 83% amid a 2% fall in volume, likely diminishing Indian refiners’ margins on refined products using Russian crude. While spot purchases have enabled refiners to capture discounts of up to $10 per barrel on Russian Urals crude relative to Brent during some periods, after February this year, narrowing discounts, weaker product cracks, and geopolitical risks have moderated gross refining margins. India must strike a balance between having long-term stable contracts with multiple producers, and selectively using the spot-market to mitigate the procurement risks. Until the Russia-Ukraine conflict, nearly 70% of India’s crude imports came through long-term contracts, particularly from West Asia. True, India cannot overlook the diplomatic costs as Russian energy dependence risks sanctions. When Russian crude was cheap because of discounts on account of the Ukraine war, India reduced imports under U.S. pressure; now when it is being sold at a premium because of the Iran war, India is moving back to Russian crude. India must expand its strategic petroleum reserves to cushion temporary disruptions. Whether it increases or cuts down Russian oil imports, India seems to make decisions that are far removed from any sense of strategic autonomy.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/oil-conundrum-on-indias-energy-imports-from-russia/article71214010.ece)
+
+---
+
+### Contradictions within India’s cow protection regime
+*The Hindu · Opinion*
+
+The recent discovery of hundreds of cow carcasses at a dumping site in Jaisalmer, Rajasthan, rightly triggered an outrage on social media. A few years ago, a similar incident involving the mass starvation deaths of cows was reported from Chhattisgarh. The new Bharatiya Janata Party (BJP) government in West Bengal issued a public notice on May 13, 2026, laying down stringent conditions for the slaughter of animals under the West Bengal Animal Slaughter Control Act, 1950.
+
+Supreme Court stays Madras HC order directing ban on cow slaughter in Tamil Nadu
+
+Last week, a two-judge Bench of the Calcutta High Court upheld the notice, observing that the conditions mentioned in the impugned order were issued in compliance with the High Court’s order of August 16, 2018. Consequently, no cow, bull, bullock or even buffalo can be slaughtered without first obtaining a “certificate of fitness” from government officials. Despite all the rhetoric, the notification permitted the slaughter of cows older than 14 years, which justifiably annoyed Hindutva supporters.
+
+Which States have banned cow slaughter in India?
+
+Over 20 States in India have laws prohibiting cow slaughter. Only Arunachal Pradesh, Meghalaya, Nagaland, Sikkim, Tripura, Manipur, Mizoram and Kerala do not have such laws. But what is the efficacy of these laws? Have the stringent provisions and enhanced punishments introduced over the last 12 years helped preserve cows, or could such laws ultimately contribute to their decline? Whether cow reverence constitutes an essential Hindu practice and whether such laws violate the right to privacy are issues that require a ruthlessly objective assessment.
+
+Politics, faith and cowsCow protection has long been a central Hindutva issue and which explains the contents of the Bengal notice. Yet, the Congress too has historically benefited from cow protection campaigns. Viceroy Lord Lansdowne famously observed that the cow protection movement had transformed the Indian National Congress from “a foolish debating society into a real political power”. The cow and calf were the Congress’s symbols for decades. Whenever the BJP comes to power in a State, amending cow slaughter prohibition laws to make them more stringent — by enhancing punishments, criminalising possession of beef, and restricting the transport of cattle within or outside the State — becomes a priority. The Gujarat law of 2017 even provides for life imprisonment, and in 2025, three persons were reportedly sentenced to this extreme punishment, ordinarily reserved for heinous offences such as murder, terrorist acts and dacoity. True, cow reverence among Hindus is ancient and enjoys near-unanimous acceptance, though scholars such as D.N. Jha have disputed this assertion citing scriptural material. He pointed to instances in Dharmashastric traditions where Yajnavalkya appears to endorse the consumption of beef, and highlighted the inconsistencies and polymorphic nature of Indian dietary practices. He also argued that the “holy” status accorded to the cow was largely a much later development, and noted that several prescriptive Hindu texts classified cow slaughter as a minor sin (upapataka) rather than a major offence (mahapataka). Strikingly, even the prominent Hindutva ideologue Vinayak Damodar Savarkar held views that differed significantly from those of many present-day Hindutva activists. Consequently, cow reverence may not satisfy the parameters of the essential religious practices test which requires practice to be mandatory from the time of origin of a religion.
+
+In Mohd. Hanif Quareshi vs State of Bihar (1958), the Supreme Court of India rightly held that cow slaughter on Bakr-Eid is not an essential Islamic practice either. Several Muslim rulers had also restricted cow slaughter. Babur advised Humayun to do so in his will, Jahangir’s Edict No. 10 too prohibited animal slaughter on certain days out of respect for Hindu and Jain sentiments. The influential Deoband Islamic seminary too issued multiple fatwas discouraging cow slaughter. Even in the Constituent Assembly debates on November 24, 1948, Muslim members such as Z.H. Lari and Mohammad Saadullah insisted that “it is better to come forward and incorporate a clause in fundamental rights that cow slaughter is henceforth prohibited, rather than it being left vague in the directive principles.…”
+
+What cattle census data revealDr. B.R. Ambedkar eventually placed cow protection within the non-justiciable Directive Principles under Article 48 of the Constitution, following which several States enacted laws after Independence prohibiting cow slaughter. Yet, cattle census data suggest that the objective of preserving and increasing the cow population has not been achieved. West Bengal, for instance, was among the few States where culling and sale of cows and bulls were not entirely prohibited. By conventional logic, its cow population should therefore have been far lower than that of States such as Gujarat, Uttar Pradesh and Maharashtra. However, since 1951, the cow population in the country has grown by only 49.63%, while the buffalo population has risen by 153.8% and the female buffalo population by 161.9%. The figures speak for themselves: cows face the risk of decline.
+
+Ironically, the unprotected buffalo population has grown far more rapidly, especially in the so-called cow-belt States. A comparison of cattle growth rates shows that West Bengal, despite lacking stringent cow slaughter laws, has performed better than States with strict prohibitions. Even though male cattle are protected in these States, their population has declined sharply — by 38.3% in Gujarat, 31.4% in Maharashtra and 58.27% in Uttar Pradesh. In contrast, the decline in male cattle population in West Bengal was only 22.8%. The data also suggest that stringent prohibition laws may be pushing farmers in these States towards buffalo rearing, reflected in the declining cattle-to-buffalo ratio between 2012 and 2019. In West Bengal, by contrast, buffaloes remain insignificant in number and their population sharply declined in 2019. In 1997, the cattle to buffalo ratio was 144:1 but in 2019 it became 295:10. In Uttar Pradesh, the cattle-to-buffalo ratio fell from 105:100 in 1997 to 56:100 in 2019. West Bengal, despite lacking stringent prohibitions, witnessed a comparatively stronger growth in cow population and, therefore, mere laws will not protect cows.
+
+Cattle populations grow in a compounded manner because, unlike humans, a cow gives birth to its first calf at around three years and, to remain productive, must calve every 14-16 months. Calves born during a census period also mature and begin reproducing within a few years. According to growth forecasting models, if no cattle were culled or slaughtered and all calves survived except for natural deaths, the cattle population would increase by 2.5 to three times within five years — something that has never occurred in any State. Such growth is economically unsustainable, as farmers cannot support such numbers due to fodder scarcity.
+
+Undermining the farmerWhen farmers are legally allowed to exercise their judgment in culling unproductive cattle, they earn additional income to meet expenses such as weddings, children’s education and health care. According to simulation models, farmers in West Bengal earned nearly ₹35,000 crore between 2012 and 2019 from the lawful sale of cattle for slaughter, apart from their dairy income. Farmers in States with strict prohibition laws also appear to have sold cattle for slaughter as is reflected in declining cattle populations, but likely to have earned far less because of the illegality of such sales and the possibility of bribery and middlemen. In effect, these laws do not penalise butchers or beef consumers, but farmers themselves. West Bengal appears to have recognised this reality with Muslim refusal to purchase cows for Eid slaughter. In India’s agrosilvopastoral economy, livestock remains a vital component of rural livelihoods.
+
+In the privacy judgment of K.S. Puttaswamy (2017), Justice J. Chelameswar had observed “I do not think that anybody would like to be told by the State as to what they should eat or how they should dress or whom they should be associated with either in their personal, social or political life.” Justice Chandrachud said that what one eats is one’s personal affair and it is a part of privacy under Article 21, i.e., right to life and personal liberty In view of the politicisation of the issue, Muslims in Bengal prudently refrained from cow slaughter during Eid. One hopes that this will promote social harmony and counter communal hate campaigns. Maulana Arshad Madani, president of the Jamiat Ulama-e-Hind (Arshad Madani faction), has also called for the cow to be declared the national animal. The first writer of this article, though not a veterinary expert, believes that Muslims across India should support a central law banning cow slaughter and imposing stringent punishment, especially on those who sell cows for slaughter.
+
+Faizan Mustafa is Vice-Chancellor, Chanakya National Law University, Patna, Bihar. Abdul Samad is Former Dean, Mumbai Veterinary College. The views expressed are personal
+
+[Read full article](https://www.thehindu.com/opinion/lead/contradictions-within-indias-cow-protection-regime/article71034259.ece)
+
+---
+
+### Five crore Indians wait when the courts take a break
+*The Hindu · Opinion*
+
+The Supreme Court of India and the major High Courts are on a summer holiday break, i.e., shut down with some vacation Benches functioning to hear urgent matters. However, shops, markets, eating places, government and private offices, hospitals and police stations do not cease to work even though their staff enjoy personal leave. On the other hand, somewhere in an Indian jail tonight, a man who has been convicted of nothing is finishing another year behind bars, his trial still ongoing and perhaps years away from ending. He is one of the roughly three in four prisoners in this country who are undertrials: unconvicted, presumed innocent, yet serving time anyway — often longer than the sentence they would have received had they pleaded guilty. And as you read this, the courts, the public institutions that hold the fate of the poor in their hands, are functioning at only a fraction of their strength.
+
+A three-century backlogFrom June 1 to July 12, the Supreme Court is on its summer break, sitting with three or four Benches a week instead of a full court and resuming in earnest on July 13. The doors are not bolted; urgent pleas are still heard. But for six weeks, the most powerful court in the world’s most populous democracy idles.
+
+Now hold that against the number it is meant to be fighting. As of the last day of 2025, more than 5.39 crore cases were pending in Indian courts: over 4.76 crore in the district courts, 63.6 lakh in the High Courts, and more than 92,000 in the Supreme Court itself, its heaviest load in over 30 years. A government study once calculated that, at the present pace, clearing the pile could take three centuries.
+
+Three centuries. And the Court takes the summer and winter vacations off.
+
+To be fair, the judges deserve it. The recess is when reserved judgments finally get written, when the brutal daily cause-list eases enough to think.
+
+Last year the Chief Justice of India and his four senior-most colleagues worked clean through the first week of the break. Indian judges are among the most overworked in the world. This is not an accusation of laziness; no one who has seen a judge’s docket could make one.
+
+Because that is precisely the point. When the people doing the work are exhausted and the backlog is biblical, what conceivable logic shuts the whole shop at once? Not that judges rest — which they should — but that almost all of them rest together, so the institution goes quiet for six-plus weeks every year. And the habit is a colonial hand-me-down: the calendar was built for English judges who could not stand the Indian heat and retreated to cooler climes each summer, then enjoyed long Christmas holidays in the winter.
+
+In 2024, the Court announced a fix: it renamed the “summer vacation” as “partial court working days”. That was it. The number of days it actually sits — about 190 days in a a year — did not change. You cannot rebrand your way out of a backlog; a litigant whose case is stuck does not care what the recess is called, only whether his matter is heard and disposed of.
+
+Justice needs court continuitySo what would actually help? The first answer is one the judiciary’s own watchdogs have urged for years: do not abolish judicial rest; stagger it. A parliamentary standing committee in 2023 objected to “the entire court going on vacation en masse”, and proposed the obvious: rotate the leave, keep the Benches full, and never let the court run thin. A hospital does not empty its wards because its doctors are owed time off; it builds a roster. The Law Commission and the Justice Malimath Committee said the same, long ago. They were not enemies of the courts; they were trying to save them from themselves.
+
+The standard objection is that all this is a sideshow: the real disease is vacancies, not vacations. It is true that courts are starved of judges, with up to a third of High Court seats lying empty. But the objection boomerangs. If the Bench is already running at half strength, thinning it further for six weeks every summer is not a defence of the recess; it is the strongest case against it. And while filling those seats depends on the government and the collegium and will drag on for years, the calendar is the judiciary’s to fix. One reform needs permission; the other needs only will.
+
+Beyond courts, towards solutionsStaggering the leave, though, only treats the symptom. The deeper fix is to keep disputes out of the courtroom in the first place; it was never meant to be the first stop for every quarrel, but the last. India already has the tools. Lok Adalats settled more than 2.59 crore cases in a single national sitting last December, and over 23.5 crore in three years. The Mediation Act of 2023 now nudges parties to attempt settlement before going to court, and arbitration can take commercial disputes entirely out of judges’ hands; yet these routes remain badly underused. But none of this happens on its own.
+
+The country has a reservoir of experience it scarcely draws on: its retired judges, who spent their careers mastering this very machinery and step down, still in full command of it, at 62 or 65. Their expertise need not retire with them. Albeit many of them do function as heads of quasi-judicial bodies and tribunals. Freed from any daily docket, a dedicated corps of former judges could be invited to take up a single targeted charge: identify where cases pile up, set public targets for their disposal, and account for progress openly. Reform that belongs to everyone belongs to no one.
+
+The judges will keep working through the heat, as they always do. The honest demand is not that they stop resting, but that the courts stop closing ranks and falling silent at the same moment, because justice, for five crore Indians, is not on vacation. It is overdue.
+
+Vijay L. Kelkar is Vice-Chairman of the Pune International Centre. Pradeep S. Mehta is Secretary-General of CUTS International (Consumer Unity and Trust Society). With contributions from Anushka Kewlani of CUTS
+
+[Read full article](https://www.thehindu.com/opinion/lead/five-crore-indians-wait-when-the-courts-take-a-break/article71214475.ece)
+
+---
+
+### DC Edit |Need For J&K Statehood Is Vital; Don’t Lose Focus
+*Deccan Chronicle · Editorial*
+
+Stripping Jammu and Kashmir of its statehood, along with hollowing out Article 370 of the Constitution, was an act of sleight of hand by the NDA government at the Centre. The BJP may claim justification for doing away with the constitutional link that had bound the Indian nation to the state of Jammu and Kashmir because it had long been part of the agenda the party placed before the people of the country; but to strip a state of its basic status to achieve a political end was a deception played on the people of Jammu and Kashmir, the people of India and the Constitution itself.
+
+Article 1 of the Constitution is not only the foundation of that document but also the cornerstone of the entire array of principles this nation is founded on. It states in no uncertain terms that ‘India, that is Bharat, shall be a Union of States’. The framers of the Constitution had no doubt in their minds that the very idea of India is founded on federal principles and that the states are its foundational units. There are indeed provisions to make and unmake states as the country moves forward so that the interests of the people are better served.
+
+The boundaries and even the names of the 28 states classified into four categories that existed when the Constitution came in force in 1950 have been changed several times. The changes, however, were made to reflect the aspirations of the people. In fact, the Constitution was mindful of placing popular demand above the opinion of the state legislature in that Parliament was empowered to carve out new states without the consent of the existing state legislature, evidently taking into account possible resistance to division.
+
+Every single principle of the Constitution and every constitutional propriety was violated when Jammu and Kashmir was bifurcated into two Union Territories in 2019. The move was followed by an assurance by the nation’s leadership, through the voices of the Prime Minister and the Union home minister, that its statehood would be restored in the near future. The government gave the impression that elections to the state Assembly would be the marker: once an elected government came to power, statehood would be restored. However, it was not to be.
+
+Chief Minister Omar Abdullah was at his diplomatic best over the past two years when he chose not to adopt a confrontational course with the Union government on the question; he counselled patience even among his own party colleagues believing that the Union government would fulfil its promise to the state and to the nation. He has now called for a march to the national capital on July 20 to press for the demand.
+
+The BJP’s response to the call, and to the demand itself for statehood has been one of obstinacy and arrogance. Instead of addressing the issue the Chief Minister has raised, the party is now offering excuses for not walking the talk. The party knows fully well that such a response will an equally shrill response from the other side, which will offer the saffron party a further excuse to delay the decision. It would be advisable for Mr Abdullah to stay the course instead of allowing attention to be diverted from his genuine demand.
+
+The BJP would also do well to remember that history has not been very kind to the dispensations that sought to impose their writ on this country through skullduggery and arrogance; respecting democratic norms and acquiescing in the people’s wishes are in order instead.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-need-for-jk-statehood-is-vital-dont-lose-focus-1970660)
+
+---
+
+### DC Edit | Resilience Wins At Wimbledon
+*Deccan Chronicle · Editorial*
+
+It is said of great players that they find the way to victory, which is exactly what Jannik Sinner did in retaining his title at Wimbledon. Having dealt with an almighty scare in the first round from the virtually unknown Miomir Kecmanovic, who took him to five sets, the Italian became the first man in 48 years to survive and win the cup at London’s SW19.
+
+Resilience has been the remarkable quality in Sinner’s journey to a fifth Grand Slam in the final of which he did not have to face his fiercest competitor in recent slams in the young Alcaraz who is yet to recover from injury. The German Alexander Zverev has stepped up in Alcaraz’s absence, winning a maiden grand slam in the French Open and jousting with world No. 1 Sinner.
+
+In a final that was developing into a typical Wimbledon classic of strapping athletes backing a booming service with precision in the first two sets that went into tiebreakers, Sinner just about got the better of Zverev. In one remarkable point he fell but regained his balance to keep the ball in play and find the winner to ultimately prevail in the second set tiebreaker.
+
+Sinner had already hit a high before the final in demolishing the all-time great Novak Djokovic in straight sets without giving him an inkling of a chance. Ironically, Zverev too had fallen heavily on the wearing grass and wasn’t the same again after his opponent had sportingly given him a helping hand to get up. Wrapping up matches by wearing down opponents with precision backing perseverance in sticking to percentage play is Sinner’s speciality.
+
+There were colourful stories on the distaff side too with two Czech players coming through a quality women’s field in which the top 20 players seem equally capable of beating each other. It was the young Linda Novoska who took the shield from British royalty soon after she won a battle against her own nerves. At 6-2, 5-2, she was on the verge of a historic win over Karolina Muchova when the very thought of victory seemed to consume the 21-year-old.
+
+Resilience was the much-needed quality there too as Novoska clawed back to save three break points in the first game of the final set and didn’t look back as she let her powerful serves take over again before joining a long list of Czech champions beginning with the incomparable 9-time Wimbledon winner Martina Navratilova, who was present to watch her fellow Czechs in the three-set final.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-resilience-wins-at-wimbledon-1970634)
+
+---
+
+### Aakar Patel | Of NRC & SIR: How Governments' Use Of Arbitrary Powers Put Citizens In A Fix
+*Deccan Chronicle · Opinion*
+
+One common trait in lawless nations is the high levels of anxiety against arbitrariness. Medieval texts tell us this has always been the case in our parts. Cruelty is couched as process and millions put through torture. Special Intensive Revision forms are being handed out across India. It is impossible on a first reading of this form, no matter how educated the reader, to understand what one is required to do, even though it is a single page.
+
+We are told by the executive and the judiciary that putting us through this is not only reasonable but required and necessary. Of course, we have been down this road before.
+
+In 1998, the governor of Assam, a retired military man named Lt. Gen. S.K. Sinha (Retd) sent a note to then President K.R. Narayanan where he referred to the situation in alarming language: “Large-scale illegal migration from East Pakistan/Bangladesh over several decades has been altering the demographic complexion of this state. It poses a grave threat both to the identity of the Assamese people and to our national security. Successive governments at the Centre and in the state have not adequately met this challenge.”
+
+Gen. Sinha demanded action “to avert the grave danger that has been building up for some time … If not effectively checked, (Bangladeshis) may swamp the Assamese people and may sever the Northeast land mass from the rest of India. This will lead to disastrous strategic and economic results.”
+
+Gen. Sinha acknowledged he was not basing this assessment on any data. He added: “Unfortunately, today we have no Census report on the basis of which we can accurately define the contours of trans-border movement. Thus, we have to rely on broad estimates of theatrical extrapolations to work out the dimension of illegal migration that has taken place from East Pakistan/ Bangladesh.” In short, he had no evidence to prove this theory but he felt strongly enough about it just the same to raise it with the President officially.
+
+In 2005, Sarbananda Sonowal, who later became the BJP chief minister of Assam, went to the Supreme Court to make the laws governing the identification of individuals suspected to be foreigners harsher. The Supreme Court leaned on S.K. Sinha’s speculative note in this case to conclude that Assam was facing “external aggression”, which threatened a constitutional breakdown.
+
+This was reckless and unwarranted use of extremist language that reflected the prejudices and bigotry existing against Muslims which exist even in India’s highest court. The judiciary reversed the burden of proof for residents of Assam, a feature it regularly condones as we have seen in this column before. Normally, it is the state that must prove wrongdoing or criminal activity and it must provide the evidence that someone must be punished. This is the meaning of the term “innocent till proven guilty”. However, the onus of proving they were not foreigners (and for those born after 1971, that their parents or grandparents were not foreigners) was thrust by the judiciary onto the Assamese people. They were all guilty until they could prove themselves innocent.
+
+In a nation where many, if not most, are poor and many, if not most, are not fully literate, where documentation is weak, and in a state where flooding is not rare and the total loss of property quite common, this reversal of the burden of proof on such an important matter was cruelty. The other thing that the state did was to have almost no safeguards.
+
+The foreigners’ tribunals which would determine whether someone should be set free or sent to a jail, were staffed by people given four days of training. They were advocates and retired civil servants hired on two-year contracts. It was before such people that the individuals would have to present their case. The Assam government run by the BJP told the tribunal members what it wanted them to do by not extending the contracts of those who had a low rate of declaring individuals as foreigners.
+
+Individuals who had marked fewer than 10 per cent of the total number of people coming to their tribunal as being foreigners were deemed to be “not satisfactory” and shown to be “terminated”. The state government was effectively incentivising its tribunal officers to mark more people as foreigners, and punishing those officers who were not doing so. Such injustice did not receive nationwide, much less global, notice and the matter was limited to the Assamese media.
+
+The crisis snowballed when an Assamese, Ranjan Gogoi, was appointed as the Chief Justice of India. The state, which was then under BJP rule, drew up a first list, excluding over 40 lakh people and then a final list of those who it was satisfied met the criteria that it laid out. This was the so-called National Register of Citizens.
+
+The list excluded 19 lakh people from it who would now have to line up before the foreigners’ tribunals with their papers and prove their citizenship. The majority of these 19 lakh people turned out to be Hindus. This ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-of-nrc-sir-how-governments-use-of-arbitrary-powers-put-citizens-in-a-fix-1970672)
+
+---
+
+### Bharat Bhushan | BNP Govt In Dhaka Risks Squandering India's Trust
+*Deccan Chronicle · Opinion*
+
+When Bangladesh’s new Prime Minister Tarique Rahman took office in February 2026, there was an air of optimism about a reset of India-Bangladesh ties. The removal of the interim administration of Muhammad Yunus, and its open anti-India bias, seemed to open space for a reboot.
+
+That hope seems to have dissipated.
+
+The election of the Bangladesh Nationalist Party government in February was a high-water mark. At Mr Rahman’s oath-taking, Lok Sabha Speaker Om Birla carried Prime Minister Narendra Modi’s invitation to Mr Rahman him to visit India. External affairs minister S. Jaishankar represented India at Begum Khaleda Zia’s funeral and by April the Indian high commissioner in Dhaka was speaking of a “forward-looking reset” directly with Mr Rahman.
+
+And then everything fell apart.
+
+India’s new high commissioner Dinesh Trivedi, who presented credentials on June 25, has not been able to meet a single Bangladeshi minister. His request for an appointment with Mr Rahman has not fructified. Mr Rahman also declined to make India his first foreign visit. He chose Malaysia first, with China next. The third is likely to be to Saudi Arabia. It is telling that his trip to India has been pending for five months. Several grievances seem to have accumulated and stalled the anticipated reset.
+
+Bangladesh summoned Indian diplomats twice -- after Assam chief minister Himanta Biswa Sarma’s “detect, delete and deport” push against Bangladeshi migrants, and again after West Bengal’s newly-minted BJP government pushed back alleged illegal migrants. An adviser in Mr Rahman’s PMO, Zahed ur Rahman, known for past anti-India statements, was held at Delhi airport for two hours, and prompted a formal protest by Dhaka. Sheikh Hasina’s presence in India remains a sore point, where she continues to address the media and her party virtually. Her claim that she will return in December is by no means certain. Meanwhile, no progress has been made on renegotiating the Ganga Water Treaty which expires in December 2026 and the Teesta water-sharing agreement remains elusive.
+
+The strength of the anti-India sentiment among Islamic fundamentalists in Bangladesh is evident from the Jamaat-e-Islami misconstruing Mr Trivedi’s remark that India and Bangladesh shared “same sky, same air, same pain” as a reference to the Hindu imperialist idea of “Akhand Bharat”.
+
+Such grievances seem to have come in the way of India-Bangladesh ties moving forward, worsened by Dhaka’s growing closeness to China, apprehensions about the possible emergence of a China-Pakistan-Bangladesh axis, and what many see as Bangladesh’s strategic outreach to Turkey.
+
+Mr Rahman’s China visit produced outcomes that New Delhi may find adverse to its strategic interests. Beijing’s role in the Teesta River Comprehensive Management and Restoration Project worries India because it lies uncomfortably close to the strategic Siliguri Corridor. China, well aware of Indian concerns, has insisted that “no third-party influence” should be allowed to impact the project. The Mongla Port Facilities Modernisation Project is also a matter of grave concern as Mongla is only 80 km from India’s border. Such a proximate Chinese presence could enable maritime surveillance and electronic intelligence gathering.
+
+China’s footprint in the Bay of Bengal will also grow through the China-Myanmar-Bangladesh Economic Corridor, linking Yunnan to Chattogram and Mongla Ports through Myanmar’s Rakhine state. This is not a new idea -- in its earlier avatars, the corridor was variously named as the Asian Highway and BCIM corridor, but India had excluded itself from these Chinese ventures.
+
+The agreement for a multi-modal corridor now suggests Dhaka is looking eastward, and increasing India’s anxiety for several reasons. China already has a deep-sea port at Kyaukphyu in Myanmar, but instability in Rakhine makes its access uncertain. With the new corridor, Bangladesh gains strategic depth and faster export routes, and China a greater presence in the Bay of Bengal. The corridor could potentially even serve as a military highway, with strategic consequences for India
+
+While India also uses the diplomatic-and-defence 2+2 dialogue mechanism with its close partners, the Dhaka-Beijing agreement to set up such a mechanism could ring alarm bells in New Delhi. Bangladesh is already among the largest buyers of Chinese arms and now has in principle agreed to buy 20-24 J-10CE Chinese multirole fighter jets, the same aircraft Pakistan used during Operation Sindoor. The deal is likely to be finalised as early as August 2026.
+
+Such a shared platform would create overlapping military ecosystems of maintenance, spares, and training between Dhaka and Islamabad. They will also deepen China's regional defence footprint.
+
+China’s moves are underpinned by the trilateral China-Bangladesh-Pakistan relationship. Former Bangladesh ambassador Mohammad Harun Al Rashid claimed there is “increasing psychological pressure on Tarique Rahman to build a...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/bharat-bhushan-bnp-govt-in-dhaka-risks-squandering-indias-trust-1970424)
+
+---
+
+### Wasbir Hussain | Beyond Mangoes: Tackle Dhaka’s Swing To Beijing
+*Deccan Chronicle · Opinion*
+
+Diplomacy has its symbols. And Bangladesh has once again chosen mangoes. In recent weeks, Dhaka has dispatched crates of its celebrated fruit to Indian leaders, reviving the tradition of “mango diplomacy” that seeks to project warmth between the two neighbours. Such gestures are welcome as they keep the communication channels alive and soften political edges.
+
+But statecraft cannot be guided by the sweetness of mangoes.
+
+For even as Dhaka extends symbolic goodwill towards India, it is quietly moving closer to China. During Prime Minister Tarique Rahman's recent visit to Beijing, discussions with President Xi Jinping included the proposal for a China-Bangladesh-Myanmar Economic Corridor — a project that, if realised, would carry consequences extending far beyond trade. For India, and especially for the Northeast, it should set off strategic alarm bells.
+
+This is not about Bangladesh having friendly relations with China. Every sovereign nation has the right to pursue multiple partnerships. Nor is it about opposing infrastructure or economic development. The issue is that China rarely invests without a strategic target.
+
+From Pakistan’s Gwadar Port to Sri Lanka’s Hambantota, from Cambodia to the Indian Ocean, Beijing has demonstrated that economic corridors are not merely commercial ventures. They create political leverage, deepen dependence and gradually expand China’s strategic influence. A China-Bangladesh-Myanmar corridor would stretch from Yunnan to the Bay of Bengal, passing through one of Asia’s most volatile regions. It would bring Chinese influence closer to India’s vulnerable eastern frontier while strengthening Beijing’s presence around the Bay of Bengal.
+
+Does it change India’s security calculus? The answer is yes. The Northeast is no longer India’s distant frontier or its periphery. It is central to New Delhi’s “Act East” policy, its regional connectivity ambitions and its national security architecture. Roads, railways, waterways and energy corridors linking the Northeast to Southeast Asia are critical to India's future economic geography.
+
+But geography cuts both ways. Myanmar remains fractured by civil war. Several ethnic armed organisations control territory along India’s border. Many insurgent groups from India's Northeast have historically maintained networks across Myanmar. China enjoys considerable influence with several of these armed organisations.
+
+Therefore, a Chinese-backed economic corridor passing through such territory inevitably raises uncomfortable questions. Infrastructure creates access. Access creates influence. Influence eventually acquires strategic value. India cannot afford to dismiss this as merely another development project. The Bay of Bengal presents another dimension. China has steadily increased its maritime presence across the Indian Ocean Region. Investments in ports may begin as commercial enterprises but can evolve into dual-use strategic assets. Bangladesh has repeatedly assured India that its territory will never be used against Indian interests. There is no reason to doubt those assurances today. But the concern is really about tomorrow as infrastructure lasts for decades, while governments don’t.
+
+India must therefore assess the long-term strategic implications rather than the immediate diplomatic optics. Ironically, New Delhi has also made matters more complicated.
+
+Following the BJP’s victory in West Bengal, reports of immediate pushbacks of suspected Bangladeshi migrants have generated unease in Dhaka. India has every sovereign right to identify illegal migrants and return them through due legal process. No responsible government can permit illegal immigration indefinitely, particularly in border states like Assam or West Bengal, where demographic change has remained politically explosive for decades. Border management is non-negotiable, but diplomacy is equally important. The manner in which deportations are carried out matters as much as the decision itself. If Bangladesh feels publicly embarrassed or politically cornered, anti-India sentiment becomes easier to mobilise. That is precisely the environment in which China thrives.
+
+Beijing does not need to weaken India militarily if it can gradually weaken India's political influence among its neighbours. India's response, therefore, must avoid two extremes. The first is complacency — the belief that Bangladesh will always remain India's closest partner because of geography and history.
+
+The second is panic — the assumption that every Chinese investment automatically represents a strategic defeat. Neither approach serves India's interests. Instead, New Delhi needs a strategy built on confidence rather than insecurity.
+
+First, India must accelerate connectivity projects that directly benefit Bangladesh as well as the Northeast. Delayed infrastructure weakens credibility. Faster delivery strengthens partnerships.
+
+Second, India should deepen economic integration beyond government agreements. Greater private...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/wasbir-hussain-beyond-mangoes-tackle-dhakas-swing-to-beijing-1970645)
+
+---
+
+### A fragile Western Ghats is warning us
+*Deccan Herald · Editorial*
+
+The recent landslide in Kerala’s Wayanad should serve as a warning for Karnataka’s Western Ghats districts. The wake-up call came in 2018, when devastating landslides ravaged Kodagu and exposed the growing fragility of the region's hills. Eight years later, there is little evidence that those lessons have been learnt. Instead, commercial pressures continue to trump ecological prudence, leaving Kodagu, Chikkamagaluru, Shivamogga, and Uttara Kannada increasingly vulnerable. Extreme rainfall triggered both the Kodagu and Wayanad tragedies, but nature alone cannot be blamed. Across the Western Ghats, hill slopes have been cut indiscriminately for roads, resorts, and homestays, natural drainage channels have been blocked, forests fragmented, and construction steadily expanded into geologically fragile terrain. Climate change has intensified rainfall, but human intervention has magnified its destructive impact. Over-tourism, far exceeding the carrying capacity of these ecosystems, also deserves scrutiny.
+
+Successive governments have also failed to act on scientific advice. The Kasturirangan Committee, set up to balance conservation and development in the Western Ghats, has remained mired in political controversy for over a decade. While local concerns deserve attention, allowing the report to gather dust has left sensitive areas without effective regulation. The dilution of safeguards under the Forest (Conservation) Amendment Act, 2023, has further heightened concerns by exposing unclassified and deemed forest areas to commercial pressures. The Geological Survey of India has identified several landslide-prone zones in Kodagu and recommended regulating construction in vulnerable areas, restoring natural drainage, reshaping unstable slopes, and promoting native vegetation to stabilise soil. It has also called for stricter zoning and restrictions on construction in hazard zones. These recommendations apply to other hill districts facing similar risks.
+
+Protecting the Western Ghats does not require halting development. It requires recognising that ecological security is the foundation of sustainable growth. Scientific land-use planning, strict regulation of construction, tourism based on carrying-capacity assessments, restoration of degraded forests, and timely implementation of expert recommendations can substantially reduce the risk. Local Biodiversity Management Committees must be empowered to play a meaningful role in land-use decisions, while infrastructure projects should adopt climate-resilient engineering practices. An empowered inter-state Western Ghats Ecology Authority could co-ordinate conservation efforts, regulate major land-use changes, and strengthen disaster preparedness across the mountain range. Karnataka cannot afford to wait for another Wayanad or another Kodagu before acting. Nature has warned us more than once; ignoring it invites an even harsher reckoning.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-fragile-western-ghats-is-warning-us-4071469)
+
+---
+
+### Heatwave demands urgent policy shift
+*Deccan Herald · Editorial*
+
+Europe is in the grip of a severe heat wave that has caused widespread health problems, upset lives and lifestyles, and posed risks to most economies. Over 1,500 deaths have been reported across the continent, with France and Britain suffering the worst so far. Britain recorded its hottest June in history, while Spain, Portugal, Belgium, the Netherlands, and Germany have all seen temperatures soar to 40 degrees Celsius, which is boiler-class weather in Europe. It is 10-12 degrees above normal. Some deaths occurred when people jumped into rivers to escape the heat and drowned. Weather alerts have been issued across many regions. Schools have closed, advisories urge limited travel, and train services have been curtailed amid fears that rail lines could expand and cause accidents. Much of Europe’s infrastructure, houses and other buildings are not designed for this level of heat. Humans and animals alike are struggling to adapt to the new climate reality.
+
+Europe is now caught between hot winds from Africa and a warming Arctic region. Climate change has disrupted weather patterns worldwide, making extreme events increasingly common. Predictions that each year would be warmer than the previous one are proving true. The chances of weather extremes have increased a hundredfold in the last two decades. Nearly half of the 850 cities across 30 European countries have broken, or are expected to break, heat-stress records. Scientists warn that Europe is the fastest-warming continent, with temperatures rising at twice the global average since the 1980s. Many argue that the global warming predictions by the UN’s Intergovernmental Panel on Climate Change (IPCC), which present a scary scenario, may need revision, as the situation could worsen.
+
+Experts have called for adoption of techniques to avoid heat stress, which include better ventilation and creation of more green cover in cities. But it is difficult for people to adopt measures that need longer-term planning and investment. When the risks from climate change are discussed, it is always said that the poor countries will be the worst affected by it. But it is increasingly becoming clear that climate does not discriminate and the whole world will have to pay the price. Climate negotiations have stalled because the rich world has failed to accept its historical responsibility for creating the conditions for climate change and to support the poor world to counter it. The climate disasters in Europe should prompt the rich countries to change their attitudes and policies.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/heatwave-demands-urgent-policy-shift-4071451)
+
+---
+
+### The significance of Muharram
+*Deccan Herald · Opinion*
+
+Muharram is the name of the month which marks the beginning of the Islamic calendar – the Islamic New Year. The month holds great significance for all Muslims but more so for Shias (which literally means followers/faction/party). To understand why, we must go back to 680 CE.
+
+After Prophet Muhammed’s death there was a debate as to who should be the leader of the new community. Abu Bakr, a close companion of the Prophet, became the caliph (successor). However, a section believed that Ali, the dynamic and sagacious son-in-law of the Prophet, ought to have become the caliph. Ali himself never raised this issue – he adhered to the decision and followed the new caliph, and he became the fourth caliph.
+
+He had three sons-- the middle son being Hussain. After Ali’s death, the debate over whether the Caliphate ought to go to somebody from the bloodline of the Prophet came up. However, Yazid, the son of Muawiyah who succeeded Ali, became the caliph. Hussain refused to pledge allegiance to him and travelled towards Kufa (in present-day Iraq) with a small band of 72 people, including women, where he was promised support. But the support did not come. Yazid’s forces marched with anything between 4,000 and 30,000 men, vastly outnumbering Hussain. The battle, more like a massacre, happened in the plains of Karbala (again, in present-day Iraq) on the tenth day of Muharram (known as Ashura) in 680 CE. Hussain was killed. The survivors were captured. What happened in Karbala became the basis for the schism in Islam between the Sunnis, those who followed the Sunnah – the traditions and practices of the Prophet – and Shias, the followers of Ali. Muharram commemorates the martyrdom of Hussain. It commemorates the principles of justice, integrity, and commitment to truth. Hussain’s refusal to surrender is seen as a model of resistance. It is not just death, which is being commemorated every Muharram, especially on the day of Ashura; moral questions are being raised. Will you stand up for justice? Shias remember the martyrdom of Hussain with mournful gatherings, or majlis. A public display of grief accompanied by the rhythmic beating of chests (matam), which can shake and move even a passive onlooker, takes place. To weep for Hussain is to align with him; to self-flagellate is to feel his suffering. The Shias believe that ‘every day is Ashura, every land is Karbala’. Central to the Shia psyche is the shahada, martyrdom, which Hussain chose. The spirit of Karbala resonates to this day.
+
+[Read full article](https://www.deccanherald.com/opinion/the-significance-of-muharram-4071448)
+
+---
+
 ## 12 July 2026
 
 ### Chandrakant Lahariya and Abhishek Garg | A ‘Cadaver’ Isn’t A Specimen; It’s The First Teacher In Medical Colleges

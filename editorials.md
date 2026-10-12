@@ -1,8 +1,287 @@
 # Editorials
 
-_Last updated: 2026-10-11 07:42 UTC_
+_Last updated: 2026-10-12 07:50 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 12 October 2026
+
+### Message of peace: On the 2026 Nobel Peace Prize
+*The Hindu · Editorial*
+
+By awarding the 2026 Nobel Peace Prize to South African jurist Navi Pillay, the Norwegian Nobel committee has sought not only to restore its credibility, tarnished by controversial decisions in the recent past, but also to strengthen the voices defending international law. Ms. Pillay served on the International Criminal Tribunal for Rwanda and the International Criminal Court (ICC), and chaired the UN Independent International Commission of Inquiry on the Occupied Palestinian Territory. Born in Durban in 1941 to a family of Indian Tamil origin, Ms. Pillay grew up in apartheid South Africa, opened her own legal firm in the 1960s and defended anti-apartheid political prisoners and activists on the notorious Robben Island, including Nelson Mandela. Her contributions as a jurist have shaped international criminal law. In 1998, as a part of the Rwanda war crimes tribunal, she co-authored the judgment against Jean-Paul Akayesu, a local politician, recognising that rape and sexual violence constitute acts of genocide. Last year, the Palestine commission that she led concluded that Israel had committed acts of genocide in Gaza and that Prime Minister Benjamin Netanyahu and former Defence Minister Yoav Gallant had “incited the commission of genocide” in their speeches and statements. Compared to Barack Obama, the 2009 winner who bombed Libya two years later, or Maria Corina Machado, the 2025 winner who supported Washington’s economic strangulation of Venezuela and its illegal strikes on boats in the Caribbean, Ms. Pillay has an untarnished record of standing up for the victims of international crimes.
+
+Ms. Pillay has been honoured at a time when the world is witnessing conflicts, which have effectively jeopardised the law-based international order. Russia’s invasion of Ukraine is a challenge to the fundamental principles of sovereignty and territorial integrity. Israel continues to bomb Gaza, Syria and Lebanon and tighten its occupation of Palestinian territories, with impunity. The U.S. under President Donald Trump — who believes he deserved a Nobel Prize — started a war on Iran on February 28 and killed its Supreme Leader, a flagrant violation of international law and norms. He has also launched a frontal attack on international institutions, including the ICC that has been placed under sanctions. What prevents the world from becoming a Hobbesian jungle where the mighty do as they please is the existence of international law and institutions that hold them accountable. The message of the 2026 Peace Prize is that the fight to strengthen those rules and institutions is part of the struggle for a more peaceful and accountable world.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/message-of-peace-on-the-2026-nobel-peace-prize/article71571868.ece)
+
+---
+
+### Rights and wrongs: On the fundamental right to peaceful assembly and protest
+*The Hindu · Editorial*
+
+The Constitution of India guarantees all citizens the fundamental right to peaceful assembly and protest. The right to organise, assemble, and speak is at the core of democracy, and the curtailment of any of the fundamental rights is a curtailment of democracy itself. That being the promise of the Constitution to every citizen, regardless of gender, caste, or status, it is unsettling that the Government of India under Prime Minister Narendra Modi is brazenly knocking down those rights through police high-handedness across the country, particularly in Delhi, the capital. Youth and student organisations, such as the CJP, the AISA, SFI and AISF, had called for a peaceful protest on October 10. Instead of ensuring peaceful assembly, as per the law of the land, the Centre ordered a countrywide swoop, where thousands of young people were taken into preventive detention and Delhi was locked down as if under martial law. Trains were cancelled and stopped, passengers waylaid, and journalists, activists, academics, and lawyers assaulted and detained, all in shocking misuse and weaponisation of the law against democracy itself. In the heart of Delhi, police personnel without identification badges have been recorded on video. What Delhi witnessed on Saturday was a repeat, in a greater degree, of the police high-handedness in July against youth protesters. Despite video evidence of male police personnel assaulting women protesters during that episode, months later, neither the government nor the Supreme Court of India has held anyone accountable for the law enforcement excesses.
+
+On October 9, the Court had said that a blanket ban on travel or assembly could not be allowed. But that is exactly what was done in Delhi, as people, including several former Chief Ministers, senior politicians, and lawyers, were rounded up from around the city. On Sunday, the Court, in its hearing, acknowledged the urgency and seriousness of the issue, and repeated its directives. But piecemeal orders and half-hearted lamentations by the Court have had no restraining impact on a government that seems to be doubling down on its practice of branding critics as foreign agents and anti-nationals instead of coming clean on its record. The BJP government is going this far in defence of an official — the Chief Election Commissioner of India, Gyanesh Kumar. Instead of calling for accountability from the Election Commission of India, which has disenfranchised millions of Indians in a clear act of illegality, the BJP and its central and State governments are deploying the strong arm of the state to defend him. That itself suggests that Mr. Kumar’s relationship with the BJP is different from his relationship with all other parties. The Modi government should play by the rules, and not misuse power against citizens.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/rights-and-wrongs-on-the-fundamental-right-to-peaceful-assembly-and-protest/article71571833.ece)
+
+---
+
+### Changing the guard, confronting the democratic crisis
+*The Hindu · Opinion*
+
+Will the exit of Chief Election Commissioner of India Gyanesh Kumar be enough to correct an electoral process that, over the years, has come to be seen as increasingly compromised in favour of the Bharatiya Janata Party (BJP) government at the Centre and in several States? With protests now growing across the country, he may eventually be forced out, just as Education Minister Dharmendra Pradhan was forced to step down following sustained public pressure. But even then, he could simply be replaced by another, perhaps worse, “yes man”. Mr. Kumar’s exit may therefore be a starting point, but much more will need to be done to restore the credibility of the electoral process in the “mother of democracy”.
+
+Under a cloudThe present controversy is not merely about one Election Commissioner. It is about the credibility of the institution. The Special Intensive Revision (SIR) of electoral rolls has already resulted in over 13 crore names being excluded from draft rolls. This has raised grave concerns about the fate of millions of genuine voters and their basic right to vote — concerns that cannot be dismissed so arbitrarily. There are also apprehensions about the integrity and transparency of electronic voting machines (EVMs), including the security of electoral technology, the custody of machines and the auditing process.
+
+Today, all institutions meant to act as checks and balances, including the media, judiciary and executive, are increasingly seen as influenced by a particular ideology, with their independence compromised. The Anna Hazare movement became so powerful largely because the media then did its job with honesty, neutrality and without fear or favour. It questioned those in power relentlessly and brought the concerns of ordinary citizens into every living room. That kind of fearless and independent media scrutiny is nowhere to be seen today.
+
+Editorial | Rights and wrongs: On the fundamental right to peaceful assembly and protest
+
+Then there is the judiciary, which is supposed to oversee the functioning of the executive and intervene whenever constitutional rights are threatened. Where required, it can take suo motu cognisance and provide the last line of institutional protection to citizens whose rights have been violated. Yet, during the SIR controversy, serious allegations of wrongful deletions, including cases in which living voters were shown as dead and physically produced before the courts, have not resulted in any tangible action.
+
+In West Bengal, the then Mamata Banerjee government also approached the judiciary over the Election Commission of India (ECI)’s handling of the SIR process. The response, however, has been deeply disappointing, to say the least. The possible disenfranchisement of genuine voters deserved the most rigorous scrutiny, yet the process appears to have been gradually normalised. When institutions meant to safeguard citizens’ rights and hold the executive accountable appear compromised, the government acquires enormous power without having to fear the consequences.
+
+Related StoriesThe need to preserve the shine of Indian elections
+
+Barricades cannot silence the voice of democracy
+
+It is not just the SIR or the EVMs. It is also the raids and investigations involving Opposition leaders around election time, followed by media narratives that often criminalise individuals before a court has established their guilt. We have seen this over the last decade in the manner in which central investigative agencies have been weaponised not only against political opponents but also against individuals who dare to question the government. Sitting Chief Ministers, Members of Parliament, Ministers and political leaders have faced arrests and investigations over allegations that have yet to be established at trial. The repeated selective targeting of individuals, combined with the amplification of such accusations by sections of the media, has proved beyond doubt the nexus between the present regime and a system it is alleged to have corrupted to the hilt.
+
+The great weakening of democratic checksWhen the executive acts, the media amplifies its actions, and the judiciary appears reluctant to intervene, all three pillars of democracy can appear to be working in tandem against the public interest. Anyone who dares to speak up risks being pushed out of the system.
+
+We have seen this within the ECI itself. Election Commissioner Ashok Lavasa openly dissented from decisions giving clean chits to Prime Minister Narendra Modi and BJP president Amit Shah over alleged violations of the Model Code of Conduct during the 2019 Lok Sabha campaign. He subsequently left the ECI before the end of his tenure to take up a position in a lead bank.
+
+Anti-CEC protestsSporadic protests break uneasy calm in Delhi
+
+Anti-CEC protests continue; journalists detained despite SC order, Rahul Gandhi announces march to Supreme Court as Delhi braces for fresh curbs
+
+Left parties say police turned Delhi into ‘war zone’; MP Brittas hospitalised after being detained
+
+‘Open emergency-like situation’, alleges CJP; vows to continue protests
+
+Rahul urges citizens to join INDIA bloc march to Supreme Court ‘as Indians’, irrespective of party affiliations
+
+Today, one cannot help but ask what fate awaits Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi, who have reportedly recorded objections to several decisions of the ECI under Mr. Kumar, thereby exposing the rot within the system.
+
+Anti-CEC protest | LIVE updates
+
+This is why the ongoing protests by political parties, civil society groups, non-governmental organisations, the Cockroach Janta Party (CJP) and others cannot remain isolated demonstrations. They must evolve into a sustained democratic movement, perhaps closer in spirit to Gandhiji’s Satyagraha, to reclaim what has been lost or weakened over the last decade.
+
+Reclaiming the India we knewThe most difficult task, awakening public consciousness, may already have begun. The challenge now is to turn that awakening into a people’s movement powerful enough to reclaim the India we once knew — an India where the judiciary could hold even a sitting Prime Minister, such as Indira Gandhi, accountable; where a robust media could question a Prime Minister without fear; and where an Election Commissioner such as T.N. Seshan could exercise his constitutional authority without fear or favour. The beginning has to be a genuinely free and fair electoral process. Removing Gyanesh Kumar may therefore be a necessary starting point, but it is certainly not the end. A democracy survives on public trust. Today, that trust has been severely eroded.
+
+To expect a fully credible election without first rebuilding confidence in the institutions that conduct, monitor and adjudicate elections is like asking for water in the Sahara. What India needs is not merely a change of one Election Commissioner, but an independent system capable of organising elections whose fairness is beyond suspicion. Is the present BJP government willing to do that?
+
+ALSO WATCH Watch: Anti-CEC protest fallout: Supreme Court issues fresh directions to Centre, Delhi Police
+
+Much more than Gyanesh Kumar has to go if India is to restore the credibility of its electoral system and become a fully fledged democracy. The entire ecosystem that is eating away at the vitals of India’s democracy has to go.
+
+Mehbooba Mufti is President, Jammu and Kashmir Peoples Democratic Party
+
+[Read full article](https://www.thehindu.com/opinion/lead/changing-the-guard-confronting-the-democratic-crisis/article71572333.ece)
+
+---
+
+### DC Edit | Repression Can’t Be Right Answer By Govt To Protest
+*Deccan Chronicle · Editorial*
+
+The Union government’s refusal to comply with the Supreme Court’s directives, issued first on Friday, and then on Sunday, on how to handle the peaceful assembly of people in the national capital is regrettable. It does not add to the prestige of the world’s largest democracy that its government attaches no importance to the fundamental rights guaranteed by its Constitution nor to the directions of its Supreme Court on guarding those rights.
+
+The apex court was mindful of the rights of the citizens under Article 19 and the responsibilities of the authorities when it on Friday issued directions on the approach the latter must have to the October 10 protest called by the Cockroach Janta Party and Left students and youth organisations demanding the resignation of chief election commissioner Gyanesh Kumar for the alleged irregularities in the conduct of the special intensive revision of electoral rolls. It allowed restrictions the authorities thought fit but made it clear in no uncertain terms that it cannot disrupt normal life in the nation’s capital. There were express directions against closure of modes of transport including the metro service.
+
+However, the government made a fortress of Jantar Mantar, a place designated in the capital city for protests, so that no protester reached there. It shut down 45 metro stations. It almost sealed the borders so that no protester entered Delhi and ensured that leaders and cadre of the students and youth organisations were held back in their homes. Policemen were even seen forcibly deboarding youngsters headed to the capital. Not done, it detained over 3,000 people including the leaders of various organisations who include four former chief ministers on the day of the protest.
+
+The government’s actions went much beyond its brief and were in violation of the court’s directives so much so it had to hold a special sitting on Sunday to consider contempt of court action against the government. While issuing notice to the Union government seeking an explanation for the closure of the capital city and crackdown on the protesters, the court on Sunday made it sufficiently clear that there cannot be arbitrary detentions of peaceful protesters.
+
+Hardly had the judges completed dictating the orders, the police went on a rampage, rounding up protesters, bundling them into waiting vans, subjecting them to physical torture and then abandoning them in the wayside. Several leaders and cadre who have been so brutalised have now been now hospitalised. Even a member of the Rajya Sabha, John Brittas, was subjected to similar treatment.
+
+The government may have its position on the protesters’ demand for the resignation of the CEC but it cannot breach the boundaries of the law nor violate the Constitution while dealing with them. It cannot run its agencies disregarding the directions of the apex court. It cannot be seen committing excesses that do not behove the administration of a democratic country.
+
+The Narendra Modi government has come to power on the strength of the free will of the people of this country. It must keep off resorting to the use of disproportionate force to stop people from speaking their mind. And it is time for the Supreme Court to redeem the Constitution for the people and put its foot down on state authoritarianism.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-repression-cant-be-right-answer-by-govt-to-protest-1995035)
+
+---
+
+### DC Edit | Trump’s Russian Diesel Betrayal
+*Deccan Chronicle · Editorial*
+
+Spotting a leading contender for an Ig Nobel prize for hypocrisy will not be a hard task. The US President Donald Trump eminently qualifies for it after initiating a deal to lift sanctions and let Russia supply diesel. The ink is hardly dry on Lindsey O. Graham’s Sanctioning Russia and Iran Act of 2026 that Mr Trump signed off on which, if applied, could see the US levy a tariff of up to 100 per cent on countries like India and China that have been buying Russian oil and gas.
+
+It is clear Mr Trump will sacrifice any principle at the altar of convenience to try and protect the slender majority his party enjoys in the US Senate and House of Representatives when a third of their seats go to the midterm polls on November 3. That he would speak to one of the US’s biggest rivals to plead for three lakh tonnes of diesel so domestic prices can be brought down before the elections lays his action open to ridicule.
+
+India was the big scapegoat against which Mr Trump wielded the big stick as he rewrote the regulations for new H-1B visas, armed his administration to levy fees of $1,00,000 on students and suspended mostly Indian IT companies from the PERM (program electronic review management) to stop the route to getting US green cards for employees. And now he is to buy diesel after berating China and India for buying Russian energy and so funding the war on Ukraine.
+
+Republican lawmakers are talking of a bipartisan bill to block the move to lift sanctions on Russian diesel. This may be symbolic but points to the kind of contradictions that a whimsical President is prepared to rain down on his nation as he yo-yos from one position to its exact opposite while grappling with the effects of the war on Iran that he began at Israel’s behest.
+
+So embarrassing is a deal with Russia at a time when it is attacking the Ukrainian capital and other cities with renewed vigour and is threatening Europe with military action that it militates against any clear American thinking on strategic geopolitics. And Mr Trump has the effrontery to rebuke Ukraine for striking at Russian oil refineries while calling for Volodymyr Zelenskiy to be replaced as its President. Far from saving the world from wars, the Nobel Peace Prize wannabe is just opening more avenues for escalating conflicts.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-trumps-russian-diesel-betrayal-1995038)
+
+---
+
+### India, US And China In The New Great Game
+*Deccan Chronicle · Opinion*
+
+Merely because one is driving on a plateau does not mean that the road would not have its ups and downs. That’s what Indian and American officials are finding out as they manoeuvre their way around blind curves and potholes on a road described by none other than finance minister Nirmala Sitharaman as being on a “plateau”. Three days after Piyush Goyal, Union minister for commerce, declared that an India-United States trade deal was all “done and dusted”, the US trade representative, Jamieson Greer said the deal was “not imminent”.
+
+Before the dust on that kick up had settled US vice-president J.D. Vance declared that American workers in the information technology industries would not be allowed to yield their jobs to “indentured servants”. The external affairs ministry was quick to reject these words as “unwarranted”. Making a point that my recent book, Secession of the Successful: The Flight Out of New India, underscores on Indian diaspora in the US, the MEA spokesman drew attention to the contribution of “highly educated and skilled” Indians to the US economy and innovation ecosystem.
+
+I have a chapter titled “Indians in MAGA” that makes this very point. That the Indian diaspora has contributed billions of dollars to the US economy and constitutes an important force in “making America great again” (MAGA). It is a pity that neither the government nor academic economists have estimated the total contribution of the Indian diaspora to the US economy. In response to President Donald Trump’s continued criticism of the trade surplus that India enjoys in its bilateral trade with the US, the point ought to be made that this is more than compensated by the contribution that Indian Americans have made to the US economy.
+
+There is little point in a foreign ministry spokesperson decrying “unwarranted” the comments of a US politician. Much more effective would have been an exercise that shows how many trillion dollars Indian Americans have contributed to MAGA. The US is a nation built by immigrants and even today its most advanced industries are being driven by immigrant talent. So playing the anti-immigrant card for short term political gain is not going to help. But that is America’s problem.
+
+As for us in India, we need to free ourselves from the dependency syndrome that many among our policy elites and aspirational middle classes have imprisoned themselves in, believing that the US would help us deal with adversaries, with China’s growing power and with high technology, and offer us a free ride to Viksit Bharat. Ain’t gonna happen.
+
+President Trump is focused purely on the American interest. That is entirely understandable. After all he was returned to office to “Make America Great Again”. Prime Minister Narendra Modi wrongly imagined that MAGA and MIGA (make India great again) were two hands of the same body. Sure, that view was what underwrote the India-US civil nuclear energy deal and the India-US strategic partnership under President George Bush. But that movie is over.
+
+Over the past decade successive US administrations have sent us invoices for partnership. We paid up on some, buying defence equipment, reducing tariffs on some products, cutting off oil purchases from Iran and Venezuela, and so on. Each time a subservient Indian elite fed the ego of a greedy and powerful US elite, they asked for more. Funnily, though, the turning point came when Mr Trump mocked India with a poke in the eye — inviting a Pakistani general for lunch at the White House. Nothing wakes up the Hindutva leadership like a Pakistani. Things have gone downhill since then.
+
+Some in Delhi’s policy circles still hope that after the mid-term elections we will meet a friendlier Trump. Some imagine that after Mr Trump’s term is over a new American leadership will revert to the old script. It is now clear that at least some in the policy making circles do not think so. The sober views expressed by external affairs minister S. Jaishankar at the Asia Society in New York suggest there is some rethinking. Perhaps the rethinking has been prompted by an assessment of where the US-China relationship is headed.
+
+Going forward it would seem that India will continue to buy some defence equipment or other to make sure that the US share of India’s defence imports does not go below the 10 per cent level where it is now at. India is unlikely to buy any major platform. No fighter jets please. But, for a few dollars more Pentagon and Mr Trump’s billionaire friends will be kept happy. That allows some retired Indian diplomats and policy analysts to remain in play as lobbyists for American arms exporters.
+
+The US may even play along with India to keep the four-nation Quad alive. The US secretary of state, Marc Rubio, is expected to be in New Delhi. He may announce that on the sidelines of the G-20 summit in the US this December there would be a Quad summit. That will keep some America enthusiasts busy. But the new “Great Game”, as London’s Financial Times...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/india-us-and-china-in-the-new-great-game-1995033)
+
+---
+
+### No Way! Canada Is War-gaming Trump’s USA
+*Deccan Chronicle · Opinion*
+
+Who would have thought that the United States would one day seize a sitting President and bundle him out of his country; unilaterally tear up a nuclear agreement with Iran that the other signatories and the UN nuclear watchdog had regarded as being honoured until the US withdrawal; threaten to take Greenland by force; unleash an unprecedented tariff war; menace its own existential ally, the Nato; and repeatedly suggest that Canada should become the 51st American state?
+
+And yet here we are. The astonishing thing about the second Trump presidency is not simply that Donald Trump says outrageous things. It is that so many things that once sounded outrageous have acquired the unnerving quality of reality. Ask the Iranians. Ask the Venezuelans.
+
+So perhaps Canadians can be forgiven for no longer laughing when Mr Trump talks about annexing their country. Canada has now begun contemplating something that, until recently, belonged to the realm of military science fiction, i.e., what if the United States actually attacked? Canadian Prime Minister Mark Carney has acknowledged that his government has considered the possibility. He stressed that the risk remains extremely low and the scenario highly improbable. But he warned that his responsibility was to consider all possibilities as the relationship between the two countries is fundamentally redefined. “That's just risk management,” Mr Carney said.
+
+War-gaming an American invasion is not the same as believing one is imminent. Militaries plan for improbable contingencies because the price of being unprepared for the improbable can be catastrophic. Canada’s defence policy places the defence of Canada and Canadians at the centre of the Canadian Armed Forces’ mission, alongside sovereignty, Arctic security and continental defence. But there is something uniquely surreal about the contingency now occupying Canadian planners. It is not Russia or China crossing the Arctic. It is America.
+
+For generations, Canadian defence planning rested on an assumption so deeply embedded that it barely needed stating — the United States was the shield, not the threat. Canadian and American soldiers trained together. Their intelligence services shared information. Their aircraft patrolled the skies together. NORAD made the two countries partners in defending North America. But because that architecture still exists and they remain deeply integrated militarily, Mr Trump’s unhinged rhetoric seems so corrosive.
+
+The fact that the Canadian officials now have to think about it exposes something profound, i.e., alliances depend not merely on military capability, but on assumptions about political behaviour. And Mr Trump has spent years smashing those assumptions. The United States possesses overwhelming military superiority over Canada. No serious Canadian strategist needs a spreadsheet to understand the imbalance. But an invasion would not necessarily be simple.
+
+Canada is vast. Its population is concentrated along the American border, but its territory stretches across an enormous Arctic expanse. Canadian and American forces are deeply integrated. Their officers know one another. They train together. They share intelligence. It would be a rupture between military habit and political command almost without precedent in modern North America.
+
+And Canada has history. Fear of American expansionism is not a paranoid invention of the Trump era. It is woven into Canada's origins. The United States invaded British North America during the War of 1812. American forces captured parts of what is now Canada. The colonies that eventually became Canada understood that their survival required a political and military counterweight to the enormous republic to the south. Canada’s identity was, in part, built around not becoming America.
+
+That history faded as the two countries became extraordinarily close. Trade, culture, defence and geography made the border almost psychologically disappear. Mr Trump has made Canadians look at it again. And once you start looking, the old questions return. What happens if tariffs become instruments of political coercion? What happens if economic pressure is used to force concessions on sovereignty? What happens if Canada concludes that dependence on Washington has itself become a vulnerability? And what happens if the political assumptions underlying NORAD are suddenly no longer reliable?
+
+These are no longer entirely academic questions. Canada is investing heavily in continental defence, Arctic surveillance and NORAD modernisation. Its military is expanding capabilities across land, sea, air, space and cyber. The purpose is not to prepare for war with America. It is to prepare for a world in which assumptions about security can no longer be taken for granted. That is the real strategic revolution. Canada is preparing to be less certain that America will always be there to protect it.
+
+For decades, Canadian defence policy could afford a degree of complacency because the...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/no-way-canada-is-war-gaming-trumps-usa-1995027)
+
+---
+
+### A vital democratic space reopens
+*Deccan Herald · Editorial*
+
+After 37 years, student union elections are returning to Karnataka’s colleges. The government’s decision reopens an important democratic space on campuses, but it also carries the responsibility of ensuring that the excesses that led to the 1989 ban are not repeated. The first phase will cover government, aided, and private colleges under the Department of Collegiate Education, with elections to be conducted within a prescribed timeframe.
+
+The rules broadly follow the J M Lyngdoh Committee’s recommendations, constituted pursuant to a Supreme Court directive to reform student elections and make them more transparent. Candidates must maintain at least 75% attendance and have no criminal record.
+
+Money power, gifts, political-party involvement, and provocative campaigning are prohibited. Posters and banners are barred, with only A5-sized leaflets permitted, while social media campaigns must not promote hatred or animosity. Women will have reserved positions in the union executive.
+
+Student elections: Karnataka govt order caps poll expenditure at Rs 20,000These safeguards are essential given Karnataka’s troubled experience with campus politics. The Veerendra Patil government banned student elections after campuses witnessed violent clashes, caste-based mobilisation, and increasing political interference. Student politics in Bengaluru had developed links with criminal elements, with underworld figures using campuses to recruit young men.
+
+The ban restored academic order, but it removed an important avenue for democratic participation. The return of elections offers an opportunity to restore student representation without reviving the conditions that once made it untenable. Campuses are among the few spaces where young people can learn the practical disciplines of democracy: debating competing ideas, organising campaigns, negotiating with authorities, accepting electoral outcomes, and holding representatives accountable.
+
+Many political leaders began their public lives in student movements, and the government has cited leadership development as a reason for restoring campus elections. The proposed Bharat Jodo Youth Clubs could complement this effort by creating forums for debate and community engagement while nurturing young leaders.
+
+The challenge now is to ensure that campus democracy does not become a pipeline for political patronage, money power, or criminal influence. Student unions must be integrated into institutional governance rather than allowed to function as parallel centres of authority. Regular engagement between elected representatives and college administrations can provide a structured mechanism for addressing grievances before they escalate into confrontation.
+
+Equally important is strict enforcement of restrictions on political-party involvement. The return of student elections must nurture a generation equipped to question authority, participate responsibly in public life, and strengthen democratic culture. Karnataka must ensure that the classroom remains the centre of campus life even as democracy returns to it.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-vital-democratic-space-reopens-4179116)
+
+---
+
+### An authoritarian reflex in the national capital
+*Deccan Herald · Editorial*
+
+The right to protest is as important as, or even more important than, the right to vote. But the Union government, along with the Delhi administration, not only denied but also actively suppressed this right for thousands of protesters in Delhi over the past two days, much in line with the anti-rights policy it has pursued.
+
+Activists of the Cockroach Janta Party (CJP) and other parties and organisations are in Delhi to protest against the Election Commission of India’s Special Intensive Revision (SIR) of electoral rolls and demand the resignation of Chief Election Commissioner (CEC) Gyanesh Kumar.
+
+The government took the most stringent steps, locking down and barricading the capital to prevent demonstrations at Jantar Mantar or anywhere else in the city. Delhi was turned into a fortress where the Constitution and the normal laws of the land were virtually suspended.
+
+AISA students detained in Bengaluru during protest against SIREC-SIR protests | Amid Gen Z rise, political parties cautiously look to ride the waveThe government’s response was wrong and grossly disproportionate to the exercise of a constitutional right. It also deprived millions of Delhi residents of their rights. Internet services were shut down in many parts of Delhi, metro stations closed, trains to and from Delhi cancelled, barricades and detention centres set up all over the city, and over 50,000 security personnel deployed to stop, take away, and detain protesters.
+
+Leaders, including CJP’s Abhijit Dipke, former chief ministers Arvind Kejriwal and Pinarayi Vijayan, party presidents and others, were detained or arrested. At least 7,000 protesters were taken into custody, many dragged into vehicles after scuffles. Leaders, including MP John Brittas, were allegedly ill-treated and tortured. The police announcements warned citizens against joining the protest. Clearly, the government wanted to prevent and break the protest.
+
+Protest against CEC | Students, political leaders and others hit streets in barricaded Delhi; 7,000 detained Suppressing the democratic right to protest is the hallmark of an authoritarian regime. The government even violated the Supreme Court’s order by shutting down multiple metro stations despite explicit directions against total closure. The BJP claimed that democracy won and mobocracy failed. However, the democratic spirit lay in protests and the resistance to the government’s crackdown, not in the attempt to foil them.
+
+Some detained leaders have been released under conditions. The Supreme Court has reiterated that there must be no restrictions on movement and no illegal detentions, and has said that it will examine the alleged excesses of the forces. The protests are expected to intensify in the coming days. They have now become not only about the right to vote but also about the fundamental right to protest itself.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/an-authoritarian-reflex-in-the-national-capital-4179115)
+
+---
+
+### Irrespective of Netanyahu's political fate, India-Israel ties on terra firma
+*Deccan Herald · Opinion*
+
+Israel’s national elections on October 27 are hardly getting any attention in India, unlike the November 3 mid-term Congressional elections in the United States.
+
+High interest in the US polls comes from the fact that they could decide whether President Donald Trump becomes a lame duck, or even faces impeachment. It is like playing a round of Russian roulette. Meanwhile, at home, elections are at the centre stage now — although there is no voting — because of an ongoing agitation against the Election Commission of India (ECI).
+
+All in all, three important democracies are at the crossroads. Israel is West Asia’s only fully developed, conventional democracy, and India’s stakes in Israel’s rapidly transforming political landscape are understated although immense.
+
+That an Indian airline pilot, Captain Smit Machchhar, prevented the biggest pilot hijacking — since a Germanwings suicide crash killing 150 passengers and crew in 2015 — is emblematic of India’s equal importance for Israel and for the Gulf. Whether Benjamin Netanyahu wins or loses his bid to continue into his 20th year as Israel’s prime minister, it will make very little difference to ties between New Delhi and Tel Aviv. There is across-the-board support in Israel for strong ties with India.
+
+There are many similarities in the political and social situation with India as Israel and the US go into elections. Let us leave aside the US for the moment and compare Israel and India. If Netanyahu returns as prime minister, it will be on the back of Jewish extremist parties to whom he has already conceded alarming space to remain in office. Such a coalition in power again will do its utmost to destroy Israel’s famously independent judiciary and legal system as well as resort to ethnic cleansing of Palestinians. In India, an equally free judiciary is standing, not for want of efforts to uproot it. As for minorities, every day brings complaints of alleged discrimination that are too numerous to be listed here and be distracted from the primary subject of elections in Israel.
+
+Israel to allocate funds for rescue flights for citizens stranded in DubaiThere are two longer-term dangers inherent in the success of Netanyahu’s desperation to remain in power, leaning on the shoulders of Jewish extremist parties. One is the demographic change it will entail. While regular Jews in Israel have two-child families on average, social scientists point out that these extremists, on average, have seven children each. Such male offspring go to the equivalent of madrasas in regressive Muslim communities in South Asia and do not receive education, which is universally considered modern. They only study religious texts. In addition, they are exempt from military service. It is conceivable that a time will come when most voters in Israel will be legally sanctioned and officially patronised Jewish extremists. The others will be simply working for them — or worse, fighting for them. These extremists constitute a threat to Israeli society and way of life. Since Israel is an undeclared nuclear weapons power, they also constitute a threat to the entire world.
+
+Going to the polls three weeks after a controversial — marked by allegations of security failures — third anniversary of the October 7, 2023, Hamas attack, there is unanimity among Jewish voters that October 7 was a turning point in their lives. What is absent is unanimity on how to face the future. Unlike, for instance, the fallout of the 2019 terrorist attack on a paramilitary convoy in Pulwama district of Jammu and Kashmir. The Pulwama attack saw Indians resolutely lining up behind their government and supporting cross-border retaliation against Pakistan. Opinion polls in Israel predict a 40-50% fall in the number of seats for Netanyahu’s Likud Party, well below the 32 seats it now has in the 120-member Knesset.
+
+Former Army Chief of Staff General Gadi Eisenkot’s Yashar party, formed only 13 months ago, is expected to be the largest bloc in the new Knesset. In part, Israel’s complicated electoral system of proportional representation will be responsible for the party’s good showing if opinion polls prove correct. The general has an aura caused by the deaths of his son and two nephews in the inconclusive battle for Gaza. Netanyahu, on the other hand, is mired in corruption charges, which he is trying to dodge because immunity from trial is a grey area for a prime minister. Together, the opposition parties have more candidates than the Likud Party in the fray, whose families were victims of the October 7 attack. They pose a moral challenge to Netanyahu even as credible reports are emerging that the government ignored warnings from abroad of an impending Hamas assault.
+
+On October 1, Trump refused to endorse Netanyahu despite being badgered in an interview to Time magazine to draw the president out on Israel’s elections. “I don’t hear bad things about him,” Trump said about Eisenkot. Trump is very popular in Israel, and his refusal to endorse Netanyahu may be one more setback for the embattled prime minister.
+
+K P Nayar has extensively covered West Asia and reported from Washington as a foreign correspondent for 15 years.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/irrespective-of-netanyahus-political-fate-india-israel-ties-on-terra-firma-4179376)
+
+---
+
+### October 10 crackdown was a dress rehearsal for a police state
+*Deccan Herald · Opinion*
+
+The sky was cloudy, the streets empty, the barricades bright yellow, the buses lined up across the city, orange. Security forces poured out of these orange vehicles, and the capital of the world’s most populated democracy was barricaded. The silence of the streets was the metaphor for the attempt to silence democratic dissent. From the state’s perspective, it was a success that ‘the people’ were restrained and detained.
+
+But what will happen tomorrow, the day after, the week after, and the month after?
+
+For this goal of not allowing protesters to reach Jantar Mantar, the great Indian Railways had been halted if the destination was Delhi, and metro stations within the city were closed. Vignettes of what unfolded were the sight of a senior counsel of the Supreme Court being manhandled and carried away by the police, four former Chief Ministers and many journalists detained for varying periods, and flash mobs that appeared suddenly were arrested. An influential YouTuber, with a following that could make political leaders envious, was detained.
+
+An authoritarian reflex in the national capitalThen, in a scene rarely seen in India, police personnel entered an aircraft to whisk away the leaders of a movement just four months old; the Cockroach Janta Party is not a registered political party nor has it contested an election! The Narendra Modi government’s actions looked terribly tyrannical.
+
+The police high-handedness that we saw across Delhi on October 10, was this a dress rehearsal for becoming a police state? It looked and felt like one, although claims are being made that it was to maintain law and order and stop ‘anarchy’.
+
+Why is the government ready to lose the narrative — national and international — with this overkill? That is because the demand of the protesters — not just the CJP and Left student unions on October 10 and 11, but also the Congress that hit the streets of Delhi on October 6 and has announced plans to continue protesting — is to get rid of CEC Gyanesh Kumar. And herein lies the rub: Kumar has been much more valuable to the BJP and the Modi government than Dharmendra Pradhan, the former Education Minister who resigned in July following protests.
+
+The BJP is willing to lose face among people it believes don’t support it anyway, as long as it continues to influence and steer institutions that are meant to be independent — most significantly the Election Commission of India. What matters to the BJP is political control and electoral conquest — most recently in West Bengal, the State from which the most troubling narratives have come about deletion of voters from voter rolls, breaking of opposition parties after the Assembly polls, and most recently a bypoll in Nandigram where the Opposition could barely fight and potential Opposition voters fearful. A sham election as desired by the ruling BJP.
+
+The West Bengal election had taken place in April after an unprecedented mobilisation of Central troops and large-scale voter deletion under CEC Kumar’s benevolent watch. Even if he eventually goes, the government would be anxious to ensure that there is no butterfly effect that can culminate in demands for repolls in West Bengal, and even Bihar, where the Special Intensive Revision (SIR) of electoral rolls took place just before the 2025 Assembly polls.
+
+Connect the dots to the large-scale troop deployment in Delhi, and make no mistake, the iron fist is on display, and the velvet gloves are off. Halfway through his third term as the Prime Minister, shortly after Modi was mocked and forced to drop a Minister, it’s not just the RSS/Bajrang Dal/BJP cadre that will do the fighting and mobilising. The police and security forces are being used for political and partisan ends without any qualms.
+
+The last time Delhi witnessed the state’s brutal force was after the cataclysmic events that followed the assassination of Indira Gandhi in 1984. But on October 10, 2026, it was done for something which has not yet happened—and that makes it Orwellian in its scope. What was planned was a traditional protest on the designated grounds of Jantar Mantar, asking Gyanesh Kumar to go.
+
+The troops are still out there not to defend Kumar the individual, but to defend the elections that have taken place since the SIR started under his watch, and to defend the upcoming polls in Uttar Pradesh, among other states. Moreover, visuals of the police state were not just a message to the citizens of this country, it was a signal to the bureaucracy that it was required to go along to make election malpractice possible. The October 10 crackdown was about sending a message.
+
+Saba Naqvi is a journalist and author.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/october-10-crackdown-was-a-dress-rehearsal-for-a-police-state-4179370)
+
+---
 
 ## 11 October 2026
 
@@ -21692,278 +21971,6 @@ The writer is a Kashmir-based columnist and a research assistant at the J&K High
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/to-cut-pendency-courts-must-invest-in-the-teams-behind-judges-4072614)
-
----
-
-## 13 July 2026
-
-### ​Insular incentive: On ethanol-blended fuel and the Indian consumer
-*The Hindu · Editorial*
-
-The Indian government’s policy to continue producing E20 petrol at a cost higher than that of pure petrol when oil prices dip under $70 a barrel to “compensate farmers adequately” is a deceptively well-formulated proposition. Most feedstock for the fuel-blending programme is from sugarcane, one of India’s most water- and fertilizer-intensive crops, mainly grown in water-stressed Maharashtra and Karnataka. Whether the policy’s net economic benefit remains positive will depend on the gains from lower crude imports, environmental improvements, and higher rural incomes outweighing these additional costs. Efficiency also remains a concern. Consumers — including people who are poorer than sugarcane farmers — pay more at the pump, oil marketing companies procure ethanol at the administered price, distilleries buy feedstock, and only then do farmers receive higher prices. Higher feedstock prices also do not address most reasons farmers have lower incomes, such as post-harvest losses and limited market access. Crucially, if the government rewards every unit of ethanol irrespective of feedstock, the policy will favour whichever feedstock has the largest installed base: sugarcane. Instead, the objectives should include resource efficiency and food security. The state could invest in irrigation and logistics and institute revenue-sharing arrangements with ethanol producers and cooperatives.
-
-India has encouraged maize and grain-based distillation capacity has expanded rapidly, periodically allowed ethanol to be produced from the Food Corporation’s surplus or damaged rice holdings, and has supported commercial plants using agricultural residues such as rice straw under Ministry of Petroleum and Natural Gas schemes. Maize and millets are less thirsty but maize still demands significant fertilizer inputs while millets produce less fermentable starch per hectare. Sweet sorghum is less water-intensive and has a shorter growing season than sugarcane. Lignocellulosic biomass such as rice and wheat straw, maize stover and groundnut shells can also support second-generation (2G) ethanol. 2G ethanol from agricultural residues can avoid using cropland for fuel, reducing competition with food crops and addressing stubble burning. It is more expensive and technologically demanding but that is a better problem to solve, with proactive policymaking. The government could pay a premium for ethanol produced from residues, subsidise equipment and infrastructure to collect and store crop residue, facilitate contracts between aggregators and distilleries, and provide viability-gap funding and offtake agreements. Ultimately, ethanol policy should not be independent of agricultural policy. And import substitution is no excuse for consumers being forced to pay more for lower-mileage fuel than pure petrol.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/insular-incentive-on-ethanol-blended-fuel-and-the-indian-consumer/article71214023.ece)
-
----
-
-### Oil conundrum: On India’s energy imports from Russia
-*The Hindu · Editorial*
-
-Union Ministry of Commerce and Industry (MCI) data on India’s May crude imports show that receipts from Russia had reached the pre-sanction levels of more than 40%, which is also the highest in two years. Though India has defended this as commercially prudent, its yuan-based payments give China an edge to internationalise its currency at India’s expense, even if it has no bearing on the domestic strength of the Indian rupee due to strict capital controls. Oil import concentration from a single source, and paying a premium, is risky for India, which has long pursued a diversified energy strategy. Moreover, sourcing fuel from the Gulf spot market amid evolving sanctions has its own risks. Secondary sanctions could hit trade channels, exposing Indian refiners to severe supply shocks. India’s crude imports from Russia surged in June, while UAE shipments were at record levels as refiners sought to secure supplies after the Strait of Hormuz reopened. However, renewed Iran-U.S. hostilities have put those flows at risk. And even as Venezuela has emerged as a key supplier, increasing and unsustainably high one-country concentration could weaken India’s bargaining power, reduce flexibility, and erode its credibility as an independent balancing power.
-
-MCI data highlight the price impact: Russian imports carried a $46-per-ton premium. Import value surged 83% amid a 2% fall in volume, likely diminishing Indian refiners’ margins on refined products using Russian crude. While spot purchases have enabled refiners to capture discounts of up to $10 per barrel on Russian Urals crude relative to Brent during some periods, after February this year, narrowing discounts, weaker product cracks, and geopolitical risks have moderated gross refining margins. India must strike a balance between having long-term stable contracts with multiple producers, and selectively using the spot-market to mitigate the procurement risks. Until the Russia-Ukraine conflict, nearly 70% of India’s crude imports came through long-term contracts, particularly from West Asia. True, India cannot overlook the diplomatic costs as Russian energy dependence risks sanctions. When Russian crude was cheap because of discounts on account of the Ukraine war, India reduced imports under U.S. pressure; now when it is being sold at a premium because of the Iran war, India is moving back to Russian crude. India must expand its strategic petroleum reserves to cushion temporary disruptions. Whether it increases or cuts down Russian oil imports, India seems to make decisions that are far removed from any sense of strategic autonomy.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/oil-conundrum-on-indias-energy-imports-from-russia/article71214010.ece)
-
----
-
-### Contradictions within India’s cow protection regime
-*The Hindu · Opinion*
-
-The recent discovery of hundreds of cow carcasses at a dumping site in Jaisalmer, Rajasthan, rightly triggered an outrage on social media. A few years ago, a similar incident involving the mass starvation deaths of cows was reported from Chhattisgarh. The new Bharatiya Janata Party (BJP) government in West Bengal issued a public notice on May 13, 2026, laying down stringent conditions for the slaughter of animals under the West Bengal Animal Slaughter Control Act, 1950.
-
-Supreme Court stays Madras HC order directing ban on cow slaughter in Tamil Nadu
-
-Last week, a two-judge Bench of the Calcutta High Court upheld the notice, observing that the conditions mentioned in the impugned order were issued in compliance with the High Court’s order of August 16, 2018. Consequently, no cow, bull, bullock or even buffalo can be slaughtered without first obtaining a “certificate of fitness” from government officials. Despite all the rhetoric, the notification permitted the slaughter of cows older than 14 years, which justifiably annoyed Hindutva supporters.
-
-Which States have banned cow slaughter in India?
-
-Over 20 States in India have laws prohibiting cow slaughter. Only Arunachal Pradesh, Meghalaya, Nagaland, Sikkim, Tripura, Manipur, Mizoram and Kerala do not have such laws. But what is the efficacy of these laws? Have the stringent provisions and enhanced punishments introduced over the last 12 years helped preserve cows, or could such laws ultimately contribute to their decline? Whether cow reverence constitutes an essential Hindu practice and whether such laws violate the right to privacy are issues that require a ruthlessly objective assessment.
-
-Politics, faith and cowsCow protection has long been a central Hindutva issue and which explains the contents of the Bengal notice. Yet, the Congress too has historically benefited from cow protection campaigns. Viceroy Lord Lansdowne famously observed that the cow protection movement had transformed the Indian National Congress from “a foolish debating society into a real political power”. The cow and calf were the Congress’s symbols for decades. Whenever the BJP comes to power in a State, amending cow slaughter prohibition laws to make them more stringent — by enhancing punishments, criminalising possession of beef, and restricting the transport of cattle within or outside the State — becomes a priority. The Gujarat law of 2017 even provides for life imprisonment, and in 2025, three persons were reportedly sentenced to this extreme punishment, ordinarily reserved for heinous offences such as murder, terrorist acts and dacoity. True, cow reverence among Hindus is ancient and enjoys near-unanimous acceptance, though scholars such as D.N. Jha have disputed this assertion citing scriptural material. He pointed to instances in Dharmashastric traditions where Yajnavalkya appears to endorse the consumption of beef, and highlighted the inconsistencies and polymorphic nature of Indian dietary practices. He also argued that the “holy” status accorded to the cow was largely a much later development, and noted that several prescriptive Hindu texts classified cow slaughter as a minor sin (upapataka) rather than a major offence (mahapataka). Strikingly, even the prominent Hindutva ideologue Vinayak Damodar Savarkar held views that differed significantly from those of many present-day Hindutva activists. Consequently, cow reverence may not satisfy the parameters of the essential religious practices test which requires practice to be mandatory from the time of origin of a religion.
-
-In Mohd. Hanif Quareshi vs State of Bihar (1958), the Supreme Court of India rightly held that cow slaughter on Bakr-Eid is not an essential Islamic practice either. Several Muslim rulers had also restricted cow slaughter. Babur advised Humayun to do so in his will, Jahangir’s Edict No. 10 too prohibited animal slaughter on certain days out of respect for Hindu and Jain sentiments. The influential Deoband Islamic seminary too issued multiple fatwas discouraging cow slaughter. Even in the Constituent Assembly debates on November 24, 1948, Muslim members such as Z.H. Lari and Mohammad Saadullah insisted that “it is better to come forward and incorporate a clause in fundamental rights that cow slaughter is henceforth prohibited, rather than it being left vague in the directive principles.…”
-
-What cattle census data revealDr. B.R. Ambedkar eventually placed cow protection within the non-justiciable Directive Principles under Article 48 of the Constitution, following which several States enacted laws after Independence prohibiting cow slaughter. Yet, cattle census data suggest that the objective of preserving and increasing the cow population has not been achieved. West Bengal, for instance, was among the few States where culling and sale of cows and bulls were not entirely prohibited. By conventional logic, its cow population should therefore have been far lower than that of States such as Gujarat, Uttar Pradesh and Maharashtra. However, since 1951, the cow population in the country has grown by only 49.63%, while the buffalo population has risen by 153.8% and the female buffalo population by 161.9%. The figures speak for themselves: cows face the risk of decline.
-
-Ironically, the unprotected buffalo population has grown far more rapidly, especially in the so-called cow-belt States. A comparison of cattle growth rates shows that West Bengal, despite lacking stringent cow slaughter laws, has performed better than States with strict prohibitions. Even though male cattle are protected in these States, their population has declined sharply — by 38.3% in Gujarat, 31.4% in Maharashtra and 58.27% in Uttar Pradesh. In contrast, the decline in male cattle population in West Bengal was only 22.8%. The data also suggest that stringent prohibition laws may be pushing farmers in these States towards buffalo rearing, reflected in the declining cattle-to-buffalo ratio between 2012 and 2019. In West Bengal, by contrast, buffaloes remain insignificant in number and their population sharply declined in 2019. In 1997, the cattle to buffalo ratio was 144:1 but in 2019 it became 295:10. In Uttar Pradesh, the cattle-to-buffalo ratio fell from 105:100 in 1997 to 56:100 in 2019. West Bengal, despite lacking stringent prohibitions, witnessed a comparatively stronger growth in cow population and, therefore, mere laws will not protect cows.
-
-Cattle populations grow in a compounded manner because, unlike humans, a cow gives birth to its first calf at around three years and, to remain productive, must calve every 14-16 months. Calves born during a census period also mature and begin reproducing within a few years. According to growth forecasting models, if no cattle were culled or slaughtered and all calves survived except for natural deaths, the cattle population would increase by 2.5 to three times within five years — something that has never occurred in any State. Such growth is economically unsustainable, as farmers cannot support such numbers due to fodder scarcity.
-
-Undermining the farmerWhen farmers are legally allowed to exercise their judgment in culling unproductive cattle, they earn additional income to meet expenses such as weddings, children’s education and health care. According to simulation models, farmers in West Bengal earned nearly ₹35,000 crore between 2012 and 2019 from the lawful sale of cattle for slaughter, apart from their dairy income. Farmers in States with strict prohibition laws also appear to have sold cattle for slaughter as is reflected in declining cattle populations, but likely to have earned far less because of the illegality of such sales and the possibility of bribery and middlemen. In effect, these laws do not penalise butchers or beef consumers, but farmers themselves. West Bengal appears to have recognised this reality with Muslim refusal to purchase cows for Eid slaughter. In India’s agrosilvopastoral economy, livestock remains a vital component of rural livelihoods.
-
-In the privacy judgment of K.S. Puttaswamy (2017), Justice J. Chelameswar had observed “I do not think that anybody would like to be told by the State as to what they should eat or how they should dress or whom they should be associated with either in their personal, social or political life.” Justice Chandrachud said that what one eats is one’s personal affair and it is a part of privacy under Article 21, i.e., right to life and personal liberty In view of the politicisation of the issue, Muslims in Bengal prudently refrained from cow slaughter during Eid. One hopes that this will promote social harmony and counter communal hate campaigns. Maulana Arshad Madani, president of the Jamiat Ulama-e-Hind (Arshad Madani faction), has also called for the cow to be declared the national animal. The first writer of this article, though not a veterinary expert, believes that Muslims across India should support a central law banning cow slaughter and imposing stringent punishment, especially on those who sell cows for slaughter.
-
-Faizan Mustafa is Vice-Chancellor, Chanakya National Law University, Patna, Bihar. Abdul Samad is Former Dean, Mumbai Veterinary College. The views expressed are personal
-
-[Read full article](https://www.thehindu.com/opinion/lead/contradictions-within-indias-cow-protection-regime/article71034259.ece)
-
----
-
-### Five crore Indians wait when the courts take a break
-*The Hindu · Opinion*
-
-The Supreme Court of India and the major High Courts are on a summer holiday break, i.e., shut down with some vacation Benches functioning to hear urgent matters. However, shops, markets, eating places, government and private offices, hospitals and police stations do not cease to work even though their staff enjoy personal leave. On the other hand, somewhere in an Indian jail tonight, a man who has been convicted of nothing is finishing another year behind bars, his trial still ongoing and perhaps years away from ending. He is one of the roughly three in four prisoners in this country who are undertrials: unconvicted, presumed innocent, yet serving time anyway — often longer than the sentence they would have received had they pleaded guilty. And as you read this, the courts, the public institutions that hold the fate of the poor in their hands, are functioning at only a fraction of their strength.
-
-A three-century backlogFrom June 1 to July 12, the Supreme Court is on its summer break, sitting with three or four Benches a week instead of a full court and resuming in earnest on July 13. The doors are not bolted; urgent pleas are still heard. But for six weeks, the most powerful court in the world’s most populous democracy idles.
-
-Now hold that against the number it is meant to be fighting. As of the last day of 2025, more than 5.39 crore cases were pending in Indian courts: over 4.76 crore in the district courts, 63.6 lakh in the High Courts, and more than 92,000 in the Supreme Court itself, its heaviest load in over 30 years. A government study once calculated that, at the present pace, clearing the pile could take three centuries.
-
-Three centuries. And the Court takes the summer and winter vacations off.
-
-To be fair, the judges deserve it. The recess is when reserved judgments finally get written, when the brutal daily cause-list eases enough to think.
-
-Last year the Chief Justice of India and his four senior-most colleagues worked clean through the first week of the break. Indian judges are among the most overworked in the world. This is not an accusation of laziness; no one who has seen a judge’s docket could make one.
-
-Because that is precisely the point. When the people doing the work are exhausted and the backlog is biblical, what conceivable logic shuts the whole shop at once? Not that judges rest — which they should — but that almost all of them rest together, so the institution goes quiet for six-plus weeks every year. And the habit is a colonial hand-me-down: the calendar was built for English judges who could not stand the Indian heat and retreated to cooler climes each summer, then enjoyed long Christmas holidays in the winter.
-
-In 2024, the Court announced a fix: it renamed the “summer vacation” as “partial court working days”. That was it. The number of days it actually sits — about 190 days in a a year — did not change. You cannot rebrand your way out of a backlog; a litigant whose case is stuck does not care what the recess is called, only whether his matter is heard and disposed of.
-
-Justice needs court continuitySo what would actually help? The first answer is one the judiciary’s own watchdogs have urged for years: do not abolish judicial rest; stagger it. A parliamentary standing committee in 2023 objected to “the entire court going on vacation en masse”, and proposed the obvious: rotate the leave, keep the Benches full, and never let the court run thin. A hospital does not empty its wards because its doctors are owed time off; it builds a roster. The Law Commission and the Justice Malimath Committee said the same, long ago. They were not enemies of the courts; they were trying to save them from themselves.
-
-The standard objection is that all this is a sideshow: the real disease is vacancies, not vacations. It is true that courts are starved of judges, with up to a third of High Court seats lying empty. But the objection boomerangs. If the Bench is already running at half strength, thinning it further for six weeks every summer is not a defence of the recess; it is the strongest case against it. And while filling those seats depends on the government and the collegium and will drag on for years, the calendar is the judiciary’s to fix. One reform needs permission; the other needs only will.
-
-Beyond courts, towards solutionsStaggering the leave, though, only treats the symptom. The deeper fix is to keep disputes out of the courtroom in the first place; it was never meant to be the first stop for every quarrel, but the last. India already has the tools. Lok Adalats settled more than 2.59 crore cases in a single national sitting last December, and over 23.5 crore in three years. The Mediation Act of 2023 now nudges parties to attempt settlement before going to court, and arbitration can take commercial disputes entirely out of judges’ hands; yet these routes remain badly underused. But none of this happens on its own.
-
-The country has a reservoir of experience it scarcely draws on: its retired judges, who spent their careers mastering this very machinery and step down, still in full command of it, at 62 or 65. Their expertise need not retire with them. Albeit many of them do function as heads of quasi-judicial bodies and tribunals. Freed from any daily docket, a dedicated corps of former judges could be invited to take up a single targeted charge: identify where cases pile up, set public targets for their disposal, and account for progress openly. Reform that belongs to everyone belongs to no one.
-
-The judges will keep working through the heat, as they always do. The honest demand is not that they stop resting, but that the courts stop closing ranks and falling silent at the same moment, because justice, for five crore Indians, is not on vacation. It is overdue.
-
-Vijay L. Kelkar is Vice-Chairman of the Pune International Centre. Pradeep S. Mehta is Secretary-General of CUTS International (Consumer Unity and Trust Society). With contributions from Anushka Kewlani of CUTS
-
-[Read full article](https://www.thehindu.com/opinion/lead/five-crore-indians-wait-when-the-courts-take-a-break/article71214475.ece)
-
----
-
-### DC Edit |Need For J&K Statehood Is Vital; Don’t Lose Focus
-*Deccan Chronicle · Editorial*
-
-Stripping Jammu and Kashmir of its statehood, along with hollowing out Article 370 of the Constitution, was an act of sleight of hand by the NDA government at the Centre. The BJP may claim justification for doing away with the constitutional link that had bound the Indian nation to the state of Jammu and Kashmir because it had long been part of the agenda the party placed before the people of the country; but to strip a state of its basic status to achieve a political end was a deception played on the people of Jammu and Kashmir, the people of India and the Constitution itself.
-
-Article 1 of the Constitution is not only the foundation of that document but also the cornerstone of the entire array of principles this nation is founded on. It states in no uncertain terms that ‘India, that is Bharat, shall be a Union of States’. The framers of the Constitution had no doubt in their minds that the very idea of India is founded on federal principles and that the states are its foundational units. There are indeed provisions to make and unmake states as the country moves forward so that the interests of the people are better served.
-
-The boundaries and even the names of the 28 states classified into four categories that existed when the Constitution came in force in 1950 have been changed several times. The changes, however, were made to reflect the aspirations of the people. In fact, the Constitution was mindful of placing popular demand above the opinion of the state legislature in that Parliament was empowered to carve out new states without the consent of the existing state legislature, evidently taking into account possible resistance to division.
-
-Every single principle of the Constitution and every constitutional propriety was violated when Jammu and Kashmir was bifurcated into two Union Territories in 2019. The move was followed by an assurance by the nation’s leadership, through the voices of the Prime Minister and the Union home minister, that its statehood would be restored in the near future. The government gave the impression that elections to the state Assembly would be the marker: once an elected government came to power, statehood would be restored. However, it was not to be.
-
-Chief Minister Omar Abdullah was at his diplomatic best over the past two years when he chose not to adopt a confrontational course with the Union government on the question; he counselled patience even among his own party colleagues believing that the Union government would fulfil its promise to the state and to the nation. He has now called for a march to the national capital on July 20 to press for the demand.
-
-The BJP’s response to the call, and to the demand itself for statehood has been one of obstinacy and arrogance. Instead of addressing the issue the Chief Minister has raised, the party is now offering excuses for not walking the talk. The party knows fully well that such a response will an equally shrill response from the other side, which will offer the saffron party a further excuse to delay the decision. It would be advisable for Mr Abdullah to stay the course instead of allowing attention to be diverted from his genuine demand.
-
-The BJP would also do well to remember that history has not been very kind to the dispensations that sought to impose their writ on this country through skullduggery and arrogance; respecting democratic norms and acquiescing in the people’s wishes are in order instead.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-need-for-jk-statehood-is-vital-dont-lose-focus-1970660)
-
----
-
-### DC Edit | Resilience Wins At Wimbledon
-*Deccan Chronicle · Editorial*
-
-It is said of great players that they find the way to victory, which is exactly what Jannik Sinner did in retaining his title at Wimbledon. Having dealt with an almighty scare in the first round from the virtually unknown Miomir Kecmanovic, who took him to five sets, the Italian became the first man in 48 years to survive and win the cup at London’s SW19.
-
-Resilience has been the remarkable quality in Sinner’s journey to a fifth Grand Slam in the final of which he did not have to face his fiercest competitor in recent slams in the young Alcaraz who is yet to recover from injury. The German Alexander Zverev has stepped up in Alcaraz’s absence, winning a maiden grand slam in the French Open and jousting with world No. 1 Sinner.
-
-In a final that was developing into a typical Wimbledon classic of strapping athletes backing a booming service with precision in the first two sets that went into tiebreakers, Sinner just about got the better of Zverev. In one remarkable point he fell but regained his balance to keep the ball in play and find the winner to ultimately prevail in the second set tiebreaker.
-
-Sinner had already hit a high before the final in demolishing the all-time great Novak Djokovic in straight sets without giving him an inkling of a chance. Ironically, Zverev too had fallen heavily on the wearing grass and wasn’t the same again after his opponent had sportingly given him a helping hand to get up. Wrapping up matches by wearing down opponents with precision backing perseverance in sticking to percentage play is Sinner’s speciality.
-
-There were colourful stories on the distaff side too with two Czech players coming through a quality women’s field in which the top 20 players seem equally capable of beating each other. It was the young Linda Novoska who took the shield from British royalty soon after she won a battle against her own nerves. At 6-2, 5-2, she was on the verge of a historic win over Karolina Muchova when the very thought of victory seemed to consume the 21-year-old.
-
-Resilience was the much-needed quality there too as Novoska clawed back to save three break points in the first game of the final set and didn’t look back as she let her powerful serves take over again before joining a long list of Czech champions beginning with the incomparable 9-time Wimbledon winner Martina Navratilova, who was present to watch her fellow Czechs in the three-set final.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-resilience-wins-at-wimbledon-1970634)
-
----
-
-### Aakar Patel | Of NRC & SIR: How Governments' Use Of Arbitrary Powers Put Citizens In A Fix
-*Deccan Chronicle · Opinion*
-
-One common trait in lawless nations is the high levels of anxiety against arbitrariness. Medieval texts tell us this has always been the case in our parts. Cruelty is couched as process and millions put through torture. Special Intensive Revision forms are being handed out across India. It is impossible on a first reading of this form, no matter how educated the reader, to understand what one is required to do, even though it is a single page.
-
-We are told by the executive and the judiciary that putting us through this is not only reasonable but required and necessary. Of course, we have been down this road before.
-
-In 1998, the governor of Assam, a retired military man named Lt. Gen. S.K. Sinha (Retd) sent a note to then President K.R. Narayanan where he referred to the situation in alarming language: “Large-scale illegal migration from East Pakistan/Bangladesh over several decades has been altering the demographic complexion of this state. It poses a grave threat both to the identity of the Assamese people and to our national security. Successive governments at the Centre and in the state have not adequately met this challenge.”
-
-Gen. Sinha demanded action “to avert the grave danger that has been building up for some time … If not effectively checked, (Bangladeshis) may swamp the Assamese people and may sever the Northeast land mass from the rest of India. This will lead to disastrous strategic and economic results.”
-
-Gen. Sinha acknowledged he was not basing this assessment on any data. He added: “Unfortunately, today we have no Census report on the basis of which we can accurately define the contours of trans-border movement. Thus, we have to rely on broad estimates of theatrical extrapolations to work out the dimension of illegal migration that has taken place from East Pakistan/ Bangladesh.” In short, he had no evidence to prove this theory but he felt strongly enough about it just the same to raise it with the President officially.
-
-In 2005, Sarbananda Sonowal, who later became the BJP chief minister of Assam, went to the Supreme Court to make the laws governing the identification of individuals suspected to be foreigners harsher. The Supreme Court leaned on S.K. Sinha’s speculative note in this case to conclude that Assam was facing “external aggression”, which threatened a constitutional breakdown.
-
-This was reckless and unwarranted use of extremist language that reflected the prejudices and bigotry existing against Muslims which exist even in India’s highest court. The judiciary reversed the burden of proof for residents of Assam, a feature it regularly condones as we have seen in this column before. Normally, it is the state that must prove wrongdoing or criminal activity and it must provide the evidence that someone must be punished. This is the meaning of the term “innocent till proven guilty”. However, the onus of proving they were not foreigners (and for those born after 1971, that their parents or grandparents were not foreigners) was thrust by the judiciary onto the Assamese people. They were all guilty until they could prove themselves innocent.
-
-In a nation where many, if not most, are poor and many, if not most, are not fully literate, where documentation is weak, and in a state where flooding is not rare and the total loss of property quite common, this reversal of the burden of proof on such an important matter was cruelty. The other thing that the state did was to have almost no safeguards.
-
-The foreigners’ tribunals which would determine whether someone should be set free or sent to a jail, were staffed by people given four days of training. They were advocates and retired civil servants hired on two-year contracts. It was before such people that the individuals would have to present their case. The Assam government run by the BJP told the tribunal members what it wanted them to do by not extending the contracts of those who had a low rate of declaring individuals as foreigners.
-
-Individuals who had marked fewer than 10 per cent of the total number of people coming to their tribunal as being foreigners were deemed to be “not satisfactory” and shown to be “terminated”. The state government was effectively incentivising its tribunal officers to mark more people as foreigners, and punishing those officers who were not doing so. Such injustice did not receive nationwide, much less global, notice and the matter was limited to the Assamese media.
-
-The crisis snowballed when an Assamese, Ranjan Gogoi, was appointed as the Chief Justice of India. The state, which was then under BJP rule, drew up a first list, excluding over 40 lakh people and then a final list of those who it was satisfied met the criteria that it laid out. This was the so-called National Register of Citizens.
-
-The list excluded 19 lakh people from it who would now have to line up before the foreigners’ tribunals with their papers and prove their citizenship. The majority of these 19 lakh people turned out to be Hindus. This ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-of-nrc-sir-how-governments-use-of-arbitrary-powers-put-citizens-in-a-fix-1970672)
-
----
-
-### Bharat Bhushan | BNP Govt In Dhaka Risks Squandering India's Trust
-*Deccan Chronicle · Opinion*
-
-When Bangladesh’s new Prime Minister Tarique Rahman took office in February 2026, there was an air of optimism about a reset of India-Bangladesh ties. The removal of the interim administration of Muhammad Yunus, and its open anti-India bias, seemed to open space for a reboot.
-
-That hope seems to have dissipated.
-
-The election of the Bangladesh Nationalist Party government in February was a high-water mark. At Mr Rahman’s oath-taking, Lok Sabha Speaker Om Birla carried Prime Minister Narendra Modi’s invitation to Mr Rahman him to visit India. External affairs minister S. Jaishankar represented India at Begum Khaleda Zia’s funeral and by April the Indian high commissioner in Dhaka was speaking of a “forward-looking reset” directly with Mr Rahman.
-
-And then everything fell apart.
-
-India’s new high commissioner Dinesh Trivedi, who presented credentials on June 25, has not been able to meet a single Bangladeshi minister. His request for an appointment with Mr Rahman has not fructified. Mr Rahman also declined to make India his first foreign visit. He chose Malaysia first, with China next. The third is likely to be to Saudi Arabia. It is telling that his trip to India has been pending for five months. Several grievances seem to have accumulated and stalled the anticipated reset.
-
-Bangladesh summoned Indian diplomats twice -- after Assam chief minister Himanta Biswa Sarma’s “detect, delete and deport” push against Bangladeshi migrants, and again after West Bengal’s newly-minted BJP government pushed back alleged illegal migrants. An adviser in Mr Rahman’s PMO, Zahed ur Rahman, known for past anti-India statements, was held at Delhi airport for two hours, and prompted a formal protest by Dhaka. Sheikh Hasina’s presence in India remains a sore point, where she continues to address the media and her party virtually. Her claim that she will return in December is by no means certain. Meanwhile, no progress has been made on renegotiating the Ganga Water Treaty which expires in December 2026 and the Teesta water-sharing agreement remains elusive.
-
-The strength of the anti-India sentiment among Islamic fundamentalists in Bangladesh is evident from the Jamaat-e-Islami misconstruing Mr Trivedi’s remark that India and Bangladesh shared “same sky, same air, same pain” as a reference to the Hindu imperialist idea of “Akhand Bharat”.
-
-Such grievances seem to have come in the way of India-Bangladesh ties moving forward, worsened by Dhaka’s growing closeness to China, apprehensions about the possible emergence of a China-Pakistan-Bangladesh axis, and what many see as Bangladesh’s strategic outreach to Turkey.
-
-Mr Rahman’s China visit produced outcomes that New Delhi may find adverse to its strategic interests. Beijing’s role in the Teesta River Comprehensive Management and Restoration Project worries India because it lies uncomfortably close to the strategic Siliguri Corridor. China, well aware of Indian concerns, has insisted that “no third-party influence” should be allowed to impact the project. The Mongla Port Facilities Modernisation Project is also a matter of grave concern as Mongla is only 80 km from India’s border. Such a proximate Chinese presence could enable maritime surveillance and electronic intelligence gathering.
-
-China’s footprint in the Bay of Bengal will also grow through the China-Myanmar-Bangladesh Economic Corridor, linking Yunnan to Chattogram and Mongla Ports through Myanmar’s Rakhine state. This is not a new idea -- in its earlier avatars, the corridor was variously named as the Asian Highway and BCIM corridor, but India had excluded itself from these Chinese ventures.
-
-The agreement for a multi-modal corridor now suggests Dhaka is looking eastward, and increasing India’s anxiety for several reasons. China already has a deep-sea port at Kyaukphyu in Myanmar, but instability in Rakhine makes its access uncertain. With the new corridor, Bangladesh gains strategic depth and faster export routes, and China a greater presence in the Bay of Bengal. The corridor could potentially even serve as a military highway, with strategic consequences for India
-
-While India also uses the diplomatic-and-defence 2+2 dialogue mechanism with its close partners, the Dhaka-Beijing agreement to set up such a mechanism could ring alarm bells in New Delhi. Bangladesh is already among the largest buyers of Chinese arms and now has in principle agreed to buy 20-24 J-10CE Chinese multirole fighter jets, the same aircraft Pakistan used during Operation Sindoor. The deal is likely to be finalised as early as August 2026.
-
-Such a shared platform would create overlapping military ecosystems of maintenance, spares, and training between Dhaka and Islamabad. They will also deepen China's regional defence footprint.
-
-China’s moves are underpinned by the trilateral China-Bangladesh-Pakistan relationship. Former Bangladesh ambassador Mohammad Harun Al Rashid claimed there is “increasing psychological pressure on Tarique Rahman to build a...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/bharat-bhushan-bnp-govt-in-dhaka-risks-squandering-indias-trust-1970424)
-
----
-
-### Wasbir Hussain | Beyond Mangoes: Tackle Dhaka’s Swing To Beijing
-*Deccan Chronicle · Opinion*
-
-Diplomacy has its symbols. And Bangladesh has once again chosen mangoes. In recent weeks, Dhaka has dispatched crates of its celebrated fruit to Indian leaders, reviving the tradition of “mango diplomacy” that seeks to project warmth between the two neighbours. Such gestures are welcome as they keep the communication channels alive and soften political edges.
-
-But statecraft cannot be guided by the sweetness of mangoes.
-
-For even as Dhaka extends symbolic goodwill towards India, it is quietly moving closer to China. During Prime Minister Tarique Rahman's recent visit to Beijing, discussions with President Xi Jinping included the proposal for a China-Bangladesh-Myanmar Economic Corridor — a project that, if realised, would carry consequences extending far beyond trade. For India, and especially for the Northeast, it should set off strategic alarm bells.
-
-This is not about Bangladesh having friendly relations with China. Every sovereign nation has the right to pursue multiple partnerships. Nor is it about opposing infrastructure or economic development. The issue is that China rarely invests without a strategic target.
-
-From Pakistan’s Gwadar Port to Sri Lanka’s Hambantota, from Cambodia to the Indian Ocean, Beijing has demonstrated that economic corridors are not merely commercial ventures. They create political leverage, deepen dependence and gradually expand China’s strategic influence. A China-Bangladesh-Myanmar corridor would stretch from Yunnan to the Bay of Bengal, passing through one of Asia’s most volatile regions. It would bring Chinese influence closer to India’s vulnerable eastern frontier while strengthening Beijing’s presence around the Bay of Bengal.
-
-Does it change India’s security calculus? The answer is yes. The Northeast is no longer India’s distant frontier or its periphery. It is central to New Delhi’s “Act East” policy, its regional connectivity ambitions and its national security architecture. Roads, railways, waterways and energy corridors linking the Northeast to Southeast Asia are critical to India's future economic geography.
-
-But geography cuts both ways. Myanmar remains fractured by civil war. Several ethnic armed organisations control territory along India’s border. Many insurgent groups from India's Northeast have historically maintained networks across Myanmar. China enjoys considerable influence with several of these armed organisations.
-
-Therefore, a Chinese-backed economic corridor passing through such territory inevitably raises uncomfortable questions. Infrastructure creates access. Access creates influence. Influence eventually acquires strategic value. India cannot afford to dismiss this as merely another development project. The Bay of Bengal presents another dimension. China has steadily increased its maritime presence across the Indian Ocean Region. Investments in ports may begin as commercial enterprises but can evolve into dual-use strategic assets. Bangladesh has repeatedly assured India that its territory will never be used against Indian interests. There is no reason to doubt those assurances today. But the concern is really about tomorrow as infrastructure lasts for decades, while governments don’t.
-
-India must therefore assess the long-term strategic implications rather than the immediate diplomatic optics. Ironically, New Delhi has also made matters more complicated.
-
-Following the BJP’s victory in West Bengal, reports of immediate pushbacks of suspected Bangladeshi migrants have generated unease in Dhaka. India has every sovereign right to identify illegal migrants and return them through due legal process. No responsible government can permit illegal immigration indefinitely, particularly in border states like Assam or West Bengal, where demographic change has remained politically explosive for decades. Border management is non-negotiable, but diplomacy is equally important. The manner in which deportations are carried out matters as much as the decision itself. If Bangladesh feels publicly embarrassed or politically cornered, anti-India sentiment becomes easier to mobilise. That is precisely the environment in which China thrives.
-
-Beijing does not need to weaken India militarily if it can gradually weaken India's political influence among its neighbours. India's response, therefore, must avoid two extremes. The first is complacency — the belief that Bangladesh will always remain India's closest partner because of geography and history.
-
-The second is panic — the assumption that every Chinese investment automatically represents a strategic defeat. Neither approach serves India's interests. Instead, New Delhi needs a strategy built on confidence rather than insecurity.
-
-First, India must accelerate connectivity projects that directly benefit Bangladesh as well as the Northeast. Delayed infrastructure weakens credibility. Faster delivery strengthens partnerships.
-
-Second, India should deepen economic integration beyond government agreements. Greater private...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/wasbir-hussain-beyond-mangoes-tackle-dhakas-swing-to-beijing-1970645)
-
----
-
-### A fragile Western Ghats is warning us
-*Deccan Herald · Editorial*
-
-The recent landslide in Kerala’s Wayanad should serve as a warning for Karnataka’s Western Ghats districts. The wake-up call came in 2018, when devastating landslides ravaged Kodagu and exposed the growing fragility of the region's hills. Eight years later, there is little evidence that those lessons have been learnt. Instead, commercial pressures continue to trump ecological prudence, leaving Kodagu, Chikkamagaluru, Shivamogga, and Uttara Kannada increasingly vulnerable. Extreme rainfall triggered both the Kodagu and Wayanad tragedies, but nature alone cannot be blamed. Across the Western Ghats, hill slopes have been cut indiscriminately for roads, resorts, and homestays, natural drainage channels have been blocked, forests fragmented, and construction steadily expanded into geologically fragile terrain. Climate change has intensified rainfall, but human intervention has magnified its destructive impact. Over-tourism, far exceeding the carrying capacity of these ecosystems, also deserves scrutiny.
-
-Successive governments have also failed to act on scientific advice. The Kasturirangan Committee, set up to balance conservation and development in the Western Ghats, has remained mired in political controversy for over a decade. While local concerns deserve attention, allowing the report to gather dust has left sensitive areas without effective regulation. The dilution of safeguards under the Forest (Conservation) Amendment Act, 2023, has further heightened concerns by exposing unclassified and deemed forest areas to commercial pressures. The Geological Survey of India has identified several landslide-prone zones in Kodagu and recommended regulating construction in vulnerable areas, restoring natural drainage, reshaping unstable slopes, and promoting native vegetation to stabilise soil. It has also called for stricter zoning and restrictions on construction in hazard zones. These recommendations apply to other hill districts facing similar risks.
-
-Protecting the Western Ghats does not require halting development. It requires recognising that ecological security is the foundation of sustainable growth. Scientific land-use planning, strict regulation of construction, tourism based on carrying-capacity assessments, restoration of degraded forests, and timely implementation of expert recommendations can substantially reduce the risk. Local Biodiversity Management Committees must be empowered to play a meaningful role in land-use decisions, while infrastructure projects should adopt climate-resilient engineering practices. An empowered inter-state Western Ghats Ecology Authority could co-ordinate conservation efforts, regulate major land-use changes, and strengthen disaster preparedness across the mountain range. Karnataka cannot afford to wait for another Wayanad or another Kodagu before acting. Nature has warned us more than once; ignoring it invites an even harsher reckoning.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/a-fragile-western-ghats-is-warning-us-4071469)
-
----
-
-### Heatwave demands urgent policy shift
-*Deccan Herald · Editorial*
-
-Europe is in the grip of a severe heat wave that has caused widespread health problems, upset lives and lifestyles, and posed risks to most economies. Over 1,500 deaths have been reported across the continent, with France and Britain suffering the worst so far. Britain recorded its hottest June in history, while Spain, Portugal, Belgium, the Netherlands, and Germany have all seen temperatures soar to 40 degrees Celsius, which is boiler-class weather in Europe. It is 10-12 degrees above normal. Some deaths occurred when people jumped into rivers to escape the heat and drowned. Weather alerts have been issued across many regions. Schools have closed, advisories urge limited travel, and train services have been curtailed amid fears that rail lines could expand and cause accidents. Much of Europe’s infrastructure, houses and other buildings are not designed for this level of heat. Humans and animals alike are struggling to adapt to the new climate reality.
-
-Europe is now caught between hot winds from Africa and a warming Arctic region. Climate change has disrupted weather patterns worldwide, making extreme events increasingly common. Predictions that each year would be warmer than the previous one are proving true. The chances of weather extremes have increased a hundredfold in the last two decades. Nearly half of the 850 cities across 30 European countries have broken, or are expected to break, heat-stress records. Scientists warn that Europe is the fastest-warming continent, with temperatures rising at twice the global average since the 1980s. Many argue that the global warming predictions by the UN’s Intergovernmental Panel on Climate Change (IPCC), which present a scary scenario, may need revision, as the situation could worsen.
-
-Experts have called for adoption of techniques to avoid heat stress, which include better ventilation and creation of more green cover in cities. But it is difficult for people to adopt measures that need longer-term planning and investment. When the risks from climate change are discussed, it is always said that the poor countries will be the worst affected by it. But it is increasingly becoming clear that climate does not discriminate and the whole world will have to pay the price. Climate negotiations have stalled because the rich world has failed to accept its historical responsibility for creating the conditions for climate change and to support the poor world to counter it. The climate disasters in Europe should prompt the rich countries to change their attitudes and policies.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/heatwave-demands-urgent-policy-shift-4071451)
-
----
-
-### The significance of Muharram
-*Deccan Herald · Opinion*
-
-Muharram is the name of the month which marks the beginning of the Islamic calendar – the Islamic New Year. The month holds great significance for all Muslims but more so for Shias (which literally means followers/faction/party). To understand why, we must go back to 680 CE.
-
-After Prophet Muhammed’s death there was a debate as to who should be the leader of the new community. Abu Bakr, a close companion of the Prophet, became the caliph (successor). However, a section believed that Ali, the dynamic and sagacious son-in-law of the Prophet, ought to have become the caliph. Ali himself never raised this issue – he adhered to the decision and followed the new caliph, and he became the fourth caliph.
-
-He had three sons-- the middle son being Hussain. After Ali’s death, the debate over whether the Caliphate ought to go to somebody from the bloodline of the Prophet came up. However, Yazid, the son of Muawiyah who succeeded Ali, became the caliph. Hussain refused to pledge allegiance to him and travelled towards Kufa (in present-day Iraq) with a small band of 72 people, including women, where he was promised support. But the support did not come. Yazid’s forces marched with anything between 4,000 and 30,000 men, vastly outnumbering Hussain. The battle, more like a massacre, happened in the plains of Karbala (again, in present-day Iraq) on the tenth day of Muharram (known as Ashura) in 680 CE. Hussain was killed. The survivors were captured. What happened in Karbala became the basis for the schism in Islam between the Sunnis, those who followed the Sunnah – the traditions and practices of the Prophet – and Shias, the followers of Ali. Muharram commemorates the martyrdom of Hussain. It commemorates the principles of justice, integrity, and commitment to truth. Hussain’s refusal to surrender is seen as a model of resistance. It is not just death, which is being commemorated every Muharram, especially on the day of Ashura; moral questions are being raised. Will you stand up for justice? Shias remember the martyrdom of Hussain with mournful gatherings, or majlis. A public display of grief accompanied by the rhythmic beating of chests (matam), which can shake and move even a passive onlooker, takes place. To weep for Hussain is to align with him; to self-flagellate is to feel his suffering. The Shias believe that ‘every day is Ashura, every land is Karbala’. Central to the Shia psyche is the shahada, martyrdom, which Hussain chose. The spirit of Karbala resonates to this day.
-
-[Read full article](https://www.deccanherald.com/opinion/the-significance-of-muharram-4071448)
 
 ---
 
