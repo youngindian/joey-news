@@ -1,3 +1,589 @@
+## 13 October 2026
+
+### CJP Delhi Protest LIVE: CJP Seeks Reinstatement Of Jantar Mantar As Protest Site; INDIA Bloc To Continue Campaign Against CEC
+*Aveek Banerjee · general*
+
+CJP Delhi Protest LIVE: Rahul Gandhi and other opposition INDIA bloc MPs carried out a march towards the Supreme Court, demanding the resignation of Gyanesh Kumar
+
+[Read full article](https://www.news18.com/india/cec-cjp-delhi-protest-live-updates-abhijeet-dipke-jantar-mantar-india-bloc-rahul-gandhi-gyanesh-kumar-resignation-liveblog-10379475.html)
+
+---
+
+### A 3-in-one vehicle: This concept can transform from an SUV to an MPV or pick-up
+*Auto Today · general*
+
+## Fiat has unveiled the Multiplay concept ahead of the 2026 Paris Motor Show, showcasing a versatile vehicle that transforms from a family mover into a pick-up through an innovative sliding rear module.
+
+Fiat has unveiled the Multiplay concept, showcasing a versatile vehicle that combines the practicality of an MPV, the styling of an SUV and the utility of a pick-up truck. Measuring 4.45 metres in length, the concept features a sliding rear module that allows it to switch between a six-seat-plus-one configuration and a four-seat layout with an open cargo bed.
+
+Presented during Stellantis’ ‘Night Before’ event, the Multiplay explores new ways of maximising cabin space and functionality within a single vehicle. Fiat says the concept is a laboratory for future innovations and is not a preview of a specific production model.
+
+### Fiat Multiplay concept: Transforming body style and seating
+
+At the centre of the Multiplay is its C-pillar ‘Metamorfosi’ architecture, which uses a sliding rear module to change the vehicle’s configuration. In its family-oriented layout, the cabin accommodates six occupants along with an additional modular ‘Petsenger seat’. The alternative configuration offers four seats and an open cargo bed designed to carry bicycles, sports equipment and other bulky items.
+
+The rear spoiler also serves a dual purpose, rotating to become an integrated bicycle rack capable of carrying up to two bicycles in the pick-up configuration. The concept aims to reduce the need for separate accessories by incorporating practical features into the vehicle’s design.
+
+### Fiat Multiplay concept: Flexible cabin and pet-friendly features
+
+The cabin introduces several modular elements designed around the changing needs of families. The ‘Petsenger seat’ can function as a child-seat mounting point, a dedicated space for a pet, a small table or a storage compartment. Its detachable cushion section can also be used as a leash, while a folding bowl is housed in a door compartment.
+
+Fiat has also reworked the rear passenger area to make better use of the available space, allowing up to two children and, when required, an adult to occupy the rear compartment.
+
+Another distinctive feature is the ‘Sunseat’ configuration, in which the front passenger seat turns towards the rear and uses the dashboard as a backrest to create a lounge-style seating arrangement. Designed for use when the vehicle is parked, it offers a place to relax beneath the panoramic roof.
+
+Large glass surfaces, expansive side windows and the panoramic roof are intended to enhance the feeling of space and connect the cabin with the outdoors.
+
+### Fiat Multiplay concept: Design inspired by Italian summers
+
+The concept’s exterior and interior colours draw inspiration from a watermelon, with bright green bodywork contrasted by red and pink cabin elements. A soft pink floor and turquoise accents in the children's area add to the theme.
+
+Fiat has also explored sustainable and practical material solutions, including stitch-free 3D-knitted monomaterial textiles designed to reduce waste. Waterproof finishes in the children's and pets' areas are intended to make the cabin easier to use and maintain.
+
+Technology is integrated into the dashboard through a concealed display that disappears when the vehicle is switched off, creating a cleaner cabin layout.
+
+### Fiat Multiplay concept: Inspired by the Multipla legacy
+
+The Multiplay continues Fiat's longstanding focus on maximising interior space within compact exterior dimensions. The original Fiat 600 Multipla, introduced in 1956, could accommodate six people in a vehicle measuring around 3.5 metres. The second-generation Multipla, launched in 1998, featured six seats arranged across two rows in a body less than four metres long.
+
+With the Multiplay, Fiat revisits this philosophy through a more adaptable architecture that combines passenger accommodation with flexible cargo capacity. The concept was presented by Olivier Franois, Company Strategic Advisor for Stellantis, and Arnaud Belloni, CEO of the Fiat, Abarth and Lancia brands and Chief Marketing Officer for Europe.
+
+While Fiat has not announced plans to put the Multiplay into production, the concept offers a glimpse into the brand's exploration of adaptable vehicle layouts, multifunctional interiors and space-efficient mobility solutions.
+
+****Subscribe to Auto Today Magazine****
+
+\- Ends
+
+---
+
+### Lebanese woman paralysed since 2014 stands up and walks with robot in a miracle
+*India Today Trending Desk · general*
+
+## A Lebanese woman paralysed since a car accident in 2014, has taken assisted steps using a robotic exoskeleton after 10 years. Her video has gone viral online.
+
+A Lebanese woman finally stood up and walked after being paralysed for 10 years. (Photos: @jesstawil/intagram)
+
+New Delhi,Oct 13, 2026 12:13 IST
+
+A Lebanese woman, Jessica Tawil, has shared a glimpse of a milestone she once thought might be out of reach: standing upright and taking steps after living with paralysis for more than a decade.
+
+In a video shared on her Instagram, Jessica was seen using a robotic exoskeleton to experience movement with assistance.
+
+Jessica’s days of struggle began when she was paralysed in 2014. At just 16 years old, a car accident left her with a spinal cord injury that resulted in T6 paraplegia, affecting movement in the lower half of her body.
+
+She has relied on a wheelchair since the accident while adapting to life with the lasting effects of the injury.
+
+For years, walking was not part of her daily experience. But advances in assistive technology have since offered new ways for people with spinal cord injuries to explore movement. Jessica shared a clip of herself using a robotic exoskeleton called Eve, which helped her stand upright and take steps.
+
+The overwhelmed “Oh my God!” and the glowing expression of glee proved how much the miraculous moment meant to her.
+
+**Watch the video here:**
+
+The video marked a significant moment in her journey, allowing her to experience supported movement after years of paralysis.
+
+She has also shared glimpses of how she incorporates the device into aspects of her daily routine, showing how assistive technology can become part of life beyond rehabilitation sessions.
+
+Jessica’s experience has resonated with people online, drawing attention to the challenges of living with paralysis and the possibilities that emerging technology can offer. While the exoskeleton enables assisted movement, it does not mean that her paralysis has been reversed.
+
+Instead, the device offers another way for her to stand and move with mechanical support.
+
+In August 2026, Jessica shared that Eve received clearance from the US Food and Drug Administration (FDA), marking a further step in the development of this technology.
+
+**Watch here:**
+
+For people living with spinal cord injuries, devices such as robotic exoskeletons can offer opportunities to experience standing and walking with assistance. Their use, however, depends on individual medical circumstances and the guidance of healthcare professionals.
+
+\- Ends
+
+---
+
+### IIT Bombay student Sahil admitted mistake in written statement, sought another chance
+*Dipesh D Tripathi · general*
+
+Sahil Wakode, a second-year BTech student at the Indian Institute of Technology (IIT) Bombay, had admitted to his mistake and sought another chance from the institute after allegedly being caught cheating during an examination, according to police sources.
+
+In his written statement, Sahil reportedly apologised and assured the authorities that he would not repeat the mistake. He also said he had not prepared adequately for the examination and was worried about his performance.
+
+The 22-year-old was found dead in his hostel room on September 18, hours after the examination incident. The Mumbai Crime Branch is investigating the circumstances surrounding his death.
+
+### A REQUEST FOR ANOTHER CHANCE
+
+According to police sources, Sahil had spoken to a female friend shortly after the examination incident. During the conversation, he reportedly said his Thermodynamics paper had not gone well and expressed anxiety about his preparation and performance.
+
+Under IIT Bombay's academic disciplinary procedure, students accused of examination malpractice are given an opportunity to present their side. The process involves sharing the relevant report with the student, who can then submit a written response.
+
+### WHAT HAPPENED AFTER THE EXAM?
+
+IIT Bombay had earlier said Sahil was found using a mobile phone during the examination and had uploaded the question paper to ChatGPT to seek answers. The institute initially said no disciplinary action had been initiated against him and that he had been counselled.
+
+The institute later apologised for describing the circumstances surrounding his death before the investigation had established the facts.
+
+### FAMILY ALLEGES HARASSMENT
+
+Sahil's parents have alleged that he faced caste-based harassment and mental pressure at the institute. They have sought action against Professor Suryanarayana Doolla and Director Shireesh Kedare. These allegations remain under investigation.
+
+Doolla's statement was recorded by the Mumbai Crime Branch in October. He denied allegations of caste-based harassment and said he had followed the institute's prescribed procedures. He was removed from his administrative role as Dean of Administrative Affairs amid the controversy.
+
+### POLICE PROBE CONTINUES
+
+The Crime Branch has recorded statements from students, faculty members, hostel staff and Sahil's family. By September 30, investigators had recorded statements from 40 people and sent his electronic devices for forensic examination.
+
+The investigation is examining witness accounts, digital evidence and the events leading up to Sahil's death. No final conclusion has been reached.
+
+\- Ends
+
+---
+
+### 'Pushed Me, Shoved My Cameraperson': Pregnant Journalist Says Rahul Gandhi's Conduct Left Her Shocked; Congress Says 'Lies'
+*Shankhyaneel Sarkar · general*
+
+She said she immediately began asking Gandhi not to push her, repeatedly telling him that she was moving away.
+
+[Read full article](https://www.news18.com/india/pushed-me-shoved-my-cameraperson-pregnant-journalist-says-rahul-gandhis-conduct-left-her-shocked-congress-says-lies-ws-l-10379492.html)
+
+---
+
+### No more hand-written code: Fortnite maker Epic Games is moving towards AI first production
+*Armaan Agarwal · general*
+
+Epic Games wants developers to double down on AI, including AI-written code. The Fortnite maker has instructed its employees to pivot towards an “AI first approach” with more AI tools being used in production. This comes as the company delays the release of an upcoming video game collaboration with Disney.
+
+As per a report from Bloomberg, developers on the Disney-linked game have been told to adopt an "AI first" production model with tools like Claude. In an interview memo, one of the game’s directors told staff, “No more hand-written code.” Rather, humans are supposed to manage and guide the production work. The director also said all the artwork for the game would be "generated with full AI workflows."
+
+The Disney-linked project is believed to be a shooting game featuring characters from the Marvel and Star Wars franchises. It was originally planned for release in March, but the new release date is expected to come later.
+
+The shift comes as Epic moves more broadly towards what chief executive Tim Sweeney described as a "huge pivot" towards AI. In a post on X, Sweeney said the company is "moving developers around to retool for maximum AI acceleration.” However, Tim Sweeney insisted that it would not use AI to cut jobs. "The aim isn't to do the same stuff with fewer people, but to enable everyone here to build MORE and BETTER stuff, and to bring the benefits to all teams using Unreal,” he wrote.
+
+Tim Sweeney says Epic Games does not want to use AI to replace humans.
+
+In March this year, Epic Games laid off about 1,000 employees, accounting for 20 per cent of its global workforce. This was part of an internal overhaul that was projected to bring a cost saving of over $500 million.
+
+### Employees left stunned
+
+The report adds that developers were left stunned following the announcement by the company during a video call last week. Some reportedly joked over telling Claude to fix its own errors, and how they may handle AI-generated errors as a whole. Some even hoped that the company may make a U-turn on this decision.
+
+Defending the decision on X, Tim Sweeney claimed that Epic Games was not alone. Instead, he said that many were adapting to the AI era this way. “Our more modest aim is to survive the AI revolution, help other developers do the same, and come out on the other end making better code and content faster,” he wrote in a reply on X.
+
+In recent months, tech companies have been pushing for greater AI use. Previously, OpenAI and Uber have said that AI was now writing the majority of the code internally. Though some, like Microsoft and Meta, have begun decreasing reliance on AI tools like Claude due to rising costs.
+
+\- Ends
+
+---
+
+### South Korea’s Kospi tumbles over 6% as CXMT concerns hit chip stocks
+*India Today Business Desk · general*
+
+## The Kospi was down 382.18 points, or 5.93%, at 6,002.06 as of 0213 GMT. A fifth consecutive session of losses would mark the index's longest losing streak since September 2024.
+
+South Korea’s major semiconductor stocks came under heavy selling pressure as investors assessed the threat from Chinese chipmakers.
+
+New Delhi,Oct 13, 2026 12:03 IST
+
+South Korea’s benchmark Kospi index fell sharply on Tuesday as concerns over growing competition from Chinese chipmakers triggered a sell-off in technology stocks. The decline led to a temporary trading curb, with major semiconductor companies among the biggest losers, reported Reuters.
+
+The sell-off came after US memory-chip maker Micron Technology fell overnight, following reports of rapid technological progress by Chinese rival ChangXin Memory Technologies (CXMT), fuelling concerns over rising competition in the global memory-chip industry, the report mentioned.
+
+### TRADING CURB TRIGGERED AS STOCKS FALL
+
+The Korea Exchange halted programme sell orders for five minutes at 9.47 am local time after the KOSPI 200 futures index fell 5.08%, or 51.20 points, to 955.02.
+
+The Kospi was down 382.18 points, or 5.93%, at 6,002.06 as of 0213 GMT. A fifth consecutive session of losses would mark the index’s longest losing streak since September 2024.
+
+### SAMSUNG, SK HYNIX SHARES SLIDE
+
+South Korea’s major semiconductor stocks came under heavy selling pressure as investors assessed the threat from Chinese chipmakers.
+
+Shares of Samsung Electronics fell 7.19%, while SK Hynix plunged 8.72%, reflecting concerns about the competitive position of South Korean memory-chip manufacturers.
+
+According to the report, Kang Jin-hyuk, an analyst at Shinhan Investment & Securities, said investor sentiment had weakened amid concerns that Chinese semiconductor makers were narrowing the technology gap with global rivals.
+
+The sell-off extended beyond technology stocks, with several major companies also recording sharp declines.
+
+Battery maker LG Energy Solution fell 4.15%, while Hyundai Motor dropped 5.78% and Kia Corp declined 3.52%.
+
+Market breadth remained sharply negative, with 832 stocks declining and 66 advancing among the 915 issues traded.
+
+Foreign investors were net sellers of South Korean shares worth 2,065.3 billion won, adding to the pressure on the market.
+
+The South Korean won weakened 0.22% to 1,338.8 per dollar on the onshore settlement platform, compared with its previous close of 1,335.8.
+
+Government bond yields moved lower amid the market turmoil. The yield on the most liquid three-year Treasury bond fell 4.8 basis points to 3.874%, while the benchmark 10-year yield declined 6.9 basis points to 4.250%.
+
+The sharp fall in the Kospi highlights growing investor concerns about intensifying competition in the global semiconductor industry, with advances by Chinese chipmakers adding to pressure on South Korea’s technology-heavy stock market.
+
+\- Ends
+
+---
+
+### BJP and Congress court OBC votes, but duck the quota question
+*E Venkatesu · opinion*
+
+The BJP and Congress have both embraced caste enumeration, but neither has pushed for the constitutional change sought by OBC groups to expand reservations
+
+[Read full article](https://indianexpress.com/article/opinion/columns/bjp-and-congress-court-obc-votes-but-duck-the-quota-question-10919054/)
+
+---
+
+### Shock, anger and a crackdown: why a contentious electoral revision has sparked outrage
+*Niha Masih · national*
+
+Months of simmering public anger have given rise to a season of discontent in India. In its latest iteration, the demand is for the removal of chief election commissioner Gyanesh Kumar and the scrapping of a controversial electoral rolls revision that has struck 130 million people off the register. Protests have erupted every day over the past week, prompting a violent crackdown on dissenters in the capital.
+
+Over the weekend, Delhi was effectively under lockdown, transformed into a militarised landscape of barricades, road closures and paramilitary forces marching through the streets. Ahead of a protest led by the Cockroach Janta party on Saturday, authorities deployed a massive dragnet: 245 trains to Delhi were cancelled, 45 metro stations were shut, liquor shops were closed, internet services were cut off in the heart of the city and activists were put under house arrest.
+
+The founders of the Cockroach party were removed from an Air India flight shortly after it landed at Delhi airport on Saturday. Opposition leaders were held for more than eight hours in various police stations. Video footage showed students and activists being manhandled, beaten and dragged off the streets while some journalists were also swept up in the detentions. A supreme court lawyer assisting those detained was carried away by police, his shirt torn in the process. The crackdown extended to Mumbai, where Tushar Gandhi, the great-grandson of Mahatma Gandhi, was whisked away by the police to prevent him from participating in a local demonstration. On Monday, the Delhi police denotified Jantar Mantar as a designated protest site, instead recommending three alternative locations.
+
+“I have been in public life and have watched politics for four decades now, and I have never witnessed this kind of preparation for a demonstration. It was extraordinary by any stretch of the imagination,” political activist Yogendra Yadav, who was also detained, said of Saturday’s crackdown. Despite what he described as “terror unleashed by the state”, he said, small groups staged flash protests in several areas of Delhi defying the heavy security presence.
+
+The crackdown was preceded by similarly aggressive police action against Congress party’s protests, led by Rahul Gandhi. Dramatic images of police personnel detaining Gandhi and his sister, Priyanka, amid scenes of chaos flashed across screens nationwide.
+
+The ruling Bharatiya Janata party has defended its position, with spokesperson Ravi Shankar Prasad accusing the opposition of weaponising protests after electoral defeats. “One, Indian democracy has thwarted attempts to incite anarchy. Two, the country will be governed by parliament, not by the streets,” he said at a news briefing.
+
+While suppression of protests is not new**,** what stands out this time is the scale of the crackdown in the capital. Government clampdowns in Indian-administered Kashmir have been far more severe, particularly in 2019, when sweeping restrictions were imposed after the revocation of Article 370.
+
+An activist tries to stop a police bus carrying detained protesters during a demo seeking the resignation of India’s chief election commissioner. Photograph: Priyanshu Singh/Reuters
+
+The ferocity of the state response reflects the high political stakes for Prime Minister Narendra Modi’s government, which faces mounting resistance over the Special Intensive Revision (SIR) and questions about the credibility of the electoral process.
+
+The latest protests began with a demand for Kumar’s resignation after an Indian Express investigation reported that the ECI’s two other commissioners, Sukhbir Singh Sandhu and Vivek Joshi, had raised concerns about changes to electoral rolls, registration procedures, and digital systems. While Kumar has not responded to the investigation, the ECI said in a statement that “differing views” were part of the “decision-making process”. But the anger runs deeper. The SIR exercise has faced criticism for putting citizens through a trial by fire and leaving the most marginalised in a Kafkaesque limbo. Critics and opposition leaders have gone further, charging that the exercise was designed to benefit the ruling regime.
+
+Former election commissioner Ashok Lavasa told me that the SIR process is unprecedented and unfair, marking a departure from the Commission’s traditional emphasis on inclusion. “For more than seven decades the ECI took it upon itself, as a duty, to enrol everyone who was eligible to vote. And that was one of the basic differences between how Indian democracy works and how other democracies function, where you need to apply to get enrolled,” he said. Voters accustomed to a “friendly procedure” now face a hostile system, which he said “is not good for democracy” in the long run.
+
+Yadav argued that the SIR controversy has exposed what he describes as a deeper process of democratic capture by the ruling party. “Elections are the only mechanism now left for the regime to stamp its legitimacy and election capture is critical to their survival. And therefore, Gyanesh Kumar is critical,” he said. He pointed to a 2023 law giving election commissioners legal immunity for actions performed in their official capacity, which he said is broader than even the protection afforded to judges.
+
+As to what comes next, he envisions potential for three strands to find common ground: the opposition parties, organised civil society groups, and ordinary citizens. For a government that has shown no sign of budging yet, he said, the calculus will get harder. “The longer they delay, the higher the stakes.”
+
+On Monday, the Kerelam assembly passed a resolution seeking Kumar’s removal, as opposition parties marched toward the supreme court demanding action against him. And the Cockroach movement and leftist student groups have vowed to continue protesting. “People have refused to be fearful any longer. They will come again and again,” said left-wing student leader, Danish Ali. “We are living in a democratic country, and protest is a fundamental right that no one can snatch away from us.”
+
+## **What else we’re reading about**
+
+South African jurist and former UN human rights chief Navanethem ‘Navi’ Pillay has won the 2026 Nobel peace prize. Photograph: Daniel Karmann/DPA/AP
+
+_**Human rights**_ | South African jurist and former international criminal court judge, Navi Pillay, who is of Indian Tamil heritage, has won the 2026 Nobel Peace Prize. In a first-person account published in 2023, she wrote about her grandparents, who came from India and worked on a sugarcane farm in South Africa for five years before being allowed to buy land.
+
+_**Technology**_ | The United States has suspended labour-certification processing for several major technology companies, including top Indian IT firms, as part of a crackdown on what it alleges is a misuse of its flagship green card program, fraud and the displacement of American workers. The impacted companies include Cognizant, Infosys, Tata, Wipro, HCL, Capgemini, Microsoft and Adobe. “We will not accept any new or process any pending permanent labour certification applications involving these companies,” the US labour secretary Keith Sonderling announced last week.
+
+_**Climate**_| Citing a significant rainfall deficit linked to the El Niño weather phenomenon, the Maharashtra government last week announced water cuts of at least 10% across urban areas starting 16 October. The state government had previously declared drought conditions in 74% of the sub-districts.
+
+## **Guest shelf**
+
+_A recommendation from someone with great taste_
+
+skip past newsletter promotion
+
+after newsletter promotion
+
+The Sufi shrine of Hazrat Sarmad Shaheed, beside the Jama Masjid mosque. Photograph: Mayank Austen Soofi
+
+With Delhi in the news for all the wrong reasons, I turned to Mayank Austen Soofi, who writes a daily Delhi column for Hindustan Times, to share a spot he returns to for a moment of reprieve. “Whenever I can, I spend a solitary afternoon at the tiny Sufi shrine of Hazrat Sarmad Shaheed, beside the Jama Masjid mosque. The bazaar outside the shrine is the Walled City’s noisiest quarter, yet inside one can sit in silence beneath the neem tree growing beside Sarmad’s grave. An Armenian Jew from Iran, Sarmad fell in love with a Hindu boy in Sindh, eventually became a naked fakir and settled in Mughal Delhi. Executed by Emperor Aurangzeb, his grave lies beneath a red cloth that recalls his blood-soaked beheading. These days, I linger a little longer at the resting place of a man who would just not submit to power.”
+
+## **Count it**
+
+**A number worth knowing**
+
+Koushila Markam holds a photo of her daughter, Bamita Markam, who died from measles during an outbreak in Balaghat. Photograph: BBC News
+
+**32**
+
+At least 32 children from the Indigenous community in Balaghat, Madhya Pradesh, have died since June, the Indian Express reported. An inquiry found evidence of measles and malaria. The children, aged between one and 13, experienced symptoms including high fever, skin rashes and abdominal pain.
+
+## **Vibe check**
+
+A quiet moment between Arbab Kamal Khan’s parents, whose everyday intimacy features in his photographs.
+
+For Mumbai-based cinematographer, Arbab Kamal Khan, the fleeting, unguarded moments of everyday life offer the most honest form of documentation. His Instagram account is an extension of this cinematic vision, capturing the languor of slow days, the beauty of the mundane and the quiet air of romance.
+
+“When someone passes away, we don’t remember the curated moments,” he told me. “We always go back to the little things, the moments that are small or intricate.”
+
+For me, the images and videos featuring his parents – their feet across each other besides teacups resting atop an Urdu newspaper, or his dad resting under his wife’s dupatta as she brushes her hair – are particularly striking because older people are rarely afforded such tenderness in visual culture. In his frames, his parents are not only elderly figures but also lovers who continue to find intimacy in each other’s presence.
+
+## **Get in touch**
+
+Do you have any thoughts or responses to this week’s newsletter? Is there anything you’d like us to cover in the future? Share your feedback by replying to this, or emailing us at thisisindia@theguardian.com and we may include your response in a future issue.
+
+---
+
+### What makes power banks catch fire at 35,000 feet in flights? Science explained
+*India Today Science Desk · general*
+
+## An IndiGo Delhi-Chennai flight was diverted to Hyderabad after smoke was detected from a passenger's personal electronic device. The incident has renewed focus on how failing lithium-ion batteries can become a fire hazard in flight.
+
+Airlines impose stricter restrictions on them, particularly prohibiting their carriage in checked-in baggage. (Photo: India Today)
+
+New Delhi,Oct 13, 2026 11:58 IST
+
+An IndiGo flight operating from Delhi to Chennai was diverted to Hyderabad on Sunday after smoke was detected from a passenger's personal electronic device onboard the aircraft, once again highlighting the fire risks associated with lithium-ion batteries during air travel.
+
+Flight 6E 6115, operating on October 11, 2026, landed safely at Rajiv Gandhi International Airport in Shamshabad, Hyderabad. IndiGo said the cabin crew responded promptly and brought the situation under control.
+
+While power banks are commonly used to charge smartphones and other devices, airlines impose stricter restrictions on them, particularly prohibiting their carriage in checked-in baggage.
+
+The reason lies in how lithium-ion batteries behave when they fail, overheat or suffer internal damage.
+
+> INDIGO FLIGHT scary FIRE on 6E -6115 , Delhi - Chennai Route on 11th October. Fire breaks on overhead Cabin luggage zone of Passanger from a Power-Bank device of Passanger. Pilot diverted to Hyderabad International airport as precautionary landing. Another concious & instinctive reaction of the passanger save the airplane from major Inflight fire Accident. @icao @MoCA\_Ind @PIB\_India @aviationWeek @MoCA\_Ind @airmainengineer @BcasHq @atcguildindia @DelhiAirport @HyderabadAirpo1 @Indian\_Aviation— Capt. B. Parthosarothy (@pilotpartho) October 11, 2026
+
+### WHAT MAKES POWER BANKS DANGEROUS?
+
+Most modern power banks contain lithium-ion or lithium-polymer battery cells. These store substantial amounts of energy in a compact space through electrochemical reactions. Under normal conditions, the process is controlled and safe.
+
+However, a manufacturing defect, physical damage, overcharging or an internal short circuit can trigger a dangerous chain reaction called thermal runaway.
+
+During thermal runaway, a battery generates heat faster than it can dissipate it. Rising temperatures accelerate chemical reactions inside the cell, potentially releasing flammable gases, smoke and intense heat.
+
+The battery can ignite and, in some cases, neighbouring cells can also catch fire.
+
+The battery can ignite and, in some cases, neighbouring cells can also catch fire. (Photo: Getty)
+
+Manufacturing defects can include microscopic metal particles contaminating the cell, damaged separators between electrodes, poor-quality materials or flaws introduced during assembly. Such defects may remain undetected until the battery is used, charged or exposed to particular operating conditions.
+
+### WHY CHECKED-IN BAGGAGE IS RISKIER
+
+Power banks are generally prohibited in checked baggage because a battery fire inside the cargo hold could go undetected for longer.
+
+Although aircraft have fire-detection and suppression systems, lithium-battery fires can be difficult to extinguish and may reignite. Keeping spare batteries in the cabin allows crew members to detect smoke and respond more quickly.
+
+Smartphones also contain lithium-ion batteries, but they are not treated identically to spare power banks. Phones are integrated electronic devices with battery-management systems and protective circuitry.
+
+Commercial aircraft cabins are pressurised, but cabin pressure is lower than at sea level. (Photo: Getty)
+
+They are generally permitted in both cabin and checked baggage under applicable rules, although carrying them in the cabin is preferred. Damaged or recalled devices remain a concern.
+
+### DOES CABIN ALTITUDE AFFECT BATTERIES?
+
+Commercial aircraft cabins are pressurised, but cabin pressure is lower than at sea level. Lower pressure can influence heat transfer and the behaviour of gases released by a failing battery.
+
+However, there is no simple rule that ordinary cabin altitude makes every lithium-ion battery more likely to catch fire.
+
+The principal risks remain internal defects, damage, overheating and electrical faults. Lower pressure may affect the consequences of a battery failure, but it is not the primary cause of most battery fires.
+
+The lesson for passengers is clear: carry power banks in cabin baggage, protect them from damage and never use a swollen or overheating battery.
+
+A small device that safely charges a phone on the ground can become a serious aviation hazard if its battery fails in flight.
+
+\- Ends
+
+---
+
+### Hands off Jantar Mantar: Oppn claims bid to keep protests away from seat of power
+*India Today News Desk · general*
+
+## The CJP and the opposition have cried foul after the Delhi Police de-notified Jantar Mantar as a designated venue for protests. It has led to allegations that the move was aimed at making it harder for citizens to take their protests to the seat of power.
+
+Demonstrators being detained by police personnel near Jantar Mantar on Saturday (PTI)
+
+New Delhi,Oct 13, 2026 12:01 IST
+
+Out of sight, out of mind. With Jantar Mantar no longer on Delhi's protest map, the opposition has questioned whether the government's move aimed to make it harder for citizens to take their protests to the seat of power. Just a stone's throw from Parliament, Jantar Mantar offered a platform where even a small protest could grab attention. The three alternatives proposed by the government - Ramlila Maidan, Burari Ground and CBD Ground - are not only farther from Parliament, but also come with their own set of challenges.
+
+The order by Delhi Police, which is under the Home Ministry, comes amid a charged political moment. Over the past week, central Delhi has been gripped by massive protests by the opposition and the Cockroach Janta Party (CJP) against Chief Election Commissioner Gyanesh Kumar. A Jantar Mantar 2.0 call by the CJP on October 10 saw an unprecedented crackdown. Two days later, the narrow stretch of road, the OG protest hub for over two decades, was denotified as a designated site for agitations.
+
+Barricades near Jantar Mantar in Delhi
+
+### OPPN CRIES FOUL OVER JANTAR MANTAR MOVE
+
+The three new venues are far from the corridors of power. The opposition has raised a pertinent question. Why should protesters go to the outskirts of Delhi to voice their anger with central Delhi? This was flagged by Samajwadi Party chief Akhilesh Yadav.
+
+"The BJP is deeply rattled and scared. It wants to keep people away from places where those in power sit, to shield itself from public anger," Yadav tweeted.
+
+Akhilesh asserted that a space should have been allotted for protests on Lok Kalyan Marg itself. "That would have also helped justify the name. When the message reaches the highest seat of power directly, a solution would follow immediately," he said.
+
+AAP's Delhi chief and former minister Saurabh Bhardwaj said the move only revealed that Prime Minister Narendra Modi and Home Minister Amit Shah were "scared of Gen Z". Congress MP Jairam Ramesh quipped that for Modi and Shah, it is only a "matter of Demokursi".
+
+CJP founder Abhijeet Dipke underlined that the move would not silence dissent, but instead turn the entire country into Jantar Mantar.
+
+"Tomorrow, PM Modi will denotify democracy itself. The dictator's problem was never the protest site. It was the very idea of people protesting," Dipke tweeted.
+
+"Why not declare Mt Everest as the designated protest site?" tweeted CJP co-convenor Ashutosh Ranka.
+
+On the other hand, the Delhi Police has argued that frequent protests at Jantar Mantar not only paralyse central Delhi - the seat of power - but also affect businesses and traders.
+
+For the opposition, the issue is not merely about the change of venue, but whether dissent itself is being pushed to the margins.
+
+### WHICH ARE THE OTHER PROTEST SITES?
+
+History shows a pattern.
+
+Before Jantar Mantar became Delhi's protest hotspot, the tag belonged to the Boat Club lawns. It was within earshot of North Block, South Block and Parliament. In 1993, as the Babri Masjid movement gripped the country, the then Congress government banned protests at the Boat Club. That is how Jantar Mantar came into the picture.
+
+Now, the address for dissent is further being pushed to Delhi's fringes.
+
+Among the three, Ramlila Maidan is the closest to central Delhi. It is around 3 km from Jantar Mantar, but access to it comes at a massive cost.
+
+To book the 12-acre ground, which can accommodate 50,000 people, one has to shell out Rs 50,000 a day, along with a refundable security deposit of Rs 55,000, according to a PTI report. An NOC certificate from the Delhi Police is also mandatory.
+
+The other big challenge is availability. Ramlila Maidan remains booked most of the year for cultural events. During the festive season (October-December period), getting a date is a far cry. For example, only three dates are available for the rest of the year - December 29, 30 and 31.
+
+This means, if the opposition or the CJP wants to hold an agitation nearest to Parliament, the earliest available date is December 29.
+
+Now, let's go to the CBD Ground in East Delhi, which is around 10-12 km away.
+
+The 12-acre venue in Shahdara, which can accommodate 15,000 people, is located in a densely populated residential area. The site is normally used for weddings and other cultural events. Holding any sort of protest here will be a traffic nightmare.
+
+The other protest site, the Nirankari Ground in Burari, is farther away - about 22 km from Jantar Mantar. While the 50-acre site can accommodate up to 1 lakh people, the concern is its location.
+
+It lies along the Delhi-Chandigarh Highway, and such a location is unlikely to attract big crowds like Jantar Mantar. It means less media spotlight as well.
+
+### A STRATEGIC MOVE?
+
+In essence, none of the newly designated protest sites can match the optics that Jantar Mantar offered. Recent events have shown how a protest at Jantar Mantar can quickly paralyse the heart of the national capital.
+
+By contrast, a protest in East Delhi or Burari is less likely to resonate in central Delhi, blunting its political impact and visibility. For Ramlila Maidan, cost and availability remain major hurdles.
+
+Taken together, the shift could effectively give Delhi Police greater scope to defuse any protest before they gather momentum.
+
+\- Ends
+
+---
+
+### Renault Duster hybrid to launch this week: All you need to know
+*Auto Today · general*
+
+## Renault India will launch the Duster Strong Hybrid E-Tech 160 on October 17, 2026, with a claimed fuel efficiency of 29kmpl. Bookings are open for Rs 21,000.
+
+New Delhi,Oct 13, 2026 11:58 IST
+
+Renault India is set to launch the new Duster Strong Hybrid E-Tech 160 on October 17, 2026, introducing the brand’s strong-hybrid technology to the Indian market. Ahead of its official debut, the company has announced an ARAI-certified fuel efficiency of 29kmpl for the upcoming SUV. Bookings are now open for a token amount of Rs 21,000 through Renault’s official website and authorised dealerships.
+
+The strong-hybrid version will join the new-generation Duster lineup, offering buyers an alternative to the existing turbo-petrol powertrains. Its key highlight is a hybrid system that combines a petrol engine with electric motors to improve fuel efficiency without requiring an external charging source.
+
+### Renault Duster Strong Hybrid E-Tech 160: Powertrain and performance
+
+The upcoming Duster Strong Hybrid E-Tech 160 is powered by a 1.8-litre petrol engine paired with two electric motors and a 1.4kWh battery. The combined system produces 160bhp and is coupled with an intelligent multi-mode transmission that manages the interaction between the petrol engine and electric motors depending on driving conditions.
+
+The hybrid system can drive the SUV on electric power under suitable conditions, while also recovering energy during braking and deceleration. The battery recharges automatically while driving, eliminating the need for an external charging connection. This setup is designed to combine the benefits of electric driving in suitable conditions with the convenience of a conventional petrol-powered vehicle.
+
+Renault has confirmed an ARAI-certified fuel efficiency figure of 29kmpl, positioning the strong hybrid as a fuel-efficient alternative within the Duster range. Real-world fuel efficiency, however, will vary depending on driving conditions and usage.
+
+### Renault Duster hybrid: Existing engine options
+
+The strong-hybrid powertrain will expand the Duster’s existing engine lineup, which currently comprises two turbo-petrol options.
+
+The entry-level version uses a 1.0-litre turbo-petrol engine producing 100bhp and 160Nm of torque, paired with a six-speed manual gearbox. Higher variants are powered by a 1.3-litre turbo-petrol engine that develops 163bhp and 280Nm of torque. This engine is available with either a six-speed manual transmission or a six-speed dual-clutch automatic (DCT).
+
+With the addition of the 1.8-litre strong-hybrid powertrain, Renault will offer buyers a choice between conventional turbo-petrol performance and a hybrid setup focused on fuel efficiency.
+
+### Renault Duster hybrid: Price and booking details
+
+Renault has opened bookings for the Duster Strong Hybrid E-Tech 160 for a token amount of Rs 21,000. Customers can reserve the SUV through the company’s official website or at authorised dealerships.
+
+The company has yet to announce the price and detailed variant-wise specifications of the hybrid SUV. These details are expected to be revealed at its official market debut on October 17, 2026.
+
+### Renault Duster hybrid: What to expect
+
+The strong-hybrid version is expected to broaden the appeal of the Duster by combining its SUV format with a powertrain designed to deliver improved fuel efficiency. Its claimed 29kmpl figure could be a key consideration for buyers looking to reduce fuel consumption, particularly in everyday driving.
+
+Pricing will be crucial in determining how competitive the hybrid is against other SUVs in the segment. Renault’s announcement on October 17 should provide greater clarity on the variant lineup, equipment and overall positioning of the Duster Strong Hybrid E-Tech 160 in India.
+
+****Subscribe to Auto Today Magazine****
+
+\- Ends
+
+---
+
+### IIM Lucknow summer placements: 600-plus offers, median stipend at Rs 1.75 lakh
+*Education Desk · legal*
+
+More than 350 offers were made on the first day of the placement process, the institute said. The average stipend was Rs 1.5 lakh per month, while 75% of the batch secured an average stipend of Rs 1.5 lakh per month.
+
+[Read full article](https://indianexpress.com/article/education/iim-lucknow-summer-placement-offers-stipend-batch-2028-highest-package-top-company-domains-10919099/)
+
+---
+
+### RJ Mitte's anti-bullying campaign and charity work: Why he wanted children with disabilities to feel included
+*ET Entertainment Desk · business*
+
+Breaking Bad actor RJ Mitte breathed his last on Monday, October 12. According to reports, the 34-year-old was found dead at his home in Brownsville, Texas. He was suffering from cerebral palsy. Altrhough no official cause of his death has been released as of yet, TMZ reported that Mitte died by suicide. Meanwhile, an investigation is underway. Besides his acting portfolio, Mitte was also a disability rights advocate and activist who engaged in several charity work.
+
+## RJ Mitte on disability
+
+Back in 2016, RJ Mitte attended the annual Celebration of Leadership Assembly where he sat down for an interview with the Academy Life Editorial Board. The actor candidly expressed his stance on bullying, philantrophy and being supportive towards children with special abilities.
+
+During the discussion, RJ Mitte shared that people have a tendency to victimise disability even when talking positively about the issue. Although the intention might be good, people tend to differentiate those with special abilities, he said.
+
+  
+  
+
+## RJ Mitte on treating disability with strength
+
+‘It is kind of sad because there is still this tone of sorrow, of what ‘he had to overcome.’ People view disability as weakness,’ pointed out RJ Mitte adding that disability is often portrayed as an ‘illness’ that needs to be cured, fixed and overcome.
+
+But acccording to the Breaking Bad star, living with disability is not a sign of weakness. He emphasised that whetver the condition might be, it should not be viewed as something to get rid of but rather something that needs to be understood with compassion.
+
+« Back to recommendation stories
+
+I don't want to see these stories because
+
+They are not relevant to meThey disrupt the reading flowOthers
+
+  
+
+## RJ Mitte’s anti-bullying campaign
+
+Besides talking about disability, RJ Mitte also supported anti-bullying campaigns. In 2013, he was the speaker against bullying at the University of Windsor where the actor shared his personal experince with getting bullied at school.
+
+RJ Mitte strongly advocated for witnesses and bystanders to step in wherever they saw someone getting bullied. ‘At the end of the day, you can't do it alone. Having those good people around me was very important,’ he said. He urges everyone to stand up for the right cause and get involved in preventing bullying.
+
+---
+
+### RJ Mitte suffered brain damage at birth, diagnosed with cerebral palsy at 3. How did he strengthen his motor skills?
+*Unknown · business*
+
+Roy Frank ‘RJ’ Mitte, best known for playing Walter White Jr., the defiant son of ‘Breaking Bad's' protagonist Walter White, is no more. As per reports, the actor passed away on Monday. The Brownsville police department received a call at 12:50 p.m. local time and later discovered Mitte’s body at his residence, according to a report by _People_ magazine. Later, his representative confirmed the actor had died by suicide to _People._ He was 34.
+
+Just like his on-screen character Walter, Roy had a rather eventful life offscreen as well. He too had cerebral palsy, and living with this condition made the actor a passionate disability rights advocate as well.
+
+  
+
+### Born Brain Damaged
+
+As per a report by the Sun, RJ Mitte, when he was born in Mississippi, he was not breathing and suffered brain damage (also known as hypoxic-ischaemic encephalopathy). He was adopted by a couple – Roy Frank Mitte Jr. and Dyna Mitte, who later parted ways when he was two months old.
+
+  
+  
+
+### Diagnosed With Cerebral Palsy At Age Three
+
+As per Sun, Mitte was diagnosed with cerebral palsy, a neurological condition that impacts motor skills, movement, and muscles, when he was just three years old.
+
+### Real Life Forrest Gump?
+
+Doctors put his legs in casts to strengthen his feet, and later he was provided leg braces, just like Forrest Gump. In an interview with the Sydney Morning Herald, he said the diagnosis did not deter him but made him want to be stronger and more self-sufficient.
+
+“I wore leg braces in childhood, but my diagnosis empowered me to be better: to work on my body and work on my mind, and to give me a different perspective on what we are as humans and how we interact with each other…” he said.
+
+RJ improved his ability to walk through sports and exercise. He told Ability Magazine that playing soccer regularly made him get out of his braces. In an interview with Future Of Personal Health, he revealed he engaged in stretching exercises, hot showers, and baths to relax muscles and manage spasticity.
+
+### A Look At His Career
+
+Following roles in various minor positions, such as an extra in the Disney teen sitcom Hannah Montana, Mitte cultivated an increasing passion for film and started attending acting classes. Shortly thereafter, he secured the part of Walter White Jr. in AMC’s celebrated crime series Breaking Bad. The character, similar to Mitte himself, has cerebral palsy.
+
+During the 2013 Media Access Awards, Mitte received the SAG-AFTRA Harold Russell Award for his role as Walter White Jr. He also awarded the RJ Mitte Diversity Award, which bears his name, to deaf actor Ryan Lane.
+
+In acknowledgement of his support for disability inclusion, the Screen Actors Guild designated Mitte as a representative for artists with disabilities. He also advocated for Inclusion in the Arts and Media of Performers with Disabilities, a group dedicated to advancing artists with disabilities.
+
+Following Breaking Bad, the actor appeared in several shows such as Switched At Birth, This Close, Robot Chicken. He also starred in films such as Dixieland, The Recall, Mower Boy, The Oak Room, etc.
+
+---
+
+### Riyadh Flight Disruption: Airport shut until Saturday as airlines cancel Saudi flights
+*Express Global Desk · legal*
+
+Riyadh's King Khalid airport is shut until Saturday after Houthi attacks, and airlines including Emirates, Etihad, flydubai and Qatar Airways have cancelled Saudi flights. Here is the full list.
+
+[Read full article](https://indianexpress.com/article/world/riyadh-flight-disruption-airport-shut-until-saturday-as-airlines-cancel-saudi-flights-10918872/)
+
+---
+
+### Dust Deadline: Delhi Roads To Be Cleared Of Garbage By October 31 | What Residents Must Note
+*Sumedha Kirti · general*
+
+From dust-laden roads to rubble heaps, MCD has until October 31 to clean up under a CAQM warning. What Delhi residents should note, and avoid, in the meantime.
+
+[Read full article](https://www.news18.com/cities/new-delhi-news/dust-deadline-delhi-roads-to-be-cleared-of-garbage-by-october-31-what-residents-must-note-10379371.html)
+
+
+---
+
 ## 12 October 2026
 
 ### After Jantar Mantar crackdown, Delhi High Court to hear protest plea tomorrow
