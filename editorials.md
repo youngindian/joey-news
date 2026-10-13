@@ -1,8 +1,179 @@
 # Editorials
 
-_Last updated: 2026-10-12 07:50 UTC_
+_Last updated: 2026-10-13 08:15 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 13 October 2026
+
+### Drought report: On southwest monsoon, drought in  Karnataka and Andhra Pradesh
+*The Hindu · Editorial*
+
+A substantial drought seems to be inflicting Karnataka and Andhra Pradesh after the crucial southwest monsoon concluded with a significant deficiency in the most-affected regions. The national drought framework combines agricultural and hydrological indicators and ground-truthing studies, including before a distressed State can access additional support from the NDRF. In June-September, Karnataka reportedly suffered a close to 35% rainfall deficit. The government has since declared 217 of 240 taluks to be drought-hit with extensive damage to red gram, maize, cotton, and sugarcane cultivation. Andhra Pradesh experienced a shortfall of 53% in June-August and 388 of 688 mandals have been declared drought-hit. Horticulture crops over nearly 18,000 hectares are now at risk. Karnataka has also petitioned the Centre for ₹11,000 crore from the NDRF along with higher input subsidies. Andhra Pradesh has set aside ₹190 crore to protect horticultural crops and has directed drinking water conservation. The summer monsoon had its poorest showing since 2015 this year. There have been warnings of the effects of the strengthening El Niño, although an attribution study elucidating the strength of causal relationships in the present instance is pending.
+
+In a previous era, drought declarations were beset by subjective claims, sometimes exaggerated to maximise state support. Since 2009, however, the Manual for Drought Management and updates to it and Finance Commission decisions have tightened the process. While States still have some incentives to expand their declarations, the Centre has also resisted releasing NDRF assistance before, including with Karnataka in 2024, while also increasing their own relief obligations. The Centre must desist from frustrating States and release support as soon as the findings of the Inter-Ministerial Central Team have been publicly verified. In addition to mitigating indebtedness among farmers and expanding access to relief beyond land ownership, the States also need more discipline vis-à-vis storing water and rationalising consumption. Andhra Pradesh and Karnataka have offered incentives and advisories, including to adopt micro-irrigation and to cultivate less water-intensive crops, but have not imposed binding limits. The Centre may also consider incentives to resist drought, even in the face of a deficient monsoon, because the Intergovernmental Panel on Climate Change has been warning of expanding drought-like conditions in South Asia, and broadening agricultural insurance. It must certainly not use the prospect of the more protracted, more imprudent river-interlinking project as an excuse to overlook pro-resilience aims such as sustainably using groundwater and choosing crops based on local rainfall and aquifers and availability of income support.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/drought-report-on-southwest-monsoon-drought-in-karnataka-and-andhra-pradesh/article71575181.ece)
+
+---
+
+### Winning, differently: On the by-election results in West Bengal, Tamil Nadu and Puducherry
+*The Hindu · Editorial*
+
+The by-election results in West Bengal, Tamil Nadu and Puducherry, declared on Friday, held few surprises. Barely five months after the April Assembly elections, the ruling party in each State/UT won all five bypolls. What varied was the scale of victory. In West Bengal, the BJP retained Nandigram and wrested Rejinagar, with strong vote shares of 76% and 63%. In Puducherry, the ruling All India N.R. Congress also registered an emphatic win — 61% of the votes — in Thattanchavady. Nandigram and Thattanchavady were vacated by the Chief Ministers, which partly explains the strong wins. But the contests in Tamil Nadu were closer. Dharapuram and Madurantakam fell vacant after their AIADMK MLAs resigned and defected to the ruling TVK, which renominated them. Both won their seats back with 37% and 40% of the vote, respectively, leading the DMK rival candidates by about eight percentage points. By-elections tend to favour the party in power, as voters prefer representatives with access to government. But the variance between West Bengal and Tamil Nadu reflects the nature of contest in two similarly sized States but with vastly different political cultures.
+
+In West Bengal, Assembly victories have for decades worked as a winner-take-all mandate, which the ruling party extends to panchayat and by-elections. The pattern took shape during the Left Front’s long rule, became entrenched during the Trinamool Congress’s 15 years in power and is visible in the BJP’s tenure so far. In these contests, Opposition parties have performed far worse than in Assembly and Lok Sabha elections. In Tamil Nadu, however, a three-way contest now has kept politics competitive. The wins have helped the TVK improve its tally to 109 in the House with a sanctioned membership of 234, but the narrow margins, despite a no-holds-barred campaign by Chief Minister C. Joseph Vijay, suggest that the expected honeymoon effect did not fully materialise. The DMK, now the TVK’s principal rival, has shown that it still has a solid base despite its abrupt defeat in May. For the AIADMK, finishing third in the seats it won in May only deepens worries about its decline. Its leadership will now face sharper questions about whether it can hold on to its legislators. Four more AIADMK MLAs had joined the TVK and their seats will go to bypolls. This is a regressive turn in Tamil Nadu. MLAs are resigning barely months, sometimes days, into their terms to share in the loaves and fishes of office and the ruling party re-fields them. This defeats the spirit of the anti-defection law and overrides the Assembly election mandate. That the electorate rewarded these manoeuvres should worry anyone who is concerned about the quality of representation.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/winning-differently-on-the-by-election-results-in-west-bengal-tamil-nadu-and-puducherry/article71575161.ece)
+
+---
+
+### At sixes and sevens, the ECI’s growing credibility crisis
+*The Hindu · Opinion*
+
+Is the Election Commission of India (ECI) at sixes and sevens, idiomatically and otherwise? Will Form 6 be its undoing, and has Form 7 caused it unmanageable discomfiture? The barbs associated with these forms have further damaged the image of the beleaguered constitutional body entrusted with safeguarding the constitutional right to vote of “we, the people”.
+
+Never before has the ECI been so severely berated, becoming the object of unprecedented public outcry, adverse media attention and social scrutiny as in recent times. It took the ECI years of toil and transparency to earn public trust; it has taken the temperament of a few individuals to erode it through their disregard for the concerns, genuine or imagined, of those who had earlier sworn by the very same institution.
+
+[Read full article](https://www.thehindu.com/opinion/lead/at-sixes-and-sevens-the-ecis-growing-credibility-crisis/article71576568.ece)
+
+---
+
+### Powering peace in times of strife
+*Deccan Herald · Editorial*
+
+The Nobel Peace Prize for Navanethem ‘Navi’ Pillay, a South African jurist of Indian origin, is a deserving recognition of her work for peace and justice both in her country and abroad. The honour for Pillay, the granddaughter of indentured Tamil workers who moved to Natal in South Africa, may have evoked Mahatma Gandhi’s years in that country, when he, also a lawyer, fought against apartheid.
+
+Growing up in South Africa at a time when apartheid was state policy, Pillay experienced segregation and racial prejudices. She protested against abuses under apartheid and later, as a lawyer, campaigned against them. Through her professional and public life, Pillay expanded her sense of justice to cover human rights at the international level, with a commitment to support the weaker and wronged sections of people.
+
+She served as the United Nations High Commissioner for Human Rights from 2008 to 2014 and as an ad hoc judge at the International Court of Justice (ICJ). She also chaired the UN Independent International Commission of Inquiry on the Occupied Palestinian Territory between 2021 and 2025.
+
+Who is Navanethem 'Navi' Pillay, Indian-origin South African jurist who won 2026 Nobel Peace PrizeThe Nobel committee said she had been awarded the Prize “for her efforts to promote peace and international law”. It cited her firm moral compass and important contributions to the development of an international legal order.
+
+It said: “At a time of existential challenges – including more wars and conflicts than the world has seen in a long time – international law is no longer just a supplement to peace and security. It is an absolute necessity.” The statement makes the important point that justice is best delivered within the framework of international law, and practising peace is not possible without serving the ends of justice.
+
+Pillay dedicated the award “to all of the survivors of international crimes”. She made the statement when she was at the courts in Germany’s Nuremberg that hosted the trial of Nazi criminals after World War II.
+
+Speaking at a gathering after the announcement of her award, Pillay remembered that the commission she headed had concluded last year that Israel was responsible for the genocide in Gaza with a specific intent to eliminate Palestinians. This reference should remind the world of its most serious contemporary human rights issue; it adds relevance to this Prize.
+
+The Nobel committee has done well to make a choice that sends out the message that international crimes should be investigated and adjudicated, and that law should have a moral dimension.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/powering-peace-in-times-of-strife-4180324)
+
+---
+
+### Sting operations: It’s time for truth
+*Deccan Herald · Editorial*
+
+Sting operations have returned to Karnataka’s political arena, raising questions that cannot be dismissed as another round of partisan mudslinging. The allegations now come not merely from political rivals, but from those holding high public office.
+
+Chief Minister D K Shivakumar, who recently warned Cabinet colleagues to be cautious about covert recordings and honey traps, claims to have evidence of organised attempts to target ministers. Congress Mandya MLA Ravikumar Gowda has displayed a pen drive that he says contains CCTV footage, recordings, and photographs relating to surveillance.
+
+Union Minister H D Kumaraswamy has accused Shivakumar of orchestrating a sting operation to pressure former Chief Minister Siddaramaiah into stepping down. Congress leaders, meanwhile, have alleged that a Union minister is backing a syndicate involved in such operations. These competing claims point to the possibility of a larger political conspiracy, but allegations alone cannot establish the truth.
+
+H D Kumaraswamy continues 'sting' attack; accuses CM Shivakumar of meeting person involved in opsKarnataka has seen such controversies before. In 2021, Bharatiya Janata Party (BJP) minister Ramesh Jarkiholi resigned after a sextape scandal, while a former MP who appeared in a compromising video later claimed it was a deepfake.
+
+Several politicians, including ministers who defected to the BJP in 2019, have secured ex parte court orders restraining the publication of alleged recordings. These episodes suggest that the issue extends beyond individual scandals. If organised networks are using stealthy surveillance to extort money, influence appointments, manipulate political decisions, or secure government contracts, the implications are grave.
+
+Such activities would raise concerns not only about corruption and criminality but also about the misuse of sensitive information and potential threats to national security.
+
+The most troubling question is why no credible investigation has been ordered. The Central Crime Branch has, in the past, made some arrests, demonstrating that formal complaints can prompt police action. Kumaraswamy, Ravikumar Gowda, and Shivakumar all claim to possess evidence of such activities.
+
+If such evidence exists, why has it not been formally handed over to law enforcement agencies? When leaders across the political spectrum acknowledge the possibility of an organised racket, continued inaction becomes increasingly difficult to justify. The reluctance to investigate invites suspicion: is it about shielding powerful interests or avoiding disclosures that could embarrass multiple political actors? Whatever the reason, public interest demands answers.
+
+A court-monitored inquiry by an independent agency is essential to establish the facts and separate truth from political theatre. The question is no longer about the allegations, but why those entrusted with power appear unwilling to determine whether they are true.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/sting-operations-its-time-for-truth-4180329)
+
+---
+
+### India’s AI Boom | What about the human cost of AI readiness?
+*Deccan Herald · Opinion*
+
+Last week, the World Bank placed India among the top 10 emerging-market performers on AI readiness. Its new report, India and Artificial Intelligence: Seizing the Development Opportunity, finds that private AI investment in India more than tripled, from $1.2 billion in 2024 to $4.1 billion in 2025, and urges us to treat AI as a development tool, not just a technology.
+
+That framing deserves a second look.
+
+Development has always meant more than productivity, and the report itself concedes that AI's long-term effects on work remain uncertain. The question is not only what AI can do for growth, but what kind of human beings we become while living with it.
+
+AI is no longer confined to laboratories. India now has 1.09 billion Internet subscribers, and AI will reach small-town clinics, coaching centres, farms, and family WhatsApp groups. Worldwide, 88% of organisations used AI in 2025, and four in five university students now use generative AI. It may not share a chair with us, but it is very much in our drawing room.
+
+Culture is not an ornamental word. AI systems learn from data, and data is never culturally neutral. Models trained mostly on a handful of languages can sound universal while carrying only partial worlds. When Indian languages, oral traditions, and regional knowledge are thinly represented, AI may not only answer incompletely but also influence what counts as knowledge. Scholars call this ‘data colonialism’: earlier empires occupied territory; today, power can occupy data. The World Bank itself argues that the biggest gains will come from adapting AI to local conditions. That calls for public investment in Indian-language data, and for communities to have a say in how these systems are built.
+
+In my experience of running an annual national-level leadership training programme on humanistic leadership in an AI-driven world, at the NIAS, I have seen that the trepidation about an AI future is as large as the hope for the changes it will bring to every sector, including health. AI is already improving diagnosis and hospital administration; the US Food and Drug Administration authorised 258 AI-enabled medical devices in 2025. Yet only 2.4% of those with clinical studies were backed by randomised trials.
+
+Medicine also shows where AI must stop. A tool can flag an abnormal scan; it cannot hear the fear in a patient's voice or the loneliness behind repeated visits. Treatment begins when data is read alongside the person's story.
+
+AI boom benefiting India and China, bolstering growth in global trade: IMFWhen AI becomes both our collaborator and our competitor, what happens to agency and ownership? Agency is the feeling that we are the authors of our actions. Ownership is the ability to say, ‘This is mine; I made it; I stand by it.’ One of the seductive powers of generative AI is that it can reduce the labour of agency. A few scattered words are enough for a polished essay to appear. In that moment we should ask: who thought, who shaped, who owned, and who remained aware?
+
+This is not an argument against AI. It is an argument for awareness and responsible use of AI. If thinking is constantly outsourced, the phone grows smarter while we grow less attentive. The mobile phone can produce a strange immobility of body, attention, and imagination.
+
+Education is where this is most urgent. Karnataka has announced AI education in all schools from Class 6. This is welcome, but AI literacy must mean more than coding: knowing when to use a tool, when to question it, and when to trust one's own judgement. Students need neither fear nor blind dependence, but the confidence to think before they prompt.
+
+Care, whether in medicine, education, or family life, depends on attention. A clinician listens; a teacher notices confusion, curiosity, and silence. Hope requires presence. This is where consciousness becomes important, not as an abstract idea, but as everyday awareness of ourselves, of others, and of the consequences of our actions. It is the space from which we pause and respond instead of merely reacting.
+
+To be human is a biological fact. To be humane is a responsibility. It asks for reflection, restraint, and the courage to say ‘I do not know’, an answer our culture now undervalues. Wisdom has always begun with a pause before knowledge.
+
+India's ambition should not be only to become an AI power, but to become a society that can live with AI without surrendering its plurality, agency, and compassion. We must co-create a world that is not merely efficient, but attentive; not merely smart, but humane; not merely fast, but wise enough to ask where it is going.
+
+Sangeetha Menon is Professor and heads the Consciousness Studies Programme at the National Institute of Advanced Studies, Bengaluru.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/indias-ai-boom-what-about-the-human-cost-of-ai-readiness-4180701)
+
+---
+
+### India’s economy is growing, but are jobs growing with it?
+*Deccan Herald · Opinion*
+
+India’s latest employment data offer a reassuring headline. Yet a closer look raises a difficult question: is economic growth creating enough productive opportunities for the young, women, and an increasingly educated workforce?
+
+The Ministry of Statistics and Programme Implementation’s August 2026 Periodic Labour Force Survey (PLFS) bulletin, released on September 15, shows that the unemployment rate among people aged 15 and above fell 0.1 percentage point to 5% in July. Labour-force participation rose to 55.6%, while the worker population ratio reached 52.8%. Rural unemployment declined to 4.1%, but urban unemployment remained higher at 6.8%.
+
+These monthly estimates use the Current Weekly Status method, measuring activity over the preceding seven days. They offer a useful snapshot, but not a complete picture of employment quality or long-term trends.
+
+The youth employment gap
+
+The headline rate conceals a substantial age divide. In August, unemployment among people aged 15 to 29 stood at 15.1%, roughly three times the overall rate. Urban youth unemployment was 18.7%, compared with 13.3% in rural areas.
+
+This points to the difficult transition many young Indians face between education, job-seeking, and stable employment. A young population becomes an economic advantage only when the economy can productively absorb those entering the workforce.
+
+The annual PLFS offers a complementary perspective. Youth unemployment in 2025 was 9.9% under the usual-status measure, which uses a longer reference period. This figure should not be directly compared with the August monthly estimate because the methods differ.
+
+Educated unemployment
+
+The PLFS Annual Report 2025, covering January-December 2025, reported unemployment of 6.5% among people aged 15 and above, whose highest educational attainment was secondary or above. The overall unemployment rate under usual status was 3.1%.
+
+The official release also reports an educated unemployment rate of 7% for 2024. However, the survey’s sampling design changed from January 2025, and the report cautions that the resulting estimates are not strictly comparable with earlier annual figures. The two numbers, therefore, need to be interpreted with that methodological qualification, rather than treated as a seamless trend.
+
+The gender divide is significant. In 2025, educated women faced unemployment of 9.5%, compared with 5.5% for educated men. The rate for urban educated women was 11.2%. These figures raise an important question: is the economy generating enough jobs that use the skills of its expanding educated workforce?
+
+In a climate of unease, youth seek justice and jobsWomen, work, and job quality
+
+The August data put female unemployment among people aged 15 and above at 5.1%, slightly above the overall rate of 5% and the male rate of 4.9%. Urban female unemployment was 8.9%, compared with 3.9% in rural areas.
+
+Female labour-force participation rose to 34.8%, 1.1 percentage points above August 2025. This is encouraging, but participation does not automatically translate into adequate employment. Women who stop seeking work because of limited opportunities, safety concerns or household responsibilities are no longer counted as unemployed. Work in family farms or enterprises may also provide little independent income.
+
+The quality of employment matters as much as its availability. Irregular work, low pay and limited security can leave households vulnerable even when headline indicators improve. Gig work offers flexibility and an entry point for some workers, but its contribution must also be assessed in terms of earnings, social protection, and opportunities for advancement.
+
+Making growth more employment-intensive
+
+Technology and modern services create valuable opportunities, but cannot absorb the entire workforce. Manufacturing, logistics, healthcare, tourism, retail, and other services must also expand through more productive and competitive enterprises.
+
+This requires investment, skills, infrastructure, and better access to finance. Larger, more productive firms can create jobs directly while generating opportunities for suppliers and surrounding businesses. Productivity gains can support higher wages, stronger household consumption, and further investment.
+
+The August figures contain encouraging signs: labour-force participation is rising, and rural unemployment has declined. Yet the youth and gender gaps, alongside elevated educated unemployment, show why a single national rate cannot tell the whole story.
+
+The real test of India’s growth is not simply whether unemployment falls. It is whether economic expansion creates productive, adequately paid and sustainable work — and whether the young, women, and educated job seekers can share in that progress.
+
+Nirmal Ganguly is an economic commentator and a former adviser at the Asian Development Bank.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/indias-economy-is-growing-but-are-jobs-growing-with-it-4180661)
+
+---
 
 ## 12 October 2026
 
@@ -83,6 +254,25 @@ Mehbooba Mufti is President, Jammu and Kashmir Peoples Democratic Party
 
 ---
 
+### DC Edit | Protest Bans Won’t Curb Dissent
+*Deccan Chronicle · Editorial*
+
+No freedom is absolute in a democracy; it comes with riders. It is incumbent on people on both sides of the fence to be responsible to fellow citizens while exercising and regulating those freedoms. The greater responsibility rests with regulators who are paid to do their jobs to ensure that they put in place a fair mechanism that serves all.
+
+A parliamentary panel has now come out with a recommendation that district administrations should withhold permission for rallies, processions or public gatherings on days of crucial competitive examinations. The purported aim is to ensure smooth traffic flow and adequate law-and-order arrangements are in place so that no candidate is affected by external disturbances.
+
+True, traffic congestion or disruptions caused by people’s assemblies may have created issues for candidates rushing to examination centres. But the solution lies not in banning but in regulating such events. The authorities can impose restrictions on the organisers in such a way that rallies and processions do not interrupt normal life or traffic.
+
+Given a choice, the Indian bureaucrat would love to impose a curfew anywhere at will. That is easy to do, but anticipating a situation and coming up with a balanced solution which can protect the rights of all people is a tough job which they would dodge if possible. It is curious that a parliamentary committee has come up with such a proposal.
+
+The committee has made some well-intentioned recommendations for allowing candidates who reach the examination centres a bit late to take the examination. The government should give it serious thought. There are better examination practices such as the IIT-JEE which do not make a student's future hinge on a single day's performance.
+
+The government must explore all avenues to make students' lives less difficult but banning all kinds of public gatherings on examination days is not the best of ideas to achieve the target. No one in their right mind will propose throwing the baby out with the bathwater.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-protest-bans-wont-curb-dissent-1995235)
+
+---
+
 ### DC Edit | Repression Can’t Be Right Answer By Govt To Protest
 *Deccan Chronicle · Editorial*
 
@@ -121,6 +311,66 @@ So embarrassing is a deal with Russia at a time when it is attacking the Ukraini
 
 ---
 
+### DC Edit | Vijay’s Equitable Approach Like A Breath Of Fresh Air
+*Deccan Chronicle · Editorial*
+
+On a busy weekend when he hosted Rahul Gandhi to a long lunch to be followed by coffee and desserts on Saturday and then accompanied Narendra Modi to every event that had been built into the Prime Minister’s itinerary in Chennai on Sunday, Tamil Nadu chief minister C. Joseph Vijay brought to fractious contemporary politics a breath of breezy fresh air.
+
+Handling the Leader of the Opposition whose party is an ally and member of his TVK government in the state with a spontaneous warmth that is to be associated with persons belonging to the same generation, Vijay, as the chief minister of a state, also showed that he could be pragmatic about maintaining cordiality in a federal setup when dealing with a very senior figure like the Prime Minister.
+
+It is not as if how Vijay handled the weekend was in any way akin to running with the hare and hunting with the hounds. There is no moral dilemma in maintaining good relations with friends and amiability with foes of the political firmament. It is a pity that in today’s fractured political environment, civility is too often shown the door to be replaced by shrill political idiom.
+
+Vijay cut a completely different figure from his predecessor M.K. Stalin, who used to wake up each morning ready to rant against the Centre — on Hindi imposition, denial of funds, policy matters ranging from Sri Lanka to sharing GST and other revenues, social justice, etc. The anti-Centre positioning on every contentious issue got to a point that it may even have proved counterproductive in the polls.
+
+There is no knowing if Vijay’s demands for funds, particularly from the SSA due to the state but without conditions, metro rail for two more cities and development of crucial highway connectivity in the state that were put softly and in a businesslike manner without a tinge of rancour will work magic in convincing the Centre to be far more generous with federal funds and projects for Tamil Nadu.
+
+It is a route well worth taking since cordiality never hurts while rants filled with invective invariably do.
+
+How long the celebratory ties between two political celebrities will last is a crore-rupee question, but Vijay has been good to the extent that he is prepared to be amicable if that helps his state fare better with the Centre than Tamil Nadu ever did when the DMK-BJP kept seeing each other as polar opposites. Vijay’s approach elicited the assurance from the PM that he was willing to work with Vijay to take Tamil Nadu to greater heights.
+
+Not viewing every issue through a political lens has been Vijay’s forte thus far though he has only been in office for months rather than decades like other players. However, he is in politics for the long run. The latest Assembly byelection results that gave his party two seats to bolster coalition's tally comfortably above the simple-majority mark may have been reassuring in that his charisma is intact in attracting the voter to the polling booth.
+
+Ruling parties do enjoy an advantage in bypolls as we saw in Bengal’s Nandigram and Rejinagar and in Assam where the poll was held for a Lok Sabha seat, but Vijay’s wins in Tamil Nadu came in two tough seats and were important in keeping TVK’s momentum after it broke a six-decade monopoly of Dravidian parties. It is easy to conclude then that Vijay is “batting” well after beginning his political “innings” brightly after retiring from his career in cinema.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-vijays-equitable-approach-like-a-breath-of-fresh-air-1995227)
+
+---
+
+### Despite Govt Claims, Why India Not Even ‘Partly Free’
+*Deccan Chronicle · Opinion*
+
+On March 5, 2021, the Press Information Bureau of the Indian government put out a statement headlined: “Rebuttal to Freedom House report on India’s declining status as a free country.”It was in response to the finding by the US think tank, founded in 1941, that India was not really democratic and was only “partly free”. This was one of several similar findings by respected global institutions. We are focussing on this one because it elicited a response from the government.
+
+The government’s statement opened with a defence of the electoral process and said: “Many states in India under its federal structure are ruled by parties other than the one at the national level, through an election process which is free and fair and which is conducted by an independent election body. This reflects the working of a vibrant democracy, which gives space to those who hold varying views.”
+
+This was dishonest. The Freedom House report had two parts. The first, carrying 40 per cent weightage, concerned political rights. Here India got a score of 34/40 (falling to 33/40 in 2023), including full marks for free and fair elections, election commission impartiality, freedom to start political parties and opportunities for the Opposition to increase its power. In this part, India did not get full marks on whether voting was unhampered by violence and unaffected by communal tension. This is hardly arguable. In fact, the government even got 3/4 on transparency, which was probably overgenerous. The government response was, therefore, merely repeating what Freedom House had anyway said. Where India’s rating was hurt was in the other 60 per cent, for civil liberties, which are also a part of freedom.
+
+Here it performed poorly (33/60). On the issues of freedom of expression, freedom of religion, academic freedom, freedom of assembly, freedom for NGOs to work (the report named the government’s attack on Amnesty International India specifically), rule of law, independence of judiciary and due process by police, India’s rating was poor. But the scores merely reflected the reality. The government appeared baffled by the results. It sought details from ministries of the parameters used by the Economist Intelligence Unit in its downgrading of India to a “flawed democracy” though the report itself clearly says that the “primary cause was an erosion of civil liberties” and introduction of religion into citizenship laws.
+
+The scores have dropped further in 2026, which is based on the events of 2025. Political rights are now 31/40 and civil liberties at 31/60, the lowest score India has ever received and one suspects the events of the last few months will impact the score, and our image, negatively even more. Why do I say that?
+
+India was a democratic state because its institutions were intact and seen widely as neutral, reasonably efficient and usually fair. As good and as bad as the democratic institutions of most real democracies. That is what the Freedom House score represents.
+
+To the question: “Was the current head of government or other chief national authority elected through free and fair elections?” Freedom House thought that “executive elections and selection procedures are generally regarded as free and fair” and gave us a score of 4/4.
+
+On “were the current national legislative representatives elected through free and fair elections?”, too, we got 4/4 with the observation that “elections were considered generally free and fair, though some violations of campaign rules were reported”.
+
+A score of 3/4 came on the question of “are the electoral laws and framework fair, and are they implemented impartially by the relevant election management bodies?”
+
+Here is the critical paragraph, which says that the Opposition parties’ “concerns intensified in 2025 as the government expanded its special intensive revision (SIR) of the voter list, as carried out in Bihar, to 12 other states and territories.
+
+Among other things, the Opposition has alleged that the ECI has unfairly deleted large numbers of voters from the rolls and prevented eligible voters from registering by introducing excessive verification requirements. Political analysts and opposition leaders have expressed concern that the SIR suppresses the opposition vote and disenfranchises Muslim and other minority voters. Government officials have rejected allegations of voter roll manipulation. The SIR remained underway at year’s end.”
+
+On the question of “do the people have the right to organise in different political parties or other competitive political groupings of their choice, and is the system free of undue obstacles to the rise and fall of these competing parties or groupings?” India scored 3/4.
+
+On the question of whether the Opposition has a realistic opportunity to increase its support or gain power through elections, India again scored 3/4.
+
+None of these scores make any sense now. They do not reflect our reality. The voter rolls have been mangled,...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/despite-govt-claims-why-india-not-even-partly-free-1995224)
+
+---
+
 ### India, US And China In The New Great Game
 *Deccan Chronicle · Opinion*
 
@@ -145,6 +395,25 @@ Going forward it would seem that India will continue to buy some defence equipme
 The US may even play along with India to keep the four-nation Quad alive. The US secretary of state, Marc Rubio, is expected to be in New Delhi. He may announce that on the sidelines of the G-20 summit in the US this December there would be a Quad summit. That will keep some America enthusiasts busy. But the new “Great Game”, as London’s Financial Times...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/india-us-and-china-in-the-new-great-game-1995033)
+
+---
+
+### Jantar Mantar 2.0 Sets Modi Govt Back Further
+*Deccan Chronicle · Opinion*
+
+The Delhi Police, which comes under the Union home ministry and, therefore, under Union Home minister Amit Shah, had prepared better for October 10, having learnt from its experience on July 20. The clampdown came beforehand. Metro stations across the national capital were closed, Internet in a 4-km radius was cut off. And protesters were prevented from reaching the protest site at Jantar Mantar. Around 25,000 police personnel from the Delhi police and the Central Reserve Police Force were deployed. By the end of the day, over 3,000 protesters were detained and then released, while Cockroach Janta Party (CJP) leaders, including Abhijeet Dipke, Saurav Das and Ashutosh Ranka, were arrested from the plane they travelled in from Mumbai. They were released on Sunday. Dhruv Rathee, the Berlin-based podcaster and the bête noire of the Narendra Modi government, was arrested in Gurugram near Delhi. Rathee has also been released. The government can pat itself on the back for having managed to push back the protesters, and that they avoided the protesters’ tsunami of July 20.
+
+This would be a deadly wrong reading of the barometer as it were. The protest site expanded across Delhi, to Dilli Haat where Neha Bora and other protesters were detained, outside the Supreme Court of India, where protesting lawyers were held. The 3,000-plus arrests hide the much larger number of protesters who were prevented from coming out. Like a river in spate, the number of protesters is swelling even though they are prevented from getting out of their homes and joining the protests. The government faces the prospect of a larger number of protesters and dissenters. And these protesters do not all belong to political parties and their student wings. These are college students, some of them in their twenties. They are not chanting slogans of the political opposition. They are speaking of their democratic right to protest, and how speaking their mind is so necessary for Indian democracy. We are not reading their minds. Their testimony is recorded by the newshounds who have been going around talking to them. They are speaking in plain Hindi and English. They have not been schooled and they have not been brainwashed. They are flag-waving liberals. That is why they pose a stronger challenge to the Bharatiya Janata Party (BJP), perched as it is in the hollows of power. They are making their point on record. And without saying it, they are portraying the Modi government which is barricading them from exercising their democratic right, as being in the wrong and without uttering the word, they are proclaiming the government to be anti-democratic. Senior BJP leader Ravi Shankar Prasad’s argument that democracy functions in Parliament and not on the streets, and trying to defend democracy of the government against the anarchy of the protesters, seemed both sheepish and hollow.
+
+In July, Union defence minister and senior BJP leader Rajnath Singh ruled out the resignation of then education minister Dharmendra Pradhan. On Saturday (October 10), Mr Prasad ruled out the resignation of chief election commissioner Gyanesh Kumar, who is at the centre of the storm over the special intensified revision (SIR) of the electoral rolls. Mr Pradhan was a political appointee, and Prime Minister Narendra Modi could have asked him to step down in response to the political protests led by the CJP. The government, legally speaking, cannot ask Mr Kumar to resign. They cannot force the CEC to resign.
+
+Mr Kumar has to step down voluntarily. Of course, Mr Kumar would oblige Mr Modi if he were asked to resign. The Prime Minister and the government are unlikely to blink any time soon.
+
+The CJP has said that it would keep up the protests. The longer the protests continue despite police curbs and detentions, the wider and deeper the opposition to the government will grow. It would gather momentum, which is going to undermine the position of the BJP among the people. Political parties in power, even when they are losing ground, do not give in gracefully. They hold on to their entrenched positions in Parliament and in government till the last. And the BJP is not behaving unnaturally. The interesting development is that the BJP is losing ground, and it is losing ground among the apolitical younger generation. The young have an uncanny sense of right and wrong, however ignorant they may be of political ideologies. The rising dissatisfaction of the youth with the Modi government is based on simple rules of the game. They want to express their opinion in the open, and the government is stopping them in the name of law and order. If the government chooses to choke democratic spaces of protest, then it is not defusing or removing the causes of discontent. It is intensifying discontent by suppressing protest. But governments are like that only. They refuse to read the writing on the wall.
+
+Even as Mr Modi’s admirers celebrate his 25 years as the head of government, 13 years as chief...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/jantar-mantar-20-sets-modi-govt-back-further-1995210)
 
 ---
 
@@ -21761,216 +22030,6 @@ Unfortunately, some people use social services for recognition or personal gain.
 Serving humanity is a sacred responsibility upheld by all great religions. Every sincere effort made for the welfare of others enriches both society and the individual. The greatest rewards of giving are inner happiness, peace of mind, and a life filled with purpose. Material wealth remains behind, but kindness lives forever in the hearts of those we help. Indeed, leaving this world by giving is far more meaningful than leaving it merely with possessions.
 
 [Read full article](https://www.deccanherald.com/opinion/greater-joy-lies-in-giving-than-in-receiving-4073950)
-
----
-
-## 14 July 2026
-
-### True to form: On the 2026 World Cup
-*The Hindu · Editorial*
-
-When the 2026 World Cup kicked off on June 11 in Mexico City, the air was filled with cautious optimism. This being the first 48-team World Cup, there were apprehensions that the group stage would be low on quality and feature many one-sided games. But hope stemmed from sport’s innate ability to adjust, evolve and thrive in newer settings. After more than a month’s action, it can be safely said that the World Cup in North America has been a footballing success. Though semifinalists France, Spain, Argentina and England are all former winners, currently ranked at the top and from the pedigreed and established stables, there has been ample space for others to carve their own identities. Cape Verde — a tiny archipelago off Africa’s west coast — qualifying for the knock-outs and fighting defending champion Argentina toe-to-toe, spirited performances from the Democratic Republic of Congo and Senegal, Egypt’s near-defeat of Argentina in the round of 16, and Norway overcoming five-time titlist Brazil and stretching England for nearly 120 minutes are all vivid examples of the wide geographical spread of sporting excellence. In fact, nine of the 10 African nations in the competition reached the knock-outs, and Asia too would have had more than just Japan and Australia if luck had favoured Iran, which crashed out despite three draws from three matches.
-
-However, on the administrative front, the tournament has been found wanting. There were problems galore at the beginning, such as forcing Iran to camp in Mexico and travel long hours to Seattle and Los Angeles, and arbitrarily denying visas to officials and fans. But governing body FIFA has not turned over a new leaf. Among the controversies was the way the Video Assistant Referee (VAR) system was applied in Argentina’s narrow 3-2 win over Egypt. The African nation saw a goal overturned for a foul committed in the lead up but did not see the same yardstick applied for one of Argentina’s. Another issue that left supporters seething was the intervention of U.S. President Donald Trump in the deferral of forward Folarin Balogun’s one-match suspension in time to play Belgium in the round of 16. There is no evidence to prove that Mr. Trump’s phone call to FIFA head Gianni Infantino influenced the decision, but in a scenario where the custodian of the game has condoned every wrong from the chief organising country, suspicion is natural. Starting from Tuesday night, Kylian Mbappe’s irresistible France, Lamine Yamal’s organised Spain, Jude Bellingham’s effervescent England and Lionel Messi’s evergreen Argentina will be back mesmerising the world. But it will be in football’s best interests if its guardians alter their moral compass and march in tow.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/true-to-form-on-the-2026-world-cup/article71217595.ece)
-
----
-
-### Unsafe practices: On the Vietnam boat accident
-*The Hindu · Editorial*
-
-Survivor accounts of the Vietnam boat tragedy last week point to two clearly identifiable contributors. As the weather turned rough and the speedboat took a sharp turn, it tilted to the left. The passengers — all Indian tourists — sitting on the right fell to the left side. Almost all the passenger weight shifted at once, the boat lost balance and turned turtle. As it capsized, the boat captain and guide escaped through the open front door. Others who found an opening also jumped out. Those who could not leave were trapped inside the capsized boat and took in water. Rescuers pulled them ashore where first aid and resuscitation were attempted before they were moved to hospital. All this took precious time and casualties mounted as a result. Some 15 Indians are reported to have died while 17 survived. Four Vietnamese crew also survived. The Indians on the speedboat at Phú Quôc were among more than 100 employees that a mobile company had taken to Vietnam on a corporate incentive tour.
-
-Industry data indicate that some three crore Indians visit foreign countries every year, with a significant proportion of them coming from non-metro cities. Many of the survivors at Phú Quôc were from such cities. South-East Asia has emerged as the preferred destination, with Thailand and Vietnam joining the traditional attractions of Singapore and Malaysia. Many of these new tourist spots are developing rapidly but, like India, have not fully strengthened safety-of-life practices. For instance, just as in India, pleasure boats operators may carry enough life jackets or distribute them but often do not insist that every passenger wears one. Life jackets keep people afloat with their heads above water if they end up in the sea. In Phú Quôc, passengers were reportedly given life jackets, but it is not yet confirmed whether they were all made to wear them before departure. Another basic safety feature should be ensuring that passengers remain securely strapped to their seats so that they do not shift during rough weather or sharp manoeuvres. Even small shifts in passenger weight can significantly affect the stability of a speedboat. This norm was violated in Phú Quôc. Vietnam in particular has witnessed a surge in tourism, with Indians forming a substantial share of visitors. Speedboat rides between the islets of the Phú Quôc archipelago and the main island are especially popular among Indian tourists. The Vietnamese government has promised to review safety standards on such boats and upgrade them where necessary. But Indians, aided by governments and operators, must strengthen their awareness of safety practices, especially those related to fire and water safety.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/unsafe-practices-on-the-vietnam-boat-accident/article71217827.ece)
-
----
-
-### Holding the Court accountable amid democratic strain
-*The Hindu · Opinion*
-
-In late June this year, 23 Opposition parties wrote to the Chief Justice of India (CJI) Surya Kant raising concerns about the state of the electoral process in India’s democracy. The letter reiterated the broad concern that the Special Intensive Revision (SIR) of electoral rolls is exclusionary, and that the framework is burdensome for ordinary citizens. The Opposition’s letter is also a gesture of desperation and disappointment over the Supreme Court of India’s refusal to interfere with the massive and continuous disenfranchisement.
-
-The erosion of the right to voteIn Why India Votes? (2014), Mukulika Banerjee narrates various encounters with poor ordinary voters. Ms. Banerjee, in the book, referring to Mekhala Krishnamurty’s study, cites an incident: A woman named Rukmini Bai was unable to vote in the elections for lack of proper identification documents. When Rukmini was asked why it was important for her to vote, she said, “My work is to sweep up all the grain that falls from the sacks and the weighing scales on the floor. At the end of the day, I sell what I have collected and I am allowed to keep half the money. That is my income. So you see, I understand the value of each grain of wheat. On the floor they look insignificant, just one isolated grain of wheat, but each grain that is added to the heap determines what I earn. My vote is like those grains of wheat.”
-
-For any citizen of a democracy, exercising the right to adult franchise is vital. But for those who have been marginalised from mainstream society, voting becomes a powerful political act. It reaffirms the recognition that they and their votes matter, and that they count as much as those of the privileged. This is why the long queues at polling booths, without class, caste, or income disparities, turns out to be a beautiful image of a functioning democracy.
-
-Related StoriesSupreme Court upholds SIR exercise as an advancement towards free and fair elections
-
-What did the court rule on Bihar’s SIR of electoral rolls? | Explained
-
-A troubling judgment and endorsement of the SIR
-
-The right to belong beyond official documentation
-
-Nearly 6 crore names have been deleted in first yearof SIR of electoral rolls
-
-What the SIR exercise initiated by the Election Commission of India (ECI) has done is to poke at the heart of this electoral enfranchisement. The modalities in which the ECI has invoked this process are also significant. The ECI has been successful in creating an atmosphere of anxiety for citizens, in a matter closely tied to their political identity. The right to vote is a significant facet of political expression envisaged by the Constitution. This right is now, however, submerged in an entire overarching framework consisting of documentation, inquiry into lineage, appeals and as scholar Rudraksh Lakra calls it — ‘digital structural authoritarianism’.
-
-Role of the CourtWhen the basic structure of a democracy is directly attacked by the executive, the kind of response by the Court — a counter-majoritarian institution — deserves serious study. When a politically aggressive state battles the powerless individual with the entire state machinery at its disposal, one looks at the Court, equipped with the constitutional tools to limit state power.
-
-The Bihar SIR case was adjudicated by the Bench led by the CJI on May 27, 2026. However, this decision came long after the election was over. The Court also has a disappointing history of postponing the final decision in cases after the state action in question has been already operated or implemented.
-
-Editorial | Validating flaws: On the Supreme Court and the SIR
-
-Therefore, as in the cases challenging demonetisation (2016) and the abrogation of the special status of Jammu and Kashmir, by the time the legality of the SIR was decided, it had become a fait accompli. This is the primary failure of the Court — not determining the dispute when time is of the essence.
-
-Second, the way in which the Court oversaw the process was problematic. Unlike the cases where executive action is under judicial scrutiny, in the Bihar SIR, the Court actively involved itself and facilitated the so-called revision that led to deletion of several lakhs of voters. By virtue of several interim orders and a multitude of directions, the Court effectively administered the process. One finds a clear judicial abetment to the electoral process making it a collaborative exercise — quite unprecedented in the country’s history. The Court’s nature shifted from a forum of judicial review to an administrative body.
-
-Third, the ex-post facto endorsement. In the Bihar SIR case, it was nevertheless crucial how the Court would substantively conceptualise the dispute. This was also determinative for other State elections, particularly in Assam and West Bengal. One could frame the narrative in either of two ways: first, as a technical question concerning the competence and powers of the ECI; and second, as a question of deprivation of rights.
-
-In formulating the questions themselves, the Court leaned towards the former rather than the latter. Barring a singular question on proportionality and legitimacy, all other issues were misidentified. This is why there is no effective deliberation on the legality of the process, particularly with regard to its vagueness and lack of reasoning. The disproportionate administrative demand for (often impossible) paperwork, rigid time limits, and the discriminatory impact on minorities, women, and the migrant population were overlooked. In the adjudicatory exercise, there was no appreciation of the social realities of illiteracy, poverty and lack of institutional access for a substantial number of voters. Ultimately, the Court decided in favour of the ECI on all the issues.
-
-Judicial accountabilityLong ago, the liberal thinker Murray Rothbard, relying on the scholar Charles Black, noted that: “the state has …. largely transformed judicial review itself from a limiting device to yet another instrument for furnishing ideological legitimacy to the government’s actions.” In his classic work, The Politics of the Judiciary (1977), J.A.G. Griffith also exposes the judiciary’s natural inclination towards the political branches of the state.
-
-The Indian Supreme Court is one of the most powerful institutions in the world. Many decisions of the Court seemingly involving legal questions are essentially political questions. Therefore, it is necessary for the political Opposition to evaluate and criticise the fundamental aberrations in the judicial realm. This is part and parcel of the function of the Opposition, in today’s critical times.
-
-Manufacturing endorsements to support continuing executive excesses is symptomatic of any authoritarian regime. It is important to recognise that India is evolving into a system in which institutions have lost neutrality, as acknowledged by the Leader of the Opposition in the Lok Sabha, Rahul Gandhi, in his speech at the recent INDIA bloc convention.
-
-It is also becoming clearer that any radical change in the polity through the judicial process is unlikely. There is a recent global trend of expanding oppositional politics beyond conventional methods to people’s movements. India’s democracy must embrace such political praxis.
-
-Kaleeswaram Raj is a lawyer at the Supreme Court of India; Thulasi K. Raj is a lawyer at the Supreme Court of India
-
-[Read full article](https://www.thehindu.com/opinion/lead/holding-the-court-accountable-amid-democratic-strain/article71218387.ece)
-
----
-
-### Real justice demands due process
-*Deccan Herald · Editorial*
-
-Recent developments in West Bengal – centred on the rape and murder of an 11-year-old girl, the subsequent lynching of an innocent man, and the police killing of one of the accused – have exposed serious shortcomings in the two-month-old Bharatiya Janata Party (BJP) government. The incident occurred in Baruipur, near Kolkata. Women’s safety was central to the BJP’s campaign against the previous Mamata Banerjee administration, with the 2024 rape and murder of a trainee doctor at Kolkata’s RG Kar Medical College cited as evidence of governmental failure on this front. Responding to the latest case, Chief Minister Suvendu Adhikari asserted that his government was making every effort to prevent such incidents, reaffirming what he called a long-standing commitment to protecting women and girls. This position merely echoes the assurances offered by Mamata Banerjee’s government. Meanwhile, the victim’s family has alleged that the police were slow in the initial stages of their investigation, raising questions about accountability.
-
-The discovery of the young girl’s body triggered mob violence, resulting in the lynching of a man whom police later confirmed was not a suspect. Adhikari had a communal take on the incident, insinuating that political interests were in play, and “fundamentalists” may have targeted the man based on his Hindu identity, given that the murdered girl was Muslim. Since the protests started, police have arrested more than 30 people. Bringing a communal or political angle into the rape and murder of a child is perverse. Such divisive narratives only serve to divert public attention from the heinous crime, undermining the pursuit of justice for the victim.
-
-The state government constituted a Special Investigation Team (SIT) to probe the crime, leading to four arrests. However, one of the accused men has been killed in a police encounter. The authorities offered a familiar justification: the accused allegedly tried to snatch a service rifle, forcing the police to shoot. This reflects a troubling trend where instant justice and encounter killings are becoming normalised. Senior BJP leader Dilip Ghosh defended the police action, labelling critics “anti-socials”. Yet, most encounters are calculated, extrajudicial executions rather than acts of self-defence. They are a gross violation of due process and the rule of law. Governments are elected with a constitutional commitment to uphold the law. Encounter killings and “justice” through bulldozer action are fundamentally illegal. People accused of crimes, even the most heinous of them, have a right to a fair trial. The police are only investigators with no legal right to punish the offenders through arbitrary executions.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/real-justice-demands-due-process-4072617)
-
----
-
-### The rising barrier of voter verification
-*Deccan Herald · Editorial*
-
-The Election Commission's Special Intensive Revision (SIR) of electoral rolls is undoubtedly an important exercise. Electoral rolls must be accurate, duplicate entries removed, and ineligible names excluded. Yet what should have been a routine administrative process has become an ordeal for ordinary citizens. Karnataka's biggest shortcoming has been the absence of functional voter facilitation centres. Though thousands exist on paper to clarify doubts and assist with enumeration forms, many voters have found them missing. Compounding the problem are complaints that Booth Level Officers (BLOs) are inadequately trained, with many struggling to answer complex queries.
-
-The process itself has generated considerable unease. Those who were not voters in 2002 are required to map themselves with their parents or progeny who figured in the electoral rolls then. But what of those whose parents died before 2002 or whose own names do not appear in the 2002 rolls? Although the Commission has clarified that such individuals may still submit the prescribed forms, uncertainty persists. The exercise is especially burdensome for migrant workers, women whose records changed after marriage, and families that no longer recall which constituency they voted in nearly two decades ago, particularly because many of those constituencies ceased to exist after the 2008 delimitation. The timing could not be worse. Farmers, preoccupied with sowing operations amid fears of drought, are spending precious time on paperwork, with minimal assistance. Fresh instructions requiring even first-time voters to map themselves to their parents have deepened the confusion. Political statements suggesting that those omitted from the electoral rolls may eventually lose access to government benefits have further heightened public anxiety. Memories of the large-scale deletion of names in West Bengal – where even the Supreme Court ultimately offered no relief – have reinforced these fears.
-
-If, as Karnataka Chief Electoral Officer V Anbukkumar claims, over 91% of voter mapping has already been completed through back-office mapping, the burden on citizens could have been eased considerably. Enumeration forms, which already carry a voter's existing details, could have included progeny information wherever there was no ambiguity, leaving only doubtful cases for verification. There was a time when the EC celebrated every new voter added to the democratic process. Today, the emphasis appears increasingly on the number of names deleted. Free and fair elections do require clean electoral rolls, but this objective cannot be achieved through fear or confusion. While every ineligible voter must be removed, not even one eligible citizen should lose the fundamental right to vote.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/the-rising-barrier-of-voter-verification-4072618)
-
----
-
-### A tribute that arrived too late: S Janaki and the grief of unspoken gratitude
-*Deccan Herald · Opinion*
-
-I began writing this piece before the news broke. It started with a simple argument: that tributes should not wait for death.
-
-We somehow save our finest words for memorials, as though appreciation requires an ending. Can gratitude be expressed only in loss?
-
-When I started writing this tribute, I had no such occasion to observe. It was one of the most mundane of days. I happened to listen to Aakaasam Eenatido, and, as often happens with S Janaki’s songs, my ordinary day turned happier. I thought, 'Why not pen a tribute to her while she can still read it?
-
-By the time I have returned to finish this piece, S Janaki is no more.
-
-The irony of this is painful, and I regret my lethargy, but my idea remains unmoved, and so here it is.
-
-For me, Janaki will remain important for reasons more than one.
-
-As a music lover, I believe she is the most astonishingly versatile vocal career Indian playback music has produced. The evidence lies in her songs. Listen to Hallimestre for unabashed sensuality and drama, Naguva Nayana for romance, Kiliye Kiliye for nurturing, and Sangathil Paadatha Kavithai for burning desire. It is difficult to believe that the same voice could sing so many moods.
-
-I know it is unfair to compare her with Lata Mangeshkar or Asha Bhosle. Comparison is a limiting frame. It assumes commensurability where there is, in truth, between any two artists, only distinctiveness. But if Janaki’s name must be placed alongside any others, it is only to acknowledge the exalted company she keeps.
-
-However, besides all this, I have a personal story to tell.
-
-When I first arrived in Bengaluru to study, like many who come to the city from elsewhere, I did not speak Kannada. I still cannot, as a matter of fact; though I can vaguely understand words and attempt to utter them. I am a North Indian by birth, but I have picked up South Indian music by choice. My relationship with Kannada (and even Tamil for that matter, which I also can only attempt to utter disjointedly) began with listening. I entered these languages through their music and, like countless others outside their native worlds, learnt to recognise their sounds a tad bit more each passing song. If these languages ceased to feel foreign, it is because S Janaki’s voice invited me in.
-
-Oddly enough, I am listening to a Bengali song while writing this, and it feels strangely appropriate. I do not inhabit Bengali just as I did not inhabit Tamil or Kannada. Yet, in my life, music has always travelled ahead of language. It has allowed my ears to love places my tongue had not yet learnt to reach.
-
-S Janaki passes away at 88: Kannada film fraternity mourns ‘undisputed queen’ of melodyI am lately noticing that I may not remember certain people or places directly, but in the moment a familiar song begins to play, a Bengaluru street I have not walked in years comes flashing in my head, and a person I have not spoken to in long sits right across from me. This, however, is only half the story.
-
-Songs do not only retrieve the past but, over time, also begin to impose themselves upon our memory. We imagine we are remembering an event as it was when, in truth, we are remembering it as music has led us to feel it. My time in Bengaluru was certainly not as lively as Janaki’s songs have me believe.
-
-That, perhaps, is the greatest power of a singer. Their voice enters our experiences and becomes so inseparable from them that it acquires a lien over our memories. Our memories cease to be ours alone.
-
-S. Janaki has inhabited my life in precisely this way. I can no longer tell whether I remember a person or place as it truly was or as Janaki’s voice has led me to remember it.
-
-Perhaps that is what it means for an artist to become part of one’s inner life. Their work becomes a condition of remembrance: certain memories become inaccessible without them.
-
-We owe our artists more words while they can still hear them, but with aching regret, I say, 'Thank you, Janaki Amma, for making my life richer in ways I only understand now.'
-
-The writer is a lawyer.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/a-tribute-that-arrived-too-late-s-janaki-and-the-grief-of-unspoken-gratitude-4072615)
-
----
-
-### The measure of spiritual writing
-*Deccan Herald · Opinion*
-
-As I reflect on the vast body of spiritual literature that has emerged across cultures and generations, I am struck by the sincerity that motivates most spiritual writers. They write with the intention of sharing insights, experiences, values, and practices that they believe can enrich human life. Their words often arise from a genuine desire to illuminate, inspire, and guide others toward a more meaningful existence. I hold such intentions in high regard, for every honest effort to uplift humanity possesses inherent worth.
-
-Yet I find myself asking a question that is not always easy to answer: Is good intention alone sufficient to make a piece of writing truly spiritual?
-
-A contemplation of history suggests otherwise; sincerity and wisdom are not necessarily the same. A person may write with the purest motives and yet unknowingly strengthen fear, prejudice, division, or illusion. For this reason, spiritual writing cannot be judged solely by the intention of its author. It must also be examined in terms of the effect it has on the minds and hearts of its readers and on the well-being of the larger human community.
-
-This reflection leads to the possibility of what is called a common conscience. Does such a thing exist? Despite our differences in culture, religion, language, and personal belief, it is reasonable to believe that humanity shares certain moral intuitions. Compassion is admired almost everywhere. Unnecessary suffering troubles us regardless of background. Truthfulness, fairness, and kindness seem to resonate across traditions and generations. These shared ethical sensitivities point towards a common conscience, a moral foundation that exists beneath our many divisions.
-
-There is also a common consciousness. It is certainly not to say that everyone thinks alike. Rather, it refers to the deeper interconnectedness of human experience. We all seek meaning, belonging, dignity, and peace. When spiritual literature speaks to these universal aspirations, it transcends doctrine and reaches directly into the human heart.
-
-Spiritual writing must pass through two subtle tests. The first is the test of conscience: Does it nurture compassion, responsibility, humility, and respect for life? The second is the test of consciousness: Does it expand awareness, deepen understanding, and strengthen our sense of connection with one another?
-
-When writing meets these tests, it becomes an instrument of awakening. Good intention remains an essential beginning, but it is not the final measure.
-
-[Read full article](https://www.deccanherald.com/opinion/the-measure-of-spiritual-writing-4072607)
-
----
-
-### To cut pendency, courts must invest in the teams behind judges
-*Deccan Herald · Opinion*
-
-The debate on judicial reforms in India almost invariably begins and ends with one proposal: appoint more judges. Given India’s alarming pendency figures and low judge-population ratio, this demand is understandable and necessary. Yet, the discussion often overlooks an equally important question: who assists the judges in performing their work?
-
-Judicial efficiency depends not merely on the number of judges but also on the quality and quantity of institutional support available to them.
-
-India currently has only about 22 judges per million population, significantly lower than the 50 judges per million population recommended by the Law Commission of India in its 120th report. Meanwhile, more than five crore cases remain pending across Indian courts, with nearly 90% of these before district and subordinate courts. Even more troubling is the fact that high courts continue to operate with substantial vacancies while subordinate courts also face persistent shortages of judicial officers.
-
-Naturally, increasing judicial strength is an important part of the solution. However, increasing the number of judges alone may not be sufficient. A judge’s productivity depends on institutional support. Judges do not only hear arguments and pronounce judgments. They spend countless hours examining precedents, studying statutes, reviewing records, analysing pleadings and preparing judgments. Much of this work is indispensable. Much of it is also capable of being supported by trained legal researchers.
-
-The Supreme Court of India has long recognised the value of research assistance in judicial functioning. Judges are supported by teams of law clerks cum research associates who assist with legal research, identification of precedents and preparation of research briefs. Several high courts have also adopted similar arrangements, albeit on a much smaller scale. While a judge of the Supreme Court is typically assisted by a team of around five researchers, judges in many high courts are ordinarily supported by a single law researcher.
-
-The contribution of these researchers often remains invisible outside court corridors. Yet their value is difficult to overstate.
-
-Having worked as a legal researcher, I have seen first-hand the difference effective research support can make to judicial functioning. Hours spent locating authorities, tracing conflicting precedents, summarising records and identifying legal issues are hours saved for the court. A judge who receives well-prepared research assistance is able to devote greater attention to hearings, deliberation and judgment writing.
-
-A legal researcher does not replace judicial work; rather, the researcher enables the judge to focus on the work that only a judge can perform. In that sense, research support acts as a force multiplier for judicial capacity.
-
-This raises an important question. If research assistance improves efficiency, why should its availability remain so limited?
-
-More women join the Bench, but the path to the top remains narrowThere is a strong case for increasing the number of researchers attached to judges of the Supreme Court and the high courts. Litigation today is more voluminous and more specialised than ever before. Constitutional disputes, commercial litigation, technology law and regulatory matters demand extensive preparation and study. The demands placed upon judges have grown considerably; the support available to them has not.
-
-The case for district courts
-
-The argument becomes even stronger in the district judiciary. District courts carry almost the entire burden of India’s litigation. Yet judges at this level generally function without any dedicated research assistance. Unlike their counterparts in constitutional courts, district judges are often required to undertake legal research themselves while simultaneously managing crowded dockets and administrative responsibilities.
-
-The absence of institutional support inevitably affects productivity. Introducing law clerks or judicial researchers in district courts could therefore prove transformative. Young law graduates attached to individual judges could assist with legal research, preparation of case summaries and identification of precedents. Such a system would improve efficiency while also creating valuable training opportunities for future members of the Bar and the Bench.
-
-Most importantly, such reform would be comparatively inexpensive. Appointing an additional judge requires expenditure on salaries, court infrastructure, chambers, staff and residential accommodation. Expanding the number of legal researchers attached to existing judges would cost only a fraction of that amount while potentially producing substantial increases in disposal rates.
-
-The debate on judicial reform must therefore evolve. The question is not merely how many judges India has. The question is also how effectively those judges are supported.
-
-A judge working with a team of capable researchers can often achieve what several unsupported judges cannot. Judicial capacity depends not only upon the number of judges sitting on the Bench but also upon the number of professionals standing behind them.
-
-India undoubtedly needs more judges. But India also needs more minds assisting those judges. Expanding the strength of law clerks in the Supreme Court, increasing research support in the high courts and introducing similar arrangements in the district judiciary may well prove to be one of the most effective weapons in the fight against judicial backlog. The future of judicial reform lies not merely in increasing judicial numbers but in increasing judicial capacity.
-
-The writer is a Kashmir-based columnist and a research assistant at the J&K High Court.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/to-cut-pendency-courts-must-invest-in-the-teams-behind-judges-4072614)
 
 ---
 

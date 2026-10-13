@@ -1,5 +1,215 @@
 # Editorials archive — 2026-07
 
+## 14 July 2026
+
+### True to form: On the 2026 World Cup
+*The Hindu · Editorial*
+
+When the 2026 World Cup kicked off on June 11 in Mexico City, the air was filled with cautious optimism. This being the first 48-team World Cup, there were apprehensions that the group stage would be low on quality and feature many one-sided games. But hope stemmed from sport’s innate ability to adjust, evolve and thrive in newer settings. After more than a month’s action, it can be safely said that the World Cup in North America has been a footballing success. Though semifinalists France, Spain, Argentina and England are all former winners, currently ranked at the top and from the pedigreed and established stables, there has been ample space for others to carve their own identities. Cape Verde — a tiny archipelago off Africa’s west coast — qualifying for the knock-outs and fighting defending champion Argentina toe-to-toe, spirited performances from the Democratic Republic of Congo and Senegal, Egypt’s near-defeat of Argentina in the round of 16, and Norway overcoming five-time titlist Brazil and stretching England for nearly 120 minutes are all vivid examples of the wide geographical spread of sporting excellence. In fact, nine of the 10 African nations in the competition reached the knock-outs, and Asia too would have had more than just Japan and Australia if luck had favoured Iran, which crashed out despite three draws from three matches.
+
+However, on the administrative front, the tournament has been found wanting. There were problems galore at the beginning, such as forcing Iran to camp in Mexico and travel long hours to Seattle and Los Angeles, and arbitrarily denying visas to officials and fans. But governing body FIFA has not turned over a new leaf. Among the controversies was the way the Video Assistant Referee (VAR) system was applied in Argentina’s narrow 3-2 win over Egypt. The African nation saw a goal overturned for a foul committed in the lead up but did not see the same yardstick applied for one of Argentina’s. Another issue that left supporters seething was the intervention of U.S. President Donald Trump in the deferral of forward Folarin Balogun’s one-match suspension in time to play Belgium in the round of 16. There is no evidence to prove that Mr. Trump’s phone call to FIFA head Gianni Infantino influenced the decision, but in a scenario where the custodian of the game has condoned every wrong from the chief organising country, suspicion is natural. Starting from Tuesday night, Kylian Mbappe’s irresistible France, Lamine Yamal’s organised Spain, Jude Bellingham’s effervescent England and Lionel Messi’s evergreen Argentina will be back mesmerising the world. But it will be in football’s best interests if its guardians alter their moral compass and march in tow.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/true-to-form-on-the-2026-world-cup/article71217595.ece)
+
+---
+
+### Unsafe practices: On the Vietnam boat accident
+*The Hindu · Editorial*
+
+Survivor accounts of the Vietnam boat tragedy last week point to two clearly identifiable contributors. As the weather turned rough and the speedboat took a sharp turn, it tilted to the left. The passengers — all Indian tourists — sitting on the right fell to the left side. Almost all the passenger weight shifted at once, the boat lost balance and turned turtle. As it capsized, the boat captain and guide escaped through the open front door. Others who found an opening also jumped out. Those who could not leave were trapped inside the capsized boat and took in water. Rescuers pulled them ashore where first aid and resuscitation were attempted before they were moved to hospital. All this took precious time and casualties mounted as a result. Some 15 Indians are reported to have died while 17 survived. Four Vietnamese crew also survived. The Indians on the speedboat at Phú Quôc were among more than 100 employees that a mobile company had taken to Vietnam on a corporate incentive tour.
+
+Industry data indicate that some three crore Indians visit foreign countries every year, with a significant proportion of them coming from non-metro cities. Many of the survivors at Phú Quôc were from such cities. South-East Asia has emerged as the preferred destination, with Thailand and Vietnam joining the traditional attractions of Singapore and Malaysia. Many of these new tourist spots are developing rapidly but, like India, have not fully strengthened safety-of-life practices. For instance, just as in India, pleasure boats operators may carry enough life jackets or distribute them but often do not insist that every passenger wears one. Life jackets keep people afloat with their heads above water if they end up in the sea. In Phú Quôc, passengers were reportedly given life jackets, but it is not yet confirmed whether they were all made to wear them before departure. Another basic safety feature should be ensuring that passengers remain securely strapped to their seats so that they do not shift during rough weather or sharp manoeuvres. Even small shifts in passenger weight can significantly affect the stability of a speedboat. This norm was violated in Phú Quôc. Vietnam in particular has witnessed a surge in tourism, with Indians forming a substantial share of visitors. Speedboat rides between the islets of the Phú Quôc archipelago and the main island are especially popular among Indian tourists. The Vietnamese government has promised to review safety standards on such boats and upgrade them where necessary. But Indians, aided by governments and operators, must strengthen their awareness of safety practices, especially those related to fire and water safety.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/unsafe-practices-on-the-vietnam-boat-accident/article71217827.ece)
+
+---
+
+### Holding the Court accountable amid democratic strain
+*The Hindu · Opinion*
+
+In late June this year, 23 Opposition parties wrote to the Chief Justice of India (CJI) Surya Kant raising concerns about the state of the electoral process in India’s democracy. The letter reiterated the broad concern that the Special Intensive Revision (SIR) of electoral rolls is exclusionary, and that the framework is burdensome for ordinary citizens. The Opposition’s letter is also a gesture of desperation and disappointment over the Supreme Court of India’s refusal to interfere with the massive and continuous disenfranchisement.
+
+The erosion of the right to voteIn Why India Votes? (2014), Mukulika Banerjee narrates various encounters with poor ordinary voters. Ms. Banerjee, in the book, referring to Mekhala Krishnamurty’s study, cites an incident: A woman named Rukmini Bai was unable to vote in the elections for lack of proper identification documents. When Rukmini was asked why it was important for her to vote, she said, “My work is to sweep up all the grain that falls from the sacks and the weighing scales on the floor. At the end of the day, I sell what I have collected and I am allowed to keep half the money. That is my income. So you see, I understand the value of each grain of wheat. On the floor they look insignificant, just one isolated grain of wheat, but each grain that is added to the heap determines what I earn. My vote is like those grains of wheat.”
+
+For any citizen of a democracy, exercising the right to adult franchise is vital. But for those who have been marginalised from mainstream society, voting becomes a powerful political act. It reaffirms the recognition that they and their votes matter, and that they count as much as those of the privileged. This is why the long queues at polling booths, without class, caste, or income disparities, turns out to be a beautiful image of a functioning democracy.
+
+Related StoriesSupreme Court upholds SIR exercise as an advancement towards free and fair elections
+
+What did the court rule on Bihar’s SIR of electoral rolls? | Explained
+
+A troubling judgment and endorsement of the SIR
+
+The right to belong beyond official documentation
+
+Nearly 6 crore names have been deleted in first yearof SIR of electoral rolls
+
+What the SIR exercise initiated by the Election Commission of India (ECI) has done is to poke at the heart of this electoral enfranchisement. The modalities in which the ECI has invoked this process are also significant. The ECI has been successful in creating an atmosphere of anxiety for citizens, in a matter closely tied to their political identity. The right to vote is a significant facet of political expression envisaged by the Constitution. This right is now, however, submerged in an entire overarching framework consisting of documentation, inquiry into lineage, appeals and as scholar Rudraksh Lakra calls it — ‘digital structural authoritarianism’.
+
+Role of the CourtWhen the basic structure of a democracy is directly attacked by the executive, the kind of response by the Court — a counter-majoritarian institution — deserves serious study. When a politically aggressive state battles the powerless individual with the entire state machinery at its disposal, one looks at the Court, equipped with the constitutional tools to limit state power.
+
+The Bihar SIR case was adjudicated by the Bench led by the CJI on May 27, 2026. However, this decision came long after the election was over. The Court also has a disappointing history of postponing the final decision in cases after the state action in question has been already operated or implemented.
+
+Editorial | Validating flaws: On the Supreme Court and the SIR
+
+Therefore, as in the cases challenging demonetisation (2016) and the abrogation of the special status of Jammu and Kashmir, by the time the legality of the SIR was decided, it had become a fait accompli. This is the primary failure of the Court — not determining the dispute when time is of the essence.
+
+Second, the way in which the Court oversaw the process was problematic. Unlike the cases where executive action is under judicial scrutiny, in the Bihar SIR, the Court actively involved itself and facilitated the so-called revision that led to deletion of several lakhs of voters. By virtue of several interim orders and a multitude of directions, the Court effectively administered the process. One finds a clear judicial abetment to the electoral process making it a collaborative exercise — quite unprecedented in the country’s history. The Court’s nature shifted from a forum of judicial review to an administrative body.
+
+Third, the ex-post facto endorsement. In the Bihar SIR case, it was nevertheless crucial how the Court would substantively conceptualise the dispute. This was also determinative for other State elections, particularly in Assam and West Bengal. One could frame the narrative in either of two ways: first, as a technical question concerning the competence and powers of the ECI; and second, as a question of deprivation of rights.
+
+In formulating the questions themselves, the Court leaned towards the former rather than the latter. Barring a singular question on proportionality and legitimacy, all other issues were misidentified. This is why there is no effective deliberation on the legality of the process, particularly with regard to its vagueness and lack of reasoning. The disproportionate administrative demand for (often impossible) paperwork, rigid time limits, and the discriminatory impact on minorities, women, and the migrant population were overlooked. In the adjudicatory exercise, there was no appreciation of the social realities of illiteracy, poverty and lack of institutional access for a substantial number of voters. Ultimately, the Court decided in favour of the ECI on all the issues.
+
+Judicial accountabilityLong ago, the liberal thinker Murray Rothbard, relying on the scholar Charles Black, noted that: “the state has …. largely transformed judicial review itself from a limiting device to yet another instrument for furnishing ideological legitimacy to the government’s actions.” In his classic work, The Politics of the Judiciary (1977), J.A.G. Griffith also exposes the judiciary’s natural inclination towards the political branches of the state.
+
+The Indian Supreme Court is one of the most powerful institutions in the world. Many decisions of the Court seemingly involving legal questions are essentially political questions. Therefore, it is necessary for the political Opposition to evaluate and criticise the fundamental aberrations in the judicial realm. This is part and parcel of the function of the Opposition, in today’s critical times.
+
+Manufacturing endorsements to support continuing executive excesses is symptomatic of any authoritarian regime. It is important to recognise that India is evolving into a system in which institutions have lost neutrality, as acknowledged by the Leader of the Opposition in the Lok Sabha, Rahul Gandhi, in his speech at the recent INDIA bloc convention.
+
+It is also becoming clearer that any radical change in the polity through the judicial process is unlikely. There is a recent global trend of expanding oppositional politics beyond conventional methods to people’s movements. India’s democracy must embrace such political praxis.
+
+Kaleeswaram Raj is a lawyer at the Supreme Court of India; Thulasi K. Raj is a lawyer at the Supreme Court of India
+
+[Read full article](https://www.thehindu.com/opinion/lead/holding-the-court-accountable-amid-democratic-strain/article71218387.ece)
+
+---
+
+### Real justice demands due process
+*Deccan Herald · Editorial*
+
+Recent developments in West Bengal – centred on the rape and murder of an 11-year-old girl, the subsequent lynching of an innocent man, and the police killing of one of the accused – have exposed serious shortcomings in the two-month-old Bharatiya Janata Party (BJP) government. The incident occurred in Baruipur, near Kolkata. Women’s safety was central to the BJP’s campaign against the previous Mamata Banerjee administration, with the 2024 rape and murder of a trainee doctor at Kolkata’s RG Kar Medical College cited as evidence of governmental failure on this front. Responding to the latest case, Chief Minister Suvendu Adhikari asserted that his government was making every effort to prevent such incidents, reaffirming what he called a long-standing commitment to protecting women and girls. This position merely echoes the assurances offered by Mamata Banerjee’s government. Meanwhile, the victim’s family has alleged that the police were slow in the initial stages of their investigation, raising questions about accountability.
+
+The discovery of the young girl’s body triggered mob violence, resulting in the lynching of a man whom police later confirmed was not a suspect. Adhikari had a communal take on the incident, insinuating that political interests were in play, and “fundamentalists” may have targeted the man based on his Hindu identity, given that the murdered girl was Muslim. Since the protests started, police have arrested more than 30 people. Bringing a communal or political angle into the rape and murder of a child is perverse. Such divisive narratives only serve to divert public attention from the heinous crime, undermining the pursuit of justice for the victim.
+
+The state government constituted a Special Investigation Team (SIT) to probe the crime, leading to four arrests. However, one of the accused men has been killed in a police encounter. The authorities offered a familiar justification: the accused allegedly tried to snatch a service rifle, forcing the police to shoot. This reflects a troubling trend where instant justice and encounter killings are becoming normalised. Senior BJP leader Dilip Ghosh defended the police action, labelling critics “anti-socials”. Yet, most encounters are calculated, extrajudicial executions rather than acts of self-defence. They are a gross violation of due process and the rule of law. Governments are elected with a constitutional commitment to uphold the law. Encounter killings and “justice” through bulldozer action are fundamentally illegal. People accused of crimes, even the most heinous of them, have a right to a fair trial. The police are only investigators with no legal right to punish the offenders through arbitrary executions.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/real-justice-demands-due-process-4072617)
+
+---
+
+### The rising barrier of voter verification
+*Deccan Herald · Editorial*
+
+The Election Commission's Special Intensive Revision (SIR) of electoral rolls is undoubtedly an important exercise. Electoral rolls must be accurate, duplicate entries removed, and ineligible names excluded. Yet what should have been a routine administrative process has become an ordeal for ordinary citizens. Karnataka's biggest shortcoming has been the absence of functional voter facilitation centres. Though thousands exist on paper to clarify doubts and assist with enumeration forms, many voters have found them missing. Compounding the problem are complaints that Booth Level Officers (BLOs) are inadequately trained, with many struggling to answer complex queries.
+
+The process itself has generated considerable unease. Those who were not voters in 2002 are required to map themselves with their parents or progeny who figured in the electoral rolls then. But what of those whose parents died before 2002 or whose own names do not appear in the 2002 rolls? Although the Commission has clarified that such individuals may still submit the prescribed forms, uncertainty persists. The exercise is especially burdensome for migrant workers, women whose records changed after marriage, and families that no longer recall which constituency they voted in nearly two decades ago, particularly because many of those constituencies ceased to exist after the 2008 delimitation. The timing could not be worse. Farmers, preoccupied with sowing operations amid fears of drought, are spending precious time on paperwork, with minimal assistance. Fresh instructions requiring even first-time voters to map themselves to their parents have deepened the confusion. Political statements suggesting that those omitted from the electoral rolls may eventually lose access to government benefits have further heightened public anxiety. Memories of the large-scale deletion of names in West Bengal – where even the Supreme Court ultimately offered no relief – have reinforced these fears.
+
+If, as Karnataka Chief Electoral Officer V Anbukkumar claims, over 91% of voter mapping has already been completed through back-office mapping, the burden on citizens could have been eased considerably. Enumeration forms, which already carry a voter's existing details, could have included progeny information wherever there was no ambiguity, leaving only doubtful cases for verification. There was a time when the EC celebrated every new voter added to the democratic process. Today, the emphasis appears increasingly on the number of names deleted. Free and fair elections do require clean electoral rolls, but this objective cannot be achieved through fear or confusion. While every ineligible voter must be removed, not even one eligible citizen should lose the fundamental right to vote.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-rising-barrier-of-voter-verification-4072618)
+
+---
+
+### A tribute that arrived too late: S Janaki and the grief of unspoken gratitude
+*Deccan Herald · Opinion*
+
+I began writing this piece before the news broke. It started with a simple argument: that tributes should not wait for death.
+
+We somehow save our finest words for memorials, as though appreciation requires an ending. Can gratitude be expressed only in loss?
+
+When I started writing this tribute, I had no such occasion to observe. It was one of the most mundane of days. I happened to listen to Aakaasam Eenatido, and, as often happens with S Janaki’s songs, my ordinary day turned happier. I thought, 'Why not pen a tribute to her while she can still read it?
+
+By the time I have returned to finish this piece, S Janaki is no more.
+
+The irony of this is painful, and I regret my lethargy, but my idea remains unmoved, and so here it is.
+
+For me, Janaki will remain important for reasons more than one.
+
+As a music lover, I believe she is the most astonishingly versatile vocal career Indian playback music has produced. The evidence lies in her songs. Listen to Hallimestre for unabashed sensuality and drama, Naguva Nayana for romance, Kiliye Kiliye for nurturing, and Sangathil Paadatha Kavithai for burning desire. It is difficult to believe that the same voice could sing so many moods.
+
+I know it is unfair to compare her with Lata Mangeshkar or Asha Bhosle. Comparison is a limiting frame. It assumes commensurability where there is, in truth, between any two artists, only distinctiveness. But if Janaki’s name must be placed alongside any others, it is only to acknowledge the exalted company she keeps.
+
+However, besides all this, I have a personal story to tell.
+
+When I first arrived in Bengaluru to study, like many who come to the city from elsewhere, I did not speak Kannada. I still cannot, as a matter of fact; though I can vaguely understand words and attempt to utter them. I am a North Indian by birth, but I have picked up South Indian music by choice. My relationship with Kannada (and even Tamil for that matter, which I also can only attempt to utter disjointedly) began with listening. I entered these languages through their music and, like countless others outside their native worlds, learnt to recognise their sounds a tad bit more each passing song. If these languages ceased to feel foreign, it is because S Janaki’s voice invited me in.
+
+Oddly enough, I am listening to a Bengali song while writing this, and it feels strangely appropriate. I do not inhabit Bengali just as I did not inhabit Tamil or Kannada. Yet, in my life, music has always travelled ahead of language. It has allowed my ears to love places my tongue had not yet learnt to reach.
+
+S Janaki passes away at 88: Kannada film fraternity mourns ‘undisputed queen’ of melodyI am lately noticing that I may not remember certain people or places directly, but in the moment a familiar song begins to play, a Bengaluru street I have not walked in years comes flashing in my head, and a person I have not spoken to in long sits right across from me. This, however, is only half the story.
+
+Songs do not only retrieve the past but, over time, also begin to impose themselves upon our memory. We imagine we are remembering an event as it was when, in truth, we are remembering it as music has led us to feel it. My time in Bengaluru was certainly not as lively as Janaki’s songs have me believe.
+
+That, perhaps, is the greatest power of a singer. Their voice enters our experiences and becomes so inseparable from them that it acquires a lien over our memories. Our memories cease to be ours alone.
+
+S. Janaki has inhabited my life in precisely this way. I can no longer tell whether I remember a person or place as it truly was or as Janaki’s voice has led me to remember it.
+
+Perhaps that is what it means for an artist to become part of one’s inner life. Their work becomes a condition of remembrance: certain memories become inaccessible without them.
+
+We owe our artists more words while they can still hear them, but with aching regret, I say, 'Thank you, Janaki Amma, for making my life richer in ways I only understand now.'
+
+The writer is a lawyer.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/a-tribute-that-arrived-too-late-s-janaki-and-the-grief-of-unspoken-gratitude-4072615)
+
+---
+
+### The measure of spiritual writing
+*Deccan Herald · Opinion*
+
+As I reflect on the vast body of spiritual literature that has emerged across cultures and generations, I am struck by the sincerity that motivates most spiritual writers. They write with the intention of sharing insights, experiences, values, and practices that they believe can enrich human life. Their words often arise from a genuine desire to illuminate, inspire, and guide others toward a more meaningful existence. I hold such intentions in high regard, for every honest effort to uplift humanity possesses inherent worth.
+
+Yet I find myself asking a question that is not always easy to answer: Is good intention alone sufficient to make a piece of writing truly spiritual?
+
+A contemplation of history suggests otherwise; sincerity and wisdom are not necessarily the same. A person may write with the purest motives and yet unknowingly strengthen fear, prejudice, division, or illusion. For this reason, spiritual writing cannot be judged solely by the intention of its author. It must also be examined in terms of the effect it has on the minds and hearts of its readers and on the well-being of the larger human community.
+
+This reflection leads to the possibility of what is called a common conscience. Does such a thing exist? Despite our differences in culture, religion, language, and personal belief, it is reasonable to believe that humanity shares certain moral intuitions. Compassion is admired almost everywhere. Unnecessary suffering troubles us regardless of background. Truthfulness, fairness, and kindness seem to resonate across traditions and generations. These shared ethical sensitivities point towards a common conscience, a moral foundation that exists beneath our many divisions.
+
+There is also a common consciousness. It is certainly not to say that everyone thinks alike. Rather, it refers to the deeper interconnectedness of human experience. We all seek meaning, belonging, dignity, and peace. When spiritual literature speaks to these universal aspirations, it transcends doctrine and reaches directly into the human heart.
+
+Spiritual writing must pass through two subtle tests. The first is the test of conscience: Does it nurture compassion, responsibility, humility, and respect for life? The second is the test of consciousness: Does it expand awareness, deepen understanding, and strengthen our sense of connection with one another?
+
+When writing meets these tests, it becomes an instrument of awakening. Good intention remains an essential beginning, but it is not the final measure.
+
+[Read full article](https://www.deccanherald.com/opinion/the-measure-of-spiritual-writing-4072607)
+
+---
+
+### To cut pendency, courts must invest in the teams behind judges
+*Deccan Herald · Opinion*
+
+The debate on judicial reforms in India almost invariably begins and ends with one proposal: appoint more judges. Given India’s alarming pendency figures and low judge-population ratio, this demand is understandable and necessary. Yet, the discussion often overlooks an equally important question: who assists the judges in performing their work?
+
+Judicial efficiency depends not merely on the number of judges but also on the quality and quantity of institutional support available to them.
+
+India currently has only about 22 judges per million population, significantly lower than the 50 judges per million population recommended by the Law Commission of India in its 120th report. Meanwhile, more than five crore cases remain pending across Indian courts, with nearly 90% of these before district and subordinate courts. Even more troubling is the fact that high courts continue to operate with substantial vacancies while subordinate courts also face persistent shortages of judicial officers.
+
+Naturally, increasing judicial strength is an important part of the solution. However, increasing the number of judges alone may not be sufficient. A judge’s productivity depends on institutional support. Judges do not only hear arguments and pronounce judgments. They spend countless hours examining precedents, studying statutes, reviewing records, analysing pleadings and preparing judgments. Much of this work is indispensable. Much of it is also capable of being supported by trained legal researchers.
+
+The Supreme Court of India has long recognised the value of research assistance in judicial functioning. Judges are supported by teams of law clerks cum research associates who assist with legal research, identification of precedents and preparation of research briefs. Several high courts have also adopted similar arrangements, albeit on a much smaller scale. While a judge of the Supreme Court is typically assisted by a team of around five researchers, judges in many high courts are ordinarily supported by a single law researcher.
+
+The contribution of these researchers often remains invisible outside court corridors. Yet their value is difficult to overstate.
+
+Having worked as a legal researcher, I have seen first-hand the difference effective research support can make to judicial functioning. Hours spent locating authorities, tracing conflicting precedents, summarising records and identifying legal issues are hours saved for the court. A judge who receives well-prepared research assistance is able to devote greater attention to hearings, deliberation and judgment writing.
+
+A legal researcher does not replace judicial work; rather, the researcher enables the judge to focus on the work that only a judge can perform. In that sense, research support acts as a force multiplier for judicial capacity.
+
+This raises an important question. If research assistance improves efficiency, why should its availability remain so limited?
+
+More women join the Bench, but the path to the top remains narrowThere is a strong case for increasing the number of researchers attached to judges of the Supreme Court and the high courts. Litigation today is more voluminous and more specialised than ever before. Constitutional disputes, commercial litigation, technology law and regulatory matters demand extensive preparation and study. The demands placed upon judges have grown considerably; the support available to them has not.
+
+The case for district courts
+
+The argument becomes even stronger in the district judiciary. District courts carry almost the entire burden of India’s litigation. Yet judges at this level generally function without any dedicated research assistance. Unlike their counterparts in constitutional courts, district judges are often required to undertake legal research themselves while simultaneously managing crowded dockets and administrative responsibilities.
+
+The absence of institutional support inevitably affects productivity. Introducing law clerks or judicial researchers in district courts could therefore prove transformative. Young law graduates attached to individual judges could assist with legal research, preparation of case summaries and identification of precedents. Such a system would improve efficiency while also creating valuable training opportunities for future members of the Bar and the Bench.
+
+Most importantly, such reform would be comparatively inexpensive. Appointing an additional judge requires expenditure on salaries, court infrastructure, chambers, staff and residential accommodation. Expanding the number of legal researchers attached to existing judges would cost only a fraction of that amount while potentially producing substantial increases in disposal rates.
+
+The debate on judicial reform must therefore evolve. The question is not merely how many judges India has. The question is also how effectively those judges are supported.
+
+A judge working with a team of capable researchers can often achieve what several unsupported judges cannot. Judicial capacity depends not only upon the number of judges sitting on the Bench but also upon the number of professionals standing behind them.
+
+India undoubtedly needs more judges. But India also needs more minds assisting those judges. Expanding the strength of law clerks in the Supreme Court, increasing research support in the high courts and introducing similar arrangements in the district judiciary may well prove to be one of the most effective weapons in the fight against judicial backlog. The future of judicial reform lies not merely in increasing judicial numbers but in increasing judicial capacity.
+
+The writer is a Kashmir-based columnist and a research assistant at the J&K High Court.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/to-cut-pendency-courts-must-invest-in-the-teams-behind-judges-4072614)
+
+---
+
 ## 13 July 2026
 
 ### ​Insular incentive: On ethanol-blended fuel and the Indian consumer
