@@ -1,8 +1,208 @@
 # Editorials
 
-_Last updated: 2026-10-13 08:15 UTC_
+_Last updated: 2026-10-14 06:34 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 14 October 2026
+
+### Spiralling food prices: on rising inflation
+*The Hindu · Editorial*
+
+September’s retail inflation, at 5.54%, an almost two-year high, marks the fourth consecutive month that price increases have kept headline CPI above the Reserve Bank of India’s (RBI) 4% target. The impact has been particularly severe for rural Indians, whose inflation rate reached 6.08%. Rural food inflation rose almost two percentage points between August and September, touching 8.06%. Onion (108.09%), garlic (54.62%) and ginger (62.85%) drove the surge, even as potato (-11.50%) and tomato (-8.62%) prices remained below year-earlier levels. The festive season ahead will be expensive for rural households already facing the uncertainties of a deficient monsoon, El Niño-related risks to harvests and incomes, and unusually high temperatures. Headline CPI is now just 0.46 percentage points below the RBI’s upper tolerance limit of 6%. The Monetary Policy Committee raised the repo rate by 25 basis points to 5.50% in October, ending a pause that began after its previous increase in February 2023. Another increase in December cannot be ruled out if price pressures continue to broaden. Chief among the factors driving inflation since the U.S.-Israeli war on Iran have been fuel, food and transport, compounded by a depreciating rupee.
+
+The Indian crude basket, according to the Petroleum Planning and Analysis Cell, rose from $82.04 a barrel in July to $116.09 in September — a 41% increase — with economy-wide implications for freight, production and distribution. The RBI’s special dollar facility for oil marketing companies may ease spot-market pressure on the rupee, but only temporarily if the underlying import dependence and geopolitical risks persist. The crucial subgroup, transport services for goods, recorded inflation of 14.73% in September, up from 14.64% in August. Restaurant and accommodation services inflation has reached 9.36%, while inflation in personal care, social protection and miscellaneous goods and services, which include precious metals, has moderated to 13.75%. Core inflation, excluding food and fuel but including precious metals, rose to 4.6% in September from 4.16% in August, suggesting that price pressures are broadening. Foreign portfolio investors (FPIs) have pulled a record ₹3.08 trillion ($32.73 billion) out of Indian equities in the nine months ending September this year, which is almost double that of the whole of CY2025. FPIs have been net sellers in six of the past nine months as they seek safe havens, stronger dollar-denominated returns, and bond yields. Selling resumed in October, adding to pressure on the rupee, which weakened by about 7% against the dollar over the year to early October, despite RBI interventions such as direct dollar sales and attracting foreign-currency inflows. The central bank’s latest steps have helped the rupee recover, but cannot resolve the underlying pressures. With crude prices elevated, the rupee vulnerable and no clear end to the West Asia conflict, imported inflation is likely to continue shaping domestic prices in the months ahead.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/spiralling-food-prices-on-rising-inflation/article71579752.ece)
+
+---
+
+### The sound and the fiery: on green crackers, pollution control
+*The Hindu · Editorial*
+
+As Delhi and the National Capital Region (NCR) head into another winter, they must brace for the return of a foe kept on a leash that is alternately loosened or tightened. In November 2016, the Supreme Court of India suspended licences for the sale of fireworks in the NCR after Deepavali celebrations pushed PM2.5 levels above 700 g/m³. The Court relaxed the suspension in September 2017, partly to protect existing licence holders and livelihoods, but restored the suspension for Deepavali in October. In 2018, in its judgment in Arjun Gopal and Others vs Union of India and Others, the Court allowed only reduced-emission and “green” crackers, banned joined firecrackers or laris, and imposed a two-hour window. The latest order permits specified next-generation joined green crackers, while declining a total ban on fireworks, invoking public sentiment. Fire crackers are far from the smoking gun of Delhi’s air-quality crisis. Construction dust, vehicles, stubble burning and stagnant, cold air all contribute to winter pollution. But when these push the air towards “severe” levels, crackers can produce an acute spike. In 2025, the first Deepavali after the Court permitted limited use of green crackers, Delhi’s post-Deepavali PM2.5 average reached 488 g/m³, the highest since 2021, while hourly concentrations peaked at 675 g/m³.
+
+There is no gainsaying that green crackers are a pyrrhic green. The Council of Scientific and Industrial Research–National Environmental Engineering Research Institute (CSIR-NEERI), which promoted them, says the newer generation promises a 45%-60% cut in PM10. These figures, however, do not reflect real-world conditions, and when “cleaner” crackers are burst in greater numbers, the savings in particulate pollution evaporate. This is without accounting for noise pollution. There is also the difficulty of enforcement. The Commission for Air Quality Management has stated that QR codes had been sold to unregistered manufacturers — registered manufacturers reportedly sold them, allowing unauthorised firecrackers to be passed off as certified green crackers. The explosives regulator had no testing facility in Delhi. In 2018 and 2019, the police could not distinguish green crackers from conventional ones. Unless fireworks manufacturing moves into the formal sector, regulations are followed in practice, and awareness of the toll on public health spreads among those who love the sound and fury of crackers, air and noise pollution are here to stay.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/the-sound-and-the-fiery-on-green-crackers-pollution-control/article71579360.ece)
+
+---
+
+### India’s problem of overtreatment and overmedication
+*The Hindu · Opinion*
+
+Modern medicine has never been more capable than it is today. Tests detect illness earlier, scans reveal invisible abnormalities, medicines prevent and treat diseases, and interventions and procedures can save lives within minutes. Yet, the same system that can do more is increasingly tempted to overtreat and overmedicate.
+
+Also read |Lifestyle, not medicine, is key to good health
+
+Overtreatment and overmedication are not simply the use of an unnecessary medicine but often a chain: a test detects an incidental abnormality, which leads to another test, a diagnosis and then a prescription that may become permanent. What begins as prevention can end in long-term medication or surgery. Then, in India, overtreatment coexists with undertreatment: unnecessary interventions are offered to some, while many others still lack essential primary care, affordable medicines and timely treatment.
+
+Health packages and testsThe rise of overtreatment is the result of a convergence of several factors. The first driver of overtreatment is unnecessary and excessive testing — both screening and diagnostic — which creates a cascade of care. A review article in the prestigious National Medical Journal of India in 2016 found that routine health-check packages often include unwarranted tests that can lead to false-positive results, anxiety, further investigations, overdiagnosis and overtreatment. The truth is that the ability to test has expanded faster than our ability to decide who actually needs testing.
+
+Are antibiotics over-prescribed in India?The second driver is the fragmentation of health and medical care. Its most visible manifestation in India is an excessive focus on specialist and super specialist care. A person with a common health problem often goes directly to a specialist or superspecialist. A person with chronic conditions may consult several specialists, each optimising one part of care without necessarily paying attention to the person’s other health problems. The patient is treated in parts, while the human body does not live in specialties.
+
+This matters particularly in older adults. A systematic review and meta-analysis of Indian studies, published in Frontiers in Pharmacology in 2021, reported polypharmacy in about 49% of older adults. Another study, published in Scientific Reports in 2025, found that roughly one-third of older adults were taking five or more prescribed medicines (polypharmacy), with potentially inappropriate medicines identified in 28.8% of cases.
+
+These figures do not mean that everyone taking several medicines is being overtreated. They do, however, show why medication reviews and deprescribing must become routine.
+
+A third force is the transformation of health care into a marketplace. Laboratory tests, radiological investigations, procedures, supplements and monitoring devices have become products to be sold — sometimes products in search of potential customers. As a result, the boundaries between those who genuinely need these interventions and those who do not can become blurred. A linked aspect is that much of health care and medical care in India operates on a fee-for-service model, which can reward activity rather than restraint. Many patients consider a medical consultation complete only when several medicines and investigations have been prescribed.
+
+The question of accessHealth insurance is a proven solution for financial protection from health-related expenses, as the cost is borne by the insurer. However, it can create both ‘ex-ante’ and ‘ex-post’ moral hazards, discouraging preventive care and encouraging hospitals and patients to favour costlier interventions. What is forgotten is that while someone else may bear the financial cost, it is the patient’s body that undergoes the intervention. Paying insurance premiums for years does not mean that one must ‘recover’ the money by undergoing a relatively unnecessary procedure or surgery.
+
+Fourth, patient beliefs and expectations arising from advances in medical care where people want certainty when they are worried and may feel that something tangible should follow a consultation. Reassurance can look like inaction; observation can feel inferior to a scan; lifestyle advice can appear less serious than medication. Doctors may respond to these expectations, particularly in crowded clinics where explanation requires time.
+
+The fifth driver is the rise of ‘defensive medicine’, in which clinicians, fearing that they might miss a rare diagnosis, may consider ordering another test as the safer option. What is often forgotten, however, is that every test carries potential risks, both from the test itself and from the discovery of abnormalities that may never have caused harm.
+
+Choosing wiselyIndia is not alone in facing this problem. Overtreatment first became widely recognised in high-income countries and is now increasingly visible across many middle-income nations. This gave rise to the global Choosing Wisely movement, which encourages people to choose health-care interventions more carefully. It is against this backdrop, between 2012 and 2023, that nearly 80 specialty societies worldwide published close to 700 recommendations identifying hundreds of tests and treatments that clinicians and patients should question. The message is that medicine requires stronger mechanisms for self-correction. The solutions are about practising better medicine. Halting and reversing overmedicalisation requires the engagement of all stakeholders, including individuals, communities, professional societies and health policymakers.
+
+First, India needs to rebuild stronger and functional primary care and restore the family physician as the first point of contact for most non-emergency health needs. A general physician can decide which problems require specialist expertise, reconcile multiple prescriptions and recognise when treatment can safely be reduced. Initiation of care by a general physician, followed by continuity through the referral pathway, protects patients against overmedication and excess surgeries.
+
+Second, every medical prescription should carry a review date and, where appropriate, a possible stop date. Medicines should not become lifelong simply because nobody asks whether they are still needed. Older adults and people taking five or more medicines should periodically undergo a structured medication review assessing indication, benefit, duplication, interactions and opportunities for deprescribing.
+
+Develop India-specific listsThird, professional medical societies and the Indian Council of Medical Research should develop Indian lists of low-value tests, treatments and procedures — similar to Choosing Wisely — and embed these principles in medical training, accreditation and quality-improvement programmes. Hospitals should measure not only whether recommended care was provided, but also whether unnecessary care was avoided.
+
+Fourth, before starting any test or treatment, patients should note that these four questions matter: Why do I need this? What happens if I wait? What are the possible benefits and risks? What are the alternatives? These questions can substantially improve clinical conversations and outcomes.
+
+Fifth, payment systems and health insurance must reward outcomes, clinical reasoning and continuity of care rather than volume alone. A health-care system should not make it financially easier to order a scan than to explain thoughtfully why that scan may be unnecessary.
+
+Medical advances will continue — and they should. However, the next stage of medical progress will come not only from discovering more tests, medicines and procedures, but also from learning when not to use them. Good medicine requires action when action helps. In an age of medical abundance, it increasingly requires something more difficult — restraint.
+
+Dr. Chandrakant Lahariya is a practising physician and the author of ‘Pill-Free: You Don’t Need Everything You Have Been Prescribed’ (2026)
+
+[Read full article](https://www.thehindu.com/opinion/lead/indias-problem-of-overtreatment-and-overmedication/article71575996.ece)
+
+---
+
+### GST 3.0 bets on ease of process
+*Deccan Herald · Editorial*
+
+Decisions taken at the 57th GST Council meeting last week aim for a simpler, more predictable taxation system, focusing on ease of process and compliance. Over a decade since its launch, the GST system has evolved in structure and implementation.
+
+The latest changes are a follow-up to the landmark reforms made last year when the rate structure was rationalised. One principle guiding these changes appears to be trust—the shift in approach is palpable, discarding processes that treat taxpayers with suspicion before the offence is established. It is reflected in the proposal to remove arrest powers under the system and to raise the prosecution threshold from Rs 1 crore to Rs 5 crore. This confidence also arises from the fact that, over the years, both taxpayers and authorities have come to understand the system well, narrowing the margin for discrepancies.
+
+GST Council to revisit input tax credit on motor vehicles The Council has decided to stop issuing show-cause notices in cases involving a tax amount below Rs 10,000. Credits will be offered for taxes paid on input services from November and on capital goods from April next year. The rules governing refunds have been simplified. System-based processing and sanctioning of refund claims will be initiated, with the acknowledgement period reduced from 15 to 10 days. Checking of vehicles at state transit points will now be done by officers of a Joint-Commissioner rank and above, and interceptions will be carried out only based on specific intelligence.
+
+Checks in the past have led to harassment and bred corruption. Under export-related reforms, the Council recommended removing specific restrictions, making Indian companies supplying services through their foreign offices eligible for refunds. Changed payment conditions are also expected to provide benefits for Indian companies supplying services to foreign clients.
+
+The introduction of GST has been one of the biggest reforms in India’s indirect tax system. It has suffered from design flaws and implementation issues, but changes effected since its launch, especially in recent times, have helped improve the system. Revenues have steadily increased over the years, except during the COVID period. A tax system is refined through its periodic simplification. It is an imposing challenge, but efforts are ongoing to address that challenge. The success of a tax system depends on the relationship between the taxpayer and the State – a positive, non-confrontational dynamic will eventually make compliance voluntary. That compliance will be the true measure of reform.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/gst-30-bets-on-ease-of-process-4181679)
+
+---
+
+### Policing dissent: Lost in contradiction
+*Deccan Herald · Editorial*
+
+The Bengaluru police’s heavy-handed response to protesters marching towards the Election Commission’s office to demand the resignation of Chief Election Commissioner Gyanesh Kumar over the flawed Special Intensive Revision (SIR) of electoral rolls has exposed an uncomfortable contradiction in the Congress government’s approach to dissent. Citing the absence of prior permission, the police detained over 100 protesters. Several journalists alleged they were manhandled while performing their duties, despite identifying themselves.
+
+The incident has raised questions about the proportionality of the police response. Many drew parallels with the Delhi police’s actions, which Congress leaders have criticised as excessive. The contrast was not lost on the public. Responding to a mother’s social media post about her daughter’s detention, Chief Minister D K Shivakumar directed the police commissioner to ensure that the right to peaceful protest was protected. Following the backlash, Home Minister Priyank Kharge said the handling of the protesters would be reviewed and reaffirmed that peaceful protest is fundamental to democracy. For a party campaigning nationally against the SIR and warning of democratic erosion, the optics are damaging. As one social media user summed it up, “You march in Delhi but do the opposite in Bengaluru.”
+
+Is freedom only in Freedom Park?The issue goes beyond political embarrassment. The right to protest is integral to democracy; it is not a concession granted by the State. Minor or incidental inconvenience is an inevitable by-product of democratic expression. However, the Supreme Court, in the Shaheen Bagh case in 2020, held that public ways cannot be occupied indefinitely. In the Ramlila Maidan case in 2012, the Court stressed that authorities must exercise restraint when dealing with peaceful assemblies. Any use of force must be proportionate to the circumstances.
+
+The controversy also revives the debate over restricting protests to Freedom Park following a 2022 Karnataka High Court order. The Congress government promised to challenge the order but has made no visible progress. Earlier, small demonstrations, which were allowed diagonally opposite Vidhana Soudha and near the Victoria Statue in Cubbon Park, offered citizens a direct way to draw the attention of ministers and officers. Freedom Park, by contrast, is out of sight. It is also impractical to expect residents protesting neighbourhood issues, such as bad roads or civic failures, to assemble at a single distant location. The government should either pursue its promised appeal or identify multiple designated protest sites across the city. A party that marches against the erosion of democracy in Delhi must be equally committed to protecting it in Bengaluru.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/policing-dissent-lost-in-contradiction-4181672)
+
+---
+
+### India’s Rupee rescue is getting desperate
+*Deccan Herald · Opinion*
+
+The Indian central bank seems to be in crisis-fighting mode. It has dusted off the playbook it last used during the 2013 taper tantrum to ward off a free fall in the currency. But the more desperate the defense of the psychologically important level of 100 rupees to the dollar, the greater the risk that authorities will overplay their hand and cause serious damage.
+
+First, the Reserve Bank of India nudged banks to borrow $133 billion from the diaspora in under three months. When that drive, which ended in August, failed to turn bearish sentiment, the authority last weekend raised lenders’ currency hedging costs and directed oil importers to buy dollars from the RBI, bypassing the market exchange rate.
+
+For now, the rupee has strengthened to around 95 to the dollar. But with turmoil in the Middle East keeping Brent crude above $100 a barrel, food prices pushing inflation to a two-year high, and surging US bond yields sucking capital out of emerging markets, this rescue may be short-lived.
+
+It’s worth remembering that much of what was tried in the panic of 2013 — after the US Federal Reserve signaled an end to the post-Global Financial Crisis cheap money era — went badly wrong. So much so that the market began to ask if the then outgoing Governor Duvvuri Subbarao’s final move would be capital controls. It was only when Raghuram Rajan, a former International Monetary Fund chief economist, took over and announced a committee to anchor monetary policy in explicit inflation targeting that the central bank finally began to recoup its credibility. The pressure on the rupee ebbed.
+
+Therein lies the solution to the current crisis: credibility and adequate risk compensation to global investors. Of late, the RBI has been too accommodative of New Delhi’s fiscal needs — and too hesitant on inflation. After Governor Sanjay Malhotra took over in December 2024, the central bank slashed borrowing costs by 125 basis points and bought more government bonds in 12 months than during the first year of the pandemic. The first 25 basis-point increase in rates came only this month, and even then two out of six policymakers voted against changing the monetary stance to calibrated tightening from neutral.
+
+A course correction must begin by recognizing that the rupee’s defense can’t be left to unconventional measures while regular policy tools gather dust. India’s vast diaspora is undoubtedly its ATM — always ready to oblige when their home country needs hard currency. But this is expensive money. Lenders only raise these dollar deposits because the RBI absorbs the exchange-rate risk on the principal amount. Rajan gave this backstop reluctantly. The $26 billion mobilized back then stabilized foreign reserves.
+
+This time, not only is the amount five times larger, but it’s failing to shore up reserves, which have fallen by $50 billion since early September. Add to that a negative dollar forward book of $200 billion — the RBI’s future obligations — and the $734 billion war chest looks even less impressive. While lenders’ currency risk on principal repayment has been taken over by the RBI, they must still access hard currency for interest payments to diaspora depositors. That exposes banks to an estimated $35 billion in forward dollar demand in present-value terms, according to Observatory Group analyst Ananth Narayan, a former banker and securities regulator.
+
+As it happens, the RBI on Monday imposed fresh restrictions on banks hedging not just their customers’ currency liabilities, but also their own. That’s overkill. In the summer of 2013, a flailing RBI similarly tinkered administratively. Some economists are already urging Malhotra to repeat that experiment in its entirety.
+
+Would that be wise? By hiking overnight rates by 2 percentage points in a single shot, the RBI pushed short-term rates to 10.25% in July 2013. That triggered a working-capital scramble, yielding banks a quick quarter of high-cost loans before sending them into a multi-year tailspin as overleveraged corporate borrowers failed.
+
+After a long wait, credit demand in India has once again strengthened to almost 20%. A big chunk of it is for personal loans. Corporate borrowing is not for new assets, but largely for holding inventory as inflation pushes raw-material costs higher. A bump to short-term rates now would invert the yield curve, destroy banks’ margins, and seize up the credit engine again. Such a move would also short-circuit the monetary-policy committee and diminish its importance.
+
+A cleaner solution may be for the RBI to sell bonds to banks, lifting the entire yield curve rather than just the short end. The 10-year yield tracks banking liquidity closely; mopping up the surplus is the surest way to reset long-term rates. The priority should be to let India rebuild its depleted yield advantage over US Treasuries. The 10-year spread that used to be 600 basis points in 2013 has narrowed to about 200. Without adequate risk compensation, global capital won't arrive.
+
+Forcing the government to borrow at higher rates just when El Niño-induced droughts demand more spending on rural livelihoods may worsen India’s chronic fiscal fragility. But the RBI has done enough already for New Delhi. Its most crucial goal is to regain investors’ trust. The battle of 2013 was won not by unconventional policy tools — but by re-establishing the RBI’s credibility. Even now, there’s no shortcut around it.
+
+[Read full article](https://www.deccanherald.com/opinion/indias-rupee-rescue-is-getting-desperate-4181953)
+
+---
+
+### Modi and Jaishankar are time-servers on a learning curve
+*Deccan Herald · Opinion*
+
+The Russian press reported that the Kremlin has ‘thanked’ the Government of India for its mediation in the Ukraine conflict, but emphasised that targeted agreements on energy and the Black Sea are no substitute for a full-fledged peace treaty. Plainly put, Moscow politely suggested that New Delhi should tread warily on complex issues.
+
+Russian presidential spokesman Dmitry Peskov said, “We've repeatedly stated that fragmentary decisions and fragmentary agreements will prevent us from reaching a comprehensive settlement. It's very complex, and it must be comprehensive." Peskov was reacting to External Affairs Minister S Jaishankar’s remarks last week at the gala diplomatic event of the Munich Security Conference sponsored by Berlin in New Delhi, where he reportedly claimed that India has proposed its own plan to reduce tensions: a ceasefire, refraining from attacks on ports and energy facilities, and guaranteeing safe navigation in the Black Sea. (By the way, the Ukrainian foreign ministry hailed the Indian project as the most ambitious of all existing ones.)
+
+Russia says grateful as India sends three-part peace proposal to end Ukraine conflictViolence is abhorrent. The mother of all ironies is that as Jaishankar waxed eloquently as the champion of non-violence, the national capital’s streets had an entirely different story to tell, calling attention once again to the doublespeak that is the trademark of the Narendra Modi government as it took umbrage at a stinging stricture by the United Nations over alleged State repression against students peacefully protesting.
+
+At any rate, last week’s telephone call by United States President Donald Trump to his Russian counterpart Vladimir Putin exposed the Modi government, whose recent diplomatic gyrations over Ukraine were largely for the benefit of the White House, where Trump is now vested with extraordinary powers by the Lindsey O Graham Sanctioning Russia and Iran Act of 2026 to squeeze India when and where and how he liked it. The Lindsey Graham Act is a US law signed by Trump on September 18 that authorises new tariffs and sanctions on Russia and on countries purchasing Russian energy, with a 30‑day deadline to impose up to 100% tariffs on top Russian energy importers and up to 500% tariffs on Russian goods, including petroleum products. It was enacted in response to Russia’s refusal to agree to a ceasefire in Ukraine (whose real purpose is to replenish Ukraine’s depleted stockpile of Western weapons and escalate the ongoing conflict).
+
+Trump, a mercurial personality, is holding the whip and is expecting the Modi government to bend, but it is already crawling by signalling its willingness to hollow out its time-tested friendship and co-operation with Russia, and, furthermore, also refusing to agree to grant a trade deal with India lest it commit him to eschew further tariff wars to bully India. It has been an unholy sight, as a point could well come when even if Moscow offered an attractive discounted price for its oil, New Delhi would rather pay market price and buy from the US or Venezuela (whose oil reserves Washington controls). It appears Modi may even replace the petroleum minister in his Cabinet to meet Washington’s expectations. Who knows what is going on below the parapet? Maybe, WikiLeaks might disclose someday.
+
+Iran and Russia are stepping up hybrid campaigns in Britain, UK spy chief saysSuffice it to say, the Modi government’s support for Ukraine’s President Volodymyr Zelenskyy’s ceasefire demands aligns India with the neocon bigwigs in the European Union (‘Middle Powers’) who won’t settle for anything short of Russia’s defeat and capitulation. New Delhi is blithely ignoring that Russia is fighting the EU and NATO on Ukrainian turf thanks to the comprador regime in Kyiv that was put in place after the CIA-sponsored coup in February 2014 to complete the unfinished business of the disbandment of the former Soviet Union. Anyone who knows the chronicle of the tragedy of Ukraine will understand that Russia simply cannot capitulate in such a grim existential struggle. The late Henry Kissinger argued in a March 2014 op-ed for The Washington Post that Ukraine should not be treated as a pawn or an outpost in an East-West showdown. He wrote with great prescience: "If Ukraine is to survive and thrive, it must not be either side’s outpost against the other — it should function as a bridge between them." This is the Russian position, too.
+
+Trump disclosed that while battling Russia, Europe also bought Russian oil costing over $250 billion. India is also sailing in the European boat. But cynicism apart, the Modi government will be quietly pleased with Trump’s announcement on Friday that “I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, wherein it was agreed that Russia will immediately supply over 300,000 Tons of Diesel Fuel to the American and Global Marketplace, another 500,000 Tons during the month of November, and 1,000,000 Tons immediately thereafter. Additionally, based on the condition of their Diesel Refineries, Russia will then deliver, within a short period of time, 3,000,000 Tons of Diesel Fuel.”
+
+Trump has no further use for the Lindsey Graham Act. Fears that Ukraine will lose Starlink are back after Elon Musk applauded Trump for seeking Zelenskyy’s removal. Europeans have no capability to escalate the war. Trump’s diesel deal with Putin signals that the war is ending.
+
+The famous Mark Twain quote comes to mind: ‘History never repeats itself, but it rhymes.’ About a month ago, RT featured an essay by Russian military historian Evgeny Norin who revisited the controversial Molotov-Ribbentrop Pact of 1939. Norin concluded, “The Soviet Union operated within the framework of ‘realpolitik’, which didn’t look either nice or noble. But in less than two years (by 1941), the Russians found themselves engaged in the greatest war in history, which was a battle for their very survival. And undoubtedly, the Soviet Union used every means at its disposal to strengthen its position before that day arrived.”
+
+Today, Russia is doing the same essentially. Great powers have elephantine memory. Modi and Jaishankar are time-servers on a learning curve.
+
+(M K Bhadrakumar is a former diplomat.)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/modi-and-jaishankar-are-time-servers-on-a-learning-curve-4182047)
+
+---
+
+### Pinarayi Vijayan’s Delhi cameo masks a three-front crisis awaiting him in Keralam
+*Deccan Herald · Opinion*
+
+The images from New Delhi were hard to miss. Pinarayi Vijayan, Keralam’s Leader of the Opposition (LoP), courted arrest while protesting against the Special Intensive Revision (SIR) of electoral rolls. As per claims, the treatment meted out to him by the Delhi police was anything but gentle: minimal food and several hours inside a moving police vehicle. For a politician of his vintage, it was a scene tailor-made for the cadre’s admiration, the old warhorse taking on the Centre on the capital’s streets.
+
+Back home, however, a very different story is unfolding, and it is far less flattering.
+
+When he was the Chief Minister, Vijayan seemed to lead a charmed life in the CMRL matter. Every legal avenue, from the Vigilance court to the Supreme Court, declined to entertain the petitions against him. Things have since changed, not because the government has changed. What began as a petitioner’s doubts has become findings from an inquiry by a premier investigative agency. There are now two FIRs against him.
+
+That leaves Vijayan in a precarious position. He led the CPI(M) to one of the biggest election defeats in its history, yet the leadership that presided over the rout remains intact, with practically zero accountability. Nepotism, corruption, and the way the party got mired in them have all been laid at his door. Little wonder that questions are being asked about his continuing as the LoP. His disdainful attitude towards the CPI’s claim to the deputy leader’s post has not helped him with allies either.
+
+Seen against this backdrop, New Delhi was a careful move to regain lost ground. Had it been about principle, we should have seen this ‘new Vijayan’ while he was in power, when several Chief Ministers took to the streets against the Centre on various issues. He was nowhere to be seen then. Now he wants the party and its followers to know that he is active, and that he needs their backing.
+
+Vijayan’s cameo in New Delhi was nothing more than optics.
+
+Fighting on three fronts
+
+That makes the CPI(M) vulnerable. A party whose LoP faces an FIR in a corruption case has forfeited the moral authority to question the ruling UDF on anything remotely connected to corruption or nepotism. If it wishes to stay true to its stated principles, the CPI(M) must remove him from the post and replace him with someone of a fresher outlook and background.
+
+Yet Vijayan is not easily discarded, and the octogenarian proved it in New Delhi. He is fighting on three fronts to reclaim his lost glory: the Congress, the BJP, and worse still, his own party. He needs credibility against a State government he can no longer comfortably accuse of impropriety, defiance towards a Centre whose agencies are now in the frame, and persuasion within the party that is quietly wondering if the time has come. It will not be easy.
+
+How the Congress kept its hands clean
+
+The Congress, meanwhile, has played the fox. When the ED’s letter arrived, it should have gone straight to the Vigilance director. Instead, the government handed it to the advocate general (AG) for legal advice. When that advice was that an FIR could be initiated, it set up an SIT for a preliminary inquiry, and even argued that this was mandatory, giving the impression that the State government did not trust the advice of its own AG.
+
+Now the court has delivered a major blow, holding that the SIT was wrong and that an FIR should have been filed immediately. The Congress must be having the last laugh here. It did not want to be known as the leadership that booked Vijayan, since that would smack of political vendetta. By prolonging the matter, it can now tell anybody that it was the court, not the government, that ordered the FIR. Smart, isn’t it?
+
+It is against such opponents that Vijayan must now fight. The pictures from New Delhi may buy him a few days of applause from the faithful. Beyond that, in all likelihood, the unceremonious end of an illustrious and tumultuous political career appears imminent.
+
+Sreejith Panickar is a political debater and an independent researcher. X: @PanickarS.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/pinarayi-vijayans-delhi-cameo-masks-a-three-front-crisis-awaiting-him-in-keralam-4182074)
+
+---
 
 ## 13 October 2026
 
@@ -36,6 +236,94 @@ Is the Election Commission of India (ECI) at sixes and sevens, idiomatically and
 Never before has the ECI been so severely berated, becoming the object of unprecedented public outcry, adverse media attention and social scrutiny as in recent times. It took the ECI years of toil and transparency to earn public trust; it has taken the temperament of a few individuals to erode it through their disregard for the concerns, genuine or imagined, of those who had earlier sworn by the very same institution.
 
 [Read full article](https://www.thehindu.com/opinion/lead/at-sixes-and-sevens-the-ecis-growing-credibility-crisis/article71576568.ece)
+
+---
+
+### DC Edit | El Niño-driven Drought Poses A Major Challenge
+*Deccan Chronicle · Editorial*
+
+This year’s El Niño, variously prefixed with “super”, “super-duper”, or even “Godzilla”, did what a strong El Niño does — play havoc with India’s southwest monsoon (SWM) season. But unlike those in the historical past, like the one that contributed to a devastating famine in 1877 during the British Raj era, this year’s El Niño may do nothing of that sort.
+
+India is well placed with its foodgrain stocks — a massive pool of 602 lakh metric tonnes of wheat and rice — three times the prescribed buffer stock. Food will not be a problem even if India experiences a rare second successive failure of SWM season in 202, as a section of meteorologists fear. India’s real problem is drinking water supply in states that ended up with serious deficit rains and irrigation for agriculture.
+
+The degree of difficulties may vary between states, but the fact that around 40 per cent of India’s landmass spread over 15 of the 36 states and Union Territories received less than normal rainfall will remain a matter of concern.
+
+The Indian monsoon’s performance, usually gleaned from numbers, has been well below normal. As per the IMD, as on October 30, the official end date of SWM season, 313 districts out of India’s 741 were either in the deficient or large deficient categories meaning they got 20 per cent below normal rainfall, or even less.
+
+Understanding what a monsoon has done is not usually an easy task, especially in a year like the current one when some parts of India, such as Odisha which experienced one of its wettest rainy seasons this year, or Bengal, Uttar Pradesh and Uttarakhand which received more than normal rain.
+
+It was a different story in the Northeast region with significant deficits, as was the case with Bihar, and in the southern peninsular states. Telangana, Andhra Pradesh, Karnataka, Kerala, Puducherry and Tamil Nadu, all logged deficits, while to the west, Maharashtra too suffered. There is still hope that some good may come for the southern states if the northeast monsoon (NEM) brings rains to this part of the country.
+
+Statistical studies of deficient and excess rainfall have their place, and they help the government determine drought declarations that triggers a set of actions to alleviate the suffering that accompanies a drought. But the numbers will not mean anything unless the states step up to contain the costs of a failed monsoon. This requires assistance from the Centre, which makes drought, in even a single state, a national challenge.
+
+Tackling the latest drought will be the immediate challenge for the bureaucracy, but what lies ahead could be even more challenging with forecasts of a hotter summer giving the country a fever of sorts, preceded by a warmer than normal winter, amidst farming challenges in the already impacted states.
+
+The northeast monsoon is said to be round the corner, but whether it will offer a bounty or a deficit remains to be seen. Right now, the challenge before the country is to ensure everyone gets their water, which is not expected to be an easy task, and to see that livelihoods are not lost, not to speak of lives themselves, because of bureaucratic lethargy.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-el-nio-driven-drought-poses-a-major-challenge-1995542)
+
+---
+
+### DC Edit | Remote Protest Sites To Throttle Dissent
+*Deccan Chronicle · Editorial*
+
+A ruler who fears criticism has already begun to fear his people. In the national capital, the theatre of dissent is being dismantled. Not by banning protests, but by making them increasingly invisible. The government’s decision to denotify Jantar Mantar as a protest site and replace it with three alternative locations, including Ramlila Maidan, is not merely an administrative reshuffle, but a calculated attempt to shrink the public space available for dissent. It’s a tactical move to push the protesters virtually out of sight and make inconvenient voices harder to see and hear.
+
+For decades, Jantar Mantar has been the epicentre of symbolic resistance. A democratic battleground, where students, farmers, women, civil society groups and political opponents took their grievances to the streets. It was here that the unheard found a voice, the aggrieved found an audience. Jantar Mantar, situated close to Parliament and the corridors of power, forced the powerful to confront the anger of the people.
+
+Jantar Mantar's significance lay not merely in its location but also in its visibility. All was well till July 20 police crackdown on students demanding former education minister Dharmendra Pradhan’s resignation over irregularities in Neet examination papers. This was the turning point.
+
+The government had badly miscalculated, underestimating the force of dissent and fallout of its heavy-handed response. For the first time in 12 years, the government had to bow before the anger of people. The agitation culminated in Mr Pradhan's ouster.
+
+When turning New Delhi into a fortress and arresting or detaining nearly 7,000 protesters on October 10 failed to quell agitation demanding CEC Gyanesh Kumar's resignation over alleged irregularities in the conduct of the SIR, the government, increasingly exasperated by waves of protests against its policies and politics, brought the hammer down on Jantar Mantar.
+
+The move to relocate the protest sites to far-flung areas like Burari and East Delhi and a busy Ramlila Ground is being viewed as a clear attempt to dilute the visibility of the protesters, fragment the collective energy of agitation and insulate the ruling class from the daily spectacle of public anger.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-remote-protest-sites-to-throttle-dissent-1995566)
+
+---
+
+### Oil U-turn, Greenland Deal: Trump’s Credibility At Risk
+*Deccan Chronicle · Opinion*
+
+Donald Trump’s astonishing purchase of Russian fuel may be old hat by the time this appears in print, but the world must still consider the implications of the lesson that what is sauce for the goose is definitely not sauce for the gander so far as the United States President is concerned.
+
+Despite some recent signs of constitutional and political curbs on his authority, Mr Trump is unarguably the most powerful man on earth. He heads the biggest economy in the world. He also commands the world’s mightiest fighting force. His is the only country that has ever dared to deploy a nuclear weapon — two nuclear weapons in fact — against another belligerent. The most recent political developments concerning Greenland demonstrated that America’s least wish might be regarded as commands in the manner that the four sycophantic English knights at the court of the medieval English monarch, King Henry II, are believed to have literally interpreted the king’s “Will no one rid me of this turbulent priest!”, and murdered the less-than-subservient Archbishop of Canterbury, Thomas Becket.
+
+Not content with what must be condemned as a blatant display of duplicity, Mr Trump then added insult to injury by suggesting that “it’s time for Ukraine to get a new President” and ripping into the present plucky incumbent, Volodymyr Zelenskyy, whose seeming inability to strike a deal to end the war with Russia he mocked. “I suggest they get a new leader who can make a deal. For some reason (Zelenskyy) never does,” Mr Trump told reporters. “President Putin would like to see a settlement, strongly,” he said of what the Russian leader had allegedly told him when the pair spoke on the telephone.
+
+This is where history may be subject to perception, and assessments and expectations shaped by history. The shared saga of Ukraine and Russia spans over a millennium, rooted in the medieval state of Kievan Rus and marked by centuries of imperial domination, Soviet rule and modern conflict. Ukraine became Christian long before Moscow emerged as a state. Christianity became the dominant religion since its official acceptance in 989 by Vladimir the Great, who brought the faith from Byzantine Crimea and installed it as the state religion of medieval Kievan Rus, with the metropolitan bishopric in Kyiv.
+
+The Mongol sacking of Kyiv in 1240 shattered Kievan Rus, sending the northern principalities (which eventually grew into Muscovy and Russia) and western/southern Ukrainian lands down very different political paths. By the 18th century, much of central and eastern Ukraine was absorbed into the Russian Empire whose militant Russification heavily suppressed the Ukrainian language and culture. The process extended into the Soviet era (1922-1991) when, apart for a brief period of independence, Ukraine was forcefully integrated into the Soviet Union as the Ukrainian Soviet Socialist Republic.
+
+Those years of horror still haunt Ukraine’s memory because of Joseph Stalin’s manmade famine, the Holodomor, 1932-33, when millions of Ukrainians starved to death. During World War-2, Nazi Germany brutally occupied Ukraine from 1941 to 1944, causing massive destruction before Soviet forces reclaimed the region. In 1954, Nikita Khrushchev transferred the Crimean peninsula from the Russian Soviet to the Ukrainian Soviet. No wonder more than 90 per cent of Ukrainian voters chose independence from the collapsing Soviet Union in December 1991. Not that independence came without a price. Under the 1994 Budapest Memorandum, Ukraine agreed to give up the world’s third-largest nuclear arsenal in exchange for guarantees of its sovereignty and territorial integrity from Russia, the US and the UK.
+
+What next? Successive Ukrainian governments alternating between pro-European and pro-Russian foreign policies, culminated in late 2013 in President Viktor Yanukovych abandoning an EU association agreement under Russian pressure. While mass protests ousted Yanukovych, Russia occupied and annexed Crimea and backed armed separatists in the eastern Donbas region, sparking a localised war which led to a full-scale military invasion on February 24, 2022, aimed at overthrowing the Ukrainian government and dismantling Ukrainian independence. Meanwhile, Europeans are wondering about the future of the strategically vital Thule Air Base which is a key hub for scientific missions like Nasa’s Operation IceBridge, and for operating radar systems for missile warning, missile defence and satellite tracking.
+
+The site has been one of the major hubs of Operation IceBridge since it began in 2009, the largest ever airborne survey of Earth’s polar ice. Denmark supported a US military presence and Nato security guarantees because of its own limited ability to defend Greenland. The Americans could not have established a radar base at Thule during the Cold War without Danish support.
+
+This is not the only sensitive border territory. There’s also the US’s 49th state, Alaska: Mr Trump and Mr Putin met for a...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/oil-u-turn-greenland-deal-trumps-credibility-at-risk-1995553)
+
+---
+
+### Vaishnaw, Man In Centre Of 3 Raging Storms
+*Deccan Chronicle · Opinion*
+
+At present, Prime Minister Narendra Modi’s regime finds itself stuck on three sticky wickets, in issues with massive political and electoral implications. Apart from the involvement of Cabinet ministers, senior most civil servants and multiple institutions, there is one person who is at the heart of the three storms. Ashwini Vaishnaw, the Cabinet minister with three heavyweight portfolios, railways, electronics and IT, and information and broadcasting. The fingers, and trails in each case point and lead to this 1994-batch Odisha-cadre IAS officer, whose rise in the world of politics is remarkable, and his reach intriguing. Mr Vaishnaw is believed to be instrumental in pushing the C-DAC-linked tech network to manage elections which, after the entry of TCS, led to the deletion of lakhs of names from the voting lists, and short-circuited the workings of the electoral machinery. Speculation is rife that Mr Vaishnaw brought in Neetu Verma and Seema Khanna into key IT positions within the Election Commission of India. Ms Khanna’s name is among the officials responsible for the electoral impasse.
+
+In railways, the Mumbai-Ahmedabad rail corridor depends on Japanese Shinkansen technology and Japan’s financial support. At a recent dinner with visiting Indian journalists in Japan, a Japanese foreign ministry spokesperson reportedly said that the project’s progress fell short of Tokyo’s expectations. Hence, Japan could not commit to a completion date. The contract trail led to a Siemens-DRA Infracon consortium that secured the signalling and telecom work worth Rs 4,100 crore. It may be a coincidence that Mr Vaishnaw worked with Siemens and General Electric Transportation after he was out of IAS, and before he entered politics. In broadcasting, frustrated and angry by the five-year delay related to the entry into India’s satellite Internet services (Satcom), America’s Elon Musk, the richest person on the planet, accused the Indian government, and entrenched oligarchs, specifically Mukesh Ambani, for the long wait. His comments on X question if Mukesh is the “real boss” in India, and whether the latter’s contributions to the BJP played a role. India denied the accusations, but Mr Vaishnaw is at the centre of the Satcom battle because licensing involves his portfolio.
+
+Will Samrat end Nitish’s legacy in Bihar?
+
+For the first few months, the old administrative machinery seemed intact. Files moved the way they did, officers stayed where they did, and relationships survived a major political transition. In April 2026, when the long reign of Nitish Kumar as Bihar’s chief minister ended, and Samrat Choudhary stepped in, there were no visible bureaucratic changes. Among the survivors was Deepak Kumar, the retired 1984-batch IAS officer who remained a powerful presence in the chief minister’s office (CMO). But, in June, the new CM transferred 21 IAS and 29 IPS officers in a sweeping exercise. The message was unmistakable: The new ‘Samrat’ intended to establish his command. Within the CMO, secretaries Lokesh Kumar Singh (2003 batch) and Sanjay Kumar Singh (2007 batch), along with joint secretaries Shrikant Kundalik Khandekar and Gunjan Singh (both 2020 batch) are part of the changed team. An important break from the past came on September 30, when Deepak Kumar was moved out of the CMO, and appointed as vice-chairman of the Bihar State Disaster Management Authority. While it did not signal an exit from the government, it ended the presence from the administrative core. Former DGP Vinay Kumar became the state chief information commissioner. There is still no permanent DGP, with Preeta Verma as the acting chief. Still a crucial question hangs in the air: Will chief secretary Pratyaya Amrit continue to be the principal anchor? The sidelined officers reportedly reached out to the former CM Nitish Kumar, but the latter’s health might limit his ability to help the loyalists.
+
+Punjab: Two masters, one CM
+
+As Punjab heads towards the Assembly polls next year, the state stares at a projected outstanding liability of Rs 4.48 lakh crore in 2026-27. The issue possibly turns out to be one of alleged corruption. Nitin Gohal, a private IT entrepreneur associated with Fortec Web Solutions, finds himself in the docks after the Enforcement Directorate (ED) recovered Rs 20.98 lakh from his premises. There were allegations against Rajbir Singh Ghuman, a former lecturer at a private engineering college, and chief minister Bhagwant Mann’s officer on special duty. The Punjab and Haryana high court ordered a probe, and the CBI searched Ghuman-linked premises, including Mr Mann’s camp office. As the Opposition sharpens its knives, and the ruling Aam Aadmi Party (AAP) finds itself with its back against the wall, tongues are wagging about the internal workings of AAP. Sources describe that the party head Arvind Kejriwal manages the political strategy, and his right-hand-man, Manish Sisodia, coordinates government affairs. This arrangement is significant...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/vaishnaw-man-in-centre-of-3-raging-storms-1995545)
 
 ---
 
@@ -21813,223 +22101,6 @@ Whether these early choices ultimately prove successful is, of course, impossibl
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/eviction-cannot-be-an-economic-policy-4075222)
-
----
-
-## 15 July 2026
-
-### ​Steady in turbulence: On India’s Australia, New Zealand ties
-*The Hindu · Editorial*
-
-Prime Minister Narendra Modi’s recent visits to Australia and New Zealand marked yet another step in India’s efforts to consolidate partnerships across the Indo-Pacific. India’s relations with both countries have traditionally been largely economic and people-centric, but the visits underscored an increased emphasis on strategic aspects, a fresh turn. Geopolitical competition, manifested in supply-chain disruptions and the realignment of global economic networks, is keeping the world on tenterhooks, and India has to manage the uncertainties and volatility well to be able to protect its vital interests. The visits reflected New Delhi’s attempt to strengthen the southern arc of the Indo-Pacific under its Act East Policy, MAHASAGAR (Mutual and Holistic Advancement for Security and Growth Across Regions) vision, and commitment to a free, open and inclusive Indo-Pacific. India and Australia adopted a new Joint Declaration on Defence and Security Cooperation, significantly upgrading the existing security framework. They agreed to enhance interoperability between their armed forces, expand military exercises, establish an Annual Defence Ministers’ Dialogue, and strengthen cooperation in cybersecurity, maritime security and emerging technologies. An India-Australia Maritime Security Collaboration Roadmap was unveiled to deepen information sharing and operational coordination in the Indo-Pacific. An immediate and consequential outcome was Australia’s decision to allow uranium exports for India’s civilian nuclear programme, removing a lingering obstacle in ties and boosting India’s clean-energy ambitions. Both countries will also find new avenues of cooperation on critical minerals, a specific field of global uncertainty.
-
-India-New Zealand relations are now a formal strategic partnership,with a road map for cooperation over the next four years. Key agreements announced by the countries include maritime cooperation in the Indo-Pacific and mutual logistics support between the Indian Navy and the New Zealand Defence Force. Building upon the recently concluded India-New Zealand Free Trade Agreement, both sides agreed to aim for a substantial expansion of bilateral trade by 2030. Avenues for agricultural cooperation are also being explored. India shares with Australia and New Zealand a concern about maintaining stability and predictability in the Indo-Pacific. Supply-chain diversification, energy security, and access to critical minerals and emerging technology are key priorities for India, which is trying to protect its strategic autonomy in a world of great volatility. The Modi government has been trying to achieve this objective through building a network of partnerships. These visits fit into that pattern. India’s challenge is in keeping itself steady in an era of global turmoil, and untangled from rivalries that can do it no good. Mr. Modi’s visits build on this awareness.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/steady-in-turbulence-on-indias-australia-new-zealand-ties/article71221318.ece)
-
----
-
-### Two sets: On Wimbledon 2026
-*The Hindu · Editorial*
-
-When Jannik Sinner arrived at Wimbledon, there were questions aplenty. They hinged on the defeat he suffered at the French Open, where he wilted in the second round under the extreme Paris heat despite being two sets and 5-1 up. When he needed five sets to get past the first round at the All England Club, the intrigue about his physical health and state of tennis deepened. None of his achievements in the 52 weeks preceding Wimbledon — 76 wins against just six losses, and 10 titles — seemed to matter. But with two superlative performances, against Novak Djokovic in the semifinal and Alexander Zverev in the final, the World No. 1 silenced the doubters in the best possible fashion. Djokovic and Zverev were his two biggest threats, with the former a seven-time winner at SW19 and the latter the reigning Roland-Garros champion. But the Italian’s top-notch serving and baseline consistency fetched him his second straight Wimbledon and fifth Major title. The success was also Sinner’s tenth consecutive victory over Zverev. But even in defeat, the German can hold his head high. Since the start of 2024, men’s tennis has largely been a cat-and-mouse game between Sinner and Carlos Alcaraz. Zverev’s potential entry as the distinguished third will make the sport healthier.
-
-The women’s game has had a more even spread of champions, and Wimbledon has been at the forefront of producing them. It was no different this year as Linda Noskova became the tenth different women’s singles winner at SW19 in as many years. The fact that Noskova, Iga Swiatek and Elena Rybakina are the only ones in this list to also feature in the current WTA top-10 is indicative of the depth in quality. The player from Czechia was spoken of but was never considered the favourite to win, for she had reached the quarterfinal stage at a Slam only once before. Yet, the 21-year-old put together a remarkable streak that culminated in the pulsating three-set triumph over compatriot Karolina Muchova (2023 French Open finalist). The most impressive bit was Noskova’s resilience in roaring back after missing out on five championship points in the second set. At the start of the tournament, there was concern that such elite performances would be dulled by protests from players demanding a better revenue-sharing model from the organisers. For a second straight Major, a temporary truce was called, allowing tennis to be solely in the limelight.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/two-sets-on-wimbledon-2026/article71221706.ece)
-
----
-
-### The disruptive rise of India’s new political generation
-*The Hindu · Opinion*
-
-India’s political establishment has long spoken of youth in the future tense — young people as tomorrow’s leaders, democracy’s inheritors, and the next generation of voters. Beneath this language of hope, however, is a political reality, which is that power has remained concentrated among ageing leaders who rarely entrusted young people with real influence. That political fiction is now rapidly fading.
-
-India’s youth are no longer “citizens in waiting”. They are already shaping elections, influencing political discourse, forcing parties to recalibrate, and redefining how politics itself is practised in a unique way. This transformation is not simply demographic. India has long been a young country. What is different today is the emergence of youth as an independent political force with its own language, expectations, methods, and centres of influence. Political leaders who fail to recognise this shift increasingly risk irrelevance.
-
-A new political languageThe shift is most visible in political communication. For much of the post-Independence years, Indian politics operated through hierarchy and distance: leaders spoke from elevated stages while citizens listened. Communication flowed through party structures, newspapers, television, and carefully managed public events, depending on spectacle, organisational control, and ideological certainty. That model is weakening rapidly.
-
-Today’s youth inhabit a radically different political landscape shaped by short-form videos, memes, podcasts, livestreams, online commentary, and decentralised digital communities. While attention spans may be shorter, political awareness has not declined. Young voters are not necessarily anti-political; they are anti-performance. They respond to accessibility, authenticity, responsiveness, humour, emotional intelligence and transparency over scripted rhetoric. Tamil Nadu offers one of the clearest examples of this shift.
-
-The rise of actor-turned-politician C. Joseph Vijay cannot be explained through celebrity appeal alone. What makes Mr. Vijay’s emergence politically significant is his intuitive understanding of a transformed communication ecosystem. More importantly, even leaders within established parties have publicly acknowledged his growing influence among younger voters.
-
-This transformation is also visible in the rise of meme-driven political commentary and satire collectives that increasingly shape public perception among younger audiences. On Instagram, YouTube, and X, informal digital ecosystems now influence political narratives far more rapidly than traditional party communication machinery. The “Cockroach Janta Party” phenomenon — alongside a broader ecosystem of meme creators, satirical commentators, and independent digital voices — reflects a generation engaging with politics through humour, irony, cultural references, and decentralised online participation. Once dismissed as frivolous Internet culture, these spaces increasingly function as parallel arenas of political socialisation and opinion formation.
-
-A similar recalibration is visible elsewhere in India. In Kerala, Congress leader and the “pookie CM” V.D. Satheesan has consciously cultivated an image distinct from the confrontational and centralised styles that increasingly characterised the State’s recent political culture. His emphasis on accessibility, dialogue, and participatory communication reflects a recognition that younger citizens no longer respond automatically to ideological inheritance or party loyalty. A political leader unable to communicate within this evolving ecosystem risks irrelevance, regardless of organisational strength.
-
-From protest to participationIndia’s youth politics is no longer confined to party youth wings or campus elections. The 2017 pro-Jallikattu protests in Tamil Nadu marked a turning point in understanding how digitally connected youth could sustain mass mobilisation without centralised party leadership. What began as a cultural movement evolved into a wider demonstration of youth-led political coordination powered by social media networks, online narratives, and decentralised participation.
-
-Since then, online political culture — from meme creators and independent digital commentators to podcast ecosystems and Instagram-based political analysis — has become a major force shaping public discourse. Political parties now obsessively monitor online sentiment, adapt campaign messaging to digital reactions, and respond rapidly to narratives emerging far outside traditional institutions.
-
-The distinction between “online politics” and “real politics” is steadily disappearing. This broader shift mirrors developments elsewhere in South Asia. Sri Lanka’s 2022 Aragalaya protests demonstrated how digitally connected youth could convert public frustration into sustained political pressure against corruption, dynastic entitlement, and elite detachment. Nepal too has witnessed growing youth-led mobilisations around governance failures, unemployment, and democratic accountability.
-
-India has so far remained relatively insulated from such large-scale upheaval. But recent political developments suggest that a quieter transformation is underway — not necessarily through street uprisings, but through changing patterns of political communication, participation, and voter behaviour.
-
-This also calls into question the assumption that youth mobilisation is inherently anti-establishment or anti-democratic. The rise of Mr. Vijay in Tamil Nadu suggests that where democratic institutions remain credible and electoral participation feels meaningful, young citizens are willing to work within existing democratic structures rather than reject them outright.
-
-The problem is not apathy — it is institutional distrust. Increasingly, younger citizens recognise that much of what passes as “youth engagement” is little more than managed participation without genuine power-sharing. Political parties often speak about bringing youth into politics, but resist the logical consequences of doing so: redistributing authority, opening leadership pathways, decentralising candidate selection, and allowing younger voices to shape policy priorities.
-
-Adapt or become irrelevantThe challenge before political parties is no longer simply attracting young voters through social media content, campaigns or symbolic outreach. The real question is whether entrenched political structures are willing to meaningfully share power and adapt to a new democratic culture shaped by honesty, participation, transparency, responsiveness, and decentralised influence over scripted authority. Young citizens are no longer waiting quietly at the edges of democracy. They are already reshaping it. The street protest and the polling booth are no longer separate democratic spaces; they are increasingly interconnected. Political parties that continue to underestimate this transformation risk finding themselves stranded in a political culture that no longer exists.
-
-Amal Chandra is a political analyst, columnist and the author of the book, The Essential (2023); Ajay Karuvally is a Senior Research Associate at the International Institute of Migration and Development
-
-[Read full article](https://www.thehindu.com/opinion/lead/the-disruptive-rise-of-indias-new-political-generation/article71222425.ece)
-
----
-
-### DC Edit | Mideast Crisis Enters Homes
-*Deccan Chronicle · Editorial*
-
-The rise in retail inflation to 4.38 per cent in June 2026, an 18-month high but still within the RBI's comfort level, signals that the West Asian crisis has begun to enter households. Food inflation, which disproportionately affects the poor and middle class, has risen to 5.3 per cent.
-
-While India has faced oil shocks before, the present challenge is more complicated because it is accompanied by a failed monsoon caused by El Nino and geopolitical uncertainty. This combination makes India — a country that has a largest population to feed and acutely dependent on imported oil — highly vulnerable among large economies.
-
-India imports a large part of its oil requirement, and any prolonged disruption in supply routes or spike in crude prices can increase transport costs, fertiliser prices and import bill, widen the current account deficit and weaken the rupee.
-
-The government and the Reserve Bank of India (RBI) must, therefore, respond before the situation becomes worse. Though the RBI's policy measures had stabilised the rupee in the last month, the recent escalation of hostilities in West Asia has triggered a new round of pressure on the rupee.
-
-One of the monetary instruments available to the Reserve Bank to fight rising inflation and weakening rupee is increasing interest rate. A higher deposit rate attracts new funds, while a higher lending rate, in theory, will dampen inflationary expectations.
-
-On the flipside, a higher lending rate will affect capital investments and economic growth adversely. As the inflation rise was called by supply side issues, the impact of higher interest rate on controlling it could be suboptimal. Therefore, fiscal policy, trade policy and diplomatic strategy must work together with monetary policy to ring-fence households and protect the economy. In the long-run, however, India needs to end its periodic oil-induced crisis by switching over greener alternatives.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-mideast-crisis-enters-homes-1970992)
-
----
-
-### DC Edit | Passports, Identity: Ensure Clarity
-*Deccan Chronicle · Editorial*
-
-It now appears that the controversy over the status of the passport as proof of citizenship is an unseemly one, with the Ministry of External Affairs clarifying that “an Indian passport is a document that, as per the Passports Act, 1967, is issued by the Government of India to regulate the departure from India of citizens of India”.While neither the Passports Act nor the passport itself states that the document is a proof of citizenship, the law refers to the status of the person who is issued the passport as a citizen of India. And too, aside from the description of the law as stated by the MEA spokesperson, there are references in it which clearly state the same as well. The law “extends to the whole of India and applies also to citizens of India who are outside India” and it states that one of the reasons for refusing a passport to somebody is that the applicant is not a citizen of India. It also contains penal provisions for a non-citizen should they procure a passport by suppressing information on nationality. Taking these sections together, one can come to no conclusion other than that the holder of an Indian passport is an Indian citizen.It has become a common practice for the NDA government at the Centre to kick up some controversy or the other related to the citizenship status of the people living in the country. This began with its calibrated statements on the formation of a national register of citizenship and the amendment to the Citizenship Act, 1955. The Election Commission has chosen to join this project by turning the routine special intensive revision of the electoral rolls into a process to verify citizenship. In all these exercises, the government and its agencies have sent out the message that the onus of proving one’s status rests on the person and not the government. This is convoluted logic, not to mention an undemocratic stand. The government should stop creating confusion among the people around their right to reside in the republic unless it can prove why they should not.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-passports-identity-ensure-clarity-1971205)
-
----
-
-### DC Edit | Top Court’s Intervention On Citizenship Issue Welcome
-*Deccan Chronicle · Editorial*
-
-The Supreme Court order on Monday demanding that the question of citizenship be addressed through a “fair, lawful and reasoned” process comes as a reiteration of the republic’s commitment to the basic ideals of democracy and an oblique comment on the approach of the Union government and its arms in targeting its own people with questionable motives. The apex court made it very clear it recognised the legitimate right of the state in ensuring that no person who is legally ineligible to be an Indian citizen acquires that status but the process cannot be a one-sided and mechanical one, devoid of the application of mind. It is a sad commentary on the government’s actions that the judiciary had to step in and remind it that declaring a person a “foreigner” has grave consequences and that the process must respect constitutional guarantees.
-
-The Supreme Court’s observations have come while setting aside 27 orders of the Gauhati high court which upheld the decisions of the Foreigners’ Tribunals declaring the appellants as foreigners. The high court’s reasoning that the tribunals passed the orders as the appellants had not appeared before them despite being served notices did not satisfy the apex court, and this quintessentially differentiates the approach of the Union government and agencies such as the Election Commission from that of an institution that believes in fairness, respect for constitutional principles and adherence to democratic values. The Supreme Court has, by admonishing the tribunals for adopting logic untenable from the eyes of justice and fairness, puts the onus on the state, and not the person, to prove its case about citizenship.
-
-It may be remembered that the Election Commission has used a legitimate, periodical and legal tool called the special intensive revision (SIR) of the electoral roll to disenfranchise Indians in their lakhs; it had the audacity to conduct elections to the state Assemblies keeping them out of a process that is foundational in an electoral democracy. Reports suggest that the same EC is now coming out with a condition that new voters must produce documents of their parents being part of an SIR, a dubious and suspect exercise, if they are to enrol as voters. It is unfortunate that the apex court had put its stamp of approval on the discreditable exercise of the EC and refused to intervene when it made a mockery of the election process unlike when the foreigners’ tribunals discovered its own logic to declare people foreigners.
-
-As the Supreme Court pointed out, the state has a right and responsibility to ensure that only Indian citizens are entitled to the rights accorded to that class of people. But that differentiation is of huge consequence to the life of the individual. The Supreme Court’s intervention has come as a forceful declaration that the state cannot invent its own methodologies, logic and tools to question the legitimate rights of people; it has to act within the constitutional framework. Follow the law, is the simple lesson that the apex court would want the government to learn.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-top-courts-intervention-on-citizenship-issue-welcome-1970995)
-
----
-
-### DC Edit | Trump Confused Over Way out of Iran Mess
-*Deccan Chronicle · Editorial*
-
-The US President Donald Trump, finds himself in a pretty pickle over Iran. He keeps resorting to bombing them to drive the Iranian leadership back to the negotiating table, but they seem prepared to take the beating to their infrastructure and their economy in the hope that the politics over rising oil and gas prices in the US heading into midterm elections will see Mr Trump changing course and finding a way to end the war.As crude prices climb again to above $85 from pre-war $70 levels they had touched just this month, Iran is ready to squeeze supplies more by playing the one trump card they have learnt to manipulate, which is the Strait of Hormuz, a chokepoint that facilitates moving the Gulf’s energy resources to the world.
-
-Iran’s paramilitary Revolutionary Guard, who appear to be running the country more than the formally elected leadership and Ayatollah Mojtaba, who has not been seen in public since the hostilities began on February 28, are threatening to halt all energy exports from the Middle East over the blockade of Iranian ports that the US has put into effect again.The idea of the US charging toll for safe passage through Hormuz seemed too far-fetched in a war without principles for Mr Trump to take a U-turn but the Iranians and the Omanis are convinced that soon they will be able to charge a fee for any ship to cross. Where this will leave the consumer who must pay for fuel at the pump or gas in the kitchen does not seem to bother the combatants.It appears Mr Trump has neither crystal-clear military tactics nor a give-and-take diplomatic strategy for a region that has foxed many a US President, leave alone one who may have ambitions to be declared the most powerful man in world history. But the world suffers, and India too because Mr Trump seems always eager to discuss sanctions on the country’s purchase of Russian oil.The ceasefire agreed to on April 8 is in tatters, the MoU that was to help chart a path for negotiations over 60 days is all but history even as ships in the Hormuz are being attacked sporadically and Iranian military assets on the coastline are being bombarded. And Iran, which may be attracting some counter fire from the region as well, has not been sparing its neighbours from attacks on the grounds that it is aiming only at US bases.It is a mystery how talks that barely took off can restart and aim for the minimum expectations of stopping the bombing and the missiles. Curiously, Mr Trump may be hoping to gain from a defence summit Wednesday at the US Army War College that will be promoting major investments in battlefield technology. Significantly, the US is running out of Tomahawk cruise missiles and Patriot and 'Thaad' interceptors while kamikaze boats are being used in latest missions as a cost and missile saving measure.The only way out of the mess is still the negotiating table, where too issues could get more complicated as Saudi Arabia has not fought shy of expanding it into a bigger regional conflict by attacking the airport in Sanaa, Yemen, which is controlled by the Iran proxies in the Houthis. As Mr Trump oscillates between wanting to do “deals” and threatening to obliterate a whole civilisation, the world is left with the sickening feeling that the missiles will keep flying no matter how keen the regional arbiters are for peace.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-trump-confused-over-way-out-of-iran-mess-1971196)
-
----
-
-### John J. Kennedy | Online Job Ads Flourishing… Are Those Exposed to AI Hiring More?
-*Deccan Chronicle · Opinion*
-
-A recent analysis by PricewaterhouseCoopers (PwC) of more than one billion online job advertisements across six continents found that companies most exposed to Artificial Intelligence are expanding their workforces faster than those less exposed. Between 2018 and 2025, the headcount at the most AI-exposed quarter of large global firms grew by over 52 per cent, compared with 36 per cent for the least-exposed quarter.Much of the discussion has focused on what this means for employment. For India’s universities and colleges, however, another finding in the report deserves closer attention.PwC’s data shows that AI-exposed jobs are being restructured into two distinct categories rather than simply growing or shrinking. In one set of AI-exposed roles, the more skilled task has been automated, leaving the human worker with lower-level residual work, what PwC calls “democratisation”. In the other, routine tasks such as screening, filing and data entry are automated, leaving workers with more complex, judgment-intensive responsibilities -- “professionalisation”. The report’s EPOCH score, which measures how strongly job listings emphasise capabilities such as empathy, creativity and independent judgment, shows that AI-exposed jobs place significantly greater weight on these capabilities than other jobs. This divide is not random. Professionalised roles increasingly reward workers with strong analytical, communicative and judgment-based skills, while democratised roles are associated with weaker wage growth and fewer opportunities for skill development.This places Indian higher education at the centre of the problem. Millions of graduates enter India’s formal services sector, such as IT, BPO, financial services and healthcare administration, under the assumption that a degree and on-the-job experience will build expertise over time. AI is now automating many of the routine tasks through which that expertise was traditionally acquired. If entry-level work no longer functions as a training ground, the responsibility for developing analytical, communicative and judgment-based capability shifts to the college years.Most Indian higher education institutions are not currently built for that shift. Across much of Indian higher education, curricula remain oriented towards procedural, syllabus-bound learning -- much of it routine cognitive work that AI can increasingly replicate. Assessment systems still reward recall and standardised output over independent judgment, applied reasoning and ambiguity-tolerant problem-solving, the very capabilities the EPOCH score suggests the market increasingly values. Nor is the risk evenly distributed across institutions. Well-resourced universities and colleges, particularly those with strong industry linkages, research exposure and faculty capacity to redesign pedagogy, are better positioned to shift towards capability-building education. Colleges serving first-generation learners and students from smaller towns, already constrained by limited faculty, infrastructure and curricular flexibility, risk producing graduates equipped for democratised rather than professionalised roles. In other words, the AI divide identified by PwC in the labour market could replicate itself within institutions before students even enter the workforce.Other countries are already treating this as a curriculum problem rather than only a workplace one, and the contrast with India is useful. Singapore’s approach links AI pedagogy to social resilience through coordination among universities, AI Singapore and the Skills Future programme, which uses AI-driven tools to personalise learning and re-skilling. The emphasis is not merely on teaching students to use AI tools but on building the judgment-based capabilities that complement them, backed by sustained coordination between government, industry and academia. In the United States, some universities have moved from optional exposure to mandatory capability-building. The Ohio State University now requires every student to learn how to use AI tools, treating AI literacy as a baseline competency rather than an elective. Europe has approached the issue through regulation. The EU AI Act introduces compliance requirements for high-risk AI systems, including those used in admissions, assessment and student evaluation, forcing institutions to examine not only how they teach but also how AI is used in educational decision-making. India has its own reforms in the National Education Policy 2020, which promotes flexible, learner-centred degree structures and treats artificial intelligence as central to curricular innovation and system-wide modernisation. Complementary initiatives such as the National Digital Education Architecture and AI for All seek to support this transition. But India’s reform agenda is not without shortcomings. Uneven implementation and resource constraints could widen the institutional divide described above.A few shifts seem necessary to avoid that gap....
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/john-j-kennedy-online-job-ads-flourishing-are-those-exposed-to-ai-hiring-more-1971210)
-
----
-
-### Shikha Mukerjee | Amid UN Query, Can Govt Uphold Credibility Of SIR?
-*Deccan Chronicle · Opinion*
-
-An imperious denial to three special UN rapporteurs seeking answers to a set of seven questions on the process of the EC’s Special Intensive Revision of electoral rolls is neither reasonable, responsible, transparent and accountable. Calling the questions “unfounded” and “unwarranted”, and hiding behind the Supreme Court’s judgment upholding the EC’s power to conduct the SIR is neither suitable nor appropriate.
-
-The three special UN rapporteurs -- Nicolas Levart on minority issues, Irene Khan on promotion and protection of the right to freedom of opinion and expression, and Nazila Ghanea on freedom of religion or belief -- asked seven questions and urged the Narendra Modi government “that all necessary interim measures be taken to halt the alleged violations and prevent their re-occurrence”.
-
-The letter, dated May 1, 2026, set a 60-day time limit for providing explanations. More significantly, the letter made it clear the report would be submitted to the Human Rights Council. The rapporteurs believed publicly expressing their concerns was appropriate and necessary because “the information upon which the press release will be based is sufficiently reliable to indicate a matter warranting immediate attention”. Also, “the wider public should be alerted to the potential implications of (these) allegations”.
-
-The global community aren’t interfering old busybodies. A verbal fusillade by unnamed EC officials isn’t enough to uphold India’s integrity and its commitment to democracy and its processes.
-
-There is a dissonance between the EC’s parading of its credentials as posted on its website that India is “the largest practising democracy in the world and with over 75 years’ record of holding effective, transparent and credible elections, playing a leading role in promoting participatory democracy and election administration worldwide”, and its response to the UN rapporteurs’ questions. By failing to answer and explain, as any responsible institution must when its integrity is questioned, the EC has failed to be accountable for its actions.
-
-It is thus bizarre that the EC says it’s a founding member of the Association of World Election Bodies and
-
-member of the International Institute for Democracy and Electoral Assistance in Stockholm.
-
-Why would clients come to the EC in future, from 141 countries for training of election officials, if it feels it is not answerable to the global community. Why would the EC be invited to provide “experts and observers for elections to various countries (like) Fiji, Cambodia, Thailand, Nepal, Uzbekistan, Kazakhstan and Sri Lanka”?
-
-These declarations on holding effective, transparent and credible elections have been challenged by the UN rapporteurs. The letter from then is seeking answers to why there were “the large-scale removal of millions of names” and why “these removals affected members of minority groups”.
-
-The letter expresses its grave concern that “senior government officials, including the Union home minister, have reportedly publicly framed the deletion of voter names as targeting ‘illegal Bangladeshi immigrants’ -- rhetoric that conflates legitimate Indian Muslim citizens with foreign nationals. It is reported there has been repeated invocation of this framing by the highest levels of the executive, including the characterisation of the SIR as a mechanism to ‘purify’ electoral rolls of Infiltrators”.
-
-The EC’s infantile reaction is, to say the least, inadequate and inappropriate. The EC, however, is not alone in adopting the imperious-dismissive option.
-
-In 2021, before the SIR, external affairs minister S. Jaishankar hit back at critics for calling India an “electoral autocracy”, and said it was “hypocrisy”, adding that India wasn’t “looking for their approval”.
-
-The Modi government is within its rights to sound affronted, but it doesn’t prevent anyone from tearing apart what the Indian government does.
-
-In a recent interview, former external affairs minister Yashwant Sinha, once a BJP member, said of India’s current foreign policy that it was more “event management” then diplomacy. He added that the country had become a “subordinate nation” to the United States. He may have his reasons. He virtually echoed the Opposition Congress line on the Modi government’s response to the West Asia and Iran crisis, especially the PM’s visit to Israel, hours before the war erupted with Iran, about which he appeared clueless.
-
-It’s true that the world, except India’s South Asian neighbours, seem happy to host the Prime Minister, as Australia, New Zealand, Indonesia, Seychelles and earlier the UAE, Norway, Sweden, Netherlands, Italy, France and Slovakia did in May, June and July. It’s equally true that NGOs like Sweden’s Varieties of Democracy Institute and US based Freedom House, which downgraded India from being “free” to “partly free”, have been closely monitoring India’s democratic processes.
-
-The free trade agreements are strictly business; signing 16 FTAs has nothing to do...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/shikha-mukerjee-amid-un-query-can-govt-uphold-credibility-of-sir-1970981)
-
----
-
-### Sunanda K. Datta-Ray | Murder Amid Churn of MPs: Never a Dull Moment in UK
-*Deccan Chronicle · Opinion*
-
-Despite the mysterious murder of Ann Widdecombe, a 78-year-old retired British politician, it would be unfair to say in these dying days of Sir Keir Starmer’s prime ministership that his only legacy for his almost anointed successor, the former Greater Manchester mayor, Andy Burnham, is a surge in politically motivated crimes and threats.True, crimes against Members of Parliament have risen by 87 per cent since 2023 to nearly 1,000 recorded incidents. Offences such as malicious communications, harassment, and criminal damage have also dramatically increased, sparking the creation of a specialised National Police Chiefs’ task force to protect politicians and candidates. In January, the Crown Prosecution Service said it was handling its highest ever number of hate crime referrals.In addition to threats against elected officials, the broader category of religiously and racially motivated hate crimes across England and Wales (anti-Semitism, for instance) has also seen notable increases in recent years. But if Britain seems to be in turmoil, it is because of a host of connected circumstances including a series of short-lived and not very stable governments during a period of economic stagnation.A veteran parliamentarian who once nursed ambitions of leading the Conservative Party, Ms Widdecombe was a feisty, garrulous, argumentative propagandist for hardline right-wing causes that were anathema to the younger generation. She and her kind blamed settlers from abroad for many of the problems that assail the UK, with the demographic evidence appearing to substantiate the charge. The prosperity Britain has attained partly perhaps through looting Afro-Asian colonies but also through hard work has created an attractive destination for migrants from all over the world.With 813,000 people moving into the UK annually and 642,000 leaving it, the British government must cater to an additional 171,000 people every year. That means not only food and housing but education, medicare, employment, recreation and full provision for retirement. The Welfare State, of whose benevolence we have no concept in an India that is a rich country of very poor people, if you exclude the Ambanis and the Adanis, does not permit cheeseparing with these entitlements. Nor are beneficiaries mocked and rejected as “ghuspetiyas”, meaning "intruders" or "infiltrators", to quote Union home minister Amit Shah.At one time Britain did hope to reduce the demographic pressure by sending asylum seekers who arrived via unauthorised routes, such as small boats, to Rwanda in Africa for processing and resettlement. The deal was never popular and only four migrants ever went to Rwanda. The scheme was ultimately scrapped in July 2024 and legally ended in June 2026. By then, it had cost the UK approximately £700 million.Even more controversial is a recent suggestion by Suella Braverman, a former UK home minister, ironically of undiluted Indian ancestry on both sides, that former colonies should pay reparations to London for the "investment" made by the British Empire to raise their living standards. Not unexpectedly, the demand has ignited a political storm, especially since it came amid renewed calls from Caribbean nations for Britain to compensate descendants of slaves. Their complaint -- also still frequently heard in India -- is that far from investing in the future, the empire drained millions of dollars from the colonies.There have been several such attempts in the past, the most notable being in 2007 when a Malaysian Indian organisation, the Hindu Rights Action Force, filed a $4 trillion (£2 trillion) class-action lawsuit in London on behalf of two million Malaysian Indians seeking compensation for British atrocities, exploitation of indentured labourers, and subsequent neglect.Among less conventional complaints is the scandal of the so-called “grooming gang” in the north-western mill town of Rochdale, where Pakistani-origin men reportedly ran a form of prostitution exploiting English girls who had been inducted into the business at a young age. The convicted ringleader, Shabir Ahmed, who was jailed in 2012 for multiple child offences, has been released from prison on licence, triggering outrage and renewed calls for his deportation to Pakistan. Ahmed, known as “Daddy” by his victims, served part of a 22-year sentence before being released under strict licence conditions. According to reports, he now lives in 24-hour supervised accommodation and is monitored with a GPS electronic tag. Victims have expressed fear over his release, saying they feel unsafe.Ms Widdecombe was MP from 1987 to 2010. She was a member of the Brexit Party from 2019 and served as the member of the European Parliament for South West England from 2019 to 2020. Like Ms Braverman, she, too, joined the Reform UK party and served as its Immigration and Justice spokesperson from 2023 until her death in 2026. The death itself seems to have been brutal and utterly senseless, the victim being...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/sunanda-k-datta-ray-murder-amid-churn-of-mps-never-a-dull-moment-in-uk-1971189)
-
----
-
-### KPSC cleanup: Merit over influence
-*Deccan Herald · Editorial*
-
-The suspension of Karnataka Public Service Commission (KPSC) Chairman Shivashankarappa S Sahukar marks yet another grim chapter in the troubled history of an institution that should embody fairness, merit, and integrity. Governor Thaawarchand Gehlot’s decision to suspend him and recommend that the President refer the matter to the Supreme Court under Article 317(1) reflects the seriousness of the allegations and underlines how far the KPSC's credibility has fallen. Sahukar is accused of facilitating the selection of his two daughters as Industrial Extension Officers, failing to recuse himself despite an obvious conflict of interest, and suppressing material facts that allegedly enabled one daughter to claim reservation benefits. An FIR has also been registered against her for allegedly using a false income certificate. Notably, the controversy reached a point where KPSC members unanimously resolved to keep the chairman away from commission meetings and examination-related work. Though the High Court has since stayed that resolution on procedural grounds, the Governor's intervention has elevated the matter to the constitutional plane.
-
-This episode is not an aberration but part of a long and disheartening pattern. Over the past two decades, the KPSC has lurched from one controversy to another: recruitment scams, bribery allegations, answer-script tampering, examination irregularities, delays, and prolonged litigation. Public confidence has eroded to the point that every recruitment process is viewed with suspicion. For thousands of young aspirants, the commission has become a source of uncertainty and despair, rather than a gateway to public service.
-
-The tragedy is not a lack of reform initiatives but a failure to implement them. Recently, the government enacted the Karnataka Public Service Commission (Conduct of Business and Additional Functions) (Amendment) Bill, 2025, to strengthen the commission's functioning. Before that, the P C Hota Committee had submitted a comprehensive blueprint recommending an annual recruitment calendar, reduced discretion in interviews, stronger evaluation systems, and transparent appointment procedures for commission members. The legislature has since constituted yet another committee, under R V Deshpande, MLA, to suggest further reforms. The KPSC needs more than periodic inquiries or fresh committees; it requires structural reform backed by political will. Appointments to the commission must be made through a transparent process based solely on integrity and competence; recruitment processes must be technology-driven, time-bound, and independent oversight must become the norm rather than the exception. Karnataka's youth deserve a recruitment system in which merit alone determines success. Restoring that faith is no longer merely an administrative necessity; it is a constitutional obligation.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/kpsc-cleanup-merit-over-influence-4073959)
-
----
-
-### The wrong measure of justice
-*Deccan Herald · Editorial*
-
-The Gujarat High Court’s confirmation of the death penalty for 38 individuals convicted in the 2008 Ahmedabad serial bomb blasts marks an unprecedented moment in India’s judicial history. The devastating attacks, planned and executed by the banned extremist group Indian Mujahideen, killed 56 innocent people and injured many others. The severity of this coordinated, violent act, indeed, calls for accountability. In its July 7 judgment, the court cites the “humongous” conspiracy involved in the dastardly act. However, a judgment that upholds a mass death sentence also challenges the tenets of modern jurisprudence. The central argument against capital punishment posits that a civilised, constitutional society must not respond to killings with state-sanctioned killings. Legal systems must prioritise justice over retribution, even when they engage with acts of terror. It is not the finality of execution that achieves real justice; it is the adherence to the rule of law and compliance with the established constitutional processes.
-
-Now, the convicts have been met with the violence they inflicted on society. A legal stamp of approval notwithstanding, this furthers the idea of retributive justice. Capital punishment may be legally permitted for the “rarest of rare” cases. The blasts could be considered within the scope of that definition. However, legality and justice are not the same. The ruling – by a division bench of justices A Y Kogje and Samir Dave – is also marked by its scale. A death sentence is wrong even for one person, and multiplying it across 38, in a single case, makes it 38 times as wrong. In this context, the claims of “just and equal” treatment are misplaced. Many hail the judgment as evidence of the state’s resolve for strong action against terrorism. But the state is a human institution. It must be humane before it becomes strong.
-
-The state has evolved over centuries, but the legal systems it prescribes are sometimes based on a primitive idea of justice that considers it right to take an eye for an eye. As Gandhi said, that would make the whole world blind. The legal system should be rooted in an idea of justice that is reformative, not vindictive or retributive. Most countries in the world have either abolished the death penalty or have suspended its operation. India should join them and honour its own rich, traditional values of humaneness and compassion. Executing 38 people at once would not deliver lasting justice; it would only leave the nation’s sense of humanity with a stain.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/the-wrong-measure-of-justice-4073965)
-
----
-
-### Greater joy lies in giving than in receiving
-*Deccan Herald · Opinion*
-
-True happiness and satisfaction arise from our state of mind rather than from material possessions. Life is a continuous journey filled with success and failure, joy and sorrow, gain and loss. Just as darkness precedes the dawn, challenges and setbacks often prepare us for success. Hard work, perseverance, and determination are the real keys to accomplishment, not mere luck.
-
-Our elders have always taught us to work sincerely and to help those in need. Hinduism, through the Bhagavad Gita, teaches that one should perform one’s duties selflessly without expecting rewards. Such selfless service reduces ego, brings inner peace, and gives true meaning to life.
-
-Christianity also places great importance on generosity and compassion. Jesus Christ taught that “it is more blessed to give than to receive.” This timeless message reminds us that true wealth is measured not by what we possess but by what we share with others in love and kindness.
-
-Likewise, Islam encourages those blessed with wealth and resources to support the less fortunate. The Qur’an calls upon believers to care for the needy, and Prophet Muhammad said, “Show mercy to those on the earth, and the One in the heavens will show mercy to you.” This teaching emphasises that compassion and service to humanity are among the highest virtues. Giving does not mean donating everything we own. It means sharing a reasonable portion of our time, knowledge, skills, or resources with those who genuinely need support. True generosity is measured not by the amount we give but by the sincerity of our intentions.
-
-Unfortunately, some people use social services for recognition or personal gain. Genuine service is free from selfish motives. Instead of counting how many people have helped us, we should ask ourselves how many lives we have touched through our actions. Standing beside people during times of hardship is one of the noblest expressions of humanity.
-
-Serving humanity is a sacred responsibility upheld by all great religions. Every sincere effort made for the welfare of others enriches both society and the individual. The greatest rewards of giving are inner happiness, peace of mind, and a life filled with purpose. Material wealth remains behind, but kindness lives forever in the hearts of those we help. Indeed, leaving this world by giving is far more meaningful than leaving it merely with possessions.
-
-[Read full article](https://www.deccanherald.com/opinion/greater-joy-lies-in-giving-than-in-receiving-4073950)
 
 ---
 
