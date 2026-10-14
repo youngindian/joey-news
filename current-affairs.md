@@ -1,3 +1,435 @@
+## 14 October 2026
+
+### Over half of Amaha clients live with mental health concerns for a year before seeking help; 56% report self-harm thoughts
+*Anuja Jaiswal · regional, india*
+
+Many people struggle with mental health issues for over a year before seeking professional help
+
+NEW DELHI: Mental health concerns can persist for months, sometimes years, before people seek professional help. By then, the distress may be affecting their relationships, work and ability to manage everyday tasks.
+
+More than half of people who eventually sought care had lived with their concerns for over a year, while 56.2% reported thoughts of self-harm before reaching professional support, according to the Amaha Mental Health Report 2026.The report is based on responses from 13,825 people who answered questions before beginning care with the mental healthcare provider between October 2025 and September 2026. Only 11.3% sought help within a month of experiencing mental health concerns.Dr Amit Malik, psychiatrist, founder and CEO of Amaha, said, “India’s progress in mental health must be judged by whether people can get timely, effective care, not simply by how openly we talk about it. These are the accounts of people who reached us; they should make us ask who is still unable to access care.”He added that friends, families and communities were vital to helping people recognise their needs and find care, and said finding treatment should not become “another test of a person’s resilience”.
+
+Nearly 95% of respondents reported at least two concerns, averaging five each. Anxiety was most common (72.1%), followed by stress (67.5%), low mood (58.3%), relationship difficulties (55.6%) and sleep disturbances in over a third. The report also found a gap between self-reported distress and clinical diagnosis: 33% of those initially reporting stress were later diagnosed with depression, while among those reporting repetitive thoughts and behaviours, 32% were diagnosed with depression and 11% with obsessive-compulsive disorder.Before approaching a professional, many respondents relied on informal support or tried to manage their concerns on their own. More than half (54.5%) had spoken to friends or family, while 44.6% had turned to self-help resources such as books, apps, videos and online communities. Nearly a third had tried therapy previously, and 19.4% had used prescribed medication.Avoidant coping strategies, including excessive screen time, oversleeping and overworking, were reported by 82.7%.
+
+Another 15.4% said they had turned to alcohol or other harmful substances instead of professional support.The impact extended to everyday functioning. Only 12.3% said they could manage all their daily tasks, while 27.3% said they could not manage most tasks or any at all.
+
+Young adults and working professionals formed the bulk of the cohort. Those aged 25–34 accounted for 51.3% of respondents, followed by 26.9% aged 18–24.
+
+Working professionals made up 64.3%, while students accounted for 15.3% and unemployed people 7.9%.Friends were the most frequently named contact in a mental health crisis (33.9%), followed by spouses (20.5%) and siblings (18.1%), underscoring the role of family and social networks in recognising distress and helping people access care.
+
+---
+
+### Indian Embassy in Jakarta launches Dewi AI avatar for public outreach
+*India Today World Desk · general*
+
+## The Indian Embassy in Jakarta has launched Dewi, an AI avatar for public outreach. The virtual guide aims to improve access to services and strengthen India-Indonesia engagement.
+
+Stock photo used for illustration
+
+Singapore,Oct 14, 2026 10:18 IST
+
+The Indian Embassy in Jakarta has launched Dewi, an artificial intelligence avatar designed to share information about culture, travel, scholarships, business and investment opportunities, as well as consular updates.
+
+Introduced during Navaratri and Durga Puja, the digital representative will provide updates on India and the India-Indonesia partnership to Indians living in Indonesia and Indonesians interested in exploring India.
+
+Announcing the launch on social media on Tuesday, Indian Ambassador to Indonesia Sandeep Chakravorty said the embassy's AI avatar was ready to “guide her followers” on the “auspicious occasion of Navaratri and Durga Puja”.
+
+The embassy introduced its digital representative with the invitation: “Follow us, and say Halo to Dewi!”
+
+The name Dewi means goddess in Indonesian, giving the virtual guide a local identity and linking her launch to the festive season.
+
+“Culture, travel, scholarships, business, investment opportunities and consular updates — all coming closer to you! Bringing you stories and updates from across the India–Indonesia partnership,” the mission said in a social media post.
+
+“Stay informed, stay connected!” it added.
+
+According to the Indian mission, Indonesia is home to about 1,30,000 Persons of Indian Origin and around 15,000 Non-Resident Indians, most of whom are professionals, including chartered accountants, teachers and engineers.
+
+Several regional and pan-Indian community associations are also active in Jakarta and other major Indonesian cities.
+
+Through Dewi, the embassy aims to make information on India, consular services and the India-Indonesia partnership more accessible to people in Indonesia.
+
+With PTI Inputs
+
+\- Ends
+
+---
+
+### ‘Friendship to all, malice to none’, says Sheikh Hasina as she tells Dhaka to rethink foreign policy after BRICS no-show
+*Unknown · world*
+
+New Delhi, Prime Minister Tarique Rahman's decision to skip the BRICS summit in India was "immature" and damaged Bangladesh's national interest, former premier Sheikh Hasina has said, warning that foreign policy driven by personal reactions or short-term political calculations is inherently counterproductive.
+
+In an exclusive interview with PTI, Hasina said Bangladesh's participation at the summit of the influential grouping could have opened up new opportunities for the country's economic and social development, but that chance was lost.
+
+The former Bangladesh prime minister said if her presence in New Delhi was the reason behind Rahman's refusal to attend the summit, it was very unfortunate, as relations between two countries cannot be determined by personal considerations or political sensitivities involving one individual.
+
+  
+
+Questioning Rahman's decision, Hasina said that a responsible government should "open doors for the country, not close them."
+
+New Delhi had extended an invitation to Bangladesh Prime Minister Rahman for the BRICS summit in his role as the current chair of BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation).
+
+However, Rahman opted out of the summit, which took place in New Delhi on September 12 and 13.
+
+"It was deeply unfortunate that Bangladesh chose not to participate. In my view, it was an immature decision and one that did not serve Bangladesh's national interest," Hasina said.
+
+"BRICS is not simply a diplomatic gathering. It brings together major emerging economies and creates opportunities for cooperation in trade, investment, infrastructure, technology and development. By participating, Bangladesh could have gained valuable experience and opened new opportunities for its own economic and social development. That opportunity was lost," she said.
+
+The former prime minister said foreign policy cannot be conducted through personal reaction or short-term political calculation.
+
+"India is our closest neighbour and an important historic partner, but BRICS engagement is also about Bangladesh's own place in the international community," she noted.
+
+The 78-year-old Hasina, living in Delhi since she left Bangladesh following the collapse of her government in August, 2024 in the face of a massive anti-government agitation, also recalled, how then prime minister Ziaur Rahman visited New Delhi in 1979 even when she was staying in India.
+
+"After the assassination of the Father of the Nation, Bangabandhu Sheikh Mujibur Rahman, along with members of my family on August 15, 1975, and the killing of the four national leaders inside Dhaka Central Jail on November 3, Ziaur Rahman came to power through an unconstitutional process," Hasina said in response to written questions.
+
+"Yet when he visited Delhi in 1979, I was living in Delhi. When he travelled to London in 1980, I was also in London. My presence in either city did not prevent him from travelling there," she said.
+
+"So why should my presence in Delhi prevent Ziaur Rahman's son, Tarique Rahman, from coming to India today? What is the real reason behind such a decision," she asked.
+
+"Relations between two countries cannot be determined by personal considerations or political sensitivities involving one individual," she stressed.
+
+Hasina also highlighted how her government's foreign policy approach helped Bangladesh's economic growth.
+
+"During my tenure, we maintained strong relations with India while also expanding cooperation with China, Russia, Japan, the United States, Europe and many other partners," she said.
+
+"Friendship with one country never required hostility towards another.
+
+Bangladesh needs a mature, balanced and confident foreign policy. A responsible government should open doors for the country, not close them," she said.
+
+The India-Bangladesh relations came under some fresh strain after Hasina held a virtual media interaction in New Delhi on August 5.
+
+Following the event, Dhaka reiterated its demand for her extradition and even sought to link it with Rahman's planned trip to India. New Delhi sought to distance itself from the event, saying it neither played a role in it nor endorsed Hasina's comments.
+
+The former prime minister also attacked the Rahman government for its overall foreign policy direction, and said it should be "independent, balanced and guided by national interest."
+
+"The principle given by the Father of the Nation, Bangabandhu Sheikh Mujibur Rahman, remains the best guide: friendship to all, malice to none. India is Bangladesh's closest neighbour and historic friend from the Liberation War," she said.
+
+"China is also an important development partner. Japan, the United States, Europe, ASEAN and the Muslim world are all important to Bangladesh. The problem is not engagement with China or any other country. The problem begins when one relationship is used against another," she said.
+
+"It begins when anti-India rhetoric is encouraged for domestic politics. It begins when major decisions are taken without transparency," she added.
+
+The Awami League leader said Bangladesh is passing through a "grave national crisis as democratic space has been "closed".
+
+"The judiciary has been used for political revenge. Media freedom has been restricted. Law and order have weakened. Minorities feel unsafe. Extremist forces have regained space. The economy has suffered," she said.
+
+"This is no longer only an Awami League issue. It is a national crisis. One of the country's largest political forces has been banned. Its leaders are in jail or forced into hiding," she said.
+
+"Millions of its supporters have been denied normal political rights. A country cannot return to stability by excluding such a large section of its own people. The suffering is being felt across the country, but Awami League leaders, workers and supporters have faced an unprecedented burden of political persecution," she said.
+
+Hasina, without divulging specific details of her return to Bangladesh, said she is going back to restore democracy.
+
+"Thousands have been jailed, many more have been forced into hiding, and families have lost homes, jobs, businesses and livelihoods simply because of their political identity," she said.
+
+"My return is part of the struggle to restore democracy, voting rights and the rule of law. I want to stand beside the people of Bangladesh, fight for their rights, and help restore democracy, security and development in my country," she said.
+
+"The people of Bangladesh must be allowed to decide their own future through a free, fair and inclusive election. That is why my return will be significant. It will be a step towards returning Bangladesh to its people," she added.
+
+At the same time, she admitted that her return to Bangladesh could be risky as she was given a death sentence by a Bangladeshi court, but asserted that she was not afraid.
+
+"This is not the first time death has come close. In 1975, my father, mother, brothers and almost my entire family were murdered. In 1981, despite military rule and intimidation, I returned to Bangladesh. There have been repeated assassination attempts, including the August 21, 2004 grenade attack, as well as imprisonment, conspiracy and political persecution," the Awami League leader said.
+
+"The greater concern today is not personal safety. It is the destruction of justice in Bangladesh. A death sentence imposed through a politically motivated process, without a genuine opportunity to defend oneself, cannot be called justice," she said.
+
+---
+
+### Delhi-Patna Vande Bharat Special From October 21: Check Timings, Stops And Schedule
+*Priyanka Das · general*
+
+Indian Railways is introducing a Vande Bharat Festival Special between Delhi and Patna for the festive rush.
+
+[Read full article](https://www.news18.com/photogallery/auto/delhi-patna-vande-bharat-special-from-october-21-check-timings-stops-and-schedule-ws-l-10380883.html)
+
+---
+
+### PM Modi Wishes Pope Leo XIV Speedy Recovery After Successful Lung Surgery
+*Mallika Soni · general*
+
+PM Modi said he was pleased to learn that the Pope's surgery had been successful and wished him continued good health.
+
+[Read full article](https://www.news18.com/india/pm-modi-wishes-pope-leo-xiv-speedy-recovery-after-successful-lung-surgery-ws-l-10380967.html)
+
+---
+
+### As AI solves complex maths problems, researchers ask: What makes a proof valuable?
+*Nameera Anjum · legal*
+
+As AI produces mathematical results at scale, researchers are debating what should count as progress in the field. Fields Medallist Terence Tao warns against optimising solely for problem-solving, while China has launched an alliance to advance AI-driven research in mathematics
+
+[Read full article](https://indianexpress.com/article/explained/explained-ai/ai-in-mathematics-terence-tao-proof-verification-10920833/)
+
+---
+
+### Vietnam says trade negotiations with United States almost completed
+*SECTIONS Vietnam says trade negotiations · world*
+
+Hanoi: Vietnam and the United States have almost completed their negotiations on a trade deal, Vietnamese Deputy Prime Minister Pham Gia Tuc said on Wednesday.
+
+Vietnam has sent the final text of the agreement to the US, Tuc told a Vietnam-US business forum in Hanoi.
+
+"We expect the US to continue to create favorable conditions for Vietnamese goods to access the US market in a stable and sustainable manner," Tuc said.
+
+  
+
+Tuc also said Vietnam expects the US to make an objective and balanced assessment in its Section 301 investigations over Vietnam.
+
+David Fogel, assistant secretary of commerce, said at the same event that he was "hopeful" the two countries would continue to work together on a trade agreement.
+
+---
+
+### October 14 agenda: Modi events and major court hearings across India
+*India Today News Desk · general*
+
+## Narendra Modi will attend a public event as courts hear several nationally significant cases. The packed October 14 diary spans political, government and public programmes nationwide.
+
+Newdelhi,Oct 14, 2026 10:04 IST
+
+Prime Minister Narendra Modi and Culture and Tourism Minister Gajendra Singh Shekhawat are scheduled to attend an event on Wednesday, October 14, while Vice-President C P Radhakrishnan will be present at a book launch. Political developments and briefings by parties will also be covered.
+
+Courts will hear cases 
+
+The Supreme Court is scheduled to hear a plea seeking an effective protocol and a strong policy to enforce mandatory age checks at liquor sale points. It will also take up pleas concerning Section 6A of the Citizenship Act, 1955, and an elephant corridor passing through different states.
+
+The court will also hear the Enforcement Directorate's plea alleging obstruction by then West Bengal Chief Minister Mamata Banerjee and other state authorities during its January 8 search at the Kolkata office of political consultancy firm I-PAC.
+
+A high court is scheduled to hear the National Investigation Agency's plea seeking the death penalty for Yasin Malik in a terror funding case. It will also hear the Central Bureau of Investigation's appeal against the discharge of Arvind Kejriwal, Manish Sisodia and others in the excise policy case.
+
+In the National Capital Region, Chief Minister Rekha Gupta and the Aam Aadmi Party are scheduled to hold separate press conferences. Developments 
+
+In Uttar Pradesh, a Meerut court will announce the sentence for Muskaan and Sahil in the Saurabh murder case, also known as the blue drum murder case. Saurabh's family has sought the death penalty.
+
+Chief Minister Yogi Adityanath will be in Varanasi on a two-day visit and address a public meeting in support of graduate and teacher legislative council candidates. Other events during his visit will also be covered.
+
+BJP leader Smriti Irani and Uttar Pradesh BJP president Pankaj Chaudhary will be in Amethi as three rebel Samajwadi Party legislators join the BJP.
+
+Haryana Chief Minister Nayab Singh Saini's visit to Sweden is also on the schedule. In Punjab, developments in the murder of an anti-drug activist will be followed, while Congress leaders are scheduled to visit Mansa. Chief Minister Bhagwant Mann will inaugurate Aam Aadmi Clinics in Hoshiarpur.
+
+In Rajasthan, state Congress president Govind Dotasra and Leader of the Opposition Tikaram Jully will address public rallies in Jhalawar and Baran.
+
+The Himachal Pradesh government has made registration mandatory for coaching centres in Una district, tightened regulations and fixed a registration fee of Rs 50,000. In Uttarakhand, Chief Minister Pushkar Singh Dhami will address 70 newly appointed BJP vistaraks on the final day of their training.
+
+In the south, the Kerala Assembly session and a Cabinet meeting are on the schedule. A visit by the AP President to the Durga Temple in Vijayawada is also planned.
+
+In West Bengal, the Cabinet will meet and the Chief Minister will brief the media at Nabanna. The Calcutta High Court will hear MP Mahua Moitra's petition in the egg-pelting case.
+
+Chief Minister Suvendu Adhikari will inaugurate community Durga Pujas and an integrated phenol and acetone plant at Haldia. Stories ahead of the Puja celebrations are also planned.
+
+In Bihar, developments following the Vaishali boat tragedy will be covered. Odisha Chief Minister Mohan Charan Majhi will attend the foundation-laying ceremony and inauguration of industrial projects in Jajpur district. Stories on student union elections are also on the schedule.
+
+Assam Chief Minister Himanta Biswa Sarma will attend programmes during his visit to Dibrugarh. In Jharkhand, BJP state in-charge Gajendra Singh Patel will hold a press conference.
+
+In western India, CJP founder Abhijeet Dipke will visit the Buddhist pilgrimage centre Deekshabhoomi in Nagpur. Maharashtra Chief Minister Devendra Fadnavis will chair a state Cabinet meeting in Mumbai and inaugurate a Hyundai manufacturing plant at Talegaon near Pune.
+
+Chhattisgarh Chief Minister Vishnu Deo Sai will inaugurate the Shivrinarayan Mahotsav in Janjgir-Champa district.
+
+The October 14 schedule covers national political events, key court hearings and government, party and public programmes across northern, southern, eastern and western India.
+
+\- Ends
+
+---
+
+### Canada's Tumbler Ridge school shooting that killed 8: US woman charged in plot detained
+*SECTIONS Canada's Tumbler Ridge school shooting that killed · world*
+
+A Washington state resident charged with conspiracy in one of the worst school shootings in Canada's history has been ordered detained pending further hearings in the case.
+
+Melody Bryant, also known as James Cody Bryant, of Bellingham, Washington, was charged this month with conspiring to murder people in a foreign country. Investigators said she provided assistance to Jesse Van Rootselaar, who killed eight people and wounded 27 in the mountain community of Tumbler Ridge in February.
+
+Bryant declined to report Van Rootselaar's plans, agreed to distribute a livestream of the attack, provided money and shared advice on how to delete online messages to keep the plot a secret, according to a criminal complaint filed this month in U.S. District Court in Seattle.
+
+  
+
+At a detention hearing Tuesday, Magistrate Judge Mary Alice Theiler said she did not believe there were any conditions - such as internet restrictions - that could ensure the safety of the community if Bryant were to be released pending trial.
+
+Bryant has not entered a plea, and her public defender, Greg Murphy, said in court he has not yet been provided with evidence needed to evaluate the government's case against her.
+
+Murphy argued for her release pending trial, noting that federal agents first interviewed Bryant just days after the attack and allowed her to remain free in the ensuing seven months.
+
+Even after filing the complaint against her on Oct. 2, the government waited for four days to take her into custody, Murphy noted.
+
+"There is no evidence that suggests any new danger to the communty in the last seven months since the government first interviewed her," Murphy said.
+
+Assistant U.S. Attorney Todd Greenberg told the judge that the criminal charge carried a presumption that Bryant would be detained.
+
+"The defendant was, over the course of months, in daily communication with someone who was planning a mass murder event in British Columbia," Greenberg said. "Bryant chose not to intervene."
+
+Authorities say Van Rootselaar killed her mother and stepbrother at home before attacking a nearby secondary school in Tumbler Ridge, killing five children ages 12 and 13 as well as an educational assistant. Van Rootselaar was later found dead from an apparent self-inflicted gunshot wound.
+
+Tumbler Ridge in the Canadian Rockies is more than 1,000 kilometers (600 miles) northeast of Vancouver, British Columbia, near the provincial border with Alberta. The provincial government website lists Tumbler Ridge Secondary School as having 175 students from Grades 7 to 12.
+
+The families of victims are suing artificial intelligence company OpenAI in U.S. federal court, seeking to hold the ChatGPT maker responsible for failing to alert police to the shooter's alarming interactions with the chatbot.
+
+---
+
+### Man jointly bought Rs 80 lakh property with father and wife but didn't file ITR; taxman added Rs 55.2 lakh as unexplained money, but ITAT grants relief after proof of family contributions
+*TOI Business Desk · business*
+
+The bench examined the additional evidence submitted by the man, including banking records and documents. (Image for representative purpose only)
+
+A man bought a residential property along with his wife and father. However, he did not file his income tax return for the year.The tax department opened his case for reassessment and adding Rs 55.2 lakh as unexplained investment.
+
+The Mumbai bench of the Income Tax Appellate Tribunal (ITAT) deleted the Rs 55.2 lakh addition made to a taxpayer's income.
+
+Here’s what the case is about:
+
+## What the case is about
+
+A man bought a residential property jointly with his wife and his father. The Income Tax Department reopened his assessment for the 2016-17 assessment year after receiving information through its Risk Management Strategy that he had purchased an immovable property during the 2015-16 financial year.
+
+The assessment proceedings recorded that he had not filed an income tax return for the relevant year.
+
+The officer calculated the addition using total payments of Rs 87.2 lakh and deducted the accepted housing loan of Rs 32 lakh, treating the balance of Rs 55.2 lakh as unexplained investment under Section 69 of the Income Tax Act, read with Section 115BBE.The National Faceless Appeal Centre upheld the addition. It found that the evidence submitted at that stage did not adequately establish the sources of the contributions attributed to the man’s father and wife.The man then approached the ITAT, challenging both the addition and the calculation underlying it. He argued that the property was jointly owned and that the payments had come from identifiable sources. He also disputed the assessing officer’s use of Rs 87.2 lakh, contending that the actual payments, including VAT, were Rs 84 lakh.Before the tribunal, the man submitted additional documents, including bank statements, employment and remuneration records, and material relating to his father’s pension and funds.
+
+## Why did ITAT delete the tax additions?
+
+The bench examined the additional evidence submitted by the man, including banking records and documents concerning the family members’ financial contributions.It found that the payments towards the property could be identified and were supported by documentary material. The evidence also established that the property had been purchased jointly, rather than solely by the man.According to the judgement, the assessee explained the sources towards the acquisition as a housing loan of Rs 32,00,000/-, contribution by his father of Rs 11,20,000/-, contribution by his wife of Rs 20,00,000/-, his own funds of Rs 1,70,000/- and further funds of Rs 19,10,000/-.The tribunal considered the housing loan, the taxpayer’s own funds and the contributions attributed to his wife and father in the context of the records placed before it.The significance of the additional evidence was that it addressed the gaps in the explanation that the lower authorities had relied on when making and sustaining the addition.
+
+The agreed consideration recorded for the property was Rs 80 lakh. The man contended that actual payments, including VAT, were Rs 84 lakh, while the assessing officer had used Rs 87.2 lakh to calculate the unexplained investment.The tribunal found that the higher figure adopted by the assessing officer was not substantiated by the documents on record. The discrepancy mattered because the Rs 55.2 lakh addition had been calculated by deducting the accepted housing loan from the higher payment figure.The tribunal held that the investment could not be treated as unexplained in the manner adopted by the assessing officer.The tribunal therefore deleted the Rs 55.2 lakh addition under Section 69 read with Section 115BBE.According to Raghav Bajaj, Partner at Khaitan & Co, the ruling restates an important principle: Section 69 is not a tool for presumptive attribution.Before an investment can be taxed as unexplained, it must first be established that the taxpayer has made an investment, and only then ask whether its source has been satisfactorily explained.The immovable property was bought jointly by a son, his father and his wife. It was financed through a joint housing loan and paid for through traceable bank transfers from each of their accounts.“Despite this, the entire balance was attributed to one co-owner by the tax officer. The Tribunal held that an addition built on assumption, and on numbers that cannot be reconciled with the actual payments evidenced by documents, is not valid,” Bajaj explains.
+
+## Significance of ruling
+
+The decision matters well beyond its facts. Pooling salaries, pensions, savings and inherited funds to buy a home is a familiar reality for Indian families, and this ruling recognises each such contributor's role, Bajaj tells TOI.At the same time, the case is a cautionary tale – taxpayers should keep a clear, person-wise record of contributions from the day of purchase in similar facts.“Further, it must also be noted that analytics-led reassessments are a legitimate and efficient way to identify high-value transactions, but a data flag is the beginning of an inquiry, not its conclusion.
+
+Where title is shared, each co-owner's sources must be examined on their own merits, and any addition must be confined to the share genuinely left unexplained,” Bajaj adds.However, according to him, one significant question remains open. The taxpayer also challenged the validity of the reopening itself, arguing that the income that could have escaped assessment did not exceed the Rs 50 lakh threshold relevant to the limitation provisions.“Having decided the case on merits, the Tribunal did not rule on that point. Taxpayers facing similar reassessments should therefore raise and preserve jurisdictional challenges from the outset, alongside a well-documented defence on merits,” he says.
+
+---
+
+### US Navy turns 251: American politicians use photos of Indian warships
+*India Today World Desk · general*
+
+The US Navy is celebrating its 251st birthday. But in the rush to mark the occasion, several prominent Republican lawmakers and state governors inadvertently used images of warships operated by the Indian and Russian navies to wish America's seaborne force a happy birthday.
+
+The US Navy was founded in 1775, a year before the country declared its independence and was still fighting off the shackles of British colonialism. The force, which remains the most powerful Navy in the world on several metrics, celebrated its 251st birthday on Tuesday (October 13).
+
+Given the momentous occasion, it would be fair to assume that American politicians, particularly those from the Republican Party, would be quick to wish the US Navy a happy birthday. And they were.
+
+Posting on X, Georgia Governor Brian P Kemp, a Republican, wrote, "From the early days of our nation's founding, the Navy has stood watch over our country and defended freedom across the seas. On its birthday, we salute the sailors whose service, sacrifice, and courage carry that legacy forward."
+
+Kemp also shared an image of three warships sailing in line astern, emblazoned with the words "Happy Birthday US Navy" and the seal of the state of Georgia. Very patriotic we must say.
+
+There was just one small issue, which Dave Brown, a journalist with the US-based newspaper, The Wall Street Journal, was the first to point out via a post on X. The warships in the image shared by Kemp were not American. As Brown put it, "Those are Indian warships".
+
+And Brown is right. A reverse image search reveals that the warships in Kemp's post are three Indian Navy frigates, INS Godavari, INS Brahmaputra and INS Beas. The photograph appears to have been taken by a US Navy photographer in 2008, when the two navies were participating in a joint naval exercise. A Community Note on Kemp's X post, meanwhile, identified the vessels as Kolkata-class guided-missile destroyers, an identification that appears to be incorrect.
+
+But Kemp was far from the only American politician to use images of foreign warships to wish the US Navy a happy birthday.
+
+In a series of posts on X, Brown highlighted similar mistakes by other American politicians and public figures.
+
+Ohio State Representative Mike Dovilla, a Republican and, rather ironically, a former US Navy lieutenant commander, was seen wishing the US Navy a happy birthday with an image of warships that Brown identified as belonging to the Russian Navy.
+
+Jeffrey J Dinise, an official with the US Border Patrol, used an image of a Russian Kirov-class battlecruiser. US Congressman Tim Moore of North Carolina, meanwhile, used the same image of the three Indian Navy frigates shared by Kemp.
+
+Democratic politician and San Diego Mayor Todd Gloria, whose city is home to one of the US Navy's largest naval bases, used an image of the Soviet-era cruiser Mikhail Kutuzov, which is now a museum ship in Novorossiysk, Russia.
+
+The social media account of the Freedom Caucus Foundation, a Republican-aligned think tank, also joined in, using an image of the Indian Navy frigate INS Trikand.
+
+The posts were met by a healthy share of ridicule on X. One person joked, "Oh god our warships are here on H1B too?!!! QUICKLY, someone tell JD Vance.
+
+"I'm heartened to learn that politicians are no better at identifying USN ships than they are at identifying USAF aircraft," wrote one person.
+
+"What in a world is going on in US ? So after claiming Greenland and some patch of ocean, they are now claiming our ships as theirs too?", wrote another. One person lameneted that there were better images of the Indian Navy Kemp could have used.
+
+In the end, a birthday meant to celebrate American naval power became an unintended showcase of warships from countries whose navies operate alongside, and at times in competition with, the US Navy. For the politicians, or their social media teams involved, the lesson was simple. Before saluting the fleet, it might help to check whose ships are sailing in the photograph.
+
+\- Ends
+
+---
+
+### Stranded heart patient, husband forced to book another flight: Airline to pay Rs 7.7 lakh
+*Jagriti Rai · legal*
+
+The commission held that it was the duty of the airline to provide medical facilities to the patient without making any excuse qua availability of the oxygen cylinder etc.
+
+[Read full article](https://indianexpress.com/article/legal-news/stranded-heart-patient-husband-book-flight-airline-to-pay-10919833/)
+
+---
+
+### Aadhaar now mandatory to avail Delhi government’s power subsidy
+*Express Web Desk · legal*
+
+The Delhi government has made Aadhaar-based identification mandatory for consumers claiming electricity subsidies as beneficiary numbers hit 55 lakh and allocation reached Rs 4,037 crore.
+
+[Read full article](https://indianexpress.com/article/cities/delhi/electricity-subsidy-aadhaar-card-mandatory-verification-rules-power-department-notification-10920843/)
+
+---
+
+### Who is BR Shetty? UAE businessman in focus as he seeks $15 billion in damages from Bank of Baroda | Mint
+*Sanchari Ghosh · industry, economy*
+
+## Bank of Baroda said it had not been served with a lawsuit filed by B. R. Shetty in the Bombay High Court and could not comment on its claims. The bank said it would defend itself. Shetty is seeking $15 billion in damages over alleged links to transactions tied to his business empire’s collapse.
+
+Bavaguthu Raghuram Shetty or BR Shetty
+
+Bank of Baroda on Wednesday said it had noted that UAE businessman Dr Bavaguthu Raghuram Shetty had filed a suit against the bank in the Bombay High Court on 13 October 2026. Accordingly, it was clarified in an exchange filing that the bank has not been served with the suit and was therefore unable to comment on the contents of the pleadings
+
+BoB also mentioned that it would firmly defend the suit and take all necessary steps to protect its interests if and when it was formally served. The disclosure was made pursuant to the Securities and Exchange Board of India (SEBI) Listing Obligations and Disclosure Requirements (LODR) Regulations, 2015.
+
+## Here's a look at who B.R. Shetty is and what the case is all about:
+
+Dr. Bavaguthu Raghuram Shetty (B. R. Shetty) is an Indian-born UAE businessman and former billionaire who founded major enterprises such as NMC Health, UAE Exchange, Neopharma, and Finablr.
+
+He started his innings in 1974 with the launch of New Medical Centre (NMC), the first private healthcare facility in UAE, his Linkedin profile mentions and goes on to add that his commitment to provide state-of-the-art facilities enabled NMC to be listed on the London Stock Exchange and included as a part of the coveted FTSE100 index.
+
+The burgeoning expatriate population in UAE triggered the need for a formal and safe money transfer channel. Dr. Shetty sensed an opportunity in that challenge and ventured into the remittance sector by launching UAE Exchange in 1980. He identified an opportunity in currency exchange business and acquired Travelex. All these leading brands are now a part of the holding company – Finablr. Finablr was listed on the London Stock Exchange in May 2019.
+
+Dr. Shetty set-up Neopharma in 2003, a state-of-the-art manufacturing facility, which has collaborations with multinational companies like Pfizer, Merck, Abbot Laboratories, GSK, Hetero Pharmaceuticals and Biocon to name a few. Recently, Neopharma has acquired an antibiotic manufacturing facility in the USA.
+
+## What are his allegations against the Bank of Baroda?
+
+Shetty is seeking $15 billion in damages from Bank of Baroda and several of its officials, alleging they facilitated transactions linked to the financial fraud that led to the collapse of his business empire.
+
+Shetty has sought $5 billion in direct damages, $5 billion for consequential losses, including lost business opportunities, and another $5 billion for reputational damage. The first two claims are against all defendants, while the reputational damages claim is against Bank of Baroda alone. He has also sought 18% annual interest on the amounts claimed.
+
+---
+
+### Food Safety: India’s crackdown must continue, but follow the science and improve systems
+*Veena Iyer · general*
+
+India’s renewed crackdown on food safety violations especially in Maharashtra is welcome, but its lasting value will depend on the scientific and regulatory infrastructure and system behind it. The real challenge is to build a food-safety system guided by scientific evidence, strong surveillance, modern testing capacity and policies that protect both public health and vulnerable consumers.
+
+Recent enforcement action in Maharashtra illustrates the dilemma. After people fell ill following consumption of Malai Pedas in Pune, the food outlet responsible was closed after its sample was declared unsafe. Yet after demonstrating 98% compliance during re-inspection, its licence was restored by the Bombay High Court. The episode highlights the need for regulators to act firmly while ensuring that enforcement remains proportionate, transparent and evidence-based.
+
+Inspections have uncovered disturbing but familiar problems: cockroaches and rodents, fungal growth, expired ingredients, poor temperature control, inadequate storage and cold-chain failures. These are not merely issues of cleanliness.
+
+Flies, cockroaches and rodents can mechanically transmit pathogens to food, while improper handling and temperature control provide ideal conditions for organisms such as Bacillus cereus and Staphylococcus aureus. These organisms cause serious infections of the gut and body.
+
+The scale of foodborne disease is substantial. Analysis of national surveillance data recorded 2,688 foodborne outbreaks, more than 153,000 illnesses and 572 deaths between 2009 and 2018. Grains and beans were associated with the largest proportion of outbreaks.
+
+However, these figures grossly understate the true burden because disease surveillance in India relies chiefly on government-facility reporting, while much routine care, including for mild, self-limiting infections such as diarrhoea, happens in private clinics that largely fall outside the system.
+
+Investigations of outbreaks in Hyderabad and Kerala have demonstrated how contaminated food handlers and infected handlers can transmit S. aureus and hepatitis A. Another recent review of published outbreaks across India also shows that unsafe water infrastructure is a major contributor, reminding us that food safety cannot be separated from safe drinking water, hand washing and sanitation.
+
+Chemical contamination may be even more dangerous. Although chemically contaminated food accounted for only 3.4% of reported outbreaks in the national dataset, it was associated with 70% of recorded deaths.
+
+Lead, mercury and organophosphorus compounds were among the reported contaminants. India also has a long history of epidemic dropsy caused by adulteration of mustard oil with Argemone oil which causes liver and kidney failure, jaundice and death.
+
+Substandard, adulterated and synthetic milk presents another troubling example of gross neglect of food safety. A national survey conducted by FSSAI found 68% of samples failed to conform with standards, with almost half showing substandard fat or solids-not-fat content, particularly among loose and rural milk supplies.
+
+Yet, despite the apparent scale of the problem, there is still inadequate published evidence directly linking synthetic milk consumption to specific disease patterns. Such evidence should be urgently generated rather than allowing a major public-health concern to remain poorly quantified.
+
+Perhaps the clearest gap is that food regulation is still looking at yesterday’s contaminants. PFAS, microplastics and nano-plastics, antibiotic and hormonal by-products, antimicrobial-resistance genes and veterinary drug residues are increasingly recognised internationally as food-safety concerns. Yet enforceable limits and adequate testing capacity remain incomplete for several of these hazards in India.
+
+For microplastics, FSSAI has taken a first, methodological step to develop detection protocols, not yet a regulatory limit. For PFAS, a draft 2025 rule bans it only in food packaging, leaving non-stick cookware untouched; AMR is, by contrast, better addressed, with a dedicated five-year National Action Plan and a livestock-fisheries surveillance network already in place, though its actual reach to keep resistant bacteria out of our food supply remains to be tested.
+
+Even where standards exist, such as limits for veterinary drug residues, domestic capacity to monitor compliance remains limited.
+
+That such lapses turn up even in old, reputed establishments and multi-crore oil and dairy businesses points to a wider weakness in India's public health system, of which food safety is only one part, this article does not even touch the FDA's parallel mandate over drug quality. India therefore needs raids matched with preventive food safety systems.
+
+Regulators and public health departments need stronger surveillance and outbreak investigation, better laboratory networks, modern contaminant testing and clearer risk-based standards. Enforcement must be tough against deliberate adulteration and serious negligence, but it should also help small businesses understand and achieve compliance.
+
+Such a system could largely fund itself through food-vendor licence fees rather than straining state budgets, provided it also invests in public education and food-handler training and licencing, not inspection alone. A round of raids brings short-term gains; lasting improvement will need sustained, well-funded, scientifically grounded monitoring over years, not months.
+
+The lesson is simple: inspectors can enforce only what the law defines and laboratories can detect. India has demonstrated that effective standards are possible, as seen with aflatoxin regulation.
+
+The next step is to make emerging contaminants and neglected foodborne hazards a national scientific priority. Otherwise, the most visible crackdown may simply be testing yesterday’s problems while tomorrow’s hazards remain invisible.
+
+_**(views are personal to authors)**_
+
+\- Ends
+
+
+---
+
 ## 13 October 2026
 
 ### CJP Delhi Protest LIVE: CJP Seeks Reinstatement Of Jantar Mantar As Protest Site; INDIA Bloc To Continue Campaign Against CEC
