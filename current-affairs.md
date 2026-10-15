@@ -1,3 +1,504 @@
+## 15 October 2026
+
+### ‘Sport Must Be Part of Education’: Sportz Village CEO Saumil Majmudar on Building India’s Sporting Culture
+*Avinash Sharma · sports*
+
+India's sporting ambitions have traditionally been measured by medals, elite athletes and international success. But building a sporting nation begins much earlier - in schools, playgrounds and communities where children develop a love for playing. For Saumil Majmudar, Co-founder, CEO and Managing Director of Sportz Village, the priority is to make sport an integral part of every child's life, rather than merely a pathway to competitive excellence.
+
+With more than two decades of experience in school sports and grassroots development, Majmudar believes that accessible infrastructure, trained physical education teachers, inclusive competition and enjoyable sporting experiences are essential to expanding participation. Sportz Village has reached over six million children through its in-school programmes and grassroots initiatives, with the ambition of getting 100 million children to play.
+
+In this conversation with myKhel, Majmudar discusses India's evolving sports participation ecosystem, the role of schools in nurturing a sporting culture, the importance of physical education in holistic development, and how the government's revamped Khelo India scheme and increased sports funding can strengthen grassroots foundations. He also explains why getting every child to play - and encouraging them to continue for life - must be central to India's sporting future. Here are the excerpts:
+
+### Q1. Sport in India has traditionally been viewed through the lens of competitive success and producing elite athletes. How do you see India's sports participation ecosystem evolving, and what needs to change to get more children playing sport simply for the love of it?
+
+I believe India's sports ecosystem is beginning to make an important shift, from seeing sport primarily as a pathway to competitive success to recognising it as part of a healthy, fulfilling life. While growing health and fitness awareness is a primary reason, events like marathons, HYROX and other participatory formats are reminding adults that sport can be fun, engaging and socially enriching, even for those who may not have had positive sporting experiences as children. This is creating a generation of parents who want their children to play more.
+
+The real change, however, has to begin in schools. Children need opportunities to try different sports, develop basic skills and fitness, and most importantly, have positive experiences without feeling that every game is a test of their ability. Parents have an equally important role to play by encouraging participation rather than putting pressure on outcomes.
+
+I have always believed that sport should be part of education, not simply a pathway to medals or careers. If we can make playing sport as natural a part of growing up as studying, we will not only produce better athletes, but a healthier and more active generation.
+
+### Q2. Sportz Village has set an ambitious goal of getting 100 million children to play. After more than two decades of working with schools, what have you learned about the biggest barriers that prevent children from participating in sport regularly?
+
+After more than two decades of working with schools, we have learned that getting children to play regularly is not simply a question of building more facilities. Five factors come together: space, time, content, the facilitator and, finally, the child.
+
+Children need safe and accessible spaces to play, enough time alongside academic demands, and content that is appropriate to the objective, whether that is enjoyment, learning or competition. But the person delivering that experience often makes the biggest difference. A PE teacher, coach or parent can determine whether a child sees sport as something they look forward to or something they feel compelled to do.
+
+The child, of course, brings their own interests, confidence, fitness, skills, age, gender and social context into the equation. But our experience tells us that if you get the adult and the experience right, many of the other barriers become easier to overcome.
+
+That is perhaps the biggest lesson we have learned: you don't necessarily need to create a future athlete to get a child to play. You need to create a positive experience that makes them want to come back. At Sportz Village, we have been able to touch lives of over 6 million children so far - through in-school programs in over 18000 schools and other grassroot programs across India. If we can get more adults committed to making that happen, the ambition of getting 100 million children to play becomes much more achievable.
+
+### Q3. Schools are often the only place where almost every child can be reached, but PE continues to compete with academics for time and attention. How can schools makesport an integral part of education rather than treating it as an optional or secondary activity?
+
+Schools can make sport integral to education by treating physical education with the same structure and rigour as academic subjects. Just as mathematics has standards, curriculum, lesson plans, teaching aids, trained teachers, assessments and parent-teacher reviews, physical education needs the same framework for physical development.
+
+At the same time, PE must remain fun and inclusive for every child. Regular assessments and data can make the conversation around sport more evidence-based. When schools can track a child's physical development and participation over time, sport becomes something that can be understood and improved, rather than simply something that takes place between academic periods.
+
+This shift also requires parents to demand the same seriousness from schools around physical development that they demand around mathematics or science. When we have the curriculum, trained teachers, appropriate assessment and accountability in place, sport stops being an extracurricular activity and becomes what it should be: a core part of education. I believe India's growing focus on holistic education can help accelerate this shift.
+
+### Q4. Your EduSports model focuses on making sport fun, inclusive and age-appropriate rather than only identifying the most talented children. Why is this approach important for building a long-term sporting culture in India?
+
+Our EduSports in-school sports & PE model starts with a simple belief: children play for fun. They do not begin by playing to win medals or represent the country. As they continue playing, some naturally develop the ability and interest to progress to higher levels. Therefore, building a long-term sporting culture requires positive, inclusive and age-appropriate experiences.
+
+Fun comes from being engaged, connected with the group and stretched slightly beyond one's current limits. A structured PE curriculum helps create this experience, especially when schools have limited time and space. We use props, circuits and varied activities to keep 35-40 children actively involved while learning.
+
+If we can make sport something every child enjoys and wants to return to, we build the foundation for everything that comes later, and I believe the country is increasingly recognising participation as the foundation for sporting excellence.
+
+### Q5. Sport is increasingly being discussed as a tool for children's physical, emotional and social development. From your experience, what impact can regular participation in sport have on children's confidence, relationships and mental wellbeing?
+
+We have always seen sport as much more than physical activity. It gives children a space where they can participate, take risks, make mistakes, work with others and experience progress for themselves. Our 2025-26 impact data reinforces how regular participation can influence a child's overall development. Across our #SportForChange programmes, children demonstrated gains in social and emotional competencies including resilience, initiative, conflict management, communication and following instructions, alongside improvements in fitness and physical activity.
+
+We have also seen stronger attendance, classroom engagement and behaviours that support learning. Importantly, our longitudinal tracking shows that the longer children stay in the programme, the greater the gains, with fitness and social-emotional skills compounding over time.
+
+Sport gives children a space to participate, compete and belong, shaping confidence, relationships and aspirations. I believe India's growing focus on holistic development makes this role of sport increasingly important.
+
+### Q6. You have also spoken about the need to create sporting opportunities for children irrespective of their skill levels. How important is inclusive competition and match-play in ensuring that children don't drop out of sport because they feel they are not good enough'?
+
+Inclusive competition is critical because the opportunity to compete should not be reserved only for children who are already good at sport. The preparation, contest, feedback and opportunity to try again are fundamental to learning. When children who are trying their best everyday feel they do not belong, sport can become stressful and they may drop out. Instead, we should meet children at their level, give them an appropriate level of competition, help them understand how to improve and support progression to the next level, much like we approach mathematics or science.
+
+At Sportz Village, we believe competition should be developmental, rather than only about medals. As India expands sporting opportunities, we must ensure children of different abilities have equal opportunities to participate, learn and enjoy competition.
+
+### Q7. India has invested heavily in identifying elite sporting talent, but the pathway from school-level participation to competitive sport can still be fragmented. What needs to change to create a more seamless grassroots-to-athlete pathway?
+
+Building a seamless grassroots-to-athlete pathway requires two things above all: credible data and enough competitive opportunities. We need high-integrity data on children's physical development and attributes so talent can be identified and tracked fairly. Children also need regular, credible competitions to test themselves and improve.
+
+In high-performance school sports countries, children may play around 40 matches a year, while Indian children sometimes play only 5-10. That gap is significant. A credible competitive ladder, with fair refereeing, ethical age verification and transparent selection and progression, is essential. For us, the entire talent pathway has to be built on trust. India has made encouraging progress in grassroots sports and talent identification, and I believe the next step is connecting these efforts more effectively so participation can translate into sustained competitive pathways.
+
+### Q8. Urban India faces a serious shortage of accessible sporting spaces. How should cities rethink sports infrastructure so that children and adults can play regularly without needing to be elite athletes or members of expensive private facilities?
+
+The shortage of sporting spaces is real, but I think we need to rethink what we mean by a "sporting space". If we only look for full-sized football fields, cricket grounds or stadiums, the shortage will always seem overwhelming. The opportunity is to think of sports infrastructure as a network of smaller, accessible spaces embedded within neighbourhoods.
+
+Dead spaces, terraces, idle lots, public areas and even spaces beneath flyovers can be designed for physical activity through better planning and multipurpose use. We can also think differently about when these spaces are available, whether early mornings, evenings or other periods that work for the local community.
+
+The larger challenge is often bringing stakeholders together. Corporates, government, civic bodies, schools, parents and communities all have a role. In the long term, we believe schools can become sustainable sources of community sporting space if regulation and local support enable wider access. As Indian cities grow denser, I think creative use of existing spaces will become increasingly important.
+
+### Q9. There is also a growing conversation around sport as a lifestyle for adults, not just something children do in school. Are you seeing a shift in how Indian families perceive recreational sport, fitness and active living?
+
+Our work shows that the idea of sport as a lifestyle begins with creating positive experiences around physical activity early in life. Through #SportForChange, we have seen children become more physically active, develop healthier habits and build social-emotional skills through structured participation. The impact also extends beyond children to families and communities, as schools and communities create more opportunities and space for play, particularly for girls and underserved groups. Having run our programs in private and public schools as well as grassroot sports development initiatives, we see participation as the foundation for lifelong active living. Our objective is not simply to create athletes, but to make sport part of healthier lives. India's growing fitness culture is encouraging, and we believe it can help make active living a family habit.
+
+### Q10. Having spent more than 20 years trying different models to get children to play, what gives you the confidence that India can genuinely become a sporting nation, and what is the one change you would most like to see over the next decade?
+
+Our confidence comes from seeing children respond when sport is accessible, structured and enjoyable. The goal cannot simply be producing elite athletes; it has to be getting every child to play while creating pathways for those who want to progress. The one change we would most like to see is a stronger ecosystem of trained facilitators. PE teachers, parents and community volunteers need the skills to keep children engaged and support every child, not only those who are naturally sporty. If we create enough adults who know how to facilitate play, we can unlock many barriers to participation.
+
+I am optimistic about India's sporting future because the conversation is expanding beyond medals towards participation, health and wellbeing. Getting the foundation right will allow talent to emerge.
+
+### Q11. The government has recently revamped Khelo India with a ₹36,441 crore outlay, while the Union Budget has significantly increased its overall allocation for sports. From the perspective of someone working directly with schools and grassroots participation, how transformative can this investment be? What needs to happen to ensure that the increased funding translates into more children playing sport, better school infrastructure and stronger long-term sporting pathways rather than just more spending?
+
+We see the revamped Khelo India scheme as a significant opportunity to strengthen the role of schools in India's sporting ecosystem. Initiatives such as Khelo India Feeder Schools (KIFS) and Khelo India Utkrishta Vidyalayas (KIUV) can help integrate sport and PE with mainstream education while supporting early talent identification. For lasting impact, schools need to assess their PE ecosystem across participation, fitness, skills, infrastructure, coaching and attendance. PE teachers and coaches should be equipped to identify potential through age-appropriate assessments, while talented children need clear pathways through training, competition, mentoring and academy partnerships. For us, sport has to become part of the larger education proposition, connected to health, wellbeing, life skills and leadership. The scale of investment signals that India is taking sport seriously, and I believe this is an important opportunity to build stronger grassroots foundations. And truly grassroots for us means: every child plays and plays for life!
+
+---
+
+### Ankita Bhandari's mother breaks down as police detain her at India Gate
+*Unknown · general*
+
+Ankita Bhandaris mother breaks down as police detain her at India Gate
+
+[Read full article](https://www.indiatoday.in/newsmo/short-videos/ankita-bhandaris-mother-breaks-down-as-police-detain-her-at-india-gate-3017685-2026-10-15)
+
+---
+
+### East Bengal Players Boycott Training Over Unpaid Salaries Ahead of ISL Opener
+*Sauradeep Ash · sports*
+
+East Bengal's preparations for their upcoming Indian Super League (ISL) campaign were hit by an off-field setback after the players boycotted training on Wednesday, October 14, over three months of unpaid salaries, following their defeat to Al Shorta in the AFC Champions League Two.
+
+The players reported to the training ground in Kolkata but decided against taking part in the session in protest against the outstanding payments. The club's staff members have also reportedly not received their salaries for the past three months.
+
+The development comes at a difficult time for East Bengal, who are attempting to put their continental disappointment behind them and shift their focus towards the domestic season. The training boycott has raised fresh questions about the club's preparations ahead of their ISL 2026-27 opener against Churchill Brothers in Goa.
+
+## Financial Emergency in East Bengal
+
+Since Emami's departure as the primary investor, the Torch Bearers have struggled financially amid the absence of any major investors. As the ISL season starts, the club has been struggling and was unable to pay the salaries for the last three months.
+
+"No one has got anything for the last three months. Even the small amounts haven't been cleared. The players decided not to train because of that, and the club hasn't really communicated much," a source told MyKhel on condition of anonymity.
+
+MyKhel also understands the pressure was brewing since last month, just before the IFA Shield, where there was disgruntlement within the squad over the salary issues. It has since only grown, and the East Bengal management's inability to pay further escalated the matter. Not just the first team players, even academy and U23 players are yet to get their dues. On Wednesday, all players were in unison over boycotting training further before they get their dues, much to the dismay and embarrassment of the club.
+
+## East Bengal Working to Clear Players' Dues
+
+East Bengal are understood to be making efforts to clear the majority of the players' outstanding salaries by Thursday, October 15, in a bid to resolve the situation before the team's opening ISL fixture.
+
+The club will be keen to restore normality within the squad and ensure that the salary dispute does not disrupt preparations further. However, the pending payments have already led to a protest from the players, who chose not to train despite turning up at the designated venue.
+
+It is to be seen how things pan out, but the Kolkata club will have to bounce back not just on the field, but in the accounts book as well.
+
+Story first published: Thursday, October 15, 2026, 10:02 \[IST\]
+
+Other articles published on Oct 15, 2026
+
+---
+
+### Sebi Extends IPO Issue Size Revision Relaxation Till March 2027: Merchant Bankers' Association
+*Mohammad Haris · business*
+
+The Association of Investment Bankers of India says the measure will provide greater flexibility to issuers and merchant bankers amid changing business requirements.
+
+[Read full article](https://www.news18.com/business/ipo/sebi-extends-ipo-issue-size-revision-relaxation-till-march-2027-merchant-bankers-association-ws-l-10382665.html)
+
+---
+
+### IIT Kanpur launches USD 1-billion drive, alumnus pledges Rs 180 crore for Noida school
+*India Today Education Desk · general*
+
+The Indian Institute of Technology, IIT, Kanpur has launched a USD 1-billion fundraising campaign to strengthen its research infrastructure, support students and faculty, and accelerate deep-tech innovation, with Rs 4,155 crore already committed towards the target. The campaign, titled ‘Greater Than Us’, was launched by Defence Minister Rajnath Singh at Bharat Mandapam in New Delhi.
+
+The institute aims to raise the funds by March 2029, making it the largest fundraising campaign undertaken by any IIT. As part of the initiative, IIT Kanpur has also announced the Gautam School of Innovation and Entrepreneurship (G-SINE) at its Noida campus, following a Rs 180-crore commitment from alumnus Rahul Gautam.
+
+### RAJNATH SINGH ON IIT KANPUR’S LEGACY AND FUTURE GOALS
+
+Speaking at the campaign launch, Defence Minister Rajnath Singh highlighted the legacy of the IITs, saying their founding generations built institutions of excellence despite limited resources. He said the IIT Kanpur campaign would carry this legacy forward by linking scientific discovery and technological innovation with national development.
+
+"Great institutions take decades to build. The early generations who founded and strengthened the IITs worked with limited resources but extraordinary commitment. They built not just campuses and laboratories but a culture of excellence, service, and nation-building. Our responsibility is to carry that legacy forward," he said.
+
+Singh said the institute’s legacy would grow through successive generations, reflected in the talent it nurtures, knowledge it advances, technologies it develops and opportunities it creates.
+
+"The IIT Kanpur campaign gives us a chance to prepare the institution for a future in which scientific discovery, technological innovation, and national development are closely linked. Its success will show in the talent it nurtures, the knowledge it advances, the technologies it helps develop, and the opportunities it creates for generations to come," he further added.
+
+### GAUTAM SCHOOL OF INNOVATION AND ENTREPRENEURSHIP
+
+IIT Kanpur has signed a memorandum of understanding (MoU) with alumnus Rahul Gautam, who has committed Rs 180 crore to establish the Gautam School of Innovation and Entrepreneurship at the institute's Noida campus.
+
+The school is scheduled to begin operations in July 2027 with a flagship MBA programme in Technology and Entrepreneurship. It will have its own full-time faculty and degree programmes, focusing on developing technology-driven entrepreneurs and future business leaders in sectors such as artificial intelligence (AI), cybersecurity, digital health, biotechnology, drones and advanced manufacturing.
+
+G-SINE will work alongside the proposed Deep Tech Hub at the Noida campus, providing students access to advanced technology facilities to turn research into market-ready products. It will also leverage IIT Kanpur's Startup Incubation and Innovation Centre (SIIC), which has incubated 571 startups.
+
+IIT Kanpur Director Manindra Agrawal said nearly half of the fundraising target had been committed before the campaign's formal announcement. He added that the initiative would bring together alumni, industry partners, donors and institutions to support the institute's next phase of growth.
+
+### RESEARCH INFRASTRUCTURE, TALENT AND FRONTIER TECHNOLOGIES
+
+The campaign will focus on three pillars: Foundation, Talent and Frontier. The Foundation pillar will support research infrastructure, including a Rs 524-crore Central Research Facility and a Rs 200-crore high-performance computing facility. Campus expansion plans include four student hostels, 96 faculty apartments and a Centre for Mental Health and Wellbeing.
+
+The Talent pillar aims to raise Rs 3,000 crore for scholarships, doctoral fellowships, faculty recruitment and entrepreneurship programmes, with the institute aiming to provide financial support to every eligible student.
+
+The Frontier pillar has already secured Rs 1,556 crore against its Rs 1,000-crore target. It will fund projects in AI, quantum technology, semiconductors, cybersecurity and medical technology, including a Quantum Technology Centre, a semiconductor packaging centre and a drug discovery programme.
+
+### IIT KANPUR AIMS TO TURN RESEARCH INTO REAL-WORLD SOLUTIONS
+
+The fundraising campaign builds on the institute's existing work in applied research and technology development. IIT Kanpur's AI engine supports the government's Centralised Public Grievance Redress and Monitoring System (CPGRAMS), while its cybersecurity researchers operate a security operations centre at the Bhilai Steel Plant.
+
+Faculty-led startups have also developed a heavy-payload logistics drone and a strike drone, highlighting the institute's focus on translating research into practical applications.
+
+With its USD 1-billion fundraising target, IIT Kanpur aims to expand its research capabilities, attract talent and strengthen India's deep-tech ecosystem. The campaign will seek to translate donor commitments into research breakthroughs, new enterprises and technologies that contribute to India's scientific and technological development.
+
+\- Ends
+
+---
+
+### IIM Ahmedabad launches blended MBA in AI, Business Analytics with flexible exit option
+*India Today Education Desk · general*
+
+## IIMA announced admissions to the second batch of its blended MBA in business analytics and AI. The flexible pathway lets eligible participants exit after one year with a postgraduate diploma.
+
+The programme is structured across six terms and combines live, direct-to-device classes with three on-campus modules (Image: IIM Ahmedabad)
+
+The Indian Institute of Management Ahmedabad (IIM Ahmedabad) on October 14 has announced admissions to the second batch of its two-year Blended MBA Programme in Business Analytics and Artificial Intelligence (BPGP: BA & AI). The programme will be offering working professionals and entrepreneurs an exit pathway after the first year with a Postgraduate Diploma in Business Analytics and AI.
+
+The programme combines management education with advanced analytics, machine learning and artificial intelligence to prepare professionals for data-driven leadership roles.
+
+The announcement was made at an event at the IIMA campus attended by Director Professor Bharat Bhasker, Dean (Programmes) Professor Diptesh Ghosh, BPGP: BA & AI Chairperson Professor Anindya S. Chakrabarti, and Chairperson of the Krishnamurthy Tandon School of AI Professor Ankur Sinha. IIMA alumna Chandrika Tandon, a business leader, humanitarian and Grammy Award-winning musician, joined the event virtually.
+
+IIMA alumna Chandrika Tandon, PGP Class of 1975, established the Krishnamurthy Tandon School of AI at the Institute through Rs 100 crore endowment.
+
+### PROGRAMME STRUCTURE AND CURRICULUM
+
+The two-year programme is designed to meet the growing demand for managers who can interpret complex data, assess emerging technologies and apply analytical insights to strategic and operational decisions. It is structured across six terms and combines live, direct-to-device classes with three on-campus modules, allowing working professionals to continue their careers while pursuing the degree.
+
+Speaking at the announcement, Prof Bhasker said the programme aims to strengthen the combination of technical competence, independent thinking and managerial responsibility among business leaders. He emphasised that managers must understand the assumptions and limitations behind analytical tools before using their outputs to make decisions.
+
+Chandrika Tandon said that while AI offers powerful tools, effective leadership requires identifying the problems that deserve attention and developing solutions that create value for the economy and society. She added that the programme would help prepare forward-thinking managers, leaders and institution builders.
+
+According to Prof Chakrabarti, the curriculum integrates mathematical modelling, programming and machine learning with core management disciplines such as finance and strategy. Case discussions, capstone assignments and action-learning projects will help participants evaluate analytical recommendations and apply their insights to complex business challenges.
+
+The curriculum covers management, statistics, analytical modelling, machine learning and advanced AI. Participants can also choose electives in areas such as predictive and prescriptive analytics, product management, finance and risk management, human–AI collaboration, AI ethics and regulation, supply chain digitisation, generative AI and agentic AI.
+
+The programme is intended for professionals across sectors, including finance, marketing, operations, supply chain, logistics, legal services, information technology and human resources. Participants will have remote access to IIMA's academic and research resources, including the Vikram Sarabhai Library, computing infrastructure and research databases.
+
+### EXIT OPTION AND ELIGIBILITY CRITERIA
+
+A key feature of the programme is its exit pathway after the first year, upon which eligible participants can receive a Postgraduate Diploma in Business Analytics and AI. Those who complete the full two-year programme will earn the MBA degree and join IIMA's alumni network. The ones who exit after the first year with a diploma can come anytime later and complete the programme to get the MBA degree.
+
+Applicants must hold a bachelor's degree, CA, CS, ICWA, CMA or an equivalent qualification in any discipline, with at least 50% aggregate marks or an equivalent CGPA from a recognised university.
+
+Working professionals and entrepreneurs must have at least three years of full-time work experience after a three-year undergraduate degree, or at least two years after a four-year undergraduate degree. The experience requirement will be calculated as of March 31, 2027.
+
+Candidates must submit a valid CAT, GMAT or GRE score obtained within the five years preceding admission, with test dates no earlier than January 1, 2022. Both GMAT Classic and GMAT Focus Edition scores are accepted. Alternatively, candidates may take the Round 1 IIMA Admission Test for BPGP: BA & AI as part of the selection process.
+
+\- Ends
+
+---
+
+### Sachin Katti leaves OpenAI, Uday Ruddaraju to lead ChatGPT compute unit
+*Armaan Agarwal · general*
+
+OpenAI’s infrastructure and compute lead Sachin Katti has announced that he will leave his role next month. Katti, who joined OpenAI in November last year, says he is leaving to “build something new.”
+
+“My last day will be November 15, and I'll continue supporting OpenAI as an advisor after that,” Sachin Katti wrote on X. He will be replaced by OpenAI CTO Uday Ruddarraju.
+
+Sachin Katti was responsible for acquiring compute resources for OpenAI’s data centres. During his tenure, the company released its custom Jalapeno inference chip along with a $20 billion deal to use Cerebras’s AI chips. OpenAI also pushed for a reorganisation of its Stargate data centre project under Katti.
+
+Additionally, Katti also led GPT Infra, which was responsible for applying OpenAI’s models to semiconductor design and infrastructure. GPT Infra will now be overseen by OpenAI’s hardware VP Richard Ho.
+
+Sachin Katti announced his exit on X.
+
+### Who is Sachin Katti?
+
+Sachin Katti also oversaw computing agreements with SB Energy and the expansion of OpenAI’s deal with Amazon Web Services (AWS). Katti claimed that under his leadership, the AI company “secured double-digit GWs of compute” for several data centre projects including those in Ohio, Portsmouth, and Georgia. He led OpenAI’s partnerships with the likes of NVIDIA, Oracle, Microsoft, and Google.
+
+Before joining OpenAI, Katti was the chief technology officer at Intel. He is also an Adjunct Professor at Stanford University. On LinkedIn, Sachin Katti said his career had taken him from academia as a Stanford professor to entrepreneurship, running a large business, serving as Intel’s CTO and helping orchestrate “one of the largest AI compute infrastructure buildouts in history” at OpenAI.
+
+Sachin Katti has a PhD in Computer Science from Massachusetts Institute of Technology (MIT). He completed his B.Tech in Electrical Engineering from IIT Bombay.
+
+Katti’s successor, Uday Ruddarraju was previously OpenAI’s chief technology officer of compute. Ruddarraju will now lead the company’s overall compute organisation. He will report to OpenAI President Greg Brockman.
+
+OpenAI’s compute organisation develops its infrastructure roadmap and ensures the company can train and serve its models. The company is targeting roughly $600 billion in total compute spending by 2030 and is involved in multibillion-dollar data centre projects multiple US states. These include an eight-gigawatt project in Ohio with SB Energy and Nvidia and a Georgia site designed and led by OpenAI.
+
+The change comes after several departures from OpenAI. Product and business chief Fidji Simo moved into an advisory role in July, while executives Brad Lightcap and Denise Dresser left the following month. Infrastructure executives Chris Malone and Peter Hoeschele have also departed. More recently, David Robinson, the company's safety lead, also resigned.
+
+Brockman earlier said departures received greater scrutiny because OpenAI was in the spotlight. Katti expressed confidence in Ruddarraju and the compute team, adding: “I'm a builder at heart, and I'm looking forward to building something new.”
+
+\- Ends
+
+---
+
+### Code 7500 Mystery: Was A Radar Glitch Behind Air India's False Hijack Scare? Probe Underway
+*News18 · general*
+
+The Frankfurt-Delhi flight was diverted to Jaipur after a suspected hijack alert, leaving 306 passengers and crew members stranded for hours.
+
+[Read full article](https://www.news18.com/india/code-7500-mystery-was-a-radar-glitch-behind-air-indias-false-hijack-scare-probe-underway-ws-lr-10382599.html)
+
+---
+
+### IDBI Bank shares crash 6%: Why is the stock falling?
+*India Today Business Desk · general*
+
+## The Union Cabinet on Wednesday approved the sale of a combined 60.72% stake in IDBI Bank by the Centre and Life Insurance Corporation of India (LIC) to a Fairfax-backed entity for Rs 52,878 crore. The deal involves the government's 30.48% stake and LIC's 30.24% holding in the bank.
+
+Bank's Q4 profit and asset quality showed improvement.
+
+New Delhi,Oct 15, 2026 09:57 IST
+
+Shares of IDBI Bank fell sharply on Thursday, declining as much as 6.05% to Rs 84.97, after the government approved the sale of a controlling stake in the lender to Canada's Fairfax Financial Holdings.
+
+The fall came despite the long-awaited deal marking a major milestone in the bank's proposed ownership transition, as investors weighed the transaction price against the stock's market valuation.
+
+The Union Cabinet on Wednesday approved the sale of a combined 60.72% stake in IDBI Bank by the Centre and Life Insurance Corporation of India (LIC) to a Fairfax-backed entity for Rs 52,878 crore. The deal involves the government's 30.48% stake and LIC's 30.24% holding in the bank.
+
+The immediate concern for shareholders is the price at which the transaction has been approved. Fairfax's bid of Rs 81 per share is below IDBI Bank's previous closing price of Rs 90.44. It is also lower than the Rs 100–110 per share range that market participants were reportedly expecting.
+
+At Rs 84.97, the stock was still trading above the transaction price, but the gap between the market price and the approved bid has become a key focus for investors. The decline suggests that the announcement has not delivered the valuation premium some market participants had hoped for.
+
+The price offered by Fairfax is central to understanding the stock's reaction. At Rs 81 per share, the deal value is about 10.4% below IDBI Bank's previous closing price of Rs 90.44. At Thursday's intraday price of Rs 84.97, the stock was trading about 4.9% above the transaction price.
+
+For investors who had expected a higher valuation from the transfer of control, the approved price may have been disappointing. Market participants had expected the sale price to be in the Rs 100–110 range. The winning bid, therefore, came in well below those expectations.
+
+The transaction also follows a prolonged sale process. The government first announced plans to sell a controlling stake in IDBI Bank in 2022, but the process faced delays. An earlier round of bids did not meet the government's reserve-price expectations, and the process was subsequently reopened with revised bids.
+
+The approved price is not necessarily a reflection of the bank's future earnings potential. However, it gives investors a concrete valuation reference at a time when expectations around the transfer of control had built up.
+
+### WHAT THE FAIRFAX DEAL MEANS FOR IDBI BANK
+
+Under the approved transaction, Fairfax will acquire a controlling stake of 60.72%, comprising 30.48% from the government and 30.24% from LIC. After the transaction, the Centre will retain a 15% stake, while LIC will hold 19%. The transaction is expected to become one of the largest foreign investments in India's financial sector.
+
+The deal is significant because IDBI Bank's ownership transition has been a long-running government disinvestment exercise. A strategic investor could bring a different approach to management, capital allocation and business expansion, although the eventual impact will depend on the terms of the transaction, regulatory approvals and how the bank is run after the change in control.
+
+The government's own statement said IDBI Bank had required repeated capital infusions after facing financial difficulties. The Reserve Bank of India placed the lender under the Prompt Corrective Action framework in 2017 because of its weak financial health, high non-performing assets and losses. Restrictions were lifted in 2021 after its condition improved, subject to continued monitoring.
+
+The stake sale is intended to transfer management control while allowing the government and LIC to retain a combined 34% holding. The Cabinet's approval is an important step, but the transaction must still proceed through the required completion and regulatory processes.
+
+### IDBI BANK WAS ALREADY UNDERPERFORMING
+
+The latest fall also comes against a backdrop of relative weakness in the stock. IDBI Bank had declined 13.4% year to date up to October 14, compared with a 7.8% fall in the NSE 500 index over the same period.
+
+This suggests the share-price decline cannot be viewed only through the lens of Thursday's announcement. The stake sale had been under discussion for years, and the stock's performance had already reflected a difficult market environment and uncertainty around the transaction.
+
+The price at which control changes hands is now an additional factor investors can assess. A bid below the prevailing market price may prompt shareholders to reassess the premium they had expected from the deal, even as the entry of a strategic investor offers a potential longer-term change in the bank's ownership and management.
+
+Investors will look for clarity on the transaction's completion timeline, the regulatory process and the implications for IDBI Bank's future strategy. The approved price is an important reference point, but the bank's longer-term valuation will also depend on earnings, asset quality, growth and the way the new controlling shareholder approaches the business.
+
+For now, the market reaction highlights the difference between a successful stake sale and a deal that meets shareholders' valuation expectations. Fairfax's entry marks progress in the long-delayed transaction, but the Rs 81-per-share price has raised questions about whether the deal offers the premium investors had anticipated.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+---
+
+### Sebi Mulls Major Overhaul Of SME IPO Framework, Lowers Minimum Application Size
+*Mohammad Haris · business*
+
+The Securities and Exchange Board of India (Sebi) has also proposed abolishing the compulsory market-making requirement for SME-listed companies.
+
+[Read full article](https://www.news18.com/business/ipo/sebi-mulls-major-overhaul-of-sme-ipo-framework-lowers-minimum-application-size-2-10382631.html)
+
+---
+
+### IMF stands ready to support Sri Lanka as economy improves, debt restructuring nears completion
+*Reuters · business*
+
+Bangkok: The International Monetary Fund stood ready to support Sri Lanka "in any way they desired, as appropriate," Sonali Jain-Chandra, deputy director of its Asia and Pacific Department, said on Thursday.
+
+\* Sri Lanka's macroeconomic situation is "much improved," with its fiscal performance very strong and debt restructuring largely complete, Jain-Chandra said in a press conference during the IMF meetings in Bangkok
+
+  
+
+\* She also said important improvements were made on structural issues, including governance
+
+\* Earlier this month, the IMF reached a staff-level agreement with Sri Lanka on the seventh review under its Extended Fund Facility to unlock financing of about $345 million
+
+\* Upon completion of the review, Sri Lanka will have access to the IMF's special drawing rights equivalent to about $345 million
+
+\* Jain-Chandra said the agreement will be considered by the IMF's board in the coming weeks and will be followed by another review mission to take place before the programme expires in March
+
+\* Beyond the agreement, the IMF will continue to engage with Sri Lanka's authorities, including support through a new financial arrangement and policy advice in the form of surveillance or capacity development, Jain-Chandra said
+
+---
+
+### Why NITI Aayog wants stricter power, water checks before approving data centres
+*Soumyarendra Barik · legal*
+
+NITI Aayog proposes linking data centre incentives to power and water availability, environmental safeguards and measurable economic benefits. The framework calls for grid readiness checks and stricter resource-efficiency standards as India expands AI infrastructure.
+
+[Read full article](https://indianexpress.com/article/explained/india-data-centre-policy-power-water-rules-10922451/)
+
+---
+
+### Meet Uday Ruddaraju, Hyderabad grad picked to lead OpenAI data centres
+*Divya Bhati · general*
+
+OpenAI has appointed Uday Ruddarraju to lead its data centre and computing infrastructure operations as Sachin Katti prepares to step down from the role over the next few weeks. Ruddarraju, who joined OpenAI in 2025, will now oversee the computing capacity and infrastructure that OpenAI needs to develop and run its artificial intelligence models. Katti will remain with OpenAI as an adviser.
+
+While Uday Ruddarraju will now lead the data centre and computing operations at OpenAI, one of Silicon Valley’s leading AI companies, his journey to the role began in Hyderabad, India. An engineering graduate from Chaitanya Bharathi Institute of Technology (CBIT), he built his career across eBay and Robinhood before joining Elon Musk’s xAI in 2024. Now, he will oversee the computing infrastructure that powers OpenAI’s AI ambitions.
+
+### From Hyderabad to Silicon Valley
+
+Ruddarraju’s journey began with a computer science degree from Hyderabad’s Chaitanya Bharathi Institute of Technology (CBIT). After graduating, he completed a few internships, including one as a software engineering intern at Amazon, before moving to the US for a master’s degree in computer science at the University of Minnesota.
+
+His first full-time role came in 2013, when he joined eBay as a software engineer working on cloud infrastructure. Over the next five years, he worked his way up to become a senior member of technical staff and technical lead for cloud and platforms. The role gave him experience in building and managing the cloud systems behind one of the world’s largest e-commerce platforms.
+
+In 2018, Ruddarraju moved to Robinhood as a staff software engineer. He spent nearly six years at the financial technology company, rising to become senior director of engineering and head of infrastructure. During this time, he led infrastructure teams as Robinhood expanded and its user base grew.
+
+### Building computing systems for AI
+
+In 2024, Ruddarraju joined Elon Musk’s xAI as head of infrastructure engineering, where he worked on building the large-scale computing systems needed to train AI models, including those powering the Grok chatbot. He joined OpenAI in July 2025 as head of compute and infrastructure and was promoted to chief technology officer for compute in July 2026.
+
+Now, with Sachin Katti preparing to step down, Ruddarraju will take charge of OpenAI’s infrastructure and compute businesses, overseeing the company’s efforts to expand its data centre capacity and secure the computing power needed to develop and run advanced AI models.
+
+Katti, who joined OpenAI from Intel in November 2025, oversaw several major infrastructure projects, including an 8-gigawatt project in Ohio involving SB Energy and Nvidia. He also worked on a data centre in Georgia that became the first to be designed and led by OpenAI. Katti will move into an advisory role, while OpenAI’s GPT-Infra initiative, which uses its AI models to help develop semiconductors and infrastructure, will come under chip chief Richard Ho.
+
+### What will Uday Ruddarraju do at OpenAI?
+
+Meanwhile, Ruddarraju will now report to OpenAI president Greg Brockman and oversee data centre projects, infrastructure engineering and relationships with the company’s commercial partners. The role also makes him one of the key figures to hold responsibility for the business side of OpenAI’s expanding infrastructure operations.
+
+Speaking about the leadership transition, Ruddarraju told Bloomberg that he expects the handover to be smooth, as he has already worked with the infrastructure team’s engineering, construction and technical groups. He has also worked with executives at OpenAI’s partners, including Nvidia CEO Jensen Huang.
+
+“Sachin has done an incredible job maintaining the commercial partnerships,” Ruddarraju said, adding that he would now need to spend more time on the commercial side.
+
+The big leadership shift comes as OpenAI scales up the physical infrastructure required to support its AI ambitions. With Ruddarraju taking charge, his focus will be on expanding computing capacity, overseeing infrastructure projects and maintaining partnerships that help the company build and operate its data centres.
+
+\- Ends
+
+---
+
+### US military weighs use of 'mother of all bombs' in potential future strikes on Iran, CNN says
+*Reuters · business*
+
+The US military has developed strike plans that could include using the GBU-43/B Massive Ordnance Air Blast Bomb, also known as the "mother of all bombs", against Iranian energy infrastructure and nuclear sites if President Donald Trump orders renewed combat operations, CNN reported on Thursday citing US officials familiar with the matter.
+
+The potential deployment of the largest non-nuclear bomb in the US arsenal would mark a significant escalation in the conflict, although officials familiar with military planning discussions told CNN questions remain over its effectiveness in achieving Washington's strategic objectives.
+
+Reuters could not immediately verify the report.
+
+---
+
+### ‘Stop protecting the VIP’: Ankita Bhandari's parents detained after overnight protest over governor appointment
+*Subodh Ghildiyal · general*
+
+Congress backs parents as Delhi Police break up overnight dharna
+
+After an overnight vigil at India Gate, a pre-dawn swoop by Delhi Police brought the dharna for “Justice to Ankita Bhandari” to an end. The cops arrived at the protest site at 4 am and took away the wailing parents of Ankita Bhandari, victim of rape and murder in Uttarakhand in 2022.Rahul Gandhi, Priyanka Gandhi Vadra and, later, AICC general secretary KC Venugopal visited the protest site on Wednesday evening to express solidarity with the parents. After they left, scores of Congress MPs, MLAs and workers of the Youth Congress and NSUI, among others, joined the dharna. Uttarakhand MLA and Congress office-bearer Qazi Nizamuddin, MPs Pawan Khera, Jothi Mani and Imran Pratapgarhi, Congress spokespersons Supriya Shrinate, Gurdeep Sappal and Ragini Nayak, Youth Congress president Uday Bhanu Chib, NSUI president Vinod Jakhar and Mahila Congress president Alka Lamba, among others, joined the vigil, which continued until early morning before being disrupted by the cops.Videos of the police action went viral, with Chib, Jakhar and others even trying to intercept the bus carrying the detainees.Ankita’s parents arrived from Uttarakhand on Wednesday evening and sat on a dharna along with activist Yogita Bhayana, holding a placard that read, “Stop protecting the VIP”. The continuing controversy over Ankita’s murder received a fresh lease of life with the appointment of BJP leader Dushyant Gautam as governor.
+
+The controversy revolves around the “VIP” who had allegedly sought “special service” at the infamous resort then owned by the son of a BJP leader. Ankita resisted the pressure. Her body was found in a canal in 2022, leading to a murder case.In a social media post, the Congress said there were allegations that Gautam was the “VIP” in question. “Narendra Modi has rewarded Gautam with the governorship of Sikkim. The girls and women of the country are watching how Modi and his govt are protecting Gautam.
+
+Instead of giving them justice, the entire BJP govt is hellbent on suppressing the voice of Ankita’s parents,” it said.Ankita’s father urged the President of India to put Gautam’s appointment as governor on hold until the CBI inquiry into the issue is completed.Ankita’s parents were taken by the cops to Tilak Marg police station, where they were swiftly joined by Congress leaders protesting the police action against the parents, who were seeking justice for their deceased daughter.
+
+---
+
+### 101-year-old man drinks Coke, Sprite, still has a sharp memory of his youth days; he follows an unusual morning routine after waking up early
+*Unknown · business*
+
+A 101-year-old man in China has attracted attention for a lifestyle that does not fit neatly into the usual conversation around healthy ageing. Lu Shizeng, a great-grandfather from China's Zhejiang province, enjoys Coca-Cola and Sprite, has a particular fondness for fresh seafood and begins his mornings long before many people are awake.
+
+But waking up at 4 am does not mean Lu immediately starts his day. He spends another two hours stretching and relaxing in bed before finally getting up at around 6 am. His routine, along with his food preferences and reported good health, has prompted curiosity.
+
+According to a report by the _South China Morning Post_ (SCMP), Lu’s fondness for fizzy drinks has become one of the most talked-about aspects of his life at 101.
+
+  
+  
+
+## Lu at 101
+
+Lu lives in eastern China’s Zhejiang province and has gone viral for his reported habit of drinking large amounts of Coca-Cola and Sprite. His lifestyle stands out at a time when many people are turning towards low-sugar diets and other health-conscious routines.
+
+Rather than giving up his favourite drinks, Lu continues to enjoy them. He particularly likes chilled Sprite with a few drops of white wine added to it, according to SCMP’s report.
+
+His food choices are not limited to soft drinks. Fresh seafood is another regular feature of his diet, and he makes a trip to the local market every five days to buy ingredients for his meals.
+
+  
+
+## What does his daily routine look like?
+
+Lu follows a fairly consistent schedule. He finishes dinner at around 5 pm and usually goes to sleep at approximately 8 pm. He wakes up at about 4 am the following morning.
+
+He spends the next two hours stretching leisurely and loosening up before getting up at around 6 am. He also takes a nap around noon.
+
+## What does he eat?
+
+Lu’s appetite extends well beyond his favourite fizzy drinks. He enjoys seafood, including fish, shrimp and crabs, and also buys pork and vegetables during his regular market trips.
+
+According to SCMP, the nanny who cares for him says he has a “fantastic appetite”. He can reportedly finish half a bowl of rice and an entire plate of crabs in a single meal.
+
+Lu also enjoys sweet fruits such as watermelon, pears and mandarins. His preference for fresh food is reflected in his shopping routine, with regular trips to the local market forming part of his life.
+
+Until last year, Lu made those journeys on his own tricycle. Following a fall, however, his family stopped him from riding it, and he now travels to the market by rickshaw.
+
+## What did Lu say about his health?
+
+Lu is confident about his physical condition. He says he rarely catches a cold and has relatively low blood pressure. He also takes pride in being able to remember details from his younger years.
+
+Speaking about his condition after a fall, Lu said, “Some elderly people may have a stroke after a fall, but I’m totally fine. I can also remember things from my youth quite well.”
+
+His comments offer a glimpse of how he views his own health, although his experience cannot establish that drinking sugary soft drinks or following a particular routine helps people live longer.
+
+His two sons have arranged for a nanny to help care for him. One son lives in Beijing, while the other runs a nearby factory.
+
+## How much does he receive as an old-age allowance?
+
+Lu also receives a monthly allowance linked to his age. In Zhejiang province, people aged 100 and above receive 800 yuan a month, while those aged between 90 and 99 receive 100 yuan.
+
+The difference means centenarians receive eight times the monthly amount paid to people in the 90-to-99 age group.
+
+## Why has his lifestyle drawn attention?
+
+Lu’s story has prompted online discussion because his favourite drinks run counter to the health advice many people associate with ageing well. Coca-Cola and Sprite are sugary soft drinks, and his reported preference for chilled Sprite mixed with a few drops of white wine has added to the curiosity surrounding his diet.
+
+His routine offers another point of interest. He eats dinner early, goes to sleep at around 8 pm, wakes at 4 am and spends two hours stretching before getting up. He also takes a midday nap and continues to enjoy the food he likes.
+
+However, reaching 101 while following these habits does not prove that the drinks or routine are responsible for his longevity. Individual experiences cannot establish a general health rule, and Lu’s story should not be read as evidence that sugary drinks promote a longer life.
+
+For now, his reported habits have made him an unusual subject of online interest, from his preference for Coke and Sprite to his leisurely mornings and appetite for seafood.
+
+---
+
+### World Students’ Day: Remembering APJ Abdul Kalam on his 95th birth anniversary
+*Education Desk · legal*
+
+From a boy helping to deliver newspapers in the lanes of Rameswaram to a scientist who helped shape India’s space and missile programmes, and eventually the country’s President, Kalam's journey remains an inspiration for many.
+
+[Read full article](https://indianexpress.com/article/education/world-students-day-remembering-apj-abdul-kalam-on-his-95th-birth-anniversary-10920983/)
+
+
+---
+
 ## 14 October 2026
 
 ### Over half of Amaha clients live with mental health concerns for a year before seeking help; 56% report self-harm thoughts
