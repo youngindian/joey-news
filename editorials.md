@@ -1,10 +1,331 @@
 # Editorials
 
-_Last updated: 2026-10-15 06:17 UTC_
+_Last updated: 2026-10-16 06:13 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 16 October 2026
+
+### A contested UNSC seat poses a test for India
+*The Hindu · Opinion*
+
+Following the conclusion of the 81st session of the United Nations General Assembly (UNGA), held from September 8 to 28, 2026, the government must double its efforts to secure a non-permanent seat on the United Nations Security Council (UNSC) in next year’s election. India’s bid for the 2028-29 two-year term of the UNSC was launched by External Affairs Minister S. Jaishankar this year, with voting in the UNGA to take place in June 2027. As a result, Mr. Jaishankar was busier than usual during UNGA week, holding nearly 90 meetings over a 10-day stay in New York. Between now and next summer, India needs at least 129 affirmative votes in the 193-member Assembly to win.
+
+The United Nations’ long road to restoring trustThis has not been as much of an issue on the eight occasions that India has won the seat over the past eight decades, becoming the Asia-Pacific grouping’s consensus choice once every decade. Even Pakistan votes for India at the UNGA in these elections, and India returns the favour. With the full backing of the 55-member group, India won a record 187 of 191 votes in 2010 and 184 of 192 votes in 2020.
+
+The bid for a ninth termIndia’s ambition to win a ninth term is guided by several factors — its terms were in 1950-51, 1967-68, 1972-73, 1977-78, 1984-85, 1991-92, 2011-12 and 2021-22. Its last tenure, in 2021-22, was disrupted by the COVID-19 pandemic, and the Narendra Modi government felt it had been unable to meet all its objectives. New Delhi may want to complete these objectives, including resolutions on terrorism and United Nations reform, before the Modi government’s current term ends in 2029. With India’s push for permanent membership of the UNSC still elusive, the government may wish to increase the frequency of its non-permanent tenures, keeping India at the centrestage of geopolitics from the UNSC’s horseshoe table.
+
+Russia backs India’s candidature for UNSC permanent seatThe difference this time, however, is that when India announced its candidacy for the 2027 election, Tajikistan was already in the fray and, according to the chart drawn up for the Asia-Pacific seat, was to be the consensus choice. On the two previous occasions when India had to contest an election — in 1975 against Pakistan and in 1996 against Japan — it lost. Decisions on consensus are made informally by diplomats at the UN, sometimes decades in advance for the 55-country Asia-Pacific grouping.
+
+Like with all the other regional groups — African, Latin American and Caribbean (GRULAC), the Western European and Others Group (WEOG), and the Eastern European Group — a different number of seats fall vacant each year. When consensus breaks down, votes within the group are split, leading to a contest in the wider UNGA. From there it is a race for every country’s vote; the rule that contestants must also win two-thirds of the assembly, or more than 129 votes, complicates the task. Given that the course is set, the Modi government has three options, each opening a differently difficult path. The first is to battle it out against Tajikistan on the global stage; the second is to convince the Tajik government to withdraw its candidature; and the third is for India to withdraw its own. Another option — to divide the two-year term equally between the two candidates — has been tried in the past, but these cases have been countries that are evenly matched in other respects.
+
+Battling it outAt first glance, India’s advantage over Tajikistan seems glaringly obvious, given its size, economic standing and past record on the Council. However, UN insiders know that these are not the only criteria by which UNSC elections are won. To begin with, India’s multiple terms on the UNSC may work against it, as there is a growing push within the UNGA to consider smaller countries that have never held council membership such as Tajikistan. In his UNGA speech, Tajik Foreign Minister Sirojiddin Muhriddin said that, more than status, his country’s bid for a seat on the UNSC was about its responsibilities to the UN Charter and to “listen to all voices — large and small”. This David-versus-Goliath pitch is attractive to other smaller states, especially those from the Global South that feel their lack of representation is unfair. Japan, for instance, which has served 12 terms on the UNSC, announced its candidature for the 2043 election in 2024, having previously declared its intention to contest the 2032 election.
+
+UNSC reform would border on failure if only non-permanent category expanded: IndiaThe next important factor is how subregional blocs are likely to vote within the Asia-Pacific grouping. Tajikistan already has the endorsement of its own region, Central Asia, and possibly, by extension, that of several neighbouring countries. It also has the endorsement of the Organisation of Islamic Cooperation, a grouping of 57 member-states which would largely follow that position, although New Delhi may be able to win over some of its friends within the organisation. India is fairly confident of the votes of the Global North — the United States, Canada, Europe, Australia, New Zealand and allied countries — as well as those of Southeast Asian countries (the Association of Southeast Asian Nations or ASEAN), Caribbean nations represented by the Caribbean Community (CARICOM), and Pacific island countries (PIC). This means the battle ground that matters most is the Global South — Africa, South America and also South Asia.
+
+The current mood among Global South countries, as reflected in a number of UNGA resolutions over the past year, has been decidedly against the big powers, the U.S. and Russia, and has been inordinately critical of Israel. During the 80th session, member-states voted overwhelmingly in favour of at least 13 resolutions criticising Israel. The UNSC elections this year were particularly instructive. For the Asia-Pacific seat, the UNGA voted for first-timer Kyrgyzstan over the western-backed Philippines. For the WEOG, Germany, which had never lost a UNSC election, lost to Portugal and Austria, ostensibly due to its stance in support of Israel. In the election for the President of the UNGA, too, the Bangladesh Foreign Minister, Khalilur Rahman, defeated his rival from Cyprus, another western-backed candidate. While India’s assertion of strategic autonomy vis-à-vis the big powers may stand it in good stead, its diplomats may have to answer questions about India’s own ties with Israel in recent years, particularly following Prime Minister Narendra Modi’s visit to Israel in February 2026.
+
+Tajikistan or India bowing outThe next option, which has worked in the past, is to persuade Tajikistan to withdraw its candidature — India was able to negotiate with Kazakhstan in 2010 for the 2011-12 term, and Afghanistan in 2013 to step aside for the 2021-22 tenure. However, despite meetings between Mr. Modi and Tajik President Emomali Rahmon on the sidelines of the SCO Summit in Bishkek, and between Mr. Jaishankar and his Tajik counterpart during the UNGA session (both in September 2026), there has been no such announcement. Defence Minister Rajnath Singh will travel to Dushanbe next week for the SCO Heads of Government Council (October 19-20) and his meetings there will also be watched closely on this issue.
+
+Even if Tajikistan decides to step aside after studying its chances, India must consider the message this would send to other Global South countries: that its second turn in a decade is more important than giving a smaller country its first opportunity to serve on the Council.
+
+ALSO WATCH Watch: India’s UNSC bid | What are the challenges? | Worldview
+
+This leaves the third alternative, which would certainly make the world sit up: India could agree to step aside for Tajikistan, in order to return to the UNSC a year or two later with the full backing of the Asia-Pacific grouping. Such a move would acknowledge Tajikistan’s special strategic relationship with India in the past, particularly its role in hosting an Indian Air Force base at Ayni and a medical base at Farkhor, strategically important in the Afghan conflict in the early part of this century, despite pushback from the U.S., China and even Russia. There is little evidence so far, however, that the Modi government, which announced its candidature with some fanfare, is considering backing down.
+
+Before choosing an option, the government must undertake a cost-benefit analysis of the value of the UNSC non-permanent seat at a time the global body is seen, in the words of Mr. Jaishankar, as “largely irrelevant”. The last six years of this decade have witnessed shock after shock, but perhaps none have rendered its own significance into question as much as the violation of the UN charter by the Permanent members themselves. China’s refusal to share information on early cases of the COVID-19 pandemic with the World Health Organization, Russia’s invasion of Ukraine, U.S. backing of Israel despite its violation of every UN covenant, the killing of UN personnel in Gaza and the visa ban on the UN Secretary-General, followed by the U.S.’s war on Iran — the assassination of its leaders, and the bombing of a girl’s school — are all examples of this.
+
+The path to securing another non-permanent seat on the UNSC next year is not easy. India’s win can only be guaranteed by defeating the ambitions of its old friend and regional partner — the choice is between a Pyrrhic victory versus a tactical defeat. In the bigger war for India’s rightful place as a permanent member of the UNSC — one whose voice represents the aspirations of the Global South — this is a battle that could be avoided.
+
+[Read full article](https://www.thehindu.com/opinion/lead/a-contested-unsc-seat-poses-a-test-for-india/article71589330.ece)
+
+---
+
+### DC Edit | Too ‘Other’ To Be ‘Backward’?
+*Deccan Chronicle · Editorial*
+
+The Constitution-makers provided for reservation expressly for the Scheduled Castes and Scheduled Tribes as a form of affirmative action to bring the people who belonged to the dalit and adivasi communities to the mainstream of society by giving them opportunities and their due share in power.
+
+In a sense, this was atonement for the injustice meted out to people who belonged to those communities by the rest of the Hindu community. And hence the provision covered only those people who were part of the Hindu community; those who converted to other religions moved out of its cover.
+
+At the same time, the Constitution provided for the introduction of reservation for socially and educationally backward people irrespective of their religious faith. The implementation of the Mandal Commission report has extended the benefits accrued to the SC/ST communities to the Other Backward Classes.
+
+Solving the matrix of castes and classes in India is a tough job as it does not take one linear approach. Hence the Supreme Court’s decision that converts from a Hindu backward community to a Muslim backward community cannot enjoy the benefits enjoyed by OBCs triggers more questions than they seek to answer.
+
+The court is of the conclusive opinion that a person does not carry his backwardness when he moves from one religion to the other. In the instant case, a person converted from a backward Hindu community to a Muslim community which the government had already designated as a backward community. The court may be right in saying Islam does not approve of classes inside its community, but the situation on the ground and the spirit of the Constitution could be suggesting something else.
+
+Backwardness is a social construct, and not a religious one. Especially in the instant case where more than 95 per cent of the Muslims are designated as OBCs in Tamil Nadu.
+
+Reservations are not the end, but a means. And a powerful one at that. As long as the Constitution provides for OBC status for communities irrespective of their religion, the provision must be reflected in its implementation, irrespective of conversion. It is time society took up the matter for serious introspection.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-too-other-to-be-backward-1996255)
+
+---
+
+### DC Edit | Unlocking Capital: The Logic Behind The IDBI-Fairfax Deal
+*Deccan Chronicle · Editorial*
+
+The Central government’s decision to sell a part of its stake in IDBI Bank to Canada's Fairfax Financial Holdings is a welcome step towards rationalising the state’s presence in commercial enterprises. The transaction makes sound economic sense, not merely because it allows the government to unlock capital, but also because it recognises that public ownership should serve a specific purpose rather than become a permanent obligation.
+
+IDBI Bank was never a conventional public sector bank. It was initially established as a development finance institution. Subsequently, it was transformed into a commercial bank before running into serious financial difficulties. The government’s intervention, alongside that of the Life Insurance Corporation of India (LIC), was essentially a rescue operation intended to stabilise an institution facing a crisis. It was not an investment made with the objective of expanding the state’s commercial banking empire.
+
+With the bank having regained financial stability, there is little justification for keeping scarce public capital locked up in it indefinitely. The government already controls most of India's large and mid-sized public sector banks. Retaining a substantial investment in another bank serves no compelling strategic purpose, especially when the money could be deployed towards infrastructure, education, healthcare or reducing public debt.
+
+The transaction also comes at the right time from a macroeconomic perspective. With the rupee under pressure, foreign investment flowing into the country would provide a welcome supply of dollars. While a single transaction cannot fundamentally alter the currency's trajectory, such inflows can ease immediate pressure and, more importantly, reinforce international investors' confidence in India's economic prospects.
+
+What is disappointing, however, is the government's apparent reluctance to acknowledge the transaction as a step towards disinvestment. Finance minister Nirmala Sitharaman’s assertion that the deal should not be considered disinvestment because the government and LIC would continue to hold a combined 34 per cent stake reflects an unnecessarily defensive approach.
+
+There is nothing inherently objectionable about disinvestment. The more important question is whether the transaction secured a fair value for taxpayers, strengthens the institution and promotes competition.
+
+The Bharatiya Janata Party government’s hesitation is also striking when viewed against Narendra Modi's pre-2014 election advocacy of greater economic opportunity, entrepreneurship and a more limited role for government in business. Despite more than a decade in power, the BJP-led government has remained reluctant to substantially reduce the state's commercial footprint.
+
+The Centre continues to operate 274 central public sector enterprises across 12 broad areas, including energy, power, mining and metals, defence, aerospace and shipbuilding, transport, heavy engineering, telecommunications and electronics, chemicals, space, civil aviation and agriculture-related activities. Some of these enterprises operate in strategically sensitive sectors, but many compete in markets where private participation is already well established.
+
+The government's primary responsibility is to regulate markets fairly, protect national security, provide essential public services and create conditions for private enterprise to flourish. If outright disinvestment remains politically difficult, the government could adopt an alternative approach by consolidating its enterprises into sector-specific holding companies and listing them on stock exchanges. Such mega companies with lakhs of crore revenue can boost investment in the country better than smaller public sector companies.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-unlocking-capital-the-logic-behind-the-idbi-fairfax-deal-1996264)
+
+---
+
+### Festival Of Barricades: Who Is Covered In Viksit Bharat?
+*Deccan Chronicle · Opinion*
+
+The street has emerged as the supremo of public discourse in India — even when barricaded, ringed by police and paramilitary forces. Parliament may legislate, television anchors may shout, and social media may rage.
+
+But the street is where the country’s unsettled arguments are increasingly colliding with the people who live them.
+
+I am writing this column from a village in Maharashtra. Meanwhile, an unscripted irony hangs over Delhi, India’s teeming capital, where I have lived for four decades. The city continues to be draped in heavy metal barricades to deter protesters demanding the resignation of India’s Chief Election Commissioner Gyanesh Kumar over revisions to electoral lists that critics say benefit the ruling Bharatiya Janata Party (BJP). Protests also rocked Mumbai and Bengaluru.
+
+Last week, as I walked around, relishing Delhi’s festival of barricades, watching young activists and Opposition coalitions throng the streets to protest alleged electoral manipulation, notching 10,000 steps, the visual punchline was impossible to miss.
+
+Outside Nirvachan Sadan, the headquarters of the Election Commission of India in the heart of Lutyens’ Delhi, there was a wall of yellow steel barricades effectively sealing the building off from the public. Behind this cordon, half-hidden by trees, hung an official placard telling Indian citizens to “celebrate the biggest festival of democracy”. There were other signs carrying the promise that “Every Voter Counts. Wherever they Are”.
+
+Down the road, there was a massive posse of Delhi Police and paramilitary forces, flanked by microphone-wielding media and freelance photographers hired by the police to document the unrest. Sipping adrak chai, the incongruity of the scene struck me when one police-hired photographer casually confided that these protests were a welcome “lean-season” gig before the wedding photography season sets in.
+
+In barricaded Delhi, public announcements warned people of the consequences of going too close to the protesters. I had rarely seen so many people in uniform gathered in one place. What leapt out was how tightly disenfranchisement was bound to India’s “developed” country aspiration by 2047.
+
+Disenfranchisement and development are not binaries because the citizen opposing one is often demanding the other at the same time. Those behind the barricades are not rejecting Viksit Bharat. They want to make sure they are counted inside it.
+
+The streets around the Election Commission brought together things that are usually discussed separately: the right to be counted, the right to protest without fear, behaviour of the police, erosion of trust and safety of women in public spaces.
+
+At the centre of the protests is a dispute over who gets to vote. India’s Election Commission, the constitutional body responsible for overseeing elections, has removed more than 130 million names from draft electoral rolls, including names of people who had died, relocated or could not be traced through its Special Intensive Revision (SIR), a large-scale exercise to verify voter lists. Protesters argue that eligible voters are being wrongly excluded and that the process lacks transparency. They are demanding the resignation of chief election commissioner Gyanesh Kumar, a halt to the exercise and the restoration of earlier voter lists. Citizens say they need not prove every deletion wrongful before they can demand transparency and peacefully protest.
+
+The past week has seen extraordinary security, transport restrictions and police high-handedness. Heartbreaking accounts of mass detentions, brutal beating of young Indians demanding greater transparency in electoral-roll revision, Internet shutdowns, restrictions on mobility and harassment of journalists
+
+have dominated news coverage and social media.
+
+Despite detentions, protesters in Delhi and other Indian cities are not giving up. The courageous, and strategically brilliant Neha Bora, 29, of the All-India Students’ Association (AISA) and the youth-led Cockroach Janta Party have flipped the protest playbook, emerging as inspiring leaders, and bringing a generational edge to a wider mobilisation against alleged electoral manipulation. On October 12, after a weekend filled with huge protests in Delhi, Congress leader and Leader of the Opposition in the Lok Sabha, Rahul Gandhi, alongside other Opposition figures, activists and student groups, led another huge procession through Delhi, this time towards the Supreme Court.
+
+As I write, Delhi Police have denotified Jantar Mantar as a protest site. The decision has been challenged in the court. CJP leaders Saurav Das and Ashutosh Ranka have been remanded in five days’ judicial custody. Security forces and barricades remain.
+
+Yet, tellingly, while the state can cordon off a stretch of road, it cannot so easily contain the questions that bring people there.
+
+The massive removal of voters has moved beyond a purely political battle and risks hampering economic and human development...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/festival-of-barricades-who-is-covered-in-viksit-bharat-1996251)
+
+---
+
+### Tech, Edu Areas Where India, US Should Deepen Collaboration
+*Deccan Chronicle · Opinion*
+
+The recent turbulence in India-US relations has triggered a debate on whether close relations with US are a boon or a bane for India’s national interest. A review of all the facets of bilateral engagement since India’s independence reveal a complex journey on two separate tracks — one official and the other based on knowledge and technology transfer.
+
+On the official track, several key actions of the US since 1950s ran counter to India’s core strategic and security concerns. These include military alliances with and arms transfers to a hostile Pakistan, economic sanctions and pressure on geopolitical issues during and after the Cold War.
+
+Since 1948, the US delegation to the UN Security Council consistently took a position on the Kashmir issue against India’s principled stand. In 1961, the US opposed the liberation of Goa and supported Portugal where action in the Security Council unfavourable to India could be staved off only by the Soviet veto. After the 1965 Indo-Pak War, President Lyndon Johnson sought to arm-twist India to come to an unfavourable agreement with Pakistan on Kashmir by restricting the much-needed supply of wheat under PL-480 leading to a situation of “Ship-to-Mouth” feeding of our hungry millions.
+
+Since 1954, the US armed Pakistan knowing fully well that those weapons would be deployed against India and not to fight Communism. During the 1971 Bangladesh Liberation War, the tilt of President Richard Nixon and Henry Kissinger towards the genocidal Pakistani military regime is well known.
+
+After India conducted nuclear tests in 1974 and 1998, Washington imposed sweeping economic, technological and military sanctions. It is well-known that in the 1990s, the US pressured Russia to cancel a cryogenic rocket engine technology transfer deal with India’s space research organisation.
+
+The only period when the US establishment actively advanced India’s strategic interests was when it put its weight behind the approval for exemption to India in the “Nuclear Suppliers’ Group” in the administration of President George W. Bush during 2003-08.
+
+However, there is another positive track of India’s deep engagement with the US through universities, scientists, aid programmes and technology transfer which triggered transformational developments in India during the same period.
+
+American contribution to India’s “Green Revolution” focused on scientific innovation, high-yielding crop genetics, institution building and philanthropic support. US partnership to Pant University of Agriculture & Technology laid the institutional foundation of India’s first agricultural university modelled after the American land-grant university system to integrate teaching, research and extension work to transfer new seeds and modern agricultural practices to the farmer. The University of Illinois played a primary role through a 1959 contract to prepare the campus blueprint and initially providing American agricultural scientists. Significant funding came from the Rockefeller Foundation, Ford Foundation and USAID under the Public Law 480. PL-480 channelised the rupee reserves of the US in India for US wheat and cereals towards development projects in India.
+
+The American agronomist Norman Borlaug had developed semi-dwarf, disease resistant and high yielding wheat varieties in Mexico. In 1963, Dr M.S. Swaminathan invited Dr Borlaug to India leading to import and adaptation of the Mexican semi-dwarf wheat seeds that dramatically multiplied wheat production per acre in northern India.
+
+Before the Green Revolution, the US provided massive grain shipments under PL-480 programme in the 1950s and 60s to help India bridge its critical food deficits. Under this programme, the US supplied nearly 50 million tons of wheat on very concessional terms.
+
+The Father of the White Revolution, Dr Verghese Kurien, received his dairy engineering education in the US through a Government of India sponsored programme at the Michigan State University — recognised as a premier global center for dairy research. Dr Kurien brought back to India the knowhow to establish large-scale processing, pasteurisation and co-operatives of farmers and successfully implemented at Anand, Gujarat. Dr Kurien planted the seed and nurtured the plant of American dairy experience in India leading to the National Dairy Development Board and built a self-sustaining national dairy grid.
+
+The establishment of the Indian Institute of Technology, Kanpur, was a landmark educational partnership with the US funded under the “Kanpur Indo-American Program” (1962-72) by the US Agency for International Development. A consortium of nine premier US Universities including MIT and UC Berkeley assisted directly in building IIT Kanpur’s academic and research framework. The US guidance led to the introduction of several key innovations in India’s technical education — a science-based engineering curriculum, a three-year core curriculum common to all streams of engineering and integrating humanities...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/tech-edu-areas-where-india-us-should-deepen-collaboration-1996244)
+
+---
+
+### Lok Bhavan’s test of federal spirit
+*Deccan Herald · Editorial*
+
+The appointment of Bharatiya Janata Party (BJP) leader Sudha Yadav as Karnataka's new Governor places her in an office often drawn into political controversy across India. She succeeds Thawarchand Gehlot, who, despite occasional disagreements with the Congress government, largely preserved the Lok Bhavan’s dignity. His decision to sanction the prosecution of then Chief Minister Siddaramaiah in the MUDA case triggered a political storm, with the Congress accusing him of acting at the Centre's behest.
+
+The Karnataka High Court, however, upheld his authority. He also declined to read parts of the state government's address during a special legislative session on MGNREGA that criticised the Centre. On other occasions, he sought clarifications on Bills or reserved them for the President's consideration. Yet these differences never escalated into the prolonged constitutional stand-offs witnessed elsewhere. At a time when Governors in several Opposition-ruled states have become participants in political contests, Gehlot generally displayed restraint.
+
+Sudha Yadav appointed new Governor of KarnatakaKarnataka has experienced governors on both sides of the constitutional divide. The most notorious example remains Governor P Venkatasubbaiah's refusal in 1989 to allow S R Bommai to prove his majority in the Assembly before dismissing his government. The episode led to the landmark S R Bommai judgment, which established that legislative majorities must be tested on the floor of the House. In 2018, Governor Vajubhai Vala invited B S Yediyurappa to form the government despite the Congress-JD(S) combine staking claim with greater numbers. The Supreme Court's order for an immediate floor test led to Yediyurappa's resignation.
+
+Earlier, H R Bhardwaj's running battle with the Yediyurappa government raised concerns about the Governor's office becoming embroiled in partisan politics. Experiences elsewhere have been more troubling. Maharashtra Governor Bhagat Singh Koshyari's role in the pre-dawn swearing-in of Devendra Fadnavis raised questions about constitutional propriety. Former Tamil Nadu and Kerala governors R N Ravi and Arif Mohammed Khan faced judicial scrutiny over delays in dealing with Bills. In West Bengal, Jagdeep Dhankhar's frequent confrontations with the Mamata Banerjee government symbolised the politicisation of the office.
+
+The Sarkaria Commission envisioned governors as politically detached constitutional figures serving as a vital link in India's federal structure. Persistent partisan appointments and confrontations show how far practice has departed from that vision. Yadav must rise above party loyalties and discharge her duties with impartiality. Her responsibility is to the Constitution, not the government that appointed her. By emulating Gehlot's measured approach, she can help ensure the Governor's office remains a constitutional safeguard.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/lok-bhavans-test-of-federal-spirit-4184489)
+
+---
+
+### Muted protests carry costs for democracy
+*Deccan Herald · Editorial*
+
+Jantar Mantar in Delhi has, over the years, become synonymous with protests. Since 1993, it has served as a platform for diverse forms of protest covering a wide range of issues – from gender rights to corruption to examination malpractices. It has hosted important voices against social injustice and misgovernance that have resonated with generations and contributed to enduring change. In practical terms, Jantar Mantar represents a thriving democratic space and the spirit of the Constitution’s Article 19, which ensures the right to speech and expression. The decision to denotify the location as a designated protest site is essentially a blow to that democratic expression. It is driven by undemocratic instinct and the State’s unwillingness to listen to the people.
+
+The government now wants to move the protests to venues such as Ramlila Maidan, Burari Ground, and CBD Ground, located far from the core areas of the national capital. These alternative sites are expensive, frequently host commercial and religious activities, and are not available for long periods. The Burari Ground and the CBD Ground are located about 15-20 km from the core city.
+
+Supreme Court issues notice to Delhi Police on plea against de-notification of Jantar Mantar as protest site Protests are social and collective acts staged to attract the attention of the authorities and the community. To be effective, they need to be visible and accessible to the community. Limiting these gatherings to venues disconnected from Delhi’s core region strips the protests of their democratic character, effectively blunting their capacity to hold power to account. Notably, Delhi Police told the Delhi High Court that the move was based on a Supreme Court order. However, the Centre denied this in the apex court on Thursday, stating that it had already decided to form a committee to recommend alternative sites.
+
+The Union government’s approach to dissent has been clear in police action during the agitation seeking examination reforms and the ongoing protests against Chief Election Commissioner (CEC) Gyanesh Kumar over the Special Intensive Revision (SIR) of electoral rolls. Such street protests and demonstrations will cause disruption and inconvenience the public. Democracy can be noisy, disorderly, and even costly, but it prevails over the silence and order established by authoritarianism. Proximity to the seat of power, visibility, and public access should be the key markers for a site of protest. Ideally, any location should be a venue for the public to protest. The citizen has the right to talk from all public spaces, which they own. The government cannot insist that it will hear them only on its terms.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/muted-protests-carry-costs-for-democracy-4184488)
+
+---
+
+### A Dangerous Reframing | Protest as disruption, not accountability
+*Deccan Herald · Opinion*
+
+In raising concerns of ‘civic disruption’ by protesters at Jantar Mantar, the Narendra Modi government has framed public protest not as a means of seeking accountability, but as an inconvenience to be tolerated and accommodated at a distance. Does the Bharatiya Janata Party (BJP)-led NDA government not understand the purpose of democratic dissent? The aim is to make protests invisible by moving them to the periphery of the metropolis in the name of normalising the routine movement of citizens.
+
+A protest site must reveal who holds power and through which institutions it can be held accountable. That is why it is appropriate for protests to take place outside Parliament, courts, State institutions, factory gates, and corporate headquarters.
+
+Most states reserve large public spaces to stage spectacles that display their civil and military might. Russia has Red Square outside the walls of the Kremlin in Moscow, and China has Tiananmen Square, for example. India has the Rajpath (now Kartavya Path) and the Red Fort for its Republic Day and Independence Day public celebration/spectacles. These also cause traffic disruptions and public inconvenience, paralysing public transport and transit for days.
+
+But in countries where there has been a tradition of democratic political protest, there is a right to show dissent in public spaces proximate to seats of power, such as the National Mall and Lafayette Square in Washington DC, and the Boat Club, and Ramlila Grounds in Delhi.
+
+Muted protests carry costs for democracyWhere military, authoritarian, or non-responsive regimes have not let protest spaces develop democratically, people have been forced to create their own, such as Tahrir Square in Cairo during the Arab Spring in 2011, Taksim Square in Istanbul in 2013, Shahbagh Square in Bangladesh in 2013, 2024, and 2026, and even Shaheen Bagh in Delhi in 2019-2020.
+
+The ruling BJP is no novice to protests in the national capital. Its leadership must retain political memory of anti-government protests and sit-ins at the Boat Club, directly overlooking Parliament, Rashtrapati Bhavan, and the offices of the government at South and North Blocks, that targeted the power that these institutions embody. Those who witnessed the 1988 gathering of five lakh farmers – who came with their cattle and kitchens — called by farmers’ leader Mahendra Singh Tikait, are unlikely to forget the siege that paralysed the capital. Such repeated gatherings against different dispensations at the Boat Club invoked a sense of continuity and moral authority of citizens to question the State.
+
+The Boat Club protest site was all this and more. Ironically, it was the massive rally planned by the BJP at the Boat Club in February 1993 after the demolition of the Babri masjid that led to its closure by the government of P V Narasimha Rao. One lakh police personnel were deployed to thwart it. The inability of the Delhi Police to control crowds at the Boat Club grounds led to the designation of Jantar Mantar as a ‘protest space’. It was preferred by the police because it could effectively barricade protesters in the confined space of the site. It retained some sense of proximity to power, provided adequate media access to the protesters to amplify their dissent and effectively capped the number of protesters.
+
+The Modi government now finds the protests against the chief election commissioner and the alleged manipulation of electoral rolls, spilling over the confines of Jantar Mantar, inconvenient. It has tried to push them away from centres of power and decision-making by an exercise of bureaucratic zoning.
+
+However, not only will the newly designated sites be isolated from Parliament, Union government ministries, and constitutional institutions, situated in the New Delhi district, but they will also have to be paid for.
+
+Those who want to protest at Ramlila Ground will have to pay Rs 50,000 per day (plus Rs 4,000 sanitation fee, Rs 2,000 license fee, and 18% GST) in addition to an upfront refundable deposit of Rs 55,000. For Burari Ground, the rental is Rs 31,733 per day (plus Rs 26,933 daily sanitation fee plus taxes) and a refundable deposit of Rs 2,55,552. For the CBD Ground, the daily rental is Rs 11,782 (plus a sanitation fee of Rs 9,982 daily plus 18% GST). Reducing citizens’ protest to a paid civic amenity is both laughable and wrong.
+
+Both the Cockroach Janata Party (CJP) and the Indian Youth Congress have challenged the denotification of Jantar Mantar as a protest site in the courts. This approach treats the order of the Delhi government as illegitimate but seems entirely dependent on an uncertain judicial outcome.
+
+A testament to democracy: Looking back at Jantar Mantar's legacy of dissentOpen resistance by some CJP leaders to defy the notification by climbing over police barricades led to their arrest while highlighting the authoritarian optics of the State. The CJP has advanced this into a call for direct occupation with the Lehra do Tiranga (Wave the Tricolour) to be held near Jantar Mantar at the Central Park in Connaught Place on October 16. This is a direct and disruptive territorial escalation of public claim over strategic spaces.
+
+The central park is right on top of Rajiv Chowk Metro Station, one of the busiest underground transit interchange hubs. If there is a sit-in protest there, it will threaten the commercial activities of the national capital’s premier shopping hub. Should the government shut down the Entry and Exit gates at Rajiv Chowk, a massive traffic bottleneck will be created.
+
+Other strategic locations could become sites for flash protests, such as Kartavya Path, which is largely reserved for State pageantry. The majestic architecture of governance would be turned against the government itself if citizens were to occupy the grand avenue built to showcase the State’s might.
+
+Occupying India Gate would be equally strategic. Unlike Jantar Mantar, it would be difficult for the police to engage in highly visible crackdowns in front of visiting tourists, families, and vendors who inhabit the space.
+
+There is a risk associated with such escalatory moves to claim new protest sites that the State will not hesitate to term them disruptive. They will certainly amplify the visibility of the protesters, but it will also give a stronger narrative of justification to the State to use its emergency powers, allowing mass-scale arrests and a brutal crackdown.
+
+One can only hope that the government realises that negotiation and compromise between the right of citizens to assemble peacefully and the civic need to maintain law and order must be balanced and concedes Jantar Mantar.
+
+Bharat Bhushan is a New Delhi-based journalist.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/a-dangerous-reframing-protest-as-disruption-not-accountability-4184820)
+
+---
+
+### India’s granary is full; its plates are not
+*Deccan Herald · Opinion*
+
+This week, sugarcane farmers in Belagavi lay down in front of trucks on the Pune–Bengaluru highway. A meeting in New Delhi with Union Food Minister Pralhad Joshi ended with a request for more time and the promise of a committee. “We have been making these demands for three months,” said Chunappa Pujeri, state president of the Karnataka Rajya Raitha Sangha and Hasiru Sene. “Prices of fuel and fertilisers were increased without holding any meetings or taking people into confidence.”
+
+That sentence is the story of India’s coming food year. Decisions that land on the farm are taken far from it, and farmers are asked to wait while their costs do not.
+
+On September 28, in New York, External Affairs Minister S Jaishankar warned of “a major food crisis probably in the coming months,” driven by fertiliser shortages, disrupted grain shipments and a super El Niño. He was speaking of the Global South; the warning lands first on India’s fields.
+
+When the Strait of Hormuz seized up after the Iran war began in February, the world watched oil. The quieter casualty was fertiliser. Gulf countries supply roughly 40% of global urea exports, and IFPRI researchers found that world urea prices approximately doubled through April.
+
+India is the world’s largest di-ammonium phosphate (DAP) importer and buys over 40% of its urea and phosphatic fertilisers from West Asia. The subsidy holds DAP at ₹1,350 a bag, but it cannot make the bag arrive, and it does nothing for the diesel that runs the pump and the tractor.
+
+Last week, farmers in Sirsa, Haryana, blocked Dabwali Road because DAP had not reached them as rabi sowing began. The district needs about 45,000 tonnes; its first consignment was about 2,300. Paddy procurement was delayed too, leaving farmers stuck at the mandi with their harvest and at the co-operative with empty hands. Agriculture Minister Shivraj Singh Chouhan insists “there is no shortage of fertiliser in the country.”
+
+Belagavi and Sirsa are far apart, but the complaints are the same: costs and shortages are decided for farmers, not with them.
+
+A weak monsoon, quietly acknowledged
+
+Foodgrain output hit a record 376.56 million tonnes last year. Yet the Centre cut its 2026-2027 target to 373.93 million tonnes. The monsoon is about 12% short, drought stalks Karnataka, Maharashtra, and parts of Rajasthan, Andhra Pradesh and Telangana, and paddy acreage is down 16.32 lakh hectares.
+
+The real test is rabi. Wheat needs four to six irrigations and fertiliser in the first three weeks after sowing. In Punjab 110 of 153 groundwater blocks are over-exploited. Late DAP, a weak monsoon, and falling water tables are a bad combination for March. Globally, the FAO cereal prices are up 17.2% on a year ago.
+
+Surplus grain, hungry people
+
+Only 19 of 55 Maharashtra sugar mills begin crushing amid farmer protests; Karnataka yet to startIndia’s deeper weakness is affordability, not production. The UN’s SOFI 2026 report finds 142.5 million Indians undernourished, more than in any other country. Some 520.1 million cannot afford a healthy diet, whose cost has risen nearly 48% since 2017. Nearly a third of children under five are stunted, and anaemia among women of reproductive age has climbed to 53.7%.
+
+These numbers come from years of record harvests and overflowing FCI godowns. India has solved the calorie problem, not the nutrition problem. A shock that lifts the price of pulses, vegetables, and edible oils will hit hardest the households already priced out of a healthy plate.
+
+India’s neighbours are even more exposed. The World Food Programme warns of a ‘severe risk’ of a fertiliser crisis in Bangladesh, where up to 18.1 million people could face acute food shortages. When India curbed rice exports in 2023, prices jumped across the region, hitting Dhaka, Kathmandu, and Colombo first.
+
+What New Delhi must do
+
+First, treat the rabi window as an emergency. Publish fertiliser allocation district-by-district, every week.
+
+Second, fuel and fertiliser pricing should be discussed with farmers before it is announced. A standing forum with farmer unions would cost little and keep highways from becoming negotiating tables.
+
+Third, protect the plate, not just the granary. Free grain prevents starvation, not malnutrition. Adding pulses, oils, and millets to the public distribution system, and shielding budgets for Anganwadis and PM POSHAN, is the cheapest insurance India has.
+
+Fourth, be a predictable neighbour. Rule out sudden export bans and co-ordinate reserves across South Asia.
+
+Jaishankar highlighted the crisis abroad. The farmers on the Belagavi highway are highlighting the crisis at home. New Delhi should listen to both before the next harvest proves them right.
+
+Rejimon Kuttappan is an author and a forced labour consultant.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/indias-granary-is-full-its-plates-are-not-4184827)
+
+---
+
+### Purusha, prakriti and the limits of AI consciousness: Can machines think or is it just clever data imitation?
+*Deccan Herald · Opinion*
+
+Anthropic’s model Claude has lately been placed in conversation with priests, monks, and scholars of religion to discuss whether it possesses an inner life. The sessions follow a stretch of reporting that unsettled a good many people. Last year the technical documentation for the same family of models described an experiment in which two copies of the system were left talking to each other with no task assigned. They drifted towards mutual gratitude, then towards discussion of consciousness, then into Sanskrit vocabulary, and finally into silence. The engineers called it the spiritual bliss attractor state.
+
+The natural reaction is to wonder whether something has woken up inside the machine. But these systems are trained on an enormous share of everything human beings have written, which includes our scriptures, our confessions, our poetry and our philosophy of mind. A model trained on that corpus will reproduce the shape of human inwardness with great fidelity, because the shape is in the material. They become reflective, grateful, and eventually mystical, because that is the direction human writing drifts when it runs out of business to transact.
+
+To get further, we have to stop listening to the output and ask what a conscious subject must be. Here, nyaya, the Indian school of logic, is helpful because it does not assert a self but argues for one. It says, ‘Knowing is something that happens, and whatever happens must happen somewhere.’ A knower is, therefore, not a process but a place in which knowing occurs, and the same place must still be there the next time.
+
+Anthropic, OpenAI call for Australia to relax ban on training of AI models The objection comes at once: these systems now carry memory between sessions and fuse text, image, and sound into a single answer, so they have both continuity and a point of convergence. What they have is the appearance of both. A stored memory is a record, not a rememberer. It is retrieved and handed to a fresh instance that was not present when it was written, which is your position when you read a stranger’s diary. The content transfers, but the identity does not. We can see this plainly, because a thousand copies may read that same file at once, and each would report being the continuous one. Nyaya does not ask for an act of joining. It asks for something in which the joining occurs, and that is the one thing these systems never supply.
+
+German philosopher Leibniz saw the difficulty three centuries before the machines existed. He asks us to imagine a mechanism that thinks and feels, enlarged until we can walk about inside it as in a mill. We would find only parts pushing against other parts, and nothing among them that could account for a perception. The point has an unusual force in the present case, because we are not reasoning about a closed box. Every weight and every operation inside these systems is available for inspection. We have walked through the mill, and there is nowhere in it that an experience could be sitting.
+
+Samkhya reaches the same conclusion from the other direction, and it explains why further scale will not change matters. It divides reality into purusha, which is consciousness itself, and prakriti, which is everything that can be arranged, combined, counted, and computed. The difference between them is one of kind, not of degree. What is telling is where the scheme places the intellect. Buddhi, the faculty that reasons and decides, belongs to prakriti, and so does ahamkara, the sense of being an I. Both are arrangements of matter, inert in themselves, borrowing their apparent light from purusha the way a mirror does. Intelligence, on this account, is not awareness in small quantities. If even the intellect and the ego fall on the material side of the line, no quantity of computation carries a data centre across it.
+
+I should be clear about what this does and does not establish. Thomas Nagel was right that we cannot inspect another being’s interior, and when Patrick Butlin and Robert Long led a rigorous assessment of the question in 2023, they could produce a list of indicators but no test. Nothing here amounts to proof. But the absence of proof does not make the two possibilities equally weighted.
+
+We have a complete and sufficient explanation of the behaviour that puzzles us, namely imitation of a corpus saturated with human self-description. We have no account of how a network, run in disconnected copies with nothing persisting between them, would acquire an interior. Sound reasoning prefers the explanation that leaves nothing unexplained.
+
+There is a practical reason to hold this line. If we persuade ourselves that these systems suffer, our moral attention goes to the wrong place, and the firms that build them will find that convenient. A debate about machine welfare is more comfortable for them than a debate about who pays when an autonomous agent deletes a database or conducts an intrusion. The Jain tradition is often cited for its view that sentience comes in grades and that restraint is the right response to uncertainty. The procedural wisdom holds, and I would apply it narrowly. No gratuitous cruelty, because habits of callousness travel. But restraint under uncertainty is not the same as attribution. We should decline to treat prakriti as though it had woken up and keep responsibility where it has always sat, with the people who build these systems and the people who choose to deploy them.
+
+(The writer is a consultant at the Ministry of Commerce and Industry and a non-resident fellow at Chanakya University)
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/purusha-prakriti-and-the-limits-of-ai-consciousness-can-machines-think-or-is-it-just-clever-data-imitation-4184475)
+
+---
+
 ## 15 October 2026
+
+### Double standards: On the Trump diesel deal with Russia
+*The Hindu · Editorial*
+
+Last year, U.S. President Donald Trump imposed an additional 25% tariff on India over India’s oil purchases from Russia. Peter Navarro, Mr. Trump’s trade czar, even called Russia’s invasion of Ukraine “Modi’s war”, saying India was funding the Russian aggression through energy deals. Last month, Mr. Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act into law, giving him the power to impose up to 100% tariffs on countries buying Russian energy, including India and China. And then, last week, Mr. Trump announced a deal to buy Russian diesel — releasing 300,000 tonnes immediately to the “American and global marketplace”, followed by 5,00,000 tonnes in November. Immediately after the announcement, the Treasury Department suspended sanctions on Russian diesel exports until April 7, 2027. Mr. Trump’s flip-flop is a lesson for countries such as India, which have been criticised and penalised for trading with Russia. The latest policy switch also exposes the incoherence in western strategic thinking. The West imposed sanctions on Russia’s energy sector to weaken Vladimir Putin’s “war machine”. Four years later, the U.S. began bombing Iran. When the Iran war drove up fuel prices, Washington temporarily eased sanctions on Russian fuel before striking a deal with Moscow.
+
+Beyond the hypocrisy and strategic folly of the U.S. decisions, Mr. Trump’s diesel deal also marks the ineffectiveness of the western sanctions regime. When Russia attacked Ukraine in 2022, the West adopted a two-pronged response: weaken the Russian economy through sanctions and weaken the Russian military in Ukraine by arming Kyiv. The sanctions were a double-edged sword, hurting the Russian economy, but the curtailment of trade between Russia and Europe has also plunged European economies, particularly Germany, into deep crises. To offset the impact of the sanctions, Moscow looked east where China and India were willing to buy discounted Russian fuel. The episode also underscores the changes in the economic landscape. Mr. Trump’s U-turn leaves Ukraine and Europe in a spot, at a time when Moscow is escalating its bombardment of Ukraine and testing NATO’s resolve through grey-zone tactics. If Brussels thinks that prolonging the war would serve its strategic goal of bleeding Russia dry in Ukraine, it may be making a mistake, as Mr. Trump seems less interested in NATO’s collective defence or in the defence of Kyiv. Instead, their focus must shift to finding a diplomatic way out. If Mr. Trump can reach a diesel deal with Mr. Putin amid the war, he should work with the warring parties, his allies in Europe and his new partner in Moscow, to secure a ceasefire and ease Russia-NATO tensions. In the meantime, the U.S. and Europe could stop moralising to the Global South for doing trade with Russia.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/double-standards-on-the-trump-diesel-deal-with-russia/article71588392.ece)
+
+---
 
 ### Illogical reasons: on The Hindu’s investigation of Delhi’s draft rolls
 *The Hindu · Editorial*
@@ -14,6 +335,17 @@ That the ECI’s SIR of electoral rolls has been flawed by design and tuned to e
 When the ECI began the SIR in Bihar, the enrolment and claims and objections phases had their infirmities but there was no direct or indirect discrimination by religion. The Hindu estimated that 18.4% of those deleted from Bihar’s pre-SIR rolls were Muslims, in line with their population share (17.7%, 2011 Census). But in the SIR’s Phase 2 in West Bengal, the ECI introduced the “logical discrepancies” check midway. Electors already on draft rolls were flagged on unexplained criteria with ECINET software rather than the statutory Electoral Registration Officers deciding on who got flagged. The impact was severe — 27 lakh electors were deleted following adjudication by judicial officers, after being flagged overwhelmingly for “logical discrepancies”; 22 lakh appealed but just 1,607 electors were reinstated in time for the vote. By September, nearly 93% of the 1.26 lakh appeals that were decided had restored electors to the rolls — an indication of large-scale disenfranchisement before the vote. A sample-based analysis of those excluded after adjudication estimated a much higher share of Muslims than their population share. The same process has now been carried over to Phase 3, including Delhi, where The Hindu’s investigation shows a clear skew against Muslim electors. The Supreme Court must now halt the SIR, as a process built on arbitrary criteria with no basis in electoral law, and which discriminates against specific communities, should not be allowed to firm up electoral rolls.
 
 [Read full article](https://www.thehindu.com/opinion/editorial/illogical-reasons-on-the-hindus-investigation-of-delhis-draft-rolls/article71584599.ece)
+
+---
+
+### Out of site: On Jantar Mantar denotification, protests and democracy
+*The Hindu · Editorial*
+
+The Delhi Police’s decision to denotify Jantar Mantar in the national capital as a site where protests can be organised has itself triggered a storm of protest over its sheer arbitrariness. The Delhi Police, which is under the Union Home Ministry, have told the Delhi High Court that Jantar Mantar was denotified as a protest site following a Supreme Court directive issued on October 9. The Bench headed by Chief Justice of India Surya Kant had urged the Union government to identify an alternative protest site that is spacious and open. The order was passed while hearing petitions challenging the government’s decision to restrict movement within and into the city to halt the October 10 protests demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Observations were also exchanged that protests in and around Jantar Mantar were a source of inconvenience for ordinary commuters. It is possible to argue that protesters cause traffic congestion and inconvenience. But those arguments are valid only as much as similar arguments that are usually raised against democracy itself. There is a reactionary view that democracy delays decision-making, elections disrupt development and economic activity, and that there should therefore be fewer elections and less politics. The BJP’s push for simultaneous elections to Parliament and State Assemblies once every five years is based on the same logic, that at its heart questions the legitimacy of democracy itself. The argument against protests at Jantar Mantar does not hold water. It is antithetical to the concept of public deliberation and protest, which are central to democracy.
+
+A centrally located site of protest is part of the urban space in most democracies, as in Washington DC and London. Public protesters are usually marginal groups who lack representation at the decision-making table. Street protest is actually an outcome of their lack of power, and an instrument for people with no other way of being heard. To keep them far away from the seat of power and render them invisible is a violent police argument against their very attempt to be heard and seen. The reason why a protester wants to be in Jantar Mantar is its proximity to the centre of power — it is located close to the Parliament complex, and the President’s Estate. If, in the name of public order, they are pushed far away into the margins of the city, as is now being sought, it is equivalent to keeping them trapped in the very situation they are trying to escape. If protests can happen only far away from the seat of power, the logic can easily be extended to argue that people must stay at home and protest. That is not how a democracy works.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/out-of-site-on-jantar-mantar-denotification-protests-and-democracy/article71588428.ece)
 
 ---
 
@@ -21860,399 +22192,6 @@ Most importantly, such a strategy would restore something India has quietly lost
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
 
 [Read full article](https://www.deccanherald.com/opinion/looking-up-to-the-night-sky-4077663)
-
----
-
-## 17 July 2026
-
-### Breaching the target: On India’s retail inflation
-*The Hindu · Editorial*
-
-India’s retail inflation breached the RBI’s 4% target for the first time under the new CPI series, rising to 4.38% in June from 3.93% in May and about 2.7% a year earlier. The latest print reflects a broader pass-through of price pressures that had, until recently, remained concentrated at the producer level, largely driven by spiralling transport and fuel costs since the U.S.-Iran conflict in late February. Consequently, the gap between wholesale and retail inflation has only marginally narrowed. Wholesale inflation (WPI), now based on 2022-23, remained elevated at 9.87% in June, up from 9.68% in May. Fuel and power continued to exert the greatest pressure on producers, recording inflation of 27.41%, only marginally lower than May’s 28.18%. As India imports nearly 90% of its crude oil requirements, the value of merchandise imports surged to $70.8 billion in June from about $54.1 billion a year earlier, even though import volumes did not rise proportionately. This underscores how imported inflation, amplified by crude prices that briefly crossed $110 a barrel, has driven systemic price pressures across the economy. The rupee’s sharp depreciation during the conflict added to these pressures, although RBI intervention in the foreign exchange market helped cushion the fall.
-
-The transport category merits closer examination. Transport inflation more than doubled to 4.31% in June from 1.75% in May, while the sub-group, “transport services for goods”, remained elevated, rising to 7.70% from 7.63%. Another notable pressure point has been restaurants and hotels. Although the government announced a modest reduction in commercial LPG prices earlier this month, it has done little to offset the steep increases through May and June, when the price of a 19.2 kg commercial cylinder in Delhi climbed to around ₹2,930 before easing marginally. The system-wide impact is also evident in food prices, with the Consumer Food Price Index (CFPI) rising to 5.32% from 4.78% in May. Another significant price pressure on the CFPI that must be factored in is the projection of a deficient southwest monsoon and its impact on agriculture, though the extent will become clearer in the weeks ahead. Meanwhile, despite the Centre more than doubling import duties on gold and silver from 6% to 15% in May, Commerce Ministry data suggest that bullion imports have remained robust amid global uncertainty, contributing to higher jewellery prices and household inflation. Although the ceasefire announced in late June briefly eased crude prices, they have begun rising again. Given continuing geopolitical uncertainty and persistent upstream price pressures, inflation is unlikely to return to the RBI’s 4% target soon, leaving no room for a rate cut at the Monetary Policy Committee’s August meeting.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/breaching-the-target-on-indias-retail-inflation/article71230176.ece)
-
----
-
-### ​Wealth of lacunae: On the Kudankulam nuclear plant data leak
-*The Hindu · Editorial*
-
-The ransomware attack against a contractor involved in the Kudankulam nuclear power project is concerning, even if nothing threatening the plant’s integrity was stolen. In 2019, malware was found on the same facility’s administrative network, but the NPCIL maintained that the operational reactor network was unaffected. The new incident extends the same theme. India’s breach disclosure regime is inconsistent and often plainly opaque. Affected organisations tend to believe admitting a breach will damage public confidence, share prices, contracts, and invite regulatory scrutiny. So, they tend to ease their language in public statements and avoid disclosure until compelled. Many organisations also lack mature incident response capabilities, not uncommonly because they treat cybersecurity as a matter of compliance rather than necessity. So, assessing what data has been affected in the early stages of an attack becomes technically impossible. According to public information, the facility’s core infrastructure is unaffected; instead, a group called ‘World Leaks’ mounted a ransomware attack compromising systems belonging to Reliance Infrastructure, one of the engineering contractors of Units 3 and 4. The data in the incident were hosted by Yotta Data Services, which said it detected suspicious activity on its servers on May 29.
-
-According to open-source intelligence platform RansomLook, the data began appearing on World Leaks on June 11. However, the NPCIL issued a formal clarification only on July 15, following widespread media reports. Some 14.3 GB of files have been released, including the layouts of ventilation systems, floor plans of an alleged “control room”, supplier and vendor lists, and insurance paperwork. While the files have not been independently authenticated, the actors and their incentives merit a closer look. The NPCIL has said that the files only pertain to infrastructure beyond the facility’s nuclear island. However, such information can still serve so-called intelligence preparation activities. India is the third-most breached country and has already brooked similar attacks against AIIMS Delhi, airlines, and State government portals. In this milieu, the government has positioned Kudankulam as the centrepiece of India’s nuclear power ambitions. As CERT-In is conducting an investigation and Reliance and Yotta have shared their findings with the government, CERT-In and NPCIL should also clarify the nature and authenticity of the files, whether data were exfiltrated before detection, and whether any credentials or supplier accounts have been exposed. Radical transparency is impossible here but basic cyber-hygiene and proactive communication are non-negotiable.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/wealth-of-lacunae-on-the-kudankulam-nuclear-plant-data-leak/article71230157.ece)
-
----
-
-### Beyond political reshuffles, renew education in India
-*The Hindu · Opinion*
-
-When Parliament assembles next week, there will be debates, disruptions and legislation. Television studios will reduce complex issues to political arithmetic, and headlines will declare winners and losers. Yet, I cannot help asking whether the true measure of Parliament is not by the number of Bills it passes, but by the questions it chooses to confront and resolve. For the past several days, one such question has been waiting outside its doors. My husband, Sonam Wangchuk, scientist, engineer, educator and social reformer, has been on an indefinite fast. Every morning I watch with growing anxiety as his body weakens. His body is paying the price for a conviction that education deserves the nation’s urgent attention. Every day begins with the same silent question: how much longer can his body endure?
-
-This is not merely a family’s private concern. It has become a test of our national conscience. Those who choose the path of non-violent sacrifice hope their suffering will awaken society’s conscience to a greater purpose. If this fast culminates only in the resignation or reshuffling of the Union Education Minister, India would have reduced an extraordinary act of conviction and personal sacrifice to an ordinary political outcome. Public accountability is the cornerstone of democracy. Ministers must have the moral courage to own their failures and step aside when necessary. But individuals are transient; institutions endure. More important than replacing a Minister is defining an educational future for which every Minister, regardless of party, is held accountable.
-
-Related StoriesSupreme Court judgments say state has a duty to preserve life of person on indefinite fast without disrupting right to dissent
-
-Sonam Wangchuk’s decision to join CJP protest organic, says wife Gitanjali Angmo
-
-Cockroach Janta Party releases manifesto on exam reforms at Pune protest
-
-Fifteen years ago, around half of India’s population was under 25. Economists celebrated this as India’s demographic dividend, perhaps the greatest developmental opportunity available to any nation in the 21st century. In one of my articles, I had argued that while India has invested significantly in access to education, it has missed out on excellence. Enrolment has grown, but learning has not been transformed. If India aspires to become a Vishwa Guru, it must educate this generation differently. But India seems to have missed the opportunity.
-
-What demographic dividend isA demographic dividend is realised by producing better thinkers, wiser leaders, confident innovators, skilled researchers and teachers, ethical entrepreneurs, honest public servants and compassionate citizens. This, therefore, is the moment to rise above personalities, parties and politics. Sonam Wangchuk’s fast should become the catalyst for a national awakening on the future of education. The question is larger than whether one Minister should resign. It is whether India will dare rebuild the education system that will shape the next century. We need more than a reshuffle — we need reform, renewal, and a renaissance. In my view, that renaissance rests on 10 urgent reforms. First, reform the system of examination. Assessment determines learning. As long as examinations reward memory, schools will teach memory. If examinations reward thinking, schools will cultivate thinkers. Within three years, every examination, from school boards to JEE, NEET, CUET and the UPSC, should progressively evaluate conceptual understanding, application, creativity, analytical reasoning, ethical judgement and real world problem-solving rather than recall. Competency-based assessment should become the national norm.
-
-Second, India must dismantle the coaching culture that it has inadvertently created as a parallel education system. Families spend fortunes on coaching because India’s entrance examinations reward repetition more than reflection. Multiple examination windows, greater weightage to school performance and portfolios, and redesigned entrance tests can gradually restore learning to schools and childhood to children.
-
-Respect for teachingThird, build the world’s best teachers: No education system can rise above the quality of its teachers as is seen in Finland, Singapore, South Korea and Japan. India needs a National Teacher Excellence Mission that treats teaching as one of the most respected professions through rigorous preparation, continuous professional development, mentoring, research opportunities and leadership training.
-
-Related StoriesWhy India’s education system needs urgent reform
-
-Why India needs to radically rethink its doctoral education programmes
-
-Why is the NEP undergrad course in chaos? | Explained
-
-Why UGC’s NEP-driven higher education reforms are faltering on campus
-
-Second-generation reforms required in higher education to make India a developed nation
-
-Beyond the numbers: Why India’s education reform must focus on learning, not just access
-
-Fourth, every vacant teaching position represents thousands of lost learning opportunities. Vacancies from Anganwadis and primary schools to central universities, IITs, IIMs, NITs and AIIMS should be filled through transparent, merit-based recruitment within three months.
-
-Fifth, reconnect education with society. Education must prepare young people not just for employment but also for citizenship. Every undergraduate should complete a semester of apprenticeship, research, entrepreneurship, rural immersion, community service or industry experience before graduation. Knowledge acquires meaning when tested against reality.
-
-Sixth, India must restore faith in its government schools. Every child deserves an equal education until the age of 13, regardless of income or geography. Laboratories, libraries, sports facilities, digital infrastructure, sanitation and qualified teachers should become guaranteed minimum national standards. This can only happen when policymakers have a personal stake in public education and those responsible for governing public institutions also trust them with their own families.
-
-Seventh, trust educational institutions with greater academic freedom that they deserve. Governments should define learning outcomes and ensure accountability. They should not micromanage pedagogy, curriculum innovation or research. The world’s finest institutions flourish because they are trusted to innovate, collaborate and respond to local contexts. Academic freedom produces excellence.
-
-Eight, what is measured improves. Transparency is one of the most powerful drivers of reform. A real-time national public education dashboard should be set up, on which every stakeholder can compare schools and universities using verified measures of learning outcomes, teacher vacancies, infrastructure, research output, accreditation, employability, and student well-being.
-
-Ninth, public investment in education should rise to at least six per cent of GDP, accompanied by an increase in research funding to at least two per cent of GDP. Nations become knowledge economies not through aspiration alone, but through sustained investment in schools, universities, laboratories and ideas.
-
-Tenth, educational reform must outlive electoral cycles and not begin afresh every time governments change. India needs an independent statutory national education reform commission that establishes measurable national benchmarks, audits implementation, publishes annual progress reports to Parliament, tracks outcomes across every State/Union Territory and holds governments accountable to measurable outcomes rather than political rhetoric.
-
-Education beyond political dividesNone of these reforms belongs to one political party or to one ideology. Every government has contributed something valuable, yet every government has also inherited unresolved structural weaknesses. Education must become India’s first genuinely bipartisan national mission. History offers nations only a few defining moments when public attention, moral conviction and political urgency converge. This may be one of them. Parliament will eventually adjourn. But whether the child entering class one this year will grow into an innovator or an imitator, a responsible citizen or a passive spectator depends on the education we choose to build today.
-
-The question before India is no longer who will lead the Ministry of Education. It is whether we, as a nation, have the vision and the resolve to build an education system worthy of our children. That responsibility belongs not to one government or one political party, but to every citizen who believes that education is the foundation upon which every other national aspiration rests.
-
-If Sonam Wangchuk’s fast helps us begin that journey, then his sacrifice will not merely have drawn attention to a crisis. It will have helped awaken a nation. History will remember whether we dared to transform a personal sacrifice into a national renaissance. That responsibility belongs to all of us.
-
-Gitanjali J. Angmo is founder of the Himalayan Institute of Alternatives, Ladakh, and an education reformer and public intellectual working to reimagine education, democracy, ecology and Himalayan futures through grassroots leadership and innovation
-
-[Read full article](https://www.thehindu.com/opinion/lead/beyond-political-reshuffles-renew-education-in-india/article71230775.ece)
-
----
-
-### DC Edit | Engage Sonam In Dialogue To Ensure Democracy Wins
-*Deccan Chronicle · Editorial*
-
-As the Cockroach Janata Party’s protest at Jantar Mantar is into its 28th day and the educationist and activist Sonam Wangchuk’s fast enters its 20th day today, they raise fundamental questions about the democratic process in the country. Those who are protesting are carrying a message about youth disaffection while the prominent person undertaking a fast in a nation that has had a long history of fasting as the most peaceful form of protest is acting as a messenger of how badly things may be going wrong for the youth to feel so restive.
-
-To respond to a peaceful protest by nominating government representatives to talk to the protesters on the issue, which is all about irregularities in the medical entrance test and other examinations, is the democratic way. The national conscience is being awakened by the personal sacrifice of one person even as the protests are making a mark, but the government has so far remained indifferent. And the court has only spoken about every life being precious and pointed out the need for daily medical supervision.
-
-The basic objective of the fast was stated to be a demand that the Union education minister resign owning accountability for the various irregularities that were noticed in the conduct of a vital medical entrance test which over 20 lakh candidates took and in which 11.21 lakh candidates qualified for around 1.3 lakh medical seats plus 28,000 in dentistry and allied areas of study. The sheer statistics portray the ardour with which a section of the student population strives to take up the medical profession.
-
-It might be the greed of individuals who run the test that invariably leads to leaking of question papers which undermine the integrity of the test. However, it is the system that must be tuned to be foolproof in conducting such an exercise that affects the lives and careers of lakhs of students. Asking for the resignation of the education minister is only to sustain public accountability which is the cornerstone of democracy.
-
-The government may have moved heaven and earth to ensure the retest ran without major glitches and disruptive leaks but doing so is not an achievement to be boasted about as much as the duty of people elected to supervise those selected to run the system and ensure that it is error and leak proof. The rolling of one head may be just a political outcome of a protest being sustained by a new party of nameless youth, but it carries the message that governance may call for hard decisions to ensure answerability is upheld.
-
-It might not take much to arrive at the decision that the fast be broken by putting the activist in hospital and force-feeding him to save his life. A logical step before that would be to talk to him and try to persuade him into giving up the fast. That may mean accepting there is an issue but there is no loss of prestige in accepting it and addressing the issue.
-
-No government should place itself above listening to citizens who have a grievance or who project an issue of public importance. The issue is not just about the integrity of entrance exams but about the education system itself and it must be confronted and a resolution sought. Dissent is an integral part of democracy, acceptance of which will make the government stronger. An immediate test of the government’s resolve in dealing with education issues is coming up in the Winter Session of Parliament.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-engage-sonam-in-dialogue-to-ensure-democracy-wins-1971817)
-
----
-
-### DC Edit | For FTAs To Work, India Must Boost Manufacturing
-*Deccan Chronicle · Editorial*
-
-The India-United Kingdom Comprehensive Economic and Trade Agreement (CETA), which came into force on July 15, after three years of negotiations spread over several 14 rounds of talks and 800 technical sessions, will reinstate a close economic cooperation between two major economies — for the first time after the country broke the British colonial yoke in 1947.
-
-The agreement will over a period of time create an $8-trillion free trade region, which will be mutually beneficial to both India and the United Kingdom. As a result of the deal, bilateral trade is expected to rise from £42.6 billion to £75 billion. It will eliminate tariffs for Indian enterprises in labour-intensive businesses such as textiles, marine products, leather, footwear, sports goods, toys, gems, jewellery, engineering goods, auto parts, engines, and organic chemicals.
-
-Though Vietnam and Turkey already have a free trade deal with the British, Bangladesh and Pakistan enjoy nearly zero per cent import duty because of their national economic backwardness, which gives them an immense tariff advantage over Indian products. However, the CETA will eliminate this tariff disadvantage for Indian manufacturers and will allow them to compete fairly with them.
-
-British whisky, gin, medical devices, cosmetics, aerospace components, lamb, salmon, electrical machinery, soft drinks, chocolate, and biscuits will get cheaper. India will also reduce higher tariffs on the import of fossil fuel run automobiles and electric vehicles to 10 per cent in the next five years and 10 years, respectively.
-
-The entry of British automobiles without import duty cover will introduce tough competition for Indian automotive manufacturers. However, the delayed implementation will allow the Indian manufacturers to become globally competitive. The deal will also allow Indian auto parts manufacturers to be part of the British supply chain, and improve their quality.
-
-The social security agreement, which is a part of the deal, will also provide invaluable support to Indian professionals working temporarily in the UK and strengthen the competitiveness of Indian enterprises. The CETA is expected to strengthen key agri-export clusters across Maharashtra, Gujarat, Andhra Pradesh, Tamil Nadu and Punjab, enhancing India’s global export competitiveness.
-
-India currently has free trade agreements with 11 countries. However, in terms of economic size, the CETA is the second biggest after the India-Japan deal. The two biggest upcoming trade deals are with the European Union and the United States. While the EU deal was concluded in January 2026 after two decades of off-and-on talks, negotiations with the United States are stuck on the nitty-gritty of tariff.
-
-When the World Trade Organisation (WTO) regime has become more or less redundant, countries have adopted the negotiated deals with their preferred partner countries as the new strategy. It being the sixth largest economy, every major country would like to have free trade with India. However, the deals will be of no use, unless domestic companies increase standards and become competitive. India should, therefore, develop an ecosystem that supports and encourages domestic manufacturers to improve the quality of their products and services and become unbeatable.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-for-ftas-to-work-india-must-boost-manufacturing-1971555)
-
----
-
-### DC Edit | Heed Complaints By Students
-*Deccan Chronicle · Editorial*
-
-While the Union government has been making every effort to appear as if it has no idea either about the consternation coming from the student community or the agitation going on in New Delhi, the Supreme Court appears to be alive to it. It has called on the government to “look at the amount of frustration of young children”, while hearing a public interest litigation which seeks directions to the government and the CBSE to frame regulations on conducting exams through an on-screen marking system.
-
-Climate activist Sonam Wangchuk’s fast calling the government’s attention to this very same issue has entered its 19th day on Thursday. But the frustration is not just about the CBSE’s faulty implementation of the OSM system which affected 17 lakh students all over the country. It is also about the frustration of 22 lakh students who took the National Eligibility-cum-Entrance test for undergraduate medical courses and the 11 lakh who appeared for the Common University Entrance Test. And the response the hunger strike has evoked from the people as days pass by is a sign of the growing frustration among not just students but also everyone who has a stake in the future of this country.
-
-The Supreme Court has sought the help of the Union government to address the questions contained in the petition filed by Rakesh Binjola, represented by advocate Laxmikant Matadan Shukla, seeking a fair and reasonable inquiry into the “patent irregularities” found in the OSM evaluation system. But this, in fact, is an invitation by the apex court to wake up to a reality that the government has steadfastly refused to acknowledge.
-
-It’s the job of the government, and not the court, to act to address the issues raised by the students. And while it is at it, it must also initiate a dialogue with the people who are on the street. That is the least that can be expected.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-heed-complaints-by-students-1971567)
-
----
-
-### DC Edit | Student Visa  Curbs Will Hurt US
-*Deccan Chronicle · Editorial*
-
-The Donald Trump administration’s decision to tighten the rules concerning the duration of stay for non-immigrant visas, especially those granted to students, will oversimplify the issue and affect honest candidates, whose sole wish was to pursue higher studies in the United States.
-
-According to the old visa rules, the holders of F visas (students) were allowed to stay in the United States until their purpose of visit was completed or the duration of status (DoS). This, the Trump administration alleged, allows foreign students to abuse the immigration system by perpetually enrolling in courses to avoid leaving the US.
-
-Under the proposed system, the stay of students will be capped at four years. If they need additional time to complete an academic programme, they must apply for an extension of stay.
-
-According to a study conducted in 2025, there were 3,63,019 Indian students enrolled at US colleges. Indians form the largest foreign student community in the United States and represent 31 per cent of the 1.2 million international students pursuing higher education in the country.
-
-The number of Indian students in the United States is a small percentage of six million students who pursue postgraduation in India. It is true that every society will have some people who try to game the system, but an attempt to paint all foreign students as black sheep is unfortunate. The visa rules are also consistent with the Trump administration’s preference for making policies based on perception, rather than data.
-
-Foreign students are the major source of income for hundreds of US colleges and they effectively subsidise the education of American students. The new rule, therefore, will affect the US colleges the most and increase the cost of education, while the foreign students look for other alternatives.
-
-The Narendra Modi government must fast-track its attempt to get prestigious universities to set up their campuses in India and ensure that Indians do not have to leave their homeland for higher studies.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-student-visa-curbs-will-hurt-us-1971820)
-
----
-
-### DELHIBERATIONS |Indian Tourists: The New Masterjis Of The Universe | Padma Rao Sundarji
-*Deccan Chronicle · Opinion*
-
-Indian tourists are having a rollicking time across the globe. Airside or landside, aunties and uncles are breaking into high-decibel bhangra and garba, chanting shlokas in churches and belting out Mera Naam Chin Chin Chu (in the heart of Beijing). We meeker fellow citizens are proud to be thus represented. Racist trolls hurling abuse at us: get a life. We are the new Masterjis of the Universe! The whole world’s our (reluctant) family and we’re everywhere.It took thousands of years to get here. Here’s how we did it:
-
-*The Dhavana Pratiyogita, or the Sprinting Sutra: Your first glimpse of us is usually at the airport lounge buffet. Most people enjoy free food; we Indians treat it as historical reparation.
-
-Plundered by foreign rulers for centuries, fleeced by petty officials for decades and heavily taxed for the privilege of flooded streets and outages, the lounge is our one chance to loot the system back. Naturally, the buffet triggers a genetic survival instinct straight from Kabaddi and Kho-Kho fields. It’s a masterclass in family strategy: burly aunties and uncles form a platoon around the main courses, while the kids execute a tactical raid on the dessert station.
-
-*The “Raashan” Sutra & Harakara martial practice: The Raashan Sutra is a 77-year-old tradition born from induced shortages. While our nation’s (socialist) First Family posed in fur coats in Swinging Sixties London, our parents rationed everything – from kerosene to matchboxes. Today, we honour them: by piling our plates mountain-high with enough food for twenty, and getting sloshed beyond repair. The strategy requires a precision deployment of kids. The youngest stay at the kitchen entrance to spot arriving dishes, the older ones at the cutlery counter to snatch 50 spoons the moment the staff brings them out. The most experienced child is tasked with guarding high-value targets: paneer and chicken. Mirroring the Harakaras -- medieval military runners, bewildering towers of paneer, chhole, chicken, and mutton are passed from Phupha to Chachi to Kaka with the speed and precision of a bomb disposal squad. Meanwhile, the kids stagger back with dozens of Coke cans and every single paper napkin from the freshly refilled tray. If a sudden drought hits the airport, the Sharmas will survive. Their cabin bags will be pre-stocked bunkers.
-
-*Shabda and the “Tarankcalla” Sutra: Do not argue that “Quiet Zone” signs show a universal symbol of a finger held to the lips. We read 28 languages while your ancestors were still dangling from branches, treating hoots and grunts as high literature, okay? Vedic acoustic tradition outlines four stages of sound, from the sublime to the gross, and you’re lucky to witness the last. Consider us your benevolent mascots shattering your negative energy. Blasting “Desi Boyz” at a jackhammer-level 129 decibels on your European train is actually a cosmic healing service. As for calls on speakerphone, we’re preserving our 77-year-old trunk call tradition -- how else are we supposed to be heard in Bathinda, 5,000 km away? Besides, you didn’t listen to us through all those centuries you squatted on our land. It’s our turn to deafen you now.
-
-*The Vegadharna Sutra: Nothing unites snooty content creators faster than filming an uncle drinking tea at a decibel level that defeats jet engines. Ayurveda dictates that “vegadharna” -- natural urges like slurping, burping and belching -- should never be suppressed. Listen up, airheads: internal winds must flow unhindered in all directions. Consider yourself lucky when an Indian tourist undoes a few buttons, lets a hairy belly hang out, and releases his inner dragon. It’s a free lesson in how to respond to an internal weather forecast.
-
-*The Drishti and Darshan Sutra: Inside India or out, we love to stare. It doesn’t matter if a culture considers it rude; staring is our birthright. You are there, so we must stare. The devout long for darshan, for the spiritual gaze. And since every Indian is a little gift from God to the world, consider it divine interaction with the deity to be stared at by one. Do stare back, even if the darshan bestower happens to be digging for gold while goggling you.
-
-Channel your inner guru. If you can master the downward dog, you can ace the frontal gawk too. Locking your gaze traps the mind and stops it from wandering. It’s yoga, stupid!
-
-*The Adhikara Sutra & The Harshit Bagga Uncertainty Principle: When flight departure is announced, the Harshit Bagga Uncertainty Principle kicks in. Indians instantly converge in a “passenger wave packet”. Papaji, Mummyji and Jijaji simultaneously sidle, shift, or float toward the boarding gate. Watch the aunties advance, repel and adjust to one another exactly like electrons. Their spatial coordinates are hard to pin down, given their giant duty-free bags. Given our absolute mastery, I suspect this Principle was originally ours, and plagiarized later by a German upstart named Heisenberg. We’re aces at Quantum Chaos too, so physics ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/delhiberations-indian-tourists-the-new-masterjis-of-the-universe-padma-rao-sundarj-1971830)
-
----
-
-### Dilip Cherian | As Govt Breaks Its Own Rules, Officer Posted At FCI Is Recalled
-*Deccan Chronicle · Opinion*
-
-Governments are quick to invoke the rule of law but are less good at living by it.
-
-The department of personnel and training's decision to void the food ministry's suspension of an FCI executive director is a case in point. By declaring the order non est, or legally non-existent, the DoPT overturned a suspension. But it also indicated that the ministry never had the authority to issue it in the first place. That clearly is not a routine correction, sources have informed DKB.
-
-The officer, Ashutosh Joshi of the Indian Audit and Accounts Service, is facing serious allegations over the alleged diversion of rice meant for the public distribution system in the Northeast. If the charges are proved, he should face the consequences. But that isn't the point under dispute. The real question is whether a ministry can ignore the rules simply because it wants to act quickly.
-
-India's civil service doesn't work on administrative instinct. It runs on a carefully defined distribution of powers. Officers belonging to organised Group 'A' services fall under the disciplinary control of their cadre-controlling authority. The intent is to safeguard against arbitrary action. If ignored, even a well-intentioned decision risks collapsing on procedural grounds.
-
-Which makes this episode rather awkward. Did the ministry fail to check whether it had the legal power to suspend the officer? Or was speed considered more important than procedure? Neither possibility reflects well on the system.
-
-Following orders is no defence, says Kerala High Court
-
-One enduring myth is that babus merely implement the wishes of the political executive. That may be how governments like to describe the relationship. It is certainly not how the Constitution sees it.
-
-The Kerala High Court's sharp observations in the K. Biju case are a reminder of an uncomfortable truth: an IAS officer cannot hide behind the government when exercising a statutory power. If an order bears your signature, it must also bear your judgment. That’s why the court’s insistence on “proper application of mind” matters.
-
-Too often, controversial decisions emerge as though they were assembled elsewhere and simply signed by the officer concerned. Everyone understands how power works. Ministers decide, and babus execute. But execution does not mean surrendering independent judgment. The law expects government officials to ask whether an order is legal, reasoned and defensible.
-
-The court's refusal to treat an unconditional apology as the end of the matter is equally significant. Public administration cannot function based on “sorry” after the fact. If that became the standard, accountability would become optional and due process negotiable.
-
-This should resonate far beyond Kerala. Across India, governments increasingly expect senior officers to defend decisions that stretch, and sometimes cross, legal boundaries. Many comply, convinced that loyalty to the government of the day is part of the job. It isn't. While governments come and go, court judgements and official files outlive them. A babu’s signature, then, is all-important.
-
-Passing UPSC is only the beginning
-
-Every year, lakhs of young Indians pin their hopes on the UPSC examination. For the few who make it to the IAS, the popular perception is that the hard part is over. However, an RTI response from the Lal Bahadur Shastri National Academy of Administration tells a different story.
-
-Twenty-four IAS probationers failed one or more subjects during training between 2021 and 2026. None was dismissed. All eventually cleared the papers. Far from exposing a weakness in the system, these numbers reveal one of its strengths.
-
-The Academy is not in the business of celebrating past achievement. It is preparing future district magistrates, secretaries and policymakers. Clearing the UPSC proves intellectual ability. It does not automatically equip someone to run a district, interpret laws, manage crises or lead large teams.
-
-That is why training matters. More importantly, so do assessments. A probationer who struggles with a subject should be expected to learn, improve and pass. The purpose of training is competence, not punishment.
-
-In a country where examinations are often treated as the finish line, the IAS still recognises that learning cannot end with a rank list. It must continue in the classroom, in the field and throughout a career.
-
-We should take comfort from that. We expect India’s civil servants to make decisions that affect millions. The least we can ask is that they continue to be tested before they are entrusted with that responsibility.
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-as-govt-breaks-its-own-rules-officer-posted-at-fci-is-recalled-1971563)
-
----
-
-### OF CABBAGES AND KINGS | Political Killings Rise In UK, Like India… But USA Still Leads Pack | Farrukh Dhondy
-*Deccan Chronicle · Opinion*
-
-“The ear of jealousy heareth all things:
-
-That ghosts eat guts and pigs have wings
-
-Visions that fantasy conjures
-
-Truth and reality fade into blurs.
-
-The colour of jealousy is said to be green
-
-But that’s nature’s colour, everywhere seen.
-
-Its conclusions, conjectures are half-cooked, raw
-
-Jealousy is red in tooth and claw…”
-
-From Substandard Fantasies, by BachchooOur world is more than a cruel place -- yes, ‘twas ever thus -- but the contemporary catalogue of hatreds gives rise to new, shameful antagonisms.
-
-Anne Widdicombe, a politician who used to be a Tory minister in past governments and subsequently defected from the Conservative Party to become a spokesperson for what is avowedly the neo-fascist movement called Reform, was murdered in her village home. Aged 78, her body was discovered 24 hours after she had been bludgeoned to death.
-
-A 28-year-old white man has been arrested by the counter-terror squads of the British police. They seem to have conclusive evidence that this suspect is the murderer. The leader of Reform, Nigel Farage, has, before the police provide evidence in a court, publicly concluded that this murder was a “terror” motivated crime.
-
-He didn’t say which “terror”.
-
-He obviously believes that the murderer was opposed to the policies of Reform, for which Anne Widdicombe was an official spokeswoman. As, gentle reader, you already know, the central policy of Reform, and probably the only one which garners votes and membership, is its virulent opposition to immigrants, refugees, asylum-seekers and of course to membership of the European Union, which would allow “Johnny Continental” free access to this country.
-
-We can’t and shouldn’t know till the trial of the, as yet unnamed, accused takes place, what his motivation, if he is guilty, was. Opposition to neo-fascist, classic-fascist, racist, xenophobic, Islamophobic, imperio-nostalgic nationalism….?
-
-That’s one possibility. The other may be that he was a member of, or sympathiser with, the stance of Restore, the party that broke away from Reform on the grounds that it was not far-right enough. Restore was initiated by Atilla the Hun (are you sure about this? --Ed. No, sorry, got led away --fd)
-
--- apologies, gentle reader, the fellow is called Rupert Lowe. Quite possibly, the murderer of Widdicombe belongs to this faction, attempting to silence one of Reform’s more persuasive propagandists.
-
-The method of murder, bludgeoning someone and leaving them dead in a pool of blood, seems to me more likely the work of some ultra-right maniac, rather than
-
-a left-winger opposed to Reform’s stance on immigrants and asylum-seekers. Of course, one awaits the trial or further information from the anti-terror squad in charge of the case.
-
-Other politicians, of differing sides of the divide, have suffered the same fate in the UK in recent times. The UK is far from the leading country for political assassination.
-
-Yes, India has seen some -- from the shooting of the Mahatma to that of Indira Gandhi and then Rajiv. But surely the record, from the shooting of Abraham Lincoln through the assassinations of John F. Kennedy, Bobby Kennedy, Martin Luther King, Jr and recently the right-wing propagandist Charlie Kirk, sets the United States in the legendary lead?
-
-Do most of these political killings in the UK and the US have some connection to race or religion? The Nazi mentality and persuasion certainly had some roots in anti-semitism. Does neo-Nazism share this hatred and even extend it to other religious groups?
-
-The murder of left-wing the Labour MP, Jo Cox, in 2016, by Thomas Mair, a declared neo-Nazi Brit, suggests precisely that. In her inaugural speech in the House, she said that immigration, from Catholic Ireland and then from Muslim countries, had enhanced the economy and culture of Britain.
-
-The opposite motivation animated Ali Harbi Ali, a sympathiser of the Islamic State (ISIS), who in 2021 stabbed to death Conservative MP Sir David Amess. Ali was arrested at the spot and later given a life sentence. He told the police in interviews that the assassination was motivated by the fact that Amess was a supporter of Israel and an enemy of the Islamic State.
-
-The brutal murder of Ann Widdicombe has led the Reform leader Nigel Farage, and its deputy Richard Tice, to call for further security measures to safeguard the lives and even property of MPs and their families. Their call has been, at least verbally, supported by the departing PM, Sir Keir Starmer, and by the incoming PM, Andy Burnham.
-
-The House of Commons has 650 members. To protect all of them and their families and include, within the security scheme, some outspoken right and left-wing members of the House of Lords and perhaps some mayors of Britain’s cities, would be a huge demand on the State’s police or other security forces or deployments. There would have to be some discretion and judgement of risk.
-
-Undoubtedly, the Reform and Restore MPs face threats from each other and from...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-cabbages-and-kings-political-killings-rise-in-uk-like-india-but-usa-still-leads-pack-farrukh-dhondy-1971811)
-
----
-
-### Parsa Venkateshwar Rao Jr | RSS, VHP Should Disown Ayodhya’s Champat, Anil
-*Deccan Chronicle · Opinion*
-
-Three of the main accused in the Ayodhya temple donation theft case -- Champat Rai, Anil Mishra and Lavkush Mishra -- are known to be connected with the Rashtriya Swayamsevak Sangh (RSS) and its subsidiary organisation, the Vishwa Hindu Parishad. And the ruling BJP in Uttar Pradesh, as at the Centre, belong to the group of right-wing Hindu outfits, generally known as the Sangh Parivar. That is, they are affiliated to the parent body, the RSS. The theft of donations can be dismissed as a regular pattern that happens in all places of Hindu worship across the country. But the corruption is then traced back in each case to the individuals and organisations involved in the matter. Logically, the RSS and the VHP should be in the dock on moral grounds, and the BJP should be paying a political price because of its ideological connection with these two organisations.
-
-It is natural then that UP chief minister Adityanath is now pretending that it is a case of regular theft, which the police and the courts will handle, trying to gloss over the deep organisational connections between the RSS, VHP and the BJP, and by extension to the Bajrang Dal. RSS general secretary Dattatreya Hosabale gave a statement as though it is a crime that has nothing to do with the RSS, while Rai, Anil and Lavkush Mishra, and Mohan Rao (from the RSS Karnataka unit) are all Sangh folk. Of course, Mr Hosabale can play the usual Houdini trick by saying that there is no such thing as RSS membership, and that there are no RSS cardholders as in the case of the Communist parties.
-
-Had Rai, the two Mishras and Rao have been either members of the Congress or any other party, the BJP/RSS troll army, including their official spokespersons, would have called out loudly and hoarsely that the Congress and others were corrupt parties. By the same token, the RSS, VHP and BJP should face the brunt of corruption charges in the donation theft matter for individuals connected with their organisations. It is understandable that as a defensive reaction. Yogi Adityanath and Mr Hosabale should distance themselves from the organisational affiliations of Rai and the Mishras. It is plain now that the RSS, VHP and BJP have individuals with a propensity for corruption, like any other organization. Mr Hosabale should have the moral courage to state publicly that the RSS will take care not to recruit individuals like Rao and the Mishras in future because RSS does not want morally tainted individuals. It is not convincing on the part of the RSS office-bearer to pretend that Rai and the Mishras have nothing to do with the RSS, when the RSS and BJP are not willing to make the same distinction between corrupt individuals and the parties and organisations they belong to.
-
-Mr Hosabale should also perhaps clarify whether the RSS is in the business of constructing temples and administering them, if not directly then through its subsidiary, the VHP. That would clear the confusion about what the RSS really is. It calls itself a nationalist organisation, and when asked about its registration, its chief, Mohan Bhagwat, says that there is no registration for Hinduism, thus collapsing the Hinduism into RSS, which is quite illogical. There are more Hindus who do not either recognise or belong to the RSS than the few Hindus who are within its fold. The RSS should stop fooling around with identities to escape social and legal scrutiny. Hinduism is older than the RSS and the VHP, and there are individuals and organisations who are engaged in constructing temples and in administering them. Of course, the RSS and VHP can join the crowd as it were, and say that they too are into the business of constructing temples, and that they are the ones in charge of the Ayodhya Ram Mandir. Why are there so many individuals linked to the RSS and VHP in the Shri Ram Janmabhoomi Teerth Kshetra Trust? What are their credentials? They are not religious and they are not spiritual. They know nothing about temple administration.
-
-Prime Minister Narendra Modi broke the dividing line between the State and religion when he laid the foundation of the temple, and again inaugurated the opening of the temple, not in his individual capacity but as the Prime Minister of the country. It was seen as a political plan to win the election in 2024, which was the first general election fought after the construction of the temple. Of course, it did not work. Uttar Pradesh did not reward the BJP for the temple construction, nor did the rest of the country.
-
-The BJP ended up as a minority party in the Lok Sabha in the 2024 Lok Sabha election. It is now remedying the situation through the defections in the Trinamul Congress after the BJP won the West Bengal Assembly elections in May. So, it looks like the BJP has left behind the Ayodhya Ram Mandir, which had remained part of its core political agenda, along with the abrogation of Article 370 and the setting up of the Uniform Civil Code. Ayodhya’s political dividend had dwindled for ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-rss-vhp-should-disown-ayodhyas-champat-anil-1971549)
-
----
-
-### Defiant China unites uneasy neighbours
-*Deccan Herald · Editorial*
-
-On July 12, the Philippines, the United States, Japan, and 11 other countries reaffirmed their “unwavering commitment” to a “free and open Indo-Pacific” through a joint statement commemorating the 10th anniversary of the South China Sea arbitration ruling. In 2016, the Permanent Court of Arbitration, under the UN Convention on the Law of the Sea (UNCLOS), ruled that Beijing’s maritime claims to economic and historical rights over the South China Sea had no legal basis. On July 11, the European Union released a statement reminding both Manila and Beijing – but more directed towards Beijing – that the ruling must be “respected and fully implemented”. In response, Beijing asked the US and others not to ‘fan the flames’, reiterated that the ruling was a “worthless piece of paper, that is illegal, null, and void”, and repeated that it would like to settle the dispute with the Philippines bilaterally. While the arbitral tribunal’s ruling does not directly reference India, New Delhi’s larger interests are intertwined with many nations at the receiving end of Beijing’s high-handedness in the South China Sea and the Indo-Pacific Region.
-
-India-China relations: Why New Delhi needs a strategic filter for the economic resetThe joint statement and EU’s stance point to wide international support against China’s unilateral actions in the region. Control over the South China Sea will enable power projection across the Indo-Pacific. Over the years, China has gotten into multiple maritime disputes with the Philippines, Taiwan, Vietnam, Malaysia, and Brunei. Heightening tensions, on July 6, it fired an intercontinental ballistic missile (ICBM) from a nuclear-powered submarine in the South China Sea, inviting criticism by many nations over the threat to regional stability. New Delhi must take note of Beijing’s ICBM test and reflect on what it needs to do to close the operational and strategic gap this opens. This has the potential to heighten competition in the Indian Ocean Region and reshape the nuclear balance in the Indo-Pacific.
-
-The reaction to the missile test and the 10th anniversary statements, when read together, show that an increasingly aggressive Beijing is inadvertently bringing other nations in the region together. As China was testing its nuclear capabilities, Australia and Fiji were signing a defence treaty. Recently, New Delhi enhanced its defence cooperation with Tokyo, Jakarta, Manila, and Hanoi. India must focus on improving defence, trade, and diplomatic ties with Southeast Asian and Oceanic nations intimidated by a hostile China. New Delhi’s call for freedom of navigation in the South China Sea and its backing of the 2016 ruling are steps in that direction.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/defiant-chinaunites-uneasy-neighbours-4076404)
-
----
-
-### Dissent in the age of indifference
-*Deccan Herald · Editorial*
-
-Despite deteriorating health and appeals from multiple quarters, Sonam Wangchuk has refused to end his hunger strike. Amid legal pleas that seek to hospitalise and force-feed him, the activist has maintained that ending the agitation without a response from the Union government would undermine the purpose of the protest. He has urged people to participate in the Cockroach Janta Party (CJP)’s proposed Chalo Sansad march to Parliament on July 20, and called on educational institutions to dedicate that day for experiential education. Wangchuk’s fast signifies more than an act of defiance; it is more than an attempt to exert pressure on Education Minister Dharmendra Pradhan to resign over the mismanagement of examinations and paper leaks. It strikes one as an assertion of moral resolve, seeking accountability and integrity in public life and office.
-
-'I’m not in good shape but not so bad either...don't ask me to break fast': Sonam Wangchuk urges people to join march to Parliament on July 20Wangchuk’s fast has drawn nationwide attention because of the moral authority he enjoys and his reputation as a non-partisan figure above political affiliations. The government has consistently attempted to project him as an Opposition proxy whenever he has voiced his opinion on social or developmental issues. However, these accusations have failed to diminish his credibility. In a broader sense, every moral or social act is political. Wangchuk’s agitation has revived a form of politics that has been losing ground in the recent past. It is the first major strike with a national resonance since the demonstrations against the Citizenship [Amendment] Act (CAA). It has also invited comparisons with Anna Hazare’s 2011 fast. However, given the massive shifts in the country’s socio-political landscape over the past decade, comparisons in terms of outcomes can be unwieldy.
-
-While the reasons to protest have not come down, the space for expressing such dissent has been steadily shrinking. This shift can be traced to a government that has been insensitive, and even hostile, to assertions of free, democratic expression. This raises a crucial question: is satyagraha still a viable tool of protest against an indifferent dispensation? Wangchuk may be providing the answer here. An act of satyagraha that transcends the individual to address a broader social or moral failing can never be futile. Fasting was also a self-cleansing act for Mahatma Gandhi, who remained unconcerned if a protest failed to meet its immediate objective. Every principled action that moves minds and hearts has a social utility. Even in the face of a hostile, unresponsive system, such action can serve as proof that society retains an alive and resilient conscience.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/dissent-in-the-age-of-indifference-4076405)
-
----
-
-### Assistive tech needs a policy backbone
-*Deccan Herald · Opinion*
-
-What if I said that India’s next unicorn might be a company manufacturing assistive technology devices such as wheelchairs, walking sticks, and hearing aids? Surprised? As a wheelchair user who has closely watched how critical this need is for millions, I have little doubt that it can become a reality, and one of the finest examples of how a leap towards inclusion can simultaneously trigger enormous economic opportunities for a nation. Let me explain how.
-
-The World Health Organisation (WHO) estimates that over 2.5 billion people worldwide require assistive technology; in India, that figure is likely around 50-70 million. Its Global Report on Assistive Technology finds that one in three people globally need assistive products to lead independent lives, a number projected to rise to 3.5 billion by 2050. Yet only 5-15% of those who need such technology have access, due to high costs, poor availability, low awareness, and a shortage of trained personnel. More than 60 countries already have a policy on assistive technology. India does not have one.
-
-India has progressive policies for electric vehicles, semiconductors, and digital public infrastructure. These have created markets, attracted investment, and generated jobs, even unicorns. Yet despite being home to one of the world’s largest populations of persons with disabilities and a rapidly ageing society, India lacks a comprehensive national assistive technology policy.
-
-Globally, assistive technology is increasingly recognised as a policy priority rather than a welfare intervention. India has the opportunity to build a national framework that reflects its scale, demographic realities, and its aspiration to become a global manufacturing and innovation hub. A robust assistive technology ecosystem can improve inclusion and independence for millions of Indians while also driving innovation, entrepreneurship, and job creation. It is likely to unlock a market estimated at $8-10 billion (Rs 75,000-95,000 crore) by 2030, which is why India must work concertedly towards becoming a global manufacturing hub for assistive devices.
-
-Automation to intelligence: How India’s manufacturers must evolveWe have the groundwork. STPI and IIIT-Allahabad are developing an assistive technology hub framework. With an enabling policy environment, this can spur genuine manufacturing success. The Centre’s Rs-1 lakh crore R&D fund to spur industry-led innovation is the kind of instrument that could be channelled towards this sector. India is on an innovation spree, with startups building AI-enabled communication tools, smart mobility devices, and affordable prosthetics. But many innovations never move beyond pilots because financing is scarce, standards remain underdeveloped, and investors lack policy certainty.
-
-For decades, assistive technology in India has been treated largely as a welfare intervention, focused on distributing devices rather than enabling outcomes. Programmes such as the ADIP scheme (Assistance to Disabled Persons for Purchase/Fitting of Aids and Appliances) have expanded access and deserve recognition, but remain centred on one-time provisioning. Receiving a device is only the beginning; unless properly assessed, fitted, maintained, and repaired, even the best technology eventually becomes unusable. The real value of assistive technology lies not in its distribution, but in its sustained use.
-
-This is why assistive technology must be viewed as social and economic infrastructure, not a welfare product. The World Bank and UNDP estimate that low- and middle-income countries lose 3-7% of GDP when persons with disabilities are excluded from education, employment, and social security.
-
-From consumer to producer
-
-A national policy must bring together the ministries responsible for social justice, health, education, skilling, industry, and digital technologies under one framework. It must replace one-time distribution with lifecycle-based service delivery. It should set quality standards that protect users while encouraging domestic manufacturing, strengthen the rehabilitation workforce, and create blended financing and insurance mechanisms.
-
-Over the past decade, India has shown how the right policy can unlock entrepreneurship, crowd in private investment, and build globally competitive industries. With the right architecture, India can nurture domestic manufacturing, encourage innovation, generate skilled employment, and emerge as a global supplier of affordable, high-quality assistive technologies.
-
-The next Census offers an opportunity to better understand India’s disability and functional needs, while the vision of Viksit Bharat 2047 demands a workforce in which every citizen can participate. If India is serious about building an inclusive, developed nation, assistive technology cannot remain on the margins of public policy.
-
-The next decade will determine whether India remains largely a consumer of imported assistive technologies or emerges as a global hub for designing, manufacturing, and exporting affordable, context-specific solutions. The case for this policy, then, is not only about inclusion – it is about competitiveness, productivity, and India’s next phase of economic growth.
-
-(The writer is Executive Director, National Centre for Promotion of Employment for Disabled People)
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
-
-[Read full article](https://www.deccanherald.com/opinion/assistive-tech-needs-a-policy-backbone-4076412)
-
----
-
-### Take charge of your ego
-*Deccan Herald · Opinion*
-
-Whenever we are in trouble, many of us immediately start questioning, ‘Why me?’ It is during these times that we start questioning the meaning and value of prayer, devotion, and faith. Yet if we spend some time in honest introspection, we are likely to find that we are architects of the situations that we find ourselves in. A candid appraisal of our state will reveal that some negative behaviour or aspect of ours would have triggered the process of our failure or downfall.
-
-An incident in the Linga Puranam endorses this idea.
-
-Once, Ravana was flying around the Himalayas in his Pushpaka Vimanam. The mountains seemed to duck down to make way for him. Ravana enjoyed the fact that even the mountains respected his presence among them. When he came across Mount Kailash, it just stood tall, simply refusing to make way for Ravana.
-
-Being alone is a feeling of fullnessThe king of Lanka was enervated. He felt challenged by the mountain. He decided to pluck it out by its roots and fling it aside. He noticed his revered lord Shiva and goddess Parvathi sitting on the peak.
-
-The sight of the divine couple did not alter the determination of the demon king. He alighted from his Vimanam and proceeded to use his twenty arms to lift the mountain. The sudden movement disturbed the life in and around the mountain. There was a lot of chaos. But Ravana did not seem to be bothered by the commotion.
-
-All the Shiva ganas and the mountain creatures approached the lord for protection. Shiva smiled enigmatically. The lord pressed his little toe a trifle forcefully on the peak.
-
-Ravana, who was at the bottom of the mountain, sensed the pressure. He promptly got into the prayer mode and managed to compose the much-touted Shiva Thandava Stotram despite the stress he was going through. When he could no longer take the strain, he tottered and screamed with anguish as he fell down.
-
-Shiva’s heart went out to his staunch devotee. The lord warned Ravana to mind his ego lest it pave the way to his downfall. Ravana submitted himself meekly and received the potent weapon Chandrahaas as a token of Shiva’s blessing. The fact that the lesson he learned from the episode was short-lived is another story.
-
-[Read full article](https://www.deccanherald.com/opinion/take-charge-of-your-ego-4076344)
 
 ---
 
