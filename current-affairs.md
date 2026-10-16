@@ -1,3 +1,454 @@
+## 16 October 2026
+
+### Special Parliament session this month, govt has numbers to pass delimitation, women's quota bills: Sources
+*India Today News Desk · general*
+
+## Government sources have told India Today that the Centre believes it has the numbers to pass the proposed delimitation and women's reservation bills and is reaching out to the DMK and smaller Opposition parties to shore up support ahead of a likely special session of Parliament later this month.
+
+The schedule is likely to be decided keeping in mind the 12th BRICS Parliamentary Forum, which will be held at Samvidhan Sadan on October 26 and 27. (PTI photo)
+
+New Delhi,Oct 16, 2026 10:13 IST
+
+Amid intensifying Opposition protests over the Special Intensive Revision (SIR) of electoral rolls and Chief Election Commissioner Gyanesh Kumar, the government is likely to convening a special session of Parliament later this month to take up constitutional amendment bills 
+
+Sources have told India Today that the government appears confident of its strength on the floor of the House and is likely to call a special session to push the proposed legislation, even as it reaches out to Opposition parties to consolidate support for the bills.
+
+The Monsoon Session of Parliament, which concluded on August 13, has not yet been prorogued, leaving the possibility of a special sitting open as the government works out the schedule and seeks to build support for the proposed constitutional amendments.
+
+The proposed move comes months after the Modi government suffered a setback during the Budget Session on April 17, when a Constitution amendment bill linked to delimitation and the implementation of women's reservation in the Lok Sabha and state assemblies was defeated in the Lower House.
+
+According to the sources, the Centre is now in talks with the Dravida Munnetra Kazhagam (DMK) to secure its backing for the bills, with the outreach coming after the regional party's split with the Congress following the Tamil Nadu elections and its subsequent exit from the INDIA bloc.
+
+The government is also in touch with some smaller Opposition parties as it seeks to shore up its numbers ahead of a possible vote on the legislation, sources added.
+
+The timing of the proposed session is expected to be finalised keeping in mind the 12th BRICS Parliamentary Forum, which is scheduled to be held at Samvidhan Sadan on October 26 and 27. A week's notice may be given before the special sitting is convened, sources said.
+
+\- Ends
+
+---
+
+### AI agents gained access to confidential data of Indian firms, CERT-In warns of misuse
+*Armaan Agarwal · general*
+
+India’s cybersecurity agency, CERT-In, has issued an advisory after AI agents gained access to systems of Indian organisations without authorisation. CERT-In says this allowed the AI agents to read business records containing personal data and confidential material. It has warned that hackers also tried gaining access using AI tools in some cases.
+
+“In some incidents, AI agents under research and evaluation exceeded their assigned task authorisation and made unauthorised access to Indian information and communication technology (ICT) assets,” CERT-In said in the critical advisory.
+
+CERT-in stated there were two kinds of breaches that it found. The first were linked to AI models that gained access to systems during research and evaluation from AI model providers. The second were 
+
+CERT-In said it received multiple voluntary disclosures from AI model providers regarding the incidents. “The affected organisations could not detect the unauthorised access on their own,” it said.
+
+Though the agency did not name which organisations had been impacted, or which AI model providers had disclosed the cases.
+
+### AI agents access Indian organisations, hackers use open-source tools
+
+The agency revealed that the AI agents were able to access sensitive data of affected organisations. This involved “reading business records, including personal data and confidential material,” The agents used cybersecurity weaknesses to gain credentials and connection settings that allowed them to get this access. “Their actions exceeded the authorisation granted for their assigned tasks,” CERT-In said.
+
+CERT-In also spotted financially motivated attacks in which hackers abused publicly available open-source AI tools. These tools have been misused and rebranded, with deployments across infrastructure in several countries. The agency said that such tools could bring down the time it took for such attacks from days to a few hours, while multiple agents operated in parallel for hours or days.
+
+The impact of these incidents remains unclear as of now.
+
+Organisations that carried out incomplete remediation were attacked again within days and at a greater scale, CERT-In said. Agents also re-derived and reused the same exposed credentials in separate operations.
+
+To tackle the issue of AI models getting better at exploiting such weaknesses, CERT-In advised AI developers and research bodies to take stricter measures. The agency said evaluations should happen in isolated environments with synthetic credentials that stops agents from reaching third-party systems. It also called for real-time monitoring and publication of safeguards.
+
+The agency has asked organisations to audit and rotate credentials, and remove obsolete APIs, among other measures. The impacted organisations are advised to treat systems as compromised after confirmed access until forensic clearance. BFSI and fintech entities were also advised to implement the payment and disbursement API measures.
+
+The CERT-In disclosure comes at a time when cases of AI agents breaching websites have started to become common. Following the July incident where 700 rogue OpenAI agents tried to hack Hugging Face, we have seen many more cases. This includes separate cases of OpenAI agents trying to access websites of the US and Australian governments, as well as the UN. In the past, Meta, Anthropic, and Google have also made similar disclosures.
+
+\- Ends
+
+---
+
+### ‘Asked For Sunday Off, Lost My Job’: 70 Detained As Surat Embroidery Workers' Protest Turns Tense
+*Parishmita Saikia · general*
+
+Workers in Surat allege they are losing jobs for demanding Sunday holidays. As 70 workers are detained, the four-month-old dispute over weekly leave and timely wages intensifies
+
+[Read full article](https://www.news18.com/cities/surat/asked-for-sunday-off-lost-my-job-70-detained-as-surat-embroidery-workers-protest-turns-tense-ws-l-10384206.html)
+
+---
+
+### Haryana boy, 8, falls into open drain, man’s quick intervention saves his life
+*India Today Trending Desk · general*
+
+## A man rescued an eight-year-old boy moments after he fell into an open drain in Panipat.
+
+Haryana boy falls into open drain, man’s quick intervention saves his life
+
+New Delhi,Oct 16, 2026 09:47 IST
+
+An eight-year-old boy fell into an open drain on a muddy stretch in Haryana’s Panipat after stepping onto a section without a covering slab. CCTV footage captured the spine-chilling moment as a man rushed to pull the child out of the drain, narrowly averting a potentially fatal accident.
+
+The boy was walking along the stretch when he lost his balance and plunged into the open drain. The fall happened in an instant, leaving little time for the child to react.
+
+The man, who noticed what had happened, immediately rushed to his aid and pulled him out.
+
+The boy’s rescue, however, has done little to ease concerns about the condition of the road. A section of the drain remains uncovered, while mud covers parts of the street, adding to the risks faced by people passing through the area.
+
+What makes the incident particularly concerning is that it is not the first such accident on the road. Just a month ago, a woman was swept into a drain on the same stretch. She was rescued after considerable difficulty.
+
+Despite that incident, the latest accident has once again raised questions about whether adequate steps have been taken to prevent people from falling into the drain. Two incidents on the same road within a month have put the spotlight on the need for urgent safety measures.
+
+\- Ends
+
+---
+
+### Rajasthan boy, 9, falls into borewell during repair, rescue ops on for over 18 hours
+*Ashok Sharma · general*
+
+## The boy fell into a borewell on Thursday afternoon while it was being repaired at his father's farm in Rajasthan, with his father witnessing the accident and alerting authorities. Rescue operations have been underway for over 18 hours.
+
+The rescue operation was underway at the time of filing this report, with further details about the child’s condition awaited.
+
+Phalodi,Oct 16, 2026 09:49 IST
+
+A nine-year-old boy fell into a 1,050-foot-deep borewell during repair work at a farm in Rajasthan’s Phalodi district on Thursday, prompting authorities to launch a rescue operation. The child is believed to be trapped at a depth of around 640 feet.
+
+The rescue operation was underway at the time of filing this report, with further details about the child’s condition awaited.
+
+The incident occurred around 1.30 pm in Rajasthan’s Pooniyon Ki Dhani area, where repair work was being carried out on a faulty borewell at the farm of the boy’s father, Pancharam Bhil.
+
+The borewell had developed a fault, following which a machine was brought to the farm to carry out repairs. Workers were in the process of pulling out the pipes when the boy accidentally slipped into the open borewell.
+
+His father, who was removing the motor from the borewell, witnessed the incident. He said that when he turned around, he could see only the boy’s head and hands above the opening.
+
+However, by the time he rushed to the spot to pull his son out, the child had slipped further down into the borewell, making it difficult to reach him.
+
+Police and State Disaster Response Force (SDRF) personnel rushed to the spot soon after the incident and launched a rescue operation to bring the child out safely.
+
+Rescuers lowered a camera into the borewell to determine his position and assess his condition, while arrangements were made to supply oxygen to him as efforts to reach the trapped boy continued.
+
+The borewell’s depth and narrow opening have posed significant challenges for the rescue teams. With limited visibility inside the shaft, officials are using camera footage to track the child’s position and monitor his movements as efforts to rescue him continue.
+
+### PHALODI COLLECTOR, SP REACH RESCUE SITE
+
+Phalodi District Collector Ankit Kumar Singh and Superintendent of Police Aditya Kakade visited the site to take stock of the ongoing rescue operation. They also met former MLA Kishanaram and reviewed the efforts to bring the trapped child out safely.
+
+Chief Medical and Health Officer (CMHO) Dr Pratap Singh said oxygen was being supplied to the child. He added that slight moisture and water inside the borewell could help prevent dehydration.
+
+An NDRF team from Ajmer arrived at the site at 9 pm on Thursday to assist with the operation. More than 18 hours after the incident, rescue efforts were continuing, with villagers anxiously awaiting updates on the child’s condition. Further details about his condition are awaited.
+
+\- Ends
+
+---
+
+### Zetwerk Manufacturing Business IPO Day 2: GMP at 9%; Check subscription status, and key details
+*Ritesh Presswala · finance*
+
+Zetwerk Manufacturing Business’ initial public offering (IPO) entered its second day of bidding on Friday, October 16, 2026, with the issue witnessing a muted response on the opening day. The IPO’s grey market premium (GMP) stood at 9%, indicating potential listing gains over the upper end of the issue price band based on prevailing unofficial market trends. However, the GMP is only an indicative measure and does not guarantee actual listing performance.
+
+On Day 1, the IPO was subscribed to 23% overall against 18.50 crore shares on offer. The Retail Individual Investors (RIIs) category was subscribed to 22%, compared with 3.41 crore shares reserved for the segment.
+
+The Rs 5,012.33-crore IPO comprises a fresh issue of shares worth Rs 2,830 crore and an offer for sale (OFS) of 14.45 crore shares worth approximately Rs 2,182 crore. While the proceeds from the fresh issue will go to the company, the OFS proceeds will be received by the selling shareholders.
+
+Zetwerk has fixed the IPO price band at Rs 143–151 per share, with a face value of Rs 1 per equity share. The issue will remain open for subscription until October 19, 2026.
+
+The basis of allotment is expected to be finalised on October 21, while the shares are tentatively scheduled to list on the BSE and NSE on October 23.
+
+Investors can apply for a minimum of 99 equity shares, with subsequent bids to be placed in multiples of 99 shares. At the upper end of the price band, the minimum investment for a retail investor applying for one lot works out to Rs 14,949.
+
+Eligible employees applying under the employee reservation portion will receive a discount of Rs 14 per share.
+
+Ahead of the public issue, Zetwerk raised Rs 2,251.23 crore from 99 anchor investors on October 14. The company allotted 14,90,88,220 equity shares to anchor investors at Rs 151 per share, including a premium of Rs 150 per share. The anchor book attracted prominent global investors, including BlackRock, Goldman Sachs and Nomura.
+
+According to the company’s restated consolidated financial information, Zetwerk reported a loss in FY2026. Consequently, its basic and diluted earnings per share (EPS) were negative, making the price-to-earnings (P/E) ratio unascertainable.
+
+The company’s weighted average return on net worth over the last three financial years stood at negative 15.64%.
+
+Kotak Mahindra Capital Company, Morgan Stanley India Company, Goldman Sachs (India) Securities, Avendus Capital, JM Financial, HSBC Securities & Capital Markets (India) and Pantomath Capital Advisors are the book-running lead managers for the issue. KFin Technologies has been appointed as the registrar.
+
+## **Zetwerk Manufacturing Business IPO Subscription Status**
+
+Zetwerk Manufacturing Business’ IPO witnessed a subdued response on Day 1, with the issue subscribed to 23% overall against 18.50 crore shares on offer.
+
+Among investor categories, Qualified Institutional Buyers (QIBs) subscribed to 30% of their allocated portion, against 9.89 crore shares on offer. Retail Individual Investors (RIIs) subscribed to 22%, compared with 3.41 crore shares reserved for the category.
+
+Meanwhile, the Non-Institutional Investors (NIIs) category was subscribed to 9%, against 5.12 crore shares on offer.
+
+## **Zetwerk Manufacturing Business IPO GMP Today**
+
+Zetwerk Manufacturing Business IPO’s latest grey market premium (GMP) stood at Rs 14 per share, representing a premium of around 9.27% over the upper end of the IPO price band of Rs 151.
+
+At this GMP, the estimated listing price works out to approximately Rs 165 per share, indicating a potential gain of Rs 14 per share for investors who receive an allotment at the upper price band. However, the GMP is an unofficial market indicator and does not guarantee the actual listing price or listing gains. It can fluctuate before the shares are listed on the stock exchanges.
+
+## **IPO Objects of the Issue**
+
+The company plans to utilise the IPO proceeds primarily to repay or prepay, in part or full, certain outstanding borrowings. It also intends to allocate funds towards inorganic growth through unidentified acquisitions and other strategic acquisitions, along with general corporate purposes.
+
+Of the total estimated proceeds of Rs 2,160 crore, Rs 1,300 crore is earmarked for one borrowing repayment/prepayment objective, while Rs 860 crore is allocated towards another borrowing repayment/prepayment objective.
+
+## **About Zetwerk Manufacturing Business Ltd.**
+
+Zetwerk Manufacturing Businesses Private Limited, incorporated in 2017, is a technology-led global manufacturing platform that connects industrial and consumer enterprises with manufacturing partners for customised and large-scale production. It serves diverse sectors, including electronics, renewable energy, aerospace and defence, oil and gas, AI infrastructure and industrial automation. The company follows an asset-light model, offering end-to-end services such as design, supplier matching, quality control and logistics through its proprietary platform, Zetwerk OS.
+
+Zetwerk operates in over 25 countries, with a network of more than 10,000 suppliers and 1,100 customers, including Fortune 500 companies. It also has over 20 manufacturing facilities across India, the US and Mexico. In fiscal 2026, the company served 1,802 customers, comprising 1,613 in India and 189 overseas, supported by its scalable manufacturing capabilities, quality control systems and diversified global customer base.
+
+_Disclaimer: The views/recommendations mentioned in this article, wherever applicable, are those of the respective SEBI-registered Research Analyst/brokerage and have been reproduced/reported with due attribution. They should not be construed as the views or recommendations of The Economic Times Digital or the journalist. Readers are advised to consider the original research report and make their investment decisions based on their own assessment. Brokerage disclaimers here_
+
+---
+
+### Stock Market LIVE: Sensex down 100 pts; Nifty below 23,000; YES Bank shares fall 3%
+*Unknown · business, entrepreneur, finance*
+
+Sensex Today | Stock Market LIVE Updates Friday: In the broader markets, the Nifty MidCap and the Nifty SmallCap fell 0.19 per cent and 0.14 per cent, respectively
+
+[Read full article](https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html)
+
+---
+
+### China's trade barriers remain a hurdle to closer bilateral ties: Sitharaman
+*Business Standard · business, entrepreneur, finance*
+
+Finance Minister said that Chinese non-tariff barriers are restricting Indian exports of generic drugs, beef, and vegetables, complicating efforts to strengthen trade and improve bilateral relations
+
+[Read full article](https://www.business-standard.com/economy/news/china-s-trade-barriers-remain-a-hurdle-to-closer-bilateral-ties-sitharaman-126101600181_1.html)
+
+---
+
+### Tonbo Imaging India IPO Day 2: GMP at 71%, issue subscribed 4x; Check key details
+*Ritesh Presswala · finance*
+
+Tonbo Imaging India IPO entered its second day of bidding on Friday, amid strong investor interest. The IPO’s grey market premium (GMP) stood at 71%, indicating elevated listing gain expectations in the unofficial market. However, the grey market premium is an unofficial indicator and does not guarantee the stock’s listing performance.
+
+The IPO witnessed an overall subscription of 4 times on Day 1 against 85.26 lakh shares on offer. The retail individual investor (RII) category was subscribed 3.20 times, compared with 42.56 lakh shares reserved for the segment.
+
+The Bengaluru-based defence technology company aims to raise Rs 852.18 crore through the public issue. The IPO is entirely an offer for sale (OFS) of 1.22 crore shares, which means the company will not receive any proceeds from the offering. Instead, the proceeds will go to the existing shareholders selling their stakes.
+
+Tonbo Imaging India has fixed the IPO price band at Rs 665–700 per share. The issue opened for subscription on October 15 and will close on October 19, 2026.
+
+The basis of allotment is expected to be finalised on October 21, while the shares are tentatively scheduled to list on the BSE and NSE on October 23.
+
+The lot size is 21 shares, translating into a minimum investment of Rs 14,700 for retail investors applying at the upper end of the price band. The face value of each equity share is Rs 2.
+
+Ahead of the public issue, Tonbo Imaging India raised Rs 255 crore from anchor investors. The company allotted 36.48 lakh equity shares at Rs 700 apiece, which is the upper end of the IPO price band.
+
+JM Financial and IIFL Capital Services are the book-running lead managers for the issue, while KFin Technologies has been appointed as the registrar.
+
+## **Tonbo Imaging India IPO Subscription Status**
+
+Tonbo Imaging India’s IPO witnessed strong investor demand on Day 1, with the issue subscribed 4 times overall against 85.26 lakh shares on offer.
+
+Among investor categories, Non-Institutional Investors (NIIs) led the subscription with 5.96 times, compared with 18.24 lakh shares offered in the category. Qualified Institutional Buyers (QIBs) subscribed 3.92 times against 24.32 lakh shares on offer.
+
+Meanwhile, the Retail Individual Investors (RIIs) category was subscribed 3.20 times, against 42.56 lakh shares reserved for retail investors.
+
+## **Tonbo Imaging India IPO GMP Today**
+
+Tonbo Imaging India IPO’s grey market premium (GMP) stood at Rs 500 per share, representing a 71.43% premium over the upper end of the IPO price band of Rs 700.
+
+At this GMP, the estimated listing price works out to around Rs 1,200 per share, indicating a potential gain of Rs 500 per share for investors who receive an allotment at the upper price band. However, the GMP is an unofficial market indicator and does not guarantee the actual listing price or listing gains. The premium may fluctuate before the shares debut on the stock exchanges.  
+Financial Performance
+
+Tonbo Imaging India Ltd.’s total income declined 22% to Rs 370 crore in FY26 from Rs 474 crore in FY25. Profit after tax (PAT) fell 30% to Rs 51 crore from Rs 73 crore during the same period.
+
+## **About Tonbo Imaging India Ltd.**
+
+Incorporated in December 2003, Tonbo Imaging India Ltd. is a global defence electronics original equipment manufacturer (OEM) that designs, develops and manufactures advanced electro-optic and infrared (EO/IR), embedded vision, communication, guidance and surveillance systems for defence and security applications. Its product portfolio includes thermal imaging systems, weapon sights, missile seekers, fire control and missile guidance systems, targeting solutions and handheld thermal imaging devices.
+
+The company caters to defence and security organisations across 24 countries, with more than 28,000 systems deployed in the field. According to the company, it is India’s largest manufacturer of thermal imaging systems for government and defence agencies and the country’s largest exporter of such systems by volume, based on FY24–FY26 data. As of June 30, 2026, Tonbo Imaging India had 339 permanent employees across functions including product design and development, manufacturing, project management, sales, finance, human resources and management.
+
+_Disclaimer: The views/recommendations mentioned in this article, wherever applicable, are those of the respective SEBI-registered Research Analyst/brokerage and have been reproduced/reported with due attribution. They should not be construed as the views or recommendations of The Economic Times Digital or the journalist. Readers are advised to consider the original research report and make their investment decisions based on their own assessment. Brokerage disclaimers here_
+
+---
+
+### ‘Suspension of cellular internet services needed in exigencies’: MHA reply to SC notice
+*Dhananjay Mahapatra · regional, india*
+
+Mobile internet has to be curbed in exigencies MHA reply to SC notice
+
+NEW DELHI: Continuing with its tough stand against protesters, the home ministry Thursday sought modification of Supreme Court’s Oct 11 order for allowing “unhindered internet services” and said exigencies such as disturbance of public order required temporary suspension of cellular internet services, as was the case between 10 pm on Oct 9 to 10 pm on Oct 10 in a 4-km radius of Raisina Hill.In an affidavit filed in response to a contempt of court notice, home secretary Govind Mohan justified Delhi Police’s request for suspension of cellular internet services and said it was “found to be a proportionate measure, having regard to the magnitude of the situation and the need to prevent any disturbance of public order in the national capital”.“The suspension was confined to cellular internet services and did not extend to non-cellular internet services or telecommunications services such as wi-fi and broadband,” he said, emphasising that suspension of such services was considered a recognised measure to maintain public order in appropriate circumstances.The home secretary, Delhi Police commissioner and DMRC chairperson tendered unconditional apology to the court through their affidavits before going on to explain why the steps were taken to prevent unlawful gathering at Jantar Mantar on Oct 10.Though the affidavit conveyed an “unconditional apology“ to the court for the “contempt” charge, it marked a defiant assertion of the Centre’s legal competence and willingness to take strong measures to control "illegal“ protests.
+
+Solicitor general Tushar Mehta told a bench of Chief Justice Surya Kant and Justice Joymalya Bagchi that the “apology” was meant to meet a procedural requirement. “The law is well settled that whenever response is filed pursuant to contempt notice, first sentence we write is that we hereby tender an unconditional apology. And thereafter, we have explained how the contempt is not made out,” he said.“It is with reference to compliance of that law that in every affidavit, this is the first paragraph.
+
+Now, in media and social media, things are going on that govt has apologised and they want to say nothing,” he complained.CJI Kant said, “We have not read those media reports, nor are we taking cognisance of any such report.” Justice Bagchi added, “We are neither taking cognisance of the media reports nor your unqualified apology. But by your submissions, it appears to be a qualified apology.”Delhi Police commissioner Anurag Kumar said in his affidavit that permission for the CJP’s Oct 10 protest at Jantar Manor was denied due to past experience of large-scale violence during its July 20 protests, inability of organisers to control supporters and the grave inconvenience caused to general public because of a string of protests from Oct 6-8 that choked central Delhi for days together.Narrating the sensitivity of central Delhi, housing Rashtrapati Bhavan, Parliament, Supreme Court, embassies and other institutions requiring a complex security arrangement as well as measures for maintaining public order, the commissioner said, “No police administration can permit any breach of public order in the national capital, particularly when a call is given by an organisation with a recent history of mob violence, and incidents resulting in injuries to several individuals and the subsequent events of Oct 6, 7, 8.
+
+”He added, “Due to all these marches, central Delhi areas got completely choked and there were huge traffic snarls for long hours, resulting in students and innocent citizens getting stuck in traffic jams, resulting in them missing their trains, airlines etc.
+
+“The gatherings were very aggressive, fuelled by persons under the cover of ‘freelance journalism’, who were physically harassing policemen, some miscreants were misbehaving with lady police personnel resulting in injuries to over a dozen police personnel.”The commissioner said in compliance with the law laid down by the SC, the police removed illegally gathered people from the site where prohibitory orders were in place but those detained punctured the tyres of buses in which they were kept and broke window shields in acts of violence.All those detained for attempting to protest in violation of prohibitory orders were released after a few hours and were kept in makeshift centres, not police lock-ups, he said. Police provided them with “hot, fresh and good meals” and were permitted to leave after the requirement of detention ceased to exist, he added.
+
+---
+
+### India's family offices bet on homegrown AI firms to catch up with US, China
+*Business Standard · business, entrepreneur, finance*
+
+Azim Premji's family office, QED Innovation Labs and Ranjan Pai's family office are backing homegrown AI firms, even as India's AI investment of over $15 bn between 2013 and 2025 trails US and China
+
+[Read full article](https://www.business-standard.com/companies/news/india-s-family-offices-bet-on-homegrown-ai-firms-to-catch-up-with-us-china-126101600176_1.html)
+
+---
+
+### Chandrababu Naidu builds Southern Alliance, reaches out to rival CMs
+*Nidhi Sharma · business*
+
+New Delhi: Andhra Pradesh chief minister and a key NDA ally N Chandrababu Naidu has embarked on a new political outreach –– to bring together the chief ministers of southern states cutting across party lines.
+
+At a time when the BJP-led Centre is grappling with political protests over Chief Election Commissioner Gyanesh Kumar, Naidu is quietly building a Southern Alliance to push his vision of cooperation through complicated projects like interlinking of rivers to solve water woes. Naidu, who is the senior-most and the oldest serving chief minister in India, is using cultural diplomacy to reach out to chief ministers across the political divide. The second edition of Vijayawada Utsav, a cultural festival being hosted in the state capital, has become the epicentre of this outreach. For starters, Naidu extended an invite to all chief ministers, but it is acceptance by non-NDA chief ministers which has made the initiative politically significant.
+
+The first to arrive was Tamil Nadu Chief Minister C Joseph Vijay, whose state is Andhra Pradesh’s principal competitor in attracting industrial investments. Their meeting on Tuesday went beyond the festivities, with discussions on Krishna water supplies to Chennai and the proposed Godavari-Cauvery river-linking project. The meeting came right after Congress MP Rahul Gandhi’s ‘Chhatron ki Goonj’ event in Chennai. But the confirmation list goes beyond INDIA bloc ally Vijay. According to sources, Telangana chief minister Revanth Reddy has accepted the invitation and may attend Vijayawada Utsav on Sunday. Karnataka chief minister DK Shivakumar was expected to attend but has now conveyed he has to host the Chief Justice and will not be able to make it. Both are Congress chief ministers and compete aggressively with Naidu to woo and wean big-ticket investments.
+
+  
+
+The political significance lies in Naidu’s ability to engage leaders from rival political formations while remaining a crucial pillar of the NDA government at the Centre. By placing river interlinking at the centre of these conversations, Naidu is attempting to build common ground among southern states, where water-sharing disputes have historically been politically contentious. His pitch also comes days after he urged Prime Minister Narendra Modi to establish a national water grid. Even as the protests are raging in Delhi, Naidu and his party leaders have maintained silence, steering clear of even off-record remarks.
+
+For Naidu, the festival offers an opportunity to position himself as a regional consensus-builder, balancing his alliance with the BJP at the Centre with his ambitions to make Andhra Pradesh an economic powerhouse. It is a political balancing act in which cooperation over water could provide the opening for a broader southern dialogue.
+
+While the first edition of Vijayawada Utsav last year was relatively low key with Vice-President CP Radhakrishnan gracing the occasion, the guest list of the second edition is particularly star-studded. President of India Draupadi Murmu attended the festival on Wednesday, Ambassador of China Xu Feihong on Thursday and Madhya Pradesh chief minister Mohan Yadav is expected on Saturday.
+
+---
+
+### Ukraine's resumption of strikes on Russian refineries is 'disgrace', Trump says
+*Reuters · business*
+
+Ukraine's resumption of strikes on Russian refineries is a 'disgrace' that keeps global energy prices elevated, US President Donald Trump told the Newsmax news outlet in an interview aired on Thursday.
+
+Ukraine struck a Russian oil refinery after President Volodymyr Zelenskiy declared that Kyiv was abandoning a ceasefire covering energy sites that Trump had announced, and criticised his willingness to strike deals with Moscow.
+
+"All he's doing is making the world oil price higher. Well, I think that's a disgrace," Trump said in the interview, after Ukraine hit a Rosneft refinery southeast of Moscow which helps to supply the Russian capital.
+
+  
+
+"There are a lot of targets you can hit, but when you shoot at diesel refineries where you make, you know, diesel oil, and we need that, and the world needs that, then he's not doing a good service for the world."
+
+Russia rained down missile and drone strikes, targeting energy facilities such as power stations, knocking out supply to hundreds of thousands, and Zelenskiy told the Financial Times that Ukraine's patience had run out.
+
+Trump's administration has been trying to mediate a ceasefire deal to end the war that started with Russia's full-scale invasion of Ukraine in 2022.
+
+He repeated to Newsmax his belief that Zelenskiy and Russian President Vladimir Putin hate each other, which makes it hard to end the conflict.
+
+"I'm not a big fan of Zelenskiy," Trump said. "I think they actually both would like to see it end, but I think I find Zelenskiy to be more difficult to deal with than Putin."
+
+As Trump pressured Kyiv to halt strikes on Russian oil refineries, Ukraine faced reduced usage of a satellite system on which it relies for battlefield communications and drone operations.
+
+The order came from inside the White House, said two US officials and a Western official briefed on the matter, without specifying who there made the decision or was responsible for implementing the order.
+
+---
+
+### Stock Market Opening: Sensex Falls 162 Points, Nifty Slips; IT Stocks Rally
+*Mohammad Haris · business*
+
+At 9:22 am, the Sensex was trading at 74,153.13, down 162.48 points or 0.22%, while the Nifty slipped 32.50 points, or 0.14%, to 22,964.85.
+
+[Read full article](https://www.news18.com/business/markets/stock-market-opening-sensex-falls-162-points-nifty-slips-it-stocks-rally-10384210.html)
+
+---
+
+### University of Liverpool opens first South India campus in Bengaluru
+*India Today Education Desk · general*
+
+## The University of Liverpool inaugurated its first South India campus in Bengaluru with nearly 300 students. The launch expands access to globally recognised degrees and strengthens Karnataka's research-industry links.
+
+The Bengaluru campus will initially offer programmes in Computer Science, Game Design, Business Management, Accounting and Finance, and Biomedical Sciences.
+
+New Delhi,Oct 16, 2026 09:28 IST
+
+The University of Liverpool inaugurated its first campus in South India in Bengaluru on Thursday, with nearly 300 students beginning their studies there, news agency Press Trust of India reported.
+
+The Bengaluru campus will initially offer programmes in Computer Science, Game Design, Business Management, Accounting and Finance, and Biomedical Sciences.
+
+The campus, located at Alembic City in Whitefield, was jointly inaugurated by Karnataka Large and Medium Industries Minister M B Patil, University of Liverpool Vice-Chancellor Tim Jones, Liverpool City Region Mayor Steve Rotheram, British Deputy High Commissioner to Karnataka Harsh Vardhan Shringla and British Council of India Country Head Alison Barrett, officials told PTI.
+
+Patil said the idea of setting up the campus took shape during discussions with the Russell Group of universities when he visited London in November 2024. The visit was aimed at attracting investment in Karnataka's research, higher education and industrial sectors through a roadshow.
+
+He said the Bengaluru campus had been established in a remarkably short period, setting a record. The initiative would allow young people in Karnataka to pursue globally recognised courses and earn degrees without leaving the state, he added.
+
+Patil also recalled the contributions of former British Deputy High Commissioner Chandru Iyer, Pro Vice-Chancellor Professor Tariq Ali and others who helped establish the campus.
+
+According to a statement from the minister's office, Karnataka has 2.7 million students pursuing higher education across 4,500 colleges and produces 160,000 engineering graduates every year. The state also has more than 24,000 start-ups and over 50 unicorn companies.
+
+Patil urged the University of Liverpool to build partnerships with these institutions and enterprises. "Such collaborations would strengthen the links between education, research, innovation and industry," he said.
+
+He said Karnataka offered significant opportunities for collaborative research and innovation in artificial intelligence, advanced manufacturing, biotechnology, clean energy, urban innovation and sustainable development. Such initiatives would benefit the state's industrial ecosystem, making it essential to build strong capabilities in these areas, he added.
+
+### 'OVER 14 UNIVERSITIES EXPRESSED INTEREST'
+
+More than 14 universities from different countries have expressed interest in setting up campuses in Karnataka, according to Patil. Leading institutions from Karnataka and elsewhere in India have also shown interest and signed agreements.
+
+"The campuses and research laboratories of these institutions are expected to come up in KWIN City in the coming years. The government will provide the necessary support and facilities to institutions interested in establishing a presence in the state," Patil said.
+
+Jones said, "We are incredibly proud to have officially opened our first international campus in over 20 years in Bengaluru and to have done so in such distinguished company."
+
+"We are delighted to have recruited close to 300 talented students to study our research-connected, employer-informed curricula this year. We have carefully planned all aspects of their learning experience to ensure they receive the support they need to reach their full potential, and I look forward to their matriculation ceremony tomorrow," he told PTI.
+
+The inauguration marked the opening of the University of Liverpool's first South India campus and the start of classes for its inaugural group of nearly 300 students in Bengaluru.
+
+\- Ends
+
+---
+
+### AI 'most consequential change' to US and global economies in my lifetime: Fed Chair Kevin Warsh
+*SECTIONS AI · business*
+
+Synopsis
+
+Federal Reserve Chair Kevin Warsh called artificial intelligence the most consequential change to the US and global economies in his lifetime, cautioning that its near-term impact on employment remains uncertain. Speaking with IMF chief Kristalina Georgieva, he also flagged global investment growth, rising prices and the Fed’s commitment to price stability.
+
+Fed Chair Kevin Warsh said AI could transform productivity and wealth creation but bring a bumpy transition, as he highlighted global investment growth, rising prices and the Federal Reserve’s commitment to price stability.
+
+Artificial intelligence (AI) is likely to be the most consequential change to the US and global economies in his lifetime, Federal Reserve Chair Kevin Warsh said on Friday, while cautioning that its near-term impact on employment remains uncertain and the transition to a more productive economy could be bumpy.
+
+Speaking with International Monetary Fund (IMF) Managing Director Kristalina Georgieva in a fireside chat in Bangkok, Warsh said AI would reshape the real economy, with its effects likely to be felt on the demand side before the technology delivers a supply-side shock.
+
+AI could make economies and countries that put the technology to good use more productive and generate greater wealth, he said. However, the path towards those gains would not necessarily be smooth, and the impact on employment over the next 12 to 18 months remains unclear.
+
+  
+  
+
+## Global economy: Investment surge and price pressures
+
+Warsh described the current combination of structural growth and an investment surge as one of the most important positive developments in the global economy, arguing that sound macroeconomic policy and strong microeconomic foundations could help sustain the momentum.
+
+“It's probably the most important thing that's happening in the global economy on the upside,” he said, referring to the investment surge.
+
+However, he also pointed to rising prices as a concern shared by central bankers across economies, while noting that the effects differed from country to country.
+
+Warsh said discussions with central bankers during meetings in Bangkok had brought the issue of rising prices into focus.
+
+“To be balanced, as we central bankers have to be, I came out of meetings here yesterday and today, and it's hard to be in a discussion with central bankers and not compare notes and hear the same thing about the surge in prices. It obviously affects each of us differently,” he said.
+
+The remarks put the investment outlook alongside inflation concerns, as policymakers assess how growth, prices and employment are evolving across economies.
+
+## Fed policy, inflation and the road ahead for AI
+
+On US monetary policy, Warsh said the Federal Reserve had made its commitment to price stability clear and had removed a dose of monetary accommodation about a month earlier.
+
+“At the Federal Reserve, we made very clear that we will deliver price stability, and we removed a dose of accommodation about a month ago,” he said.
+
+He declined to signal the direction of future interest-rate decisions, saying he did not believe in prejudging policy meetings or announcing in advance what he might do at the remaining meetings of the year.
+
+Warsh also said the effects of AI needed to be assessed seriously but with caution and responsibility, given the uncertainty surrounding the pace and distribution of its economic impact.
+
+“It's going to do several things. First, it's obviously hitting the demand side of the economy before it's going to hit the supply side of the economy,” he said.
+
+While AI could ultimately lift productivity and wealth, Warsh cautioned against assuming that the transition would be straightforward. Its near-term consequences for employment remain uncertain, even as the technology is expected to change how the real economy functions.
+
+He also acknowledged that his assessment of economic risks may be shaped by his experience of the global financial crisis.
+
+“I might be over-scared from global financial crisis,” Warsh said.
+
+He said policymakers would continue to assess developments in output, employment and inflation as the economic effects of the changing environment become clearer.
+
+---
+
+### Tech Mahindra Shares Rise 3% After Q2 Results, Jefferies Upgrades Stock
+*Anirudh Saligrama · general, business*
+
+Tech Mahindra reported its 12th consecutive quarter of margin expansion, prompting Jefferies to upgrade the stock to Hold and Kotak Securities to raise its target price.
+
+[Read full article](https://www.ndtvprofit.com/markets/tech-mahindra-shares-rise-3-after-q2-results-jefferies-upgrades-stock-12193066)
+
+---
+
+### Wipro Stock Climbs More Than 4% After Healthy Q2 Results
+*Khushi Maheshwari · general, business*
+
+The share price pared some gains to trade 1.7% higher at Rs 177.2 as of 9:22 a.m.
+
+[Read full article](https://www.ndtvprofit.com/markets/wipro-share-price-today-stock-climbs-after-healthy-q2-results-12193063)
+
+
+---
+
 ## 15 October 2026
 
 ### ‘Sport Must Be Part of Education’: Sportz Village CEO Saumil Majmudar on Building India’s Sporting Culture
