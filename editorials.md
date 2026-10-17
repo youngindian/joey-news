@@ -1,10 +1,140 @@
 # Editorials
 
-_Last updated: 2026-10-16 06:13 UTC_
+_Last updated: 2026-10-17 05:58 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 17 October 2026
+
+### Economics Nobel: Terms of stability
+*Deccan Herald · Editorial*
+
+Robert E Hall of Stanford University and Michael Woodford of Columbia University were awarded this year's Nobel Prize for Economics for their insights on how governments and central banks can stabilise economies in uncertain times.
+
+The Nobel citation mentions their contributions “for microeconomic foundations of macroeconomic stabilisation”. Their work has informed measures that stabilised economies in times of disruption caused by external events – from rising energy prices to changes in retail demand patterns. This assumes greater significance at a time when central banks across the world are using rate changes as an effective monetary tool to counter inflation. Last week, the Reserve Bank of India (RBI) raised repo rates after nearly four years, joining other central banks on a tightening drive. This followed a rise in crude prices, a fallout of the war in West Asia, and a spike in inflation.
+
+These stabilisation ideas can be traced to the work of John Maynard Keynes, one of the world’s most eminent economists in the last century. Keynesian models helped major economies in the 1930s to navigate the Great Depression. He countered the idea that economies could automatically correct themselves and address issues such as loss of employment.
+
+US economists Robert Hall, Michael Woodford awarded 2026 Nobel economics prize Keynes proposed that governments raise expenditure, change taxation policies, and effect monetary easing to support and induce demand when economic activity declined. This is particularly so at a time of recession, when falling private consumption and investment adversely impact demand and production, leading to a decline in employment. Keynes’ ideas helped disrupted economies to regain balance and stability. But they came to be questioned later, when economies faced simultaneous challenges of inflation and unemployment. The idea of State intervention did not find favour in a liberalising world.
+
+But Keynesian economics found traction this century. Hall and Woodford have adapted these traditional models to present situations. They have demonstrated how appropriate monetary policies can help reduce volatility. This has been seen in many cases where central banks turned to interest rates for solutions. The idea that expectations of the people and the markets about future interest rates can provide important inputs is accepted now. The Nobel committee said the laureates’ theoretical foundation enabled the world to deal with shocks in the economy, such as a sudden shift in household consumption. Economists rarely agree, so some of their ideas remain contentious. But there is no disagreement on the contemporary relevance of the economic thought they have shaped.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/economics-nobel-terms-of-stability-4185753)
+
+---
+
+### Missing footage, eroding trust
+*Deccan Herald · Editorial*
+
+The Election Commission of India (ECI)’s inability to produce the video recording of vote counting in Karnataka’s Sringeri Assembly constituency, now sought by the Supreme Court in an election dispute, raises serious concerns about its capacity to safeguard electoral integrity. At a time when the poll body is already facing criticism over the Special Intensive Revision (SIR) of electoral rolls and allegations of large-scale voter exclusion, such lapses further erode public confidence. Citizens cannot be expected to trust an electoral process when the institution overseeing it cannot account for crucial evidence.
+
+The Sringeri controversy dates back to the 2023 Assembly election, when Congress candidate T D Rajegowda defeated Bharatiya Janata Party (BJP) candidate D N Jeevaraj by 201 votes. Following Jeevaraj’s election petition, the Karnataka High Court ordered a recount of postal ballots. The recount in May 2026 reversed the result, giving Jeevaraj a 52-vote victory. Rajegowda challenged the order in the Supreme Court, arguing that the returning officer had exceeded the court’s directions by re-verifying 1,251 votes declared valid during the original count. The Supreme Court has allowed Rajegowda to continue as MLA pending its decision.
+
+Sringeri recounting row| 'Won't accept lame excuses': Supreme Court pulls up Election Commission over missing 2023 counting video The missing footage is significant because it could help establish what transpired during the original counting. Questioning how an institution responsible for conducting elections could lose its records, the bench rejected the poll body’s explanation, saying it would not accept such “lame excuses”. ECI guidelines require videography and CCTV recordings of the counting process to be preserved for 45 days after results are declared. Where an election petition or related legal proceeding is pending, however, relevant records must be retained until the dispute is resolved. Therefore, the failure to preserve footage in an ongoing election dispute points to either serious negligence or a breakdown in established safeguards. Either way, the poll body cannot claim ignorance of its preservation rules.
+
+The Court’s warning that it may draw an adverse inference if the footage is not produced is justified. But this alone will not address the institutional failure. The authorities must establish how the recording went missing, identify the officials responsible for its custody and preservation, and initiate appropriate disciplinary action. As the constitutional authority entrusted with conducting free and fair elections, the Commission must meet a higher standard of accountability. In electoral disputes, evidence is the foundation of legitimacy. When critical material disappears while a contest remains sub judice, it is not merely an administrative lapse; it strikes at the credibility of the electoral process itself.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/missing-footage-eroding-trust-4185752)
+
+---
+
+### Case closed, dispute unresolved: SC leaves questions on press freedom and legislative privilege unanswered
+*Deccan Herald · Opinion*
+
+The Supreme Court of India recently disposed of a two-decade-old case in just 14 minutes. The case raised a consequential question: Can a legislative assembly use its privilege powers to punish the press for criticising its members? The dispute arose in 2003, when the Tamil Nadu Legislative Assembly passed a resolution ordering the arrest of certain journalists of The Hindu over reports criticising the then Chief Minister J Jayalalitha and the conduct of proceedings in the Assembly.
+
+When the Court finally heard the case this month, it found that the Assembly had already withdrawn the resolution in 2004. Consequently, it did what courts do when disputes cease to exist: it declared the case ‘infructuous’ and left the larger question open for another day. In a Court beset by rising pendency, this may seem entirely sensible. But the decision reveals something troubling about how the Supreme Court functions as a constitutional court and what it means for our rights.
+
+First, the case, N Ravi v. Speaker, had been pending before a constitution bench since 2004. The delays before constitution benches are hardly news. According to Vidhi’s Constitution Bench Pendency Project, cases currently pending before constitution benches have remained so for close to eight years. But 21 years is egregious even by this standard. Constitution benches are constituted precisely because the questions before them matter beyond the parties in the case. Indefinite delays in such cases are therefore a cause for concern.
+
+Freedom of press cannot shield irresponsible journalism: Delhi High CourtThe present case was also deciding something far beyond the fate of the journalists involved. Article 194 of the Constitution gives legislative assemblies certain powers and privileges, including the power to punish non-members with sanctions ranging from admonishment to imprisonment. This power traces its origins to the United Kingdom’s House of Commons, where parliamentary privilege is intended to protect the functioning of Parliament from obstruction.
+
+In this instance, the proceedings were triggered by criticism of CM Jayalalitha’s conduct in the Assembly. The objection was to the use of phrases such as “stinging abuse”, “unrestrained attacks on the opposition”, “fumed”, “incensed”, and “chastisement” in reference to Jayalalitha’s speeches. The Assembly also objected to the suggestion that it was abusing its privilege powers to protect the reputation of individual legislators. None of this, however, obstructed the functioning of the Assembly. And the House of Commons, from which these powers are derived, has not used them to punish a journalist for criticising its MPs since 1957. The case thus raised important questions about press freedom and the broader fundamental right to freedom of speech.
+
+These questions are far from ‘dead’ or ‘academic’, as some advocates have suggested. Comedian Kunal Kamra is currently facing breach of privilege proceedings in Maharashtra over a satirical portrayal of Eknath Shinde in his stand-up. Journalist Nikhil Wagle was jailed in 2004 after criticising the legislature for attacking an academician’s scholarly piece. In 2017, the Karnataka Assembly imposed a one-year imprisonment on two regional journalists. There was therefore no shortage of reasons for the Court to settle the question.
+
+And it has chosen to do so in the past, even when the underlying dispute ceased to exist. In G S Parulekar v. Maharashtra (1964), the Court decided a habeas corpus petition even after the detention order had been revoked, noting that the questions were “of general importance and are likely to arise in many cases”. The Dawoodi Bohra case was referred to the nine-judge bench hearing the Sabarimala review on broader questions of constitutional interpretation even after the underlying Act had been repealed. And most recently, in Jai Bir Singh, the Court decided the meaning of “industry” even after the legislation under challenge had been replaced by the Industrial Relations Code, 2020. So why not this case?
+
+When a bench refers a matter to a constitution bench, it acknowledges that the question is bigger than the dispute before it. The answer matters to how the Constitution is understood and applied. By failing to adjudicate these cases in time, the Court undermines its role as the final arbiter of the Constitution. The decision not to resolve the constitutional questions in N Ravi sets a troubling precedent. With constitution bench cases routinely delayed, what is to say that this question will not meet the same fate when it is raised again? For citizens whose rights are contingent on this question, an answer could well never come.
+
+(The writer is a senior resident fellow, Judicial Reforms, at the Vidhi Centre for Legal Policy)
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/case-closed-dispute-unresolved-sc-leaves-questions-on-press-freedom-and-legislative-privilege-unanswered-4185747)
+
+---
+
+### The cockroach in the room: A satirical take on cleanliness, politics and transparency
+*Deccan Herald · Opinion*
+
+“What are you thinking of, Mina?” asked my husband, seeing me lost in thought. “Of some new pest control tactics”, I replied.
+
+“You are the expert on that subject. No cockroach dare enter our home. You could be the chief adviser to the government. Offer tips on managing the Cockroach Janta Party (CJP).”
+
+“Ha ha! Yes, I have long experience in this line. Creepy crawlies give me the creeps. Have to keep them at bay. They are master survivors. Will come back at you in a million different ways. It takes a great deal of innovative thinking to outwit these creatures.”
+
+'Rakhi Aur Istefa Mubarak': Abhijeet Dipke marks Raksha Bandhan with Cockroach-themed rakhi“Ok, let’s look at some of your creative cockroach-control measures. Spill the beans, Mina.”
+
+‘Spill’ is the operative word, Anand. The first rule is to ensure that food does not spill on the floor. Cockroaches have a great sense of smell and are ever on the prowl.”
+
+“So that’s why the CJP keeps scenting blood? With the paper leaks
+
+(spills), they had a field day, and now with the SIR, could they be smelling a rat?”
+
+“I don’t know much about rats, except that they leave a sinking ship. To come back to cockroach deterrence: Never leave a sugary trail around the kitchen. Cockroaches love sweet stuff and can sniff sugar a mile away.”
+
+“So it’s important that the powers-that-be never sugarcoat the facts?”
+
+“Exactly. And there’s my unique invention in cockroach prevention. I never throw chocolate or candy wrapping into the dustbin, but store the packaging overnight in the freezer.”
+
+“So that the nightly marauders are not tempted by any heady scent to enter my kitchen. Next morning, I simply put away the wrappers, along with the daily waste.”
+
+“Ingenious, Mina! But the establishment is seemingly doing the opposite. It’s the cockroaches who are in the cooler.”
+
+“Eeks! But flying cockroaches can escape. I’ve had these missiles come charging directly at me. Scary.”
+
+“Oh, so that’s why the Delhi Police emplaned, before the CJP could ‘fly off’ to Jantar Mantar!”
+
+“Yes, it’s challenging, dealing with roaches. A broom comes in handy to sweep away a determined encroacher.”
+
+“You’re always with a broom, Mina – removing a cockroach, an ant, or any other unwanted invader. You could walk into the AAP or even make the Indian Cricket Team – as a clean sweeper.”
+
+“Being squeaky clean is of the essence, Anand. Cockroaches like dark, damp, dirty spaces.”
+
+“Then, by your logic, Mina, the CJP, when calling for transparency from the EC, is making a self-goal.”
+
+“Don’t you see – your whole premise is that premises should be kept spotless. Therefore, all the EC has to do to keep cockroaches away is to…”
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/the-cockroach-in-the-room-a-satirical-take-on-cleanliness-politics-and-transparency-4185751)
+
+---
+
 ## 16 October 2026
+
+### A necessary corrective: On the SSR, the special summary revision of electoral rolls
+*The Hindu · Editorial*
+
+The Election Commission of India (ECI)’s announcement of a special summary revision of electoral rolls in 14 States and three Union Territories is, on the face of it, a routine exercise. This annual exercise to enrol new electors was stalled last year due to the Special Intensive Revision (SIR) of electoral rolls, and resumes with January 1, 2027 as the qualifying date. Seen alongside what is simultaneously going on, however, the exercise is a corrective to the missteps in the SIR. The ECI is also conducting a “special drive” to re-enrol those “left out”, using the original Form 6 without the ancestry declaration. It has capped Form 7 objections amid reports of bulk filings in several States and will release searchable electoral rolls in text PDFs to parties and candidates. Together, these measures add up to an implicit admission about the severe flaws in the SIR. The drive is the most telling. By dispensing with mapping to older rolls and logical-discrepancy checks, it concedes that the SIR’s insistence on them was unnecessary. For States that are going to polls early next year — Uttar Pradesh, Punjab and Uttarakhand – this is a welcome opportunity to repair the truncated rolls prepared by the SIR. Those wrongly deleted can now be re-enrolled, and newly eligible electors can be added, without recourse to “logical discrepancy” checks or quasi-citizenship tests. The ECI must report re-enrolments (after deletion) separately from fresh enrolments and the special drive’s house-to-house visits must ensure that the burden of re-enrolment does not fall on the electors again.
+
+For States that have already voted on the basis of SIR rolls, however, a number of questions remain. In West Bengal, appellate tribunals have disposed of barely 3% of the 38 lakh appeals, 22 lakh of them by deleted electors, and restored the electors in 93% of the cases decided. The ECI has yet to say whether these appellants can also use the new drive or what becomes of the tribunals. In States such as Bihar, where the gender ratio fell from 907 in the 2024 Lok Sabha rolls to 892 in the SIR rolls, young married women who were struck off must be allowed the opportunity to re-enrol. The Supreme Court of India, which upheld the SIR in May and is now hearing petitions concerning West Bengal, Delhi and the Commission’s conduct, should ensure that genuine voters are reinstated on the electoral rolls. The ECI’s 2002-03 guidelines show that a revision need not shift the burden on to the elector. Any future intensive revision must revert to that model. The corrective steps owe much to the sustained protests against the SIR. But they are not enough for accountability. The two Election Commissioners objected on record to decisions taken by the Chief Election Commissioner (CEC) of India, and their questions remain unanswered. The appointment process laid down in Anoop Baranwal, which the government got overturned in Parliament in 2023 and on which a two-judge Bench delivered a split verdict last month, must also be settled. And the official who presided over the flawed process, CEC Gyanesh Kumar, must resign.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/a-necessary-corrective-on-the-ssr-the-special-summary-revision-of-electoral-rolls/article71593451.ece)
+
+---
+
+### Ripples from the future: On the Nobel Prize for Economics 2026
+*The Hindu · Editorial*
+
+This year’s Nobel Prize in Economics has been awarded for work that is particularly crucial in the current global context. Implications from the work also have lessons for Indian policymakers, some of which have already been learnt, while others remain a work in progress. The crux of the research done by the laureates Robert E. Hall and Michael Woodford is in quantifying the future-looking aspect of the consumption and pricing decisions made by households and companies, respectively. Bringing empirical backing and rigour to this aspect, as the laureates have done, has helped policymakers identify economically distressed segments of the population, implement more effective policies during supply shocks, and communicate their policies better. Mr. Hall’s research in particular has helped governments identify the exact proportion of consuming households that are living hand-to-mouth. This is of vital fiscal importance for countries such as India. At the moment, India provides free food to more than 81 crore people, based on estimates that are between 13 to 15 years old. Using data — as Mr. Hall’s research allows — to identify those who truly need help will streamline the government’s subsidy expenditure at a time when fiscal room is tight.
+
+Mr. Woodford’s work brought to light the importance of companies’ future expectations when setting current prices. The private sector Purchasing Managers’ Index serves as a measure of companies’ expectations for a month ahead, but there is a need for a government survey for longer time periods. Another key aspect brought out by the laureates’ work is the need to effectively communicate policy decisions to the public. Apart from rare instances, the government has been sorely lacking in this regard. This lack has been seen time and again, such as during its attempts to pass the Farm Laws, Labour Codes, and Citizenship (Amendment) Act, to name a few. Households and companies feel more secure making economic decisions when there is medium term policy clarity and certainty. The framework developed by the Nobel laureates thus also highlights the sheer damage the war in West Asia is inflicting over and above the loss of life and asset damage. The future looks grim and uncertain, and its effects are rippling backwards in time to the present.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/ripples-from-the-future-on-the-nobel-prize-for-economics-2026/article71592499.ece)
+
+---
 
 ### A contested UNSC seat poses a test for India
 *The Hindu · Opinion*
@@ -38,6 +168,95 @@ Before choosing an option, the government must undertake a cost-benefit analysis
 The path to securing another non-permanent seat on the UNSC next year is not easy. India’s win can only be guaranteed by defeating the ambitions of its old friend and regional partner — the choice is between a Pyrrhic victory versus a tactical defeat. In the bigger war for India’s rightful place as a permanent member of the UNSC — one whose voice represents the aspirations of the Global South — this is a battle that could be avoided.
 
 [Read full article](https://www.thehindu.com/opinion/lead/a-contested-unsc-seat-poses-a-test-for-india/article71589330.ece)
+
+---
+
+### Metrics to minds — restoring purpose to universities
+*The Hindu · Opinion*
+
+There was a time when a national examination served a clear and limited purpose in India: to find a few thousand officers, soldiers and engineers, and to do it fairly across a vast subcontinent. That restraint is gone. We have taken the logic of the Indian Administrative Service (IAS) and the Indian Institutes of Technology (IITs) and stretched it across every discipline, every college and every career. A device designed for the few now governs the many. And the country is paying the price for this overreach.
+
+The National Eligibility-cum-Entrance Test (NEET), the Joint Entrance Examination (JEE), the University Grants Commission National Eligibility Test (UGC NET) and other examinations now test lakhs of candidates across disciplines ranging from oncology to organic chemistry and from history to Punjabi literature, all funnelled through the same multiple-choice format. Understandably, this method is designed for uniformity, when in fact it is being used to identify talent, reasoning ability and critical thinking. This precisely is what uniform testing misses out.
+
+Let departments decideThe alternative is simple. Let institutions choose. No national agency can tell what a good student of literature or physics is made of better than the department that will admit her. Departmental examinations indeed, restore judgment to faculty, and freedom to students to apply where their aptitude lies, not where a single all-India rank deposits them. This is not nostalgia. It is the norm in the very systems in the West that we hold up as models.
+
+Related StoriesCUET-UG set for a makeover. But can NTA deliver?
+
+The importance of reform in higher education in India
+
+NEET paper leak fallout: Why NTA must transform into a single digital testing authority
+
+Professorial appointments were once based on discussions with people who knew the work. It was an examination of judgment through intellectual interchange, not of facts. Teachers, who were superb, often went beyond the syllabus and were always ready for a dialogue. None had sat the NET. Today, there are many students with far more talent than the test rewards. They fail not because they cannot think, but because the test does not ask them to. It merely asks them to master a technique. We have, in the name of standardisation, built a mechanism that rejects exactly what it claims to examine.
+
+No education body appears to have ever conducted the historical comparison that would make this argument undeniable rather than anecdotal. I would wager what such a survey would find, having watched the change from the inside for decades. The quality of discussion in a classroom, the depth of a student’s reading, the willingness of a teacher to be genuinely questioned rather than merely quoted, has thinned considerably. What has replaced it is a generation arriving through memorisation-heavy, choice-based testing, showing little of the wide, unstructured reading that used to be simply assumed of anyone entering a classroom. The examination has indeed changed what the classroom was meant to be.
+
+The numbers gameThe same malady runs through the procedures of recruitment. Selection committees increasingly lean on publication counts and research scores. Minimum publication requirements attached to promotions and appointments have created a market for papers rather than a market for ideas. Journals of no discernible academic standing exist largely to accept whatever applicants must publish to meet prescribed research-score requirements by a given deadline. The University Grants Commission’s 2018 Regulations discontinued the earlier API-based Performance Based Appraisal System (PBAS) and introduced a revised assessment framework incorporating research scores. Yet, the underlying problem persists. Academic achievement is still too often reduced to what can be counted.
+
+How can India make quality higher education affordable?The same arithmetic has hollowed out the PhD itself — this is being said based on direct observation rather than hearsay. When a candidate’s doctorate is weighed for a teaching post, 30 marks are commonly set aside for it in the selection matrix. This is a substantial share of the total. Yet, almost none of that weight indicates the quality of the mind behind the thesis, the rigour of the argument, or the calibre of the papers the candidate drew from it. Getting the International Standard Book Number (ISBN) or an International Standard Serial Number (ISSN) is no evidence of scholarly merit. So-called authenticated journals publish across seven or eight disciplines under a single title, a “Journal of International Studies” that will print history, management, literature, and law in the same issue, with no serious process of sending submissions out to qualified referees. Whoever submits, gets published.
+
+Moreover, the exercise of supervision has grown just as flimsy at the other end of the pipeline, something visible in a doctoral thesis dashed off with a report from a supervisor who has not properly read it. The viva voce sadly stands reduced to a formality so thin that those who sit through it treat it as something of a joke.
+
+The skilling paradox in India’s universitiesThe absurdity reaches its peak at the vice-chancellor’s chair. Search committees have been observed asking candidates how many patents they hold — a question with no relevance whatsoever outside a narrow band of applied science. The answer has been observed to favour candidates from the Science, Technology, Engineering and Mathematics (STEM) fields almost by design. This is because a scientist running a large laboratory can attach his name to every research candidate’s paper that passes through it, thus inflating a publication count which no humanities scholar working alone could ever match.
+
+Such a candidate arrives at the vice-chancellor’s office having spent an entire career inside one laboratory, with no exposure to the university beyond it. It would not be incorrect at all to say that a vice-chancellor of this kind has, in many cases, never read a novel or a poem, and he is being asked to preside over an institution whose purpose is precisely the cultivation of minds beyond the laboratory.
+
+Reimagining India’s universities: Lifelong learning as the blueprint for financial revivalNone of this can be fixed by adjusting the metrics alone, because a great many selections never really turn on metrics in the first place. Too many appointments in Indian universities are settled by networking rather than judgment. Merit, in such cases, was never actually the criterion being weighed.
+
+This writer’s own interview for the post of associate professor had a committee of four of the most eminent professors in the country, headed by a genuinely learned vice-chancellor; the interview was conducted for over 40 minutes. It was a rigorous, unhurried conversation, and the selection that followed was entirely fair, without a single string pulled on anyone’s behalf. That is the standard against which today’s appointments, and for that matter today’s admissions, ought to be measured.
+
+Let us be clear. Harsher laws will not repair a broken system. Penalties for examiners and testing agencies may punish a lapse, but they do nothing to prevent it. If we want universities that can compete globally, we must start where quality is actually made. This is happening in university departments through appointments made by peers who are willing to be answerable for their judgment. This is the operating logic observed at many universities of higher learning.
+
+Not for reasons of nostalgiaDecentralising examinations back to faculties, and restoring appointments to peer scrutiny and not point-scoring, is not a wistful turn. It is a claim about what a university is for. It demands more time, more accountability, and the courage to defend a choice without a number to hide behind. In return, it gives institutions back their proper responsibility to select candidates not for “cracking” the examination, but for their intellectual competence. If we want universities that form minds rather than calculate scores, we must restore our trust in the academic judgement of those who work within them. Their integrity should be the measure of their decisions, and society must ultimately hold them accountable not for the scores they assign but for the quality of their judgement.
+
+Shelley Walia has taught cultural and literary theory at Panjab University Chandigarh
+
+[Read full article](https://www.thehindu.com/opinion/lead/metrics-to-minds-restoring-purpose-to-universities/article71593596.ece)
+
+---
+
+### DC Edit | Govt Stays Determined To Stifle Anti-SIR protests
+*Deccan Chronicle · Editorial*
+
+As ‘cockroach’ protesters took to the streets of New Delhi again on Friday, more questions have arisen over where the protests are heading and whether the government reaction to them, which has thus far been only about throttling the voices of dissent, will change at least to grant freedom of expression of disagreement in a highly regulated environment.
+
+Sustained demonstrations of youth anger have evolved from starting as protests against the misconduct of entrance tests and the leaking of question papers to seeking the ouster of the chief election commissioner as a first step to electoral reforms and on to a wider fight over the fundamental right to protest after two CJP members were ordered into judicial custody for five days when they entered Jantar Mantar, by then denotified as a protest site.
+
+The hostile attitude of the establishment has led to bizarre methods of strangling the protests rather than speaking to protesters as they did when question paper leaks were the leading cause of protests. A siege mentality was very much in evidence as forces brutalised sections of protesters — journalists were not spared either — to retain control of protest sites that were made off-limits to the public.
+
+Protests the world over trigger different responses from governments but France, which is seeing countrywide student protests, may have found a kind of balance in keeping the space for expressing dissent open while cracking down on its excesses like rioting that often accompany large scale public protests.
+
+There have been several examples of police excesses in India as law & order keeping forces demonstrate their power to muzzle and strength in handling protests. The fact that Opposition parties have swung into action to make capital out of youth anger — which is their democratic right too — and attempt to capture power has seen the situation explode into an incendiary political scenario.
+
+The Supreme Court may have ticked off the Leader of the Opposition for leading a crowd towards the supreme seat of the judiciary to which people of a democracy must be respectful because it is considered a fair arbiter. But the courts are duty bound to examine the fundamental charge against the Election Commission of slanting the electoral system, which has been the fount of India in its democratic history, to facilitate the powers that be to consolidate their position.
+
+The court did warn that the government was taking a hammer to kill a fly as it pursued the path of total opposition to protests, like converting the capital into a fortress and stopping all transport and diverting traffic to seal the regular protest sites. Curiously, some non-BJP governments, too, did take measures to curb protests.
+
+The Bangladesh example being quoted of civil demonstrations bringing about a regime change militates against basic democratic principles since a nation in which parties opposed to the prevailing establishment either boycott the polls or are banned from participating in elections, as was the case with Sheikh Hasina’s Awami League party in the most recent polls, cannot be considered a “mother of democracy.”
+
+The issue is not whether the CEC, seen as the arch villain who tweaked Form 6 to make staying on the rolls a problem for even legitimate voters, goes or not. It is up to the top court to say if he did indeed sully the process to the extent of casting serious doubts on the legitimacy of the revised poll rolls.
+
+What must be decided upon soon is whether the entire SIR process, which had the blessings of the SC, should be considered illegal and the rolls handled now in such a way as to be inclusive of all save those who have either died or are ineligible to vote as they cannot prove they are genuine citizens of the country.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-govt-stays-determined-to-stifle-anti-sir-protests-1996493)
+
+---
+
+### DC Edit | Jio’s Next-Gen Growth Strategy
+*Deccan Chronicle · Editorial*
+
+Reliance Industries chairman Mukesh Ambani’s daughter Isha Ambani recalled that a failed attempt to upload a college assignment back in 2009-10 because the “Internet did not work” sparked the idea and conversations that became Jio, which went on to become the country’s largest telecom company.
+
+Identifying consumer needs is the key trait of an entrepreneur. As the reported incident shows, the future of the company and its shareholders is secure with the next-generation leaders of Reliance Industries Ltd., the country’s largest company.
+
+Though the press conference organised by Jio Platforms ahead of its initial public offering (IPO) on October 21 aimed to discuss the company's growth strategy across mobile connectivity, home broadband and enterprise services, the event also appears to have launched Akash Ambani and Isha Ambani as the face of India’s largest telecom company.
+
+Pitching itself as a technology firm rather than a pure-play telecom and aiming to sell its technology to global consumers is a sound strategy for the company. An entrepreneur who does not embrace technology will ultimately go out of business. If the company develops massive technological infrastructure for in-house consumption without exploiting it commercially, it locks up its potential business value.
+
+Ever since its IPO in 1977, Reliance Industries and its founder Dhirubhai Ambani have been key players contributing to the growth of Indian equity markets. The success of Jio in enriching investors, especially those in the retail segment, would continue the legacy of its founder.
+
+According to some estimates, the Reliance Group will overtake the 159-year-old Tata Group as the country’s largest conglomerate by market capitalisation following Jio’s debut in the equity market. This development testifies that hard work and dedication to consumers are the foundation of business. This is an important lesson that youth should imbibe from the Reliance story.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-jios-next-gen-growth-strategy-1996498)
 
 ---
 
@@ -87,6 +306,53 @@ The government's primary responsibility is to regulate markets fairly, protect n
 
 ---
 
+### As Britain Softens Stance On Europe, Farage Takes A Dangerous Gamble
+*Deccan Chronicle · Opinion*
+
+“Is there no peace from
+
+Memories that take their toll?
+
+Answer comes there none!
+
+Is there no cease from
+
+Thoughts that your heart can’t control?
+
+— Moon eclipse your sun!”
+
+—From The High Coup by BachchooDoes material self-interest trump xenophobia? This may seem, gentle reader an abstract and perhaps idiotic question, but in today’s UK politics it’s an essential one.
+
+Allow me to explain. Polling in Britian today indicates that the Labour Party’s popularity under the new PM Andy Burnham is six points ahead of the closest Opposition party, Nigel Farage’s Reform. The Tory Party, for centuries the main governing or Opposition, trail a little behind, though its current leader Nigerian-born Kemi Badenoch, imitates some of Reform’s right-wing policies to win back votes from it.
+
+Though right-wingers have called for a snap general election, on the grounds that Burnham does not have a countrywide mandate and occupies No. 10 Downing Street through an internal Labour Party coup, he is, of course, constitutionally secure at that address (even though, with his professed focus on distributing power from London to the regions, he insists it’s not his prime residence). Burnham has repeatedly ruled out a snap election and insists he will see out this parliamentary term, till 2029. Then the country goes to the polls.
+
+Reform has, in the last few weeks, acquired £72 million to spend, primarily, on campaigns towards that election. It has begun to spend the money, donated by two crypto-billionaires resident outside Britain, on just that — with far-right campaign policies.
+
+Last week Farage declared that if Reform won the next election, he would ban all immigration and asylum seekers from the country for his full five-year term, and in addition would use parliamentary powers to deport thousands of asylum seekers already in the country. The announcement is — yes, no prizes for having guessed it — aimed at what Farage believes is the tried and tested xenophobia of the British voting public.
+
+But is he right? He was one of the chief advocates of Brexit — the 2016 referendum to leave the European Union. While other advocates of “Leave”, such as Boris Johnson, made some lying promises about economic gain, Farage relied on “keep Johnny Foreigner far hence” as he’s corroding British culture, life and… through clear implication “taking our jobs, sponging off welfare and stealing our men and women as sexual partners”.
+
+Despite the 52% vote for Brexit in 2016, most of which I attribute to xenophobia or to “take back control”, which appeals to the British as “let’s make our own laws and not be governed by Johnny Foreigner”, things have changed.
+
+Brexit has damaged British exports; bureaucracy for trade has gone through the roof and now the population is waking up to the fact that it has actually affected the cost of living. Recent polls declare a vast majority of voters are now in favour of — if not rejoining the EU immediately — negotiating better terms tantamount to steps towards, at least, associate membership.
+
+Burnham’s government has digested this positive statistic but is, so far, being strategically cautious. Andy has announced his intention to renegotiate certain terms of Britain’s trade, security and co-operation on immigrations with the European Union. He intends to negotiate immediately on these three fronts, without committing to a referendum on rejoining the EU until such an intention enters the Labour election manifesto in 2019.
+
+This renegotiation is calculated to put a greater distance between Labour and Reform, who have stated that they want to withdraw further from any European connection by leaving the European Court of Human Rights. Declaring an intention to get concessions from Europe will certainly wrong-foot Farage and gang.
+
+Of course, Burnham understands that declaring an intent to rejoin the EU will again bring to the forefront the question of the free movement of European citizens. Reviving the idea of Europeans coming here freely.
+
+The statistics should, and I think do, indicate that material self-interest has for now, trumped British xenophobia.
+
+Farage has no doubt absorbed the poll’s results. He reacted by making his xenophobic trump card even more severe — again xenophobia and even racism. Hence the pledge to stop all immigration, to use the Royal Navy to turn back or perhaps even apprehend or drown asylum seekers’ rubber dinghies as they cross the English Channel and attempt to land on British shores.
+
+Farage realises that in order to seem like a party of government, he ought to put some distance between Reform and open thuggery, and he consequently condemns the few hundred masked men who gathered in Dover and Portsmouth to protest the arrival across the Channel of asylum seekers. He doesn’t condemn their intentions — only their masks. Even as Reform’s ads condemn these wearing masks, they spend double the ads on social media and other campaigns to ban the wearing of burkhas and niqab in...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/as-britain-softens-stance-on-europe-farage-takes-a-dangerous-gamble-1996477)
+
+---
+
 ### Festival Of Barricades: Who Is Covered In Viksit Bharat?
 *Deccan Chronicle · Opinion*
 
@@ -123,6 +389,35 @@ Yet, tellingly, while the state can cordon off a stretch of road, it cannot so e
 The massive removal of voters has moved beyond a purely political battle and risks hampering economic and human development...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/festival-of-barricades-who-is-covered-in-viksit-bharat-1996251)
+
+---
+
+### Has BJP Finally Breached Assam’s Muslim Fortress?
+*Deccan Chronicle · Opinion*
+
+A Lok Sabha constituency in Assam with a dominant Muslim electorate has delivered a victory to the BJP, a party whose leaders have repeatedly asserted that they do not need Muslim votes to win. In Nagaon, the constituency that saw a by-election recently, the political paradox is stark: BJP candidate Devasish Sharma has defeated Maulana Badruddin Ajmal, the president of the AIUDF and one of Assam’s most prominent Muslim leaders, while the Congress has slumped to a distant third. The result has turned a local electoral contest into a larger question about the future of minority politics in Assam.
+
+Has the BJP finally breached the Muslim political fortress? And if it has, what does that mean for a state where Muslims account for roughly 34 per cent of the population, according to the 2011 Census? The verdict challenges the conventional wisdom that Muslim voters will invariably rally behind the Congress or parties such as the AIUDF. But an electoral victory, however striking, is not proof of a wholesale political realignment. The real story lies in understanding why voters may have crossed traditional political lines — and whether their choices signal lasting trust, tactical pragmatism or a search for security in an uncertain political climate.
+
+The most striking feature of the Nagaon verdict is Mr Ajmal’s defeat. For years, the AIUDF chief cultivated a political constituency by presenting himself as a defender of minority interests. The Congress, meanwhile, relied heavily on minority support to remain electorally competitive across several parts of Assam.
+
+In Nagaon, both strategies appear to have faltered spectacularly. Given the constituency’s substantial Muslim electorate, Mr Sharma’s victory raises the possibility that a significant section of Muslim voters crossed conventional political lines to support the BJP. Yet the distinction between inference and evidence matters. Election results do not record voters’ religious identities, and aggregate figures cannot establish precisely how many Muslims voted for Mr Sharma. Booth-level analysis and credible voter surveys would be necessary to determine the extent of this shift.
+
+In Assam, land is far more than an economic asset. It is linked to identity, citizenship anxieties, livelihood and the security of families who have lived for generations with uncertain land rights. Eviction drives on government land have become one of the most contentious issues in the state, particularly for vulnerable communities.Could some Muslim voters have concluded that supporting the ruling party is a more effective way of protecting their immediate interests than opposing it? The possibility cannot be ruled out. When a family faces the prospect of losing its home or livelihood, political ideology may take a back seat to the practical question of survival. A vote for the ruling party might be an attempt to secure access to the administration, obtain a hearing or avoid being left outside the political system.
+
+There could also be expectations that closer engagement with the government might improve the chances of obtaining land pattas (deeds) or regularising possession where legally permissible.
+
+But these remain hypotheses, not established explanations for the Nagaon verdict. There is no basis for concluding that fear of eviction or expectations of land rights were the decisive motivations of Muslim voters without supporting evidence. Nor does a BJP victory constitute a promise of protection from eviction or regularisation of land. The real test will be whether the government responds fairly to legitimate claims, follows due process and applies the law without discrimination.
+
+The verdict is also a serious indictment of Mr Ajmal’s political strategy. For years, he occupied a central position in Assam’s minority politics, challenging the Congress’s traditional hold over sections of the Muslim electorate. But identity-based political mobilisation has its limits. Community loyalty cannot indefinitely substitute for effective representation, credible leadership and tangible results.
+
+The Nagaon outcome suggests that at least some voters may be unwilling to follow familiar political leaders simply because of their community identity.
+
+The Congress, too, has reason to worry. Its distant third-place finish raises uncomfortable questions about its organisation, leadership and ability to remain a credible alternative to the BJP. The Opposition’s traditional assumption that minority votes can be consolidated through an appeal to secularism and fears of majoritarian politics may no longer be sufficient everywhere. Voters may be asking a more immediate question: What can a party actually deliver?
+
+That does not mean identity has ceased to matter. It means identity alone may no longer determine electoral choices. There is, however, a larger contradiction at the heart of this election. The BJP has built much of its political strength in Assam around indigenous identity, illegal immigration,...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/has-bjp-finally-breached-assams-muslim-fortress-1996454)
 
 ---
 
@@ -21950,248 +22245,6 @@ F Scott Fitzgerald defined a first-rate intelligence as the ability to “hold t
 Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
 
 [Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Jul/18/split-screen-ai-moonshots-trip-tech-hiring)
-
----
-
-## 18 July 2026
-
-### ​Battling drug abuse: On Kerala’s Operation Toofan
-*The Hindu · Editorial*
-
-For a few years now, a growing section of Kerala’s youth has been consumed by a festering addiction to narcotic drugs and contraband/psychotropic substances. The signs of the State teetering towards substance abuse were apparent in the wake of the liquor ban a decade ago. But it grew to gargantuan proportions with synthetic drug cartels using digital technologies and social media to outpace law enforcement. While the COVID-19-stricken years of 2020-21 saw a drop in NDPS cases registered in the State, cases surged to 26,619 in 2022 from 5,695 in 2021. The number rose to 36,314 in 2025, alongside large-scale seizures of commercial quantities of contraband. Commercial capital Ernakulam city accounted for a substantial number. Despite efforts by multiple agencies, success has been limited. The UDF government sought to streamline the anti-drug enforcement drive by launching Operation Toofan in June, with the State police joining hands with the police forces in the southern States, central agencies, and State education, health and excise departments.
-
-Focusing on integrated enforcement, public engagement, rehabilitation of victims and a speedy and effective prosecution, the operation has, until July 15, netted over 7,600 drug peddlers in some 7,100 cases, with synthetic drugs accounting for a significant share of the haul. Given that narcotics cases are often weakened by questionable forensic reliability, the issue has gained sharp focus during the ongoing campaign. The network of drug cartels is often too intricately webbed, with investigations often netting only the small fish. Besides bringing the community on board as Toofan warriors, the campaign aims to strengthen national intelligence-sharing and coordination systems under the NCORD framework, including the NIDAAN database of arrested narco-offenders. Kerala Home Minister Ramesh Chennithala is meeting Chief Ministers to solicit jointness in the operations. The States are in the process of assigning nodal officers for close coordination, with a platform in the pipeline. Since the rackets employ innovative means to recruit carriers, coordinate among themselves and carry out delivery, Kerala needs to upskill the District Anti-Narcotics Special Action Force (DANSAF) personnel at the cutting edge to bust these networks. Equally important is to strengthen cyber forensic capabilities so that neither investigation nor prosecution is found wanting in taking these cases to their logical conclusion. The crippling effects of narcotics on society are manifold, and it is never too late to build a defence against them.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/battling-drug-abuse-on-keralas-operation-toofan/article71234342.ece)
-
----
-
-### India’s Parliament must not stage its Cadaver Synod
-*The Hindu · Opinion*
-
-In January 897 CE, Rome witnessed the strangest trial in the history of the Church. Pope Stephen VI ordered the corpse of his predecessor, Pope Formosus, dug up from its grave. Formosus had been dead for about nine months. His body was dressed in papal vestments and propped upon a throne in the Lateran basilica. A trembling deacon stood beside the corpse and answered questions on its behalf. The dead pope was charged with perjury and with violating canon law. He was, unsurprisingly, found guilty. His election was declared void. His acts were annulled. The three fingers of his right hand, the fingers of consecration, were hacked off. The body was then flung into the Tiber.
-
-History remembers this spectacle as the Cadaver Synod. It settled nothing. It disgusted Rome, provoked an insurrection, and Stephen VI himself was imprisoned and strangled within months. Successor popes reburied Formosus with honour and burned the record of the trial. The lesson has endured for centuries. A tribunal that sits in judgment over someone who no longer holds the office it can take away does not do justice. It performs theatre, and the theatre degrades the tribunal more than the accused.
-
-[Read full article](https://www.thehindu.com/opinion/lead/indias-parliament-must-not-stage-its-cadaver-synod/article71235194.ece)
-
----
-
-### Anita Katyal | BJP Sends Men To Monitor The SIR; Cong Beaten, First By CJP, Then AAP
-*Deccan Chronicle · Opinion*
-
-The ongoing Special Intensive Revision (SIR) of voter lists is to be conducted by the booth level officers handpicked for the job by the Election Commission, a permanent and autonomous constitutional body. But there are reports from the field that these officers are often accompanied by political workers who are using this exercise to connect with voters and push their party’s agenda. The Bharatiya Janata Party has taken a lead here. Its local councillors and MLAs have recruited a virtual army of foot soldiers to go around their respective localities, ostensibly to help in filling the enumeration forms.
-
-However, this interaction is also an opportunity to find out if the applicant supports their party.
-
-In many instances, these workers provide feedback every evening to the local leader. For all intents and purposes, the deployment of party workers is a legitimate political exercise. But it can also prove to be a double-edged sword. If a person is not aligned with a particular party, an objection can be filed with the Election Commission that he or she is not eligible to be an elector.
-
-The Congress is so caught up in handling factional battles in its state units that it has been unable to set the agenda to take on the Modi government on any major issue. It is often overtaken by newcomers as it flounders to strike the right note. Take the case of the Neet exam paper leak which placed education minister Dharmendra Pradhan in the firing line. The Congress did kick off a nation-wide campaign, “Chhatron ki Goonj”, but it was soon overshadowed by the Cockroach Janata Party (CJP) whose protest grabbed far more attention, especially after activist Sonam Wangchuk began an indefinite fast. Facing flak for not supporting the CJP’s campaign, Congress general secretary K.C. Venugopal first publicly appealed to activist Sonam Wangchuk to end his indefinite fast and followed it up by sending a senior leader to Jantar Mantar. But the Congress was beaten to it by Aam Aadmi Party leader Arvind Kejriwal who dropped in at the protest site a day earlier.
-
-The National Conference finds itself in a spot after Jammu and Kashmir chief minister announced that the party will hold a sit-in protest at Jantar Mantar in Delhi on July 20 to press its demand for the restoration of statehood. It so happens that the Cockroach Janata Party, which has been at the protest site for the past month, is organizing a march to Parliament House on the same day to press its demand for the resignation of education minister Dharmendra Pradhan. The protest is also in the news as activist Sonam Wangchuk has been on an indefinite hunger strike for three weeks in support of the CJP demand. National Conference leaders believe their protest will virtually go unnoticed since the current focus is on Wangchuk and the CJP.
-
-They are also in a dilemma about expressing solidarity with Wangchuk and the CJP. Since the Ladakh-based activist has got support from some political parties, it will be difficult for the National Conference to ignore him. But the party’s own cause will be drowned out if it chooses to share a platform with Wangchuk and the CJP.
-
-Over a decade ago when former union minister and one-time Congress loyalist K. Natwar Singh came out with some embarrassing details about the Gandhi family, party leader Sonia Gandhi said she would tell her side of the story in her memoirs. Two years ago, there were reports that she had finally signed up with a publishing house for her autobiography. There is now talk that the book could be released some time next year. According to Congress insiders, the book is expected to focus on Sonia Gandhi’s personal journey and is likely to steer clear of any political controversy. However, there is a growing view that in Sonia Gandhi’s case, it’s a thin line between the personal and political and that there are bound to be some startling revelations in the book. The wait continues.
-
-Serving good food is critical to win over a person. And no one knows this better than Punjabis. When Congress leader and Punjab in charge Bhupesh Baghel went to Chandigarh to resolve the infighting between
-
-state unit chief Amrinder Singh Raja Warring and former chief minister Charanjit Singh Channi, the Warring camp made sure that the best of dishes were served at each meal. The only problem was that Baghel is known to prefer vegetarian food while non-vegetarian dishes, like butter chicken, were among the signature dishes at these meals. The
-
-Channi camp was obviously kept away from these meals with the Warring camp ensuring that its political rivals didn't get to host Baghel. However, when Channi did get an opportunity to invite Baghel, vegetarian food was served. Baghel apparently remarked that the food was spicy but that’s the way he likes it to which a Channi follower replied that if the senior leader supported them, they would
-
-ensure that he is served the food he likes. It is to be seen if these elaborate meals serve their purpose.
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/anita-katyal-bjp-sends-men-to-monitor-the-sir-cong-beaten-first-by-cjp-then-aap-1972083)
-
----
-
-### Pavan K. Varma | A Better India Would Review, Not Ban Satluj
-*Deccan Chronicle · Opinion*
-
-Since Independence, no secessionist movement has succeeded against the Indian nation. This is a tribute both to the safety valve of democracy, and the firm response of the state when compelling circumstances so warranted. The controversy surrounding the film Satluj has to be seen in this context.
-
-Does artistic freedom include the freedom to present a deeply selective version of history regarding one of independent India's bloodiest insurgencies?
-
-Equally, does the State possess the constitutional authority to prevent the exhibition of such a work if it believes that it distorts historical reality and threatens public order?
-
-These are difficult questions because they pit two democratic goals against each other: freedom of expression and the responsibility to preserve public order and national integrity. There is a persuasive argument that banning a film is often counterproductive. In the digital age, censorship rarely succeeds. On the contrary, prohibition frequently creates martyrdom where none existed. A film that may otherwise have attracted only a limited audience suddenly acquires the aura of forbidden truth, and
-
-pirated copies circulate widely.
-
-Yet it would be equally simplistic to conclude that because bans are often ineffective, every cinematic representation deserves unquestioned acceptance. Freedom of artistic expression does not place a work beyond criticism. Indeed, democracy demands precisely the opposite. Works dealing with traumatic episodes of national history must be rigorously interrogated — not because they question the State, but because they claim to represent historical truth.
-
-The Punjab insurgency was not an ordinary political movement. It was an armed secessionist campaign that sought to break away a sovereign part of India through violence and lawlessness. According to official estimates, over 12,000 civilians, about 1,800 security personnel, a sitting chief minister Beant Singh, and 8,000 militants were killed. Independent estimates place the total even higher. Among those killed were thousands of entirely innocent civilians: schoolteachers, shopkeepers, farmers, journalists, government officials, religious leaders, passengers travelling on buses and trains, and ordinary villagers who simply happened to be in the wrong place at the wrong time.
-
-One act of terrorism remains etched permanently in India's collective memory. On June 23, 1985, Air India Flight 182, the Kanishka, was blown up over the Atlantic Ocean by Khalistani extremists. All 329 people on board perished, including 268 Canadian citizens, 27 British citizens and 24 Indian citizens. It remains the deadliest act of aviation terrorism before the attacks of September 11, 2001. The conspiracy was conceived outside India, demonstrating that the Khalistani movement had already acquired dangerous international dimensions.
-
-Pakistan was deeply involved in this threat to India. Its ISI actively trained, armed and financed militant groups operating in Punjab. Camps across the border provided sanctuary and logistical support. Weapons crossed into India with increasing frequency. Radio broadcasts and propaganda sought to inflame separatist sentiment. The insurgency was an externally assisted attempt to destabilise the Indian Union.
-
-Many militant organisations degenerated into criminal enterprises. Kidnappings for ransom became commonplace. Extortion was institutionalised. Traders were forced to pay “taxes”. Those who refused were executed. Police personnel were assassinated. Village leaders were murdered on suspicion of colluding with the government. Fear became pervasive in Punjab. The State, therefore, confronted an extraordinary situation. It was not dealing with peaceful political dissent or constitutional protest. It was confronting organised armed groups determined to overthrow constitutional authority through terror.
-
-None of this absolves the State of responsibility where excesses occurred. Credible allegations of fake encounters, enforced disappearances and extra-judicial executions have been documented by journalists, civil liberties groups and judicial inquiries. A constitutional democracy cannot permanently suspend the rule of law.
-
-Every unlawful killing deserves investigation.
-
-But exceptional insurgencies often require extraordinarily difficult operational choices. All democracies have grappled with similar dilemmas — from Britain's struggle against the IRA to Spain's campaign against ETA and Sri Lanka's war against the LTTE.
-
-There are occasions when the republic has to act firmly to prevent an armed insurrection in the name of civil liberties.
-
-The Naxalite movement of the late 1960s and 1970s offers an instructive parallel. Faced with an armed revolutionary movement committed to overthrowing the State through violence, governments employed methods that frequently stretched conventional policing. Whether every such measure was justified remains open to debate. But few would argue that the republic could...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/pavan-k-varma-a-better-india-would-review-not-ban-satluj-1972078)
-
----
-
-### Ranjona Banerji | When Argentina Isn’t 100% Love, Love, Love
-*Deccan Chronicle · Opinion*
-
-It is possible that that is indeed my intention.
-
-Let’s wait for the end to make that judgement, yes?
-
-Now that I’ve alerted you to an upcoming catastrophe, should I stretch the tension out further or should I reveal all? What would be fair and what would be most effective and are not those two directions implacably opposed?
-
-I think today is in an important day in the scheme of things. Oh wait, I am so uncaring and ignorant that I need a moment to go and ask a search engine. Back in a jiff. Okay, tomorrow July 20 is the important day. Or maybe that’s a time zone thing and it’s actually today, July 19. These search engines try to be annoyingly super helpful sometimes.
-
-It’s the beautiful game. And I just don’t get it. My brain cannot compute the system and my eyes cannot differentiate between people and actions. I see a lot of little stick figure men running up and down from one end of a field to another. O come on, I hear you screaming. Surely, the passes, the defences, the footwork, the head bangs, the finger of God, the falling on the ground screaming from a little push, surely some aspect of that excites and interests you? Well, I’ve been screamed at before. I still haven’t managed to get past my inadequacies. And only left people screaming even louder.
-
-However, sometimes, although I know and understand nothing, I look up some stuff and then throw out facts to annoy fans. They are an easily irritated lot. Ask me, anyone says anything negative about Roger Federer and my brain explodes. So, I know the weak points enough to antagonise and annoy people. Usually, I do this to people who annoy me. It’s not a form of flirting, the way men use teasing. Or maybe it is. Who knows.
-
-I hear you saying: this is just not possible. How can anyone not love the beautiful game. I’ll tell you a story then. I did try. The 1982 Football World Cup was the first one shown on Indian television, which was Doordarshan. It was famous for telecasting stuff from around the world. It was also famous for cutting away from a Wimbledon final at match point for the news. There was no internet in those times, so you can imagine the rage and frustration when Martina Navratilova and Chrissie Evert or Jimmy Connors and John McEnroe were frozen at mid-serve only for you to be told that Prime Minister Indira Gandhi had visited a coal mine.
-
-Enough distraction. Football was on television, hitherto only seen in passing at maidans in what were then known as Bombay and Calcutta. We did not play it in school. My father diligently explained everything that was going on and it was great fun. I remember to this day that semifinal between West Germany and France, the controversy over West German goalie Harald ‘Toni’ Schumacher bumping into French player Patrick Battison with no foul given, in spite of Battison’s huge injuries, the historic but infamous penalty shoot-out. And French captain Michel Platini’s grace in the face of defeat.
-
-I cannot deny that it was very exciting. However, without my father’s presence at every football match, I subsequently understood nothing all over again and that was the end of that. Any subsequent holiday home, he seemed to have lost interest as well. Being reasonably wicked himself, the only other football story I can offer about him is when the great Brazilian player Pele visited Calcutta in 1977. The city’s streets were lined with football-mad people waiting to catch a glimpse of the superstar. My father drove past, stuck his head out of the window and shouted in Bengali: “Pele’s coming, Pele’s coming” waving vaguely behind him. The crowd yelled with great fervour and excitement in anticipation and by the time they realised that the arrival was not imminent, the trickster had sped away.
-
-I suspect I may now lose my Bengali credentials, but I can sing Rabindrasangeet at a pinch so maybe I can redeem myself under interrogation.
-
-If it’s any consolation, I feel almost the same way about cricket as I do about football although I do understand a lot more about the game and have watched it many times. Cricket, especially Test cricket, has a massive advantage over football. Since the progress of the game is slow, if you cannot fall asleep, you can put on Test cricket commentary and soon you’ll be snoring away. Football commentators and cricket commentators in other formats are very excitable, shout too much and people sing songs as well. Plus they use those vuvuzelas everywhere since 2010. Not conducive to a good night’s sleep.
-
-I gather that for this World Cup, people are or were very excited about some players, like a Norwegian boy, I think. And even I could not miss all the controversies over rampant and unacceptable racism, bad refereeing, and timings, and the weirdness of holding this most popular international tournament in North America. Where one of the three host countries doesn’t even know the game is called “football”, because they have their own weird version.
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/ranjona-banerji-when-argentina-isnt-100-love-love-love-1972051)
-
----
-
-### Public assets at a transparency threshold
-*Deccan Herald · Editorial*
-
-The Karnataka High Court’s decision bringing Bengaluru’s Century Club within the ambit of the Right to Information (RTI) Act is more than a ruling on an exclusive members’ club. By holding that free or heavily subsidised government land amounts to “substantial financing”, the court has widened the scope of the RTI Act and raised important questions about state-owned assets and institutional accountability. The court held that Century Club qualifies as a “public authority” under Section 2(h) because its existence rests on 7.5 acres of prime land granted free by the erstwhile Mysore kingdom. It rejected the argument that only cash grants constitute substantial financing, holding that valuable government land is itself significant state support. The Maharaja’s grant, the judges ruled, was made in his sovereign capacity and thus forms part of the land inherited by the state. Given the land’s immense value, members’ contributions were held to pale into insignificance.
-
-The implications are far-reaching. Bengaluru alone has several elite clubs and recreational institutions occupying government land under historical grants or concessional leases. The judgment could open the floodgates for RTI applications seeking information on lease terms, finances, and membership policies. Institutions that have long enjoyed privileged access to such land may now have to justify that privilege through greater transparency, especially where allegations of financial misappropriation arise. While the National Sports Governance Act, 2025, limits RTI obligations for national sports bodies receiving government grants, associations such as the Karnataka State Cricket Association (KSCA) also function on government-leased land and operate commercial facilities such as clubhouses and bars. Whether such bodies can be brought under the RTI Act may become the next legal battleground. The ruling could extend to political parties occupying government land at concessional rates, though they presently remain outside the Act’s ambit. Commercial land allotments to companies, however, are unlikely to be affected because they are generally linked to investment and employment obligations.
-
-While the broader principle that institutions deriving enduring benefits cannot expect immunity from public scrutiny is difficult to dispute, there are legitimate concerns. An expansive interpretation of “substantial financing” could draw many private bodies into prolonged litigation, creating uncertainty over the status of institutions operating on government land. The judgment’s boundaries will be tested in the Supreme Court. Whether this becomes a durable safeguard for state assets or the beginning of an extended legal battle over the definition of “public authority” will depend on how carefully the balance between transparency and regulatory overreach is maintained.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/public-assets-at-a-transparency-threshold-4077661)
-
----
-
-### Welcome verdict, unsettled argument
-*Deccan Herald · Editorial*
-
-The Supreme Court's ruling on Monday, affirming that the status of an individual’s citizenship must rest on a "fair, lawful, and reasoned process", is a welcome intervention at a time when the criteria and methods used to determine citizenship remain unclear and contentious. It set aside verdicts by the Gauhati High Court that upheld foreigners tribunals' rulings branding 27 Assam residents as foreign nationals. A bench of Justices Vikram Nath and Sandeep Mehta observed that decisions on citizenship and foreigner status hold significant constitutional weight, and that the state's objective of preventing illegal immigration must not come at the cost of procedural fairness. The apex court rejected the High Court's reasoning that the tribunals were right to rule against the appellants simply because they failed to appear despite being served notices. The High Court had relied on Section 9 of the Foreigners Act, which places the onus of proving citizenship on the individual concerned.
-
-How does a person prove her citizenship when the concept is not clearly defined, and the required documents are unspecified? The petitioners argued that they were unaware of the tribunal's proceedings, which relied on an Enquiry Officer's hearsay rather than substantive proof. This raises a critical question: can individuals be declared foreigners and stripped of their fundamental rights through ex parte proceedings solely due to their absence from court, especially when they possess official documents that support their claim to Indian citizenship?
-
-'Citizenship must be decided by fair process': Supreme Court quashes Assam Tribunal orders declaring people foreignersForeigners’ tribunals have been criticised earlier for arbitrariness and bias, stripping individuals of their citizenship over issues such as minor spelling discrepancies or brief memory lapses. Even a war veteran who served the nation for decades has been declared a foreigner. The Citizenship Act defines national identity, but its practical execution remains obscure to the public. Notably, the Election Commission of India (ECI)’s Special Intensive Revision (SIR) of electoral rolls employs a similarly exclusionary mechanism. By shifting the burden of proof onto the individual, the Commission now requires new voters to produce documents proving their parents were part of the previous SIR before they are allowed to enrol as voters. In both voter registration and citizenship determination, the state's focus has shifted from inclusion to exclusion, making bureaucratic processes more protracted. The Supreme Court, regrettably, allowed the ECI to proceed with this undemocratic exercise. Given the procedural barriers and complexities, it is unlikely that there will be consensus on what constitutes a truly "fair, lawful, and reasoned" process to resolve citizenship issues.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/welcome-verdict-unsettled-argument-4077660)
-
----
-
-### From corn to crown
-*Deccan Herald · Opinion*
-
-A visit to a dentist is a one-time certainty in a human’s life. The animals are blessed in this aspect, at least the wild ones. As a teenager I would accompany my mother to the dentist, a jolly person by disposition. He was quite familiar to me as he invariably came to our annual school sports meet and conducted the competitions, blowing on his whistle enthusiastically. Once, out of plain doctor’s curiosity he asked me to open my mouth, and upon examination declared that I was wont to chew on one side of my mouth, and advised me accordingly.
-
-I had heard of terrible tales experienced by hapless victims of the dentist’s arsenal. So I drank milk like a baby and brushed my teeth regularly, never wishing to sit on the reclining chair at the dentist’s. Years rolled by and my fifties set in. The teeth had done a commendable job all through the years, biting and chewing countless shapes and textures which made their advent into the mouth at varying temperatures.
-
-One fine evening I roasted a corn on the cob and bit into it with relish. “Ouch!” What was this shooting pain? It was a dental emergency, and responding to my frantic call, the friendly dentist asked me to rush in immediately. I sat with trepidation on the dreaded reclining chair (RC), and upon his command opened my mouth while my eyes shut themselves instantly as the light beamed on my face. His expert finger touched the dangling tooth gingerly and I let out another “ouch”. He quickly formed a decision of a root canal procedure to save the tooth. The procedure date was fixed and I came home lost in sombre thoughts of my tooth renovation.
-
-Needles, cushions and a callingA root canal seemed a terrible ordeal. I consulted my favourite, Dr Google, and after watching Youtube videos felt surprisingly bolstered, even a sort of kinship with the lot who had undergone the procedure. I walked towards the RC on the D-day confidently and never felt a tinge of pain as the doctor skilfully gave the correct dose of pain numbing medicine. The unsavoury denouement came when I had to keep my teeth clenched with a weird, thick, gummy thing inside and I imagined myself looking like the epic demoness Tataka, with the spongy thingy sticking out between the clenched teeth.
-
-Like the proverbial cat closing its eyes while drinking milk, I kept my eyes shut to avoid seeing the doctor and his assistant staring at my sight -- or plight, should I say? After the slowest-ever few minutes of my life, the dentist removed the abominable intrusion and I got back my normal mouth. I bid goodbye to the dentist after setting the appointment for affixing the cap for the tooth, to regain its crowning glory. The tryst with the RC was not that bad after all.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
-
-[Read full article](https://www.deccanherald.com/opinion/from-corn-to-crown-4077659)
-
----
-
-### India’s PhD promise demands a reality check
-*Deccan Herald · Opinion*
-
-A recent viral post about a contract lecturer with a PhD who drives a cab to support his family has renewed attention to academic employment conditions. There is no indignity in honest work. The concern is that years of advanced education do not always lead to stable, adequately paid employment that uses a person’s training. Those in such circumstances deserve dignity and fair pay. However, the discussion should go beyond empathy to consider how higher education can prepare students for varied career pathways in a rapidly changing, technology-driven economy. The challenge, therefore, is not to restrict doctoral education but to ensure that its expansion is accompanied by rigorous training, credible research, and viable academic and non-academic career pathways.
-
-Doctoral education has expanded substantially across India’s higher education system. According to the AISHE 2023-24 report, 3,43,559 candidates were enrolled in PhD programmes, representing a cumulative increase of 61.6% over 2021-22. Science and Engineering & Technology together account for 43.9% of the enrolment. A broadly defined Humanities and Social Sciences category accounts for approximately 42.2% of PhD enrolment and recorded cumulative growth of about 70.4% from 2021-22. Such expansion is welcome when it strengthens research, teaching, innovation, and intellectual capacity.
-
-A degree reset for the AI ageExpansion alone cannot measure success, nor does a larger doctoral population automatically generate innovation, discovery or intellectual progress. The more consequential questions are whether candidates receive rigorous training, produce meaningful research, and have credible academic and non-academic opportunities after graduation. International comparisons based solely on the proportion of PhD holders or graduates in the population can therefore be misleading. A meaningful assessment requires systematic post-degree employment data, reported both in aggregate and disaggregated by state, district, discipline, institution, gender, employment sector, and occupation.
-
-Many doctoral programmes continue to focus primarily on dissertation completion, academic publication, and preparation for conventional academic careers. Such preparation alone is insufficient for academic and many non-academic careers. The scholars also need transferable capabilities applicable across professional settings. In the absence of such skills and clearly defined non-academic pathways, many graduates may find themselves disproportionately dependent on a limited academic job market.
-
-Families invest in degrees expecting better employment, income, and social security. It is therefore unrealistic to treat higher education solely as abstract knowledge and employment aspirations as intellectually inferior.
-
-When an undergraduate degree does not provide adequate employment or livelihood opportunities, students may proceed to postgraduate study; when postgraduate qualifications also yield uncertain prospects, some continue into doctoral programmes. Further education may then become a response to the limited opportunities available after the previous qualification. This pattern may be particularly visible in some humanities and social-science disciplines, where opportunities outside academia are often less clearly defined. Doctoral enrolment must therefore be understood partly within the wider labour-market difficulties encountered at earlier stages of higher education.
-
-After completing a PhD, some graduates obtain stable academic or research positions. Others enter temporary teaching, remain unemployed or take work that makes limited use of their training. Some of those who enter academia may then train another generation for a labour market that has limited stable academic opportunities.
-
-Knowledge and employment are not opposing goals. The National Education Policy 2020 reflects this balance by emphasising critical thinking, flexibility, and multidisciplinary learning alongside preparation for gainful and fulfilling employment. Universities can therefore support the pursuit of knowledge while preparing students for an evolving economy.
-
-Degrees, skills and social value
-
-Indian society has often valued degrees more highly than vocational, technical, and practical capabilities. This hierarchy, shaped by longstanding social attitudes towards manual and vocational work, can undervalue important forms of knowledge and expertise while reinforcing social inequality. Chief Economic Adviser V Anantha Nageswaran’s recent emphasis on practical, automation-resistant skills, vocational expertise, and human judgment reflects growing recognition that employability in a changing economy depends on more than a degree alone. Higher education must therefore develop both intellectual depth and demonstrable competence.
-
-At the institutional level, universities must publish reliable and audited programme-level information on completion rates, employment, and career outcomes. This transparency would not guarantee jobs, but it would help students and parents make better-informed decisions before investing substantial time and resources.
-
-Policy thinking increasingly recognises the need for higher education to respond to employment patterns and changing professional needs, but India’s institutional practices and entrenched academic attitudes have not kept pace. Market responsiveness means recognising technological change, emerging occupations, and evolving social needs. It also requires asking whether students are acquiring valued capabilities and whether institutions are delivering outcomes proportionate to the time and resources invested.
-
-Commercial expansion and market responsiveness are not the same. Increasing seats or fees does not by itself improve educational quality. A healthy higher-education system requires strong teaching, credible assessment, transparent information, and accountability for outcomes that institutions can reasonably influence.
-
-The policy direction is broadly encouraging. The difficult task is to translate broad policy commitments into institutional practice by aligning curricula, academic incentives, and graduate pathways with the changing needs of society and the economy.
-
-Curricula should be reviewed regularly while preserving foundational and theoretical knowledge. Students should be able to move between education, employment, and skill development without losing the value of their prior learning; the multiple entry and exit pathways envisaged in the NEP must therefore be made operational in a meaningful way.
-
-Doctoral expansion should be accompanied by evidence that institutions, departments, and professors possess adequate research infrastructure, sufficient supervisory capacity, and a credible range of academic and non-academic pathways into industry, public laboratories, policy institutions, and other knowledge-based sectors. Doctoral programmes that combine rigorous research with transferable skills would also strengthen teaching, because future academics would be better equipped to prepare their students for employment. The objective is not fewer PhDs, but better-supported PhDs whose training strengthens both the intellectual value of the doctorate and its relevance to a changing economy.
-
-(The writer is a professor of Economics at IIT Kharagpur)
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
-
-[Read full article](https://www.deccanherald.com/opinion/indias-phd-promise-demands-a-reality-check-4077653)
-
----
-
-### Looking up to the night sky
-*Deccan Herald · Opinion*
-
-India’s night sky is disappearing faster than its forests. Across the country, the spread of harsh, unshielded LED lighting has quietly erased the stars from both urban and rural horizons. After decades spent working in forest landscapes, I have come to realise that the night sky is not a passive backdrop; it is a living part of ecological balance, as vital as the soil beneath our feet or the canopy above our heads.
-
-Amid this growing glow of light pollution, a promising alternative is emerging: sky-park tourism. Built around dark-sky protection, astronomy education, and nocturnal ecological sensitivity, it is a high-value, low-impact model that brings science, sustainability, and rural livelihoods together. Countries such as New Zealand, France, Namibia, and the United States have shown that dark-sky parks can revive remote economies while reducing light pollution. India has similar potential, but it remains largely unrealised.
-
-India’s forgotten wildlife and their struggle for survivalToday, the Hanle Dark Sky Reserve in Ladakh stands as India’s sole site formally certified by DarkSky International, the global authority for dark-sky parks, reserves, and sanctuaries. The initiative by the Madhya Pradesh Forest Department in Pench shows what night-sky tourism can look like, though it does not yet carry formal certification.
-
-The irony is that India is uniquely blessed with landscapes ideal for night-sky tourism: high plateaus, cold deserts, dry forests, and coastal belts. Yet many of these regions are now flooded with intense artificial lighting. The ecological cost is severe: nocturnal wildlife loses behavioural cues, migratory birds become disoriented, and insect populations collapse under continuous illumination. Along the Chennai coast, I have witnessed how artificial glare causes vulnerable Olive Ridley hatchlings to lose track of the faint natural glow that should guide them safely to the sea. Protecting the dark sky is no longer just a tourism idea; it is a conservation necessity.
-
-The primary hurdle is institutional. Dark-sky preservation is not merely a matter of receiving an official stamp; global certification is earned only after a landscape proves it can meet strict ecological and lighting standards. What India requires first is active coordination between the Forest, Tourism, and Rural Development departments, working alongside local governing bodies. It demands clear lighting regulations, shielded fixtures, and genuine community participation. Above all, it requires a shift in mindset: the night must be recognised as a vital ecological asset, not a blank canvas waiting to be illuminated.
-
-A national dark-sky strategy is overdue. India needs clear lighting guidelines for ecologically sensitive landscapes, incentives for astronomy-based tourism, and partnerships with scientific institutions. Much of this can be integrated into existing forest ecotourism frameworks without violating the Forest Conservation Act, because dark-sky activities rely on minimal infrastructure and use spaces already designated for nature education. Astronomy sessions, guided night-walks, and shielded lighting in buffer-zone homestays can diversify rural incomes while remaining compatible with conservation mandates.
-
-An invaluable inheritance
-
-India’s unexplored potential lies in calm waterbodies – reservoirs, backwaters, and canals – where silent, engine-free night-sky boat rides can thrive. Water naturally softens surrounding light, creating pockets of darkness. Kerala’s backwaters, Rajasthan’s desert lakes, and still-water lakes nationwide could become serene, floating classrooms for astronomy and nocturnal ecology.
-
-Hilly regions offer altitude that sharpens night skies, but many hill stations are overwhelmed by decorative lighting. Introducing shielded lighting and dark-sky zones in belts like the Nilgiris, Palani Hills, Araku Valley, and parts of Himachal Pradesh and Uttarakhand can create world-class night-sky experiences using existing trekking routes and nature camps. India could pioneer “night-sky corridors” – regulated dark stretches that maintain ecological continuity for nocturnal species. Like wildlife corridors, they would preserve darkness across riverine belts, forest edges, and coasts.
-
-The cultural dimension is unexplored: for centuries, the night sky shaped calendars, festivals, navigation, and tribal folklore. Its disappearance is cultural erasure. A national dark-sky policy can preserve this heritage, ensuring future generations inherit a sky carrying ancestral stories.
-
-Most importantly, such a strategy would restore something India has quietly lost – the ability to look up and see a sky that still belongs to nature. The future of tourism will not be built on monuments, beaches, and crowded hill stations alone. It will also be built on silence, darkness, and the rare privilege of seeing the cosmos as our ancestors once did. Such a tourism policy must respect ecological carrying capacity, ensuring that night-sky tourism grows without triggering overcrowding or an exodus that strains fragile landscapes and communities. If India chooses to act now, future generations may still inherit a sky worth looking up to.
-
-(The writer is a retired member of the Indian Forest Service and an international member of the Forest Stewardship Council)
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
-
-[Read full article](https://www.deccanherald.com/opinion/looking-up-to-the-night-sky-4077663)
 
 ---
 
