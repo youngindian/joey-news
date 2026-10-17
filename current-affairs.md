@@ -1,3 +1,446 @@
+## 17 October 2026
+
+### 'Time to go': Kapil Sibal jabs Rajnath Singh on 'regime change' charge
+*SECTIONS Kapil Sibal jabs Rajnath Singh · business*
+
+New Delhi, Rajya Sabha MP Kapil Sibal on Saturday hit back at Union minister Rajnath Singh over his "regime change" charge against the Congress, saying it is the people who want a regime change, and that it is "time to go" for this government.
+
+Sibal's remarks came a day after Singh lashed out at the Congress and its allies over the protests in the national capital against alleged electoral irregularities, accusing them of seeking a regime change on the lines of Bangladesh and using the energy of youth to spread "anarchy".
+
+Addressing a presser in Lucknow, Singh said democracy does not give anyone the licence to create disorder or undermine the credibility of constitutional institutions.
+
+  
+
+In a post on X, Sibal said, "Rajnath Singh: You allege that Congress wants 'regime change' the Bangladesh route. No. People want 'regime change'."
+
+"Protests with the slogan 'India against corruption' brought you power. Then: You embraced corruption; captured institutions; manipulated voters list. Time to go!" the Independent MP said.
+
+  
+
+> — KapilSibal (@KapilSibal)
+
+On Friday, Singh said, "It appears that the Congress and its political allies, directly and through their supporting organisations, are trying to use the energy of the youth to fuel political confrontation and spread anarchy instead of channelling it towards constructive work and nation-building."
+
+"The youth of the country are being made pawns in the politics of anarchy," he said, alleging that the Congress and its allies want a change of government on the lines of Bangladesh.
+
+---
+
+### Home loan alert: SBI, PNB and 4 other banks revise lending rates — how borrowers may be affected | Mint
+*Shivam Shukla · economy*
+
+## Six major banks, including SBI and PNB, have revised their repo-linked lending rates in October 2026. Here are the updated benchmarks, effective dates and what existing and prospective home loan borrowers should know about EMIs and borrowing costs.
+
+SBI, PNB, Bank of India, Indian Bank, Bank of Baroda, and Canara Bank revised their lending benchmarks in October 2026, potentially affecting home loan interest rates and EMIs. (AI-generated image for representational purposes only)
+
+The Reserve Bank of India (RBI) recently hiked its benchmark repo rate by 25 basis points to 5.50% on 7 October 2026. This announcement was made at the culmination of the three-day Monetary Policy Committee (MPC) meeting.
+
+Subsequently, several banks have also increased their repo-linked lending rates, thus making loans linked to these benchmarks potentially more expensive. Prominent lending institutions such as State Bank of India (SBI), Punjab National Bank (PNB), Bank of India, Indian Bank, Bank of Baroda and Canara Bank have revised their respective lending benchmarks in October 2026.
+
+Due to these developments, existing borrowers and those planning to take fresh home loans should diligently check the latest rates, as changes in lending benchmarks can impact borrowing costs and monthly instalments. Having clarity on these aspects is essential in order to make meaningful and beneficial borrowing decisions.
+
+## **Which banks have revised their repo-linked lending rates?**
+
+Here are the revised rates announced by six major banks across the country:
+
+-   **State Bank of India (SBI):** Effective 15 October 2026, the State Bank of India increased its External Benchmark Linked Lending Rate (EBLR) from 7.90% to 8.15%, plus the credit risk premium (CRP) and benchmark spread (BSP). Its Repo Linked Lending Rate (RLLR) rose from 7.50% to 7.75%, plus CRP.
+-   **Punjab National Bank (PNB):** RLLR increased from 8.10% to 8.35%, effective 8 October.
+-   **Bank of India:** RLLR rose from 8.10% to 8.35%, effective 7 October.
+-   **Indian Bank:** Its Repo-Based Lending Rate (RBLR) increased from 7.95% to 8.20%.
+-   **Bank of Baroda:** The Benchmark Retail Loan Lending Rate (BRLLR) is now 8.15%, effective 8 October.
+-   **Canara Bank:** RLLR was revised to 8.25%, effective 9 October.
+
+## **What does this mean for home loan borrowers?**
+
+Therefore, an increase in a lending benchmark can raise the interest rate on loans linked to it. This also depends on the lending institution's applicable spread and loan terms. Existing borrowers might witness higher EMIs or a longer repayment period, depending on how their banking institution adjusts the loan. New borrowers and fresh loan applicants may also face higher borrowing costs due to these changes.
+
+Still, do keep in mind that the revised benchmark is not necessarily the final interest rate the borrower pays. That is why it is prudent to carefully review and compare the effective interest rate, processing charges and repayment terms across lending institutions before taking a loan or planning to refinance an existing loan.
+
+If you are an existing borrower, you should check with your lending institution to confirm when the revised rate will apply and how it will affect your existing loan.
+
+### About the Author
+
+Shivam Shukla
+
+Shivam writes on personal finance, equity markets, and mutual funds. He has previously contributed to several leading publications, including Moneycontrol. He can be reached at shivam.shukla@htdigital.in
+
+---
+
+### Delhi-Mumbai Expressway accident: 4 dead, 2 injured as minibus plunges into 15-foot drain in Rajasthan
+*SECTIONS Delhi-Mumbai Expressway accident · business*
+
+Kota: At least four people were killed and two critically injured after a minibus carrying around 17 passengers veered off the road and fell into a 15-foot-deep drain on the Delhi-Mumbai Expressway here early on Saturday.
+
+The accident occurred at around 6 am near pole number 384 on the Expressway, under Simliya police station limits.
+
+  
+
+Emergency personnel immediately launched rescue operations, despite the silt and water accumulated inside the drain severely hampering their efforts. Cranes were deployed to retrieve the damaged vehicle and rescue the passengers trapped inside.
+
+Giving details of the ongoing operation, Simliya Station House Officer Nand Singh said four dead bodies have been recovered from the wreckage so far.
+
+There were around 17 passengers in the minibus during the accident, of whom two sustained critical injuries, while several others suffered minor injuries, he said.
+
+The injured people are being rushed to nearby medical facilities, including New Medical College Hospital and MBS Hospital. Three ambulances have been deployed for quick transportation, the SHO said.
+
+While the official number of casualties stands at four now, the authorities fear the death toll may rise as rescue teams continue operations and verify victims' identities, he said.
+
+The identities of the deceased and the injured are yet to be ascertained, he added.
+
+---
+
+### In view of Mansa shooting, rampage, Punjab chemists’ body: Will only back those who are genuine
+*Express News Service · legal*
+
+Why mob violence against Punjab chemists is triggering a massive crackdown on illegal NRx drug sales
+
+[Read full article](https://indianexpress.com/article/chandigarh/punjab-chemists-nrx-medicines-prescription-mansa-ludhiana-violence-10925428/)
+
+---
+
+### Dollar heads for weekly loss as Fed hike bets fade, AI jitters linger
+*Reuters · economy*
+
+The dollar was lower on Friday and on track for its first weekly fall in more than a month against the euro and the yen, reflecting fading expectations for a Federal Reserve rate hike and lingering concerns about an AI-driven equity selloff.
+
+Hotter-than-expected consumer and producer price readings initially rattled markets this week, but comments from Fed officials signaling no urgency to tighten policy further helped stabilize Treasury yields and eroded support for the dollar.
+
+AI stocks fell sharply this week and the stress spread to parts of the credit market as investors who have crowded into bets all along the supply chain worry data centre operators might not manage to be profitable in time to pay their debts.
+
+"What I found most interesting today and more broadly this week, is how closely the dollar has been tied to the AI trade," said Matt Weller, global head of market research at StoneX in Michigan. "Usually if we see a sell off in tech stocks you would expect the greenback to get a safe-haven bid. We are seeing an element of that into bonds, but the dollar is actually falling."
+
+The dollar index, which measures it against six major peers, fell 0.17% to 101.87 and was set for a 0.35% weekly drop.
+
+The pound and the Swiss franc led gains against the dollar this week, with the latter buoyed by safe-haven demand and expectations that even in a lower-rates environment Switzerland is unlikely to cut policy rates below the current zero level.
+
+Sterling rose 0.31% to $1.3314 and was up 0.63% on the week, while the dollar fell 0.25% against the Swiss franc to 0.8246, leaving it down 0.67% for the week. The franc has gained more than 1.4% in the last two sessions.
+
+Markets assign an 83% probability to the Fed keeping rates unchanged later this month, up from 49% a month earlier, the CME FedWatch Tool shows.
+
+At the IMF-World Bank annual meetings in Bangkok on Friday, Fed Chair Kevin Warsh offered no clues about future rate decisions, saying he does not "prejudge meetings."
+
+"I don't think there is enough support in (the) committee, particularly from the governors, for a rate hike in October. It still leaves December an unanswered question and there is a lot to happen between now and then," said John Velis, Americas macro strategist at BNY in New York.
+
+## Euro Area Fiscal Risks Still In Focus
+
+Fiscal risks in France remained in the background after the jump in the French debt risk premium in early October.
+
+The euro was last up 0.08% to $1.1227 after climbing 0.56% on Thursday in its biggest daily rise in two months, putting it on track for a 0.23% weekly gain.
+
+Investors expect US President Donald Trump to steer clear of any escalation in the Middle East or Ukraine, as a broader conflict could hurt his standing ahead of midterm elections by fuelling inflation.
+
+Against the yen the dollar slipped 0.08% to 158.11, leaving the Japanese currency on track for a 0.13% weekly rise after dropping for four consecutive weeks as the Iran conflict supported the greenback.
+
+Higher oil prices recently have been boosting the dollar while weighing on the currencies of energy-importing countries, such as those tied to the euro and yen.
+
+BOJ Governor Kazuo Ueda on Friday reiterated the risks of underlying inflation overshooting the central bank's 2% target.
+
+---
+
+### 'Women should be released after sunset': Neha Bora questions overnight detentions over anti-SIR stir
+*ET Online · business*
+
+All India Students' Association (AISA) president Neha Bora on Saturday questioned the overnight detention of protesters, over the anti-SIR stir, saying women ought to be released after sunset and alleging that police denied her access to a lawyer for hours. Bora was detained under preventive provisions on the evening of October 16 and released early Saturday after formal procedures under Section 65 of the Delhi Police Act, Delhi Police said. “Under what authority is this justified? By what law or order is it permissible to keep detainees held in custody all night long? Legally, individuals, especially women, ought to be released after sunset, yet this is not happening,” Bora said.
+
+---
+
+### Bear wanders into California library for honey, just as Winnie-the-Pooh turns 100
+*India Today Trending Desk · general*
+
+## A black bear entered Mammoth Lakes Library in California before opening and raided the staff snacks. Its honey theft coincided fittingly with Winnie-the-Pooh's 100th anniversary on that day.
+
+Bear wanders into California library for honey (Photos: Mono County Free Libraries/Facebook)
+
+A black bear walked into a California library before opening hours and made a beeline for the honey, in what turned out to be an unusually fitting visit on the 100th anniversary of the childhood favorite show, Winnie-the-Pooh.
+
+Mono County Free Libraries in California shared CCTV footage of the unexpected visitor at its Mammoth Lakes Library branch on Facebook.
+
+The video showed the bear wandering through the otherwise quiet library, sniffing around the aisles as it explored the premises. With no humans around, the furry intruder appeared free to investigate the place at its own pace.
+
+According to the library's post, the bear entered at approximately 6:10 am, nearly four hours before the library was due to open to the public at 10 am. Director of Libraries Josef Bopp shared that the animal wasted little time finding the staff snack supply.
+
+The bear helped itself to peanut butter, several peach cups, a paw full of cookies and, most fittingly, a jar of honey. Having apparently satisfied its appetite, it then continued its tour of the library, checking out the new releases and inspecting the reference desk before letting itself out and leaving.
+
+Remarkably, however, the library reported no damage. No shelves were toppled, and no books were harmed, although the honey jar remained missing at the time of the post.
+
+The timing made the visit even more amusing. Winnie-the-Pooh was first published on October 14, 1926, introducing readers to the famously honey-loving bear. Marking the book's centenary, the library joked that the real-life visitor had delivered an unexpected tribute.
+
+“While we love an enthusiastic patron, and we understand the excitement of the centennial,” Bopp said, “we do remind patrons—and perhaps more importantly our bears, that snacks are not part of the circulating collection.”
+
+The library also invited community members to celebrate the anniversary by visiting any of its seven branches to borrow Winnie-the-Pooh or other bear-
+
+The post also carried a serious reminder that, unlike the cuddly fictional character, bears around Mammoth Lakes are wild animals.
+
+Residents and visitors were urged to keep their distance, never approach or feed bears, use bear-resistant trash containers and keep car doors and windows closed.
+
+Watch the video here:
+
+The unusual library visit amused Facebook users, with one joking that the bear appeared to be under five years old and might be looking to enrol in the Imagination Library.
+
+Another was relieved that the animal had left without causing any damage, while a third wondered whether it had entered through the back entrance and, if so, how it had managed to get inside.
+
+\- Ends
+
+---
+
+### Gold set for a weekly drop as traders assess Fed signals
+*SECTIONS Gold set · economy*
+
+Gold prices were largely steady on Friday and were on track for a weekly loss as traders weighed the prospect of further Federal Reserve rate hikes this year following a run of hotter-than-expected US inflation data.
+
+Spot gold was down 0.1% at $4,165.12 per ounce by 02:07 p.m. EDT (1807 GMT) but was down 0.7% so far in the week.
+
+US gold futures for December delivery settled 0.3% higher at $4,181.10 per ounce.
+
+"We're very much rangebound and tilting toward the lower bound of support, the main reason being we still have a lot of ambiguity in what the Fed will do," Bart Melek, global head of commodity strategy at TD Securities, said.
+
+Federal Reserve Chair Kevin Warsh voiced optimism about US economic strength but gave no clues about the central bank's rate-path trajectory.
+
+Data on Thursday showed US producer prices increased by the most in 4-1/2 years last month. The data followed Wednesday's consumer price report, which showed prices accelerated in September.
+
+Federal Reserve Bank of Chicago President Austan Goolsbee said the data was "discouraging" while Federal Reserve Bank of Cleveland President Beth Hammack said the Fed might need to hike interest rates more aggressively if there were to be a notable deterioration in the public's inflation expectations.
+
+Traders largely expect the US central bank to hold rates steady this month, while pricing in a 90% chance of a rate hike in December, according to the CME's FedWatch Tool.
+
+Although gold is typically seen as an inflation hedge, higher interest rates tend to reduce the appeal of the non-yielding metal.
+
+"Over the rest of this year, gold prices are likely to edge lower as the Fed continues raising rates and fears around the end of the AI boom prove to be temporary," Hamad Hussain, a climate and commodities economist at Capital Economics, said.
+
+Elsewhere, gold traded at a premium in India this week for the first time in more than three months as a pullback in prices boosted jewellery purchases.
+
+Among other metals, spot silver fell 0.7% to $57.05 per ounce, platinum was unchanged at $1,626.15 and palladium was down 1.1% to $1,113.61. All three metals headed for weekly losses.
+
+---
+
+### Illinois Hindu temple planned attack: MEA calls on US to ensure safety, security of Indian nationals
+*SECTIONS Illinois Hindu temple planned attack MEA calls · business*
+
+New Delhi: Describing the alleged plot to carry out a mass shooting targeting a Hindu temple in Illinois as a matter of "deep concern" for New Delhi, India on Friday called on the US to ensure the safety, security and well-being of Indian nationals in that country.
+
+Ministry of External Affairs Spokesperson Randhir Jaiswal said this in response to a query during his bi-weekly media briefing.
+
+A 19-year-old was arrested in Palatine near Chicago for allegedly planning a mass shooting at the Sri Venkateswara Temple in Aurora, Illinois on Sunday. The plan failed as the gun carried by the teenager jammed and could not fire.
+
+  
+
+He appeared in court on October 14 and was charged with one count of making a terror threat and one count of unlawful possession of weapons.
+
+The MEA spokesperson described the Illinois incident as a "matter of deep concern".
+
+"At the same time it is something that shows or highlights the increasing cases of hate crimes and racial discrimination against the Indian community in the United States," he said.
+
+"We have taken note of the action that the US law enforcement authorities have undertaken, once this incident happened. But, we call on the US side to ensure the safety, security and well-being of Indian nationals in the United States," the MEA spokesperson said.
+
+India on Thursday said it was deeply concerned by reports of an alleged plot to carry out a mass shooting targeting a Hindu temple in Illinois in the US and underlined that the incident adds to growing concerns over "racist hostility and anti-India hate" in that country.
+
+A large number of US lawmakers and advocacy groups have expressed shock over this incident, saying anti-India hatred was turning into violence.
+
+In a separate query, Jaiswal was asked what reactions are coming from abroad on the protests in Delhi, and how is the MEA looking at it.
+
+"We have institutions and agencies that are keeping an eye on it, and they are doing what they have to do," he said.
+
+On a question of the US-Russia diesel deal, Jaiswal said, "We do not wish to comment on commercial arrangements struck by other countries except to say that we have always advocated for stability in global energy markets."
+
+---
+
+### European shares close out best week since June as earnings soften blow from tech selloff
+*SECTIONS European shares close out best week since June as earnings soften blow · economy*
+
+European shares rose on Friday to wrap up their best week since late June, during which strong earnings helpedcushion the blow from a global selloff in technology stocks.
+
+The pan-European STOXX 600 index rose 0.7% to 644.74 points, touching the highest in over three weeks. The benchmark was up more than 2% for the week.
+
+"This week has demonstrated the value of diversification when the concentrated US technology trade comes under pressure," said Daniela Hathorn, senior market analyst at Capital.com.
+
+A selloff in high-flying tech names on concerns over increased reliance on debt to develop AI infrastructure, alongside worries about competition from China, battered tech stocks this week.
+
+However, strong results from computer chip equipment maker ASML, chip systems supplier Aixtron and telecom gear maker ​Ericsson have helped sentiment.
+
+"A very good positive earnings season is really going to boost investor sentiment. It could move markets back up to some of the highs that we've seen recently," said Michael Field, chief equity strategist at Morningstar.
+
+Earnings for STOXX 600 companies are expected to rise 20.7% in the third quarter from a year earlier, slightly down from the 21% growth forecast last week, data from LSEG I/B/E/S showed.
+
+SAP, ABB and Barclays are some of the firms due to report results next week.
+
+Aixtron advanced 6% after beating order intake estimates for the third quarter and confirming annual guidance.
+
+Nordex soared 12.3% after the onshore wind turbine maker posted a better-than-expected third-quarter core profit and lifted its full-year margin forecast.
+
+Schneider Electric shares reversed earlier gains and were last down 1.8% after the industrial group raised its 2026 core profit and revenue targets for the second time.
+
+The tech sector was flat while the healthcare sector eased 0.3% after gaining more than 4.6% over the previous two sessions.
+
+Among other movers, Nestle gained 1.7% after JPMorgan upgraded the Swiss food and drinks group to an "overweight" rating.
+
+The gains propped up the food and beverage index, which rose 1.4%.
+
+The euro zone's final HICP inflation reading for September came in at 3.8% year-on-year, in line with economists' expectations but well above the European Central Bank's 2% target, showing price pressures still need to be tamed.
+
+The ECB has raised borrowing rates by 50 basis points in 2026 to 2.50%, to curb price pressures stemming from higher oil prices.
+
+Investors are already pricing in another quarter-point rate hike at a December meeting, according to data compiled by LSEG.
+
+---
+
+### Global markets: Stocks slip as dollar heads for weekly loss
+*SECTIONS Global markets Stocks slip as dollar heads · economy*
+
+Synopsis
+
+In a week fraught with concerns over escalating interest rates and financial complications tied to AI, global stock indices saw moderate declines. While the S&P 500, Nasdaq, and Dow Jones recorded losses, the Dow managed to post a weekly gain. In contrast, European markets, led by London's FTSE 100, experienced a positive turn.
+
+Global stocks fell modestly on Friday as markets stabilized after a sharp tech-led selloff, while the dollar headed for a weekly loss.
+
+Markets have been rattled this week by concerns over higher interest rates and the debt-fuelled financing behind the AI boom, triggering a selloff in technology and chip stocks.
+
+Traders increased bets on further US rate hikes after stronger-than-expected inflation data was released on Wednesday, while investors piled in to Treasuries and other government bonds.
+
+On Wall Street, the benchmark S&P 500 and the Nasdaq finished down and notched weekly losses. The Dow fell as well after reversing early gains but still scored a weekly gain.
+
+Technology and communication services drove losses while the top gainers were utilities and energy stocks.
+
+CoreWeave's shares shed 12% and lost about 25% this week amid increasing investor scrutiny of the financing for the massive AI infrastructure buildout.
+
+The Dow Jones Industrial Average fell 0.34%, the S&P 500 lost 1.09%, and the Nasdaq Composite fell 2.1%.
+
+The MSCI World Equity Index lost 0.40% and notched a weekly loss.
+
+European stock indexes, hit less hard by Thursday's selloff, gained, with the STOXX 600 adding 0.72%. London's FTSE 100 rose 0.38%. Both indexes finished the week higher.
+
+"We're starting to see some cracks in the financing of data centers because you're not too sure who's going to be the winners," said Tom Plumb, portfolio manager at Plumb Balanced Fund.
+
+"Our view is that there's going to be some really significant winners," he said. "But you have to be careful on the financing capability because companies don't get into trouble because their assets don't exceed their liabilities. They get into trouble when they have liquidity issues."
+
+Asian stocks mostly rose, and bond markets steadied, with investors reversing some of the previous session's moves.
+
+Indonesian equities suffered their biggest drop since 1998 after index provider MSCI said the country's market no longer merited emerging-market status and outlined plans to remove it from key indexes tracked by funds.
+
+## Dollar Falls
+
+The dollar index fell 0.26% and was on track for its first weekly decline after four weeks of gains, as lower Treasury yields reduced the currency's appeal. Further worries about AI would push the dollar down further, analysts said.
+
+The euro rose from its recent 17-month low. It was last up 0.16% at $1.1238.
+
+The Japanese yen rose 0.01% against the greenback to 157.98 per dollar.
+
+European government bond yields edged higher, while US bond yields reversed earlier declines. Germany's 10-year yield rose 1.14 basis points to 3.421%. The yield on benchmark US 10-year notes rose 0.17 basis points to 5.085%.
+
+Even so, yields have eased this week as investors sought the safety of government debt amid concerns about AI-
+
+Brent crude futures rose 3.72% to settle at $109.86 a barrel and were headed for a second straight weekly gain amid concerns over Middle East supplies. Attacks around the Strait of Hormuz have surged in the past 10 days.
+
+Gold gained support from the weaker dollar, rising 0.07% to $4,167.14 an ounce.
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+_(You can now subscribe to our ETMarkets WhatsApp channel)  
+_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+---
+
+### Wall Street Week Ahead: As AI rally wobbles, stock market's spotlight turns to earnings
+*SECTIONS Wall Street Week Ahead As AI rally wobbles · economy*
+
+Stumbles in the market-leading AI trade are set to test investor confidence in the rally in the coming week as Wall Street focuses on quarterly results due from key players including Meta Platforms .
+
+AI-linked stocks, central to the bull market that just marked its fourth anniversary, struggled in recent days, with sharp declines in shares of semiconductor companies and tech hardware firms such as Dell Technologies.
+
+Meta, among the hyperscalers spending massively to build AI data centers, highlights the upcoming week of quarterly reports, along with semiconductor firms Lam Research and Texas Instruments and Elon Musk-led companies SpaceX and Tesla.
+
+"It certainly feels like the narrative in the market is a little bit jittery," said Garrett Melson, portfolio strategist with Natixis Investment Managers Solutions. "Clearly there's a lot of uncertainty around where AI stands right now."
+
+Worries rippled through markets over risks tied to the financing of the AI build-out boom, which has lifted profits for a wide swath of companies and boosted economic growth. Investors were watching developments with CoreWeave, an AI cloud company with about $50 billion in debt. This week, its shares tumbled.
+
+In other recent signs of caution, strategists at Deutsche Bank and RBC Capital Markets separately pulled back on their recommendations of the tech sector. On October 9, Deutsche Bank strategists said the rotation into tech had "run far and the risk-reward no longer looks favorable in the near term."
+
+Dragged down by the swoon in heavyweight tech and AI stocks, the S&P 500 posted its biggest weekly drop since June. But the benchmark index was only about 2% below its record high set this month. Other sectors, which lagged as tech shined last month, posted solid gains on the week, including healthcare and consumer staples.
+
+"This is very much an on-off switch type of market," Melson said. "When AI is working, it sucks all the oxygen out of the room for the rest of the sectors."
+
+## Meta Kicks Off Hyperscaler Results
+
+US reporting season heats up next week, with investors counting on robust performance. S&P 500 companies are expected to have increased earnings by more than 30% in the third quarter, according to LSEG IBES.
+
+Massive outlays on AI data centers and infrastructure underpin the profit jump. Meta is one of five AI hyperscalers that combined are expected to increase their capital spending to about $1.2 trillion next year, according to Goldman Sachs. Investors are eager for signs the companies can show returns on the investments, which would build confidence that the spending is sustainable.
+
+"One of the most important takeaways of earnings season is whether or not the profitability of the hyperscalers can grow faster than the pace of their capex," said Kevin Shea, senior equity analyst at BNY Wealth.
+
+Shares of Meta, whose market capitalization was about $1.8 trillion, have risen in recent weeks as it launched its Muse AI assistant
+
+"With the cost of capital going up, this capex blowout is going to become more expensive, which raises the bar for returns," said Chuck Carlson, chief executive officer at Horizon Investment Services. "Meta is going to be the first up to try to provide some color around that question."
+
+## Semis, Tesla, Netflix Also On Tap
+
+Chip companies have been among the biggest beneficiaries of the capital spending boom, but the stocks have cooled off. The Philadelphia SE Semiconductor index has slumped about 12% this month, although it remained up 57% on the year, compared with a roughly 12% year-to-date gain for the S&P 500.
+
+Wednesday's reports from Lam Research and Texas Instruments could offer broader indications of demand in the semiconductor industry. Lam Research shares are up 54% in 2026, while Texas Instruments stock is up 59%.
+
+Elsewhere, investors will focus on results from Musk-run companies with market values well over $1 trillion: SpaceX - the newly public space company that also has an AI business - and Tesla, another signature stock of the tech-driven bull market.
+
+Streaming company Netflix, consumer products company Procter & Gamble and engine maker GE Aerospace are among other high-profile reports in the coming week.
+
+The rise in Treasury yields and prospects for further rate hikes from the Federal Reserve also remain front-burner issues for stock investors. Hot inflation data this week boosted bets on another rate increase at the Fed's meeting at the end of October. Futures pricing suggested most investors still expect the US central bank to wait until its meeting in December to raise rates for a second time this year.
+
+"Another strong earnings season should help equities withstand moderately higher rates," analysts at UBS Global Wealth Management said in a note on Thursday.
+
+---
+
+### US air traffic controllers to get 2.8% pay raise under FAA deal
+*SECTIONS US air traffic controllers · business*
+
+Thousands of US air traffic controllers will get a 2.8% pay raise retroactive to January 1 under a deal announced by the Federal Aviation Administration and a union.
+
+The pay raise, which was authorized by Congress, will be effective October 18.
+
+Controllers previously received a 1% raise but the remainder of the $140 million raise was contingent on workforce reforms.
+
+  
+
+The agreed changes include tracking of controllers' time, aligning staffing with demand, and improving controller reassignments.
+
+The FAA has been working to address a persistent shortage of air traffic controllers.
+
+Many are working mandatory overtime and six-day weeks.
+
+Local managers and union representatives will now develop shift guidelines based on anticipated workload and operational requirements to ensure more productive controller schedules that maximize coverage during peak traffic hours.
+
+---
+
+### Trump Waives Russian Oil Sanctions, Eases 100% Tariff Threat Ahead of Marco Rubio Visit
+*India Today Video Desk · general*
+
+## Trump Waives Russia Energy Sanctions, Offers Major Oil Tariff Relief to India
+
+Donald Trump has waived Russia-
+
+## Andhra Pradesh Steps Up Investment Drive Ahead Of CII Summit In Visakhapatnam
+
+Andhra Pradesh is stepping up its investment drive ahead of the thirty-first CII Partnership Summit scheduled in Visakhapatnam on November twelve and thirteen. As part of these preparations, Vijayawada hosted the Amaravati Regional Conference to create dedicated investment platforms and link local business opportunities with industrial leaders. Addressing attendees as chief guest, Special Chief Secretary and CII representative SS Rawat called on investors to explore emerging opportunities across the Amaravati region. The ongoing initiative aligns with the Swarna Andhra Vision twenty forty-seven roadmap, which seeks to transform the state into a two point four trillion dollar economy and attract five hundred billion dollars in total investments.
+
+## BJP Slams Opposition Over Regime Change Cry, Alleges Youth Misled
+
+The Bharatiya Janata Party strongly criticised opposition parties over their call for a regime change, accusing them of attempting to mislead the youth and using them as pawns. The remarks follow statements alleging that attempts to trigger unrest similar to recent youth-led regime changes in neighbouring countries like Bangladesh and Nepal have completely failed. Pointing to vibrant celebrations during Navratri, leaders asserted that India's youth energy remains focused on constructive national progress rather than negativity. While opposition figures acknowledged aspirations for a regime change, they maintained that their objective is to achieve it through democratic processes.
+
+## Massive Drug Seizure in Tamil Nadu: TVK Expels Functionary, Opposition Mounts Attack
+
+A massive drug seizure has sparked a political controversy in Tamil Nadu after the Directorate of Revenue Intelligence arrested Tamilaga Vettri Kazhagam district functionary Boobalan and his associate following the recovery of 135 kilograms of methamphetamine from the associate's residence. TVK subsequently expelled Boobalan from all party positions. The development prompted sharp political attacks against Chief Minister Vijay, with the DMK demanding an Enforcement Directorate and National Investigation Agency investigation into the drug network. Concurrently, the AIADMK alleged a failure in the drug eradication pledge, whilst the Bharatiya Janata Party demanded strict action against anyone involved.
+
+
+---
+
 ## 16 October 2026
 
 ### Special Parliament session this month, govt has numbers to pass delimitation, women's quota bills: Sources
