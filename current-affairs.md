@@ -1,3 +1,513 @@
+## 18 October 2026
+
+### Night mining, numberless tippers, paper owners: Inside Punjab’s ‘illegal’ mining network
+*Kanchan Vasdev · legal*
+
+Tikka Yashvir Chand, a resident of Bhallan and an anti-mining activist, alleged that village youths were paid to alert mining operators about the arrival of enforcement teams.
+
+[Read full article](https://indianexpress.com/article/cities/chandigarh/night-mining-numberless-tippers-paper-owners-illegal-mining-10926527/)
+
+---
+
+### Trump's 60-day Russia sanctions waiver offers India tariff relief
+*India Today World Desk · general*
+
+## Donald Trump has paused Russia-linked sanctions and tariffs affecting India for 60 days. The waiver allows Washington to assess economic pressures amid global energy disruptions.
+
+Stock photo used for illustration
+
+Washington,Oct 18, 2026 10:00 IST
+
+US Secretary of State Marco Rubio has said the waiver of sanctions on Russia and tariffs on countries including India is a 60-day pause to assess the measure's impact on the global and US economies, news agency Press Trust of India reported.
+
+US President Donald Trump on Friday waived key provisions of the Sanctioning Russia and Iran Act, also known as the Graham Act, which authorised punitive tariffs on countries buying Russian oil. The move offered relief to India.
+
+Rubio spoke to reporters on Saturday evening at Joint Base Andrews near Washington before leaving for a six-day visit to Uzbekistan and India. He is scheduled to be in India on Monday.
+
+Responding to a question about the waivers, Rubio said: "I think the president wants to take the 60-day period of time to sort of analyse what imposing both sanctions and tariffs will mean to the global economy, and even to the US economy."
+
+Trump's executive order states that the waivers will remain in effect until the President or the Secretary of State, in consultation with the Secretary of the Treasury and the Trade Representative where appropriate, determines that further action is needed.
+
+Speaking to reporters at his Mar-a-Lago resort near Miami, Trump said his decision to waive sanctions under the Graham Act would benefit the US.
+
+"A lot of you don't know what my decision is yet, but we'll figure it out, and you'll figure it out," Trump said. "It's a very good decision, and it's going to be a decision that's good for the country, and I think good for the world because we're really at a world stage."
+
+According to PTI, Rubio said the waiver provisions were included when the Graham Act was passed to allow an assessment of global developments, including pressure on energy supplies because of the Iran war, Houthi attacks in Saudi Arabia and the Russia-Ukraine war.
+
+"So I think you have to take all of that into account and weigh it against each other," Rubio said.
+
+Referring to India, Rubio said: "Then you've got countries like India, for example, that have voluntarily diversified their energy portfolio, but are still getting a substantial amount of energy from Russia because it's hard to pivot from one day to the next."
+
+Rubio said India was an important US ally and partner, and the President needed time to study the situation and decide on the right combination of measures.
+
+Trump's decision to waive the sanctions drew criticism from Republicans and Democrats, who had come together last month to overwhelmingly pass the Lindsey O. Graham Sanctioning Russia and Iran Act.
+
+Republican Senator Darline Graham of South Carolina also criticised Trump for exempting Russia from the sanctions law championed by and named after her late brother, Lindsey.
+
+"Personally, I would choose to put the pressure on Russia to end the war and get gas prices down, because I don't trust Putin, and I don't trust Russia," said Graham, who was endorsed by Trump to fill the Senate seat left vacant by her brother's death.
+
+Republican Senator Thom Tillis of North Carolina described the decision on social media as "beyond irresponsible".
+
+"What part of enforcing a law passed 86-11 by the Senate does the President and his advisors not understand," Tillis said. "It's unconscionable that this administration is capitulating to a Russian dictator who illegally invaded Ukraine."
+
+Tillis said that if Trump wanted to bring down energy prices, he should resolve the Iran war, which he said was largely responsible for the rise in fuel prices, rather than help Vladimir Putin.
+
+Republican Senator John Cornyn of Texas said, "Lindsey would be appalled," referring to the late Senator Lindsey Graham, who had worked extensively on the Bill before his death this summer.
+
+Democratic Senator Elizabeth Warren of Massachusetts said Trump was disregarding Congress and enabling Putin to continue his war of aggression. She urged fellow lawmakers to act to reverse the decision.
+
+The waiver gives the Trump administration 60 days to assess the economic and geopolitical effects of sanctions and tariffs, while India receives temporary relief from punitive tariffs linked to its purchases of Russian oil.
+
+With PTI Inputs
+
+\- Ends
+
+---
+
+### Punjab’s (illegal) mining story: A ban in place, but digging goes on
+*Kanchan Vasdev · legal*
+
+“They return every night. Soon after midnight, we can hear loud sounds. My house is just a crow’s flight away. We often watch the activities being carried out. Using drones, we have clicked photos,” says Tikka Yashvir Chand, an activist who has been fighting illegal mining since 2018.
+
+[Read full article](https://indianexpress.com/article/cities/chandigarh/punjab-illegal-mining-story-ban-digging-10926503/)
+
+---
+
+### Amit Shah visits injured after deadly stampede at Kolkata Durga Puja pandal
+*Aadrita Halder · regional, india*
+
+Kolkata stampede kills 19, Amit Shah visits injured at hospital
+
+NEW DELHI: Union home minister Amit Shah on Sunday visited Calcutta Medical College and Hospital, where people injured in the stampede at a Durga Puja pandal in north Kolkata are undergoing treatment.
+
+At least 19 people were killed and 25 injured in the stampede at the Chorbagan Sarbojanin Durga Puja pandal on Saturday evening, following a surge in the crowd amid rain.Kolkata Police have registered a suo motu case of culpable homicide not amounting to murder in connection with the incident, an officer said. Police are also working to identify those killed in the stampede.Shah had earlier expressed condolences to the families of the deceased, describing the incident as “extremely distressing”.
+
+He also said he had spoken to West Bengal Chief Minister Suvendu Adhikari to take stock of the situation.Following the tragedy, Kolkata Police imposed prohibitory orders under Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, in parts of the city for three days, from October 18 to October 20, to maintain law and order.
+
+According to an order issued by Kolkata Police Commissioner Ajay Nand, the restrictions cover areas under the jurisdiction of Bowbazar police station, bounded by College Street, Central Avenue (CR Avenue), Colootola Street and Eden Hospital Road.
+
+The order prohibits unlawful assemblies of five or more people, carrying lathis or other lethal and dangerous weapons, and any activity likely to disturb public tranquillity or cause a breach of peace in the designated area.The order states: "Now, therefore, in exercise of the power conferred by Sub-Section (1) of Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 read with the Sub-Section (3) of the said Section, I, Ajay Nand, Commissioner of Police, Kolkata being an Executive Magistrate for the Metropolitan area of Kolkata as well as in the district of South 24 Parganas(within the limits of the suburbs of Kolkata falling under Kolkata police jurisdiction) do hereby prohibit for a period of 03(three) days from 18.10.2026 to 20.10.2026 or until further order, any unlawful assembly of 05(five) or more persons, carrying of lathi, any lethal or other dangerous weapons or doing of any act which is likely to cause breach of the peace and disturbances of the public tranquility within the said Area in the town of Kolkata.
+
+"The restrictions were imposed amid concerns that demonstrations, rallies and meetings could lead to violence and affect public safety. They will remain in force until October 20 or until further orders.
+
+---
+
+### 7 arrested in Kolkata stampede case, death toll rises to 19
+*Sweety Kumari · legal*
+
+Fourteen people were initially detained for questioning
+
+[Read full article](https://indianexpress.com/article/cities/kolkata/7-arrested-in-kolkata-chorebagan-durga-puja-committee-stampede-dead-injured-10926513/)
+
+---
+
+### India draw Series, Southern Derby for Bengaluru, Rohan Bopanna Ousted | Sports Bulletin October 18
+*MyKhel Staff · sports*
+
+Check out the top stories on sports across the world in the Sports Bulletin for October 18. From India's series draw against West Indies to Emiliano Martinez injury.
+
+## 1\. Bengaluru T20I Washed Out, India and West Indies Share Series
+
+India and West Indies shared the five-match T20I series 2-2 after the deciding fifth match in Bengaluru was abandoned due to rain on October 17. Reduced to nine overs per side, India reached 118/5 in 7.4 overs before further showers halted play. Ishan Kishan smashed 30 off just 10 balls, while Naman Dhir contributed 24 off six deliveries.
+
+## 2\. Bhuvneshwar Kumar Returns to India Lineup After 1,425 Days
+
+Veteran fast bowler Bhuvneshwar Kumar returned to India's playing XI after 1,425 days in the fifth T20I against West Indies in Bengaluru. His previous international appearance came against New Zealand on November 22, 2022. He was recalled after Arshdeep Singh sustained a shoulder injury during the fourth T20I. However, rain prevented Bhuvneshwar from bowling in the abandoned series decider.
+
+## 3\. Bengaluru FC Beat Chennaiyin FC in Southern Derby
+
+Bengaluru FC defeated Chennaiyin FC 2-0 in their Indian Super League 2026-27 encounter at the Sree Kanteerava Stadium on October 17. Ryan Williams opened the scoring in the 24th minute before Mihailo Perovic doubled the hosts' advantage in the 52nd minute. The victory continued Bengaluru's positive start to the campaign, while Chennaiyin were unable to recover from the two-goal deficit.
+
+## 4\. SAFF Says Reports of India's Withdrawal Are Inaccurate
+
+The South Asian Football Federation (SAFF) has pushed back against reports suggesting India could withdraw from the 2026 SAFF Championship. The clarification comes amid scheduling concerns involving India's proposed New Zealand friendlies, the November 4-17 tournament and the availability of players from Indian Super League clubs. India are the defending champions, but squad selection and player releases remain key challenges for the AIFF.
+
+## 5\. Ayan Lochab Becomes Most Expensive Buy at KCL Season 2 Auction
+
+Ayan Lochab emerged as the most expensive player at the Kabaddi Champions League (KCL) Season 2 auction after Jhajjar Jaguars secured his services for ₹17.4 lakh. Bharat Hooda followed at ₹16.6 lakh for Karnal Kings, while Naveen Goyat joined Kurukshetra Knights for ₹15.2 lakh. The auction highlighted franchises' efforts to strengthen their squads ahead of the upcoming season.
+
+## 6\. Emiliano Martinez Suffers Head Injury During Chelsea Match
+
+Chelsea goalkeeper Emiliano Martinez suffered a concussion following a collision with Everton defender Jarrad Branthwaite during their Premier League match on October 17. Martinez received prolonged medical attention before being stretchered off and taken to hospital for precautionary tests. Chelsea won 2-0 through Pedro Neto's brace, but the injury overshadowed the result. Mike Penders replaced Martinez and made his Premier League debut.
+
+## 7\. Manchester City Edge Ipswich, Liverpool Beat Brentford
+
+Manchester City defeated Ipswich Town 3-2 to maintain their perfect start to the Premier League season. Phil Foden opened the scoring before Erling Haaland struck twice, while Daizen Maeda and Zian Flemming replied for Ipswich. Meanwhile, Liverpool recovered from Keane Lewis-Potter's opener to beat Brentford 2-1, with Victor Muñoz equalising and Alexander Isak scoring the winner.
+
+## 8\. Rohan Bopanna Excluded from AITA's Sportspersons of Outstanding Merit Roster
+
+Former world No. 1 doubles player Rohan Bopanna has been excluded from the All India Tennis Association's Sportspersons of Outstanding Merit roster because he had not completed the mandatory one-year retirement period. Bopanna announced his retirement on November 1, 2025, just short of the eligibility deadline when the roster was released on October 16, 2026. His omission comes despite his Grand Slam achievements, including the 2024 Australian Open men's doubles title.
+
+Story first published: Sunday, October 18, 2026, 9:41 \[IST\]
+
+Other articles published on Oct 18, 2026
+
+---
+
+### Too old to feel guilty (Also, I have a chudail problem)
+*Sonali Kokra · business*
+
+A date recently asked me what my guilty pleasure is. “I’m too old to feel guilty about pleasures,” I replied instinctively, and watched his facial muscles adjudicate between wit and wariness in real time.
+
+The thing is... at a certain vintage of adulthood, one’s capacity for embarrassment lapses, much like an unused gym membership, and with roughly the same ceremony. Or, as my niece likes to say on the (very) rare occasions she is impressed by me, “It’s giving… zero effort from you, Maasi.” The importance of this inflection point in life cannot be overstated. It is a watershed moment, the precipice beyond which life as we know it is over, and the person one has been must finally reckon with the person one is about to become.
+
+  
+
+**LIFE IS A WITCH**
+
+My confession, then: I watch Ganji Chudail videos on Instagram. Ganji Chudail is a bald, oddly proportioned, flailing-limbed witch in a terribly made CGI series. Her chief preoccupation in life is tormenting an unnamed village through plots of such majestic incoherence that adults, inevitably, have been conscripted. I am, both, the conscript and the recruiting officer. Better still, and because one witch has never sufficed for anyone of appetite, I also watch Nihal Singh Majithia’s videos reviewing another. This one, the dramatically named Suhagan Chudail, torments a hapless, clueless prince. Pause on that. A woman with a business, a few hundred by lines and firm opinions on GST input credit, devoting her leisure hours to a chudail and a man critiquing chudail lore.
+
+  
+
+Chudails currently make up a big part of my life. Unpacking this life twist may well be the thing that funds my therapist’s next vacation, but I refuse to be guilted about it.
+
+There’s a kind of company I find particularly odious. I have a friend who can recite every plot, subplot, and major and mini character arc, from all seasons of Bigg Boss, across all languages. And another who would eat her weight in Parle-G, were it not for the calories and the threat of hyperglycaemic shock. But if you ask them, the humble bragging will unfurl with the practised finesse of performance art: a third glass of Barolo, a Proust reread in the bath, a weakness for Italian linen. Except that nobody has in the history of blushing actually blushed over a Barolo. Or, pouted over a Proust. They are not guilty pleasures, just conveniently photogenic Sundays.
+
+**GUILT THEATRE**
+
+Not that we, the criminally guilty, are better. We have assembled an entire repertory company for our performance of guilt. The rotating cast includes:
+
+**The Apologiser:** “Ugh, It’s so embarrassing, but.…” A sentence that opens in contrition and closes in a full, unsolicited confession that we are only feigning interest in out of politeness.
+
+**The Researcher**: “It’s for work.” Said of a dating show he’s six seasons deep into. His boss hasn’t heard of it.
+
+**The Scapegoat:** “My cousin sent it to me.” The cousin, defamed for a decade, is exhausted and would really like a word (or 10).
+
+**The Self-Roaster:** “It’s absolute trash, I’ve stopped.” Said by someone who has watched it four times, wept once, and is frantically hoping for a contradiction followed by a serious deep-dive.
+
+**The Hider:** Phone angled away, volume at two, on the metro, as if safeguarding the country’s nuclear codes.
+
+What unites them all is the pre-emptive grovel. We reach for the whip before anyone else can, apologising in advance to an imaginary audience. Nobody, not even your own mom, is that interested in your Tuesday. You have ordered smelling salts and a fainting couch for a scandal that exists only in your head.
+
+It also buys precisely nothing. In 2009, researchers from the University of Michigan found that people expect indulging without a good reason to bring more guilt and less pleasure. When asked how they actually felt, they reported that the reason made no difference to their enjoyment. But when asked again, days later, people who had expected to feel guilty recalled feeling it. We brace for the guilt beforehand and retrofit it in the aftermath, even though the experience itself was fine. What a colossal waste of time.
+
+**PLEASURE ON LOOP**
+
+What I propose instead is a patch of unsupervised ground: one pleasure, entirely your own, enjoyed without defence or apology. But it must be a pleasure and not a compulsion. The difference is easy to check—examine what it leaves behind. A pleasure is something that costs nothing (in your particular scheme of things), harms nobody, and leaves you lighter than it found you. You could abstain for a week without incident, but why would you? Or, is it making you restless, short on time, and reaching for it compulsively? If it’s the former, keep it, however preposterous, and offer no disclaimer to anyone. Least of all to the person who has just spent 40 minutes narrating their sourdough starter.
+
+The dividend is practical. Consider what an ordinary day demands of the average adult: deadlines, invoices, payrolls, dragon bosses breathing down your necks and a phone that never stops asking things of you…. And a perpetual obligation to look like you have it all under control. Then the chudail comes on, and for those three to five minutes nothing is required of me. Nobody needs managing, nothing needs optimising, and the only decision I have to make is which instalment I’m going to watch on loop until I stop giggling. My shoulders descend from around my ears and I return to the invoices a more tolerable human being.
+
+Which is precisely why doom scrolling does not qualify. The 1 am Instagram trawl, thumb twitching autonomously, eleventh stranger’s babymoon loading, rising conviction that everyone else is doing life better, is just evil tech addling your brain and tethering you to a poisonous drip of craving. You get all of the wanting and none of the joy. My bald witch, whatever her faults, has a riveting plot. Now, if you’ll excuse me, there’s a new episode up, and I’m told she is terrorising everyone again. I would hate to miss that.
+
+(Disclaimer: The opinions expressed in this column are that of the writer. The facts and opinions expressed here do not reflect the views of www.economictimes.com.)
+
+---
+
+### Mizoram’s Hnahsin Kut ends: Cosmos festival in Champhai logs 22.5 million social reach, eyes year-round tourism
+*Bikash Singh · business*
+
+Guwahati: The 2026 edition of Hnahsin Kut, also known as the Cosmos Festival, concluded today after eleven days of celebrating Champhai’s natural beauty, cultural richness and community spirit. Organised by Champhai Nature Conservancy (CNC), and supported by the Government of Mizoram, Hnahsin Kut, held from October 6 to 16, highlights the potential of community-led initiatives to connect nature, culture and creative experiences with sustainable tourism and local economic opportunities.
+
+Addressing the concluding programme, Lalnghinglova Hmar, Tourism Minister extended greetings to the people of Mizoram on the occasion of Hnahsin Kut and acknowledged the festival’s growing contribution to Champhai and its surrounding areas. He expressed gratitude to the Champhai Nature Conservancy (CNC), the community-based group that conceptualised and initiated the festival, and thanked the people of Champhai for their continued participation and support.
+
+Tourism Minister said, “One of the most encouraging developments in Mizoram’s tourism journey is that our own people are increasingly discovering the beauty of our State, travelling to different destinations and supporting our local artists and businesses. This is helping to circulate money within our own economy while bringing greater visibility to places that deserve to be experienced by visitors from across the country and beyond. Mizoram is as beautiful as any place in the world, and our peaceful surroundings and the warmth of our people are among our greatest strengths.
+
+  
+
+“Hnahsin Kut demonstrates what communities can achieve when they take the initiative to showcase their natural and cultural heritage”, he added. The festival’s growing visibility is reflected in its reported social media reach of 22.5 million, bringing wider attention to Champhai’s seasonal cosmos blooms and the district’s tourism potential. Its expanding appeal demonstrates how a locally rooted celebration can introduce new audiences to Mizoram while creating opportunities to promote the State’s natural landscapes, cultural identity and creative talent.
+
+Initiated by the Champhai Nature Conservancy in 2024, Hnahsin Kut grew organically from the community’s appreciation of the cosmos flowers that transform the Champhai landscape during the flowering season. Since its inception, the festival has evolved into a broader tourism experience incorporating cultural programmes, musical performances, indigenous games, exhibitions, local food and adventure activities. The 2026 edition continued to encourage visitors to explore Champhai beyond the festival venue and discover the district’s wider natural, cultural and historical attractions.
+
+The economic potential of the festival was evident during its 2025 edition, which recorded an estimated footfall of around 1.2 lakh visitors. The concert held on the final night alone attracted an estimated 42,000 people. Festival stalls generated approximately ₹2 crore in revenue, while accommodation providers in Champhai earned an estimated Rs 1.4 crore. The overall circulation of money in Champhai and surrounding areas during the festival period was estimated at around Rs1 5 crore, including spending at restaurants, stores, transportation services and other tourism-
+
+Hnahsin Kut aligns with Mizoram Tourism’s Culture, Adventure and Nature (CAN) theme, with the cosmos bloom serving as its defining attraction. Its distinctive character lies in its connection with the natural environment, complemented by opportunities to experience local traditions, music, food and hospitality. The festival also creates space for local artists, performers, craftspeople and entrepreneurs to contribute to the visitor experience, connecting tourism with Mizoram’s wider creative economy.
+
+As Hnahsin Kut 2026 concludes, the broader vision is to position Champhai as a year-round tourism destination rather than one associated exclusively with the seasonal bloom. By connecting natural heritage with culture, creativity and community enterprise, the festival offers a pathway towards sustainable tourism growth, stronger local livelihoods and a wider national profile for Mizoram.
+
+---
+
+### IAF helicopter rescues 12 stranded overnight by Indravati floods in Chhattisgarh
+*SECTIONS IAF helicopter rescues · business*
+
+Raipur: An Indian Air Force (IAF) Mi-17V5 helicopter on Saturday rescued 12 people, including two women and three children, who were stranded overnight due to flooding of the Indravati River, following a distress call.
+
+The helicopter, operating from Jagdalpur, carried out the rescue operation after the people were stranded due to the rising water levels of the river.
+
+Earlier in September, heavy rain and flooding of the Indravati River left several villages inundated, with rescue and relief operations underway across the affected areas.
+
+  
+
+With water levels rising by the hour, authorities stepped up evacuation and medical assistance for flood-affected residents.
+
+At Jagdalpur Medical College, doctors are treating a growing number of patients affected by the flood, including children suffering from colds and fevers after being drenched in floodwater.
+
+"We are facing a flood situation here, and the water level is rising by the hour. Amidst this, we are striving to provide the best possible medication to all the flood-affected patients," said Dr Abhijit Sahu, Physician at Jagdalpur Medical College.
+
+"There are also many children who are getting drenched in the water and developing colds and fevers. We are ensuring they receive the best possible treatment," he added.
+
+Officials said relief teams are monitoring the river level closely and relief material is being provided to affected families.
+
+Following receipt of information that 10-12 civilians were stranded in kutcha huts on the north bank of the Indravati River near Dongaghat village, a crew of the Indian Air Force's Central Air Command took off to locate and rescue them.
+
+According to the Ministry of Defence, the crew located the civilians gathered on the rooftop of a kutcha hut after a thorough search of the area. The roof was at risk of collapsing under the force of the gushing floodwaters.
+
+Considering the limited time available and the need to ensure the civilians' safety, a daring rescue operation was undertaken. A Garud commando was lowered onto the fragile rooftop to assist the stranded people, who were then winched aboard the hovering helicopter.
+
+---
+
+### Sweet deception: What’s really inside your festive mithai box?
+*Prachi Kumawat · regional*
+
+Authorities discovered harmful substances in festive sweets (Representative image generated using AI)
+
+NEW DELHI: The box is gold-ribboned, the barfi is glossy, and the smell of ghee-laced sweetness is exactly what festive season is supposed to smell like. But what you are about to serve may owe more to a chemistry lab than a milk can.Real khoya is humble. According to FSSAI's food product standards for dairy, it is made by rapidly drying cow, buffalo, goat or sheep milk, or milk solids. It must contain at least 55% total solids and at least 27% milk fat on a dry-matter basis, and it must be free of added starch and added sugar.FSSAI's Guidance Note on Traditional Milk Products says that done right, it has a mildly cooked, boiled-milk flavour and a soft, granular body.
+
+Cow-milk khoya is pale yellow, while buffalo-milk khoya is white with a brown tinge.Fakes, enforcement officials say, are engineered to imitate exactly those qualities.
+
+#### The recipe, as alleged
+
+What's inside your sweet box
+
+Consider the raid that Uttar Pradesh's Food Safety and Drug Administration carried out ahead of Raksha Bandhan at a khoya unit in Badshahpur village, Rasoolabad, in Kanpur Dehat. UP food safety officials alleged that detergents, refined oil, talcum powder and hydrogen peroxide were in use.
+
+The team recovered 175 packets of skimmed milk powder in seven bags and about 15 litres of hydrogen peroxide. It also found saifolite, destroyed around 100 kg of prepared khoya, and collected samples of 50 litres of milk and 50 kg of khoya for testing.Read the list as a set of workarounds. Skimmed milk powder gives a cheap, milk-like base. Refined or soybean oil stands in for expensive milk fat. In a second unit at Bhola Nagar, Jhinjhak, the same department found 10 litres of refined soybean oil, 10 packets of skimmed milk powder and about 32 kg of prepared khoya.Starch, which FSSAI's guidance note lists among khoya adulterants, adds bulk and density. Talcum powder is alleged to alter texture and appearance, and detergents are alleged to change smoothness and look. Hydrogen peroxide is a bleaching agent.UP officials said titanium dioxide and other whitening agents, liquid glucose, neutralisers and surfactants were also being used to make khoya and other dairy products.These remain allegations, and the samples are awaiting lab results. Not every sweet carries every adulterant. But the pattern is clear: bulk, fat, whiteness and texture, each faked separately and cheaply.
+
+#### The cities connect
+
+Food safety crackdown
+
+This is not a village-only story. On September 29, FSSAI directed all states and Union Territories to intensify inspections and sampling during Navratri and Diwali, flagging milk products, sweets, snacks, edible oil, beverages and ghee.Under that directive, Delhi's food safety teams destroyed more than 4,100 kg of suspected adulterated khoya and paneer over the previous month, and samples of khoya, paneer, chhena and ghee are being drawn from city markets.Next door in Mewat, officials seized and destroyed more than 10,000 kg of adulterated paneer over the previous month, with around 50 raids in identified production hubs. They said the supply chain runs through Jaipur, Mathura, Gurgaon, Faridabad and Delhi, so what is made in one district can land on the mithai counters of another.Kanpur's numbers, as reported by the UP food safety department, show the scale. Across Kanpur Dehat and Kanpur Nagar, 24 teams inspected units and collected 28 samples, destroying material with an estimated face value of Rs 1.50 lakh.At Hatiya Khoya Mandi, 14 samples were taken and about 430 kg of khoya worth Rs 1.07 lakh was destroyed for unhygienic storage. An FIR was registered at Rasoolabad police station under Sections 274 and 275 of the Bharatiya Nyaya Sanhita, and action to suspend or cancel the registrations of three food business operators has begun.In Noida and Ghaziabad, too, food safety teams have stepped up inspections of milk products and sweets this festive season.
+
+#### A dose of perspective
+
+How to check your mithai
+
+Not every box is a hazard. FSSAI's pilot survey of milk products in and around Delhi, conducted between October 15 and November 7, 2019, tested 1,041 samples (438 packed, 603 loose) at the National Food Laboratory, Ghaziabad.According to the regulator's guidance note, the samples showed no major chemical or microbiological safety issues, but predominantly quality and hygiene problems, more often in loose products than in packed ones.Health experts caution that harmful starch, urea-mixed milk, caustic soda and non-approved colours can contribute to acute gastritis, diarrhoea, dysentery, dehydration and kidney inflammation.
+
+#### What you can do
+
+FSSAI advises consumers to prefer packed products over loose ones, since the probability of adulteration is higher in loose sales. Its guidance note describes a simple starch check: boil a small piece of khoya in water, cool it and add a few drops of iodine solution.A blue colour indicates starch. FSSAI itself treats such home tests as preliminary indicators, not laboratory proof.If something seems off, FSSAI says complaints can go to its Food Safety Connect portal, WhatsApp 9868686868, email compliance@fssai.gov.in, or toll-free 1800112100.Authorities have been directed to log inspections, sampling and outcomes in real time on FoSCoS and FoSCoRIS.As the Press Information Bureau has noted, FSSAI runs special drives before and during festivals, prioritising adulteration-prone products such as ghee, khoya, paneer and sweets.
+
+Until those lab reports land, the festive rule is simple: look past the ribbon.
+
+---
+
+### 'Saw my mother die before my eyes': Son recounts Kolkata puja pandal tragedy
+*PTI · business*
+
+Kolkata: "My mother died before my eyes; I too might not have survived," said 25-year-old Sonu Pal, still in shock after his mother died in a stampede at a Durga Puja pandal in the rain-soaked city on Saturday evening.
+
+His mother was among the 19 people who died in the incident on Saturday evening. About 25 others were injured.
+
+Pal, a resident of Kumortuli, had gone to see the puja with his mother when a sudden downpour began.
+
+  
+
+"It was raining outside, and nobody wanted to step outside. People who were standing at the entrance to escape the rain kept pushing to get in," he said.
+
+Pal said the pressure soon became unbearable. "Unable to handle the pressure, everybody inside fell on one another," he recounted.
+
+He said he, too, was caught in the pile-up. "I was also trapped under the crowd. I somehow managed to steady myself and went to my mother, but she was dead," Pal said.
+
+The incident took place around 7.40 pm in the Girish Park police station area. Kolkata Police said all the injured were taken to Medical College and Hospital.
+
+Grieving relatives of those who died in the stampede also asked who would take responsibility for the deaths.
+
+Speaking to reporters, the family members said they had been asked to come on Sunday morning at 10 to collect the bodies.
+
+"We will collect the body, but who will take the responsibility? Where were the police and the administration?" questioned Sunny, a neighbour of one of the victims.
+
+Recalling the last conversation with his deceased sister, who was aged around 30, a man said he was planning her wedding.
+
+"She is gone today. Who will take the responsibility for this?" asked Shubham Sonkar, whose sister had gone pandal hopping with family members.
+
+"Others in the group were not hurt, but my sister is no more," he said.
+
+Another relative alleged poor crowd management at Chorebagan compared to other puja pandals in the city.
+
+John Rahman, a neighbour of an affected family, said the relatives were angry.
+
+"Who will take the responsibility? Will the organisers take it, or the administration? They will have to answer," he said.
+
+---
+
+### Raja Krishnamoorthi’s office receives suspicious package amid US probe into hazardous mailings
+*ANI · world*
+
+Washington, DC: US Congressman Raja Krishnamoorthi on Saturday (local time) said his district office in Schaumburg, Illinois, received a suspicious package containing unknown substances, amid an ongoing federal investigation into similar mailings targeting congressional offices and election officials across the country.
+
+In a post on X, Krishnamoorthi confirmed that local emergency responders and federal law enforcement agencies had responded promptly to the incident and safely removed the package.
+
+  
+
+"Yesterday, my district office received a suspicious package similar to those sent to multiple congressional offices across the country," Krishnamoorthi said.
+
+Following the discovery of the delivery at the Schaumburg facility, local emergency teams joined forces with federal law enforcement agencies to safely remove the package.
+
+Expressing gratitude to the multiple emergency services involved in the operation, Krishnamoorthi praised the rapid response that prevented injuries to office personnel.
+
+"I am grateful for the Schaumburg Fire Department, the Postal Inspector, Capitol Police, and federal law enforcement for their swift response in safely removing the package and its substances," he stated.
+
+Reflecting on the security concern capping off a turbulent period, the congressman added that, "It's been a long week."
+
+This comes as federal investigators are actively probing a series of "suspicious" letters mailed to state election officials and congressional offices nationwide, several of which contained unidentified substances, according to CBS News.
+
+The joint federal probe is being led by the FBI alongside the US Postal Inspection Service, which confirmed that law enforcement agencies are tracking the "suspicious mailings" across multiple jurisdictions.
+
+CBS News reported that Brendan Donahue, deputy chief inspector at the USPIS, said that investigators discovered unknown substances inside some of the envelopes, noting that the mailings were directed to "various addresses nationwide," including "secretary of state offices and the 
+
+The hazardous mailings targeted lawmakers on both sides of the political aisle.
+
+CBS News reported that Senate Minority Leader Chuck Schumer's office was identified as one of the congressional locations targeted in the operation, while at least two Senate Republicans were also sent letters.
+
+In response to the potential security threat, the Senate Sergeant at Arms issued a formal notice to Capitol Hill staff informing them of the ongoing multi-agency investigation.
+
+Democrat Representative Bobby Scott also stated in a post on X that the federal law enforcement authorities intercepted a mail package containing an unknown, hazardous substance that was addressed to his district office.
+
+Scott confirmed the security intervention, stating that federal agents contacted his staff directly to report that the hazardous delivery was seized prior to reaching its destination.
+
+"The FBI contacted my office earlier today to report that it had intercepted mail containing a suspicious substance addressed to my district office, like others reported around the country," Scott wrote.
+
+Expressing appreciation to federal law enforcement for preventing exposure to his district personnel, Congressman Scott praised the multi-agency response while issuing a strong warning against politically motivated harassment.
+
+"I am grateful to law enforcement for their efforts to keep my staff safe," Scott stated. "Threats and attempts at intimidation are unacceptable and must not be tolerated."
+
+Federal investigators are actively attempting to determine who is behind the targeted mailings and have successfully intercepted a portion of the packages prior to delivery, CBS News cited the deputy chief inspector at the USPIS as saying.
+
+The surge in security incidents arrives three weeks before the upcoming midterm elections. Federal authorities previously conducted similar investigations into widespread suspicious letter campaigns during the period leading up to the 2024 elections.
+
+---
+
+### 'Mumbai City days are in the Past': Homebound Gurkirat ready to roar for Punjab FC against Old Employers
+*Sauradeep Ash · sports, football*
+
+Punjab FC forward Gurkirat Singh will have an added incentive when the Shers face Mumbai City FC in their Indian Super League 2026-27 clash at the Jawaharlal Nehru Stadium in New Delhi on October 19.
+
+The 23-year-old Chandigarh-born attacker spent three seasons with the Islanders between 2021 and 2024 before moving to Chennaiyin FC. He scored his first and last ISL goal for Mumbai City against Chennaiyin in December 2023, finding the net in a 3-0 victory.
+
+Gurkirat Singh (Image: Punjab FC)
+
+A product of the AIFF Elite Academy, Gurkirat began his senior career with Indian Arrows and represented India at several age-group levels. Known for his versatility in attack, he can operate as a forward or left winger. After two seasons with Chennaiyin, he joined Punjab FC on a two-year deal in July 2026.
+
+## Mumbai City days are my Past
+
+And ahead of the match against his former employers, Gurkirat will hope to make his mark in Punjab colours, and says the days with Mumbai City are in past.
+
+"Mumbai City days are in the past. I had some good years as a player in Mumbai, but things didn't go as well for me in Chennai. Now, I've joined my hometown team, which has a young squad, and I'm highly motivated to help the team.
+
+"As the coach said, everyone has a positive attitude and is working hard towards winning every game. Our approach will remain the same: take one match at a time. For me, this will be just another match where I need to work hard and help the team in whatever way the coach wants me to," Gurkirat said at the pre-match press conference.
+
+The 23-year-old striker may be down the pecking order in the frontline, but he says he is learning a lot from the Punjab FC foreigners.
+
+"It's always good to learn from good strikers who score goals. A striker's main job is to find the back of the net, and I am still young. Being an Indian striker in the ISL is tough, so I always observe what experienced strikers do on the pitch - how they move, where they position themselves and how they make runs to score goals. I try to keep those things in mind and implement them during matches," he added.
+
+## Ricky Shabong is an Inspiration
+
+He also spoke highly about India midfielder Ricky Shabong, with whom he has an old connection.
+
+"As for Ricky, we played together for the India U-15 national team. He has always been a hard-working player in midfield, and I draw motivation from watching him on the pitch. His work ethic inspires me, and I believe that kind of attitude helps our team perform better," Gurkirat concluded.
+
+Story first published: Sunday, October 18, 2026, 9:33 \[IST\]
+
+Other articles published on Oct 18, 2026
+
+---
+
+### 'India an important ally': Rubio says Trump studying effects of tariffs on countries like India
+*ET Online · business*
+
+A day after US President Donald Trump waived several sanctions related to Russian fuel sales that were to take effect under the Lindsey O. Graham Sanctioning Russia and Iran Act, US Secretary of State Marco Rubio on Saturday (local time) described India as an important ally whose energy needs to be ...
+
+[Read full article](https://economictimes.indiatimes.com/news/economy/foreign-trade/india-an-important-ally-rubio-says-trump-studying-effects-of-tariffs-on-countries-like-india/videoshow/135023698.cms)
+
+---
+
+### 13 crore names struck off, only 70 lakh were unexplained: Surjit Bhalla’s SIR math
+*India Today News Desk · general*
+
+## Economist Surjit Bhalla estimates that around 70 lakh eligible voters may have been removed without explanation during the SIR, while arguing that most of the 13.37 crore draft-stage deletions were justified, as they included names of deceased voters, people who had relocated, duplicate entries and untraceable voters.
+
+Surjit Bhalla distinguishes total deletions from eligible voters potentially wrongly excluded in his analysis, without dismissing concerns over wrongful removals.
+
+New Delhi,Oct 18, 2026 09:52 IST
+
+The debate over the Election Commission’s Special Intensive Revision (SIR) of electoral rolls has largely revolved around the staggering figure of 13 crore names removed. But how many of those deletions actually involved eligible voters who should have remained on the rolls?
+
+Economist Surjit Bhalla has attempted to answer that question by looking beyond the headline figure. In a blog published on Saturday, he estimates that around 70 lakh eligible voters may have been removed without explanation in states where the revision process has been completed.
+
+In an analysis published on Saturday, Bhalla argues that the 13 crore figure counts draft-stage deletions across all three phases of the SIR, including names removed for legitimate reasons such as death, relocation and duplication. It also includes states where final electoral rolls have not yet been published.
+
+His calculation, based on population estimates, official birth and death data, and the Election Commission’s pre-SIR voter registration figures, puts the number of potentially unexplained deletions at around 70 lakh, significantly lower than the figure dominating the political debate.
+
+“‘Unexplained’ is not proof that every one of the 7 million was removed wrongly, and it is not small to the people concerned,” Bhalla wrote. “But it is less than one adult in a hundred, not the one in seven implied by the headlines.”
+
+Bhalla’s analysis does not dismiss concerns over wrongful deletions. Instead, it attempts to distinguish the total number of names removed during the exercise from the number of eligible voters who may have been left off the final rolls.
+
+### WHY THE 13-CRORE FIGURE NEEDS CONTEXT
+
+The Election Commission reported that 13.37 crore names were removed from draft electoral rolls across the three phases of the SIR. Of these, 7.22 crore were from Bihar and the 12 states and Union Territories covered in Phase II, while 6.15 crore were from the 17 states in Phase III.
+
+Bhalla pointed out that these deletions were recorded before claims and appeals were heard. According to data cited by Reuters, they included 2.8 crore names of deceased voters, 6.3 crore people who had relocated, one crore duplicate entries and three crore people who could not be traced.
+
+Bhalla argues that these categories cannot automatically be treated as wrongful exclusions. The central question, he says, is how many eligible voters remain missing after accounting for people who should not have been on the rolls in the first place.
+
+### HOW BHALLA CALCULATED THE SHORTFALL
+
+Bhalla begins with an estimate of India's adult population at 100.8 crore in mid-2026. However, he argues that a complete electoral roll should not be expected to contain every adult, since voter registration is voluntary and some people never enrol.
+
+Drawing on the Election Commission's pre-SIR registration data for people aged 18-29, he estimates that 7.5 per cent of adults are unregistered.
+
+Allowing for a further 1 per cent among older adults, he puts the overall non-registration rate at around 8.5 per cent.
+
+This brings his benchmark for a clean electoral roll to approximately 92.2 crore names.
+
+He then applies this method state by state, using population estimates and voter registration data to account for differences in registration rates.
+
+Across nine large states with final SIR rolls, he estimates that a clean roll should contain 53.51 crore names, compared with 52.78 crore on the final rolls, a shortfall of approximately 73 lakh.
+
+After allowing for an estimated five lakh non-citizens legitimately removed, Bhalla arrives at around 70 lakh eligible voters whose removal remains unexplained.
+
+The estimate is based on data available up to October 16, 2026, and is his own calculation, not an official Election Commission count.
+
+“Seven of every eight removals were justified,” he wrote, estimating that around 5.1 crore of the 5.8 crore net deletions in states with final rolls were necessary, leaving 70 lakh unexplained. He cautioned, however, that the unexplained figure does not establish that every affected voter was removed wrongly.
+
+> 13 crore "deleted voters"? The data say about 70 lakh eligible voters removed without adequate explanation, where SIR is final. 7 of every 8 removals were justified. Much Ado About (Almost) Nothing. A thread— Surjit Bhalla (@surjitbhalla) October 17, 2026
+
+### INDIA'S ELECTORAL ROLLS HAVE NEVER BEEN PERFECT
+
+Bhalla places the current controversy against the historical accuracy of electoral rolls, arguing that some mismatch between voter lists and the eligible population is not new.
+
+He points out that after the last nationwide intensive revision, the 2004 electoral roll contained 2.8 crore more names than the estimated adult population, an excess of 4.4 per cent.
+
+In 2014, the roll was 3.1 per cent higher than the adult population.
+
+“There was no controversy, and no allegation that the ECI had doctored the rolls,” he wrote, noting that the Congress, then in opposition, went on to win the 2004 general election.
+
+Compiling a list covering nearly a billion people through door-to-door verification, Bhalla argues, is inherently difficult, particularly in a country with a large population of poor and migrant workers.
+
+However, he does not dismiss concerns over the way the SIR was conducted. He acknowledges criticism over the speed of the exercise, the documentation demanded of poor and migrant voters, and notices issued over so-called “logical discrepancies”.
+
+He also flags the Election Commission's introduction of a compulsory declaration on Form 6 for new voter registrations. The form asks applicants whether they, their parents or grandparents appeared on an earlier SIR roll.
+
+The legality of this change remains unresolved, with the Supreme Court having questioned whether the modified form had been approved.
+
+### BENGAL, BIHAR EMERGE AS BIG EXCEPTIONS
+
+While Bhalla's national estimate points to a relatively small share of unexplained deletions, his state-level analysis identifies West Bengal as a significant exception.
+
+He estimates that around 50 lakh eligible voters may have been removed without explanation in the state, equivalent to around 6-7 per cent of its adult population.
+
+West Bengal's electoral roll fell from 7.66 crore names to 6.77 crore, a decline of 11.6 per cent. Bhalla estimates that a clean roll for the state should contain around 7.33 crore names, suggesting that approximately 56 lakh more names were removed than necessary.
+
+He puts the likely number of eligible voters removed without explanation between 40 lakh and 60 lakh, while acknowledging uncertainty in the calculation.
+
+The deletions also raise questions about the adjudication process. Of the 60 lakh voters flagged for “logical discrepancies”, judicial officers struck off 27 lakh names in April 2026. Muslims accounted for around two-thirds of these adjudication-stage deletions, Bhalla says.
+
+The Election Commission told the Supreme Court in September that 22.2 lakh appeals had been filed seeking restoration of deleted names. Around 93 per cent of the appeals decided so far found the voters eligible, according to Bhalla's account.
+
+However, only 1.3 lakh appeals had been decided at the time of his analysis. Bhalla therefore treats the figures as an indication of potential wrongful exclusions, rather than conclusive proof.
+
+Bihar, where the SIR controversy first gathered momentum, presents a different picture. Bhalla estimates that the state's final roll still contains around 60 lakh more names than a clean roll would.
+
+He attributes much of the surplus to migrant workers who live and work in other states but remain registered in Bihar.
+
+Bhalla sums up his assessment with the words, “The roll needed cleaning”. While he argues that most deletions were necessary, he also points to the clumsy handling of the exercise, leaving questions over the names that remain unexplained and the voters behind them.
+
+\- Ends
+
+
+---
+
 ## 17 October 2026
 
 ### 'Time to go': Kapil Sibal jabs Rajnath Singh on 'regime change' charge
