@@ -1,10 +1,268 @@
 # Editorials
 
-_Last updated: 2026-10-17 05:58 UTC_
+_Last updated: 2026-10-18 06:27 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 18 October 2026
+
+### Dead novel in its afterlife: How contemporary fiction confirms what everyone says
+*Deccan Herald · Opinion*
+
+Responding to rumours about the death of the novel that surface from time to time, Milan Kundera wrote about the dead novel—novels that ‘add nothing to the conquest of being. They discover no new segment of existence; they only confirm what has already been said, furthermore: in confirming what everyone says (what everyone must say), they fulfil their purpose, their glory, their usefulness to that society. By discovering nothing, they fail to participate in the sequence of discoveries that for me constitutes the history of the novel; they place themselves outside that history, or, if you like, they are novels that come after the history of the novel’. This is, of course, from The Art of the Novel, published in the mid-1980s, and the emphases in italics are Kundera’s. Re-reading it a few days ago, I was surprised that it read as much like a prognosis as it did of a diagnosis of the contemporary novel.
+
+‘I have already seen and lived through the death of the novel, a violent death (inflicted by bans, censorship, and ideological pressure), in the world where I spent much of my life and which is usually called totalitarian... the novel is incompatible with the totalitarian universe,’ he writes in the preceding paragraph. Its tragicomic phrasing might make us gloss over an important word hiding there – ‘outside’, ‘outside that history’. And what kind of novels are these novels outside that history? ‘They are novels that come after the history of the novel.’ Perhaps because of our conditioning in such a category, we might think that this ‘outside’ would be a minor tradition. But it isn’t; I’m surprised by the recognition that such a novel is actually now the majoritarian tradition.
+
+Think of the novels that have won awards and appeared on bestseller and critics’ lists. Stay with two or three of these titles as you run the Kundera test in your head. Did your favourite novel from last year or the year before that ‘confirm what everyone says’ or ‘what everyone must say’? Why did you like the novel? Was it because the novel you liked ‘holds up a mirror’ to ‘the problems that beset contemporary society’, as reviewers praise these days: war, inequality, patriarchy, racism, casteism, climate change...? Did the novels give you any new insight, did they just ‘fulfil their purpose, their glory, their usefulness to that society’?
+
+Moodboard: Three novels that remind us why teachers matter The prize-winning novels of our century seem to me to be what Kundera characterises as dead novels, novels that have come after the history of the novel. It’s an odd phrasing and might seem confusing at first. Stay with it for a second – replace ‘novel’ with, say, ‘human’ – and you get what he’s doing there. ‘Humans that come after the history of the human’. What Kundera means by ‘history’ is, I suppose, evolution, not progress but deviations and adjustments and responses to contingencies that keep a species – in this case a genre – alive and energetic. It’s the mid-1980s, and Kundera is already bewailing the solidification of the conventions of the novel that will come to be feted. He doesn’t know it yet, of course, that what he calls the dead novel would become the most venerated kind of novel after the fall of the Berlin Wall and a warfaring globalisation.
+
+Something tragicomic would happen to the genre. Every iteration of the same syntax – and formula – of this kind of novel would be called ‘original’ by publishers, reviewers and, consequently, by readers. They were called original because they were not original, because the endorsers knew that Brutus was not an honourable man. The constitutional function foisted upon the novel—that it must present a moral universe without variation, a kind of moral totalitarianism, as it were—has deadened the novel. When a deviation is noticed, it is at first celebrated and soon diagnosed as a malfunction. That is perhaps why, say, ‘autofiction’, now celebrated in capitalist countries for what Kundera would, in a heightened expression, characterise as a ‘sequence of discoveries’, a necessary feature of the ‘history of the novel’, is seen as self-indulgent when it comes from writers in former colonies. This is because it does not fulfil what Kundera calls ‘usefulness to that society’. Such novels are kept ‘outside’ the emerging canon, a sad and ironic reversion of what Kundera understood as ‘outside the history of the novel’.
+
+(The writer is an author and poet. Her books include How I Became a Tree and Provincials.)
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/dead-novel-in-its-afterlife-how-contemporary-fiction-confirms-what-everyone-says-4186805)
+
+---
+
+### Profiles in cowardice: How world leaders and tech CEOs evade responsibility for their actions
+*Deccan Herald · Opinion*
+
+Published seventy years ago, Profiles in Courage presents short biographies of eight United States senators who voted against special interest groups which were intent on preserving their power in the halls of Congress. The book, which won a Pulitzer Prize for Biography, was supposedly penned by then Senator and future US President John F. Kennedy (JFK).
+
+Given his wealth and political connections, JFK was able to either directly or indirectly influence key members of the prize board into picking his book for the Pulitzer. Despite questionable scruples and ethical considerations, JFK is still revered around the globe.
+
+The Kennedy family established the Profile in Courage Award to honour individuals who have exhibited the same type of courage as identified in the book. It would have taken a lot of courage for JFK to step down, courage which he did not possess. While JFK would have never found a place in his own book or merited, albeit posthumously, the courage award his family established, he would be a prime candidate in any book devoted to identifying cowards in our midst, especially those in whom power is concentrated, be it in media or the political, corporate, and academic arenas.
+
+Quote of the day by John F Kennedy: “Change is the law of life. And those who look only to the past…”Donald Trump got out of the Vietnam-era draft by claiming a ‘bone spur’ in his heel rendered him medically unfit for military service; yet, he has had no hesitation in blowing up fishing boats in international waters, ‘suspected’ of ferrying drugs, kidnapping foreign leaders, and attacking weak, poorly defended countries across the globe.
+
+Of the eight senators discussed in JFK’s book, only one truly deserves to be included: George W. Norris of Nebraska. Norris believed in a government which was truly secular and non-autocratic at any level, and he fully understood what it takes for a country to stay neutral in times of war.
+
+If, in the foreseeable future, a book titled Profiles in Cowardice does get written, since there are any number of candidates across the world who could conceivably be included in the book, we need a set of criteria to justify their inclusion. For example, when a country’s leader is accused of accepting bribes or committing genocide, and there is conclusive evidence supporting the allegation, how the leader responds is a clue to whether they should be included in the new book.
+
+Likewise, when the CEO of a social media company or AI company is asked, “Is your company product harmful to children?” or “Is your product harmful to humanity?”, any equivocation on the part of the CEO is a clear indication that they are trying to extricate themselves by offering noncommittal responses. One can envisage any number of scenarios involving politicians of whatever party in whatever nation who have been compromised. The result in all of the above situations is the company’s bottom line for the CEO, and success at the ballot box for the politician. Taking full responsibility for one’s actions does not make a man a hero, but wilfully absolving himself of any blame for seeking to harm humanity does make him a coward.
+
+Trump and his Secretary of War, Pete Hegseth, have yet to even acknowledge the wanton killing of about 120 children by dropping a bomb on a girls’ school in Iran. Dropping a bomb from 35,000 feet to wipe out a school is a display of cowardice, not heroism. In a similar vein, when dozens of journalists and hundreds of women and children were deliberately targeted for elimination in Gaza by the Israel Defence Force, Benjamin Netanyahu brushed aside criticism from numerous world leaders.
+
+Have Mark Zuckerberg and Elon Musk done anything meaningful or significant to control the spread of false information and misinformation intended to cast doubt on legitimate election results in various countries? I didn’t think so. Why would Sam Altman and Dario Amodei change their existing AI algorithms or discontinue working on newer AI models which pose an existential threat to humanity, especially when untold riches are at stake, either for themselves or their company shareholders? The argument that ‘if we don’t do it, China certainly will’ simply does not wash, and it would be foolish and dangerous to believe otherwise.
+
+Trump and the leaders of the free world he has terrified are all cowards, save Mark Carney of Canada. The 1965 movie The Mouse that Roared is worth watching, especially now.
+
+The writer is a computer scientist, a newly minted Luddite and a cynic.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/profiles-in-cowardice-how-world-leaders-and-tech-ceos-evade-responsibility-for-their-actions-4186806)
+
+---
+
+### The verdict-first dissent: India’s politics of negation
+*Deccan Herald · Opinion*
+
+The dramatic street theatre playing out across the capital – marked by Opposition marches to the Supreme Court, symbolic satyagraha at Rajghat, and viral standoffs with law enforcement – highlights a shift in modern political dissent. In The Revolt of the Public, Martin Gurri analysed how the digital age empowers the Public to rapidly mobilise, not to build alternative institutions, but to aggressively challenge and dismantle existing centres of authority.
+
+The ongoing protests demanding the resignation of Chief Election Commissioner (CEC) Gyanesh Kumar over the Special Intensive Revision (SIR) of electoral rolls serve as a textbook manifestation of Gurri’s thesis. By declaring the referee guilty before any judicial or institutional verdict has been rendered, a disparate collective of opposition interests is testing the boundaries of democratic accountability.
+
+A central feature of Gurri’s framework is that the modern Public operates primarily through negation. It is defined by what it opposes rather than what it proposes. In the current controversy, the Indian National Congress and its regional allies have levelled severe allegations of ‘vote theft’ and systematic disenfranchisement. They point to the removal of over 13 crore names from draft rolls as definitive proof of manipulation. Conversely, the Election Commission of India (ECI) and the ruling dispensation maintain that this is a routine administrative cleanup aimed at eliminating duplicate, deceased, and ineligible entries.
+
+The striking feature of this standoff is not the disagreement itself, but the structural refusal to wait for evidence. In a traditional democratic setup, complex administrative disputes are channelled through institutional arbiters – the Parliament, the judiciary, specialised committees, or independent audits. However, the Opposition’s strategy bypasses these deliberative steps entirely. By demanding the immediate resignation of the CEC, the protest movement operates on a “verdict-first” logic. Guilt is established by public proclamation, and the street becomes the court of first and final resort.
+
+Supreme Court seeks replies from CEC Gyanesh Kumar, others on plea filed by Rahul Gandhi, oppn leadersCritics argue that this rush to judgment stems from the political frustration of an Opposition repeatedly bested at the ballot box. When conventional institutional avenues feel blocked, the motivation to delegitimise the institutional framework grows. Gurri’s framework expands this observation beyond mere partisan sour grapes, recognising it as a systemic shift in how political actors seek relevance.
+
+This dynamic is further complicated by the emergence of decentralised, highly online actors who lack traditional political stakes but possess immense disruptive power. The prominent role of the youth-led Cockroach Janta Party (CJP) – a satirical movement turned protest catalyst – perfectly illustrates the concept of the ‘borderlands’ of authority.
+
+When mainstream political heavyweights like Rahul Gandhi march alongside internet-native satirists and student unions, it signals a highly disparate coalition. Bound together not by a shared blueprint for governance but by a common target of grievance, this collective thrives on performative disruption. Because their primary currency is attention and the erosion of the Centre’s credibility, the burden of proof becomes secondary to the immediate impact of the spectacle.
+
+The long-term danger of this trend is the systemic erosion of institutional trust. As 42 retired judges noted in a public letter, continuously branding constitutional authorities as compromised without substantiation risks deeply damaging public confidence in the democratic process itself. When the referee is delegitimised before the game even begins, the entire democratic contest is brought into disrepute. If the Public is conditioned to believe that every electoral roll revision is inherently fraudulent, no future election outcome can ever be accepted as legitimate.
+
+This is the exact trap citizens must guard against: the descent into political nihilism. Dissent without a commitment to institutional truth does not reform democracy; it hollows it out. When Chief Justice of India Surya Kant declined to meet with Opposition leaders, explicitly stating that grievances regarding the voter lists must be pursued through established judicial proceedings rather than political representations, he was attempting to reassert this traditional institutional boundary. The CJI’s message was clear: accountability requires adherence to a process, not just the volume of a crowd.
+
+For a democratic polity to remain stable, the right to protest must be balanced by a foundational honesty of purpose. When grievances are weaponised as political theatre, the social contract begins to fray. The Opposition must act as a credible guardian of democracy; it must anchor its dissent in verifiable facts and respect the arbitrating role of the courts. Those in authority must ensure transparency in extensive exercises like the electoral roll revision, and not give ammunition to political opportunists looking to exploit public anxieties.
+
+The meaning of the current fractious politics is simple: when the ballot loses meaning, the street gains it. Street protests have the power to disrupt; they cannot govern. By replacing the rule of law with rallies, dissent loses legitimacy.
+
+The writer is the former civil servant enjoys traversing the myriad spaces of ideas, thinkers, and books.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-verdict-first-dissent-indias-politics-of-negation-4186810)
+
+---
+
+### Regime change: Ballot box or street
+*The New Indian Express · Opinion*
+
+Defence Minister Rajnath Singh is not a man given to theatrical outbursts, which is precisely why his charge landed with the weight of a warning. Last week, when he accused Rahul Gandhi and his allies of taking to the streets to topple a popular, elected government, he was not merely scoring a point in the daily duel of Delhi politics. He was naming a fear that has quietly crept into the corridors of power—the fear that the street, long dismissed as noise, may yet become a verdict.
+
+The chorus followed with drilled precision. Several BJP leaders including its President Nitin Nabin sharpened the same sword, accusing the opposition of plotting to seize through agitation what it could not win through the ballot. The most combustible charge was reserved for the end. The BJP alleged that the opposition was importing the Bangladesh and Nepal models, where governments crumbled before violent crowds, and transplanting them onto Indian soil.
+
+The Congress refused to surrender. Its leaders claimed that to oppose and to depose is the basic right of every citizen in a democracy. They reminded the ruling party that the very same methods had been used to remove Congress governments in the past. The Congress reminded that the BJP’s own leaders had marched at the front of those processions. Street protest, they argued, is a tried and trusted tool of democratic change all over the free world. The real question is not whether citizens may seek change, but how they go about it.
+
+Indian history of political protests bolsters the argument. During the mid-1970s, Jayaprakash Narayan turned a student agitation in Bihar into a national movement against corruption and the abuse of power. The then Prime Minister Indira Gandhi responded with the Emergency. The Indian voter responded to her draconian regime by ousting her from power in 1977.
+
+Again, in 1987, the then Defence Minister V P Singh walked out of Rajiv Gandhi’s Cabinet with the Bofors scandal as his weapon. During the 1989 Lok Sabha elections, Rajiv was voted out. Once again, the pattern was repeated in 2012 at Ramlila Maidan, where Anna Hazare’s fasts drained the moral standing of the Manmohan Singh government and set the stage for Modi’s rise in 2014. In each case the target was the Congress. Each agitation also had four vital ingredients: corruption, a credible leader, a slogan that touched the heart, and a common cause that rose above party lines.
+
+Rahul Gandhi has spent the better part of a decade trying to build a similar wave against Modi, with uneven results. He took up one issue at a time, first Rafale, then Adani and Ambani, and most recently the charge of vote chori. Each campaign made an impact, but none grew into a mass movement, because these issues reached the minds of informed voters but rarely entered the homes of ordinary families.
+
+In 2026 came the most unlikely spark. A young man in his thirties, living in America, picked up a word used by the Chief Justice of India and launched the Cockroach Janta Party (CJP). But Abhijeet Dipke, its founder, chose his cause with great cleverness. The NEET paper leak had hurt more than 20 lakh families who had spent their savings, their sleep and their hopes on a single examination. The CJP became the outlet for their anger, and that anger produced results. Education Minister Dharmendra Pradhan resigned and several senior civil servants were moved out. It was a small yet symbolic regime change achieved without a single seat changing hands in Parliament.
+
+Having tasted blood, the protesters went looking for new causes to keep their spirit alive. Rahul wisely turned his attention to Gen Z. From examination reform to unemployment, his Chhatron Ki Goonj campaign struck a chord and carried the concerns of classrooms and coaching centres into the national debate. However, the strongest weapon arrived when the SIR exercise’s manipulations were exposed. What had been a lost argument in the courts became a real grievance in towns and villages. The opposition parties that had long guarded their own territory suddenly found themselves marching together against a single target.
+
+The government finds itself on unfamiliar ground. It knows how to fight political parties. Each new protest weakens the carefully-built story of good governance. This standoff raises a larger question that India has never fully answered. B R Ambedkar told the Constituent Assembly in 1949 that once constitutional methods were available, civil disobedience and street agitation were nothing but the grammar of anarchy. Ram Manohar Lohia held the opposite view, insisting that living nations do not wait five years. Peaceful protest is the lifeblood of a free society, but road blockades that bring cities to a halt and violence that frightens ordinary citizens destroy the very cause they claim to serve.
+
+The government, however, must resist the temptation to answer dissent with force. A ruling party that faces serious charges of weakening constitutional institutions can least affords to be seen using police, agencies and prisons to silence its critics.
+
+The wiser course is to discover or invent outlets through which the opposition and the young can vent their grievances, whether through meaningful debate in Parliament, open hearings by committees, or regular dialogue with student bodies. The opposition, in turn, must accept the reasonable restrictions that the Constitution itself places on protest, so that the right to dissent does not become a licence to disrupt.
+
+The movement has not yet spread across the whole country. But it has certainly given the government sleepless nights. India may well be on the threshold of a revival of democratic protest as a means of changing governments. Karl Popper, an Austrian philosopher, argued that the true strength of democracy lies in allowing citizens to remove their rulers without bloodshed, yet removal is only half the task.
+
+The alternative must be better than what it replaces, and strong enough to govern a nation of 140 crore people. Until a united opposition finds a cause that unites, a face that inspires and a structure that lasts, they will remain a nuisance to the palace rather than a threat to its foundations.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Oct/17/regime-change-ballot-box-or-street)
+
+---
+
+### ChatGPT’s billions meet bubble babel
+*The New Indian Express · Opinion*
+
+Updated on: 17 Oct 2026, 7:16 pm4 min readCopiedWhen ChatGPT went live on November 30, 2022, Nvidia was best known for gaming chips. The company was worth $420 billion and Jensen Huang under $20 billion. This month, Nvidia closed at a record $5.77 trillion, and Forbes puts Huang at $199 billion.
+
+The builders of Babel, Genesis 11:4 records, set out to “make us a name”. Today, billionaire lists are where names get made. Forbes’s 2023 annual census of the Richie Riches counted 2,640 billionaires worth $12.2 trillion. The 2026 edition found 3,428 worth over $20 trillion. Elon Musk, Larry Page, Sergey Brin, Jeff Bezos and Mark Zuckerberg went from $514 billion between them to $1.78 trillion.
+
+The divergence between AI and not-AI tells the post-ChatGPT story. Value exchange-traded funds have struggled returning about 47 percent in three years, whereas the VanEck Semiconductor ETF returned 327 percent. Below the billionaires there is the salaried millionaire gentry. At OpenAI, more than 75 employees sold $30 million each in one tender. SK Hynix is on course to pay its average worker $547,000 for 2026. In Bengaluru, India’s five biggest IT firms shed 57,891 jobs in two years. Icheon gets rich; Bengaluru gets thin.
+
+India’s family offices are funding homegrown AI, but it has yet to show up on the global radar, and fund managers lament India’s underperformance and thin AI presence. Distance from AI costs money. Bernard Arnault, the richest man alive in 2023, is poorer than he was. In 2023, the richest man in China sold bottled water. Zhong Shanshan is still worth $68 billion. ByteDance’s Zhang Yiming has gone past him, from $45 billion to $69.3 billion. Tencent’s Ma Huateng has climbed from $35.3 billion to $53.8 billion.
+
+Wall Street has always toned up its walk and talk for the season: Atkins and power yoga in the dot-com years, the Peloton through the pandemic. This era’s diet is a weekly GLP-1 jab that kills the appetite, though not for AI-adjacent stocks. The with-it crowd has moved from Zone 2 cardio to tai-chi, which seeks stillness in motion. The talk has followed the body into verbal calisthenics. Huang says compute is now revenue. Alphabet spends and warns, in one breath, that cash flow will stay under pressure. In March, with Nvidia down 11 percent for the year, the question was whether AI would pay. It is back in circulation.
+
+Consensus has it that AI is real. There is no consensus on whether the valuations are. The result is babel about the bubble. This week the IMF warned AI could threaten financial stability. It counted 14 publicly disclosed circular deals worth $1.4 trillion and flagged “wrong-way risk”: the report warned that stakes that lose value just as the revenue tied to them is impaired. At best it signals scepticism; at worst, trouble ahead.
+
+Gravity arrived soon enough at the stock markets. The S&P500 notched its worst week since June and the Nasdaq fared worse. The core of the AI build-out, the weave that ties Nvidia chips to labs, is stitched with borrowed money. The fabric has begun to unravel. The fall of CoreWeave symbolises what could be—its bonds have sunk below 80 cents on the dollar, yields are at 15 percent and its shares tumbled 17 percent in four days. Bonds of data centres leased to Meta and Microsoft slipped and Nvidia shed about $270 billion of market value in a week. The index is still near its record, and opinion is stranded between wobble and correction, between correction and crash. John Templeton said memorably, “Bull markets are born on pessimism, grow on scepticism, mature on optimism and die on euphoria.”
+
+There is rationale scaffolding the AI story. Gordon Moore saw in 1965 that chips would keep doubling in capacity; the corollary was falling cost. Stanford’s AI Index says running a model with GPT-3.5-level capability fell from $20 per million tokens in November 2022 to $0.07 by October 2024. Jevons named the paradox in 1865: the more efficiently Britain burned coal, the more coal it burned. Ditto with tokens. ChatGPT had 900 million weekly users by February. Nvidia booked $215.9 billion in revenue in the year to January; Anthropic was billing at more than $30 billion a year by April. Somebody is paying these invoices.
+
+The earnings are visible. Are they enough? Gartner reckons AI data-centre owners need $8.5 trillion of revenue by 2030 to cover their costs, and forecasts no more than $3.6 trillion. OpenAI has pushed its listing to next year, after its annualised revenue was pegged $20 billion short of what it had signalled. Nvidia held $99 billion of stakes in AI companies by late July, against about $7 billion a year earlier.
+
+At a macro level the promised land of productivity comes at a cost. Loss of jobs equals loss of consumption and growth. The ILO estimates unemployment among the 15-24 age cohort is at 12.4 percent. It is over 9 percent for the youth in the US, 16.1 percent for the 16-24 group in China and 9.9 percent of the 15-29 cohort in India are out of work. The white-collar worker forms the spine of the middle class—in India the IT is the largest exporter, the largest formal employer and a multiplier of consumption. AI is already busting business models.
+
+Jules Winnfield, in Pulp Fiction, quotes Ezekiel 25:17 on “the inequities of the selfish”. Ezekiel did not quite say that; Quentin Tarantino wrote most of it and probably meant iniquities. The slip fits. A growing share of retirement savings sits in index funds, and 10 companies make up 37.8 percent of the S&P500. The consequences will be K-shaped either way. If it isn’t a bubble, the gains stay with a few. If it turns out to be a bubble, billionaires lose paper; everyone else feels the pain.
+
+Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Oct/17/chatgpts-billions-meet-bubble-babel)
+
+---
+
 ## 17 October 2026
+
+### A Brief History Of Student Movements
+*Deccan Chronicle · Opinion*
+
+The recent cross-country protests by students and their organisations since June 2026 coupled with the heavy-handed response of governments have once again focused attention on student movements and their outcomes.
+
+A brief history of student organisations and movements may, therefore, just be in order.
+
+An All-India Conference of student activists was convened in Karachi on March 26, 1931, to establish an All-India Students Federation. Over 700 students from across India attended it. The objective being the mobilisation of young people against British imperialism. As a consequence, the first formal conference marking the incubation of the All-India Students’ Federation (AISF) was finally held in Lucknow on August 12, 1936.
+
+Nehru inaugurated the proceedings while Jinnah presided over that conference.
+
+Speaking on the occasion, Nehru cautioned, “When you are trying to build up a students’ federation you cannot afford to make it narrow and shut out persons holding different views.”
+
+In less than a year the national student movement splintered along communal lines. The Muslim Students Federation under the patronage of Muhammad Ali Jinnah and Muhammad Iqbal came into existence in 1937.
+
+On December 25, 1940, at its Nagpur session, the AISF split on the existential question of what took precedence — Indian Independence or the global struggle against Nazism and fascism.
+
+This split led to the formation of the National Congress Student Organisation (NCSO), also known as the All-India Student Congress (AISC). The inaugural Conference was held in Patna in 1943 and Ram Sumer Shukla was elected as its first President. The priority of NCSO-AISC was naturally to prioritise the Indian Independence.
+
+Post-Independence at the initiative of the RSS, the Akhil Bhartiya Vidyarthi Parishad came to be established on July 9, 1949. Balraj Madhok and Yashwant Rao Kelkar were the moving spirits behind its inception. Its main objective was to counter Communist influence on university campuses.
+
+An All-India Socialist Youth conference held at Kashi Vidyapeeth in Varanasi, from April 27-30, 1953, under the presidentship of Dr Ram Manohar Lohia. A student organisation named as Samajwadi Yuvak Sabha was founded. When Dr Lohia formed his own socialist party on December 31, 1955, a student organisation called Samajwadi Yuvjan Sabha (SYS) was concurrently constituted.
+
+Finally, the National Students Union of India (NSUI), the student organisation of the Congress, was established on April 9, 1971.
+
+The decades from 1960s to the1990s saw student protests around the world. In India, too, there were movements by students, some secular, others sectarian or linguistic.
+
+The Paris student revolt of 1968 caught the imagination of young people of Europe. It represented a yearning among young people for a change in the “status quo”. It mainstreamed left-wing politics, anti-war sentiment, the thrust on civil rights and the institutionalisation of a counter culture that found expression in the hippie movement of the 1970s.
+
+The upsurge in Paris coincided with the Prague Spring — a brief window of freedom in Czechoslovakia. It came 12 years after the revolution of 1956 in Hungary against Communist misrule. Both these protests were put down brutally by the erstwhile Soviet Union with Soviet tanks rolling into their respective capitals.
+
+From Mexico, Brazil and Argentina to Chile across the Latin and South American continent in the 1960s and 70s, students rallied and railed against their respective governments on issues ranging from university autonomy, free speech, police repression, military dictatorships. Asian campuses were also on fire against US imperialism.
+
+Post-Independence, India saw four major student movements with four very unique outcomes. The anti-Hindi agitation in Tamil Nadu in 1965 was supported by C.K. Annadurai, Muthuvel Karunanidhi (Kalaignar) and other leading lights of the Tamil intellectual and cultural community. It led to the ouster of the then Congress government and the establishment of a Dravidian dyarchy that was broken only six decades later by the victory of actor C. Joseph Vijay in the 2026 Assembly elections.
+
+Conversely, the anti-English agitation in northern India called “Angrezi Hatao Andolan”, supported by the likes of Dr Ram Manohar Lohia and Atal Behari Vajpayee, brought the socialists and the right-wingers together. It paved the way for the establishment of the first Samyukta Vidhyak Dal (SVD) governments in the 1967 state Assembly elections.
+
+In 1974, the Navnirman movement in Gujarat saw the ouster of the Chimanbhai Patel government. It soon dovetailed into the Sampoorn Kranti — total revolution agitation led by Jayaprakash Narayan. Emergency in 1975 and the establishment of the Janata Party government in 1977 followed.
+
+In the 1980s, a powerful movement against immigrants from Bangladesh by the All-Assam Students Union (AASU) led to the formation of the All Assam Gana Sangram Parishad (AGSU). It ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/a-brief-history-of-student-movements-1996719)
+
+---
+
+### Is The Art Of Critiquing Disappearing?
+*Deccan Chronicle · Opinion*
+
+In current times, people around us don’t seem to engage much in critical thinking. Indeed, people appear to be happy to get by with exercising their minds as little as possible. I am not too sure of the origin of this malaise, but I find evidence of lazy minds everywhere.
+
+What we see happening on a large scale is perhaps a manifestation of “collective representation” which is defined by Émile Durkheim as the “shared beliefs, values, symbols, ideas, and cognitive categories that are produced by a society rather than any single individual”. Sometimes I wonder whether it is the growing dependence on devices (that do much of our thinking for us) which is at the root of the problem. There is also the factor of a prescriptive government which would rather deal with compliant citizens than questioning ones. People become habituated to just following orders and of course there is always the fear of being penalised if they don’t.
+
+Instead of trying to analyze the reasons for the current state of affairs I will just narrate my observations of the young. I find that as a rule; few students know how to critique. They either “like” or “dislike”, “love” or “hate”. With regard to literary works, they study ready-made critiques and are unable to give a balanced view of any issue independently. Leave alone students, even teachers do not like commenting on any colleague’s work, and if a teacher is required to do so, her account never reflects an honest opinion. I don’t think people realise how important it is to hold a balanced view of an issue or of a topic and to be able to express it clearly when required.
+
+Then there is this confusion between opinion and fact. All the time we are subjected to opinions being paraded as facts. Hans Rosling’s Factfulness propagates the theory that you can live in hope if you develop “the stress-reducing habit of only holding on to opinions for which you have strong supporting facts”.
+
+Any statement — especially a sweeping one — uttered without any evidence does not deserve serious consideration. For example, we often hear people say that women are better at multitasking than men. What is the basis for this claim? Or X is the best restaurant in town or Y is the best school in the country. Even if rankings of institutions are published, we should know how they were arrived at. Also, we should be suspicious of statements beginning with “everybody” or “nobody”.
+
+It is a fact and not an opinion that criticism is required for any kind of improvement. This factual statement can be proved with simple logic. If flaws are not pointed out, how can they be rectified? Of course, the will to improve has to be there and perhaps it is not desirable that one to should be content with whatever one does.
+
+The above point brings me to another feature of the society we live in: People in general have become overly sensitive. It is seldom that you come across people who respond robustly and constructively to criticism or even take kindly to it. As a consequence, people have stopped criticising altogether; the tendency is to please everyone. In the social media culture of “likes”, you are obliged to register your “like” for every post that is put up by your acquaintances. If you don’t, they will be offended and some may even ‘unfriend’ you. People seem to be confusing criticism with disapproval.
+
+In school, I have noticed that teachers are reluctant to criticise in a straightforward manner. Their words are couched in euphemisms and terms of kindness with the end result that the student is not clear about the shortcomings of her work.
+
+When we criticise, it should not be from a position of bias. And though it is difficult, we should critique dispassionately, that is, without letting emotions get in the way.
+
+Some of the principles of balanced critiquing require us to be objective, specific and constructive. The critic must be respectful, clear and empathetic. Effective criticism requires the critic to recognise and acknowledge strengths as well as weaknesses. As stated earlier, personal feelings have to be consciously kept out, in order to arrive at a fair assessment of the object of criticism.
+
+It is because we have lost the art of elegant critiquing, that we tend to demonstrate an all-or-none approach towards any individual, political party, a new idea and so on. Instead of expressing an opinion objectively, people have taken to making caustic remarks and personal attacks. I happened to listen to the American vice-president, J.D. Vance, telling an opponent to keep his (Vance’s) wife’s name “the hell out of his mouth”. There is nothing wrong in what Vance was wanting to say but the way it came out indicated an immature outburst.
+
+The use of foul language just shows an absence of sound points of criticism. In any case, we live in an age when criticism is not tolerated. We witness syrupy and sickening sycophancy all around. Employees wish to please their boss, party members flatter their political leaders,...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/is-the-art-of-critiquing-disappearing-1996741)
+
+---
+
+### When Books Were Our Map To A Wild, Hazy World
+*Deccan Chronicle · Opinion*
+
+Clearing out some of my old papers, I found a diary I used to keep in my early teens. It was a thing in those days, before you had to chronicle your whole life on social media. People wrote down what happened to them in the days, their thoughts, ideas, passions and secrets, if you wanted to be part of a murder mystery. They were also called journals and this is before journaling became a 21st century thing, together with “gratitude”.
+
+Some boring minutiae of daily life of a school-going girl in the 1970s aside, I found I had also made a list of my favourite tennis stars and most significantly, books that had made a difference to my life. How would they compare today? Does the mind of that 14-year-old match what I am now, 40 years later?
+
+In a judgmental fashion, I was appalled to find some popular fiction. My mother, as I remember it, was very strict about reading habits and was very clear that I had a whole lifetime to read rubbish, so I didn’t have to start young. And yet I find Colleen McCoullough’s Thorn Birds in my list. Perhaps, and this is my excuse, I was allowed to read it after we had watched the American TV series. Who knows. I do remember being deeply embarrassed by the idea that I had even watched it, some years later. Although Richard Chamberlain was quite dishy.
+
+I was amused to find George Eliot’s The Mill on the Floss on the list. I studied that in school a couple of years after the list was made, and quite disliked it. Of the great British Victorian writers, Charles Dickens and George Eliot remain my least favourite. And many of those turgid texts that were gifted to us as birthday presents: beautifully hardbound classics which remained unread on the shelves.
+
+It occurred to me to explore the pretentiousness of a teenager. I was very pretentious as a teenager. Or so I thought. But apart from Thorn Birds, I also found Mario Puzo’s The Godfather. What?? How did I sneak that past my mother? Maybe like I quietly read Stardust when she was sleeping in the afternoon?
+
+Some of the books reflect the talking points of the time. Like Sybil by Flora Schreider, an apparently true story about a young girl with multiple personality disorder. It caught the public imagination, and these were times when mental health and mental wellness were rarely spoken about. Sigmund Freud, from what we could glean from our parents’ conversations and the media, was all about blaming your parents and problems with sex. It was Freud and Carl Jung in those days, as far as I can remember.
+
+And then there’s Jonathan Livingston Seagull. Much as it was discredited later, it was a book of the times. Richard Bach, I think, went out to rewrite the book several times under several names, each time reducing the impact and his own reputation. Does anyone still read it today? There’s Pearl Buck’s Hidden Flower in my list. I cannot even remember what the book is about, but I knew the writer was my grandmother’s favourite. I was shocked to the core when my mother gave me Buck’s Pavillion of Women, where a wife finds a concubine for her husband. The notion was too much to handle for my romantic teenage heart. Buck brought China to life for many; but did the Chinese see her as appropriating their culture? Could one do that today?
+
+Thankfully, there is redemption in some choices, to feed my current ego if you will. Jane Austen’s Pride and Prejudice of course. William Shakespeare. Bibhutibhushan Bandyopadhyaya’s Pather Panchali. Rabindranath Tagore’s Gitanjali. George Bernard Shaw. Jean Anouilh’s version of Sophocles’ Antigone. Jean Paul Sartre’s play, No Exit. Albert Camus’ Caligula. Edmond Rostand’s Cyrano de Bergerac.
+
+Shockingly, there’s so much missing. Where is Alice in Wonderland? Where is J.R.R. Tolkien? P.G. Wodehouse? And there is also something intriguing. So many playwrights. Is it because I was still in school? Why do I not read playwrights any more?
+
+This rabbit hole also reminded me how little I read now compared to even a few years ago. I stopped reading fiction over a decade ago, and thus shut the door on so much entertainment for myself. I have gained some, though, especially in popular science. A degree in English literature means that you left the sciences behind somewhere around the time I made this list. But I have returned to it in some way. Natural history, geology, cosmology they test my skills and my brain.
+
+Don’t worry, I take revenge on my pretentious side by reading endless murder mysteries. Although, I say this emphatically, I have not delved into the money-making game of the descendants of crime writers like Agatha Christie, where they get people to write in her name. Yuck! Now don’t try and convince me otherwise!
+
+What I have had to remind myself is that reading is a privilege and it should not be. It should be a pleasure available to everybody. The repository of human imagination is massive and probably insurmountable, but like those tall mountains to be conquered, they are there. We have so much to...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/when-books-were-our-map-to-a-wild-hazy-world-1996752)
+
+---
 
 ### Economics Nobel: Terms of stability
 *Deccan Herald · Editorial*
@@ -22010,241 +22268,6 @@ Nature reminds us every day that kindness, generosity, and acceptance need no co
 Perhaps the greatest tribute we can pay to nature is not merely to protect it, but to imitate and emulate it. The world would become more human and humane if each of us chose to see others not through the judgemental lens of prejudice, but through the quiet wisdom that nature has always offered. Every leaf, every sunrise, the gentle breeze and all the water whisper that life flourishes not through exclusion, but through inclusion and acceptance. The greatest revolution is not in changing the world, but in changing the way we see one another.
 
 [Read full article](https://www.deccanherald.com/opinion/natures-timeless-message-4079700)
-
----
-
-## 19 July 2026
-
-### Maturing approach: On the India-U.K. Comprehensive Economic and Trade Agreement
-*The Hindu · Editorial*
-
-The India-U.K. Comprehensive Economic and Trade Agreement (CETA) reflects New Delhi’s more mature approach to free trade negotiations. Unlike its 2009 free trade agreement (FTA) with ASEAN, which tilted the trade balance against India, New Delhi has approached the U.K. pact by attempting to balance liberalisation with domestic sensitivities amid an increasingly fragmented global trading system. A similar shift was evident in the New Zealand FTA, where India succeeded in protecting its sensitive dairy sector despite dairy products being one of New Zealand’s biggest exports. While the India-U.K. CETA is expected to strengthen India’s export competitiveness, its benefits are likely to be uneven across sectors and could place competitive pressure on already cost-disadvantaged MSMEs. The pact, an attempt to secure long-term market access and integrate India further into global value chains, offers zero-duty access on 99% of India’s exports, covering almost the entire value of bilateral trade. However, smaller firms often lack the documentation and compliance capacity needed to claim these benefits. Despite the deal including some agreements on non-tariff aspects, MSMEs may find it difficult to comply with the U.K.’s stringent sanitary, phytosanitary, technical and sustainability standards, which could prove a bigger hurdle than tariffs. Globally, such agreements have accelerated export diversification, attracted investment and facilitated technology transfer, but only when supported by robust industrial ecosystems and competitive firms.
-
-India has historically underutilised several trade agreements because of low awareness, cumbersome administration and high compliance costs. The trade deficit with ASEAN widened from about $10 billion in 2017 to nearly $44 billion in 2023. Similarly, the U.K. agreement’s benefits may remain below expectations unless India strengthens regulatory administration, intellectual property protection and dispute resolution. Although the U.K. accounts for only about 3% of India’s merchandise exports and around 1% of its imports, the U.K. pact expands India’s access to a high-income market where it enjoys a merchandise trade surplus. However, this advantage could narrow if imports of the U.K.’s relatively price-inelastic exports, such as luxury vehicles, grow faster than India’s largely labour-intensive, price-sensitive exports. The Double Contribution Convention benefits Indian IT and professional services firms, but its economy-wide benefits may remain modest. The pact also faced a hurdle over the U.K.’s steel safeguard quotas before implementation, underlining how non-tariff measures can dilute market access. India’s carbon-intensive exports could face challenges as climate-related trade regulations become more stringent. Ultimately, CETA’s success lies in turning market access into market share.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/maturing-approach-on-the-india-uk-comprehensive-economic-and-trade-agreement/article71241231.ece)
-
----
-
-### Spreading wings: On the Vikram-1 launch
-*The Hindu · Editorial*
-
-The launch of the Vikram-1 rocket built by Skyroot Aerospace from Sriharikota marked the Indian private sector’s first orbital flight. Vikram-1 is a four-stage launcher designed to provide what Skyroot has called a “cab service” for satellites, letting customers pick their orbit and launch schedule rather than accept the orbital slot and drop-off point presented by rideshares, at a commensurate premium. Skyroot is targeting a price per launch below that of the PSLV and above that of the SSLV (projected), to be achieved in part by basing the rocket on carbon-composite structures. It also has plans for a more powerful Vikram-2 rocket. The company was founded in 2018 by two former ISRO engineers and its path to orbit followed engine tests in 2020 and a suborbital flight in 2022. For roughly six decades, ISRO held a state monopoly over launch activities in India while private firms were limited to being suppliers. Reforms since 2020 and the 2023 Space Policy opened the door for commercial players and freed ISRO to focus on R&D and scientific missions. In 2024, up to 49% FDI in launch vehicles was allowed by the automatic route. The push is also part of the government’s ambition of growing the national space economy to $44 billion by 2033 from around $8 billion alongside satellite manufacturing, communications, navigation, and earth observation.
-
-Orbital launch capability remains hard-won: India is now only the third country to host private enterprise that has demonstrated it. But now that Skyroot has proved competence in engineering, its next milestone is commercial viability, which may be harder. Specifically, the company has to demonstrate repeatability and stable launch costs in an increasingly crowded suppliers’ market that includes established ‘brands’ such as SpaceX and Rocket Lab and a bevy of rapidly scaling Chinese firms. Rideshares on larger rockets are still often cheaper per kilogram to orbit. The model Skyroot is betting on, letting customers specify orbit and schedule in return for a premium over a rideshare launch, depends on a market of uncertain size. The greater production scale will challenge the engineering, too, as batch-to-batch variability becomes harder to control. India also lacks a Space Activities Act, leaving liability to be governed by policy, contracts, existing law, and international commitments rather than statute, maintaining long-term regulatory uncertainty, particularly in the event of a launch or orbital mishap. The Vikram-1 launch is an engineering triumph. Whether it translates to commercial success, which is the real national ambition, is now the question.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/spreading-wings-on-the-vikram-1-launch/article71241248.ece)
-
----
-
-### DC Edit | With Vikram-1, India Flies Into New Era Of Space
-*Deccan Chronicle · Editorial*
-
-The successful maiden launch of Skyroot Aerospace’s Vikram-1 — the first rocket manufactured by a privately owned company — has opened a new chapter in India’s space voyage, exactly 36 years after the fund-strapped Isro launched its first experimental satellite launch vehicle, SLV-3.
-
-The first privately developed multi-stage orbital rocket successfully lifted off from the Satish Dhawan Space Centre, Sriharikota, at 12.05 pm under Mission Aagaman on July 18, catapulting India into an elite group of countries with private space-launch capabilities.
-
-The success of the maiden launch is quite significant because many rockets, including SpaceX’s Falcon 9, have failed on their maiden flights. Skyroot plans to conduct two developmental flights — Vikram-2, carrying a 1,000 kg payload, and a reusable launch vehicle — before entering the crowded commercial small-satellite launch market.
-
-The success of Skyroot — a startup founded by former Isro engineers Pawan Kumar Chandana and Naga Bharath Daka in Hyderabad in 2018 — has validated the Indian government’s belief in the private sector and its decision to open up the space sector to private companies.
-
-The policy change has resulted in the establishment of several private players, such as Pixxel, Bellatrix Aerospace and Dhruva Space. The recent public offering of Elon Musk’s SpaceX, whose valuation soared to over a trillion dollars, demonstrated the promising prospects of the private space exploration business.
-
-American space companies have also highlighted the advantages they enjoy over government-led agencies, including quick decision-making, fewer bureaucratic controls, a greater capacity for risk-taking and innovative approaches. If Indian space companies follow the same route, the country may soon have a highly successful, profitable and vibrant space sector.
-
-The rise of private space companies, however, is having a rather disappointing impact on the state-run Indian Space Research Organisation (Isro), from which over 100 scientists have reportedly resigned, ostensibly to pursue promising careers in the new space companies.
-
-Although the government has tightened the exit process at Isro, it is unlikely to stem the tide, as private companies have often grown at the expense of state-run institutions. This pattern can be seen in telecom with BSNL and VSNL, oil exploration with ONGC, pharmaceuticals with IDPL, and aviation with Air India. Therefore, instead of competing with private companies, it is high time that Isro assumed a mentoring role and focused on deep-space exploration in collaboration with the new spacefarers.
-
-The launch of Vikram-1 is not merely the success of a company; it also marks the maturing of the country’s space sector, with thousands of suppliers and tens of thousands of engineers, scientists and space enthusiasts. The credit for the development of this space-launch ecosystem must go to the pioneers of the Indian space programme at Isro, who tirelessly nurtured the country’s capabilities while eschewing opportunities to take up cosy, high-paying jobs at well-developed Western space agencies.
-
-The Central government, which administers the department of space, should focus on creating a collaborative mechanism that harnesses the strengths of Isro and new space startups, enabling India to undertake deep-space voyages and uncover the deeper secrets of space and time.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-with-vikram-1-india-flies-into-new-era-of-space-1972327)
-
----
-
-### Parsa Venkateshwar Rao Jr | Real Problems Of Neet Go Deeper Than Dealing With Wangchuk’s Fast
-*Deccan Chronicle · Opinion*
-
-The brutal question that needs to be asked is whether the shifting of the fasting Sonam Wangchuk, the radical educationist and environmentalist from Ladakh, from Jantar Mantar, New Delhi’s Tahrir Square of Cairo and Istanbul, to Safdarjung Hospital by the Delhi police will create a backlash for the mulish Narendra Modi government? It seems it will not. It is necessary, therefore, to face certain unpalatable facts.
-
-The Neet leak paper is the most shameful and degrading scandal and people across classes and regions are angry about it. You can hear the expressions of disgust and anger from private sector boardrooms to people on the street. But people feel helpless and they want somebody to protest, and somebody to clean up the act.
-
-The Modi government, as always, is unwilling to take any moral responsibility. There is no move on the part of Prime Minister Narendra Modi and education minister Dharmendra Pradhan to apologise for the critical failure affecting the educational fortunes of millions of students in the country. This has been the presidential style of Prime Minister Modi’s governance. Ignore the questions arising from the government’s failures and talk about other things, as though the problems are imaginary. The government has succeeded in pulling the wool over the eyes of the people. Manipulation and brainwashing fail to describe the act of deception adequately. It’s in this context that the protest and fasts of Wangchuk, the three students of All India Students Alliance (AISA) of CPI(M-L) -- Neha, Ameen and Amish – should be seen.
-
-With Wangchuk taken away from Jantar Mantar, the government believes it has taken away the main focus of the protest. Wangchuk’s unimpeachable credentials lent heft to the Cockroach Janta Party (CJP), founded by Abhijit Dipke, the man who came in from the cold, and the protesters from AISA joined. The participants are sincere and the issue is of immense national importance. But what matters most is of least consequence under the anaesthetising effect of Mr Modi. The demand for Mr Pradhan’s resignation is totally legitimate. In a similar situation, Congress governments would have initially resisted but would have capitulated ultimately. The Congress, for all its cynicism, showed rare sensitivity to public discontent and Opposition pressure. The Modi government, with its totalitarian attitude, follows the Hindutva tenet that ignore protests and they will die out, and if they don’t, then arrest them and put them away. By removing Wangchuk from the protest site, the police plans to push out the other protesters. That silences the protest.
-
-What is happening on the Neet front? The test due on May 3 was cancelled because the investigating agencies concluded there was a leak, and thus the exam was postponed. The rescheduled test was held on June 21. The Neet results are now out.
-
-The damage was successfully controlled. Heads should have rolled. But that is where scandal management, the forte of the Modi government, comes to the fore. Whether it is the Neet leak or the Ayodhya Ram temple donation theft, the Modi Sarkar skirts round it. Survival is surely a political virtue, but the reputation of the Modi government has a dismal grade point average for governance.
-
-The Neet faced a far more serious challenge to the “integrity” -- a term used by all concerned, including the Supreme Court and the National Testing Agency (NTA), which conducts Neet – in 2024, when the NTA said there was a leak, but the police fled cases, arrested 13 individuals in Bihar, saying that there was a leak. So, there are problems with Neet and there should have been a serious debate across the country about it. Unfortunately, there was none. The focus in on increasing the number of medical colleges, and the seats available in them. In the most populous country in the world, there is need for a larger number of doctors. Little thought seems to be given to the quality of medical education.
-
-In broader terms, the standards of education and the need for excellence that are needed to make India a top industrialised country is not of much concern. For the Prime Minister, the goal of “Viskit Bharat” is not about transformation of the whole system at the qualitative level. He does not believe in quality dynamics. Quantity is quality. He doesn’t even believe in the economist’s creed that after a certain point, increase in quantity makes for qualitative transformation. That is much too abstract a calculation.
-
-It is unfair to expect that either Modi government or those handling science and technology education in the country are capable of evolving an open-ended education system that pushes the frontiers of knowledge systems. They don’t even spare a thought on the issue. It is when a system is ossified it becomes predictable, and opens the scope for cheating in more ways than one. The Modi Sarkar, in its pseudo-nationalist zeal, wants to establish a single mega-system, where millions will learn the same things...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-real-problems-of-neet-go-deeper-than-dealing-with-wangchuks-fast-1972309)
-
----
-
-### Slotting S Janaki
-*Deccan Herald · Opinion*
-
-Two of India’s greatest singers of film music died this year – Asha Bhosle on April 12 and S Janaki on July 11. With Lata Mangeshkar, who died in 2022, and P Susheela, who turns 91 this November, they constitute a quartet of women playback singers whose productivity has few parallels anywhere in the world.
-
-While the scale of each of their achievements is staggering, it is possible to regard Janaki as a phenomenon like no other. She had little formal training in music, and her accomplishments are, in that sense, more prodigious. The title of ‘Nightingale of the South’ that the media bestowed on her is therefore a backhanded compliment, the ‘South’ defining her as a ‘regional’ rather than a ‘national’ artiste.
-
-When Janaki died in Mysuru at 88, TV channels in Karnataka, Tamil Nadu, Andhra Pradesh, and Kerala devoted hours to her life and times. Newspapers carried detailed obituaries, and the biggest names in the four southern film industries paid emotional tributes. In much of northern India, the passing received just a routine mention.
-
-How does this happen? In the years that Janaki was active, the southern states have, with no effort, been able to hear the best of Hindi film music on the radio. Reciprocally, the north hasn’t been able to hear any southern music, even when the southern states have been prolific, producing songs that could match the best being created in Mumbai. What has happened with language policy has also happened with broadcasting policy. It is Hindi first: as in education, so in music.
-
-Janaki, who lived a largely cheerful life, was acutely aware of the imbalance. When the Padma Bhushan was announced for her in 2013, she turned it down, saying it was coming too late in the day. In her opinion, nothing short of a Bharat Ratna could have done justice to her body of work. This was more a realisation of her place in history than empty vanity. Lata was given the Bharat Ratna in 2001.
-
-S Janaki: A nightingale who transcended languageJanaki’s career spanned six decades. She sang in 17 languages, including Hindi, Bengali, Marathi, Gujarati, and Odia. In 1974, the Guinness World Records listed Lata Mangeshkar as the most recorded artist in human history, putting her output at not less than 25,000 songs between 1948 and 1974. Mohammed Rafi disputed the entry, saying he had recorded about 28,000 songs. With no definitive records to rely on, Guinness retained Lata’s title and added a footnote with Rafi’s number. Subsequently, Lata said she had kept no ledger of her songs and didn’t know where Guinness got the number. In 1991, the entry was removed from the records. With music lovers putting in sustained effort into archiving and documentation, more realistic numbers began to emerge. Asha got Lata’s ‘most-recorded’ title in 2011 with a verified list of about 11,000 songs. Susheela overtook her in 2016 with a documented list of 17,695 songs. No comprehensive record exists of Janaki’s discography, and 48,000 songs is a number that has gained currency. The likelihood of Janaki being the most recorded in history is high.
-
-In the south, Hindi songs, films, television serials, and advertisements are part of daily life. But in the north, you find no regular exposure to Kannada, Tamil, Telugu or Malayalam music, cinema or public discourse. In Bengaluru, language-related tensions often arise from the absence of mutual familiarity. A migrant from Uttar Pradesh or Jharkhand who has heard no southern language ever is unlikely to pay attention, or think much, of what we have to offer.
-
-Janaki moved with equal felicity among sad, happy, devotional, raga-based, romantic, and sensuous songs. I suspect raga Shuddh Kalyan, corresponding to Mohana Kalyani in Karnatik music, is her favourite. By her own admission, her rendering of Rasik balma, a Lata classic based on that raga, won her countless admirers, not to mention a husband. The raga persists in the Kuvempu poem she sang for Gowri (1963) later: Yaava janmada maitri. Then came the super hit Baanallu neene, bhuviyallu neene from Bayaludaari (1976) with the same charming Shuddh Kalyan overtones.
-
-So why is she unique? In Sandhyaraga (1966), she sings Nambide ninna nada devateye in raga Purvi Kalyani. The song is featured in three voices, the other two being the maestros Bhimsen Joshi and M Balamuralikrishna. Janaki’s non-classical repertoire shows dazzling variety, but her ability to stand shoulder-to-shoulder with the classical masters – despite having barely a year of formal training – proves her true greatness.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
-
-[Read full article](https://www.deccanherald.com/opinion/slotting-s-janaki-4079032)
-
----
-
-### Sovereignty in troubled waters
-*Deccan Herald · Opinion*
-
-A decade after a ruling of the Permanent Court of Arbitration (PCA) at The Hague, quashing sovereignty claims on artificial reefs in the South China Sea, China continues to follow one of its 36 ancient strategems, of qianyi mohua (unseen influence). As it flexes power in Southeast Asia, India needs to wake up and strengthen the rule of law, institute dialogue mechanisms among the stakeholders, and extend support to the affected countries.
-
-On July 12, 2016, the PCA, on a complaint from the Philippines, gave a verdict on the dispute and mentioned that the historical claims of sovereignty are not valid, that no nation can draw Exclusive Economic Zones from artificial reefs, that dredging projects to construct artificial reefs have damaged the region’s environment, and emphasised local fishermen’s traditional rights. China walked away from the arbitration procedures at the PCA. It continues to deny the role of international law in regional disputes and uses military assertions to reaffirm its claims. Over the last 10 years, China has established military outposts, naval ports, runways, helipads, radars, barracks, communication systems, and berthing facilities.
-
-On the 10th anniversary of the PCA ruling, 14 countries and the European Union criticised the continued defiance of China, which has the support of Russia, Pakistan, Myanmar, Laos, and Cambodia on the issue.
-
-In the late 1980s, Deng Xiaoping formulated China’s South China Sea policy as: “Sovereignty is mine, postpone the dispute, jointly exploit resources”. The policy sat on a claim to nearly 80% of the 3.4 million-sq km maritime area. In other words, China saw the region as a territorial sea rather than as a global common. Incidents involving USNS Impeccable and the Indian naval ship Airavat signalled the extent of this approach, which is violative of the universal laws on the freedom of navigation.
-
-Defiant China unites uneasy neighboursWhen Deng suggested “postpone the dispute”, he did not want to muddy the waters but focus on economic growth rates. However, now, under Xi Jinping, China has interests beyond economic growth. This shift explains Beijing’s weaponisation of the region.
-
-Deng also wanted to mollify the disputants by offering joint exploration for the resources. Of course, the initiative never came from Beijing. China periodically sends the Haiyang Shiyou series of oil rigs into the region, sometimes leading to skirmishes with Vietnam and the Philippines. The Huizhou 19-6 and Kaiping oilfields can extract over 100 million tonnes of oil each for China, while the Southeast Asian countries are left high and dry. Notably, China applies coercion on these countries when they make efforts to extract energy resources. For instance, it harassed Vietnam at Vanguard Bank and Malaysia at Luconia Shoals.
-
-China and the Southeast Asian countries helped institute a declaration on the conduct of parties in the South China Sea in 2002 and are now attempting a code of conduct. However, these mechanisms only bought time for Beijing to occupy more reefs and dominate the region, as the agreements lack binding provisions.
-
-China’s claims are historical and are also traced to the discovery of Ming dynasty coins in the region. If historical claims are the basis, the Chola and Pallava empires that extended their reach both in the region’s maritime and continental spheres need to be considered. Beijing has recently brought resource nationalism into the mix. However, under international law, continuous and physical occupation are the criteria for resolving sovereignty disputes – the PCA’s ruling quashing China’s claims has now become a fact on the ground.
-
-China leverages its recently elevated economic power to coerce the disputants. It restricted tourist flows to the Philippines after the Scarborough Shoal incident. With Vietnam, coercion through harassment of vessels has continued.
-
-For India, the South China Sea issue is based on a principle of upholding the rule of law, smooth passage of trade, regional security, and the protection of energy interests. While New Delhi took a noncommittal position in 2016 of “utmost respect for the UNCLOS”, it modified its response in June 2023 towards endorsing the tribunal’s ruling as binding on all. Since 2023, three years after the border clash with China at Galwan, India’s relations with the Philippines have improved. Their joint statements reflected this changed position.
-
-As India grows at 7% annually, expanding its trade through the South China Sea, the protection of trade routes becomes key. While China has sent 46 naval contingents to the Indian Ocean since 2008, the Indian Navy’s presence in the South China Sea has been limited to bilateral and multilateral naval exercises. This needs to change.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
-
-[Read full article](https://www.deccanherald.com/opinion/sovereignty-in-troubled-waters-4079036)
-
----
-
-### The missing clusters in India’s industrial geography
-*Deccan Herald · Opinion*
-
-A lesser-discussed aspect of Indian manufacturing is our industrial geography, especially when set against international experience. India today counts over 255,000 registered factories under the Factories Act – plants employing ten or more workers – up from 112,000 in 1991. While the number has more than doubled since liberalisation, growth has been concentrated at the smaller end: more than 230,000 are micro and small units. Alongside these, countless unregistered MSMEs operate. Past surveys suggested their numbers were roughly twice the registered base. Taken together, India hosts the world’s fifth-largest factory network by output.
-
-The pyramid itself is not unusual – Italy’s family-run districts, Japan’s SME networks, and Latin America’s micro enterprises show similar structures – but India’s is markedly steeper. Policy has long concentrated incentives at the micro and small levels, while medium-level firms lose benefits once they expand. Crossing the MSME thresholds means forfeiting collateral-free loans, priority sector lending, and compliance relaxations. The result is a strong incentive to remain small or replicate plants rather than scale up, reinforcing the pyramid and limiting export competitiveness. By contrast, Germany and Japan cultivated a robust middle layer of medium enterprises, while China scaled up township and village firms into large exporters.
-
-Automation to intelligence: How India’s manufacturers must evolveEqually significant is the absence of a coherent locational policy: 55-65% of factories operate outside authorised estates, often on private or ancestral land, despite the number of estates rising from about 2,700 in 1991 to more than 4,400 by 2025, many developed privately. Also, the dispersal of these industrial estates remains haphazard, preventing firms from realising the advantages of clustering, shared infrastructure, and coordinated scale.
-
-Historically, industry clustered around colonial cities – Mumbai, Kolkata, Chennai – where shipping links and imported machinery were accessible. Textile mills in Ahmedabad and Mumbai, jute in Kolkata, and engineering in Chennai thrived in these hubs. After independence, the state assumed an activist role: new civic capitals like Chandigarh and Bhubaneswar, industrial townships such as Bhilai, Rourkela, and Neyveli, and suburban extensions in Delhi, Ahmedabad, and Bhopal were rolled out within short cycles. Yet the siting of educational and technological institutions fell under a different ministry and was guided by other priorities.
-
-Over 200 public sector enterprises were established, but strict licensing and regulatory curbs stifled private initiative. Small-scale industries were promoted through planned estates, though with tightly defined, low-capital allowances. The outcome was that planned development could not absorb the rising number of graduates, which created visible social stresses. By the late 1980s, the cracks in India’s economic model were evident: state enterprises had grown inefficient, bureaucracy stifled initiative, and technology lagged global standards. Liberalisation was not merely desirable – it had become inevitable.
-
-The 1991 reforms dismantled licensing, opened the economy to foreign investment, and diversified manufacturing. They unfolded amid global upheavals that blurred the role of geography and expanded demand for skilled labour. India’s human capital found its moment.
-
-However, by now, the earlier state-led developmental push had receded. Governance remains traditional in style – albeit more business-friendly, with subsidies and incentives to attract investment. Industrial expansion is largely left to private initiative. The result is a fragmented geography: unlike countries that deliberately nurtured industrial clusters, India denies its firms the benefits of scale and network effects. Estates often lack housing, transport, and social infrastructure, preventing them from evolving into urban centres. Without integration of skills and production, our industrial base remains scattered, our pyramid steep, and competitiveness constrained.
-
-The implications are starkly visible in high-tech exports. Since the 1990s, electronics, computers, and telecom equipment have become the fastest-growing segment of global trade. India’s software exports rode this wave, supported by over 60 Software Technology Parks of India and hubs such as Bengaluru’s Electronic City and Hyderabad’s HITEC City, enabling IT exports of around $270 billion. Yet comparable infrastructure was never designed for manufacturing.
-
-Undoubtedly, subsidy-driven initiatives like Make in India and the Production Linked Incentive (PLI) scheme have boosted production. Electronics exports have risen from $29 billion in 2020 to over $ 54 billion in 2024, but imports now touch $90 billion, underscoring India’s deficit and lag in advanced manufacturing. In the absence of formally notified high-tech zones, PLI units emerged in scattered estates, limiting ecosystem integration. Much of the export basket remains low-value assembly of imported components, with weak R&D and minimal innovation.
-
-China, in contrast, has built over 170 high-tech Industrial Development Zones integrating production, research, housing, and social life. Chengdu’s zone alone generates ¥349 billion in GDP, houses 1.3 million residents, and links manufacturing with universities educating more than 100,000 students. This integration underpins China’s high-tech export surge, which is already above $800 billion.
-
-It is therefore possible that our unplanned industrial geography, together with the policy signals that created it, is the cause for most of the ills that plague manufacturing – insufficient investment, low R&D spend, et al.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
-
-[Read full article](https://www.deccanherald.com/opinion/the-missing-clusters-in-indias-industrial-geography-4079034)
-
----
-
-### Who silenced India’s protest streets?
-*The New Indian Express · Opinion*
-
-The prolonged agitation over paper leaks and electoral issues, later joined by Sonam Wangchuk, has once again drawn attention to this curious transformation. Despite weeks of protest, hunger strikes and expressions of solidarity from sections of the opposition, the movement has struggled to attract the spontaneous participation that once turned a grievance into a national movement. The silence has been striking. Civil society has remained hesitant, public intellectuals have largely stayed away and even those who routinely express outrage on television and social media have shown little inclination to translate indignation into physical participation.
-
-Is this merely the failure of yet another protest? Or does it reflect a deeper alteration in the character of Indian democracy? The paradox is difficult to ignore. India has no shortage of issues capable of provoking public anger. Farmers continue to complain about uncertainty. Young people remain anxious over exams and employment. Allegations of corruption continue to surface. Political discourse has rarely been more polarised. Yet none of these grievances has produced the kind of sustained, nationwide mobilisation that earlier generations regarded as almost instinctive.
-
-Why have the streets fallen silent while public discontent appears alive in every other sphere? Has dissent migrated from the public square to the digital screen? Or has India entered a phase where democracy is increasingly negotiated through elections and social media rather than through collective public action or a discourse?
-
-Technology has unquestionably altered the grammar of politics. Earlier generations marched with banners; today’s generation brandishes smart phones. A hash tag can travel farther than a procession and a short video often reaches more people than a public meeting. Digital platforms have democratised expression in ways unimaginable a decade ago. Yet visibility should not be confused with mobilisation. Governments may find online criticism inconvenient, but disciplined public mobilisation has historically posed a far greater democratic challenge.
-
-Economic change may have contributed to this behavioural transformation. India has become more aspirational than aggrieved. The expanding middle class is understandably preoccupied with careers, education, business and economic advancement. Agitation carries a cost. It consumes time, creates uncertainty and occasionally invites confrontation. Prosperity often moderates political behaviour, but has it also weakened the instinct for organised public action?
-
-The behaviour of the younger generation presents another puzzle. They face intense competition, uncertain employment and enormous professional pressure. Logic would suggest that they possess compelling reasons to organise and protest. Yet university campuses seldom display the ideological ferment that once shaped national politics. Student unions have lost much of their earlier influence. It seems idealism has yielded to individual ambition and politics itself has ceased to inspire confidence.
-
-Quality and credibility of the current leadership is under close scrutiny too. Every successful public movement has possessed a moral centre that transcended party politics. Mahatma Gandhi transformed resistance into an ethical mission. Jayaprakash Narayan converted political dissatisfaction into a democratic crusade. Anna Hazare succeeded, however briefly, because millions viewed his campaign as a moral intervention rather than a partisan exercise. Contemporary movements often struggle to establish that distinction.
-
-Equally important is the continuing political dominance of Prime Minister Narendra Modi. His communication skills, welfare programmes and personal appeal have enabled him to retain the confidence of large sections of the electorate despite criticism over individual policies. Many citizens who disagree with specific decisions remain unconvinced that a more persuasive national alternative has yet emerged.
-
-Democracies function not only on dissatisfaction with those in power but also on confidence in those seeking to replace them. Perhaps this changing reality explains why Rahul Gandhi increasingly prefers direct engagement with students, farmers, workers and local communities instead of relying exclusively on massive demonstrations in the national capital.
-
-The relative withdrawal of civil society is equally significant. There was a time when retired judges, former civil servants, academics, writers and artists gave public movements intellectual legitimacy and moral weight. Their presence reassured ordinary citizens that a cause extended beyond partisan calculations. Today, many appear reluctant to occupy that space. Whether this reflects fatigue, caution, increasing polarisation or diminishing public confidence is open to debate, but the consequence is unmistakable. Protest movements now struggle to acquire the broad social coalition that once sustained them.
-
-It doesn’t necessarily mean that Indians have become politically indifferent. Electoral participation remains impressive, political debate flourishes across every medium and citizens continue to scrutinise governments with remarkable intensity. The energy of democracy has not disappeared. It has merely changed its expression. Voting remains democracy’s foundation, but elections alone cannot become the only conversation between citizens and governments. Peaceful protest remains an equally legitimate democratic instrument because it reminds those in office that electoral victory is not a licence to stop listening.
-
-That is why the diminishing resonance of India’s protest culture deserves wider reflection than the success or failure of any individual agitation. A government may welcome quieter streets. An opposition may lament the absence of mobilisation. Yet the larger issue belongs to neither. Democracies gradually lose an important corrective when citizens begin to doubt that collective action can influence public policy.
-
-Perhaps every explanation contains part of the truth. Technology has changed behaviour. Economic aspiration has altered priorities. Political leadership has reshaped electoral calculations. Civil society has become more fragmented and the opposition has struggled to inspire confidence. Yet one question still lingers above all the others. Have Indians begun to lose faith in their own power standing together peacefully, to persuade governments to pause, reflect and respond? If that faith is indeed diminishing, the issue extends well beyond one agitation or one political party. It touches the very character of democratic partnership.
-
-Democracies do not become fragile only when institutions weaken. They also become vulnerable when citizens retreat from the public square, convinced that their presence no longer matters. India has certainly not run out of grievances. The more unsettling question is whether it is gradually running out of trusted leaders who are prepared to transform those grievances into a collective democratic voice.
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Jul/18/who-silenced-indias-protest-streets)
-
----
-
-### Split screen: AI moonshots trip tech hiring
-*The New Indian Express · Opinion*
-
-Updated on: 18 Jul 2026, 7:19 pm4 min readCopiedThe world is increasingly being illuminated on split screens. One shows the surge of moonshots—of technology, market valuations and capital. The other reveals how those moonshots are tripping tech hiring in India and across the world.
-
-This Thursday, events and headlines split across two screens. On the first screen, you saw earnings of IT companies, billions committed to data centres and agentic artificial intelligence, the buzz of AI-linked revenues and bullish analyst calls. The second screen, seemingly mute, revealed shrinking headcounts, hiring sliding to a two-year low and a quiet decoupling of revenue from employment.
-
-These are stories viewed from different sides of the economy. Check the first screen. The analyst calls were riveted by two alphabets—A & I. TCS, HCL Tech, Wipro and Tech Mahindra posted rising revenues, strong order books and a surge in AI-related earnings. The hurrahs drowned a reality. Rupee revenues did grow in double-digits, topping 14 percent at some firms. But much of that gain was propped up by rupee depreciation. Strip out the exchange-rate effect, and constant-currency revenue growth dips to roughly 1-6 percent, depending on the company.
-
-Now check the second screen. On the face of it, TCS added around 9,000 employees this quarter, but the total headcount of 5.93 lakh is still lower than the 6.13 lakh recorded a year ago. Wipro—which says ‘AI is evolving faster than ever’—announced it will not hire fresh engineering graduates this year. Tech Mahindra‘s headcount stands at 1.46 lakh, down from a year ago; HCL Tech‘s is down by 3,200. If one merges the two screens one could produce an arbitrage index—growth minus headcount growth.
-
-India’s tech outfits are placing their bets in plain sight. Capital is flowing towards AI at unprecedented speed. Availability of labour, once the defining competitive advantage, is no longer a necessary condition for growth. For three decades, the model was ‘more people do the work for less money’. That model is being dismantled. In five days of earnings announcements, Indian IT published the blueprint of its next business model: invest heavily in machines, hire cautiously, trim headcount.
-
-The demand side signals spell it out. The June report of talent solutions company Xpheno reveals active tech job openings fell to the lowest in 28 months in June, with entry-level demand down 44 percent and senior openings down 67 percent year-on-year. The gates are narrowing at both ends of the career.
-
-The AI effect is visible in another window—filings by Indian companies with governments in the US under the Worker Adjustment and Retraining Notification (WARN) Act of 1988 and in independent recruiter data. The June 2026 Challenger report reveals that over 14,000 AI-related job cuts were announced in the month. This year, AI has been cited as the reason for 1,01,743 job cut announcements, which account for nearly a quarter of all the announced job cuts till now.
-
-Context is critical for comprehension. Automation in global markets triggers retrenchment in Indian offices. Deployment of AI in Palo Alto triggers pink slips in Pune. Microsoft CEO Satya Nadella said that AI was writing 30 percent of the code. It is claimed that over 50 percent of the code in Tencent and over 40 percent in Baidu and Alibaba Cloud is written by AI; it goes up to as much as 90 percent of the code at Meituan!
-
-Oracle revealed reduction of 21,000 jobs in its annual filings citing AI deployment. Salesforce CEO Marc Benioff deployed AI Agentforce, which handles half the company’s service calls, and cut over 4,000 jobs. When companies report that AI writes the bulk of new code, it means billable hours and costs come down, accelerating automation.
-
-Ernest Hemingway wrote that bankruptcy happens “gradually, then suddenly”. So do technological revolutions. Thursday’s unveiling of Moonshot AI’s Kimi K3 suggests AI may have reached one of Hemingway’s ‘sudden’ moments. The launch of Kimi K3—a 2.8-trillion-parameters system, claimed to be the world’s largest open-weight AI model—is described as a structural shift in the AI ecosystem, as it promises to deliver outcomes matching US giants at a fraction of the cost.
-
-On the AI row are DeepSeek, the Hangzhou startup whose R1 model wiped billions off US tech stocks and which is reportedly developing its own chip, and SenseTime’s 600-billion-parameter multi-modal model SenseNova, which is offering API access at about eight US cents per million tokens. If frontier-class intelligence can indeed be delivered at a fraction of today’s cost, adoption will accelerate the dismantling of existing business models. To appreciate, juxtapose what China did for goods to what it threatens to do in services.
-
-This is a macro story, not a sectoral one. IT services is India’s largest exporter, largest employer and a force multiplier of consumption in the economy. The arbitrage that built a middle class is being repriced in public, quarter by audited quarter. The challenge before governments is to redesign the employment model. The split screen will not remain split forever. The real economic consequences of the AI revolution will be visible and become impossible to ignore.
-
-F Scott Fitzgerald defined a first-rate intelligence as the ability to “hold two opposed ideas in the mind at the same time” and still function. Governments in India and elsewhere now face the harder version of the test: to empower machines without disempowering people. Their task is to leverage machines to upskill people and fund the machines without defunding the people.
-
-Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Jul/18/split-screen-ai-moonshots-trip-tech-hiring)
 
 ---
 

@@ -1,5 +1,240 @@
 # Editorials archive — 2026-07
 
+## 19 July 2026
+
+### Maturing approach: On the India-U.K. Comprehensive Economic and Trade Agreement
+*The Hindu · Editorial*
+
+The India-U.K. Comprehensive Economic and Trade Agreement (CETA) reflects New Delhi’s more mature approach to free trade negotiations. Unlike its 2009 free trade agreement (FTA) with ASEAN, which tilted the trade balance against India, New Delhi has approached the U.K. pact by attempting to balance liberalisation with domestic sensitivities amid an increasingly fragmented global trading system. A similar shift was evident in the New Zealand FTA, where India succeeded in protecting its sensitive dairy sector despite dairy products being one of New Zealand’s biggest exports. While the India-U.K. CETA is expected to strengthen India’s export competitiveness, its benefits are likely to be uneven across sectors and could place competitive pressure on already cost-disadvantaged MSMEs. The pact, an attempt to secure long-term market access and integrate India further into global value chains, offers zero-duty access on 99% of India’s exports, covering almost the entire value of bilateral trade. However, smaller firms often lack the documentation and compliance capacity needed to claim these benefits. Despite the deal including some agreements on non-tariff aspects, MSMEs may find it difficult to comply with the U.K.’s stringent sanitary, phytosanitary, technical and sustainability standards, which could prove a bigger hurdle than tariffs. Globally, such agreements have accelerated export diversification, attracted investment and facilitated technology transfer, but only when supported by robust industrial ecosystems and competitive firms.
+
+India has historically underutilised several trade agreements because of low awareness, cumbersome administration and high compliance costs. The trade deficit with ASEAN widened from about $10 billion in 2017 to nearly $44 billion in 2023. Similarly, the U.K. agreement’s benefits may remain below expectations unless India strengthens regulatory administration, intellectual property protection and dispute resolution. Although the U.K. accounts for only about 3% of India’s merchandise exports and around 1% of its imports, the U.K. pact expands India’s access to a high-income market where it enjoys a merchandise trade surplus. However, this advantage could narrow if imports of the U.K.’s relatively price-inelastic exports, such as luxury vehicles, grow faster than India’s largely labour-intensive, price-sensitive exports. The Double Contribution Convention benefits Indian IT and professional services firms, but its economy-wide benefits may remain modest. The pact also faced a hurdle over the U.K.’s steel safeguard quotas before implementation, underlining how non-tariff measures can dilute market access. India’s carbon-intensive exports could face challenges as climate-related trade regulations become more stringent. Ultimately, CETA’s success lies in turning market access into market share.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/maturing-approach-on-the-india-uk-comprehensive-economic-and-trade-agreement/article71241231.ece)
+
+---
+
+### Spreading wings: On the Vikram-1 launch
+*The Hindu · Editorial*
+
+The launch of the Vikram-1 rocket built by Skyroot Aerospace from Sriharikota marked the Indian private sector’s first orbital flight. Vikram-1 is a four-stage launcher designed to provide what Skyroot has called a “cab service” for satellites, letting customers pick their orbit and launch schedule rather than accept the orbital slot and drop-off point presented by rideshares, at a commensurate premium. Skyroot is targeting a price per launch below that of the PSLV and above that of the SSLV (projected), to be achieved in part by basing the rocket on carbon-composite structures. It also has plans for a more powerful Vikram-2 rocket. The company was founded in 2018 by two former ISRO engineers and its path to orbit followed engine tests in 2020 and a suborbital flight in 2022. For roughly six decades, ISRO held a state monopoly over launch activities in India while private firms were limited to being suppliers. Reforms since 2020 and the 2023 Space Policy opened the door for commercial players and freed ISRO to focus on R&D and scientific missions. In 2024, up to 49% FDI in launch vehicles was allowed by the automatic route. The push is also part of the government’s ambition of growing the national space economy to $44 billion by 2033 from around $8 billion alongside satellite manufacturing, communications, navigation, and earth observation.
+
+Orbital launch capability remains hard-won: India is now only the third country to host private enterprise that has demonstrated it. But now that Skyroot has proved competence in engineering, its next milestone is commercial viability, which may be harder. Specifically, the company has to demonstrate repeatability and stable launch costs in an increasingly crowded suppliers’ market that includes established ‘brands’ such as SpaceX and Rocket Lab and a bevy of rapidly scaling Chinese firms. Rideshares on larger rockets are still often cheaper per kilogram to orbit. The model Skyroot is betting on, letting customers specify orbit and schedule in return for a premium over a rideshare launch, depends on a market of uncertain size. The greater production scale will challenge the engineering, too, as batch-to-batch variability becomes harder to control. India also lacks a Space Activities Act, leaving liability to be governed by policy, contracts, existing law, and international commitments rather than statute, maintaining long-term regulatory uncertainty, particularly in the event of a launch or orbital mishap. The Vikram-1 launch is an engineering triumph. Whether it translates to commercial success, which is the real national ambition, is now the question.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/spreading-wings-on-the-vikram-1-launch/article71241248.ece)
+
+---
+
+### DC Edit | With Vikram-1, India Flies Into New Era Of Space
+*Deccan Chronicle · Editorial*
+
+The successful maiden launch of Skyroot Aerospace’s Vikram-1 — the first rocket manufactured by a privately owned company — has opened a new chapter in India’s space voyage, exactly 36 years after the fund-strapped Isro launched its first experimental satellite launch vehicle, SLV-3.
+
+The first privately developed multi-stage orbital rocket successfully lifted off from the Satish Dhawan Space Centre, Sriharikota, at 12.05 pm under Mission Aagaman on July 18, catapulting India into an elite group of countries with private space-launch capabilities.
+
+The success of the maiden launch is quite significant because many rockets, including SpaceX’s Falcon 9, have failed on their maiden flights. Skyroot plans to conduct two developmental flights — Vikram-2, carrying a 1,000 kg payload, and a reusable launch vehicle — before entering the crowded commercial small-satellite launch market.
+
+The success of Skyroot — a startup founded by former Isro engineers Pawan Kumar Chandana and Naga Bharath Daka in Hyderabad in 2018 — has validated the Indian government’s belief in the private sector and its decision to open up the space sector to private companies.
+
+The policy change has resulted in the establishment of several private players, such as Pixxel, Bellatrix Aerospace and Dhruva Space. The recent public offering of Elon Musk’s SpaceX, whose valuation soared to over a trillion dollars, demonstrated the promising prospects of the private space exploration business.
+
+American space companies have also highlighted the advantages they enjoy over government-led agencies, including quick decision-making, fewer bureaucratic controls, a greater capacity for risk-taking and innovative approaches. If Indian space companies follow the same route, the country may soon have a highly successful, profitable and vibrant space sector.
+
+The rise of private space companies, however, is having a rather disappointing impact on the state-run Indian Space Research Organisation (Isro), from which over 100 scientists have reportedly resigned, ostensibly to pursue promising careers in the new space companies.
+
+Although the government has tightened the exit process at Isro, it is unlikely to stem the tide, as private companies have often grown at the expense of state-run institutions. This pattern can be seen in telecom with BSNL and VSNL, oil exploration with ONGC, pharmaceuticals with IDPL, and aviation with Air India. Therefore, instead of competing with private companies, it is high time that Isro assumed a mentoring role and focused on deep-space exploration in collaboration with the new spacefarers.
+
+The launch of Vikram-1 is not merely the success of a company; it also marks the maturing of the country’s space sector, with thousands of suppliers and tens of thousands of engineers, scientists and space enthusiasts. The credit for the development of this space-launch ecosystem must go to the pioneers of the Indian space programme at Isro, who tirelessly nurtured the country’s capabilities while eschewing opportunities to take up cosy, high-paying jobs at well-developed Western space agencies.
+
+The Central government, which administers the department of space, should focus on creating a collaborative mechanism that harnesses the strengths of Isro and new space startups, enabling India to undertake deep-space voyages and uncover the deeper secrets of space and time.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-with-vikram-1-india-flies-into-new-era-of-space-1972327)
+
+---
+
+### Parsa Venkateshwar Rao Jr | Real Problems Of Neet Go Deeper Than Dealing With Wangchuk’s Fast
+*Deccan Chronicle · Opinion*
+
+The brutal question that needs to be asked is whether the shifting of the fasting Sonam Wangchuk, the radical educationist and environmentalist from Ladakh, from Jantar Mantar, New Delhi’s Tahrir Square of Cairo and Istanbul, to Safdarjung Hospital by the Delhi police will create a backlash for the mulish Narendra Modi government? It seems it will not. It is necessary, therefore, to face certain unpalatable facts.
+
+The Neet leak paper is the most shameful and degrading scandal and people across classes and regions are angry about it. You can hear the expressions of disgust and anger from private sector boardrooms to people on the street. But people feel helpless and they want somebody to protest, and somebody to clean up the act.
+
+The Modi government, as always, is unwilling to take any moral responsibility. There is no move on the part of Prime Minister Narendra Modi and education minister Dharmendra Pradhan to apologise for the critical failure affecting the educational fortunes of millions of students in the country. This has been the presidential style of Prime Minister Modi’s governance. Ignore the questions arising from the government’s failures and talk about other things, as though the problems are imaginary. The government has succeeded in pulling the wool over the eyes of the people. Manipulation and brainwashing fail to describe the act of deception adequately. It’s in this context that the protest and fasts of Wangchuk, the three students of All India Students Alliance (AISA) of CPI(M-L) -- Neha, Ameen and Amish – should be seen.
+
+With Wangchuk taken away from Jantar Mantar, the government believes it has taken away the main focus of the protest. Wangchuk’s unimpeachable credentials lent heft to the Cockroach Janta Party (CJP), founded by Abhijit Dipke, the man who came in from the cold, and the protesters from AISA joined. The participants are sincere and the issue is of immense national importance. But what matters most is of least consequence under the anaesthetising effect of Mr Modi. The demand for Mr Pradhan’s resignation is totally legitimate. In a similar situation, Congress governments would have initially resisted but would have capitulated ultimately. The Congress, for all its cynicism, showed rare sensitivity to public discontent and Opposition pressure. The Modi government, with its totalitarian attitude, follows the Hindutva tenet that ignore protests and they will die out, and if they don’t, then arrest them and put them away. By removing Wangchuk from the protest site, the police plans to push out the other protesters. That silences the protest.
+
+What is happening on the Neet front? The test due on May 3 was cancelled because the investigating agencies concluded there was a leak, and thus the exam was postponed. The rescheduled test was held on June 21. The Neet results are now out.
+
+The damage was successfully controlled. Heads should have rolled. But that is where scandal management, the forte of the Modi government, comes to the fore. Whether it is the Neet leak or the Ayodhya Ram temple donation theft, the Modi Sarkar skirts round it. Survival is surely a political virtue, but the reputation of the Modi government has a dismal grade point average for governance.
+
+The Neet faced a far more serious challenge to the “integrity” -- a term used by all concerned, including the Supreme Court and the National Testing Agency (NTA), which conducts Neet – in 2024, when the NTA said there was a leak, but the police fled cases, arrested 13 individuals in Bihar, saying that there was a leak. So, there are problems with Neet and there should have been a serious debate across the country about it. Unfortunately, there was none. The focus in on increasing the number of medical colleges, and the seats available in them. In the most populous country in the world, there is need for a larger number of doctors. Little thought seems to be given to the quality of medical education.
+
+In broader terms, the standards of education and the need for excellence that are needed to make India a top industrialised country is not of much concern. For the Prime Minister, the goal of “Viskit Bharat” is not about transformation of the whole system at the qualitative level. He does not believe in quality dynamics. Quantity is quality. He doesn’t even believe in the economist’s creed that after a certain point, increase in quantity makes for qualitative transformation. That is much too abstract a calculation.
+
+It is unfair to expect that either Modi government or those handling science and technology education in the country are capable of evolving an open-ended education system that pushes the frontiers of knowledge systems. They don’t even spare a thought on the issue. It is when a system is ossified it becomes predictable, and opens the scope for cheating in more ways than one. The Modi Sarkar, in its pseudo-nationalist zeal, wants to establish a single mega-system, where millions will learn the same things...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-real-problems-of-neet-go-deeper-than-dealing-with-wangchuks-fast-1972309)
+
+---
+
+### Slotting S Janaki
+*Deccan Herald · Opinion*
+
+Two of India’s greatest singers of film music died this year – Asha Bhosle on April 12 and S Janaki on July 11. With Lata Mangeshkar, who died in 2022, and P Susheela, who turns 91 this November, they constitute a quartet of women playback singers whose productivity has few parallels anywhere in the world.
+
+While the scale of each of their achievements is staggering, it is possible to regard Janaki as a phenomenon like no other. She had little formal training in music, and her accomplishments are, in that sense, more prodigious. The title of ‘Nightingale of the South’ that the media bestowed on her is therefore a backhanded compliment, the ‘South’ defining her as a ‘regional’ rather than a ‘national’ artiste.
+
+When Janaki died in Mysuru at 88, TV channels in Karnataka, Tamil Nadu, Andhra Pradesh, and Kerala devoted hours to her life and times. Newspapers carried detailed obituaries, and the biggest names in the four southern film industries paid emotional tributes. In much of northern India, the passing received just a routine mention.
+
+How does this happen? In the years that Janaki was active, the southern states have, with no effort, been able to hear the best of Hindi film music on the radio. Reciprocally, the north hasn’t been able to hear any southern music, even when the southern states have been prolific, producing songs that could match the best being created in Mumbai. What has happened with language policy has also happened with broadcasting policy. It is Hindi first: as in education, so in music.
+
+Janaki, who lived a largely cheerful life, was acutely aware of the imbalance. When the Padma Bhushan was announced for her in 2013, she turned it down, saying it was coming too late in the day. In her opinion, nothing short of a Bharat Ratna could have done justice to her body of work. This was more a realisation of her place in history than empty vanity. Lata was given the Bharat Ratna in 2001.
+
+S Janaki: A nightingale who transcended languageJanaki’s career spanned six decades. She sang in 17 languages, including Hindi, Bengali, Marathi, Gujarati, and Odia. In 1974, the Guinness World Records listed Lata Mangeshkar as the most recorded artist in human history, putting her output at not less than 25,000 songs between 1948 and 1974. Mohammed Rafi disputed the entry, saying he had recorded about 28,000 songs. With no definitive records to rely on, Guinness retained Lata’s title and added a footnote with Rafi’s number. Subsequently, Lata said she had kept no ledger of her songs and didn’t know where Guinness got the number. In 1991, the entry was removed from the records. With music lovers putting in sustained effort into archiving and documentation, more realistic numbers began to emerge. Asha got Lata’s ‘most-recorded’ title in 2011 with a verified list of about 11,000 songs. Susheela overtook her in 2016 with a documented list of 17,695 songs. No comprehensive record exists of Janaki’s discography, and 48,000 songs is a number that has gained currency. The likelihood of Janaki being the most recorded in history is high.
+
+In the south, Hindi songs, films, television serials, and advertisements are part of daily life. But in the north, you find no regular exposure to Kannada, Tamil, Telugu or Malayalam music, cinema or public discourse. In Bengaluru, language-related tensions often arise from the absence of mutual familiarity. A migrant from Uttar Pradesh or Jharkhand who has heard no southern language ever is unlikely to pay attention, or think much, of what we have to offer.
+
+Janaki moved with equal felicity among sad, happy, devotional, raga-based, romantic, and sensuous songs. I suspect raga Shuddh Kalyan, corresponding to Mohana Kalyani in Karnatik music, is her favourite. By her own admission, her rendering of Rasik balma, a Lata classic based on that raga, won her countless admirers, not to mention a husband. The raga persists in the Kuvempu poem she sang for Gowri (1963) later: Yaava janmada maitri. Then came the super hit Baanallu neene, bhuviyallu neene from Bayaludaari (1976) with the same charming Shuddh Kalyan overtones.
+
+So why is she unique? In Sandhyaraga (1966), she sings Nambide ninna nada devateye in raga Purvi Kalyani. The song is featured in three voices, the other two being the maestros Bhimsen Joshi and M Balamuralikrishna. Janaki’s non-classical repertoire shows dazzling variety, but her ability to stand shoulder-to-shoulder with the classical masters – despite having barely a year of formal training – proves her true greatness.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/slotting-s-janaki-4079032)
+
+---
+
+### Sovereignty in troubled waters
+*Deccan Herald · Opinion*
+
+A decade after a ruling of the Permanent Court of Arbitration (PCA) at The Hague, quashing sovereignty claims on artificial reefs in the South China Sea, China continues to follow one of its 36 ancient strategems, of qianyi mohua (unseen influence). As it flexes power in Southeast Asia, India needs to wake up and strengthen the rule of law, institute dialogue mechanisms among the stakeholders, and extend support to the affected countries.
+
+On July 12, 2016, the PCA, on a complaint from the Philippines, gave a verdict on the dispute and mentioned that the historical claims of sovereignty are not valid, that no nation can draw Exclusive Economic Zones from artificial reefs, that dredging projects to construct artificial reefs have damaged the region’s environment, and emphasised local fishermen’s traditional rights. China walked away from the arbitration procedures at the PCA. It continues to deny the role of international law in regional disputes and uses military assertions to reaffirm its claims. Over the last 10 years, China has established military outposts, naval ports, runways, helipads, radars, barracks, communication systems, and berthing facilities.
+
+On the 10th anniversary of the PCA ruling, 14 countries and the European Union criticised the continued defiance of China, which has the support of Russia, Pakistan, Myanmar, Laos, and Cambodia on the issue.
+
+In the late 1980s, Deng Xiaoping formulated China’s South China Sea policy as: “Sovereignty is mine, postpone the dispute, jointly exploit resources”. The policy sat on a claim to nearly 80% of the 3.4 million-sq km maritime area. In other words, China saw the region as a territorial sea rather than as a global common. Incidents involving USNS Impeccable and the Indian naval ship Airavat signalled the extent of this approach, which is violative of the universal laws on the freedom of navigation.
+
+Defiant China unites uneasy neighboursWhen Deng suggested “postpone the dispute”, he did not want to muddy the waters but focus on economic growth rates. However, now, under Xi Jinping, China has interests beyond economic growth. This shift explains Beijing’s weaponisation of the region.
+
+Deng also wanted to mollify the disputants by offering joint exploration for the resources. Of course, the initiative never came from Beijing. China periodically sends the Haiyang Shiyou series of oil rigs into the region, sometimes leading to skirmishes with Vietnam and the Philippines. The Huizhou 19-6 and Kaiping oilfields can extract over 100 million tonnes of oil each for China, while the Southeast Asian countries are left high and dry. Notably, China applies coercion on these countries when they make efforts to extract energy resources. For instance, it harassed Vietnam at Vanguard Bank and Malaysia at Luconia Shoals.
+
+China and the Southeast Asian countries helped institute a declaration on the conduct of parties in the South China Sea in 2002 and are now attempting a code of conduct. However, these mechanisms only bought time for Beijing to occupy more reefs and dominate the region, as the agreements lack binding provisions.
+
+China’s claims are historical and are also traced to the discovery of Ming dynasty coins in the region. If historical claims are the basis, the Chola and Pallava empires that extended their reach both in the region’s maritime and continental spheres need to be considered. Beijing has recently brought resource nationalism into the mix. However, under international law, continuous and physical occupation are the criteria for resolving sovereignty disputes – the PCA’s ruling quashing China’s claims has now become a fact on the ground.
+
+China leverages its recently elevated economic power to coerce the disputants. It restricted tourist flows to the Philippines after the Scarborough Shoal incident. With Vietnam, coercion through harassment of vessels has continued.
+
+For India, the South China Sea issue is based on a principle of upholding the rule of law, smooth passage of trade, regional security, and the protection of energy interests. While New Delhi took a noncommittal position in 2016 of “utmost respect for the UNCLOS”, it modified its response in June 2023 towards endorsing the tribunal’s ruling as binding on all. Since 2023, three years after the border clash with China at Galwan, India’s relations with the Philippines have improved. Their joint statements reflected this changed position.
+
+As India grows at 7% annually, expanding its trade through the South China Sea, the protection of trade routes becomes key. While China has sent 46 naval contingents to the Indian Ocean since 2008, the Indian Navy’s presence in the South China Sea has been limited to bilateral and multilateral naval exercises. This needs to change.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/sovereignty-in-troubled-waters-4079036)
+
+---
+
+### The missing clusters in India’s industrial geography
+*Deccan Herald · Opinion*
+
+A lesser-discussed aspect of Indian manufacturing is our industrial geography, especially when set against international experience. India today counts over 255,000 registered factories under the Factories Act – plants employing ten or more workers – up from 112,000 in 1991. While the number has more than doubled since liberalisation, growth has been concentrated at the smaller end: more than 230,000 are micro and small units. Alongside these, countless unregistered MSMEs operate. Past surveys suggested their numbers were roughly twice the registered base. Taken together, India hosts the world’s fifth-largest factory network by output.
+
+The pyramid itself is not unusual – Italy’s family-run districts, Japan’s SME networks, and Latin America’s micro enterprises show similar structures – but India’s is markedly steeper. Policy has long concentrated incentives at the micro and small levels, while medium-level firms lose benefits once they expand. Crossing the MSME thresholds means forfeiting collateral-free loans, priority sector lending, and compliance relaxations. The result is a strong incentive to remain small or replicate plants rather than scale up, reinforcing the pyramid and limiting export competitiveness. By contrast, Germany and Japan cultivated a robust middle layer of medium enterprises, while China scaled up township and village firms into large exporters.
+
+Automation to intelligence: How India’s manufacturers must evolveEqually significant is the absence of a coherent locational policy: 55-65% of factories operate outside authorised estates, often on private or ancestral land, despite the number of estates rising from about 2,700 in 1991 to more than 4,400 by 2025, many developed privately. Also, the dispersal of these industrial estates remains haphazard, preventing firms from realising the advantages of clustering, shared infrastructure, and coordinated scale.
+
+Historically, industry clustered around colonial cities – Mumbai, Kolkata, Chennai – where shipping links and imported machinery were accessible. Textile mills in Ahmedabad and Mumbai, jute in Kolkata, and engineering in Chennai thrived in these hubs. After independence, the state assumed an activist role: new civic capitals like Chandigarh and Bhubaneswar, industrial townships such as Bhilai, Rourkela, and Neyveli, and suburban extensions in Delhi, Ahmedabad, and Bhopal were rolled out within short cycles. Yet the siting of educational and technological institutions fell under a different ministry and was guided by other priorities.
+
+Over 200 public sector enterprises were established, but strict licensing and regulatory curbs stifled private initiative. Small-scale industries were promoted through planned estates, though with tightly defined, low-capital allowances. The outcome was that planned development could not absorb the rising number of graduates, which created visible social stresses. By the late 1980s, the cracks in India’s economic model were evident: state enterprises had grown inefficient, bureaucracy stifled initiative, and technology lagged global standards. Liberalisation was not merely desirable – it had become inevitable.
+
+The 1991 reforms dismantled licensing, opened the economy to foreign investment, and diversified manufacturing. They unfolded amid global upheavals that blurred the role of geography and expanded demand for skilled labour. India’s human capital found its moment.
+
+However, by now, the earlier state-led developmental push had receded. Governance remains traditional in style – albeit more business-friendly, with subsidies and incentives to attract investment. Industrial expansion is largely left to private initiative. The result is a fragmented geography: unlike countries that deliberately nurtured industrial clusters, India denies its firms the benefits of scale and network effects. Estates often lack housing, transport, and social infrastructure, preventing them from evolving into urban centres. Without integration of skills and production, our industrial base remains scattered, our pyramid steep, and competitiveness constrained.
+
+The implications are starkly visible in high-tech exports. Since the 1990s, electronics, computers, and telecom equipment have become the fastest-growing segment of global trade. India’s software exports rode this wave, supported by over 60 Software Technology Parks of India and hubs such as Bengaluru’s Electronic City and Hyderabad’s HITEC City, enabling IT exports of around $270 billion. Yet comparable infrastructure was never designed for manufacturing.
+
+Undoubtedly, subsidy-driven initiatives like Make in India and the Production Linked Incentive (PLI) scheme have boosted production. Electronics exports have risen from $29 billion in 2020 to over $ 54 billion in 2024, but imports now touch $90 billion, underscoring India’s deficit and lag in advanced manufacturing. In the absence of formally notified high-tech zones, PLI units emerged in scattered estates, limiting ecosystem integration. Much of the export basket remains low-value assembly of imported components, with weak R&D and minimal innovation.
+
+China, in contrast, has built over 170 high-tech Industrial Development Zones integrating production, research, housing, and social life. Chengdu’s zone alone generates ¥349 billion in GDP, houses 1.3 million residents, and links manufacturing with universities educating more than 100,000 students. This integration underpins China’s high-tech export surge, which is already above $800 billion.
+
+It is therefore possible that our unplanned industrial geography, together with the policy signals that created it, is the cause for most of the ills that plague manufacturing – insufficient investment, low R&D spend, et al.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/the-missing-clusters-in-indias-industrial-geography-4079034)
+
+---
+
+### Who silenced India’s protest streets?
+*The New Indian Express · Opinion*
+
+The prolonged agitation over paper leaks and electoral issues, later joined by Sonam Wangchuk, has once again drawn attention to this curious transformation. Despite weeks of protest, hunger strikes and expressions of solidarity from sections of the opposition, the movement has struggled to attract the spontaneous participation that once turned a grievance into a national movement. The silence has been striking. Civil society has remained hesitant, public intellectuals have largely stayed away and even those who routinely express outrage on television and social media have shown little inclination to translate indignation into physical participation.
+
+Is this merely the failure of yet another protest? Or does it reflect a deeper alteration in the character of Indian democracy? The paradox is difficult to ignore. India has no shortage of issues capable of provoking public anger. Farmers continue to complain about uncertainty. Young people remain anxious over exams and employment. Allegations of corruption continue to surface. Political discourse has rarely been more polarised. Yet none of these grievances has produced the kind of sustained, nationwide mobilisation that earlier generations regarded as almost instinctive.
+
+Why have the streets fallen silent while public discontent appears alive in every other sphere? Has dissent migrated from the public square to the digital screen? Or has India entered a phase where democracy is increasingly negotiated through elections and social media rather than through collective public action or a discourse?
+
+Technology has unquestionably altered the grammar of politics. Earlier generations marched with banners; today’s generation brandishes smart phones. A hash tag can travel farther than a procession and a short video often reaches more people than a public meeting. Digital platforms have democratised expression in ways unimaginable a decade ago. Yet visibility should not be confused with mobilisation. Governments may find online criticism inconvenient, but disciplined public mobilisation has historically posed a far greater democratic challenge.
+
+Economic change may have contributed to this behavioural transformation. India has become more aspirational than aggrieved. The expanding middle class is understandably preoccupied with careers, education, business and economic advancement. Agitation carries a cost. It consumes time, creates uncertainty and occasionally invites confrontation. Prosperity often moderates political behaviour, but has it also weakened the instinct for organised public action?
+
+The behaviour of the younger generation presents another puzzle. They face intense competition, uncertain employment and enormous professional pressure. Logic would suggest that they possess compelling reasons to organise and protest. Yet university campuses seldom display the ideological ferment that once shaped national politics. Student unions have lost much of their earlier influence. It seems idealism has yielded to individual ambition and politics itself has ceased to inspire confidence.
+
+Quality and credibility of the current leadership is under close scrutiny too. Every successful public movement has possessed a moral centre that transcended party politics. Mahatma Gandhi transformed resistance into an ethical mission. Jayaprakash Narayan converted political dissatisfaction into a democratic crusade. Anna Hazare succeeded, however briefly, because millions viewed his campaign as a moral intervention rather than a partisan exercise. Contemporary movements often struggle to establish that distinction.
+
+Equally important is the continuing political dominance of Prime Minister Narendra Modi. His communication skills, welfare programmes and personal appeal have enabled him to retain the confidence of large sections of the electorate despite criticism over individual policies. Many citizens who disagree with specific decisions remain unconvinced that a more persuasive national alternative has yet emerged.
+
+Democracies function not only on dissatisfaction with those in power but also on confidence in those seeking to replace them. Perhaps this changing reality explains why Rahul Gandhi increasingly prefers direct engagement with students, farmers, workers and local communities instead of relying exclusively on massive demonstrations in the national capital.
+
+The relative withdrawal of civil society is equally significant. There was a time when retired judges, former civil servants, academics, writers and artists gave public movements intellectual legitimacy and moral weight. Their presence reassured ordinary citizens that a cause extended beyond partisan calculations. Today, many appear reluctant to occupy that space. Whether this reflects fatigue, caution, increasing polarisation or diminishing public confidence is open to debate, but the consequence is unmistakable. Protest movements now struggle to acquire the broad social coalition that once sustained them.
+
+It doesn’t necessarily mean that Indians have become politically indifferent. Electoral participation remains impressive, political debate flourishes across every medium and citizens continue to scrutinise governments with remarkable intensity. The energy of democracy has not disappeared. It has merely changed its expression. Voting remains democracy’s foundation, but elections alone cannot become the only conversation between citizens and governments. Peaceful protest remains an equally legitimate democratic instrument because it reminds those in office that electoral victory is not a licence to stop listening.
+
+That is why the diminishing resonance of India’s protest culture deserves wider reflection than the success or failure of any individual agitation. A government may welcome quieter streets. An opposition may lament the absence of mobilisation. Yet the larger issue belongs to neither. Democracies gradually lose an important corrective when citizens begin to doubt that collective action can influence public policy.
+
+Perhaps every explanation contains part of the truth. Technology has changed behaviour. Economic aspiration has altered priorities. Political leadership has reshaped electoral calculations. Civil society has become more fragmented and the opposition has struggled to inspire confidence. Yet one question still lingers above all the others. Have Indians begun to lose faith in their own power standing together peacefully, to persuade governments to pause, reflect and respond? If that faith is indeed diminishing, the issue extends well beyond one agitation or one political party. It touches the very character of democratic partnership.
+
+Democracies do not become fragile only when institutions weaken. They also become vulnerable when citizens retreat from the public square, convinced that their presence no longer matters. India has certainly not run out of grievances. The more unsettling question is whether it is gradually running out of trusted leaders who are prepared to transform those grievances into a collective democratic voice.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Jul/18/who-silenced-indias-protest-streets)
+
+---
+
+### Split screen: AI moonshots trip tech hiring
+*The New Indian Express · Opinion*
+
+Updated on: 18 Jul 2026, 7:19 pm4 min readCopiedThe world is increasingly being illuminated on split screens. One shows the surge of moonshots—of technology, market valuations and capital. The other reveals how those moonshots are tripping tech hiring in India and across the world.
+
+This Thursday, events and headlines split across two screens. On the first screen, you saw earnings of IT companies, billions committed to data centres and agentic artificial intelligence, the buzz of AI-linked revenues and bullish analyst calls. The second screen, seemingly mute, revealed shrinking headcounts, hiring sliding to a two-year low and a quiet decoupling of revenue from employment.
+
+These are stories viewed from different sides of the economy. Check the first screen. The analyst calls were riveted by two alphabets—A & I. TCS, HCL Tech, Wipro and Tech Mahindra posted rising revenues, strong order books and a surge in AI-related earnings. The hurrahs drowned a reality. Rupee revenues did grow in double-digits, topping 14 percent at some firms. But much of that gain was propped up by rupee depreciation. Strip out the exchange-rate effect, and constant-currency revenue growth dips to roughly 1-6 percent, depending on the company.
+
+Now check the second screen. On the face of it, TCS added around 9,000 employees this quarter, but the total headcount of 5.93 lakh is still lower than the 6.13 lakh recorded a year ago. Wipro—which says ‘AI is evolving faster than ever’—announced it will not hire fresh engineering graduates this year. Tech Mahindra‘s headcount stands at 1.46 lakh, down from a year ago; HCL Tech‘s is down by 3,200. If one merges the two screens one could produce an arbitrage index—growth minus headcount growth.
+
+India’s tech outfits are placing their bets in plain sight. Capital is flowing towards AI at unprecedented speed. Availability of labour, once the defining competitive advantage, is no longer a necessary condition for growth. For three decades, the model was ‘more people do the work for less money’. That model is being dismantled. In five days of earnings announcements, Indian IT published the blueprint of its next business model: invest heavily in machines, hire cautiously, trim headcount.
+
+The demand side signals spell it out. The June report of talent solutions company Xpheno reveals active tech job openings fell to the lowest in 28 months in June, with entry-level demand down 44 percent and senior openings down 67 percent year-on-year. The gates are narrowing at both ends of the career.
+
+The AI effect is visible in another window—filings by Indian companies with governments in the US under the Worker Adjustment and Retraining Notification (WARN) Act of 1988 and in independent recruiter data. The June 2026 Challenger report reveals that over 14,000 AI-related job cuts were announced in the month. This year, AI has been cited as the reason for 1,01,743 job cut announcements, which account for nearly a quarter of all the announced job cuts till now.
+
+Context is critical for comprehension. Automation in global markets triggers retrenchment in Indian offices. Deployment of AI in Palo Alto triggers pink slips in Pune. Microsoft CEO Satya Nadella said that AI was writing 30 percent of the code. It is claimed that over 50 percent of the code in Tencent and over 40 percent in Baidu and Alibaba Cloud is written by AI; it goes up to as much as 90 percent of the code at Meituan!
+
+Oracle revealed reduction of 21,000 jobs in its annual filings citing AI deployment. Salesforce CEO Marc Benioff deployed AI Agentforce, which handles half the company’s service calls, and cut over 4,000 jobs. When companies report that AI writes the bulk of new code, it means billable hours and costs come down, accelerating automation.
+
+Ernest Hemingway wrote that bankruptcy happens “gradually, then suddenly”. So do technological revolutions. Thursday’s unveiling of Moonshot AI’s Kimi K3 suggests AI may have reached one of Hemingway’s ‘sudden’ moments. The launch of Kimi K3—a 2.8-trillion-parameters system, claimed to be the world’s largest open-weight AI model—is described as a structural shift in the AI ecosystem, as it promises to deliver outcomes matching US giants at a fraction of the cost.
+
+On the AI row are DeepSeek, the Hangzhou startup whose R1 model wiped billions off US tech stocks and which is reportedly developing its own chip, and SenseTime’s 600-billion-parameter multi-modal model SenseNova, which is offering API access at about eight US cents per million tokens. If frontier-class intelligence can indeed be delivered at a fraction of today’s cost, adoption will accelerate the dismantling of existing business models. To appreciate, juxtapose what China did for goods to what it threatens to do in services.
+
+This is a macro story, not a sectoral one. IT services is India’s largest exporter, largest employer and a force multiplier of consumption in the economy. The arbitrage that built a middle class is being repriced in public, quarter by audited quarter. The challenge before governments is to redesign the employment model. The split screen will not remain split forever. The real economic consequences of the AI revolution will be visible and become impossible to ignore.
+
+F Scott Fitzgerald defined a first-rate intelligence as the ability to “hold two opposed ideas in the mind at the same time” and still function. Governments in India and elsewhere now face the harder version of the test: to empower machines without disempowering people. Their task is to leverage machines to upskill people and fund the machines without defunding the people.
+
+Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Jul/18/split-screen-ai-moonshots-trip-tech-hiring)
+
+---
+
 ## 18 July 2026
 
 ### ​Battling drug abuse: On Kerala’s Operation Toofan
