@@ -1,3 +1,456 @@
+## 19 October 2026
+
+### He left Rs 40,000 engineering job for Rapido. Now, he earns up to Rs 1.2 lakh a month
+*India Today Education Desk · general*
+
+## A Jharkhand woman said a Rapido driver told her during a Rs 198 ride that he had left engineering and now earned up to Rs 1.2 lakh monthly. His account highlights how family needs, income and location can outweigh professional prestige when people define career success.
+
+He left Rs 40,000 engineering job for Rapido. Now, he earns up to Rs 1.2 lakh a month (representational image)
+
+New Delhi,Oct 19, 2026 10:18 IST
+
+A degree from a reputed college and a steady job don’t always guarantee financial security. For one engineer, a monthly salary of Rs 40,000 at a corporate firm fell short of his household needs, prompting him to switch careers and become a Rapido driver, reportedly earning up to Rs 1.2 lakh a month. A woman from Jharkhand recounted the experience in a post on X after speaking with him during a ride.
+
+What began as a routine Rs 198 Rapido ride soon turned into an eye-opening conversation about career choices, financial pressures and the true meaning of success.
+
+### HOW MUCH DOES A RAPIDO DRIVER EARN IN A MONTH?
+
+The woman asked the driver a simple question about his daily earnings: “Brother, how much do you earn in a day?” The driver reportedly told her that he could earn up to Rs 4,000 a day.
+
+Surprised by the figure, she initially misunderstood his answer before realising he was talking about his daily income, not his monthly earnings.
+
+When she asked whether that meant he earned more than Rs 1 lakh a month, the driver agreed, saying his monthly income ranged between Rs 1 lakh and Rs 1.2 lakh. The revelation left her astonished. How could someone earning so much as a bike taxi driver have walked away from a conventional professional career?
+
+### WHY DID HE QUIT HIS ENGINEERING JOB?
+
+The driver's answer revealed the financial pressure behind his decision. He told the woman that he had previously worked as an engineer at a company, earning a monthly salary of ?40,000. However, the income was not enough to manage his family's household expenses.
+
+Despite having a professional qualification and a conventional job, he found it difficult to make ends meet. Eventually, he decided to leave engineering and explore another way to earn a living.
+
+The woman questioned his decision, pointing out how hard people work and study to become engineers. But for the driver, the choice was about more than professional status.
+
+His family's needs came first, and his existing salary was not meeting them.
+
+### WHAT MADE HIM CHOOSE RAPIDO OVER ENGINEERING?
+
+For the driver, switching careers appears to have brought two important benefits: higher reported earnings and the opportunity to work in his hometown.
+
+“Now, I work in my own city, and I am happy with my earnings,” he told the woman, according to her post. He also explained that he felt good about his decision because he could earn well while remaining close to home.
+
+His account offers a glimpse into the practical considerations that can shape career choices. A job may carry prestige, but if the salary does not cover essential expenses, its appeal can diminish.
+
+For this driver, leaving engineering was a decision shaped by his financial circumstances and family responsibilities rather than by conventional expectations of career progression.
+
+### IS A RESPECTABLE JOB ALWAYS THE DEFINITION OF SUCCESS?
+
+Sharing the interaction on X, the woman reflected on how the conversation had changed her perspective. Many people grow up believing that earning a professional degree, securing a job at a reputed company and building a traditional career are essential milestones of success. While these achievements can provide valuable opportunities, they do not automatically guarantee financial comfort.
+
+The driver's experience highlighted a different reality. Despite having worked as an engineer, he reportedly found a more rewarding financial option in bike taxi driving.
+
+His story also raises a broader question about how society measures professional achievement. Is success defined by a job title, the reputation of an employer or the ability to earn enough to support one's family?
+
+For the driver, his reported earnings, the ability to work in his own city and his satisfaction with his decision appeared to matter more than the prestige associated with his former profession.
+
+### WHAT IS THE BIGGEST LESSON FROM THIS RAPIDO RIDE?
+
+The woman's central takeaway was that everyone's circumstances are different, and so is their definition of success.
+
+A career that works well for one person may not meet another person's needs. Financial responsibilities, living costs, family commitments and location can all influence what someone considers a worthwhile livelihood.
+
+The driver's decision challenges the assumption that leaving a conventional career automatically means giving up on success. Sometimes, changing direction is a practical response to circumstances rather than a step backwards.
+
+At the same time, his experience should not be taken to mean that every Rapido driver earns more than a salaried engineer. The income figures in the story come from the woman's account of their conversation and have not been independently verified.
+
+### SUCCESS ISN'T DEFINED BY A JOB TITLE
+
+One ?198 ride gave the woman an unexpected perspective on work, money and ambition. The man she met had left a career many aspire to pursue because his salary could not meet his family's needs. In his new line of work, he said he was earning more and was happier staying in his hometown.
+
+Ultimately, the story is not about whether engineering or driving is the better profession. It is about the freedom to choose a livelihood that meets one's needs.
+
+For this engineer-turned-Rapido driver, success was not about holding on to a prestigious job title. It was about earning enough to support his family and building a life that worked for him.
+
+(Disclaimer: This story is based on a social media post. The details, including figures, background, and outcomes, have not been independently verified by India Today. The article is intended for informational purposes only, and readers are advised to exercise their own discretion before drawing conclusions or making decisions based on the content.)
+
+\- Ends
+
+---
+
+### Will track down those behind Tiger Shroff firing, wherever they are: CM Fadnavis
+*India Today News Desk · general*
+
+## Devendra Fadnavis assured Tiger Shroff and his family of security after the firing outside the actor's Mumbai residence. Mumbai Police will investigate every aspect, including social media claims linking the attack to the Lawrence Bishnoi gang.
+
+Maharashtra CM vows global hunt for accused in Tiger Shroff car firing case
+
+Maharashtra Chief Minister Devendra Fadnavis on Monday said those behind the firing incident targeting actor Tiger Shroff in Mumbai would be tracked down and arrested, even if they were operating from outside the state or abroad. He said the Mumbai Police had obtained crucial clues and identified certain suspects, who would be arrested soon.
+
+“This is a very serious and condemnable matter. The Mumbai Police have taken it with the utmost seriousness. They have obtained certain clues, based on which they are currently working, and specific individuals have already been identified. These people will be arrested very soon,” Fadnavis said in Nagpur.
+
+He added that the state government would coordinate with other states and seek the Centre's assistance to track down those operating from outside India.
+
+Calling the attackers “cowardly individuals”, he added: “They attempt to strike from the shadows, but their efforts will be thwarted.”
+
+Fadnavis also said he had spoken to Shroff after the incident and assured him that the government would ensure his safety. “I have assured Tiger Shroff that he need not worry. We will track down those responsible for this, and we will ensure complete safety; that is what we told him,” he said.
+
+### 15 TEAMS FORMED TO TRACE ASSAILANTS
+
+The 36-year-old actor escaped unhurt after gunmen opened fire at his car in Mumbai's Juhu area on Sunday evening. A video circulating on social media showed a person firing at the vehicle.
+
+Shroff's driver, identified as Firdaus, and an autorickshaw driver, identified only as Chauhan, were injured in the incident and taken for medical treatment, police said.
+
+Mumbai Police have formed 15 teams, including personnel from the Crime Branch and local police, to investigate the case and trace the assailants. Investigators are examining CCTV footage from the area to establish the number and identities of those involved.
+
+A forensic team also visited the spot to collect ballistic evidence, inspect the vehicle and determine the exact number of rounds fired.
+
+The incident took place near Pushpa Park, within the Juhu police station limits. Police are examining the sequence of events and other evidence gathered during the investigation.
+
+Fadnavis, who also holds the Home portfolio, spoke to Shroff on Sunday and assured him that the accused would be traced soon. According to the Chief Minister's Office, he also sought details from Mumbai Police Commissioner Deven Bharti and directed him to expedite the investigation and take strict action against those responsible.
+
+The Opposition has criticised the state government over the incident, alleging that Fadnavis has failed to maintain law and order in the state.
+
+\- Ends
+
+---
+
+### Madhya Pradesh man dies by suicide on railway tracks, sons found dead in parked car
+*India Today News Desk · general*
+
+## Revenue official Ajay Dhakad died by suicide near Pipariya station, where his sons were later found dead in a locked car. Police are awaiting post-mortem reports as the circumstances and motive remain unclear.
+
+Revenue officer Ajay Dhakad
+
+A revenue official named Ajay Dhakad died by suicide by jumping in front of a moving train in Madhya Pradesh's Narmadapuram district, while the bodies of his two young sons were later found inside a locked car parked at Pipariya railway station.
+
+The circumstances surrounding the children's deaths and the motive behind Dhakad's alleged suicide remain unclear. However, a report by the news agency PTI, which cited Ajay’s brother Pratap Singh Dhakad, said that Dhakad brought his two children to Pipariya on the pretext of taking them to watch a film.
+
+According to senior cop Ashish Kumar Pawar, Dhakad, who worked as a patwari (revenue official) at Udaipura, jumped in front of the Sanghamitra Express near Pipariya railway station at around 2.30 pm on Sunday.
+
+The impact severed his head from his body, and railway police collected his remains from the tracks, Pawar told news agency PTI.
+
+Dhakad’s identity was established through an Aadhaar card that the investigators found from his documents.
+
+### WHAT DO THE POLICE SAY ABOUT THE DEATHS?
+
+As per the police’s account, Ajay first parked the car at the station before heading towards the railway tracks. The police searched the car after learning about the incident.
+
+Pawar said the children's bodies were found between the seats and covered with a bedsheet. A preliminary examination revealed marks on their necks consistent with strangulation, he said.
+
+Police are investigating the circumstances surrounding the deaths and are awaiting the post-mortem reports to establish the cause of death.
+
+\- Ends
+
+---
+
+### SBI Loan EMIs To Rise? State Bank of India Increases Lending Rates After RBI Repo Rate Hike
+*Mohammad Haris · business*
+
+SBI has raised its External Benchmark-linked Lending Rate (EBLR) by 25 basis points to 8.15 per cent, excluding the Credit Risk Premium (CRP) and the Bank Spread (BSP).
+
+[Read full article](https://www.news18.com/business/savings-and-investments/sbi-loan-emis-to-rise-state-bank-of-india-increases-lending-rates-after-rbi-repo-rate-hike-10388130.html)
+
+---
+
+### Bloating after every meal? Gastroenterologist explains causes and warning signs
+*Chaitanya Dhawan · general*
+
+Feeling bloated after almost every meal, even when eating small portions, can be uncomfortable and frustrating. While bloating may result from eating too quickly, swallowing excess air or consuming gas-producing foods, recurring symptoms can sometimes point to an underlying digestive problem.
+
+According to Dr. Vikas Jindal, Consultant, Department of Gastroenterology, CK Birla Hospital, Delhi, persistent bloating may be associated with food intolerances, constipation, irritable bowel syndrome (IBS) and other digestive conditions. Identifying the cause is important, particularly when symptoms continue for weeks or begin affecting daily life.
+
+### WHY DO YOU FEEL BLOATED AFTER EVERY MEAL?
+
+Eating too quickly, drinking carbonated beverages, constipation and consuming foods that produce gas can all contribute to bloating.
+
+Food intolerances and digestive conditions, including IBS and functional dyspepsia, may also cause recurring discomfort. If bloating occurs after almost every meal, even when portions are small, a medical evaluation can help identify the underlying cause.
+
+### NORMAL FULLNESS OR PERSISTENT BLOATING?
+
+Feeling full after eating is normal and usually eases as digestion progresses. Bloating, however, may cause the abdomen to feel swollen, tight or uncomfortable, even after a small meal.
+
+If symptoms persist for several weeks, interfere with daily activities or occur alongside abdominal pain, constipation, diarrhoea or feeling full unusually quickly, consulting a gastroenterologist is advisable.
+
+### CAN FOOD INTOLERANCES TRIGGER BLOATING?
+
+Lactose intolerance, coeliac disease and sensitivity to certain fermentable carbohydrates, known as FODMAPs, can cause bloating, gas and abdominal discomfort.
+
+Keeping a food and symptom diary may help identify potential triggers. Depending on the symptoms, a doctor may recommend specific tests or a supervised elimination diet.
+
+However, do not stop eating gluten before getting tested for coeliac disease, as removing it from your diet can affect test accuracy.
+
+### WHEN COULD BLOATING SIGNAL A DIGESTIVE CONDITION?
+
+Persistent bloating can be associated with irritable bowel syndrome (IBS), constipation, functional dyspepsia and small intestinal bacterial overgrowth (SIBO). These conditions can affect bowel movements, gut sensitivity or digestion, leading to gas and discomfort.
+
+Acid reflux may occur alongside bloating, although it is not always the direct cause. A medical assessment can help determine which condition, if any, is responsible.
+
+### WARNING SIGNS YOU SHOULD NOT IGNORE
+
+Bloating accompanied by certain symptoms requires medical attention. These include:
+
+\- Unexplained weight loss.
+
+\- Persistent abdominal pain.
+
+\- Frequent vomiting.
+
+\- Blood in the stool.
+
+\- Significant changes in bowel habits.
+
+Seek emergency medical care if severe abdominal pain occurs with abdominal swelling, vomiting, or an inability to pass stool or gas. Persistent or worsening symptoms should not automatically be dismissed as indigestion.
+
+### HOW TO REDUCE BLOATING AFTER MEALS
+
+Simple dietary and lifestyle changes may help ease symptoms. Dr. Jindal recommends focusing on eating habits and identifying individual food triggers rather than unnecessarily eliminating entire food groups.
+
+Some measures to consider include:
+
+-   Eat slowly: Chew food thoroughly and avoid rushing through meals.
+    
+-   Limit carbonated drinks: These can contribute to excess gas.
+    
+-   Try smaller meals: Large portions may worsen discomfort in some people.
+    
+-   Stay hydrated: Adequate fluid intake can help, particularly if constipation contributes to
+    
+-   bloating.
+    
+-   Exercise regularly: Physical activity may support bowel regularity.
+    
+-   Identify personal triggers: Keep a food and symptom diary instead of cutting out multiple foods without guidance.
+    
+
+Unnecessary restrictions on dairy, gluten or other food groups can make it harder to maintain a balanced diet and may lead to nutritional deficiencies.
+
+### WHEN SHOULD YOU SEE A GASTROENTEROLOGIST?
+
+If bloating occurs after most meals, continues for several weeks or affects everyday activities, it is worth consulting a gastroenterologist, particularly if other symptoms accompany it.
+
+Depending on the suspected cause, investigations may include blood or stool tests, coeliac disease screening, hydrogen breath tests, abdominal imaging or endoscopy.
+
+Not everyone requires all these investigations; the choice depends on their symptoms and clinical assessment.
+
+Recurring bloating may have several possible causes, and there is no single dietary solution that works for everyone. Understanding the trigger, avoiding unnecessary food restrictions and seeking medical advice when symptoms persist can help people manage the problem more effectively.
+
+\- Ends
+
+---
+
+### How AI chatbots and fake photos are playing with your mind to create false memories
+*Krishna Goswami · general*
+
+People’s trust in artificial intelligence is taking a dangerous new turn. Researchers are warning that AI-generated photos, videos, and text summaries are successfully distorting people’s own memories. What is even scarier is that even when we know a machine created the content, our brains still believe the fake information.
+
+### The MIT Photo and Chatbot Experiments
+
+MIT scientist Pattie Maes recently shared some alarming findings with the Washington Post. In her team’s study, a group of participants was shown a series of ordinary photographs. After a break, some people were shown the exact same pictures, while others were shown versions that had been altered by AI.
+
+When their memories were tested later, the people who viewed the AI-edited photos were far more likely to misremember the original images. Worse, they were overly confident that their false memories were completely real.
+
+Another study by the MIT Media Lab found that simply talking to an AI chatbot can mess with your head. People who were questioned by a generative AI chatbot produced over three times as many false memories compared to those who didn't interact with the AI at all.
+
+### Warning Labels Do Not Work
+
+A separate study by Georgetown University looked at how AI text summaries affect us. They found that when people read a misleading AI summary of a video, their ability to remember a simple detail, like a traffic sign, dropped from 83.6% down to just 44.8%.
+
+You might think that a warning label would keep your memory safe. However, the researchers found that even when users were explicitly told the summary was AI-generated, it did not stop the fake memories from forming. Other studies have even shown that AI deepfakes can plant false memories about made-up political scandals, successfully changing how people plan to vote.
+
+### Why "Humans in the Loop" Isn't Enough
+
+Human memory has always been fickle and easily influenced, a fact psychologists have known since the 19th century. Generative AI makes this much worse because it often makes confident mistakes, known as "hallucinations."
+
+As banks, hospitals, and militaries rush to use AI, they often promise to keep "humans in the loop." This means a human expert is supposed to check the AI’s work before any action is taken. However, research shows that humans are basically flipping a coin when it comes to correctly spotting AI-generated content. Because of our spotty memories and tendency to trust polite, confident AI systems, even human experts are highly vulnerable to having their judgment distorted by bad AI output.
+
+### Real-World Dangers
+
+While experts are struggling to find a fix for this psychological loophole, the tech industry is racing ahead to build completely autonomous AI systems that cut humans out of the process entirely.
+
+Blindly trusting AI without questioning its output has already led to catastrophic real-world outcomes. For example, an American military strike on an elementary school in Iran killed more than 150 people earlier this year, including at least 123 children. According to an internal Department of Defense investigation reported by Bloomberg, the deadly strike was partially caused by an overreliance on a Palantir-developed AI system, which used outdated data to recommend the school as a target.
+
+If AI continues to warp what we remember, our ability to double-check its facts will disappear, leaving us to trust machines that are often confidently wrong.
+
+\- Ends
+
+---
+
+### Lucknow cafe owner murder: Reward for model-influencer doubled to Rs 50,000, senior cop transferred
+*Manish Sahu · legal*
+
+The Lucknow Police have obtained non-bailable warrants against the model, her sister and driver in Shiva Sharma’s death.
+
+[Read full article](https://indianexpress.com/article/cities/lucknow/lucknow-cafe-owner-shiva-sharma-murder-shraddha-dubey-reward-doubled-10927547/)
+
+---
+
+### Your Dasara Reel Could Win A Government Award | Here's The Tag You Need
+*Sumedha Kirti · general*
+
+Karnataka plans to honour the 100 best Mysuru Dasara reels, CM D K Shivakumar announced. Prize money and deadline are awaited, but the Instagram tag to use is already out.
+
+[Read full article](https://www.news18.com/cities/bengaluru-news/your-dasara-reel-could-win-a-government-award-heres-the-tag-you-need-10388150.html)
+
+---
+
+### Maharashtra RPF officer makes another daring rescue as woman slips from moving train
+*India Today Trending Desk · general*
+
+## An RPF woman officer in Maharashtra's Akola saved a 55-year-old woman from falling into the gap between a moving train and the platform. It was her second passenger rescue there within seven days.
+
+A woman RPF officer saved a passenger from falling beside a moving train.
+
+Maharashtra,Oct 19, 2026 09:54 IST
+
+A split-second intervention by a Railway Protection Force (RPF) officer saved a 55-year-old woman from falling into the gap between a moving train and the platform at Akola railway station in Maharashtra. Assistant Sub-Inspector Sonal Ingle’s swift action marked her second such rescue in seven days.
+
+The incident took place on platform number one as the Nagpur-Ahmedabad Prerna Express (22138) was pulling out of the station on October 17. The woman, identified as Sangeeta Bharat Khatri, had come to see off an elderly relative travelling on the train.
+
+Amid the rush of devotees travelling to visit a Jain temple, Khatri attempted to get off the moving train from the opposite side. She lost her balance and began slipping into the gap between the train and the platform.
+
+Ingle, who was on duty nearby, spotted her falling and rushed to her aid. She grabbed Khatri and pulled her towards the platform, preventing a potentially fatal accident. The woman sustained only minor scratches.
+
+Following the rescue, Khatri and her family expressed their gratitude to Ingle and the railway administration.
+
+**Watch the video here:**
+
+The October 17 incident was not the first time Ingle had stepped in to prevent a passenger from being seriously injured at Akola station.
+
+On October 10, she rescued an elderly passenger with a disability who was falling while attempting to board the Navjeevan Express (12655), which runs from Ahmedabad to Chennai. The incident occurred on platform number two.
+
+In both instances, Sonal Ingle’s prompt response helped avert potentially serious railway accidents. Her actions reflect the Railway Protection Force’s ‘Operation Jeevan Raksha’, an initiative aimed at saving passengers in dangerous situations at railway stations.
+
+\- Ends
+
+---
+
+### Kanhaiya then, Neha Bora and Abhijeet Dipke now: Can the new anti-BJP stars last?
+*Vikas Pathak · legal*
+
+Neha Bora, a Left student leader, and CJP founder Abhijeet Dipke are the latest faces to emerge from anti-BJP protests. But the Opposition’s organisational weaknesses remain.
+
+[Read full article](https://indianexpress.com/article/political-pulse/kanhaiya-neha-bora-abhijeet-dipke-anti-bjp-10927541/)
+
+---
+
+### Amazon may cut 5,000 jobs, shut down 15 warehouses
+*Armaan Agarwal · general*
+
+Amazon may be planning to cut as many as 5,000 jobs in the US. The American giant is expected to also close 15 warehouses in New York City. But the impact could be even greater.
+
+As per a report from New York Post, Amazon may cut 5,000 delivery jobs in New York City if the proposed Delivery Protection Act is enacted. The bill, backed by Mayor Zohran Mamdani, would require Amazon to directly employ more than 5,000 delivery workers who currently work for 40 third-party contractors. In addition, Amazon may shut down 15 warehouses that could impact another 2,000 workers.
+
+### Why Amazon may cut 5,000 delivery jobs?
+
+Amazon does not directly employ delivery drivers. Rather, it relies on third-party contractors for delivery roles. If the bill is passed, the company would need to change its delivery model and employ delivery workers directly.
+
+While supporters of the NYC bill argue that it would allow for better wages and working conditions, some are concerned that Amazon may go through with the job cuts citing Amazon’s withdrawal from Quebec.
+
+The company shut down seven warehouses in the Canadian region after a unionisation drive at its Laval facility. The closures led to about 1,900 warehouse workers and 2,800 contracted delivery workers losing their jobs last year. Do note that Amazon denies that the closures were linked to the unionisation drive.
+
+The report adds that there may be possible compromises. This could include allowing contractors to continue making deliveries while requiring Amazon to provide stronger safety guarantees. No vote has been scheduled for the bill yet.
+
+At the same time, the report cites contractors who have warned that the bill may force them out of business. Contractors are worried that Amazon may replace its city facilities with warehouses along the New Jersey Turnpike.
+
+Joe Artus, owner of WGA Transit, said the bill could leave him struggling to retain his 189 employees. His company recruits formerly incarcerated and homeless workers. "I have a 21-month-old daughter," Artus told the publication. "If this thing passes, there is no way for my company to exist or to keep my 189 employees."
+
+As per the report, Amazon said closing the warehouses would increase delivery times and prices. A company-funded study estimated that the legislation would cost New Yorkers an additional $664 a year, or about $5.20 per package, including deliveries by other companies. Same-day and same-morning deliveries are likely to be the most affected.
+
+The possible New York cuts come as Amazon reduces its global workforce. The company recently cut just under 1,000 jobs, mainly in retail teams in countries including India, the US and the UK, as part of broader layoffs expected to affect about 30,000 roles. Amazon founder Jeff Bezos said the cuts were necessary because the company had overhired during the pandemic. The company is also preparing to spend a record $220 billion on data centres, chips and other artificial intelligence infrastructure.
+
+\- Ends
+
+---
+
+### Pakistanis, Bangladeshis Outnumbered Indians: BJP Leader On Dhruv Rathee's London Protest | Exclusive
+*Karishma Jain · general*
+
+In an interview with CNN-News18, Kuldeep Shekhawat alleged that Pakistanis and Bangladeshis actively participated in the protest, raising anti-India slogans and targeting PM Modi.
+
+[Read full article](https://www.news18.com/india/pakistanis-bangladeshis-outnumbered-indians-bjp-leader-on-dhruv-rathees-london-protest-exclusive-ws-l-10388144.html)
+
+---
+
+### Sensex, Nifty trade flat as private bank earnings weigh, PSU banks rally
+*Sonu Vivek · general*
+
+Stock markets opened on a cautious note on Monday, with benchmark indices swinging between gains and losses as investors assessed the latest quarterly results from major private lenders HDFC Bank and ICICI Bank.
+
+Elevated crude oil prices amid rising tensions around the Strait of Hormuz also weighed on sentiment, limiting the market's ability to extend last week's rally.
+
+The BSE Sensex was trading at 74,729.27 in the latest closing session on Friday, while the Nifty 50 had settled at 23,146.15. In early trade on Monday, the Nifty 50 was at 23,161.50, up 15.30 points or 0.07%, around 9:38 am.
+
+The market opened amid mixed global cues after the Sensex and Nifty gained around 2.8% last week. Investors are now watching the December-quarter earnings season closely, with stock-specific moves likely to drive trading.
+
+### BANKING STOCKS IN FOCUS AFTER Q2 RESULTS
+
+Shares of major lenders were mixed in early trade as investors assessed their latest quarterly performance. Axis Bank was the biggest Sensex loser in the latest stock snapshot, falling 3.61%, while HDFC Bank declined 1.35% and ICICI Bank slipped 0.74%.
+
+On the other hand, State Bank of India rose 2.01%, making it the top gainer in the Sensex stock list. Other gainers included Adani Ports, up 1.32%; and HCLTech, up 1.04%.
+
+IT stocks were mixed, with Larsen & Toubro, TCS and Infosys trading lower, while HCLTech gained. The Nifty IT index was down 0.21% in the latest snapshot.
+
+### BROADER MARKETS UNDER PRESSURE
+
+The broader market was weaker than the benchmarks. The Nifty 100 declined 0.03%, the Nifty 200 fell 0.08% and the Nifty 500 slipped 0.14%.
+
+Mid- and small-cap stocks also remained under pressure. The Nifty Midcap 50 fell 0.19%, the Nifty Midcap 100 declined 0.25% and the Nifty Smallcap 100 dropped 0.48%.
+
+Sectoral performance was mixed. The Nifty PSU Bank index rose 2.49%, while the Nifty Pharma index gained 0.68% and the Nifty Healthcare index advanced 0.56%. The Nifty Auto and Oil & Gas indices also traded higher.
+
+However, private banks fell 1.30%, while financial services declined 0.39%. FMCG, realty and chemicals stocks were also lower. India VIX, a gauge of expected market volatility, rose 3.44% to 14.55.
+
+### CRUDE OIL, HORMUZ TENSIONS REMAIN KEY RISKS
+
+Dr V K Vijayakumar, Chief Investment Strategist at Geojit Investments Limited, said the momentum from last week's 2.8% surge in the Nifty and strong results from banking majors, following better-than-expected IT earnings, could help markets remain resilient.
+
+However, he warned that escalating tensions around the Strait of Hormuz and Brent crude rising to $109 a barrel could act as a strong headwind.
+
+Vijayakumar said attractive large-cap valuations and the rupee's appreciation had made India's market outlook somewhat more favourable for foreign institutional investors, but sustained high crude prices could limit the durability of those flows.
+
+He added that large-cap stocks were likely to outperform mid- and small-cap shares, with trading this week expected to be driven by company-specific reactions to quarterly results.
+
+Investors will track further quarterly earnings, crude oil prices, developments around the Strait of Hormuz and foreign investor activity for direction. With the broader market lagging the benchmarks, the near-term trend may remain selective, with individual stocks reacting sharply to earnings and management commentary.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+---
+
+### 'Looking forward to representing India': Defence Minister Rajnath Singh leaves for Tajikistan for SCO meet
+*SECTIONS Defence Minister Rajnath Singh leaves · business*
+
+New Delhi: Defence Minister Rajnath Singh on Monday left New Delhi for Dushanbe, Tajikistan, to represent India at the Shanghai Cooperation Organisation (SCO) Heads of Government (HoG) meeting scheduled for October 19-20.
+
+In a post on X, Rajnath Singh said, "Leaving New Delhi for Dushanbe. Looking forward to representing India at the SCO Heads of Government (HoG) meeting in Tajikistan on 19-20 October 2026."
+
+  
+  
+
+> — rajnathsingh (@rajnathsingh)
+
+According to the post, the SCO Heads of Government meeting "will focus on strengthening cooperation in culture, connectivity, economy, innovation, investment and people to people ties, besides reviewing progress in financial and institutional functioning."
+
+The Meeting of the Council of Heads of Government (CHG) of the Shanghai Cooperation Organisation (SCO) is also expected to review the progress of ongoing cooperation initiatives and consider decisions relating to the Organisation's financial and institutional functioning, as per the Ministry of Defence press release.
+
+According to the release, India remains actively engaged in various SCO mechanisms and continues to contribute to regional cooperation through initiatives in areas such as start-ups and innovation, digital public infrastructure, and people-to-people exchanges.
+
+The meeting will provide an opportunity for India to exchange views with other SCO Member States on advancing practical and mutually beneficial cooperation within the Organisation.
+
+The previous CHG meeting was held in Moscow, Russia, on November 18, 2025, where India was represented by External Affairs Minister S Jaishankar.
+
+Earlier in July, as Pakistan is scheduled to host the SCO Summit in 2027, the country indicated that it would extend an invitation to India for the 2027 Shanghai Cooperation Organisation (SCO) Summit, saying it is obligated to invite all member states in its capacity as the host of the summit.
+
+The remarks were made by Pakistan Foreign Office spokesperson Tahir Andrabi during the weekly media briefing when asked whether Prime Minister Narendra Modi would be invited to the SCO Summit.
+
+The Shanghai Cooperation Organisation (SCO) comprises ten member states spanning nearly 36 million square kilometres and is home to more than 3.4 billion people. Collectively, the bloc accounts for around 25 per cent of global GDP and over 15 per cent of world trade. The organisation seeks to strengthen long-term ties of good neighbourliness, friendship and cooperation among its members across areas of mutual interest, guided by the principles and norms of international law.
+
+It currently has 10 member states--Belarus, China, India, Iran, Kazakhstan, Kyrgyzstan, Pakistan, Russia, Tajikistan and Uzbekistan.
+
+The organisation also includes two observer states, Afghanistan and Mongolia, along with 15 dialogue partners: Armenia, Azerbaijan, Cambodia, Egypt, Kuwait, Laos, Maldives, Myanmar, Nepal, Qatar, Saudi Arabia, Sri Lanka, Turkiye, the United Arab Emirates, and Bahrain.
+
+
+---
+
 ## 18 October 2026
 
 ### Night mining, numberless tippers, paper owners: Inside Punjab’s ‘illegal’ mining network
