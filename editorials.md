@@ -1,10 +1,261 @@
 # Editorials
 
-_Last updated: 2026-10-18 06:27 UTC_
+_Last updated: 2026-10-19 06:38 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 19 October 2026
+
+### Developing minds in a digital world, a changing India
+*The Hindu · Opinion*
+
+Each evening, a familiar scene unfolds in homes around the world. A teenager sits hunched over their smartphone, seamlessly moving between chats, videos, social media, and games. Homework is completed with the help of an Artificial Intelligence (AI) platform. Engagement with the world increasingly gives way to time spent on screens. While this may appear routine today, it could represent a profound change in how children — and their developing brains — experience the world, learn, and grow.
+
+These changes have particular significance for India, with approximately 65 crore people under the age of 25 and one of the world’s largest and fastest-growing digital ecosystems. Each day, millions of Indian children and adolescents spend significant time on digital devices, a trend accelerated by the COVID-19 pandemic as education, recreation, and social interaction moved online.
+
+Children have fundamental right to access and use internet: Supreme CourtEasy access to the digital world has brought undeniable benefits, from unprecedented access to information and educational resources to new ways of communicating, creating, and learning. The recent remarkable advances in AI, performing tasks that once required sustained mental effort, have expanded these possibilities even further. Nonetheless, these digital environments have also introduced a powerful and largely unregulated force into children’s lives—one we are only beginning to understand.
+
+A brain under constructionTo be clear, technology itself is not the problem. The concern is what happens when powerful digital tools and devices become a constant companion in the lives of young people during a period of critical brain development. Cognition, emotion, and behaviour depend on brain systems that undergo profound developmental changes in childhood and adolescence. The prefrontal cortex — central to sustained attention, working memory, planning, decision-making, and impulse control — continues to mature into early adulthood.
+
+Does Article 21 include right to digital access? | ExplainedDigital environments provide an unusually dense and repetitive stream of experiences that may engage the brain in distinctive ways. Over time, these experiences could influence how the brain’s structures and circuits are organised and connected —strengthening some pathways, while others remain underdeveloped. Because the brain is highly plastic during early life, such patterns of engagement can have lasting effects, potentially shaping how young people think, feel, and act across the lifespan.
+
+Indeed, emerging research has linked high levels of screen time with alterations in the brain’s structural development and connectivity. While suggestive, such findings do not prove that digital technologies cause harmful changes in the developing brain. They do, however, underscore the need to better understand the digital experiences of today’s youth and how, for better or worse, they may affect critical functions such as attention, reflection, self-control, and creativity.
+
+Supreme Court address a parental anxiety: How to keep the Internet safe for children | ExplainedReinforcement shapes attentionA large proportion of Indian young people use social media, with Instagram among the most popular platforms. Adolescence is a period when belonging, peer evaluation, and social approval are especially important, making the rewards of social media engagement particularly seductive and salient.
+
+Many digital platforms are designed to capture and sustain attention by exploiting basic features of cognition, emotion, and reward. Short videos, autoplay, infinite scroll, algorithmic recommendations, and social feedback create reinforcement loops in which novelty and rewards — likes, shares, and comments — are delivered rapidly and unpredictably.
+
+These variable patterns of reinforcement can encourage repetitive checking and rapid shifts of attention, keeping users in a continual state of anticipation for the next reward. As a result, many young people may become highly adept at rapidly shifting among multiple sources of information yet may still find it difficult to sustain attention on a single task or topic.
+
+Beyond the amount of time spent online, we must also consider how digital reinforcement can shape young people’s expectations of everyday life. When online reinforcement is imminent and constantly accessible, ordinary experiences — having a face-to-face conversation, practising a skill, or simply sitting with one’s thoughts — may feel less rewarding by comparison.
+
+Offloading mental effortThe speed with which generative AI has emerged and transformed how we engage with the world is astonishing. Unlike many earlier technologies, however, AI does not just assist with mental effort; it can supplant it. To be clear, humans have always used tools to reduce cognitive load. Taking a photograph in a crowded parking lot, for example, means we do not have to later remember where we parked. There is nothing inherently wrong or problematic with this kind of cognitive offloading.
+
+The concern arises when AI begins to replace, rather than support, the mental effort necessary for learning. Students can now use AI platforms to generate ideas, organise arguments, write essays, and summarise material. Used thoughtfully, these tools can enhance the learning process. Used as a substitute for independent thinking, however, and AI can undermine the cognitive effort through which knowledge and skills are developed.
+
+Puzzling over a challenging question, struggling to find the right words, making mistakes, and revising an argument are not obstacles to learning — they are central to it. If AI routinely eliminates these experiences, we should rightly ask what the impact will be on young people’s ability to think critically, use informed judgment, and persevere when answers are not immediately available.
+
+The problem is not just learning. There is another cost that is easy to overlook: boredom. Rarely welcomed, boredom creates space for imagination, reflection, creativity, and the development of a rich inner life. When every idle moment is filled with constant stimulation, young people have fewer opportunities to think, wonder, daydream, or reflect on their experiences.
+
+The adaptive brainThere is another way to understand how young minds may be shaped in today’s digital world. Neuroplasticity is the brain’s lifelong capacity to adapt in response to experience, learning, and the environment. The modern digital environment is almost certain to influence the growth of young people, but not necessarily in a harmful manner. Rather, as some scientists argue, their brains may be adapting to function in a world that is very different from that of previous generations.
+
+To be sure, many young people exhibit impressive abilities to filter information, navigate complex digital environments, and switch among multiple sources of information. Perhaps, then, the changes observed in young people reflect cognitive adaptation — novel ways of thinking and processing information based on the demands of a digitally saturated world.
+
+Yet, adaptation need not be always beneficial; it may also constrain how other capacities are expressed or used. Given the significance of the issue, we must therefore consider what may be gained — and what may be lost — as young minds adapt to increasingly digital environments.
+
+In effect, young people around the world are participating in a vast, largely uncontrolled experiment in how sustained exposure to digital technology may shape developing brains and minds. At the same time, the corporations responsible for designing many of these digital technologies have strong financial incentives to keep young people — their current and future users — engaged.
+
+Safeguarding the futureIndia’s youth are growing up in an environment that was unimaginable until quite recently. Whatever concerns we may have, we cannot simply ignore or reject digital technology. Children will use it. Our responsibility is to help them use it capably, thoughtfully, and responsibly.
+
+At the family level, parents need practical, evidence-based guidance. Children should have device-free times and places, protected study periods, healthy sleep routines, and opportunities for unstructured time. The objective is not to eliminate screens, but to ensure that they do not occupy every available moment.
+
+Schools have an equally important role. Education must preserve what might be called productive struggle — the effort involved in thinking, writing, reasoning, solving problems, and working through uncertainty. Digital tools, including AI, can support analysis, revision, and feedback without replacing original and critical thinking. Greater emphasis should be placed on independent cognitive engagement, including oral examinations, supervised writing, and applied problem-solving.
+
+At the policy level, digital platforms — especially those targeted at young people — should face far greater scrutiny and accountability. Policymakers must demand technology companies provide stronger evidence about how their products affect the cognitive and emotional development of children and adolescents. Governments must also support independent research capable of informing policies and regulations as these technologies continue to evolve.
+
+We should not wait for definitive evidence of harm before asking whether the digital environments we are creating are conducive to healthy development. A young mind needs stimulation, but also silence; information, but also reflection; assistance, but also struggle. We can embrace technological progress while still protecting the experiences through which children and adolescents learn to think, imagine, reflect, and grow.
+
+Derick H. Lindquist is Dean of the Jindal School of Psychology and Counselling at the O.P. Jindal Global University, Sonipat, Haryana
+
+[Read full article](https://www.thehindu.com/opinion/lead/developing-minds-in-a-digital-world-a-changing-india/article71600546.ece)
+
+---
+
+### ECI’s U-turn cannot erase its crimes
+*Deccan Herald · Editorial*
+
+The Election Commission of India (ECI)’s decision to initiate a Special Summary Revision (SSR) in 17 states and UTs, including Bihar, West Bengal, and Tamil Nadu, where it has held the Special Intensive Revision (SIR) of electoral rolls, is an admission of guilt and defeat. Last year, the ECI skipped this regular annual exercise to launch the SIR, rewriting electoral rolls in its own way, questioning voters’ rights, excluding large numbers of voters, and inflicting tension and trauma on citizens. With this latest measure, and others announced last month after revelations about its functioning, the ECI may be attempting to undo some of the wrongs done through the SIR. While the SIR required every voter to fill an enumeration form to make it to the draft roll, in the SSR all existing voters will automatically make it to the draft roll. The ECI has said it will enrol new voters, re-enrol those left out using the original Form 6, and disallow mass Form 7 objections. Crucially, it will also release searchable election rolls in text-based PDFs to parties and candidates.
+
+For over two years now, the Opposition has demanded digital, machine-readable rolls. The ECI had rejected it, claiming that the Supreme Court disallowed it and that it would violate voter privacy. If so, why has the ECI allowed it now? It should explain why it has changed its position on this and other matters. It must also explain whether the new enrolment drive will cover voters deleted in West Bengal, and whose cases are pending before tribunals. It should also publish separate lists of fresh voters enrolled and voters re-enrolled after deletion.
+
+The CEC must go and it’s time to abandon SIRThe SIR amounted to a violation of rights and denial of voting rights to millions through arbitrary and prejudicial use of power. The question now is whether reversing many of its provisions will restore the pre-SIR rolls. Clearly, the ECI’s rethinking and reversals have been forced by the protests. The idea may be to claim that protests are unnecessary because the ECI’s unacceptable actions have now been reversed. But these are not mistakes to be forgiven once corrected; they are crimes that demand accountability. In any case, the result of the exercise remains uncertain. The system of appointing ECI members and the law granting them legal immunity must be reviewed. The SIR violated basic democratic and electoral norms. Chief Election Commissioner Gyanesh Kumar, who orchestrated the vile attempt to scuttle India’s electoral system, should resign — or be made to resign.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/ecis-u-turn-cannot-erase-its-crimes-4187519)
+
+---
+
+### Laws must punish conduct, not identity
+*Deccan Herald · Editorial*
+
+The Bengaluru City Police Commissioner’s circular regulating the activities of transgender persons in public spaces has drawn criticism for stereotyping and targeting a historically marginalised community. Complaints of aggressive solicitation, intimidation, extortion, and obstruction of traffic by some members of the transgender community are real and cannot be ignored. Citizens have a right to move freely and feel safe, and the police have a duty to act against unlawful conduct. The question, however, is whether an entire community can be singled out for special scrutiny when existing laws already address such offences, regardless of who commits them. The Bharatiya Nyaya Sanhita (BNS) provides for action against criminal intimidation, extortion, and related offences, while traffic and public-order laws address obstruction and nuisance. There is little justification for creating a separate enforcement framework for transgender persons when the same legal provisions apply to all citizens. A circular that grants wide discretion to regulate their presence and activities risks encouraging profiling and selective enforcement.
+
+Policing must be guided by conduct and evidence, not
+
+Many transgender persons lack access to regular livelihoods in a society where barriers to education, employment, and social acceptance persist. While intimidation or coercion cannot be condoned, the line between lawful conduct and criminal behaviour must remain clear. The circular’s emphasis on respecting transgender rights and dignity is welcome, but it cannot substitute for safeguards against arbitrary enforcement. Karnataka’s transgender policy of 2017 envisages inclusion through education, healthcare, skill development, employment, and social security. The state’s decision to provide 1% reservation for transgender persons in public employment reflects an effort to expand opportunities and reduce exclusion. A policing approach that reinforces stigma would sit uneasily with these measures. Constitutional guarantees of equality before the law under Article 14 and the right to life and dignity under Article 21, extend fully to transgender persons. In National Legal Services Authority vs Union of India (2014), the Supreme Court recognised transgender persons as a distinct third gender and affirmed their constitutional rights.
+
+Bengaluru Police to act against transgenders blocking traffic, harassing publicThe government should review the circular in consultation with transgender representatives, civil society groups, and legal experts. Clear safeguards against profiling, proportionate enforcement, and effective grievance-redress mechanisms are essential. Public complaints of harassment and intimidation must be addressed firmly, but this is best achieved by enforcing existing laws against offenders. Misconduct must be punished, but identity cannot become a basis for suspicion.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/laws-must-punish-conduct-not-identity-4187520)
+
+---
+
+### Apples, oranges, and illusions. Behind the hype of India’s IMF-certified GDP growth
+*Deccan Herald · Opinion*
+
+On October 13, the IMF released its latest World Economic Outlook (WEO). For 2026 (India’s FY2027), the IMF has projected India’s real GDP growth at 7%. Economists and commentators keen to sing the government’s praise (the Stutians) lapped it up. Many declared victory, particularly against the backdrop of nationwide doubts raised about the reality of India’s projected 7.6% real GDP growth in the first quarter of FY2027.
+
+The IMF WEO database provides two types of GDP estimates. First, the estimate of real GDP growth. Second, comparable worldwide GDP in current US dollars. Curiously, no one in India has talked about GDP growth in current USD.
+
+What do the two GDP estimates released by the IMF say for global and India GDP growth in FY2027? How has India fared? What is the reality of India’s GDP growth story and contribution to global growth?
+
+The IMF has developed a system for GDP and other economic data collection from all member countries using a general data dissemination system (e-GDDS since 2015) and special data dissemination standards (SDDS).
+
+All member countries provide their GDP data following this protocol, which the IMF uses for its WEO, without modification or judgement. The 7% real GDP growth for FY2027 is based on India’s data — and not that of the IMF.
+
+Using the same protocol, it projected the global GDP growth for 2026 of 3.1%, China 4.5%, and India 7%. The IMF’s India growth projection is as robust or weak as the GDP growth estimates provided by the NSO/government.
+
+GDP growth in current US dollars
+
+The IMF projects the global GDP in current USD for 2026 at $128 trillion, with US GDP at $32.64 trillion, China at $21.55 trillion, and India at $4.06 trillion. This results in a global GDP growth for 2026 at 8.03%, the US at 5.59%, China at 9.78% and India at merely 3.87%.
+
+India had set a goal of reaching $5 trillion GDP by FY2025 and becoming the third-largest economy in FY2029. Germany and Japan, the countries ahead of us in the race to become the third-largest economy, have a GDP of $5.47 trillion and $4.34 trillion in 2026, respectively, and generated growth of 6.95% and (-)2.5%. Despite the negative growth, Japan stays well ahead of India. The United Kingdom, which we left behind in 2022, has surged ahead of us with a GDP of $4.27 trillion and a growth of 6.39% in 2026.
+
+In current USD terms, the largest six economies (barring Japan) have a GDP growth rate higher than India’s in 2026.
+
+India’s GDP growth (in current USD) is one of the lowest in the world.
+
+India’s contribution to global growth
+
+Prime Minister Narendra Modi keeps highlighting India as the largest contributor to global growth (while experts say India contributes 20% of global growth). This claim is based on India’s real GDP growth data submitted to the IMF.
+
+Delegates walked out of IMF steering committee meeting when Russian official spokeThe position of the US is quite peculiar. As the USD depreciates, its real GDP growth is subdued (2.3% in 2026), whereas in current USD (making it comparable with the rest of the world in the same currency), the US recorded a much higher growth of 5.57%.
+
+The scenario of IMF member countries’ contribution to global GDP growth changes dramatically when GDP and their growth are considered in current USD.
+
+The global economy is estimated to grow by $9.52 trillion in 2026 (from $118.49 trillion in 2025). The US contributes $1.78 trillion (18.71%) and China $1.92 trillion (20.17%). India is contributing only $0.15 trillion (a mere 1.59%).
+
+The top six economies will contribute 48.43% of the global growth, with the rest of the world contributing 51.57%.
+
+This is extremely underwhelming. India’s share of the global GDP in current USD terms in 2026 is 3.17%. Our growth contribution is much less than our share of global GDP.
+
+Instead of false celebrations, this should be a cause for serious worry.
+
+Modi government continues to underperform
+
+India’s GDP (current USD) was only $0.608 trillion in FY2004 when the UPA government of Manmohan Singh took charge. It grew to $1.848 trillion in FY2014 when it demitted office, generating a GDP growth of a massive 11.76% (despite higher inflation).
+
+The Modi government took it to $3.512 trillion in FY2024 and to $4.060 trillion in FY2027.
+
+Since 2014, the Modi government has generated a GDP growth of 6.24% in current USD — that’s barely more than half of the growth rate during the UPA years.
+
+In three years of its third term (from 2024-2025), the Modi government has achieved a GDP growth (in current USD) of only 4.96%. This is pathetic. It is also less than the global GDP growth of 6.05%, China’s growth of 5.47%, and the UK’s growth of 7.56% in these three years.
+
+Look at the full glass
+
+Real GDP growth and GDP growth in current USD can be considered as apples and oranges. These two can also be viewed as the two halves of a glass.
+
+Prabuddha (balanced, wise people) will see both apples and oranges and the two halves of the glass to get a real sense of how India is doing in the global GDP and growth race.
+
+The picture is more sombre than rosy.
+
+Subhash Chandra Garg is former Finance & Economic Affairs Secretary, and author of ‘The Great Indian Budget: How the Government of India Spends Your Money’, and ‘We Also Make Policy’.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/apples-oranges-and-illusions-behind-the-hype-of-indias-imf-certified-gdp-growth-4187840)
+
+---
+
 ## 18 October 2026
+
+### Beyond religiosity: on the Kolkata pandal tragedy
+*The Hindu · Editorial*
+
+This year’s Durga Puja in Kolkata was meant to be truly special. The first after the Bharatiya Janata Party formed the government in West Bengal, Chief Minister Suvendu Adhikari wanted the pandals to showcase his party’s commitment to Hindu religiosity as well as to demonstrate the efficiency of the administrative machinery under him. He made it a point to highlight that the number of pandals in the State had increased by 25% over last year to more than 57,000. He was a visible presence at pandals across the city. Union Home Minister Amit Shah was in Kolkata as well to add heft and leverage to the puja’s popular appeal. But disaster struck at Kolkata’s Girish Park area on Saturday, as 19 people lost their lives in a stampede that could have been avoided with better organisation and crowd regulation. Both the police and the puja organisers failed to anticipate the sudden surge of the crowd at the venue.
+
+Puja pandals, just like Mumbai’s Ganapati installations, are often sites of creativity and festivity; they have generally been accident-free despite the participation of a large number of people. The Chorbagan Sarbojanin Durgotstab’s theme this year was Beyond Sound. With a narrow entry and exit, the creators apparently sought to give an experience to visitors that involved controlling the light falling inside. The surrounding lanes were narrow city gullies that cannot hold two cars at the same time. Unanticipated too — at a time of retreat of the monsoon — was the rain that struck India’s east coast with heavy thunder and lightning in the evening. As people barged into the pandal seeking safety — visitors keep moving inside the Durga Puja pandals typically — the organisers requested people to leave fearing that the structure might collapse. Packed crowds can be incident-free only if sudden surges of movement, often triggered by panic, are avoided throughout. In Kolkata, panic apparently stemmed from the announcement regarding the safety of the structure, though the fear about the structure’s safety was justified. The effort should have been to wean the crowd away in a regulated manner. The government has promised an inquiry and deterrent follow-up action. There is the question of whether in the government’s drive to make the celebrations spectacular and grand, safe management practices got ignored at the event. Although Mr. Adhikari said the police helped rush the victims to hospitals, he also indicated that only temporary home guards had been posted at the pandal. Effective deployment of experienced police personnel may have helped avoid the tragedy.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/beyond-religiosity-on-the-kolkata-pandal-tragedy/article71600037.ece)
+
+---
+
+### Treacherous waters: on the Bihar boat tragedy
+*The Hindu · Editorial*
+
+River crossings on stretches of the Ganga in Uttar Pradesh and Bihar are notoriously unsafe as poorly lit, unregistered boats ply with bare access to lifesaving equipment. Overcrowded vessels, operated by untrained or underaged people, add to the risks, and enforcement action only follows an accident. These boats are not the preserve of the poor but are also used by government personnel, teachers, and bank employees: many areas lack reliable alternatives, making the riverine journeys the sole option. On October 13, at least 13 children drowned when a country-made boat capsized in Raghopur, in Bihar’s Vaishali district, after setting off at 8.30 p.m. for a memorial feast in an adjoining village, even though rides are prohibited post sunset. The boat was visibly dilapidated, including a hole in the deck through which it drew water, and was being operated by a young boatman. There were at least half a dozen other people on the vessel when it capsized despite its reported capacity having been five. The riverine tract in Raghopur is continuously shaped by sediment deposits and has historically been hard to access, especially during the monsoons. Raghopur lacks all-weather roads, and has a history of being isolated during floods. The first section of the Kachchi Dargah-Bidupur bridge, between Patna and Raghopur, was ready in June 2025, but the monsoons still flooded the approach road and blocked access. The overarching motif across these episodes has been a consistent lack of safer alternatives, including the general paucity of public transport. A chaotic regulatory framework, including the Model Rules 2011 under the Bengal Ferries Act 1885 and the Inland Vessels Act 2021, has also not prevented training programmes and inspections from lagging behind the proliferation of unsafe transport practices.
+
+That all those who drowned on October 13 were children deepens the sense of tragedy. In general, children warrant additional, more sensitive socio-economic support. The Bombay High Court had recently upbraided the Maharashtra government for failing to arrange transportation for over 200 children from villages near Chandoli National Park and Sahyadri Tiger Reserve; they had to walk several kilometres to reach school, braving the risk of wildlife encounters. Such precarity persists in Hingoli, Palghar, and Nashik in Maharashtra alone; similar situations have also been created by school reorganisation programmes that do not sufficiently account for children’s safety when shuttering infeasible facilities. The children who drowned in Vaishali were not headed to school, but the risk exposure is paramount. The ultimate tragedy is that access to ordinary childhood activities remains contingent, in so many economically disadvantaged communities, on accepting dangers that public institutions already know how to prevent.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/treacherous-waters-on-the-bihar-boat-tragedy/article71599919.ece)
+
+---
+
+### DC Edit | Trump Ditches Ukraine For Diesel
+*Deccan Chronicle · Editorial*
+
+Granting a 60-day waiver from sanctions on Russia and proposed 100 per cent tariffs on five countries including India, US President Donald Trump will be hoping the Russian President, Mr Vladimir Putin, will organise millions of tonnes of diesel to help bring down quickly the “gas” prices at American petrol pumps. But in doing so he will be feeding billions of dollars into the Russian war machine while throwing Volodymyr Zelenskyy and Ukraine under the bus.
+
+One authoritarian President’s largesse in supporting the economy of another warmonger must rank as the worst strategic decision of the decade as European unity is undermined and the gate is wide open for Mr Putin to attack energy sites and such civilian infra targets inside Ukraine in a war that he has been unable to make any progress in after ingress into the Donbas region in February 2022.
+
+India can act relieved and keep importing Russian energy, and even process some of the crude to export back to Russia, while Mr Zelenskyy defies Mr Trump’s selfish idea of a unilateral declaration of an energy ceasefire that the combatants had not been consulted about. If the world situation were not so dire because of the Iran war that Mr Trump began waging at Israeli PM Benjamin Netanyahu’s behest, India might even smile at the turn of events that allows it to keep sourcing its oil at reasonable prices from Russia and elsewhere, including possibly Venezuela.
+
+The principles, which bound the West together in a common cause against the “Soviet” threat during the Cold War, have been given short shrift by a US President who has sacrificed the honour code at the altar of personal and party convenience. Doing so at a perilous time is worse as Mr Putin has been fulminating against European powers thus adding to the prevailing uncertainty caused by the two wars in Europe and West Asia.
+
+Mr Trump may have reason to worry over the results of the midterms, the forecasts for which are projecting the loss of control of the Senate and the House for Republicans. He risks casting away all the values that bound the free world together just for giving Russia a free pass to come back to the mainstream, all in the hope that its President will respond positively to trading avenues being opened again.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-trump-ditches-ukraine-for-diesel-1996993)
+
+---
+
+### Vote Deletion & ‘Infiltrators’: Amit Shah’s Great Diversion
+*Deccan Chronicle · Opinion*
+
+Fighting the damaging optics of the ongoing mass agitation against alleged manipulation of electoral rolls through the SIR exercise, Union Home minister Amit Shah has gone on the offensive. He described the Rahul Gandhi-led Opposition movement as an “action plan to protect infiltrators”.
+
+Like a ventriloquist’s doll, BJP president Nitin Nabin, has echoed Mr Shah, claiming that Mr Gandhi was “engaged in protecting infiltrators”.
+
+The accusation is more than political rhetoric. The Union Home ministry has launched a portal allowing members of the public, NGOs, government bodies and even “international organisations” to report unnatural demographic shifts and abnormal settlement patterns across India. Such “crowdsourcing” of information about “abnormal settlement” could potentially be weaponised to target minority communities, fuel social polarisation and to purge names from voter lists.
+
+Mr Shah’s ministry has no centralised list of infiltrators detected in the last 12 years and no comprehensive information on the subject, leaving state governments to deal with it. So such an initiative will strengthen Mr Shah’s argument against the Opposition although it remains to be seen whether it produces usable information or not.
+
+With elections in Uttar Pradesh and other states in sight, the BJP is also preparing a public campaign hyping up the infiltrator argument to rebut the Opposition’s questions about the SIR and the conduct of the Election Commission.
+
+On the SIR, an administrative and institutional issue, the Narendra Modi government and the Election Commission are vulnerable to questions about whether eligible voters were deliberately excluded, whether deletions were properly verified, and whether the procedure and software used to remove names were reliable.
+
+Framing the controversy in terms of “infiltrators” shifts the frame of discussion away from the accountability of state institutions. When Mr Shah talks about the security of the nation, the narrative acquires an emotional urgency. And accountability takes a backseat.
+
+This reverses the direction of scrutiny as it turns the accusers — Rahul Gandhi, the broader Opposition bloc, supporters of the Cockroach Janta Party and other youth voices — into the accused. By his accusations, Mr Shah wants to divert the political energy of those protesting to defending themselves rather than keeping public attention focussed on voter-roll manipulation.
+
+He seems to believe that an emotionally charged narrative connecting SIR to nationalism, national security and fears of a changing political balance between communities will resonate more with the public. In contrast, the Opposition is trying to communicate the technicalities of how voter deletions have occurred which could be less compelling.
+
+Mr Shah is not dubbed as a modern-day Chanakya by his acolytes for nothing. His infiltrator narrative also links easily with BJP’s attempt to delegitimise the protestors by portraying them as anarchic and foreign-instigated.
+
+These strategies taken together, hope to dull the sharp questions of the Opposition. It is a playbook that the BJP has used successfully time and again against the Opposition.
+
+However, unless Mr Shah and the BJP provide evidence to support their claims, these will remain convenient bogeys. So far, they have failed to provide any evidence of inclusion of infiltrators in previous voter lists which have now been removed through SIR. In fact, in the seven years Mr Shah has been Home minister, his ministry has failed to maintain any systematic record of infiltrators identified, arrested and deported. Between 2014 and 2024, Parliament was told that 3,568 Bangladeshi nationals were formally deported. This was a significant decline from the 82,255 deported during the preceding decade, 2005-2013, when Congress-led governments were in power.
+
+State-level figures, where available, are disjointed and episodic. Assam reported in its Assembly that 1,72,673 illegal foreigners had been identified up to May 2026. Earlier data showed that the state’s foreigners tribunals identified 47,928 illegal foreigners between 1971 and 2014, with several thousand processed in subsequent years.
+
+West Bengal deported 4,800 illegal Bangladeshi migrants in early 2026. Delhi Police identified 1,589 Bangladeshi illegal migrants and 55 Rohingya nationals, handing them over for deportation between June 2025 and February 2026. In an earlier drive in 2025, Delhi deported more than 120. Gujarat accounted for nearly 1,500 non-border detentions of illegal immigrants from mid-2025. Maharashtra deported more than 110, Haryana 80, Rajasthan 70 and Uttar Pradesh 65. Taken together, although strictly they cannot be added, do not amount to a large number.
+
+Investigations by the Reporters’ Collective demolish Mr Shah’s attempt to portray the SIR exercise as crucial to identifying foreign infiltrators. They show that the Election Commission’s software has no mechanism to flag whether deleted voters are...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/vote-deletion-infiltrators-amit-shahs-great-diversion-1996957)
+
+---
+
+### With Another Bill On Anvil, Should Education Return To The State List?
+*Deccan Chronicle · Opinion*
+
+Education has been on the Concurrent List since 1976, when the 42nd Amendment moved it from the State List. Parliament is now considering the Viksit Bharat Shiksha Adhishthan Bill, 2025, which would replace the UGC, AICTE, and NCTE with a single regulator. A joint parliamentary committee is examining it. The Neet paper leak and education minister Dharmendra Pradhan’s resignation have renewed the debate, while Tamil Nadu has again demanded that education return to the State List. The larger question, however, is whether the present division of powers gives governments enough authority and clear responsibility for education.
+
+Finance is a useful starting point. The latest comparable ministry of education figures, for 2022-23, put Centre / State / UT budgeted education expenditure by all departments at about Rs 10.67 lakh crore on the revenue account. States and UTs accounted for Rs 7.81 lakh crore, or 73.2 per cent. This is budgeted expenditure, not actual spending. States run most school education and a large part of higher education. However, central laws, regulators, national schemes, and Union-framed standards increasingly shape what they can do. This creates an accountability problem. A government that pays for and implements a policy needs enough authority to shape it and should be answerable for its results.
+
+Neet illustrates the problem, although it does not settle the federal question. The Neet-UG examination held on May 3, 2026, was cancelled after an alleged paper leak. More than 22 lakh candidates were affected, and a re-examination was held on June 21. A failure in a national examination, therefore, affected students across the country simultaneously. Centralisation also has a clear advantage: it provides a common eligibility test and a common benchmark. State-level examinations have also faced malpractice. The issue is therefore where national uniformity is necessary and where states should have greater room to decide.
+
+Tamil Nadu’s experience deserves attention here. The Justice A.K. Rajan Committee reported that after Neet, the share of rural, Tamil-medium, lower-income, and State Board students among medical admissions in the state declined. These findings cannot establish that Neet caused all the changes. Coaching access, school choices, and other factors may also have played a role. The findings are relevant to the question of whether a single national examination works equally well for students from different educational backgrounds.
+
+The Supreme Court has upheld the Neet framework, and any case for decentralisation must address the reasons for a common examination. Does a single test correct differences in the quality and comparability of state examinations? If so, which part of that standardisation requires Union control? These questions point to a more precise division of powers. National standards can coexist with greater state authority over implementation and educational priorities. The constitutional position also sets limits on a simple return to the State List. Entry 66 of the Union List gives Parliament power over coordination and determination of standards in higher education and research institutions. The Union can also provide grants for public purposes. These powers mean that even greater state autonomy would not end central influence. The real task would be to define the boundary between setting national standards and regulating day-to-day education.
+
+The Viksit Bharat Shiksha Adhishthan Bill makes this issue more immediate. It seeks to replace the UGC, AICTE, and NCTE with a single Commission and three councils that handle regulation, accreditation and standards. Medical and legal education are excluded. The Bill raises a wider question about the concentration of regulatory power in higher education. The Joint Parliamentary Committee has heard state governments and other stakeholders. It is an opportunity to examine how much regulation needs to remain with the Union.
+
+Employment provides another reason to give states greater policy space. The State of Working India 2026 reports graduate unemployment of 39.33 per cent among those below 25 and 20.04 per cent among those aged 25-29 years, using PLFS 2023-24 data. It also shows that the transition from education to stable employment remains difficult. Education policy cannot solve this alone. Industrial growth, labour demand, and local economic conditions also shape employment. States with different economic structures should therefore have room to align curricula, vocational education and higher education with local needs.
+
+States may, therefore, need greater policy space, but greater decentralisation also raises practical concerns. Different state rules could complicate degree recognition, credit transfer, student mobility and the enforcement of minimum standards. Fiscal capacity also differs sharply among states. More autonomy without adequate resources could increase inequality. These concerns require safeguards. A national ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/with-another-bill-on-anvil-should-education-return-to-the-state-list-1996967)
+
+---
 
 ### Dead novel in its afterlife: How contemporary fiction confirms what everyone says
 *Deccan Herald · Opinion*
@@ -22035,239 +22286,6 @@ Suppression has already produced suspicion. The state must choose between an evi
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
 
 [Read full article](https://www.deccanherald.com/opinion/the-politicisation-of-caste-data-4080965)
-
----
-
-## 20 July 2026
-
-### Reclaiming footpaths, taking cities back from cars
-*The Hindu · Opinion*
-
-Few sights are more ordinary in an Indian city than a pedestrian being pushed off a footpath and onto the road. A mother, holding a school bag in one hand and a child in the other, walks around a parked car. An elderly man tests a broken footpath before stepping down onto the road. A wheelchair user gives up before the journey has even begun. A vendor, debris, an open drain, a two-wheeler, and a signboard together form what is still, with bureaucratic optimism, called a pavement. The citizen is then forced to walk on a road designed as though only vehicles possess rights.
-
-Upholding walkabilityIn June 2026, the Supreme Court of India gave constitutional language to this daily indignity, in Maniyar Iliyaz @ Shaik Riyaz vs P. Ayyappan (2026). It held that walking on demarcated footpaths is a fundamental constitutional right, protected under Article 19(1)(d) and Article 21 of the Constitution. It observed that pedestrians have a right to safe footpaths and footways, and directed States and Union Territories to frame policies and guidelines for their provision and maintenance. This is not a minor municipal instruction. It is a public health intervention, a road safety measure, and a democratic test of whether Indian cities are built for people or merely for machines.
-
-The timing could not be more urgent. India is becoming less active precisely when it needs movement the most. Health risk factors and diseases such as diabetes, hypertension, fatty liver disease, and obesity are rising rapidly, as reported by every newly available population health dataset.
-
-Walking and increased physical activity are among the low- and no-cost interventions that can halt and reverse this rise in metabolic diseases. Yet, the World Health Organization (WHO)’s India Physical Activity Profile 2024 estimates that 49.4% of Indian adults do not meet the recommended levels of physical activity; among women, the figure is 57.2%. Among children and adolescents aged 11 to 17 years, it is 74%. WHO recommends at least 150 minutes of moderate-intensity physical activity each week for adults. For most citizens, this does not mean gym memberships or elite fitness routines. It means having the ability to walk safely to a bus stop, school, market, clinic, metro station, or park.
-
-These are not failures of willpower alone; rather, they are exacerbated by the built environment. A city that makes walking difficult quietly prescribes sedentary living. Footpaths, therefore, are not decorative strips of cement added after roads have been designed. They are preventive medicine laid in stone. A usable pavement allows children to walk to school, office-goers to use public transport, older adults to remain mobile, and women to move safely. Walking improves blood pressure, insulin sensitivity, weight control, mood, sleep, and joint function. It is the simplest health habit available to the largest number of citizens. Yet, we in India have made it difficult and dangerous. Many Indians would prefer to use cars and scooters less if cities offered safe, continuous, shaded footpaths.
-
-The road safety argument is equally compelling. The Union Ministry of Road Transport and Highways (Transport Research Wing) ‘Road Accidents in India 2024’ report found that two-wheeler riders and pedestrians together accounted for nearly 67% of road fatalities, with 1.28 lakh deaths among these vulnerable groups. The National Crime Records Bureau’s 2024 data place the number at more than 1.1 lakh and the share at at least 60%. The exact totals differ across official sources, but the message is unambiguous: pedestrians and two-wheeler riders remain India’s most vulnerable road users. Every time a footpath disappears, the road becomes a contest between flesh and metal.
-
-Orderly shared streetsThe solution cannot be episodic anti-encroachment drives, in which a few carts and cars are removed before the same disorder returns the following week. Nor can it be a punitive war on street vendors, who are workers with legal protections and legitimate economic claims. The answer lies in planned allocation: footpaths for walking, vending zones for vendors, parking spaces for vehicles, utility corridors for public infrastructure, and meaningful penalties for violations. A humane city organises the street so that livelihoods and mobility can coexist without endangering lives.
-
-Citizens, too, have a role, though not the only one. First, walk deliberately: begin with 10 to 15 minutes after two major meals, or build towards 30 minutes at a fixed time each day. Second, convert short errands into walking errands; distances under one kilometre should not automatically require a scooter or car. Third, combine walking with public transport by using the metro, bus, or shared mobility for part of the commute. Fourth, make walking social: families, resident welfare associations, and workplaces can create walking groups and car-free morning routines. Fifth, reclaim walking as a health check. If breathlessness, knee pain, fear of falling, or unsafe streets prevent walking, treat that as a signal to seek medical advice, improve strength, or demand civic correction. Most importantly, the recent Supreme Court decision has given citizens and resident welfare associations an opportunity to demand their right to walk on encroachment-free footpaths.
-
-Yet, citizens cannot easily walk their way out of poor urban planning. Civic bodies and governments must act with seriousness. Every road project should include continuous, shaded, well-lit, and barrier-free footpaths, along with safe crossings. Footpaths must be wide enough for two people or a wheelchair, with ramps and clear passageways near bus stops. Encroachment control should be continuous, transparent, and fair. Parking on footpaths must invite stringent action, with penalties that change behaviour. Street design should prioritise schools, hospitals, bus stops, markets, and metro stations, where pedestrian volumes are high. Tree cover, benches, public toilets, and lighting are not embellishments; they determine whether women, children, persons with disabilities, and older people can walk.
-
-Policy actionIndia also needs a national active-mobility mission linking urban development, transport, health, and education. Cities and urban planning should be assessed not by the length of flyovers built, but by the number of safe walking kilometres created. Municipal commissioners should publish ward-level footpath maps and annual audits of encroachment-free footpaths. School zones should have traffic calming measures and protected crossings. Employers should encourage active commuting. Doctors should prescribe walking advice to nudge behaviour, but governments must provide the pavements on which those prescriptions can be followed.
-
-The Supreme Court has moved the footpath from the margins of municipal housekeeping to the centre of constitutional rights. The next task is to move it from judgment to habit, budget, design, and enforcement. A country battling diabetes, hypertension, obesity, stress, and road deaths cannot treat walking as an afterthought. India does not merely need more roads; it needs more rights of way for ordinary citizens. The footpath is where public health, dignity, and democracy meet. We need to take our cities back from cars. We need to rebuild our cities for people. The proportion of encroachment-free footpaths should become a barometer of whether elected governments value citizens’ fundamental rights in every ward and on every major road.
-
-Dr. Chandrakant Lahariya is a practising specialist in ‘preventive and cardiometabolic medicine’ with nearly 18 years of work experience with the World Health Organization and the United Nations System
-
-[Read full article](https://www.thehindu.com/opinion/lead/reclaiming-footpaths-taking-cities-back-from-cars/article71246221.ece)
-
----
-
-### The stark reality of the missing jobs for India’s Gen Z
-*The Hindu · Opinion*
-
-India has one of the world’s largest youth populations (371 million, according to United Nations data of 2025), often described as a demographic dividend. But this demographic dividend is only a promise and does not guarantee an automatic outcome. It pays off only when the transition occurs, enabling young people to move from classrooms into decent, productive work with higher skills. Right now, that transition is faltering, and the evidence is visible in Gen Z’s employment patterns.
-
-Empowering India’s youth by supporting their mental health The term ‘Gen Z’ refers to individuals born between 1997 and 2012. They succeeded the Millennials (also known as Generation Y), who were born between 1981 and 1996. The working-age population for Gen Z broadly falls within the 15-26 age group, while Millennials are aged between the years 27 to 42. According to the 2023-24 Periodic Labour Force Survey (PLFS), India has an estimated 29.94 crore working-age Gen Z individuals (aged 15-26 years), compared with 35 crore Millennials (aged 27-42 years). Using the same datasets, we analyse their occupational patterns, labour force participation rates, unemployment levels, and access to social security systems.
-
-Gen Z attitude? Or outdated work culture? What takes the blame?Gen Z work statusPLFS 2023-24 estimates show that a large share of Gen Z remains engaged in education. The data show that 41.7% of young males and 38.4% of young females are studying. While this partly explains their delayed entry into the labour market, the situation of the remaining youth is a cause for concern.
-
-Hiring Gen Z: What the next workforce generation wantsWhen young people do enter the labour market, many are absorbed into non-salaried and casual forms of employment. Among young males, 15.8% are engaged as unpaid family workers, 12.3% are in casual work — possibly with segments of the informal economy — and only 14.8% are regular wage earners. Among female Gen Z individuals, about 35% are engaged in domestic duties (out of the labour force), 10.7% work as unpaid family workers, and only 4.7% are regular wage earners.
-
-Also Read | A view of the office through Gen Z eyes
-
-These patterns underline the fact that women bear this burden disproportionately. Among Gen Z females, 27.1% are engaged in domestic duties only, compared with just 0.32% of males. Even where women want paid work, they face higher unemployment and weaker labour market attachment. This is not only a matter of jobs. It also reflects childcare burdens, safety concerns, mobility constraints and social norms, and the design of work itself. India cannot talk seriously about harnessing its demographic advantage while leaving such a large share of young women outside the paid economy.
-
-What happens when young people try to enter the labour market? The answer is concerning: too many of them are unable to find adequate employment opportunities.
-
-The first indicator to consider is the labour force participation rate (LFPR). Among Gen Z, 41.7% are in the labour force, against 75% of Millennials. Within Gen Z, rural participation (44.1%) exceeds urban participation (37.2%), suggesting that rural youth tend to enter the labour market earlier, whereas urban youth spend more time in education and training. A sharp gender divide is also evident. Among young males, labour force participation is 59.3% in rural India and 51.3% in urban India, compared to just 28% and 21.1% respectively for young females.
-
-Unemployment in India rises slightly to 5% in January: Government surveyThe unemployment situation is even more alarming. The overall unemployment rate for Gen Z is 11.9%, compared to only 2% among Millennials. In urban India, the situation deteriorates further, with Gen Z unemployment rising to 17.1%.
-
-For urban young women, it reaches a staggering 22.6%. This is not merely a temporary labour-market friction; it is a serious warning sign that the economy is struggling to absorb young jobseekers, particularly in areas where aspirations and educational qualifications are often higher.
-
-The graduate trap, social security mirageFor most of the youth, education offers a gateway of opportunity: more education leading to better jobs and lower unemployment. Instead, our estimate shows the opposite at the top end. Among Gen Z males with graduate-level education or above, unemployment stands at 29%. Among Gen Z females, it is even higher at 36.9%. This is the heart of India’s silent jobs crisis. The country is producing educated young people faster than it is producing suitable jobs for them.
-
-A similar disparity persists among Millennials. Only 5.2% of male graduates and above are unemployed, but the corresponding figure for women is significantly higher at 13.8%.
-
-This disconnect perhaps points to a deeper mismatch between the education system and labour market requirements. While part of the problem relates to skill mismatches, it is also increasingly shaped by automation and the growing adoption of artificial intelligence, both of which are altering the nature of available jobs.
-
-That mismatch carries a deeper risk. When higher education no longer improves employment prospects quickly or reliably, frustration rises, family investment in education comes under strain, and confidence in the growth story weakens. A labour market that cannot absorb its educated youth is not just inefficient. It can become socially corrosive and destabilising. Even for those who do find work, the quality of employment remains deeply concerning. Only 20.1% of Gen Z individuals are covered by social security, and just 14.1% have a formal job contract. Among the remaining 79.9% who lack social security coverage, only 3.2% have a job contract. Overall, only 17.3% of Gen Z workers have any form of contractual employment.
-
-This implies that most are entering the workforce without either. The challenge, therefore, is not merely unemployment but the widespread prevalence of informal, insecure, and weakly protected work. Further, in recent years, there has been growing evidence of the informalisation of formal employment among the Gen Z population.
-
-The situation among Millennials is only marginally better. Merely 26% have a job contract, while only 28.6% are covered by social security.
-
-The recent large-scale violent labour protests in Noida, Uttar Pradesh, led by industrial and factory workers demanding higher wages and better working conditions, reflect the frustration that insecure and poorly protected employment can produce.
-
-A promise deferredIndia’s jobs debate is too often discussed in silos: unemployment, skilling, women’s work and labour force participation, and informality. However, these are not separate problems. They are one connected failure of labour market transition. Young people (Gen Z) are staying in education longer, but the bridge from education to work is weak. Women face structural barriers that keep them out or push them into unpaid roles. And even when work is found, it is too often outside the protections of formal employment.
-
-It is time India moves beyond merely celebrating its large demographic dividend and begins treating the issue with greater urgency. Skill programmes have value, but they cannot substitute for actual job creation. The answer lies in expanding labour-intensive sectors, building stronger school-to-work pathways, linking training more closely to employers, and making it easier for women to enter and remain in paid work. Apprenticeships, formal hiring incentives, urban employment expansion, safe transport and childcare support all need to be part of the response.
-
-The numbers tell a blunt story. India’s youth challenge is no longer about whether young people are ready for work. It is about whether the economy is ready for them. Until that changes, the demographic dividend will remain what it has so far been: a promise deferred.
-
-Santosh Kumar Dash is an Assistant Professor at IRMA, Tribhuvan Sahkari University, Anand, Gujarat. Balakrushna Padhi is an Assistant Professor at BITS Pilani (Pilani Campus), Rajasthan
-
-[Read full article](https://www.thehindu.com/opinion/lead/the-stark-reality-of-the-missing-jobs-for-indias-gen-z/article71241905.ece)
-
----
-
-### DC Edit | Garry Sobers: Jewel of Cricket
-*Deccan Chronicle · Editorial*
-
-It was said of Garfield Sobers that God broke the mould after endowing the game of cricket its greatest gift. Having lost his father to World War 2, the Barbadian youth chased a dream on his way to becoming a national hero along with the likes of pop diva Rihana. History will willingly record that Sobers was indeed the best all-rounder in the history of the game.
-
-The peerless batting great Donald Bradman said of him that with his long grip, high backlift and free swing of the willow, Sobers hit the ball harder than anyone and that the emphasis was on power and aggression more than technique. Besides, he could bowl fast medium swing, both orthodox and the Chinaman variety of leg spin, field anywhere and even keep wickets in an emergency.
-
-The impact he had on the game was greater as his natural fitness allowed him to be the game’s ultimate professional with engagements in England and Australia besides turning out for the multi-islands team in Test matches, which he led with aplomb even if he did gamble sometimes with sharp declarations.
-
-As Team India and Team England stood in silence before Sunday’s ODI at Lord’s in the Bajan’s honour, they might have also remembered that Sobers was — in an age in which commerce was catching up with the gentleman’s game — one of the most sporting of cricketers, never being involved in on-field controversies though he did once turn out in a competition in ‘white’ Rhodesia to earn a few dollars.
-
-The record he set may have been broken, including his 365* as a young batsman that was later grabbed by his spiritual heir Brian Lara who stretched it to 401*.
-
-With 8,032 runs at an average of 57.78, which made him the fifth highest among batsmen who scored more than 4,000-plus Test runs, and 235 Test wickets, he set high benchmarks for the all-rounders to come.
-
-An adornment to the game, he was knighted in England, honoured in Australia with the highest civilian award and revered in his home island of Barbados, leaving an ambassadorial legacy in his sport that was as telling as the six sixes he hit in an over in first-class cricket. The fact is they don’t make them like the gifted Sobers anymore.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-garry-sobers-jewel-of-cricket-1972338)
-
----
-
-### DC Edit | World Cup: The Reign Of Spain
-*Deccan Chronicle · Editorial*
-
-Spain, technically the finest of the 48 teams, deservingly won the World Cup. They were held off only by a brutally cynical Argentina team that seemed intent on not conceding a goal and never striving to create one.
-
-In a far from classy final, Spain scored early in the second half of extra time and kept Argentina at bay till the final whistle, when tears rolling down Lionel Messi’s cheeks told the story vividly.Striker Ferran Torres’ winner, off a header to a pass to his feet by substitute Williams from the Argentine goal line, sailed past the heroic goalkeeper Emiliano Martinez who had kept Spain scoreless with at least 12 saves amid fracas-ridden match situations that saw a reluctant red card come out to Enzo Fernandez.
-
-Sporting justice was served in the end for the European champions Spain who, quite remarkably, remain unbeaten in 38 matches in all competitions, the longest-ever run by any major team in history. The World Cup of 2026 may have been politicised from the very start with fans unable to come because of immigration travel bans and the Iranian team being treated more like prisoners of war, but nothing seemed to affect Spain’s tiki-taka brand of brilliance in passing the ball.
-
-Extraordinarily, the World Cup was a grand success not only financially as a money spinner with $15 billion revenue but because the people of the USA, Canada and Mexico made it so. They embraced ‘soccer’, as they call it, adopted the fans of so many different countries as their own and turned up in such numbers at every venue to make the attendance close to 100 %. So much so, they are asking to host the event again in 2038, but just in the USA.
-
-US President Donald Trump loved the spotlight so much that the FIFA president Gianni Infantino had to drag him away from the Spanish team so they could celebrate by themselves as the proud winners of a second World Cup. Mr Trump’s decision to have a red card suspension overturned for a US striker took political meddling to its highest point, despite which the event became a hit with a record global television and streaming audience.
-
-Even commercial intrusions such as an inordinately long half-time show with pop idols, young and old, performing and hydration breaks, including at three of the 16 air-conditioned stadiums, did little to take away the sheen of the ‘beautiful’ game in which not only the greats like Kylian Mbappe, Cristiano Ronaldo, Lamine Yamal and the indefatigable Messi shone. New stars also lit up the event that was one for the ages despite the polarisation of the world by politics, race and religion.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-world-cup-the-reign-of-spain-1972562)
-
----
-
-### Dev 360 | Chasing Global Rankings On a Crumbling Planet | Patralekha Chatterjee
-*Deccan Chronicle · Opinion*
-
-What if the greatest threat to human progress is no longer our inability to advance — but our failure to protect what we have already created? How do we stop shocks — from climate disasters, conflict, forced migration, pandemics and debt — from wiping out our gains? These are among the stark questions that leap out from the flood of data in recent global assessments of sustainable development.
-
-With under four years left for its 2030 deadline, the UN Sustainable Development Goals Report 2026 paints a worrying picture of slow progress — albeit with some hopeful signs.
-
-Since 2015, millions have gained access to safe drinking water and sanitation. Electricity now reaches 92 per cent of the world’s population, with a third of installed generation capacity from renewable sources. Internet access has surged from 40 to 74 per cent, connecting billions to new education and economic opportunities. Health outcomes have similarly improved: new HIV infections and AIDS related deaths have each fallen by roughly a third, 59 countries have eliminated at least one neglected tropical disease and 134 countries have met the target for reducing child mortality. Disaster-related deaths have dropped by 65 per cent compared with the previous decade.
-
-Yet, one in 10 people globally still lives in extreme poverty. Food insecurity remains well above 2015 levels, affecting 2.3 billion people. More than 150 million children are stunted. Maternal mortality remains nearly three times the global target. Everyday discrimination — still felt by one in five people worldwide — continues to limit human potential.“These shortfalls are compounded by intersecting planetary and human-made crises. In 2025, global temperatures reached 1.43°C above pre industrial levels, and atmospheric carbon dioxide (CO2) reached its highest concentration in 2 million years. Violent conflict surged to its highest levels in decades, reversing years of development in mere months, forcibly displacing 118 million people,” says Li Junhua, UN under-secretary-general for economic and social affairs, in the introduction to the report,
-
-Hearteningly, Southern Asia has emerged as one of the main drivers of critical human development metrics, accounting for over 68 per cent of the global reduction in stunted children (a decrease of 20.6 million) and 55 per cent of the reduction in wasted children between 2012 and 2024.
-
-These hard-won victories remain dangerously fragile.
-
-The 2026 report notes that over the last decade, critical infrastructure has proved especially vulnerable to disasters. Between 2015 and 2024, based on countries’ reported data, an average of 91,847 units of critical infrastructure were destroyed or damaged every year. Over the same period, there were more than 1.5 million yearly disruptions to basic services, including continuity of health and education services. These figures reflect the systemic nature of disaster risk: water systems, power grids, transport networks and hospitals do not operate in isolation, and a single failure in one system can cascade across entire economies, undermining service delivery, livelihoods and long-term development progress.
-
-Where does India, a country of 1.4 billion, figure in the global SDG narrative?
-
-In a separate, independent academic report led by economist Prof. Jeffrey D. Sachs, director of the Centre for Sustainable Development at Columbia University, and other experts and published by the UN Sustainable Development Solutions Network (SDSN) to coincide with the UN Sustainable Development Goals Report 2026, India ranked 94th among the 169 countries with sufficient data for inclusion in the SDG Index.
-
-It is vital to separate this from the UN’s report, which does not rank countries on SDG. While the SDSN operates under a broad United Nations umbrella — having been launched to mobilise scientific expertise for the SDGs — its index is an independent evaluation.
-
-Clearly, India is a key part of the global SDG ledger, embodying the agonising paradox of modern development: historic macroeconomic ascents alongside structural bottlenecks and a rapidly intensifying climate crisis.
-
-The Sachs-led SDG Index throws up some interesting contrasts: Thailand ranks above the United States, while tiny Cabo Verde, which made football history by qualifying for the 2026 Fifa World Cup, is just one place behind India at 95th.
-
-Stripping away the media’s obsession with the “94th rank” exposes a hard truth: economic velocity does not automatically translate into human equity. Even with its record rise on this independent index, India continues to lag behind smaller South Asian neighbours like Bhutan, the Maldives and Nepal on many fronts.
-
-All this is happening against a worrying backdrop of increasingly frequent extreme and erratic weather fuelled by climate change. For India, this translates into erratic monsoons, brutal heatwaves, and shifting agricultural zones that ravage crop yields and drive up food insecurity. Climate change is ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/dev-360-chasing-global-rankings-on-a-crumbling-planet-patralekha-chatterjee-1972553)
-
----
-
-### SANJAYOVACHA | A New Wind Is Blowing Across Moribund Stage | Sanjaya Baru
-*Deccan Chronicle · Opinion*
-
-Just connect the dots. A teenage youth, Aryan Gupta, exposes incompetence and deceit in the conduct of a government organised nationwide examination. The Chief Justice of India, Justice Surya Kant, spews contempt on a desperate youth, calling them “cockroaches”. A little-known communications and political strategist, Abhijit Dipke, springs into action, forming the Cockroach Janta Party, capturing the imagination of the country’s sullen youth.
-
-All this caused a stir, enough to worry the government but not to make it respond responsibly. The mainstream media remained in la la land. Even after a living Gandhian like Sonam Wangchuk had to go on a fast unto death in support of an entire generation of betrayed high school students.
-
-Out of nowhere and in a distant land, a diminutive journalist asks a simple question: Why does Prime Minister Narendra Modi not meet the media and answer their questions? Why is his communication entirely one-way? The Norwegian journalist, Helle Lyng, becomes a celebrity globally, attracting abuse and venom from the Modi Parivar’s troll mafia.
-
-In Oslo, it was just a simple question. By the time Prime Minister Modi arrived in Australia and New Zealand, it had become a tsunami of media mockery. The Australian media roasts the PM like never before. “Look at him hug our PM!” No one overseas had till then made such fun of Mr Modi’s famous “grab and hug” routine. Nothing like this had happened in twelve long years.
-
-But the big enchilada comes out of Bollywood. A popular entertainer whom my generation envied for his role as the poor Charudatta who romanced the voluptuous Vasantasena, played by the star of our teenage dreams, suddenly lit a fire on YouTube. In a never before viewed combination of high politics and sheer entertainment, Shekhar Suman weaved all the threads that have become the warp and weft of middle-class life in India and launched his “Shekhar Tonite” on YouTube.
-
-Till now Mr Suman has been a pure entertainer. Today he has become the vehicle of expression of middle-class angst and anger against an incompetent and insensitive regime. Very interestingly, and I have not yet read any editorial comment on this, his first episode was launched with Mr Modi’s bete noire, road and highways minister Nitin Gadkari, as his guest. Mr Suman was mindful enough to cover all bases, roasting Mr Modi’s adversaries, such as Mamata Banerjee, Arvind Kejriwal and Rahul Gandhi.
-
-Then followed a series of guests from the world of entertainment, ranging from Farah Khan to Sunidhi Chauhan. So, here’s the deadly formula he has crafted. Begin with pungent political commentary laced with a tinge of humour and follow through with good fun and music. His opening remarks are not jokes, as he told Karan Thapar in an interview to The Wire. They are serious questions posed in a non-threatening manner. Like a sharp knife cutting through butter.
-
-Every time Mr Suman’s sword jabs those in power, he steps back to welcome a member of the power elite. So, Mr Gadkari is followed up a couple of episodes later by Amruta Fadnavis -- a banker, a singer and, incidentally, the wife of Maharashtra’s chief minister Devendra Fadnavis. Clever. Both Gadkari and Mr Fadnavis are reportedly favourites of RSS chief Mohan Bhagwat. This, however, has not insured Mr Suman’s producers from a visit from the Enforcement Directorate, but that has not yet deterred the performer.
-
-Mr Suman reaches out to traditional BJP supporters repeatedly bringing Prime Minister Atal Behari Vajpayee into conversations. He has memorised most of Atalji’s poetry. He has huge admiration for Atalji’s leadership. Who does not? Along with Jawaharlal Nehru, Atalji remains the most beloved PM of the country. And Nehru and Vajpayee ran a mutual admiration society. All this harks back to the politics of a different, more elegant, past.
-
-Voices of dissent within BJP are finally being heard on social media. Rajasthan’s former chief minister Vasundhara Raje Scindia, a senior BJP figure, recently spoke to her party faithful reminding them of past civility in the relationship between the government and the Opposition, recalling the friendship between Prime Minister P.V. Narasimha Rao and Atal Behari Vajpayee.
-
-That two million viewers have watched Shekhar Tonite is not surprising. I had missed it till I saw Thapar’s interview and then I binge watched all ten episodes. It has been a long time since someone from Bollywood has dared to make a political point. The singer Kishore Kumar tried during the Emergency and Prime Minister Indira Gandhi’s minions blocked him out of All India Radio and Doordarshan. We would listen to Radio Ceylon to hear Kishore Kumar songs.
-
-Mr Suman’s political statements range from the simple remarks about middle-class concerns, the corruption in and quality of public infrastructure to anger expressed in chaste and poetic Hindi about the insensitivity of an arrogant power elite. Just as a viewer’s blood begins to boil in response, the Band Stand...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjayovacha-a-new-wind-is-blowing-across-moribund-stage-sanjaya-baru-1972333)
-
----
-
-### Bidadi project demands transparency, debate
-*Deccan Herald · Editorial*
-
-Even as the Karnataka government pushed ahead with a fresh notification to acquire land in four more villages for the proposed Greater Bengaluru Integrated Township (GBIT) at Bidadi, Chief Minister D K Shivakumar announced that no land would be forcibly taken and that a committee would be set up to hear farmers’ grievances. While this sends mixed signals, it also suggests that the government is trying to avoid a Devanahalli-style confrontation, where sustained protests for nearly four years eventually forced it to abandon the 1,777-acre aerospace park. What is particularly striking is that the loudest opposition now comes from Janata Dal (Secular) leader H D Kumaraswamy, who first conceived the satellite township in 2006 when he headed the JD(S)-BJP coalition government. His administration declared the area a ‘red zone’, freezing construction and land transactions, and leaving owners in limbo for nearly two decades. Kumaraswamy’s current framing of the project as merely a real-estate venture raises legitimate questions. If the concept itself was flawed, why was it conceived and pursued in the first place? His father, former Prime Minister H D Deve Gowda, has gone further, warning of a satyagraha at Vidhana Soudha, arguing that roughly 82% of affected landholders are small and marginal farmers.
-
-Bidadi faceoff: Karnataka CM Shivakumar announces review panel Initially intended to ease pressure on Bengaluru by creating a self-sustaining urban centre on its outskirts, the project has today transformed into a far more ambitious Rs 18,133-crore, AI-powered smart city spread across more than 7,400 acres. The government counters that nearly 70% of affected farmers have already consented to part with their land, and that the ongoing protests by landowners are politically engineered. But the bigger question is whether this project has become another battleground in the personal rivalry between the Deve Gowda family and Shivakumar.
-
-None of this means the government should proceed unquestioningly. Compensation, rehabilitation, employment, environmental safeguards, and the basis for claimed consent must be transparently disclosed. The review committee must also have a clearly defined mandate and timeline rather than becoming a device to delay difficult decisions. Bengaluru does need well-planned satellite townships if it is to accommodate future growth, but projects of this scale require more than grand blueprints. They demand transparency, fairness, and public trust. At the same time, the implications for food security arising from the conversion of fertile agricultural land into urban spaces also deserve serious debate. Ultimately, the future of Bidadi should be determined by sound urban planning and the interests of all stakeholders, not by political one-upmanship.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/bidadi-project-demands-transparency-debate-4079712)
-
----
-
-### SC upholds case against blanket ban
-*Deccan Herald · Editorial*
-
-The Supreme Court of India did well to stay a Madras High Court order issued in May, which directed the state government to impose a complete ban on cow and calf slaughter in Tamil Nadu. A bench of Justices Vikram Nath and Sandeep Mehta, while staying the operation of the high court ruling, observed that it “prima facie required correction’’ and directed that no animal shall be slaughtered anywhere other than in authorised slaughterhouses till the next hearing of the petition. The petition had been filed by the state government, which contended that the high court order was contrary to the Tamil Nadu Animal Preservation Act, 1958, which permitted the slaughter of cows above 10 years of age that are unfit for work or breeding, subject to certification by the competent authority. Other state laws also did not impose a blanket prohibition on cow slaughter. The government argued that the blanket ban would adversely affect farmers, trade, commerce, and the leather industry.
-
-Tamil Nadu govt moves Supreme Court against Madras High Court’s blanket ban on cow slaughterThe high court order, issued by a division bench of Justices G R Swaminathan and V Lakshminarayanan, should be considered a case of judicial overreach. The public interest litigation (PIL) filed by the leader of a Hindu organisation had sought that cow slaughter should not be carried out in public places but only in designated places on Bakrid. The court went beyond the petitioner’s plea, and directed the State to ensure that no cow or calf is slaughtered “on the eve of Bakrid or on any other day” in the state. As the government pleaded in the apex court, this amounted to “judicial law-making.’’ The government also said that the petition was unnecessary because it had already taken action to prevent slaughter in public places. The court invoked a state government order of 1976 which advocated a ban on cow slaughter with a view to promoting milk production and improving the rural economy. But the government told the Supreme Court that an executive order could not override the law.
-
-Different states have different laws on cow slaughter that vary in their intent, scope, and impact. Some of them, such as those in Assam, Uttar Pradesh, and Gujarat, are very stringent. Karnataka also has a strong law. But Kerala and Tamil Nadu have less stringent laws, and seek to regulate cow slaughter instead of banning it. The law has been in force for about seven decades in Tamil Nadu, which has a sizeable beef-eating population. It was framed after taking into consideration the religious sensitivities about cow slaughter, the food habits of large numbers of people, and the problems posed by old or debilitated cattle. The high court order sought to change the law.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/sc-upholds-case-against-blanket-ban-4079713)
-
----
-
-### Nature’s timeless message
-*Deccan Herald · Opinion*
-
-Nature is not spiteful and does not discriminate. A tree never withholds oxygen from the person who once cut down its companions. Rivers do not decide whose thirst deserves to be quenched. The sun does not choose whose home it will brighten, nor does the rain favour one field over another. The Earth continues to nurture all who depend on it, offering its bounty freely and without prejudice.
-
-We could learn a lot from nature. Consciously or unconsciously, we judge. We are drawn to those who think like us and become wary of those who do not. We often form opinions based on appearance, skin colour, language, nationality, religion, social status, or political beliefs. Sometimes, the only reason we distance ourselves from another person is that they are different from us. However, we conveniently forget that nature meant all of us to be different in every way. Imagine all the people in the world with similar faces and exactly the same voices, build, looks and skin type. It would be catastrophic indeed!
-
-Take charge of your egoPerhaps the greatest challenge of our time is not the diversity that surrounds us but the invisible barriers and divisions we create to divide us.
-
-Do we treat everyone with the same warmth and respect? Are our opinions shaped by truth and experience, or by stereotypes and assumptions? Have we allowed prejudice, however subtle, to become an accepted part of our thinking? Self-reflection is rarely easy, but it is necessary. A more compassionate society begins not with sweeping reforms but with individuals who are willing to examine their own attitudes and change them where necessary.
-
-Nature reminds us every day that kindness, generosity, and acceptance need no conditions. If the trees, the rivers, the sun, and the Earth can give without discrimination, surely we, blessed with reason and conscience, can learn to look beyond our differences and recognise our shared humanity.
-
-Perhaps the greatest tribute we can pay to nature is not merely to protect it, but to imitate and emulate it. The world would become more human and humane if each of us chose to see others not through the judgemental lens of prejudice, but through the quiet wisdom that nature has always offered. Every leaf, every sunrise, the gentle breeze and all the water whisper that life flourishes not through exclusion, but through inclusion and acceptance. The greatest revolution is not in changing the world, but in changing the way we see one another.
-
-[Read full article](https://www.deccanherald.com/opinion/natures-timeless-message-4079700)
 
 ---
 

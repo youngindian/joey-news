@@ -1,5 +1,238 @@
 # Editorials archive — 2026-07
 
+## 20 July 2026
+
+### Reclaiming footpaths, taking cities back from cars
+*The Hindu · Opinion*
+
+Few sights are more ordinary in an Indian city than a pedestrian being pushed off a footpath and onto the road. A mother, holding a school bag in one hand and a child in the other, walks around a parked car. An elderly man tests a broken footpath before stepping down onto the road. A wheelchair user gives up before the journey has even begun. A vendor, debris, an open drain, a two-wheeler, and a signboard together form what is still, with bureaucratic optimism, called a pavement. The citizen is then forced to walk on a road designed as though only vehicles possess rights.
+
+Upholding walkabilityIn June 2026, the Supreme Court of India gave constitutional language to this daily indignity, in Maniyar Iliyaz @ Shaik Riyaz vs P. Ayyappan (2026). It held that walking on demarcated footpaths is a fundamental constitutional right, protected under Article 19(1)(d) and Article 21 of the Constitution. It observed that pedestrians have a right to safe footpaths and footways, and directed States and Union Territories to frame policies and guidelines for their provision and maintenance. This is not a minor municipal instruction. It is a public health intervention, a road safety measure, and a democratic test of whether Indian cities are built for people or merely for machines.
+
+The timing could not be more urgent. India is becoming less active precisely when it needs movement the most. Health risk factors and diseases such as diabetes, hypertension, fatty liver disease, and obesity are rising rapidly, as reported by every newly available population health dataset.
+
+Walking and increased physical activity are among the low- and no-cost interventions that can halt and reverse this rise in metabolic diseases. Yet, the World Health Organization (WHO)’s India Physical Activity Profile 2024 estimates that 49.4% of Indian adults do not meet the recommended levels of physical activity; among women, the figure is 57.2%. Among children and adolescents aged 11 to 17 years, it is 74%. WHO recommends at least 150 minutes of moderate-intensity physical activity each week for adults. For most citizens, this does not mean gym memberships or elite fitness routines. It means having the ability to walk safely to a bus stop, school, market, clinic, metro station, or park.
+
+These are not failures of willpower alone; rather, they are exacerbated by the built environment. A city that makes walking difficult quietly prescribes sedentary living. Footpaths, therefore, are not decorative strips of cement added after roads have been designed. They are preventive medicine laid in stone. A usable pavement allows children to walk to school, office-goers to use public transport, older adults to remain mobile, and women to move safely. Walking improves blood pressure, insulin sensitivity, weight control, mood, sleep, and joint function. It is the simplest health habit available to the largest number of citizens. Yet, we in India have made it difficult and dangerous. Many Indians would prefer to use cars and scooters less if cities offered safe, continuous, shaded footpaths.
+
+The road safety argument is equally compelling. The Union Ministry of Road Transport and Highways (Transport Research Wing) ‘Road Accidents in India 2024’ report found that two-wheeler riders and pedestrians together accounted for nearly 67% of road fatalities, with 1.28 lakh deaths among these vulnerable groups. The National Crime Records Bureau’s 2024 data place the number at more than 1.1 lakh and the share at at least 60%. The exact totals differ across official sources, but the message is unambiguous: pedestrians and two-wheeler riders remain India’s most vulnerable road users. Every time a footpath disappears, the road becomes a contest between flesh and metal.
+
+Orderly shared streetsThe solution cannot be episodic anti-encroachment drives, in which a few carts and cars are removed before the same disorder returns the following week. Nor can it be a punitive war on street vendors, who are workers with legal protections and legitimate economic claims. The answer lies in planned allocation: footpaths for walking, vending zones for vendors, parking spaces for vehicles, utility corridors for public infrastructure, and meaningful penalties for violations. A humane city organises the street so that livelihoods and mobility can coexist without endangering lives.
+
+Citizens, too, have a role, though not the only one. First, walk deliberately: begin with 10 to 15 minutes after two major meals, or build towards 30 minutes at a fixed time each day. Second, convert short errands into walking errands; distances under one kilometre should not automatically require a scooter or car. Third, combine walking with public transport by using the metro, bus, or shared mobility for part of the commute. Fourth, make walking social: families, resident welfare associations, and workplaces can create walking groups and car-free morning routines. Fifth, reclaim walking as a health check. If breathlessness, knee pain, fear of falling, or unsafe streets prevent walking, treat that as a signal to seek medical advice, improve strength, or demand civic correction. Most importantly, the recent Supreme Court decision has given citizens and resident welfare associations an opportunity to demand their right to walk on encroachment-free footpaths.
+
+Yet, citizens cannot easily walk their way out of poor urban planning. Civic bodies and governments must act with seriousness. Every road project should include continuous, shaded, well-lit, and barrier-free footpaths, along with safe crossings. Footpaths must be wide enough for two people or a wheelchair, with ramps and clear passageways near bus stops. Encroachment control should be continuous, transparent, and fair. Parking on footpaths must invite stringent action, with penalties that change behaviour. Street design should prioritise schools, hospitals, bus stops, markets, and metro stations, where pedestrian volumes are high. Tree cover, benches, public toilets, and lighting are not embellishments; they determine whether women, children, persons with disabilities, and older people can walk.
+
+Policy actionIndia also needs a national active-mobility mission linking urban development, transport, health, and education. Cities and urban planning should be assessed not by the length of flyovers built, but by the number of safe walking kilometres created. Municipal commissioners should publish ward-level footpath maps and annual audits of encroachment-free footpaths. School zones should have traffic calming measures and protected crossings. Employers should encourage active commuting. Doctors should prescribe walking advice to nudge behaviour, but governments must provide the pavements on which those prescriptions can be followed.
+
+The Supreme Court has moved the footpath from the margins of municipal housekeeping to the centre of constitutional rights. The next task is to move it from judgment to habit, budget, design, and enforcement. A country battling diabetes, hypertension, obesity, stress, and road deaths cannot treat walking as an afterthought. India does not merely need more roads; it needs more rights of way for ordinary citizens. The footpath is where public health, dignity, and democracy meet. We need to take our cities back from cars. We need to rebuild our cities for people. The proportion of encroachment-free footpaths should become a barometer of whether elected governments value citizens’ fundamental rights in every ward and on every major road.
+
+Dr. Chandrakant Lahariya is a practising specialist in ‘preventive and cardiometabolic medicine’ with nearly 18 years of work experience with the World Health Organization and the United Nations System
+
+[Read full article](https://www.thehindu.com/opinion/lead/reclaiming-footpaths-taking-cities-back-from-cars/article71246221.ece)
+
+---
+
+### The stark reality of the missing jobs for India’s Gen Z
+*The Hindu · Opinion*
+
+India has one of the world’s largest youth populations (371 million, according to United Nations data of 2025), often described as a demographic dividend. But this demographic dividend is only a promise and does not guarantee an automatic outcome. It pays off only when the transition occurs, enabling young people to move from classrooms into decent, productive work with higher skills. Right now, that transition is faltering, and the evidence is visible in Gen Z’s employment patterns.
+
+Empowering India’s youth by supporting their mental health The term ‘Gen Z’ refers to individuals born between 1997 and 2012. They succeeded the Millennials (also known as Generation Y), who were born between 1981 and 1996. The working-age population for Gen Z broadly falls within the 15-26 age group, while Millennials are aged between the years 27 to 42. According to the 2023-24 Periodic Labour Force Survey (PLFS), India has an estimated 29.94 crore working-age Gen Z individuals (aged 15-26 years), compared with 35 crore Millennials (aged 27-42 years). Using the same datasets, we analyse their occupational patterns, labour force participation rates, unemployment levels, and access to social security systems.
+
+Gen Z attitude? Or outdated work culture? What takes the blame?Gen Z work statusPLFS 2023-24 estimates show that a large share of Gen Z remains engaged in education. The data show that 41.7% of young males and 38.4% of young females are studying. While this partly explains their delayed entry into the labour market, the situation of the remaining youth is a cause for concern.
+
+Hiring Gen Z: What the next workforce generation wantsWhen young people do enter the labour market, many are absorbed into non-salaried and casual forms of employment. Among young males, 15.8% are engaged as unpaid family workers, 12.3% are in casual work — possibly with segments of the informal economy — and only 14.8% are regular wage earners. Among female Gen Z individuals, about 35% are engaged in domestic duties (out of the labour force), 10.7% work as unpaid family workers, and only 4.7% are regular wage earners.
+
+Also Read | A view of the office through Gen Z eyes
+
+These patterns underline the fact that women bear this burden disproportionately. Among Gen Z females, 27.1% are engaged in domestic duties only, compared with just 0.32% of males. Even where women want paid work, they face higher unemployment and weaker labour market attachment. This is not only a matter of jobs. It also reflects childcare burdens, safety concerns, mobility constraints and social norms, and the design of work itself. India cannot talk seriously about harnessing its demographic advantage while leaving such a large share of young women outside the paid economy.
+
+What happens when young people try to enter the labour market? The answer is concerning: too many of them are unable to find adequate employment opportunities.
+
+The first indicator to consider is the labour force participation rate (LFPR). Among Gen Z, 41.7% are in the labour force, against 75% of Millennials. Within Gen Z, rural participation (44.1%) exceeds urban participation (37.2%), suggesting that rural youth tend to enter the labour market earlier, whereas urban youth spend more time in education and training. A sharp gender divide is also evident. Among young males, labour force participation is 59.3% in rural India and 51.3% in urban India, compared to just 28% and 21.1% respectively for young females.
+
+Unemployment in India rises slightly to 5% in January: Government surveyThe unemployment situation is even more alarming. The overall unemployment rate for Gen Z is 11.9%, compared to only 2% among Millennials. In urban India, the situation deteriorates further, with Gen Z unemployment rising to 17.1%.
+
+For urban young women, it reaches a staggering 22.6%. This is not merely a temporary labour-market friction; it is a serious warning sign that the economy is struggling to absorb young jobseekers, particularly in areas where aspirations and educational qualifications are often higher.
+
+The graduate trap, social security mirageFor most of the youth, education offers a gateway of opportunity: more education leading to better jobs and lower unemployment. Instead, our estimate shows the opposite at the top end. Among Gen Z males with graduate-level education or above, unemployment stands at 29%. Among Gen Z females, it is even higher at 36.9%. This is the heart of India’s silent jobs crisis. The country is producing educated young people faster than it is producing suitable jobs for them.
+
+A similar disparity persists among Millennials. Only 5.2% of male graduates and above are unemployed, but the corresponding figure for women is significantly higher at 13.8%.
+
+This disconnect perhaps points to a deeper mismatch between the education system and labour market requirements. While part of the problem relates to skill mismatches, it is also increasingly shaped by automation and the growing adoption of artificial intelligence, both of which are altering the nature of available jobs.
+
+That mismatch carries a deeper risk. When higher education no longer improves employment prospects quickly or reliably, frustration rises, family investment in education comes under strain, and confidence in the growth story weakens. A labour market that cannot absorb its educated youth is not just inefficient. It can become socially corrosive and destabilising. Even for those who do find work, the quality of employment remains deeply concerning. Only 20.1% of Gen Z individuals are covered by social security, and just 14.1% have a formal job contract. Among the remaining 79.9% who lack social security coverage, only 3.2% have a job contract. Overall, only 17.3% of Gen Z workers have any form of contractual employment.
+
+This implies that most are entering the workforce without either. The challenge, therefore, is not merely unemployment but the widespread prevalence of informal, insecure, and weakly protected work. Further, in recent years, there has been growing evidence of the informalisation of formal employment among the Gen Z population.
+
+The situation among Millennials is only marginally better. Merely 26% have a job contract, while only 28.6% are covered by social security.
+
+The recent large-scale violent labour protests in Noida, Uttar Pradesh, led by industrial and factory workers demanding higher wages and better working conditions, reflect the frustration that insecure and poorly protected employment can produce.
+
+A promise deferredIndia’s jobs debate is too often discussed in silos: unemployment, skilling, women’s work and labour force participation, and informality. However, these are not separate problems. They are one connected failure of labour market transition. Young people (Gen Z) are staying in education longer, but the bridge from education to work is weak. Women face structural barriers that keep them out or push them into unpaid roles. And even when work is found, it is too often outside the protections of formal employment.
+
+It is time India moves beyond merely celebrating its large demographic dividend and begins treating the issue with greater urgency. Skill programmes have value, but they cannot substitute for actual job creation. The answer lies in expanding labour-intensive sectors, building stronger school-to-work pathways, linking training more closely to employers, and making it easier for women to enter and remain in paid work. Apprenticeships, formal hiring incentives, urban employment expansion, safe transport and childcare support all need to be part of the response.
+
+The numbers tell a blunt story. India’s youth challenge is no longer about whether young people are ready for work. It is about whether the economy is ready for them. Until that changes, the demographic dividend will remain what it has so far been: a promise deferred.
+
+Santosh Kumar Dash is an Assistant Professor at IRMA, Tribhuvan Sahkari University, Anand, Gujarat. Balakrushna Padhi is an Assistant Professor at BITS Pilani (Pilani Campus), Rajasthan
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-stark-reality-of-the-missing-jobs-for-indias-gen-z/article71241905.ece)
+
+---
+
+### DC Edit | Garry Sobers: Jewel of Cricket
+*Deccan Chronicle · Editorial*
+
+It was said of Garfield Sobers that God broke the mould after endowing the game of cricket its greatest gift. Having lost his father to World War 2, the Barbadian youth chased a dream on his way to becoming a national hero along with the likes of pop diva Rihana. History will willingly record that Sobers was indeed the best all-rounder in the history of the game.
+
+The peerless batting great Donald Bradman said of him that with his long grip, high backlift and free swing of the willow, Sobers hit the ball harder than anyone and that the emphasis was on power and aggression more than technique. Besides, he could bowl fast medium swing, both orthodox and the Chinaman variety of leg spin, field anywhere and even keep wickets in an emergency.
+
+The impact he had on the game was greater as his natural fitness allowed him to be the game’s ultimate professional with engagements in England and Australia besides turning out for the multi-islands team in Test matches, which he led with aplomb even if he did gamble sometimes with sharp declarations.
+
+As Team India and Team England stood in silence before Sunday’s ODI at Lord’s in the Bajan’s honour, they might have also remembered that Sobers was — in an age in which commerce was catching up with the gentleman’s game — one of the most sporting of cricketers, never being involved in on-field controversies though he did once turn out in a competition in ‘white’ Rhodesia to earn a few dollars.
+
+The record he set may have been broken, including his 365* as a young batsman that was later grabbed by his spiritual heir Brian Lara who stretched it to 401*.
+
+With 8,032 runs at an average of 57.78, which made him the fifth highest among batsmen who scored more than 4,000-plus Test runs, and 235 Test wickets, he set high benchmarks for the all-rounders to come.
+
+An adornment to the game, he was knighted in England, honoured in Australia with the highest civilian award and revered in his home island of Barbados, leaving an ambassadorial legacy in his sport that was as telling as the six sixes he hit in an over in first-class cricket. The fact is they don’t make them like the gifted Sobers anymore.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-garry-sobers-jewel-of-cricket-1972338)
+
+---
+
+### DC Edit | World Cup: The Reign Of Spain
+*Deccan Chronicle · Editorial*
+
+Spain, technically the finest of the 48 teams, deservingly won the World Cup. They were held off only by a brutally cynical Argentina team that seemed intent on not conceding a goal and never striving to create one.
+
+In a far from classy final, Spain scored early in the second half of extra time and kept Argentina at bay till the final whistle, when tears rolling down Lionel Messi’s cheeks told the story vividly.Striker Ferran Torres’ winner, off a header to a pass to his feet by substitute Williams from the Argentine goal line, sailed past the heroic goalkeeper Emiliano Martinez who had kept Spain scoreless with at least 12 saves amid fracas-ridden match situations that saw a reluctant red card come out to Enzo Fernandez.
+
+Sporting justice was served in the end for the European champions Spain who, quite remarkably, remain unbeaten in 38 matches in all competitions, the longest-ever run by any major team in history. The World Cup of 2026 may have been politicised from the very start with fans unable to come because of immigration travel bans and the Iranian team being treated more like prisoners of war, but nothing seemed to affect Spain’s tiki-taka brand of brilliance in passing the ball.
+
+Extraordinarily, the World Cup was a grand success not only financially as a money spinner with $15 billion revenue but because the people of the USA, Canada and Mexico made it so. They embraced ‘soccer’, as they call it, adopted the fans of so many different countries as their own and turned up in such numbers at every venue to make the attendance close to 100 %. So much so, they are asking to host the event again in 2038, but just in the USA.
+
+US President Donald Trump loved the spotlight so much that the FIFA president Gianni Infantino had to drag him away from the Spanish team so they could celebrate by themselves as the proud winners of a second World Cup. Mr Trump’s decision to have a red card suspension overturned for a US striker took political meddling to its highest point, despite which the event became a hit with a record global television and streaming audience.
+
+Even commercial intrusions such as an inordinately long half-time show with pop idols, young and old, performing and hydration breaks, including at three of the 16 air-conditioned stadiums, did little to take away the sheen of the ‘beautiful’ game in which not only the greats like Kylian Mbappe, Cristiano Ronaldo, Lamine Yamal and the indefatigable Messi shone. New stars also lit up the event that was one for the ages despite the polarisation of the world by politics, race and religion.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-world-cup-the-reign-of-spain-1972562)
+
+---
+
+### Dev 360 | Chasing Global Rankings On a Crumbling Planet | Patralekha Chatterjee
+*Deccan Chronicle · Opinion*
+
+What if the greatest threat to human progress is no longer our inability to advance — but our failure to protect what we have already created? How do we stop shocks — from climate disasters, conflict, forced migration, pandemics and debt — from wiping out our gains? These are among the stark questions that leap out from the flood of data in recent global assessments of sustainable development.
+
+With under four years left for its 2030 deadline, the UN Sustainable Development Goals Report 2026 paints a worrying picture of slow progress — albeit with some hopeful signs.
+
+Since 2015, millions have gained access to safe drinking water and sanitation. Electricity now reaches 92 per cent of the world’s population, with a third of installed generation capacity from renewable sources. Internet access has surged from 40 to 74 per cent, connecting billions to new education and economic opportunities. Health outcomes have similarly improved: new HIV infections and AIDS related deaths have each fallen by roughly a third, 59 countries have eliminated at least one neglected tropical disease and 134 countries have met the target for reducing child mortality. Disaster-related deaths have dropped by 65 per cent compared with the previous decade.
+
+Yet, one in 10 people globally still lives in extreme poverty. Food insecurity remains well above 2015 levels, affecting 2.3 billion people. More than 150 million children are stunted. Maternal mortality remains nearly three times the global target. Everyday discrimination — still felt by one in five people worldwide — continues to limit human potential.“These shortfalls are compounded by intersecting planetary and human-made crises. In 2025, global temperatures reached 1.43°C above pre industrial levels, and atmospheric carbon dioxide (CO2) reached its highest concentration in 2 million years. Violent conflict surged to its highest levels in decades, reversing years of development in mere months, forcibly displacing 118 million people,” says Li Junhua, UN under-secretary-general for economic and social affairs, in the introduction to the report,
+
+Hearteningly, Southern Asia has emerged as one of the main drivers of critical human development metrics, accounting for over 68 per cent of the global reduction in stunted children (a decrease of 20.6 million) and 55 per cent of the reduction in wasted children between 2012 and 2024.
+
+These hard-won victories remain dangerously fragile.
+
+The 2026 report notes that over the last decade, critical infrastructure has proved especially vulnerable to disasters. Between 2015 and 2024, based on countries’ reported data, an average of 91,847 units of critical infrastructure were destroyed or damaged every year. Over the same period, there were more than 1.5 million yearly disruptions to basic services, including continuity of health and education services. These figures reflect the systemic nature of disaster risk: water systems, power grids, transport networks and hospitals do not operate in isolation, and a single failure in one system can cascade across entire economies, undermining service delivery, livelihoods and long-term development progress.
+
+Where does India, a country of 1.4 billion, figure in the global SDG narrative?
+
+In a separate, independent academic report led by economist Prof. Jeffrey D. Sachs, director of the Centre for Sustainable Development at Columbia University, and other experts and published by the UN Sustainable Development Solutions Network (SDSN) to coincide with the UN Sustainable Development Goals Report 2026, India ranked 94th among the 169 countries with sufficient data for inclusion in the SDG Index.
+
+It is vital to separate this from the UN’s report, which does not rank countries on SDG. While the SDSN operates under a broad United Nations umbrella — having been launched to mobilise scientific expertise for the SDGs — its index is an independent evaluation.
+
+Clearly, India is a key part of the global SDG ledger, embodying the agonising paradox of modern development: historic macroeconomic ascents alongside structural bottlenecks and a rapidly intensifying climate crisis.
+
+The Sachs-led SDG Index throws up some interesting contrasts: Thailand ranks above the United States, while tiny Cabo Verde, which made football history by qualifying for the 2026 Fifa World Cup, is just one place behind India at 95th.
+
+Stripping away the media’s obsession with the “94th rank” exposes a hard truth: economic velocity does not automatically translate into human equity. Even with its record rise on this independent index, India continues to lag behind smaller South Asian neighbours like Bhutan, the Maldives and Nepal on many fronts.
+
+All this is happening against a worrying backdrop of increasingly frequent extreme and erratic weather fuelled by climate change. For India, this translates into erratic monsoons, brutal heatwaves, and shifting agricultural zones that ravage crop yields and drive up food insecurity. Climate change is ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/dev-360-chasing-global-rankings-on-a-crumbling-planet-patralekha-chatterjee-1972553)
+
+---
+
+### SANJAYOVACHA | A New Wind Is Blowing Across Moribund Stage | Sanjaya Baru
+*Deccan Chronicle · Opinion*
+
+Just connect the dots. A teenage youth, Aryan Gupta, exposes incompetence and deceit in the conduct of a government organised nationwide examination. The Chief Justice of India, Justice Surya Kant, spews contempt on a desperate youth, calling them “cockroaches”. A little-known communications and political strategist, Abhijit Dipke, springs into action, forming the Cockroach Janta Party, capturing the imagination of the country’s sullen youth.
+
+All this caused a stir, enough to worry the government but not to make it respond responsibly. The mainstream media remained in la la land. Even after a living Gandhian like Sonam Wangchuk had to go on a fast unto death in support of an entire generation of betrayed high school students.
+
+Out of nowhere and in a distant land, a diminutive journalist asks a simple question: Why does Prime Minister Narendra Modi not meet the media and answer their questions? Why is his communication entirely one-way? The Norwegian journalist, Helle Lyng, becomes a celebrity globally, attracting abuse and venom from the Modi Parivar’s troll mafia.
+
+In Oslo, it was just a simple question. By the time Prime Minister Modi arrived in Australia and New Zealand, it had become a tsunami of media mockery. The Australian media roasts the PM like never before. “Look at him hug our PM!” No one overseas had till then made such fun of Mr Modi’s famous “grab and hug” routine. Nothing like this had happened in twelve long years.
+
+But the big enchilada comes out of Bollywood. A popular entertainer whom my generation envied for his role as the poor Charudatta who romanced the voluptuous Vasantasena, played by the star of our teenage dreams, suddenly lit a fire on YouTube. In a never before viewed combination of high politics and sheer entertainment, Shekhar Suman weaved all the threads that have become the warp and weft of middle-class life in India and launched his “Shekhar Tonite” on YouTube.
+
+Till now Mr Suman has been a pure entertainer. Today he has become the vehicle of expression of middle-class angst and anger against an incompetent and insensitive regime. Very interestingly, and I have not yet read any editorial comment on this, his first episode was launched with Mr Modi’s bete noire, road and highways minister Nitin Gadkari, as his guest. Mr Suman was mindful enough to cover all bases, roasting Mr Modi’s adversaries, such as Mamata Banerjee, Arvind Kejriwal and Rahul Gandhi.
+
+Then followed a series of guests from the world of entertainment, ranging from Farah Khan to Sunidhi Chauhan. So, here’s the deadly formula he has crafted. Begin with pungent political commentary laced with a tinge of humour and follow through with good fun and music. His opening remarks are not jokes, as he told Karan Thapar in an interview to The Wire. They are serious questions posed in a non-threatening manner. Like a sharp knife cutting through butter.
+
+Every time Mr Suman’s sword jabs those in power, he steps back to welcome a member of the power elite. So, Mr Gadkari is followed up a couple of episodes later by Amruta Fadnavis -- a banker, a singer and, incidentally, the wife of Maharashtra’s chief minister Devendra Fadnavis. Clever. Both Gadkari and Mr Fadnavis are reportedly favourites of RSS chief Mohan Bhagwat. This, however, has not insured Mr Suman’s producers from a visit from the Enforcement Directorate, but that has not yet deterred the performer.
+
+Mr Suman reaches out to traditional BJP supporters repeatedly bringing Prime Minister Atal Behari Vajpayee into conversations. He has memorised most of Atalji’s poetry. He has huge admiration for Atalji’s leadership. Who does not? Along with Jawaharlal Nehru, Atalji remains the most beloved PM of the country. And Nehru and Vajpayee ran a mutual admiration society. All this harks back to the politics of a different, more elegant, past.
+
+Voices of dissent within BJP are finally being heard on social media. Rajasthan’s former chief minister Vasundhara Raje Scindia, a senior BJP figure, recently spoke to her party faithful reminding them of past civility in the relationship between the government and the Opposition, recalling the friendship between Prime Minister P.V. Narasimha Rao and Atal Behari Vajpayee.
+
+That two million viewers have watched Shekhar Tonite is not surprising. I had missed it till I saw Thapar’s interview and then I binge watched all ten episodes. It has been a long time since someone from Bollywood has dared to make a political point. The singer Kishore Kumar tried during the Emergency and Prime Minister Indira Gandhi’s minions blocked him out of All India Radio and Doordarshan. We would listen to Radio Ceylon to hear Kishore Kumar songs.
+
+Mr Suman’s political statements range from the simple remarks about middle-class concerns, the corruption in and quality of public infrastructure to anger expressed in chaste and poetic Hindi about the insensitivity of an arrogant power elite. Just as a viewer’s blood begins to boil in response, the Band Stand...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjayovacha-a-new-wind-is-blowing-across-moribund-stage-sanjaya-baru-1972333)
+
+---
+
+### Bidadi project demands transparency, debate
+*Deccan Herald · Editorial*
+
+Even as the Karnataka government pushed ahead with a fresh notification to acquire land in four more villages for the proposed Greater Bengaluru Integrated Township (GBIT) at Bidadi, Chief Minister D K Shivakumar announced that no land would be forcibly taken and that a committee would be set up to hear farmers’ grievances. While this sends mixed signals, it also suggests that the government is trying to avoid a Devanahalli-style confrontation, where sustained protests for nearly four years eventually forced it to abandon the 1,777-acre aerospace park. What is particularly striking is that the loudest opposition now comes from Janata Dal (Secular) leader H D Kumaraswamy, who first conceived the satellite township in 2006 when he headed the JD(S)-BJP coalition government. His administration declared the area a ‘red zone’, freezing construction and land transactions, and leaving owners in limbo for nearly two decades. Kumaraswamy’s current framing of the project as merely a real-estate venture raises legitimate questions. If the concept itself was flawed, why was it conceived and pursued in the first place? His father, former Prime Minister H D Deve Gowda, has gone further, warning of a satyagraha at Vidhana Soudha, arguing that roughly 82% of affected landholders are small and marginal farmers.
+
+Bidadi faceoff: Karnataka CM Shivakumar announces review panel Initially intended to ease pressure on Bengaluru by creating a self-sustaining urban centre on its outskirts, the project has today transformed into a far more ambitious Rs 18,133-crore, AI-powered smart city spread across more than 7,400 acres. The government counters that nearly 70% of affected farmers have already consented to part with their land, and that the ongoing protests by landowners are politically engineered. But the bigger question is whether this project has become another battleground in the personal rivalry between the Deve Gowda family and Shivakumar.
+
+None of this means the government should proceed unquestioningly. Compensation, rehabilitation, employment, environmental safeguards, and the basis for claimed consent must be transparently disclosed. The review committee must also have a clearly defined mandate and timeline rather than becoming a device to delay difficult decisions. Bengaluru does need well-planned satellite townships if it is to accommodate future growth, but projects of this scale require more than grand blueprints. They demand transparency, fairness, and public trust. At the same time, the implications for food security arising from the conversion of fertile agricultural land into urban spaces also deserve serious debate. Ultimately, the future of Bidadi should be determined by sound urban planning and the interests of all stakeholders, not by political one-upmanship.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/bidadi-project-demands-transparency-debate-4079712)
+
+---
+
+### SC upholds case against blanket ban
+*Deccan Herald · Editorial*
+
+The Supreme Court of India did well to stay a Madras High Court order issued in May, which directed the state government to impose a complete ban on cow and calf slaughter in Tamil Nadu. A bench of Justices Vikram Nath and Sandeep Mehta, while staying the operation of the high court ruling, observed that it “prima facie required correction’’ and directed that no animal shall be slaughtered anywhere other than in authorised slaughterhouses till the next hearing of the petition. The petition had been filed by the state government, which contended that the high court order was contrary to the Tamil Nadu Animal Preservation Act, 1958, which permitted the slaughter of cows above 10 years of age that are unfit for work or breeding, subject to certification by the competent authority. Other state laws also did not impose a blanket prohibition on cow slaughter. The government argued that the blanket ban would adversely affect farmers, trade, commerce, and the leather industry.
+
+Tamil Nadu govt moves Supreme Court against Madras High Court’s blanket ban on cow slaughterThe high court order, issued by a division bench of Justices G R Swaminathan and V Lakshminarayanan, should be considered a case of judicial overreach. The public interest litigation (PIL) filed by the leader of a Hindu organisation had sought that cow slaughter should not be carried out in public places but only in designated places on Bakrid. The court went beyond the petitioner’s plea, and directed the State to ensure that no cow or calf is slaughtered “on the eve of Bakrid or on any other day” in the state. As the government pleaded in the apex court, this amounted to “judicial law-making.’’ The government also said that the petition was unnecessary because it had already taken action to prevent slaughter in public places. The court invoked a state government order of 1976 which advocated a ban on cow slaughter with a view to promoting milk production and improving the rural economy. But the government told the Supreme Court that an executive order could not override the law.
+
+Different states have different laws on cow slaughter that vary in their intent, scope, and impact. Some of them, such as those in Assam, Uttar Pradesh, and Gujarat, are very stringent. Karnataka also has a strong law. But Kerala and Tamil Nadu have less stringent laws, and seek to regulate cow slaughter instead of banning it. The law has been in force for about seven decades in Tamil Nadu, which has a sizeable beef-eating population. It was framed after taking into consideration the religious sensitivities about cow slaughter, the food habits of large numbers of people, and the problems posed by old or debilitated cattle. The high court order sought to change the law.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/sc-upholds-case-against-blanket-ban-4079713)
+
+---
+
+### Nature’s timeless message
+*Deccan Herald · Opinion*
+
+Nature is not spiteful and does not discriminate. A tree never withholds oxygen from the person who once cut down its companions. Rivers do not decide whose thirst deserves to be quenched. The sun does not choose whose home it will brighten, nor does the rain favour one field over another. The Earth continues to nurture all who depend on it, offering its bounty freely and without prejudice.
+
+We could learn a lot from nature. Consciously or unconsciously, we judge. We are drawn to those who think like us and become wary of those who do not. We often form opinions based on appearance, skin colour, language, nationality, religion, social status, or political beliefs. Sometimes, the only reason we distance ourselves from another person is that they are different from us. However, we conveniently forget that nature meant all of us to be different in every way. Imagine all the people in the world with similar faces and exactly the same voices, build, looks and skin type. It would be catastrophic indeed!
+
+Take charge of your egoPerhaps the greatest challenge of our time is not the diversity that surrounds us but the invisible barriers and divisions we create to divide us.
+
+Do we treat everyone with the same warmth and respect? Are our opinions shaped by truth and experience, or by stereotypes and assumptions? Have we allowed prejudice, however subtle, to become an accepted part of our thinking? Self-reflection is rarely easy, but it is necessary. A more compassionate society begins not with sweeping reforms but with individuals who are willing to examine their own attitudes and change them where necessary.
+
+Nature reminds us every day that kindness, generosity, and acceptance need no conditions. If the trees, the rivers, the sun, and the Earth can give without discrimination, surely we, blessed with reason and conscience, can learn to look beyond our differences and recognise our shared humanity.
+
+Perhaps the greatest tribute we can pay to nature is not merely to protect it, but to imitate and emulate it. The world would become more human and humane if each of us chose to see others not through the judgemental lens of prejudice, but through the quiet wisdom that nature has always offered. Every leaf, every sunrise, the gentle breeze and all the water whisper that life flourishes not through exclusion, but through inclusion and acceptance. The greatest revolution is not in changing the world, but in changing the way we see one another.
+
+[Read full article](https://www.deccanherald.com/opinion/natures-timeless-message-4079700)
+
+---
+
 ## 19 July 2026
 
 ### Maturing approach: On the India-U.K. Comprehensive Economic and Trade Agreement
