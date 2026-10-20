@@ -1,3 +1,536 @@
+## 20 October 2026
+
+### ‘Regime change will not happen in India’, says Mohan Bhagwat at RSS’s 101st anniversary event
+*Express Web Desk · legal*
+
+RSS chief Bhagwat said movements demanding regime change had not necessarily improved conditions
+
+[Read full article](https://indianexpress.com/article/india/rss-mohan-bhagwat-101-anniversary-event-speech-regime-change-india-mumbai-10928968/)
+
+---
+
+### Who is Kim Jong Un’s sister Kim Yo Jong? The most powerful woman in North Korea who is said to have taken over from her brother
+*Unknown · business*
+
+Kim Yo Jong, the younger sister of North Korean leader Kim Jong Un, is trending after unverified social media posts claimed she has taken power in place of her brother. The posts said Kim Jong Un died of a brain haemorrhage and that his daughter, Kim Ju Ae, did not take over. There is no official confirmation of any of it. On Tuesday, North Korean state media released photos that show Kim Jong Un alive and at a public event.
+
+**North Korean Leader Kim Jong Un Death Rumours**
+
+The claims came from Wanjun Xie, chairman of the China Democracy Party, in a social media post. ET Online reported that he said Kim Jong Un fell into a coma and was flown to Beijing. He said doctors from Peking Union Medical College Hospital treated him and that he died despite emergency surgery. Xie said the death was being kept secret.
+
+  
+
+Xie also said Kim Yo Jong now controls the regime. He pointed to her tough stand on South Korea as proof that she is tightening her hold on the military. He further claimed that 9,000 Chinese troops were sent to Pyongyang to help Kim Ju Ae steady her position.
+
+He said China’s Northern Theater Command was put on Level III alert, with soldiers’ leave cancelled. He also claimed that Chinese President Xi Jinping suffered a stroke in September at the BRICS summit in India. ET Online said none of this is backed by verified evidence.
+
+**Kim Jong Un’s Sister Kim Yo Jong on the Border**
+
+On Monday, she issued a statement on KCNA. According to Reuters, she said North Korea is considering more tactical weapons along the southern border and may restart loudspeaker broadcasts toward Seoul. Reuters quoted her saying, “Now the situation of the southern border is very unstable.”
+
+She said South Korea fired 201 warning shots and ran 2,870 rounds of loudspeaker warnings between August 1 and October 17. Seoul has not shared its own figures, Reuters reported. Its defence ministry did not comment right away.
+
+Tension has grown since North Korea began fortifying the border in April 2024. South Korea’s military said on October 5 that the North sent up to 7,000 workers this year to lay mines and put up fences.
+
+**Who is Kim Yo Jong?**
+
+CNN’s profile on Kim Yo Jong describes her as a senior member of the government under her brother. She was born in 1987 and is believed to be the youngest of Kim Jong Il’s seven children. She shares a mother with Kim Jong Un. Like him, she studied in Switzerland and is believed to have attended Kim Il Sung University.
+
+CNN reported that she was always close to her father. After she came back from Switzerland, she was given posts of responsibility in the government, according to Michael Madden, who runs the blog North Korea Leadership Watch.
+
+**How did Kim Yo Jong rise to power?**
+
+She started out as an advance-team leader. She inspected sites before official visits and handled administrative tasks. Her profile rose in 2014, when she became deputy director of the Workers’ Party Propaganda and Agitation Department.
+
+CNN reported that a Seoul-based think tank run by North Korean defectors said she briefly took charge of the country in late 2014, when her brother was reportedly ill. She became an alternate member of the Politburo in 2017.
+
+In 2018, she led North Korea’s delegation to the Winter Olympics in South Korea. She was the first member of the ruling family to visit the South since the Korean War. She also handed South Korean President Moon Jae-in a letter from her brother.
+
+Later that year, she was the only woman among six delegates at the inter-Korean summit at the border. CNN noted that she took notes while her brother spoke and stayed out of the spotlight. Many saw her as key to making the summit happen.
+
+**What is Kim Yo Jong’s role in the North Korean government today?**
+
+Madden told CNN she works “almost like a White House chief of staff would.” He said she deals with policy and gets intelligence briefings. CNN reported that she manages Kim’s public events, travel and logistics.
+
+She is among her brother’s top 20 officials. Analysts see her as a gatekeeper to the leader. Balbina Hwang of Georgetown University told CNN that Kim trusts very few people. That, she said, is why his sister may be among his most influential aides.
+
+**Kim Jong Un’s Latest Public Appearance**
+
+KCNA, North Korea’s state media, released new photos on Tuesday. They show Kim at the 2026 National Garment and Footwear Exhibition, which he visited on Monday. His daughter Kim Ju Ae and wife Ri Sol Ju were with him.
+
+Kim Jong Un’s latest public appearance. _(Images: KCNA.)_  
+
+KCNA said the show had over 70,700 clothing items and more than 170,000 pairs of shoes. It said factories across the country made them under Kim’s regional development policy. The photos come from state media, so they cannot be checked independently.
+
+Rumours about Kim’s health have come up before. North Korea is a closed country, and even a short gap in public view can start talk about who would lead next.
+
+---
+
+### Seoul vows 'resolute punishment' after North Korea threatens new border measures
+*Reuters · business*
+
+Seoul: South Korea on Tuesday vowed a stern response if North Korea acts on threats to strengthen its military posture along the border, which have fueled tensions on the Korean Peninsula.
+
+In a statement, Seoul's Defence Ministry expressed grave concern over Pyongyang's threats to deploy additional tactical strike weapons along the border and resume loudspeaker broadcasts towards the South.
+
+The escalation and exchange of threats has raised the possibility of clashes along the heavily armed border and undercuts diplomatic gains made by South Korean President Lee Jae Myung soon after he took office.
+
+  
+
+The ministry said South Korea's broadcasts and warning shots near the Military Demarcation Line (MDL) were a "legitimate defensive measure" aimed at preventing incursions and forcing North Korean troops who crossed the line to withdraw.
+
+"If North Korea uses our legitimate measures as a pretext to carry out further provocations, we will punish it resolutely," the ministry said.
+
+It urged Pyongyang to stop making what it called groundless claims, halt incursions across the MDL and respond to efforts to resolve differences between the two sides over the line.
+
+## 'CLEAR PROVOCATION'
+
+Seoul's Joint Chiefs of Staff Chairman Jin Young-seung reviewed military readiness while visiting a frontline army command, and ordered operations aimed at strengthening Seoul's initiative in the Demilitarized Zone, its military said in a separate statement.
+
+"We cannot tolerate North Korea falsely characterising our legitimate operational measures as provocations and shifting responsibility for heightened military tensions onto our military," Jin said.
+
+He said North Korea was responsible for planting landmines south of the MDL that seriously wounded South Korean soldiers last month, calling the incident "a clear provocation" and a violation of the armistice agreement.
+
+The warnings from Seoul came after North Korea's Kim Yo Jong, sister of leader Kim Jong Un, accused the South Korean military of endangering North Korean soldiers by firing warning shots during Pyongyang's work to fortify the border.
+
+Her threat to revive North Korean loudspeaker broadcasts risks reversing a key de-escalation measure that South Korean President Lee Jae Myung has touted as an early achievement of his efforts to restart diplomacy with Pyongyang.
+
+North Korea has been installing mines and barriers along the border since April 2024. South Korea said this month that Pyongyang had deployed as many as 7,000 workers to the area this year and that North Korean personnel had crossed the MDL on about 50 occasions.
+
+Analysts said the standoff increased the risk of a military clash.
+
+"If North Korea's threshold falls below South Korea's existing rules of engagement, the simple repetition of current procedures could be enough to create the conditions for a clash," said Hong Min, a senior research fellow at the Korea Institute for National Unification.
+
+Michael Bosack, founding director of the Parley Policy Institute and a former UN Command official, said troops could mistake warning shots for missed attacks, risking "misinterpretation of intent and potential counterfires."
+
+---
+
+### Release the Epstein File!: Protester interrupts JD Vance's speech during North Carolina rally
+*ET Online · world*
+
+A protester demanding the release of the Epstein files interrupted US Vice President JD Vance at a North Carolina rally for Republican midterm candidates. After claiming illegal border crossings had fallen to zero, Vance joked that the protester was one who had slipped through.
+
+[Read full article](https://economictimes.indiatimes.com/news/international/world-news/release-the-epstein-file-protester-interrupts-jd-vances-speech-during-north-carolina-rally/videoshow/135061502.cms)
+
+---
+
+### A crushed tiffin, a broken bucket, mangled vehicles and a Sangrur village plunged into grief
+*Raakhi Jagga · legal*
+
+At the accident site, an Insaaf Committee comprising representatives of several labour and farmers’ organisations has launched a dharna and blocked the state highway.
+
+[Read full article](https://indianexpress.com/article/cities/chandigarh/sangrur-accident-deaths-women-workers-crushed-broken-bucket-vehicles-village-grief-10928974/)
+
+---
+
+### Supreme Court holiday bench to hear YSRCP poll violence plea
+*India Today News Desk · general*
+
+## A Supreme Court holiday bench will hear the YSRCP's civic poll plea and the Vijayan family's FIR challenges. The cases raise concerns over electoral access and pre-FIR hearing rights.
+
+Image used for representational purposes only
+
+Newdelhi,Oct 20, 2026 10:06 IST
+
+A special bench of the Supreme Court is scheduled to hear two matters on Wednesday, including pleas linked to an alleged bribery case and allegations that violence prevented opposition candidates from filing nominations for civic body elections in Andhra Pradesh, news agency Press Trust of India reported.
+
+The bench of Justices Joymalya Bagchi and V Mohana will hear a plea by the Yuvajana Sramika Rythu Congress Party and petitions filed by former Kerala Chief Minister Pinarayi Vijayan and his relatives. The court will sit during the Dussehra holidays.
+
+The YSRCP has challenged the Andhra Pradesh High Court's October 18 order refusing to extend the nomination period for urban local body elections by one day. The party, led by former Chief Minister Y S Jagan Mohan Reddy, has alleged that widespread violence prevented several of its candidates from filing their nominations.
+
+The party has sought police protection for its candidates, an extension of the nomination deadline, and additional and alternative centres where candidates can safely submit their papers.
+
+In its plea, filed by general secretary Lella Appireddy through advocate Mahfooz Ahsan Nazki, the YSRCP alleged that several candidates were assaulted and physically prevented from reaching nomination centres. The nomination period began on October 16 and ended on October 18, according to PTI.
+
+The high court dismissed the party's application for an extension, saying the deadline had expired and that extending it would amount to interference in the election process.
+
+According to the Supreme Court website, the special bench is also scheduled to consider petitions filed by Vijayan, his daughter Veena T and her husband P A Mohamed Riyas. They have challenged a Kerala High Court order dismissing their requests to appeal against a single judge's direction to register a first information report against them in the alleged Cochin Minerals and Rutile Limited bribery case.
+
+On October 15, the Kerala High Court rejected their applications to appeal against the single judge's October 9 order. It held that an accused in a corruption case had no legal right to be heard before an FIR was registered.
+
+Vijayan, Veena and Riyas had argued that the single judge issued the direction without hearing them. They also claimed that the original petition was in the form of a public interest litigation and should, therefore, have been heard by a division bench dealing with such cases.
+
+The appeals were filed after the Vigilance and Anti-Corruption Bureau's Special Investigation Unit-1 registered two FIRs against Vijayan and his family members in connection with the alleged bribery case.
+
+On October 9, the Kerala High Court directed the bureau to register a case based on a report submitted by the Enforcement Directorate to the state police. The ED had sought the registration of a case based on evidence gathered during its investigation and searches under the Prevention of Money Laundering Act.
+
+The agency has alleged that CMRL fraudulently paid Rs 2.78 crore to Veena's now-defunct company, Exalogic Solutions, in the guise of payments for IT consultancy services.
+
+The Supreme Court's special bench will, therefore, consider the YSRCP's request for relief over the Andhra Pradesh civic poll nominations and the petitions challenging the registration of FIRs in the alleged CMRL bribery case.
+
+\- Ends
+
+---
+
+### Marco Rubio India Visit Live Updates: Marco Rubio To Hold High-Level Talks With EAM Jaishankar
+*Meemansa Shekhawat · general*
+
+Marco Rubio India Visit Live Updates: US Secretary of State Marco Rubio is set to travel to India to meet External Affairs Minister S Jaishankar in Mumbai on Tuesday afternoon
+
+[Read full article](https://www.news18.com/world/marco-rubio-india-visit-live-updates-us-secretary-exclusive-interview-with-cnn-news18-bilateral-with-jaishankar-india-us-trade-deal-latest-news-liveblog-ws-l-10389454.html)
+
+---
+
+### Hardik Pandya fan walks 1400 km from Lucknow to Mumbai, then 990 km to Bengaluru to meet Indian star, his gesture wins hearts; watch video
+*Trending Desk · business*
+
+One fan of Hardik Pandya walked for almost 2,390 kilometers just to get a glimpse of the Indian cricketer. Fan named Ravi Kumar who is from Lucknow walked to Mumbai and then Bengaluru to see the cricketer. After meeting Hardik Pandya also made travel arrangements for the fan for his return journey.
+
+## Ravi Kumar Walks From Lucknow to Mumbai
+
+Fan started the journey from Lucknow. He walked for almost 1400 kilometers to Mumbai. Then after reaching Mumbai he got to know that Hardik was in Bengaluru. Without giving away he walked for almost another 990 kilometers to Bengaluru.
+
+  
+
+> — MadhubalaK9703 (@MadhubalaK9703)
+
+## Fan Walks Another 990 Km to Reach Bengaluru
+
+In total, Ravi walked 2.390 kilometers to meet Hardik Pandya.
+
+  
+  
+
+## Hardik Pandya's Gesture Wins Hearts Online
+
+Videos showing Hardik Pandya meeting and interacting with Ravi have gone viral on social media. However, what made the encounter truly memorable was not just a fan getting the chance to meet his idol, but what followed.
+
+Instead of limiting the interaction to a photograph before moving on, Hardik reportedly ensured that Ravi was well taken care of and even made arrangements for his journey back home.
+
+  
+
+## Hardik Pandya’s Injury Update
+
+Meanwhile, Hardik is currently sidelined due to a fresh injury setback. Reports suggest that he has continued to experience pain while bowling, delaying his return to competitive cricket.
+
+---
+
+### 'Govt Must Take Appropriate Action': RSS Chief Mohan Bhagwat Raises Alarm Over Unregulated OTT Access
+*Meemansa Shekhawat · general*
+
+Mohan Bhagwat reiterated his concern over the content available on social media and OTT platforms, warning that unregulated access to information could have a harmful impact
+
+[Read full article](https://www.news18.com/india/govt-must-take-appropriate-action-rss-chief-mohan-bhagwat-raises-alarm-over-unregulated-ott-access-ws-lrt-10389549.html)
+
+---
+
+### US says travelers should reconsider Kenya trips on health risks amid Ebola spread
+*SECTIONS US says travelers should reconsider Kenya trips · world*
+
+Washington: The US State Department said on Monday it has asked Americans to reconsider any travel to Kenya and raised its travel advisory for the African nation due to health risks.
+
+"The level was changed from Level 2 to Level 3 due to health risks," the travel advisory by the US embassy in Kenya said. The advisory was raised to level 3, which asks Americans to reconsider travel, from an earlier level 2 that urges increased caution. "Reconsider travel to Kenya due to risk of health, crime, kidnapping, terrorism, unrest, and traffic safety. Some areas have increased risk," the advisory read.
+
+Kenya confirmed one more Ebola case on Sunday, bringing the total number of infections in the country to eight. Kenya has been on heightened alert, as a major Ebola outbreak centered in Congo has spread across borders in the region.
+
+  
+
+Congo confirmed on Sunday that its outbreak had spread to an eighth province, North Ubangi, underscoring concerns about wider regional transmission.
+
+"Medical services in Kenya are limited. They are often unavailable in rural areas. Medical facilities in Kenya often lack sufficient medicine and equipment," the US travel advisory on Kenya said in its summary.
+
+---
+
+### Apple confirms October 28 event, MacBook Pro and iPad Mini launch expected
+*Kazi Nasir · general*
+
+Apple is preparing to unveil its second wave of products next Wednesday, October 28. Similar to October 13’s “Welcome Home” event – where the giant introduced its smart home lineup – the upcoming “Pro and Tell” won’t be a conventional Apple event like the one on September 9. Even so, Apple is reportedly bringing some exciting new products, including its first touchscreen MacBook Pro at the event.
+
+Apple has already started inviting media personnel to the event in Los Angeles to get hands-on experience with the new devices. Though Apple is yet to confirm what it will reveal, thanks to the rumour mill, we have a good idea of what to expect. According to Bloomberg’s Mark Gurman, we are going to see quite a range of products, including a touch-screen MacBook Pro, a 14-inch M6 MacBook Pro, a new iMac, and an iPad mini OLED.
+
+### What could the touch-screen MacBook Pro bring to the table?
+
+One key highlight of the event is the purported touch-screen MacBook Pro. Apple is likely putting two things in it for the first time — an OLED display and touchscreen technology. The design of the laptop is also expected to see a change; the notch we see in current MacBooks is expected to be replaced by the Dynamic Island familiar from the iPhone.
+
+The move to OLED could be a big upgrade for people who use their MacBooks for creative work. Unlike LCD and mini-LED displays, OLED panels can switch off individual pixels, resulting in deeper blacks, richer colours and better contrast. This could make a difference when editing photos, working on videos or watching movies. However, OLED displays can sometimes fall short of mini-LED panels when it comes to peak brightness.
+
+The touchscreen is another major change. Users are reportedly going to be able to tap and swipe on the MacBook Pro's screen, much like they do on an iPad. But don't expect Apple to turn the MacBook into an iPad just yet. The touchscreen is expected to work alongside the keyboard and trackpad rather than replace them.
+
+There is also a practical concern with touchscreens on laptops. Tapping the display can make the screen wobble, so Apple is reportedly adding a reinforced hinge to keep it steady. The new MacBook Pro is also expected to be lighter than current models and come in 14-inch and 16-inch sizes.
+
+As for the processor, Apple may stick with the M5 Pro and M5 Max chips for these OLED models, rather than wait for the next generation. The company is reportedly skipping the M6 Pro and M6 Max, with the M7 Pro and M7 Max not expected until late 2027 or early 2028. The OLED MacBook Pro could also cost more than the current models, although its exact price remains unknown.
+
+### 14-inch MacBook Pro could get the M6 chip
+
+Alongside the touchscreen models, Apple is expected to update its entry-level 14-inch MacBook Pro with the M6 chip. This would replace the M5 chip that arrived with the current model in October 2025.
+
+However, don't expect a major design makeover here. The entry-level MacBook Pro is reportedly set to retain its existing design, with the new chip being the main upgrade. This could give buyers a newer processor without having to pay the expected higher price of the OLED models.
+
+### New iMac with M6 chip
+
+The 24-inch iMac is also expected to get Apple's M6 chip. Like the entry-level MacBook Pro, the desktop computer is not expected to receive any significant external changes.
+
+That means the familiar all-in-one design could stay the same, with the main upgrade happening under the hood. Apple has yet to confirm the specifications, so details about performance improvements and other changes remain unclear.
+
+### iPad mini 8 could get an OLED display
+
+Apple may also have an update for people who prefer a smaller tablet. The rumoured iPad mini 8 is expected to get an OLED display, which would make it the first iPad outside the Pro lineup to use this screen technology.
+
+The display is not the only expected change. The tablet could get a design refresh with a vibration-based speaker system that eliminates traditional speaker holes. This could help improve water resistance, and the iPad mini 8 may become the first iPad with an IP rating. However, it remains unclear whether it would be protected against splashes only or could also withstand submersion.
+
+Under the hood, the tablet is expected to use the A20 Pro chip, which is also tipped to power the iPhone 18 Pro models. The front camera could move to the landscape edge, making video calls more natural when the tablet is used horizontally. What remains uncertain is whether Apple will retain a 60Hz refresh rate or bring its 120Hz ProMotion technology to the smaller iPad.
+
+All these upgrades could come at a cost. The iPad mini 8 is rumoured to be around $200 (roughly Rs 18,992) more expensive than the current model, which starts at $599 (around Rs 56,883) in the US.
+
+### When could the new Apple devices go on sale?
+
+Apple is expected to unveil the new products on October 28, with some devices potentially going on sale as early as November 6. Pre-orders could open on the day of the announcement, although Apple has not confirmed the schedule or the products it plans to reveal.
+
+For now, the touchscreen MacBook Pro and OLED iPad mini remain among the most interesting possibilities. If the reports are accurate, Apple's upcoming event could bring some of the biggest changes to its Mac and compact tablet lineups in years.
+
+\- Ends
+
+---
+
+### Want Big-Screen Experience At Home This Diwali? BenQ CEO Reveal The ideal Projector Budget
+*Ankit Sharma · technology*
+
+Planning to buy a home projector this Diwali? BenQ India MD Rajeev Singh says Rs 50,000 to Rs 70,000 is the sweet spot for a quality projector. Here's what buyers should know.
+
+[Read full article](https://www.gadgets360.com/tv/features/best-home-projector-diwali-2026-benq-ceo-ideal-budget-12206794)
+
+---
+
+### Akash Ambani charts Jio’s next phase of growth with satellites, 6G and AI - The Economic Times
+*ET Special Follow us Share Font Size Abc Small Abc Medium Abc Large Save Print Comment · finance*
+
+Two weeks before Jio Platforms' IPO, Akash Ambani used the India Mobile Congress to set out where the company plans to build its next layer of capability: satellite communications, pre-6G intellectual property and AI embedded in its core voice and data services.
+
+The 10th edition of IMC was inaugurated by Prime Minister Narendra Modi on October 8 in New Delhi under the theme "Scale Without Boundaries", according to TelecomTalk1. Ambani, chairman of Reliance Jio Infocomm, outlined the three priorities on the sidelines of the event.
+
+## **A sovereign satellite play**
+
+Ambani toldNewsKerala2 that Jio is developing an indigenous satellite communications stack based in India. The stack has been demonstrated to the communications minister and Jio is moving ahead on regulatory approvals, reported Entrepreneur India3. Ambani positioned the satellite as an extension of Jio's broadband strategy, with home broadband as a primary use case, and did not give a launch timeline at the event, the report said.
+
+Jio's display gave a sense of the scale involved. As per TelecomTalk4, Jio showcased a proposed constellation of around 1,600 low-earth-orbit satellites and 23 ground stations across India, targeting more than 600,000 villages, including maritime and border areas. Jio described both figures as part of a proposed plan, the report noted.
+
+## **Pre-6G patents and the deep-tech base**
+
+On 6G, Ambani told ANI, "_In fact, in our pre-6G time, we've already filed for patents_." He tied the filings to the government's target of 10% of global 6G patents originating in India, saying Jio would contribute heavily to that goal.
+
+The filings sit within a growing IP portfolio. According to company figures reported by FinTech BizNews5, Jio Platforms had filed 6,817 patents as of March 31, 2026, of which 1,009 had been granted, and entered WIPO's global top 20 for international patent filings. Ambani, as managing director of Jio Platforms, said the ranking reflected years of work towards becoming a deep-tech company, the report said.
+
+## **AI in core services, and the export pitch**
+
+Ambani told NewsKerala that Jio sees scope to use AI to innovate on traditional voice and data services for Indian consumers. The underlying platform predates IMC. In 2024, Jio Platforms unveiled JioBrain, an AI platform developed over two years by hundreds of engineers that offers machine learning as a service across telecom and enterprise networks, as TelecomTV reported6. Jio has positioned it as groundwork for 6G.
+
+Jio's IMC showcase also pointed to products aimed beyond its own network. According to TelecomTalk7, these included AI-native, self-healing networks offered to other operators, a telecom stack pitched as an alternative to established global vendors, the Jio Education Stack, AI wearables, an enterprise AI stack and JioAIHome.
+
+Ambani expanded on these themes at the Jio IPO media meet in Mumbai a week later. He cited AI voice tools for transcription and summarisation across 12 Indian languages that Jio's reach could deliver at scale, and plans to offer Jio's technology to international operators as a managed service rather than as standalone software or equipment. He put the company's patent filings at more than 7,220, backed by over 12,000 engineers, and said Jio has around 30 million home broadband customers, with its network reaching nearly 40 million of India's roughly 300 million households.
+
+Ambani has been chairman of Reliance Jio Infocomm since June 2022, according to Quartz8. At IMC, he described the upcoming listing as "_a great responsibility_", as Entrepreneur India reported.
+
+For investors, the IMC roadmap adds a set of longer-dated bets to Jio's core connectivity business. The satellite constellation remains a proposal without a launch timeline, the 6G patents precede a technology still being defined, and the AI voice tools were outlined as plans. How quickly each moves from roadmap to revenue will be one of the questions the market tracks once Jio Platforms is listed.
+
+**References:**
+
+1.  https://telecomtalk.info/imc2026-jio-plans-satellite-network-connect-600000villages/1012635/
+2.  https://www.newkerala.com/news/a/jio-developing-indigenous-satellite-technology-filing-pre-6g-patents-740.htm
+3.  https://india.entrepreneur.com/business-news/akash-ambani-pushes-for-indigenous-tech-stack-at-imc-2026
+4.  https://telecomtalk.info/imc2026-jio-plans-satellite-network-connect-600000villages/1012635/
+5.  https://fintechbiznews.com/fintech-technology/jio-platforms-in-global-top-20-in-wipo-patents
+6.  https://www.telecomtv.com/content/ai/jio-platforms-unveils-its-jiobrain-ai-platform-49512/
+7.  https://telecomtalk.info/imc2026-reliance-jio-showcases-india-built-ai/1012596/
+8.  https://qz.com/india/2183249/akash-ambani-becomes-the-new-chairman-of-rils-reliance-jio
+
+---
+
+### What Smit Machchhar did was ‘Hindu’ consciousness: RSS chief Mohan Bhagwat
+*Vikas Pathak · legal*
+
+Bhagwat described Hindu consciousness as the country’s national consciousness, saying it had nothing to do with religion, food habits or political ideology
+
+[Read full article](https://indianexpress.com/article/india/what-smith-machchhar-did-was-hindu-consciousness-rss-chief-mohan-bhagwat-10928969/)
+
+---
+
+### Vijayadashami Utsav: RSS chief Mohan Bhagwat says India’s diversity must be accepted, protected
+*SECTIONS Vijayadashami Utsav RSS chief Mohan Bhagwat says India’s diversity must be accepted · business*
+
+RSS chief Mohan Bhagwat on Tuesday said India’s diversity of faiths, regions, castes, languages, food habits and traditions must be accepted and protected, calling for stronger emotional bonds to maintain the country’s unity.
+
+Addressing the Rashtriya Swayamsevak Sangh’s (RSS) Vijayadashami Utsav in Nagpur, Bhagwat said the organisation’s work over the past 100 years had focused on awakening national self-awareness and making India stronger and self-reliant.
+
+“India is a land of diversity. It has immense natural diversity, as well as diversity in faiths, regions, castes, languages, food habits, customs, and traditions,” Bhagwat said, adding that the country needed “a foundational principle that accepts and embraces all these diversities” to continue moving forward as one.
+
+  
+
+He said respect for diversity was embedded in India’s philosophical traditions and had been part of the country’s character for generations.
+
+“Our tradition teaches us to respect and accept every form of diversity and to provide protection and support to all. This has been our inherent nature for generations,” he said.
+
+Bhagwat added that traditions must adapt to changing circumstances while eternal truths remain steadfast. “Therefore, whatever is changeable in life must evolve with changing times, while eternal truths must remain steadfast. This flexibility is itself a consequence of our eternal, or Sanatana, worldview,” he said.
+
+Emphasising national unity, Bhagwat said divisions had weakened India in the past, leading to centuries of colonial rule.
+
+“We became divided and weakened. Then we kept falling lower and lower, until we had to endure hundreds of years of slavery,” he said.
+
+“Now, after gaining freedom from that slavery through the tremendous efforts and sacrifices of many great leaders and countless people, we have begun walking on the path of unity and progress,” Bhagwat added.
+
+He said the circumstances facing the country today demanded greater effort than during the period of India's independence and the RSS’ founding.
+
+“The Chief Guest mentioned the atmosphere that existed at the time of India's independence and during the founding of the Rashtriya Swayamsevak Sangh (RSS). It was a different era…Today, the circumstances demand even greater effort than what was required then. When we look at the present situation, this becomes evident,” he said.
+
+Bhagwat linked the RSS’ centenary-year work to ‘svabodh’, or awareness of India’s identity and ethos. He said this sense of collective identity was reflected in the Constitution’s Preamble, which begins with the words “We, the people of India”.
+
+“The work the RSS has been carrying out for the past 100 years is also aimed at awakening this sense of national identity. Rooted in India’s identity and history, this effort seeks to organise the country and make it strong and self-reliant,” he said.
+
+Bhagwat also recalled Swami Shraddhanand, Swami Laxmanananda Saraswati, Mahatma Jyotirao Phule and Shrimad Rajnarayan Basu.
+
+He said this year marked the centenary of the martyrdom of Swami Shraddhanand, whom he described as an Arya Samaj ascetic, educationist, pioneer of the Shuddhi movement and freedom fighter. The birth centenary of Swami Laxmanananda Saraswati was also being observed, Bhagwat said, noting his work among tribal communities in Odisha.
+
+He also referred to the 200th birth anniversary years of Mahatma Jyotirao Phule and Bengal’s Shrimad Rajnarayan Basu.
+
+Recalling Sant Ravidas, Bhagwat said that during attacks by foreign invaders on people following their faiths and traditions, the saint spread the message of ‘svadharma nishtha’, social harmony and devotion.
+
+“With the example of his own life, he gave comfort to the society of the time and boosted their morale, while upholding their quality,” Bhagwat said.
+
+---
+
+### Evil forces want to dismantle India: Mohan Bhagwat on 'regime change op'
+*India Today News Desk · general*
+
+## RSS chief Mohan Bhagwat has claimed that "regime change" operations are carried out across the world to ensure that those pursuing their own interests and their "stooges" remain dominant. He said India's growth stood in the way of these efforts, making the country their "ultimate goal."
+
+Rashtriya Swayamsevak Sangh (RSS) chief Mohan Bhagwat has warned that India is a target of global forces seeking to weaken the country through “regime change” operations, alleging that such efforts are underway in India and are finding support from ambitious leaders driven by power.
+
+"India, Hindus, and the Sangh can be dismantled in what manner—this is what the demonic forces contemplate, devise plans for, and act upon. Some people, in accordance with their very nature, join in to assist in this endeavour,” Bhagwat said in an address during the RSS' Vijayadashami celebrations in Nagpur.
+
+"Due to petty power interests and a lack of wisdom, some ambitious leaders also get involved," he added.
+
+> #WATCH | Nagpur, Maharashtra: At RSS' Vijayadashami celebrations, RSS chief Mohan Bhagwat says, "When our country was reeling under the attacks of foreign invaders, when they were unleashing terror on those who followed 'svadharma' here, and there was an atmosphere of terror here, Sant Ravidas spread the message of 'svadharma nishtha', social harmony, and devotion. With the example of his own life, he gave comfort to the society of the time and boosted their morale, while upholding their quality..." (Video: RSS)— ANI (@ANI) October 20, 2026
+
+While pointing to the unrest in France, Albania, Bangladesh and Nepal, the RSS chief said that “a storm has blown from the West that seeks to destroy every form of order, decency, well-being, and cultural and human values."
+
+“They say that 'regime change' will change the situation, but it has never happened before, and it is not happening today,” he said.
+
+Bhagwat alleged that such operations are carried out across the world to ensure that those pursuing their own interests and their “stooges” remain dominant. He said India's growth stood in the way of these efforts, making the country their “ultimate goal”.
+
+“Such efforts are underway in India as well,” he said, adding that the country's firm policies in recent decades and the strong leadership that had steered it forward had made an impact.
+
+Bhagwat also credited India's younger generation with developing a sense of responsibility towards the country and the world, saying that this effort within society had thwarted the alleged designs of these forces.
+
+While speaking about protests and movements in a developing country, the RSS chief said that problems were bound to persist as India had not yet fully developed.
+
+“If there are problems, there will be movements. In a democracy, there will be movements,” he said.
+
+However, he stressed that the purpose of such movements should be to find solutions rather than merely register protests. “But why should there be movements? They should be for solutions. The purpose of a movement is a solution."
+
+Bhagwat added that whether it was groups leading movements or the government, administration and political leaders taking steps to establish peace and order, the objective of all should be to find a solution.
+
+\- Ends
+
+---
+
+### 'Have courage, and be kind': Sahara Ray's personal mantra that helped her fight back after being hit by a truck travelling at 80 miles per hour
+*ET Entertainment Desk · business*
+
+Australian model and swimwear designer Sahara Ray, who was once linked to Justin Bieber, has died at the age of 34, months after welcoming a baby girl. Her family confirmed that she died in hospital on October 18, surrounded by loved ones. The cause of her death has not been disclosed.
+
+Ray had built a career as a model and entrepreneur, gaining attention for her swimwear designs and social media presence. Following news of her death, an old interview in which she spoke about her personal philosophy has resurfaced online.
+
+In a 2015 interview with GQ, Sahara Ray was asked about the mantra she followed while navigating life's challenges. She said, "What is your mantra? Have courage, and be kind. Where there is kindness, there is goodness and where there is goodness, there is magic."
+
+Ray built a following through her modelling photographs, swimwear designs and glimpses of her life shared on Instagram. Her account had around 899k followers. She also launched her own swimwear label, Sahara Ray Swim.
+
+She came into the spotlight in 2016 after photographs of her spending time with Justin Bieber during a holiday in Hawaii made headlines. Ray was also previously linked to Australian singer Cody Simpson.
+
+  
+
+## Sahara Ray's battle with Guillain-Barré syndrome after a serious accident
+
+In May 2024, Ray publicly revealed that she had been diagnosed with Guillain-Barré syndrome, a rare neurological condition in which the immune system attacks the peripheral nerves. She also spoke about the serious health challenges she experienced following a car accident involving a drunk driver.
+
+According to UK Celebrity News, Sahara Ray said the driver had been travelling at around 80 miles per hour when the incident occurred. She described being left paralysed from her upper thighs down to her feet, making it difficult for her to move around independently. She said she needed a wheelchair and a walker to get around.
+
+Guillain-Barré syndrome can affect movement and, in severe cases, cause significant muscle weakness or paralysis. The condition can require extensive medical care and rehabilitation, although the effects vary from person to person.
+
+## Sahara Ray welcomed a baby girl months before her death
+
+Motherhood had become a new chapter in Sahara Ray's life in the months before her death. In what is understood to be her last known Instagram post, she shared an emotional message about her daughter, describing the little girl as “my whole heart”.
+
+The post shared a personal glimpse into her life away from modelling and the public attention that had followed her over the years.
+
+Sahara Ray was the daughter of Australian surfing legend Tony Ray. She spent much of her childhood moving between Australia, California and Hawaii, experiences that shaped her life across different places and cultures.
+
+In recent years, she had largely stayed away from the public eye. Her last known public appearance was at the Ashton Michael RTW 10-Year Anniversary Show in Los Angeles in November 2023. She attended the event with musician Mod Sun, whose real name is Derek Ryan Smith.
+
+The two were later spotted together in Malibu in June 2024 and were romantically linked, although they kept their relationship largely private.
+
+---
+
+### Sister’s husband claimed he got his father-in-law's land via oral gift and sold it but her brothers objected; Madras HC rules in brothers' favour for this reason - The Economic Times
+*Neelanjit Das · finance*
+
+A recent Madras High Court judgement gave back 36 cents of land to two brothers after it was proved that their sister’s husband sold it using an invalid gift deed under Hindu law.
+
+Justice R. Sakthivel of Madras High Court said in his judgement that the gift of an immovable property can be made only through a registered instrument attested by at least two witnesses. The only exception is under Section 129 of the Transfer of Property Act, 1882, which exempts gifts under the Muslim law from mandatory registration. For Hindus, Section 123 of the Transfer of Property Act, 1882 applies, requiring all gifts to be properly registered and attested.
+
+In this case, the sister claimed the father’s 36 cents of land on the basis of an oral gift with no registered deed. When her husband’s family sold the land based on this oral gift, the brothers got angry and filed a court case on April 30, 1987.
+
+After a long discussion, the Madras High Court ruled on September 2, 2026, that since all parties in this case are Hindus, the oral gift is invalid under Hindu law. Because the gift deed itself is invalid, the subsequent sale of the land is also invalid. On this ground, the brothers won back the title of their father’s land. Now, the brothers need to start the eviction process to remove the current owner.
+
+Read on to learn more about this family and what this judgement means for Hindu families,
+
+## Details of the family
+
+According to the court submissions, Mr Rangi Chettiar purchased 1/4th share of a land measuring 2 acres 28 cents from Mr Kempana Gounder through a sale deed dated July 24, 1922.
+
+On September 22, 1947, Rangi Chettiar's son, Kumara Chettiar, executed a registered Settlement Deed in respect of his family properties, including 1/4 share in Suit 'A' schedule property, in favour of his two sons, R.K.Thimmi Chettiar and R.K.Rangasamy Chettiar. The mutation records were updated in their names and since then they remained in possession.
+
+Kumar Chettiar also had a daughter, Mrs Venkattammal (sister of R.K.Thimmi Chettiar and R.K.Rangasamy Chettiar), who denied execution of any such settlement deed. She instead claimed that her father gave up this land to Mr T.Rangasamy Chettiar, who is her husband, via an oral gift.
+
+The dispute got more complicated when for unknown reasons, the government ordered a re-survey of all the lands in the village, after which the records erroneously showed that this 36 cents of land belonged to T. Rangasamy Chettiar, Venkattammal’s (the sister’s) husband.
+
+Based on this wrong record entry in land survey records, T. Rangasamy Chettiar’s family sold the land to another person on January 29, 1987. This person who purchased the 36 cents land claimed to own it on the basis of this sale.
+
+## Why did the sister's side lose the case?
+
+Navod Prasannan, Partner at King Stubb and Kasiva, said to ET Wealth Online: The main fight was whether the 36 cents land was actually transferred to the sister's husband. The sister's side claimed it was given to him orally, but they were never consistent - at one place they said it was an oral sale, at another an oral gift, and at another a family arrangement. The brothers disputed this completely and said they still have a share. The High Court looked for solid proof of transfer and found nothing reliable to support the sister's side.
+
+The biggest legal hurdle was the Transfer of Property Act angle. Since the parties are Hindus and the property is immovable, any claim of gift has to satisfy Section 123 of the Transfer of Property Act. Prasannan says that Section 123 says that for Hindus you cannot gift immovable property just by oral understanding; it must be made through a registered document which is properly attested by witnesses.
+
+Because there was no such registered deed, the Madras High Court held that no valid gift had taken place in the eyes of law.
+
+The Madras High Court also examined the revenue records which the sister's side was heavily relying on. It found that in the subsequent re-survey the land was incorrectly reflected, and the patta entry in favour of the sister's side was made without giving any notice to the brothers.
+
+So, the Madras High Court refused to treat that patta as proof of ownership. Prasannan says that the brothers succeeded because they could show better property records and possession, while the sister's side failed to establish any legally valid transfer.
+
+Prasannan says that Hindu families should never leave property matters to oral understandings, no matter how good the relations are at that time. What seems like mutual trust today becomes very difficult to prove years later when disputes arise, especially when the original elders are no more.
+
+Prasannan says: "If you want to gift immovable property to a family member or divide property among yourselves, it must be properly documented and registered in accordance with law."
+
+Prasannan says that this Madras High Court judgment also reminds us not to blindly trust patta or revenue records. A patta by itself does not decide ownership and can be entered wrongly. Families should keep checking their land records, particularly after a re-survey, and should raise objections at the right stage if they see a wrong entry.
+
+## Madras High Court discussion
+
+### No notice for re-survey proceedings were given to the brothers
+
+The Madras High Court ruled that the authorities constituted under the
+
+Tamil Nadu Survey and Boundaries Act, 1923, ought to have issued notice under Section 9(2) before conducting survey and ought to have informed their decision under Section 10(2) to the registered holders i.e. the brothers. However, no such notice was given to the brothers. So, they were not bound by the decision to record the sister’s husband as owner of this land.
+
+### Gift of Hindu property can only be made using registered instrument
+
+The Madras High Court observed that the father T.Rangasamy Chettiar, and the other heirs all belong to Hindu religion. Hence Section 123 of the Transfer of Property Act, 1882, shall be applicable to the parties. Thus if the contesting person’s stand is based on an oral gift, then reference must be made to Section 123 of the Transfer of Property Act, 1882.
+
+Madras High Court said that a gift of an immovable property can be made only through a registered instrument attested by at least two witnesses. Moreover, under the Registration Act, 1908, it is mandatory to register a gift of immovable property and the distinction of property being more than or equal to Rs 100 does not apply to a gift in case of immovable property.
+
+### Oral partition can only be made if the party making it had any pre-existing right to that property
+
+The Madras High Court said that if the contesting defendants' stand is oral partition, it is settled law that partition can be effected only among persons with preexisting rights. There is nothing available on record to show that T.Rangasamy Chettiar had any pre-existing interest or right over the ¼ share in Suit 'A' schedule property in any manner. Nor are there any pleadings to that effect. Hence, Madras High Court said that they are of the view that, if the contesting defendants' stand is oral partition, it must also fail.
+
+### The brothers established their case by way of Preponderance of Probability
+
+The Madras High Court said that the contesting defendants have failed to establish their case. There is no evidence available on record to show that T.Rangasamy Chettiar or the contesting defendants were in possession and enjoyment of the property prior to the re-survey.
+
+Hence, the Madras High Court said that they are of the view that the brothers have successfully established their case. Therefore, the Patta issued in favour of T.Rangasamy Chettiar under Re-Survey is invalid and not binding upon the brothers.
+
+The Madras High Court said: “Consequently, the Sale Deed dated January 29, 1987, executed by the legal heirs of T.Rangasamy Chettiar, namely defendants 13 and 14, in favour of the fifteenth defendant is also invalid and not binding upon the brothers.”
+
+
+---
+
 ## 19 October 2026
 
 ### He left Rs 40,000 engineering job for Rapido. Now, he earns up to Rs 1.2 lakh a month
