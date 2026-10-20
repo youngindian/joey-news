@@ -1,8 +1,75 @@
 # Editorials
 
-_Last updated: 2026-10-19 06:38 UTC_
+_Last updated: 2026-10-20 06:24 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 20 October 2026
+
+### A familiar script after a tragedy
+*Deccan Herald · Editorial*
+
+Everything that goes wrong at large congregations and leads to a stampede was present at the pooja pandal in Kolkata, where 19 people were killed and at least 25 were injured on Saturday. The tragedy at the Chorbagan pandal was foretold but ignored by both the organisers and the authorities responsible for ensuring safety. Reports indicate that the entry and exit points were too narrow for emergency movement, security personnel were far fewer than what was required, and announcements meant to guide the crowd only added to the confusion. As often happens, showers triggered a rush; a sudden downpour forced some visitors to seek shelter inside an already crowded pandal, while others tried to leave. An announcement suggesting that the structure might collapse increased the panic. A VIP gate may have constrained effective use of the limited space. The competitive zeal among Durga Puja organisers to outshine one another has often come at the expense of safe and efficient pandal design and crowd management.
+
+The day after the tragedy also has a familiar script: condolences, ministerial visits to the venue, compensation announcements, arrests, safety audits, formation of a special investigation team, blame games, and whataboutery. Questions about why temporary shops were permitted in a narrow lane, and why basic safety protocols, crowd management guidelines, and emergency rescue norms were not followed, will likely remain unanswered. Rain or other natural events, the sudden arrival of a vehicle, or sheer crowd size are often cited as causes of the tragedy. There have been findings that blamed the victims or the inability of the crowd to follow directions for the situation ‘going out of control’ and causing deaths and injuries.
+
+Kolkata stampede: A shoe mark on a child’s face, a father’s wail — ‘No Puja for us again’Last year alone, stampedes at different venues claimed over 127 lives. According to the National Crime Records Bureau (NCRB), India has witnessed 3,935 stampede incidents between 1996 and 2022. India is a country with a huge population where large numbers of people congregate on various occasions. Most stampedes have happened at places of worship. It is administrations at all levels, especially at the local level, and organisers of events where crowds gather who should ensure that safety protocols are religiously enforced. It is unfortunate that India has not learnt the necessary lessons from the thousands of stampedes it has seen.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-familiar-script-after-a-tragedy-4188628)
+
+---
+
+### Metro’s costly drift from timelines
+*Deccan Herald · Editorial*
+
+Bengaluru’s Pink Line has become an expensive illustration of what happens when infrastructure planning and execution drift far from their timelines. The 21.26-km corridor, linking Kalena Agrahara in the south to Nagawara in the north via M G Road, was originally estimated at Rs 8,730 crore and scheduled for completion by March 2016. Construction commenced only in 2020, by which time the revised cost nearly doubled to Rs 17,346 crore. Tendering delays, bureaucratic red tape, complex tunnelling, escalating material prices, and steep land costs all played a part. Meanwhile, the estimate for Phase 2 has increased from Rs 30,695 crore to Rs 40,425 crore. This is not an isolated setback. Bengaluru began planning its metro in the early 2000s, with approvals granted in 2006. The first 6.7-km stretch of the Purple Line opened in October 2011, but the line connecting Whitefield and Challaghatta became fully operational only in October 2023. The Green Line began operations in March 2014, while the Yellow Line now links R V Road and Bommasandra. The Pink Line and the airport-bound Blue Line remain under construction. Future projects include the proposed Red Line from Sarjapur to Hebbal and the Orange Line in western Bengaluru. Once all sanctioned phases are completed, the network is expected to extend to around 220-225 km.
+
+By comparison, Kolkata introduced India’s first metro in 1984, while Delhi’s network now exceeds 350 km. Bengaluru, a later entrant, has widened the gap through delays in execution. The airport shows the consequences of poor planning clearly: Kempegowda International Airport opened in 2008, yet nearly two decades later it still lacks metro connectivity. A rapid-transit link should have been planned and delivered alongside the airport rather than treated as an afterthought.
+
+Pink Line: BMRCL files compliance with CMRS's observationsThe larger problem is a persistent failure to anticipate future demand. Projects are conceived to address current congestion, but by the time they are completed, they fall short of the needs they were intended to meet. In this context, proposals such as the 60-km Bengaluru-Tumakuru metro, expected to cost over Rs 20,000 crore, raise legitimate questions about priorities. Announcing ambitious new corridors while existing ones remain unfinished risks stretching finances and administrative capacity even further. Before announcing new infrastructure projects, the government must complete works underway, with firm deadlines, regular progress reviews, and clear accountability for delays. Bengaluru is Karnataka’s largest economic contributor and one of the world’s fastest-growing metropolises. It needs infrastructure that anticipates growth, not a succession of delayed projects that struggle to catch up with it.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/metros-costly-drift-from-timelines-4188627)
+
+---
+
+### What a young India can learn from Gandhi, Jayaprakash Narayan
+*Deccan Herald · Opinion*
+
+Recent events in Delhi deserve to be seen beyond the immediate confrontation between the government and the Opposition. Something deeper is taking shape in India — a crisis of trust between citizens, particularly the young, and institutions meant to stand above day-to-day politics.
+
+The Election Commission of India is a constitutional institution, and the National Testing Agency was created as an autonomous body to conduct examinations. Yet controversies over electoral rolls and NEET have contributed to a growing perception, especially among the young, that institutions on which their future depends are not sufficiently transparent, accountable, or independent. Whether every allegation is eventually proved is important. But the larger question is: why so many young people doubt the fairness of the system?
+
+Youth anger meets State repression: How CJP and resurgent protests are testing the Modi governmentThe State’s response to youth protests is, therefore, significant. Barricades, restrictions, heavy police deployment, and detention may control a demonstration, but they cannot restore trust. A democracy cannot police its way out of a crisis of confidence. When peaceful protest is treated primarily as a law-and-order problem, the State may win the day but lose something more valuable — the confidence of citizens.
+
+There is also a difference between a protest led by political parties and a mobilisation of young citizens who do not see themselves as extensions of any party. Governments understand political parties — their leaders, structures, and compulsions. A spontaneous youth mobilisation is more fluid, less predictable, and potentially more enduring.
+
+I would hesitate to say that the government is ‘afraid of Gen Z’ while taking the Opposition lightly. That is an interpretation, not a fact. But independent youth mobilisation does present a different challenge. The young people protesting today will form a substantial part of India’s electorate in the coming years. They can be offered employment, entrepreneurship, technology, and development. They can also be dispersed through political co-option or fear. But one thing is harder to manage: a generation that loses trust in democratic institutions themselves.
+
+Here Mahatma Gandhi, and later Jayaprakash Narayan, offer important lessons. Gandhi never regarded opposition to British rule as the whole of the freedom struggle. Satyagraha and non-cooperation were accompanied by a Constructive Programme: communal harmony, removal of untouchability, village industries, education, sanitation, health, work among peasants and labourers, Adivasi welfare, and the rebuilding of village societies. Constructive work was not an adjunct to political struggle; it was the preparation for Swaraj. Gandhi understood something contemporary politics often forgets: it is easier to mobilise people against something than to mobilise them for something.
+
+Jayaprakash Narayan (JP) carried a related idea into a different historical moment through his call for Sampoorna Kranti (Total Revolution). His movement united students, citizens, and political groups against corruption, authoritarianism, and the erosion of democratic institutions. The restoration of democracy after Emergency was a great victory for India. JP showed that citizens, when morally mobilised, could challenge an overwhelmingly powerful political establishment.
+
+Yet history leaves a difficult question: why did India, after such a powerful nationwide movement, return so quickly to many of its familiar political and social ways? This is not to diminish JP or the achievement. Precisely because the achievement was so great, the question must be asked. The movement defeated authoritarianism, but Sampoorna Kranti did not become a sustained, nationwide, non-party constructive programme through which citizens could practise democracy in their daily lives.
+
+Political parties eventually occupied the space the movement opened. Governments changed, but many deeper structures of inequality, corruption, centralisation, and dependence on political power remained. The lesson is uncomfortable but necessary: a nationwide andolan can remove a government; it cannot by itself reconstruct a society. Political victory without social reconstruction leaves political culture largely unchanged.
+
+This is where Gandhi’s Constructive Programme regains relevance. Why should young people only protest? If they distrust the ECI, let them create non-partisan Citizens’ Election Watch groups to verify electoral rolls, explain correction procedures, and document irregularities. If they distrust examination systems, let students study how examinations are conducted and demand institutional reforms that protect millions of candidates.
+
+If unemployment concerns them, let them work with communities to develop livelihoods, skills, and enterprises rather than waiting solely for government recruitment. If climate change concerns them, let them restore water bodies, regenerate degraded land, and work with farmers on ecological livelihoods. If the condition of villages concerns them, let every college adopt a cluster of villages and make health, education, sanitation, digital literacy, and local economic development part of student citizenship. This would not mean withdrawing from protest. It would mean giving protest a constructive foundation.
+
+The same principle applies to India’s forest regions. The defeat of Maoist violence is important; no society can permit armed violence to decide its future. But the end of insurgency cannot be a licence to transfer forests and natural resources to corporations without considering the rights and livelihoods of forest-dwelling communities and ecological consequences. Gandhi would ask: development for whom, and decided by whom? A constructive programme would unite gram sabhas, Adivasi communities, young people, ecological knowledge, and responsible investment. Development need not reject industry, but it must enlarge the capabilities, livelihoods, and dignity of local people rather than merely transfer their resource base elsewhere.
+
+How inexperience, strategic missteps hobbled the CJP's anti-CEC protestsThe Opposition, too, has responsibilities. It should not merely inherit youth anger or convert every youth mobilisation into another political rally. Nor should it assume that defeating the current government equals changing India. The lesson of JP is that political victory is not social transformation. If the Opposition wants to become a credible alternative, it must demonstrate what different politics would mean in education, employment, institutions, villages, forests, and the everyday lives of citizens.
+
+The young need not become another Opposition. They could become an independent democratic force that questions every government, but belongs to none; that protests when necessary, but constructs continuously; that demands accountability from institutions, while practising accountability itself. This is what Gandhi understood by Swaraj. It was not simply the transfer of power from British rulers to Indian rulers. It began with self-regulation, extended to the capacity of communities to govern themselves, and required citizens capable of resisting domination without becoming instruments of domination themselves.
+
+The writer is former vice chancellor of Gujarat Vidyapith, founded by Mahatma Gandhi in 1920) (Syndicate: The Billion Press.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/what-a-young-india-can-learn-from-gandhi-jayaprakash-narayan-4188640)
+
+---
 
 ## 19 October 2026
 
@@ -58,6 +125,116 @@ We should not wait for definitive evidence of harm before asking whether the dig
 Derick H. Lindquist is Dean of the Jindal School of Psychology and Counselling at the O.P. Jindal Global University, Sonipat, Haryana
 
 [Read full article](https://www.thehindu.com/opinion/lead/developing-minds-in-a-digital-world-a-changing-india/article71600546.ece)
+
+---
+
+### DC Edit |Bridge Ladakh’s Trust Deficit
+*Deccan Chronicle · Editorial*
+
+Ladakh stands at a defining moment in its modern political history. Massive infrastructure projects, unprecedented strategic investment and growing national attention have placed the region firmly at the centre of country's development and security calculus. Yet, beneath this promise lies a widening trust deficit between Ladakh’s representative leadership and the Union government, one that cannot be ignored.
+
+The Centre’s rejection of demands for statehood or a Union Territory status with a legislature has made one thing clear: Ladakh is unlikely to follow the constitutional road travelled elsewhere in the country. Instead, the Centre is proposing a unique model, tailored to the region. While innovation in governance is not inherently problematic, any framework imposed without broad local acceptance risks deepening political alienation.
+
+The concerns raised by the Leh Apex Body (LAB) and the Kargil Democratic Alliance (KDA) cannot be dismissed as mere questions of nomenclature or administrative design. At their core lies a demand for meaningful democratic participation, constitutional safeguards and a greater voice over land, resources, culture and development. For a region with fragile ecology, distinct cultural traditions and sensitive demographics, these aspirations are legitimate and deserve serious consideration.
+
+At the same time, Ladakh’s leadership must recognise the strategic realities that inform the Centre’s approach. Bordering China and Pakistan, Ladakh is not an ordinary administrative unit. Its geopolitical significance makes stability, institutional clarity and national security paramount concerns. A prolonged confrontation between local stakeholders and the Centre serves neither purpose.
+
+What is needed now is not maximalism from either side, but statesmanship. The Centre must engage with Ladakh’s representatives in a spirit of trust, flexibility and transparency. Equally, LAB and KDA should remain invested in dialogue rather than outright rejection. Constitutional innovation can succeed only if it carries democratic legitimacy.
+
+The stakes are far greater than a constitutional formula. Development can build roads, airports and power plants. Only consensus can build durable institutions. For Ladakh, and for India, the challenge is to ensure that strategic importance is matched by political accommodation. A peaceful, empowered and confident Ladakh is not merely a regional aspiration; it is a national necessity.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-bridge-ladakhs-trust-deficit-1997307)
+
+---
+
+### DC Edit | State Must Break Gangs, Not Simply Nab Gunmen
+*Deccan Chronicle · Editorial*
+
+The firing on Bollywood actor Tiger Shroff’s car in Mumbai’s Juhu on Sunday evening is an open challenge to the authority of the state and the rule of law. Though the actor escaped the firing with minor injuries, his driver and a bystander were injured. The fact that gunmen opened fire in a public place, endangering everyone present highlights the need for a sustained campaign against organised crime and accountability for the failures that allow armed criminals to strike.
+
+In a sound clip released on social media, two persons who claimed to be members of the Lawrence Bishnoi gang, accepted the responsibility for the attack, accusing Shroff of ignoring their earlier warnings. They also threatened attacks on Salman Khan and those working with him.
+
+A social media declaration cannot substitute for evidence. Police must establish its authenticity and identify the people who commissioned, financed and facilitated the shooting and act against them. Mumbai knows the damage organised crime can inflict on its economy, institutions and public confidence. Maharashtra Chief Minister Devendra Fadnavis, who also holds the home portfolio, must ensure that India’s financial capital does not become a lawless land once again.
+
+The government’s objective must be the elimination of criminal cartels. Arresting the shooters is essential, but insufficient. Investigators must pursue recruiters, weapons suppliers, financiers, extortion collectors and those arranging transport, accommodation and reconnaissance. Every payment and communication should be traced until the chain of command is established and attached.
+
+Another important aspect that requires attention is the motive behind attacks on film personalities and celebrities. An attack typically will have two broad motives — extortion or publicity. Established gangsters attack celebrities or business persons for extortion. The attacks on T-Series founder Gulshan Kumar and producer Rakesh Roshan fall into this category. Criminals seeking to establish themselves as gangsters carry out attacks to gain publicity. Attacks on celebrities generate publicity, which criminals can exploit to intimidate and extort money from others.
+
+While extortion is an area that only law enforcement agencies need to deal with, the government needs a different strategy to deal with newbie or aspirational criminals, who need publicity to establish themselves as gangsters. The government needs to work with media organisations to evolve a policy or standard operating procedure which denies publicity to criminals by not identifying them. This may not end the emergence of gangsters, but it will remove an important motive behind the attacks on celebrities.
+
+The government should also look at organised crime differently from individual crime because the unstated goal of the former is to enforce its writ, which challenges the sovereignty and authority of the state. When gangsters seek to settle disputes, they challenge the authority of courts and the rule of law. A challenge to the state amounts to sedition and insurrection, and such crimes should be treated as acts of waging war against the state and offenders must face exemplary punishment to deter criminals from joining crime networks, which operate on a franchise model.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-state-must-break-gangs-not-simply-nab-gunmen-1997300)
+
+---
+
+### Gen Z Needs To Regroup, Pick Issues That Matter
+*Deccan Chronicle · Opinion*
+
+It is clear to everyone around that the fight over the special intensive revision (SIR) carried out by the Election Commission under Chief Election Commissioner Gyanesh Kumar is not going to be a T-20 contest. It is going to be a long-drawn-out one.
+
+There is little doubt that the SIR was not carried out fairly. It is a legal issue, and it would need hundreds and thousands of people to step forward to make their complaints over the arbitrary way the state election commissions have carried out the exercise.
+
+The Supreme Court can only judge the issues concerning SIR based on specific instances. There need not be many examples. a single instance of violation of a rule or procedure is sufficient to hold SIR to be null and void.
+
+There is enough room to assume that CEC Kumar is not above suspicion of acting improperly. The court can suggest revisions and give directions for remedial measures. That will still leave Mr Kumar the choice to complete his term in the face of protests. So the objections to SIR and nailing Mr Kumar’s responsibility can only go so far and no further. Armed with a possible negative view of the Supreme Court over SIR, the Opposition can initiate the impeachment process against the CEC.
+
+If the Opposition manages to establish the wrongdoings in the execution of SIR, it will be both a political and a legal victory. In the political arena, moral victories do not matter much. It is also clear that the Opposition’s main target is not Mr Kumar but Prime Minister Narendra Modi and his chief collaborator in the decision-making process, Union home minister Amit Shah. Even if Mr Kumar is nailed for his legal faux pas, Mr Modi and Mr Shah can shrug their shoulders and remain cynical bystanders. It is hard to imagine that either the Prime Minister or the Union Home minister will take moral responsibility for the illegalities found in the implementation of SIR.
+
+So those who have filed the case against SIR will have to be content with tactical victories. This will be a crucial political gain no doubt. But as in the case of Neet and the resignation of then Union education minister Dharmender Pradhan, the Modi government will divert attention by talking about the economy though it is not doing too well in real terms.
+
+Finance minister Nirmala Sitharaman appears acutely aware of these economic challenges. She has been speaking in sombre tones about the rupee’s declining value against the dollar and rightly attributing it to external factors. And unlike Union commerce minister Piyush Goyal, who has been unduly optimistic and even exuberant, she referred to India-United States trade talks in guarded tones. She remarked that both sides have reached a plateau in the talks, and neither side has any scope for yielding ground.
+
+The sale of majority stake of the Industrial Development Bank of India (IDBI) is not the gleeful development that innocent people in and outside the government are making it out to be. It is not a trophy for that illusive and elusive thing called economic reforms. Instead of creating public sector banking giants, as China has done, India has opted to bring in a foreign partner.
+
+It makes sense if India’s private banks were to create partnerships with global private banks. For the government to seek a foreign partner for a bank is a declaration of failure. So the economy is facing tough challenges. The comfort zone for the Modi government is shrinking.
+
+Neither Andhra Pradesh chief minister and Telugu Desam chief Chandrababu Naidu nor former Bihar chief minister, Rajya Sabha member and Janata Dal (United) leader Nitish Kumar are inclined to demand their pound of flesh from Mr Modi’s BJP which is in a minority and which they are propping up. The large-scale defection from the Lok Sabha contingent of the All India Trinamul Congress (AITMC) is still up in the air.
+
+The not-so-happy situation in which the Modi government finds itself seems to be a natural consequence of a government that has been in power for 12 years, and it is running out of ideas and programmes that can impress people. There is a sense of fatigue both in the government and the people. Even Mr Modi who is forever high on optimism, is subdued. It does not mean that the government is at the end of its tether. There is enough to do even to keep things as they are.
+
+The Opposition has reasons to be cheerful. The government is literally with its back to the wall. But it might have to widen its agenda. The individual issues like the leakage of Neet examination papers or the foul play in the SIR are effective protest issues, but they may not sustain. The Cockroach Janta Party (CJP) and Leftist student organisations like the All-India Students Association (AISA) have played a stellar role in putting an arrogant government in the dock. But it may not be sustained over a long stretch.
+
+Even as the BJP hopes the unfriendly gale would blow over, the idealistic protesters who have breathed new life into the dead polity may have to...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/gen-z-needs-to-regroup-pick-issues-that-matter-1997252)
+
+---
+
+### Is Protest Only Means Left To Us To Take Back Democracy?
+*Deccan Chronicle · Opinion*
+
+The three democratic tools available to us are the vote, the courts and protest. The only one over which Indians have real agency is protest.Voting is considered to be the same thing as democracy, as if democracy vanishes between elections. For decades, the election process in India has been accretive in adding prestige and credibility. That phase is behind us.
+
+The Constitution says that every Indian aged 18 or above, who is not “disqualified under this Constitution or any law made by the appropriate legislature on the ground of non-residence, unsoundness of mind, crime or corrupt or illegal practice”, shall be entitled to be registered as a voter at any such election.
+
+This direction is more like a suggestion to the present Election Commission. It assumed, no doubt on the orders of the government, that its exercise to gratuitously put crores of people through trauma would carry on undisturbed.
+
+A survey of how many rollbacks and clarifications it has issued over the last four weeks throws up a list of about one dozen.
+
+These include a “special enrolment drive” to bring in people left out by the previous special disenfranchisement drive. Then there is the removal of a declaration for some people, a waiver for in-person appearance for other people, a review of flawed software, limiting (but not ending) the malicious practice of objections being filed by third party individuals against voters, mostly Muslims of course.
+
+Then there is the introduction of searchable voter lists after resisting them all this time for no reason other than opacity. And now private school teachers being made to do the extracurricular work that hapless public school officials have been running door to door doing, and other things besides.
+
+The number of measures shows the sloppiness with which this adventure was embarked upon. The speed at which the measures are coming betrays the panic. The disclosure that the commission’s majority was being disregarded in decisions taken would have surprised few. Will these subsequent corrections, rollbacks and reviews resolve the mess? Of course not. We have already been divided into several tiers of Indian citizens: some voters, some struck off, some in appeal, some without information about their status, some beyond care, others awaiting judgment.
+
+This steaming pile of excrement cannot be solved by anything other than a full rollback. Alas, now with elections already having taken place, even this action will lead to problems of electoral legitimacy, for instance in Bengal.
+
+So, no. This mess is of a scale that could only have been erected by the architect of minimum government, maximum governance.
+
+The second democratic tool we have is the courts. Article 32 says our right to move court for the enforcement of fundamental rights “is guaranteed”. Note that what is guaranteed is the liberty to move court. What follows from there in proceedings is something we can witness daily in this country and need not be expounded on further. Our finest lawyers have already spoken about where things stand. As with the Election Commission, there has been erosion here also.
+
+The third democratic tool, the only one over which we have real agency, is protest. Showing up to tell the state that we feel violated and it must stop. The government can mess around with our vote, as it is doing, and the justice system can toy with us as it does in service of the executive. It is harder for it to force itself on our bodies, though it tries.
+
+Protest is our most effective tool at getting the state to stop misbehaviour. This is why there is such energy expended by the government in attempting to curb it, limit it and throttle it.
+
+The farm laws, once Indians were mobilised in the tens of thousands and arrived in Delhi, were dead. It took a full year for the government to finally strike them down, and those months were wasted because the monarch did not want to be seen as surrendering to the people. But it was immediately clear to many the moment the mobilisation happened, that the people would win. Deliciously, this victory was accompanied by an apology. An apology that was a qualified one, as may be expected from the person offering it, but an apology nonetheless.
+
+The brave Muslim women who led the protests against the National Register of Citizens succeeded in halting what has happened in Assam from happening elsewhere in India. Yes, it is true that the road this SIR has put us on ultimately takes us to the same destination, but recent events show that this will not be easy for the government to do uncontested no matter how much the BJP leadership salivates at the thought of crores of disenfranchised, disentitled and interned.
+
+Peaceful assembly (Article 19) is a fundamental right, meaning one that enjoys a high degree of protection from encroachment by the government. But in practice, the encroachment has exceeded the freedom over the decades. And there it will remain, caged in designated areas and subject to...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/is-protest-only-means-left-to-us-to-take-back-democracy-1997270)
 
 ---
 
@@ -22080,212 +22257,6 @@ The escape from excessive household indebtedness lies largely outside monetary a
 Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
 
 [Read full article](https://www.deccanherald.com/opinion/the-limits-of-borrowed-growth-4082266)
-
----
-
-## 21 July 2026
-
-### Accommodating dissent: On the TVK government’s actions
-*The Hindu · Editorial*
-
-At the heart of democratic disposition is tolerance of dissent and upholding of the rule of law; threats to these can undo the knit of a democracy. In the first couple of months of the Tamilaga Vettri Kazhagam (TVK)’s rule in Tamil Nadu, at least 10 people have been subject to police action, on account of speaking against the Chief Minister or his cabinet colleagues. While the case of former Minister Anitha Radhakrishnan’s arrest for criticising Chief Minister C. Joseph Vijay gained the spotlight, there were several others who were arrested or faced police action over the course of this period. This includes James Raja of Tirunelveli; V. Vishnuprabhu and T. Manojkumar, residents of Coimbatore, for a Facebook post criticising the Chief Minister; and Thangamani of Karur. In the case of the Dravida Munnetra Kazhagam (DMK)’s Gen Z wing leader A. Anbanantham, police searched his residence claiming that he made ‘derogatory’ posts regarding Mr. Vijay and his family. YouTuber Maridhas was arrested by the Chennai Cyber Crime police for his remarks against the Chief Minister and Industries Minister S. Keerthana. DMK MLA Markandayan was arrested in Thoothukudi over an alleged threat he made against the Chief Minister. Others arrested include Vinoth Suryakumar who commented on HR&CE Minister S. Ramesh and RJ Saran Jayaraman who was arrested by the police for content posted on Instagram targeting a woman who supported the TVK. A case was also filed against Indrani Sudalaimuthu for remarks made against S. Ramesh.
-
-Political actors of all hues have normalised using the police and criminal law as a shield to protect their reputation, whenever they come to power. This creates a structural risk for democracy. The actions of the police indicate a wider pattern of speech-related arrests, and authoritarianism under the TVK government, where defamation, the IT Act and cyber crime provisions are invoked at will for any criticism against individuals in the government or the ruling party. Complaints being filed by the TVK cadre and the suo motu action of the police targeting dissenters could run the administration off the rails. The alacrity with which the government is ready to treat allegations against Ministers as criminal misinformation or defamation, rather than let them take the natural course of civil suits or political contestation, is disheartening. A new government has the opportunity to rewrite the rules of engagement with the public, to be tolerant of dissent, and not to misdirect the power it is vested with, just to curb opposition. Every government keen on development could be enriched by criticism and dissent articulated on public platforms, if it is willing. It must remember that the restriction of harmful, obscene and indecent content must be balanced with the overwhelming supremacy of freedom of speech.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/accommodating-dissent-on-the-tvk-governments-actions/article71245338.ece)
-
----
-
-### Press and play: On the FIFA World Cup 2026
-*The Hindu · Editorial*
-
-Spain’s second World Cup title, achieved after a narrow extra-time victory over Argentina in the final, was a triumph of the collective. The Luis de la Fuente-coached outfit conceded just one goal in eight matches, was unmatched in the centre of the pitch with playmaker and Golden Ball winner Rodri completing a record 790 passes, and exhibited diffused excellence up front by having seven different players score its 14 goals. So much so that even the individual brilliance of the teenaged Lamine Yamal was astutely subsumed within the whole. In fact, de la Fuente and Rodri had combined to deliver the 2024 European Championship too, with the latter adjudged the world’s best later that year. A second Ballon d’Or for the 30-year-old midfield metronome appears a certainty. The win also cemented Spain’s position as the pre-eminent footballing force of the first quarter of this century. Starting 2008, the country has won two of the five World Cups and three of the five Euros. Spain is the reigning women’s World Champion, and the assembly line of coaches it produces and players it exports make the nation a true powerhouse. Interestingly, after its maiden World Cup win in 2010, Spain had not gone past the round of 16 at three subsequent editions. The success in North America is thus a full-circle moment.
-
-Another high point for the tournament was Lionel Messi’s enduring genius. Argentina’s quality in the final was dire and the behaviour of its players petulant, but that should not detract from the 39-year-old’s excellence in bringing his country to the cusp of defending its crown. Kylian Mbappe’s experience was bitter-sweet; he won the Golden Boot (10 goals) and became the all-time top-scorer in World Cups (22) but remained a mute spectator as Spain subjugated his star-studded France in the semifinal. Jude Bellingham inspired England to third place, the best performance for the nation since winning in 1966. But the summer sojourn laid bare the team’s continued lack of cutting edge after back-to-back runner-up finishes at Euro 2020 and 2024. The World Cup will also be etched in memory for a plethora of missteps, which governing body FIFA unfortunately condoned. By arbitrarily invoking immigration rules, and trying to interfere politically in on-field matters, the co-host U.S. pushed the envelope in undesirable ways. Commercially driven hydration breaks and the half-time show in the final were tedious and disruptive. Football should be allowed to flow freely, on and off the turf.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/press-and-play-on-the-fifa-world-cup-2026/article71245382.ece)
-
----
-
-### DC Edit | Talk To Protesters, Give Them A Hearing; Avoid Use Of Force
-*Deccan Chronicle · Editorial*
-
-The government’s use of brute force to crack down on the massive peaceful march in the nation’s capital by young people under the banner of the Cockroach Janta Party (CJP) demanding the resignation of Union education minister Dharmendra Pradhan is an undemocratic and unwise action. It will be a miscalculation, too, if the government thinks it can suppress the students’ demonstration of frustration and anger against a dispensation that has failed to do even the minimum for them.
-
-Every single report suggests that the congregation of people in Delhi on Monday is unprecedented in many aspects. The CJP is not a formally structured organisation; it is rather a grouping of people with a cause; the Left parties which support them do not have a large support base in the national capital. It is not very common in India for people to turn out in their thousands to launch an agitation unless there is a felt need. The hunger strike by environmental activist Sonam Wangchuk gave them a rallying point to and launch their protest against the government’s irresponsible handling of examinations. His forceful removal from the venue of his protest did not end it; instead, more people joined the protest.
-
-It is time that the BJP and Prime Minister Narendra Modi recognised the fact that Mr Pradhan has been presiding over the education ministry which has failed the student community. About two dozen teenagers, all of them aspiring doctors, died by suicide after being unable to withstand the pressure caused by the cancellation of the NEET examination, the entrance test for undergraduate medical courses in the country, brought down on them; the agency which conducted the test, the National Testing Agency, functions under Mr Pradhan. Lakhs of students were put in an excruciating dilemma after the CBSE outsourced valuation of their Class 12 answer sheets to an agency with a dubious record; CBSE also functions under him. There was mismanagement in the conduct of the Common University Entrance Test and in the National Eligibility Test, both conducted under the aegis of the education ministry.
-
-Electoral democracy functions on the principle that those whom people elect and vest with the power to run the government will exercise it for the benefit of the people. Mr Pradhan has proved a humongous failure on this count. He would have resigned had he had the sense to understand his responsibilities; the Prime Minister would have asked him to go if he understood the impact his failures have had on the young people. It defies logic that neither Mr Pradhan nor Mr Modi has their ears to the ground to sense the mounting frustration among young people of this country.
-
-It would be a futile exercise on the part of the BJP to paint the protestors as traitors, for they are not. The CJP is not an accident; it is the manifestation of the underlying anger of the young people against the dispensation which boasts of the country’s economic progress but does nothing for them. They have repeatedly made it clear that they seek resolution of their problems within the constitutional framework; it would be foolish to contemplate torpedoing a movement that swears by the Constitution and its framer Dr B.R. Ambedkar.
-
-The government must engage the protesters in meaningful dialogue and make honest attempts to address their concerns instead of speaking the language of force. The BJP often reminds the country of the lessons of the Emergency; it’s time the party took some lessons from it, too.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-talk-to-protesters-give-them-a-hearing-avoid-use-of-force-1972587)
-
----
-
-### Aakar Patel | The Lessons That India Learns As Wangchuk’s Fast Scuttled By Govt
-*Deccan Chronicle · Opinion*
-
-A few thoughts on the Cockroach Janta Party’s protest and the Union government’s comical reaction come to mind. The hunger strike by activists, including Ladakh-based climate activist Sonam Wangchuk, had just one demand: the minister of education should resign. Why? Because the minister failed at one of the most important tasks he was assigned: Holding the Neet exam without corruption. Readers may recall that in 2024 the paper leaked and the same minister was in charge, but clung on.
-
-This year the government was compelled to accept that there was corruption in the matter and it cancelled the exam, inconveniencing over 20 lakh students. Add their families and it is one crore Indians we are talking about who are directly affected. All put through high levels of stress, anxiety and the insecurity that constantly plagues Indians.
-
-Twelve young girls and boys killed themselves in the 37 days between the cancelled exam and the re-test. These are only the ones we know about. The government then conceded that the education ministry could not be trusted with the papers and gave them to the Indian Air Force to carry to the centres across all states. We can interpret this as a stunt or as a real threat to leakage. In neither interpretation does the government come out looking good.
-
-But having accepted that his education minister had failed at stopping corruption in Neet, the Prime Minister rejected the idea of accountability. He chose to retain the education minister and we can tell ourselves stories about why. Those who dislike the Prime Minister will speculate that it was because autocrats shy away from admitting mistakes because of their arrogance. Or because it reflects poorly on them. Those who are fond of him will similarly make up some story about why Mr Modi retained Dharmendra Pradhan. Neither story is important. The fact is that Mr Pradhan has been retained despite the scandal and despite the demonstrable incompetence.
-
-What happens from here on is that he will remain as a liability and a target for finger-pointing. India's problems of incompetence and corruption are real, structural and societal. Only the delusional believe that the Prime Minister waved them away with magic in 2014.
-
-The second thought that comes to mind is that protest, even one that is peaceful, even one that does not inconvenience absolutely anyone, is forbidden in India because we are only partly democratic. This is something several indices have concluded and evidence of it appears before us daily. Over the years, peaceful assembly (Article 19) has gone from being a fundamental right, meaning something that enjoys a high degree of protection from encroachment by the State, to a nuisance, and then to an offence. The mother of democracy is extremely intolerant to her children when they disagree.
-
-The judiciary and the executive have narrowed the physical space in which peaceful protest may be held. In Mumbai it is consigned to Azad Maidan, in Bengaluru it is in Freedom Park where protests go to die, and in New Delhi it is Jantar Mantar. Now Indians have been informed that even protests in these “designated areas” are unacceptable to this government.
-
-The third thing is that when protesters have resolve and strategy, they often win and force the government to retreat. The farmers did that most spectacularly when they laid siege on the matter of the farm laws. The Prime Minister tried to sit them out, failed and then not only surrendered to them but also apologised.
-
-It is not thought in the same way, but the success of the protests against the National Register of Citizens is the reason we do not yet have concentration camps with lakhs of Indians in them. Even in the most oppressive and tyrannical State, peaceful protest will make an impact that cannot be bulldozed over. There is a reason that the world knows about a place called Tiananmen Square. Those brave enough to put their heads above the parapet may bear the consequences, but will also have their stories heard.
-
-This is of course the reason that the government scuttled the Sonam Wangchuk hunger strike. Those who had despaired that it was not achieving anything did not see that structurally the protest had everything going for it. It had attention and it had sympathy.
-
-So what happens from here on? The problem for the government is that the protesters have not given it much room. The Cockroach Janta Party's demand is modest and reasonable: remove the minister responsible. The government’s response, as far as it can be understood, is: yes, there is a problem, but no, we will not act. That is not tenable and the protesters know this. The momentum is with them. In the language used by theorists, they have escalation dominance. The government stands to lose ground and credibility with each action intended to protect one minister.
-
-The last thing that comes to mind is that there is an education that comes to those who are participants in these deep, weeks-long protests that those of...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-the-lessons-that-india-learns-as-wangchuks-fast-scuttled-by-govt-1972602)
-
----
-
-### Shobha Sengupta | Rise Of The Book Club
-*Deccan Chronicle · Opinion*
-
-The phenomenon of the book club has seen a sharp spike in recent times. It has introduced the reader to genres and to authors she has never read before. It has broadened our horizon. People who never read fiction have been egged on to read books by friends, books they would have never picked up on their own. Often, they arrive only because they are curious about a book, and are simply waiting to be inspired to pick it up.
-
-How does one explain this new trend? The answer lies with the articulate fairer sex who simply cannot wait to discuss the next best thing with friends. Women emerging into and impinging upon public space do not want to discuss boring household drudgery any more. They want to explore territory outside of their own familiar experiences.
-
-Giving voice to one’s thoughts, while hearing others’ perspectives, is individually satisfying. At the same time, one has a sense of belonging, and
-
-build bonds as a community. From Oprah Winfrey, who probably started it all, to Reese Witherspoon to now Sarah Jessica Parker, celebrities have lent glamour to the book club, giving books status and widespread recognition. The Booker and Pulitzer had given books the stamp of erudition and made voices reach across the world. Now the celebrity book clubs give books glamour, and turn them into films and Internet series.
-
-In Gurgaon, Haryana, every elite residential complex houses a book club. Many invite authors to speak to them. We are witnessing a welcome and heartwarming phase. Kitty parties are a thing of the past. It is the book club that now gives one rizz. It allows one to dress well, articulate one’s views,
-
-make friends, evolve and become better versions of oneself.
-
-The US, according to (hopefully not fictitious) data, has an estimated five million book club (mostly women, a few delicious men) members. India has not compiled any statistics as yet, but for sure the numbers are climbing.
-
-So, get out, join a book club now!
-
-The writer is the owner-founder of Quill and Canvas, bookstore and art gallery in Gurgaon. The store hosts a vibrant book club, with great minds exchanging views as often as twice a week!
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/shobha-sengupta-rise-of-the-book-club-1972744)
-
----
-
-### A mission for talent retention
-*Deccan Herald · Editorial*
-
-The office memorandum issued by the Department of Space (DoS) in response to the mass resignation of scientists and engineers from the Indian Space Research Organisation (ISRO) leaves many questions unanswered. While the Centre underplayed the order’s significance, ISRO has taken an opaque position on the matter. The chairman offered no clarity on how many people left, what led them to take such a step, or what measures the space agency plans to take in addressing this trend.
-
-According to the memo, voluntary retirement and requests for resignation from scientists and technical staff associated with Gaganyaan and other "important" missions may no longer be routinely accepted. Since "important" missions are left undefined, this restriction could apply to all projects undertaken by DoS institutions. The memo revokes a previous order that empowered institution directors and unit heads to approve these requests. It instead centralises all decisions at the ISRO headquarters. ISRO has not denied reports of 100-120 scientists and technical staff leaving the department over the past year. This coincides with the rise of a private sector boasting over 400 startups. Skyroot Aerospace’s successful launch of Vikram-1, India’s first privately developed space vehicle, underscores this upswing. A growing commercial industry offers better pay and greater work flexibility. The DoS should have anticipated this market dynamic when the sector was opened for private participation in 2020, and advised the government on a proactive talent retention strategy. This line of thinking was noticeably absent.
-
-'Many scientists can come and go': Amid mass exodus, govt tightens ISRO resignation normsIndia's technological growth is also a story of professionals shifting from public institutions such as DRDO, ECIL, ISRO, and BARC into private companies. The DoS order adds a layer to this story. Neither the government nor ISRO has demonstrated a strong intent to resolve the challenges this shift poses. As private players expand their footprint in the business of space, their demand for trained talent was inevitable, and ISRO was always going to be the first and natural source. The agency, however, did not have a comprehensive strategy in place to retain its workforce in the face of competition from the private sector. The solution does not lie in restricting employees from leaving. A few years ago, the Indian Air Force (IAF) faced a similar situation when it tried to prevent pilots from exiting before completing their service period. Then, an IAF Chief took a more pragmatic position, as he recognised that demoralised personnel are of little value to the force. ISRO would do well to learn from that episode and introspect on its career frameworks.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/a-mission-for-talent-retention-4080961)
-
----
-
-### Building legal certainty
-*Deccan Herald · Editorial*
-
-The Karnataka Apartment (Ownership and Management) Bill, 2026, marks a significant step towards modernising the legal framework governing apartment ownership and management in a rapidly urbanising state. With Bengaluru and other cities witnessing a proliferation of large residential communities, laws enacted over five decades ago have struggled to keep pace with contemporary realities. The proposed legislation seeks to strengthen homebuyers’ rights, clarify ownership, improve accountability, and establish a comprehensive framework for apartment management. Such a law is long overdue. Thousands of flat owners continue to face uncertainty because developers have failed to convey land titles or hand over common areas and project documents. Resident welfare associations often operate without adequate legal clarity, while disputes over maintenance, governance, and ageing buildings frequently end up in prolonged litigation. As many complexes built during Bengaluru’s early real estate boom approach the end of their structural life, the absence of clear statutory provisions for redevelopment and ownership transitions has become a pressing concern. The proposed bill attempts to address these long-standing issues.
-
-Bengaluru: Apartment owners welcome proposed law, seek stronger safeguardsThe deemed conveyance mechanism will help homeowners secure ownership rights even when developers fail to transfer land and common areas. The handover of project documents and unspent maintenance funds will be mandatory. The proposal requiring structural audits for buildings older than 30 years prioritises public safety. Equally important is the creation of a specialised dispute resolution mechanism that can offer quicker relief than conventional civil courts. The redevelopment framework, allowing projects to proceed with 75% consent while protecting dissenting owners through statutory compensation, strikes a balance between collective interest and individual rights. The draft also seeks to bring greater financial transparency by distinguishing essential maintenance charges from user charges for amenities. Requiring associations to maintain separate accounts for maintenance, reserve funds, and cultural activities can ensure that residents’ contributions are utilised for their intended purposes. However, some concerns remain, particularly in areas where it creates friction with the Real Estate (Regulation and Development) Act.
-
-The government has rightly initiated a public consultation process. It must continue engaging not only apartment owners and resident welfare associations but also developers, urban planners, legal experts, financial institutions, and civil society. Such broad-based consultations will help produce a balanced, implementable law that safeguards the interests of all stakeholders while minimising ambiguities. A law of this significance deserves careful legislative drafting and sustained stakeholder engagement to ensure it stands the test of implementation rather than becoming mired in avoidable legal challenges.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/building-legal-certainty-4080960)
-
----
-
-### Small acts, lasting impressions
-*Deccan Herald · Opinion*
-
-‘Loyalty is hard to come by these days,’ my friend bemoaned when her house help quit without prior intimation, especially while she was juggling a full-time job and caring for a toddler. Loyalty is indeed rare as it entails emotional discipline, integrity, perseverance and consistency. When I was discussing my friend’s dilemma with my husband, my daughter suddenly interjected, ‘Amma, all maids aren’t like Premvati’. On hearing that name, a gush of sweet memories came rushing back to me.
-
-To give you a context, my husband’s job involves constant transfers. We have lived in many cities across India and dealt with several house helps and their idiosyncrasies. While few were downright troublemakers, most of them reciprocated warmly to our unassuming nature. However, Premvati is the only person to have left an indelible mark in our hearts. True to her name, she exuded love and care as if we were her new found family members. Despite being close to 70, her punctuality and dedication to work used to amaze us. Be it torrential rains or scorching heat, she would walk into our house every day at sharp 7 am. Even during the worst flood years of Delhi in 2010, she came wading through knee deep waters. Though we assured her that we can manage on our own for a few days, she simply smiled and said in Hindi, ‘I prefer coming to your house, drink a cup of South Indian coffee, and finish my chores rather than sit at home worrying about the leaky roof’.
-
-Nature’s timeless messageNever one to take a day off without a valid reason, she was meticulous in her work and embodied mindfulness. She would often say, ‘Today, I am working at your house and I am so grateful. No one has the power to see what tomorrow holds for us, so I will give my best to this job which keeps my kitchen running’. She left a deep impression on all of us, more so on my daughter, who was barely 10 years then. ‘I want to be like Premvati aunty, hardworking and devoted to work.’ Though my daughter’s words were well beyond her years, I was grateful to God that we had such a supremely positive influence like Premvati among us.
-
-It’s been 13 years since we bid adieu to Premvati, but we continue to cherish her devotion and faithful gestures. Almost everyone will make a good first impression but only a few will make a good lasting impression.
-
-[Read full article](https://www.deccanherald.com/opinion/small-acts-lasting-impressions-4080967)
-
----
-
-### The inimitable Uncle Podger
-*Deccan Herald · Opinion*
-
-English literature is rich with gems of words that have penetrated and enriched our lives. With tongue in cheek, they have subtly crept into our vocabulary. Humourists like P G Wodehouse or G K Chesterton or Mark Twain have given of their best to brighten our days. Among the notable authors I fell in love with while in college was Jerome K Jerome, the humourist whose acerbic expressions have not paled over time. His Uncle Podger Hangs a Picture, which is still standard reading among the students, had charmed me at school and left a lasting impression.
-
-I realised that it is never too late to revive my reading. So I decided to dig into my library and pull out this classic on how to hang a picture, as directed by Uncle Podger. Uncle Podger is one
-
-of the most enduring characters to have ever adorned the pages of English fiction.
-
-The fur in the potHe takes up a simple task of hanging a picture on the wall in his house and manages to lay everything to waste. Not only he, but also his entire family is roped into the venture. Hanging a picture acquires Herculean proportions, for which he has to enlist the assistance of one and all.
-
-Hilarious and full of idiosyncrasies, Uncle Podger’s antics drive us into a world of laughter. Uncle Podger starts off by dispatching one nephew to borrow a hammer from a neighbour, and then another after him to fetch the nails. What about the ladder to hoist the picture on the wall?
-
-He climbs up the ladder, raises the hammer and brings it down heavily on his thumb. He gives a shrill cry when he sees bloodshed and goes into a bloody frenzy.
-
-He comes down the ladder and
-
-examines his handiwork. The picture hangs on the wall at a crooked angle, defying the laws of quantum mechanics.
-
-Uncle Podger is not used to acknowledging gratitude from his devoted horde. He rounds up his gang of relations to complete the job of mounting the picture.
-
-At the same time, he gives them a dressing down for their incompetence, though it is he who is the architect. No wonder his nephews and nieces are keen to put their tails between their legs and scoot from the scene.
-
-At the end of Uncle Podger’s tryst with the wall, one cannot help
-
-but sympathise with him.
-
-How poor would English literature have been in the absence of authors like Jerome K Jerome. So what if Uncle Podger has the last laugh?
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
-
-[Read full article](https://www.deccanherald.com/opinion/the-inimitable-uncle-podger-4080959)
-
----
-
-### The politicisation of caste data
-*Deccan Herald · Opinion*
-
-For over a decade, Karnataka has collected caste data without establishing a transparent, democratic process for interpreting its significance. On July 16, BJP MLC Keshava Prasad called for the latest Social and Educational Survey report to be tabled in the legislature and debated for three days. While the demand is politically motivated, the underlying principle is valid: a report with the potential to reshape reservations, welfare priorities, and political representation should not remain solely under government control.
-
-The state’s prior experience underscores this necessity. In 2015, a comprehensive socio-economic and educational survey covered approximately 5.98 crore individuals. Successive governments avoided public engagement with the findings. The Jayaprakash Hegde-led Backward Classes Commission submitted its report in February 2024. Following a Cabinet review in 2025, the government commissioned a new survey. The survey commenced on September 22, 2025, utilising an estimated budget of Rs 420 crore. The Karnataka State Commission for Backward Classes submitted its report to then Chief Minister Siddaramaiah on May 27, 2026. However, public knowledge remains shaped more by political claims and selective leaks than by an official release. The government’s response that the Cabinet will review and decide perpetuates a cycle of data collection, concealment, and speculation.
-
-Social justice cannot remain on holdIn the absence of an official report, community organisations mobilise around unofficial figures, political parties disseminate data that supports their interests, and rumours gain the status of statistics. Dominant communities fear underrepresentation, smaller communities fear erasure, and marginalised groups suspect that unfavourable findings will be suppressed. Each unreleased report thus becomes a focal point for competing anxieties.
-
-The survey also presents limitations that warrant public examination. Enumeration was voluntary following a Karnataka High Court directive that citizens could not be compelled to participate and that collected information must remain confidential. Bengaluru, in particular, posed significant challenges for enumeration. At one point, statewide household coverage reached approximately 85%, while Bengaluru’s coverage lagged considerably; subsequent extensions improved participation, yet a substantial segment remained uncounted or withheld information.
-
-No comprehensive dataset is without flaws. However, these limitations necessitate that the government release the methodology, coverage rates, definitions, coding protocols, procedures for handling missing data, and margins of uncertainty alongside the conclusions. A caste survey should not be regarded as an unquestionable numerical verdict; rather, it constitutes evidence that requires transparent interpretation.
-
-While individual household records must remain confidential, anonymised aggregate findings, district-level patterns, socio-economic indicators, and the report’s recommendations can be published without compromising citizen privacy. The government should issue a detailed technical note, allow independent academic review, and establish a secure process for qualified researchers to access anonymised data. Public access should be structured and regulated, not entirely restricted. Then debate not merely which caste is numerically larger, but what the survey reveals about deprivation.
-
-Karnataka’s political discussion has become trapped in a demographic auction: communities are treated as claimants presenting population strength in exchange for a greater share of state benefits. But the commission’s statutory purpose is not to award influence to the largest bloc. It is to identify social and educational backwardness. Landlessness, schooling, occupational vulnerability, access to public employment, housing and regional inequality matter as much as population.
-
-A substantive debate must therefore distinguish among three questions often conflated in political discourse: Who is underrepresented? Who is socio-economically disadvantaged? And which policy instrument—reservation, targeted welfare, educational investment, or regional development—is most appropriate? Karnataka should establish a statutory publication protocol for such commissions. Reports should be released within a fixed period after submission; methodology and aggregate data should be published simultaneously; an independent expert panel should review data quality; and the legislature should debate the findings before major policy changes are announced.
-
-Caste data is frequently justified on the grounds of social justice. This justification is credible only if the data is managed democratically. Information collected from citizens using public funds should not be transformed into electoral intelligence accessible primarily to ministers, party strategists, and influential caste associations.
-
-Suppression has already produced suspicion. The state must choose between an evidence-based public argument and a private contest based on leaks. A caste survey becomes an instrument of justice only when its numbers cease to be political property and become part of the democratic commons.
-
-(Neil is the head of the Department of Political Science, Paul is the Dean, School of Humanities and Social Sciences, and Daniya is a research scholar at the Department of Political Science, St Joseph’s University)
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
-
-[Read full article](https://www.deccanherald.com/opinion/the-politicisation-of-caste-data-4080965)
 
 ---
 
