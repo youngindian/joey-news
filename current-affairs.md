@@ -1,3 +1,411 @@
+## 21 October 2026
+
+### HD Fire Protect IPO Listing: Shares Debut With 24% Premium On NSE, BSE
+*Soumil Kamat · general, business*
+
+HD Fire Protect Ltd debuted on the stock market with a 23% premium, opening at Rs 335 on NSE against an IPO price of Rs 271.
+
+[Read full article](https://www.ndtvprofit.com/markets/hd-fire-protect-ipo-listing-shares-debut-with-over-23-percent-on-nse-bse-12213445)
+
+---
+
+### Amit Shah’s UP Mission: State Executive Meet On October 30-31, Booth-Level Push To Follow
+*Apoorva Misra · general*
+
+Shah is expected to address members of the state executive, setting the tone for BJP’s preparations in UP, a state that remains central to the party’s national political strategy
+
+[Read full article](https://www.news18.com/india/amit-shahs-up-mission-state-executive-meet-on-october-30-31-booth-level-push-to-follow-ws-l-10390747.html)
+
+---
+
+### Freedom 250: Rubio speaks on US-India alignment over maritime issues
+*ET Online · business*
+
+US Secretary of State Marco Rubio highlighted India-US strategic alignment on maritime security at the Freedom 250 reception in Mumbai. He stressed the importance of a free and secure Indo-Pacific, where no country can claim dominance over international shipping lanes. Rubio also described the align...
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/freedom-250-rubio-speaks-on-us-india-alignment-over-maritime-issues/videoshow/135082466.cms)
+
+---
+
+### Drug-free India by December 2029: Amit Shah calls for united nationwide campaign
+*India Today News Desk · general*
+
+## Amit Shah urged police forces nationwide to eliminate narcotics by December 31, 2029. The campaign seeks to protect future generations and disrupt funding for anti-national organisations.
+
+The minister also flagged off a motorcycle rally titled “Fight Against Drugs”, involving about 90 police riders from several states and Union territories. (Credits: PTI)
+
+New Delhi,Oct 21, 2026 10:16 IST
+
+Union Home Minister Amit Shah on Wednesday called on police forces across the country to work towards eliminating narcotics by the end of 2029, warning that drug abuse threatens future generations and funds organisations involved in anti-national activities, the Press Trust of India reported.
+
+Prime Minister Narendra Modi has set December 31, 2029, as the deadline for achieving the goal of a drug-free India. Shah said the remaining months of 2026, along with 2027, 2028 and 2029, would be devoted to a united campaign against drugs.
+
+Paying tribute to police personnel who died in the line of duty at the National Police Memorial in New Delhi on Police Commemoration Day, Shah described the fight against drugs as a major national priority. He said drug abuse also placed an undue burden on the economy.
+
+Police forces across the country should work towards the government's goal of a drug-free India, he said, stressing that the campaign was essential to protect future generations.
+
+Shah also said the country had eliminated decades of Naxalism by March 31, 2026. He credited the Chhattisgarh Police, the Central Armed Police Forces, the Central Reserve Police Force and its CoBRA unit for their role in combating the insurgency, according to PTI.
+
+More than 3,600 security personnel and about 13,700 civilians were killed in violence linked to Naxalism between 1981 and March 2026, Shah said. He again praised the CRPF, CoBRA and the Chhattisgarh Police for their efforts.
+
+Shah presided over the annual event, which included a joint parade by the Central Armed Police Forces and the Delhi Police. The function is held in memory of 10 police personnel killed in an ambush by heavily armed Chinese troops at Hot Springs in Ladakh on October 21, 1959.
+
+The minister also flagged off a motorcycle rally titled “Fight Against Drugs”, involving about 90 police riders from several states and Union territories, the Central Armed Police Forces and other central police organisations.
+
+The rally is part of a nationwide initiative under which riders from across India will travel to Ekta Nagar in Gujarat to participate in the Ekta Parade on October 31, an official statement said.
+
+Participants include riders from Jammu and Kashmir, Ladakh, Himachal Pradesh, Uttarakhand, Uttar Pradesh, Punjab, Haryana, Chandigarh and Delhi. Personnel from the CRPF, Central Industrial Security Force, Border Security Force, Sashastra Seema Bal, Indo-Tibetan Border Police, National Security Guard, Railway Protection Force, National Disaster Response Force and National Investigation Agency are also taking part.
+
+Shah's address focused on the nationwide campaign to eliminate narcotics by December 31, 2029, while the motorcycle rally will carry the anti-drug message to the Ekta Parade in Gujarat.
+
+\- Ends
+
+---
+
+### Bajaj Finance Stock Falls Nearly 3% After Q2 Asset Quality Disappoints
+*Khushi Maheshwari · general, business*
+
+The shares have fallen over 5% year-to-date and 13.8% in the last 12 months.
+
+[Read full article](https://www.ndtvprofit.com/markets/bajaj-finance-share-price-stock-falls-after-q2-asset-quality-disappoints-12213430)
+
+---
+
+### India's 21 October diary spans court hearings, politics and festivals
+*India Today News Desk · general*
+
+## Courts, governments and political parties have scheduled major proceedings and meetings across India. Festival celebrations and police remembrance programmes broaden the day's national significance.
+
+Image used for representational purposes only
+
+Newdelhi,Oct 21, 2026 10:14 IST
+
+Political events, court hearings, government meetings, festivals and law enforcement programmes are among the key developments scheduled across India on Wednesday, 21 October, according to news agency Press Trust of India.
+
+The day's events include hearings in the Supreme Court and a high court, political briefings, Vijayadashami celebrations, Police Commemoration Day programmes and developments 
+
+BJP president Nitin Nabin is scheduled to attend an event. Other political developments and party briefings are also expected during the day.
+
+A Supreme Court vacation bench is scheduled to hear a plea by former Kerala chief minister Pinarayi Vijayan in the CMRL bribery case. The court is also expected to hear a YSRCP plea alleging that violence in Andhra Pradesh prevented its candidates from filing nomination papers for the upcoming civic polls. A high court is likely to hear a plea by Saurav Das and Ashutosh Ranka challenging the extension of their judicial custody.
+
+In the National Capital Region, a Delhi Cabinet meeting and an Aam Aadmi Party press conference are scheduled. Developments 
+
+In Uttar Pradesh, Chief Minister Yogi Adityanath will hold a Janta Darshan in Gorakhpur after performing Navratri rituals. He is then scheduled to arrive in Lucknow to attend a Police Commemoration Day event. Uttar Pradesh Congress chief Aradhana Misra Mona and working president Imran Masood will hold a press conference. Bihar Chief Minister Samrat Choudhary is scheduled to visit Basti.
+
+In Chandigarh, Congress leader Kumari Selja will address a press conference, while Chandigarh Police will organise a Commemoration Day parade. In Rajasthan, the Congress will stage a dharna at the police commissionerate to demand an FIR in the Ritu Barala case. The BJP will hold a meeting on matters 
+
+Uttarakhand Chief Minister will attend the Uttarakhand Police Smriti Diwas parade at Police Lines. In Himachal Pradesh, the week-long International Kullu Dussehra will begin in Kullu, according to the PTI schedule.
+
+In the south, Mysuru's Vijayadashami celebrations will feature the grand Jamboo Savari procession as part of Mysuru Dussehra. Vijayadasami celebrations will be held in Kerala, while rain-
+
+In the east, developments following the Chorbagan stampede and Durga idol immersion will be covered in West Bengal. Assam Chief Minister Himanta Biswa Sarma will attend a Police Commemoration Day programme. Jharkhand will also mark Police Commemoration Day, while Vijay Dashami celebrations will be held in Odisha.
+
+In western India, US Secretary of State Marco Rubio is scheduled to visit the Reliance refinery in Jamnagar. Three people arrested in the Tiger Shroff firing case will be produced before a Mumbai court for remand. Maharashtra Navnirman Sena chief Raj Thackeray will interact with the media in Mumbai. Chhattisgarh Chief Minister Vishnu Deo Sai will inaugurate a workshop on urban infrastructure financing in Nava Raipur.
+
+Overall, the day's national schedule covers major judicial proceedings, political meetings, public events, Police Commemoration Day programmes and Dussehra and Vijayadashami celebrations across several states.
+
+\- Ends
+
+---
+
+### Rishi Sunak admires Durga Puja rituals with Sudha Murty at Delhi’s CR Park
+*India Today Trending Desk · general*
+
+## Former UK Prime Minister Rishi Sunak and Sudha Murty offered prayers at Delhi's Chittaranjan Park Kali Temple during Durga Puja.
+
+Former UK PM Rishi Sunak visited CR Park during Durga Puja. (Photos: jollybose6300/instagram)
+
+New Delhi,Oct 21, 2026 10:13 IST
+
+Former UK Prime Minister Rishi Sunak visited Delhi’s Chittaranjan Park Kali Temple during Durga Puja, with his mother-in-law and Rajya Sabha MP Sudha Murty accompanying him. The two offered prayers at the temple, where Murty was also seen showing Sunak around the decorated pandal and explaining the significance of its rituals.
+
+The visit brought the former British Prime Minister to one of Delhi’s best-known centres of Bengali Durga Puja celebrations.
+
+Videos from the temple showed Sunak looking at the festive decorations as Murty guided him through the pandal and spoke to him about the traditions associated with the festival.
+
+Sunak and Murty offered prayers together at the CR Park Kali Temple during the Durga Puja festivities. The visit offered Sunak a glimpse into the religious customs and cultural traditions that shape the celebrations, with Murty helping him understand the significance of the rituals and decorations.
+
+**Watch the video here:**
+
+Chittaranjan Park MLA Shikha Rai was present to welcome the visitors. In a statement, she described their visit as an honour and spoke about the opportunity to discuss the temple’s religious traditions and India’s spiritual heritage.
+
+“It was an honour for us to welcome the former Prime Minister of the United Kingdom, Shri Rishi Sunak Ji, and Rajya Sabha member, renowned author and social worker, Smt. Sudha Murty Ji, at the Kali Bari Temple when they came to offer puja and prayers to Maa Durga,” Rai said.
+
+She added that the occasion provided an opportunity for a warm and enriching discussion about the temple’s traditions, the glory of Maa Durga and India’s cultural heritage.
+
+Rishi Sunak and Sudha Murty were not the only prominent visitors at the celebrations. Union Health Minister JP Nadda also visited the Chittaranjan Park Kali Temple and the Greater Kailash Durgotsav Puja Samiti pandal on the morning of Saptami, where he offered prayers.
+
+CR Park, associated with Delhi’s Bengali community, is known for its elaborate Durga Puja celebrations, which bring together worshippers and visitors to mark the festival. The temple and nearby pandals remain important gathering points during the festivities, with rituals, decorations and community celebrations forming a central part of the occasion.
+
+\- Ends
+
+---
+
+### “I’m coming here every three months”: Rubio’s light-hearted remark in Mumbai
+*ET Online · business*
+
+US Secretary of State Marco Rubio made a light-hearted remark about his frequent visits to India while speaking at the Freedom 250 reception in Mumbai. Highlighting the importance of India-US ties, Rubio said the US should engage with India more often. The Economic Times#MarcoRubio #IndiaUSRelations...
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/im-coming-here-every-three-months-rubios-light-hearted-remark-in-mumbai/videoshow/135082432.cms)
+
+---
+
+### 2,516 DDA Narela flats open for booking at Rs 14.95 lakh starting price after 25% discount; over 2,500 homes booked within two hours; check eligibility, payment deadline here
+*Unknown · business*
+
+More than 2,500 low-income group (LIG) flats offered by the Delhi Development Authority (DDA) in Narela were booked within two hours of online bookings opening on October 20. Under the Awaas Nivesh Yojana 2026, the authority offered 2,516 flats at a 25% discount, with tentative prices starting at Rs 14.95 lakh.
+
+The bookings opened at noon on Tuesday on a first-come, first-served basis. The flats are located in Pockets 3 and 6 of Sectors G2-G6 in Narela. According to a TOI report, the scheme attracted more than 2,500 bookings within the first two hours, highlighting the response to the discounted housing offer.
+
+The scheme waswas designed to offer homes at reduced prices as part of the authority's affordable housing initiatives.
+
+  
+  
+
+### What were the prices of DDA's Narela flats?
+
+The 2,516 flats were spread across two pockets in Narela, with different tentative prices for each location.
+
+Location
+
+Number of flats
+
+Tentative price after discount
+
+Pocket 3, Narela
+
+1,020
+
+Rs 15.01 lakh
+
+Pocket 6, Narela
+
+1,496
+
+Rs 14.95 lakh
+
+The approximate plinth area of each flat was 49.90 square metres, including common areas. The prices listed in the scheme brochure were tentative and could vary depending on the actual area of the flat.
+
+The 25% discount was a central feature of the offer, bringing the tentative price of the flats close to Rs 15 lakh. However, the listed flat price was not the only expense buyers needed to consider. The brochure specified additional charges, including maintenance, a water connection charge of Rs 2,000 and applicable conversion charges.
+
+  
+
+### How did the booking process work?
+
+The scheme used a first-come, first-served system, with online bookings opening at noon on October 20. Applicants were required to register on the DDA Awaas Portal and pay a one-time, non-refundable registration fee of Rs 2,500, including GST. People who had already registered on the portal did not need to register again.
+
+Once an applicant selected a flat, the scheme allowed 15 minutes to complete the booking and pay the booking amount of Rs 1 lakh in a single online transaction. The amount was to be adjusted against the final price of the flat.
+
+The brochure also set out conditions under which the booking amount could be forfeited, including surrender, cancellation or failure to complete the required payments. These terms formed part of the scheme's original booking conditions.
+
+### What were the eligibility rules?
+
+The scheme was open to Indian citizens who were at least 18 years old by the stipulated deadline and legally competent to enter into a contract. Applicants were required to have a PAN card and their own savings bank account.
+
+The brochure did not impose a restriction on applicants owning land or property elsewhere. It also allowed eligible applicants to purchase more than one flat.
+
+These provisions were part of the scheme's stated eligibility conditions. The rapid booking response, meanwhile, placed the focus on the discounted prices and the number of homes offered in the two Narela pockets.
+
+### What payment deadlines applied to successful buyers?
+
+The scheme brochure required buyers to pay the demanded flat price within 60 days of receiving the demand-cum-allotment letter. It provided for a further 30-day grace period, during which simple interest at 10% per annum would apply to the outstanding amount.
+
+Failure to pay within 90 days could lead to cancellation and forfeiture under the stated conditions. The brochure also described provisions for certain delayed payments and possible restoration, subject to additional interest and charges.
+
+The allotment letter was generally expected to be issued within a week of the payment being realised. Buyers were also advised to inspect the property, as the flats were offered on an “as is where is” basis.
+
+### What infrastructure is planned around Narela?
+
+DDA has highlighted Narela's potential as a residential, educational, institutional and sports hub. Infrastructure cited in the scheme material includes the Rithala-Narela-Kundli metro corridor, a proposed Narela RRTS station, road links such as Urban Extension Road-I and Urban Extension Road-II, an education hub and sports facilities.
+
+These projects form part of the area's development plans and are relevant to the broader context of the housing offer. Their inclusion in the scheme material does not mean every project is already operational.
+
+---
+
+### 'Five Years Of Hard Work Stolen': Finance YouTuber Harish Dies By Suicide, Father Alleges Cyberbullying
+*Pragati Ratti · general*
+
+In a reported last video circulating online, Harish speaks about the impact of the controversy on his work and personal life.
+
+[Read full article](https://www.news18.com/india/five-years-of-hard-work-stolen-finance-youtuber-harish-dies-by-suicide-father-alleges-cyberbullying-ws-l-10390732.html)
+
+---
+
+### SBI confirms cyberattack, 3,897 customer records stolen and put on dark web
+*Armaan Agarwal · general*
+
+The State Bank of India (SBI) has disclosed that a cyber incident led to hackers breaching the bank’s customer records. In a filing with stock exchanges, SBI said that it suspected exposure of 3,897 customer records containing personally identifiable information (PIF) on the dark web. The bank stated the incident had not materially affected its core operations, financial performance or business continuity.
+
+On October 16, SBI said, it received an alert from the Threat Intelligence Service Provider, the Defence Cyber Agency and the Indian Computer Emergency Response Team, or CERT-In, regarding the suspected exposure of customer data.
+
+As per SBI, a preliminary analysis of about 3,75,000 records found on the dark web identified 3,897 customer records containing personally identifiable information. The exposed information reportedly included customers’ registered mobile numbers, dates of birth, names, gender, email addresses and residential addresses.
+
+The records also included branch and customer information file identifiers, lead IDs, and metadata linked to loan and lead records and other 
+
+India Today Tech had first reported a potential data breach at SBI on October 19.
+
+### SBI says core banking not affected
+
+While the incident has exposed customer records, it does not impact core banking operations. “The bank’s core business functions continue to operate normally without disruptions,” SBI said. “The bank promptly activated its cyber incident response and containment protocols.”
+
+The State Bank of India added a detailed investigation was required to establish the authenticity and completeness of the exposed data, identify its potential source, determine the extent of the exposure and assess the risks to customers and the bank.
+
+The bank said it was monitoring the situation closely and would take appropriate measures in accordance with applicable regulatory requirements as the investigation into the 3,897 identified customer records continued.
+
+Previously India Today Tech reported claims by an anonymous hacker group identified as Siriusim, which alleged on the dark web forum BreachForums that it had obtained information relating to 3.75 lakh SBI customers. Though SBI has not named the hacker group involved in the incident.
+
+The incident comes amid increased regulatory focus on cybersecurity in the banking sector. In July, Bank of Baroda acknowledged a data leak that exposed 1TB of customer data.
+
+\- Ends
+
+---
+
+### Doval doctrine creating instability in Pakistan: Pak nuke adviser
+*Sandeep Unnithan · general*
+
+A senior Pakistan nuclear weapons adviser has accused India of fomenting terrorism by supporting terrorist organisations like the TTP and Balochistan Liberation Army (BLA).
+
+Lt General Mazhar Jamil (retired), adviser to Pakistan’s National Command Authority (NCA) accused India of ‘exporting terrorism as an instrument of policy and manifesting the publicly professed Doval doctrine to create instability in Pakistan’.
+
+Speaking at the International Institute for Strategic Studies (IISS), London, on October 13, Jamil cited India’s support of the Mukti Bahini in 1971, the LTTE in the 1980s and the running of six consulates on the Af-Pak border during the International Security Assistance in Afghanistan (2001-14), as purported evidence of its past support for terrorism.
+
+Jamil’s keynote address was part of a Track 1.5 workshop on ‘nuclear deterrence and strategic stability in South Asia’. In a speech riddled with innuendos, claims and half-truths, Jamil accused India of using ‘dual-capable’ BrahMos missiles during Operation Sindoor – meaning the missile could carry both nuclear and conventional warheads. This is a patently false claim – the BrahMos carries only conventional warheads and is not part of India’s Strategic Forces Command.
+
+Jamil, who was Director-General of the Strategic Plans Division (SPD) between 2015 and 2017, the Pakistan army unit that handles nuclear weapons, accused India of taking South Asia ‘to the brink of nuclear catastrophe’ during Operation Sindoor last year. He claimed the situation was saved ‘only by the strategic restraint of Pakistan’. The point of his keynote address appeared to be to paint the Indian subcontinent as a global nuclear flashpoint, to draw international intervention in the region and to remove the Non Proliferation Treaty waiver given to India (which allows New Delhi to buy nuclear fuel and reactors without signing the NPT).
+
+Jamil cited recent assessments by a Swedish think tank SIPRI to insinuate that India was moving towards ‘first-strike capability’ by fielding nuclear submarine launched missiles. Jamil said India has now mated some of its nuclear warheads with submarine-launched ballistic missiles and has conducted sea-based deterrence patrols and that these patrols increased the risk of ‘misperceptions and miscalculations’.
+
+India’s publicly released draft nuclear doctrine released in 1999, rules out a nuclear first strike, highlights ‘credible minimum nuclear deterrence’ and ‘retaliation only’, what is called No First Use (NFU).
+
+Jamil however said India’s NFU was a ‘diplomatic ruse, earning some brownie points from here and there’. He claimed India’s former National Security Adviser Shiv Shankar Menon, the architect of India’s nuclear policy, as stating on record ‘that Indian nuclear policy is flexible enough to accommodate first-strike options’. Menon, who incidentally did not draft India’s nuclear policy, discussed ‘first strike’ options in a 2017 book (‘First strike’ is distinct from ‘first use’ which India’s nuclear doctrine forbids). Menon explained the meaning of the Indian nuclear doctrine’s words ‘massive retaliation’ in the draft nuclear policy as a disarming ‘first strike’ on Pakistan’s nuclear weapons, after Pakistan launched tactical nuclear weapons.
+
+Jamil termed the accidental 2022 launch of a BrahMos missile by the IAF as an ‘intentional BrahMos attack on Pakistan’. The missile was accidentally launched during a drill on March 2022, crashed into Khanewal district in Pakistan’s Punjab province.
+
+Jamil ducked questions on whether Pakistan’s Makkah Joint Defence Pact partners Turkiye and Saudi Arabia would come to its assistance in case of a war with India. He termed the Makkah pact as ‘purely defensive in nature’.
+
+Interestingly, the NCA to which Jamil is adviser, is chaired by Prime Minister Shehbaz Sharif. The NCA was the supreme authority overseeing Pakistan’s nuclear weapons until last November, when the creation of the National Strategic Command brought all nuclear weapons under the operational control of Field Marshal Asim Munir, making Pakistan the only nuclear weapons state with military-controlled strategic weapons.
+
+\- Ends
+
+---
+
+### 'Political Termites In Pain': Delhi Minister Defends Burning Of 30-Foot Cockroach Effigy On Dussehra
+*Meemansa Shekhawat · general*
+
+Delhi BJP leader Kapil Mishra defended the burning a cockroach effigy on Dussehra after AAP leader Saurabh Bharadwaj filed a complaint
+
+[Read full article](https://www.news18.com/india/political-termites-in-pain-delhi-minister-defends-burning-of-30-foot-cockroach-effigy-on-dussehra-ws-lrt-10390709.html)
+
+---
+
+### US targets $500 billion in trade with India over the next three years at Freedom 250
+*ET Online · business*
+
+US targets $500 billion in trade with India over the next three years at Freedom 250
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/us-targets-500-billion-in-trade-with-india-over-the-next-three-years-at-freedom-250/videoshow/135082362.cms)
+
+---
+
+### Tiger Shroff Firing Case: How Cab Driver's Phone Call Helped Cops Trace 3 Accused From Surat To Kota
+*Vani Mehrotra · general*
+
+A cab driver’s phone call helped Mumbai Police trace three accused in the Tiger Shroff firing case, leading to their arrest at Kota railway station.
+
+[Read full article](https://www.news18.com/india/tiger-shroff-firing-case-cab-driver-call-helped-police-trace-accused-kota-station-ws-l-10390710.html)
+
+---
+
+### Ravi Kishan urges young people to turn to Ramayan for life lessons
+*ET Online · business*
+
+BJP MP and actor Ravi Kishan urged young people to read about Lord Ram, Lord Krishna and Lord Shiva, saying spirituality and Indian traditions can provide strength during difficult times. He also encouraged people to practise meditation daily. India Today#RaviKishan #Ramayan #LordRam #RamLeela #Spir...
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/ravi-kishan-urges-young-people-to-turn-to-ramayan-for-life-lessons/videoshow/135082343.cms)
+
+---
+
+### A 'golden age' vs. 'we're working on it': Trump and Vance give different pitches on the economy
+*SECTIONS A vs re working · business*
+
+WASHINGTON - President Bill Clinton famously said he could feel voters' pain over the economy. But these days, when it comes to questions about high prices, President Donald Trump insists that the pain is his.
+
+"They hit me with affordability, and that's the first time I ever heard the word used," he complained in Nebraska earlier this month.
+
+  
+
+The White House leaves Vice President JD Vance to use a softer touch. Last month in Texas, he admitted "there are people out there who are frustrated by the pace of progress." And during a CBS News town hall on Saturday, Vance said, "I recognize that gas prices are too high right now" and "we're working on it."
+
+Depending on which Republican is speaking, Americans are getting a different perspective on how bad things are with the economy. Trump says "the golden age of America is upon us." Vance walks a tightrope to show that he knows voters are feeling an economic pinch while still selling them on Trump's agenda.
+
+The disconnect comes as Americans' confidence in the economy sank to the lowest level in more than a decade this month, the average long-term U.S. mortgage rate jumped this month to its highest level in nearly three years and the unemployment rate ticked up last month.
+
+Recent economic data released this month shows that high gasoline prices are intensifying inflation and more expensive oil and gas have begun to push prices up in other parts of the economy.
+
+While most of Trump's supporters don't hold him at fault, some acknowledge that the president's penchant for salesmanship may not hit the mark.
+
+"I think he talks it up," said Conda Little, a 76-year-old retiree who went to see Trump in Dalton, Georgia, on Friday. "I think Vance is more real."
+
+Little takes the president at his word that he will achieve a victory over Iran in a way that benefits U.S. consumers back home. But she said it's impossible to deny the fallout from the conflict.
+
+"Everybody's real upset about the gas" and "groceries are out of sight," she said. "It's hard. It's really hard," she said, adding that, "I think that people need to hear the truth."
+
+## 'We need to do more'
+
+Trump is loath to acknowledge concerns. He told reporters earlier this month that he gives himself "an A+ on the government, on economics, on everything." He has dismissed concerns about high costs, arguing that concerns about affordability are a "hoax."
+
+"We're in the golden age of America. So our nation is doing better now than ever before," he told a crowd in Kentucky on Saturday while campaigning for Republican candidates.
+
+Trump has occasionally acknowledged that gas prices are high, but has called it "a small price to pay" for keeping the country and the world safe with the Iran war.
+
+Trump's discordant message with one of the top concerns voters are voicing ahead of the midterm elections has seemed heightened by his fixation on beautifying Washington and building a large ballroom at the White House.
+
+During a visit this month to an economically struggling corner of Arizona, he regaled the crowd with the story about how he ended up with a luxury jet gifted by Qatar to use as Air Force One.
+
+Vance, as he crisscrosses the country, is quick to say that the administration has more work to do.
+
+To cast blame, the vice president often says that his administration's Democratic predecessors put the country in such a deep hole that they need more time to climb out.
+
+To show empathy, he often references his own experience growing up in a working-class family in a Rust Belt town. That's far different than Trump, who comes from a wealthy family, is a billionaire and even joked during his speeches on Friday and Saturday that if people have lunch at his Mar-a-Lago club, "for $5,000, you'll get one hamburger and a small dessert."
+
+Vance, during a CBS News town hall that aired on Saturday, said: "I grew up in a working-class family. When gas prices were high, I know that it made my grandmother suffer, and I'm sure that you're struggling with it in a variety of ways."
+
+When asked by the moderator about the mixed message he and Trump are giving on the economy, Vance said Trump was speaking about new investments coming into the country, but said the changes take time.
+
+"We need to do more, and we can certainly do better," he acknowledged.
+
+## Many Trump supporters trust his pitch
+
+Some voters said Trump's rosy view on the economy turns them away, like Santiago Rodriguez, a 19-year-old Texas college student who will be voting for the first time this year.
+
+Rodriguez, who attended a campaign rally last week for Democratic Senate candidate James Talarico, said he would consider voting for a Republican but not while Trump is in charge because he doesn't grasp the high cost of living for Americans.
+
+"I think he's out of touch, I think he's never seen what a true day as a Texan or anybody in general who is in the working class," Rodriguez said.
+
+Trump's most loyal supporters aren't interested in blaming high prices on anything the president has done.
+
+Cindy Massengill, a 67-year-old who came to see Trump in Dalton, Georgia, said she felt he's doing the best he can.
+
+"I'm positive that he's got done more than any other president after the mess we were left with Obama and Biden," she said.
+
+Mary Bunker, a 67-year-old Republican who attended Trump's Monday rally near Wichita, Kansas, said she works multiple jobs, including as a waitress and DoorDash driver.
+
+She feels the pressure of high gas prices, but she likes the tax breaks that Trump signed into law last year and she doesn't fault the way he speaks about economic concerns.
+
+"I think he's a very good businessman," Bunker said. "He's been in business a long time, so I think he knows what he's talking about."
+
+---
+
+### I don't support the antics of CJP but i do support the questions they are raising: K Annamalai
+*ET Online · business*
+
+BJP leader K. Annamalai says he does not support the “antics” of the CJP, but backs the questions being raised by the group. His remarks come amid the ongoing political debate over the issues highlighted by the CJP.
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/i-dont-support-the-antics-of-cjp-but-i-do-support-the-questions-they-are-raising-k-annamalai/videoshow/135082280.cms)
+
+
+---
+
 ## 20 October 2026
 
 ### ‘Regime change will not happen in India’, says Mohan Bhagwat at RSS’s 101st anniversary event
