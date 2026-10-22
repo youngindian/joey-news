@@ -1,3 +1,355 @@
+## 22 October 2026
+
+### Released from Tihar, CJP leaders summoned by Delhi Police in trespassing case
+*Pragynesh · legal*
+
+The two leaders have been asked to reach the Rajouri Garden office of Crime Branch by noon on Thursday.
+
+[Read full article](https://indianexpress.com/article/cities/delhi/saurav-das-ashutosh-ranka-tihar-cjp-delhi-police-trespassing-case-10931712/)
+
+---
+
+### Asian Para Games 2026: Sheetal Devi, Toman Kumar Win Gold in Compound Mixed Team Final
+*MyKhel Staff · sports*
+
+Published: Thursday, October 22, 2026, 10:18 \[IST\]
+
+India's para-archers Sheetal Devi and Toman Kumar clinched gold in the compound mixed team event at the Aichi-Nagoya 2026 Asian Para Games, defeating Indonesia 151-148 in the final. The Indian duo delivered a composed performance under pressure to secure the title and add another significant achievement to India's campaign in Japan.
+
+The victory came after the pair established a new world record in the qualification round, combining for 1,402 points. Their performance underlined their status as one of the strongest combinations in international para archery.
+
+### India Beat Indonesia 151-148 in Final
+
+Sheetal and Toman faced Indonesia's Teodora Audi Ayudia Ferelly and Ken Swagumilang in the gold-medal contest. The Indian pair held their nerve in a closely fought final, finishing with 151 points against Indonesia's 148 to secure the gold medal.
+
+The result capped an impressive run through the elimination rounds. India had defeated Japan 154-147 before overcoming Chinese Taipei 142-141 to reach the final. The narrow semifinal victory demonstrated their ability to perform in high-pressure situations before they delivered another strong showing against Indonesia.
+
+### Record-Breaking Qualification Round
+
+The foundation for India's gold-medal campaign was laid during the qualification round on October 19. Sheetal scored 704 out of a possible 720 points in the women's compound ranking round, equalling the world record and establishing a new Asian record.
+
+Toman contributed 698 points in the men's compound ranking round. Their combined total of 1,402 points set a new world record in the mixed team qualification event, surpassing the previous mark of 1,400, which had also been set by India.
+
+### Sheetal Devi Continues Her Rise in Para Archery
+
+Sheetal, one of India's leading para-archers, has continued to establish herself among the world's best in compound archery. Her ability to control the bow and execute accurate shots using her feet and legs has made her a prominent figure in the sport.
+
+Story first published: Thursday, October 22, 2026, 10:18 \[IST\]
+
+Other articles published on Oct 22, 2026
+
+---
+
+### ‘Japan, Korea, EU investing in energy as manufacturing in US isn’t profitable’: Tokyo professor Kazuto Suzuki
+*Siddharth Upasani · legal*
+
+According to Kazuto Suzuki, Director of Tokyo-based think-tank Institute of Geoeconomics, there is a “perpetual confrontation” between economic efficiency and sovereignty and countries now have to find the right balance.
+
+[Read full article](https://indianexpress.com/article/business/japan-korea-eu-investing-energy-manufacturing-us-profitable-tokyo-professor-kazuto-suzuki-10931678/)
+
+---
+
+### 2 flight cancellations force them to travel by bus in winter, father and son win Rs 20,000
+*Somya Panwar · legal*
+
+The Chandigarh consumer commission said an airline’s duty to passengers does not end with a cancellation alert, and awarded Rs 20,000 to a father and his minor son stranded by successive flight cancellations.
+
+[Read full article](https://indianexpress.com/article/legal-news/flight-cancellations-travel-bus-winter-father-son-win-rs-20000-10931609/)
+
+---
+
+### Jason Samuel Arrested In Finance YouTuber Harish Suicide Case After Father’s Complaint
+*Aanchal Sinha · general*
+
+Harish had over 1.3 million followers and created personal finance content. His Instagram account was reportedly disabled over allegations concerning his professional credentials.
+
+[Read full article](https://www.news18.com/india/jason-samuel-arrested-in-finance-youtuber-harish-suicide-case-after-fathers-complaint-ws-kl-10392261.html)
+
+---
+
+### Mumbai Sweats, Delhi Braces For Winter — Yet Both Choke On Smog: Whose AQI Is Worse?
+*Parishmita Saikia · general*
+
+Delhi and Mumbai have nearly identical AQI readings, but what is keeping pollution levels high in both cities? Slower winds, seasonal changes and construction dust offer some clues
+
+[Read full article](https://www.news18.com/cities/mumbai-news/mumbai-sweats-delhi-braces-for-winter-yet-both-choke-on-smog-whose-aqi-is-worse-ws-l-10392148.html)
+
+---
+
+### Asian Para Games 2026: Indian Para Swimmer Deported Over Sexual Misconduct Charges
+*Unknown · sports*
+
+Indian para-swimmer Mohammad Shams Aalam Shaikh has been deported from Japan following allegations of sexual misconduct at the Asian Para Games 2026. The Paralympic Committee of India (PCI) is considering a harsh punishment, including a lifetime ban as further details from the case emerge.
+
+[Read full article](https://sports.ndtv.com/asian-games-2026/asian-para-games-2026-indian-para-swimmer-deported-over-sexual-misconduct-charges-12218321)
+
+---
+
+### Delhi Police Crime Branch summons CJP leaders Saurav Das, Ashutosh Ranka to Rajouri Garden office
+*SECTIONS Delhi Police Crime Branch summons CJP leaders Saurav Das · general*
+
+New Delhi: Delhi Police Crime Branch has summoned Cockroach Janata Party (CJP) leaders Saurav Das and Ashutosh Ranka to its Rajouri Garden office on Thursday.
+
+The development comes a day after a Special Executive Magistrate (SEM) court ordered their release from judicial custody after accepting their personal and surety bonds and taking written undertakings from them to maintain peace and abide by the law.
+
+SEM Ritu Raj directed the two leaders to furnish personal and surety bonds of Rs 50,000 each until the conclusion of the enquiry. The court also directed them to appear on every hearing date and comply with the conditions specified in their bonds and undertakings.
+
+  
+
+In their written undertakings, Das and Ranka promised not to breach peace or disturb public tranquillity. They also undertook not to call for protests at Jantar Mantar until the site is denotified in accordance with the law, and said any future protests would be conducted within the constitutional framework.
+
+"Further judicial custody does not appear to be necessary at this stage, particularly after written undertakings before this Court," the SEM court observed while ordering their release.
+
+The court directed the investigating officer to submit a verification report regarding the sureties at the next hearing. The matter has been listed for further proceedings on October 23 at 3 pm, with the two leaders and their sureties directed to remain present.
+
+Earlier, Delhi Police had sought a further three-day extension of their judicial custody, arguing that the apprehension of a breach of peace and law and order persisted. Police also cited alleged differences between statements made by the leaders before the court and their subsequent remarks to the media.
+
+During the hearing, counsel for the two leaders tendered an unconditional apology to the court over the conduct cited by the police and assured that it would not be repeated.
+
+Das and Ranka were detained in connection with an October 13 protest at Jantar Mantar, which had been denotified as a designated protest site. The police had alleged that they entered the area through private premises and violated conditions relating to maintaining peace.
+
+The SEM court has clarified that the enquiry in the matter will continue in accordance with the law.
+
+---
+
+### cashless claim: ₹10 lakh dengue health claim rejected over 2-year waiting period for a spinal disc condition; here’s why the policyholder won - The Economic Times
+*Anshika Jain · general*
+
+Can a health insurer reject a hospitalisation claim by citing a waiting period for an illness that is not covered under the relevant exclusion clause? This is exactly what happened when a policyholder diagnosed with dengue challenged HDFC Ergo General Insurance’s decision to deny his claim. He did not sit quietly and approached the Delhi State Consumer Disputes Redressal Commission, which ruled in his favour.
+
+Keep on reading to learn why this case shows how important it is to review what your insurance policy doesn’t cover and to understand the reasons an insurer relies on while rejecting a claim.
+
+## **Why did HDFC Ergo reject the dengue hospitalisation claim?**
+
+The dispute arose after Mr Kumar, who had a health insurance policy, was diagnosed with dengue fever on 2 November 2019, and subsequently hospitalised for treatment.
+
+On medical advice, he was admitted to Max Super Speciality Hospital in Patparganj, Delhi, on November 3. His request for cashless treatment was rejected by the insurer on November 6.
+
+Kumar subsequently shifted to Max Super Speciality Hospital in Vaishali, where his cashless request was again denied on November 12. He was discharged on November 21.
+
+According to his complaint, Kumar paid Rs 3.71 lakh towards the first hospital bill and Rs 8.11 lakh towards treatment at the second hospital. He also incurred pre- and post-hospitalisation expenses.
+
+He said he had to borrow money and sell his wife’s jewellery to meet the treatment costs.
+
+Kumar claimed a total of Rs 17.99 lakh, including hospitalisation and pre- and post-hospitalisation expenses. However, HDFC Ergo repudiated the claim citing a two-year waiting-period condition relating to a prolapsed intervertebral disc (PIVD) treatment, a spinal disc condition.
+
+Kumar challenged the rejection, arguing that his treatment was for dengue and that the insurer had not supplied the policy’s terms and conditions to him.
+
+## **Why did the consumer commission rule in Kumar’s favour?**
+
+The District Consumer Commission, in its order dated 31 October, 2023, ruled that the insurer had failed to establish that the policy’s terms and conditions had been duly supplied to the insured.
+
+“It accordingly held that the exclusionary conditions could not be enforced against him and directed payment of Rs 10 lakh, being the sum insured applicable to the relevant policy period, along with interest at 6% per annum, Rs 30,000 as compensation and Rs 20,000 towards litigation costs,” says Vivek Kumar, Advocate, Delhi High Court.
+
+Unhappy with this order, HDFC ERGO appealed against it, contending, inter alia, that the claim was subject to a 24-month waiting period.
+
+However, the State Commission found no cogent justification for rejecting the cashless facility and upheld the District Commission’s order.
+
+The ruling is significant because the insurer’s decision was tested against the actual diagnosis and the specific exclusions contained in the policy, rather than being accepted merely on the basis of the insurer’s interpretation of the waiting-period clause, explains Kumar.
+
+## **Why did the state commission dismiss HDFC Ergo’s appeal?**
+
+The Commission examined Clause A(ii) of Section V, titled “Special Terms and Conditions”, which prescribed a 24-month waiting period for specified illnesses, diagnoses and surgical procedures enumerated in the policy.
+
+Upon examining the relevant medical records, the Commission found that the policyholder had been diagnosed with dengue fever. Dengue was not included in the list of illnesses or procedures attracting the stipulated 24-month waiting period, explains Kumar.
+
+Consequently, the Commission held that the waiting-period exclusion could not be extended to dengue fever when the illness was not covered by the enumerated exclusion. It observed that the 24-month waiting period did not apply to the respondent’s illness, added Kumar.
+
+The commission found no cogent reason for the insurer to cancel the cashless facility under the circumstances. Upholding the District Commission’s order, the State Commission dismissed HDFC Ergo’s appeal on October 6, 2026.
+
+ET Wealth Online approached HDFC ERGO General Insurance for its inputs, but we did not receive any response at the time of publication.
+
+## **What does the ruling mean for health insurance policyholders?**
+
+A health insurance claim cannot be rejected solely based on a waiting period unless the insurer establishes that the illness falls under the applicable policy exclusion.
+
+“Upon obtaining a policy, the policyholder must always insist on the complete policy wordings, as exclusions that were never communicated may not bind. The policyholder should always ensure that the cover remains continuous. A break in the cover, as in this case, may reset the waiting-period clock and give room to the insurer to justify rejection,” says Sohil Shah, Partner at Pioneer Legal.
+
+Further, when the insurer rejects a claim, always test the rejection against the actual diagnosis and the actual policy wording, and ask the insurer to name the specific clause it relies on, he adds.
+
+It is important to remember that a declined cashless request is not the end of the road. Pay the hospital, keep every record, and then make a claim for reimbursement. Finally, a claim is capped at the sum insured for the policy year in which treatment took place.
+
+---
+
+### Jio IPO Day 2: Subscription At 3.27x On Strong Institutional Interest, QIB Demand At 9.42x; GMP At 22%
+*Mohammad Haris · business*
+
+Till 9:39 am, the NII category was subscribed 1.83 times, while the employee and shareholder portions were subscribed 1.48 times and 1.65 times, respectively.
+
+[Read full article](https://www.news18.com/business/ipo/jio-ipo-day-2-subscription-at-3-27x-on-strong-institutional-interest-qib-demand-at-9-42x-gmp-at-22-10392284.html)
+
+---
+
+### Gujarat issues new school entry rules, makes principal’s written permission mandatory
+*Brijesh Doshi · general*
+
+The Gujarat government has issued a new circular regulating the entry of outsiders into government schools, making prior written permission from the principal mandatory for visitors. The circular also requires every visitor to enter their details in the school’s visitor register before entering the premises.
+
+The state Education Department has issued detailed guidelines to ensure the safety, security, privacy and well-being of students in primary, secondary and higher secondary educational institutions. Only government officials duly authorised to perform their official duties will be exempt from the requirement of obtaining prior written permission.
+
+The circular emphasises that the state government has a special responsibility towards children studying in government schools under the principle of “In Loco Parentis”, which means acting in the place of a parent.
+
+It also refers to Article 21 of the Constitution, which guarantees the right to life, dignity and privacy, and the Supreme Court’s landmark judgment in KS Puttaswamy (Retd) vs Union of India, which recognised the right to privacy as a fundamental right. The guidelines also refer to the National Commission for Protection of Child Rights (NCPCR) school safety policy and guidelines.
+
+### PRIOR WRITTEN PERMISSION MANDATORY
+
+According to the circular, no outsider will be allowed to enter school premises without prior written permission from the principal or head of the institution. Every visitor must record their details in the visitor register before entering the premises.
+
+Entry into classrooms, laboratories, libraries, hostels, playgrounds, toilets and other areas where student activities are taking place will be permitted only with prior written approval from the principal or head of the institution and in the company of the principal, a schoolteacher or an authorised school official.
+
+### PHOTOGRAPHY AND RECORDING RESTRICTED
+
+The circular prohibits photography, videography, interviews, audio recording and live streaming involving students, teachers or school activities without the principal’s prior written permission. Such activities may be approved only for lawful purposes.
+
+School authorities must ensure that photographs, videos or personal information of students are not collected, published or circulated in a manner that compromises their privacy, dignity or safety.
+
+Visitors will also be prohibited from collecting a child’s personal information or publishing the child’s identity or photograph without prior written permission from the principal, particularly where such activities are not in the child’s best interests or could affect their safety, dignity or privacy.
+
+### ACTION AGAINST UNAUTHORISED ENTRY
+
+If any person enters the school without permission, refuses to leave the premises, attempts unauthorised photography or videography, or disrupts school operations, the principal must immediately inform the local police and the concerned District Education Officer, District Primary Education Officer, administrative officer or Taluka Primary Education Officer.
+
+The principal or head of the institution will also have the authority to deny entry to visitors whose presence could affect the school’s security, privacy, discipline or academic environment. School authorities may direct any outsider to leave the premises and seek assistance from the local police whenever necessary.
+
+### STRICT IMPLEMENTATION OF GUIDELINES
+
+All inspection officers have been instructed to ensure strict compliance with the circular. Depending on the facts and circumstances of a case, action may be initiated under applicable laws, including the Bharatiya Nyaya Sanhita, 2023, the Protection of Children from Sexual Offences (POCSO) Act, 2012, the Juvenile Justice (Care and Protection of Children) Act, 2015, the Information Technology Act, 2000, and other relevant laws.
+
+\- Ends
+
+---
+
+### Mahindra Bolero Bold Edition revealed with bronze accents, rear camera
+*Auto Today · general*
+
+## Mahindra has revealed the 2026 Bolero Bold Edition with bronze exterior accents, black leatherette seats, new floor mats and a rear-view camera, offered through a dealer-level accessories package.
+
+Mahindra Bolero Bold Edition
+
+New Delhi,Oct 22, 2026 10:00 IST
+
+Mahindra has revealed the 2026 Bolero Bold Edition, an accessories package that adds cosmetic updates to the SUV along with a rear-view camera. The latest edition introduces bronze detailing across the exterior and cabin, while retaining the existing design, diesel engine and manual transmission.
+
+The Bold Edition is not a separate model but a dealer-level accessories package. Mahindra has yet to announce its price or specify the variants that will be offered with these additions. The carmaker had also introduced a Bold Edition for the Bolero last year.
+
+### Bronze accents set it apart
+
+The exterior updates centre on bronze highlights across several body elements. These include the front grille, bumper and fog-lamp surrounds, with the same finish extending to the alloy wheels, outside rear-view mirror caps, door cladding and roof rails. The additions lend the SUV a contrasting colour scheme without altering its overall shape or proportions.
+
+### Cabin gets new upholstery and camera
+
+Inside, the Bold Edition features black leatherette seat upholstery and edition-specific floor mats.
+
+The most notable functional addition is a rear-view camera, which assists the driver while reversing. The rest of the cabin layout remains unchanged.
+
+### Engine and gearbox remain unchanged
+
+The Mahindra Bolero continues to use a 1.5-litre, three-cylinder mHawk diesel engine. It produces around 75-76hp and 210Nm of peak torque, with power sent to the rear wheels through a five-speed manual gearbox. No mechanical changes have been announced as part of the Bold Edition package.
+
+****Subscribe to Auto Today Magazine****
+
+\- Ends
+
+---
+
+### Indian Navy Conducts Rafale Marine Trials In Goa To Validate Operations From Indigenous Aircraft Carrier INS Vikrant: Report
+*Swarajya Staff · politics*
+
+The Indian Navy has commenced trials of the Rafale Marine fighter aircraft at the Shore Based Test Facility in Goa to validate modifications required for operations from the indigenous aircraft carrier INS Vikrant.
+
+Defence officials reportedly said on Wednesday that the evaluations focus on ensuring the French-origin aircraft can seamlessly operate from India's domestically built carrier.
+
+The trials represent a critical milestone for the Navy's Rs 63,000 crore deal with France, signed on 28 April 2025, which includes 26 Rafale Marine jets—comprising 22 single-seat and four twin-seat aircraft.
+
+Deliveries are scheduled to begin by the end of 2028 or early 2029, with completion expected by 2030.
+
+A primary focus of the Goa trials involves testing compatibility with INS Vikrant's Short Take-Off But Arrested Recovery system.
+
+Originally engineered for catapult-assisted carriers used by French and American navies, the Rafale Marine must demonstrate its ability to launch via a ski-jump ramp and land using arrester wires installed on the carrier's deck.
+
+The shore-based facility replicates these conditions to provide naval pilots with realistic training scenarios.
+
+The Indian Navy currently operates two aircraft carriers—INS Vikrant and INS Vikramaditya.
+
+The acquisition of the Rafale Marine jets will enhance the Navy's fleet, with these aircraft capable of operating from both carriers.
+
+The jets will be employed for air defence, maritime strike, reconnaissance, and shore strike missions, allowing the Navy to engage enemy aircraft whilst maintaining sea control beyond adversary weapon ranges.
+
+The deal also encompasses pilot training, flight simulators, weapons systems, and long-term maintenance support.
+
+In line with the government's Aatmanirbhar Bharat initiative, the agreement includes technology transfer provisions for integrating indigenous weapons and establishing production facilities for Rafale fuselages, alongside maintenance, repair, and overhaul capabilities for aircraft engines, sensors, and weapons systems in India.
+
+**Please click here to add** _**Swarajya**_ **as your preferred and trusted news source on Google**
+
+---
+
+### Elon Musk's public backing for SpaceX-Tesla tie-up sparks fears of shareholder scrutiny
+*SECTIONS Elon Musk's public backing · business*
+
+New York: Elon Musk's public endorsement this week of a potential $3.5 trillion merger between SpaceX and Tesla has rattled some insiders involved in the discussions, who worry his comments could invite shareholder scrutiny and delay the process by several weeks, according to a person with direct knowledge of the talks.
+
+The disclosure created a "mess" for the process, as it could lead to questions about how well Tesla shareholders' interests would be represented, the person said. The concerns reflect similarities some participants see with Tesla's 2016 acquisition of SolarCity, which sparked years of litigation over Musk's role in the deal.
+
+  
+
+Musk, who serves as CEO of both SpaceX and Tesla and owns significant stakes in each company, this week told investors that the two companies were examining what would be the largest corporate transaction in history and revealed that both had formed special committees to evaluate it. The backlash to those remarks is reported here for the first time.
+
+The parties have hired advisers, but discussions are at an early stage, three sources familiar with the matter said. SpaceX approached Tesla in recent weeks, and the companies have been discussing a range of transaction structures, including a SpaceX acquisition of Tesla or a merger under a newly formed holding company, the person familiar with the matter said. They are weighing different forms of merger consideration, including an all-stock deal, the person said. These details of the talks have not been previously reported.
+
+Tesla, SpaceX and Musk did not respond to requests for comment.
+
+  
+
+## SHAREHOLDER LITIGATION OVER TESLA'S SOLARCITY DEAL
+
+In 
+
+That issue loomed large in Tesla's 2016 acquisition of SolarCity, which triggered years of litigation after shareholders alleged the world's richest man had influenced the process to bail out his investment in the struggling rooftop solar company. At the time, Musk owned roughly 22% of both Tesla and SolarCity, which was founded by his cousins.
+
+Shareholders argued that Musk's involvement and public support undermined the deal's fairness. Central to the case were claims that despite his minority stake, Musk was a controlling shareholder of Tesla due to his ties to board members and domineering style.
+
+The Delaware Supreme Court later noted that plaintiffs' contention of the absence of an independent committee, together with "certain other facts concerning Musk's involvement in and public support for the transaction," warranted the finding of unfair dealing.
+
+The courts ultimately upheld the acquisition as fair, though it took several years for the case to be resolved and Tesla directors settled allegations for $60 million.
+
+## MUSK CANNOT BE INVOLVED IN TALKS
+
+Musk owns nearly a fifth of Tesla and just under half of SpaceX, and analysts have said a merger would give him control of the combined entity. On Tuesday's call with investors, Musk acknowledged that as a conflicted party he cannot be part of the discussions of the special committees. Advisers are also in contact with his lawyers to ensure Musk is recused from the merger discussions, the source familiar with the talks said.
+
+Eric Talley, a law professor at Columbia University, said a merger could benefit shareholders by eliminating the need for Musk to divide his time between the two companies. He added that any legal challenge may be harder to predict than the SolarCity case because Tesla is now incorporated in Texas rather than Delaware.
+
+"The Texas thing is a wild card. No one knows how Texas deals with cases like this because Texas never dealt with cases like this," Talley said, noting that Texas has sought to establish itself as a business-friendly alternative to Delaware, and Musk's comments so far were not necessarily problematic.
+
+Ultimately, he said, litigation risk would hinge on the terms of any transaction.
+
+"Who's going to get the better side of this deal? And that's usually what gives rise to litigation," Talley said.
+
+## MUSK'S COMMENTS COULD AFFECT DISCUSSIONS
+
+People involved in the process worry Musk's public endorsement of the merger and disclosure of talks could intensify investor scrutiny, as interested parties typically avoid expressing views publicly while independent directors evaluate a deal, the source said.
+
+The SolarCity case could become a reference point for investors and courts assessing any future SpaceX-Tesla transaction if advisers fail to fully insulate the special committees from Musk's influence, the source added.
+
+A tie-up between Tesla and SpaceX would be the biggest deal in history, creating one of the world's largest industrial and technology groups. It would surpass Musk's acquisition earlier this year of his artificial intelligence company xAI by SpaceX, which ranks among the largest corporate transactions ever announced.
+
+A deal of this size would also face scrutiny from global regulators, especially due to Tesla's business in China and SpaceX's work in US defense and AI.
+
+---
+
+### CJP leaders Saurav Das, Ashutosh Ranka summoned by Delhi Police day after release
+*Aastha Jha · regional, india*
+
+CJP leaders Saurav Das, Ashutosh Ranka summoned
+
+NEW DELHI: Cockroach Janata Party (CJP) leaders Saurav Das and Ashutosh Ranka have been summoned by the Delhi Police Crime Branch to its Rajouri Garden office on Thursday, a day after they were released from judicial custody.The two leaders were released after a Special Executive Magistrate (SEM) court accepted their personal and surety bonds and recorded their written undertakings to maintain peace and abide by the law.SEM Ritu Raj directed Das and Ranka to furnish personal and surety bonds of Rs 50,000 each until the conclusion of the enquiry. They were also asked to appear on every hearing date and comply with the conditions specified in their bonds and undertakings.In their written undertakings, the leaders promised not to breach peace or disturb public tranquillity. They also undertook not to call for protests at Jantar Mantar until the site is denotified in accordance with the law, and said any future protests would be held within the constitutional framework.
+
+Delhi Police had earlier sought a further three-day extension of their judicial custody, citing concerns over a possible breach of peace and law and order.
+
+Police also pointed to alleged differences between statements made by the leaders before the court and their subsequent remarks to the media.The two leaders were detained in connection with an October 13 protest at Jantar Mantar, which had been denotified as a designated protest site. Police alleged that they entered the area through private premises and violated conditions relating to maintaining peace.The court directed the investigating officer to submit a report verifying the sureties at the next hearing. The matter is listed for further proceedings on October 23 at 3 pm, with Das, Ranka and their sureties directed to remain present.
+
+
+---
+
 ## 21 October 2026
 
 ### HD Fire Protect IPO Listing: Shares Debut With 24% Premium On NSE, BSE
