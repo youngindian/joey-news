@@ -1,3 +1,378 @@
+## 23 October 2026
+
+### He stayed off Instagram and studied 10 hours a day to secure CA Inter AIR 3
+*India Today Education Desk · general*
+
+## Surat's Prem Agarwal secured AIR 3 in the CA Intermediate examination with 490 out of 600 marks. His success reflects disciplined preparation, limited social media use, and strong family and teachers' support as he pursues his goal of becoming a Chartered Accountant.
+
+CA Inter result 2026: How Surat’s Prem Agarwal secured AIR 3 while staying away from social media
+
+New Delhi,Oct 23, 2026 10:22 IST
+
+Behind every exceptional result lies a story of perseverance, dedication, and determination. For Surat’s Prem Agarwal, months of disciplined study and consistent practice culminated in an impressive achievement: securing All India Rank 3 in the ICAI CA Intermediate examination. He also emerged as the top-ranked student in Gujarat among candidates from his institute.
+
+Prem scored an impressive 490 out of 600 marks, securing an aggregate of 81.67 percent. Earning a place among the top three candidates nationwide in one of India’s most challenging professional examinations is a remarkable accomplishment.
+
+### WHAT WAS THE SECRET BEHIND PREM’S SUCCESS?
+
+Behind Prem’s remarkable achievement lies a combination of eight to ten hours of daily study, disciplined time management, regular revision, consistent practice tests, and a proactive approach to learning. The guidance of his teachers and the unwavering support of his family also played a crucial role in his journey.
+
+Prem believes that consistency is the key to achieving even the most ambitious goals. Sharing his advice for fellow students, he said, “Stay consistent, maintain a ‘keep going’ attitude for six to seven months, and you will succeed.”
+
+His approach to social media was equally disciplined. Prem did not have an Instagram account or use other social media platforms. He relied on YouTube for educational resources and kept his WhatsApp interactions limited to a select few people. He believes social media should be used in moderation and cautions students against allowing it to become a distraction or control their daily lives.
+
+Looking ahead, Prem plans to explore different professional opportunities during his articleship, gain practical experience, and ultimately qualify as a successful Chartered Accountant.
+
+### WHAT DID HIS TEACHERS SAY ABOUT HIS ACHIEVEMENT?
+
+CA Aditya Chhawchharia praised Prem’s dedication, proactive learning, and consistent preparation. He said Prem always completed his coursework in advance and appeared for every test conducted by the institute. He also regularly sought guidance from his teachers and stayed ahead of the curriculum by studying topics beforehand.
+
+According to CA Aditya Chhawchharia, Prem’s disciplined approach and consistent efforts made a strong performance expected. Along with Prem’s AIR 3, Krish Chugh also secured All India Rank 30.
+
+He highlighted the crucial role of Prem’s family, whose support ensured a conducive environment for his studies. Prem’s genuine interest in academics and limited social media use also helped him stay focused.
+
+He added that teachers play an important role in motivating students, helping them overcome setbacks, regain confidence, and realise their potential.
+
+### FROM AIR 3 TO THE DREAM OF BECOMING A CA
+
+Prem Agarwal’s achievement highlights the importance of consistent effort, disciplined preparation, regular practice, and strong mentorship. His journey serves as an inspiration to students preparing for challenging competitive and professional examinations.
+
+By studying eight to ten hours a day, revising regularly, and limiting distractions, Prem demonstrated the value of focus and perseverance. Having secured AIR 3 in the CA Intermediate examination, he now looks forward to articleship, practical learning, and the next steps towards becoming a Chartered Accountant.
+
+His journey offers a simple lesson to aspiring professionals: stay consistent, trust the process, and never give up on your goals.
+
+(With inputs from Sanjay Singh J Rathod)
+
+\- Ends
+
+---
+
+### 'Shaurya commandos' prepared: ITBP chief flags ‘ongoing’ China faceoff along Arunachal border
+*Priyanka Jaiswal · regional, india*
+
+Addressing at an ITBP base in Alwar, Rajasthan, ahead of the force’s 65th Raising Day on October 24.
+
+The Indo-Tibetan Border Police (ITBP) has raised a new combat unit, the Shaurya commandos, who have demonstrated their capabilities during the “ongoing” faceoff with Chinese People’s Liberation Army (PLA) troops at multiple locations in Arunachal Pradesh, ITBP chief Shatrujeet Singh Kapoor said on Thursday.Kapoor said the commandos would be deployed in every border battalion as the force strengthens its combat readiness along the 3,488-km Line of Actual Control (LAC) with China. The ITBP chief’s remarks came as the force steps up its modernisation drive, with a greater focus on emerging warfare technologies and specialised training.
+
+Addressing personnel at an ITBP base in Alwar, Rajasthan, ahead of the force’s 65th Raising Day on October 24, Kapoor said traditional methods of warfare were no longer sufficient to counter China, which he described as India’s “biggest adversary”.The force has raised drone platoons in all its border-guarding battalions and is training personnel to operate drones and develop the technology. Kapoor said the ITBP had received Rs 400 crore in government funding, with 70% earmarked for strengthening its drone warfare capabilities. The Ministry of Home Affairs has also given in-principle approval to a Rs 4,000-crore modernisation plan, including Rs 1,000 crore for drone and anti-drone systems.
+
+The ITBP has also developed a new ‘Strike’ course to prepare personnel for combat situations similar to the June 2020 Galwan Valley clash. Kapoor said the entire force would undergo the training by the end of 2027.During the Galwan clash in eastern Ladakh, 20 Indian soldiers were killed in a violent confrontation with Chinese troops. China later acknowledged the deaths of four of its soldiers.
+
+Beyond combat training and technology, the force is also strengthening infrastructure at forward locations.
+
+Kapoor said the ITBP was building underground shelters in border areas to reduce vulnerabilities in the event of a conflict, as above-ground structures could become targets during a war.The force is also upgrading troop facilities in high-altitude areas, including insulating barracks, installing solar water heaters and providing generator sets to ensure electricity at remote posts. It has introduced cold-start kits to help vehicles start in freezing conditions.Kapoor said these measures were part of a broader plan to develop the ITBP into a specialised high-altitude mountain-fighting force capable of responding to evolving security challenges along the China border.
+
+---
+
+### Ishan Kishan Ruled Out Of 2nd T20I Against New Zealand, Door Opens For Vaibhav Sooryavanshi
+*Unknown · sports, cricket*
+
+Ishan Kishan was ruled out of the 2nd T20I against New Zealand due to a low-grade right adductor strain. Vaibhav Sooryavanshi could replace him in the playing XI.
+
+[Read full article](https://sports.ndtv.com/new-zealand-vs-india-2026-27/ishan-kishan-ruled-out-of-2nd-t20i-against-new-zealand-door-opens-for-vaibhav-sooryavanshi-12223583)
+
+---
+
+### Govt Extends Duty-Free Raw Sugar Import Window Till December 31 To Ease Festive Supplies
+*Mohammad Haris · business*
+
+So far, around 2.6 lakh tonnes has been imported, according to industry data.
+
+[Read full article](https://www.news18.com/business/economy/govt-extends-duty-free-raw-sugar-import-window-till-december-31-to-ease-festive-supplies-ws-l-10393911.html)
+
+---
+
+### Australian agency mulled firing KPMG over data-handling rule breach, documents show
+*Reuters · business*
+
+Sydney: KPMG Australia breached a contract with the country's biggest federal agency by transferring sensitive government material outside its secure environment, prompting officials to consider firing the firm, documents reviewed by Reuters show.
+
+The incident is the global accounting firm's first apparent violation of client information-handling protocols regarding its vast portfolio of Australian government work - A$650 million ($456 million) in active federal contracts as of 2026.
+
+  
+
+KPMG's Australian unit has been at the centre of a scandal over accusations it shared confidential private-sector client information to pitch for work, which it has admitted, but has maintained the conduct did not extend to government contracts.
+
+The government incident in late 2025 involved Services Australia, which operates the country's public health and welfare systems and handles data of most of the country's population of 27 million.
+
+Both KPMG and Services Australia said in comments to Reuters the matter did not involve any data breach, however the government agency has not awarded any new audit work to the firm since.
+
+The incident came to light when a KPMG employee sent a draft audit report marked "OFFICIAL: Sensitive" from a KPMG email account rather than from a specifically-assigned account for Services Australia.
+
+"It appears KPMG has taken agency materials outside of the network which is in breach of their obligations under the contract," a director of the Services Australia audit branch wrote to the agency's national audit manager, Sally Bond, in a December 17 email obtained under Freedom of Information law.
+
+The director, whose name was redacted, recommended the agency demand an explanation from KPMG then "assess whether any further action is required ... including termination of contracts, noting there is no remedy available for a breach of this nature".
+
+Bond wrote to KPMG a week later saying "information was transferred outside of the Services Australia environment by KPMG during our engagement", adding the transferral was "explicitly prohibited under the contract".
+
+"Services Australia takes a breach of this nature extremely seriously," Bond wrote in the email dated December 23. "We will be in parallel engaging with our relevant agency teams to undertake a review of the situation."
+
+In an email the same day to another Services Australia general manager, Bond wrote that the information taken outside the government system was not of "particular concern", but said: "I am more concerned that KPMG has acted outside the contract and has not taken any proactive steps to assure us of this fact".
+
+In a response to Bond on December 23, KPMG said the only document transferred outside the agency was an internal audit report template which had been deleted, and the KPMG employee involved would face follow-up action, including additional training.
+
+The documents didn't show whether Services Australia took additional measures, but an internal cybersecurity review into the incident concluded in January that the risk of data breach was low and closed it off.
+
+## No new audit work for KPMG from Services Australia
+
+KPMG said in a statement to Reuters it "confirmed with Services Australia that no confidential information was exchanged and reminded our people of their obligations in relation to data protocols".
+
+A Services Australia spokesperson told Reuters KPMG had "used its own network and email system, rather than the agency's, to develop and distribute a draft internal audit report", but the incident did not amount to a data breach.
+
+The agency "considered the available contractual options", the spokesperson added. Since "the work was substantially complete and remedial action had been taken, the agency finalised the engagement rather than terminate the contract".
+
+"This was the only instance of this type occurring and Services Australia has not awarded KPMG additional internal audit work since the incident," they said.
+
+The agency gave KPMG an A$12 million multi-year contract in 2024 for "program assurance services", and in April awarded the firm an A$69,850 contract to provide actuarial services, according to published government tender data.
+
+Gary Monroe, a University of New South Wales professor who specialises in audit, said regardless of what material was taken outside the government system, "it's a breach of trust with the client".
+
+On Thursday, the government said it had extended a ban on KPMG bidding for new federal work until February 28, while the firm fixes cultural and governance weaknesses.
+
+---
+
+### Two injured as ceiling gives way at Mumbai’s iconic CSMT
+*Ishika Gupta · legal*
+
+The incident occurred around 10.05 pm when a portion of the ceiling near the booking hall entrance collapsed. The area was undergoing redevelopment and maintenance work by the Rail Land Development Authority (RLDA).
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/two-ceiling-mumbai-iconic-csmt-10933197/)
+
+---
+
+### Physicists trap a single antimatter particle for months to understand how matter began to dominate the universe after big bang
+*Unknown · business*
+
+Physicists at Northwestern University have managed to capture and control a single particle of antimatter for months, creating a new way to investigate one of the biggest unanswered questions in science: why does the universe contain so much more matter than antimatter?
+
+The researchers trapped a positron, the antimatter counterpart of an electron, in an electromagnetic field and cooled it to an extremely low temperature. The achievement, described in a study published in _Physical Review Letters_, gives scientists greater control over the particle's quantum states and brings them closer to testing whether matter and antimatter behave exactly as existing physics predicts.
+
+The experiment does not yet establish a difference between matter and antimatter. Instead, it creates a controlled environment in which researchers can look for one with extraordinary precision.
+
+  
+  
+
+## How scientists trapped antimatter without letting it disappear
+
+Antimatter is difficult to study because it annihilates when it encounters its corresponding matter particle. When an electron meets a positron, both particles disappear in an annihilation event, releasing energy.
+
+That makes a conventional container unsuitable for holding a positron. If the particle touches the container's walls, it can annihilate on contact.
+
+To avoid this, the Northwestern team used a specialised trap that combines electric and magnetic fields to suspend the positron in a near-perfect vacuum. The particle remains isolated from ordinary matter rather than being held inside a physical container in the usual sense.
+
+According to the researchers, the positron in their laboratory has remained trapped for months.
+
+The team produced the particle using sodium-22, a radioactive isotope of sodium. Positrons released during radioactive decay initially move at high speeds and carry substantial energy. Scientists first had to slow the particle down before guiding it into the trap.
+
+The trapping apparatus was cooled to about 300 millikelvins, equivalent to 0.3 kelvin, or approximately 0.3 degrees above absolute zero. This extreme cooling helped the researchers bring the positron into its quantum ground state, the lowest available energy state in the system.
+
+Gerald Gabrielse, the Northwestern physicist who led the research, said the team had coaxed a fast-moving positron into a state in which it could remain controlled for extended periods.
+
+## What is a one-positron quantum cyclotron?
+
+The researchers call their setup a "one-positron quantum cyclotron". In this arrangement, the positron behaves like a highly controlled quantum system with discrete energy levels that scientists can manipulate and observe.
+
+The team demonstrated that it could use carefully tuned microwaves to deliver precise amounts of energy to the particle. By detecting the resulting transitions between quantum energy states, the researchers showed that they could control and measure the positron's behaviour.
+
+This matters because precision measurements require scientists to know exactly how a particle responds to carefully controlled changes in energy.
+
+The experiment brings together two areas of Gabrielse's earlier research: techniques for measuring the properties of individual electrons and methods for slowing, capturing and cooling antimatter particles.
+
+His team previously developed a one-electron quantum cyclotron to measure an electron's magnetic moment with extraordinary precision. The new experiment applies similar quantum control techniques to a positron.
+
+## The next step is to compare an electron with its antimatter counterpart
+
+The team's ultimate goal is to measure the positron's magnetic properties and compare them directly with those of an electron.
+
+According to the Standard Model of particle physics, electrons and positrons should have corresponding properties consistent with a fundamental symmetry between matter and antimatter. Their electric charges are opposite, while their other relevant properties are expected to follow precise relationships.
+
+Gabrielse's earlier electron measurements reached a precision of about one part in 10 trillion, among the most precise measurements ever made of an elementary particle.
+
+The researchers now want to carry out a comparable measurement with the trapped positron. The new study establishes the control needed for that work, although it does not yet report the final electron-positron comparison.
+
+"If it turns out they are not equal, that would be the biggest discovery in physics in the last century," Gabrielse said.
+
+Any discrepancy would need to be examined carefully, but a confirmed mismatch could point towards physics beyond the Standard Model.
+
+## Why a tiny particle could help explain the universe
+
+The Standard Model describes fundamental particles and three of the four known fundamental forces: electromagnetic, strong nuclear and weak nuclear forces. Its predictions have survived numerous experiments, often with remarkable accuracy.
+
+However, it does not explain everything. One of its biggest unresolved problems concerns the imbalance between matter and antimatter in the observable universe.
+
+According to current cosmological understanding, the Big Bang should have produced matter and antimatter in nearly equal amounts. If the two had remained perfectly balanced and behaved symmetrically, annihilation would have removed much of both, leaving little ordinary matter from which stars, planets and life could form.
+
+Yet the universe we observe is dominated by matter.
+
+Scientists have spent decades investigating whether subtle differences between matter and antimatter could help explain this imbalance. A precise comparison of electron and positron properties offers one way to test the symmetries that underpin current theories.
+
+The new experiment does not solve the matter-antimatter mystery, and the researchers have not demonstrated a failure of the Standard Model. Its significance lies in creating a more controlled method for investigating a fundamental question.
+
+Gabrielse said his team is examining simple physical systems with extreme precision in the hope of finding where current theory may be incomplete.
+
+---
+
+### Swiggy shares crash 12% to record low: Why is the stock falling so sharply?
+*India Today Business Desk · general*
+
+## Swiggy shares have been under sustained pressure. As of 9:50 am on October 23, the stock was down 19.51% over the past five trading sessions, 33.27% over the past month and 36.58% over the past six months. The decline has been even steeper in 2026 so far, with the stock falling 52.43% year to date to Rs 185.85.
+
+Instamart's adjusted loss widened to Rs 895 crore in Q2.
+
+New Delhi,Oct 23, 2026 10:07 IST
+
+Swiggy shares plunged nearly 12% on Friday, hitting a record low as investors grew concerned about mounting losses in its quick-commerce business Instamart and the cost of competing in India's crowded instant-delivery market.
+
+The stock fell to an intraday low of Rs 184.90, down Rs 26.40, or 12.49%, from its previous close of Rs 211.30. It was trading at Rs 186.15, down 11.90%, in the latest available snapshot.
+
+Swiggy shares have been under sustained pressure. As of 9:50 am on October 23, the stock was down 19.51% over the past five trading sessions, 33.27% over the past month and 36.58% over the past six months. The decline has been even steeper in 2026 so far, with the stock falling 52.43% year to date to Rs 185.85.
+
+The sharp decline comes after Swiggy reported wider losses at Instamart for the September quarter, putting profitability back in focus as the company continues to expand its quick-commerce operations. The stock's fall also follows investor scrutiny of rival Eternal's results this week.
+
+Here are three key reasons behind the sharp fall in Swiggy shares.
+
+### INSTAMART'S LOSSES WIDEN
+
+The biggest concern is the widening loss at Instamart, Swiggy's quick-commerce business. Its adjusted core loss increased to Rs 895 crore in the September quarter from Rs 849 crore a year earlier.
+
+Quick-commerce companies are expanding rapidly by setting up small warehouses, known as dark stores, to enable deliveries within minutes. While the model can drive order growth, expanding the network and competing for customers can put pressure on profitability.
+
+Investors are increasingly looking for evidence that growth in orders and sales can translate into improving unit economics. Wider losses raise questions about how much Swiggy may need to spend before Instamart can become sustainably profitable.
+
+### INTENSE COMPETITION KEEPS PROFITABILITY IN FOCUS
+
+Swiggy and rival Eternal have been expanding their dark-store networks as quick commerce becomes an increasingly important growth driver. But aggressive expansion and competition are keeping costs and profitability under scrutiny.
+
+Investors are assessing whether sustained growth in order values, better customer retention and higher store utilisation can eventually improve margins.
+
+Brokerage Emkay said sustained double-digit sequential growth in Instamart's net order value, alongside improvements in customer retention, monetisation and store utilisation, could support a higher valuation for the stock.
+
+The concern is that growth alone may not be enough if the cost of acquiring customers, fulfilling orders and expanding the network continues to weigh on earnings.
+
+### BROKERAGES CUT TARGET PRICES
+
+Brokerages remain positive on Swiggy's longer-term potential, but their lower target prices reflect concerns about the pace of profitability improvement.
+
+Jefferies maintained its 'buy' rating but cut its target price to Rs 330 from Rs 435. The brokerage flagged Instamart's losses as a key concern, while arguing that Swiggy's current share price did not fully reflect the value of its food-delivery business and cash holdings.
+
+Emkay also retained its 'buy' rating but reduced its target price by 11% to Rs 310. It described food delivery as a strong franchise with operating leverage, while viewing quick commerce as an additional growth opportunity.
+
+The lower targets suggest that analysts still see potential in Swiggy, but want clearer evidence that Instamart can improve its financial performance.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+---
+
+### UP schoolchildren study on mats despite funds for furniture, officials promise desks
+*Abhinav Mathur · general*
+
+## Students at a government primary school in Uttar Pradesh's Sambhal were made to sit on mats without desks or chairs. The district administration says furniture should reach remaining schools within two months.
+
+UP schoolchildren study on mats despite funds for furniture, officials promise desks
+
+Sambhal,Oct 23, 2026 10:06 IST
+
+Children at a government primary school in Uttar Pradesh’s Sambhal district were found studying while sitting on mats, with no desks to keep their books, despite funds being allocated to improve furniture facilities in schools.
+
+The situation came to light when an _Aaj Tak_ team visited the primary school in Makhdumpur village, in Sambhal block, and spoke to students about the seating arrangements available to them.
+
+When asked where they sat during lessons, several children said they studied on mats along with their classmates. Asked whether they had desks to keep their books or chairs to sit on, the students said they had not been provided with either.
+
+Faizan, a student at the school, said he attended a government school but had to sit on a mat to study. Another student, Bajiya, who is in Class 5, similarly explained that she and the other children sat on mats during lessons.
+
+Ajmain, another student, confirmed that the school provided mats for seating. When asked about tables and chairs, the student replied in the negative. Shami, a Class 2 student, and another student, Sohail, also said they sat on mats.
+
+The students’ accounts emphasised the gap between plans to improve school infrastructure and the facilities available to children in the classroom.
+
+Responding to the issue, Sambhal District Magistrate Ankit Khandelwal said furniture had already been supplied to around half of the more than 1,200 schools in the district. The remaining schools were expected to receive furniture within the next two months.
+
+He added that a proposal had been submitted to the state government and had received in-principle approval. The administration expected the provision of furniture to address the difficulties students faced over seating arrangements.
+
+\- Ends
+
+---
+
+### Indian-origin nurse murdered by husband in US, he claims ICE arrested her
+*Express Global Desk · legal*
+
+Jasmine was last seen on September 30, and her cousin reported her missing on October 4, according to the Sacramento County Sheriff's Office.
+
+[Read full article](https://indianexpress.com/article/world/gurinder-gill-arrested-murder-jasmine-gill-sacramento-false-ice-claim-el-dorado-burned-remains-10933178/)
+
+---
+
+### Cyient Shares Surge 9% After Q2 Results
+*Maumita Mitra · general, business*
+
+Cyient reported a 7.7% sequential increase in revenue to Rs 2,235 crore in the July to September quarter, while Ebitda rose 21.6% to Rs 228.3 crore and Ebitda margin expanded to 10.21%.
+
+[Read full article](https://www.ndtvprofit.com/markets/cyient-shares-surge-9-after-q2-results-ebit-margin-expands-to-10-2-12223474)
+
+---
+
+### Kolkata stampede: Chorbagan Durga Puja treasurer held over 'pandal collapsing' announcement
+*PTI · business*
+
+Kolkata: The treasurer of the Chorbagan Durga Puja was arrested for allegedly misleading revellers by announcing that a section of the pandal was collapsing, which appeared to have triggered panic among them and led to the stampede that claimed the lives of 19 people last week, police said on Friday.
+
+Sanjib Raha, alias Sentu, was initially detained from a hideout in Nadia district on Thursday and later arrested, a senior officer said.
+
+"There were two persons who were making announcements at the Chorbagan Durga Puja. He was one of them. He had been absconding since the incident occurred in the evening of October 17. We initially detained him in Nadia and then arrested him after hours of questioning," he said.
+
+  
+
+At least 19 people died, and 25 others were injured in the stampede at the Chorbagan Durga Puja pandal in north Kolkata following a crowd surge amid rain.
+
+The two persons, who had been making announcements at the puja pandal on the Maha Saptami day, were identified via CCTV footage, the officer said.
+
+"This is part of our investigation into the circumstances that led to the stampede. Raha's mobile phone remained switched off since the incident, and he had tried to contact family members and friends using different numbers," the policeman said.
+
+Investigators were tracking eight suspected mobile numbers as part of their efforts to locate him, he said.
+
+"One of the videos captured the two persons making announcements. They were heard warning revellers that the pandal was collapsing and asking visitors to leave the place immediately. It appeared that the announcements triggered panic and a fresh rush towards the exit point," the officer said.
+
+A special investigation team, formed to probe the tragedy, was also investigating whether lapses in crowd management or other acts of negligence contributed to the stampede, he said.
+
+---
+
+### Sam Altman dismisses AI job loss fears, says coding will actually make you busier
+*Krishna Goswami · general*
+
+Artificial Intelligence (AI) is changing the way we work, leading to a lot of panic about an "AI jobs apocalypse." But if you are a software developer worried about a chatbot stealing your job, OpenAI CEO Sam Altman has some good news: you are about to get busier than ever.
+
+In a recent 45-minute interview with podcaster Matthew Berman, Altman discussed how AI is changing professional roles. He dismissed the fear that coding jobs will disappear. Instead, he believes AI will act as a powerful tool that helps coders get much more done in less time.
+
+"Coders are never going to be busier than they have been and coders are never going to have more of an impact and make more money," Altman said.
+
+### How AI is changing the coding job
+
+According to Altman, human nature pushes us to take on more work when we save time. As AI takes over the boring, repetitive parts of writing basic code line-by-line, developers are not working fewer hours. Instead, they are taking on more projects. The world needs a lot more software, and businesses are finding new ways to use it now that it is faster to build.
+
+Developers are now spending more time acting like managers, guiding the AI, checking its work, and solving bigger problems. Altman is not the only tech boss who thinks this way. Nvidia CEO Jensen Huang also recently dismissed the idea that AI would destroy coding jobs, noting that "software engineers are busier than ever."
+
+### The Math problem
+
+However, Altman noted that mathematics might not follow the exact same path as coding. AI is getting surprisingly good at solving highly complex math.
+
+Recently, OpenAI's models have made headlines for tackling some of the hardest unsolved problems in mathematics. This includes progress on the famous Navier-Stokes equations, which describe how fluids like air and water move, and overturning a longstanding math problem linked to the famous mathematician Paul Erds.
+
+Altman believes that AI might soon handle the heavy lifting of mathematical discoveries and proofs. Instead of doing the raw math, human mathematicians might shift to interpreting the AI's results and finding real-world, practical uses for them.
+
+### Tech layoffs remain a reality
+
+Despite Altman's positive outlook for coders, the broader job market remains tricky. In 2026, major tech giants like Meta, Oracle, Amazon, and Microsoft have continued to announce significant job cuts.
+
+While these layoffs are often linked to company restructuring and cost-cutting rather than machines directly replacing humans, it is hard to ignore the timing. As companies invest billions into AI, they are shrinking their human workforces at the same time.
+
+Altman's main takeaway is that technology creates new demands. AI might make work cheaper and easier, but the human touch is still required to guide it. Whether this AI boom will create enough new jobs to make up for the ones it changes or eliminates is a question the tech industry is still trying to answer.
+
+\- Ends
+
+
+---
+
 ## 22 October 2026
 
 ### Released from Tihar, CJP leaders summoned by Delhi Police in trespassing case
