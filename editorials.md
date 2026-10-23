@@ -1,8 +1,223 @@
 # Editorials
 
-_Last updated: 2026-10-22 06:28 UTC_
+_Last updated: 2026-10-23 06:22 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 23 October 2026
+
+### Canary in the coal mine: On the performance of India’s core industrial sectors
+*The Hindu · Editorial*
+
+The latest data on the performance of the core industrial sectors show the economy may be facing an industrial uptick, but questions about its sustainability remain. Growth in the Index of Core Industries rose to a series-high of 7.9% in September 2026, the second consecutive month of accelerated performance. Any such improvement is to be celebrated, but a deeper look at what is driving it is also warranted. The coal sector saw growth suddenly shoot up to 10.7% in September. The unexpected and unusual nature of this rapid acceleration can be borne out by the fact that the sector contracted by 1.1% over the longer April-September 2026 period. The growth in coal in September was likely a temporary blip aided by a statistical low base and, more importantly, pressure from power plant operators over rapidly depleting coal stocks amid the heat wave. The electricity sector grew 11.4% in September, capping off a half-year dominated by double-digit growth. This surge in electricity-related demand for coal will likely wane, especially since the El Niño factor that drove the heat wave will also result in a milder winter. The other sector that results in high coal usage, the steel sector, did accelerate in September, but not by enough to sustain the coal sector’s September output. The uptick in steel did, however, result in a return to double-digit growth for the iron ore sector, which should bode well for the mining component of the larger Index of Industrial Production.
+
+The performance of the crude oil, natural gas, and refinery products sectors also highlights the fiscal problems India faces. At a time when the crude oil and natural gas sectors have both contracted continuously since 2024, refinery output rose to 10.3% in September. This means that the refineries were increasingly processing expensive imported oil. India’s oil imports in September were up 7% by volume but jumped 47% in terms of value due to the high price of oil. This is set to worsen. The attacks on Saudi Arabia’s energy infrastructure have already pushed global oil prices above $112 a barrel, almost a six-month high. The reprieve from the U.S. on potential tariffs linked to imports of Russian oil provide India a reliable source, but the days of discounts are long gone. It is the time of premium pricing, and each barrel imported is eating into India’s foreign exchange reserves, which are also being used to defend the rupee. Cement and steel are the only sustainably growing core sectors, and those too are based on government infrastructure spending. At a time when industrial output is only temporarily propped up, the government’s fiscal space is fast shrinking.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/canary-in-the-coal-mine-on-performance-of-indias-core-industrial-sectors/article71611800.ece)
+
+---
+
+### Tunnelling through: On China’s export control list, tunnel-boring machines
+*The Hindu · Editorial*
+
+The Chinese Ministry of Commerce and the General Administration of Customs decision to place tunnel-boring machines (TBMs) on an export control list reveals a blind spot in India’s supply chain diversification. The curbs include TBMs, walking excavators, and high-altitude wet shotcrete machines. From November 18, if a shipment is intended for countries or regions deemed sensitive due to ongoing disputes with China, exporters will need an export licence from commerce authorities. For other countries/regions, exporters will need to be registered, obtain an export certificate, and submit end-use declarations stating that the equipment will not be re-routed to sensitive locations. While China has cornered around 70% of the global TBM market, prominent manufacturers in the West also maintain substantial component supply chains in the country to cut manufacturing overhead. Further, TBMs are complex to build as they have to be configured to geological characteristics at the project site and perform numerous tasks. Where a suitable TBM exists, it can be used for civilian or military purposes. India has struggled with TBM-related hold-ups with China for at least two years now, including for the Mumbai-Ahmedabad high-speed rail project. Germany’s Herrenknecht AG set up an assembling and refurbishing facility in Chennai in 2007-08. TBM production economics differ significantly from conventional construction equipment as new plants need a minimum number of orders and must be able to access the industrial capability required to design, manufacture and repair specialised components.
+
+However, even though India is one of the world’s largest TBM importers, expecting every sophisticated machine to be produced domestically will send public infrastructure costs soaring. Even now, depending on China’s decision on the TBMs set for India, India may have to redirect its procurement to facilities based directly in Germany or Japan, say, and absorb the higher capital cost. The BEML experience shows that manufacturing partnerships can fail without secure licensing arrangements and access to sustained demand. India should pursue domestic manufacturing alongside international partnerships, e.g., making equipment in the country under agreement with established foreign firms, and develop shared industrial capabilities rather than singular ‘national champions’, as TBM manufacturers and their suppliers can benefit from access to common testing and precision manufacturing infrastructure. Overall, Beijing is systematically identifying sectors where it commands a significant global capacity and establishing export controls to counter western technological restrictions, such as on advanced semiconductors, so any critical infrastructure sector relying on Chinese supply lines will face a compounding geopolitical risk.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/tunnelling-through-on-chinas-export-control-list-tunnel-boring-machines/article71611821.ece)
+
+---
+
+### Prasar Bharati is not a public service broadcaster
+*The Hindu · Opinion*
+
+When the Narendra Modi government took office in May 2014, the then Information and Broadcasting Minister, Prakash Javadekar, promised to end the “government fiefdom” over Prasar Bharati and recast it on the British Broadcasting Corporation (BBC) model: autonomous in administration, free in editorial judgement, and accountable to Parliament.
+
+Twelve years later that promise remains unfulfilled. The 138th episode of “Mann Ki Baat”, broadcast on September 27, 2026, is only the most visible reminder that the state still treats the public airwaves as its own platform.
+
+Also Read | Budget 2026: ₹4,551 crore for I-B Ministry; funds for Prasar Bharati, to support radio movement
+
+The BBC model, unfulfilledThe irony is sharp. The same political class that invoked the BBC as the template, later accused it of a “continuing colonial mindset” after it telecast the documentary in 2023, “India: The Modi Question”. From April 2024 the BBC had to split its Indian news operation to meet foreign-investment rules.
+
+The deeper story is older than the Emergency. In 1948, Jawaharlal Nehru told the Constituent Assembly — then the only authoritative Indian statement on the British model — “my own view of the set-up for broadcasting is that we should approximate, as far as possible, to the British model, the BBC, that is to say, it would be better if we had a semi-autonomous corporation under the government, of course with the policy controlled by the government, otherwise not conducted as a government department.” Even that caveat — “otherwise not conducted as a government department” — has not been honoured.
+
+Mark Tully, former BBC bureau chief in Delhi, put the same distinction succinctly in a conversation in 2017: public service broadcasting “is not the same as government broadcast”. It rests on two principles, he said — that the government must not interfere in the broadcaster’s autonomy, and that programmes must not be judged by commercial merit alone. Without autonomy and freedom, he added, All India Radio cannot become a broadcaster for transformative change.
+
+The Emergency of 1975 reduced All India Radio (AIR) and Doordarshan to instruments of the regime. After Indira Gandhi’s defeat, the Janata government asked B.G. Verghese to recommend autonomy. His BBC-style model became a Bill in 1979 (Prasar Bharati Bill), but the Bill lapsed. A new version, introduced in 1989 as “a charter of freedom” under Article 19(1)(a) of the Constitution, received assent in 1990 — as the Prasar Bharati (Broadcasting Corporation of India) Act, 1990 — and was enforced only in 1997. Its Statement of Objects and Reasons said the corporation should be “a genuinely autonomous body — innovative, dynamic and flexible — with a high degree of credibility”, responsible to the people and to Parliament. Nearly three decades on, Prasar Bharati is not that body. It is a pretender, a mouthpiece of the government of the day. Section 12 of the Act is the editorial constitution that was meant to lock that intent in. The primary duty is to organise public broadcasting services to inform, educate and entertain. Section 12(2)(b) requires the corporation to safeguard “the citizen’s right to be informed freely, truthfully and objectively” and to present “a fair and balanced flow of information including contrasting views without advocating any opinion or ideology of its own”.
+
+Also Read | Prasar Bharati drafts policy to monetise television, OTT content
+
+At the Ministry’s mercyA truncated corporation was set up so that it cannot function independently of government. Critical Sections 13, 14 and 15 of the Act remain unimplemented. Section 13 requires a 22-member parliamentary committee, elected from both Houses, to oversee Prasar Bharati on Parliament’s behalf. No government has constituted it. Former chief executive Jawhar Sircar has explained why: Ministers insist that they alone are answerable to Parliament and therefore retain the power to summon AIR and Doordarshan officials until they succumb.
+
+Sections 14 and 15 require a Broadcasting Council to receive complaints and guard political impartiality. That Council has never been set up, and it follows that there is no system for editorial redress. The Board, meant to be professionally managed, has been filled with pliable bureaucrats. Ownership of assets and staff was never transferred. Without its own fund, the Board remains at the Ministry’s mercy. Section 23 still lets the Centre issue binding directions on what may or may not be broadcast.
+
+Section 10 required a recruitment board to keep appointments free of government interference. Nothing happened until July 2020, when Jagadish Upasane, who headed Bharat Prakashan, publisher of Panchajanya and Organiser, was made chairman. Autonomy was compromised the moment it was announced. A 2021 manpower audit used the BBC as the benchmark: almost half of Prasar Bharati’s then 25,000-strong workforce sat in engineering, against a little over 10% at the BBC, while content staff were under 20% against about 70%. The numbers described a transmission machine, not a Content-and-News-driven broadcaster.
+
+UNESCO’s 2001 definition is exacting. Public broadcasting is neither commercial nor state-controlled; it speaks to every citizen. Prasar Bharati fails that test. In 2000 the government declared November 12 as Public Service Broadcasting Day to mark Gandhiji’s only AIR broadcast, made in 1947 to two lakh refugees at Kurukshetra. The day has since become tokenism. In 2022 even that tokenism turned into farce when a Christian hymn sung by school students was sought to be dropped from the commemorative national broadcast.
+
+The social contract is simple. The broadcaster has the right to speak freely, and in return it owes the public accuracy, impartiality, and independence from both the market and the Ministry. Nehru’s 1948 formula already drew that line: policy may be set, the daily conduct of broadcasting may not be run as a government department. In 1995, Justice P.B. Sawant, speaking for the Supreme Court in Secretary, Ministry of Information and Broadcasting vs Cricket Association of Bengal, went further. Airwaves are public property, he held, and the Centre must establish an independent autonomous public authority to control their use. Public broadcasting is not state broadcasting. That direction has still not been carried out.
+
+Also Read | Government revamping communications machinery, pushes for unified outreach
+
+There must be political willWhat needs to be done is already known. The parliamentary committee must be constituted, the Board rebuilt as a professional body, and assets and staff transferred. The regulatory council named in the Act must be created, funding designed without government strings, and Indian Information Service officers removed from operational control. The 1990 Act must be amended where practice has exposed its traps.
+
+None of this happens without political will. The syndrome is familiar: autonomy is criticised out of power and forgotten in power. In August 2026, the government told the Lok Sabha that it had received no formal complaints from journalists or media bodies about its autonomy in the previous year. The absence of filed grievances is not evidence of independence. The Broadcasting Council named in the Act was never created, so there is nowhere for such a complaint to go.
+
+The Chanda Committee, appointed when Indira Gandhi was Information and Broadcasting Minister, concluded in 1966 that “a psychological transformation is necessary” in the government’s approach to broadcasting. Sixty years later that transformation has not come, and Nehru’s “otherwise not conducted as a government department” remains unkept words. The options before the people are two: approach the courts to enforce the Act and the Sawant direction, or wait for the 2029 general election and a Lok Sabha willing to turn Prasar Bharati from a government handmaiden into a public service broadcaster. Until then it remains what it has been for nearly three decades: a disguised pretender.
+
+Suhas Borker is Editor, Citizens First TV (CFTV), and has advocated public service broadcasting since the 1990s as convener of Jan Prasar. In 2000, he conceptualised National Public Service Broadcasting Day, on November 12
+
+[Read full article](https://www.thehindu.com/opinion/lead/prasar-bharati-is-not-a-public-service-broadcaster/article71612649.ece)
+
+---
+
+### DC Edit | Why Hardeep Puri Must Quit
+*Deccan Chronicle · Editorial*
+
+At a time that the Centre finds itself on a sticky wicket over the SIR controversy, the latest photograph of the Union petroleum minister Hardeep Singh Puri seated across a table from the convicted sex offender Jeffrey Epstein could not have surfaced at a more damaging moment.
+
+It deepens the government’s credibility crisis and places Mr Puri’s earlier claim that he met Epstein three or four times in a professional capacity, as part of a delegation, under a glaring question mark.
+
+The photograph, by itself, does not prove any wrongdoing. But it does raise some legitimate questions. Speculations will flourish if facts are withheld. The government cannot expect the public to accept a minister's version, only because he has offered one. The statement issued by Mr Puri's office, stating that the minister could not recall the specific meeting or whether others were present or not, does not make the accusations being raised by the Opposition disappear.
+
+The issue is no longer simply whom Mr Puri met. The more serious question is whether India is being exposed to coercion or pressure by a foreign power. The timing of the photograph released by the US department of justice is also politically explosive. Washington wants India to deepen energy cooperation, buy more American energy and consider refining more Venezuelan crude at Reliance’s Jamnagar refinery. The discussions come amid tensions over India’s Russian oil purchases and negotiations towards an India-US trade agreement.
+
+Lok Sabha Leader of the Opposition Rahul Gandhi has linked the controversy to US secretary of state Marco Rubio's visit, asking whom the Americans are allegedly trying to blackmail. It is a serious insinuation, and that is why the government cannot treat this as a private embarrassment involving one minister.
+
+When energy supplies, trade concessions and strategic partnerships are being negotiated, India must demonstrate that its national interests are not vulnerable to foreign pressure. Waiting for a controversy to disappear is not governance. It is evasion. And that is why Mr Puri should quit pending a credible, independent examination. Resignation would not amount to an admission of guilt. Instead, stepping aside would only enhance Mr Puri's image by showing that he dares to welcome scrutiny.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-why-hardeep-puri-must-quit-1998009)
+
+---
+
+### Has America’s Model Minority Reached Its Expiry Date?
+*Deccan Chronicle · Opinion*
+
+There was a time when ‘Asok’ (Indian intern who works in the fictional corporate environment of Dilbert), the stereotypically accented Indian worker in the largely white corporate world, occupied a familiar place in the American imagination, i.e., intelligent, industrious, deferential, faintly comical and, above all, harmless. He could write the code, solve the problem and work the longest hours. But he was rarely imagined as the person who owned the building, set the rules or decided who belonged inside it.
+
+Today, Indian-origin corporate chiefs command global enterprises, direct technological revolutions and influence millions of livelihoods. The journey from cubicle to corner office is a remarkable immigrant success story. Yet it exposes an uncomfortable truth that the minority welcomed for being useful is not necessarily accepted when he becomes powerful.
+
+For decades, the Indian diaspora, particularly its Hindu professional segment, occupied a privileged position in America's narrative of minority achievement. The model minority was presented as evidence that education, hard work and personal responsibility could overcome racial disadvantage. Indian success became a convenient counterpoint to the struggles of Black Americans and other historically marginalised communities.
+
+The implication was unmistakable — if one minority could prosper, perhaps the problem lay not with the system but with those who had failed to master it. The American Right found particular appeal in immigrants who appeared to validate its preferred account of meritocracy. Bobby Jindal (born Hindu, later converted to Christianity), Vivek Ramaswamy, Kash Patel, etc., emerged as prominent conservative voices of the rightwing. Their individual trajectories differed, but their prominence helped establish Indian ancestry as compatible with American political and economic power. The reassuring proposition was that immigrants could rise, embrace conservative ideas, and embody the ‘American Dream’.
+
+But political alignment is not permanent insurance against prejudice. Donald Trump's MAGA movement has placed immigration, national identity, and cultural belonging, at the centre of its rhetoric. Its supporters are not a monolith, and legitimate immigration debates should not automatically be equated with racism. Nevertheless, portraying immigrants as threats or outsiders can reinforce the notion that some Americans are less entitled to belong than others.
+
+The latest hate incident in Aurora, Illinois, makes this vulnerability chillingly tangible. Nineteen-year-old Alexandros Paporakis was arrested over an alleged plan to carry out a mass shooting targeting Indian people, potentially at the Sri Venkateswara Swami (Balaji) Temple, one of the largest Hindu temples in the Chicago metropolitan area. According to prosecutors, Paporakis expressed neo-Nazi and white-supremacist views, told co-workers he could not wait to kill Indian people, and shared a manifesto outlining a mass-casualty plot. Police reported recovering a rifle, ammunition and material associated with white-supremacist extremism. He has been charged, and the allegations remain subject to legal proceedings.
+
+The alleged plot was reportedly thwarted. But the fear it exposed cannot be dismissed. A community that has invested generations in education, enterprise and assimilation must still confront the possibility that its members could be targeted simply for being Indian. This does not prove that every expression of anti-immigrant politics causes violence, or that every MAGA supporter shares extremist beliefs. But exclusionary rhetoric has consequences when it normalises the portrayal of immigrants and people of colour as threats. Political leaders cannot be held responsible for every individual's actions, but the climate their words help create deserves scrutiny.
+
+Here the model minority bargain begins to unravel. The Indian American may be a billionaire, chief executive, conservative campaigner, or naturalised citizen. To a racial essentialist, none of these achievements necessarily erases the perceived foreignness of his name, skin colour, or ancestry. The worker once mocked for his accent and the executive scrutinised for his influence may discover that both remain subject to boundaries they did not create.
+
+The Hindu diaspora must confront an uncomfortable contradiction. Some politically conservative Indian Americans may have believed that assimilation, economic success, and alignment with majoritarian politics offered protection from hostility directed at other minorities. But majoritarianism is transactional. It welcomes those who reinforce its preferred vision of the nation and can withdraw that welcome when their usefulness expires. No minority can permanently purchase security by demonstrating that another minority is less deserving.
+
+Indian-American success should not diminish the struggles of Black, Latino, Muslim, Chinese or other communities. Representation at the top...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/has-americas-model-minority-reached-its-expiry-date-1998022)
+
+---
+
+### National Tropes Work, But Bipartisan Oversight Key
+*Deccan Chronicle · Opinion*
+
+Nations have their affectations — often a narrative or a trope — that brands them. China glories in its historical tradition of unitary rule. The last Qing emperor conceded power to the nominally democratic nationalists in 1912 followed by internal strife till the Communists established full control in 1949. Top-down, single-party ideological rule was pragmatically infused in 1980 with large dollops of “capitalism with Chinese characteristics” to boost economic growth and end income poverty. China now anticipates an exclusive, superpower group of two — a G2 — with America.
+
+America is that “shining city on a hill” redolent with promise and prospects which once welcomed the willing and the brave. Immigrants cling to that hope. But President Trump is underpinning its economy with walled up, domestic competitiveness — a substantive albeit painful transformation driven by its waning unilateral moment, exemplified by the trope, “The US dollar: America’s currency but the world’s problem”, now under threat from global pushback.
+
+India’s national trope is “Satyameva Jayate: Truth will triumph”. And it has. Nearly eight decades after Independence in 1947, our economic “potential”, is pegged at a nominal GDP of $30 trillion by 2047, about 8x current levels. A sub-trope is the “world’s largest democracy” — a prospect which Winston Churchill mocked at the time of Independence when illiteracy and under-development — the outcomes of 190 years of British colonial rule — combined with unparalleled cultural diversity, presented formidable barriers.
+
+India’s Constitution generated hope in 1950. It devised a unique formula for dealing with three barriers to development. It offered “inclusion” by putting citizens first via universal adult franchise — which unusually at the time included adults of both genders and judicially guaranteed fundamental rights. Second, a multiparty political model made democracy management competitive, while vertical distribution of powers assured regional aspirations were met. Third, a permanent bureaucracy ensured administrative stability. Most importantly, the convention that the military serves the people via elected civilian, executive control has endured — much to the credit of India’s military establishment.
+
+Administrative responsibilities and the power to tax are divided between the Union and state governments. A quinquennial finance commission recommends to the Union government, a fair vertical and horizontal allocation of its revenues to ensure fiscal adequacy, for all organs of government, per their mandates. There was a curious exclusion — village and city governments where the rubber meets the road- were left as administrative subsets of the respective state governments. At the time,“trickle down” administration from state governments was deemed sufficient to develop villages and cities. It was not till 1993 — that local governments — both rural and urban, were given Constitutional status, to ensure balanced development and use of public funds. Sadly, the downward delegation of funds and functions is not uniformly adequate across state governments. It can also be argued that the Union is richly funded versus states.
+
+Direct taxes on the income of individuals and corporations — the most buoyant revenue source — is with the Union along with import or export tax. Since 2016, other than excise duty on alcohol, and petroleum products the Goods and Services Tax mops up indirect tax and is shared equally between the Union and respective state government. Any cess or surcharge imposed by the Union is not compulsorily shared with states. This is not a bug. It is a Constitutional feature which makes the states fiscally subservient to the Union government.India is not a federation unlike the US. It is a Union of states — a more devolved multi-party version of China’s unitary state — albeit curiously, much less decentralised in practice.
+
+Opting for a strong Union was a precautionary tactic to preserve national stability. Other artifices to the same end include the All-India Services which play leadership roles across the states and the Union. Special powers vest in the Union to override the vertical distribution of powers. Under Article 352 of the Constitution, the Union government can declare National Emergency. Article 356 allows the Union to impose emergency in states, suspending the right of self-governance and imposing direct Union control.
+
+Abrogation of fundamental rights hits at the heart of democratic functioning. Happily, Article 352 has been used only thrice. Twice to manage external threats — in 1962 the Indo-China conflict and in 1971 the India-Pakistan war which liberated Bangladesh. The exception was 1975 — when Prime Minister Indira Gandhi used it to snuff out the widespread public opposition to her government.
+
+In 1976 a five-judge bench of the Supreme Court ruled in her favour — Justice H.R. Khanna was the lone dissenter opposing the suspension of fundamental rights, thereby...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/national-tropes-work-but-bipartisan-oversight-key-1998031)
+
+---
+
+### Inflation warrants early distress control
+*Deccan Herald · Editorial*
+
+With retail inflation touching 5.54% in September, India’s inflation tolerance – as defined by the Reserve Bank of India (RBI) – is close to its 6% threshold. It is at a two-year high and has been above 4% for four consecutive months. Food inflation was 7.74%, and rural food inflation touched 8.06% in September. The wholesale price index registered a high of 11.39%. According to data released by the Consumer Affairs Ministry, onion prices have risen nearly 113% over the last 12 months, sugar prices by 22%, and sunflower oil prices by 18%. Retail prices of most essential, government-monitored household items have gone up, with 41 of 42 items recording rises over a year. Inflation has steadily increased since January, and consumer prices increased by 0.69% between August and September.
+
+The rise in inflationary pressures is traced to the increase in crude prices due to the war in West Asia, a depreciating rupee, and a deficient monsoon that has affected agriculture and created drought-like conditions in many parts of the country. While the rise in oil prices has raised transport costs, contributing to a general price escalation across commodities and services, a weak rupee has imported inflation. Weather disruptions could continue as the El Niño is expected to extend to the next year. Winter crops are also likely to be affected. The RBI has predicted higher inflation levels for the remaining months. The International Monetary Fund (IMF) has warned of renewed inflationary pressures in India if the West Asia war keeps energy prices high. It also warned that higher energy prices could worsen fiscal balances in the region, making it more difficult for governments to support vulnerable households while maintaining fiscal sustainability.
+
+Tamil Nadu government steps in to curb food inflation, fine rice to be sold at Rs 30 per kiloThe central bank has increased interest rates and may raise them again. While it is the standard monetary response to tackle inflation, it may still prove insufficient. Since food inflation can severely hit weaker sections, especially those in rural areas, the Union government should take steps to contain distress. Buffer stocks should be released in time to reduce shortages and prevent price rises. Administrative action should be initiated to prevent artificial scarcity. Imports should be considered when necessary. Farmers will need assistance for their crops in adverse circumstances, along with compensation and insurance payments for their losses. The poor, in both towns and villages, will be the worst-affected, and the government should prioritise policies to help them overcome the challenge.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/inflation-warrants-early-distress-control-4191930)
+
+---
+
+### Sugar prices: A pause for solutions
+*Deccan Herald · Editorial*
+
+The temporary suspension of the agitation by sugarcane growers in north Karnataka offers the Centre and the state a window to address their grievances before the situation escalates again. The protest had intensified from highway blockades to a march from Belagavi towards Hubballi, where farmers planned to lay siege to the residence of Union Consumer Affairs, Food and Public Distribution Minister Pralhad Joshi. The march was halted after the Centre announced a committee headed by former NITI Aayog member Ramesh Chand to examine the issues raised by the growers. Having given the governments time until November 26, the farmers have warned that they will resume the agitation if their demands remain unresolved. The growers are demanding Rs 5,500 per tonne for sugarcane, a minimum selling price of Rs 60 per kg for sugar, better prices for sugarcane-based ethanol, and implementation of the M S Swaminathan Commission's recommendations, among other measures.
+
+The discontent stems from a widening mismatch between costs and returns, causing financial suffering for both farmers and sugar mills. While cultivation costs and the fair and remunerative price of sugarcane have risen substantially, the Centre's minimum selling price of sugar has remained unchanged at Rs 31 per kg since February 2019. Chief Minister D K Shivakumar’s letter to Prime Minister Narendra Modi rightly points out that several crucial decisions lie within the Centre’s jurisdiction. Any further delay will deepen growers' losses, as unharvested cane steadily loses weight and sugar content. Karnataka has indicated its willingness to provide state-level assistance while awaiting central decisions.
+
+Jaggery price rises as sugar becomes costlierThe dispute might not have escalated this far had the Union government responded earlier to the farmers' requests for a meeting. Notably, Belagavi Deputy Commissioner Mohammad Roshan engaged with farmer leaders and helped prevent an escalation. The immediate priority is to ensure a remunerative price for the current crop and the timely commencement of crushing operations. If the Centre's price proves inadequate, Karnataka should consider a state-backed top-up while enforcing timely payments. The Centre must revise sugar and ethanol pricing and establish a credible mechanism for periodic reviews. Several countries have support programmes that protect farmers against price fluctuations and income losses, offering useful lessons for India. A permanent forum involving growers, millers, and government representatives could help resolve disputes before each crushing season. November 26 must be a deadline for action, not another date for deliberation. Farmers cannot be expected to keep their crops and livelihoods on hold indefinitely.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/sugar-prices-a-pause-for-solutions-4191936)
+
+---
+
+### RSS Chief’s Dussehra Delusions | Foreign conspiracies without evidence, foreign funds without scrutiny
+*Deccan Herald · Opinion*
+
+Rashtriya Swayamsevak Sangh (RSS) Chief Mohan Bhagwat alleged that “demonic forces” from the West were trying to “destabilise India” in his annual Dussehra speech to the organisation. He also claimed that “regime change will not happen” in India like in France (sic), Albania, Bangladesh, or Nepal.
+
+Like the Narendra Modi government at the Centre, Bhagwat offered neither evidence of foreign interference nor of a conspiracy to force regime change.
+
+On the other hand, there is no dearth of evidence of both RSS-affiliated organisations and the Bharatiya Janata Party (BJP)-led government of Prime Minister Narendra Modi receiving support from foreign donors.
+
+The latest evidence comes from a US publication, Bellingcat. It shows that US donor-advised funds channelled millions of dollars in grants to RSS-affiliated NGOs in India. Donor-advised funds are a US charity-giving arrangement — individuals contribute money or assets to a charity they want to sponsor through these funds, receive a tax deduction, and can remain anonymous.
+
+'Regime change won't happen in India': RSS chief Mohan Bhagwat on 'storm blowing in from West' opposing order and propriety The investigation by Bellingcat, published on October 6, shows that two US-based charities, Ekal Vidyalaya Foundation of USA (Ekal USA), and Sewa International (Sewa USA), received $24.4 million from organisations managing donor-advised funds between 2020 and 2024. Together they received contributions and grants of $117.8 million. The ultimate donors remain anonymous, and are not part of the public records.
+
+Both Ekal USA and Sewa USA have close links with the RSS. Ekal USA began as a programme of the Vishwa Hindu Parishad of America. In India, Ekal Vidyalaya schools have been criticised for indoctrinating poor children with Hindutva ideology. The Sewa USA website also points to its RSS connections and describes Seva Bharathi in India, an RSS-sponsored group, as its sister organisation.
+
+The investigation found that both were funding sister organisations, also affiliated to the RSS in India. The Ekal Vidyalaya project — an RSS affiliate — received $33.7 million in foreign grants from Ekal USA. Similarly, Sewa USA reported giving foreign grants to India and South Asia amounting to $29.7 million. It is not known how much was given to its sister organisation in India, Seva Bharathi, during this period (2020-2024).
+
+Both Ekal Vidyalaya Foundation of India and Seva Bharathi have FCRA clearance from an RSS-friendly Modi government. Logically, however, merely on the basis of these organisations receiving foreign funding, can it be said that either they or their parent organisation, the RSS, have automatically become agents of foreign powers?
+
+How is it then that the RSS readily accuses those who challenge the Modi government as operating under foreign influence (having not even provided evidence of foreign funding), while financial and ideological networks located abroad who fund its associates in India are considered beyond suspicion.
+
+The same standard should be applied equally to both those who are critical of the government and those ideologically aligned to it. It should include full disclosure of funding, transparency about the organisational relationships with the funding agencies abroad, disclosure of the purpose of the expenditure, and production of evidence of any improper influence.
+
+As for the Modi government, rallies abroad, at Madison Square Garden in New York, Wembley Stadium in London, or ‘Howdy, Modi!’ in Houston — are foreign-funded events and a form of transnational political interference because of how they impact domestic politics in India. Through these events, foreign citizens, albeit of Indian origin (PIOs), pool millions of dollars that indirectly influence Indian elections and the domestic political atmosphere through image-boosting campaigns for Modi.
+
+These events also interfere in the domestic politics of the host country, such as in Modi’s partisan sloganeering for local political leaders, as in ‘Abki baar, Trump Sarkar’. The events also turn Indian community organisations in the host country into a lobby, to press Western political leaders, as in pressing them to overlook human rights or democratic backsliding within India.
+
+So, neither Bhagwat nor the Modi government have a leg to stand on when they talk of foreign forces interfering in Indian domestic politics.
+
+Bhagwat’s second proposition in his Dussehra speech was that it is a “wrong perception that problems get solved only through agitation”.
+
+Of course, problems also get resolved through dialogue, negotiation, and parliamentary debate. However, when people feel that these methods have failed repeatedly to make those in power listen — as in the case of voter exclusion through SIR — are citizens not free to force negotiation with the State through peaceful resistance in the indigenous manner blessed by Mahatma Gandhi?
+
+'Communist-Islamist cabal' running protest industry to undermine Brand Bharat, says RSS-linked magazine Organiser Bhagwat’s statement that “regime change won’t happen in India” is wishful and inaccurate. Sudden upheavals may be harder in India because of its size and established institutions, but they are not impossible. India’s history is replete with examples where mass agitations forced the removal of chief ministers (Chimanbhai Patel’s ouster in 1974), contributed to the electoral defeat of governments (the J P Movement in 1974-1975), made governments reverse policy (farmers’ movement in 2020-2021) and altered the balance of power in Parliament (fall of the Morarji Desai government in 1979 after the disintegration of the Janata Dal).
+
+The fall of a government does not mean a collapse of the political system. Hypothetically, the Modi government could fall if the National Democratic Alliance coalition breaks down, or if a mass movement leads to an early general election.
+
+Bhagwat has conflated a number of contemporary examples of protest to create a scary picture of political anarchy worldwide waiting to overwhelm India. In truth they are all different. The French government of Michel Bernier fell in 2024 after losing a vote of confidence — through a constitutional parliamentary process without an overthrow of the French State. The current protests in France by students and labour unions have not led to the fall of the French government either. The ongoing protests in Albania demonstrate the government of Prime Minister Edi Rama is under pressure, but it has not yet fallen.
+
+Bangladesh and Nepal demonstrate a quite different pathway where political channels had become ineffective or inaccessible and the State’s political institutions lost their capacity to negotiate with the mass movement. It is reasonable to think that based on India’s size, its federal structure, its strong institutions, and military traditions that will not be the trajectory of Indian politics today.
+
+With the long tradition and maturity of mass movements in India, the government and the RSS chief ought to take a lesson from that history instead of branding the demand for rethinking current policy changes in the electoral system as a foreign conspiracy.
+
+Bharat Bhushan is a New Delhi-based journalist.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/rss-chiefs-dussehra-delusions-foreign-conspiracies-without-evidence-foreign-funds-without-scrutiny-4192308)
+
+---
 
 ## 22 October 2026
 
@@ -36,6 +251,27 @@ As if the simmering trouble in the Strait of Hormuz were not bad enough, Saudi A
 Despite media saturation with related developments, the coverage is often myopic and slanted, perpetuating several myths that need either debunking or proper nuancing. Historically, the Saudi-Al-Houthi conflict is nearly a century old. Saudi King Ibn Saud’s forces defeated Yemeni Imam Yahya’s tribal fighters in 1934, compelling the latter to cede three provinces in the Asir region under the Treaty of Taif. Although a bilateral border was demarcated in 2000, many Yemeni nationalists still question its finality.
 
 [Read full article](https://www.thehindu.com/opinion/lead/the-kingdom-of-saudi-arabia-in-dire-straits/article71608421.ece)
+
+---
+
+### DC Edit | There Could Be A US Trade Deal, After All
+*Deccan Chronicle · Editorial*
+
+Now that it has come in the US President’s words, a US trade deal with India is in the offing. Given the protracted nature of the negotiations and a few heavy red lines drawn by India that could not be crossed, the deal has been in the pipeline for far longer than anticipated. But then global geopolitics, as redefined by Mr Donald Trump’s policies have been shifting so much as to have hampered not only the trade deal on the anvil but also sent the US-India ties on a decline.
+
+What has changed between the time that the US President hit India with 50 per cent tariffs, threatened to raise them to 100 per cent for buying Russian oil and then changed his tune to leave them with only a mild tariff for using child labour is a power that gained in importance due to the oil supply crisis through the straits of Hormuz and Bab-el-Mandeb before strikes on Russian and Saudi Arabian oil refining facilities throttled more than a fifth of the supply chain.
+
+The soft power, or should one say a refined prowess, lay in India’s capacity to process oil in its public sector and private refineries which the US President, who now plays the role of global oil overseer after having first created the crisis by starting the Iran war, has spotted. And he sent his Secretary of State to personally suss out Reliance’s facility in Gujarat’s Jamnagar, home to the biggest single site refining facility that can process 1.24 million barrels a day.
+
+Word on the street is the US, in a bid to use the vast Venezuelan oil resources, even if they are of an inferior grade, would like to rope in India as the refiner and global supplier of Russian oil, now free of sanctions and tariffs for at least for two months, and oil from Venezuela to be carted across the world, which could still be worthwhile as the basic oil costs about 80 percent less than the average prices around $100 a barrel ruling today thanks to the Strait of Hormuz imbroglio.
+
+The proof of the pudding is in the eating, they say, and it remains to be seen if India can use that one weapon in its armoury to extract a trade deal from its tortuous dealings with the Trump administration which glamorised its ties with Pakistan to the detriment of relations with India. It also remains to be seen at what cost the US trade deal will fructify for India as there were suspicions about giving away too much ground.
+
+Going by Mr Trump’s description of the deal going to be “different”, it can be surmised that India-US may sign an initial trade deal covering areas it can agree upon while leaving the sticky points like agriculture and dairy for later. Any trade deal breakthrough will be important as it would be a vindication of India’s strategic autonomy principle applied to foreign affairs and the fact that it stood up to Mr Trump when he was pushing hard on various fronts like H-1B visas and green cards that may affect Indian IT professionals the most.
+
+The trade deal in any form could be the harbinger of a more balanced approach from the White House regarding India and the old Asian binary of India-Pakistan. It appears it may have dawned on a transactional US President that India’s oil refining capacity could be the card that finessed his plans in the prevailing global scenario much as China’s hold on crucial rare earth minerals proved to be.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-there-could-be-a-us-trade-deal-after-all-1997951)
 
 ---
 
@@ -21584,389 +21820,6 @@ India should neither reject rankings wholesale nor deem them politically motivat
 Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
 
 [Read full article](https://www.deccanherald.com/opinion/what-do-global-rankings-really-measure-4086453)
-
----
-
-## 24 July 2026
-
-### Caught on camera: on the use of force at Jantar Mantar
-*The Hindu · Editorial*
-
-The massive use of force by the Delhi Police, and unidentified people, on student protesters in the national capital clearly breached all known protocols of crowd control. After its initial reluctance, the Supreme Court of India has now agreed to hear complaints of police excesses on Monday, July 27. Meanwhile, multiple video clips that have surfaced online show personnel, both in uniform and in normal clothes, using violence with an apparent intent to harm and terrorise protesters rather than to disperse them. Some protesters have sustained pellet injuries that the police and the authorities have yet to explain. In one video, an identifiable senior official of the Delhi Police is seen slapping a girl who was standing nearby; in another, an unidentified person in uniform with three stars is seen poking a girl from behind while she was walking away. In a third video, personnel are seen surrounding a girl, with one of them groping her while others leer and laugh. Some people not in uniform but wearing helmets are seen in video clips on social media beating protesters. Some have been caught on camera carrying sticks with long nails, while others are seen smashing vehicles. All this has happened while the protesters were, barring a stray incident or two, peaceful. Those who unleashed violence, whether authorised police personnel or vigilantes who infiltrated the student protests, need to be identified, pursued, and held accountable.
-
-The police violence against student protesters in Delhi followed a pattern. In 2020, a mob entered the JNU campus and attacked students even as the police looked away. No serious investigation or arrests followed. In 2019, personnel of the Delhi Police entered the library of Jamia Millia Islamia and beat up students during the protests against the Citizenship (Amendment) Act. The crackdown on protesters demonstrating against recurring paper leaks in various examinations marked a new low in this trend. There is no evidence that the protesters, who included teenagers, families with toddlers, and women, were involved in large-scale violence that warranted the level of police force used. It is heartening that the Chief Justice of India has clarified that his earlier reluctance to hear the complaints was only technical in nature and that the Court is open to those who seek justice. The Court now has before it two petitions documenting the nature and extent of the force used by the police. There must be a thorough investigation to find out exactly who was involved and whether the use of force was authorised and proportionate. There must be special attention paid to complaints of assaults of a sexual nature and to those targeting women and children. Those found guilt must face the full force of the law.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/caught-on-camera-on-the-use-of-force-at-jantar-mantar/article71263117.ece)
-
----
-
-### ​Core upgrade: On the Index of Core Industries
-*The Hindu · Editorial*
-
-The Index of Core Industries (ICI) has finally joined the country’s other economic metrics in becoming up-to-date and representative of the economy. The other metrics such as the national accounts, Consumer Price Index (CPI), Wholesale Price Index (WPI), and the Index of Industrial Production (IIP) were updated earlier this year, although even those were after considerable delays. The ICI has now joined their ranks with the June data being based on a new series with an updated base year, an additional sector being covered, and revised weights and methodologies. This is a welcome upgrade. The performance of these core industries is a vital barometer of the state of the economy. In the new series, the previous eight sectors have become nine, with the vital inclusion of the iron ore sector. Improvements have also been made to how the steel and coal sectors are measured in order to remove the previous double-counting that was taking place. The addition of a sector would naturally change the distribution of weights of the sectors in the index, but the final weights also reflect a broader shift in economic activity. The coal and natural gas sectors have seen their weights nearly halve to about 5.6% and 3.8%, respectively. On the other hand, the electricity sector now makes up more than 30% of the index from less than 20% in the previous series. All of this perhaps reflects the rising share of renewables in electricity generation, even as demand for electricity itself surges.
-
-The performance of the index in June 2026, with a five-month-high growth of 5%, would suggest that Indian industry is shrugging off the slump induced by the West Asia crisis. However, two of the strong growth numbers — iron ore by 43.9% and electricity by 9.8% — were due to a statistical base effect since both sectors had contracted in June last year. It remains to be seen whether the numbers will remain this positive once that base effect wears off in the months ahead. The new series highlights some of the systemic issues that the old series did, such as the persistent contraction of the crude oil and natural gas sectors. They have contracted continuously for 18 and 24 months, respectively. If India does not have these resources, that is one thing. But if it has them and still is not able to extract them economically, then that is a serious shortcoming. The update of the ICI and the recent upgrade of the WPI would have been a good time for a broader statistical reorganisation. With the Ministry of Statistics and Programme Implementation handling the CPI and the IIP, it only makes sense for the WPI and ICI to move to it from their current home in the Ministry of Commerce and Industry. That change can still be made.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/core-upgrade-on-the-index-of-core-industries/article71258188.ece)
-
----
-
-### Escalation trap: On the U.S. and the war with Iran
-*The Hindu · Editorial*
-
-The decision by Yemen’s Ansar Allah, better known as the Houthis, to impose a blockade on Saudi Arabia signals that the war on Iran has entered its most dangerous phase. The Houthis, a close Iranian ally, had avoided direct involvement due to a fragile but functional ceasefire with Saudi Arabia, despite their controlling most of Yemen’s population centres, including capital Sana’a. That ceasefire effectively fell apart on July 13 when an airport in Sanaa was attacked by forces of “Yemen’s internationally recognised government”. Based in Saudi Arabia, this government maintains loyal forces inside Yemen, though the Houthis remain the country’s most powerful and influential political and military force. Blaming Riyadh for the attack, the Houthis announced on July 20 a blockade on ships using Saudi ports on the Red Sea. Saudi Arabia, whose crude and other exports through the Strait of Hormuz have been severely constrained by Iran’s blockade, has increased its reliance on Red Sea ports, especially Yanbu. Tankers from Yanbu to Asian markets must pass through the Bab-el-Mandeb Strait, which links the Red Sea to the Gulf of Aden and the Arabian Sea. The Houthis control much of Yemen’s Red Sea coastline overlooking the Bab el-Mandeb and can enforce a blockade of the chokepoint.
-
-When Iran closed the Strait of Hormuz after the U.S.-Israel war began on February 28, all Persian Gulf states struggled to sustain their exports. Saudi Arabia, however, cushioned the impact by using its East-West Pipeline, which links its eastern oilfields to the Red Sea export terminals. If the Houthis enforce a total blockade on the kingdom, Riyadh could face far deeper economic disruption. This, coupled with Iran’s attacks on Kuwait’s desalination plants and power grid — after U.S. strikes on Iranian civilian infrastructure — paints a grim picture of the war and its regional consequences. If the first phase of Iran’s counterattack targeted the Persian Gulf monarchies, the second has expanded to include Jordan, which hosts two major U.S. military bases. Now, with the Houthi blockade, the war’s economic pain is set to deepen further. U.S. President Donald Trump had an opportunity to extricate himself from the conflict when he signed a memorandum of understanding with Iran on June 17. But by returning to war over disputes surrounding control of the Strait of Hormuz, Mr. Trump has not only squandered the opportunity but has also raised the risk of dragging the U.S. into yet another forever, unwinnable war. At this point, he is pursuing the same military tactics against Iran repeatedly, expecting different results. If Mr. Trump wants a way out, he should change course, push for an immediate ceasefire and return to diplomacy.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/escalation-trap-on-the-us-and-the-war-with-iran/article71258153.ece)
-
----
-
-### On guard: on India and the Qdenga dengue vaccine
-*The Hindu · Editorial*
-
-The CDSCO’s approval of the Qdenga dengue vaccine — the first in India’s history — follows the vaccine’s licensing in over 40 countries and a WHO prequalification, and some of the country’s worst dengue years vis-à-vis the disease’s burden, although that is evidence of better surveillance as well. The Aedes mosquitoes that spread the disease are expanding into semi-urban and rural districts, where conventional vector control is harder to sustain. The time to develop the vaccine itself is understandable. The four antigenically distinct dengue serotypes and the possibility of a ‘second infection’ by a different serotype producing more severe disease through antibody-dependent enhancement mean that an effective shot has to induce strong immunity against all four at once. This constraint nearly derailed the first licensed dengue vaccine, Dengvaxia, and the controversy in the Philippines in 2017 prompted greater regulatory caution. The design of Qdenga, by Japan-based Takeda, differs from that of Dengvaxia and, unlike the latter, can be administered without screening for a prior dengue infection.
-
-Its protection against the serotypes varies from highest against DENV-2, followed by DENV-1, while uncertainty remains regarding protection against DENV-3 and DENV-4 in people without prior exposure to dengue. This is concerning because while DENV-2 is more common in India, DENV-3 prevalence is increasing. If the DENV-3 serotype dominates the 2026 monsoon season, Qdenga’s impact could be substantially lower than anticipated, especially if many recipients are dengue-naïve. Qdenga also requires two doses across three months apart. Clinical data suggest that the first dose protects unevenly, with stronger evidence against DENV-1 and DENV-2 than DENV-3 and DENV-4. If a seronegative person takes the first shot on July 1, when the monsoon begins, and encounters DENV-3 in August, the shot may not suffice to prevent severe illness. Ensuring the highly mobile migrant workforce receives its second dose will be significantly difficult, too; those falling through the cracks may also be exposed to concerns raised in the TIDES trial of a ‘negative efficacy’ against hospitalisation related to DENV-3 among seronegative children. Finally, following Takeda’s tiered pricing strategy worldwide, Qdenga may be too expensive for people living in dense urban slums with poor drainage. To ensure sufficient uptake among the populations at greatest risk, the government must negotiate a lower price. In the end, administering a dengue vaccine properly in a population is no less tricky than developing a vaccine against dengue, and the Qdenga rollout should give no cause for complacency.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/on-guard-on-india-and-the-qdenga-dengue-vaccine/article71249935.ece)
-
----
-
-### Student protests are the consequence of Modi government’s policies, writes Sonia Gandhi
-*The Hindu · Opinion*
-
-For the last few weeks, peaceful protests by young students all over India against examination paper leaks and the general decay in the education system have been gathering momentum. Their demands have been straightforward and to the point: accountability from the Government of India and education reform. The Narendra Modi government has responded to their courage with cowardice and wanton cruelty, treating them not as inheritors of the future but as enemies of the nation. On July 20, 2026, a day of infamy, the Delhi Police and the Central Armed Police Forces (CAPFs) sought to suppress them with uncalled-for violence, using brutal lathicharges and tear gas. Scores of peaceful protesters have been injured. Even students heading back home were not spared, as lathis rained down on their backs and heads. The nation has seen some of the most depressing visuals of youth whose bodies have been scarred by pellets, the use of which would undoubtedly have been approved by the Union Home Minister himself. The videos from that day are seared into our memories and have stirred our collective conscience. Only the government and its captive media are spinning stories around this spontaneous rising tide of protest. It is time to say loud and clear: Stop. These are our sons and daughters, our young men and women.
-
-The Modi government routinely uses violence in preference to dialogue. The pattern is clear, from farmers to activists. But this week, even a government as insensitive as the one that has set new standards of authoritarian governance, sank to a new low. Instead of reaching out with understanding to our future doctors and engineers, teachers and civil servants, entrepreneurs and nation builders, it unleashed the repressive power of the state on them. This can neither be forgiven or forgotten.
-
-Congress will stand by the cause of students, says Congress leaderThe old toolkit of labelling any and every dissent as anti-national has been repurposed to tar the student agitation. The Modi government has reached deep into its bag of tricks to cast aspersions and peddle conspiracies when what it should have done is to introspect on its policies that have motivated the protests.
-
-The decline of public educationThe first fundamental issue is the Modi government’s retreat from public education. It has reduced the proportion of its total Budget spent on school education by 50% and on higher education by 33%. Can anyone see the sense in such an absurd retreat? Over the last 12 years, the Modi government has shut down nearly one lakh public schools while overseeing the opening of 43,000 private schools — a large chunk of which are run by the Rashtriya Swayamsevak Sangh, which, along with its affiliate organisations, incidentally presides over the largest private school network in India. In higher education, the University Grants Commission has cut its grants to universities and pushed them to take loans at high rates of interest. To repay them, public universities have resorted to raising their fees.
-
-With high-quality, affordable public education inaccessible, families in India have been forced to spend out of pocket to educate their children. The total amount spent by families on the National Eligibility-cum-Entrance Test (NEET) examination coaching alone is as much as the Modi government invests on public education in total. The cost of pursuing a private education deters lakhs of talented students, who come from humble backgrounds but have immense potential. Equally critical, however, is that these expenses also put a crushing burden of impossibly high expectations on our students. India’s youth are keenly aware of how much their families have invested in the dream of their academic and professional success. The acute desperation of our students is a direct consequence of the privatisation and commercialisation of education.
-
-No debate without Pradhan’s resignation, Opposition tells govt. as it hits the streetsBroken testing system, issue of successThe second issue is the gutting of India’s public examination system, which has undergone the processes of centralisation, privatisation, and politicisation. The traditional practice of universities and States setting their own examinations to cater to their unique needs was replaced by a centralised, National Testing Agency (NTA)-conducted examinations such as the Common University Entrance Test (CUET). The NTA itself is a hapless, chronically-understaffed body which relies entirely on an army of private contractors to conduct its examinations. It is also well known that the paper-setters, translators, and experts engaged by the NTA are not renowned academics from India’s premier institutions but are, for the most part, mediocre individuals with political affiliations. The end result of this process has had stark consequences — 152 paper leaks occurring across the country in the past 12 years, including nine by the NTA itself since it was formed in 2017. Even the most talented and hardworking students find themselves failing simply because the authorities are choosing to reap profits from the examination system without facing any significant consequences for their criminality.
-
-The third issue is the difficulty of succeeding in India’s education system. High-quality, well-paid job opportunities after graduation are a rarity today, partly due to the growing monopolisation of the economy. Unemployment rates for our young graduates have been consistently high, averaging about 40% in the last few years. Competition for the remaining few jobs is intense, and our students have never been more ill-equipped to compete for them. The appointment of feckless Vice-Chancellors chosen for their partisan loyalty, and the consequent recruitment of politically connected but unqualified faculty, has created a crisis in teaching in our public universities. At a time when skill requirements in the workplace have become far more challenging, India’s higher education system has remained bound to obsolete systems and politically motivated curricular changes, dangerously out of touch with evolving methods and standards, and particularly unable to keep pace with the Artificial Intelligence-enabled world. Students are confronted with trying to succeed in an increasingly demanding system for which they are far from adequately resourced.
-
-Rahul Gandhi calls for political consensus to end the ‘paper-leak industry’The education system is therefore increasingly expensive, prone to corruption, and difficult to succeed in. But the last nail in the coffin has been the Modi government’s consistent and conscious policy of evading accountability and avoiding good-faith conversations on education. It deliberately cleared the National Education Policy 2020 without seeking consensus or subjecting it to parliamentary deliberations. The NTA itself was never brought to Parliament and remains a society that was set up by the Union Cabinet without any accountability mechanisms. The Education Minister infamously displayed his own contempt for accountability by publicly dismissing the Parliamentary Standing Committee on Education’s recommendations to strengthen the NTA, simply because it had members of the Opposition in it. His unwillingness to resign from office despite these monumental failures has only further inflamed public opinion.
-
-The roots of protestThe student protests are a natural consequence of these interrelated forces: today’s bleak education landscape, which evokes only hopelessness, and the Modi government’s trademark arrogance and unwillingness to be accountable or constructive. The brutality perpetrated by the police personnel functioning under the direct authority of the Union Home Minister on student protesters is hardly unprecedented for this regime. We all remember vividly how armed policemen and paramilitary forces savaged university campuses during the Citizenship (Amendment) Act-National Register of Citizens protests in 2020. The unacceptable excesses against India’s women wrestlers can never be erased from our memories.
-
-Rahul Gandhi calls for political consensus to end the ‘paper-leak industry’The Modi government has not just degraded India’s education landscape but has also made a habit of acting with utter impunity, supreme self-delusion, and abject insensitivity. India’s students have called the Modi regime’s bluff. It is our moral, political, and constitutional duty to stand with them and safeguard their future.
-
-Sonia Gandhi is the Chairperson of the Congress Parliamentary Party
-
-[Read full article](https://www.thehindu.com/opinion/lead/sonia-gandhi-writes-an-education-systems-collapse-young-indias-trauma/article71259120.ece)
-
----
-
-### DC Edit | Jana Nayagan Release Tells A Story
-*Deccan Chronicle · Editorial*
-
-The release of the film Jana Nayagan has brought a deluge of joy to the youth even as it has come as a slap on the face of authoritarianism that caused it a delay of seven months. It is risible enough in the modern age that the nation still believes in “censorship” and acts accordingly too. That a censor issue should become starkly political is a commentary on how those ruling from New Delhi may have become so ungraciously political as to trample upon the right to freedom of expression to meet a very narrow political objective.
-
-At the time the film went to the censors in December 2025, Vijay was not just a movie star but a political aspirant with a fledgling party who was bidding to ride the crest of a wave of youth support. And they may have manufactured an excuse through a solitary dissenting member of the panel to keep the film certification pending, more because of the protagonist’s political ambitions than any seriously objectionable content in the movie.
-
-The irony comes home with a bang that a candidate they themselves had underestimated should ride a whirlwind of Gen Z admiration and support and go on to win the polls and, as chief minister, form the government in Tamil Nadu. The change in his status that came in May might also have brought about a change in the censors’ hearts as they allowed the movie into the cinema halls with various cuts, mostly small for the pettiest of reasons, and some political excuses as a wannabe neta was involved.
-
-It is a comment on their maturity at such a tender age in politics that they faced the hazard with patience while taking censorship as just another challenge among the several impediments that the rulers in the national capital as well as in Tamil Nadu placed in the way of the Tamilaga Vettri Kazhagam. The troubles that Vijay faced before the polls are placed in the pale now by the noticeable success of the film, a typical Vijay amalgam of family drama, skirmishes, cinematic action and airing of social issues.
-
-The delight it has brought to die-hard Vijay fans was tinged with the odd tear of disappointment that this may be his swansong in the reel world because, as the real CM, his life has been transformed by the choice the people made at the polling station EVMs in April. Such a makeover may seem cinematic but Vijay as neta is here to stay as a wonder in real life.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-jana-nayagan-release-tells-a-story-1973440)
-
----
-
-### DC Edit | New Trump Tariffs: It’s Lose-Lose
-*Deccan Chronicle · Editorial*
-
-US President Donald Trump’s threat to impose steep tariffs on imported generic drugs from August 2028 to onshore production is a continuation of policy decisions which are not rooted in empirical evidence. He announced similar restrictions on patented drugs in April.While the higher tariff is expected to impact the profitability of the Indian pharma sector, the largest exporter of generic drugs to the US, it would also drive up public healthcare costs in America, impacting government budgets and ballooning the already high fiscal deficit.Since India alone exports around 45 per cent of generics to the US, Mr Trump has proposed a gradual implementation of the penal tariffs — none till 2028, 100 per cent from August 1, 2028, to July 31, 2029, and 200 per cent from August 1, 2029. The policy aims to prod Indian pharma companies — which sold $213-billion worth of generic drugs to the US — to set up manufacturing plants in the US.The revenue of the top five US pharma companies is around $350 billion and their market capitalisation is $2,791 billion. In comparison, the valuation of the top five Indian pharma companies is just five per cent or $120 billion. If investment alone could shift generic pharma production to the US, the large US pharma companies could have done it instantly.The essential requirement for generic drugs is affordable pricing. To produce generic drugs at a low cost, companies need low-cost talent, land and other factors of production. Under duress from the Trump administration, Indian companies may set up factories in the US. But will Americans accept the salaries these companies offer Indians? Absolutely not. If they pay American labour as per local requirements, it will immediately make generics unaffordable, impacting public health spending and the profitability of US-based generic units.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-new-trump-tariffs-its-lose-lose-1973679)
-
----
-
-### DC Edit | Prepare For Major Oil Price Shocks To Come
-*Deccan Chronicle · Editorial*
-
-Oil shocks are beginning to register again as Brent crude crossed $99 a barrel and seems headed to a high of $125 per barrel this year if the conflict in Iran continues. Not only has the strait of Hormuz been shut for 13 days since the US resumed bombing Iran because it had been targeting commercial ships in the maritime choke point but also the Houthis claim to have hit a couple of Saudi Arabian tankers with missiles and drones in the Red Sea, affecting another major chokepoint for international oil traffic.
-
-If the threat to shipping in the Red Sea out of the Suez Canal escalates, there is no knowing where oil prices may settle. In such a situation of a dual threat to the flow of Gulf oil, the latest US decision to open the door to Saudi Arabia in a nuclear power deal by which it may begin enriching its own fuel may add fuel to the fire. But then the US President Donald Trump has never been known to play by anyone’s playbook but his own.
-
-Compounding the crisis behind the sharp rise in crude prices that had sunk close to pre-war levels of $70 per barrel is the fact that most oil consuming nations, principally China, have been drawing from their strategic reserves to keep the supply going while absorbing the pain of higher prices. With at least half a dozen Asian nations now planning to buy oil to pad up their reserves and build buffers to deal with the uncertainty, the fears over greater price escalation in oil from the Gulf are growing by the day.
-
-Having used effectively enough the one bargaining chip it had in the Strait of Hormuz through negotiations over the now moribund Memorandum of Understanding with the USA, Iran has threatened that if its oil exports are curbed by the American blockade, then no one else will be allowed to consume oil from the region with the ease that they had got accustomed to in the last decade since oil prices had jumped two-fold in the early 2010s to nearly $140 a barrel.
-
-India, having tapped significantly into its oil reserves in the wake of the Iran war that began Feb. 28, may be compelled to buy oil at much higher prices for the rest of the year as its buffer of Russian oil purchases, exempted from sanctions by the US for a while more, might find that those good days may have gone for good. With Russia also struggling with oil production thanks to Ukraine hitting a nerve by striking its refineries with drones, the qualms over supply lines are beginning to come to life in alarming ways.
-
-The Cinderella days of the Indian economy having passed by despite some strong management by the government of India during the current supply chain crisis and the major public sector oil companies it controls, India may struggle to cope much as all countries east of the Atlantic Ocean which depend mostly on oil and gas from Iran and the Gulf nations. The only prayer left for oil consumers is that the combatants in the Iran war see reason and go back to serious negotiating for peace. Given the current scenario of a capricious White House occupant and hotheads in Iran and Israel, it is an increasingly tall ask.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-prepare-for-major-oil-price-shocks-to-come-1973438)
-
----
-
-### DC Edit | Sonam’s Historic Fast Ends, Focus on Education Minister Now
-*Deccan Chronicle · Editorial*
-
-It is most welcome that Sonam Wangchuk has given up his indefinite fast. The Ladakh activist’s sacrifice in staging a hunger strike for 26 days may have served its purpose as it brought national attention to the ‘NEET’ examination issue. It literally forced an unresponsive government, which thought nothing of a popular youth movement spurred by anger over the integrity of a crucial national medical entrance test being compromised beginning 48 days ago, to respond.Having been seized of the matter in the wake of a dramatic escalation of protests that spread internationally from its roots at Jantar Mantar in New Delhi, the government did bend in intensive crisis management, proposing to punish the exam paper leakers through fast-track courts under an amended law and agreeing to another demand of the protesting students of the Cockroach Janta Party not to charge protesting students with the law.Government action may not have been in time to stave off a huge national demonstration of youth dissatisfaction over the breach of exam integrity that was by no means confined only to Neet, which was held again inconveniencing over a million students. But it appeared to act fast to make up lost ground over the credibility of its education minister, the call for whose resignation refuses to died down.The government was prepared to shunt a senior bureaucrat who was doubling up in school and university education but would not consider calling for the resignation, or even a shuffle of portfolios of its minister who is staring down the barrel for his department failing so noticeably with glitches in the conduct of scores of examinations. Calling for Mr Dharmendra Pradhan’s head has become the fulcrum of the issue now, with the political opposition chiming in.Police brutality in handling the young demonstrators, which included the use of the controversial pellet guns, may in part have been fuelled by the protests descending into chaotic rioting and stone throwing, but those most affected are the youth of India and not so much the lumpen or antisocial elements who may have used the opportunity to vent their disenchantment.
-
-The Prime Minister may even have tried an Insta-type video shoot to touch base with Gen Z, the group disillusioned with the system of education. In his battle to arrest the growing dissent against the ruling party, the PM may have pushed the buttons for remedial action, but a timely probe may have ensured aspirational students don’t feel cheated by the unfairness of a crucial test.What must be done after dealing with the protests and the Opposition trying to cash in on the popular dissent movement is usher in concrete reforms in the examination system which, given India’s IT competence, should pose little difficulty in switching to an ironclad computer-based testing methodology. What is even more needed is a complete overhaul of NEET, which cannot truly measure merit if it treats on par the rural student and the coaching institute-prepared repeat candidate.Transparency in accepting that the police were overzealous in enforcement, willingness to concede that it is possible to reconsider the future of one minister, however politically valuable he may have been, and readiness to discuss with the Opposition leaders on the need to settle issues and get Parliament functioning again should be the formula that can bring some sort of closure.Alienating the youth is not an option for anyone wishing to lead the nation, and apologising to the youth for the troubles they faced can only enhance the leader’s standing.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sonams-historic-fast-ends-focus-on-education-minister-now-1973668)
-
----
-
-### Abhijit Bhattacharyya | How Dhaka-Beijing-Pak Axis Poses Threat to Delhi
-*Deccan Chronicle · Opinion*
-
-The China-Bangladesh joint communiqué issued in Beijing in late June requires some background check to get the bigger picture of perfidy and malevolence of an unholy trio: of these two countries along with Pakistan. The chronology clearly reveals how the Dragon has initiated a fresh destructive and disruptive game, along with two ardent disciples, Dhaka and Islamabad, against India.
-
-When, therefore, Pakistan and China, the “all-weather friends”, included J&K in a joint statement in Beijing on May 26, India’s external affairs ministry spokesman “rejected” the unwarranted reference to Indian territory and lambasted the so-called China-Pakistan Economic Corridor passing through India's land, brazenly violating New Delhi’s sovereignty. On June 22, however, Beijing unleashed its charm offensive: Chinese foreign minister Wang Yi parroted the familiar line that China and India are “partners, not rivals”, while addressing a press conference in New Delhi during a Brics NSAs’ meeting. He went on to add that it was “imperative” for both sides to respect each other’s “core interests” (without defining what these core interests were). India, as the host nation, reciprocated in same spirit, saying the “India-China discussions were constructive and forward-looking” (despite New Delhi being undercut by Beijing). New Delhi then “underlined stable, predictable, constructive bilateral relations contributing to building of trust and better understanding between the two sides”.
-
-In true Nehruvian style, New Delhi walked that extra mile to “improve” India-China ties, reminiscent of the “Hindi-Chini Bhai-Bhai” spirit of the pre-1962 days. But the real gift from India came within 48 hours. The Government of India’s procurement policy division, under the finance ministry’s department of expenditure, issued an order on June 24 allowing four companies with Chinese ownership or links to bid for projects tendered by India government in the power sector.
-
-God help India! New Delhi’s warm response was entirely a one-way affair, In stark contrast to China’s surreptitious “no entry” to all sensitive sectors! Henry Paulson, former US treasury secretary, pointedly noted in “Dealing with China” that the Dragon’s state-owned enterprises (akin to India’s PSUs) would only “dominate defence, electricity, oil, petrochemicals, telecommunications, coal, aviation and shipping”. Given that, India’s conduct is truly bizarre!
-
-Will India be able to deter smaller neighbours, now subject to Chinese influence, from targeting India on both its western and eastern flanks?
-
-Making things more complicated, within 48 hours of the Indian government’s June 24 order came the joint communiqué of Bangladesh’s new Prime Minister Tarique Rahman and China’s President Xi Jinping in Beijing on June 26. In a flash, China’s PLA Navy virtually came closest to India’s territorial waters, posing a major threat to India’s safety, security and sovereignty.
-
-This should not surprise or shock Indians because New Delhi invariably shows supreme courage of conviction to either forget or feign ignorance of each anti-India step by the Dragon. There is nothing to indicate that India will change course anytime soon.
-
-Consequently, whatever new hostility is perpetrated by the Dragon’s dictator Xi Jinping against India, Beijing will inevitably escape from any retribution; with China on the prowl across three continents of Asia, Europe and Africa for over 15 years.
-
-Today’s Beijing-Dhaka bonhomie is, however, a direct challenge to Indian sovereignty. The “Bangladesh-China-India-Myanmar” (BCIM) corridor stands substituted by “China-Myanmar-Bangladesh Economic Corridor” (CMBC), effectively shutting the door to India’s 1990 “Look East Policy”. Now, along with land, comes the maritime geography, where Mongla port (80 km from the West Bengal border) goes to China on a platter. Imagine! The Chinese PLA Navy using and operating from Mongla, 188 km from Kolkata, 220 km from Haldia, will put the entire eastern coastline, right up to Chennai and beyond, under direct Chinese naval surveillance.
-
-Will New Delhi tolerate this state of affairs? Should not Dhaka be clearly told that ignoring Delhi’s core national interests, affecting harmony, peace and prosperity in South Asia, will come at a very heavy cost?
-
-It’s high time that India takes a firm stand. Drastic changes must be made in military deployment, especially naval assets and its command structure. Thus, if the Beijing-Bangladesh axis tries to interfere in India’s North Bengal narrow axis, the Indian Navy should be ready for a full force assault covering the entire 386-nautical mile Bangladesh coastline and totally choke its five ports.
-
-Geography holds lessons in strategy. “If you dare mess with my land, I’ll strangulate your marine access to the outside world for commerce and trade, imports and exports. This is what India did in December 1971 to Karachi and Chittagong.” If Dhaka allows the Chinese Navy to operate in close proximity to a...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/abhijit-bhattacharyya-how-dhaka-beijing-pak-axis-poses-threat-to-delhi-1973443)
-
----
-
-### Dilip Cherian | The File Comes Full Circle: Will Central Secretariat Club Manage To Survive?
-*Deccan Chronicle · Opinion*
-
-What happens when the fence begins to eat the crop? In Delhi’s babu circles, this question is no longer rhetorical. Disputes over the Gymkhana Club and the Delhi Golf Club were largely about land, privilege and entitlement, but the Central Secretariat Club is different. Here, the government is acting against an institution that has long been part of its administrative ecosystem. That makes this more than just another club dispute.
-
-The department of personnel and training (DoPT) has stood by its decision to withdraw the club’s recognition after a committee, constituted at the direction of the Delhi high court, found the original action to be “fair and justified”. Its findings are troubling: financial irregularities, suppression of information, governance failures, discrimination against lower-level staff, and even allegations of illegal gambling. According to sources, the directorate of estates has already cancelled the land allotment and initiated eviction proceedings.
-
-The club disputes those findings, says it was denied a fair hearing, and is preparing to challenge the decision in court. The legal contest will run its course. Equally important is what this episode reveals about the government’s willingness to scrutinise one of its own.
-
-For decades, the Central Secretariat Club has been woven into the culture of the Central bureaucracy, serving both serving and retired government employees. Many of the officers who spent time there also signed the files that ordered inspections, inquiries and evictions elsewhere. There is a certain irony, and perhaps some measure of poetic justice, in watching the babus discover that the file can also move against itself.
-
-Whether the club survives may ultimately be beside the point. The more consequential question is whether this marks a genuine shift towards holding institutions within the administrative establishment to the same standards expected of everyone else, or whether it will remain an isolated case that proves the rule rather than change it.
-
-The Tukaram Mundhe test
-
-Every few years, India discovers a babu who simply enforces the law. This time, it is Tukaram Mundhe.
-
-Since taking charge of Maharashtra's Food and Drug Administration, Mr Mundhe has unleashed a wave of inspections targeting synthetic milk, adulterated food, illegal gutkha and unhygienic eateries. Well-known establishments have not been spared. The public applause is understandable. The surprise is not.
-
-Food safety laws did not arrive with Mr Mundhe. They already existed. What changed was the willingness to enforce them. When routine regulation starts making headlines, it is usually because routine regulation has been missing.
-
-The reported panic among operators, some of whom allegedly dumped suspected synthetic milk merely on hearing that FDA teams were on the move, is equally revealing. It suggests that the real deterrent was never the law itself, but the prospect of someone actually applying it.
-
-Then there is Mr Mundhe’s career. Twenty-five transfers in 21 years have made him a symbol of an uncomfortable reality: officers who refuse to bend often find themselves moved instead.
-
-That is why celebrating Mr Mundhe alone misses the point. A democracy cannot depend on the periodic arrival of fearless individuals to deliver clean food, honest administration or accountable governance. The real success story will not be that Tukaram Mundhe cleaned up the system. It will be when officers like him stop being exceptional and start becoming unremarkable.
-
-Continuity or complacency?
-
-If anyone thought the Centre had a monopoly on service extensions, Tamil Nadu has provided a timely correction. The state has secured a six-month extension for chief secretary M. Sai Kumar, citing the need for administrative continuity through the northeast monsoon. The Centre agreed.
-
-“Continuity” has become the all-purpose justification for keeping senior babus in office. Cabinet Secretaries, Home Secretaries, intelligence chiefs, regulators and now state chief secretaries — the list keeps growing. Every extension is presented as indispensable. Almost none prompt a harder question: if the system cannot cope with a scheduled retirement, what does that say about succession planning?
-
-Every senior officer has experienced colleagues waiting in the wings. If governments repeatedly conclude that only one person can steer the ship, they are inadvertently admitting that the system they oversee has failed to produce a credible successor.
-
-This is not about M. Sai Kumar. By all accounts, he is an able administrator, and exceptional circumstances may well justify exceptional decisions. But exceptions have a habit of becoming conventions.
-
-A long time ago, extensions were marked as extraordinary situations. Today, they increasingly resemble an administrative reflex. That may buy governments short-term comfort, but it delays renewal, blocks the next generation of leadership and reinforces an unhealthy belief that governance depends...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-the-file-comes-full-circle-will-central-secretariat-club-manage-to-survive-1973448)
-
----
-
-### Farrukh Dhondy | A Stormy Reign Ahead for Andy As ‘King of the North’ Crowned
-*Deccan Chronicle · Opinion*
-
-Andy Burnham is now Prime Minister of the UK and his assumption of the role has been reported, or parodied in all the media as a coronation. Calling him the “King of the North”. He came to London via a much-televised train journey, talking incessantly about shifting power from Westminster to the North and the regions.He may consequently spend much of his prime ministerial time journeying to the North and to the regions?Even now, his security team are saying that they won’t allow him to travel to these places by train. So, how’s he going to get to the devolved seats of power? By helicopter? Wouldn’t that transgress his -- and a good number of his MPs’ -- net-zero convictions?Then again, Andy has taken to wearing shorts and T-shirts instead of suits and ties. This may certainly be because that’s the natural way he wants to dress, but has been seen as tailoring his image to seem a man of the people rather than of “The Establishment”. So, what will he wear when he meets Donald Duck -- sorry, Dump -- who said he was dismayed when Ukraine’s Volodymyr Zelenskyy came to meet him without wearing a tie?Oh, the perils, the hazards, the obligations of PM-ship!More seriously, on the relationship with the American Orangeboob. Andy has appointed Ed Miliband as his foreign secretary. Now, it’s a well-worn cliché that the US and the UK not only share the word beginning with “U” -- Unity in diversity? -- but have a historical “special relationship”. Ed is an ardent advocate of net-zero and was, as environment secretary in the previous Cabinet, the person who banned fresh drilling for oil and gas in the North Sea. Donal-ducking-the-issue-of-losing-to-Iran, on the other hand, is a “drill, drill, drill” propagandist and supports fracking. So, wither the “special relationship” -- even though Ed Miliband does wear ties?Another policy, whose progress is worth watching, is what John Healey, the newly-appointed chancellor of the exchequer, will do about the defence budget. Under the last chancellor, Rachel Reeves, Mr Healey. who was secretary of state for defence, had resigned, claiming that Ms Reeves and then PM Keir Starmer were not providing the funds necessary for the proper and adequate defence of this sceptred isle.He now has the job of providing those funds himself and will have to either borrow large sums of money, cut welfare spending or raise taxes from some sector of the population to do it. Any of those options will send opinionated tremors through different sections of the Labour Party, though again, they will please Orangeboob, who has demanded that European nations spend at least three per cent of their GDP on defence as their contribution to Nato.You can’t please all?Yet, Andy certainly has set out to please the considerable number of “nationalistic” voters by appointing Mr Healey, who will be expected to boost defence spending. His other popular move is to keep Shabana Mahmood at the Home Office. She was widely tipped to take over the chancellorship, but, as home secretary in the last Starmer government, has built a reputation for being tough on the influx of legal and illegal immigrants to the UK. Her presence and policies were designed to challenge (imitate?) the extreme right-wing parties such as Reform whose central appeal was the blocking and deportation of refugees, asylum-seekers and possibly already-resident “immigrants” to this country.The right-wing weekly, the Spectator, edited by ex-Tory minister Michael Gove, sported an editorial before the new Cabinet was announced urging Mr Burnham to keep Shabana Mahmood in place – an endorsement from across the floor which Mr Burnham has, for reasons that Mr Gove supports, taken into account.Mr Burnham, till he resigned to contest his seat for Westminster and glide into the premiership unopposed, was the mayor of Manchester. One of the directions he would take -- short of a policy statement -- was that he would “Manchesterise” UK’s national politics.The meaning and the prospect are vague. He must mean that he will do for the country all the great things he did for Manchester as mayor? He added that decisions should not be made by an establishment cabal of ministers and civil servants in London, but that he’d institute measures and legislation to devolve power. That will mean handing over some powers to the local councils where the neo-fascist (or at least imperio-nationalist) Reform Party has control -- 24 councils where it is the largest party -- and 10 others.Very many of these Reform councillors are anti-Semites, Islamophobes, racists and xenophobes and some of them are proven thugs, all to the right of Hermann Goering in their thinking.Be careful to whom you devolve power? I would, gentle reader, prefer the much-reviled civil servants of Westminster to be, even in their reputedly bureaucratic overreach, in charge, than these Reform goons.According to me -- though no one has ever taken any notice -- Mr Burnham should immediately nationalise the railways to reduce ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/farrukh-dhondy-a-stormy-reign-ahead-for-andy-as-king-of-the-north-crowned-1973659)
-
----
-
-### Recalling a Literary Odyssey
-*Deccan Chronicle · Opinion*
-
-Chennai: The recent visit of the crew and cast of The Odyssey, including director Christopher Nolan and stars Matt Damon and Tom Holland, to Mumbai for a historic promotional tour and special screening rekindled this columnist’s fascination with the literary titans behind some of the world’s greatest works like Milton, Shakespeare and Hemingway.
-
-This columnist still fondly remembers her Head of the English Department in Fatima College, Madurai, teaching Paradise Lost and Paradise Regained during her undergraduate years. While Paradise Lost is about the tragic story of Satan rebelling against God and
-
-humanity falling from grace and being forced out of the Garden of Eden, the sequel Paradise Regained symbolizes humanity’s spiritual victory and the salvation through obedience to God.
-
-Though she no longer remembers much about Canterbury Tales by Geoffrey Chaucer and The Faerie Queene, the famous epic poem by Edmund Spenser, that she studied during those years, it remains a part of her literary journey.
-
-Her engagement with Shakespeare extended through both her undergraduate and postgraduate years, during which she studied more than 30 of his plays. It is no exaggeration to say that the plots and characters of his plays can leave students spellbound.
-
-She also relishes the memory of staging a few scenes from King Lear at the annual College Day event.
-
-During her postgraduate studies, she delved deeply into Ernest Hemingway’s works and relished every novel she read. The Sun Also Rises, A Farewell to Arms,
-
-For Whom the Bell Tolls
-
-The Old Man and the Sea possess a timeless appeal that remains unmatched. With fiction being her favourite genre, this columnist spent many happy hours in her college library, which had an extensive collection of novels catering to every literary taste. Three decades on, with changing times and a demanding profession, she finds time only to read newspapers, leaving little room for the fiction she once loved.
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/recalling-a-literary-odyssey-1973572)
-
----
-
-### Shobhaa De | When India’s Pest Control Failed To Kill Desi Roaches
-*Deccan Chronicle · Opinion*
-
-The home-grown desi cockroach is a unique insect. Try as you will, but you cannot squash it under the sturdiest boot. It springs back up and multiplies. Cockroaches are between 125 and 140 million years old. They come in 7,000 species. The Indian cockroach is the smartest/wiliest of the lot and is playing a starring role these days.
-
-Imagine! An insect has boldly taken on the mightiest in the land.
-
-And is winning. An army of cockroaches is crawling across India. As the Indian government discovered during this dramatic week, when it was caught on the wrong foot by an unstoppable surge of youth power, propelled by the Cockroach Janta Party (CJP).Not a single authoritarian agency could stop Gen Z from being seen, heard, acknowledged, admired and respected. These kids did what adults couldn’t -- they shook up the smug, sinister network of the high and mighty, and sent then scrambling for cover.
-
-Shame on those who thought they could (mis)use state machinery to intimidate, terrorise and dabaao the crowd.
-
-The courageous kids used their dimaag and daring to show the leaders they meant business.The complacent government was taken completely off-guard by a hunger-strike that galvanised the youth into action. Autocratic babus planned and orchestrated the bully’s response like it was a war strategy designed to counter an enemy encroaching on Indian territory. Or like a masterplan to foil a full-blown terror attack. Come on… are children that scary?Desh ke bachchey… Salute!A few points worth noting:*Sending sadistic cops in plainclothes, hiding behind masks, minus name tags, but ready with lathis and teargas, is not efficiency. It’s cowardice. More Trump and ICE than democracy.*For the Prime Minister to drive past the protesters with his impressive convoy without pausing to look at -- forget address the protesters -- reeks of fear and demonstrates weak leadership that conveniently prefers to look the other way.*To orchestrate a riot-like situation with readily available stones and empty ambulances driving around to generate panic is a nasty despotic tactic designed to demoralise kids who had left their homes armed with nothing more lethal than placards and slogans.*Disseminating false propaganda and detaining students from railway stations is something even Stalin would have avoided.*Shutting down 16 Metro stations in Delhi showed fear. Not confidence. Even that didn’t stop the crowds from converging and bravely putting up a fight.*What made CJI Surya Kant, originator of the “cockroach” putdown, imperiously say “Don’t waste our time” to a petitioner seeking an urgent listing of police excesses via submitted videos? What an unfortunate, unnecessary snub!*Rahul Gandhi was as usual wasting time demanding the resignation of education minister Dharmendra Pradhan, who seems to have Araldite stuck on his kursi. Worse, Rahul Baba sweetly demanded an apology from Prime Minister Narendra Modi… Bachchey: when has our great PM ever felt the need to apologise?*Ditto for Sonam Wangchuk’s pre-conditions to end his fast: “Ifkey demands are met”. Bro… if those demands were to be met, all this high drama wouldn’t happen in the first place.(Late Thursday night, Sonam Wangchuk finally ended his 26-day fast at Gurgaon’s Medanta Hospital, in the presence of Union ministers J.P. Nadda and Jitendra Singh, his wife and CJP leaders.)*Police brutality against unarmed protesters is being passed off as a defensive response. The police shamelessly trot out the number of cops injured; while clips of bleeding kids go viral. The CPRF called in for what? These are young, angry, frustrated, disillusioned kids speaking up for a better future; not hardened criminals or terrorists. Such measures to control the very students affected by the Neet scandal! Where were these super-efficient security agencies during the leaks? Guarding the netas who made money from the scandal?*In Mumbai, cops were digitally tracking protesters, targeting those seen as trouble-makers. Never before have cops barged into citizen’s homes to order youngsters to stay away from Shivaji Park. Social media handles were closely monitored before picking up kids randomly, demanding they share live locations. Despite all these scare tactics, 2,500 youth packed Dadar’s streets and others turned up in good numbers at Chembur, Juhu, Colaba and Powai.*Rhiya Ahir, a 27-year-old model, became the face of the Mumbai agitation, when she spontaneously did a repeat of the incredibly courageous act of a lone protester who stood in front of a tank during the 1989 Tiananmen Square massacre.“I couldn’t help myself”, said Rhiya (admiringly dubbed a “baddie”), as she blocked a police van full of students chanting slogans. She refused to budge till the police released the protesters, saying she couldn’t just stand by and “do nothing”.*Well, Rhiya… thousands of mega-celebrities did “nothing”, said nothing. Their silence upset many. But let’s be honest: are they in a position to speak up without fear of...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/shobhaa-de-when-indias-pest-control-failed-to-kill-desi-roaches-1973664)
-
----
-
-### A new playbook for disaster readiness
-*Deccan Herald · Editorial*
-
-Devastating flash floods and landslides have hit the Himalayan and North-Eastern states, leading to more than 120 deaths and widespread destruction over the past few weeks. The disaster has struck at a time when much of India is experiencing a shortage in rainfall. Throughout July, thousands have been displaced across Himachal Pradesh, Jammu and Kashmir, Assam, Arunachal Pradesh, and Nagaland. Lakhs of people have been affected across the region. Heavy rains have severely damaged infrastructure, washing away roads and bridges, disrupting railway services, and forcing the closure of schools. Jammu and Kashmir is among the worst-affected states, with rivers including the Chenab swelling. As the Army and the police personnel lead rescue and rehabilitation operations, the Amarnath Yatra remains suspended. Other states face similarly grim conditions. Nagaland has reported extensive damage and casualties, with a surge in rivers also aggravating the situation in neighbouring Assam. At least 66 deaths have been reported in Himachal Pradesh; Assam suffered more than 40 fatalities.
-
-The India Meteorological Department (IMD)’s forecast of continued heavy rain signals worsening conditions. Flooding is an annual occurrence across these states and elsewhere in the country, regardless of the monsoon’s intensity. While Assam’s geography makes it particularly vulnerable to such disasters, climate change has added a layer of risk, triggering extreme weather events. Learning from the past floods offers limited utility when the weather is increasingly erratic and rainfall patterns are unpredictable. Some of the states have experienced recurring floods that rip through areas already affected, extending disruptions and delaying recovery.
-
-Although standard operating procedures exist, their implementation is often challenging. Technology has advanced, improving the dissemination of weather alerts and equipping rescue teams for greater efficiency in relief operations. However, people in the affected areas are still forced onto the rooftops and trees as relief efforts get stretched thin across vast areas. Though risk assessment, disaster preparedness, and flood prevention protocols are routinely discussed during crises, they don’t receive due attention during periods that offer windows for actual application of these measures. Flood management strategies need to be tailored to states and districts because unique local factors—such as terrain, the condition of wetlands and embankments, and land-use practices—determine the extent of damage alongside rainfall patterns. Flood mitigation and control are fundamental issues of governance that must be addressed long before disaster strikes. Strategies must evolve with the threats they aim to mitigate. They cannot be afterthoughts during an emergency.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/a-new-playbook-for-disaster-readiness-4085166)
-
----
-
-### The truth about a flawed probe
-*Deccan Herald · Editorial*
-
-The Supreme Court's scathing criticism of the Central Bureau of Investigation (CBI) in the 2012 Soujanya rape and murder case near Dharmasthala is a damning indictment of an investigation that has failed both the victim and the criminal justice system. The Court observed that the CBI did not even visit the crime scene or record the victim's mother's statement, and the Investigating Officer merely relied on material collected earlier, instead of conducting a fresh, independent probe. Equally troubling is the observation that several witnesses died under mysterious circumstances – a detail that should deeply concern every citizen. These findings raise questions about how the country's premier investigative agency handled one of Karnataka's most shocking crimes. The case is not merely about the guilt or innocence of an accused; it is about whether the institutions entrusted with delivering justice have themselves failed.
-
-Amid widespread public outrage, the investigation was transferred from the state police to the CBI in the hope that an independent agency would inspire confidence. Instead, the trial ended in June 2023 with the acquittal of the sole accused after the court found that the prosecution failed to establish guilt beyond reasonable doubt. More significantly, the trial court identified glaring lapses in the investigation and recommended action against erring officers. No such action has materialised. Despite the High Court directing that the process be expedited, no meaningful action has been taken against the officers whose failures contributed to the collapse of the prosecution. When investigators face no consequences for negligence and incompetence, public confidence in the justice system erodes.
-
-The CBI's argument before the Supreme Court that a fresh investigation would unsettle established criminal jurisprudence is unconvincing. Jurisprudence exists to protect justice, not to shield defective investigations from scrutiny. Legal finality cannot become a shield for an outcome tainted by serious investigative shortcomings. If vital evidence was overlooked, witnesses ignored, and elementary procedures bypassed, the demand for a fresh probe is not an assault on legal principles but an affirmation of them. The Supreme Court's indication that it may allow the Karnataka government to constitute a Special Investigation Team (SIT) offers hope. Whether the original investigation was botched through incompetence or compromised to protect influential interests is what the reinvestigation must determine. That question has remained unanswered for 14 years. Karnataka owes Soujanya and her family more than sympathy; it owes them the truth. Justice delayed has already been painful; justice denied would be unforgivable.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/the-truth-about-a-flawed-probe-4085167)
-
----
-
-### Candles, cakes and changing times
-*Deccan Herald · Opinion*
-
-Retired from service long ago, I am often accused of living in the past. It is true that my ideas are in contrast with those of the new generation.
-
-It was my son’s birthday. He had turned 56. Employed as a teacher at a local college, he was accustomed to the ways of the new generation. His colleagues knew the birthdays of all staff members and had been celebrating in their own way.
-
-In the morning of that day, I thought for a moment of celebrating the day in the old-fashioned way but abandoned it knowing that the suggestion was unlikely to be welcomed.
-
-My grandson brought a chocolate cake in the evening. Of course, the bakeries are aware of how birthdays are celebrated. They had also kept a plastic knife, some colourful candles, and a matchbox inside the box with the cake. Family members gathered, and my son went through the rituals with familiarity. Later, the entire family went out for a lavish dinner in an expensive restaurant.
-
-That reminded me of my birthdays when I was little. My father would take me to the Pamba River nearby, and after bathing in the flowing waters, would visit the village temple, where special pujas were performed as a mark of thanksgiving to the deity, and the prasadam would be brought home. The beggars sitting outside the temple were given alms. A traditional feast would be prepared at home; we would all sit on the floor for lunch served on banana leaves.
-
-Everything, like the birthday celebration, has changed, and it is only prudent to move with the times. It is foolish to stick to the old customs and criticise the new ones. People use vehicles even for covering short distances, and school children carry gadgets like smartphones.
-
-The banking system has changed, making it unnecessary to visit the bank for transactions, as everything is ‘online’, bringing to an end the monthly get-together of pensioners. I saw my grandson paying bills digitally; his pocket was almost empty of cash. Even the women fishmongers accepted the digital payments and seemed happy with it. Money was sent online to different people, and even those living far away received it instantly.
-
-Among many things, the way nations fought with one another has changed. Now people no longer fight on horseback or on foot with swords.
-
-It is another matter that the elders like me are more at home with the
-
-[Read full article](https://www.deccanherald.com/opinion/candles-cakes-and-changing-times-4085171)
-
----
-
-### Dissent’s date with judicial apathy
-*Deccan Herald · Opinion*
-
-The Supreme Court of India on Wednesday outrightly refused to allow an urgent hearing on a Public Interest Litigation (PIL) about police excesses on young protesters – many of them supporters and members of the Cockroach Janta Party (CJP) – on
-
-July 20. This came a day after the Delhi High Court turned down a similar request. The apex court’s brusque words were spelled out by none other than the Chief Justice of India, Surya Kant, whose one comment in May about sections of the youth and the unemployed birthed the CJP.
-
-The CJI went on to say that the Court neither had the interest nor the time to watch the videos of police brutality. Similarly, the Delhi High Court said on July 21 that the court should not be dragged into the matter. The comments were made when injured protesters were still smarting from the police atrocity and nursing their wounds. One of the injured protesters is in intensive care.
-
-In light of such comments by the judiciary, the question arises: if the courts do not want to be dragged into issues pertaining to citizens’ predicament and encroachment on the fundamental right to question a corrupt system, then who should they turn to? According to Article 32 of the Constitution, every citizen has the right to approach the top court of the country seeking enforcement of fundamental rights. In this case, the protesters were seeking justice against the high-handedness of a system that ignored their pleas to ensure accountability, and instead, shut them out using law enforcement.
-
-The Constitution, under Article 14, ensures equality and justice. Then, why is the judiciary apathetic about listening to the grievances
-
-of the protesters? This attitude not only undermines citizens’ constitutional rights and weakens their faith in the legal system, but also sets a dangerous precedent where judicial apathy would be seen as encouragement for hooliganism and undeterred force that can be used against protesters to silence dissent.
-
-Considering that over 90% of the protesters were youths from different parts of the country and one of their key demands was the resignation of Union Education Minister Dharmendra Pradhan in the wake of the NEET examination paper leaks, the judiciary should have taken suo motu cognisance of the matter and directed the Delhi Police and the Centre to submit reports on the events of the day of violence and action taken on the demands raised by the students and activists. The lack of sympathy towards the young protesters is stark. Also, citizens would expect, under the given circumstances, that the judiciary uphold the equality of the justice system laid down by the Constitution and offer a patient ear to the grievances of protesters against police excesses and the government’s nonchalance.
-
-However, neither the High Court nor the top court thought that the matter was important enough for an urgent hearing. Under Article 226 of the Constitution, the High Court had the power to step in to uphold the fundamental rights of the protesters. The Delhi High Court’s reaction came only a day after, when the situation had worsened.
-
-When the institutions retreat
-
-It is disheartening that videos of young protesters being assaulted by the police had no impact on those wielding the gavel or those who have the power to initiate and facilitate the much-needed mending of the country’s socio-political fabric.
-
-In doing what the judiciary did in this case, it apotheosised itself. But in the true spirit of the Constitution, even the judiciary does not enjoy immunity to criticism and calls for accountability, and every citizen has the right to question it. However, that is a rare phenomenon in today’s India. Even sections of the media, which form another crucial pillar of democracy, tread cautiously when criticising court judgments that fall short of ethical standards.
-
-In this regard, one must remember what the father of the Constitution of India, B R Ambedkar, had said, “I am bound to obey the judgment, but I am not bound to respect it.”
-
-This profound observation should be the guiding light for every critical mind that dares to question any pillar of democracy at a time when we are witnessing a meltdown of several constitutional bodies.
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/dissents-date-with-judicial-apathy-4085170)
-
----
-
-### How the internet rewrote India's reading story
-*Deccan Herald · Opinion*
-
-Twenty-five years ago, an aspiring Indian author mailed a manuscript to a publisher, waited months, then prayed it found shelf space and a reviewer’s attention. Today, an author can finish a manuscript over breakfast, post about it on Instagram by lunch, and sell the first copy before evening chai. The internet didn’t just tweak Indian publishing; it tore up the old rulebook.
-
-Here’s the assumption everyone makes: the internet killed reading. Except the data says otherwise. Indians are almost certainly reading more words today than ever, just off a phone screen instead of a printed page. Books haven’t vanished. They’ve lost their old monopoly on our attention. That’s the paradox at the heart of India’s publishing story. While newspapers worldwide watched circulation crater and streaming gutted music and film, India’s book market kept growing. The Federation of Indian Publishers and Nielsen BookData, in their 2022 report, rightfully projected the print market would touch nearly $12 billion by the end of 2024: one of the largest publishing markets on earth, and the second-biggest English-language one after the United States.
-
-Despite every smartphone and e-reader in the country, printed books still dominate revenue by a wide margin: Crossword Bookstores reports physical titles make up 65-70% of what it sells by volume, and industry estimates have long put e-book revenue in the low single digits. Because India doesn’t read like the West: ask a publisher here what sells, and the honest answer is textbooks and exam guides. Nielsen and FIP put the school segment alone at 71% of the print market, with higher education adding another 25%. Education, not entertainment, keeps Indian publishing alive.
-
-What the internet actually disrupted wasn’t reading; it was discovery. Twenty years ago, you found your next book through a librarian, a teacher, or a neighbourhood bookseller who knew your taste. Now it’s an Amazon algorithm, a Bookstagram post, a stranger’s Goodreads review, or a WhatsApp forward. The algorithm has quietly become the neighbourhood bookseller.
-
-And the scale is hard to grasp. India had 886 million active internet users by the end of 2024, per the IAMAI-Kantar ICUBE report, up 8% year-on-year, with mobile connections nationally past 1.2 billion. Rural India, with roughly 488 million users, makes up more than half the country’s online population and, for the first time, has a real shot at the same library as everyone else.
-
-This rewired the economics of publishing. Publishers used to be gatekeepers who decided whose story got told. That gate is mostly gone: Kindle Direct Publishing, print-on-demand, a phone camera, and an Instagram account are often enough to build a readership with no gatekeeper required. Writers build an audience first, then publish into it. Chris Anderson’s The Long Tail applies neatly: niche books a physical store could never justify stocking now find their few thousand devoted readers, in Assamese or English, anywhere in the world.
-
-But solve the access problem, and you run into a new one: attention. Herbert Simon saw it coming in 1971: a wealth of information creates a poverty of attention. It’s not whether Indians are reading less; it’s what’s eating the hours books used to own outright, now split across YouTube, ChatGPT, WhatsApp groups, and podcasts.
-
-So books haven’t disappeared; they’ve been demoted from the default destination for serious thinking to one option among many. The competition was never book against book; it’s a book against Netflix, Reels, a podcast queue nobody finishes, and AI tools that will happily summarise the thing so you never have to sit with it. Publishers are now competing in a marketplace where every notification is bidding for the same finite resource: your mind, for the next ten minutes.
-
-Which is what makes the physical book more valuable, not less. It asks for the one thing every app is designed to interrupt: sustained, undivided concentration. Finishing a book has become a small act of resistance, and in a world engineered for interruption, deep reading has quietly become a discipline of its own.
-
-Blurring the boundaries
-
-Indian publishing has also become far less centralised. Literary festivals, once rare, are now everywhere, and the numbers make the shift tangible. Jaipur Literature Festival opened in 2006 with about 100 attendees, some of whom, co-founder William Dalrymple recalled, had simply wandered in looking lost; two decades on, it draws around 500 speakers and roughly 300,000 attendees over five days, with sister editions in the US, the United Kingdom, and Australia.
-
-Book fairs tell the same story at even greater scale: Kolkata’s Boi Mela pulled in a record 2.7 million visitors and about Rs 25 crore in book sales over 12 days in 2025, while the New Delhi World Book Fair the same year drew more than 2 million visitors. A writer in Guwahati or Kochi now needs little more than an internet connection to reach readers anywhere; visibility has quietly replaced geography as the thing that decides who gets read.
-
-So what’s next? Probably AI: better translation across India’s languages, sharper recommendation engines, cheaper editing tools. None of it is likely to kill the human urge to tell stories. We’ve been here before: radio was supposed to kill books, then television, then the internet. Here we are, buying more books than ever, just discovering them differently.
-
-Maybe the Indian story isn’t decline dressed up as data, it’s adaptation. Books survive because they still do something no algorithm has managed to replicate: they let you think slowly, in a world that keeps insisting you move faster. The real question was never whether Indians are reading less. It’s whether any of us are still carving out the time to read deeply. In an economy built entirely around grabbing attention, that might be the rarest luxury left.
-
-(The writer is an AI and Data Science leader and business school
-
-professor based in the USA)
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/how-the-internet-rewrote-indias-reading-story-4085184)
 
 ---
 
