@@ -1,3 +1,456 @@
+## 24 October 2026
+
+### MHA draft on Ladakh demands: Elected body’s laws need L-G nod
+*Deeptiman Tiwary · legal*
+
+According to Ladakh leaders, this marks a significant departure from the understanding recorded following negotiations on May 22, whose minutes were finalised and signed by representatives of the MHA and Ladakh on July 3.
+
+[Read full article](https://indianexpress.com/article/india/mha-draft-on-ladakh-demands-elected-bodys-laws-need-l-g-nod-10934541/)
+
+---
+
+### Delhi's air improved mildly in the last 24 hours. Will the respite last?
+*India Today Science Desk · general*
+
+Delhi's air quality showed a modest improvement on Saturday morning, October 24, but the dip in pollution offers little comfort to residents as the capital heads deeper into its annual smog season.
+
+According to AQI.in, Delhi's Air Quality Index (AQI) stood at 296 at 9:31 am on October 24, down from 337 at the same time on Friday. The 41-point drop suggests some improvement, but the air remains heavily polluted.
+
+People row a boat amid haze on the Yamuna river, in New Delhi. (Photo: PTI)
+
+Separately, the official city-level AQI, as recorded by the Central Pollution Control Board (CPCB) was 190 on Saturday morning, at 8 am, placing it in the 'Moderate' category under India's official air-quality scale.
+
+Although figures from different platforms vary, the underlying trend remains the same. Pollution was down, but the question is why and for how long?
+
+A graph illustrating Delhi's AQI in the last 24 hours. (Photo: AQI.in)
+
+### WHY DID DELHI'S AQI IMPROVE?
+
+The improvement comes amid changing weather conditions that can influence how quickly pollution builds up over the city.
+
+Stronger winds help carry pollutants away, while stagnant air allows emissions from vehicles, construction, industries and other sources to accumulate.
+
+Delhi's air had deteriorated as monsoon rains ended and winds weakened, allowing pollution to build up again.
+
+The relief, however, does not mean pollution sources have been reduced.
+
+Delhi's air quality has already worsened this month, despite the introduction of the first stage of the Graded Response Action Plan (GRAP), which brings in measures to curb pollution.
+
+### WILL THE RESPITE LAST?
+
+The improvement is an optimistic sign, but the situation is bound to get worse going forward. Winter is almost here, and the pollution levels are likely to reach new heights and stay there for longer periods.
+
+A thick layer of toxic foam covers the Yamuna river surface amid haze, in New Delhi. (Photo: PTI)
+
+The Air Quality Early Warning System for Delhi, run by the Indian Institute of Tropical Meteorology (IITM), forecast that air quality would remain in the 'Poor' category from October 24 to 26, with similar conditions possible over the following six days.
+
+The forecast also points to weaker winds by October 25 and 26, which could make it harder for pollutants to disperse.
+
+A small improvement in a single morning's reading, therefore, is no guarantee of cleaner air in the days ahead. Unless weather conditions remain favourable and emissions are brought down, the respite could prove short-lived.
+
+\- Ends
+
+---
+
+### Explained: What are rolling returns in mutual funds and how do you calculate them?
+*Unknown · economy*
+
+Rolling returns measure a mutual fund scheme’s annualised returns over a specified period, calculated at regular intervals such as daily, monthly or yearly. By averaging returns across multiple overlapping periods, they provide a more comprehensive view of a fund’s performance and consistency over time. Compared with trailing returns, which reflect performance up to a single point in time, rolling returns can offer a more balanced assessment of how a fund has performed across different market conditions.
+
+Trailing returns have a recency bias and point-to-point returns are specific to the period taken for analysis. On the other hand, rolling return measures the fund's absolute and relative performance across all time periods without any bias.
+
+  
+
+Rolling returns gives a comprehensive picture of the performance by a fund. Due to different time periods involved, the return consistency of the fund over a defined time period can be analysed efficiently as it considers both upstream and downstream in the market.
+
+Looking to calculate rolling returns for your mutual fund investments in excel? Here is how you can calculate:
+
+Suppose you are investing in an ABC fund for a time period of five years as this time frame is the minimum horizon an equity investor should have.
+
+**Step 1:** Assuming an investor wants to test the five year returns of an ABC scheme over 15 long years. Start with the daily NAV of the scheme. The start date will be January 2, 2013 to January 2, 2018.
+
+ET Online
+
+**Step 2:** If you want to calculate a two -year rolling return for the scheme then start from 2015. Take NAV of January 2, 2013 and January 2, 2015.
+
+**Step 3:** Again calculate returns if you start your investment on January 3, 2013 for five years. Move the date by one day i.e. January 3, 2013 and January 3, 2015.
+
+January 2, 2013 - 100.83
+
+January 2, 2015 - 160.22
+
+Using CAGR formula = (160.22/100.83) ^ (1 / 2 ) -1
+
+CAGR = 26.06%
+
+**Step 4:** Calculate CAGR for the next set of dates
+
+ET Online
+
+**Step 5:** Now you have two year rolling returns, calculate the average of all the two year return
+
+**Step 6:** The average obtained is rolling return for your mutual fund investments in a five year period rolled on a two year basis.
+
+_(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)_
+
+_If you have any mutual fund queries, message ET Mutual Funds on Facebook/Twitter. We will get them answered by our panel of experts. Do share your questions at_ _ETMFqueries@timesinternet.in_ _along with your age, risk profile, and Twitter handle._
+
+---
+
+### India vs New Zealand Live Streaming, 2nd T20I Live Telecast: When And Where To Watch
+*Unknown · sports, cricket*
+
+Shreyas Iyer and Co. are 1-0 up in the five-match series after winning the first game by four wickets.
+
+[Read full article](https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-live-streaming-2nd-t20i-live-telecast-when-and-where-to-watch-12228473)
+
+---
+
+### ED arrests Chandigarh jeweller’s partner Katodia in Rs 645-crore IDFC First Bank scam
+*Majid Alam · legal*
+
+Says jewellers’ bullion purchases increased sharply soon after its association with Rishi
+
+[Read full article](https://indianexpress.com/article/cities/chandigarh/ed-arrests-chandigarh-jewellers-partner-katodia-in-rs-645-crore-idfc-first-bank-scam-10934692/)
+
+---
+
+### Two sectors in Arunachal's Taksing remain sensitive, no clashes reported: Sources
+*Manjeet Negi · general*
+
+The border pockets of Asaphila and Longju in Arunachal Pradesh remain sensitive due to differing perceptions of the Line of Actual Control (LAC) between India and China, but the overall situation on the ground is stable and under control, defence sources told India Today.
+
+Located within the Taksing Circle of Arunachal Pradesh, the two areas experience periodic friction as Indian and Chinese patrols encounter each other during routine operations. Such encounters have become a recurring feature of the security environment in these sectors, according to the sources.
+
+However, there have been no reports of violent clashes between military personnel from the two sides, the sources said, adding that ground commanders are maintaining restraint and operational control.
+
+### MILITARY MECHANISMS USED TO MANAGE FACE-OFFS
+
+According to the sources, local face-offs are being managed through established military-to-military mechanisms, including flag meetings and hotline communications. These channels are intended to address localised tensions and prevent encounters from escalating.
+
+The sources also highlighted a Corps Commander-level interaction conducted in the Northeast, describing it as a significant step towards institutionalising high-level dialogue in the region.
+
+Officials said sustained engagement between the two sides remains important for maintaining peace along the border, particularly in sectors where their perceptions of the LAC differ.
+
+They also noted that operational tensions in disputed areas can increase the need for diplomatic engagement and negotiations to address outstanding boundary issues.
+
+### INFRASTRUCTURE DEVELOPMENT IN REMOTE BORDER AREAS
+
+The continued presence of security forces in remote frontier areas has coincided with efforts to improve infrastructure and connectivity, the sources said.
+
+Development initiatives include all-weather roads, bridges, telecommunications networks and civic amenities intended to benefit both security personnel and local residents.
+
+Improved connectivity is also expected to support economic activity and create opportunities for greater self-reliance among communities living in remote border villages.
+
+Officials said better infrastructure could eventually facilitate controlled border trade and increased people-to-people contact, subject to prevailing security and diplomatic conditions.
+
+### CULTURAL LINKS AND CIVIL-MILITARY COOPERATION
+
+The region also has cultural and religious significance, including the historic Tsari pilgrimage circuit, which is sacred to Buddhist communities on both sides of the border.
+
+According to the sources, sustained stability could create opportunities to explore cross-border pilgrimage access in the future. Any such arrangements would depend on security conditions and agreement between the two countries.
+
+The sources further said the presence of the armed forces in frontier areas has supported civil-military initiatives, including healthcare camps, emergency evacuations, school construction and employment opportunities for local residents.
+
+These initiatives are intended to improve access to essential services and strengthen engagement between security personnel and communities in remote tribal areas.
+
+"While Asaphila and Longju remain sensitive due to differing LAC perceptions, the overall situation is fully under control," a source said, adding that military and diplomatic mechanisms, alongside border-area development, remain important to maintaining stability.
+
+The situation in the two pockets continues to be monitored amid the broader effort to manage India-China border differences through established communication channels and sustained engagement.
+
+\- Ends
+
+---
+
+### Shooting in Paris suburbs kills 1, wounds 5; Macron condemns ‘racist terrorist attack’
+*SECTIONS Shooting · business*
+
+Paris: A gunman firing from a vehicle at three locations in the Paris suburbs killed one person and wounded at least five others, including a 12-year-old girl, in what French authorities described as a racially motivated attack.
+
+The suspect was arrested soon after the shooting, and France's National Anti-Terrorism Prosecutor's office took charge of the case. President Emmanuel Macron said it was "a racist terror attack" and that the suspect's statements suggested it was premeditated.
+
+  
+
+"These people were targeted because of their skin color or perceived religion, and for no other reason," Macron said following a meeting with officials and residents in the suburb of Trappes, west of Paris. "There is no place for this in France."
+
+The shootings took place over the course of about 15 minutes at three separate locations in the towns of Trappes and La Verriere, a suburban area about 30 kilometres (20 miles) from Paris, Interior Minister Laurent Nunez said. One person died and five were wounded, three of them with life-threatening injuries, he said.
+
+"A deadly rampage took place this morning," Nunez told reporters in Trappes.
+
+The suspect, who was arrested by police less than 20 minutes after he first started shooting, has been identified only as Kevin T., born in 1987, the National Anti-Terrorism Prosecutor's office said. Authorities did not disclose the man's last name.
+
+His criminal record shows four previous convictions that had been automatically expunged under French law, the statement said.
+
+A search of his car uncovered a Sten-type submachine gun and a canister of tear gas, and investigators found his apartment had been booby-trapped with three gas cylinders and electrical wires connected to a timer, according to the Anti-Terrorism Prosecutor's office.
+
+Another person, a member of the suspect's immediate family, also was taken into police custody during the afternoon, it said.
+
+The National Anti-Terrorism Prosecutor's office said the person who died was a French man born in 2000. The medical condition of the people injured had not yet stabilized on Friday evening, it said.
+
+Nunez praised the five officers from the anti-crime brigade who stopped the suspect. "I commend them for their swift response," he said.
+
+Aurore Berge, the minister for gender equality and the fight against discrimination, said the 12-year-old girl was very seriously injured.
+
+"If a racist motive is established, I hope that the whole nation will stand alongside the residents of Trappes, La Verriere, and the victims. We cannot tolerate even the slightest racist remark in the French Republic," she said.
+
+Trappes Mayor Ali Rabeh said the gunman appeared to have fired relatively randomly, targeting passersby at several locations including a playground, possibly because of their apparent African origin.
+
+"This is probably one of the first attempted mass killings motivated by Islamophobia and racism," he told reporters.
+
+The National Anti-Terrorism Prosecutor's office said it opened a criminal investigation into several offenses, including "murder in connection with a terrorist enterprise with the aggravating circumstance that the act was committed on account of the victim's actual or perceived membership of a particular race, ethnic group, nationality or religion."
+
+The shooting happened as France braces for another day of protests against the high cost of living on Saturday, with major museums closing their doors and the government deploying a significantly larger security presence to prevent a repeat of last week's violent unrest, which shocked the country.
+
+---
+
+### Radhakishan Damani portfolio: Top 10 stock holdings of the ace investor - Portfolio Watch
+*Agencies · economy*
+
+Oct 24, 2026, 09:46:54 AM IST
+
+DMart founder and ace investor Radhakishan Damani is among India’s richest stock market investors, with his family’s net worth estimated at over $20 billion, according to Forbes. Popularly known as the “retail king of India”, the billionaire publicly holds 14 stocks. Here are his top 10 stock holdings by value, based on data from Trendlyne.
+
+Agencies
+
+Avenue Supermarts, operator of the DMart hypermarket chain, remains Radhakishan Damani’s largest holding. He held a 67% stake as of September 30, 2026, valued at more than Rs 1.38 lakh crore, according to Trendlyne data. The stock has fallen around 18% in the past month and 15% in 2026 so far. It has declined more than 26% in one year, 14% in three years and over 30% in five years.  
+
+Agencies
+
+3/7
+
+## ​National Stock Exchange
+
+Damani and his family acquired around a 2.4% stake in NBFC Sundaram Finance during the April-June quarter of FY27, which they kept unchanged in Q2 according to Trendlyne data. The stock has dropped around 151% in the past month and more than 25% in 2026 so far. It has gained 25% in three years and 57% in five years.  
+
+ETMarkets.com
+
+Damani and his firm Bright Star Investments held a 29% stake in cigarette maker VST Industries as of September 30, 2026, valued at over Rs 974 crore. The stock has fallen around 2% in the past week, 5% in a month and 22% in 2026 so far. It has declined 23% in one year and 33% in three years.  
+
+ETMarkets.com
+
+Damani held a 1.5% stake in 3M India through Bright Star Investments, valued at around Rs 480 crore, according to Trendlyne data. The stock has fallen around 17% in the past month and 20% in 2026 so far. It has dropped around 2% in one year but gained 10% in three years.  
+
+Damani’s other top stock holdings in terms of holding value are United Breweries, TSF Investments, Horizon Industrial Parks, Blue Dart Express and Bhagiradha Chemicals.
+
+_Disclaimer: This article has been written by Debaroti Adhikary, who is not a SEBI-registered Research Analyst or an Investment Adviser. Debaroti Adhikary and his/her ‘relative(s)’ (as defined under Section 2(77) of the Companies Act, 2013) do not hold any financial interest in the companies mentioned in this article as of the date of publication. The views/recommendations mentioned in this article, wherever applicable, are those of the respective SEBI-registered Research Analyst/brokerage and have been reproduced/reported with due attribution. They should not be construed as the views or recommendations of The Economic Times Digital or the journalist. Readers are advised to consider the original research report and make their investment decisions based on their own assessment. Brokerage disclaimers here._
+
+ETMarkets.com
+
+---
+
+### 'We may do another epic fury': Trump hints at fresh action against Iran if deal not reached
+*ET Online · business*
+
+US President Donald Trump has issued a direct military warning to Tehran, teasing another potential US strike on Iran if the country fails to reach a diplomatic agreement, remarking that Washington might launch "another little Epic Fury" to compel compliance. Addressing a campaign rally in Florida, ...
+
+[Read full article](https://economictimes.indiatimes.com/news/international/world-news/we-may-do-another-epic-fury-trump-hints-at-fresh-action-against-iran-if-deal-not-reached/videoshow/135161739.cms)
+
+---
+
+### Oil exports from Persian Gulf 'surpassed pre-conflict levels', claims US Treasury Secy Bessent
+*Ani · business*
+
+Washington DC: US Treasury Secretary Scott Bessent on Friday (local time) said oil exports from the Persian Gulf had surpassed pre-conflict levels despite Iran's efforts to disrupt energy shipments, asserting that Tehran's threats had failed to halt the flow of energy to global markets.
+
+In a post on X, Bessent said, "Despite Iran's efforts to disrupt energy shipments, oil exports from the Persian Gulf are roaring back and have surpassed pre-conflict levels."
+
+  
+
+> — SecScottBessent (@SecScottBessent)
+
+"The message is clear: Iran's threats have failed to stop the flow of energy to global markets," he added.
+
+  
+
+The remarks came amid continued tensions surrounding energy shipments through the Strait of Hormuz, a key route for global oil trade.
+
+Meanwhile, on Friday, Iranian state broadcaster Islamic Republic of Iran Broadcasting (IRIB), citing the Islamic Revolutionary Guard Corps (IRGC) Navy Public Relations, reported that two supertankers had struck a naval mine near the Strait of Hormuz, resulting in explosions and fires.
+
+According to IRIB, the two vessels had attempted to pass through what it described as the "unauthorised southern route" of the Strait of Hormuz.
+
+"Earlier today, two illegal supertankers that attempted to pass through the unauthorised southern route of the Strait of Hormuz hit a naval mine, causing their engine rooms to malfunction after an explosion and severe fire, and they stopped in place," the IRGC Navy Public Relations statement said, as quoted by IRIB.
+
+The statement further claimed that the tankers were carrying more than 4.5 million barrels of crude oil combined and that their crews had abandoned the vessels following the incident.
+
+"These tankers were carrying a total of more than 4.5 million barrels of crude oil, which were abandoned on the southern coast of the Strait of Hormuz after hitting a naval mine and the crew abandoned the ship," the statement said.
+
+The claims from both parties of the conflict come as US Ambassador to Turkiye Tom Barrack has said a US strike on Iran could take place this weekend, while reiterating that President Donald Trump remains open to a deal with Tehran.
+
+"Could there be a strike this weekend? Absolutely," Barrack said in an interview with Lebanese-Australian entrepreneur Mario Nawfal on Friday (local time).
+
+Barrack, who also serves as Trump's special envoy, made the remarks amid diplomatic efforts by regional countries, including Pakistan and Qatar, to bridge differences between Washington and Tehran. He said Trump remained open to negotiations but warned that continued threats against the United States, its allies and Gulf countries would have consequences.
+
+"The president has been clear. I'm giving you American policy. President is very clear. He's open and available and accessible to a deal. And we've been at the table for months and months and months," Barrack said.
+
+He added that the immediate nuclear threat had been addressed, while issues concerning nuclear proliferation and uranium enrichment remained part of the negotiations. Barrack also cited the Strait of Hormuz as another point of contention, alongside discussions over unfreezing Iranian assets, sanctions relief, ending military engagement and US commitments towards Israel.
+
+He said Washington wanted to pursue a peaceful process but questioned whom the United States could engage with in negotiations.
+
+"So I think it's open for dialogue. The problem is with whom is the dialogue?" Barrack said.
+
+However, hours later, on landing in Florida, President Trump feigned ignorance about the possibility of an immediate strike, even as he kept his options open.
+
+When asked, "Your ambassador said: absolutely, there could be a strike on Iran this weekend."
+
+Trump replied, "That was my ambassador? He's a pretty powerful man, I guess. If that's the case, I don't know anything about it."
+
+The US President then changed his line with a more combative approach during an election rally in Florida. Trump issued a direct military warning to Tehran, teasing another potential US strike on Iran if the country fails to reach a diplomatic agreement, remarking that Washington might launch "another little Epic Fury" to compel compliance.
+
+"We may do another little Epic Fury, or they'll agree," Trump told the cheering crowd, hinting at kinetic action if negotiations falter. Questioning Tehran's strategic foresight, Trump said.
+
+"If they're smart, they'll just say, 'Let's get down to business.' But, you know, I doubt they'll do that because perhaps they're not smart," he added.
+
+With US Midterms poised for the first week of November, analysts believe that a spike in the conflict in West Asia can be expected with both the US and Iran hardening their positions.
+
+---
+
+### Ukraine joins NATO's NSPA partnership, gains access to Alliance contracts for defence industry
+*SECTIONS Ukraine joins NATO's NSPA partnership · business*
+
+Luxembourg City: Ukraine has joined the NATO Support and Procurement Agency's (NSPA) Security Cooperation Support Partnership (SCSP), enabling Ukrainian defence companies to participate in NATO contracts and contribute to shaping the country's defence and industrial requirements, according to a NATO press release.
+
+NATO announced the development on Friday, stating that Ukraine's participation in the partnership would allow its defence industry to access procurement opportunities and benefit from the NSPA's expertise, knowledge and capabilities.
+
+  
+
+The move is aimed at strengthening Ukraine's defence industrial base while facilitating closer cooperation between Ukrainian companies and NATO Allies amid the ongoing Russia-Ukraine conflict.
+
+To mark the new partnership, the NSPA organised a dedicated Ukraine Industry Day in Kyiv on October 14, bringing together approximately 150 Ukrainian companies, the press release stated.
+
+The event was the first of its kind organised by a NATO body since Russia launched its full-scale invasion of Ukraine in February 2022. It provided a platform for companies across Ukraine's defence industrial base to discuss emerging procurement trends, explore opportunities and establish partnerships.
+
+The event was organised by Jacqueline Borsboom, NSPA Director of Support to Operations, alongside staff from the NATO Representation to Ukraine, representatives from NATO Headquarters and Ukrainian Deputy Defence Ministers Mstyslav Banik and Anna Gvozdiar.
+
+Commenting on the development, Borsboom said the partnership would connect Ukrainian industry with opportunities for growth while allowing NATO Allies and partners to benefit from Ukraine's battlefield-tested innovation and operational experience.
+
+"This partnership will help deeper connect Ukrainian industry with opportunities to grow, while enabling Allies and partners to learn from Ukraine's battle-tested innovation and operational experience. Our aim is to further strengthen Ukraine's industrial base and bring that expertise into the delivery and sustainment of capabilities," she said.
+
+Ukrainian Deputy Defence Minister Mstyslav Banik described the partnership as an important step in developing cooperation with NATO in defence procurement.
+
+"Ukraine is developing its cooperation with NATO in the field of procurement, and participation in this Partnership offers a unique opportunity to access all the services and capabilities of the NSPA for our needs," Banik said.
+
+He added that Ukraine was the first and only non-NATO member country for which a separate partnership had been created as a single entry point to the agency's work, with Ukrainian industry receiving broad access to its tenders.
+
+Established in 2025, the SCSP is designed to leverage the NSPA's capabilities to provide sustainable support to Ukraine through a structured procurement framework. The partnership includes Belgium, Luxembourg, Norway, Sweden, the United Kingdom, NATO Headquarters and Ukraine.
+
+Following approval by NATO Allies in the North Atlantic Council in April 2026, the NSPA was authorised to issue solicitations and sign contracts with Ukrainian industry, the press release said.
+
+NATO said support for Ukraine had remained a high priority for the Alliance since Russia's full-scale invasion in 2022, with NATO Allies providing 99 per cent of all military aid to the country.
+
+The NSPA has mobilised around 400 million euros in assistance through the Ukraine Comprehensive Assistance Package (CAP) Trust Fund, delivering essential medical supplies, fuel, critical infrastructure and cybersecurity support on behalf of NATO and its member nations.
+
+Additionally, the IT Capability Coalition has contributed 219 million euros towards modernising Ukraine's digital defence capabilities. NATO nations have also donated millions of litres of fuel, with NSPA personnel deployed in member countries to oversee quality.
+
+The development comes amid continuing diplomatic efforts to end the Russia-Ukraine war.
+
+Earlier in October, US Secretary of State Marco Rubio said Ukraine's NATO membership was not on the table at present, citing the consensus and unanimity required among Alliance members. He said Washington was focused on ending the conflict and preventing further loss of life.
+
+Ukrainian President Volodymyr Zelenskyy has also expressed Kyiv's readiness to participate in proposed trilateral technical-level talks involving Ukraine, Russia and the United States.
+
+While NATO's latest initiative does not constitute Ukrainian membership of the military alliance, the procurement partnership provides a formal framework for deeper defence-industrial cooperation and greater access for Ukrainian companies to NATO contracting opportunities.
+
+---
+
+### As Israeli election nears, campaign turns ugly with AI clips and bereaved families dragged in
+*SECTIONS As Israeli election nears · business*
+
+Jerusalem: Days ahead of close-fought Israeli elections, campaigns have gone into overdrive with poor-taste jibes and inflammatory attacks against candidates, sometimes crossing red lines.
+
+Fuelled in part by a boom in AI-generated images flooding social media, candidates and activists are seeking to portray their opponents as weak, untrustworthy or damaging for the country as they play on stereotypes and fears to sway public opinion.
+
+The electioneering has at times turned personal, with some candidates who lost loved ones in the wars following Hamas's October 7, 2023 attack even having their bereavement dragged into the campaign.
+
+  
+
+Ahead of Tuesday's vote, polls show Prime Minister Benjamin Netanyahu's bloc neck and neck with that of his main centre-right rival Gadi Eisenkot.
+
+On Wednesday, Eisenkot posted a video on X wishing Netanyahu a happy 77th birthday that featured a slate of AI-generated characters including a Hamas member speaking from a tunnel.
+
+"What can we wish for the person who has been protecting us for 20 years?" the militant says, evoking theories that the premier has deliberately helped the Islamist movement stay in power in Gaza, charges vehemently denied by Netanyahu.
+
+Soon after, an AI depiction of Iran's supreme leader Mojtaba Khamenei pops up, telling Netanyahu: "One more round without victory and I'll make you a bomb as a present."
+
+Netanyahu has also liberally weaponised AI-generated content against his rival.
+
+In July, he posted a video depicting Eisenkot rejecting a hug from a young man wearing a T-shirt with the slogan "Israel unity" and instead embracing Arab-Israeli candidate Mansour Abbas.
+
+The clip sparked widespread outrage over claims the young man had been made to resemble Eisenkot's son who was killed fighting in Gaza in 2023, something Netanyahu's party denied.
+
+In an interview broadcast by Channel 13, Eisenkot said he had felt "deep contempt for Netanyahu and his entourage" after watching the video.
+
+Netanyahu's camp has used AI throughout the campaign to stoke fears over a possible opposition coalition including Arab-Israeli parties.
+
+Clips have ranged from Jewish opposition politicians taking off masks to reveal Arab-Israeli candidates underneath, to Arabs looming over what appears to be a crumbling parliament building.
+
+Billboards for Netanyahu's Likud party with the phrase "The Right or Palestine" alongside the faces of Arab-Israeli politicians have also sprung up across the country.
+
+"It's incitement, especially from Prime Minister Netanyahu's camp," said Thair Abu Ras, head of the Forum for Regional Thinking at the Van Leer Jerusalem Institute.
+
+"This whole notion of having an Arab party in the coalition is illegitimate in the eyes of the right wing and they're trying to enforce that kind of way of thinking on the Eisenkot coalition as well," he told AFP.
+
+Apparently racialised comments have been levelled at Eisenkot, the son of Moroccan Jews.
+
+This month, a senior commentator on the pro-Netanyahu Channel 14 television station described him as "a monkey".
+
+While the term is not necessarily a racial slur in Hebrew, the remark drew widespread condemnation from opposition politicians and from Netanyahu himself.
+
+**'Disgusting' social media comments**
+
+The election is the first since Hamas's October 2023 attack.
+
+A number of candidates are people whose lives were transformed that day or in the wars that followed, but trauma or bereavement have not spared them from personal attacks.
+
+Laly Derai, whose son was killed fighting in Gaza in 2024, is running for the new far-right Amcha Israel party, which advocates universal conscription into the Israeli military -- an increasingly contentious issue due to exemptions for religious students.
+
+She says she has faced a coordinated smear campaign against her, which has at times invoked her son's death and accusations that she is betraying his memory.
+
+Posters calling for her to withdraw her candidacy so as not to "put the country in danger" have sprung up in the area around the settlement where she lives in the occupied West Bank.
+
+"They're trying to break me but, paradoxically or not, this campaign has reinforced my decision to enter politics precisely to put an end to this hate-filled rhetoric," she told AFP.
+
+Speaking to public broadcaster KAN, she said she had received "phone calls at all hours of the day and night, disgusting comments on social media, signs posted in our towns, including near our children's school buses -- all of this just because we dared to propose something new."
+
+Relatives of hostages formerly held by Hamas have also been caught in the crosshairs.
+
+On an unofficial Facebook page for supporters of Netanyahu's Likud party, an image was posted on Tuesday pitting one mother of a former hostage against another.
+
+One mother, Likud candidate Talik Gvili, looks calm against the backdrop of an Israeli flag, while Einav Zangauker -- a vocal critic of Netanyahu -- looks frenzied around protesters tinted in red.
+
+"It is us or them," the caption reads.
+
+---
+
+### FIR lodged after posters questioning govt performance found inside Delhi Metro train
+*PTI · business*
+
+An FIR has been registered against unidentified people after two posters questioning the government's performance and raising various issues were found pasted inside a train on the Delhi Metro's Airport Express Line, police sources have said.
+
+The A4-sized black-and-white posters carried phrases such as "You Can Change Your Own Life", "Voting Protest", "Spectrum of Engagement", "Community Building Reform" and "Dissatisfied? You Are Not Alone". They also listed nine claims about changes in the country in recent years, the sources said.
+
+The posters, which invited people to join an online group through a QR code, were seized by police. The Special Cell is also involved in the investigation, they said.
+
+  
+
+According to the FIR, the incident came to light on October 20 when Tarun Chaudhary, a train operator with the Delhi Metro Rail Corporation (DMRC) deployed on the Airport Express Line, was on duty.
+
+Chaudhary left New Delhi station for Yashobhoomi station at around 6.50 pm, and the train reached its destination at around 7.15 pm. While inspecting the train from inside the cabin, he noticed two posters pasted on a seat, the FIR stated.
+
+He removed the posters and informed his senior officers and the Operations Control Centre. He was then directed to hand them over to the station controller at Dwarka Sector 21, who subsequently informed police.
+
+Efforts are being made to identify the person who pasted them inside the train, the sources said.
+
+---
+
+### BJP's Rajeev Chandrasekhar Slams Kerala CM V. D. Satheesan Over Raihan Vadra Art Show | News18
+*Unknown · general*
+
+A political controversy has erupted in Kerala after BJP state president Rajeev Chandrasekhar criticised Chief Minister V. D. Satheesan over the hosting of an art exhibition featuring Raihan Vadra, the son of Congress leader Priyanka Gandhi Vadra. The BJP has questioned the circumstances surrounding ...
+
+[Read full article](https://www.news18.com/videos/breaking-news/bjp-s-rajeev-chandrasekhar-slams-kerala-cm-v-d-satheesan-over-raihan-vadra-art-show-news18-10395592.html)
+
+
+---
+
 ## 23 October 2026
 
 ### He stayed off Instagram and studied 10 hours a day to secure CA Inter AIR 3
