@@ -1,5 +1,243 @@
 # Editorials archive — 2026-07
 
+## 26 July 2026
+
+### Youth at the vanguard: On the Education Minister’s resignation
+*The Hindu · Editorial*
+
+A government that does not bend to the will of the people risks being broken. The resignation of Dharmendra Pradhan as Union Education Minister, after a sustained agitation by youth led by the satirically named Cockroach Janta Party (CJP), is more than just a ministerial casualty of the “paper leaks” scandal. It is a seminal moment in the unravelling of what political scientists describe as the Bharatiya Janata Party (BJP)-dominant party system in Indian democracy, which allows little elbow room for a fragmented Opposition. Entrance examinations are the gatekeeping mechanism that determines which young Indians get to enter the narrow but reassuring world of formal employment later on, in a country where most work remains in the grinding unorganised sector. Repeated leaks across several examinations have turned an apparatus for testing merit into one of widespread graft. Close to 20 lakh candidates were made to take the National Eligibility cum Entrance Test (Undergraduate) again after gruelling preparation that coincided with their school examinations. Several students did not survive the ordeal. The grievance bound youth across castes and religions, the very identities that political mobilisation in India has been confined to in recent years. Bypassing a television establishment largely aligned with the ruling dispensation, the faceless protesters built support on social media within days. The high-handedness of the Delhi police and the attempts to throttle the Internet and mobility around the protest venues only swelled their ranks. The government eventually found that this agitation could not be crushed, swayed, split, distracted or left to dissipate, as others have been over the past 12 years. It was forced to negotiate, and in the face of the CJP’s rightful stubbornness, Mr. Pradhan’s continuation became untenable. The nothing-to-lose desperation of the protesters gained a political halo that came from their non-alignment with electorally focused established parties. This was a movement that could not be hijacked or undermined by the political elite, whether of the Opposition or of the government.
+
+Calm returns to Jantar Mantar after 36-day NEET protest ends; Dipke, Wangchuk recuperate
+
+But Mr. Pradhan’s announcement of his resignation does not inspire confidence. Instead of accepting moral responsibility for the failures in the conduct and the marking of various examinations, he tactfully sought to present his stepping down as an attempt to prevent “anti-national” elements from exploiting the situation created by the protests. Evident in his resignation letter is the government’s mindset that sections of the students were acting against the Indian state with ulterior motives. This is also part of the same narrative that prompted the Delhi Police to meet the protests with shock batons, pellet guns, and lathis with nails. The police actions were nothing short of calculated brutality that violated all protocols of crowd control. The resignation is a tactical retreat on the part of the government, not a realisation of mistakes made; it came after the abject failure of efforts to paint the protests as communal, as inspired by foreign agencies, and as designed for political mileage. Among the several missteps, the government first acted as if the social media followers were made up of mostly bots who would vanish from view if their accounts were withheld, then as if their virtual presence would have no real-life consequences, and finally as if they could be fought off with Instagram reels. Only on encountering failure after failure did the government get Mr. Pradhan to sign off. But, commendably, the protesters withdrew the agitation once their demands were met.
+
+In the days ahead, the impact of the protests will be far wider than what the government hopes to restrict it to. Over the years, the Narendra Modi-led BJP government has converted mostly narrow electoral victories — a plurality of votes yielding a majority of seats, singly or in coalition — into expansive mandates. It has used them to break the constitutionalist consensus on settled questions of secularism and federalism, advancing a unitary, majoritarian agenda by creeping degrees. It has simultaneously raised its floor of support by radicalising sections in the north, west and now the east of India on the communal plank, which has in turn helped secure its legislative strength. It has recast dissent as anti-national or separatist and hollowed out the Opposition through induced defections and selective deployment of enforcement agencies. Combined with the pusillanimity of other institutions, including a passive judiciary, this has led to what many describe as a managed democracy living under an undeclared emergency for civil liberties. A nation born of non-violent struggle has needed, more than once since Independence, a non-parliamentary convulsion to turn its institutions back towards the vision of the freedom-fighting generation that framed the Constitution. The CJP, and those who stood with it — Sonam Wangchuk fasted for 26 days — have shown that a just demand, pressed through the quintessentially Indian route of satyagraha, can outlast the state’s brutality and move an inflexible government to action. This is a lesson for the institutions charged with checking the executive, and for those charged with questioning authority, especially the media, which — barring some notable exceptions — have mostly played a negative role. They must play their constitutionally mandated and socially responsible role rather than give in to browbeating or expediency. Whether they do so will be tested as the government sets about reforming the entrance examination system with a different Minister in charge. What is certain is that India is yearning for change and rejuvenation.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/the-hindu-editorial-on-students-protest-and-education-minister-dharmendra-pradhan-resignation/article71268704.ece)
+
+---
+
+### Bharat Bhushan | Pressure Proof No More: Why Modi Capitulated
+*Deccan Chronicle · Opinion*
+
+Prime Minister Narendra Modi has suffered the worst defeat of his 12 years in office as the youth protests, led by the Cockroach Janata Party (CJP), forced him to capitulate and accept all their demands. The 36-day protest of youngsters barely out of school and college shifted political optics in the country.
+
+Mr Modi’s image of not bowing to pressure had already developed cracks after the year-long farmers’ agitation of 2020-2021. It was finally shattered by a swarm of teenagers calling themselves “cockroaches”, turning an insult into a badge of resilience and satire. The “Modi does not bend” and “Modi is pressure-proof” narratives that shaped his image have cracked and unravelled with irreverent slogans, memes and repartee that will become a permanent marker of youth victory in social media archives.
+
+The protesting youngsters have set a precedent that will embolden the political Opposition in the country. The vulnerability of the Modi government they have laid bare could inspire and encourage future mass protests that demand systemic changes.
+
+Why did Prime Minister Modi bend before the youngsters? The outgoing education minister, Dharmendra Pradhan, had described the protestors as “the B-Team of terrorists”, reflecting the initial confrontational mood in the government before its 180-degree turn. The Modi-aligned media talked-up the ubiquitous “foreign hand” and the government’s sympathisers posted messages on social media about a sinister “conspiracy” afoot to remove the Modi government.
+
+Neither the offer of cosmetic changes nor confrontation, involving the deliberate savagery by the police, using pellet guns and tasers, worked. Ordinary people were aghast that the State could use such brutality against unarmed, young peaceful protesters, most in their teens. This effectively expanded the support for the protests.
+
+Worse, in the eyes of the government, an avowedly apolitical movement looked in danger of falling into the hands of the Opposition. Congress leader Rahul Gandhi and other Opposition leaders were amplifying the protests both in the street and in Parliament, demanding accountability and apology from the Prime Minister, not just from the education minister. If youth anger was not cooled, the Modi government calculated that the Opposition would get an opening for the state elections of 2027 and the sentiment might even impact the general election of 2029.
+
+The demographic details of the protests must also have mattered to the Modi government. Many of the protestors came from middle class families that had catapulted the BJP to power. It was evident from social media that these families were also feeling the loss of opportunities by an educational testing system that had been subverted and gamed. While Mr Modi could depend on alliances and poaching of MPs in Parliament, he could not risk a big slice of his traditional voter base turning hostile.
+
+The BJP faced the prospect of losing its critical youth voter base. It was clear to the students that a Prime Minister who held forth on “Pariksha pe Charcha” (Dialogue on exams), could not assure their integrity. Mr Modi’s capitulation may have aimed to retain young voters for the 2029 election.
+
+Once Mr Modi understood that traditional methods of confrontation and quashing dissent were not working, he reversed gears surprisingly quickly. Multiple ministerial-level talks with the leaders of the protest signalled that the Modi government would henceforth treat a two-month-old satirical “party” as a negotiating counterpart rather than as a fringe nuisance that could be quashed.
+
+That a 76-year-old Prime Minister made a midnight Instagram reel, addressing a youth audience, was also an unprecedented reversal of stance from a leader who for more than two decades has not held a press conference or taken any questions from journalists. The informal and reactive style was evident in the fact that he chose to address youngsters his grandchildren’s age, as “friends”, departing from his usual register of communication and trying to adjust to the style, social media platform and language of his young critics. This strategic adaptation was layered over the loss of composure of someone who sees himself as above public accountability, and prefers one-way communication and teleprompter-based messaging.
+
+The resignation of the education minister has clearly removed an acute trigger, replacing the bitter anger with the sweetness of victory. However, whether the memory of the repression before the victory gets calcified in the youngsters’ minds depends on what happens in the coming months.
+
+The youth demands went beyond those immediately conceded. They have demanded structural changes in the educational testing system.
+
+This system is centred on over-centralisation of educational testing, neglect of school education, unequal access, and allowing coaching centres to proliferate to prepare students for the immense and ever-increasing competitive pressure for limited but...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/bharat-bhushan-pressure-proof-no-more-why-modi-capitulated-1974164)
+
+---
+
+### Parsa Venkateshwar Rao Jr | A ‘Performance Audit’ Of NTA By CAG Is Essential Amid Edu Mess
+*Deccan Chronicle · Opinion*
+
+It was natural that all fingers pointed, and rightly so, at education minister Dharmendra Pradhan.
+
+Now that he has stepped down, the real issue is what went wrong with the National Testing Agency (NTA), that conducts all kinds of examinations for all kinds of jobs, from that of entry into the Allahabad high court and Delhi high court, medical colleges and the Indian Space Research Organisation, and more, including the National Eligibility and Entrance Test (Neet). As there have been no problems with umpteen tests that NTA seems to conduct day in and day out, the focus is on Neet, because it is here that paper leaks are happening time and again.
+
+It looks like the government is keen to clean up the place as quietly and as secretively as possible. Before Mr Pradhan quit, the ministry dismissed 47 officials of various ranks in the NTA in a peremptory manner. They have been given marching orders, and it was made known that they will face legal and criminal action for their acts of omission and commission. The rot in the system is not with these 47 officials but with NTA’s organisational structure and the information systems that is
+
+the base of the data that the dismissed people could misuse with impunity. The public has a right to know what went wrong that the test papers got leaked, and what is the involvement of these 47 employees. The government can say with all the furtiveness that it is capable of that there was an internal inquiry and it is on the evidence of wrongdoing that emerged that the dismissals were ordered. But the government has not disclosed anything about an internal inquiry, which is a matter of fairness with regard to the employees and about the modus operandi of the leakage of the test papers. If the government wants to take the issue to the courts, it must have evidence for the prosecution in place. Of course, it will then emerge into the public domain.
+
+The announcement about fresh recruitments being made to the NTA to replace the system that has gone wrong gives some picture of the deeply faulty mode of the agency. It has now been declared that recruitment will be for four contractual positions of general managers and for 16 young professionals who have not cleared the UPSC examinations who will be the support team for the four general managers. It has not been specified whether the general managers will be from the private sector, those with degrees in business management, those equipped with technical knowhow in matters like cyber security.
+
+There is no hint as to the new people being recruited in place of the 47 who have been thrown out involved a restructuring of the NTA, and in what manner. What the people need to know is the actual points of malfunctioning of the testing system. Either government has carried out an internal assessment and it is recruiting the new team based on what they have learnt about the loopholes in the NTA’s old structure, or is doing it in a hurry to hide the rickety system. There are any number of too-clever-by-half technical experts who thinks all problems can be fixed through computerisation. This government led by a technically naïve Prime Minister believes in the simplistic solution of computerisation. The new buzzword, of course, is AI, and it will be said that AI will clear all the bugs in the system. On the face of it, the paper leaks are not due to failure of the system and the data banks. It is the human beings who operate the system who can bend the system. The idea that there will be a foolproof way to keep out the human operators managing the data flow is nothing short of foolishness.
+
+What is needed to stem the rot in the exam system across the board is to fix responsibility of the people who manage the system. The dismissal of the 47 people, which implies their involvement in the criminal use of the test papers, reveals where the solutions are to be found: in the people, and not in the computers. The more systems are managed by smart machines, that is smart computers, the less scope there is for finding fault with the 47 dismissed staff or even with minister Dharmendra Pradhan. Responsibility has to lie with the staff and the person at the top -- the minister in question. There should be no room for anyone to shrug shoulders and walk off.
+
+The Neet scandal is just the tip of the iceberg. There is a lot of malfunctioning in the government that Prime Minister Narendra Modi and his ministers have been running for the last 12 years. There has not been enough scrutiny of the workings of the government. The loud protestations by Mr Modi and his ministers is not a testament of efficient governance but distracting attention from the rot that is hidden from public view. The Opposition parties have been lazy. They have not demanded the reports by the Comptroller and Auditor-General (CAG) of various ministries, departments and agencies. It is something the BJP had done when it was in Opposition and it managed to nail, fairly and unfairly, the...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-a-performance-audit-of-nta-by-cag-is-essential-amid-edu-mess-1974173)
+
+---
+
+### Crowd of one: Why the State is scared of the exam-citizen
+*Deccan Herald · Opinion*
+
+In my May piece in The Prism, I wrote about the Cockroach Janta Party (CJP) with suspicion. My Gen Z daughter had bought into the $CJP memecoin, a token launched by anonymous opportunists. I saw in it the familiar ugliness of our time: every rebellion instantly financialised, every slogan turned into a ticker symbol. I was not entirely wrong. But I was wrong enough. I mistook the parasite for the organism.
+
+The Delhi protests were catalysed by the NEET scandal. But what gathered at Jantar Mantar, moved towards Parliament, and led to the resignation of Education Minister Dharmendra Pradhan was not merely a crowd of angry aspirants. It was a new political figure in Indian life: the exam-citizen.
+
+‘There’s something happening here/ But what it is ain’t exactly clear/ There’s a man with a gun over there/ telling me I got to beware/ I think it’s time we stop, children, what’s that sound?/ Everybody look what’s going down.’
+
+(Buffalo Springfield recorded ’For What It’s Worth’ in 1966, after riot police in Los Angeles violently dispersed a crowd of young people gathered peacefully on the Sunset Strip.)
+
+The exam-citizen is the young Indian whose relationship with the state is mediated through forms, admit cards, coaching centres, biometric verification, answer keys, rank lists, cut-offs, counselling portals, and court cases. She meets the Republic not as a bearer of rights, but as a candidate. Study hard enough, wait long enough, suffer quietly enough, and the system will finally reward your merit. This is the bargain; the last remaining promise of India. The NEET scandal shattered that promise.
+
+India’s exam-industrial complex is a political economy of managed desperation. Families sell land, pawn jewellery, take loans, move children into coaching towns, buy test series, rent rooms, purchase data packs, pouring everything they have into this hope. An enormous machinery envelopes this hope: coaching empires, ed-tech platforms, private colleges, hostel economies, consultants, brokers, paper-leak rackets, litigation, and state agencies that preside over the lottery.
+
+The reason this complex exists is simple: India has too few secure exits for too many young people. Too few good public universities. Too few affordable medical seats. Too few dignified jobs. Too few respected vocational pathways. Too few institutions whose degrees carry real value. Instead of expanding opportunity, the state has perfected the art of rationing it.
+
+‘There’s battle lines being drawn/ And nobody’s right if everybody’s wrong/ Young people speaking their minds/ Getting so much resistance from behind’.
+
+Exams turn structural failure into individual failure. If there are no jobs, no seats, no future, the state can still say: everyone had the same paper. The answer key was neutral. But the answer key does not record who had coaching, English, electricity, educated parents, mental health, caste privilege, money, or a room of one’s own. The examination pretends that unequal children arrive as equal candidates. The exam is thus India’s most successful alibi.
+
+NEET, UPSC, JEE, SSC – each converts public anger into private preparation. Do not protest; prepare. Do not ask political questions; revise. Do not complain about unemployment; improve your marks. Do not demand dignity; qualify for it. The system teaches the young to relate to the state not through citizenship, but through eligibility. You are not owed anything. You must clear the cut-off.
+
+This is why the Delhi protests feel larger than a resignation. The real accusation is deeper: the state has converted citizenship into examination, and then failed even to conduct that examination properly. It has asked Gen Z to suspend their lives in the name of merit, while allowing merit itself to be compromised by money, networks, negligence, and fraud.
+
+‘What a field-day for the heat/ A thousand people in the street/ Singing songs and carrying signs/ Mostly say, hooray for our side/ It’s time we stop, hey, what’s that sound?/ Everybody look what’s going down.’
+
+That is the social fact from which the CJP emerged. And this is where I was wrong back in May. I saw the memecoin and thought the movement had been captured by capital before it had touched the ground. But the young people were not buying a token. They were redeeming a claim: we are not insects, not failed candidates, not data points. We are citizens. It means the exam-citizen has escaped the examination hall.
+
+That is why the state is afraid. The fear is that the candidates have recognised each other. They were long trained to compete alone, against each other. But now, they have begun to assemble. The crowd at Jantar Mantar was not merely demanding a fairer exam, but a different bargain entirely.
+
+They came to Delhi as roll numbers. They stood there as citizens. And for one terrifying, beautiful moment, our Republic had to sit for its own exam.
+
+Aakash Singh Rathore as Dr Jekyll is a Professor of Philosophy, Politics and Law, author and editor of over 20 books and counting, and as Mr Hyde, one of India’s top-ranking Ironman triathletes @ASR_metta
+
+The writer, as Dr Jekyll, is a Professor of Philosophy, Politics and Law, author and editor of over 20 books and counting, and as Mr Hyde, one of India’s top-ranking Ironman triathletes.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH)
+
+[Read full article](https://www.deccanherald.com/opinion/crowd-of-one-why-the-state-is-scared-of-the-exam-citizen-4087594)
+
+---
+
+### Emperors without empathy
+*Deccan Herald · Opinion*
+
+All of us have witnessed the delusional hubris of those intoxicated by power. Surrounded by sycophants in echo chambers and cocooned in gilded cages of self-importance, rulers lose touch with the ground beneath their feet. When the hungry ask for bread, emperors fear revolt and answer with bayonets.
+
+Emperor Caligula intended to appoint his horse Incitatus as consul. Whether he actually meant to do it hardly matters. His message was unmistakable: he held the institutions of the Republic in contempt. He could have appointed a donkey and made the same point. Power had ceased to respect limits.
+
+Ralph Waldo Emerson understood it well: “An empire is an immense egotism”. I learnt that lesson the hard way. Freshly commissioned into the Indian Army, I was barely twenty – still in my salad days, green in judgment but rich in certainty. As a young Captain commanding an independent unit, I possessed summary court martial powers. A senior Havaldar, with almost as many years of service as my age, was produced before me for pilfering rations meant for the jawans’ langar and selling them to a local shopkeeper. Outraged, I stripped him of his rank and had him posted from the comfortable South, where families could live together, to the harsh North-East on the Chinese border. I believed I had done justice. A couple of years later, fate arranged my education.
+
+Serving in an infantry brigade, I got romantically drawn to a bright young college student. She was Muslim, living in a hostel. One evening, she called in panic. Her parents had discovered our relationship, taken her home, confined her, and fixed her marriage against her wishes. She pleaded with me to rescue her. At that age, I mistook my recklessness for courage.
+
+With two fellow officers, I mounted what today sounds like a comic commando operation. At midnight, we scaled a six-foot compound wall, reached her first-floor room, helped her climb out with a small bag, bundled her into an Army jeep, drove to the nearest railway station, and sent her safely to friends in Bengaluru with Rs 5,000 in her hand.
+
+The next morning, all hell broke loose. The local MLA arrived with the police. The Brigade Commander summoned me. “Come clean,” he said. I confessed everything.
+
+He heard me out patiently before saying, “You are not going to marry her. Persuade her to return. Her parents have promised not to force the marriage and will allow her to continue her studies. But you must stop seeing her.” I gave him my word. Two days later, he called me again. “I’m not court-martialling you,” he said. “Everybody deserves one chance.” Then his face broke into a smile as he handed me the Rs 5,000 her parents had returned. “You bugger,” he laughed. “You have your cake and eat it too.”
+
+I was fortunate. There was no poisonous vocabulary like “love jihad” in those days. Only then did shame cut me to the bone. I had shown none of the compassion to that Havaldar which my Brigade Commander had shown me. I had followed the rule book but ignored the human being. Aldous Huxley’s words have stayed with me ever since: “Try to be a little kinder.”
+
+Which brings me to the students who protested in Delhi. Whatever one thinks of their demands or leadership, their anger is real. It reflects anxieties far beyond examinations – about jobs, opportunity, and the feeling that the system has failed and stopped listening. That explains why the protests travelled beyond campuses and attracted international attention. This is precisely the moment when empathy becomes statesmanship.
+
+Narendra Modi has often shown an instinctive ability to connect directly with young people. He invokes Vasudhaiva Kutumbakam, quotes Swami Vivekananda, and speaks of India’s demographic dividend. Why not meet these students? Invite a handful of their representatives for a simple meal, without the insulating ring of courtiers and officials. Listen more than speak. If mistakes have been made, acknowledge them honestly and correct them swiftly. An apology, where deserved, diminishes no leader. It enlarges him.
+
+The youth are not the opposition. They are India’s future. History offers enough warnings. Bangladesh, Nepal, and Sri Lanka all witnessed youth-led upheavals that swept away governments. This country has a deeper inheritance. This is Gandhi’s land.
+
+Democracies remain stable not because governments never err, but because they respond to discontent with empathy; because they possess the humility to hear that discontent before it hardens into rage.
+
+Capt G R Gopinath (Retd.) builds bridges, sometimes by tearing down walls. He is a soldier, farmer, and entrepreneurThe writer builds bridges, sometimes by tearing down walls. He is a soldier, farmer, and entrepreneur.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH)
+
+[Read full article](https://www.deccanherald.com/opinion/emperors-without-empathy-4087593)
+
+---
+
+### The hidayat for wellness
+*Deccan Herald · Opinion*
+
+Udayan Vajpeyi is a medical doctor. William Harris was speaking at a symposium about Raymond Williams in Korea when the young writer suddenly fell down. He lay unconscious on the floor while we tried to wake him up with our uniquely ineffective ways. Until a man came and checked Will’s pulse, made his diagnosis, and suggested a remedy. That is how I became aware of Udayan Vajpeyi’s professional expertise. To read his poems from the Hidayat Kabitayein section of Khuli Aankhein Aur Anya Kabitayein after that knowledge is, therefore, to feel an added layer of pleasure – and pressure.
+
+In these poems, though, Udayan Vajpeyi is not a physician but patient. The hidayat in the title is a collection of the new world’s sermons on ‘wellness’. The first poem is Protein. ‘I must eat a lot of protein now, I must fill my stomach with milk, paneer, dahi and dal.’ That is how the poem begins: a cacophonous collective that we now carry inside our heads supervising our protein intake as if our lives – and life insurance – were dependent on it. The second stanza is about eating very little sugar. We read about the effect of such a vigilant and calibrated diet, how things don’t move inside, and how he pines for sweetness all day. The outside enters the inside in varied ways – the health gospels in the head at first, and then the world, through metaphors. The first of these is the alimentary canal, which is likened to a queue in front of a railway booking counter – the food moves as slowly.
+
+The deprivation of sugar – of sweetness – triggers expectations, in the mind and the tongue, where rasa lives. ‘Mithaas ki chaha bani rehti hai jaise/ beech samudra main meethey pani ki’ – the craving for sweetness continues like that for sweet water in the middle of the sea. The poem ends with the world taking up real estate inside the speaker again, this time through something akin to metaphor – the dream of sugarcane fields inside a night dream. It’s fascinating, even moving, to see how the outside slips into the interior: pulses and dairy entering through the mouth, the restriction on sugar at the toll gate as it were; the queue of living humans outside a railway booking counter, a boat in the middle of an ocean, sugarcane fields. These invisible entrants cannot be detected through diagnostic tests; they build the poem just as the dal, dahi and doodh build the poet.
+
+The conceits continue in Char Litre Pani, a poem that records the consequences of drinking four litres of water. ‘Yeh bahut adhik hai’, this is too much, says the speaker, after the obedience to the health(y) dictum. There’s waterlogging inside the poet – and the poem – and soon he is no longer only a human being. Humour – and water – has turned the human into something else. Where else have we met the word tarang, waves, for the water inside the human body? As the night wears on, the body feels like something being grazed on.
+
+In both the poems, we see the outside entering inside – seeping, soaking, dissolving, draining, moving. There’s the obverse too. In Bistar, a poem about changing bedsheets daily, Vajpeyi writes: my bedsheet is changed every day; that is how my worries and insomnia are washed every morning; every morning there’s new bed-linen so that my worries and insomnia can fill them till the next morning. This is a poem of two stanzas: in the first, the bedsheet absorbs the night’s excrements of worry and insomnia; in the second, the fresh bedsheet waits, in anticipation of what the night will secrete into it. The same set of words is used in the first and second stanzas: bistar, bed; chadar, bedsheet; anidra, insomnia; subah, morning; dhoney; wash.
+
+And yet, apart from a minor change in tense, the past and future, the stanzas become different just from the syntax and arrangement of the words and the actions they commit or promise. But the first stanza has five lines, the second four. If both are about the invisible inside leaking into the outside, why should their length be different? ‘Subah tak usse anidra aur udbigna se bhar saku’. So that I can fill the bedsheet with insomnia and worry. Is it because the past feels longer than the future?
+
+Sumana Roy is an author and poet. Her books include How I Became a Tree and Provincials.
+
+The writer is an author and poet. Her books include How I Became a Tree and Provincials.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH)
+
+[Read full article](https://www.deccanherald.com/opinion/the-hidayat-for-wellness-4087595)
+
+---
+
+### Pradhan’s loss, Rahul’s gain?
+*The New Indian Express · Opinion*
+
+Predictably, Sonia Gandhi and Rahul Gandhi described the resignation as “a victory of India’s youth”. The BJP rejected that interpretation, maintaining that the government had acted in the larger interest of students. Between these competing political narratives lays the more important question: does this resignation represent an isolated concession, or has it punctured the aura of political invincibility that the Modi government has carefully cultivated over a decade? Or has it revived a demoralised opposition led by Rahul Gandhi?
+
+Rahul sat cross-legged on a dharna outside the Prime Minister’s residence on a sweltering Delhi afternoon, flanked by sister Priyanka Gandhi Vadra, as chants of “Pradhan hatao” rolled across Jantar Mantar barely a kilometre away. For weeks, the scene had repeated itself: tear gas drifting over crowds of coaching-hub students, baton charges scattering demonstrators near Parliament and a knot of opposition leaders taking turns at the microphone to demand the head of Pradhan over the NEET-UG paper-leak scandal. On Saturday, the demand was met. Pradhan resigned. For a government that has spent 12 years perfecting the art of never blinking, it was a rare visible embarrassing retreat.
+
+The resignation matters less for the man than for the precedent. The first Cabinet rank ministerial resignation extracted by public pressure in Modi’s entire tenure as both Chief Minister and Prime minister. Pradhan’s exit breaks an unbroken run and was won through an unusual convergence: Rahul and Congress leading dharnas and parliamentary disruption, regional allies from the Samajwadi Party to the Trinamool Congress joining in, education activist Sonam Wangchuk sustaining a 26-day hunger strike, and a youth-driven protest movement calling itself the Cockroach Janta Party mobilising students who had never previously engaged with party politics. Rarely has street pressure, parliamentary pressure, and civil-society pressure aligned so tightly against a single BJP minister.
+
+There is a pointed irony here for the BJP. The very toolkit it once accused the Congress-led UPA of being fatally vulnerable to sustained opposition agitation, middle-class outrage, and street pressure forcing a minister’s exit, has now claimed one of its own.
+
+Under Manmohan Singh, roughly half a dozen ministers resigned under comparable pressure over the UPA’s decade in office: A Raja over the 2G spectrum scam, Ashwani Kumar and Pawan Kumar Bansal within the same fortnight in 2013, and Dayanidhi Maran, Shashi Tharoor and Virbhadra Singh, among others. The BJP spent years mocking that pattern as proof of UPA’s corruption and disarray. Now the NDA has surrendered its own minister to precisely the same kind of pressure it once claimed to be immune to.
+
+Yet, whether this genuinely strengthens the opposition or simply proves how thoroughly Modi’s government otherwise controls the narrative is a harder question. One resignation does not undo 12 years of electoral dominance, and the government’s own framing offers a counter-narrative: Pradhan resigned, in his own words “in the larger interest of students”, not as an admission of guilt. Modi has not conceded any deeper systemic failure in the examination system.
+
+The CBI probe now underway, the cancelled exam and the re-test may end up appearing as decisive government action rather than capitulation, particularly once the news cycle moves on. Sceptics note that the BJP has weathered far larger controversies without conceding ground, and that a single resignation, however symbolically loaded, is a thin reed on which to build a national opposition revival. Modi’s personal approval and the BJP’s organisational machine remain, by most measures, substantially intact.
+
+Still, political observers are reading the moment as more than symbolic. It is the first tangible scalp Rahul has claimed in a career defined more by slogans than outcomes. For Congress strategists, the lesson is that grievance politics, when fused with an issue that touches middle-class aspiration directly—a rigged exam, a stolen future—can still move the needle against an otherwise dominant BJP. Will it work in the coming state elections?
+
+The real test now shifts to Uttar Pradesh, where Assembly elections are due in 2027. Akhilesh Yadav and his wife Dimple have already positioned themselves alongside Rahul and Priyanka at these protests, reviving the “UP ke ladke, UP ki ladkiyan” pairing from earlier campaigns that delivered disappointing returns at the ballot box. Congress strategists will now try to convert Pradhan’s resignation into a template: proof that the government can be made to bend and a rallying point for the same student and middle-class constituencies who felt betrayed by the NEET fiasco.
+
+Whether that translates into votes is a different matter. Uttar Pradesh’s electorate has historically prioritised infrastructure, welfare delivery and Yogi Adityanath’s law-and-order narrative over single-issue grievances, and past agitations, from the 2019-20 citizenship protests to the farm-law stir, generated enormous street energy without dislodging the BJP at the ballot box.
+
+History suggests both readings are plausible simultaneously. The 1974 JP movement began with a comparatively narrow grievance in Bihar and Gujarat before snowballing into a national anti-Indira wave that produced the 1977 defeat. The India Against Corruption movement of 2011-12 forced ministerial resignations and dented UPA’s moral authority, yet its direct electoral beneficiary was a new party, AAP. But nationally, the BJP was the beneficiary as Modi became Prime Minister. The Congress hopes Pradhan’s exit could mark the beginning of a similar chain reaction, or it could remain an isolated concession that Modi’s government successfully neutralises before the next election cycle begins.
+
+Political authority begins to erode not when a minister resigns, but when citizens discover that even the most powerful government can be compelled to respond to public pressure. Whether Rahul and his allies can convert that single, hard-won victory into durable political capital, particularly in Uttar Pradesh, will determine if July 25, 2026, is remembered as the moment the opposition finally found its footing, or as a rare, contained exception in an otherwise unbroken run of BJP dominance.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Jul/25/pradhans-loss-rahuls-gain)
+
+---
+
+### Student protests: Lessons for adults
+*The New Indian Express · Opinion*
+
+Updated on: 25 Jul 2026, 6:45 pm4 min readCopiedRegimes rarely choose their nemesis. Sometimes they arrive genetically coded for resilience and success. The Cockroach Janta Party did not choose its own name: the insult on a young people was pronounced from an altitude where words are meant to be weighed before being uttered. Abhijeet Dipke deployed the insult as identity leveraging an old truth: the creature survives everything designed to exterminate it.
+
+The rash comment produced a rash of dissent founded in angst and anger that acquired barricades, tear gas and a hunger strike. The leaks of exam papers year after year are not aberrations but recurrences, and have claimed over a score of lives. The protestors’ demands are quaint for the cynical— accountability, the minister’s resignation, withdrawal of cases, compensation to families of students who died and a system where papers never leak.
+
+No matter the political hue, parties in power harbour contempt for questions, are disdainful of dissent and revel in the complacency of arrogance. On the opening day of the monsoon session thousands marched on Parliament; over a hundred were injured. By Tuesday, the protesters had returned and rebuilt the camp the police had demolished. Mass outrage registered on the Richter scale. The cockroach, as advertised, survived. On Saturday, the arc of power bent before the wall of resistance.
+
+The biographical irony is thick enough to cut. This NDA regime owes much to student politics—nearly a dozen ministers graduated from the ABVP and the JP movement, their careers beginning with the kind of protests they now police. The Prime Minister’s own political formation runs through the Nav Nirman agitation of 1974. The party’s résumé was minted in the anti-Emergency movement amid lathi charges. Confronting its own biopic, the regime chose to wield lathis on those carrying the baton forward, only to retreat.
+
+The protests illustrated the erosion of the contract between society and the State. The epicentre Jantar Mantar, the 18th-century observatory built to read the heavens, measured the Republic’s mood. Barricades extended to the street named after Leo Tolstoy, who wrote that governments sustain themselves because people submit to systems they inwardly reject. This was not just another group. It represented the NEET middle, the hope of families who liquidated savings for a seat on the train to prosperity. Lending their voice were the jobless, professionals, activists and parents.
+
+Gen Z protesters’ repertoire of innovations in the face of brutality inspired and riveted India. Students in Delhi sang the national anthem, freezing the police mid-lathi-charge; in Patna the use of water cannon was converted into a rain dance; in Mumbai a young woman stopped a police van—India’s own tank-woman frame. The geography of the protests illustrates the consensus of the youth from the proverbial Kashmir to Kanyakumari—the catchment includes the districts spanning coaching empires harvesting over $7 billion annually.
+
+Governments underestimate students at their own peril. It was students who set themselves and the official languages script aflame in Madras in 1965, triggering the exit of Congress and the installation of DMK in Tamil Nadu. Indira Gandhi lost the plot with the 1974 agitation in the hostels of Ahmedabad. It was Bihar’s students who then asked Jayaprakash Narayan to lead them. The Assam agitation was led by students. Globally, students hastened de Gaulle’s exit in Paris, led the Velvet Revolution in Prague, defied Suharto in Indonesia and recently drove change in Dhaka, Colombo and Kathmandu. Students do not need to win elections to end governments. Each generation files its petition on the street when it is not heard.
+
+Arithmetic explains power and political anxiety. Projections estimate the 15-29 cohort at around 371 million—a youth nation larger than the population of the US. It is the constituency of potential voters—some about to reach the ballot box, some in the job queue disappointed by it. It came of political age a decade back and knows only the promises and disappointments of one regime. Any government in an argument with a quarter of its population can only hope to change the narrative or submit.
+
+Typically, the standard operating system of power is ignore, insult, injure, invite. The regime’s spin masters inducted the foreign hand to shift the narrative just like Indira Gandhi did before imposing the Emergency. The mechanics of discouragement follow the muscle. Ill-advised advisories from universities caution students against expressing affinity with political movements, in person and on social media. The opposition, meanwhile, did what oppositions do—arrive after the audience is seated.
+
+Students are the isotopes of the body politic. Like the radioactive tracers doctors use, students perform the diagnostic function for society and regimes. The malignancy lights up. They have no baggage, no stake in the settled order, no incentive to lie about the condition of the State. Isotopes are also the variants that split and set off the chain reaction. Their grievances are leading indicators: the leaked paper today is the jobless quarter tomorrow. And they impose an impossible dilemma on power.
+
+The cause of the anger is a crisis of systemic credibility. Count the instruments of the State that have let down the youth: exams that cannot certify merit, the paradox of unemployment and unfilled posts, courts with seemingly no time for grievances, programmes for internships and jobs that under-deliver, and fast-track courts with a slow-track record. A nation’s aspirations cannot flourish in a society where truth resides in the complicity of silence. The young at Jantar Mantar refused the terms of that settlement. In their victory the students taught the State and the adults a lesson about youth power and the genetic code of Gen Z.
+
+Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Jul/25/student-protests-lessons-for-adults)
+
+---
+
 ## 25 July 2026
 
 ### A growth story that needs women at work
