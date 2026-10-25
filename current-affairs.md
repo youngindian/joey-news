@@ -1,3 +1,429 @@
+## 25 October 2026
+
+### 13 Phones, Smartwatch, Perfumes: Flipkart Delivery Agent Steals Goods Worth Rs 4.6 Lakh In Gujarat
+*Aanchal Sinha · general*
+
+The seizure included 13 mobile phones, Bluetooth devices, a smartwatch, wristwatches, perfumes, personal care products, clothing and electronic accessories.
+
+[Read full article](https://www.news18.com/india/13-phones-smartwatch-perfumes-flipkart-delivery-agent-steals-goods-worth-rs-4-6-lakh-in-gujarat-ws-kl-10396606.html)
+
+---
+
+### YouTuber Alleges Fort Kochi Cafe Served Beef, Displayed Jinnah Statue; Booked, CM Condemns Claims
+*Vani Mehrotra · general*
+
+Fort Kochi police booked YouTuber Amrit Singh Darren over an Instagram video claiming a cafe displayed a Jinnah statue and served beef.
+
+[Read full article](https://www.news18.com/india/kerala-youtuber-booked-fort-kochi-cafe-jinnah-statue-beef-video-amrit-singh-darren-ws-l-10396557.html)
+
+---
+
+### Who is Gadi Eisenkot, the former army chief challenging Netanyahu in Israel’s election?
+*Express Global Desk · legal*
+
+Gadi Eisenkot, a former Israeli army chief, is the main challenger to Netanyahu in the October 27 election. Here is who he is and what he wants.
+
+[Read full article](https://indianexpress.com/article/world/who-is-gadi-eisenkot-netanyahu-challenger-israel-election-10935656/)
+
+---
+
+### Sri Lanka seeks faster green energy shift after oil shocks
+*AFP · business*
+
+Colombo: Sri Lanka is determined to accelerate its transition to renewable energy spurred by soaring oil prices, but faces major constraints, its energy minister told AFP.
+
+"There are some wake-up calls... pushing us to move more to renewable energy," Anura Karunathilaka said.
+
+"If we can get as much as possible from renewable energy, that would be our policy in the next few years."
+
+  
+
+The island nation, which imports all its oil and gas needs, has been hit hard since the US and Israel launched their war on Iran, which in turn choked off the strategically critical Strait of Hormuz.
+
+Sharp increases in fuel, gas and electricity prices, rationing and inflation at its highest in three years have dealt a painful blow to an economy only just recovering from its worst-ever crisis in 2022.
+
+The state and the public have paid a heavy price.
+
+The energy ministry says the government has at times spent up to 30 percent of its foreign exchange reserves in a single month to pay for fossil fuel imports.
+
+Sri Lanka's energy transition targets were set before the war.
+
+By 2030, the country aims to generate 70 percent of its electricity from renewable sources, up from around 60 percent currently, including about 40 percent from hydropower.
+
+## Promise to the people
+
+"We will probably have to go beyond 70 percent," Karunathilaka said.
+
+But the transition is proving more complicated than expected.
+
+Some communities oppose wind turbines.
+
+The island has enormous potential for wind power -- estimated at 30 gigawatts-- but anger is growing on the northwestern Mannar peninsula, where residents blame turbines operating since 2020 for causing floods, driving fish away and threatening migratory birds.
+
+The minister said he had listened to their concerns.
+
+"We have promised the people of Mannar... that only projects already approved or under construction will go ahead," he said, adding that future wind farms would be built elsewhere.
+
+Another obstacle is technical.
+
+"The problem is the constraint in the transmission lines, availability and also control of the grid, as well as fluctuations in supply and demand," Karunathilaka said.
+
+"From next year onwards, we have planned to enhance our transmission capacity, adding five major transmission network lines."
+
+But that will not be enough.
+
+The success of solar power, particularly the installation of photovoltaic panels on homes and businesses, has created sharp fluctuations in electricity supply, which often exceeds demand during daylight hours.
+
+## Pricing changes
+
+This month a six-hour blackout struck across the island after the national grid tripped, possibly because solar power generation exceeded consumption.
+
+"Sometimes we have to curtail certain solar power plants to maintain the stability of the system. That is why some people have the perception that the government is not encouraging solar power," Karunathilaka said. "But that is not true."
+
+By 2029, the government hopes to increase its solar power generation capacity to nearly 4,400 megawatts, a 388 percent jump from 2024, he said.
+
+However, he added that the government would have to change how solar electricity was priced.
+
+Under the existing system, private producers can feed electricity into the grid during the day, when generation is at its peak and demand is low, then draw back the same amount for free at night, when electricity is more expensive.
+
+The arrangement is financially unsustainable for a fragile economy, the minister said.
+
+"The additional cost is borne by the state," he said. "We think it is unfair to pass that burden on to the general public, so we will propose a new financial model that is fair to both solar producers and consumers."
+
+The government also plans to expand electricity storage using batteries, Karunathilaka said.
+
+"The system, investment and infrastructure are not yet ready to completely replace coal and naphtha," he warned.
+
+"But... in 10 to 15 years, we will also be reducing naphtha and coal, and we will be able to achieve 90-95 percent renewable energy."
+
+---
+
+### Garena Free Fire MAX Redeem codes today, October 25, 2026: Check full list of codes, free rewards and how to redeem
+*Trending Desk · business*
+
+Garena Free Fire MAX players in India can try their luck with redeem codes available on October 25, 2026. Depending on availability and validity, the codes may unlock free in-game rewards, including diamonds, weapon skins, outfits, character items and other collectibles.
+
+## Garena Free Fire Max Redeem Codes
+
+-   F7F9A3B2K6G8
+-   BR43FMAPYEZZ
+-   FP9O1I5U3Y2T
+-   H8YC4TN6VKQ9
+-   FK3J9H5G1F7D
+-   6KWMFJVMQQYG
+-   FU1I5O3P7A9S
+-   4ST1ZTBZBRP9
+-   FFR4G3HM5YJN
+-   FE2R8T6Y4U1I
+-   UPQ7X5NMJ64V
+-   FM6N1B8V3C4X
+-   4N8M2XL9R1G3
+-   FA3S7D5F1G9H
+-   FZ5X1C7V9B2N
+-   S9QK2L6VP3MR
+-   B1RK7C5ZL8YT
+-   FT4E9Y5U1I3O
+-   FF6YH3BFD7VT
+
+## How to Redeem Free Fire MAX Codes
+
+Step 1: Visit the official Garena Rewards Redemption website.
+
+Step 2: Log in using the account linked to your Free Fire MAX profile  
+Step 3: Enter the redeem code in the designated field.
+
+Step 4: Carefully check the code to ensure all letters and characters are entered correctly.  
+Step 5: Click on the submit option to complete the redemption process.  
+Step 6: If the code is valid and active, the reward will be sent to your Free Fire MAX in-game account.
+
+## Why Free Fire Redeem Codes May Not Be Working?
+
+Free Fire redeem codes may fail to work for several reasons. A code could have expired, reached its maximum redemption limit, or been issued for a specific region or server. Entering a character incorrectly can also cause the redemption to fail. Garena frequently introduces new promotional rewards through in-game events, partnerships and collaborations, so fresh redeem codes may be released periodically.
+
+  
+
+## Redeem Free Fire MAX Codes Before They Expire
+
+Free Fire MAX redeem codes are usually available for a limited period and may not stay active indefinitely. Some codes can also come with a specific redemption limit, after which they may no longer work. If you want to try the latest redeem codes, it is better to use them as soon as possible instead of waiting until later in the day.
+
+---
+
+### After giving 23 death sentences in six months, judge transferred to family court; he has awarded 13 more in his previous posting
+*Trending Desk · business*
+
+Judge Ravi Kumar Diwakar, who awarded 36 death sentences during his postings in Muzaffarnagar and Bareilly, has been transferred from a fast track court to a family court in Muzaffarnagar, Uttar Pradesh. The judicial transfer order appoints him as additional principal judge of the family court after a tenure marked by high-profile criminal verdicts and questions over the withdrawal of pending cases from his court.
+
+Diwakar awarded 23 death sentences in 11 cases in Muzaffarnagar between April and September 2026, according to a report by _The Times of India_. He had also awarded 13 death sentences in Bareilly. His latest transfer changes his judicial assignment, with additional sessions judge Shiv Kumari moving to fast track court-3 to take over his previous position.
+
+  
+
+## 23 death sentences in six months in Muzaffarnagar
+
+Diwakar was posted to Muzaffarnagar on November 29, 2025, and served as presiding officer of fast track court-3, hearing criminal cases involving Muzaffarnagar and Shamli districts.
+
+  
+
+His string of death sentences drew national attention. On September 7, he delivered his 23rd death sentence in Muzaffarnagar, convicting a man for burning his wife alive.
+
+The number of capital punishment verdicts during his tenure made his court's proceedings a subject of wider public attention. The sentences, however, are judicial decisions in individual criminal cases, and the transfer order does not state that they were the reason for his reassignment.
+
+  
+
+## Dispute over 97 pending criminal cases
+
+Another issue during Diwakar's Muzaffarnagar posting concerned the recall of at least 97 pending case files from his court in August. The cases involved murder and other serious offences.
+
+The files were recalled on the orders of then district and sessions judge Birendra Kumar Singh, who has since retired. Diwakar subsequently questioned the basis for withdrawing the cases from his court.
+
+In a judgment in a case under the Narcotic Drugs and Psychotropic Substances (NDPS) Act, Diwakar addressed the issue of administrative authority to recall pending files. He questioned not only whether cases could be withdrawn on administrative grounds but also the reasons for exercising such power.
+
+He specifically raised the issue of an absence of recorded reasons. His observations brought attention to the administrative decisions governing the allocation of pending cases. The available transfer details do not establish a connection between those observations and his new posting.
+
+## Judge came into national spotlight over Gyanvapi mosque survey
+
+Diwakar had earlier attracted national attention in May 2022, when he was serving as civil judge (senior division) in Varanasi.
+
+He ordered a court-monitored videographic survey of the Gyanvapi mosque complex in proceedings concerning the worship rights of five Hindu women at the Shringar Gauri site.
+
+During the survey, Hindu petitioners claimed that a structure in the mosque's _wuzu khana_, an area used for ritual ablutions, was a Shivling. The Muslim side disputed the claim. The Supreme Court subsequently transferred the proceedings to the Varanasi district judge's court.
+
+Following the survey order, Diwakar reported receiving threats, prompting authorities to review his security arrangements. In 2024, he again raised concerns about threats originating from international phone numbers.
+
+During his more recent Muzaffarnagar posting, he also questioned changes to his security arrangements. In a communication to Uttar Pradesh Director General of Police, he said removing his assigned gunner had compromised his protection. Police maintained that alternative personnel had been deployed.
+
+## From civil judge to family court
+
+Diwakar, 46, joined the Uttar Pradesh judicial service as a Munsif, or civil judge (junior division), in 2009. He holds B.Com, LL.B and LL.M degrees.
+
+His earlier postings included Azamgarh, Sultanpur and Budaun. He served as civil judge (senior division) in Varanasi from April 2021 to July 2022 before moving to Bareilly, where he later became an additional district and sessions judge in a fast track court.
+
+He was posted in Chitrakoot from April to November 2025 before joining Muzaffarnagar in November 2025, according to official records cited in the report.
+
+Under the latest judicial transfer order, Diwakar will take charge as additional principal judge of the family court in Muzaffarnagar. Shiv Kumari, previously presiding officer of fast track court-2 and additional sessions judge, has been transferred to fast track court-3.
+
+_Inputs from TOI_
+
+---
+
+### Obama criticises Trump over rising prices, says Tax Bill favours wealthy Americans
+*ET Online · business*
+
+Barack Obama criticises Donald Trump over rising living costs and argues that the administration’s major tax bill disproportionately benefits wealthy Americans. His remarks at an Ohio rally focus on tax policy, affordability and the US economy.
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/obama-criticises-trump-over-rising-prices-says-tax-bill-favours-wealthy-americans/videoshow/135183125.cms)
+
+---
+
+### Will US-Iran War take decisive twist Monday? Donald Trump threatens to resume attacks
+*Monica Singh · general*
+
+A day after threatening Tehran with another Epic Fury, Trump says he could strike Iran as soon as Sunday, leaves open possibility of peace deal.
+
+A day after threatening Tehran with "another little Epic Fury", US President Donald Trump said he could strike Iran as soon as Sunday. At the same time, he left open the possibility of a peace deal amid pushback from the Islamic Republic.
+
+Speaking to reporters in Florida after casting his vote for the US midterm elections on Saturday, Trump said there was a possibility of military action as well as a diplomatic agreement, without confirming whether he had made a final decision on further strikes.
+
+"Maybe tomorrow... There's a possibility I will. There's also a possibility we'll have a nice, big, beautiful agreement," Trump said, according to a report by news agency Reuters.
+
+On Friday, while addressing a rally in Florida for the midterm polls, Trump said that Washington could launch a military operation against Iran. The warning came after reports surfaced that Tehran was preparing to target undersea communications cables in the Gulf if Washington and Tel Aviv resume their military campaign.
+
+"We may do another little Epic Fury," Trump said while referring to the name the US military gave to its war against Iran. The conflict in the Middle East began on February 28 after the US and Israel launched combined strikes, targeting the military infrastructure, offices, and the residences of the leaders. The strikes killed Iran's then Supreme Leader, Ayatollah Ali Khamenei.
+
+Trump also hailed the role of the US forces in the eight-month-long conflict against Tehran in West Asia.
+
+"We have done an amazing job. Our Navy and Military have done an amazing job. They have knocked out every jet fighter of Iran. Two hundred and fifty-nine ships are at the bottom of the sea. They are only left with record inflation," Trump said.\[Iran\]
+
+## **Trump questions Iran's will to honour a peace agreement**
+
+The US President also questioned whether Iran would honour any agreement reached with Washington, saying, "They want to make a deal, but the problem is, will they hold the deal?"
+
+Trump said his administration wanted to ensure that Iran could never develop a nuclear weapon, suggesting that further military action could be necessary to achieve that objective, Middle East Eye reported.
+
+## **Iran denies making a new proposal to open Strait of Hormuz**
+
+Meanwhile, Iran has denied making a new proposal to Pakistani mediators to reopen the Strait of Hormuz in exchange for the US lifting its naval blockade, according to a report by news agency ANI, which cited the IRGC-affiliated Tasnim news agency.
+
+The development came after a Saudi Arabia-based media outlet reported that Iran had offered a new proposal to resolve the Strait of Hormuz conflict. However, Tasnim dismissed the possibility, citing sources from Iranian officials, calling it "a lie and fabrication."
+
+---
+
+### Unhealthy air, toxic white foam: Yamuna pollution resurfaces at Kalindi Kunj as Delhi-NCR AQI hits 168, GRAP-1 curbs remain in force
+*Prachi Kumawat · regional*
+
+Toxic foam returns to Yamuna as AQI touches 168
+
+NEW DELHI: Thick white foam has resurfaced on the Yamuna near Kalindi Kunj even as air pollution worsens across Delhi-NCR, with the region’s overall Air Quality Index (AQI) reaching 168, indicating unhealthy air quality.The twin environmental concerns have once again brought the capital’s persistent air and river pollution problems into focus, days after Delhi chief minister Rekha Gupta highlighted the government’s efforts to rejuvenate the Yamuna through major infrastructure projects.
+
+#### Delhi AQI reaches 168 as PM2.5, PM10 dominate pollution levels
+
+PM2.5 and PM10 continued to be the primary pollutants across the national capital, although air quality readings varied between monitoring stations.The AQI was around 110 at PGDAV College in Sriniwaspuri, while several other stations recorded readings ranging from 118 to above 180.The worsening air quality prompted the Commission for Air Quality Management (CAQM) to invoke Stage 1 of the Graded Response Action Plan (GRAP) across Delhi-NCR on October 21 to tackle rising pollution levels.Under GRAP Stage 1 restrictions, the use of coal and firewood in tandoors at hotels, restaurants and open-air eateries is prohibited.
+
+The use of diesel generators is also restricted to essential and emergency purposes.
+
+#### Thick white foam resurfaces near Kalindi Kunj
+
+Visuals from Kalindi Kunj showed extensive layers of white foam floating on the Yamuna’s surface, highlighting the continuing challenge of river pollution in Delhi.The latest appearance of foam comes just days after chief minister Rekha Gupta praised the government's efforts to revive the river.She had described the inauguration of major infrastructure projects worth approximately Rs 9,000 crore as a “joyful day” for Delhi residents.Addressing the media on Thursday, Gupta reiterated the government's commitment to cleaning and rejuvenating the Yamuna, highlighting the infrastructure projects inaugurated as part of the ongoing efforts."Today is a joyful day for the people of Delhi, as projects worth around ₹9,000 crores have been inaugurated today. We can say that the way the government has started work for the rejuvenation of the River Yamuna, in one and a half years of tenure, we have continuously moved forward strongly in that direction.""In just a few years, the Yamuna should be clean, flowing uninterrupted; we should be able to give this gift to the residents of Delhi; we stand by our resolve, and we are working day and night to fulfil it."
+
+#### Delhi infrastructure projects worth Rs 9,000 crore to Rs 10,000 crore
+
+The chief minister said the latest investment followed projects worth Rs 9,000 crore to Rs 10,000 crore initiated last year, primarily focusing on Delhi’s infrastructure and the rejuvenation of the Yamuna.However, the return of thick white foam at Kalindi Kunj highlights the continuing environmental challenges facing the river, even as the government pursues large-scale infrastructure and cleanup initiatives.
+
+(With ANI inputs)
+
+---
+
+### ‘I didn’t have to fire missiles’; Obama slams Trump for starting an unnecessary war with Iran.
+*ET Online · business*
+
+Barack Obama criticises Donald Trump’s handling of the Iran conflict, revisiting the 2015 Iran nuclear deal and the US withdrawal from it. He also raises concerns about military losses, attacks on US allies, missile stockpiles, and disruptions around the Strait of Hormuz affecting global oil prices.
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/i-didnt-have-to-fire-missiles-obama-slams-trump-for-starting-an-unnecessary-war-with-iran-/videoshow/135183046.cms)
+
+---
+
+### Barclays plans 5,000 job cuts by year-end amid AI push, 1,000 roles already gone
+*India Today Education Desk · general*
+
+## Barclays plans to cut 5,000 jobs by the end of 2026 as it expands technology and AI use to reduce costs. The bank has already eliminated 1,000 roles, while quarterly profit rose 12% year-on-year.
+
+Barclays to cut 5,000 jobs by year-end as AI and technology drive cost savings (AI-generated image)
+
+New Delhi,Oct 25, 2026 09:43 IST
+
+Barclays plans to cut around 5,000 jobs, or 5% of its workforce, by the end of 2026 as the British lender increases its use of technology, including artificial intelligence (AI), to reduce costs and improve returns.
+
+The bank has already eliminated around 1,000 positions, with the remaining cuts expected by the end of the year, Chief Financial Officer Anna Cross told reporters, according to Reuters. Around 60% of the planned reductions will affect support functions, including software developers.
+
+The announcement comes as financial institutions worldwide reassess staffing requirements amid growing investments in automation and AI.
+
+### BARCLAYS PROFIT RISES, BUT MISSES ESTIMATES
+
+Barclays reported third-quarter profit of Â£2.3 billion (about Rs 29,200 crore), up 12% from a year earlier but below analysts' expectations. The bank's investment banking division faced pressure from weaker fixed-income trading performance.
+
+Commenting on the performance of the bank's fixed-income trading business, Chief Executive Officer C.S. Venkatakrishnan said he was disappointed with the results.
+
+"I am disappointed, and you can be sure this will get my attention," Venkatakrishnan said. He attributed the weaker performance to a volatile quarter, particularly in rates and credit products.
+
+The bank said it had taken a further Â£201 million (about Rs 2,550 crore) in structural cost actions during the third quarter as part of its longer-term effort to reduce expenses, including staff costs, through greater use of technology.
+
+### SUPPORT FUNCTIONS TO BEAR THE BRUNT OF CUTS
+
+Around 60% of the planned job reductions will affect support functions, including developers, Cross told reporters.
+
+The announcement highlights how technology investments are influencing workforce decisions in the banking sector. Banks are increasingly exploring automation to streamline operations, although the extent to which AI is directly responsible for individual job cuts varies by company.
+
+"The cuts illustrate just how significantly AI and automation could reshape the banking industry over the next few years," Will Howlett, a financial analyst at fund management business Quilter Cheviot, said, according to Reuters.
+
+Companies worldwide, including Microsoft and HSBC, have also announced job cuts this year amid wider efforts to control costs and adapt to technological changes.
+
+## Investment banking performance remains mixed
+
+Barclays' investment bank reported third-quarter income of Â£3.1 billion (about Rs 39,400 crore), below analysts' Â£3.3 billion (about Rs 41,900 crore) forecast. Fixed-income trading income fell 19% to Â£1 billion, while equities revenue rose 47%, according to Reuters' calculations.
+
+Shore Capital also flagged disappointing investment bank performance. Barclays shares slipped 0.1% after the results and are down around 12% so far this year.
+
+### UK BUDGET ADDS PRESSURE ON BANKS
+
+The results come ahead of Britain's budget on October 28, when the government could consider additional taxes on banks.
+
+Finance Minister John Healey has not ruled out increasing taxes on banks' profits, despite lobbying by the industry. Banks have argued that they already face relatively high taxation and that additional levies could constrain lending.
+
+The budget debate adds another challenge for lenders already seeking to manage costs, improve returns and invest in technology.
+
+(With Reuters inputs)
+
+\- Ends
+
+---
+
+### Farooq Abdullah says Pakistan is ‘protecting’ Kashmiris, sparks BJP backlash
+*Ani · business*
+
+Baramulla: National Conference chief Farooq Abdullah on Saturday claimed that Pakistan was "protecting" the people of Jammu and Kashmir by repeatedly raising the Kashmir issue at international forums, while alleging that the Centre's intentions towards the region were not good.
+
+Addressing a workers' convention here, Abdullah questioned whether "Kashmiris could expect justice from Delhi" and said, "Pakistan's continued efforts to raise the Kashmir issue internationally were putting pressure on India."
+
+  
+
+"What can you expect from Delhi? You must have the courage to stand up to them and fight. If you do not, you will be wiped out. Your name and identity will disappear, and no one will even remember you. Our neighbour is constantly after them. It goes everywhere, saying that the Kashmir issue has not been resolved. It is protecting us; otherwise, their intentions are not good. They say one thing but do something entirely different," Abdullah said.
+
+He further called on people to stand by the truth, warning that their future would remain insecure unless they spoke out and stood firm.
+
+"You must have the courage to stand by the truth. Speaking the truth is not easy, but unless you speak the truth and stand firm by it, your future will never be secure," he said.
+
+Abdullah's remarks drew strong criticism from Bharatiya Janata Party (BJP) leaders, who accused him of echoing Pakistan's narrative and questioned his comments on the country's role in Jammu and Kashmir. The remarks triggered sharp reactions from leaders who accused him of making anti-national statements and demanded action against him.
+
+Uttar Pradesh Minister Suresh Kumar Khanna accused Abdullah of exploiting Kashmiris throughout his political career and said the region's integration into the national mainstream under the Modi government was in the best interests of its people.
+
+"It is people like Farooq Abdullah who have exploited Kashmir throughout their lives. Farooq Abdullah is responsible for reducing Kashmiris to second-class citizens, and he ought not to be making such statements. It is precisely because of India's diversity that Kashmir is now integrated into the nation's mainstream, and every citizen of Kashmir enjoys the same rights as those in the rest of India. Therefore, the current situation in Kashmir-brought about by the Modi government-is what is truly in the best interest of the Kashmiri people. Today, the people of Kashmir are at their happiest, thanks to the Modi government," Khanna said.
+
+BJP leader Ravinder Raina termed Abdullah's statement highly condemnable and unfortunate, accusing him of treason and alleging that Pakistan had supported terrorism in Jammu and Kashmir for decades.
+
+"The statement made by Dr. Farooq Abdullah regarding Kashmir and Pakistan is highly condemnable and unfortunate; in fact, Dr. Farooq Abdullah has committed an act of treason. Pakistan is the killer of the people of Jammu and Kashmir. Over the last 35 years, Pakistan has sought to turn Jammu and Kashmir into a graveyard and a cremation ground. This is the very same Pakistan that has fostered terrorism within Jammu and Kashmir-providing training, bombs, guns, pistols, ammunition, and grenades to terrorists. How could Pakistan ever be a well-wisher to the people of Jammu and Kashmir?" Raina said.
+
+BJP leader Altaf Thakur also condemned Abdullah's remarks, calling them an attack on the country's unity and integrity and demanding action against the National Conference chief.
+
+"This is an open rebellion against the country. His statement is against the unity and integrity of the country. The National Conference has always been anti-country. The statement made by Farooq Abdullah is completely an anti-country statement. Action should be taken against him," Thakur said.
+
+Janata Dal (United) state president G M Shaheen also criticised Abdullah, questioning why the National Conference chief continued to echo Pakistan's narrative despite having held several constitutional positions.
+
+"When a leader like Farooq Abdullah makes such a statement and supports Pakistan, what else can I call it but a misfortune? He has served as a Chief Minister, a member of the Rajya Sabha, and a Member of Parliament; he has worked within the framework of the country's Constitution-yet, he chooses to speak the language of Pakistan. It is truly shameful. If Jammu and Kashmir is safe, it is because of India. Why does he always echo Pakistan's narrative? The militancy that has plagued Kashmir since the 1990s was, in part, a consequence of his government. Whenever these people have come to power, they have invariably begun to speak the language of Pakistan. This is nothing new for Farooq Abdullah, but the nation should hold him accountable," Shaheen said.
+
+Deputy Chief Minister Vijay Sharma also criticised Abdullah, questioning his allegations against India and asking whether he considered himself separate from the country.
+
+"If we point out that they lack love for the country, they immediately start complaining that such things are being said about them. He himself served as Chief Minister, and now his son is Chief Minister. He has full access to all resources-from across India and everywhere else. Yet, he still makes such accusations. If he claims that India's intentions were not good, does that mean he views himself as separate from India? He should learn from his own son-Omar Abdullah," Sharma said.
+
+Vishwa Hindu Parishad (VHP) leader Vinod Bansal also condemned Abdullah's remarks, asserting that Jammu and Kashmir would always remain an integral part of India and questioning his reference to Pakistan.
+
+"Kashmir was, is, and will always remain an integral part of India. They live in India and sing praises of Pakistan. Is Kashmir safe because of Pakistan, or is Kashmir safe by showing India's strength to Pakistan? If this is his statement, then there is no greater treason than this," Bansal said.
+
+Meanwhile, Congress leaders disagreed with Abdullah's remarks about Pakistan but also raised concerns over the political and administrative situation in Jammu and Kashmir, particularly the continued denial of statehood.
+
+Congress leader Ravinder Sharma reiterated that Jammu and Kashmir was an integral part of India and accused Pakistan of spreading terrorism. He cited the Shimla Agreement while arguing that Pakistan had no right to raise the Kashmir issue, and also referred to concerns over the treatment of minorities and the delay in restoring statehood.
+
+"Jammu and Kashmir is an integral part of India, and it will remain an integral part. Pakistan spreads terrorism. Pakistan has no right or claim to raise the issue of Jammu and Kashmir-especially following the Shimla Agreement, in which it was agreed in writing that bilateral issues would be addressed through direct, bilateral engagement. Thirdly, regarding Farooq Abdullah's remarks: he pointed to the disenfranchisement of minority voters, the use of bulldozers against minorities, and other forms of oppression, noting that there is an elected government in Kashmir. The Congress party is also fighting for this-demanding to know why, despite repeated promises, an undertaking given to the Supreme Court, and discussions in Parliament, statehood is still being denied to the people of Jammu and Kashmir. In that context, we also recognise that the people of Jammu and Kashmir are facing oppression," Sharma said.
+
+Congress leader Rashid Alvi also disagreed with Abdullah's position, while questioning Pakistan's handling of Pakistan-occupied Kashmir (PoK).
+
+"I do not agree with Farooq Abdullah on this. There is no doubt that the BJP government has committed excesses in Kashmir. But what is happening in Pakistan-occupied Kashmir (PoK)? People there regularly protest against the Pakistgovernment. If the people in PoK are unhappy and dissatisfied with the Pakistani government, what can Pakistan do about our Kashmir?" Alvi said.
+
+Apart from his remarks on Pakistan and Delhi, Abdullah raised concerns over the implementation of a mandatory two-year service requirement for doctors who pursue medical courses in Jammu and Kashmir. He alleged that a file 
+
+"Doctors who come from outside Jammu and Kashmir to pursue MBBS, MD, or MS courses, as well as students who study medicine here, are required to serve for two years in villages, hospitals, and other areas across the region. If they fail to fulfil this requirement, they must pay ₹50 Lakh to the administration. This is a region where a file has been pending with the Lieutenant Governor for a year, yet it has still not been approved. This is the state of affairs here. What can you expect from Delhi? Can you really expect them to deliver justice to you?" Abdullah said.
+
+---
+
+### She reads, therefore she is: Writer-journalist Shanta Gokhale on her memoir
+*Kanupriya Dhingra · legal*
+
+Gokhale’s memoir turns a lifetime of reading into an intimate history of literary friendships, formative encounters and enduring pleasures of re-reading
+
+[Read full article](https://indianexpress.com/article/books-and-literature/shanta-gokhale-memoir-of-ancestors-and-friends-a-life-with-books-10935774/)
+
+---
+
+### 'Dialogue on with Ministry, OMCs': Federation of LPG Distributors distances itself from call for Delhi strikes
+*Unknown · business*
+
+New Delhi: The Federation of LPG Distributors of India (FLDI) has distanced itself from the proposed protests and indefinite strike in the national capital, stating that constructive dialogue with Oil Marketing Companies (OMCs) and the Ministry of Petroleum is currently underway.
+
+Emphasising that consumer convenience remains its foremost priority, the federation urged all LPG distributors across Delhi to continue regular delivery and supply operations to ensure uninterrupted services.
+
+In an official statement, the FLDI said, "The FLDI does not support the proposed protests and indefinite strike in Delhi. We advocate for meaningful dialogue, concrete decisions, and sustained efforts to address the legitimate demands of distributors. We are engaged in constructive dialogue with the Oil Marketing Companies (OMCs) and the Ministry of Petroleum. The concerns of the distributors are being heard, and we have received assurances of an early resolution."
+
+  
+
+The federation maintained that resorting to agitation at this stage could be counterproductive, particularly as discussions with the authorities are underway and assurances of an early resolution have been received.
+
+"We believe that solutions can be achieved through dialogue and decisive action. Ensuring uninterrupted LPG service to consumers is our top priority. Dialogue with the OMCs and the Ministry is ongoing, and we have been assured of a resolution. Given this, resorting to protests without exhausting all avenues for dialogue is not a practical approach," the statement noted.
+
+Reiterating its commitment to consumers, the FLDI appealed to its distributor members not to be influenced by unverified calls for protests or industrial action.
+
+"Maintaining a regular and safe supply of LPG to consumers remains our primary objective. We urge all fellow distributors to continue with supply and delivery operations-ignoring unverified calls for action-so that no family faces any inconvenience," the federation stated.
+
+
+---
+
 ## 24 October 2026
 
 ### MHA draft on Ladakh demands: Elected body’s laws need L-G nod
