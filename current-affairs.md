@@ -1,3 +1,309 @@
+## 26 October 2026
+
+### Serbia Election: Student-Led Anti-Corruption Movement Ousts Vucic After 14 Years
+*India Today Video Desk · general*
+
+## Nifty Slips Below 22,500, Rupee At 94.93, Navi Mumbai Airport Flight Shift Begins
+
+Indian equity markets started on a weak note with the Nifty breaching the key 22,500 support level and slipping towards 22,400. In currency and commodity trade, the Indian rupee opened stable at 94.93 per dollar, while MCX Silver jumped 1,300 rupees to 1.97 lakh rupees per kilogram and MCX Gold climbed 500 rupees to 1.42 lakh rupees per 10 grams. IT major Infosys faced selling pressure, dropping over two percent after lowering its guidance following Q2 numbers. Market analyst Avinash Gorakshakar advised avoiding crude-sensitive sectors such as oil marketing, paints, and chemicals amid elevated oil prices, while recommending defensive plays in hospitality, healthcare, and selective private banks. Meanwhile, Mumbai's aviation operations prepare for a significant transition, with airlines IndiGo and Air India Express scheduling phased shifts of domestic and Middle East international flights to the upcoming Navi Mumbai International Airport ahead of Terminal 1 redevelopment.
+
+---
+
+### Varanasi: IAF’s Chinook helicopter features in ‘Wings Over Ganges’
+*ET Online · business*
+
+An Indian Air Force Chinook helicopter featured prominently at the ‘Wings Over Ganges’ aerial showcase in Varanasi, drawing attention with its impressive presence over the Ganges.
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/varanasi-iafs-chinook-helicopter-features-in-wings-over-ganges/videoshow/135202974.cms)
+
+---
+
+### Israel Polls: Netanyahu Faces Gadi Eisenkot As Expatriates Fly In To Vote
+*India Today Video Desk · general*
+
+## Nifty Slips Below 22,500, Rupee At 94.93, Navi Mumbai Airport Flight Shift Begins
+
+Indian equity markets started on a weak note with the Nifty breaching the key 22,500 support level and slipping towards 22,400. In currency and commodity trade, the Indian rupee opened stable at 94.93 per dollar, while MCX Silver jumped 1,300 rupees to 1.97 lakh rupees per kilogram and MCX Gold climbed 500 rupees to 1.42 lakh rupees per 10 grams. IT major Infosys faced selling pressure, dropping over two percent after lowering its guidance following Q2 numbers. Market analyst Avinash Gorakshakar advised avoiding crude-sensitive sectors such as oil marketing, paints, and chemicals amid elevated oil prices, while recommending defensive plays in hospitality, healthcare, and selective private banks. Meanwhile, Mumbai's aviation operations prepare for a significant transition, with airlines IndiGo and Air India Express scheduling phased shifts of domestic and Middle East international flights to the upcoming Navi Mumbai International Airport ahead of Terminal 1 redevelopment.
+
+---
+
+### Cyclone Arnab To Hit Andhra Coast On Oct 28; State Braces For Extremely Heavy Rainfall | Top Points
+*Vani Mehrotra · general*
+
+Cyclone Arnab is expected to cross the Andhra Pradesh coast on October 28 with winds of up to 125 kmph and gusts of 140 kmph. IMD warns of heavy rain.
+
+[Read full article](https://www.news18.com/india/cyclone-arnab-andhra-pradesh-landfall-october-28-preparadness-areas-districts-on-alert-ws-l-10397367.html)
+
+---
+
+### Credit Card Rewards Vs Annual Fees: Are You Really Getting A Good Deal?
+*NDTV Profit Desk · general, business*
+
+When you plan to buy a credit card, it is important to check whether the benefits you receive are worth more than the annual amount you pay.
+
+[Read full article](https://www.ndtvprofit.com/personal-finance/credit-card-rewards-vs-annual-fees-are-you-really-getting-a-good-deal-12235642)
+
+---
+
+### Ghulam Nabi Azad disagrees with Farooq Abdullah, says Pakistan is J&K's enemy
+*ET Online · business*
+
+Former Jammu and Kashmir Chief Minister Ghulam Nabi Azad responds to Farooq Abdullah's remarks, calling his statement incorrect and saying Pakistan is the enemy of India and the people of Jammu and Kashmir. Azad also discusses the development of J&K since 1947, crediting successive Central governmen...
+
+[Read full article](https://economictimes.indiatimes.com/news/india/ghulam-nabi-azad-disagrees-with-farooq-abdullah-says-pakistan-is-jks-enemy/videoshow/135202868.cms)
+
+---
+
+### Bolsonaro Rejects Brazil Elections Defeat, Says Result 'Impossible To Accept'
+*Aishwarya Singh · general, business*
+
+Flávio Bolsonaro has refused to concede the presidential runoff to incumbent President Luiz Inácio Lula da Silva. Pledging to challenge the results, Bolsonaro announced plans to seek an annulment over unsubstantiated claims of voting irregularities.
+
+[Read full article](https://www.ndtvprofit.com/world/bolsonaro-rejects-brazil-elections-defeat-says-result-impossible-to-accept-12235618)
+
+---
+
+### Kotak Mahindra Bank Share Price Rallies Over 3% After Strong Q2 Beat. Time To Buy?
+*Ankit Gohel · general, business*
+
+JPMorgan has a positive view on Kotak Mahindra Bank and believes the bank is well-positioned to deliver a 20% earnings CAGR over FY26-29E, the best among large banks.
+
+[Read full article](https://www.ndtvprofit.com/markets/kotak-mahindra-bank-share-price-rallies-over-3-after-strong-q2-beat-time-to-buy-12235771)
+
+---
+
+### Is Hyundai discontinuing the Alcazar? Here's what's next
+*Auto Today · general*
+
+## Hyundai's three-row SUV strategy could be headed for a change, with the next-generation Creta expected to play a key role in how the carmaker approaches the segment.
+
+New Delhi,Oct 26, 2026 10:00 IST
+
+Hyundai Motor India could discontinue the Alcazar around the time when the next-generation Creta arrives, with the carmaker reportedly exploring a seven-seater version of its popular mid-size SUV. The third-generation Creta is currently undergoing testing, and its arrival could bring changes to Hyundai's SUV lineup, including the future of the Alcazar. In international markets, the Hyundai Alcazar is sold as the Hyundai Creta Grand.
+
+The next-generation Creta is expected to be offered in both five-seater and seven-seater configurations. While the name of the three-row SUV remains unknown, it could share much of its underpinnings and design with the new Creta, while receiving a distinct front fascia and revisions to the rear to differentiate it from the five-seater model.
+
+The Hyundai Alcazar currently competes with the Mahindra Scorpio-N, Tata Safari and MG Hector Plus, Tomohawk in the three-row SUV space. The model received a substantial update in 2024, bringing revised exterior styling, interior changes and additional technology over its predecessor. However, the introduction of a seven-seater Creta could prompt Hyundai to reassess the Alcazar's place in its portfolio.
+
+### Hyundai Alcazar: Current engine options
+
+The Alcazar shares its powertrain options with the Creta. It is currently available with a 1.5-litre turbocharged GDi petrol engine producing 160bhp and 253Nm of torque, and a 1.5-litre CRDi diesel engine generating 116bhp and 250Nm.
+
+The petrol engine is paired with a six-speed manual or a seven-speed dual-clutch transmission (DCT). The diesel engine gets a six-speed manual or a six-speed torque-converter automatic gearbox.
+
+### Next-gen Hyundai Creta: What we know so far
+
+Hyundai has begun real-world testing of the third-generation Creta, with the first spy images of the heavily camouflaged SUV emerging. Internally codenamed SX3, the new model is expected to represent a full generational change rather than a routine facelift.
+
+The test mule appears to adopt a boxier and more upright silhouette than the current Creta, with squarer proportions and a wider-looking stance. The upright front end, steeply raked windscreen and relatively short overhangs suggest a focus on road presence and cabin packaging. The SUV has also been spotted with large alloy wheels, while its squared-off glass area and overall profile draw comparisons with the latest-generation Kia Seltos. At the rear, the camouflage suggests a sloping roofline and a prominent roof spoiler.
+
+The next-generation Creta is expected to move to Hyundai-Kia's newer K3 platform, which already underpins the latest Seltos. The change could bring improvements in structural rigidity, safety and packaging. It may also result in a longer wheelbase and an increase in overall dimensions, although the final specifications have not been confirmed.
+
+### Hybrid powertrain could boost sales
+
+The next-generation Creta is expected to retain Hyundai's familiar 1.5-litre naturally aspirated petrol, 1.5-litre turbo-petrol and 1.5-litre diesel engine options for India, paired with manual and automatic transmissions.
+
+A strong-hybrid powertrain is also expected to be among the key additions. Hyundai is expanding its hybrid ambitions in India, and the next Creta could benefit from a similar powertrain strategy to the one planned for the next-generation Kia Seltos. Kia has confirmed that a hybrid version of the Seltos is due by 2027.
+
+If Hyundai decides to introduce a hybrid powertrain in the Creta range, it is likely to be offered in the 7-seater SUV.
+
+While Hyundai has not officially announced the Alcazar's discontinuation, the possibility of a seven-seater Creta could lead to an overlap between the two models. A new three-row SUV based on the Creta could allow Hyundai to consolidate its offering in this segment, although the final product strategy remains unconfirmed. Using the Creta name could also help Hyundai boost sales of the seven-seater SUV.
+
+****Subscribe to Auto Today Magazine****
+
+\- Ends
+
+---
+
+### Jamia Millia Protest Update: Students Split on Continuing Agitation Amid Negotiations | News18
+*Unknown · general*
+
+The student protest at Jamia Millia Islamia in New Delhi has entered a crucial phase, with some protesters reportedly agreeing to withdraw their agitation after the university administration addressed several demands. However, another group of students has rejected the assurances as insufficient and...
+
+[Read full article](https://www.news18.com/videos/breaking-news/jamia-millia-protest-update-students-split-on-continuing-agitation-amid-negotiations-news18-10397459.html)
+
+---
+
+### Jamia promises to hold union polls, revoke suspensions; students reject offer
+*India Today Education Desk · general*
+
+## Jamia Millia Islamia's decision to resume student union elections after nearly 20 years has failed to end campus protests. Students have rejected the notice, citing an unclear election timeline and the omission of their demand for Proctor's resignation, and vowed to continue their protests.
+
+Jamia announces union elections after 20 years, students vow to continue protest
+
+New Delhi,Oct 26, 2026 10:27 IST
+
+Jamia Millia Islamia has announced the resumption of student union elections after nearly 20 years, following sustained protests by students demanding the restoration of an elected representative body on campus. However, protesting students have rejected the university’s notice, saying it does not adequately address their demands, and have vowed to continue their agitation.
+
+In an order issued on Monday, the university administration said the elections would be held 15 days after the approval of the students’ union constitution. “The Jamia Millia Islamia Students’ Union Election will be held after 15 days, from the date of approval of the constitution of the Students’ Union of Jamia Millia Islamia,” the order stated.
+
+The announcement comes amid ongoing protests demanding the restoration of the students’ union, which was dissolved by the university administration in 2006.
+
+Students have been pressing for an elected body to represent their concerns and interests on campus, as reported by ANI.
+
+### JAMIA REGISTRAR HOLDS TALKS WITH PROTESTING STUDENTS
+
+Jamia Millia Islamia Registrar Mahatab Alam Rizvi arrived at around 4:30 am to hold talks with the protesting students amid the ongoing agitation. The Registrar brought an official notice and shared the order with the students, urging them to call off their protest on the grounds that their demands had been addressed.
+
+However, the students rejected the notice, arguing that it did not provide a clear and unambiguous assurance regarding the restoration of the students’ union. The protesting students said the university’s order did not specify a timeline for approving the students’ union constitution or provide a definitive date for conducting the elections.
+
+They also pointed out that the notice made no mention of the resignation of Proctor, another demand raised during the agitation. The students maintained that the administration’s announcement was insufficient to resolve the issues that had prompted the protests.
+
+They rejected the attempt to end the agitation on the basis of the notice, saying the central demands remained unresolved.
+
+### PROTEST TO CONTINUE OVER DEMOCRATIC REPRESENTATION
+
+The students said their agitation was aimed at securing democratic rights and meaningful student representation on campus, rather than accepting what they described as vague assurances.
+
+While the university's order signals a possible return to student union elections after nearly two decades, the lack of a specific timeline for approving the constitution remains a key point of contention.
+
+The students have vowed to continue their protest until their demands are addressed more clearly by the university administration.
+
+\- Ends
+
+---
+
+### MS Dhoni’s advice for Gen Z, millennials: Why everyone needs to hear his message on fitness, health and his opinion about India’s carbohydrate-rich food culture
+*Trending Desk · business*
+
+Former India captain and Chennai Super Kings (CSK) skipper MS Dhoni has often emphasised the importance of discipline, consistency and following a process rather than focusing solely on results. Known for his straightforward approach, the cricketer recently shared some valuable advice for people dealing with anxiety, emotional struggles and a lack of motivation.
+
+At an event, Dhoni appeared alongside renowned lyricist and poet Javed Akhtar as well. Dhoni gave some really solid, straightforward advice and It’s not just for Gen Z, but for people of all ages. This advice is especially relevant in today’s time.
+
+Dhoni responded by highlighting the importance of physical health, regular exercise and balanced eating habits. He also explained how sports can help young people develop resilience and learn to deal with both success and failure.
+
+  
+  
+
+## MS Dhoni On Changing Food Habits And Declining Physical Activity
+
+Dhoni pointed out that India's traditional food habits developed around lifestyles that involved considerable physical labour. However, as daily routines have become increasingly difficult, the same dietary patterns may no longer suit everyone's activity levels.
+
+> — jerseyno27 (@jerseyno27)
+
+"I will give them one piece of advice. I think it is about their health. If you look at India's food culture, depending on where you come from, it is still carbohydrate-rich. There was a reason behind this. Earlier, our daily lives involved a lot more physical hard work. Now, the same food habits have been transferred to the newer generation, but physical activity has gone down drastically.
+
+"For example, the moment you come down from your flat, you take an auto or a cab. So you are basically sitting in a vehicle going to work and then sitting at a desk. Physical activity has gone down drastically," Dhoni said in the video.
+
+The former cricketer also drew attention to the growing popularity of fast food and the consumption of sugary and fried items. According to him, these dietary choices can be particularly concerning for people who do not get enough physical activity.
+
+"Secondly, when we were growing up, the culture of fast food was just starting in India. Now, it is at its peak. Sugary and fried foods are not good for health, especially if you are not very active. A very small segment of the country has become fitness-oriented, but we are not talking about that small segment. We are talking about the majority. I would advise them to participate in every sport in school. Sometimes you are gifted with talent, explore it. When you are 30 or 35, you will realise that you will have a better midlife," he added.
+
+## MS Dhoni Urges Youngsters To Prioritise Fitness
+
+Dhoni also spoke about the responsibilities people take on as they grow older, including earning money, supporting their parents and providing for their children. However, he stressed that maintaining good health is equally important to managing these responsibilities.
+
+He explained that physical fitness enables people to remain active and enjoy meaningful moments with their families, including playing with their children.
+
+"Yes, we are all worried about our parents. We have to earn money and look after them. Then comes the stage when we have to earn money to take care of our children. But the whole point is whether you can play with your sons and daughters. For that, you need physical fitness.
+
+"If I am physically fit, I can be happy in life. So the most important thing for the newer generation is to invest in themselves. If one can devote one hour to fitness and supplement it with simple food habits, it will be great," Dhoni said.
+
+His advice focused on making fitness a regular part of everyday life rather than treating it as an occasional activity. He encouraged young people to dedicate time to exercise and complement it with simple, mindful food choices.
+
+## How Sports Can Teach Youngsters To Handle Success And Failure
+
+Apart from physical health, Dhoni highlighted the life lessons that participation in sports can offer. He explained that losing a match allows players to identify their weaknesses, understand their mistakes and work towards improving their performance.
+
+Similarly, winning teaches players how to handle success without losing sight of the need for continued effort and discipline.
+
+---
+
+### Apple is no longer just selling iPhones in India as it quietly builds a Rs 650 crore global software hub
+*Krishna Goswami · general*
+
+When we think of Apple in India, we usually think of people buying the latest iPhones or massive factories assembling devices. But Apple is quietly changing its game plan. The Cupertino-based tech giant is steadily turning India into a major centre for its software development and global support network.
+
+According to recent regulatory filings cited by the Economic Times, a direct subsidiary named Apple Operations India generated Rs 650 crore from software development in the financial year 2026 (FY26). Interestingly, the company made zero revenue from this segment just a year earlier in FY25.
+
+### More Than Just Manufacturing
+
+For a long time, Apple's presence in India was defined by manufacturing support and sales. Now, the company is taking on a much bigger role.
+
+The filings reveal that Apple Operations India's total revenue crossed Rs 1,400 crore in FY26, a massive jump from just Rs 318 crore in FY25. Along with software development, its manufacturing support revenue nearly doubled to Rs 520 crore. As a result, the subsidiary's net profit surged to Rs 103 crore, up from Rs 28 crore the previous year.
+
+What makes this shift important is who this work is for. About 97% of the activities carried out by Apple Operations India were for Apple’s global operations, including Apple Inc. This means the Indian team is not just building software for the local market; they are directly integrated into Apple’s international systems.
+
+Mohit Yadav, founder of business intelligence firm Alt Info, told the Economic Times this points to a major restructuring. It shows that Apple is positioning India as a global engineering and project management hub, moving far beyond just assembling hardware.
+
+### The 1 Lakh Crore Milestone
+
+While the software business is booming, Apple's hardware sales remain unstoppable. Data from market intelligence firm Tofler shows that Apple India’s total revenue surged by 32% to reach a historic Rs 1,04,607 crore in FY26. To put that in perspective, revenue stood at Rs 79,060 crore in FY25.
+
+Profits are growing even faster. Apple India’s net profit jumped by a massive 66% to hit Rs 5,311 crore in FY26. The company is clearly selling more premium devices and making better margins on them, despite spending Rs 96,224 crore in total expenses.
+
+### Beating the Competition
+
+Apple’s aggressive growth comes at a time when the smartphone industry is facing higher prices due to memory and RAM shortages. Despite these hurdles, Apple’s smartphone volume in India grew by an impressive 24%.
+
+On the other hand, its biggest rival, Samsung’s Indian mobile-phone business recorded a slight revenue decline.
+
+The message from these numbers is clear. From manufacturing the latest iPhones to selling a record number of devices, and now building global software systems, India has officially become one of the most important markets in Apple’s global empire.
+
+\- Ends
+
+---
+
+### MCX Shares Fell With Gold, But Jefferies Says Crude Is The Real Story; Sees 32% Upside
+*Mohammed Uzair Shaikh · general, business*
+
+The brokerage says MCX's growing energy business makes it a hedge against crude volatility, even as gold slides to a three-month low.
+
+[Read full article](https://www.ndtvprofit.com/markets/mcx-shares-fell-with-gold-but-jefferies-says-crude-is-the-real-story-sees-32-upside-12235753)
+
+---
+
+### Why AI data centres are powering a boom in fuel-cell demand
+*Karan Mahadik · legal*
+
+Data centers require massive amounts of reliable electricity to run computing equipment and cooling systems around the clock.
+
+[Read full article](https://indianexpress.com/article/technology/tech-news-technology/why-ai-data-centres-are-powering-a-boom-in-fuel-cell-demand-10936893/)
+
+---
+
+### Bank holiday on Valmiki Jayanti 2026: Will banks remain shut on October 26? Check state-wise list
+*Shivanghi Payal · business*
+
+Bank holiday on October 26
+
+NEW DELHI: India’s festive calendar continues to bring a series of holidays in October, making it important for bank customers to check the schedule before heading to a branch. On Monday, October 26, banks will remain closed in selected states for Laxmi Puja, Accession Day and Maharishi Valmiki’s birthday.While bank holidays vary across states depending on regional festivals and observances, customers planning branch visits should check whether their local branch is operating. Those looking to make large cash deposits, process cheques, obtain demand drafts or complete other branch-dependent work may need to plan their visits around the holiday schedule to avoid an unnecessary trip.
+
+## Where are banks closed on October 26?
+
+Banks will remain closed in Tripura, Chandigarh, Jammu and Kashmir, Karnataka and Himachal Pradesh on October 26, 2026, for the respective regional observances of Laxmi Puja, Accession Day and Maharishi Valmiki’s birthday.Customers in the affected states should check with their respective branches before visiting, particularly if they have transactions that require in-person banking services.
+
+## Upcoming bank holidays in October 2026
+
+October 29: Banks will remain closed in Himachal Pradesh for Karva Chauth.October 31: Gujarat will see bank closures due to Sardar Vallabhbhai Patel's birth anniversary.These holidays do not apply uniformly across the country. The applicable dates depend on the state and the regional observance listed for each location.
+
+In addition to festival-
+
+## Which banking operations will be affected?
+
+A bank holiday does not mean all banking services will stop. Customers can continue to use ATMs, Unified Payments Interface (UPI), internet banking and mobile banking applications for routine transactions, including fund transfers, bill payments and account management.However, services that require a physical branch visit may be affected on a holiday. Customers planning large cash deposits, cheque processing, demand drafts or other branch-dependent transactions may have to wait until their branch reopens.Checking the holiday calendar for the relevant state before making a branch visit can help customers plan transactions around the festive schedule and avoid unnecessary delays.
+
+---
+
+### Jamia agrees to hold union elections. Issues order on students’ key demands
+*Tabshir Shams · legal*
+
+After late-night talks with hunger-striking students, the Jamia administration agreed to launch an inquiry into security staff conduct and restore the student union, subject to a public apology from protesters.
+
+[Read full article](https://indianexpress.com/article/delhi/jamia-millia-islamia-agrees-to-students-union-elections-revokes-suspensions-order-10936888/)
+
+---
+
+### Italy Protest Crackdown: Police Face Masked Groups in Street Clashes | The Breakfast Club
+*Unknown · general*
+
+Italy is witnessing a fresh wave of demonstrations, with contrasting scenes emerging from Milan, Bologna and other major cities. While rallies in Milan have remained largely peaceful during recent demonstrations, clashes between police and groups of protesters have been reported in Bologna, Turin an...
+
+[Read full article](https://www.news18.com/videos/breaking-news/italy-protest-crackdown-police-face-masked-groups-in-street-clashes-the-breakfast-club-10397457.html)
+
+
+---
+
 ## 25 October 2026
 
 ### 13 Phones, Smartwatch, Perfumes: Flipkart Delivery Agent Steals Goods Worth Rs 4.6 Lakh In Gujarat
