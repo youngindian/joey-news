@@ -1,8 +1,158 @@
 # Editorials
 
-_Last updated: 2026-10-26 06:47 UTC_
+_Last updated: 2026-10-27 06:40 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 27 October 2026
+
+### A final surge: On Luiz Inácio Lula da Silva’s triumph in Brazil
+*The Hindu · Editorial*
+
+At one point, it seemed almost impossible for Brazil’s 80-year-old President, Luiz Inácio Lula da Silva, to turn the tide after finishing second to Flávio Bolsonaro in the first round of elections on October 4. In Brazil’s history, no candidate who has finished second in the first round has gone on to win the presidential run-off. Most of the candidates who dropped out after the first round were from the right. Flávio’s Liberal Party cemented its position in both houses of Congress, while right-wing candidates won several provincial elections. But Lula, a former trade unionist and organiser, who lost a finger in an accident as a teenager, was not ready to give up. Lula and his Workers’ Party identified campaign weaknesses, shifted their attention to economic issues, promised growth and welfare, and persuaded more voters to turn out for Sunday’s run-off. Lula won 51.7% of the vote against Flávio’s 48.2%, a greater lead than his victory against Jair Bolsonaro, Flavio’s father, four years ago. Over the weeks, Lula turned the right-wing’s gains in the first round against it, highlighting the threats that a Bolsonaro victory could pose to democracy and civil rights. Flávio’s campaign pledge to free his father — he is serving a 27-year prison sentence for attempting to overturn Lula’s 2022 victory, and impeach Supreme Court judges — only heightened the concerns of voters outside the right wing, who rallied behind a familiar face.
+
+Lula unleashed a social media campaign to mobilise younger voters. A WhatsApp channel called ‘Lula’s Army’ with 11 million followers spread his message of continuity. He also announced plans to expand a cash payout scheme for the poor, a new debt relief package and entrepreneur-friendly measures. In the northeast, the Workers’ Party’s stronghold, he gained nearly three million votes and made considerable gains in the working-class neighbourhoods of big cities, including São Paulo. A relatively stable economic record, marked by growth and falling unemployment over the past three and a half years, also lent credibility to Lula’s appeal. His victory bucks the recent trend in South America, where Washington-aligned right-wing and conservative forces have gained ground. While Lula offers predictable stability and social and economic inclusiveness, he could also be, as the President of South America’s largest economy, a voice of resistance to Donald Trump’s imperial ambitions. At the same time, Lula will have to work with a right-wing-controlled Congress to advance his agenda. He should seek to build legislative consensus while focusing on addressing the economic challenges of Brazil, which remains one of the most unequal major world economies.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/a-final-surge-on-luiz-inacio-lula-da-silvas-triumph-in-brazil/article71627840.ece)
+
+---
+
+### Dubious retreat: On the National Medical Commission and its MSMER
+*The Hindu · Editorial*
+
+The National Medical Commission (NMC) has denotified and withdrawn its 2023 Maintenance of Standards of Medical Education Regulations (MSMER), diminishing the framework of penalties vis-à-vis educational standards and infrastructure at medical colleges. The move is noteworthy as the MSMER provided for fines of up to ₹5 lakh on faculty members and administrators for submitting false information. Fortunately, the Medical Assessment and Rating Board (MARB) retains the power to fine errant institutions up to ₹1 crore under the 2023 Establishment of Medical Institutions, Assessment and Rating Regulations. MSMER was lauded for its intention to crack down on the deep-seated corruption and malpractice in medical colleges, particularly over ‘ghost faculty’ and ‘ghost patients’. The NMC’s justification is that MSMER also introduced a parallel mechanism allowing undergraduate and postgraduate boards to evaluate institutions, stepping on the MARB’s toes. However, why the NMC scrapped MSMER wholesale is unclear. The 2023 Postgraduate Medical Education Regulations remain in force and include a provision to fine individual faculty members at postgraduate medical colleges. Non-compliance among medical colleges is not uncommon and seldom nipped in the bud, even as the number of medical seats swells while the transparency of the medical education system has not improved.
+
+Notwithstanding the provision to fine individuals at postgraduate centres, the MARB and the NMC can only penalise institutions, which is harder and risks creating a perverse incentive to accommodate rather than punish, and could mitigate the fear that keeps administrators honest. MSMER also specified timelines to appeal penalties. Although the MARB regulations retain the appeal processes, their 15-day deadline could conflict with the 60-day period under the NMC Act, potentially creating legal disputes that delay penal action. There is also a telling incident. As part of a proceeding under the RTI Act, the Central Information Commission revealed last year that the NMC had stated in 2024 that MARB had neither formally assessed nor rated medical colleges and that its standard forms need not be made public. In a revised reply in October 2025, it said the responding NMC officer’s records did not include any of the corresponding reports. However, the 2023 MARB regulations require the Board to publish its latest annual assessment results. If the NMC withdrew MSMER because the powers thereunder also exist elsewhere, the public deserves to know whether the powers are also being exercised and whether the outcomes are as publicly accessible as intended. Unless the NMC has satisfactory answers for all these lacunae, the withdrawal will appear less like simplification and more like regulatory relaxation.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/dubious-retreat-on-the-national-medical-commission-and-its-msmer/article71627812.ece)
+
+---
+
+### Beyond Kudankulam’s fence, a cybersecurity challenge
+*The Hindu · Opinion*
+
+The data breach involving files related to the Kudankulam nuclear power project in Tamil Nadu, reported on July 15, 2026, indicates that India’s cybersecurity policy for critical infrastructure is behind the perimeter that now extends well beyond the actual sensitive facility.
+
+The most consequential breach may never touch the facility at all. It could occur in a rented server in a commercial data centre or even within a contractor’s network which has documents that the contractor is entitled to possess. That, in essence, is what appears to have happened in the case of Kudankulam. And that is why the incident deserves more attention than the reassurances that followed would suggest.
+
+The perimeter beyond the plantIn mid-July, the group World Leaks began posting sections of an alleged leak of nearly 19,000 files totalling 14.3 GB relating to Kudankulam on its dark web portal. As reported by Reuters, the material spans the years 2016 to about 2025. It includes engineering drawings, supplier information, inspection records, meeting minutes, and insurance documents. The breach was confirmed by Reliance Infrastructure — it won the engineering, procurement, and construction contract for Kudankulam Units 3 and 4 — and added that the data had been stored on a server by its third-party data centre Yotta. It also said that the government had been notified. Yotta confirmed ransomware activity on its site on May 29, and said that the activity has been contained. By June the attackers were claiming the data and demanding a ransom. The Nuclear Power Corporation of India Limited (NPCIL) said that the information was only on documents relating to non-nuclear infrastructure, and unrelated to systems supporting nuclear safety.
+
+In all this, caveats are necessary. A ransomware group’s claims are not evidence as such groups routinely inflate what they hold. Nothing in the public domain indicates that the reactors or control and safety systems, isolated from the Internet by design, were accessed. The NPCIL’s clarification should be taken seriously.
+
+The pertinent question is not whether the “reactor was hacked” — it was not — but how much operationally relevant information about India’s most sensitive facilities exists beyond the facilities themselves. These include what is held by contractors, subcontractors, service providers, and their employees, a few of whom fall within the reach of India’s regulatory framework.
+
+This is not the first time that Kudankulam has featured in such a discussion. In 2019, the Dtrack malware, which cybersecurity researchers associate with North Korea’s Lazarus Group, was found on a computer connected to the plant’s Internet-facing administrative network. The NPCIL initially dismissed the reports but confirmed the infection, while emphasising that the critical internal network had been isolated and unaffected. The two are not technically connected, but there is a link. In both instances, the core held and the exposure was at the periphery. First, it was an administrative network; now, it was a contractor’s server in a commercial data centre. Seven years later, the question is whether the lesson of 2019 was ever taken seriously — that security risks extend beyond critical facilities and whether there has been a systematic approach to securing the ecosystem around critical infrastructure. The latest incident suggests that it was not.
+
+A cyber blind spotThese ecosystems are large and growing. A modern nuclear plant, electricity grid, defence production facility or telecommunications system cannot be built or operated as a single organisation. Public utilities sit alongside private engineering and construction firms, equipment and software suppliers, cloud and data centre providers, insurers, certification agencies and layers of subcontractors, many of whom are foreign technology partners. Each of them may legitimately hold sensitive data, such as drawings, purchase order forms, reports, personal data, credentials and schedules. But this information is not necessarily protected by the security measures in place at the main facility, such as network segmentation, air-gapped control systems and physical security. This creates a cybersecurity risk across the supply chain. In other words, an organisation’s security depends not only on its own safeguards but also on those of every other entity that has access to its data.
+
+A sophisticated attacker can use this information to identify contractors, find potential targets for phishing attacks and determine which subcontractor offers the easiest route into the system. As Nickolas Roth of the Nuclear Threat Initiative has noted, such documents may also reveal how systems can be accessed. The larger concern is that strategic information can pose a security risk even if it does not provide direct access to operational systems. Any serious assessment must therefore examine not just what information was taken but also how it could be misused in the future.
+
+India faces a gap in cybersecurity governance. It is not that institutions or rules are absent. The Indian Computer Emergency Response Team, CERT-In, is the national agency responsible for responding to cybersecurity incidents, and its 2022 directions made prompt reporting of such incidents mandatory. The National Critical Information Infrastructure Protection Centre (NCIIPC), established under Section 70A of the Information Technology Act, is responsible for protecting critical information infrastructure.
+
+However, India’s cybersecurity rules do not necessarily ensure uniform protection for sensitive information shared across contractors, subcontractors and data centres. Although existing regulations cover several categories of service providers, questions remain about the adequacy of security standards, oversight and accountability across the supply chain. In law, a “protected system” belongs to an infrastructure, and the obligations fall on its operator. Once project information is shared with a contractor, and then with a subcontractor or a data centre, its protection depends largely on contractual arrangements. The Digital Personal Data Protection Act does not generally cover engineering drawings and other technical information that do not contain personal data.
+
+This creates a problem of accountability. The operator can truthfully say that its systems were not breached, the contractor can blame its hosting provider, and the host to the malware it had. All these claims may be true, yet sensitive documents may still end up on the dark web. The key question raised by the Kudankulam incident is who is responsible for protecting critical infrastructure information once it leaves the operator’s control.
+
+Expansion and risksIndia is expanding the Kudankulam plant to a capacity of 6,000 MW, developing smart grids and digital public infrastructure, opening up the defence and space sectors to private companies under Atmanirbhar Bharat, and moving government data and services to commercial cloud platforms. Each of these steps makes strategic sense. But they also mean that more private companies will have access to sensitive information, increasing the risk of cyberattacks and creating more ways for attackers to gain access. A cybersecurity policy designed for a system in which the government builds and controls everything is no longer adequate for one that depends on private contractors, subcontractors and commercial infrastructure.
+
+What are the steps to be taken? First, security obligations must follow the data, not the organisation. Any contractor, subcontractor, or cloud provider handling critical infrastructure data must be bound to defined standards, with liability and audit requirements in the procurement contract. Second, India needs real data classification so that a contractor constructing a conventional facility holds only the data that is needed and only for as long as it is needed. Third, annual compliance certificates should give way to third-party risk assessment, including red-team exercises that test the vendor ecosystem and not merely an operator’s perimeter. Fourth, there should be zero-trust. The assumption should be that no network is safe. Every access point should be verified. This should be the policy for projects of national importance. Finally, CERT-In, the NCIIPC, sectoral regulators, and operators should converge on a single national framework for critical-infrastructure supply-chain security — one that assigns responsibility before a breach rather than after. Whether that comes through new legislation or a creative reading of the IT Act can wait.
+
+In the digital era, critical infrastructure is not a building surrounded behind a fence; it is a layered system with many access points, many of them are outside the operator’s control. India would be best served by ensuring that every organisation holding the reactor’s secrets held to the same standard as those secrets deserve.
+
+Khyati Singh is Research Analyst, Centre for North America and Strategic Technologies, MP-IDSA and the author of Cyber Leviathan: Digital Strategies in International Relations
+
+[Read full article](https://www.thehindu.com/opinion/lead/beyond-kudankulams-fence-a-cybersecurity-challenge/article71628279.ece)
+
+---
+
+### Elder care demands a policy push
+*Deccan Herald · Editorial*
+
+A new bill on the welfare of senior citizens passed by the Keralam Assembly goes further than earlier legislation on the subject.
+
+The Keralam Senior Citizens (Care and Protection of Rights) Bill, 2026, incorporates multiple provisions to improve the quality of care while seeking to create an institutional framework to regulate facilities and services.
+
+The state already has a law on elderly care and a department dedicated to monitoring senior citizen programmes. It has made the proposed law more comprehensive and underlined the shared responsibility of the family, the community, and the state. Keralam is experiencing one of the fastest demographic transitions in the country.
+
+The increase in life expectancy over the last few decades and a steady outward migration of the young population are important markers. A recent report estimated that 22% of the state’s population would be aged 60 years and above by 2036. This situation reflects an impending national demographic trend, making informed policy direction for elder care imperative.
+
+The bill mandates registration for care centres and caregivers, and establishes prescribed standards and penalties for violations. It extends legal support to the idea of “ageing in place” – a senior citizen’s right to live safely and independently at home or in their chosen community, regardless of income or ability.
+
+Can laws lift India’s elder care? It also proposes a living will that sets out a senior citizen’s preferences for medical care if they become unable to communicate their wishes.
+
+The bill recognises the need for a spiritual, social, and cultural life beyond food, clothing, shelter, and medical service. It seeks to make essential services for elders affordable, accessible, and non-discriminatory, and prioritises the weaker sections such as older women, widows, abandoned persons, and persons with disabilities. Protection against exploitation and action against cyber fraud are important components in the proposed framework.
+
+The bill has a renewed focus on deterrence, with penalties proposed against care centres operating outside the framework. Abuse, cruelty, abandonment, and illegal possession of a resident’s property will attract action, including fines and imprisonment.
+
+Elder care is increasingly engaging the attention of governments and communities. There is palpable urgency in framing laws and welfare policies, with provisions varying according to the unique needs and circumstances of the regions. The Keralam legislation is a commendable effort, and its outcomes can help shape a larger, unified policy template.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/elder-care-demands-a-policy-push-4196239)
+
+---
+
+### Lake roads head in the wrong direction
+*Deccan Herald · Editorial*
+
+The Greater Bengaluru Authority (GBA) and the Bangalore Development Authority (BDA) have proposed hundreds of kilometres of new roads across the city to improve connectivity and ease traffic congestion.
+
+However, circulation network maps released by the authorities have raised serious concerns, with several proposed alignments running along lake buffers and stormwater drains, and some even encroaching upon water bodies.
+
+At a time when Bengaluru is struggling to protect its shrinking lakes and fragile drainage network, sacrificing these ecological assets for road construction is difficult to justify.
+
+The proposed alignments around Doddanekundi, Nallurahalli, Begur, Puttenahalli, and Doddabommasandra lakes are particularly concerning. Roads are also proposed along multiple sides of Bellandur, Basapura, and Garvebhavipalya lakes. Such construction could reduce water-holding capacity, obstruct natural drainage, worsen flooding, and open previously inaccessible land to commercial development.
+
+Ironically, government institutions themselves have encroached upon 39 lakes within GBA limits, with parks, playgrounds, and sewage treatment plants coming up on lake land.
+
+The latest proposal, which could also violate National Green Tribunal directives on buffer zones, raises disturbing questions about the government's commitment to conservation. With the city's blue-green spaces eroding steadily, further depletion would be indefensible.
+
+The preference for expanding road space also exposes a flawed approach to urban mobility. More roads encourage private vehicle use, often restoring congestion after an initial improvement.
+
+Traffic relief, real estate gains: The hidden dividend of proposed lake roadsBengaluru needs reliable buses, expanded Metro connectivity, suburban rail, safe footpaths, and cycling infrastructure, not an endless cycle of road construction. The 2020 Comprehensive Mobility Plan (CMP) envisaged a substantial shift towards public transport, but much of its agenda remains unimplemented. The question is whether these roads form part of an integrated mobility strategy or are isolated projects pursued by different agencies.
+
+The Bengaluru Metropolitan Land Transport Authority (BMLTA) cannot remain a nominal institution while civic agencies draw up competing infrastructure proposals. It must ensure that major transport projects conform to the CMP and promote integrated land-use and transport planning. The GBA, BDA, BMLTA, and Directorate of Urban Land Transport (DULT) must work together rather than operate in silos.
+
+The government must commission independent environmental and hydrological assessments, publish the rationale for each alignment, and reject routes that compromise lakes, buffers, or drainage channels. It must also demonstrate how proposed roads connect to the existing network and complement public transport. Bengaluru cannot resolve its traffic problems by aggravating its ecological crisis.
+
+The government must reconsider the proposed alignments and abandon those that threaten the city’s remaining lakes before irreversible damage is done.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/lake-roads-head-in-the-wrong-direction-4196238)
+
+---
+
+### Why selling public assets will not make India richer
+*Deccan Herald · Opinion*
+
+India seems to have embraced a peculiar version of capitalism: sell public assets, privatise the upside, socialise the headaches, and then ask taxpayers to finance the loss. The recent IDBI Bank sale to Fairfax raises the obvious question: are we transferring a valuable public asset at the right price or offering a bargain to private capital with the public picking up the tab?
+
+As capitalists say, government has no business running businesses, private enterprise is more efficient, markets allocate capital better, competition improves productivity, etc. All true… up to a point. Somewhere between “the State should not run businesses” and “the State should sell everything that moves”, we seem to have misplaced a serious question: whose assets are we selling?
+
+PSUs are not the personal property of the government of the day. It is an asset ultimately owned by citizens. When a profitable or strategically valuable enterprise is sold, it seems the question being asked is, “How much can the government raise today?” But the public should have forced the government to ask, “What is the long-term value foregone by citizens?”
+
+Let the data speak. The latest Economic Survey says operating CPSEs increased from 256 in FY20 to 291 in FY25. Their net profits rose from Rs 0.93 lakh-crore to Rs 2.91 lakh-crore, while dividends increased from Rs 0.72 lakh-crore to Rs 1.39 lakh- crore. So perhaps the public sector is not as bad a dead asset as we are made to believe?
+
+Indeed, the government’s own data show that dividends from CPSEs have become a substantial source of non-tax revenue. In FY25, dividends and profits contributed Rs 3.08 lakh-crore to the Centre’s non-tax revenue. And yet we continue to behave as though every PSU is an embarrassment to be sold to an Adani.
+
+What is foreign assets information, and why is it displayed now?The government seems to have a straightforward rationale: where competitive markets have matured, private capital, technology and management may unlock higher value. But selling a badly managed PSU is an admission of managerial failure, masked under the façade of reforms.
+
+Take the case of Air India. The government sold 100% of it for Rs 18,000 crore, comprising Rs 2,700 crore in cash and Rs 15,300 crore of debt assumed by the buyer. Parliament records show substantial government support for settling Air India’s accumulated obligations. Sell-offs must be judged by the complete transfer of value, liabilities, future cash flows, land, licences, market position, employee costs, contingent liabilities and the public expenditure required before and after the transaction. Otherwise, the receipts are not wealth.
+
+We are told: “The government cannot afford to provide cheap services.” And then: “Please accept this subsidy.” The last budget alone provided for Rs 2.03 lakh-crore of food subsidy and Rs 1.68 lakh-crore of fertiliser subsidy. Then there are the numerous freebies handed out by almost every state for winning votes. A permanent economy of subsidies is not a substitute for an economy of productive assets, good wages and affordable public services.
+
+India had a large ecosystem of public goods: the largest railway system, transport, banking, public-sector employment, affordable education, state electricity utilities, public healthcare and heavily regulated essential services. Inefficient? Maybe, but instead of making them work, should we have made them disappear? The World Bank’s global research of 76,000 businesses with state ownership across 91 countries found that 70% operated in sectors where private firms could generally deliver more efficiently. But they still recommended mapping state enterprises, reassess the rationale for ownership, strengthen regulation, ensure a level playing field and phase out state ownership where it is no longer needed.
+
+Perhaps India needs a Public Ownership 2.0 where it can retain strategic assets with tremendous national value in sectors like energy, defence, ports, airports, natural resources, strategic finance and essential networks. It can also divide PSUs into three categories: commercial champions, strategic utilities and candidates for exit. It should also remove the politician from the boardroom.
+
+Which PSU board is truly independent, where decisions are taken professionally? Performance should be measured against private-sector peers. Restructure, merge or close loss-making companies. Profitable companies should retain capital for expansion instead of milking them for dividends. Norway has done this with the State owning 69 companies and explicitly separates commercial companies seeking the highest sustainable return from companies whose principal purpose is public policy. Singapore’s Temasek is wholly government-owned but operates commercially, with investment decisions worth S$4,34 billion taken without political direction.
+
+India should give employees more skin in the game. If workers own shares, participate in governance and receive a meaningful portion of the value they create, ‘PSU employees’ can stop being synonymous with ‘government employees’.
+
+If the government wants to monetise an enterprise, consider listing it and distributing ownership widely through citizens, employees, pension funds and domestic investors rather than concentrating ownership in a handful of corporate hands. Why should the citizen receive a subsidy cheque when he could instead own a share of the asset generating the dividend? Policymakers must know the difference between welfare and wealth creation. We risk perfecting a unique model of privatising the profits, nationalising the headaches, subsidising the survivors… and call it “reform.” Crores of Indians hunting for a job deserve better.
+
+(The writer is a Fortune-500 advisor, start-up investor and co-founder of the non-profit Medici Institute for Innovation)
+
+[Read full article](https://www.deccanherald.com/opinion/why-selling-public-assets-will-not-make-india-richer-4196232)
+
+---
 
 ## 26 October 2026
 
@@ -36,6 +186,118 @@ Over the past few months, three distinct streams of dissent have emerged in Indi
 The first phase of the agitation unfolded at Jantar Mantar in June and July, focusing on education reform, the National Eligibility-cum-Entrance Test (NEET) paper leaks and demands for the (then) Education Minister’s resignation. The CJP played a pivotal role in galvanising public discontent, drawing large numbers of young people into the streets, where they articulated their grievances through a distinctive blend of humour, creativity and youthful energy. This indicated that dissatisfaction with the ruling establishment extended well beyond the established Opposition parties, with the political disaffection of this constituency having been seriously underestimated. The Minister’s eventual resignation gave the movement fresh impetus, demonstrating that sustained public pressure could secure political concessions.
 
 [Read full article](https://www.thehindu.com/opinion/lead/jantar-mantar-to-dilli-chalo-protest-challenges-power/article71624081.ece)
+
+---
+
+### DC Edit | Brazil’s Lula Surprises In Runoff
+*Deccan Chronicle · Editorial*
+
+Brazil’s leftist President Luiz Inacio Lula da Silva, staged a dramatic comeback to beat his far-right rival, senator Flavio Bolsonaro, in the runoff polls. It was a riposte not only for the US President Donald Trump who had backed the Bolsonaro father-son duo but also a stunning change from the sweep of the far-right in Latin America where seven nations had voted for the right in polls in the last two years.
+
+Flavio, eldest son of former president Jair Bolsonaro — now imprisoned at home in a 27-year prison term for attempting a coup against the regime and plotting to kill the president — refused to accept the verdict that narrowly favoured the incumbent, thus exposing the deep divisions within Brazil where the Liberal party opposes Mr Lula’s left-wing Workers’ Party.
+
+How Lula turned around his fortunes in the polls by winning 10.4 million votes more than in the first round is a remarkable story, though the loser contends that keeping the polling open for an additional two hours to cope with transport delays and heavy rains may have helped swing the result.
+
+Lula declared that Brazil, Latin America’s largest nation and economy, was no one’s backyard, in a stinging rebuke to Mr Trump who has been supporting the far-right everywhere, including in Serbia in Europe where a student movement upset the applecart of authoritarian president Aleksandar Vucic who immediately blamed European countries and the American deep state which he says opposes Trump.
+
+The challenges ahead are many for Lula who may sustain Brazil’s independent foreign policies, but who must contend with economic problems at home where endemic violence by organised crime, a cost-of-living crisis and deep household debt compounding pressures on public finances while facing a parliament nearly half full of Opposition MPs.
+
+Brazilian sovereignty was Mr Lula’s battle cry and it seemed to resonate enough with voters who may otherwise have been willing to join the universal cry for change, but maybe not of the Bolsonaro kind in whose previous term the existence of the Amazon rainforest, one of the world’s most wondrous natural resources, was threatened with extinction.
+
+People with an abiding faith in democracy may have heaved a sigh of relief that Brazil has been spared from the push to the far-right much as they would have been pleased to see a party led by students upset the long-standing Serbian president who, incidentally, was supported by Russia’s president Vladimir Putin.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-brazils-lula-surprises-in-runoff-1999115)
+
+---
+
+### DC Edit | Leaders Must Work To Restore Civility In Politics
+*Deccan Chronicle · Editorial*
+
+India is a nation of 140 crore people and the problems they face 80 years after the country attained independence will call for the focused and unadulterated attention of all the political parties. It is sad that the most important agenda often gets derailed by issues invented by parties or by an innocuous remark by a politician.
+
+Congress president Mallikarjun Kharge is one of the senior-most leaders of the country and commands respect not only among his party workers but also across the political spectrum. A man who has risen through the ranks fighting odds, he adds grace to the political class in the country. An intemperate retort he made to respond to a comment referring to Prime Minister Narendra Modi made by a member of his audience has no justification whatsoever. There is very little reason for the Congress to dig out remarks earlier made by BJP leaders about leaders of the opposition parties, including Rahul Gandhi.
+
+References made in breach of decency do not cancel out; they remain a blot on those who make them and on their parties. An unconditional apology would be a better course for the party and its leader to take.
+
+The BJP, expectedly, is making a big hue and cry about the whole episode. The party cannot be blamed in making its protest heard loudly as the Congress leader’s comments referred to the party’s tallest leader now.
+
+All senior leaders of the party, including defence minister Rajnath Singh, have jumped on to the protest bandwagon and the state units have been directed to take the issue to the people.
+
+Mr Singh would call Mr Kharge’s remark an insult to India as it breached the decorum expected of politicians.
+
+The NDA government has been on the back foot on several issues of governance of late. The support it has extended to chief election commissioner Gyanesh Kumar on the issue of special intensive revision of electoral rolls has not helped boost the image of the party politically. It has not been able to defend itself successfully against the push the Gen Z has been exerting on it for what it calls the failures of the government in addressing issues youth face. The pieces of news from the borders by no means reinforce the image the Modi government has been building assiduously for itself all these years. Politically, the NDA is entering a crucial phase, with Assembly elections approaching in states such as Uttar Pradesh, where the BJP has much at stake. The BJP needs no lessons in using the episode to divert attention from serious issues facing the country, and it is bound to make the most of Mr Kharge’s remarks.
+
+India, or for that matter any democracy, has no means other than politics and politicians to solve its problems.
+
+The people expect politicians to work in a congenial atmosphere where parties will retain their political differences and still explore areas where they can work jointly for the greater common good. This will be made possible only if all those in the business of politics understand this and act accordingly. The people will be the losers for all the shortcomings in this mechanism.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-leaders-must-work-to-restore-civility-in-politics-1999104)
+
+---
+
+### As Midterms Near, Will US Vote For Course-correction Or For Tribalism?
+*Deccan Chronicle · Opinion*
+
+Next week, on November 3, America will have its midterm election. It is so called because it is held in the middle of a President’s four-year term. American parliamentarians, called Congressmen, face elections every two years. A lame duck President is the term used to describe a leader in his last two years in office, as Mr Trump will be after November 3. A lame duck is a leader who the party recognises is in riding into the sunset and, therefore, finds it difficult to enforce his agenda.
+
+Donald Trump will be especially lame if his party, the Republicans, lose control of one or both Houses of their Parliament. He will not be able to get legislation he wants passed, will not be able to get judges appointed or get officials confirmed. Equally importantly the Opposition can go after him and his family by opening up investigations and then holding impeachment and other types of hearings.
+
+The reason this election is interesting is that it will reveal something about human nature. The assumption of democratic systems is that individuals vote rationally and do not vote in tribal fashion. Meaning that voters cast ballots in support of policies and not fantasies. Particularly if the person produces negative outcomes when in office. Opinion polls suggest that Mr Trump is the most unpopular President in recent history. The majority of Americans, including those who voted for him into office, think he is doing a poor job. This is revealed through something called an approval rating, conducted regularly by several reputable polling organisations. A question is asked, such as: “Do you approve or disapprove of the way President Trump is doing his job?” Respondents say yes, no or that they are unable to say. Mr Trump’s approval rating is under 40 per cent, meaning that a significant majority of Americans disapprove of his performance.
+
+On his performance on the economy, asked as a separate question, the numbers are worse.
+
+This is not difficult to accept because the price of fuel has gone up and made things expensive since February and the war in Iran. Petrol in the US was Rs 75/litre before the war and is today Rs 107. Diesel has jumped from Rs 90 to Rs 160. Inflation is higher than the Federal Reserve (their version of the RBI) wants it and part of the reason is the tariff war that Mr Trump began gratuitously on returning to power. The interest on home loans has gone up by a full per cent.
+
+Now, given that he has been in office since January last year and that his party controls both houses of Congress (and also controls the Supreme Court, whose judges are nominated by the President) there is nobody else to blame but Donald Trump if voters feel things haven’t turned out as they expected. Mr Trump has endorsed these current candidates over their Republican opponents and, therefore, a vote for them is a vote for him and his policies.
+
+And for this reason, the result of next week’s election will be interesting and give us some insight into how people vote. If most of Mr Trump’s candidates carry the day despite the manifest harm he has wrought on their everyday lives it will be a vote for tribalism. Meaning a vote for considerations in defiance of those that are material.
+
+The other most interesting thing that these elections will show is how the unpopularity of Israel among Americans will convert to an end to unconditional support for it.
+
+Many of the Democrats running in this cycle are staunchly anti-Israel, in keeping with the mood in America which has turned sharply against Zionism. In large part this is due to the brave campaign last year run by New York mayor Zohran Mamdani, who was the first major American politician to support Palestinians and still win.
+
+The lobby group in America, called AIPAC, that had the ability to destroy anti-Israel candidates has since been discredited so thoroughly that it has stopped endorsing candidates. Assuming the Democrats carry the day, will they be able to end the structural support that Israel has long enjoyed? We will see and one hopes that the answer is yes. Far too much damage has been done to humanity by Israelis and stopping or slowing the transfer of weaponry and diplomatic support to them would make the world better.
+
+Another reason for hoping that Mr Trump’s team loses is of course is that this mad war is affecting all of us and especially the one crore Indians in the Gulf and their families here. How insane all of it is can be judged by the fact that with oil at over $115 a barrel (it was at $60 before the war), there is talk in Washington and Tel Aviv about restarting bombing and further damaging Iran and the Gulf’s infrastructure.
+
+A Republican Party trounced next week will not as enthusiastically back the Iran war as it has.
+
+The last thing to say here is that the two-year Congressional term is often criticised, rightly, because it means candidates are forever campaigning. But it is also true that the short cycle gives American voters a more frequent opportunity to...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/as-midterms-near-will-us-vote-for-course-correction-or-for-tribalism-1999079)
+
+---
+
+### Bengal Puja Tragedy Sparks Wish For One-engine Sarkar
+*Deccan Chronicle · Opinion*
+
+Stampedes and miserable traffic management is not how Kolkata organises and manages its biggest public festival, the Durga Puja. For a festival of its size, comprising, by chief minister Suvendu Adhikari’s reckoning, 58,000 pujas, marking a 25 per cent increase, with a seasonal spend of over Rs 50,000 crores and celebrated in every nook and corner of Kolkata and the districts, organisation and management are key.The manmade disaster of a stampede, killing 19 people inside the “pandal” or structure that housed the 2026 version of the goddess Durga and her universe at Chorbagan, in a narrow lane in North Kolkata, is the outcome of organisational failure. As the first outing of the sanitising “Sanatan” order, the tragedy spread a pall of pain on people and organisers, reversing the optimism and the pro-mise that all “progress” is linear. It is not.
+
+Experience matters in the levels of management required for a safe and secure puja that is easily accessed by the public. And, everyone, almost the entire population of 100 million plus, in West Ben-gal is an expert on how pujas are best managed. As addicted pandal hoppers, travelling into the city and out, people are intrinsic to the festival.
+
+The 2026-top-trending-on-social-media Chorbagan Sarbajanin Puja was announced as a model “Sanatani” event, a landmark of purified piety and strict adherence to the protocols of ritual accuracy. How the strict order of ritual prescribed in the Devi Mahatmyam-Durga Saptasati can be further purified is a puzzle. With a new order of management and a new chief patron, Devdeep Adhikari, the newly elected chief minister’s nephew, the puja was expected to ensure ritual purity and near-perfect management. It failed.
+
+The tragedy was an inexcusable failure of crowd management in a crisis situation. It happened inside the pandal-pavilion structure. To recap what happened, it rained, heavily. Crowds tried pushing in and succeeded. Crowds exiting the pandal did not. There was an announcement that crowding could endanger the temporary structure. There was panic and people tried pushing forward. The outcome was disaster.
+
+It is a time-honoured rule that inside the perimeter of the puja pandal, the committee is responsible and accountable for all management and monitoring. Outside, it is the Kolkata Police with a proud reputation for obstruction of free traffic flow.
+
+The public needs someone to blame; and the blame for the Chorbagan tragedy has shifted to the new line-up of BJP’s North Kolkata heavyweights, Tamaghna Ghosh and the MLA from Jorasanko, Bijay Ojha. It is not sufficient, though logically necessary, that various minions of the committee are arrested for the lapses in crowd control. The public seems to have made up its mind; the committee failed.
+
+There is growing nostalgia for the old order of administration, though not specifically the Trinamul Congress or the Communist Party of India (Marxist)-led Left Front. The old is gold underlies the criticism that police was not exclusively focused on crowd management outside the pandal. The police, it is widely believed, is even more politically weaponised and, therefore, failed on two counts;
+
+prevent vandalisation of mostly CPI(M) book stalls outside puja pandals despite court orders to the contrary and traffic plus crowd management. If the police chose to be less efficient about supervising the clogging of entry and exit points from within a puja structure, it does not follow that its slackness was the principal cause of the tragedy.
+
+The verdict is seriously harsh against the new order that the BJP ushered in after it triumphed in the May elections. Had the Adhikari government paid heed to the truth about the Durga Puja as a participatory event where the public is primary to the celebration, the management of the pujas might have been different. The Unesco
+
+citation of the Durga Puja as an intangible cultural heritage of humanity noted it is “the best public performance of religion and art”, that era-ses the “divides of class, religions and ethnicities”.
+
+The effect of the tragedy is plummeting confidence, already in a downward spiral, about a government that promised freedom from fear and an increase in efficiency summarised in the BJP’s election promise of eradicating “bhoy” and improving “bharsa.”
+
+Heading into a possible municipal election at year-end, the Adhikari government will face a test of its performance as assessed by urban voters. The results may not reflect the deep sense of disappointment, frustration and disapproval that public opinion aired on social media reflects. It does, however, have the potential to serve as a barometer, much like the gubernatorial and state/local elections do in the United States and everywhere else in this flawed but functional democratic world.
+
+Whatever the BJP order in West Bengal may have achieved in six months, it has begun to transform how the people perceive themselves. Ins-tead of being obsessively inward-looking, like frogs in a...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/bengal-puja-tragedy-sparks-wish-for-one-engine-sarkar-1999065)
 
 ---
 
@@ -21665,196 +21927,6 @@ For followers of Islam, blessed water from the Zam Zam well in the Great Mosque 
 and their young son Ismail in a barren valley in Mecca. When her supplies of food and water ran out, Hajar searched high and low. Which is when Angel Gabriel struck the earth with his wing, and from that spot sprang forth water. Hajar scooped up the water with her hands and began drinking from it – a miraculous source that hasn’t gone dry since.
 
 [Read full article](https://www.deccanherald.com/opinion/the-sanctity-of-the-sacred-spring-4090906)
-
----
-
-## 28 July 2026
-
-### All art, no deal: On the U.S.-Saudi Arabia nuclear deal
-*The Hindu · Editorial*
-
-The announcement of a United States-Saudi Arabia civil nuclear deal, in the midst of a U.S.-Iran war that began over Tehran’s nuclear programme, could hardly have come at a worse time. Matters became more complicated when U.S. President Donald Trump, after the agreement had been signed, added a new condition: that Saudi Arabia should join the Abraham Accords. Saudi Arabia has long sought to develop a civilian nuclear programme. Crown Prime Mohammad bin Salman, or MBS, wants to end the kingdom’s “addiction” to oil. His Vision 2030 aims to diversify the economy through finance, megaprojects, tourism and power-hungry artificial intelligence (AI) data centres. The kingdom currently relies heavily on oil and gas for electricity generation. Saudi officials believe that nuclear power would help meet rising domestic energy demand, while freeing more oil and gas for export. MBS first took up his nuclear ambitions with Mr. Trump during the latter’s first presidential term. His successor Joe Biden offered a deal but made it contingent on Riyadh joining the Abraham Accords. At that time, Saudi Arabia appeared open to normalising ties with Israel, but Hamas’s October 2023 attack on Israel and Israel’s genocidal war on Gaza prompted the Saudis to shelve the idea. The July 22 deal suggested that Riyadh and Washington continued talks and remained keen on nuclear cooperation.
-
-As a signatory to the NPT, Saudi Arabia has every right to pursue a peaceful nuclear programme. But the agreement announced by U.S. Energy Secretary Chris Wright leaves open the possibility of nuclear enrichment on Saudi soil. This flies in the face of the U.S. opposition to any Iranian enrichment on its soil. The agreement, according to U.S. media reports, does not require Saudi Arabia to adopt the IAEA’s Additional Protocol, which grants inspectors broad powers to conduct short-notice inspections. The omission has fuelled concerns that the kingdom could eventually acquire the technical capability to weaponise its nuclear programme. Facing domestic criticism, Mr. Trump declared that the deal would proceed only if Saudi Arabia joined the Abraham Accords — a condition which was conspicuously absent when the agreement was signed. This apparent reversal is unlikely to reassure Riyadh, which is already questioning the reliability of U.S. security guarantees. If the deal eventually goes ahead, Tehran is likely to harden its position on enrichment in any future nuclear talks with the U.S. If Mr. Trump’s objective was to reassure a long-standing ally while signalling strategic leverage over a regional rival, the execution of the deal has had the opposite effect. Ill-timed diplomacy, ambiguous provisions and shifting conditions have deepened Saudi concerns and strengthened Iran’s resolve. That is the result of Mr. Trump’s version of the “art of the deal”.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/all-art-no-deal-on-the-us-saudi-arabia-nuclear-deal/article71272673.ece)
-
----
-
-### Forced labour farce: On India and the U.S.’s new tariffs
-*The Hindu · Editorial*
-
-The 10% tariff that the United States has imposed on India and several other countries over their imports of goods supposedly made using forced labour is merely an attempt to restore permanent tariffs and, once again, highlight the benefits of a trade deal with the U.S. The U.S. Supreme Court’s February 2026 decision dealt a body blow to the U.S.’s attempts to secure trade deals. The main threat, of high reciprocal tariffs, had been removed. U.S. President Donald Trump’s solution, of a temporary 10% tariff on all countries, suffered from two weaknesses: it would expire in 150 days, and was levied on all countries equally, regardless of whether they had a deal with the U.S. or not. Those tariffs have now expired. The Section 301 ‘forced labour’ tariffs announced last week are more permanent, and have carved out benefits for those with trade deals with the U.S. For example, while U.S. imports from India will face a 10% tariff over and above the base tariff the U.S. charges everybody, the European Union and Taiwan will face a total tariff of 10%. Similar benefits have been accorded to Japan, South Korea and Switzerland, all of which also have trade deals with the U.S. at various stages of formalisation. If stopping forced labour was the primary focus, tariffs would have been applied equally across all offenders, regardless of trade deal status. The tariffs would also not have had as many product-wise exemptions and country-wise quotas as the final version has.
-
-There is also the question of whether the U.S. should be penalising other countries for their trade with third parties. India has not been accused of using forced labour, yet faces tariffs because others have been. This, soon after the U.S. government told a court that it did not want to act as the “world police”. India has done well to reduce the proposed 12.5% tariffs to a final 10%, the same as or better than most of its competitors. All it took was a notification banning the import of goods made using forced labour. The action itself will be difficult to enforce, since it will require countries such as China and Malaysia to allow Indian government officials to visit and investigate their labour conditions. But simply issuing the notification won India a tariff reduction. However, uncertainty persists since the other Section 301 investigation, on excess capacity, is yet to play out and could result in further tariffs. It is highly unlikely that India will accept a trade deal until those tariffs become clear. That said, the tariffs should not push India towards a deal. Experience has shown that the U.S. tariff landscape can change radically even after a deal is signed.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/forced-labour-farce-on-india-and-the-uss-new-tariffs/article71272646.ece)
-
----
-
-### Beyond compliance, India’s road to cleaner mobility
-*The Hindu · Opinion*
-
-The debate over India’s proposed Corporate Average Fuel Efficiency (CAFE) III norms comes at a crucial time for the global automobile industry as it transitions from internal combustion engines (ICE) to electrified powertrains. It also highlights India’s vulnerability to imported crude oil amid renewed geopolitical tensions. The framework India adopts today will influence investment, technology choices and energy security for decades.
-
-CAFE III, compliance or transformationThe Power Ministry’s July 16 draft notification marks the third iteration of CAFE III after months of industry lobbying. While some manufacturers pushed for stricter norms, others sought flexibility. The proposal attempts a compromise, but the question remains whether it prioritises compliance over transformation.
-
-CAFE norms set annual sales-weighted average fuel-efficiency targets for manufacturers’ passenger vehicle fleets rather than individual models. Introduced in the United States in 1975 after the 1973 Arab oil embargo, they aimed to reduce oil dependence and protect consumers from high fuel costs. The rules caused automakers to adopt smaller, more efficient vehicles. This also helped accelerate the rise of Japanese manufacturers.
-
-From the 1990s, fuel-efficiency regulations gained a second purpose: reducing greenhouse-gas emissions. In the United States, the EPA’s Endangerment Finding brought greenhouse gases under the Clean Air Act, with later emissions standards aligned closely with CAFE rules. While technology-neutral, the rules encouraged innovation in hybrids and electric vehicles (EV). Ironically, the Obama administration’s $465 million Department of Energy loan to Tesla in 2010 helped accelerate an EV industry now dominated by China.
-
-China’s experience is even more instructive. It introduced mandatory fuel-consumption standards in 2004, initially regulating individual vehicle models by weight rather than fleet averages. As car ownership surged, concerns over oil imports and urban air pollution grew. The standards tightened over time before China changed direction in 2018 with the introduction of its Dual Credit System.
-
-Under this framework, manufacturers must meet both Corporate Average Fuel Consumption (CAFC) standards and New Energy Vehicle (NEV) credit requirements. Fuel-efficiency compliance alone is insufficient. Companies that fail to earn enough NEV credits through EV or plug-in hybrid production must purchase credits from those with surplus EV production, creating a market that rewards innovation and penalises delayed electrification. For example, in India, Maruti Suzuki could remain NEV credit-deficient by 18% despite having highly fuel-efficient ICE models if it had no EVs in its portfolio. It would need to buy credits from companies such as Tata Motors or Mahindra, which generate NEV credits through their EV portfolios. While CAFC credits can be banked, carried forward or transferred within corporate groups, NEV credits cannot be offset in the same way. The results are evident. According to the International Energy Agency’s Global EV Outlook 2026, China sold more than 13 million electric cars in 2025, accounting for almost 55% of new passenger vehicle sales. Comparable figures were about 27% in the European Union, nearly 10% in the U.S. and around 4% in India.
-
-India’s own debate has centred on differences between Maruti Suzuki, Tata Motors and Mahindra & Mahindra. An earlier proposal effectively carved out lighter small cars from the full stringency of CAFE III. That exemption has since been removed. The current proposal seeks to reduce average emissions from around 113 gCO2/km to 77 gCO2/km by FY2031-32. On paper, that appears ambitious. Yet, the headline target tells only part of the story.
-
-The cost of flexibilityThe revised framework introduces several flexibility mechanisms that, taken together, substantially reduce its effective stringency.
-
-The first is the Carbon Neutrality Factor, which awards compliance benefits for vehicles compatible with higher ethanol blends and other fuels. Yet, the government has informed Parliament that no decision has been taken to move beyond E20 blending (20% plant-based ethanol with 80% regular petrol). Manufacturers therefore receive compliance advantages for technologies whose long-term policy trajectory remains uncertain. Ethanol is also more expensive than petrol, and has lower energy density, and therefore delivers lower mileage — a fact belatedly acknowledged by the Centre after it drew severe criticism.
-
-The second is the use of super credits. Battery EVs, plug-in hybrids, strong hybrids and flex-fuel vehicles receive additional weight in fleet calculations. While this encourages cleaner technologies, it also means that fewer actual low-emission vehicle sales are required to offset higher-emission models. Strong hybrids, which generally rely primarily on the ICE while using electric propulsion over relatively short distances and at lower speeds, also receive super-credit benefits despite offering only partial electrification.
-
-The third mechanism is banking and trading of compliance credits. Manufacturers outperforming their targets can accumulate credits and sell them to others. In addition, the draft allows companies to buy credits directly from the Bureau of Energy Efficiency (BEE) at administratively fixed prices if deficits remain after trading. The BEE is therefore not a market exchange but effectively a seller of last resort.
-
-In theory, this introduces efficiency into the system. In practice, it allows companies that are lagging to meet compliance requirements without upgrading their own technology. Moreover, the draft notification allows manufacturers to buy compliance credits from the BEE at ₹2,500 per gram of CO2/km in FY2028, rising to ₹4,500 by FY2032. By comparison, the Energy Conservation Act prescribes additional penalties of ₹25,000 or ₹50,000 per vehicle depending on the extent of non-compliance. Expressed in CAFE terms, the lower penalty threshold is broadly equivalent to a little over ₹5,000 per gram of CO2/km, implying that the proposed buyout price begins at less than half that level.
-
-Finally, compliance is assessed over three-year blocks before shifting to two-year blocks, allowing manufacturers to average performance across multiple years rather than meeting targets annually. Therefore, delays in one year can be compensated in another.
-
-The case of CNGTaken together, these mechanisms significantly alter the stringency of these regulations. Which raises a fundamental question: What is the purpose of a regulation?
-
-Regulation should shape markets rather than simply accommodate prevailing market preferences. India’s own experience with compressed natural gas (CNG) illustrates the point. Once policy support aligned with regulatory certainty, manufacturers rapidly introduced CNG variants. Regulation can create markets as much as respond to them.
-
-To put this in perspective: manufacturers’ voluntary commitments already average nearly 20% EV share by 2030, with several original equipment manufacturers aiming for 30% or higher. In effect, the revised regulation attempts only half of what the industry itself has committed to. The timing also matters. India remains heavily dependent on imported crude, exposing the economy to geopolitical shocks, imported inflation and currency pressures. Strengthening fuel-efficiency standards is therefore not merely an environmental objective. It is an energy-security strategy, an industrial policy and a macroeconomic imperative.
-
-These developments highlight the urgency and significance of revising India’s CAFE norms, as they offer an opportunity to address a macroeconomic vulnerability while helping meet India’s Glasgow commitment on energy efficiency.
-
-India should seize this opportunity to position itself alongside the world’s leading automotive markets in the transition to low-carbon mobility.
-
-[Read full article](https://www.thehindu.com/opinion/lead/beyond-compliance-indias-road-to-cleaner-mobility/article71273564.ece)
-
----
-
-### DC Edit | For NTA Reset, Check Report of 2024 Panel
-*Deccan Chronicle · Editorial*
-
-The Union government’s two major decisions after this year’s NEET paper leak controversy, one to form a panel of experts to revamp the National Testing Agency and the other to tighten the law to curb question paper leaks, must be seen as an admission that all is not ship-shape with the system and a lot needs to be done to get it there. They also appear to be ad hoc measures as they are very nearly a repeat of the actions taken by the government a couple of years ago following a similar controversy. What is required is ground-level action which the government has showed little inclination to take.The NTA is responsible for holding entrance examinations for admissions to most higher educational institutions in the country. However, it is an agency with no statutory backing, no institutional mechanism and no structural integrity. The K. Radhakrishnan committee which looked into the functioning of the NTA after the leakage of the UGC-NET examination question papers in 2024 had made a 101-point report that called for initiating examination reforms, strengthening of the data security and restructuring of the NTA. Two years down the line, the recommendations of the report, “The Reformation of National Common Entrance Testing in India”, remain on paper and the agency functions much the same way, making very similar or bigger mistakes. One of the key suggestions of the committee was to bring structural integrity to the NTA by hiring more permanent, domain-specific staff. It also called for reducing dependence on contract staff and instead creating specialised verticals for test development and examination administration. It was suggested that ministries, universities and other agencies conducting examinations be co-opted as knowledge partners. Pretty little has changed between then and now and the organisation still runs with no permanent staff. Its data analysis and other key operations are outsourced. Its day-to-day affairs are managed by staff on deputation.It may be recalled that unlike on earlier occasions when question paper leaks happened in remote areas where local criminals in cahoots with local agents would manage to leak the question papers and sell them for a price, this time a question paper setter is the prime accused. This shows the NTA’s system is much compromised. The responsibility for the non-implementation of the recommendations, leading to a worse question paper leak which led to the suicide of 23 Neet aspirants, must be laid squarely on the table of Dharmendra Pradhan who held the education portfolio in this period.The government has introduced a bill in the Lok Sabha to tighten the law against question paper leaks. It calls for time-bound investigation and trial and higher sentences for proven culpability. The government is under the impression that higher penalty will deter the operators but the experience as of now offers no compelling reason to come to such a conclusion. It is not that India has no institutions which conduct high profile examinations. The IITs have been running their admission tests for several decades with no complaints whatsoever; the Union Public Service Commission conducts several examinations in which about 35 lakh candidates apply every year. Both these examinations are vetted by applicants as of highest integrity. The government must at least now apply its mind to understand what went wrong with the NTA and show the will to fix them. An early beginning can be made with the implementation of the recommendations of the Radhakrishnan committee with respect to ensuring institutional integrity of the NTA. What we lack are not committees and laws but the will to make changes. The government must display it.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-for-nta-reset-check-report-of-2024-panel-1974678)
-
----
-
-### DC Edit | Revanth, HC Lock Horns on Land
-*Deccan Chronicle · Editorial*
-
-An order from the Telangana High Court directing the state government to replace the commissioner of the Hyderabad Disaster Response and Asset Protection Agency (HYDRAA) — a government agency set up to restore lakes and reclaim encroached government lands in and around Hyderabad — has reignited an old debate on the “Lakshman Rekha”, the constitutional line separating judicial and executive domains.The Lakshman Rekha was an oft-debated topic in the 1980s and 1990s. However, the term fell into disuse in the last decade and a half, perhaps due to the presence of a strong government at the Centre, which left little room for confrontation between the two pillars of democracy. In Telangana too, the Bharat Rashtra Samithi government functioned without major clashes, despite facing hundreds of contempt cases.The latest flashpoint between the two estates arose after the high court fumed at HYDRAA, led by commissioner A.V. Ranganath, an IPS officer, for repeatedly defying its restraining orders favouring private parties, which have been claiming the ownership of lands that the government asserts as its own. Unlike many bureaucrats, Mr Ranganath pursued HYDRAA’s mandate, inviting judicial condemnation. While the high court accused HYDRAA of defying court orders in 63 cases, HYDRAA countered that these cases were filed by individuals notorious for encroaching on government lands and open spaces. HYDRAA, a brainchild of chief minister A. Revanth Reddy, has instilled fear among encroachers of government land, discouraging illegal constructions and dubious purchases. In the last two years, it reclaimed government lands — public property — worth Rs 1.5 lakh crore from encroachers. Mr Revanth Reddy, therefore, declared that postings and transfers fall strictly within the executive’s domain and vowed not to dial down HYDRAA’s mission, and he is prepared to challenge the single-judge order.The vicious cycle often begins with individuals, actively aided by officials, manipulating records and erecting structures on government lands, taking the cover of status quo orders. The builder would be successful because of delays in the government’s pursuit of cases or in judicial pronouncements. Nevertheless, for the sake of the larger public good, both the executive and the judiciary must cooperate rather than confront.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-revanth-hc-lock-horns-on-land-1974674)
-
----
-
-### John J. Kennedy | To Develop Science of Happiness, DU & IITs Should Develop a Lot More Science
-*Deccan Chronicle · Opinion*
-
-Delhi University’s “Science of Happiness” elective has enrolled around 2,000 students across its various colleges for over two years. It is part of a wider trend. Happiness curricula, wellness electives and positive psychology courses have spread across Indian higher education for nearly a decade. IIT Kharagpur established the Rekhi Centre for Excellence in Science of Happiness in 2016 while IIT Roorkee, IIT Madras and DTU have launched similar initiatives. Delhi’s school system had introduced a “Happiness Curriculum” for Nursery to Class 8 students in 2018. An important question, however, is how does anyone -- a university, a parent or a policymaker -- know whether these courses actually work?Based on what was reported publicly at DU’s review of the course this month, the evidence presented for its success was limited. College principals described their experience running the programme. A few colleges mentioned setting up “Mind Labs”. The vice-chancellor expressed satisfaction. Public reporting on the review did not mention pre- and post-course well-being scores, comparison groups, or independent outcome data. This does not prove that such data doesn’t exist; internal or unpublished assessments are possible. But what the public sees when a university calls a wellness course a success is closer to a testimonial than evaluation. This is common across India’s growing network of “happiness” and “science of well-being” centres, whose public materials describe their methods as “evidence-based” and “rooted in cutting-edge research”, yet cite no published local outcome studies. Indian higher education has quickly adopted the vocabulary of evidence-based well-being science, but has been slower to adopt its discipline: measurement, publication and peer review.This gap becomes visible when an institution explains why a happiness course works. At the DU review, vice-chancellor Yogesh Singh said happiness “could be attained by thinking positively about others and performing good deeds”, and that “the world is a wonderful place; if you do good, good things will happen”. When a course branded as science is explained at the highest institutional level in the language of moral advice rather than psychological evidence, it suggests the science is doing less work than the branding claims. The same review linked the happiness course to DU’s Drug-Free Campus campaign. Mr Singh said drug abuse “destroys the happiness of entire families” and called for stronger anti-drug efforts. This pairing is not unique to DU; wellness electives on Indian campuses are increasingly framed as connected to mental health and de-addiction work. A happiness course might genuinely help some students. But addiction and student mental distress are measurable problems with established clinical responses such as counselling, psychiatric care and harm reduction. An elective without published outcome data is being rhetorically presented as part of a university’s well-being response. If a university can point to a happiness course as evidence that it is addressing student well-being, there is a risk that the pressure to adequately staff counselling centres is reduced. Many Indian universities continue to have inadequate counselling capacity despite UGC guidelines. Running feel-good electives on faith rather than evidence carries this cost.None of this means happiness education should be abandoned, or that it doesn’t work. Structured positive psychology interventions, such as gratitude practice, resilience training, and reflective journaling, have substantial evidence from international studies. The University of Bristol has run a “Science of Happiness” course since 2018, with cohorts evaluated against control groups and peer-reviewed findings showing measurable improvements in student mental health. A 2025 US study from the University of Georgia used validated pre- and post-course measures to show reduced loneliness, anxiety, and depression among students. These examples are cited to show that the evaluation infrastructure required is neither exotic nor expensive. It is a known, replicable design, and Indian universities running similar courses for close to a decade already have established models to adapt if they choose to apply them and publish results.Around 2,000 students over two years is a sample large enough for meaningful evaluation. That DU, or other Indian campuses running similar courses, have not published such a study does not prove the courses fail. It is a gap in the public record and a missed opportunity, particularly at a time when NEP 2020 is pushing universities toward holistic education and greater attention to student well-being. Indian higher education has an opportunity to determine what actually helps students cope.Closing this gap does not require new infrastructure or new funding. It requires universities to treat these courses the way they treat other academic claims. Three steps would help. First, use a validated well-being...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/john-j-kennedy-to-develop-science-of-happiness-du-iits-should-develop-a-lot-more-science-1974685)
-
----
-
-### Patralekha Chatterjee | India’s Gen Z Brings Focus Back on Education Glitches
-*Deccan Chronicle · Opinion*
-
-Last week, a 65-year-old grandmother from West Delhi clutched my hand as we crossed the road to reach Jantar Mantar, India’s most iconic protest site. All around us, there were police personnel and barricades. It was my second visit; for her, it was the first time. She had sneaked out of her home because her family did not want her to navigate such huge crowds on a blisteringly humid July afternoon. “But I had to show up. I have a granddaughter,” she said. A row of young volunteers stood at the entrance, waving large bamboo hand fans.It is not hard to figure out why the Gen Z protests led by the Cockroach Janta Party (CJP), founded by Abhijeet Dipke -- a political communications strategist -- created such a massive buzz in Jantar Mantar and across India.The youth-driven (complete with memes, books, flowers, and Instagram energy) CJP managed to also pull in parents, working professionals, and many older people. Unsurprising given that Indian families across classes prioritise their children’s future above everything else. For those without ancestral wealth or social connections, education is the primary vehicle for mobility and security. Parents pour life savings into children’s coaching, relocation to study hubs, and because competitive exams like Neet are seen as absolute make-or-break milestones. Paper leaks, sudden cancellations, delayed results, and structural irregularities directly threaten that investment and the children’s prospects.The crowds poured on to the streets across India because the essence of the protest hit a near-universal nerve: a widespread sense that the education system was failing the next generation. The paper leak in the high-stakes NEET-UG medical entrance exam compromised the futures of over two million students. Nor was this the first exam paper leak. A NEET exam paper leaked also in 2024.A key demand of the youth protesters was the resignation of education minister Dharmendra Pradhan. Public pressure mounted by the protesters for days worked. Mr Pradhan put in his papers and the Narendra Modi government, sensing incandescent youth anger, announced a flurry of measures and agreed to heed some of the CJP’s other demands.What began as a satirical online movement by the CJP quickly escalated into a weeks-long protest at Jantar Mantar, including a historic march to Parliament that faced harsh police crackdowns. Though the Modi government is reluctant to admit it, huge public pressure was key to Mr Pradhan finally deciding to resign. The government has also agreed on compensation for the families of students who died by suicide after the leak and assurances that there will be no punitive action against peaceful protesters.Further, the Narendra Modi government has promised fast-track courts, a complete overhaul of the National Testing Agency and a high-powered exam reform task force led by Infosys co-founder and Aadhaar founder Nandan Nilekani.The protests have been called off. It is hard to predict how this will pan out in a country with the world’s largest Gen Z population: 370-400 million. But one thing leaps out --protesters have succeeded in bringing education, typically pushed to the margins, to the centre-stage of India’s public discourse. Broken education cannot build “Viksit Bharat”, or developed India.Walking around that afternoon, I met a young woman from Chhattisgarh who told me that accountability over paper leaks and a broken examination system was highly personal for her; if there were further delays, her family would pressure her to get married. There were many like her who had overcome a deep fear of the unfamiliar, boarding trains or buses from small towns near and far just to be part of a conversation critical to their future. Young women told me they felt “safe” at the protest site, even if Delhi is not known for being a safe place for young women. Many spoke of friends who had lost years of rigorous exam preparation, of families stretched thin by exorbitant coaching fees, and of the quiet despair that follows when a leaked paper or a cancelled exam abruptly turns ambition into exhaustion.Why show up despite reports of lathicharges and teargas? Because for a betrayed, burnt-out generation, the alternative was far worse. Chronic paper leaks, cancelled exams, and bleak job prospects left them feeling their future was already dead ended. Students I spoke to said they felt betrayed because they had been pushed to dream big and then their dreams were shattered.When people have little left to protect, the personal cost of being beaten or a few days in lock-up shrinks next to the cost of staying silent. Calling themselves “cockroaches” brilliantly weaponised a slur into a badge of survival.What the protesters had in common was digital savvy. Every lathi swing, every injury, every moment of joy and solidarity was recorded and circulated, within minutes. Gen Z is often sneered at as mere “content creators”, but they proved they can showcase food, fashion, and fearlessness ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/patralekha-chatterjee-indias-gen-z-brings-focus-back-on-education-glitches-1974690)
-
----
-
-### Cauvery: A necessary political reset
-*Deccan Herald · Editorial*
-
-The proposed meeting between Karnataka Chief Minister D K Shivakumar and his Tamil Nadu counterpart C Joseph Vijay in Bengaluru to discuss Cauvery water-sharing is a welcome initiative.
-
-At a time of deficient rainfall and mounting anxiety in both states, it signals a willingness to move beyond political posturing and revive direct dialogue. The last such bilateral meeting was in 2012, when J Jayalalithaa and Jagadish Shettar met at the Supreme Court’s suggestion. Although those talks ended without a breakthrough, resuming political engagement after 14 years is significant in itself.
-
-CM Vijay's Cauvery talks plan with Karnataka sparks political row in Tamil NaduThe Cauvery dispute, rooted in the colonial-era agreements of 1892 and 1924, has traversed decades of negotiations and litigation. The Cauvery Water Disputes Tribunal’s final award in 2007, modified by the Supreme Court in 2018, allocated 404.25 TMC to Tamil Nadu, 284.75 TMC to Karnataka, 30 TMC to Kerala, and 7 TMC to Puducherry, with 14 TMC reserved for environmental protection and flows into the sea.
-
-The Supreme Court also reaffirmed the primacy of drinking water needs, while the Cauvery Water Management Authority and the Cauvery Water Regulation Committee were entrusted with implementing the award. Yet no legal framework can entirely substitute for political goodwill when the monsoon fails.
-
-Tamil Nadu's grievance that it has not received the stipulated quantity of water is understandable. Karnataka argues that the shortfall reflects inadequate inflows rather than wilful non-compliance. In distress years the accepted principle is that shortages should be shared on a pro-rata basis rather than borne by one state alone. The talks would also address concerns over the long-pending Mekedatu balancing reservoir project. Karnataka maintains that it is primarily intended to secure drinking water supplies and regulate flows, benefiting Tamil Nadu as well. Tamil Nadu, however, fears that an upstream reservoir could give Karnataka greater operational control during lean years. These competing claims deserve reasoned discussion rather than outright rejection.
-
-CWRC asks Karnataka, Tamil Nadu to conserve Cauvery water for next yearThe Cauvery is far more than a river; it is an emotional symbol, and disputes over its waters have sparked violence, most notably in 1991 and 2016. Inflows into the Harangi and Krishnaraja Sagar reservoirs following recent rains may ease the immediate crisis.
-
-Tamil Nadu, meanwhile, should invest in barrages, check dams, and off-stream storage as an estimated 60-70 per cent of surplus water flows into the sea unutilised during peak monsoons due to inadequate storage in the delta. Even if favourable rains ultimately resolve this year's shortage, dialogue must endure. When neighbours share a river, sustained conversation is always preferable to recurring confrontation.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/cauvery-a-necessary-political-reset-4089488)
-
----
-
-### Trade uncertainty is the new normal
-*Deccan Herald · Editorial*
-
-The United States administration's move to impose 10-12.5% tariffs on imports from several countries, including India, signals that the government under President Donald Trump is undeterred by judicial setbacks or the mounting domestic and international criticism over its trade policies.
-
-Drawn from Section 301 of the 1974 Trade Act, the new duties effectively replace tariffs under Section 122 that lapsed last week after they reached their statutory 150-day limit. The US Supreme Court had earlier struck down the reciprocal tariffs introduced last year under the International Emergency Economic Powers Act, which pushed the government towards an alternative under Section 122.
-
-The fresh tariffs come after an investigation into inadequate efforts to prohibit the import of goods produced through forced labour. Notably, another ongoing probe under Section 301 is likely to result in additional tariffs on account of structural excess capacity in manufacturing sectors.
-
-DH Deciphers | US imposes 'forced labour' tariff on 60 economies; what it means for IndiaImports from India are set to face the 10% tariff above the "most favoured nation" (MFN) rate.
-
-Originally, the US Trade Representative (USTR) proposed a 12.5% rate, but lowered it to 10% after India amended its foreign trade policy to prohibit the import of goods made with forced labour. This 10% rate also applies to countries such as Bangladesh, Pakistan, Sri Lanka, and the United Kingdom. China faces a 12.5% tariff, while Japan, South Korea, and the European Union fall under the MFN rate.
-
-Upcoming tariffs targeting excess capacity are likely to push the total rates close to the reciprocal rate. These new duties highlight continued global trade volatility caused by Trump’s arbitrary use of tariffs for economic and political leverage.
-
-India is likely to remain vulnerable to the threat of US tariffs. A bill seeking to impose additional tariffs on countries importing Russian crude may impact India. Another proposal for the imposition of 100-200% tariffs on generic drugs from August 2028 is under consideration. This will have a significant effect on pharmaceutical companies in India, a major player in generic medicines. Some of these measures may serve as bargaining chips in the negotiations leading up to the India-US trade agreement.
-
-However, no agreement can be considered final, given that the Trump administration has repeatedly shifted its demands, leaving trading partners in perpetual uncertainty. India must, therefore, seek the best terms in the negotiations and factor in the risks of prolonged trade volatility. This means it must diversify, explore markets beyond the US, and pursue import substitution, particularly in the case of goods sourced from America.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/trade-uncertainty-is-the-new-normal-4089489)
-
----
-
-### 'The aim is to set up a system to ensure robust, leak-proof and transparent exams at scale'
-*Deccan Herald · Opinion*
-
-Trust remains central to the question paper-setting process because of the element of human vulnerability, said V Kamakoti, a member of the six-member Task Force appointed by Prime Minister Narendra Modi to overhaul the National Testing Agency. He said the panel would develop a comprehensive framework for all national examinations, not just NEET. Excerpts:
-
-What are the reforms that the Expert Panel constituted by Prime Minister Narendra Modi would suggest? How can technology help?
-
-Entrance examinations at scale have been conducted for several decades. While there are unfortunate events of leaks, many examinations have been conducted successfully. Unfortunately, this year’s NEET had a problem. The primary objective is to create a robust, transparent, and leak-proof testing system capable of handling massive volumes of candidates.
-
-NEET retest | NTA must learn from UPSC, IBOver the years, testing methods have evolved from written subjective papers to Optical Response Sheets (ORS) introduced by the IITs and to computer-based testing (CBT). A key benefit of CBT is that question papers remain under secure digital control until exam day, making traditional leaks virtually impossible in a true CBT environment.
-
-The NTA successfully implemented some of the recommendations of the Dr K Radhakrishnan Committee appointed after the 2024 NEET paper leak, ensuring zero transit leaks in 2026. However, human vulnerability remains at the root of trust, which is the question-paper-setting process.
-
-Technology can help, but NEET is conducted in 12 languages, and at least 40 to 50 people are involved in this entire process. If even one person’s integrity is compromised, the security fails.
-
-That is the challenge, and the panel’s recommendation will focus on trust-building and integrating technology so that even if one component fails, the overall impact is minimised.
-
-From Aadhaar architect to ex-ISRO chief: Meet faces behind India's new taskforce to make exams leak-proofHow is this committee different from the Radhakrishnan Committee?
-
-The Radhakrishnan Committee focused on establishing general structural robustness. Our panel will look at all past insights and convert them into a comprehensive framework that applies to all national examinations, not just NEET.
-
-Since the Task Force members are from various sectors, I am confident that the team will bring diverse perspectives to plug security gaps. However, the core challenge remains unchanged — how to secure a completely reliable pool of educators to set question papers without leaks.
-
-Is there any timeline for the committee to submit its recommendations?
-
-The next exam cycle schedule is to start around December. I think we have to come out with a set of short-term recommendations in a month or two.
-
-What kind of overhaul does the NTA need?
-
-The successful conduct of the NEET re-exam (after cancelling the original exam) proved that when technology is required, it is effectively adopted. However, technology alone cannot prevent human betrayal.
-
-Trust is paramount. While multiple question setters could be used and papers randomly selected, the intensive translation process still involves many people.
-
-Regarding CBT, the framework is strong and can be expanded quickly, but it faces capacity constraints – handling a maximum of three lakh candidates in a single go. To accommodate 22 lakh to 23 lakh students, testing must be scaled or conducted across eight to ten sessions. Generating multiple question papers for these sessions is entirely manageable using robust normalisation formulas, similar to the method successfully used for the JEE Mains.
-
-What is your message to the students who went through a lot of mental agony due to the re-tests and controversies?
-
-For the current year, the NEET cycle is complete, and students should look forward to a bright future. There is a wonderful future ahead for them. For current plus-two students and parents, I wish to tell them that the government is taking these matters very seriously, and our committee will ensure that the voices of youth and parents are reflected in building a highly robust mechanism.
-
-[Read full article](https://www.deccanherald.com/opinion/the-aim-is-to-set-up-a-system-to-ensure-robust-leak-proof-and-transparent-exams-at-scale-4089496)
 
 ---
 
