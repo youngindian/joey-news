@@ -1,3 +1,273 @@
+## 27 October 2026
+
+### Delhi University student ‘duped’ of Rs 6,500, probe leads police to Rs 30-crore cyber fraud
+*Pragynesh · legal*
+
+All six accused, police said, were well-educated tech-savvy individuals
+
+[Read full article](https://indianexpress.com/article/world/delhi/delhi-university-du-student-fatima-instagram-kurti-scam-cyber-fraud-rs-30-crore-greater-noida-10938378/)
+
+---
+
+### Election Commission Defends Voter List Changes Amid Supreme Court Scrutiny | Form 6 | News18
+*Unknown · general*
+
+The Election Commission of India (ECI) has defended its Special Intensive Revision (SIR) of electoral rolls before the Supreme Court, maintaining that key decisions were taken unanimously by all three members of the Commission. The affidavit comes amid a legal challenge alleging that Chief Election ...
+
+[Read full article](https://www.news18.com/videos/breaking-news/election-commission-defends-voter-list-changes-amid-supreme-court-scrutiny-form-6-news18-10399103.html)
+
+---
+
+### Piyush Goyal says India-Chile FTA talks ' quite ripe' for conclusion, Canada negotiations making progress
+*PTI · general*
+
+India is negotiating free trade agreements (FTAs) with several countries and groups, with talks with Chile "quite ripe" for conclusion and negotiations with Canada making good progress, Commerce and Industry Minister Piyush Goyal has said.
+
+He said that negotiations with the South Africa-led SACU (Southern African Customs Union) group have started.
+
+The two have inked terms of reference (ToR) to formally start negotiations towards a preferential trade agreement in August. The five members of SACU are Botswana, Eswatini (formerly Swaziland), Lesotho, Namibia and South Africa.
+
+  
+
+"I can see Chile's quite ripe for conclusion; Canada is making very good progress. We have just started SACU negotiations, so it may take some time (for conclusion)," Goyal told reporters here.
+
+He was here for a two-day official visit.
+
+Talking about other pacts, he said Mexico is "very" keen to have an early harvest trade agreement.
+
+He expressed hope that the continuity of the government in Brazil following the election would help speed up negotiations to expand the Preferential Trade Agreement (PTA) with the Mercosur bloc.
+
+Mercosur is a trade bloc in South America comprising Brazil, Argentina, Bolivia, Uruguay, and Paraguay. The India-Mercosur PTA came into effect on June 1, 2009. The agreement provides preferential tariff concessions on 450 tariff lines or product categories by India and 452 tariff lines by the Mercosur side. Now both sides are looking to expand the scope of the pact.
+
+He added that negotiations with the Gulf Cooperation Council (GCC) and Israel for "obvious" reasons are slow due to the West Asia crisis, and it may take some time.
+
+"Though we are ready to speed up negotiations," he said.
+
+The GCC comprises Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and the United Arab Emirates and was established in 1981 as a political, economic and security grouping. India already has a trade pact with the UAE and Oman.
+
+"Eurasia FTA is only about goods; it doesn't include services. Hence, we are still assessing the benefits of entering into that agreement," Goyal said.
+
+India and the five-nation grouping, the Eurasian Economic Union (EAEU), on August 20 last year, inked the terms of reference to formally start talks for the agreement. The first round of negotiations was held in November 2025.
+
+"Many other countries are talking to us. Ecuador (a South American nation) wants to do an FTA. Egypt has invited us to Egypt to discuss potentially how we can work more. Other African countries have been approaching us, either to have an FTA with all of Africa, or with the African Union or the sectoral FTA's," he said.
+
+In the trade pact with the US, he said India will have a comparative advantage over other countries and get preferential access.
+
+India and the US, in February, announced finalisation of the framework for the first phase of the bilateral trade agreement (BTA). However, changes in the tariff landscape in the US have led to further negotiations on the pact.
+
+When asked about capacity building for conducting these negotiations, the minister said Prime Minister Narendra Modi has been very focused on ensuring that the negotiations, along with all the learnings and efforts involved, do not become a one-time affair.
+
+"And therefore, in the last three years or so, we've prepared proper manuals, which are a guide like a standard operating procedure (SOP) towards proper and organised FTA negotiations," he said, adding, "Every FTA that we enter into, we prepare a lot of documentation for future reference and to help guide officers in the future, because people keep changing."
+
+The minister is here on a two-day official visit. He is accompanying a business delegation.
+
+---
+
+### Air Chief Marshal AP Singh: The man behind the uniform
+*Unknown · general*
+
+Air Chief Marshal AP Singh The man behind the uniform
+
+[Read full article](https://www.indiatoday.in/newsmo/short-videos/air-chief-marshal-ap-singh-the-man-behind-the-uniform-3025805-2026-10-27)
+
+---
+
+### Cyclone Arnab Tracker LIVE Updates: Trains Cancelled, Schools Closed In Several States As Cyclone Arnab Looms Over Bay Of Bengal
+*Meemansa Shekhawat · general*
+
+Cyclone Arnab LIVE Updates Today: Heavy to very heavy rainfall is likely over coastal Andhra Pradesh and Yanam on Tuesday and Wednesday, i.e., October 27 and 28
+
+[Read full article](https://www.news18.com/india/cyclone-arnab-live-updates-cyclone-tracker-landfall-date-time-imd-alert-andhra-pradesh-odisha-rains-schools-closed-liveblog-10399044.html)
+
+---
+
+### Weather Alert In UP In View Of Cyclone Arnab; Heavy Rain, Strong Winds Likely For 3 Days, Temperatures May Drop
+*Vani Mehrotra · general*
+
+Uttar Pradesh is on alert as Cyclone Arnab may bring rain, thunderstorms and strong winds from October 28 to 31. Temperatures could drop by 5 to 8 degrees Celsius.
+
+[Read full article](https://www.news18.com/india/cyclone-arnab-uttar-pradesh-weather-rain-alert-october-28-to-31-strong-winds-heavy-rainfall-ws-l-10399039.html)
+
+---
+
+### Teen’s rape-murder accused killed in Bengal encounter, 2nd case since July
+*Ravik Bhattacharya · legal*
+
+On July 8, Prabhas Mondol, the accused in the rape and murder of a 13-year-old girl in Baruipur, South 24 Parganas, was shot dead in an encounter.
+
+[Read full article](https://indianexpress.com/article/cities/kolkata/bengal-encounter-teen-rape-murder-accused-killed-baruipur-24-parganas-10938375/)
+
+---
+
+### SIR hearing in Supreme Court Live Updates: Pleas against Election Commission, CEC
+*Ashish Shaji · legal*
+
+On the last date of hearing, the Supreme Court had issued notice to the ECI, CEC Gyanesh Kumar and the other two ECs.
+
+[Read full article](https://indianexpress.com/article/legal-news/sir-hearing-in-supreme-court-live-updates-sir-election-10938329/)
+
+---
+
+### Jamia students refuse to call off stir on 16th day, demand definite date for polls
+*SECTIONS Jamia students refuse · general*
+
+New Delhi: The protest demanding restoration of the Jamia Millia Islamia Students' Union (JMISU) entered its 16th day on Tuesday, with students refusing to call off their agitation despite the university's decision to hold elections within 15 days of the approval of the union's constitution.
+
+The protesting students have maintained that the administration must announce a definite date for the polls, which have not been held since 2006, and set a timeline for approving the constitution.
+
+The agitation continued a day after the university issued an order stating that students' union elections would be held within 15 days of the approval of the union's constitution. The order also revoked suspension and show-cause notices issued to students during the ongoing protest and provided for a committee to inquire into the conduct of security staff during the agitation.
+
+  
+
+However, the students said the decision fell short of their demands, questioning the absence of a deadline for approving the constitution.
+
+"Our first demand was that student union elections should be revived, and dates for polls be declared," Rehan Khan, one of the students on an indefinite hunger strike, had said on Monday.
+
+The university has also issued an order to Khan late on Monday, asking him to immediately vacate the protest site, failing which legal action will be taken.
+
+The university's order also stated that the protesting students had agreed to issue a public apology at a press conference for defamatory statements, actions or social media posts against the administration during the agitation. It directed that such posts be taken down immediately and said the protest would be called off following the issuance of the order.
+
+On Monday, scuffles broke out between protesting students and paramilitary personnel as security was tightened on campus. Police personnel did not allow the students, who raised slogans against the administration, to enter the university after classes across all courses were shifted online amid tensions.
+
+At a press conference organised by the Jamia Collective at Syeda Manzil in Jamia Nagar on Monday, alumni, members of the university's founding families, artists, lawyers and student representatives extended solidarity with the protesters and called for the restoration of democratic spaces on campus.
+
+Representatives of NSUI, AISF, SFI, AIDSO, AISA and DISHA highlighted the students' demands and stressed the need for meaningful dialogue between the administration and the protesters.
+
+Those who addressed the gathering included academician Siddiquur Rahman Kidwai, educationist Syeda Hameed and JMI alumna Sameena Mishra.
+
+In a statement issued after the gathering, participants said students must have a representative platform to raise concerns, participate in university affairs and engage meaningfully in campus governance. They urged the administration to hold transparent discussions and take concrete steps to resolve the impasse.
+
+Student representatives from the Students' Federation of India (SFI) also questioned the role of the university's security adviser, alleging that the post was being used to monitor students involved in protests, and raised concerns over the deployment of security personnel on campus.
+
+The university had earlier announced the formation of a committee to draft the JMISU constitution and said disciplinary action initiated against students over protest-
+
+It shifted classes across all courses to online mode on October 24, citing concerns over students' safety and security amid escalating tensions at the protest site.
+
+Online classes will continue till November 8, after which the university will reevaluate the situation, according to a notice issued on Monday.
+
+---
+
+### Her LDL cholesterol was normal. Menopause pushed it to high-risk levels: What women need to change
+*Dr Ranjan Shetty · legal*
+
+New guidelines urge lifelong heart-health monitoring for women, highlighting how hormonal changes, pregnancy and menopause can influence cardiovascular risk
+
+[Read full article](https://indianexpress.com/article/health-wellness/menopause-ldl-cholesterol-spike-women-heart-health-risk-10938355/)
+
+---
+
+### Branded shoes ‘develop cracks’ within 6 weeks, mother-son duo wins Rs 13,000 payout
+*Jagriti Rai · legal*
+
+The Udaipur consumer commission held that the seller and manufacturer’s failure to address the defects, despite the complainants’ request for replacement, justified granting relief.
+
+[Read full article](https://indianexpress.com/article/legal-news/branded-shoes-cracks-6-weeks-mother-son-wins-rs-13000-payout-10938341/)
+
+---
+
+### How A Refund Request For Leaking Curd Packet Cost Bengaluru Woman Rs 98,000
+*Apoorva Misra · general*
+
+The 56-year-old woman, looking to raise a complaint with Blinkit, searched for the customer care number on Google and was sent a Whatsapp link to upload the packet's photo as proof
+
+[Read full article](https://www.news18.com/cities/bengaluru-news/how-a-refund-request-for-leaking-curd-packet-cost-bengaluru-woman-rs-98000-ws-l-10399041.html)
+
+---
+
+### Mbappe dropped by Chinese brands for 'offending national sentiments'
+*SECTIONS Mbappe dropped by Chinese brands · business*
+
+Beijing: Kylian Mbappe was dropped Tuesday by two major brands in China after a video circulated online in which the French football star apparently joked about former leader Mao Zedong.
+
+In China jokes about Mao, the country's founding leader who died in 1976, are considered disrespectful and remain a social taboo.
+
+"Our company firmly opposes and has a zero-tolerance policy towards any behaviour that offends national sentiments," drinks giant Dongpeng said in a statement, adding that "with immediate effect we are terminating all cooperation with Kylian Mbappe".
+
+  
+
+Mengniu, China's largest dairy producer, also cut ties with the Real Madrid and France forward.
+
+"With immediate effect our company is terminating all cooperation with Kylian Mbappe," Mengniu said in a statement.
+
+"Mengniu firmly opposes and has a zero-tolerance policy towards any words or actions that hurt the feelings of the Chinese people," it added.
+
+The announcements came after a video emerged online with Mbappe saying that the funniest internet meme he had seen was of his face photoshopped onto that of "some guy -- I think he's a Chinese dictator".
+
+This was an apparent reference to a meme of Mbappe superimposed on an image of Mao, one of several using the footballer's face and other historical figures.
+
+The authenticity of the video could not immediately be verified by AFP Fact Check.
+
+"Dongpeng Beverage ends cooperation with Mbappe" was the top-trending topic on Chinese social media site Weibo.
+
+One Weibo user said that the "extremely serious wrong remarks... crossed the red line. They are completely unacceptable".
+
+Others urged Dongpeng to remove Mbappe's image from their energy drink bottles.
+
+Dongqiudi, one of China's biggest online football outlets, said in a statement on Monday evening that Mbappe's remarks were "offensive to China and the Chinese people" and "have hurt the feelings of Chinese football fans and the Chinese people".
+
+Mbappe addressed the memes depicting him as historical figures, including strongmen leaders, in an interview with French sports newspaper L'Equipe in September.
+
+"There's a part of it that's funny. You can tell that, for some people, it's all in good fun. But there is another part that's a bit less funny because of the damage such people have caused throughout history," he said.
+
+"Being compared to individuals who murder others, or who have brought misery to millions upon millions of people -- well, I don't think I've ever done anything like that in my life," he said.
+
+The furore in China came a day after 27-year-old Mbappe lost out to Harry Kane for the Ballon d'Or, the world's most prestigious individual award in football.
+
+---
+
+### IIT Kharagpur to establish India’s first Physical AI school with Rs 35 crore investment
+*Education Desk · legal*
+
+IIT Kharagpur Director Suman Chakraborty said the school aims to take AI beyond its role as a “black-box” technology by combining algorithmic capabilities with fundamental scientific and domain-specific knowledge.
+
+[Read full article](https://indianexpress.com/article/education/iit-kharagpur-establish-india-first-physical-artificial-intelligence-school-rs-35-crore-investment-10938332/)
+
+---
+
+### One in four South Asian Trump voters plan Democratic switch in midterms
+*India Today World Desk · general*
+
+## A survey found one in four South Asian Americans who backed Trump plan to vote Democratic in the midterms. Their shift could prove decisive in closely contested states.
+
+Image used for representational purposes only
+
+Washington,Oct 27, 2026 10:14 IST
+
+At least one in four South Asian Americans who voted for US President Donald Trump in the 2024 presidential election plan to support Democratic candidates in the November 3 midterm elections, according to a survey reported by news agency Press Trust of India.
+
+The survey, conducted by advocacy group Indian American Impact, found that the cost of living was the leading concern for 65 per cent of respondents, followed by healthcare at 53 per cent, jobs and wages at 33 per cent, and education at 28 per cent.
+
+The survey covered 800 registered South Asian voters. Indian-Americans made up 87 per cent of the respondents, while the remaining 13 per cent included people of Pakistani, Bangladeshi, Sri Lankan, Nepali, Bhutanese, Maldivian, Afghan, Khmer and Burmese origin.
+
+Among those who voted for Kamala Harris in the 2024 presidential election, 96 per cent said they planned to vote for a Democratic candidate in the upcoming polls. Of the South Asian Americans who voted for Trump, 67 per cent continued to support Republican candidates, while 25 per cent said they would vote for Democrats.
+
+According to PTI, the findings come as early voting has begun in several states, including Texas, where Democratic nominee James Talarico is in a close contest against Republican Ken Paxton, who is backed by Trump.
+
+Vasant Bhatt, a 21-year-old second-generation Indian-American who interned with Senator Ted Cruz's election campaign in 2024, said in a social media post that he had voted for Talarico.
+
+"I just cast my ballot for James Talarico. As a second-generation Indian American, I am thoroughly disgusted by the xenophobia, racial resentment, and increasingly brazen attacks on my identity," Bhatt wrote.
+
+The survey also highlighted concerns about discrimination. Ninety per cent of registered voters said they had experienced discrimination or knew someone who had, while 48 per cent said they had personally faced it.
+
+"It comes as no surprise that a quarter of Trump's 2024 voters in our community plan to vote Democratic. This community can make the margin, and we are working to reach every voter who can," Chintan Patel, executive director of Indian American Impact, said in a statement cited by PTI.
+
+The survey found that 16 per cent of respondents had not voted in any general election since 2020. Overall, 78 per cent believed their vote could bring about change, while 79 per cent felt elected officials quickly lost touch with ordinary people.
+
+Another 67 per cent said public officials did not care about the views of people like them, and 43 per cent felt they had no say in government decisions.
+
+The findings also pointed to the potential importance of South Asian American voters in closely contested states. Michigan has about 187,000 South Asian residents, and nearly 30,000 registered South Asian voters did not vote in 2022. This was more than the roughly 19,000-vote margin that decided the state's 2024 Senate race.
+
+Texas has more than 700,000 South Asian residents, while nearly 100,000 registered South Asian voters in the state did not vote in 2022. The Indian-American community also has a strong presence in California, New Jersey, New York, Washington, Illinois, Pennsylvania and Georgia.
+
+In battleground states such as Georgia, Pennsylvania, Michigan and North Carolina, a shift of even one or two per cent of the vote could influence the outcome. The survey indicates that South Asian American voters, including some who backed Trump in 2024, could play a significant role in the midterm elections.
+
+With PTI Inputs
+
+\- Ends
+
+
+---
+
 ## 26 October 2026
 
 ### Serbia Election: Student-Led Anti-Corruption Movement Ousts Vucic After 14 Years
