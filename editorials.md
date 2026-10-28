@@ -1,8 +1,140 @@
 # Editorials
 
-_Last updated: 2026-10-27 06:40 UTC_
+_Last updated: 2026-10-28 07:13 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 28 October 2026
+
+### Fouled waters: On Rajasthan’s river pollution
+*The Hindu · Editorial*
+
+The Supreme Court has pulled up, once again, the Rajasthan government over industrial effluents flowing into the Jojari river and the deadly risk it poses for the people depending on it. The problem is decades old — public interest litigation in the Rajasthan High Court alerted State machinery to the problem in 2011 — indicating an oversight by the State bordering on the systematic. The Jojari, the Luni, and the Bandi are seasonal rivers in the State’s arid western region, flowing through Jodhpur, Balotra, and Pali districts. This region has also evolved as a textile-dyeing and steelworking hub, and untreated or insufficiently treated effluents from these factories have run directly into the rivers and soil, endangering the health of around 20 lakh local residents. The region also suffers rampant illegal sand mining in riverbeds. The sewage treatment plants have been able to accommodate only around half of the sewage generated in the three urban centres, according to the State’s submissions to the Court in 2025, even as the Court recorded substantial underutilisation at common effluent treatment plants. The combination is suggestive of industrial sources bypassing treatment facilities, poor connections between the sources and the facilities, and/or insufficient capacity at particular sites or in specific periods.
+
+The Court initiated a suo motu writ petition in 2025 and constituted a High-level Ecosystem Oversight Committee chaired by Justice Sangeet Lodha to audit the plants and draft a plan to restore the rivers. Based on the committee’s scathing status reports, Justices Vikram Nath and Sandeep Mehta banned construction within 100 metres of the rivers’ edges and hazardous industries within 500 m of the present path, or of the flood lines where available. The Court has also upbraided local authorities for failing to enforce pollution norms by citing the Court’s own stay of a 2022 National Green Tribunal order imposing a compensation on the Rajasthan State Industrial Development and Investment Corporation and the local administration in Jodhpur and Barmer. The State regulatory apparatus has been dysfunctional: officials were aware of illegal mining operations in some areas, yet they regularised leases in those areas. Given the dereliction in play, the Court is correct to treat the possibility of collusion between State officials and industrial mafias seriously. Justice Mehta’s observation that the State could be held liable under the ‘polluter pays’ principle is also a significant indictment of state failure, through negligence. Now, importantly, the State still has to restore the Jojari and attend to its wellbeing, which is relevant to a recent tendency by the Court to substitute itself for regulators rather than disciplining them into discharging their functions. This needs to change.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/fouled-waters-on-rajasthans-river-pollution/article71631783.ece)
+
+---
+
+### Small fish: On Operation Trident
+*The Hindu · Editorial*
+
+Operation Trident, a multi-agency crackdown on an international syndicate operating across the India-Myanmar-Bangladesh corridor, marks a significant step-up in the government’s campaign against drug trafficking. The Union Home Minister, Amit Shah, has set December 31, 2029, as the deadline to eradicate drug networks across the country. The October 23 raids, which led to 18 people being arrested, were based on NCB investigations following the arrest of an alleged Myanmar-based kingpin in Delhi this May. However, the dismantling of the entire network would require identification of all suppliers in Myanmar and their successful prosecution. The government’s strategy, involving States and Union Territories, over 40 Ministries, central agencies and the pharmaceutical sector, is outlined in the Vision Document on Drug Control (2026-2029), launched by Mr. Shah at the Narco-Coordination Centre meeting on June 26, 2026. It envisages dismantling 100 major cartels and improving prosecution outcomes. The broad strategy reflects the complexity of the problem and signals a more focused approach. Data for 2025 also show an increase of over 50% in arrests and a nearly 53% rise in cases registered under the Narcotic Drugs and Psychotropic Substances (NDPS) Act compared with 2024.
+
+However, the government’s action-plan will depend on consistent implementation and efficient coordination among agencies, and striking at the real brains behind it all. In several cases, foreign-based key operatives still remain at large and big sharks often do not fall in the net. The 2021 Mundra port case in Gujarat, involving the seizure of about 3,000 kg of heroin, is a case in point wherein the principal Afghanistan-based suppliers have yet to be brought to book. Also, the quantity of drugs seized does not, by itself, indicate whether drug availability or consumption has declined. Punjab remains a prominent example of the continuing public health challenges associated with drug abuse. The alleged drug-related killings of anti-drug activists in Mansa and Gurdaspur, along with the alleged death by suicide of a father in Sangrur who had raised concerns about the easy availability of synthetic drugs in his locality, underscore the human cost of the problem. These incidents also raise questions about the protection of those who speak out against drug trafficking and networks. These concerns lend urgency to the objective of dismantling entire networks and apprehending the “big sharks”, rather than concentrating disproportionately on individual carriers. The key is to identify the ultimate beneficiaries by meticulously following the money trail and ensuring their conviction.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/small-fish-on-operation-trident/article71631754.ece)
+
+---
+
+### India’s ‘balancing act’ risks eroding Russia’s trust
+*The Hindu · Opinion*
+
+The Shanghai Cooperation Organisation (SCO) summit in Bishkek, Kyrgyzstan, on August 31-September 1, 2026, and the BRICS summit in New Delhi on September 12-13, 2026, were remarkable. Iran received considerably more attention and support from members of both the groups, far more than anticipated. More consequential, however, was the shift in India’s stance on the United States-Israel war against Iran and Russia’s war in Ukraine.
+
+Traditionally, the SCO and BRICS summits have offered the three major powers — Russia, India and China — an opportunity to demonstrate their mutual solidarity. For Russia, it is a platform from which it can signal to the West that it is not isolated and still has powerful allies. The expansion of the SCO and BRICS under China’s leadership showcases its growing power to the West. For India, the SCO and BRICS have been useful for demonstrating its strategic autonomy. India has sought to remain welcome in both western and non-western forums, from the G-7 to the SCO and BRICS.
+
+[Read full article](https://www.thehindu.com/opinion/lead/indias-balancing-act-risks-eroding-russias-trust/article71632551.ece)
+
+---
+
+### India needs urgent action as childhood obesity rises
+*Deccan Herald · Editorial*
+
+The release of the World Health Organization (WHO)’s first guidelines on the management of obesity among children and adolescents is an important step towards ensuring focused, evidence-based care. Obesity and overweight continue to be major threats to life and health across the world.
+
+Their impact was once considered limited to people in the high-income and older segments of the population. But that contention has been debunked, with incidence increasingly linked to lifestyle patterns, and with children becoming more vulnerable over the past couple of decades.
+
+Obesity among children has received special policy attention in recent years.
+
+According to WHO, 400 million children and adolescents in the age group of 5-19 years were overweight globally, with 170 million living with obesity, in 2024. Globally, India ranks second in the number of overweight and obese children.
+
+The World Obesity Atlas 2026 estimated that 15 million children in the 5-9 age group and 26 million in the 10-19 age group in India were overweight or obese in 2025.
+
+Envisioned as a multimodal programme, the guidelines focus on structured dietary, activity-based, and behaviour-changing measures. They don’t recommend pharmacological treatment or bariatric surgery for the 0-9 age group. For the 10-19 age group, treatment is recommended only when the lifestyle-oriented approach fails.
+
+Obesity crisis warrants stronger response Recommendations for adults include integrated, individual-centred, and long-term care combining lifestyle, medical, and surgical options. The approach underscores early intervention in the form of supportive environments and access to quality care, helping children maintain a healthy weight.
+
+These recommendations serve as both remedies and preventive measures. They are particularly important for India, where obesity is assuming epidemic proportions. Their message needs to be taken to parents, educational institutions, and community collectives.
+
+All stakeholders in obesity care, including policymakers, programme managers, and health workers, should help tailor the recommendations to specific, regional requirements. Simultaneously, ongoing programmes should be upgraded with stronger outreach.
+
+The threats posed by obesity and allied diseases have not been fully mapped. Awareness must begin at the family level, with calls to collectively avoid junk food. Children require counselling to reduce screen time and embrace regular physical activity.
+
+According to the WHO, medical treatment alone cannot reverse rising obesity rates. Systemic transformation is essential. To address the crisis, governments and regulatory agencies must adopt targeted policies that make healthy food choices and physical exercise accessible and affordable for all.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/india-needs-urgent-action-as-childhood-obesity-rises-4197636)
+
+---
+
+### Karnataka job quotas: Balancing local aspirations with merit
+*Deccan Herald · Editorial*
+
+Karnataka Chief Minister D K Shivakumar’s warning that companies could face action if they discriminate against Kannadigas has revived a long-standing question: Is the state’s economic success translating into equitable employment opportunities for its own people?
+
+The warning followed viral social media allegations that some technology firms reject applicants who identify Kannada as their mother tongue. Such claims deserve investigation. Local candidates have often complained that hiring managers recruit disproportionately from their own regions, institutions, or networks, narrowing opportunities for equally qualified Kannadigas.
+
+The concern is not new. In 2024, the state cabinet approved the Karnataka State Employment of Local Candidates Bill, which proposed reserving 50% of management jobs and 70-75% of non-management posts for local candidates, with complete reservation in Group C and D roles.
+
+The proposal was put on hold after industry bodies warned that rigid quotas could undermine competitiveness and deter investment.
+
+Earlier, in 1986, the Sarojini Mahishi Committee recommended preference for Kannadigas in government departments, public sector units, and private industries, with exceptions for specialised and senior positions. However, regional preference cannot become a substitute for merit.
+
+Karnataka's final electoral rolls can turn the tables? Voter reduction exceeds victory margins in 70 Congress, 50 BJP seats after SIRKarnataka’s globally competitive technology sector thrives because it attracts talent from across India and the world. Mandatory quotas based on domicile can restrict employers’ ability to recruit the best candidates. There is also a constitutional dimension.
+
+In 2023, the Punjab and Haryana High Court struck down Haryana’s law reserving 75% of private-sector jobs for local residents, holding that it violated constitutional guarantees.
+
+The answer is not to dismiss local aspirations. Kannadigas must not be disadvantaged because of their linguistic identity. Companies benefit from land, power, water, infrastructure, and state concessions, making it reasonable to expect them to recruit fairly and invest in local talent. If discrimination exists, it warrants serious scrutiny.
+
+The government should investigate credible complaints, insist on transparent recruitment practices, and establish effective grievance mechanisms. It must strengthen education, expand industry-linked training, and equip local students with the skills employers demand. Companies, for their part, should look beyond narrow hiring networks and broaden recruitment across the state’s colleges and universities.
+
+The debate need not be framed as a choice between local rights and merit. Fair opportunity and meritocracy are complementary. Regional identity must not become a barrier to employment for others, but neither should it be a reason to deny Kannadigas fair opportunities in their own state.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/karnataka-job-quotas-balancing-local-aspirations-with-merit-4197635)
+
+---
+
+### US-Russia-China Triangle | What’s there in it for India
+*Deccan Herald · Opinion*
+
+Europeans are hypersensitive about the 1945 Yalta Conference (February 4-11) between Franklin D Roosevelt, Winston Churchill, and Joseph Stalin, which, in the West’s Cold War narratives, is perceived as a sell-out to the Soviet leader. In reality, Stalin, while meeting the West’s expectations of Soviet entry into the Far East against Japan to shift the military balance, all along remained wary that Churchill would also have other plans for the European theatre.
+
+He was prescient. No sooner than Yalta Conference ended, Churchill, in a role reversal from Saviour to Judas, ordered the British Chiefs of Staff to study a surprise military offensive against the Soviet Red Army using British, American, Polish, and even rearmed German troops. The date of the surprise attack (Operation Unthinkable) was set for July 1. However, as luck would have it, Churchill was ousted from power in a crushing defeat in the general election in July, by a war-weary nation replacing him with a robust anti-war proponent, Clement Attlee.
+
+This recap is necessary to put in perspective the forthcoming meeting of the US-Russia-China triangle in Shenzhen on the sidelines of the APEC summit next month. European leaders once again took their nations to war without national mandate, as the drain of resources to fuel the hybrid war in Ukraine impoverished their nations; and, their peoples are disillusioned and desperate. France is burning.
+
+Canada's Carney says will meet China's Xi at APEC, open to Trump talksPossibly, India finds such primacy to the triangle of the Big Three somewhat out of sync with the zeitgeist. In the welter of hypotheses, real or imaginary — multipolarity, polycentrism, multi-alignment, Global South, et al — that External Affairs Minister S Jaishankar came up with to navigate the anarchical conditions in the world, he never once factored in the moribund triangle, although, ironically, Candidate Trump had viewed it as a template of his foreign-policy toolbox while campaigning for the 2016 presidency. The triangle was Kissinger’s coinage, whom Trump respected, stemming from his understanding of coalitions and balance of power. Its relevance to the current global situation — in fact, the very notion of ‘great power’ itself — is controversial today.
+
+However, interestingly enough, as Candidate Trump was eyeing the White House in 2015, then speaker of the Russian parliament Sergey Naryshkin, a member of President Vladimir Putin’s inner circle of St Petersburg acquaintances from the KGB, also happened to deliver a keynote speech at a conference in Moscow commemorating the 70th anniversary of the Yalta Conference. Naryshkin lauded that the decisions reached at Yalta “reflected the balance of military power” and laid the foundation of a world order that prevented World War III, and kept the peace “almost until the end of the 20th century.” He accused the West of “forfeiting the Yalta principles” with NATO’s expansion to Russia’s doorstep.
+
+In a symbolic gesture, the Kremlin, with Crimea taken over by Russia in 2014, also erected in the Livadia Palace gardens at Yalta a 10-ton bronze sculpture of Roosevelt, Churchill, and Stalin. Naryshkin’s praise of Yalta was anything but an act of historical revisionism; it represented a distinct Kremlin desire to resolve the Ukraine crisis through a new Yalta-2 summit.
+
+The Kremlin fears that in the absence of a comprehensive Yalta-2 that could settle Ukraine permanently inside Russia’s sphere of influence within a European security architecture, the conflict may continue and possibly escalate. As time passes, plans change; different concepts are now circulating in Moscow on how to proceed with Ukraine, the predominant Kremlin view being that the threat is not all about the ascendancy of neo-Nazi forces in Kyiv per se, but about the West — led by the US, which is using these forces to contain and hinder Russia. So, Putin hopes to convince Trump, and expects Xi Jinping to be an influencer in a reasonable trade-off.
+
+Beijing, a key force for global stability, is apparently willing to become central to the negotiations. Diplomat reported last week, “Chinese officials often characterized the Sino-Russian partnership itself as a ‘ballast stone for safeguarding peace and stability.’ Wu Dahui, deputy director of the Russian Research Institute at Tsinghua University, who has worked for the People’s Liberation Army, recently spoke of the more than 60,000 lines of communication between the two countries, “connecting the two like blood vessels in one body.” But that may not be the whole story, as Russians are learning from hard experiences — e.g. the pricing dispute delaying the mammoth Power of Siberia 2 energy project — that when chips are down, the Chinese drive hard bargains.
+
+On the other hand, Trump realises that Kyiv has no strong hands to play, and continued war is a distraction and drain on resources; but keeps pondering what is there in a Ukraine settlement for ‘America First’. The US has done rather well so far — positioning itself as the key supplier of energy to the lucrative energy market by replacing Russia (at LNG prices six times that of Russia’s pipeline gas) — and eventually becoming the middle man managing Russian supplies via Nord Stream to Germany; tapping into Europe’s ‘de-industrialisation’ for technology and business (BMW just announced a massive multi-billion dollar investment to make AI cars in the US); geopolitically, reduce Europe to vassal states once the EU unravels, while NATO remains the biggest customer of its weaponry; gain access for US companies to Russia’s seamless natural and mineral resources; consolidate the primacy of dollar; bring Russia into play as ‘balancer’ in the triangle, and so on. Succinctly put, the Ukraine conflict can potentially be a game changer to arrest the US’ decline.
+
+The Brits are aware of all this and are probing a return to the EU. Gideon Rachman at the FT wrote last week that European leaders are considering direct talks with Putin, as they conclude that privately persuading Trump is no longer enough.
+
+As for the Kremlin, it sees a historic window of opportunity, as Trump, Putin, and Xi could be meeting twice — in Shenzhen and Miami — during the next 47 days. But caveats must be added: Russia happens to be the weakest pillar of the triangle today, and there are moving parts — in particular, China’s calculations vis-à-vis Europe.
+
+Prominent Kremlin think-tanker Oleg Barabanov recently wrote that Beijing is in a ‘cocky’ mood having weathered Trump’s tariff war, and one manifestation of it is a “trend towards more active Chinese involvement in the negotiating process over Ukraine. In recent months, Chinese diplomacy has stepped up its contacts in Europe on this issue. The image of peacemaker will matter a great deal to Xi Jinping in the domestic political context ahead of the party congress…”
+
+Barabanov cautioned that “normalisation of relations with the United States … is already having an effect on Russian-Chinese relations”; also, “one can attempt to forecast a possible intensification of non-public pressure and firmness, both on economic and, to some extent, on political matters, over the coming year”; Beijing and Washington may even have “their own reasons for wishing the conflict in Ukraine to continue — without major escalation, which is important.”
+
+All in all, Putin’s decision to breathe life into the triangle is a shot in the dark. The Kremlin is yet to confirm Putin’s participation in the G-20 in Miami, which, according to presidential adviser Yuri Ushakov, will depend on the outcome of discussions in Shenzhen.
+
+India can be supportive of Russia’s legitimate concerns at a critical juncture when it is at a crossroads. It’s a long-term investment as well in geopolitical/geoeconomic terms, a lodestar perennially as Russia’s integration into the world economy advances in a settlement in Europe.
+
+M K Bhadrakumar is a former diplomat.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/us-russia-china-triangle-whats-there-in-it-for-india-4197988)
+
+---
 
 ## 27 October 2026
 
@@ -62,6 +194,108 @@ In the digital era, critical infrastructure is not a building surrounded behind 
 Khyati Singh is Research Analyst, Centre for North America and Strategic Technologies, MP-IDSA and the author of Cyber Leviathan: Digital Strategies in International Relations
 
 [Read full article](https://www.thehindu.com/opinion/lead/beyond-kudankulams-fence-a-cybersecurity-challenge/article71628279.ece)
+
+---
+
+### DC Edit | Defection Merits Judicial Review
+*Deccan Chronicle · Editorial*
+
+The reference made by the Supreme Court while dismissing a petition regarding the defection of six Opposition AIADMK legislators in Tamil Nadu to the ruling TVK that “somebody resigns and becomes minister; it’s part of political process” is a sad reflection of its disinterestedness in the administration of its country even when called upon to adjudicate on critical questions.
+
+True, this country had its share of Aaya Ram, Gaya Rams and it was specifically to end the practice of legislators elected on a party’s symbol acting as free radicals and moving freely that the Parliament experimented with various legislative tools. The anti-defection law, enacted in the 1980s, in its original version, had given the legislators some flexibility to change parties if they could muster up the support of a third of the members of the legislature party. However, several amendments later, the law now bars the legislators from owning a political mind of their own. Translated into practical terms, the legislators who violate the whip of a political party on the floor of the House risk losing its membership.
+
+In short, the apex court’s inference that a legislator can resign from his party, cross over to another and become a minister does not square with the law or its legislative intent. The larger point is that the people vote a specific party to power or to the Opposition benches and hence only that party can take a political position or policy decision which is at variance with its earlier ones.
+
+Unfortunately, what we witness across state legislatures and Parliament is that MLAs and MPs break free from their parties and join new formations as and when it suits their own interest and the presiding officers make decisions favouring them. It is time the apex court applied its mind to a practice the law wanted to end and send the right message across to the defectors and their mentors.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-defection-merits-judicial-review-1999398)
+
+---
+
+### DC Edit | Make Siang Protesters See Brahmaputra Wall’s Need
+*Deccan Chronicle · Editorial*
+
+The violent protests against the proposed Siang Upper Multipurpose Project in Arunachal Pradesh have presented the Narendra Modi government with a challenge that goes far beyond building a hydel power dam. Now at stake are India’s national security, the safety of crores of people in the Northeast, the rights of indigenous communities and also the government's ability to handle democratic dissent.
+
+The real intent of the proposed 11,200-MW project is not merely power generation. It has acquired enormous strategic importance because of China’s decision to construct a gigantic 60,000-MW hydropower complex on the Yarlung Tsangpo in Tibet, upstream of the Brahmaputra. The mega-project, which Beijing approved in December 2024, has fundamentally altered strategic calculations for water security in northeastern India.
+
+China claims that the project is of the run-of-the-river type, in which water is diverted through tunnels to a lower elevation to generate electricity and then returned to the river, and does not have enormous storage capacities. Even moderate estimates suggest that the project will have a water holding capacity of 194 thousand million cubic (TMC) feet of water.
+
+A sudden release of impounded water, whether deliberate, accidental or caused by structural failure, could send devastating floodwaters downstream in the northeastern region, and Bangladesh. As the project is located on the Paizhen Fault, a geologically active area where the Indian plate converges with the Eurasian plate, the risk to the downstream areas is immense. Apart from this, Beijing’s ability to regulate enormous volumes of water poses a potential threat to India.
+
+The recent Himalayan flood disasters affecting Nepal and the adjoining Tibetan region have demonstrated how a sudden surge of water can overwhelm settlements and infrastructure downstream. By being a mute spectator to China’s projects, India cannot afford to outsource the security of its northeastern population dependent on decisions taken by China.
+
+India, therefore, decided to build the Siang project, which will serve as a Himalayan wall for water from Tibet. Though this project was first proposed in 1982 during the Indira Gandhi government, it was declared a national project in 2008 by the Manmohan Singh government.
+
+The current proposal was mooted by Niti Aayog in 2017 as China’s actions imparted a sense of urgency to the project.
+
+However, the indigenous Adi tribal communities opposed the project fearing the submergence of ancestral villages, the destruction of agricultural land, displacement and irreversible damage to their cultural identity. Protests turned violent in Pasighat on October 23. Though violence deserves unequivocal condemnation, the intensity of the backlash should compel the government to examine why opposition has reached such alarming proportions.
+
+Given China’s strategic interest in the project, the possibility of Beijing influencing some people in Arunachal is ruled out. However, it would be a grave mistake on the part of the government to portray the protests as foreign-inspired, crush them with a heavy hand and risk spreading a local dispute into a wider region. The Centre should, therefore, initiate talks with representatives of the affected communities and convince them about the need for India’s wall on Brahmaputra.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-make-siang-protesters-see-brahmaputra-walls-need-1999432)
+
+---
+
+### Bureaucrats, Backroom Politics And A Restive Border
+*Deccan Chronicle · Opinion*
+
+A serving chief of the Indo-Tibetan Border Police (ITBP), which guards the country’s borders with China, publicly discloses ongoing face-offs between the two nations in the northeastern state of Arunachal Pradesh. On October 22, Shatrujeet Singh Kapoor, while addressing the Himveer Samman Samaroh at ITBP’s Central Training College in Alwar, Rajasthan, said that there were regular confrontations at several locations in the state. This was not a casual remark from the ITBP’s head. It prompted the ministry of external affairs (MEA) to acknowledge that border situations are disturbed when the Chinese forces deviate from established patrol patterns. Kapoor did not disclose either the precise locations or operational details.
+
+Still, it led to several questions. Why did the border chief make the statement at this time? Did he transgress the authorities of MEA and Home minister Amit Shah? Let us start with a backstory that originates more than 1,800 km, or air travel distance of over 1,100 miles, away in the state of Haryana. There are whispers in the political and bureaucratic circles about links with the former chief minister of Haryana, Manohar Lal Khattar, his former chief principal secretary Rajesh Khullar, and a senior RSS functionary, Arun Kumar Khanna, who is popularly known as Arunji. It connects politics with police, civil services, and ideology.
+
+The past career of ITBP’s Kapoor was turbulent. After the death of IPS officer, Y. Puran Kumar, in October 2025, a suicide note reportedly named him and other officers. Puran Kumar’s wife, IAS officer Amneet P. Kumar, filed a complaint. Kapoor went on leave. Later, CM Khattar apparently recommended him for the ITBP’s post.
+
+Kapoor’s statement on China and Arunachal Pradesh came amid another controversy, whose origins lie in Haryana. In July 2026, election commissioner Vivek Joshi, who was former chief secretary of Haryana, wrote to Cabinet secretary T.V. Somanathan about internal differences within the Election Commission of India, which led to protests and furore. Existing evidence does not connect the episodes, but they raise issues related to power structures, formal orders, personal trust and institutional credibility.
+
+Creamy layers, creamier orders
+
+Suddenly, the future of 958 civil service aspirants hangs in balance. A Supreme Court judgment on the eligibility of those related to “OBC creamy layer” has stalled the entry of these individuals into the bureaucratic and administrative services. At the centre of the controversy is the department of personnel and training (DoPT), whose handling of the issue raises uncomfortable questions. Five days after the Union Public Service Commission declared the results of the 2025 civil services examination on March 6, 2026, the apex court gave a ruling (Union of India v. Rohith Nathan). It stated that apart from parents’ salary alone, the status and category of their employment must determine “OBC creamy layer” status. The order complicated service allocations as those in the newly defined creamy layer were not eligible for reservations. It delayed the foundation course at the Lal Bahadur Shastri National Academy of Administration, which was to begin in August. DoPT asked the Supreme Court for clarification and cited problems of retrospectively implementing the order. The government warned that retrospective changes could affect earlier recruitments, service allocations, cadre placements and seniority. There are challenges related to equivalence between posts in government, PSUs and private companies. The number of candidates who may benefit from retrospective aftereffects is uncertain. But could the DoPT have anticipated the consequences of a legal challenge to the creamy layer framework? Could it have commenced common training, and waited for judicial clarity before final service allocations? Now, it is imperative for the Supreme Court to settle the dispute. DoPT needs to protect the candidates’ rights minus new inequities in recruitment and seniority. For the chosen 958, the delays imply uncertainties at the beginning of their careers.
+
+New designation, new Raj, new risks
+
+There was a time when government offices operated by existing and established rhythms. A peon carried government files, a daftary managed records, a waterman gave drinking water, someone managed floor-covering, and a chowkidar guarded the premises. Each had a designation, and role and place in the hierarchy. That world has largely disappeared. Today, these people are included as part of the Multi-Tasking Staff (MTS), which was an attempt to reform Group D employment. After the Sixth Central Pay Commission, Group D posts were consolidated into MTS. Since 2010, there is a common framework for the support functions. It led to parallel systems: one comprises the regular employees, and the other of MTS outsourced to private contractors. The distinction matters. Regulars enjoy protections under government rules, but the outsourced ones are at ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/bureaucrats-backroom-politics-and-a-restive-border-1999372)
+
+---
+
+### EU’s Strategic Plan Clashes With Competing Priorities
+*Deccan Chronicle · Opinion*
+
+The European Union summit in Brussels on October 15-16 exposed the central paradox of Europe today: it recognises the need to act as a strategic power, but remains divided over the costs, compromises and transfers of authority that such a role demands. Europe wants to defend Ukraine, rebuild its industrial competitiveness, strengthen its military capabilities and reduce strategic dependence on external powers. Yet its members disagree over who should pay, which priorities deserve precedence, and how far national interests should yield to collective imperatives.
+
+This is more than a disagreement over budgets or policy choices. It tests whether the European Union can translate its considerable economic weight into geopolitical influence. The pressures reinforce each other: security demands require greater spending; industrial renewal requires affordable energy and investment; economic resilience demands difficult choices over China; and political cohesion is undermined by disputes over migration and national sovereignty. The summit acknowledged these challenges but struggled to reconcile them. It revealed the gap between Europe’s strategic ambitions and its capacity for collective action. The critical question is whether the Union can bridge that gap before external pressures and internal divisions further erode its influence.
+
+Ukraine and the challenge of sustained support
+
+The summit reiterated support for Ukraine and the need to maintain pressure on Russia. President Volodymyr Zelenskyy participated in the discussions, emphasising Ukraine's continuing requirements for military and financial assistance as winter approached.
+
+Ukraine estimates its funding gap at around €70 billion for 2027, presenting a formidable challenge for the EU. The European Commission intends to mobilise substantial resources, but the mechanism for doing so remains unclear. Continued uncertainty over American support adds to the problem.
+
+Germany’s position will be particularly important. Chancellor Friedrich Merz must reconcile his country’s financial responsibilities with its European ambitions, while managing domestic fiscal pressures. France, meanwhile, advocates stronger European defence capabilities as a long-term security imperative.
+
+The EU budget: ambitions without adequate resources
+
+The summit failed to reach agreement on the Multiannual Financial Framework for 2028-2034, leaving one of the Union’s most consequential challenges unresolved. The competing priorities are clear. Europe wants to spend more on defence, innovation, competitiveness and Ukraine while continuing to support agriculture and regional development. Yet the resources available cannot easily accommodate all these demands.
+
+Germany, the largest net contributor, favours fiscal discipline and efficient spending. France wants greater investment in European industrial capabilities. Countries dependent on cohesion funding are reluctant to accept cuts to their allocations. Reaching agreement on the budget will require difficult compromises. Member states must demonstrate a willingness to fund collective ambitions, potentially at the expense of competing domestic priorities.
+
+China and the dilemma of economic security
+
+Europe’s increasingly assertive stance towards China reflects growing anxiety over subsidised imports, excess manufacturing capacity and the resulting vulnerabilities of European industry. Germany’s evolving position is particularly significant. German businesses have traditionally valued access to the Chinese market, but concerns about competition and strategic dependence are increasingly influencing policy.
+
+Europe must reconcile two objectives: preserving commercial engagement with China while protecting its industrial capabilities and reducing excessive dependence. Protectionist measures could raise costs and provoke Chinese countermeasures. Ignoring the problem, however, could accelerate the decline of European manufacturing.
+
+The summit reinforced the case for trade-defence measures but did not resolve the underlying contradiction. Europe must decide how to protect its economic interests without undermining the commercial relationships many of its industries depend on.
+
+Competitiveness: recognising the problem is only the beginning
+
+One of the summit’s more constructive outcomes was its emphasis on competitiveness. European leaders acknowledged that the single market remains fragmented, regulatory burdens constrain businesses, capital markets are inadequately integrated and high energy costs since the war in Ukraine have weakened industrial productivity. These weaknesses have become more consequential as European companies compete with American rivals that benefit from deep capital markets and Chinese manufacturers that combine industrial productivity with substantial state support.
+
+Efforts to simplify regulation, deepen the single market and strengthen Europe’s industrial and technological capabilities are therefore welcome. But reducing...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/eus-strategic-plan-clashes-with-competing-priorities-1999386)
 
 ---
 
@@ -21743,190 +21977,6 @@ It might seem from these examples that resilience is a blessing reserved for the
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/reaping-the-rewards-of-resilience-4092347)
-
----
-
-## 29 July 2026
-
-### ​Diminishing relevance: On the Commonwealth Games
-*The Hindu · Editorial*
-
-As Olympic and World Championships medallist Mirabai Chanu stood atop the podium in Glasgow on Sunday, tears rolling down her cheeks after becoming the first woman weightlifter to secure her third consecutive Commonwealth Games gold medal, she provided much-needed succour to a Games that had risked fading into oblivion a few years ago. With India set to host the centenary edition of the Games in Ahmedabad in 2030, there could not have been a better advertisement than Mirabai’s golden triumph, which also ensured her fourth medal of any colour in a row in the women’s 48kg category with a total of 190kg. The seasoned weightlifter’s feat may not be the only glorious chapter written in the Scottish city, as other leading Indian athletes are expected to climb the podium in athletics and para-athletics, weightlifting and para-weightlifting, boxing, judo, and lawn bowls and para-bowls. According to an internal estimation by the Union Sports Ministry, India’s athletes are expected to win around 30 medals even though several disciplines in which Indians have traditionally excelled — such as wrestling, badminton, table tennis, hockey and squash — were dropped from the scaled-down Glasgow event. Medals are expected from Neeraj Chopra, Murali Sreeshankar, Praveen Chithravel, and boxers Lovlina Borgohain and Jaismine Lamboria.
-
-The curtailed Commonwealth Games highlights the diminishing relevance of the erstwhile British Empire’s sporting tradition. The 2026 edition, originally allotted to Victoria, faced an existential threat after the Australian State withdrew as a host three years ago due to spiralling costs. Glasgow, the host in 2014, saved the Games from embarrassment by proposing a scaled-down version — with 10 integrated disciplines, across four venues within an eight-mile corridor. Even though the Commonwealth Games do not match the global or regional excellence of the Olympics or the Asian Games, the platform still holds a strong appeal for Indian sportspersons and administrators. While India’s success at the elite world level across different sports has been sporadic, it has the dubious distinction of topping the global doping charts for three successive years. Multiple athletes across disciplines have been caught for consuming banned substances even in the run-up to Glasgow 2026. Either they have been withdrawn from the Indian contingent or have failed to qualify due to this, impacting the nation’s medal chances and bringing it shameful international headlines. As the country prepares to organise a bigger Commonwealth Games — especially against the backdrop of the corruption-tainted Delhi 2010 edition — it would do well to enhance its vigilance to curb financial malpractices and promote clean sport over the next four years.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/diminishing-relevance-on-the-commonwealth-games/article71277276.ece)
-
----
-
-### Protecting protest: On mass protests
-*The Hindu · Editorial*
-
-A defining feature of the recent Cockroach Janta Party agitation related to its underestimation by the government, which hoped to quell the protests by force. The net result was widespread student anger, which served to entrench the agitation. The Supreme Court has just commenced hearing petitions on the police’s alleged use of disproportionate force, especially on July 20 in Delhi and a constable’s aerial firing of an assault rifle allegedly to disperse crowds on July 25 in Bihar’s Siwan. The Court has also agreed to hear petitions from the families of police personnel claiming that they were assaulted and “lynched”. The ferocity of the July 20 police crackdown against protesters is not in doubt; in addition to tear gas, videos also purported to show the police using lathis studded with nails. But as Justice Joymalya Bagchi observed, the state should also answer why some police officers allegedly lacked protective gear. Under-equipped police are more likely to escalate force out of fear, and this is why international best practices in crowd control involve graduated responses. There is also merit in pleas that the same police force accused of using excess force also investigating it could potentially undermine credibility.
-
-However, the Chief Justice of India’s remark that protests are permissible “with due permission and at designated places” could come at odds with the right to protest. The democratic purpose of a protest is to inconvenience the state and thus should not be limited to its happening at the state’s convenience. At the same time, not every inconvenience is constitutionally protected. The answer lies in proportionality. If the CJI’s insistence on ‘discipline’ comes to mean protests must be orderly and predictable, it risks imposing administrative preferences on a constitutional right. The state is responsible for preventing violence, protecting life, and maintaining essential services. But modern cities are also dense and even a peaceful blockade could deprive thousands of uninvolved citizens of their liberties. The judiciary should thus resist conflating disruption that results in inconveniencing the public — which is one of the mechanisms by which a protest acquires its political force — and violence, which infringes on the rights of others. A unified set of procedures will also be welcome since policing is a State subject under the Seventh Schedule, and States have different training, equipment, escalation, and documentation rules. A national protocol could standardise the thresholds at which the use of high-impact crowd-control measures can be authorised and mandatory documentation of lathi charges, medical assistance after use of force, preservation of evidence, and independent inquiries into serious injuries.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/protecting-protest-on-mass-protests/article71277247.ece)
-
----
-
-### The urban nightmare — a fire with no escape
-*The Hindu · Opinion*
-
-On June 22, 2026, 15 people gasped to death in a burning building in Aliganj, Lucknow. Trapped behind smoke-filled corridors and sealed exits, they never had a chance. The commercial establishment operating from a residential neighbourhood was a veritable death trap — pigeonhole-sized workstations crammed into an unauthorised structure with no viable fire escape.
-
-It was not merely a building that caught fire, but a system that failed. A tragedy waiting to happen, aided by those whose job it was to prevent it.
-
-[Read full article](https://www.thehindu.com/opinion/lead/the-urban-nightmare-a-fire-with-no-escape/article71277999.ece)
-
----
-
-### DC Edit | Pak Protesters Must Be Heard
-*Deccan Chronicle · Editorial*
-
-International attention is just being drawn to the situation in Pakistan-Occupied Kashmir, where a security crackdown has been ordered against protesters. Reports have it that over 90 people have died in the region since the latest round of protests began gathering momentum in early June, of whom over 20 may have been killed since the Azad Jammu Kashmir legislative assembly polls began early this week.Given Pakistan’s record in dealing with civil movements protesting about misrule and the denial of fundamental rights, etc., it is small wonder that a high death rate is inextricably associated with how the nation’s forces enforce law and order.Even so, it is not in India’s interest to attempt any sort of intervention into what is happening across the Line of Control beyond pointing to the world Pakistan’s record in human rights and its propensity to put down any movement against the establishment that is heavily backed by the Army under its much-vaunted field marshal Asim Munir.India did comment that the protests are a direct consequence of Islamabad’s systematic exploitation over decades of the people and their continuous oppression in a territory which it wished to remind was being illegally occupied by Pakistan. It is a comment on the prevalent attitude against protesters that they have been equated with India to be considered as “enemies”, as articulated by defence minister Khawaja Asif.
-
-Elections to the assembly provided the spark for the most recent wave of protests in which the Joint Awami Action Committee (JAAC), which is spearheading the movement, has been demanding the abolition of 12 legislative seats in the assembly that are reserved for Kashmiri refugees living on the Pakistan side of the border.Talks with federal ministers and the PoK administration having failed, the committee has been in the forefront of the agitation, backing calls for boycott of the polls and the administration has taken a tough stand against those who wished to boycott the elections. The integrity of the polls is also questionable given Pakistan’s despair to control the disputed territory. Pakistan has never been known to worry about human rights when it comes to handling restive regions.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-pak-protesters-must-be-heard-1975004)
-
----
-
-### DC Edit | SC Must Crack Down Hard on Police Brutality
-*Deccan Chronicle · Editorial*
-
-Finally, the Supreme Court has made a forceful though delayed intervention in the cases relating to the student protest over the leakage of question papers in the NEET examination when it stopped governments from going ahead with their vindictive action against the protesters and suggested that an independent investigation into allegations of police excesses on students is warranted instead. Now, a close follow-up by the court on their compliance with its own directions and suggestions would go a long way in inspiring confidence.One of the curses of the system of administration of criminal justice in India is that the process can easily be made the punishment if the government so chooses. Detention, arrest and the long-drawn legal process together make a nightmarish experience for people in the normal course; it will be worse if the government gets involved in them. The registration of cases against peaceful protesters at Jantar Mantar in Delhi as well as in the other states was a deterrence ploy of the government. The apex court’s order directing the release of all the students with no criminal antecedents and its ban on the registering of new FIRs on such people come as a big relief for the protesters. It must be emphasised that the term “criminal antecedents” is confusing as there is many a political activist with cases registered against them for participating in public agitations. The court must ensure that the police go with the spirit of its order.Even the government would agree that the youth who hit the streets seeking accountability on the part of the government after the cancellation of the Neet examination attended by 22 lakh people and the mess the CBSE made of the valuation of its Class 12 answer sheets had a bona fide case. The Prime Minister’s announcements about the formation of an experts committee on NTA reforms and the tightening of the anti-paper leak law in response to the students’ protests point to the lacunae the government had left unaddressed. It is hence unacceptable that those who raised genuine concerns about the future of the young generation are treated inhumanely by the police, those in police uniform and those without uniform.Allegations of the use of electric batons, lathis fitted with nails and inappropriate behaviour with students, including girls, have already surfaced. It is hence very much in order that the Supreme Court forms a special investigation team to get to the bottom of the allegations. The police brutality must not go undocumented; we are an independent country functioning on the rule of law.The government wanted its actions to be a deterrent for those who democratically and peacefully protest against its policies; the SC’s moves, on the other hand, come as offering a deterrent to the government and its agencies if they plan to unleash the might of the state on its people. And that is the need of the hour. Moreover, it is the obvious choice for the state in a democratic republic.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sc-must-crack-down-hard-on-police-brutality-1975009)
-
----
-
-### Dilip Cherian | Exam Reforms: Centre Goes For Systems Fix For A Systems Failure
-*Deccan Chronicle · Opinion*
-
-Governments, especially those with strong political instincts, usually respond to crises with tougher laws, tighter enforcement and louder messaging. Technology rarely becomes the headline act. That is why the decision to hand India’s examination reforms to Nandan Nilekani is more significant than it first appears.
-
-The government has been battered by recurring exam paper leaks and allegations that have chipped away at public confidence. It could have chosen another committee of retired administrators. Instead, it turned to a team led by the man who helped build Aadhaar and shape India's digital public infrastructure. The message Prime Minister Narendra Modi wants to send out is that this is a systems problem.
-
-Mr Nilekani brings something that few people in India can claim. He has run a global corporation, worked inside government and learnt how bureaucracy functions. Those are very different skill sets, yet he has demonstrated an unusual ability to combine them. Corporate efficiency without bureaucratic patience rarely survives in government. Bureaucratic instinct without execution rarely changes anything. Mr Nilekani has shown he understands both.
-
-The Modi Sarkar has often preferred political solutions to institutional ones. This appointment suggests that, when cornered, it is willing to reach for technocratic expertise instead of doubling down on familiar responses. That is a healthy instinct.
-
-Technology, of course, will not eliminate cheating by itself. Human ingenuity can outwit software just as it can exploit weak institutions. But technology can make fraud harder, improve accountability and create audit trails that were previously impossible.
-
-If this exercise succeeds, the real achievement will not be another digital platform. It will be restoring trust in one of the few institutions on which millions of young Indians stake their future.
-
-Continuity matters too
-
-Much is being written about the churn unfolding in the higher bureaucracy, with the Centre reshaping key positions as it prepares for the next phase of governance post the Cockroach Andolan. Against this backdrop, the decision to entrust Defence secretary Rajesh Kumar Singh with the additional charge of secretary, department of ex-servicemen welfare, may appear routine but is anything but.
-
-The move reflects something this NDA government led by Mr Modi has consistently valued: Continuity. Rather than disrupt the system, it has chosen to keep a closely linked portfolio in experienced hands while the incumbent, Sukriti Likhi, is on leave. It is a small administrative decision, but one that points to a larger governing philosophy.
-
-The defence ministry and the department of ex-servicemen welfare are not disconnected silos. Policies concerning veterans, pensions, rehabilitation and welfare work best when there is seamless coordination with the broader defence establishment. Having one senior officer oversee both departments, even briefly, can help maintain that alignment and prevent files from slowing down.
-
-Rajesh Kumar Singh brings years of administrative experience and already has his hands on the ministry's most critical issues. Giving him temporary charge avoids unnecessary transition costs and ensures that decision-making remains uninterrupted.
-
-Governments are often judged by headline appointments and dramatic reshuffles. Yet effective administration is just as much about getting quieter decisions right.
-
-In a season of bureaucratic realignment, this appointment is a reminder that stability has its own value.
-
-Rank cannot be a refuge
-
-The higher the rank, the higher the standard. That is the principle every police force claims to uphold. In practice, however, senior officers often seem to enjoy a degree of insulation unavailable to their juniors. That is why Kerala's decision to suspend senior IPS officer M.R. Ajith Kumar deserves attention beyond the immediate controversy.
-
-The suspension is not a finding of guilt. It is recognition that allegations of misconduct against a serving police chief cannot be examined credibly while the officer remains in office.
-
-For years, India's policing system has suffered from an uncomfortable imbalance. Constables and inspectors are routinely suspended pending investigation. At the top, disciplinary action is far rarer, with transfers and prolonged enquiries often replacing decisive institutional responses. The result is a perception that the chain of command also doubles as a shield.
-
-Kerala has, at least for now, chosen a different course. Acting before Ajith Kumar could assume higher office sends a message that promotion cannot become an escape route from scrutiny. Whether the inquiry eventually exonerates him or establishes wrongdoing is a matter for due process. What matters today is that due process has been allowed to begin without the shadow of official authority hanging over it.
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-exam-reforms-centre-goes-for-systems-fix-for-a-systems-failure-1974981)
-
----
-
-### Gurjit Singh | Asean Is Key To Delhi's Indo-Pacific Strategy
-*Deccan Chronicle · Opinion*
-
-External affairs minister S. Jaishankar has returned from a hectic schedule at the Asean post-ministerial and related conferences in Manila in late July. The formal meetings included the Asean-India post-ministerial conference, the East Asia Summit foreign ministers’ meeting, and the Asean Regional Forum. On the sidelines was the Quad foreign ministers’ meeting and nearly a score of bilateral meetings with fellow ministers.
-
-These engagements show that, despite concerns about the centrality of Asean, Asean-led institutions are still important as diplomatic platforms where regional powers and partners convene annually. The foreign ministers’ meetings will be followed by the Leaders’ Summit in October.
-
-It is evident that India no longer treats the Asean-Plus meetings merely as engagement with a regional organisation. India is using these meetings as the diplomatic fulcrum of its Indo-Pacific engagement, pursuing multilateral, plurilateral and bilateral diplomacy with equal vigour. Several discernible trends emerged from the meetings.
-
-The first is India’s continued recognition of Asean’s centrality while using Asean-led mechanisms to broaden the Indo-Pacific agenda. In his interventions, Mr Jaishankar emphasised the key role of Asean as the centrepiece of a free, open, inclusive and rules-based Indo-Pacific. Even as strategic rivalries intensify, India avoids portraying the Indo-Pacific exclusively as a security construct. Instead, it links the concept with maritime security, connectivity, resilient supply chains and economic security. The designation of 2026 as the Asean-India Year of Maritime Cooperation reflects India’s effort to align its Indo-Pacific vision with the Asean Outlook on the Indo-Pacific.
-
-A second important trend is India’s growing emphasis on economic security rather than conventional trade diplomacy. The external affairs minister consistently referred to disruptions in supply chains and the challenges posed to food, energy and health security as defining issues. This terminology reflects India’s belief that security, economics and technology are inseparable. Trusted supply chains, resilient manufacturing, critical technologies, maritime connectivity and economic security are increasingly replacing traditional discussions on tariff liberalisation. This approach is already visible in India’s recent joint statements with Japan, Australia, the EU and the Quad, and is now extended to Asean as India seeks broader economic partnerships while balancing the effects of the US-China strategic rivalry.
-
-A third visible trend was the prominence accorded to maritime security. At the Asean, ARF and EAS meetings, India reiterated its longstanding support for freedom of navigation, secure sea lanes and the protection of commercial shipping. While these have traditionally been associated with the South China Sea, the sharper tone of the minister’s interventions reflected recent attacks on civilian shipping, seafarers and maritime routes in the Red Sea. Maritime security is therefore no longer viewed solely through the prism of naval cooperation, but as an essential requirement for global trade, economic stability and uninterrupted energy flows. This broader conception resonated with Asean’s own approach, reflected in its statements on the crisis in West Asia.
-
-A fourth trend was India’s continuing emphasis on counter-terrorism as an integral component of regional security. At the ARF, which focuses principally on security issues, the EAM called for stronger international action to disrupt the financing of extremist and terrorist networks. India has consistently sought to broaden Asean’s security agenda beyond maritime disputes in the South China Sea to include terrorism, cybercrime and other transnational threats. The minister’s emphasis on curtailing financial flows to terrorism showed India’s effort to bring its domestic counter-terrorism priorities into evolving regional norms. This approach also links financial integrity, cross-border law enforcement, technology governance and intelligence cooperation into a more comprehensive security framework.
-
-Pakistan, an Asean sectoral dialogue partner since 1992, participates only in the Asean Regional Forum (ARF). At the 33rd ARF, deputy PM and foreign minister Ishaq Dar described the unresolved Jammu and Kashmir issue as the principal source of instability in South Asia and called for its resolution under UN Security Council resolutions. Referring to the Indus Waters Treaty, he maintained that it remains legally valid and urged dialogue over unilateral actions. He also advocated stronger preventive diplomacy and regional cooperation in the “Asia-Pacific”, reflecting Chinese terminology.
-
-The MEA strongly rejected Pakistan’s remarks, accusing Islamabad of misusing a multilateral platform to spread falsehoods and divert attention from its record of cross-border terrorism. India reiterated that Jammu and Kashmir is an integral part of the country and that the...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/gurjit-singh-asean-is-key-to-delhis-indo-pacific-strategy-1974972)
-
----
-
-### Guarantee the promised meal
-*Deccan Herald · Editorial*
-
-Welfare programmes are not judged by announcements but by whether benefits reach every intended recipient without disruption. The plight of some of Karnataka's government school teachers, who are now paying from their pockets to provide eggs under the midday meal scheme, is a stark reminder of how bureaucratic apathy can undermine even the best-intentioned initiatives.
-
-While an egg costs Rs 7-8 in the market, the government allocates only Rs 5 for purchase, with another Re 1 for boiling, peeling, and transport. The resulting shortfall of Rs 2-3 per egg is being absorbed by headmasters and teachers. It is indefensible that those entrusted with educating children should also finance a government scheme. This is not an unpredictable problem. Egg prices routinely fluctuate with seasonal demand, transport costs, and market conditions. A government that has run the midday meal programme for decades should have long ago introduced a dynamic procurement mechanism or a market-linked reimbursement system. Instead, it has clung to rigid allocations that bear little resemblance to market reality, while proposals for revision have gathered dust.
-
-Karnataka egg price hike: Pinch in schoolteachers' pockets as govt yet to revise allocationThe consequences are visible. Unable to absorb mounting losses indefinitely, some schools are contemplating reducing the number of days on which eggs are served, thereby diluting a landmark nutrition initiative. Ironically, this comes despite the Azim Premji Foundation's generous Rs 1,500-crore contribution, which enabled egg distribution to be expanded from two days a week to all six school days for nearly 55 lakh children. There is no shortage of funds; what is missing is administrative competence.
-
-For many children from the poorest households, the school egg is their most nutritious meal, rich in protein, vitamins and minerals essential for growth and brain development. Equally inexcusable is the silence of local MLAs. Quick to claim credit for welfare schemes, they have been conspicuously absent when implementation falters. They ought to have secured interim funding from district authorities or pressed the government for immediate revision.
-
-This is part of a larger pattern. Nearly 48,000 tribal families have been deprived of nutritional food kits for months because officers failed to put a procurement arrangement in place after an earlier contract expired. The victims are always those who depend entirely on these schemes for daily sustenance. The government must immediately revise procurement rates, adopt a transparent market-indexed pricing mechanism, and hold errant officials accountable. Welfare cannot depend on the generosity of teachers or the patience of the poor. It must rest on efficient administration and political responsibility.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/guarantee-the-promised-meal-4090909)
-
----
-
-### Right to protest needs timely protection
-*Deccan Herald · Editorial*
-
-The Supreme Court has done well to direct that no coercive action should be initiated against protesters involved in the recent student agitation led by the Cockroach Janta Party (CJP) in Delhi's Jantar Mantar and other states. A bench of Chief Justice of India (CJI) Surya Kant, Justice Joymalya Bagchi, and Justice V Mohana ordered the immediate release of minors detained by the police.
-
-The Court held that the violence connected to the protests warranted a “thorough, fair and impartial” investigation. The order came on multiple petitions alleging that the police used excessive force during the Sansad Chalo demonstration and other protests on July 20. It also took note of allegations regarding the use of pellet guns and electric batons, the assault on women protesters and media personnel, and claims that policemen in civilian clothes participated in the violence.
-
-CJP Protest: Victims file petition in Supreme Court to ban use of pellets against protesters Excesses brought to the apex court's attention have continued in other forms even after the police action. The alleged deployment of facial recognition technologies to identify protesters and place them under surveillance has triggered widespread concern.
-
-Apart from the hundreds of FIRs filed during the protests, fresh FIRs were reportedly registered later. Those who served food to the protesters have also faced harassment. It is not just the violence resorted to by the police against the protesters that violates the constitutional right to protest. The closure of metro stations and the shutting down of mobile internet are state actions that prevent people from exercising their right.
-
-These actions also deny the rights of thousands of others not connected to the protests. Courts and other bodies should factor in these breaches, too, when they consider appeals against excessive state action. CJP leaders have accused the Union government of not honouring the assurances made before the protest was called off. The party has warned of a fresh round of agitation if the government fails to correct its position.
-
-The CJI made a welcome reiteration on Monday that the right to peacefully protest is absolutely guaranteed under the Constitution and that police excesses were unacceptable. Very often, statements and decisions are delayed when they are most needed, with their principles emphasised only after the event in question.
-
-Notably, the Supreme Court last week refused an urgent hearing regarding allegations of police excesses. Although the CJI provided reasons for declining the plea, his explanation failed to convince critics, leaving doubts about the soundness of the Court’s position, taken at a critical time.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/right-to-protest-needs-timely-protection-4090908)
-
----
-
-### The sanctity of the sacred spring
-*Deccan Herald · Opinion*
-
-Bathing in and drinking from holy water bodies – rivers, waterfalls, springs, wells and tanks – has had tremendous spiritual and religious significance for Hindus as well as people of other faiths.
-
-Take the Ganges or the other sacred rivers of India, like the Yamuna, Saraswathi, Godavari or Cauvery, where rituals are conducted and prayers offered for salvation and cleansing of sins – from times immemorial.
-
-The holy Venkatachala Hill at Tirupati has innumerable theerthas, including the Swami Pushkarini and Akash Ganga, strongly believed to offer liberation. Which is why, back in the day, when travelling to Tirupati was not easy, people still made the journey once in a lifetime to atone and be cleansed.
-
-Emperors without empathy: Why power needs humility, compassion and dialogueIn addition, devotees surrender for a variety of blessings such as healing, relief from various problems in life, spiritual renewal and reformation with utmost faith. Occasions like Makar Sankranti, Maha Magam, Kumbh Mela (commemorating the amrit spilling from the Samudra Manthan) or Mukkoti Dwadashi, when it is said that the thirty-three crore gods and goddesses in the Hindu pantheon too take a dip in celebrated temple tanks, are earmarked for observances.
-
-Months in which certain planetary constellations occur in specific lunar cycles are considered to confer merit because of the convergence of water from numerous sacred rivers with benefits accruing even to the ancestors.
-
-Christians regard blessed water from the famous pilgrimage centre of Lourdes in France with great reverence. Here a 14-year-old peasant girl, St Bernadette Soubirous, is believed to have had visions of the Virgin Mary, who instructed her to dig in the ground to locate a spring which has miraculous healing properties and is dearly sought.
-
-For followers of Islam, blessed water from the Zam Zam well in the Great Mosque near the Kaaba in Mecca not only quenches hunger and thirst but also rejuvenates physically and spiritually. The back story is that Prophet Ibrahim was once commanded by Allah to leave his wife Hajar
-
-and their young son Ismail in a barren valley in Mecca. When her supplies of food and water ran out, Hajar searched high and low. Which is when Angel Gabriel struck the earth with his wing, and from that spot sprang forth water. Hajar scooped up the water with her hands and began drinking from it – a miraculous source that hasn’t gone dry since.
-
-[Read full article](https://www.deccanherald.com/opinion/the-sanctity-of-the-sacred-spring-4090906)
 
 ---
 

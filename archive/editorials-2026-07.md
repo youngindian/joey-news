@@ -1,5 +1,189 @@
 # Editorials archive — 2026-07
 
+## 29 July 2026
+
+### ​Diminishing relevance: On the Commonwealth Games
+*The Hindu · Editorial*
+
+As Olympic and World Championships medallist Mirabai Chanu stood atop the podium in Glasgow on Sunday, tears rolling down her cheeks after becoming the first woman weightlifter to secure her third consecutive Commonwealth Games gold medal, she provided much-needed succour to a Games that had risked fading into oblivion a few years ago. With India set to host the centenary edition of the Games in Ahmedabad in 2030, there could not have been a better advertisement than Mirabai’s golden triumph, which also ensured her fourth medal of any colour in a row in the women’s 48kg category with a total of 190kg. The seasoned weightlifter’s feat may not be the only glorious chapter written in the Scottish city, as other leading Indian athletes are expected to climb the podium in athletics and para-athletics, weightlifting and para-weightlifting, boxing, judo, and lawn bowls and para-bowls. According to an internal estimation by the Union Sports Ministry, India’s athletes are expected to win around 30 medals even though several disciplines in which Indians have traditionally excelled — such as wrestling, badminton, table tennis, hockey and squash — were dropped from the scaled-down Glasgow event. Medals are expected from Neeraj Chopra, Murali Sreeshankar, Praveen Chithravel, and boxers Lovlina Borgohain and Jaismine Lamboria.
+
+The curtailed Commonwealth Games highlights the diminishing relevance of the erstwhile British Empire’s sporting tradition. The 2026 edition, originally allotted to Victoria, faced an existential threat after the Australian State withdrew as a host three years ago due to spiralling costs. Glasgow, the host in 2014, saved the Games from embarrassment by proposing a scaled-down version — with 10 integrated disciplines, across four venues within an eight-mile corridor. Even though the Commonwealth Games do not match the global or regional excellence of the Olympics or the Asian Games, the platform still holds a strong appeal for Indian sportspersons and administrators. While India’s success at the elite world level across different sports has been sporadic, it has the dubious distinction of topping the global doping charts for three successive years. Multiple athletes across disciplines have been caught for consuming banned substances even in the run-up to Glasgow 2026. Either they have been withdrawn from the Indian contingent or have failed to qualify due to this, impacting the nation’s medal chances and bringing it shameful international headlines. As the country prepares to organise a bigger Commonwealth Games — especially against the backdrop of the corruption-tainted Delhi 2010 edition — it would do well to enhance its vigilance to curb financial malpractices and promote clean sport over the next four years.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/diminishing-relevance-on-the-commonwealth-games/article71277276.ece)
+
+---
+
+### Protecting protest: On mass protests
+*The Hindu · Editorial*
+
+A defining feature of the recent Cockroach Janta Party agitation related to its underestimation by the government, which hoped to quell the protests by force. The net result was widespread student anger, which served to entrench the agitation. The Supreme Court has just commenced hearing petitions on the police’s alleged use of disproportionate force, especially on July 20 in Delhi and a constable’s aerial firing of an assault rifle allegedly to disperse crowds on July 25 in Bihar’s Siwan. The Court has also agreed to hear petitions from the families of police personnel claiming that they were assaulted and “lynched”. The ferocity of the July 20 police crackdown against protesters is not in doubt; in addition to tear gas, videos also purported to show the police using lathis studded with nails. But as Justice Joymalya Bagchi observed, the state should also answer why some police officers allegedly lacked protective gear. Under-equipped police are more likely to escalate force out of fear, and this is why international best practices in crowd control involve graduated responses. There is also merit in pleas that the same police force accused of using excess force also investigating it could potentially undermine credibility.
+
+However, the Chief Justice of India’s remark that protests are permissible “with due permission and at designated places” could come at odds with the right to protest. The democratic purpose of a protest is to inconvenience the state and thus should not be limited to its happening at the state’s convenience. At the same time, not every inconvenience is constitutionally protected. The answer lies in proportionality. If the CJI’s insistence on ‘discipline’ comes to mean protests must be orderly and predictable, it risks imposing administrative preferences on a constitutional right. The state is responsible for preventing violence, protecting life, and maintaining essential services. But modern cities are also dense and even a peaceful blockade could deprive thousands of uninvolved citizens of their liberties. The judiciary should thus resist conflating disruption that results in inconveniencing the public — which is one of the mechanisms by which a protest acquires its political force — and violence, which infringes on the rights of others. A unified set of procedures will also be welcome since policing is a State subject under the Seventh Schedule, and States have different training, equipment, escalation, and documentation rules. A national protocol could standardise the thresholds at which the use of high-impact crowd-control measures can be authorised and mandatory documentation of lathi charges, medical assistance after use of force, preservation of evidence, and independent inquiries into serious injuries.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/protecting-protest-on-mass-protests/article71277247.ece)
+
+---
+
+### The urban nightmare — a fire with no escape
+*The Hindu · Opinion*
+
+On June 22, 2026, 15 people gasped to death in a burning building in Aliganj, Lucknow. Trapped behind smoke-filled corridors and sealed exits, they never had a chance. The commercial establishment operating from a residential neighbourhood was a veritable death trap — pigeonhole-sized workstations crammed into an unauthorised structure with no viable fire escape.
+
+It was not merely a building that caught fire, but a system that failed. A tragedy waiting to happen, aided by those whose job it was to prevent it.
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-urban-nightmare-a-fire-with-no-escape/article71277999.ece)
+
+---
+
+### DC Edit | Pak Protesters Must Be Heard
+*Deccan Chronicle · Editorial*
+
+International attention is just being drawn to the situation in Pakistan-Occupied Kashmir, where a security crackdown has been ordered against protesters. Reports have it that over 90 people have died in the region since the latest round of protests began gathering momentum in early June, of whom over 20 may have been killed since the Azad Jammu Kashmir legislative assembly polls began early this week.Given Pakistan’s record in dealing with civil movements protesting about misrule and the denial of fundamental rights, etc., it is small wonder that a high death rate is inextricably associated with how the nation’s forces enforce law and order.Even so, it is not in India’s interest to attempt any sort of intervention into what is happening across the Line of Control beyond pointing to the world Pakistan’s record in human rights and its propensity to put down any movement against the establishment that is heavily backed by the Army under its much-vaunted field marshal Asim Munir.India did comment that the protests are a direct consequence of Islamabad’s systematic exploitation over decades of the people and their continuous oppression in a territory which it wished to remind was being illegally occupied by Pakistan. It is a comment on the prevalent attitude against protesters that they have been equated with India to be considered as “enemies”, as articulated by defence minister Khawaja Asif.
+
+Elections to the assembly provided the spark for the most recent wave of protests in which the Joint Awami Action Committee (JAAC), which is spearheading the movement, has been demanding the abolition of 12 legislative seats in the assembly that are reserved for Kashmiri refugees living on the Pakistan side of the border.Talks with federal ministers and the PoK administration having failed, the committee has been in the forefront of the agitation, backing calls for boycott of the polls and the administration has taken a tough stand against those who wished to boycott the elections. The integrity of the polls is also questionable given Pakistan’s despair to control the disputed territory. Pakistan has never been known to worry about human rights when it comes to handling restive regions.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-pak-protesters-must-be-heard-1975004)
+
+---
+
+### DC Edit | SC Must Crack Down Hard on Police Brutality
+*Deccan Chronicle · Editorial*
+
+Finally, the Supreme Court has made a forceful though delayed intervention in the cases relating to the student protest over the leakage of question papers in the NEET examination when it stopped governments from going ahead with their vindictive action against the protesters and suggested that an independent investigation into allegations of police excesses on students is warranted instead. Now, a close follow-up by the court on their compliance with its own directions and suggestions would go a long way in inspiring confidence.One of the curses of the system of administration of criminal justice in India is that the process can easily be made the punishment if the government so chooses. Detention, arrest and the long-drawn legal process together make a nightmarish experience for people in the normal course; it will be worse if the government gets involved in them. The registration of cases against peaceful protesters at Jantar Mantar in Delhi as well as in the other states was a deterrence ploy of the government. The apex court’s order directing the release of all the students with no criminal antecedents and its ban on the registering of new FIRs on such people come as a big relief for the protesters. It must be emphasised that the term “criminal antecedents” is confusing as there is many a political activist with cases registered against them for participating in public agitations. The court must ensure that the police go with the spirit of its order.Even the government would agree that the youth who hit the streets seeking accountability on the part of the government after the cancellation of the Neet examination attended by 22 lakh people and the mess the CBSE made of the valuation of its Class 12 answer sheets had a bona fide case. The Prime Minister’s announcements about the formation of an experts committee on NTA reforms and the tightening of the anti-paper leak law in response to the students’ protests point to the lacunae the government had left unaddressed. It is hence unacceptable that those who raised genuine concerns about the future of the young generation are treated inhumanely by the police, those in police uniform and those without uniform.Allegations of the use of electric batons, lathis fitted with nails and inappropriate behaviour with students, including girls, have already surfaced. It is hence very much in order that the Supreme Court forms a special investigation team to get to the bottom of the allegations. The police brutality must not go undocumented; we are an independent country functioning on the rule of law.The government wanted its actions to be a deterrent for those who democratically and peacefully protest against its policies; the SC’s moves, on the other hand, come as offering a deterrent to the government and its agencies if they plan to unleash the might of the state on its people. And that is the need of the hour. Moreover, it is the obvious choice for the state in a democratic republic.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sc-must-crack-down-hard-on-police-brutality-1975009)
+
+---
+
+### Dilip Cherian | Exam Reforms: Centre Goes For Systems Fix For A Systems Failure
+*Deccan Chronicle · Opinion*
+
+Governments, especially those with strong political instincts, usually respond to crises with tougher laws, tighter enforcement and louder messaging. Technology rarely becomes the headline act. That is why the decision to hand India’s examination reforms to Nandan Nilekani is more significant than it first appears.
+
+The government has been battered by recurring exam paper leaks and allegations that have chipped away at public confidence. It could have chosen another committee of retired administrators. Instead, it turned to a team led by the man who helped build Aadhaar and shape India's digital public infrastructure. The message Prime Minister Narendra Modi wants to send out is that this is a systems problem.
+
+Mr Nilekani brings something that few people in India can claim. He has run a global corporation, worked inside government and learnt how bureaucracy functions. Those are very different skill sets, yet he has demonstrated an unusual ability to combine them. Corporate efficiency without bureaucratic patience rarely survives in government. Bureaucratic instinct without execution rarely changes anything. Mr Nilekani has shown he understands both.
+
+The Modi Sarkar has often preferred political solutions to institutional ones. This appointment suggests that, when cornered, it is willing to reach for technocratic expertise instead of doubling down on familiar responses. That is a healthy instinct.
+
+Technology, of course, will not eliminate cheating by itself. Human ingenuity can outwit software just as it can exploit weak institutions. But technology can make fraud harder, improve accountability and create audit trails that were previously impossible.
+
+If this exercise succeeds, the real achievement will not be another digital platform. It will be restoring trust in one of the few institutions on which millions of young Indians stake their future.
+
+Continuity matters too
+
+Much is being written about the churn unfolding in the higher bureaucracy, with the Centre reshaping key positions as it prepares for the next phase of governance post the Cockroach Andolan. Against this backdrop, the decision to entrust Defence secretary Rajesh Kumar Singh with the additional charge of secretary, department of ex-servicemen welfare, may appear routine but is anything but.
+
+The move reflects something this NDA government led by Mr Modi has consistently valued: Continuity. Rather than disrupt the system, it has chosen to keep a closely linked portfolio in experienced hands while the incumbent, Sukriti Likhi, is on leave. It is a small administrative decision, but one that points to a larger governing philosophy.
+
+The defence ministry and the department of ex-servicemen welfare are not disconnected silos. Policies concerning veterans, pensions, rehabilitation and welfare work best when there is seamless coordination with the broader defence establishment. Having one senior officer oversee both departments, even briefly, can help maintain that alignment and prevent files from slowing down.
+
+Rajesh Kumar Singh brings years of administrative experience and already has his hands on the ministry's most critical issues. Giving him temporary charge avoids unnecessary transition costs and ensures that decision-making remains uninterrupted.
+
+Governments are often judged by headline appointments and dramatic reshuffles. Yet effective administration is just as much about getting quieter decisions right.
+
+In a season of bureaucratic realignment, this appointment is a reminder that stability has its own value.
+
+Rank cannot be a refuge
+
+The higher the rank, the higher the standard. That is the principle every police force claims to uphold. In practice, however, senior officers often seem to enjoy a degree of insulation unavailable to their juniors. That is why Kerala's decision to suspend senior IPS officer M.R. Ajith Kumar deserves attention beyond the immediate controversy.
+
+The suspension is not a finding of guilt. It is recognition that allegations of misconduct against a serving police chief cannot be examined credibly while the officer remains in office.
+
+For years, India's policing system has suffered from an uncomfortable imbalance. Constables and inspectors are routinely suspended pending investigation. At the top, disciplinary action is far rarer, with transfers and prolonged enquiries often replacing decisive institutional responses. The result is a perception that the chain of command also doubles as a shield.
+
+Kerala has, at least for now, chosen a different course. Acting before Ajith Kumar could assume higher office sends a message that promotion cannot become an escape route from scrutiny. Whether the inquiry eventually exonerates him or establishes wrongdoing is a matter for due process. What matters today is that due process has been allowed to begin without the shadow of official authority hanging over it.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-exam-reforms-centre-goes-for-systems-fix-for-a-systems-failure-1974981)
+
+---
+
+### Gurjit Singh | Asean Is Key To Delhi's Indo-Pacific Strategy
+*Deccan Chronicle · Opinion*
+
+External affairs minister S. Jaishankar has returned from a hectic schedule at the Asean post-ministerial and related conferences in Manila in late July. The formal meetings included the Asean-India post-ministerial conference, the East Asia Summit foreign ministers’ meeting, and the Asean Regional Forum. On the sidelines was the Quad foreign ministers’ meeting and nearly a score of bilateral meetings with fellow ministers.
+
+These engagements show that, despite concerns about the centrality of Asean, Asean-led institutions are still important as diplomatic platforms where regional powers and partners convene annually. The foreign ministers’ meetings will be followed by the Leaders’ Summit in October.
+
+It is evident that India no longer treats the Asean-Plus meetings merely as engagement with a regional organisation. India is using these meetings as the diplomatic fulcrum of its Indo-Pacific engagement, pursuing multilateral, plurilateral and bilateral diplomacy with equal vigour. Several discernible trends emerged from the meetings.
+
+The first is India’s continued recognition of Asean’s centrality while using Asean-led mechanisms to broaden the Indo-Pacific agenda. In his interventions, Mr Jaishankar emphasised the key role of Asean as the centrepiece of a free, open, inclusive and rules-based Indo-Pacific. Even as strategic rivalries intensify, India avoids portraying the Indo-Pacific exclusively as a security construct. Instead, it links the concept with maritime security, connectivity, resilient supply chains and economic security. The designation of 2026 as the Asean-India Year of Maritime Cooperation reflects India’s effort to align its Indo-Pacific vision with the Asean Outlook on the Indo-Pacific.
+
+A second important trend is India’s growing emphasis on economic security rather than conventional trade diplomacy. The external affairs minister consistently referred to disruptions in supply chains and the challenges posed to food, energy and health security as defining issues. This terminology reflects India’s belief that security, economics and technology are inseparable. Trusted supply chains, resilient manufacturing, critical technologies, maritime connectivity and economic security are increasingly replacing traditional discussions on tariff liberalisation. This approach is already visible in India’s recent joint statements with Japan, Australia, the EU and the Quad, and is now extended to Asean as India seeks broader economic partnerships while balancing the effects of the US-China strategic rivalry.
+
+A third visible trend was the prominence accorded to maritime security. At the Asean, ARF and EAS meetings, India reiterated its longstanding support for freedom of navigation, secure sea lanes and the protection of commercial shipping. While these have traditionally been associated with the South China Sea, the sharper tone of the minister’s interventions reflected recent attacks on civilian shipping, seafarers and maritime routes in the Red Sea. Maritime security is therefore no longer viewed solely through the prism of naval cooperation, but as an essential requirement for global trade, economic stability and uninterrupted energy flows. This broader conception resonated with Asean’s own approach, reflected in its statements on the crisis in West Asia.
+
+A fourth trend was India’s continuing emphasis on counter-terrorism as an integral component of regional security. At the ARF, which focuses principally on security issues, the EAM called for stronger international action to disrupt the financing of extremist and terrorist networks. India has consistently sought to broaden Asean’s security agenda beyond maritime disputes in the South China Sea to include terrorism, cybercrime and other transnational threats. The minister’s emphasis on curtailing financial flows to terrorism showed India’s effort to bring its domestic counter-terrorism priorities into evolving regional norms. This approach also links financial integrity, cross-border law enforcement, technology governance and intelligence cooperation into a more comprehensive security framework.
+
+Pakistan, an Asean sectoral dialogue partner since 1992, participates only in the Asean Regional Forum (ARF). At the 33rd ARF, deputy PM and foreign minister Ishaq Dar described the unresolved Jammu and Kashmir issue as the principal source of instability in South Asia and called for its resolution under UN Security Council resolutions. Referring to the Indus Waters Treaty, he maintained that it remains legally valid and urged dialogue over unilateral actions. He also advocated stronger preventive diplomacy and regional cooperation in the “Asia-Pacific”, reflecting Chinese terminology.
+
+The MEA strongly rejected Pakistan’s remarks, accusing Islamabad of misusing a multilateral platform to spread falsehoods and divert attention from its record of cross-border terrorism. India reiterated that Jammu and Kashmir is an integral part of the country and that the...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/gurjit-singh-asean-is-key-to-delhis-indo-pacific-strategy-1974972)
+
+---
+
+### Guarantee the promised meal
+*Deccan Herald · Editorial*
+
+Welfare programmes are not judged by announcements but by whether benefits reach every intended recipient without disruption. The plight of some of Karnataka's government school teachers, who are now paying from their pockets to provide eggs under the midday meal scheme, is a stark reminder of how bureaucratic apathy can undermine even the best-intentioned initiatives.
+
+While an egg costs Rs 7-8 in the market, the government allocates only Rs 5 for purchase, with another Re 1 for boiling, peeling, and transport. The resulting shortfall of Rs 2-3 per egg is being absorbed by headmasters and teachers. It is indefensible that those entrusted with educating children should also finance a government scheme. This is not an unpredictable problem. Egg prices routinely fluctuate with seasonal demand, transport costs, and market conditions. A government that has run the midday meal programme for decades should have long ago introduced a dynamic procurement mechanism or a market-linked reimbursement system. Instead, it has clung to rigid allocations that bear little resemblance to market reality, while proposals for revision have gathered dust.
+
+Karnataka egg price hike: Pinch in schoolteachers' pockets as govt yet to revise allocationThe consequences are visible. Unable to absorb mounting losses indefinitely, some schools are contemplating reducing the number of days on which eggs are served, thereby diluting a landmark nutrition initiative. Ironically, this comes despite the Azim Premji Foundation's generous Rs 1,500-crore contribution, which enabled egg distribution to be expanded from two days a week to all six school days for nearly 55 lakh children. There is no shortage of funds; what is missing is administrative competence.
+
+For many children from the poorest households, the school egg is their most nutritious meal, rich in protein, vitamins and minerals essential for growth and brain development. Equally inexcusable is the silence of local MLAs. Quick to claim credit for welfare schemes, they have been conspicuously absent when implementation falters. They ought to have secured interim funding from district authorities or pressed the government for immediate revision.
+
+This is part of a larger pattern. Nearly 48,000 tribal families have been deprived of nutritional food kits for months because officers failed to put a procurement arrangement in place after an earlier contract expired. The victims are always those who depend entirely on these schemes for daily sustenance. The government must immediately revise procurement rates, adopt a transparent market-indexed pricing mechanism, and hold errant officials accountable. Welfare cannot depend on the generosity of teachers or the patience of the poor. It must rest on efficient administration and political responsibility.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/guarantee-the-promised-meal-4090909)
+
+---
+
+### Right to protest needs timely protection
+*Deccan Herald · Editorial*
+
+The Supreme Court has done well to direct that no coercive action should be initiated against protesters involved in the recent student agitation led by the Cockroach Janta Party (CJP) in Delhi's Jantar Mantar and other states. A bench of Chief Justice of India (CJI) Surya Kant, Justice Joymalya Bagchi, and Justice V Mohana ordered the immediate release of minors detained by the police.
+
+The Court held that the violence connected to the protests warranted a “thorough, fair and impartial” investigation. The order came on multiple petitions alleging that the police used excessive force during the Sansad Chalo demonstration and other protests on July 20. It also took note of allegations regarding the use of pellet guns and electric batons, the assault on women protesters and media personnel, and claims that policemen in civilian clothes participated in the violence.
+
+CJP Protest: Victims file petition in Supreme Court to ban use of pellets against protesters Excesses brought to the apex court's attention have continued in other forms even after the police action. The alleged deployment of facial recognition technologies to identify protesters and place them under surveillance has triggered widespread concern.
+
+Apart from the hundreds of FIRs filed during the protests, fresh FIRs were reportedly registered later. Those who served food to the protesters have also faced harassment. It is not just the violence resorted to by the police against the protesters that violates the constitutional right to protest. The closure of metro stations and the shutting down of mobile internet are state actions that prevent people from exercising their right.
+
+These actions also deny the rights of thousands of others not connected to the protests. Courts and other bodies should factor in these breaches, too, when they consider appeals against excessive state action. CJP leaders have accused the Union government of not honouring the assurances made before the protest was called off. The party has warned of a fresh round of agitation if the government fails to correct its position.
+
+The CJI made a welcome reiteration on Monday that the right to peacefully protest is absolutely guaranteed under the Constitution and that police excesses were unacceptable. Very often, statements and decisions are delayed when they are most needed, with their principles emphasised only after the event in question.
+
+Notably, the Supreme Court last week refused an urgent hearing regarding allegations of police excesses. Although the CJI provided reasons for declining the plea, his explanation failed to convince critics, leaving doubts about the soundness of the Court’s position, taken at a critical time.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/right-to-protest-needs-timely-protection-4090908)
+
+---
+
+### The sanctity of the sacred spring
+*Deccan Herald · Opinion*
+
+Bathing in and drinking from holy water bodies – rivers, waterfalls, springs, wells and tanks – has had tremendous spiritual and religious significance for Hindus as well as people of other faiths.
+
+Take the Ganges or the other sacred rivers of India, like the Yamuna, Saraswathi, Godavari or Cauvery, where rituals are conducted and prayers offered for salvation and cleansing of sins – from times immemorial.
+
+The holy Venkatachala Hill at Tirupati has innumerable theerthas, including the Swami Pushkarini and Akash Ganga, strongly believed to offer liberation. Which is why, back in the day, when travelling to Tirupati was not easy, people still made the journey once in a lifetime to atone and be cleansed.
+
+Emperors without empathy: Why power needs humility, compassion and dialogueIn addition, devotees surrender for a variety of blessings such as healing, relief from various problems in life, spiritual renewal and reformation with utmost faith. Occasions like Makar Sankranti, Maha Magam, Kumbh Mela (commemorating the amrit spilling from the Samudra Manthan) or Mukkoti Dwadashi, when it is said that the thirty-three crore gods and goddesses in the Hindu pantheon too take a dip in celebrated temple tanks, are earmarked for observances.
+
+Months in which certain planetary constellations occur in specific lunar cycles are considered to confer merit because of the convergence of water from numerous sacred rivers with benefits accruing even to the ancestors.
+
+Christians regard blessed water from the famous pilgrimage centre of Lourdes in France with great reverence. Here a 14-year-old peasant girl, St Bernadette Soubirous, is believed to have had visions of the Virgin Mary, who instructed her to dig in the ground to locate a spring which has miraculous healing properties and is dearly sought.
+
+For followers of Islam, blessed water from the Zam Zam well in the Great Mosque near the Kaaba in Mecca not only quenches hunger and thirst but also rejuvenates physically and spiritually. The back story is that Prophet Ibrahim was once commanded by Allah to leave his wife Hajar
+
+and their young son Ismail in a barren valley in Mecca. When her supplies of food and water ran out, Hajar searched high and low. Which is when Angel Gabriel struck the earth with his wing, and from that spot sprang forth water. Hajar scooped up the water with her hands and began drinking from it – a miraculous source that hasn’t gone dry since.
+
+[Read full article](https://www.deccanherald.com/opinion/the-sanctity-of-the-sacred-spring-4090906)
+
+---
+
 ## 28 July 2026
 
 ### All art, no deal: On the U.S.-Saudi Arabia nuclear deal
