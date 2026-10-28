@@ -1,3 +1,494 @@
+## 28 October 2026
+
+### UPESSC rejects quota claims in recruitment of over 17,000 teachers
+*India Today Education Desk · general*
+
+## The Uttar Pradesh commission has rejected social media claims about reservation in assistant teacher recruitment. It says school-wise quotas follow government rules and candidates should trust official updates.
+
+The Uttar Pradesh commission has rejected social media claims about reservation in assistant teacher recruitment.
+
+Lucknow,Oct 28, 2026 11:18 IST
+
+The Uttar Pradesh Education Service Selection Commission has dismissed as baseless social media claims about reservation in the recruitment of assistant teachers for more than 17,000 posts in aided secondary schools, news agency Press Trust of India reported.
+
+Commission chairman Prashant Kumar said the reservation policy for the advertised posts had been implemented transparently and in accordance with government rules and prescribed procedures, according to a Uttar Pradesh government statement.
+
+“The misinformation being spread about reservation by certain undesirable elements and organisations on social media and other platforms is baseless and misleading,” Kumar said.
+
+### COMMISSION URGES CANDIDATES TO IGNORE RUMOURS
+
+He appealed to teaching job aspirants and the public not to believe or share misleading information or rumours circulated on social media or through unauthorised sources.
+
+Candidates should rely only on the Commission's official website for authorised information about the recruitment process, the statement said.
+
+### HOW RESERVATION IS CALCULATED
+
+Kumar said the Madhyamik Shiksha Nideshalaya had compiled details of vacancies across aided schools in the state, listing them by school, subject and category, including reservation categories, before submitting the recruitment request to the Commission.
+
+Aided secondary schools in Uttar Pradesh are treated as individual units, with the management of each school acting as the appointing authority, according to the statement cited by PTI. The allocation of posts by category is therefore calculated separately for each school, based on its sanctioned posts and the applicable reservation rules.
+
+The statement said the reservation did not apply to the combined number of vacancies across the state or at the Directorate level.
+
+### PREVIOUS RECRUITMENTS FOLLOWED THE SAME RULES
+
+The Commission said it had earlier conducted recruitment under the same rules and legal framework, including through Advertisement Nos. 01/2022 and 02/2022.
+
+Kumar also said the state government had clarified the position through its official social media handle, “E-Gyan Ganga-UP”. The Commission reiterated that candidates should use its official website for verified recruitment information and avoid circulating unverified claims.
+
+\- Ends
+
+---
+
+### Isro changes its playbook for NVS-03 mission: The crucial fix after NVS-02 failure
+*India Today Science Desk · general*
+
+## Isro will launch NVS-03 aboard GSLV-F18 on October 30 with its pyro valves already open. The unprecedented configuration aims to prevent the propulsion failure that stranded NVS-02.
+
+For the first time in its 51-year history of satellite launches, Isro is preparing to fly a satellite with its pyrotechnic valves, or pyro valves, already open. (Photo: Isro)
+
+New Delhi,Oct 28, 2026 11:15 IST
+
+The Indian Space Research Organisation (Isro) is preparing to launch its navigation satellite NVS-03 aboard the GSLV-F18 rocket on October 30, but the mission carries an unusual engineering decision that has drawn attention across the space sector.
+
+For the first time in its 51-year history of satellite launches, Isro is preparing to fly a satellite with its pyrotechnic valves, or pyro valves, already open, according to senior officials part of the mission.
+
+The move follows the failure of NVS-02, which became stranded in geosynchronous transfer orbit in January 2025 after a propulsion-system malfunction prevented it from reaching its designated orbit.
+
+The decision is aimed at eliminating a specific failure mechanism that affected its predecessor. However, experts have raised questions about the risks associated with changing a configuration traditionally used to isolate spacecraft propellant during launch.
+
+The decision is aimed at eliminating a specific failure mechanism that affected NVS-02. (Photo: Isro)
+
+### LESSONS FROM THE NVS-02 FAILURE
+
+Launched aboard GSLV-F15 on January 29, 2025, NVS-02 was successfully placed in geosynchronous transfer orbit. However, it could not perform the crucial orbit-raising manoeuvres required to reach geostationary orbit.
+
+Isro's investigation found that oxidiser could not flow to the liquid apogee motor because the electrical drive signal failed to reach the pyro valve.
+
+An Apex Committee concluded that the most likely cause involved the disengagement of at least one contact in each of the main and redundant paths of a connector.
+
+Without oxidiser reaching the propulsion system, the satellite could not fire its engine as required to complete its journey to the designated orbit.
+
+A pyro valve is a single-use mechanism that opens a sealed passage through a pyrotechnic action. Once activated, it remains open and cannot be closed again. Satellites use these valves to keep fuel and oxidiser isolated until the appropriate stage of a mission.
+
+For NVS-03, Isro appears to have chosen to open the valves before launch, removing the need for the critical post-launch activation that failed on NVS-02.
+
+### WHY LAUNCHING WITH OPEN VALVES IS UNUSUAL
+
+The altered configuration does not eliminate all risks. Instead, it shifts attention towards the downstream isolation and latch-valve arrangement, which must safely control the flow of propellant during spacecraft operations.
+
+Experts have raised concerns about possible leakage, pressure conditions and the effects of intense vibration and acceleration during the rocket's ascent. If the downstream valve fails to operate in orbit, the satellite could still lose its ability to manoeuvre.
+
+The key question is whether the configuration has undergone sufficient qualification and testing to ensure that the propulsion system can safely withstand launch with its pyro valves already open.
+
+Isro's publicly available information does not establish whether comparable operational satellites have previously flown in this configuration.
+
+### WHY NVS-03 MATTERS FOR INDIA'S NAVIC
+
+NVS-03 is the third second-generation satellite planned for India's Navigation with Indian Constellation (NavIC), the country's independent satellite navigation system.
+
+It follows NVS-01, launched successfully in May 2023, and NVS-02, whose orbit-raising manoeuvre failed.
+
+The next-generation satellites are intended to replenish the ageing navigation constellation and introduce additional capabilities, including the L1 navigation signal alongside the existing L5 and S signals. NVS-03 also carries indigenous atomic-clock technology.
+
+Isro's GSLV-F18 is expected to place the approximately 2,250-kg satellite into geosynchronous transfer orbit. Its liquid apogee motor must then raise it into geostationary orbit, around 37,000 km above Earth.
+
+The October 30 launch is therefore more than a routine satellite deployment. Its success will depend not only on the rocket reaching the intended transfer orbit but also on NVS-03 completing the crucial propulsion manoeuvres that its predecessor could not.
+
+The mission will test whether Isro's revised approach can avoid a repeat of the NVS-02 failure while safely delivering a vital addition to India's independent navigation infrastructure.
+
+\- Ends
+
+---
+
+### Madras High Court sets conditions for non-Hindu entry into Agamic temples
+*India Today News Desk · general*
+
+## The Madras High Court imposed conditions on non-Hindus entering Agamic temples. The ruling prioritises religious customs and sanctity over political considerations.
+
+Chennai,Oct 28, 2026 11:12 IST
+
+The Madras High Court has ruled that non-Hindus who refuse to affirm their reverence for a deity or follow traditional customs cannot enter temples governed by Agama scriptures, news agency Press Trust of India reported. The court said allowing such entry would compromise the religious sanctity of these temples.
+
+The ruling came on a public interest litigation filed by K Thangam Venkatesh, who sought strict enforcement of the Tamil Nadu Temple Entry Authorisation Act and action over violations of the law. A division bench of Justices G R Swaminathan and P Murugan clarified on Tuesday that the judgment applied only to Agamic temples.
+
+An Agamic temple is a Hindu shrine built, consecrated and maintained according to the Agama shastras, ancient texts that lay down rules governing various aspects of temple life.
+
+Addressing visits to temples by people of other faiths, the bench cited contrasting approaches adopted by political figures. According to PTI, the court referred to C Joseph Vijay, described in the judgment as a chief minister and a Christian, and said he worshipped at the Madurai Meenakshi Amman temple after signing the mandatory undertaking.
+
+“A Christian by faith, he was not asked to convert to Hinduism. He was only requested to affirm his reverence for the deity. This is what we call an inclusive approach,” the judges observed, contrasting this with instances in which people bypassed established rules.
+
+The bench also criticised what it described as “political sycophancy”, referring to non-Hindu political figures who visit temples while prominently displaying religious markings on their foreheads for political purposes.
+
+“The vote value of such a display is obvious. We hold that usages and customs of the temple cannot kneel before such display of ‘chamchagiri’ and optics,” the bench said.
+
+The judges also referred to a recent incident involving TVK MLA Badrudeen Mustafa, who allegedly climbed temple towers during a Kumbabishekam ceremony on the stated grounds of inspecting amenities. The court criticised the incident, pointing to the contrast between a leader proclaiming that “Sanatana Dharma ought to be eradicated” and climbing temple towers during a religious ceremony. It also referred to other politicians entering sacred areas while wearing religious markings or skull caps despite local protests, PTI reported.
+
+The court directed the authorities to strictly enforce temple entry rules and uphold long-standing traditions without yielding to political considerations. The judgment reiterated that people of other faiths may enter Agamic temples only if they affirm their reverence for the deity and follow the prescribed customs.
+
+\- Ends
+
+---
+
+### Rusev And Lana Announce They Are Expecting Their First Child Together After Difficult IVF Journey
+*Unknown · sports*
+
+Rusev and Lana are expecting their first child, a baby boy due April 28, 2027. After beginning IVF in 2025, the couple have revealed their son's name, Bear Petrov Barnyashev, and shared their emotional journey toward parenthood.
+
+[Read full article](https://sports.ndtv.com/us/wwe/rusev-and-lana-announce-they-are-expecting-their-first-child-together-after-difficult-ivf-journey-12246740)
+
+---
+
+### Sensex falls 700 points: 3 reasons why the stock market is down today
+*Sonu Vivek · general*
+
+Stock market came under heavy selling pressure on Wednesday, October 28, with the Sensex falling nearly 800 points and the Nifty slipping below 22,600 as investors reacted to weakness in IT stocks, rising crude oil prices and continued foreign investor outflows.
+
+At around 10.50 am, the BSE Sensex was trading at 72,818.40, down 780.27 points or 1.06%. The NSE Nifty 50 stood at 22,556.80, lower by 192.40 points or 0.85%.
+
+IT stocks led the decline, with the Nifty IT index falling 3.21%. Infosys dropped 4.66%, Mphasis declined 4.86%, TCS fell 3.02%, Tech Mahindra lost 3.13% and HCLTech slipped 2.63%.
+
+The weakness extended to several other sectors. Nifty FMCG was down 1.92%, oil and gas fell 1.99%, while financial services, private banks, metals and realty also traded lower.
+
+Pharma and healthcare stocks were among the few pockets of strength. The Nifty Smallcap 100 was marginally higher, while the Nifty Midcap 100 declined 0.31%.
+
+Dr V K Vijayakumar, Chief Investment Strategist at Geojit Investments Limited, said the market had turned decisively weak, pointing to rising crude prices, geopolitical uncertainty and relentless foreign portfolio investor (FPI) selling as key concerns.
+
+Here are the three main reasons why the stock market is falling today.
+
+### IT STOCKS SLIDE AHEAD OF US FED DECISION
+
+The sharp fall in IT stocks has been one of the biggest drags on the domestic market, with investors cautious ahead of the US Federal Reserve's policy decision later on Wednesday.
+
+The concern centres on the outlook for US interest rates. Investors are watching for signals on whether borrowing costs could remain elevated for longer or whether further rate hikes could be considered if inflation remains persistent. Any indication of tighter monetary policy could weigh on expectations for economic growth and corporate spending in the US.
+
+This is particularly important for Indian IT companies because the US is a major market for their technology and consulting services. Their business depends significantly on spending by American companies on software development, cloud migration, digital transformation, artificial intelligence and other technology projects.
+
+When borrowing costs rise, companies may become more cautious about expansion and discretionary spending. They could delay technology projects, renegotiate contracts or take longer to approve new deals. This can affect the pace of deal conversion and revenue growth for Indian IT service providers.
+
+The market's concern is therefore not limited to the Fed's immediate decision. Its guidance on the future interest-rate trajectory could influence corporate spending plans and the demand outlook for Indian IT companies.
+
+The selling was broad-based across the sector in Wednesday's trade. At around 10.50 am, Infosys was down 4.66%, Mphasis had fallen 4.86%, TCS was lower by 3.02%, Tech Mahindra declined 3.13% and HCLTech slipped 2.63%. The Nifty IT index was down 3.21%.
+
+The weakness in IT also weighed on the broader market, with the Nifty MidSmall IT and Telecom index down 1.92%.
+
+While the Fed decision is a key focus, the early market movement alone does not establish that interest-rate concerns are the sole reason for the sell-off. Global risk aversion and rising crude prices are also contributing to the pressure on equities.
+
+### CRUDE OIL RISES ABOVE $115 AFTER FRESH ATTACK
+
+Rising crude oil prices have added another layer of concern for Indian markets. Brent crude was trading at $115.54 per barrel, up 1.46%, while US West Texas Intermediate (WTI) crude rose 1.47% to $101.37.
+
+Oil prices opened with a gap-up of around 1.3% after an attack on a Saudi Arabian refinery renewed concerns about possible disruptions to energy supplies. The development has strengthened the supply-risk premium in crude markets amid continuing geopolitical uncertainty in the Middle East.
+
+Kaveri More, Commodity Technical Analyst at Choice Broking, said crude prices had moved higher following the attack, with Brent trading around $115.70 per barrel and WTI near $101.10 at the time of her assessment.
+
+On the domestic futures market, crude oil was hovering around Rs 9,630 on the Multi Commodity Exchange (MCX), with immediate support placed in the Rs 9,470-Rs 9,340 range, she said.
+
+More added that further gains would depend on whether the disruption affects actual production or export flows. Any escalation could sustain the upward momentum, while signs that supply concerns are easing could trigger profit-booking.
+
+For India, higher oil prices are a concern because the country depends heavily on imported crude. A prolonged rise in prices can increase the import bill, put pressure on the rupee and raise inflation risks. It can also increase input and transportation costs for businesses, potentially squeezing margins.
+
+Higher inflation could make it harder for policymakers to ease monetary conditions, while uncertainty over energy prices can weigh on investor sentiment and economic growth expectations.
+
+Dr V K Vijayakumar of Geojit Investments said Brent crude rising above $115 was bad news for the Indian economy and markets. He also referred to reports of possible renewed US strikes on Iran after the US midterm elections, adding to concerns about further escalation in the region.
+
+The Nifty oil and gas index was down 1.99% around 10.50 am, reflecting the weakness in the sector as the broader market remained under pressure.
+
+### FII SELLING CONTINUES; LTCG TAX CHANGES IN FOCUS
+
+Persistent selling by foreign portfolio investors is another major concern for the Indian stock market. Foreign outflows can weigh on share prices, particularly when domestic investors are unable to fully absorb the selling pressure.
+
+Vijayakumar said two conditions were important for a recovery in Indian equities: crude oil prices needed to decline, and FPIs needed to stop selling and turn buyers.
+
+He also raised the possibility of changes to the long-term capital gains (LTCG) tax regime, arguing that sustained foreign investor outflows had begun to hurt India's otherwise strong macroeconomic fundamentals.
+
+"For the Indian market to revive there are two important conditions now. One, crude prices have to decline. There is no clarity on that. Two, FPIs have to stop their relentless selling and turn buyers," Vijayakumar said.
+
+He added: "For this to happen changes in the LTCGs tax appears inevitable now. There is a high probability of this happening since the massive FPI outflows - $19 billion in 2025 and $31 billion so far this year- have started hurting India's otherwise good macros."
+
+The figures cited by Vijayakumar underline the scale of foreign investor withdrawals that he believes are weighing on the market. A change in the tax framework, in his view, could be one measure to improve the investment environment and encourage foreign flows to return.
+
+However, a change in LTCG tax is an expert's assessment of what may be needed, rather than confirmation that the government will make such a change.
+
+**_(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)_**
+
+\- Ends
+
+---
+
+### India bonds sink on oil spike before Fed decision
+*SECTIONS India bonds sink · business, finance*
+
+Indian government bonds tumbled on Wednesday, reversing most of the previous session's sharp rally, as a fresh jump in oil prices and US Treasury yields rattled investors ahead of the Federal Reserve's policy decision.
+
+The benchmark 6.94% 2036 bond yielded 7.4772% at 10:50 a.m. IST, up 4 basis points from its previous close. The 10-year yield had dropped by nearly five basis points on Tuesday, its steepest single-day decline in three months, after failing to breach 7.50%.
+
+On the day, Brent crude climbed 1.5% to $115.40 a barrel after an attack on a Saudi Arabian biggest refinery revived concerns over supply disruptions from the conflict involving Iran and its proxies.
+
+India bonds sink on oil spike before Fed decision
+
+Indian government bonds experienced a significant decline after a prior rally due to rising oil prices. Brent crude oil prices increased following concerns over supply disruptions in Saudi Arabia. The US 10-year Treasury yield also rose, affecting the attractiveness of Indian debt. Markets are anticipating the Federal Reserve's policy decision and rate outlook, impacting investor sentiment.
+
+India, the world's third-largest oil importer, is particularly vulnerable to oil-price shocks. Brent remains about $45 above its pre-war level, threatening to stoke inflation, widen the fiscal deficit and weigh on growth.
+
+"Moves have become highly co
+
+The Reserve Bank of India expects inflation to peak at 6% in the July-September quarter, while growth is expected to slow to 7% in fiscal 2027 from 7.7% in 2025-26.
+
+The US 10-year Treasury yield also rose around three basis points to 5.0238%, compressing the spread offered by Indian debt over dollar assets.
+
+Markets are now bracing for the Fed's decision after Indian trading hours. While a pause is widely expected, investors will gauge the central bank's guidance for clues on its rate outlook.
+
+## Rates
+
+India's overnight indexed swap rates jumped as higher oil prices and US yields soured sentiment.
+
+The one-year OIS rose 5.5 bps to 6.69%, pricing in nearly 125 bps of rate hikes over the next 12 months. The two-year OIS gained 6.75 bps to 6.74%, while the five-year rose 5.5 bps to 6.87%.
+
+---
+
+### Rs 35 crore to take AI out of the screen? IIT Kharagpur plans new school
+*India Today Education Desk · general*
+
+## IIT Kharagpur plans to establish a Rs 35-crore Benjamin Gupta School of Physical AI to advance real-world AI applications across engineering, healthcare and manufacturing, while offering interdisciplinary education and professional upskilling programmes.
+
+IIT Kharagpur to launch Physical AI school, plans hybrid Master's programmes (AI-generated image)
+
+Artificial intelligence is already writing code, generating images and answering questions on screens. But what happens when AI has to do more than process information? When it must understand how materials behave, help machines navigate the physical world or support doctors in making clinical decisions?
+
+The Indian Institute of Technology (IIT) Kharagpur is betting on that next frontier with a Rs 35-crore initiative to establish the Benjamin Gupta School of Physical AI, a dedicated academic school aimed at bringing AI closer to the physical world.
+
+Announced through a tripartite memorandum of understanding (MoU) involving IIT Kharagpur, its alumnus and philanthropist Vinod Gupta, and IITKGP Foundation USA, the initiative seeks to bring artificial intelligence together with physics, engineering, biological systems, and scientific knowledge.
+
+The institute envisions the school as a step towards developing AI systems that do not merely learn patterns from data but can also understand physical principles and interact with the world more reliably.
+
+### FROM CHATBOTS TO MACHINES THAT UNDERSTAND THE PHYSICAL WORLD
+
+Much of the public conversation around AI has focused on chatbots, image generators and other digital tools. Physical AI, however, seeks to extend these capabilities to systems that operate in the real world, where material properties, physical laws, uncertainty and safety constraints matter.
+
+For instance, an AI system used in manufacturing must account for how materials behave and how machines respond to changing conditions. In healthcare, AI-assisted systems need to work alongside biological and clinical understanding rather than rely solely on algorithmic predictions.
+
+IIT Kharagpur plans to pursue this approach through research in physics-informed machine learning, scientific AI, digital twins, intelligent robotics, autonomous systems, advanced sensing and AI-enabled experimentation.
+
+The proposed applications span advanced manufacturing, energy, agriculture, climate and environmental technologies, healthcare, medical devices and intelligent infrastructure.
+
+The central idea is to develop AI systems that can do more than identify patterns: they must also account for the physical principles governing the problems they are designed to solve.
+
+### WHERE WILL THE RS 35 CRORE COME FROM?
+
+The initiative will be supported by a total investment of Rs 35 crore. According to the institute's announcement, the Vinod Gupta family will contribute Rs 12.5 crore, while an anonymous alumnus will contribute Rs 10 crore. IIT Kharagpur will fund the remaining amount.
+
+The investment will support dedicated infrastructure to house the Department of Artificial Intelligence and associated interdisciplinary academic and research activities.
+
+The school will be named the Benjamin Gupta School of Physical AI in memory of Vinod Gupta's late son, Benjamin Gupta.
+
+The initiative is intended to draw on IIT Kharagpur's expertise across engineering, basic sciences, medicine and computing, bringing together researchers, engineers, clinicians and industry practitioners to develop AI applications for real-world use.
+
+The institute has also identified safe, trustworthy and responsible AI as a priority, particularly in applications where reliability, explainability and accountability are essential.
+
+### AI EDUCATION BEYOND ENGINEERING CLASSROOMS
+
+Research is only one part of the proposed school. IIT Kharagpur also plans to use it to reshape how students and working professionals learn and apply AI in their respective fields.
+
+Academic programmes are expected to begin in the upcoming academic session, subject to the necessary approvals. Proposed offerings include hybrid-mode Master's programmes, executive education, professional certifications and specialised interdisciplinary learning modules.
+
+These programmes are expected to cater to students, researchers, working professionals and graduates from engineering, physical sciences, life sciences and medicine.
+
+The institute envisages the school as a finishing school for engineers, scientists and medical professionals, helping them combine their existing domain expertise with contemporary AI capabilities.
+
+The distinction is important. An engineer working with AI should understand how physical laws, material properties, and system dynamics influence a solution. Similarly, a medical professional should be able to assess AI-assisted diagnostics in the context of clinical and biological knowledge, rather than rely uncritically on an algorithm's output.
+
+Through hybrid learning, interdisciplinary projects, industry-linked problem-solving and laboratory exposure, the school aims to equip professionals to apply AI with a deeper understanding of the systems they work with.
+
+### IIT KHARAGPUR'S BET ON THE NEXT PHASE OF AI
+
+The proposed school reflects a broader ambition to connect AI research with practical applications across industries. IIT Kharagpur plans to build collaborations involving industry, healthcare institutions, research laboratories, startups and international partners.
+
+The institute believes this approach could help address a skills gap between the rapid growth of AI capabilities and the specialised knowledge needed to translate them into dependable technologies.
+
+Prof Suman Chakraborty, director of IIT Kharagpur, said the next major advance in AI would involve transforming how people understand, engineer and interact with the physical world.
+
+He said the institute aims to move beyond treating AI as a black-box solution, with engineers, scientists and medical professionals combining algorithmic capabilities with a deeper understanding of their respective fields.
+
+For IIT Kharagpur, the Rs 35-crore investment is therefore not just about creating another AI research facility. It is an attempt to prepare for a future in which artificial intelligence is expected to work not only on screens, but also in factories, laboratories, hospitals and other complex physical environments.
+
+Whether that vision translates into reliable technologies and industry-ready skills will depend on how effectively the school turns its research ambitions and proposed academic programmes into practice.
+
+\- Ends
+
+---
+
+### UDAN Yatri Café at Delhi’s IGI Airport: Tea at Rs 10, coffee at Rs 20, snacks at Rs 20 and what else is on the menu?
+*Trending Desk · business*
+
+Passengers travelling through Delhi’s Indira Gandhi International (IGI) Airport can buy tea for Rs 10, coffee for Rs 20 and select snacks at affordable prices at the UDAN Yatri Café in Terminal 3. Located in the terminal’s check-in area, the café offers budget-friendly refreshments for travellers looking for alternatives to higher-priced food and beverages at airports.
+
+The initiative, introduced by the Ministry of Civil Aviation, aims to make basic refreshments more accessible to air passengers. Along with tea and coffee, the café offers packaged drinking water, a snack of the day and a sweet of the day at fixed prices.
+
+  
+  
+
+### Where is UDAN Yatri Café located at Delhi airport?
+
+The UDAN Yatri Café at Delhi’s IGI Airport is located in the **check-in area of Terminal 3 (T3)**. Passengers travelling through the terminal can visit the café for refreshments before proceeding with their airport journey.
+
+The café is part of the government’s effort to provide essential food and beverage options at standard prices, helping passengers manage the cost of refreshments while travelling.
+
+  
+
+### UDAN Yatri Café menu and prices at Delhi airport
+
+The café offers a limited selection of refreshments at prescribed rates. The menu includes:
+
+  
+
+-   Packaged drinking water (minimum 500 ml): Rs 10
+-   Tea: Rs 10
+-   Coffee: Rs 20
+-   Snack of the day: Rs 20
+-   Sweet of the day: Rs 20
+
+Snack options may include samosa, kachori, patties and vada pav, depending on local availability. The items offered may vary between airports.
+
+### Which cities and airports have UDAN Yatri Cafés?
+
+The UDAN Yatri Café initiative has expanded to airports across India since its launch. The café was introduced at airports including Kolkata, Chennai, Ahmedabad, Pune, Bhubaneswar, Donyi Polo Airport in Hollongi and Rajiv Gandhi International Airport in Hyderabad.
+
+With the inauguration of a café at Vijayawada Airport on September 29, 2025, the initiative had reached eight airports. On February 20, 2026, the Ministry of Civil Aviation inaugurated cafés at Surat, Coimbatore, Mangaluru, Chhatrapati Shivaji Maharaj International Airport in Mumbai and Thiruvananthapuram.
+
+The initiative was extended to 11 more airports on March 29, 2026, taking the reported total to 24. These included Agartala, Amritsar, Chandigarh, Gwalior, Rajkot, Indore, Jaipur, Jammu, Varanasi, Lucknow and Patna.
+
+On May 20, 2026, a café was inaugurated at Ranchi Airport, taking the reported total to 25 airports.
+
+The supplied list of airports with UDAN Yatri Cafés includes:
+
+-   **Mumbai:** Chhatrapati Shivaji Maharaj International Airport, Terminal 2
+-   **Ahmedabad:** Sardar Vallabhbhai Patel International Airport
+-   **Surat:** Surat Airport
+-   **Bhubaneswar:** Biju Patnaik International Airport
+-   **Kolkata:** Netaji Subhas Chandra Bose International Airport
+-   **Chennai:** Chennai International Airport
+-   **Pune:** Pune Airport
+-   **Vijayawada:** Vijayawada Airport
+-   **Itanagar:** Donyi Polo Airport
+-   **Mangaluru:** Mangaluru International Airport
+-   **Thiruvananthapuram:** Thiruvananthapuram International Airport
+-   **Coimbatore:** Coimbatore International Airport
+-   **Lucknow:** Chaudhary Charan Singh International Airport
+-   **Jaipur:** Jaipur International Airport
+-   **Jammu:** Jammu Airport
+-   **Srinagar:** Srinagar International Airport
+-   **Patna:** Jay Prakash Narayan International Airport
+
+The supplied list is not exhaustive and does not name all 25 airports. The Ministry’s rollout announcements also mention airports in Hyderabad, Agartala, Amritsar, Chandigarh, Gwalior, Rajkot, Indore, Varanasi and Ranchi, among others.
+
+### More affordable refreshments planned at airports
+
+The UDAN Yatri Café initiative seeks to address concerns about the cost of food and beverages at airports by providing selected items at standard rates.
+
+The Ministry of Civil Aviation is also coordinating with airport operators to explore opening cafés in departure hold areas, where space, security requirements and operational conditions permit.
+
+---
+
+### Jio becomes India’s second-most valuable company: How its listing pushed Reliance past Tatas, Adanis
+*George Mathew · legal*
+
+Jio Platforms debuted with a market capitalisation of Rs 12.53 lakh crore, second only to RIL. The listing pushed Reliance ahead of the Tata and Adani groups, but what does it mean for the Ambanis’ wealth?
+
+[Read full article](https://indianexpress.com/article/explained/explained-economics/jio-platforms-listing-reliance-tata-adani-market-cap-explained-10939986/)
+
+---
+
+### Greater Noida Deploys 224 Anti-Smog Guns, Divides City Into 21 Zones To Fight Air Pollution
+*Arun Dhital · politics*
+
+The Greater Noida authority said on Tuesday (27 October) it has deployed 224 anti-smog guns at construction sites and launched water sprinkling drives to keep dust down, as the Graded Response Action Plan (GRAP) remains in force across the National Capital Region (NCR).
+
+To track and prevent pollution, the authority has carved Greater Noida into 21 zones, each led by a senior officer serving as zonal officer, with a manager-level official as assistant zonal officer.
+
+“Our teams are sprinkling water with 224 anti-smog guns and 107 water tankers at construction sites. Besides, 11 mechanical sweeping machines are being used for road cleaning. Water tankers have also been deployed to wash trees,” said chief executive officer NG Ravi Kumar in a statement.
+
+Officials said each work circle has been handed charge of specific zones, with full teams pressed into service. These teams will flag dust and garbage to the vendor concerned and get the waste removed. They will also spray water to suppress dust and keep a check on garbage burning in their areas.
+
+Kumar has also directed officials to make all required arrangements for pollution control.
+
+Vijay Rawal, deputy general manager at the authority, said 216 of these guns have been set up at various construction sites across Greater Noida.
+
+“Apart from this, eight anti-smog guns of the Authority are being used at other public places to control pollution. In addition, 11 mechanical sweeping machines have been deployed for cleaning roads. Water is being sprinkled on roads and dust is being cleaned from trees with tankers. Along with these arrangements, the Authority is also taking action against polluters,” he said.
+
+The authority’s Project, Health and Horticulture departments, along with other relevant wings, have been roped into the drive, officials added.
+
+**Please click here to add** _**Swarajya**_ **as your preferred and trusted news source on Google**
+
+---
+
+### UAE President honours Indian pilot Smit Machchhar for bravery during flydubai mid-air attack
+*Express Global Desk · legal*
+
+The First Class Order of Zayed II is a high-level civil decoration of the United Arab Emirates, conferred by the UAE President to recognise distinguished service, courage and contributions to strengthening bilateral and international relations.
+
+[Read full article](https://indianexpress.com/article/world/indian-pilot-smit-machchhar-flydubai-mid-air-attack-uae-president-honour-10939997/)
+
+---
+
+### Apple iPhone 18e Leak: 3 Key Upgrades The Next Budget iPhone Could Bring
+*Priya Singh · technology*
+
+Apple could be preparing a modest refresh for its entry-level iPhone lineup next year. The rumoured iPhone 18e, which may arrive in 2027, is tipped to focus on internal improvements rather than a major overhaul. Reports suggest the handset could feature a more powerful chip and an improved selfie camera, while Apple may stick with the screen and rear camera hardware used in the iPhone 17e. For now, the company has remained tight-lipped about the device, including its launch timeline and pricing.
+
+## iPhone 18e: What To Expect
+
+### 1\. A20 Chip Could Power the iPhone 18e
+
+The iPhone 18e could move to Apple's A20 processor, which is reportedly based on a 2nm manufacturing process. If accurate, this would mark a shift from the A19 chip in the iPhone 17e, built using a 3nm process. The newer chip could offer improvements in processing performance and power efficiency, although no benchmark results have emerged to indicate the scale of the gains.
+
+> Apple’s upcoming iPhone 18e is expected to feature a few upgrades when it launches in early 2027 🚨 • 6.12-inch OLED display • 60Hz refresh rate • A20 chip • 48MP rear camera • 18MP front camera upgrade The overall design and features are expected to remain largely unchanged from the iPhone 17e Source: Digital Chat Station
+> 
+> — Apple Hub (@theapplehub) October 28, 2026
+
+### 2\. More RAM Could Help With AI Features
+
+Apple may also increase the memory available on its next budget iPhone. An earlier leak pointed to 9GB of RAM for the iPhone 18e, compared with 8GB on the iPhone 17e. More memory could help the device handle demanding tasks and AI features, though it remains unclear how much of Apple's AI functionality the additional RAM would support.
+
+### 3\. Front Camera Could Get a Resolution Boost
+
+Selfie photography could be another area of improvement. The iPhone 18e is tipped to feature a 24-megapixel front camera, potentially doubling the resolution of the 12-megapixel sensor on the iPhone 17e. However, the rear camera setup may not receive a similar upgrade, with the phone expected to retain a single 48-megapixel sensor.
+
+## What Else to Expect From the iPhone 18e
+
+Not every part of the phone may change. Tipster Digital Chat Station claims the iPhone 18e could feature a 6.12-inch LTPS OLED display with a 60Hz refresh rate, slightly larger than the 6.1-inch screen on the iPhone 17e. This means buyers may still miss out on a 120Hz panel. The handset is expected to arrive in 2027, potentially in the spring, but Apple has yet to confirm its existence, specifications or price.
+
+**ALSO SEE: Apple’s iPhone Duo Has a Rocky Start, and Samsung Is Having a Little Fun With It**
+
+---
+
+### India, Mexico sign terms of reference to kickstart trade pact negotiations
+*SECTIONS India · business*
+
+India and Mexico signed the Terms of Reference for negotiations on a Preferential Trade Agreement (PTA) on Wednesday to kickstart the establishment of a framework, scope, modalities and roadmap for negotiations aimed at creating new economic opportunities for both partner nations.
+
+The signing formally launches negotiations for a mutually beneficial and balanced PTA, with the potential to expand bilateral trade, create business opportunities, enhance investment flows and contribute to resilient and diversified supply chains, according to the Ministry of Commerce & Industry.
+
+  
+
+The Terms of Reference cover key negotiating areas, including market access for goods, rules of origin, customs procedures and trade facilitation, dispute settlement, sanitary and phytosanitary measures, technical barriers to trade and trade remedies.
+
+The proposed PTA seeks to leverage the complementarities between the two economies and expand opportunities for Mexican products and businesses in the Indian market.
+
+US border enforcement has undergone a major transformation under American President Donald Trump as the administration has restricted access to asylum procedures, deployed troops and increased pressure on Mexico to limit northbound migration. Mexico's trade negotiations with India come amid Trump's crack down on the U.S.-Mexico border movement.
+
+In a statement published on Wednesday, the Commerce ministry highlighted that Mexico is an important market for Indian exporters and investors due to its strong linkages to global value chains.
+
+Automotive, chemicals, electronics, pharmaceuticals, agri-food, energy, critical minerals, medical devices and advanced manufacturing are among the key sectors which hold significant potential for cooperation.
+
+The Mexican delegation also discussed various aspects of the bilateral economic agenda with the Indian counterpart, identifying opportunities to deepen trade and investment relations, strengthen cooperation and foster closer ties between the productive sectors of both countries.
+
+Both sides further discussed the possibility of organising a Mexican business mission to India during the first quarter of 2027, the ministry said, adding that the proposed mission would facilitate business-to-business meetings, help identify commercial opportunities and strengthen commercial ties between the productive sectors of the two countries.
+
+The commencement of trade pact negotiations follows the understanding reached between Prime Minister Narendra Modi and President Dr. Claudia Sheinbaum during their meeting on the sidelines of the G7 Summit in Canada in June 2025. The two leaders had agreed to further strengthen and deepen the India-Mexico partnership.
+
+
+---
+
 ## 27 October 2026
 
 ### Delhi University student ‘duped’ of Rs 6,500, probe leads police to Rs 30-crore cyber fraud
