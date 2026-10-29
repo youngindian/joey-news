@@ -1,3 +1,350 @@
+## 29 October 2026
+
+### In 2017, a 41-year-old Michigan mother died following cosmetic surgery and five days in hospital; an appeals court has upheld a $9.7 million verdict finding the hospital negligent
+*TOI World Desk · politics*
+
+A Michigan appeals court has upheld a nearly $9.7 million judgment against Henry Ford Macomb Hospital in the case of a 41-year-old mother of two who died after developing a severe infection following cosmetic surgery in 2017.
+
+In a ruling dated October 23, 2026, the Michigan Court of Appeals rejected the hospital’s challenges to the verdict, finding no errors that warranted overturning the judgment.The case centres on the death of Cathleen Allen, who underwent an abdominoplasty, commonly known as a tummy tuck, on May 26, 2017. According to the court’s opinion, Allen was admitted to Henry Ford Macomb Hospital’s emergency department on June 2 with chills, pain, weakness, fatigue, confusion and an inability to eat.
+
+She was treated in the intensive care unit (ICU) for five days before suffering cardiac arrest and being pronounced dead.The lawsuit alleged that delays in treating an infection following the operation contributed to Allen’s death. While the jury found the surgeon professionally negligent, it separately held the hospital administratively negligent for failing to ensure that its patient-safety procedures were properly implemented and enforced.
+
+## Disagreement over infection delayed treatment
+
+According to the appellate ruling, doctors suspected that Allen was suffering from septic shock when she arrived at the hospital. Her attending physician in the ICU, Ghada Mesleh, believed the shock was caused by an infection originating in the abdominal wound from her recent surgery. Mesleh consulted Vijay K. Dixit, the plastic surgeon who had performed Allen’s tummy tuck. However, Dixit initially advised doctors to look for another source of infection and did not believe that surgical intervention was necessary at that stage.
+
+The disagreement continued over the following days as ICU doctors evaluated possible sources of the infection. The court record states that Dixit eventually operated on Allen on June 6, the day she died.The estate’s case argued that the delay in addressing the suspected abdominal infection prevented timely treatment. Medical experts who testified at trial said that controlling the source of an infection is critical when treating septic shock and that earlier intervention could have changed the outcome.James Attarian, an expert in internal medicine and hospital administration, testified that if doctors had surgically treated the infection during the first few days of Allen’s hospital admission, she would have survived, according to the court opinion. His assessment was part of the evidence presented to the jury rather than a separate finding by the appeals court.
+
+## Why the hospital was held administratively negligent
+
+A central issue in the case was whether Henry Ford Macomb Hospital had implemented and enforced its internal “chain of command” policy.
+
+Such procedures are designed to help medical staff escalate concerns when disagreements over patient care remain unresolved and could put a patient at risk. The plaintiff argued that the hospital failed to ensure the policy was understood and followed, allowing the disagreement over Allen’s treatment to persist without an effective escalation process.During the trial, the hospital’s former chief of surgery, Harold Gallick, testified that he was initially unfamiliar with the concept of a chain of command in healthcare.
+
+He also said he did not believe a written policy specifically covered a situation in which doctors held opposing views that could affect a patient’s treatment.The court record further noted that several witnesses had limited familiarity with the hospital’s policy when they were first questioned. The policy’s delayed disclosure also led to witnesses being deposed a second time.Experts for Allen’s estate argued that a hospital must do more than establish safety procedures on paper: it must make sure staff members know how to use them and that they are enforced when necessary.
+
+They said the unresolved disagreement over Allen’s infection was precisely the kind of situation in which escalation should have occurred.The hospital disputed the allegations. Its defence included testimony that staff members could obtain second opinions and had authority to seek additional medical assistance. A defence expert also argued that the hospital had taken reasonable steps to implement its procedures.After an 11-day trial in 2023, the jury found Dixit professionally negligent and Henry Ford Macomb Hospital administratively negligent. It determined that both forms of negligence were proximate causes of Allen’s death. The hospital’s liability was based on its own administrative failures, rather than simply being held responsible for the surgeon’s conduct.
+
+## Appeals court rejects hospital’s challenges
+
+The hospital appealed the judgment, contesting aspects of the damages award, the jury instructions and the handling of discovery 
+
+In its October 23 ruling, the Michigan Court of Appeals rejected the arguments it considered and affirmed the judgment. The court concluded that the evidence supported the jury’s finding that failures involving the hospital’s policies and patient-safety obligations contributed to the delay in Allen’s treatment.The judgment included $4,336,988 for Allen’s future lost earning capacity, alongside other economic and non-economic damages.
+
+The hospital argued that the lost-earning-capacity award was not recoverable in the form presented under Michigan’s wrongful-death law. The appeals court, however, found that the estate had also pursued damages for the loss of financial support suffered by Allen’s children and that the record supported the award.The ruling also addressed the hospital’s objections to the jury instructions concerning statutory duties to provide adequate and appropriate care.
+
+The court found no basis to reverse the judgment on those grounds. The surgeon and Cosmetic and Plastic Surgery Clinic were not parties to this latest appeal. The opinion notes that a satisfaction of judgment had been entered in relation to those defendants.Allen’s death left behind two children, who were 19 and 15 at the time, according to the court record. The estate argued that her death caused not only personal loss but also the loss of financial support she had provided to them.The case highlights the role hospital administration can play in patient safety, particularly when doctors disagree over diagnosis or treatment. The appellate ruling underscores that patient-safety policies must be effective in practice, not merely exist on paper, when delays in care may have serious consequences.
+
+---
+
+### In 2013, Gerard Butler travelled to Liberia to serve school meals with a charity he supports; it has delivered more than 260 million meals since 2006 and now feeds over 95,000 children every school day
+*TOI World Desk · world*
+
+Gerard Butler visited Liberia in 2013; Mary’s Meals now feeds 95,000 children daily (Image Credit: Mary's Meals)
+
+When actor Gerard Butler travelled to Liberia in 2013 to meet children and communities supported by a charity he champions, the visit offered a glimpse into how a daily school meal could make a difference in a country recovering from years of conflict.
+
+Thirteen years later, that effort has grown into a long-running school feeding programme that has delivered more than 260 million meals to children across Liberia.According to Mary’s Meals, which marked 20 years of its school feeding programme in Liberia in October 2026, more than 95,000 children now receive meals through the charity every school day. The organisation began providing school meals in the country in 2006, building on earlier emergency relief work during and after Liberia’s civil war.
+
+Butler, a long-time supporter of the charity, has helped raise awareness of its work through visits to communities in Liberia and Haiti.
+
+## How a request for food led to a school feeding programme
+
+Mary’s Meals’ work in Liberia has roots in the humanitarian response to the country’s civil war. The conflict devastated communities, damaged schools and left many children displaced, hungry and vulnerable. Some children had been recruited as child soldiers, while others had lost their homes and access to education.
+
+Father Garry Jenkins, an English priest who had lived in Liberia since 1973 and founded St Dominic’s Catholic School, sought help for children who needed both food and a safe place to learn.
+
+When conventional aid channels appeared too slow, he contacted Magnus MacFarlane-Barrow, the founder of the organisation that became Mary’s Meals.MacFarlane-Barrow encouraged him to buy rice in Monrovia, promising to reimburse the cost.
+
+The early assistance included food shipments sent under the name Scottish International Relief, the charity’s predecessor. Mary’s Meals later introduced its school feeding programme in Liberia in 2006. The idea was straightforward: provide children with a nutritious meal at school, helping address immediate hunger while encouraging families to send them to class.
+
+Over time, the programme developed into a partnership involving schools, local communities, volunteers and supporters.
+
+## Gerard Butler’s connection with Mary’s Meals
+
+Butler, the Scottish actor known for films including 300 and Olympus Has Fallen, became involved with Mary’s Meals after presenting its founder, Magnus MacFarlane-Barrow, with a CNN Heroes award in 2010. In 2020, Butler received the Cinema for Peace Honorary Award in recognition of his work with the charity. His support subsequently included visits to Liberia and Haiti, where he met children and communities benefiting from the school feeding programme.
+
+The charity said his involvement helped bring international attention to its work and inspired people to support its mission.The award was presented at a ceremony in Berlin on 23 February 2020. Butler described his involvement as a privilege, saying that providing food while children learn was a simple intervention capable of transforming lives. His association with the charity has helped connect its work on the ground with a wider international audience.
+
+## More than 260 million meals over two decades
+
+Mary’s Meals says its programme has provided more than 260 million school meals in Liberia since school feeding began in 2006. The charity now reaches more than 95,000 children every school day, with local volunteers preparing and serving meals in schools. The programme operates across Bong, Bomi, Grand Cape Mount, Gbarpolu and Montserrado counties. Many of the schools it supports are in remote communities, where poor road access can make food deliveries particularly difficult during the rainy season.Rice and peas are among the typical meals served. The organisation aims to source food locally where possible, although supplies sometimes have to be ordered from farther away and well in advance to ensure that schools receive enough food. The charity’s approach links nutrition with education. A meal at school can provide an immediate source of nourishment while giving children and families an additional reason to attend classes regularly.
+
+Local volunteers also help keep the programme rooted in the communities it serves.
+
+## Why the work remains important in Liberia
+
+Despite two decades of school feeding, Liberia continues to face serious challenges linked to poverty, food insecurity and access to education. The country is still dealing with the long-term effects of civil conflict and disease outbreaks, while many communities lack sufficient educational resources. Mary’s Meals says more than half of Liberia’s population lives in poverty and highlights the continuing need to support children who struggle to obtain enough food.
+
+The charity’s local partners have also stressed the importance of keeping schools safe and accessible, particularly for children in vulnerable communities. The organisation estimates that £19.15 can provide a child with school meals for an entire year in Liberia and other countries where it operates. Its work now extends to 16 countries, with more than three million children receiving meals every school day worldwide.From emergency food assistance during a period of conflict to a programme serving tens of thousands of children daily, Mary’s Meals has built a sustained presence in Liberia. Butler’s involvement has helped draw attention to that work, while the charity’s anniversary highlights the continuing role of school meals in supporting children’s nutrition and access to education.
+
+---
+
+### In 2024, Jason Statham bought a 20-acre English coastal estate for about £20 million; in 2026, a planning rule from 1973 put its two-storey summerhouse under scrutiny over use as guest accommodation
+*TOI World Desk · politics*
+
+Jason Statham and Rosie Huntington-Whiteley’s plans for a quieter life in the English countryside have encountered an unexpected planning complication. A two-storey summerhouse on the couple’s sprawling Hampshire estate is facing scrutiny over its use as residential accommodation, decades after permission was granted for a very different purpose.
+
+According to The Independent and portsmouth, which reported the planning dispute on October 16, 2026, the Hollywood actor has applied for a certificate of lawfulness to establish that the building can continue to be used as accommodation associated with the main house. Planning records from the New Forest National Park Authority identify the application as relating to an existing use, rather than a proposal to create a separate home.
+
+The issue centres on a planning condition dating back to February 1973, when the outbuilding was approved as a swimming-pool pavilion, with space for plant and filtration equipment, changing facilities, a sitting room and a small boathouse. Its present-day residential use goes beyond that original purpose.
+
+## Inside the summerhouse at the Hampshire estate
+
+The building is now configured as a self-contained guest space, with two bedrooms, a bathroom, a fitted kitchen, a dining area and a living room.
+
+The application states that these facilities have been in place since at least February 2012, when the property was owned by its previous owners, John and Kim Buckland.The former owners reportedly continued using the summerhouse as residential accommodation after purchasing the estate in 2012 and carried out refurbishment work in late 2018. The planning submission states that the layout has remained unchanged since further refurbishment in 2019.
+
+Statham and Huntington-Whiteley acquired the property in March 2024 and have since used the building for visitors, according to the application.
+
+The dispute is therefore not about the construction of a new outbuilding, but whether the existing use can be recognised as lawful despite the older planning restriction.The couple are seeking a certificate of lawful development on the grounds that the residential use has continued for more than a decade.
+
+The application argues that the length of time involved places the use beyond the period in which planning enforcement action can be taken. That claim remains subject to the planning authority’s assessment of the evidence.
+
+## A coastal property with extensive grounds
+
+The summerhouse is part of a substantial waterfront estate near Beaulieu, in the New Forest National Park. The property was reportedly purchased for around £20 million, with construction costs estimated at a further £5 million.
+
+Its value has also been reported at approximately £25 million.The contemporary, six-bedroom main house was designed by architects Ben Pentreath and Nicholas Umney. Its U-shaped layout wraps around a central courtyard and lap pool, with views across the Solent. The wider grounds include a private beach measuring about 1,200 feet, a lake, stables, a gym, a yoga studio and a large treehouse.The estate’s architecture combines modern planning with traditional materials intended to complement the surrounding coastal woodland.
+
+Its secluded setting was reportedly a major attraction for Huntington-Whiteley, who has previously spoken about her longstanding desire to live in the countryside.
+
+## Previous planning changes at the estate
+
+The summerhouse application follows another planning decision involving the property. In July 2026, Statham secured permission for changes to the driveway and the removal of a small section of the lake to make way for a wildflower meadow. The proposal had prompted ecological concerns about the potential impact on great crested newts.The latest application concerns a separate issue: whether an outbuilding originally approved for leisure-
+
+---
+
+### eClerx Services Share Price Slips Over 12% After Q2 Results
+*NDTV Profit Desk · general, business*
+
+The company reported consolidated net profit of Rs 180.39 crore in the second quarter of FY27, registering a fall of 1.5% from Rs 183.19 crore in the corresponding quarter last year.
+
+[Read full article](https://www.ndtvprofit.com/markets/eclerx-services-share-price-slips-over-12-after-q2-results-12252104)
+
+---
+
+### Why Is Share Market Rising Today? Know Key Reasons Behind Sensex, Nifty Rally On October 29
+*Mohammad Haris · business*
+
+Stock Markets Today: At 10:45 am, Sensex trades at 73,796.77, up 550.74 points or 0.75%, while Nifty trades at 22,847.35, up 148.50 points or 0.65%.
+
+[Read full article](https://www.news18.com/business/markets/why-is-share-market-rising-today-know-key-reasons-behind-sensex-nifty-rally-on-october-29-10402538.html)
+
+---
+
+### An Australian couple bought five acres to build a fairytale castle and put their wedding on hold; 22 years and 100,000 bricks later, the 27-room project is still unfinished, with only three of eight turrets complete
+*TOI World Desk · world*
+
+Although much of the castle has been built, several major parts remain unfinished (Photo: Castle's official website)
+
+An Australian couple who decided to get married only after completing their dream home have been waiting for their wedding for 22 years. Christina Kent and her partner Francis Shepherd bought five acres of land near Geeveston in Tasmania to build a fairytale castle themselves.
+
+More than two decades later, their unusual home, called Castle Phoenix, has 27 rooms, stands 17 metres tall and has used around 100,000 bricks. However, construction is still underway, with just three of the eight planned turrets completed. The couple has continued working on the property despite financial difficulties, health problems and years of demanding construction work.According to ABC Australia, their story began in Queensland, where Christina met Francis through a motel owner while teaching an art lesson.
+
+Francis worked as a tiler and sculptor, and he wanted to build a castle inspired by the kind of buildings he had admired for years. Christina was interested in his idea, and their relationship developed quickly. Within three weeks of meeting, they were engaged.The opportunity to turn that idea into reality came two years later. During a visit to Christina's niece in Tasmania, they found a five-acre property outside Geeveston.
+
+It had a small cottage, an apple orchard and enough space for the large home Francis wanted to build. The asking price was just over A$200,000. They bought the land and moved into the cottage while preparing for construction.Francis began working on designs for a large home with several floors and tall turrets. The couple sought professional help to prepare the plans and applied for permission to build. This was when they also decided their wedding would take place once the castle was finished.
+
+At the time, they could not have known how long the project would continue.
+
+## How couple turned their idea into a project
+
+The first challenge was getting permission for such an unusual building. According to the official Castle Phoenix website, the proposed height was considerably greater than the normal eight-metre limit in the area. The couple wanted a structure reaching 17 metres.Their application received council approval in late 2009, and building permission followed in 2010.
+
+However, they still had to find the money and carry out much of the construction themselves.Christina sold her house in Mackay, Queensland, and the couple arranged a small loan. Francis continued working as a tiler, with Christina assisting him, so they could earn money for the project. Their own construction work took place around those jobs, including during evenings and weekends.The early stages involved preparing the land and creating the underground sections of the building.
+
+Work on the sculpture garden began in January 2010, while excavation for the castle followed later that year.Progress was slow because the structure required extensive groundwork. The couple spent several years building the basement before the upper walls began taking shape.Their official construction records show that by early 2012, six basement rooms had concrete floors with underfloor heating. Work on staircases, arches, walls and other sections continued over the following years.
+
+## What makes Castle Phoenix different
+
+Castle Phoenix is not simply a large house with towers. Christina and Francis have treated the building as an art project, creating many of its decorative features themselves.According to Christina's account published in Australian magazine That's Life!, the couple have used around 100,000 bricks, cutting them into approximately 300,000 pieces during construction.
+
+Christina Kent and Francis Shepherd bought five acres in Tasmania to build their dream castle. (Photo: Castle's official website)
+
+The building also has a basement extending three metres underground.
+
+Christina said the structure already weighs around 600 tonnes.Inside, the couple has created unusual rooms and decorations. One underground space has a rounded design that causes sounds to echo. Another contains a tree sculpture with handmade leaves.The entrance area has hundreds of ceramic flowers made by the couple. They have also used colourful mosaic tiles across different parts of the property.Outside, the grounds contain a sculpture garden, flowering plants, a lake and a moat.
+
+A balcony inspired by the fairytale character Rapunzel is another feature of the castle.
+
+## Years of construction brought challenges
+
+Working on such a large project has not been easy for the couple. Christina said they had faced financial pressure and health problems while trying to continue construction.However, they have not worked entirely alone. Francis' mother Hope, his sister Veronica and several friends have helped with decorative features, particularly mosaics in the gardens.Over time, the castle also began attracting attention. Christina started sharing updates on Facebook in 2012, and people outside Tasmania gradually learnt about the project.According to her, visitors from Germany, the United States and the United Kingdom have approached the couple for tours.The couple have also considered what should happen to the property in the future. Christina said they would like the public to enjoy Castle Phoenix after they are gone.
+
+## When will the wedding take place?
+
+Although much of the castle has been built, several major parts remain unfinished. Francis began working on its conical rooftops in 2023, but only three of the eight planned turrets have been completed. Christina said exterior tiling was continuing, while the couple hoped to install the windows in 2027.Their wedding, meanwhile, remains on hold. In her account to that's life!, Christina recalled their decision to wait until the castle was complete. "We said we'd get married when the castle was finished; that was 22 years ago! Lucky I like long engagements!" she said.
+
+---
+
+### Jio Platforms Extends Gains After Stellar D-Street Debut; Market Cap Tops Rs 13.5 Lakh Crore
+*Tanmay Tiwary · general, business*
+
+Jio Platforms share has now gained 9.72% from its listing price of Rs 1,358, taking its gains to 33.15% over the initial public offering (IPO) price of Rs 1,119 (upper band).
+
+[Read full article](https://www.ndtvprofit.com/markets/jio-platforms-share-price-today-extends-gains-after-stellar-d-street-debut-ipo-listing-market-cap-tops-rs-13-5-lakh-crore-bharti-airtel-sensex-today-12252071)
+
+---
+
+### Fire in Goa’s Vasco guts over 100 shops
+*Pavneet Singh Chadha · legal*
+
+Officials said the fire broke out around 11.30 pm near Tilak Maidan at Vasco Sunday market.
+
+[Read full article](https://indianexpress.com/article/india/goa-fire-vasco-shops-burnt-10941507/)
+
+---
+
+### 'She wants a 4-year job': Ramaswamy makes Acton’s employment history a campaign talking point
+*ET Online · business*
+
+US President Donald Trump urged Ohio voters to elect Vivek Ramaswamy as governor, bringing the Republican nominee onto the stage at a campaign rally where Ramaswamy promised property-tax relief and action against sanctuary cities. Ramaswamy framed the contest around which candidate would improve voters' lives, explicitly linking his state-level promises to Trump's national agenda. "President Trump puts Americans first," he said. "I'm going to put Ohioans first." He pledged what he described as the biggest property-tax relief package in Ohio's history if elected. He did not provide figures, a financing plan or a legislative timetable for that proposal in the remarks.
+
+---
+
+### DVAC searches 25 Tamil Nadu sites in K N Nehru's Rs 634-crore jobs case
+*India Today News Desk · general*
+
+## DVAC teams searched 25 locations linked to K N Nehru in an alleged recruitment scam. The court-directed probe has triggered sharp political accusations from DMK president M K Stalin.
+
+Image used for representational purposes only
+
+Chennai,Oct 29, 2026 10:52 IST
+
+The Directorate of Vigilance and Anti-Corruption on Thursday searched 25 locations across Tamil Nadu linked to former minister and DMK leader K N Nehru over an alleged Rs 634-crore cash-for-jobs scam, news agency Press Trust of India reported.
+
+The searches followed the registration of a case against Nehru and others on the directions of the Madras High Court. The allegations relate to bribes allegedly collected from candidates in return for government jobs in the Municipal Administration and Water Supply Department during Nehru's tenure as minister.
+
+The High Court had ordered a full investigation based on material provided by the Enforcement Directorate, which first flagged the alleged irregularities to the state police in October 2025.
+
+According to the DVAC, as reported by PTI, officials were examining documents, financial records and other material at the locations to trace the suspected flow of money and collect evidence 
+
+The searches came a day after Nehru filed a special leave petition in the Supreme Court challenging the Madras High Court's October 26 order. The High Court had dismissed his review petition against the registration of the first information report.
+
+DMK president M K Stalin described the searches as "Vettri Vendetta Politics" carried out by the TVK government.
+
+In a post on X, Stalin accused Chief Minister C Joseph Vijay of staging a "raidshow" to divert public and media attention from what he described as the state's deteriorating law and order situation. He claimed women, children and elderly people were unsafe.
+
+Stalin called the ruling party the "TN Branch Washing Machine", alleging that it accepted corrupt individuals while targeting only former DMK ministers.
+
+He also alleged that the searches were conducted to create "reels videos" for the upcoming Trichy East by-election and provide the Chief Minister with an opportunity to deliver "punch dialogues" on stage.
+
+"Even the toenail of a grassroots DMK cadre will not fear these raids," Stalin said.
+
+The DMK chief also criticised the TVK government over what he called its "rusted administration" and steep price rises, claiming that the entire country was laughing at the state government.
+
+The DVAC searches are part of the court-directed investigation into the alleged Rs 634-crore recruitment scam, while Nehru has approached the Supreme Court against the High Court order allowing the case to proceed.
+
+\- Ends
+
+---
+
+### 'She wants a 4-year job': Ramaswamy makes Acton’s employment history a campaign talking point
+*ET Online · business*
+
+US President Donald Trump urged Ohio voters to elect Vivek Ramaswamy as governor, bringing the Republican nominee onto the stage at a campaign rally where Ramaswamy promised property-tax relief and action against sanctuary cities. Ramaswamy framed the contest around which candidate would improve voters' lives, explicitly linking his state-level promises to Trump's national agenda. "President Trump puts Americans first," he said. "I'm going to put Ohioans first." He pledged what he described as the biggest property-tax relief package in Ohio's history if elected. He did not provide figures, a financing plan or a legislative timetable for that proposal in the remarks.
+
+---
+
+### Mohan Bhagwat's 'foreign hand' diagnosis is political alibi for domestic unrest
+*Rajdeep Sardesai · general*
+
+RSS chief Mohan Bhagwat weighs his words carefully. As sarsanghchalak of the Sangh Parivar, a political and ideological force that occupies a dominant position in Indian public life, every utterance carries weight. Which is why his latest warning deserves scrutiny. Delivering his annual Dussehra address in Nagpur, Bhagwat spoke darkly of a "western storm" and a sinister "global conspiracy" to destabilise regimes, suggesting that India, like France, Albania, Bangladesh and Nepal, was a target. But where is the evidence? No names, no documents, no credible trail of foreign funding. Just a sweeping allegation that conveniently offers a political alibi for domestic unrest.
+
+Bhagwat has got this horribly wrong.
+
+### 'FOREIGN HAND' TROPE IS HARDLY NEW
+
+India is not France, Nepal, Bangladesh or any other country on his list. Every society has its own political dynamics, social tensions and immediate triggers for protest. Images of street demonstrations in one country cannot simply be copy-pasted onto another, least of all a country as vast and diverse as India. To suggest that protests in different countries are evidence of a common foreign conspiracy is to confuse coincidence with causation.
+
+The 'foreign hand' trope is hardly new. It is the familiar refuge of governments that find it easier to blame outside forces than confront uncomfortable truths at home. When political dissent becomes difficult to explain, conspiracy becomes a convenient substitute for introspection.
+
+Recall Indira Gandhi's years in power in the 1970s, when popular agitations and political opposition were often viewed through the prism of foreign interference. The language of a CIA conspiracy became a way of explaining away challenges to her authority.
+
+The irony was that the RSS itself was among the forces that her establishment viewed with suspicion. Instead of asking why people were turning against her government, the temptation was to look for enemies abroad.
+
+Switch back to 2026. Only a few months ago, government representatives were engaging with the Cockroach Janata Party (CJP) over the examination-paper leak issue. Today, the same Gen Z-led protest movement is being viewed through the lens of a supposed foreign conspiracy.
+
+What changed? Has evidence of foreign funding emerged, or has the political convenience of the 'foreign hand' theory simply become irresistible?
+
+The same suspicion routinely follows Rahul Gandhi. A personal visit abroad can trigger insinuations that he is conspiring against the Indian state somewhere in the shadows. The insinuation does the work of an accusation without having to meet the burden of proof.
+
+Opposition politics becomes suspect by default, and anyone challenging the establishment can be portrayed as an agent of forces beyond India’s borders.
+
+RSS chief Mohan Bhagwat at a Durga Puja event in Nagpur (PTI)
+
+### WHERE IS THE EVIDENCE?
+
+Here is a straightforward question for Bhagwat and the government: if opposition leaders, student activists and street protesters are part of a foreign-funded conspiracy, why not prove it?
+
+India has powerful investigative and intelligence agencies. If there is credible evidence of illegal foreign financing or a coordinated attempt to destabilise the country, the agencies should investigate, establish the facts and act in accordance with the law. Where is the publicly verifiable evidence?
+
+A government that commands enormous institutional power cannot expect the public to accept grave allegations on the strength of insinuation and social media campaigns alone. The burden of proof lies with those making the charge, not with students or political opponents who are asked to prove their innocence.
+
+None of this is to suggest that foreign interference does not exist.
+
+Countries, including India, face genuine external pressures, and unlawful foreign financing of political activity must be investigated. But there is a world of difference between identifying a demonstrable foreign operation and invoking an amorphous global conspiracy whenever citizens take to the streets. One is evidence-based investigation; the other is political rhetoric.
+
+### DISSENT HAS DOMESTIC ROOTS
+
+The deeper problem with Bhagwat's argument is that it ignores the domestic triggers of dissent.
+
+The CJP did not emerge in a political vacuum. Its rise followed public anger over examination-paper leaks and was amplified by a controversial remark in court about "unemployed" cockroaches. Rahul Gandhi's 'vote chori' campaign, whatever one thinks of its political merits, drew ammunition from questions raised about the Election Commission's processes, including a detailed investigative report in The Indian Express.
+
+These are identifiable domestic developments that deserve scrutiny and debate. Dismissing the resulting protests as part of a foreign plot evades the questions that gave rise to them in the first place.
+
+People do not need foreign sponsors to be angry about unemployment, examination irregularities, corruption or the perceived erosion of institutional independence. Young people do not need instructions from abroad to worry about their future. Nor does political discontent become illegitimate merely because it finds expression on the streets.
+
+The more serious danger is that the foreign-hand narrative can be used to delegitimise peaceful dissent and justify a crackdown. A democracy must distinguish between unlawful activity and legitimate protest. If there is evidence of a crime, prosecute it. If there is evidence of foreign funding in violation of the law, expose it. But do not treat dissent itself as evidence of conspiracy.
+
+In a democracy, a citizen can oppose the government without opposing the nation; a student can question an examination system without being part of a conspiracy; an opposition leader can challenge the Election Commission without being labelled an enemy of the state. Indeed, the freedom to question those in power is what distinguishes a democracy from a regime that demands total unquestioning obedience.
+
+### TRANSPARENCY MUST APPLY TO ALL
+
+And while we are discussing foreign funding, perhaps Bhagwat would also welcome greater transparency about the RSS's own sources of funding, the resources that sustain its vast organisational network and the Sangh Parivar's international reach. The question is not whether the RSS is entitled to have a global presence or raise legitimate funds. It is whether the same standards of transparency and scrutiny that are demanded of others should apply to everyone.
+
+One final historical reminder. In 1973-74, Narendra Modi, then a young activist, had his first major encounter with street politics during Gujarat's Nav Nirman movement, which challenged corruption and eventually contributed to the fall of the Congress government.
+
+Would the young Modi have dismissed those protesters as foreign-funded agents? Would their grievances have become less legitimate if some external actor had supported their cause?
+
+The point is simple. Governments change, political loyalties shift, but the right to protest cannot depend on whether the protesters happen to support those in power. So, Bhagwat must realise that India's democracy is not threatened simply because its young take to the streets. The greater danger is when those in authority stop listening. Before searching for a foreign hand, perhaps it is time to look closer to home.
+
+**_(The writer is a senior journalist and author)_**
+
+\- Ends
+
+---
+
+### Rs 35 Crore Missing From PNB Accounts In Greater Noida; Customers Claim ‘No Alerts, No Consent’
+*Prisha Vibhavari · general*
+
+Several account holders have alleged that bank employees disabled SMS alerts before the disputed transactions took place, preventing customers from receiving notifications.
+
+[Read full article](https://www.news18.com/india/rs-35-crore-missing-from-pnb-accounts-in-greater-noida-customers-claim-no-alerts-no-consent-ws-l-10402565.html)
+
+---
+
+### Reliance Industries's Hamleys Franchising business faces strike-off in UK
+*SECTIONS Reliance Industries's Hamleys Franchising business faces strike-off · general*
+
+Reliance Industries' step-down subsidiary Hamleys (Franchising) Ltd is set to be struck off the United Kingdom company register following an application for voluntary strike-off, the Ambani-owned company said in a regulatory filing on Thursday.
+
+Reliance had acquired the British toy retailer Hamleys for about Rs 620 crore in an all-cash deal. Reliance Brands completed acquisition of 100 per cent stake of Hamleys Global Holdings (HGHL) through a special purpose vehicle company set up in UK for cash consideration of GBP 67.96 million.
+
+  
+
+Shares of Reliance Industries Ltd. were trading at Rs 1174.80 per scrip after a Rs 16.30 hike around 11:04 on BSE on Thursday.
+
+The UK Registrar of Companies published a gazette notice on October 27, 2026, stating that Hamleys Franchising will be struck off the register and dissolved unless an objection or cause is shown to the contrary within two months from the date of the notice.
+
+Hamleys Franchising reported a turnover of Rs 56.08 crore in calendar year 2025. Its contribution to Reliance Industries' consolidated turnover in FY26 was 0.0048%, while its net worth stood at nil as of December 31, 2025.
+
+However, the company did not specify the reasons for the voluntary strike-off application. Reliance said it received the intimation at 3:11 p.m. on October 28.
+
+
+---
+
 ## 28 October 2026
 
 ### UPESSC rejects quota claims in recruitment of over 17,000 teachers
