@@ -1,8 +1,274 @@
 # Editorials
 
-_Last updated: 2026-10-28 07:13 UTC_
+_Last updated: 2026-10-29 07:34 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 29 October 2026
+
+### Clinging on: On Netanyahu and the Israel elections
+*The Hindu · Editorial*
+
+Benjamin Netanyahu was at the centre of Israel’s October 27 elections. For Israel’s longest-serving Prime Minister, who oversaw a genocidal war in Gaza following Hamas’s October 7 attack, the election was the biggest test of his political career. For the Opposition, which promised to hold him accountable for the failures of October 7 and end the country’s “forever wars”, the election offered an opportunity to oust him from power. The results, however, sent a mixed message. With 85.6% of the votes counted, Mr. Netanyahu’s right-religious coalition has lost its majority but is still the largest bloc. His Likud party is projected to win 26 seats, while its main rival Yashar, led by former military chief Gadi Eisenkot, is expected to secure 21. Otzma Yehudit and Religious Zionism, the far-right extremist parties in Mr. Netanyahu’s coalition, demonstrated their continued strength, winning 13 seats between them. The dark horse, however, could be the Arab parties — the Joint List is projected to win 12 seats while the United Arab List (Ra’am) could secure seven seats. With neither bloc commanding a majority, the Arab parties could propel the opposition coalition to power. But the big question is whether the anti-Netanyahu coalition is ready to join hands with the Arab parties, which have historically been kept on the margins of Israel’ s power politics.
+
+Mr. Netanyahu’s central promise has been that only he can guarantee Israel’s security. Yet, the October 7 attack took place on his watch and he has refused to take responsibility for the failures that led to it. A wanted man by the International Criminal Court, he has repeated, before and after October 7, that a Palestine state would not be formed while he is in power. His war on Gaza has killed over 70,000 Palestinians, including 20,000 children, and displaced the region’s population. Israel’s brutal occupation machinery has also expanded and tightened its control of the West Bank, while settler terrorists have unleashed violence on Palestinian households. His war on Iran has been a disaster, with global economic consequences. Mr. Netanyahu has sought to portray his wars as bold, necessary moves to protect Israel, while exploiting Israelis’ security concerns for political gain. He may not be voted out immediately, but his failure to secure a majority and the decline in his party’s popularity are significant. The Opposition should take its cue from the results and form a broad coalition with the Arab parties. It should restore accountability in governance, revisit his unchecked militarism and rebuild ties with the world. If Mr. Netanyahu continues to cling to power, it would be bad news for Israel and the region.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/clinging-on-on-netanyahu-and-the-israel-elections/article71636497.ece)
+
+---
+
+### Hunker down: On Cyclone Arnab, its landfall
+*The Hindu · Editorial*
+
+Cyclone Arnab, the first named storm of the North Indian Ocean cyclone season this year, intensified rapidly before making landfall as a ‘very severe cyclonic storm’ on October 28. This particular rapidity is a challenge for forecasters and some models did fail to anticipate how strong Arnab would become. It also moved faster than expected towards the coast, before stalling for a time and beginning the landfall process several hours before the India Meteorological Department (IMD) had predicted it would, in the middle of the night, leaving many district authorities with a potentially narrower window to evacuate high-risk settlements. With core wind speeds of 125-135 kilometres per hour, it delivered more than 100 mm of rain over parts of Anakapalli, Visakhapatnam, Kalingapatnam, Kakinada and Machilipatnam, in Andhra Pradesh. But even though it has completed landfall, southern Odisha likely faces a greater threat only hence. Early reports claimed no loss of life in Andhra Pradesh or Odisha, which has been attributed to the disaster management operations in both States; the Andhra Pradesh Chief Minister, N. Chandrababu Naidu, said there were five deaths in Andhra Pradesh. Regrettably, the suspension of transport services, including road connectivity and flights, closure of schools and offices, and power cuts to minimise risks posed by loose wires remains an essential part of saving lives, entailing other social and economic disruptions that the States must account for, and address, in their post-storm assessments.
+
+Odisha may have to brace for rainfall and waters due to moisture in the storm’s outer circulation, which will arrive over land that has recovered in patches from the fourth wettest monsoon in the State’s history. Extreme rainfall after repeated flooding may face soil that has not drained fully, raising the risk of more flooding following even lower levels of rainfall, and slope failures in hilly terrain. Farmers in Ganjam and Puri have already voiced worries about the risk of prolonged inundation destroying paddy crops, compounding the already considerable financial consequences of the southwest monsoon; Ganjam alone had lost 33% of crops by October. In Sundargarh, however, farmers hope that Arnab will relieve moisture stress in standing crops after a dry month. The IMD has already issued alerts in the Ganjam, Gajapati, Rayagada, Koraput, Malkangiri, Nabarangpur, and Kalahandi districts, before the rainbelt extends further north. The relatively low figure of deaths will be a testament to proactive governance. However, it is past time that States adopted a zero-disruption approach, especially since property and infrastructure were damaged, and the risk of people being pushed into poverty over lost possessions and livelihoods persists.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/hunker-down-on-cyclone-arnab-its-landfall/article71636464.ece)
+
+---
+
+### The SIR verdict, serious constitutional questions
+*The Hindu · Opinion*
+
+Did the Supreme Court of India err in its verdict dated May 27, 2026, on the Special Intensive Revision (SIR) of electoral rolls by empowering the Election Commission of India (ECI)to undertake a “limited” inquiry into citizenship for the inclusion of names in, or their exclusion from, the electoral rolls?
+
+Second, can crystallised electoral rolls be unsettled in subsequent elections by deleting names on suspicion?
+
+These questions arise in the context of the electoral rolls in Bihar, published on January 6, 2025, following the ECI’s Special Summary Revision (SSR).
+
+On June 24, 2025, the ECI decided to undertake a fresh SIR, beginning with Bihar. Thus, every electoral roll in Bihar between January 1, 2003 (the date of the last SIR in Bihar), and January 6, 2025 (the date of the last SSR, in Bihar), was, in effect, called into question by the ECI. This was unnecessary, as the ECI, in any case, periodically updates the electoral rolls efficiently.
+
+This unusual exercise effectively called into question the electoral rolls used in every election held in Bihar between 2003 and 2025.
+
+Also Read: Restore previous elected govt in West Bengal, says TMC’s Abhishek Banerjee after SC’s SIR observations
+
+Consequently, in Bihar, the SSR dated January 6, 2025, was superseded by the SIR ordered on June 24, 2025.
+
+The ECI’s notification dated June 24, 2025, was challenged before the Court. However, the challenge was unsuccessful, with the Court endorsing the ECI’s stand in its verdict dated May 27, 2026.
+
+Related StoriesThe SIR and its error margin
+
+Supreme Court and the SIR exercise
+
+Holding the Court accountable amid democratic strain
+
+A troubling judgment and endorsement of the SIR
+
+Even before the Court delivered its verdict on May 27, 2026, Assembly elections were held in Bihar in November 2025 and West Bengal in April 2026, following the ECI’s SIR exercise, which entailed mass deletions and surprising inclusions of voters. Widespread dissatisfaction prevailed.
+
+The SIR is now being implemented in other States amid protests.
+
+The ECI’s powersThe Court’s verdict clarified that the ECI has not been empowered to determine citizenship in the “strict sense”. The Court held that the power of the ECI affects an “individual’s entitlement to be included in the electoral roll”. It also held: “It does not, however, operate to divest the individual of claims of citizenship, nor does it foreclose a determination of that question by the competent authority under the Citizenship Act.”
+
+With respect, the words “limited” and “strict sense”, in the context of an inquiry into citizenship, carry no legal significance, even as obiter dicta of the Court.
+
+And the statement that the “power of ECI” “affects” an “individual’s entitlement” to be “included in the electoral roll” is not capable of any interpretation other than that the ECI has the power to disenfranchise an existing voter.
+
+This seems to give carte blanche to the ECI. Little wonder, then, that the ECI has been proceeding to alter the existing electoral rolls nonchalantly.
+
+Enquiry means enquiry, no less; citizenship means citizenship, no less. The ECI’s constitutional authority to inquire into citizenship remains contentious. Even a limited inquiry risks exceeding the ECI’s electoral mandate. The Court seems to have erred.
+
+While preparing the electoral roll, the ECI’s function is limited only to ensuring that every person included is an adult Indian citizen.
+
+The minimum age (18 years) and Indian citizenship are required to be ensured through documents. The ECI’s role is strictly ministerial; it has no authority to conduct any inquiry — limited or otherwise — into citizenship. The problem, however, arises because no single document conclusively proves citizenship.
+
+In other words, the Court vested the ECI with unguided discretion to remove a name from an existing electoral roll on the grounds of suspicious Indian citizenship. This amounts to a citizen, whose name was already on the electoral roll as of January 6, 2025, and who was presumed to be an Indian citizen, being disenfranchised by the ECI through the SIR process with effect from July 1, 2025.
+
+Documents, citizenship, deletionThe Court’s verdict did not even specify any document that could serve as proof of Indian citizenship.
+
+Significantly, however, paragraph 158 of the Court’s verdict reads, inter alia: “… it may not be out of place to note that a Ration Card, unlike a Passport or Birth Certificate, is certainly not a conclusive proof of citizenship…” Thus, the Court has ruled that a passport or birth certificate is conclusive proof of citizenship.
+
+Is this why the Ministry of External Affairs, during a press briefing marking Passport Seva Divas on June 24, 2026, made the controversial statement that a passport was merely a travel document and not proof of Indian citizenship?
+
+Could the Court not have, in the exercise of its jurisdiction, specified the documents that prove Indian citizenship? Or, could the Court not have issued a writ of mandamus directing the government to specify the documents that prove Indian citizenship?
+
+The Court did neither, belying the hopes of every Indian citizen whose citizenship is questioned by the ECI.
+
+How does one prove one’s Indian citizenship? This question still cannot be answered clearly, yet the ECI can disenfranchise a person who has already voted in the last election merely on the grounds of doubts about their Indian citizenship.
+
+On what basis have electoral rolls in India been prepared since January 26, 1950? How can an electoral roll used in a concluded election be altered on the grounds of suspicion? How can a person be disenfranchised after having voted in the previous election? What is the constitutional benchmark for disenfranchising an existing voter? These are questions that the Court could have considered.
+
+The Supreme Court’s powers are extensive under Article 32 (the right to constitutional remedies and the Court’s power to issue writs for the enforcement of fundamental rights), Article 141 (the binding nature of the law declared by the Court on all courts in India), Article 142 (the power to pass orders necessary to do complete justice in any cause or matter pending before it), and Article 144 (the obligation of all civil and judicial authorities in India to act in aid of the Court). The Court can surely still set right this legal vacuum by clearly laying down a yardstick for establishing Indian citizenship.
+
+Adulthood and Indian citizenship are the only two — repeat, only two — qualifications required for inclusion in the electoral roll. The Constitution does not prescribe any third mandatory qualification.
+
+The question of disqualification arises only after identifying qualified voters. Only a person who is otherwise qualified can be disqualified.
+
+Article 326 specifies the grounds for disqualification: “non-residence”, “unsoundness of mind”, “crime”, or “corrupt or illegal practice”.
+
+The Representation of the People Act, 1950, and the Registration of Electors Rules, 1960, must comply with Article 326 of the Constitution. The overriding principles of natural justice must also be followed when disqualifying a qualified voter.
+
+The name of a qualified voter simply cannot be removed from the electoral roll without a pre-decisional hearing.
+
+Protecting franchiseFree and fair elections are part of the basic structure of India’s Constitution. India’s potential to emerge as a world power cannot be realised if this foundation and structure is weakened. If an Indian citizen remains on tenterhooks about their right to vote, how can we expect the best from such a citizen?
+
+Although the right to vote has generally been characterised as a statutory right, its exercise is central to representative democracy and the constitutional commitment to free and fair elections. This was metamorphosed from the Court’s judgments in I.C. Golaknath vs State of Punjab (1967), Kesavananda Bharati vs State of Kerala (1973) and Indira Nehru Gandhi vs Raj Narain (1975), and continues to hold the field. In the interpretation of this writer, the three judgments, read together, surely elevate the voting right to a basic feature of India’s Constitution.
+
+The Kesavananda Bharati judgment established that even Parliament’s power to amend the Constitution cannot be exercised to destroy or damage its basic structure. The principle continues to safeguard essential constitutional features, including democracy.
+
+My Lords, uphold the right to vote freely, fairly and on time.
+
+Bishwajit Bhattacharyya is Senior Advocate, Supreme Court of India and a former Additional Solicitor General of India
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-sir-verdict-serious-constitutional-questions/article71637200.ece)
+
+---
+
+### ECI’s defence on SIR is shaky
+*Deccan Herald · Editorial*
+
+The Election Commission of India (ECI)’s affidavit filed in the Supreme Court on October 26 raises more questions than it answers about the Special Intensive Revision (SIR) of electoral rolls and the functioning of the Commission.
+
+While it maintains that the SIR and its procedural alterations are within the ECI’s constitutional remit and that the Commission’s decisions were unanimous, these claims are not borne out by the facts now public. The Commission cites honourable intentions, but intent must be supported by practice and procedure.
+
+There is no dispute on the ECI’s constitutional powers, but their exercise points to an unconstitutional intent. The affidavit notes that the objections recorded by two of the three Election Commissioners – Vivek Joshi and Sukhbir Singh Sandhu – were part of a consultative process.
+
+It does not counter the point that most objections concerned decisions taken without keeping the two commissioners informed. Given that these objections are on record, the decisions cannot be termed collective or unanimous.
+
+In the affidavit, the ECI says the additional declaration it prescribed for Form 6 was a separate document, not a modification of the requirements under the Registration of Electors Rules, 1960. But it agrees that the way it appeared online “could be construed as though an amendment of Form 6 had been made” and that “certain steps taken by the officers” had “to be corrected”.
+
+This position contradicts an earlier statement that the declaration was “upheld” by the Supreme Court and validates the charge of modification. The additional document amounts to an amendment enforced by the Commission.
+
+RSS plans poll outreach; to focus on SIR in UP, drug abuse in PunjabRegarding West Bengal, the ECI admits that the state Chief Electoral Officer (CEO) filed 1.6 million appeals before judicial tribunals against the inclusion of voters. But it does not answer the question: Who authorised these appeals? Failed attempts by Electoral Registration Officers in Goa to reverse the deletion of some voters also remain unexplained.
+
+The claims made in the affidavit need supporting evidence. Some of them contradict available facts. The apex court should test the affidavit for the veracity of its assertions with documents, file notings, and minutes of the Commission’s meetings and consultations. It should not accept the affidavit at face value, as the ECI has in the past made unverified claims.
+
+The Court has given time to the Opposition parties and other petitioners to file their rejoinders. It has done well to promise that it will closely examine all charges and the Commission’s response.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/eci-s-defence-on-sir-is-shaky-4198970)
+
+---
+
+### Killer strings: The cost of a failed ban
+*Deccan Herald · Editorial*
+
+The death of Vidya Manjunath Gowdar, a 38-year-old laboratory technician, in Hubballi on October 22, after a razor-sharp manja (a synthetic kite string coated with powdered glass or other abrasive materials) slit her throat, is a chilling reminder of the human cost of official indifference towards the use of banned kite strings. Riding her two-wheeler to work, she suffered fatal injuries when the string, hanging across the road, became entangled around her neck.
+
+Her death was entirely avoidable. Yet, despite repeated warnings and an existing ban, a recreational activity has once again claimed a life. Unlike ordinary cotton thread, manja can inflict deep, potentially fatal wounds and remain suspended from trees, electricity cables, and roadside structures long after kites have fallen. Motorists are particularly vulnerable, while birds frequently suffer severed wings, deep cuts, and agonising deaths.
+
+The Hubballi-Dharwad police have responded swiftly, registering multiple cases, raiding shops, and booking a parent for allegedly providing manja to his minor son. Teams have also begun removing hazardous strings from public places. Holding parents accountable for purchasing prohibited material is welcome. However, enforcement cannot be reduced to a post-tragedy exercise. Inspections must be sustained, supply networks dismantled, and online sales monitored continuously, rather than only after lives are lost.
+
+The scale of the challenge is also evident elsewhere. Although India lacks a comprehensive state-wise database on manja-related casualties, Gujarat experiences a substantial seasonal burden during Uttarayan. Under the state’s Karuna Abhiyan initiative, veterinary teams and volunteers have treated thousands of injured birds during the 2026 festival period. Such interventions deserve emulation, but rescuing victims cannot substitute for preventing injuries.
+
+Hubballi Airport gets ‘May I Help You?’ desks to facilitate passengersThe National Green Tribunal has prohibited synthetic, nylon, and glass-coated kite strings. Their continued availability exposes glaring enforcement gaps. Authorities must act across the supply chain by identifying manufacturers, wholesalers, and retailers, and imposing deterrent penalties. Violations that endanger lives must attract non-bailable provisions wherever the law permits, particularly in cases involving death.
+
+Effective prevention requires coordinated action by police, municipal bodies, education departments, and suppliers. Regular market inspections, surveillance of illegal supply chains, public reporting, and prompt removal of abandoned strings must become routine. Schools and parents should encourage the use of safe, biodegradable cotton thread and promote responsible kite-flying practices.
+
+The pleasure of flying a kite cannot come at the cost of another person's life. A society that celebrates tradition must also recognise its responsibilities. No festival, pastime, or moment of amusement can justify a preventable death.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/killer-strings-the-cost-of-a-failed-ban-4198977)
+
+---
+
+### Article 370 to highway hostility | Kashmir’s integration paradox
+*Deccan Herald · Opinion*
+
+Within 48 hours, two passenger buses travelling from Delhi to Srinagar were attacked — one stone-pelted at a dhaba in Haryana on October 17, the driver alleging the attackers shouted “Atankwadi gaadi nikal yahan se (Remove this vehicle belonging to terrorists)),” and the following night, another pelted in Punjab.
+
+In June, the NHRC registered a case on a complaint by the J&K Students Association documenting a pattern of assault, threats, communal profiling, and forced displacement of Kashmiri shawl sellers and students across Himachal Pradesh, Haryana, Uttarakhand, Delhi, Maharashtra, and Uttar Pradesh. The bus attacks could be part of the same phenomenon.
+
+Defenders of aggressive security postures toward Kashmir invoke ‘mainstreaming’ as their goal, but the proposition is unidirectional: Kashmiris must prove loyalty and submit to scrutiny. The bus attacks expose the absurdity of this logic.
+
+A public bus with a Jammu & Kashmir registration plate carrying civilians is what mainstreaming looks like in its most tangible form; attacking it is the anti-thesis of the mainstreaming that abrogation of Article 370 in August 2019 promised.
+
+Bus attack puts spotlight on safety of Kashmiri travellers, truckersThe constitutional reorganisation of J&K was meant to be the decisive instrument of integration — Kashmiris as full participants in the Union, with all the rights and opportunities of citizenship. But integration cannot be a legal transaction cleared by a majority parliamentary vote; it is a social process built on everyday encounters among citizens. When a Kashmiri driver is called a terrorist on a highway outside J&K, legal integration is contradicted by social exclusion.
+
+Abrogation removed the constitutional distance; the buses reveal a social distance yet to be abolished. The moment an attacker shouts ‘terrorist’ at a citizen from J&K, he advances the separatist agenda and Pakistani proxy narratives.
+
+This is not about attributing motives. It is about consequences, irrespective of intent: the objective outcome is ammunition for those who argue Kashmiris have no place in India.
+
+Within hours of the Haryana attack, Mirwaiz Umar Farooq, chairman of the Hurriyat Conference — whose constituent bodies are banned under the UAPA — issued a statement demanding authorities ‘ensure the safety of Kashmiri travellers’, positioning the Hurriyat as defender of ordinary Kashmiris against a hostile Indian State: precisely the narrative separatist politics has spent decades cultivating.
+
+The pattern extends beyond separatists. On October 23, in an unrelated context, Farooq Abdullah told his party workers that Pakistan has kept the Kashmir issue alive internationally and the issue remains unresolved. His remarks lend themselves to being converted into political capital for ulterior motives.
+
+Here was a senior mainstream figure from Kashmir and a former chief minister, framing Pakistan's diplomatic campaign as a protective shield for Kashmiris against the Indian State. Given Abdullah’s background, his intent could have been anything but divisive or anti-national.
+
+However, even if he spoke in a different context, the pieces can be assembled into an information-warfare tool by the interests inimical to India. The two contexts form an ideal recipe towards constructing a narrative: a stone thrown at a J&K-registered bus, and a mainstream leader implying Kashmiris need external protection and that their issues remain unresolved.
+
+This is the strategic trap. Every act of violence against an ordinary Kashmiri traveller is a recruitment poster for the very forces the security apparatus claims to be fighting. The attackers may be petty criminals or drunken brawlers with no political consciousness — or Abdullah’s context being different. It does not matter.
+
+Explained | Why Jammu & Kashmir’s old autonomy demand resurfaced in statehood debateThe effect is the same: Kashmiri victimhood at the hands of the Indian mainstream is reinforced, and integration is pushed back. Pakistan's proxy ecosystem needs no direct involvement — only that such developments occur, to be filmed and shared. The machinery of victimhood runs itself.
+
+The answer lies partly in a public discourse that shuns the indiscriminate equation of ‘Kashmiri’ with ‘security threat’ — a discourse reproduced in political rallies, on social media, and in everyday prejudice. Abrogation did not create this prejudice, but it has not dissolved it either, and the rhetoric surrounding it did little to discourage it.
+
+What is needed is not more confidence-building measures directed at Kashmiris — they have earned enough trust — but certain punishment for perpetrators and political education for the majority community. Kashmiris are not an exception to be tolerated but an inseparable part of the national fabric.
+
+Given the historical alienation of the people of J&K, we must take an extra step. The windows of two buses can be repaired; shattered trust is far harder to restore, given the signal it sends. Abrogation was an act of constitutional engineering; integration must be an act of national embrace — and that will determine whether abrogation has been consequential or otherwise.
+
+Colonel Shashank Ranjan is an Indian Army veteran with substantial experience serving in J&K. He teaches at OP Jindal Global University, Sonepat, Haryana. X: @sranjan46809.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/article-370-to-highway-hostility-kashmirs-integration-paradox-4199330)
+
+---
+
+### Foxconn in Karnataka is a success. But is it industrial transformation?
+*Deccan Herald · Opinion*
+
+Foxconn’s new iPhone plant in Karnataka is rightly celebrated as a win for India’s manufacturing ambitions. In 2023, the State approved Foxconn’s roughly ₹13,000 crore (about $1.6 billion) investment in a 300-acre Devanahalli complex, targeting 50,000 jobs and 20 million iPhones a year. Reports indicate Apple has already started producing its latest iPhones there, making the Bengaluru site one of Foxconn’s biggest factories outside China. The timing reflects global supply-chain trends: in recent years, companies like Apple have moved assembly out of China due to pandemic disruptions and US–China trade tensions. India wants a share of this shift.
+
+However, assembling more iPhones does not automatically mean India has industrialised in Apple’s league. Many countries have lured factories by offering cheap labour and land, only to export finished products without acquiring core technologies. Growth in ‘made in India’ exports can mask the fact that most value still lies elsewhere. Export earnings can rise while local value-add and know-how remain low.
+
+This is especially true in electronics. India’s electronics exports are booming, with Apple’s phones now a major part. Yet even if an iPhone is assembled in Bengaluru, foreign firms own and produce most high-value components—advanced chips, sensors, displays—and the intellectual property (designs, software, and patents). Assembly workers do little of that high-value work. Without domestic design, testing, precision tooling or chipmaking, Foxconn’s Bengaluru output may be more an assembly line than an innovation engine.
+
+What matters is whether India captures more of the value chain. Can Indian firms supply precision parts or tool and test equipment to the plant? Will Bengaluru’s world-class software and engineering base contribute algorithms, industrial software or chip designs for smartphones? Can universities and research labs team up with manufacturers to build homegrown expertise? Karnataka already has unique assets — it’s a global software, services and chip-design hub — so if anywhere in India can move up the chain, it is Bengaluru. The question is whether Foxconn’s presence will catalyse these capabilities or just leverage existing ones.
+
+The warning signs are familiar: high-end manufacturing rests on know-how that takes years to build. The iPhone plant’s 30,000 new workers (over 80% women) will learn assembly lines quickly, but creating deep engineering talent is harder. Indeed, Foxconn is also setting up a semiconductor-assembly joint venture and has applied for India’s chip incentives, signalling interest in more complex manufacturing. Yet India still imports most chips, and gaps in local testing, equipment design, and IP remain large. Factories can be built overnight, but a self-sustaining ecosystem of suppliers and innovators takes years.
+
+This is not just Karnataka’s question. Tamil Nadu already hosts Apple’s Tamil Nadu plants and other suppliers. Telangana and Andhra Pradesh are aggressively chasing high-tech manufacturing: for example, Andhra Pradesh’s recent deal for a ₹14,000 crore semiconductor fab shows a push into beyond-assembly industries. These southern states are forming India’s electronics corridor. But at stake is whether they compete on low-cost assembly or on capability. Vietnam, Mexico, and others can match assembly incentives; the real competition will be for higher R&D, design, and fabrication investments.
+
+Policy must distinguish between them. Jobs and exports are welcome, but India needs policies that grow local R&D labs, supplier clusters and skills, not just factories. Incentives could prioritise partnerships with Indian suppliers, funding for electronics R&D and training programmes. Smart procurement rules might favour products with higher ‘Make in India’ content. Crucially, semiconductor and innovation policies (like India’s chip incentive schemes) should encourage domestic design and chipmaking.
+
+In sum, Foxconn’s Devanahalli plant is a success — for now. It delivers jobs, capacity, and deeper ties into global supply chains. But true ‘industrial transformation’ requires more than assembly lines. The more important test will be how much technology and intellectual property stays in India after these iPhones ship overseas.
+
+If Karnataka builds an ecosystem of designers, toolmakers, and engineers around Foxconn’s factory, this could be a turning point. If not, India risks being a larger piece in others’ supply chains, rather than a leader in the digital economy.
+
+Shrabani Mukherjee is Professor of Economics, Alliance University, Bengaluru. Jibonayan Raychaudhuri is Associate Professor, School of Economics, University of East Anglia, Norwich, UK.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/foxconn-in-karnataka-is-a-success-but-is-it-industrial-transformation-4199399)
+
+---
+
+### Why BJP is targeting the Left in West Bengal
+*Deccan Herald · Opinion*
+
+When the Bharatiya Janata Party (BJP) swept to power in West Bengal on May 4, winning roughly 207 seats in the 294-member Assembly and reducing the Trinamool Congress (TMC) to about 80, the moment felt like a long-awaited rupture. For the first time, a Right-wing formation held the chief minister’s office, with Suvendu Adhikari taking charge.
+
+Five months later, amid the ordinary business of governance, one pattern has stood out with unusual clarity: sustained pressure against the Left. The sharpest expression arrived during Durga Puja, when Communist parties traditionally set up bookstalls near pandals, a practice that stretches back decades and extends to other festivals as well.
+
+Adhikari told the Assembly that any Left or Communist organisation must explicitly label its stalls ‘Durga Puja’ rather than ‘Sharodotsav’; otherwise, Puja committees should refuse them space nearby. The directive quickly translated into concrete action. In Jadavpur, municipal machinery including bulldozers appeared to clear stalls under various administrative pretexts, while elsewhere supporters were alleged to have carried out direct attacks.
+
+State BJP president Shamik Bhattacharya and Finance Minister Swapan Dasgupta publicly condemned the violence, yet the question of why the confrontation continues remains. The answer lies less in electoral arithmetic and more in the stubborn persistence of an older ideological contest.
+
+The Rashtriya Swayamsevak Sangh (RSS) has long treated the Left as a principal opponent rather than a temporary political rival. Its former chief M S Golwalkar, in his writings, listed communists among the internal threats to the nation precisely because their atheistic materialism and emphasis on class conflict clashed with the organic, spiritual conception of society he advanced.
+
+That framing has never fully receded. In West Bengal, the BJP’s rise since 2019 drew substantial support from former Left voters who abandoned the CPI(M)-led Front after years of organisational decline. Yet the transfer of votes has not erased the underlying worldview.
+
+A party organised around a dominant leader can be dismantled once that leader falters; an ideology rooted in everyday institutions, reading habits, campus culture, and festival-side stalls is harder to uproot. The Left’s single seat in the current Assembly and its weak electoral showing confirm organisational exhaustion, but they do not prove the disappearance of the secular, progressive, and Left-of-centre constituency that once formed its base.
+
+With the TMC itself now out of power and sections of the electorate already showing signs of disillusionment, the BJP recognises that this constituency has not vanished. It could, under changed circumstances, regroup and return to a political home that still speaks its language. The TMC is fractured, with three distinct factions, making consolidated support for the party unlikely. While Mamata Banerjee’s faction retains some popularity in West Bengal, the extent of its remaining support among voters remains uncertain.
+
+That recognition helps explain the current focus on the everyday spaces where Left ideas continue to circulate. Bookstalls during Durga Puja are not merely commercial points; they are sites of encounter between residual ideology and ordinary citizens who may buy a volume of Marx or Lenin alongside Bengali classics. Removing or constraining them is, therefore, an attempt to shrink the public terrain on which that ideology remains visible and available.
+
+Parallel pressures have appeared on campuses. At Jadavpur University, long regarded as a Left stronghold, clashes involving the Akhil Bharatiya Vidyarthi Parishad have been accompanied by the familiar label of ‘dimagi Naxals’, while professors suspected of Left alignment have faced pointed criticism. Similar tensions have surfaced at the Satyajit Ray Film and Television Institute. These episodes are not isolated law-and-order problems; they form part of a broader effort to contest the institutions and habits through which Left thought has historically reproduced itself.
+
+The organisational collapse of the Left does not automatically dissolve the ideas that once bound its supporters. So long as those ideas retain a foothold in cultural and intellectual life, they retain the capacity to reassemble former constituencies. It is also important to acknowledge the growing discontent with the BJP across sections of Indian society, particularly among Gen Z and younger voters, who have been increasingly vocal in expressing their concerns.
+
+The Left continues to enjoy a significant presence among young people in several prominent educational institutions. Left parties have also been taking the lead in organising and participating in youth-led protests, positioning themselves as an important force within this emerging discontent.
+
+The battle over bookstalls, the insistence on particular festival nomenclature, and the campus confrontations are less about the current weakness of the CPI(M) than about the future possibility of its ideological return. In that sense, the BJP’s early months in power have revealed that electoral victory alone has not settled the older contest between the two sides. The books, it turns out, cannot simply be left out.
+
+Sayantan Ghosh, the author of Battleground Bengal, teaches at St Xavier’s College (Autonomous), Kolkata.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/why-bjp-is-targeting-the-left-in-west-bengal-4199398)
+
+---
 
 ## 28 October 2026
 
@@ -36,6 +302,44 @@ The Shanghai Cooperation Organisation (SCO) summit in Bishkek, Kyrgyzstan, on Au
 Traditionally, the SCO and BRICS summits have offered the three major powers — Russia, India and China — an opportunity to demonstrate their mutual solidarity. For Russia, it is a platform from which it can signal to the West that it is not isolated and still has powerful allies. The expansion of the SCO and BRICS under China’s leadership showcases its growing power to the West. For India, the SCO and BRICS have been useful for demonstrating its strategic autonomy. India has sought to remain welcome in both western and non-western forums, from the G-7 to the SCO and BRICS.
 
 [Read full article](https://www.thehindu.com/opinion/lead/indias-balancing-act-risks-eroding-russias-trust/article71632551.ece)
+
+---
+
+### DC Edit | An Uphill Task for Bibi To Become PM Again
+*Deccan Chronicle · Editorial*
+
+Israeli Prime Minister Benjamin Netanyahu may have played many roles in his chequered career, but can he play Houdini to get out of the blurry choice the public made in the polls and be sworn in as the Prime Minister again? That is the million-dollar question as a record number of voters, including the Israeli Arabs, turned up to mark their ballots in the most consequential election in decades.As the laborious physical counting of paper ballots in the proportional representation system wore on past the three-fourths mark, the Netanyahu camp was marginally ahead of that of his main rival, the retired army chief Gadi Eisenkot. The huge turnout and the Arab vote indicate a popular upswing against Mr Netanyahu who has been waging wars against Hamas and the Palestinians of Gaza, the Hezbollah of Lebanon and Iran, all after the barbarous Hamas attack on Israel three years ago.Since neither camp, mostly pegged to the right and the far-right, may be willing to invite the Arab parties — projected to get as many as 19 seats in the Knesset of 120 seats — into the coalition for the fear of upsetting their Jewish supporters and their nationalist urge, it is likely that negotiations could prove arduous and another election may be needed in due course as per the Israeli poll protocol.Since the Arabs resident in the West Bank have no vote, they might be missing their say in this moment of national reckoning for Israel. The leftists, part of the Eisenkot camp, are calling for a big change in accepting the support of Arab parties to form an unprecedented national coalition, but that might call for a political construct that appears a bridge too far for Israel.Conditions difficult to fulfil for both sides may be set for what may seem an impossible political and religious union, but the situation is so compelling as to not to rule out any permutation and combination, more so considering an Arab party — the United Arab List — was part of the ruling coalition for a while in 2021.In this historic show of strength, the Arabs, descendants of the Palestinians who chose to stay on in Israel after 1948, can be said to be the biggest winners in the 2026 poll. The Arabs may hold the key to government formation, though Mr Netanyahu cannot countenance a non-Zionist regime while Mr Eisenkot has pledged to build “a stable Zionist government”.A persistent gridlock might, however, mean that Mr Netanyahu stays very much in charge as the caretaker PM and, despite being warned about any excessive actions in the name of Israeli security imperative, might feel emboldened to continue the attacks on Hamas and Hezbollah and try convincing the US President Donald Trump into resuming the bombing campaign against Iran that he has been threatening for weeks now.The 54-47 lead that the Netanyahu camp was projected to be holding at around the 75 per cent mark in the counting enthused even ‘Bibi’s’ benefactor Mr Trump enough to posit that his endorsement may have helped Mr Netanyahu. At any rate, being so near and yet so far away is not a situation that Mr Netanyahu is unfamiliar with.
+
+Whichever way the Israeli government formation issue swings, what will remain unchanged will be Israel’s security situation in a restive region and its belligerence in attacking enemies post-October 7, 2023 and its strategic aim that Iran should never possess a nuclear weapon that could be used against it.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-an-uphill-task-for-bibi-to-become-pm-again-1999714)
+
+---
+
+### DC Edit | Unfit Drivers Worsen Road Safety
+*Deccan Chronicle · Editorial*
+
+Ineligible people — drunk, underage or without a licence — driving luxury cars and running over the unsuspecting common man have been a feature of Indian roads for quite some time. Despite ending the lives of fellow human beings, they often escape the scrutiny of the law thanks to their riches or influence. A pliable legal system often ensures that these social criminals are let off with a light rap on their knuckles. Delivered several decades later, too, after committing the crime. The back-to-back incidents of teens driving luxury cars and hitting two-wheeler passengers, killing them on the spot, in the dead of the night and the police system doing everything possible to help the culprits by wasting the golden hour in Kochi, the commercial capital of Kerala, has eventually led to the state government finally waking up to the dangers of allowing the new normal to persist. It has transferred the top cop in the city and put four police officers, including the station house officer, under suspension for dereliction of duty after the minor son of an additional sessions judge ran over a 56-year-old roadside eatery owner in the early hours of Sunday. It has also booked the judge as per the law for allowing his minor son to drive the car of which he is the owner. Accidents do happen, but the death of 1.85 lakh people a year in a country of 140 crores is an unacceptable number. Sadly, India accounts for 11 per cent of all road accident deaths worldwide despite the fact that it has only one per cent of the total number of vehicles on the road. Poor road infrastructure and a lack of civic sense do contribute a major share of this data but a liberal legal system which practically decriminalises drunken driving with a meagre fine and laws that are subject to strange interpretations offer little incentive for responsible driving. Unless the government tightens the laws and enforcement agencies choose to implement them, the country will continue to lose valuable lives on its roads.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-unfit-drivers-worsen-road-safety-1999729)
+
+---
+
+### Chandrakant Lahariya | Everyone Has a Right to Question Doctor, Hospital
+*Deccan Chronicle · Opinion*
+
+Whenever I have written about over-prescription, unnecessary procedures, inflated hospital bills or the commercialisation of Indian healthcare, the responses have been predictable. Alongside generous appreciation from patients and readers arrive angry emails, hostile messages and occasionally personal abuse. Some come from fellow doctors, others from hospital administrators and corporate healthcare professionals. A few arrive from mysterious correspondents. Recently, even ‘Ranchhod Das Chanchad’, the character played by Aamir Khan in 3 Idiots, apparently found time to send me an angry, threatening email.Rather than contest the evidence or arguments, the critics behind these emails question my qualifications, competence or motives. One doctor asserted that, as someone trained in preventive medicine, I had no business commenting on interventional cardiology. Another considered questioning specialists by a fellow doctor an act of professional disloyalty. Others accuse me of maligning corporate hospitals while ignoring government failures. A few have demanded to know who finances my writing. For the record, nobody pays me to influence my opinions or determine the subjects I choose to write about.Such reactions are sometimes amusing, but their implications are serious. They reveal two troubling tendencies: healthcare being increasingly equated with medical intervention, and a professional culture in which clinical decisions are regarded as the exclusive domain of specialists, immune from questioning by colleagues outside their field, let alone patients. Some argue that doctors should refrain from criticising one another, forgetting that professional solidarity cannot mean collective silence.My credentials are frequently put on trial. Apparently, being a qualified medical doctor, educated at leading Indian medical institutions, and having worked with international health agencies counts for little because much of my career has been devoted to public health, the practice of preventive medicine and health policy. But this argument misunderstands both medical education and the nature of scrutiny.There is a fundamental distinction between performing a specialised procedure and asking whether it was necessary, supported by evidence, properly explained or reasonably priced. The first demands specific technical competence. The second falls squarely within clinical review, scientific inquiry, ethical debate and public accountability. A patient needs no medical degree to ask why an invasive intervention was recommended, what alternatives existed or whether commercial incentives influenced the decision.Certainly, an interventional cardiologist understands the technical complexities of coronary procedures better than a general physician. But questions about inappropriate incentives, informed consent, institutional revenue targets and avoidable treatment extend beyond cardiology. Confusing specialised expertise with an exclusive right to judge oneself creates an obvious conflict of interest. This distinction is central to responsible public debate.Another familiar accusation is that questioning corporate hospitals amounts to attacking doctors. This conflates individuals with institutions. A conscientious physician employed by a corporate hospital may work under expectations surrounding revenue, investigations, admissions or procedures. Concerns about unnecessary interventions and distorted incentives are neither imaginary nor confined to India. Challenging such pressures can protect a doctor's independence rather than undermine it.Private healthcare has undoubtedly expanded India's medical infrastructure, introduced sophisticated technologies and improved access to specialised services. Government facilities, meanwhile, continue to struggle with overcrowding, inadequate resources and workforce shortages. But public-sector inadequacy cannot excuse private-sector excess; nor can questionable private practices absolve governments of their obligations. Patients deserve accountability from both.Another defence is that treatment in India costs substantially less than in wealthy countries. Sometimes it does. But affordability cannot be measured against American hospital bills. A procedure that appears inexpensive internationally can still consume an Indian family's savings or push it into debt. India's National Health Accounts estimated that households paid 39.4 per cent of total health expenditure directly in 2021–22. That burden makes appropriateness, transparency and value indispensable considerations.The pertinent question is not simply whether treatment is cheaper, but whether it was needed at all. Were patients offered reasonable alternatives? Did they understand the likely benefits and possible harms? Was a fourth investigation, another prescription or an additional procedure likely to improve their health? These questions should concern responsible doctors as much as patients.Some colleagues rightly point out that doctors...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/chandrakant-lahariya-everyone-has-a-right-to-question-doctor-hospital-1999721)
+
+---
+
+### Sunanda K. Datta-Ray | Is 2026 the New 1848 for Gen Z and Gen X?
+*Deccan Chronicle · Opinion*
+
+India isn’t the only country to be in ferment. As an American academic pointed out in a BBC television programme the other day, the flames of revolt — if not revolution — have been raging through the institutions of several other nations, including Nepal, France and Albania. How the future will shape is still anybody’s guess.India has the world’s largest Generation Z population, with an estimated 406 to 407 million people born between 1997 and 2012. With nearly 300 protesters arrested in France alone by last weekend, this might be not 2026 but 1848, Europe’s year of revolutions known as the springtime of the peoples. Those spurts of unrest spanned almost two years, between January 1848 and October 1849, and remain the most widespread revolutionary wave in European history.Over 50 countries were affected, but without any significant coordination or cooperation among their respective revolutionary organisations. Some of the major political contributing factors were widespread dissatisfaction with the political leadership of the day, demands for more participation in government and democracy, and for freedom of the media, meaning in those pre-wireless and pre-Internet days, the printed press.The demand of the working class for economic rights, coupled with the demand for women to enjoy the franchise, presaged the rise of nationalism. Other economic factors, such as the European potato failure, triggered mass starvation, migration and civil unrest, leading to law and order problems, and mounting challenges to lingering feudalism in governance which, in turn, indicated the march of political democracy.The uprisings were led by temporary coalitions of workers and reformers, including figures from the middle and upper classes (the bourgeoisie). However, these coalitions did not hold together for long. Many of the revolutions were quickly suppressed, as tens of thousands of people were killed, and even more were forced into exile. Despite this, significant lasting reforms included the abolition of serfdom in Austria and Hungary, the end of absolute monarchy in Denmark and the introduction of representative democracy in the Netherlands. The revolutions were most prominent in France, Italy, the Austrian Empire, and the states of the German Confederation that would make up the German Empire. The wave of uprisings ended in October 1849 as conservative governments throughout Europe realised that warning bells could no longer be silenced.The relatively new factor in the protests is of Generation X, often shortened to Gen X. It is the demographic cohort following the Baby Boomers and preceding Millennials. In India this means individuals born roughly between 1965 and 1980 and currently aged 45 to 60 who represent approximately 16.5% of the population (around 244 million people) as of 2026. Rightly or wrongly, researchers and the popular media often use the mid-1960s as their starting birth years and the late 1970s to early 1980s as their ending birth years, with the generation defined as people born from 1965 to 1980.If Delhi’s Jantar Mantar, the collection of 18th-century astronomical observatories built by the Rajput king, Maharaja Sawai Jai Singh II of Jaipur, is the physical symbol of Gen Z’s revolt in India, the Belgium-born economist, social scientist and activist, the 67-year-old Jean Drèze (born January 22, 1959) is still its most powerful human articulation.Dreze became an Indian citizen in 2002 and went on to shape India’s social welfare policies, helping to draft MGNREGA (the National Rural Employment Guarantee Act that India’s Parliament passed in 2005 and which came into effect on February 2, 2006, as a social and legal measure that guarantees the ‘right to work’: renamed Mahatma Gandhi National Rural Employment Guarantee Act in 2009, it guarantees at least 100 days of wage employment in each financial year to every household that is willing to do unskilled manual labour. Dreze also played a key role in campaigns for the Right to Information Act and the National Food Security Act. Nearly a decade later, he was at the Jantar Mantar, protesting alleged electoral poll irregularities, the protest that captured the world’s attention and catapulted the Cockroach Janta Party and the three names usually associated with it — Abhijeet Dipke, Saurav Das and Ashutosh Ranka — into national and even international prominence.In theory at least, there is nothing that Gen X, of whom there were 65.2 million in the United States alone in 2019, cannot achieve. While the 31-year-old Dipke (born September 29, 1995) is probably India’s most successful political communication strategist and digital campaigner, the real clue to his future aims might lie in the viral satirical political movement (the CJP that he founded) and which is now the main challenger that Prime Minister Narendra Modi and his right-wing Hindu-oriented Bharatiya Janata Party government face.It was a signal achievement for Dipke when weeks of countrywide protests ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sunanda-k-datta-ray-is-2026-the-new-1848-for-gen-z-and-gen-x-1999738)
 
 ---
 
@@ -21879,104 +22183,6 @@ India’s cinematic heritage includes works of extraordinary humanity, from Saty
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/awards-for-hate-diminish-us-all-4093748)
-
----
-
-## 30 July 2026
-
-### Hiding the scissors: On the Central Board of Film Certification
-*The Hindu · Editorial*
-
-The Central Board of Film Certification (CBFC) wields significant cultural influence by deciding which films can be screened in Indian cinemas. Its decisions on what to excise from Indian films are followed nearly completely even by streaming services, despite not being required to show the censor’s version of a filmmaker’s artistic vision. The patterns that producers interpret from the CBFC’s decisions determine which stories are even made. There is a reason why few political films that espouse the cause of secularism (or the ills of communalism) are seen in cinemas today. There is also a reason why few would dare to make a film such as Satluj, considering what it went through at the censors’ hands, and the fate it was met with when an online release was briefly achieved. The censor board stands captured, blocking off films that are inconvenient to the ruling dispensation in ways that have never been seen before, and purging politics hostile to the dominant philosophy from films. All this to say, what the CBFC does matters, and the only check on its authority is the Cinematograph Act, 1952 and the rules framed thereunder, but its autonomy is only on paper.
-
-The CBFC is required to watch and rule on films in a matter of weeks. For over a year, the film Monkey Man, featuring a dystopian vision of a society with supremacy baked in, has not even been watched. This amounts to a de facto ban, but the CBFC has chosen the route of avoiding that headline by simply not taking a call one way or the other. Even background references to the government’s inaction during the COVID-19 pandemic were removed from Homebound, India’s entry to the Oscars. The CBFC is also guilty of unlawful concealment. In plain defiance of Section 5A(2) of the Cinematograph Act, the board has stopped publishing certificates in the government Gazette. In addition, it has now placed the online details of its certificates with cuts — unindexed and difficult to obtain as they are — behind an “under maintenance” message. Archives have stopped receiving cut portions of films for researchers’ study. Pre-censorship as a concept is odious to free societies, and the CBFC’s role ought to be curtailed, if not abolished altogether. While it exists, however, the CBFC must be compelled by the film fraternity, and its founding statute, to follow the law. The censor’s scissors have plagued and stifled the voice of generations of storytellers, but the dynamic this has played out in has been visible and must be held accountable.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/hiding-the-scissors-on-the-central-board-of-film-certification/article71281220.ece)
-
----
-
-### ​Unaddressed challenges: On India’s crisis in education
-*The Hindu · Editorial*
-
-The Indian political leadership tends to respond to mass protest with new laws, fast-track courts and inquiry committees, rarely addressing core issues. The Cockroach Janta Party agitation has met a similar fate: the immediate demand conceded, the upsurge mollified with new legislation, the promise of judicial scrutiny, and a task force. This is crisis management, building on a dysfunctional architecture. For the National Testing Agency (NTA), the task force is expected to operationalise the K. Radhakrishnan Committee’s October 2024 blueprint, much of it stalled for 18 months: a statutory, UPSC-like NTA under a Director General and two Additional Directors General; 10 functional verticals spanning cybersecurity, psychometrics and forensics; a thousand standardised testing centres; a Digi-Exam biometric framework integrating Aadhaar, facial recognition and continuous surveillance. The NTA has issued hiring notifications, but structural challenges remain: six to 12-month recruitment cycles, pay scales that cannot compete with those of the private sector, and cadre creation requiring legislative sanction. The NEET 2027 deadline is daunting. Fully implemented, the Radhakrishnan panel’s recommendations would have included a shift toward continuous, computer-adaptive testing. Standardised tests such as the GRE play a key role in American admissions, but do not carry the stakes of a single sitting. The panel also noted that agencies such as the National Medical Commission and the IITs are treated as passive clients in the exam cycle. But these may well be outside the purview of the taskforce since, as constituted, it leans on capacity in technology, space research, intelligence, public administration, and logistics. Its lone academic is the IIT Madras director. More career educators and assessment researchers might have pressed the broader question — what these examinations are meant to measure, and whether they should exist in their current form — that the government appears to treat as settled. Instead, a crisis in education is being addressed as a technical problem.
-
-JEE’s conduct owes much to IIT faculty who see its integrity as intrinsic to a brand they have a stake in. NTA’s paper-setters carry no comparable loyalty. Unlike JEE Advanced, where nearly every question is a fresh application of fundamentals, NEET draws on question banks mixed and matched algorithmically — perpetuating the nexus with coaching classes, and potential for mischief. One of the top AIIMS institutions could plausibly be entrusted with NEET paper-setting each year. But the government’s approach does not lend itself to greater engagement with academia. The task force’s mandate, as the Prime Minister has spelled it out, covers the entire examination system, not NEET alone. Yet, it may well approach the CBSE marking fiasco, too, as a technical problem. Both point to the same failure: an inability to build high-quality academic institutions capable of functioning autonomously. That is not what this task force is built to address.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/unaddressed-challenges-on-indias-crisis-in-education/article71281233.ece)
-
----
-
-### FCRA Bill 2026, a threat to civil society organisations
-*The Hindu · Opinion*
-
-According to the government’s legislative programme for the monsoon session of Parliament, the Foreign Contribution (Regulation) Amendment Bill, 2026, has been listed for consideration. Although the Bill was included in the legislative agenda during the previous session, its consideration was postponed following widespread protests, particularly from Christian organisations and non-governmental organisations (NGO). At the time, the government made it clear that it remained committed to passing the Bill. Nevertheless, some interpreted the postponement as a sign that the government intended to defer it indefinitely or even drop it altogether. Those expectations have now been dispelled.
-
-In India, foreign contribution has always been a controversial issue. Normally, foreign contributions are allowed to support humanitarian relief and sectors such as health care, education, and environmental protection.
-
-[Read full article](https://www.thehindu.com/opinion/lead/fcra-bill-2026-a-threat-to-civil-society-organisations/article71282647.ece)
-
----
-
-### E20 switch demands more evidence
-*Deccan Herald · Editorial*
-
-By stating in Parliament that it has not conducted any exercise to determine the volume of vehicles compatible with E20 fuel, the Union government has revealed a clear lack of administrative preparedness. The government has announced that it would go ahead with the proposal for E20 (petrol blended with 20 per cent ethanol), maintaining that the fuel is compliant with the country’s existing vehicle standards. It said E15+ petrol has been in use for more than three-and-a-half years and E19-20 for more than two-and-a-half years.
-
-The government claims that 20 crore two-wheelers and more than three crore petrol cars have been using the blended fuel over the past few years without any reported damage to their engines.
-
-It told Parliament that a decision on raising the ethanol component beyond the current 20 per cent would be taken only after scientific and technical studies, and consultation with relevant stakeholders, including automobile manufacturers, oil marketing companies, and research institutions. This promised rigour for the future was missing ahead of the official endorsement of E20.
-
-Can E20 fuel damage older vehicles? Kejriwal seeks clarity from auto firmsThe use of ethanol has been recommended for multiple reasons. It can reduce dependence on imported crude, lower carbon emissions, and create a larger market for agricultural produce from which it is made. However, variations in crude prices, the impact on food production, and water consumption of source crops such as sugarcane shape the economy of ethanol use.
-
-Notably, no comprehensive studies have been done on the allied technical, economic, and marketing issues. Critics point out that testing under controlled conditions is not sufficient to implement a policy that impacts millions of vehicles. It is claimed that a 10 per cent ethanol blend has been found to reduce fuel efficiency by approximately 3-5 per cent.
-
-Consumers count the litres, the miles they get from them, and the money paid for every mile. Many of them may not be averse to making a sacrifice for a larger cause, but they would want to be assured that the promised benefits are real. Public policy, which affects millions of people, should be grounded in scientific data, transparent execution, and user trust. The government should have initiated a wider public consultation on the rollout.
-
-Consumers have multiple reservations and apprehensions regarding the fuel. As stronger resistance emerges – a protest march has been planned in Delhi next week – the government should engage with the concerns. It must validate its claims on the fuel’s efficiency with an independent audit and create public confidence before it greenlights the plan as policy.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/e20-switch-demands-more-evidence-4092358)
-
----
-
-### SIR and the burden of inclusion
-*Deccan Herald · Editorial*
-
-The Election Commission's own figures have lent troubling weight to the fears expressed by civil society groups over Karnataka's ongoing Special Intensive Revision (SIR) of electoral rolls. Around 80 lakh voters – nearly 15 per cent of the state's electorate – have been marked as ASDDO (Absent, Shifted, Dead, Duplicate and Others). The figure is alarmingly close to the activists' prediction that nearly one crore voters could face deletion or exclusion.
-
-This is not the first exercise to clean up electoral rolls since the last intensive revision in 2002. Summary revisions are conducted before every election, with additions, deletions, and corrections. It is therefore inconceivable that such a vast number of voters have suddenly become dead, ineligible or permanently shifted without detection. The EC itself says over 91 per cent of voters had been pre-mapped. If so, why has the ASDDO list become so enormous?
-
-Karnataka SIR | Political parties, activists raise alarm over 79.75 lakh ASDDO votersThe activists’ explanation deserves serious attention. Booth Level Officers (BLOs), pressed by tough deadlines, are alleged to have wrongly marked voters without adequate verification. Equally worrying are mapping errors involving family linkages, logical discrepancies, and difficulties in tracing progeny details from the 2002 rolls.
-
-Responsibility for such errors cannot rest solely with BLOs; Electoral Registration Officers (EROs) and the EC must be held accountable. The Commission has assured that voters whose names are proposed for deletion will receive notices and can file appeals. Voters marked absent (more than 11 lakh people) and wrongly mapped as shifted have the provision to seek redress from the BLOs. That response still misses the point.
-
-Citizens should not be forced to run from pillar to post to reclaim a right lost through bureaucratic error. The burden will fall heaviest on migrant workers, tenants, women who have changed surnames after marriage, residents of informal settlements, and vulnerable groups who often lack ready documentation or the time to navigate official procedures. Many may abandon the process, effectively losing their vote despite being eligible.
-
-The Karnataka High Court's refusal to entertain a plea seeking an extension of the deadline is disappointing. The experience of West Bengal, where delayed intervention left lakhs without voting rights, should serve as a cautionary tale.
-
-The EC must verify every proposed deletion before publishing the draft rolls, even if that means extending the exercise. Booth-level agents should be involved in scrutinising doubtful entries, while EROs must ensure every deletion is backed by physical verification. Electoral roll revision must be guided by a presumption of inclusion, not exclusion. Administrative convenience can never take precedence over the constitutional right to vote.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/sir-and-the-burden-of-inclusion-4092357)
-
----
-
-### Reaping the rewards of resilience
-*Deccan Herald · Opinion*
-
-All of us who enjoyed the June-July FIFA and Wimbledon Championships and the ICC Women’s T20 World Cup would have been struck by the sheer grit and tenacity on display at those keenly contested events. Every game was a test of extraordinary endurance. Of course, their best efforts did not always translate into victory; some who fought valiantly, ignoring injury and battling burnout, finally faced failure.
-
-For those courageous competitors, however, finally does not mean finality. Although they might not have lived up to their expectations (or those of their supporters) in a crucial match, they are unlikely to let recent reverses impede future aspirations and achievements. Instead, disregarding defeat, they will continue to pursue their passion for sport.
-
-This resilience, as even an amateur athlete is aware, goes far beyond mere strength and stamina. While not downplaying the importance of physical fitness, we should realise that resilience is essentially a classic case of mind over matter. The American Psychological Association Dictionary defines resilience thus: “The process and outcome of successfully adapting to difficult or challenging life experiences, especially through mental, emotional, and behavioural flexibility and adjustment to external and internal demands.”
-
-Frankness, not flattery, is a friendTime and again, we hear of people who possess this admirable quality in abundance. J K Rowling comes to mind. Her manuscript of Harry Potter and the Philosopher’s Stone was rejected by 12 publishers, but Rowling rebounded from those rebuffs to become a renowned author.
-
-Thomas Alva Edison is another inspiring individual. When he was creating the first commercially practical incandescent light bulb, a positive outcome repeatedly eluded him. Surmounting setbacks, he declared, “I have not failed. I have just found 10,000 ways that will not work.”
-
-It might seem from these examples that resilience is a blessing reserved for the gifted. On the contrary, it is freely accessible, not just to a favoured few. Each of us is endowed with the capacity to bounce back from traumatic situations, but not through magical means. If we wish to avail of the valuable commodity at our disposal, we must exert ourselves. When we harness and develop this remarkable resource, we will reap the rewards of resilience.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/reaping-the-rewards-of-resilience-4092347)
 
 ---
 

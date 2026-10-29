@@ -1,5 +1,103 @@
 # Editorials archive — 2026-07
 
+## 30 July 2026
+
+### Hiding the scissors: On the Central Board of Film Certification
+*The Hindu · Editorial*
+
+The Central Board of Film Certification (CBFC) wields significant cultural influence by deciding which films can be screened in Indian cinemas. Its decisions on what to excise from Indian films are followed nearly completely even by streaming services, despite not being required to show the censor’s version of a filmmaker’s artistic vision. The patterns that producers interpret from the CBFC’s decisions determine which stories are even made. There is a reason why few political films that espouse the cause of secularism (or the ills of communalism) are seen in cinemas today. There is also a reason why few would dare to make a film such as Satluj, considering what it went through at the censors’ hands, and the fate it was met with when an online release was briefly achieved. The censor board stands captured, blocking off films that are inconvenient to the ruling dispensation in ways that have never been seen before, and purging politics hostile to the dominant philosophy from films. All this to say, what the CBFC does matters, and the only check on its authority is the Cinematograph Act, 1952 and the rules framed thereunder, but its autonomy is only on paper.
+
+The CBFC is required to watch and rule on films in a matter of weeks. For over a year, the film Monkey Man, featuring a dystopian vision of a society with supremacy baked in, has not even been watched. This amounts to a de facto ban, but the CBFC has chosen the route of avoiding that headline by simply not taking a call one way or the other. Even background references to the government’s inaction during the COVID-19 pandemic were removed from Homebound, India’s entry to the Oscars. The CBFC is also guilty of unlawful concealment. In plain defiance of Section 5A(2) of the Cinematograph Act, the board has stopped publishing certificates in the government Gazette. In addition, it has now placed the online details of its certificates with cuts — unindexed and difficult to obtain as they are — behind an “under maintenance” message. Archives have stopped receiving cut portions of films for researchers’ study. Pre-censorship as a concept is odious to free societies, and the CBFC’s role ought to be curtailed, if not abolished altogether. While it exists, however, the CBFC must be compelled by the film fraternity, and its founding statute, to follow the law. The censor’s scissors have plagued and stifled the voice of generations of storytellers, but the dynamic this has played out in has been visible and must be held accountable.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/hiding-the-scissors-on-the-central-board-of-film-certification/article71281220.ece)
+
+---
+
+### ​Unaddressed challenges: On India’s crisis in education
+*The Hindu · Editorial*
+
+The Indian political leadership tends to respond to mass protest with new laws, fast-track courts and inquiry committees, rarely addressing core issues. The Cockroach Janta Party agitation has met a similar fate: the immediate demand conceded, the upsurge mollified with new legislation, the promise of judicial scrutiny, and a task force. This is crisis management, building on a dysfunctional architecture. For the National Testing Agency (NTA), the task force is expected to operationalise the K. Radhakrishnan Committee’s October 2024 blueprint, much of it stalled for 18 months: a statutory, UPSC-like NTA under a Director General and two Additional Directors General; 10 functional verticals spanning cybersecurity, psychometrics and forensics; a thousand standardised testing centres; a Digi-Exam biometric framework integrating Aadhaar, facial recognition and continuous surveillance. The NTA has issued hiring notifications, but structural challenges remain: six to 12-month recruitment cycles, pay scales that cannot compete with those of the private sector, and cadre creation requiring legislative sanction. The NEET 2027 deadline is daunting. Fully implemented, the Radhakrishnan panel’s recommendations would have included a shift toward continuous, computer-adaptive testing. Standardised tests such as the GRE play a key role in American admissions, but do not carry the stakes of a single sitting. The panel also noted that agencies such as the National Medical Commission and the IITs are treated as passive clients in the exam cycle. But these may well be outside the purview of the taskforce since, as constituted, it leans on capacity in technology, space research, intelligence, public administration, and logistics. Its lone academic is the IIT Madras director. More career educators and assessment researchers might have pressed the broader question — what these examinations are meant to measure, and whether they should exist in their current form — that the government appears to treat as settled. Instead, a crisis in education is being addressed as a technical problem.
+
+JEE’s conduct owes much to IIT faculty who see its integrity as intrinsic to a brand they have a stake in. NTA’s paper-setters carry no comparable loyalty. Unlike JEE Advanced, where nearly every question is a fresh application of fundamentals, NEET draws on question banks mixed and matched algorithmically — perpetuating the nexus with coaching classes, and potential for mischief. One of the top AIIMS institutions could plausibly be entrusted with NEET paper-setting each year. But the government’s approach does not lend itself to greater engagement with academia. The task force’s mandate, as the Prime Minister has spelled it out, covers the entire examination system, not NEET alone. Yet, it may well approach the CBSE marking fiasco, too, as a technical problem. Both point to the same failure: an inability to build high-quality academic institutions capable of functioning autonomously. That is not what this task force is built to address.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/unaddressed-challenges-on-indias-crisis-in-education/article71281233.ece)
+
+---
+
+### FCRA Bill 2026, a threat to civil society organisations
+*The Hindu · Opinion*
+
+According to the government’s legislative programme for the monsoon session of Parliament, the Foreign Contribution (Regulation) Amendment Bill, 2026, has been listed for consideration. Although the Bill was included in the legislative agenda during the previous session, its consideration was postponed following widespread protests, particularly from Christian organisations and non-governmental organisations (NGO). At the time, the government made it clear that it remained committed to passing the Bill. Nevertheless, some interpreted the postponement as a sign that the government intended to defer it indefinitely or even drop it altogether. Those expectations have now been dispelled.
+
+In India, foreign contribution has always been a controversial issue. Normally, foreign contributions are allowed to support humanitarian relief and sectors such as health care, education, and environmental protection.
+
+[Read full article](https://www.thehindu.com/opinion/lead/fcra-bill-2026-a-threat-to-civil-society-organisations/article71282647.ece)
+
+---
+
+### E20 switch demands more evidence
+*Deccan Herald · Editorial*
+
+By stating in Parliament that it has not conducted any exercise to determine the volume of vehicles compatible with E20 fuel, the Union government has revealed a clear lack of administrative preparedness. The government has announced that it would go ahead with the proposal for E20 (petrol blended with 20 per cent ethanol), maintaining that the fuel is compliant with the country’s existing vehicle standards. It said E15+ petrol has been in use for more than three-and-a-half years and E19-20 for more than two-and-a-half years.
+
+The government claims that 20 crore two-wheelers and more than three crore petrol cars have been using the blended fuel over the past few years without any reported damage to their engines.
+
+It told Parliament that a decision on raising the ethanol component beyond the current 20 per cent would be taken only after scientific and technical studies, and consultation with relevant stakeholders, including automobile manufacturers, oil marketing companies, and research institutions. This promised rigour for the future was missing ahead of the official endorsement of E20.
+
+Can E20 fuel damage older vehicles? Kejriwal seeks clarity from auto firmsThe use of ethanol has been recommended for multiple reasons. It can reduce dependence on imported crude, lower carbon emissions, and create a larger market for agricultural produce from which it is made. However, variations in crude prices, the impact on food production, and water consumption of source crops such as sugarcane shape the economy of ethanol use.
+
+Notably, no comprehensive studies have been done on the allied technical, economic, and marketing issues. Critics point out that testing under controlled conditions is not sufficient to implement a policy that impacts millions of vehicles. It is claimed that a 10 per cent ethanol blend has been found to reduce fuel efficiency by approximately 3-5 per cent.
+
+Consumers count the litres, the miles they get from them, and the money paid for every mile. Many of them may not be averse to making a sacrifice for a larger cause, but they would want to be assured that the promised benefits are real. Public policy, which affects millions of people, should be grounded in scientific data, transparent execution, and user trust. The government should have initiated a wider public consultation on the rollout.
+
+Consumers have multiple reservations and apprehensions regarding the fuel. As stronger resistance emerges – a protest march has been planned in Delhi next week – the government should engage with the concerns. It must validate its claims on the fuel’s efficiency with an independent audit and create public confidence before it greenlights the plan as policy.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/e20-switch-demands-more-evidence-4092358)
+
+---
+
+### SIR and the burden of inclusion
+*Deccan Herald · Editorial*
+
+The Election Commission's own figures have lent troubling weight to the fears expressed by civil society groups over Karnataka's ongoing Special Intensive Revision (SIR) of electoral rolls. Around 80 lakh voters – nearly 15 per cent of the state's electorate – have been marked as ASDDO (Absent, Shifted, Dead, Duplicate and Others). The figure is alarmingly close to the activists' prediction that nearly one crore voters could face deletion or exclusion.
+
+This is not the first exercise to clean up electoral rolls since the last intensive revision in 2002. Summary revisions are conducted before every election, with additions, deletions, and corrections. It is therefore inconceivable that such a vast number of voters have suddenly become dead, ineligible or permanently shifted without detection. The EC itself says over 91 per cent of voters had been pre-mapped. If so, why has the ASDDO list become so enormous?
+
+Karnataka SIR | Political parties, activists raise alarm over 79.75 lakh ASDDO votersThe activists’ explanation deserves serious attention. Booth Level Officers (BLOs), pressed by tough deadlines, are alleged to have wrongly marked voters without adequate verification. Equally worrying are mapping errors involving family linkages, logical discrepancies, and difficulties in tracing progeny details from the 2002 rolls.
+
+Responsibility for such errors cannot rest solely with BLOs; Electoral Registration Officers (EROs) and the EC must be held accountable. The Commission has assured that voters whose names are proposed for deletion will receive notices and can file appeals. Voters marked absent (more than 11 lakh people) and wrongly mapped as shifted have the provision to seek redress from the BLOs. That response still misses the point.
+
+Citizens should not be forced to run from pillar to post to reclaim a right lost through bureaucratic error. The burden will fall heaviest on migrant workers, tenants, women who have changed surnames after marriage, residents of informal settlements, and vulnerable groups who often lack ready documentation or the time to navigate official procedures. Many may abandon the process, effectively losing their vote despite being eligible.
+
+The Karnataka High Court's refusal to entertain a plea seeking an extension of the deadline is disappointing. The experience of West Bengal, where delayed intervention left lakhs without voting rights, should serve as a cautionary tale.
+
+The EC must verify every proposed deletion before publishing the draft rolls, even if that means extending the exercise. Booth-level agents should be involved in scrutinising doubtful entries, while EROs must ensure every deletion is backed by physical verification. Electoral roll revision must be guided by a presumption of inclusion, not exclusion. Administrative convenience can never take precedence over the constitutional right to vote.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/sir-and-the-burden-of-inclusion-4092357)
+
+---
+
+### Reaping the rewards of resilience
+*Deccan Herald · Opinion*
+
+All of us who enjoyed the June-July FIFA and Wimbledon Championships and the ICC Women’s T20 World Cup would have been struck by the sheer grit and tenacity on display at those keenly contested events. Every game was a test of extraordinary endurance. Of course, their best efforts did not always translate into victory; some who fought valiantly, ignoring injury and battling burnout, finally faced failure.
+
+For those courageous competitors, however, finally does not mean finality. Although they might not have lived up to their expectations (or those of their supporters) in a crucial match, they are unlikely to let recent reverses impede future aspirations and achievements. Instead, disregarding defeat, they will continue to pursue their passion for sport.
+
+This resilience, as even an amateur athlete is aware, goes far beyond mere strength and stamina. While not downplaying the importance of physical fitness, we should realise that resilience is essentially a classic case of mind over matter. The American Psychological Association Dictionary defines resilience thus: “The process and outcome of successfully adapting to difficult or challenging life experiences, especially through mental, emotional, and behavioural flexibility and adjustment to external and internal demands.”
+
+Frankness, not flattery, is a friendTime and again, we hear of people who possess this admirable quality in abundance. J K Rowling comes to mind. Her manuscript of Harry Potter and the Philosopher’s Stone was rejected by 12 publishers, but Rowling rebounded from those rebuffs to become a renowned author.
+
+Thomas Alva Edison is another inspiring individual. When he was creating the first commercially practical incandescent light bulb, a positive outcome repeatedly eluded him. Surmounting setbacks, he declared, “I have not failed. I have just found 10,000 ways that will not work.”
+
+It might seem from these examples that resilience is a blessing reserved for the gifted. On the contrary, it is freely accessible, not just to a favoured few. Each of us is endowed with the capacity to bounce back from traumatic situations, but not through magical means. If we wish to avail of the valuable commodity at our disposal, we must exert ourselves. When we harness and develop this remarkable resource, we will reap the rewards of resilience.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/reaping-the-rewards-of-resilience-4092347)
+
+---
+
 ## 29 July 2026
 
 ### ​Diminishing relevance: On the Commonwealth Games
