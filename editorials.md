@@ -1,8 +1,264 @@
 # Editorials
 
-_Last updated: 2026-10-29 07:34 UTC_
+_Last updated: 2026-10-30 07:38 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 30 October 2026
+
+### Deemed ineligible: On the Supreme Court and SIR
+*The Hindu · Editorial*
+
+At Wednesday’s hearing of a petition on the Delhi SIR in the Supreme Court, Justice Joymalya Bagchi asked questions that cut to the heart of the Election Commission of India (ECI)’s SIR of electoral rolls. If an existing voter was “lax, inert or did not respond” to enumeration forms, was that a ground for the ECI to “forfeit his or her right to vote forever”? The Bench headed by the Chief Justice of India Surya Kant said that the ECI was in “error” to force such voters, struck off for not returning enumeration forms, to reapply on Form 6 as if they were new voters. It asked why voters who had shifted residences could not just disclose details and why deleted voters could not fill enumeration forms belatedly. This is the central design flaw of the SIR as it shifts the burden of enrolment from the state to the elector, including those who have voted before, and treats a mere change of address as ground for deletion. The share of draft deletions recorded as “shifted” or “absent” rose from 55% in Bihar to 72% in States/Union Territories in Phase 3. In Karnataka, about 84 lakh electors were deleted, marked as “shifted” or “absent” during enumeration. But only a net of 8.2 lakh, including new electors, were added during the claims phase, with the final roll being 64.5 lakh short of the projected adult population. Requiring moved voters to re-register as fresh applicants defeats the ECI’s historic mandate of widening the franchise, which was inherent in the 2002-03 intensive revision, where enumerators enrolled shifted voters at their new homes and the Chief Electoral Officer reconciled the old entries.
+
+Justice Bagchi also mentioned that the Bihar judgment was not a “binding precedent” and that the legality of “logical discrepancy” checks, allowed only as an “interim arrangement” in West Bengal, had not been finally adjudicated. No statute or rule provides for judging a voter’s eligibility on the basis of family size or the age gap between voters and parents, which were two of the ECI’s ludicrous and algorithm-driven “logical discrepancy” checks. In West Bengal these checks resulted in massive disenfranchisement and The Hindu’s analysis found that in Delhi, Muslims were disproportionately flagged. But the Court should not merely issue managerial fixes such as extended deadlines or displaying printed lists in blocks, as it has in the past. The final SIR rolls are erroneous as deletions flowed from a flawed design rather than just lapses by the ECI. The dead and duplicate entries that the SIR identified should be removed and newly eligible electors added. Voters wrongly removed from draft rolls must be included again. The larger questions over the Commission’s SIR conduct and how its members are appointed must also be settled.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/deemed-ineligible-on-the-supreme-court-and-sir/article71641093.ece)
+
+---
+
+### Open to investigation: On the challenge to the Digital Personal Data Protection Act, 2023
+*The Hindu · Editorial*
+
+The Digital News Publishers Association’s (DNPA) challenge to the Digital Personal Data Protection Act, 2023, and its Rules, has drawn attention to concerns that a law to safeguard informational privacy risks creating a serious chilling effect on the media. The absence of a specific exemption for journalistic activity could subject reporters investigating official misconduct or corruption to the obligations of a “data fiduciary”, requiring them to notify and seek consent from the very individuals they are investigating. Such onerous requirements could affect investigations undertaken in the public interest. The implications extend to routine newsgathering too, where personal information is integral to reporting. The omission is particularly consequential because the drafts in 2018, 2019 and 2021 carried a journalistic exemption. The Act already provides exemptions for certain forms of data processing, including for research and statistical purposes, making the denial of similar protection to journalists difficult to justify. Non-compliance can attract penalties of up to ₹250 crore, posing an existential threat to smaller and independent newsrooms. The DNPA petition also challenges Section 44(3), which amended the RTI Act, 2005, removing the earlier public-interest qualification concerning disclosure of personal information. The protection of personal information must not be absolute; an overriding public interest must remain a legitimate ground for disclosure, particularly when the information is held by public authorities. Investigations into corruption often rely on asset disclosures and tender documents containing personal data. Restricting access to these records risks reducing journalism to merely reproducing government releases.
+
+The Supreme Court, while issuing notice on the petition, rightly emphasised the need to balance press freedom with the right to privacy. Although journalists in India enjoy no specific statutory protection for their work, freedom of the press is constitutionally protected under Article 19(1)(a). The Court has also shielded newspapers from arbitrary state restrictions. However, growing mistrust of legacy media and the rise of independent content creators have made it difficult to determine who receives such protection. The Centre has also flagged this concern. Yet, carving out distinct categories is no easy task — a 2026 Reuters Institute report shows that the proportion of 18- to 24-year-olds identifying social media as their primary source of news rose from 21% in 2015 to 39% in 2025. A purely legalistic determination of these competing concerns may perhaps prove too onerous. Stakeholders must build consensus on a mutually acceptable framework where public functionaries and those handling public funds are not insulated from scrutiny under the guise of privacy. Union Minister Ashwini Vaishnaw’s indication that he would meet editors is a welcome step towards consensus.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/open-to-investigation-on-the-challenge-to-the-digital-personal-data-protection-act-2023/article71641118.ece)
+
+---
+
+### The examination overload, its enormous cost
+*The Hindu · Opinion*
+
+Once upon a time, not very long ago, students could focus on their education, confident that their academic results would determine admission to higher education and career opportunities. Today, millions of young Indians face not one examination but a cascade of them — a seemingly endless series of entrance examinations. Besides board examinations, aspiring engineers and doctors generally face entrance tests such as the Joint Entrance Examination (JEE) and the National Eligibility-cum-Entrance Test (NEET), respectively. Architecture and law aspirants must also navigate examinations such as the National Aptitude Test in Architecture (NATA) and the Common Law Admission Test (CLAT). Others must take the Common University Entrance Test (CUET) or institution-specific examinations. With affordable, quality higher education in short supply, many candidates make repeated attempts. Even a good bachelor’s degree does not guarantee postgraduate admission.
+
+Postgraduate aspirants face examinations such as the Graduate Aptitude Test in Engineering (GATE), Common Admission Test (CAT), Common University Entrance Test for Postgraduate Programmes (CUET-PG) and various university-level entrance tests. Research aspirants face further qualifying examinations, including the National Eligibility Test (NET). The ordeal continues during recruitment. Academic qualifications merely establish eligibility, while employment often depends on examinations conducted by the Union Public Service Commission (UPSC), State Public Service Commissions, Staff Selection Commission (SSC) and Institute of Banking Personnel Selection (IBPS). The proliferation of entrance and recruitment examinations has turned education and employment into a relentless cycle of competitive testing.
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-examination-overload-its-enormous-cost/article71641745.ece)
+
+---
+
+### DC Edit | SC Finally Targets EC’s Flawed Roll Revisions
+*Deccan Chronicle · Editorial*
+
+Finally, the cries for justice by crores of voters, lakhs of youngsters and the whole lot of Opposition parties with regard to the unjust, illegal, unconstitutional and undemocratic way the Election Commission (EC) rolled out the special intensive revision (SIR) of the electoral rolls across the country appear to have reached the gates of the Supreme Court, going by the comments the court made on Wednesday reflecting the very same concerns the protesters have been making for more than a year. Had the court acted in a similar manner earlier, the unprecedented episodes that caused unearned suffering for the defenders of democracy could have been avoided, and the elections held during this period would have more accurately reflected the people’s choice for their rulers.
+
+While hearing the petitions against SIR in Delhi, the apex court bench headed by the Chief Justice sought some clarifications from the EC. It wanted to know the logic behind removing people on the voters’ list just because they were not contacted. The queries included how Form 6 can be tweaked beyond the mandate of the law. It made some cryptic comments on the right to vote, saying it is vital and cannot be forfeited in the case of even a single voter. It even directed the EC to devise a mechanism to reach out to 47 lakhs of 1.45 crore Delhi voters whose names have been struck out in the draft electoral list during the ongoing voter list revision.
+
+The apex court questioned the poll panel on the requirement for previously enrolled voters, whose names are omitted from the draft rolls, to file Form 6, which is meant for first-time enrolment to seek inclusion. It asked the poll panel not to fix the deadline and accept enumeration forms from deleted voters instead of asking them to fill Forms 6, 7 and 8. And to top it all, the apex court made it clear to the EC that it has not yet adjudicated on the legality of “logical discrepancy”, the poll panel’s invention that deprived crores of voters of their constitutional right during SIR.
+
+The court, interestingly, did not agree with the EC which pointed out that most of its actions had the consent of the court saying that they were all interim arrangements. In short, the court has put all the actions of the EC which are suspect in the eyes of right-thinking people in the country open for adjudication.
+
+While the observations are indeed welcome, one cannot be oblivious of the fact that the court was approached several times after the EC announced its plan and programmes for the SIR in Bihar in July last year pointing to the undemocratic character of the process. It cannot also be denied that the court made sympathetic references to the demands of the petitioners but the orders never stopped the poll panel from going ahead with the flawed process. Most poignant was the election to the West Bengal Assembly where, as per the EC’s own admission, 22 lakh voters have petitioned the court appointed tribunals against their disenfranchisement and inability to vote.
+
+The SC will do the republic and its Constitution a favour if stands by the inviolability of the right to vote, scrap the ongoing SIR and start the process afresh. It also needs to make the EC and the men and women who run it accountable for the grave assault that they have made on the country’s democratic body politic.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sc-finally-targets-ecs-flawed-roll-revisions-2000127)
+
+---
+
+### Farooq Rash, But Govt Too Must Engage Valley’s Complex Voices
+*Deccan Chronicle · Opinion*
+
+To mistake provocation for treason is to misunderstand Kashmir. Farooq Abdullah often deserves criticism for his words, but India needs to win over its regional voices, not drive them away.
+
+Farooq Abdullah has perfected the art of being simultaneously exasperating and indispensable. At an age when most political veterans retreat into ceremonial irrelevance, the National Conference patriarch continues to provoke and unsettle. His latest assertion that Pakistan’s persistent internationalisation of the Kashmir question is “saving us”, coupled with his suspicion of New Delhi’s intentions, has invited accusations of being “anti-national” and “seditious”. The outrage is understandable. Reducing a complicated political career to a single incendiary remark is not.
+
+Mr Abdullah’s statement was hardly a model of political discretion. To suggest that Pakistan, whose history of sponsoring militancy and destabilising Kashmir is well documented, is somehow protecting Kashmiris is both ungracious and dangerously misleading. A leader of his stature should know the difference between acknowledging international attention and implying gratitude to a neighbour whose actions have inflicted immense suffering on the Valley. His simultaneous insistence that Kashmiris have never disavowed their Indian identity complicates the charge against him, but does not erase the recklessness of his rhetoric.
+
+Yet Farooq Abdullah has never been a politician of immaculate consistency. He is a flamboyant contrarian, a secularist comfortable singing bhajans and a regional leader who oscillates between national affirmation and denunciation of the Centre. His instinct is to speak to his constituency’s anxieties, sometimes illuminating genuine grievances, sometimes obscuring them through theatricality. He can be infuriatingly imprecise about his words, regardless of their consequences. But unpredictability is not proof of disloyalty.
+
+The larger question is whether every provocation by a Kashmiri leader must become a referendum on his patriotism. Mr Abdullah has repeatedly affirmed Jammu and Kashmir’s place within India, invoking the legacy of Gandhi, Nehru and Maulana Azad. This is the central tension of his politics, i.e., he claims India as a constitutional home, while challenging what he perceives as its treatment of Kashmir. Whether one agrees with his diagnosis or not, the distinction matters.
+
+The ‘Idea of India’ cannot mean uncritical applause for the government of the day. Nor can it demand that regional politicians suppress every grievance to establish their national credentials. A plural republic must accommodate dissent without converting it into a loyalty test. Otherwise, patriotism becomes a performance measured by political conformity rather than commitment to the constitutional order.
+
+There is an inconvenient irony in the denunciations emanating from the ruling establishment. The BJP-led National Democratic Alliance governed with Abdullah’s National Conference as an ally. His son, Omar Abdullah, served as Union minister of state for external affairs from 2001 to 2002 under the Vajpayee government. These facts do not grant Farooq immunity from scrutiny. They expose the convenience with which political respectability is bestowed upon regional leaders when their support is useful, and questioned when their rhetoric becomes inconvenient.
+
+The BJP’s alliance with the People’s Democratic Party offers an even sharper illustration. In 2015, the ideological adversaries formed a coalition government under Mufti Mohammad Sayeed and subsequently Mehbooba Mufti. The arrangement collapsed in June 2018 when the BJP withdrew support. Political engagement with a party accused by critics of accommodating separatist sentiment was evidently not incompatible with governance, until circumstances changed.
+
+The lesson is not that Farooq Abdullah, Mehbooba Mufti or other regional leaders should be spared criticism. Their rhetoric can be irresponsible and their political calculations opportunistic. Mr Abdullah should be challenged directly — how does Pakistan’s diplomatic posturing translate into tangible protection for Kashmiris? What justifies his distrust of Delhi? Can he distinguish advocating Kashmiri rights from lending credibility to a hostile neighbour’s geopolitical agenda? Such questions are more democratic than simply branding him a traitor.
+
+Kashmir’s regional politicians occupy a space that national parties cannot easily replicate. They speak the language of local anxieties, historical wounds, identity and alienation. They can translate disaffection into constitutional politics, or, if persistently delegitimised, lose their ability to persuade those who feel unheard. This is not appeasement, but strategic engagement. Alienating these intermediaries may satisfy the national appetite for denunciation while weakening the democratic links that bind Kashmir to India.
+
+India’s sovereignty is not so fragile that every intemperate sentence by an...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/farooq-rash-but-govt-too-must-engage-valleys-complex-voices-2000121)
+
+---
+
+### Collegium’s big trial of autonomy
+*Deccan Herald · Editorial*
+
+Weaknesses in the collegium system of judicial appointments have been flagged in the past. The Collegium was conceived to minimise the government’s influence in appointments, ensure independence of the judiciary, and help to attract talent to the bench. Over the years, it has been criticised for its lack of transparency, inconsistency, and the dominant role of the Chief Justice of India (CJI). While the dangers of conferring on the executive absolute power to make appointments to constitutional offices are clear, experience has shown that processes intended to insulate them from the government’s interference are not always foolproof. The disclosures made by former Supreme Court judge Sanjay Kishan Kaul in his memoir, Without Fear or Favour, highlight the infirmities of the system which the Supreme Court preserved after rejecting the National Judicial Appointments Commission, legislated by the government in 2015.
+
+Justice Kaul says “it is fantasy to imagine that the Collegium is isolated from political pressures”, and illustrates the argument with experiences during his 14-month tenure as the senior-most puisne judge after the then Chief Justice D Y Chandrachud. He says Chandrachud sought the central government’s “pre-approval” regarding candidates the Collegium considered for appointment as judges. In one instance, Chandrachud drew Kaul aside and wondered whether he should seek the government’s view on a candidate. In another instance, the government wanted to know the caste of a minority community candidate’s family before they converted their religion. Kaul notes that the practice of government enquiring about judicial appointments existed before and after Chandrachud’s tenure – the pattern is systemic, not personal. But the larger problem is that the Collegium, or the CJI who headed it, was responsive to the government’s views on the matter. This defeats the very purpose behind the creation of the collegium system.
+
+Supreme Court collegium recommends four judges for appointment as High Court Chief JusticesChandrachud has said, in response to the disclosures in the memoir, that resolutions taken by the Collegium were unanimous, and that he recalled no recorded dissent by Kaul. But the former CJI has not denied that there were prior consultations involving the government regarding the judges’ candidature and appointments. Kaul’s disclosures have emphasised the need for clear rules and procedures, transparency, and a strong sense of autonomy that should guide the functioning of the Collegium. The system should consider itself accountable for its decisions. The responsibility primarily rests on the CJI, who should not allow themselves to be a conduit for the government’s preferences. The Supreme Court created the Collegium; it should now safeguard its credibility.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/collegiums-big-trial-of-autonomy-4200418)
+
+---
+
+### SIR and the risk of penalising mobility
+*Deccan Herald · Editorial*
+
+The deletion of 99.32 lakh voters from Karnataka’s electoral rolls during the Special Intensive Revision (SIR) raises serious questions about the exercise’s credibility. The state’s electorate has shrunk by 17.91% (the most in percentage terms among major states) to 4.55 crore. Of the 99.32 lakh deletions, 23.49 lakh comprise deceased voters and duplicate entries. What, then, happened to the remaining voters? The figures are difficult to reconcile with demographic realities. Karnataka’s population has not declined; projections by the National Commission on Population place it at 6.87 crore. If millions have relocated, why is there no corresponding increase in the electorates elsewhere? Bengaluru presents an even more disturbing picture, with nearly 45.5% of its 1.03 crore voters deleted. While 3.19 lakh were deceased and 63,549 had duplicate entries, around 70% of the deletions were attributed to absence or migration. Yet there is little evidence in the city’s roads, rental housing market, or schools of such a large exodus. Given Bengaluru’s mobile population of domestic workers, migrant labourers, and IT professionals, an electoral process that treats mobility as grounds for deletion risks penalising ordinary movement rather than facilitating transfers between constituencies. It is reasonable to ask whether booth-level officers (BLOs), unable to locate residents, were too quick to classify them as absent or shifted.
+
+Questions also arise regarding another 61,867 voters whose names appeared in the draft rolls but were subsequently declared ineligible. Could some have failed to produce one of the 11 prescribed documents despite being bona fide citizens? Such requirements are likely to disproportionately affect the urban poor, homeless persons, and women whose names differ across documents after marriage. An electoral exercise cannot make voting rights contingent on a citizen’s ability to navigate onerous documentation requirements. Equally troubling are concerns about due process. The Representation of the People Act, 1950, envisages safeguards, including individual notice, before deletion from electoral rolls. Any large-scale exclusion that cannot demonstrate compliance with these requirements risks undermining confidence in the revision. More fundamentally, the right to vote is protected by Article 326 of the Constitution.
+
+Karnataka SIR | 99 lakh voters deleted from electoral rollThe Election Commission of India (ECI)’s assurance that no eligible voter will be excluded must translate into action. During the ensuing Special Summary Revision, every eligible voter must be restored or enrolled. Previous participation in elections should be accepted as supporting evidence where the absence of documents raises no credible doubt about citizenship, without insisting on linkage to the 2002 rolls. Electoral integrity is strengthened by removing bogus entries, not by excluding legitimate voters.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/sir-and-the-risk-of-penalising-mobility-4200417)
+
+---
+
+### Insults BJP can exploit and the ones it can’t
+*Deccan Herald · Opinion*
+
+Congress President Mallikarjun Kharge’s idiomatic remark that a weakened Prime Minister Narendra Modi would eventually have to exit office has come like a gift to the Bharatiya Janata Party (BJP). The party has embraced it to create a high-energy response around it consisting of protest marches, burning Kharge in effigy, and the almost mandatory rap video.
+
+The BJP appears almost relieved to have to deal with a more familiar idiom of political insults than the risqué cheekiness that Gen Z protestors have been directing at Modi. That had left BJP activists and the prime minister out of their depth and unable to make a suitable comeback.
+
+The latest fuel to the BJP was provided by Kharge’s riposte to a heckler at a rally in Patna who shouted “Modi kahin nahin jayega (Modi will not lose power)”. Kharge snapped back, “Modi ka baap bhi jayega (Modi’s father will also have to go)”. The BJP’s response has focussed on the ostensible insult to Modi’s late father and a high-energy rap video titled “Modi kahin nahin jayega (Modi is not going anywhere)”.
+
+In politics, insults are powerful strategic tools. They can challenge those in authority who have accumulated disproportionate power and erode more ‘civil’ modes of democratic engagement. A personal put-down, more often than not, expresses irreconcilable differences in geopolitical and ideological perspectives, or an unbridgeable inequality of power.
+
+Karnataka Union ministers demand apology from Mallikarjun Kharge over his 'baap' remark at PM ModiNikita Khrushchev, after a disastrous summit with Mao in 1960, described him as “a worn-out galosh (shoe-cover)”. In 2006, Venezuelan President Hugo Chavez spoke in the UN General Assembly a day after US President George W Bush and, crossing himself, claimed that “the devil” had been in the room, and the smell of sulphur still hung in the air.
+
+For years, Brigitte Macron, 24 years older than her husband, French President Emannuel Macron, faced cyber-bullying with claims made about her gender and sexuality that intended to humiliate her.
+
+The BJP’s response to Kharge’s remark could develop into a campaign to build up Modi’s aura. A line of the rap song, for example, also says, “Bharat Modi ka hai (this country belongs to Modi).”
+
+So, while in a democracy, prime ministers come and go routinely with elections, the destiny of the nation, according to the lyrics of the BJP’s rap video, is tied to the current occupant of that office. It seeks to replace the temporary mandate given by voters with Modi as someone destined to stay in power.
+
+The way the BJP has come out with all guns blazing in Kharge’s case, contrasts with its response to expletive-laden taunts hurled by Gen Z protestors at Modi.
+
+He was sufficiently disturbed to record a midnight Instagram message, where he magnanimously framed the youngsters as “our kids” and “misguided children” saying he “forgave” them, choosing to position himself as the ‘Supreme Guardian’ who could absorb the profanities and still preach ethical conduct to the youth.
+
+On the other hand, Kharge’s vernacular response has been converted into an unacceptable personal attack on Modi’s deceased father. Kharge’s riposte to a heckler falls broadly under institutional adversarial shadow boxing. Such insults are easier to handle.
+
+Although the Congress defended his use of the expression as an idiomatic exaggeration meant to convey that Modi will be comprehensively defeated, the BJP is trying to project his words as an assault on Indian democratic discourse.
+
+Obvious comparisons with the low public discourse of BJP leaders, against their opponents are bound to follow, as “jersey cow”, “Congress’s widow”, “Rahul Baba’s naani (maternal grandmother)”, “five crore girlfriend”, etc. are recalled on social media by commentators.
+
+Such whataboutery is, however, par for the course for the mainstream political parties, especially the BJP. It is familiar territory for its party spokespersons on mainstream media.
+
+The Gen Z insults were, however, very different in their content, goals, targets, and scope. The Modi government did not know, and does not even now know, how to handle this new and expletive-ridden language.
+
+The profanities spewed against Modi suffused energy into ongoing street protests and became effective instruments of digital mobilisation, drawing in hitherto overtly non-political youth as attacking and poking fun at prime ministerial authority became the epitome of ‘cool’. What started as a protest against the education minister quickly became a movement scorning Modi and his government, as no one personified centralised authority more than Modi.
+
+Whereas Kharge's oratorical retort was made in the conventional political setting of a rally, Gen Z’s delivery was on social media, and, therefore, visual, making clever memes by editing Modi’s own speeches, using street profanity and foul curses never seen before in Indian political discourse.
+
+Kharge has two letters for PM Modi and three big concerns: SIR, delimitation, women’s quota Neither the condescension the ruling party’s partisans routinely show to the Opposition nor labels of being ‘anti-nationals’ or ‘B-team of terrorists’ worked. The youthful protestors already wore insult as their badge of honour by assuming ‘cockroaches’ as their identity.
+
+Gen Z protestors have presented the most structurally disruptive and complex crisis that the Modi government has faced up to now. They can fluidly move from localised student grievances to the defence of electoral rights.
+
+The Modi government is still grappling with how to suppress them in the usual ways. It is trying to silence them by using the administrative machinery of police forces and cyber cells to file FIRs and using the IT ministry to take down insulting social media content or relying on courts to insist that Gen Z leaders sign peace bonds to maintain public order. But it has not been very successful — ‘cockroach treatment’ at one protest site leads to their emerging at other, newer sites.
+
+In contrast, Kharge’s remarks, can be hyped-up (remember the unfortunate “chaiwala” remark made by Mani Shankar Aiyyar or Chowkidar chor hai slogan of Rahul Gandhi to launch a large-scale counter-campaign resurrecting the victim narrative in the media cycle.
+
+Ultimately, the BJP’s approach to insults hurled at their leader proves that in Indian political discourse, an insult from an institutional political heavyweight is like a bonus for a party on the back foot, while abuses from the grassroots or unpredictable youngsters are a security and law and order issue. The former is aggressively kept alive in to consolidate the party’s base, while the latter is sought to be suppressed to protect the fading aura of the leader.
+
+Bharat Bhushan is a New Delhi-based journalist.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/insults-bjp-can-exploit-and-the-ones-it-cant-4200787)
+
+---
+
+### Let the crowd breathe: Why safety cannot remain optional
+*Deccan Herald · Opinion*
+
+A crowd, like a city, needs room to breathe. On Saptami at Chorbagan, it had none. A sudden downpour sent people outside rushing in for shelter while those inside were trying to get out, and the two streams met at a gate. A frightened announcement on the microphone and the whistles of private guards seem to have done the rest. Nineteen people who had gone out on one of the happiest nights of the Bengali year never came home. People have been arrested, all of them are organisers, builders, and guards. Ironically, none of the authorities who signed the permission are on the list.
+
+Sadly, Chorbagan is not an exception. Across India, our crowds have been running out of room to breathe.
+
+Since January 2025, India has had at least 11 crowd crushes that each killed six or more people. There is no other country with a record like that over the same stretch. The list runs from a ticket queue at the Tirupati temple to the Maha Kumbh at Prayagraj, where the state’s own count of the dead is 37; from a railway platform in New Delhi to a temple path in Haridwar to a cricket victory party in Bengaluru, the city I live in. In Karur, 41 people died at a rally for the film star C Joseph Vijay, who has since become the Chief Minister of Tamil Nadu. Twice this year, crushes at temples in Bihar killed at least six people each.
+
+India’s National Disaster Management Authority published sensible crowd-management guidelines back in 2014. They are guidelines. Most hosts treat them as optional, because they are.
+
+What bothers me most about Chorbagan is how ordinary the trigger was. It just took a rain, and rain is hardly unusual in Bengal in October. In 2019, at the Loknath temple in Kachua, a boundary wall gave way in heavy pre-dawn rain, the crowd stampeded, and at least five people died. In September last year, a cloudburst battered several pandals, days before the festival even began. A queue of thousands with no roof over it is safe for exactly as long as the weather holds.
+
+Abhishek Banerjee demands arrest of Chorbagan puja committee office-bearers over stampede deathsTherefore, it is pertinent to start deliberating on the weather. The India Meteorological Department (IMD) already issues short-range thunderstorm warnings for the city. Big pandals could run a rain protocol the way airports run a fog protocol: when the warning comes, entry stops, and police hold the queue back on the main road where there is room to breathe. Nearby schools, shut for the holidays anyway, can open as shelters. It would cost next to nothing and could save precious lives.
+
+Then comes the microphone. I wonder whether that one announcement at Chorbagan did as much harm as the rain. Beyond about five people per square metre, researchers suggest, a crowd turns dangerous; packed any tighter, nobody can choose where to move, and people can die standing. “Stampede”, as if they were cattle, seems to me unkind. Perhaps large pandals need one authorised voice reading pre-written announcements in Bengali, Hindi, and English, and absolutely no panic whistles. Private guards are already licensed under a 2005 law. Could crowd training not be a condition of it?
+
+More importantly, we must ask who profits and who pays. Our Durga Puja is on UNESCO’s heritage list, and a British Council study for the West Bengal government valued the 2019 festival’s creative economy at over Rs 32,000 crore. Yet the brands whose banners line the lanes carry none of the risk. Compulsory liability insurance for large pandals might change that. An insurer, I suspect, would want to see the exits, the capacity counts, and a named safety officer before agreeing to cover anyone, and would probably inspect more strictly than a police station in its busiest week.
+
+Finally, India should count its narrow escapes, too. In 2015, Kolkata police shut a pandal at Deshapriya Park after a near-stampede over its giant idol. Many such incidents are not recorded and are not available for public view; they should be documented for reference to ensure safe protocols. It can take a cue from the aviation sector, which became safer by logging its close calls. A public register of near-crushes after every festival might tell officials which lanes to fear before another family has to grieve.
+
+There is something each of us can do, too. If you can’t lift your arms to your chest, the crowd is too tight. Move to the edge and get out. Go early, or go late. Don’t stop to film.
+
+Kolkata stampede: Footage ‘missing’ from 16 out of 32 CCTV cameras outside Chorbagan puja pandalPart of the problem lives in our heads. Most of us assume a crush happens to someone else, and at a place of worship, that assumption only gets stronger. Perhaps this also says something about our mass behaviour. Devotees do not find fault with the god they went to see, and fans crushed for a glimpse of a cricketer or a film star do not seem to blame their idols either. Devotion forgives the very one it gathers around. But it should not have to forgive the rest of us.
+
+The goddess will come back next year, as she always does. Let us make sure that the lanes are ready for her, with room enough for everyone who comes to see her to breathe. No god asks for this. No star needs it. We have to stop calling it fate.
+
+(The writer is an assistant professor of English and cultural studies at Christ University, Bengaluru)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/let-the-crowd-breathe-why-safety-cannot-remain-optional-4200399)
+
+---
+
+### Who holds the ‘off’ switch? Starlink's satellite, Ukraine’s lesson, India’s test
+*Deccan Herald · Opinion*
+
+Every sovereign State has the right to make rules. The real issue is whether you can get a satellite to obey those rules.
+
+Starlink has been trying to enter the Indian market for the last five years. It has a GMPCS licence and IN-SPACe authorisation, but it still awaits final security clearances, spectrum assignment, and demonstrations of technical compliance.
+
+At the 10th India Mobile Congress, Lauren Dreyer, Vice President of Starlink Business Operations, said Starlink has 20 gateway sites in India and will store Indian user data in India, ensuring India’s data sovereignty. But reduced Internet speeds in Ukraine have raised an alarming question about digital sovereignty and whether satcom law can be enforced.
+
+Ukrainian authorities claimed SpaceX capped Starlink speeds, which has had a massive impact on their drone operations. Initially, Elon Musk said the US government was responsible, but later admitted he was behind Starlink's speed restriction. We are not addressing who is responsible. The fundamental point is: when an external actor controls the system, can New Delhi make that actor obey those rules?
+
+What India’s law regulates
+
+India’s Telecommunications Act 2023 states that the Centre owns spectrum. Section 20 is the emergency provision. Under 20(1), the government may take temporary possession of telecom networks in a public emergency or for public safety. Under 20(2), it may authorise interception and suspension of services to protect India’s sovereignty and integrity.
+
+US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources sayThe Department of Telecommunications (DoT) Office Memorandum (OM) of May 5, 2025, sets out additional conditions. It requires gateways in India, lawful interception and monitoring facilities, control centres in India, buffer zones near the borders, and a ban on routing traffic outside India via inter-satellite links. Operators are also reportedly required to terminate service to certain areas or users at the direction of the security agencies — an ‘off switch’ built into the law.
+
+Gap between the off switch and the wire
+
+The problem is that these instruments are a licence for a licensee. The constellation is a different proposition. The satellites are launched, registered, and operated overseas.
+
+Under Articles VI and VIII of the Outer Space Treaty, the launching State and the State of registry are responsible for a private operator’s space activities, and have jurisdiction over the space object. For Starlink, that is the United States. India regulates access to its market. It does not regulate the sky above its territory.
+
+Think of a landlord who has control of the building entrance but not of the power plant which feeds the building. The landlord can demand the doorman, and the doorman does exactly what he is told. But if the plant decides to dim the lights, the doorman’s compliance is irrelevant.
+
+Why the Ukraine episode matters
+
+India wants to know how Starlink would respond if a foreign government made conflicting demands during an international crisis. Bloomberg's report, citing undisclosed sources, said ‘concerns grew after reports that Starlink terminals were used in the Middle East conflict, despite the service not being licensed in Iran’.
+
+Starlink has called Bloomberg's reports misleading, but Dreyer did not address India’s specific concerns. The issue touches the heart of India’s digital sovereignty question.
+
+The kill switch cuts both ways
+
+This argument has a second leg. If India is going to have a regional ‘off switch’, it must be prepared to account for how to use it.
+
+Indian Internet shutdowns have a long constitutional pedigree. In Anuradha Bhasin vs Union of India (2020), the Supreme Court held that any Internet restrictions must be temporary, lawful, reasonable, and proportionate, and that the orders must be reviewable.
+
+In Pragya Prasun & Ors vs Union of India (2025), the Supreme Court also recognised the right to digital access as a fundamental right under Article 21. A satellite operator that a security agency can switch off across an entire region is in a catastrophic position.
+
+A thesis, and a way forward
+
+India’s law deals with the licence and the gateway, not the constellation. India’s sovereignty is, therefore, as strong as its ability to enforce the law against the foreign entity operating on Indian soil and as legitimate as its protection of the State itself.
+
+The licence could require auditable undertakings. The undertaking clearly specifying how the service provider will act if foreign governments issue conflicting instructions.
+
+Digital sovereignty is frequently framed as a question of where the servers are. Ukraine’s experience points to a much tougher test: Who can switch the service off? Who can force it back on? Who must then justify that action?
+
+Until India’s law can answer these three questions, ‘sovereignty’ in this domain will remain little more than a matter of faith.
+
+Pranjal Chaturvedi is a doctoral research fellow, and Suhasini is Assistant Professor, Bennett University.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/who-holds-the-off-switch-starlinks-satellite-ukraines-lesson-indias-test-4200698)
+
+---
 
 ## 29 October 2026
 
@@ -112,6 +368,27 @@ My Lords, uphold the right to vote freely, fairly and on time.
 Bishwajit Bhattacharyya is Senior Advocate, Supreme Court of India and a former Additional Solicitor General of India
 
 [Read full article](https://www.thehindu.com/opinion/lead/the-sir-verdict-serious-constitutional-questions/article71637200.ece)
+
+---
+
+### Trump, Ambani, Musk Tango Under The Gaze Of Modi Govt
+*Deccan Chronicle · Opinion*
+
+The Indian media remained strangely incurious about the United States’s secretary of state Marc Rubio’s visit to Reliance’s 1.4 million barrels per day (bpd) capacity Jamnagar refinery, singlehandedly built by Mukesh Ambani in late1990s. Mr Rubio did not visit the refinery out of curiosity and a sense of wonder, a state-of-art facility at the time when it was built. He held talks with the Reliance top brass headed by Mukesh. Why is a high representative of the apparently most powerful government in the world holding talks with a private entrepreneur, who is among the richest in India and in Asia? The intent of the meeting is very clear. Americans are looking out for refineries which can handle Venezuelan crude. US President Donald Trump had already mooted the idea that Mukesh Ambani should set up a refinery in America.
+
+It may seem a little odd that the ostensibly most free market economy in the world like the US should be wooing a private player in India to set up shop in its territory. The details of the project are unclear. Mr Trump had announced on his social media platform Truth Social that it is a “$300 billion investment” but Reliance has not said a word about it. The US is keen that the Venezuelan heavy crude should be processed in the Reliance refinery, which it is already doing. Russian crude imports have reduced in recent months, and it is the Venezuelan crude that is the major input for the refinery. Mr Trump could be willing to raise funds at home for the Mukesh refinery because the US is not the friendly business place it was decades ago for Mukesh to set up a refinery in the US on his own. American markets are looking forward to an AI boom and they will not be interested in investing in the oil sector though oil is still the major energy resources, along with coal, for the global economy.
+
+Foreign investors like China may be willing to buy US securities but not set up business in the country.
+
+There is an interesting twist in the whole story. In 2016 when Mukesh Ambani announced the launch of Jio, it marked the shift in Reliance’s focus from petroleum products to electronic communications through the mobile network. Then it seemed a considered change in direction at a time when the climate change compulsions were pushing the oil industry to a phasedown and a phaseout path. And it seemed a smart move away from the pre-climate change energy paradigm. It looks as though Mr Trump wants Mukesh Ambani to come back to his petroleum business roots. And Mukesh Ambani looks quite reluctant to shift back from the tertiary communications sphere to the secondary sector of dealing with an oil refinery operations. And it would appear that Mr Trump cannot find someone with the tested abilities of a Mukesh Ambani in the refinery business. Mr Trump has been an aggressive climate change denier, and he declared “drill baby, drill” to be his motto at the beginning of second term as President in January 2025. His abduction of the leftist Venezuelan president Nicolas Maduro and his Cilia Flores was a purely business-oriented raid. Mr Maduro was preventing American oil companies from exploiting the Venezuelan oil wells. Mr Trump has now made the way clear for American oil companies to operate the Venezuelan oil wells.
+
+The other motive for Mr Trump to get Mukesh Ambani back to the oil refinery operations is to make way for his friend Elon Musk’s Starlink, which is finding it hard to get into the Indian market because of the domination of the Jio network. Mr Trump whose mind is absorbed in working out business deals, which is his deus ex machina to solve political crises, is thinking of a way to break Jio’s near monopoly of the Indian mobile network market. Mr Musk had already aired his grievance that the Indian government favours Jio, and that is what is preventing his Starlink from getting an entry into the Indian market.
+
+It looks like that Mr Trump is hatching too many plans on too many fronts. At one level, he pushed back Mr Musk’s electric car Tesla’s tax rebate support, and he wants to compensate by creating an opportunity for Mr Musk’s Starlink in India. But he may find it difficult for Mr Trump to help Mr Musk in India. Mr Musk had failed to gain an entry for Tesla in India because he was demanding too many tax and other concessions. He might believe that his Starlink system which depends on low-orbit communication satellites to support mobile phone connectivity has some advantage over Jio in India. But the Indian government is not likely to hand over as it were the mobile network to Starlink.
+
+Mr Rubio’s throwaway line about India becoming a “refinery superpower” is not going to flatter Mukesh Ambani with his earthy business instincts. Like in many other spheres, India by the sheer size of its economy, is fourth largest in refinery output, with China and the US standing close to each other in the first and second positions, and Russia occupying the third position. Of course, there is sense in the US...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/trump-ambani-musk-tango-under-the-gaze-of-modi-govt-2000031)
 
 ---
 
@@ -21925,264 +22202,6 @@ A few minutes later, he folded it and was about to return it when a loquacious p
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/the-morning-ritual-4095026)
-
----
-
-## 31 July 2026
-
-### ​Clearance in reverse: On top court, post facto clearances
-*The Hindu · Editorial*
-
-India’s environmental impact assessment (EIA) regime rests on a single sequencing rule: a project must be appraised before the pickaxe pierces the ground, not after the building is operational. The Supreme Court of India’s July 29 order, from a Bench led by the Chief Justice of India, Surya Kant, on post facto clearances, reaffirms that rule even as it hollows it out. By quashing the 2021 Office Memorandum while leaving the door open for the Centre to legalise violations through a statutory notification, the Court’s distinction between an administrative order and a notification, is effectively a fig-leaf — a procedural nicety dressed up as respect for environmental norms. The deeper problem that the judgment does not confront is the dissonance between the State-level appraisal machinery and the Centre’s law. When State EIA authorities, expert committees and pollution boards routinely discover violations only after a highway, port or steel plant is built, post facto clearance stops being an exception and becomes the design. Large projects are now appraised as a ‘fait accompli’, their ecological cost weighed only once demolition would cost more than absolution. The Court reasons that governments may frame environmental amnesty schemes much as they do for tax defaults. But the logic that justifies regularising an unauthorised colony for electoral gain cannot be transposed onto works that carve into forests and floodplains. Environmental science exists as a discipline precisely to insist on interconnectedness — that plant, animal, human and microbial systems are bound together, and that damage to one propagates through all. A wetland is not an unregistered plot to be regularised on payment of a fee. Even the argument that these are hospitals and airports meant for public good cannot automatically justify the environmental cost.
-
-Worryingly, that transactional logic now has legal cover. The existing retrospective clearances do exact a fine from those who bypassed the norms — but the Jan Vishwas amendments stripped away the threat of imprisonment for environmental lapses altogether, leaving only monetary penalties thus converting compliance into a ‘cost of doing business’ entry, which a well-capitalised proponent can budget for. The latest judgment does not examine this shift, but endorses its premise, treating environmental harm as a debt that can be settled after the fact. The Court insists that reducing violations to civil penalties does not weaken the precautionary principle. But a principle meant to prevent irreversible harm cannot be honoured by pricing the harm and collecting the cheque. The consequences are incidents of infrastructure projects getting flattened by serious monsoon activity. The Centre would be well advised to read this order not as a licence to multiply amnesty schemes, but as a mandate to repair the clearance apparatus.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/clearance-in-reverse-on-top-court-post-facto-clearances/article71286086.ece)
-
----
-
-### Temporary respite: On the June 2026 data for the Index of Industrial Production
-*The Hindu · Editorial*
-
-The June 2026 data for the Index of Industrial Production has come as a pleasant surprise. The 23-month high growth rate of 7.3% of the overall index was unexpected given the significant economic headwinds from the West Asia crisis and a deficient monsoon. Some of the growth was due to a low base, since the performance last June was the worst in nearly a year, but the numbers nevertheless indicate resilience. The manufacturing sector accelerated due to a dual push from the domestic and the external sectors. Consumer durables growth remained above 7% for the second consecutive month, and the non-durables sector saw growth quicken to a six-month high. At the same time, data from the Commerce Ministry showed that merchandise exports grew 15.5% in June, revealing demand from abroad. The capital goods sector also saw double-digit growth. The sector has grown in double digits in eight out of the last 10 months. This bodes well for the economy, but also reveals some risks. Capital creation, primarily by the government, has been the single consistent engine of growth in the post-pandemic years. It needs to keep firing. There are too many uncertainties and headwinds for other engines such as exports and domestic consumption to consistently take up the load. Other areas of growth are also far too seasonal. The electricity sector grew at a 25-month high in June, largely in response to a heat wave in several parts of the country. The mining sector, too, snapped a four-month streak of contraction and grew in June. Yet, this will likely be temporary since the progressing monsoon will disrupt mining activities.
-
-Economists have also warned that the monsoon’s deficiency will inevitably hit rural demand in the months ahead, which will see the consumer-facing sectors slumping again. Hopes of a ceasefire in West Asia are also evaporating. This is leading to considerable volatility in oil prices, which is sending ripples of uncertainty through the economy. This will play out over the coming months. Planned investments will remain pending, purchases will be deferred, and savings will increasingly overshadow consumption. The economy has displayed resilience so far, but this resilience will be strained as its duration increases. Further, people’s needs are such that simple resilience will not suffice for long. If the external environment is going to remain unfavourable, the government will need to think radically about how to jumpstart the domestic economy. In the meantime, it will have to keep pumping money into capital expenditure even as other fiscal pressures mount.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/temporary-respite-on-the-june-2026-data-for-the-index-of-industrial-production/article71286064.ece)
-
----
-
-### The next DPI — how India can commoditise AI
-*The Hindu · Opinion*
-
-India made identity, payments, and data free. Intelligence is next. No other country has deliberately built all three as a digital public infrastructure (DPI) stack at India’s scale. Others have developed only pieces of this. Estonia has a world-class digital identity system, but nothing comparable to UPI. Brazil’s Pix is an excellent free payments rail, but it stands alone. Singapore has Singpass and SGFinDex, while Europe has open banking and data portability. India’s genuine claim to global leadership in public digital infrastructure lies in this unique combination. Its distinctiveness is not any single component, but the integration of Aadhaar, the Unified Payments Interface (UPI), and DEPA/Account Aggregator as interoperable public digital rails.
-
-Between September 2016 and 2019, the cost of a gigabyte in India fell from about $4 to under 30 cents, making it among the cheapest in the world. The result was not a telecom story. It was a civilisational one: 500 million people came online in half a decade, powering India’s digital economy such as payment volumes, the startup ecosystem, the direct-benefit transfers reaching the last village. Aadhaar enrolled 1.4 billion people and turned identity verification from an expensive paper process to a low-cost API call. UPI made digital payments effectively free, processing around 20 billion transactions a month at near-zero cost. India made data free not by subsidising it, but by letting one player absorb the fixed costs of a nationwide 4G network, price at marginal cost, and force every incumbent to match or die.
-
-[Read full article](https://www.thehindu.com/opinion/lead/the-next-dpi-how-india-can-commoditise-ai/article71287139.ece)
-
----
-
-### DC Edit | Retrospective Green Nod Striking Down Is Welcome
-*Deccan Chronicle · Editorial*
-
-The Supreme Court’s decision to strike down the Union environmental ministry’s 2021 Office Memorandum (OM), which allowed retrospective approval for projects that had already commenced construction without environmental clearances (ECs), is most welcome. This judgment will go a long way towards protecting the environment, which is the shared legacy of all forms of life in the world. Humans have no exclusive right to damage it.
-
-The judgment, delivered by a three-judge bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice Vipul Pancholi, is a fine piece of balanced opinion. It declared the 2021 OM illegal while allowing the Central government to grant ex post facto approvals to projects that are important in the public interest through statutory notifications.
-
-The court, however, ruled that ex post facto environmental approvals for projects whose work had commenced without obtaining clearances under the Environment (Protection) Act, 1986, should be an exception and not the norm.
-
-Under the 1986 law, the government must conduct an Environmental Impact Assessment (EIA) to study a project’s impact on the environment before granting approval. However, the 2021 OM, which has now been declared illegal, had become a well-laid-out mechanism for securing ex post facto approvals for various projects. By November 2025, more than 150 projects had been granted retrospective clearances, reflecting the magnitude of the violations of environmental law.
-
-Environmental approval has been one of the most controversial subjects in the country since the introduction of the Environmental Impact Assessment Notification by the Congress-led United Progressive Alliance government in 2006. It had virtually become anathema to manufacturing and mining companies, which blamed it solely for slowing economic growth.
-
-Then Gujarat chief minister Narendra Modi alleged corruption in the granting of environmental clearances, calling it a Jayanthi Natarajan tax, named after the then environment minister. After the BJP’s victory in 2014, the Narendra Modi government introduced a six-month, one-time amnesty scheme in March 2017 for securing retrospective approvals. In 2021, the Centre extended the amnesty facility indefinitely through an Office Memorandum.
-
-When the 2021 OM was challenged, a two-judge Bench comprising Justice Abhay S. Oka and Justice Ujjal Bhuyan completely barred the granting of post-facto clearances in May 2025. As the judgment put more than 150 large projects at risk, the government and industry bodies appealed against the verdict.
-
-In November 2025, a three-judge Bench comprising CJI BR Gavai, Justice K. Vinod Chandran and Justice Ujjal Bhuyan recalled the May 2025 judgment and took up the matter for a fresh hearing, culminating in the present judgment.
-
-After nearly two decades of twists and turns in environmental jurisprudence, the current judgment appears to be the most balanced one, as it underscores the importance of environmental impact assessments while recognising the need to give the government room to make informed exceptions for the greater public good.
-
-The government should, however, ensure that officials do not resort to retrospective approvals as a matter of routine, while industry should design its projects to be in harmony with nature.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-retrospective-green-nod-striking-down-is-welcome-1975345)
-
----
-
-### K.C. Singh | Trump’s Dilemma Over Iran: Compromise Or a Long War?
-*Deccan Chronicle · Opinion*
-
-Entering the sixth month of the war with Iran, the United States keeps issuing contradictory statements. President Donald Trump’s constant modification of claims and objectives, have perpetuated the confusion. While the final outcome is yet unclear, many factors that will condition it are visible.
-
-The war began, with the US and Israel launching extensive air attacks on Iranian military facilities on February 28. More significantly, they also killed the Iranian Supreme Leader, Ayatollah Ali Khamenei. President Trump promptly claimed that Iran stood “totally defeated and wants a deal”. The military campaign, he added, would last for two to three weeks. The aggressors completely underestimated the Iranian resilience and military preparedness. Iran demonstrated the ability to both bear the consequences of the massive airstrikes, but, more importantly, to retaliate, using drones and missiles. Having learnt from the US and Israeli attacks in June 2025, it had protectively located its military assets deep inside its extensive mountain ranges.
-
-It emerged later that the operation was launched after White House briefings by Israeli Prime Minister Benjamin Netanyahu and his team. They argued that after the supreme leader’s assassination, the killing of Army commanders and the rapid destruction of missile launch sites, the entire population of Iran would rise up in revolt against the Islamic regime. There were dissenting voices on the US side, but once President Trump gave his approval, the debate ended. Reportedly, US vice-president J.D. Vance is said to have berated the Israel Prime Minister for misleading the Americans.
-
-As the war proceeded, the scenario got more complicated. The regime change claim was dropped even before the original June 17 ceasefire. In fact, President Trump strongly denied the US ever desired it. Iranian counter-strikes, using drones and missiles, targeted US military facilities in the Gulf countries, where important American bases operated. Iran also decided to shut down maritime traffic through the Strait of Hormuz, of which it controls the entire northern periphery. Almost 20 per cent of the global oil production transits through this strait.
-
-Consequently, the price of Brent crude spiked past $100 per barrel, reaching a peak of $126 per barrel, as global inventories depleted at historic rates between February and May. The US apparently had not expected Iran to use the Hormuz Strait as a retaliatory pressure point. This disruption of global oil supply also hit the US consumers with higher energy costs. The Trump administration now realises that with crucial midterm elections due at the beginning of November, the Iran crisis needed an early resolution. In fact, US House Speaker Mike Johnson, a strong Trump supporter, demanded that “we got to wrap it up”.
-
-Generally, any war tapers off because of one of two reasons. One, a victor emerges and enforces the terms of submission. Two, both sides reach a point of exhaustion as a stalemate emerges. The second has been happening in the Ukraine war, but the Russian ego, especially of President Vladimir Putin, disallows a compromise. In the case of the Iran dispute, the US faces a similarly evolving scenario. Although the American Jewish lobby, alongside the Israeli Prime Minister Netanyahu, wants the war escalated, polls indicate declining support for Israel even amongst the American Jewish community. Also, the latest Reuters-Ipsos poll indicates that only one in three Americans supports the US participation in the Iran war.
-
-Meanwhile, Iran threatens to destroy the infrastructure of the GCC nations, if attacks on Iranian facilities are expanded. Thus, despite the US threats of general annihilation of Iran, the Iranians calculate that the US cannot escalate attacks beyond a limit. It also knows that it cannot deploy ground troops because the Iranian Revolutionary Guards Corps (IRGC) are prepared for a strong fightback.
-
-There are also reports that the US is running low on munitions and anti-missile interceptors. Of course, President Trump has publicly denied this. The US resumed hostilities on July 8, after more than three weeks of the June 17 ceasefire. This ceasefire breakdown has been attributed to the vagueness of the Memorandum of Understanding. As the US lifted their naval blockade Iran was supposed to allow free navigation through the Strait of Hormuz. Instead, Iran began to collect fees from transiting vessels. When tankers or other freighters began using the Omani side of the strait, they were attacked by Iranian missiles.
-
-Once the US airstrikes resumed, Iran too began retaliatory attacks, beginning with US military facilities in Jordan. There was always an indirect link between the Ukraine and Iran wars. Iran had been supplying drones to Russia for use and Ukraine had similarly transferred anti-drone munitions to the Gulf countries. A more direct link occurred when Ukraine attacked an Iranian vessel in the Caspian Sea. It was thus more...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/kc-singh-trumps-dilemma-over-iran-compromise-or-a-long-war-1975341)
-
----
-
-### OF CABBAGES AND KINGS | Elections Loom In Trumpistan: Will Democratic Socialists Gain? | Farrukh Dhondy
-*Deccan Chronicle · Opinion*
-
-“I like wearing linen shirts --
-
-Hate ironing them after a wash.
-
-I love the taste of oranges
-
-But don’t care for orange squash
-
-If you identify this as doggerel
-
-And think I’m obsessed with trivia
-
-I don’t give a damn and wish you well
-
-And I even respect and forgive ya.”
-
-From Off Piste to Piste Off, by BachchooElections loom in Trumpistan, the first one on August 4 in Michigan. Commentators in the United States predict that the Democratic left-wing radical, Dr Abdul El-Sayed, a pro-Palestinian Muslim son of an Egyptian immigrant, who is campaigning on expanding Medicare for all and the abolition of certain customs and immigration regulations, will win.
-
-His election, a seeming aberration in the Maggot Republic, will confirm a drift, or even a determined turn, towards left-wing Democrats overtaking Maggots and even moderate Republicans.
-
-Zohran Mamdani’s mayoral election in New York could perhaps be seen as a landmark in this transformative journey. A group called the Democratic Socialists of America (DSA) are contributing to Dr El-Sayed’s campaign, though he is not formally a member. The DSA is also actively supporting several other candidates in the looming elections. There’s Francesca Hong in Wisconsin.
-
-Most prominently, there is Alexandra Ocasio-Cortez, a DSA member, who hasn’t put in a bid yet, but doesn’t rule out an attempt at the Democratic nomination for the presidency in 2028.
-
-By November, when the mid-term election results come in, we shall know if this shift is in fact a political tide moving towards the shores of Trumpistan or even one that might flood it with impeachment, replacement -- yes, cross your fingers, but don't hold your breath.
-
-What’s causing the shift?
-
-The DSA itself says that its support comes from the graduates --who face unemployment, unrewarding or inadequately- remunerative employment or who feel relatively poorer owing to inflation. Nate Silver, American psephologist, said this week that 40 per cent of post-grads who earn less than $60,000 annually describe themselves as supporters of the sort of national and international policies and stances that the DSA sports.
-
-The other factor, notable in the United States, is the expanding role of Artificial Intelligence, which has, purportedly, replaced very many of the jobs that the educated middle-classes might aspire to. There are no precise or absolutely reliable nation-wide statistics in the United States, which count the jobs that AI has taken from men and women, though the trend is certainly on the up -- and threatening.
-
-Reading about this fear (Is it a panic pushing this demographic leftward?) I asked an AI bot if Artificial Intelligence will replace newspaper and media commentators. So here, gentle reader, is what the bot said:
-
-“Newspaper columnists often provide unique insights, personal experiences, and creative viewpoints that resonate emotionally with readers. AI currently struggles to replicate this depth of human creativity and nuance consistently.
-
-“Columnists analyse complex social, political, and cultural issues, often challenging established views. AI can assist by providing data and trends but lacks genuine opinions and moral reasoning.
-
-“Readers trust columnists for transparency about biases and ethical stances. AI-generated content may face scepticism regarding authenticity and accountability.”
-
-Encouraging, or what??? (Don’t get foolishly carried away fd -- it’s early days yet –Ed).
-
-So, let’s leave the USA and consider Blighty, where statistics say there is no forceful trend towards graduate unemployment.
-
-Even so, two factors should surely be disturbing. The first is that newspapers -- all of them -- regional and national -- are laying off journalists by the hundreds. The BBC has, for the last two years, announced packages of redundancies, some voluntary some compelled. The market for freelancers supplying news outlets and the Beeb has virtually vanished. Other occupations, such as publishing, advertising and colleges and universities, have also been hit.
-
-The second factor is that of the exorbitant cost of getting a degree at a British university.
-
-When I was at Cambridge in the late 1960s, my British contemporaries were all funded by government grants. The State paid their fees and meals were provided in college. Of course, pocket money came from parents and even from holiday jobs, but none of them ran up the kind of debt that the present university population is compelled to do.
-
-This generous scheme of grants was abolished by Tory Prime Minister David Cameron and his chancellor George Osborne in 2015. They replaced it with a loan scheme, which compelled university students to borrow money from the State and pay their university fees through this. They used the rest of the loan to live.
-
-One student I know graduated with debts of over £50,000. She’ll have to repay this in instalments from her salary. How many decades will she be in debt?
-
-So far, the new PM Andy Burnham has not announced any measures ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-cabbages-and-kings-elections-loom-in-trumpistan-will-democratic-socialists-gain-farrukh-dhondy-1975625)
-
----
-
-### Pradeep C. Nair | Myanmar Reaches Out, Seeks Indian Help For Changes in Constitution Set-up
-*Deccan Chronicle · Opinion*
-
-A unique gathering for a three-day lecture series on constitutionalism and federalism was witnessed in Naypyitaw, the capital of Myanmar, from July 16 to 18, organised by the country’s National Solidarity and Peace-making Negotiation Committee, with support from the Indian embassy and Myanmar’s Centre for Peace and Reconciliation.
-
-About 125 participants attended, including MPs from political parties and military officers, Union Consultative Council members, representatives of ceasefire-signatory ethnic armed organisations, government officials, civil-society experts and officials from the Indian Council of World Affairs. This followed two earlier lecture series (Naypyitaw, 2023; New Delhi, 2024) and one workshop (Yangon, 2025).
-
-The timing is significant; coming soon after President Min Aung Hlaing’s first foreign trip since taking office -- to India, from May 30 May to June 3. That he chose India over China, Russia or an Asean country was itself significant. The composition of the President’s delegation signalled intent: the ministers of foreign affairs, finance, agriculture, industry and small enterprises, the governor of the central bank and a large business delegation spanning pharmaceuticals, banking, energy, construction, IT and trade.
-
-The visit effectively authorised ministries, security agencies, banks and businesses on both sides to deepen ties. The President also met business leaders in Mumbai and toured the NTPC Energy Technology Research Alliance facility near Delhi. Besides, India offered Myanmar access to a vast market, strong institutions, affordable technology, and a partnership that does not threaten its sovereignty.
-
-Later, President Hliang travelled to China (June 15 to 19), signing 18 agreements across trade, infrastructure, security and technology. This should not be read as a further deepening of ties. Myanmar’s engagement with Beijing stems from the international support it gets from Beijing as well as geographic and economic dependence, rather than confidence -- reinforced further by resentment over the unpopular Myitsone Dam (originally designed to export 90 per cent of its power to China) and the Chinese-run rare-earth mining in Kachin State; Myanmar bearing the environmental costs for both, like many other Chinese projects. China’s simultaneous dealings with both the government and ethnic armed organisations deepen the unease.The China trip was pragmatic diplomacy, not trust -- and it took nothing away from India. By visiting India first, Myanmar signalled that it sees India as an independent, culturally close, non-extractive partner that helps it diversify away from China and preserve its autonomy.
-
-Seen with this backdrop, the July lecture series carries weight. The NSPNC is Myanmar’s state-level body for peace negotiation and reconciliation, implementing policy set by the National Solidarity and Peace-making Central Committee. Its work spans ceasefire implementation, the Nationwide Ceasefire Agreement framework, dialogue with signatory and non-signatory ethnic armed organisations, talks with political parties on federalism and constitutional reform, and
-
-humanitarian coordination in conflict areas. Four Indian speakers gave eight presentations over two days on India’s constitutional experience, its federal structure, the unitary strands within it, the powers of the legislature, executive and judiciary, democratic institutions, and constitutional amendments -- drawing strong interest and many questions. Debates ranged over centralised versus state-level power,
-
-reflecting a familiar tension between states seeking autonomy and a centre wary of losing control.
-
-Much attention focused on the office of governor -- its powers,
-
-limits, and pros and cons. Myanmar’s states (home to non-Bamar communities on the periphery) and regions (the Bamar-majority heartland, 68 per cent of the population) have no such office, and Myanmar may consider creating one as a constitutional safeguard, drawing on India’s example. Under Article 261 of the 2008 Constitution, the chief minister of a state or region is chosen by the President from the local Hluttaw and remains answerable to the President, not the local
-
-assembly. This fuses the constitutional and political-executive roles and keeps power centred nationally. Ethnic minority parties and federalists have long objected that it stops parties with local majorities from actually governing, and amending it remains a persistent issue across governments and peace talks.
-
-There was also keen interest in Mizoram, given its border with the conflict-hit Chin State and shared kinship across it. Many wanted to understand its shift from two decades of insurgency to becoming one of India’s most peaceful, literate states -- a model that could plausibly extend to Chin and Rakhine once power passes to the Chin groups and the Arakan Army who largely control those areas today.
-
-Myanmar remains under-studied in India and is often reduced to narrow images of...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/pradeep-c-nair-myanmar-reaches-out-seeks-indian-help-for-changes-in-constitution-set-up-1975336)
-
----
-
-### A corridor of political failure
-*Deccan Herald · Editorial*
-
-The Karnataka High Court's observation that there is "nothing nice about the NICE project" and that it may rank among the state's biggest scams is a sobering conclusion drawn from three decades of documented failure.
-
-The Bengaluru-Mysuru Infrastructure Corridor (BMIC), conceived in the mid-1990s as an ambitious public-private partnership between the Karnataka government and the Nandi Infrastructure Corridor Enterprises (NICE) consortium, has remained mired in litigation and political acrimony while thousands of landowners have waited endlessly for compensation. The project promised a world-class expressway linking Bengaluru and Mysuru, along with a peripheral road, link road and integrated townships. The concept itself was innovative. Since toll revenues alone would not make the project financially viable, the government agreed to provide large tracts of land whose commercial development would cross-subsidise construction.
-
-The then state government awarded the project through direct negotiations without inviting competitive bids. The agreement contained several inconsistencies that gave NICE considerable room to manoeuvre in prolonged legal battles. Successive governments, irrespective of political affiliation, allowed the project to drift without enforcing accountability.
-
-Karnataka HC order on NICE Road project revives questions over years of govt inactionUpholding a single bench order quashing the acquisition of several acres of land, the division bench noted that only about five kilometres of the proposed 111-km expressway have been completed in more than 25 years, while vast parcels of acquired land were allegedly diverted through joint development agreements. T
-
-he principal public purpose remained unfulfilled, and farmers who lost their land were denied compensation for periods ranging from 11 to 23 years, in clear violation of Article 300A of the Constitution. They were “robbed” not merely of property but of livelihoods.
-
-Every government has inherited this mess and responded largely by constituting yet another committee. A cabinet sub-committee had, as early as 2016, indicted the company for serious violations. Even today, a panel headed by Deputy Chief Minister G Parameshwara is examining the issue. Such exercises have become an eyewash because governments have consistently failed to act on their findings.
-
-The High Court itself has expressed doubts that the state will ever proceed against the company despite allegations of illegal toll collection, diversion of land in violation of the framework agreement, and the accumulation of a massive land bank. The bench has rightly called for an independent assessment and forensic audit. Justice can be served only through an independent Special Investigation Team (SIT) appointed and monitored by the High Court. Karnataka cannot afford another political committee whose only achievement will be to bury the truth.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/a-corridor-of-political-failure-4093756)
-
----
-
-### The real exam reform is administrative
-*Deccan Herald · Editorial*
-
-The Narendra Modi government has initiated two measures aimed at improving the examination system in India, following recent irregularities, including the leakage of NEET question papers, and the subsequent youth protests calling for reforms in the National Testing Agency (NTA).
-
-These specific concerns, voiced by protesters under the banner of the Cockroach Janta Party (CJP), have resonated with the larger public, leading to the resignation of Dharmendra Pradhan as the Union minister of education.
-
-In a follow-through response, the Bharatiya Janata Party (BJP)-led government has introduced legislation to curb malpractices such as leakage of question papers; Parliament has passed the bill. It has also constituted a committee of experts to devise strategies to improve the governance of examinations.
-
-PM Modi announces high-powered task force on examination reformsThe Public Examination (Prevention of Unfair Means) Amendment Bill, 2026, is a more stringent version of an existing law. It raises the punishment for persons resorting to unfair means in examinations, from imprisonment of 3-5 years to 5-10 years, and increases the maximum fine from Rs 10 lakh to Rs 50 lakh. Punishment for various categories of crimes related to the conduct of examinations, including the penalty for service providers, has been increased.
-
-The bill envisions time-bound investigation and trial by special fast-track courts. These are largely cosmetic corrections arising from a flawed notion that harsher penalties can be a stronger deterrent. The existing legislation with its penal provisions could not prevent question paper leaks and other irregularities. Conducting nationwide examinations involves extensive preparedness, logistics, and security systems.
-
-At the centre of this complex challenge is administrative competence. The government may have wanted to make a point with the hurried passage of the bill, but claims regarding the new law’s greater efficacy are untested.
-
-Questions have also been raised about the composition of the expert group under Nandan Nilekani. Following the 2024 paper leak, the government had set up a committee under former ISRO chairman K Radhakrishnan to initiate course correction at the NTA. Now, the government has formed another panel with a similar brief. Of the 101 recommendations made by the Radhakrishnan committee, some were implemented, but the government greenlighted a few others only after the students’ protests gathered momentum, two years after the previous breach.
-
-The composition of the panel has also invited criticism because while it constitutes technologists, it does not have the requisite expertise to inspire real reform in the education system. The bill and the task force appear to be hasty responses designed for damage control.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/the-real-exam-reform-is-administrative-4093755)
-
----
-
-### Awards for hate diminish us all
-*Deccan Herald · Opinion*
-
-The National Film Awards were once meant to signal the very best of Indian cinema, a benchmark that generations of actors, directors and technicians aspired to reach. That benchmark has now been replaced by a different test: how effectively a film flatters the ruling establishment’s ideological project. The recent conferment of national honours upon Article 370 and Swatantrya Veer Savarkar confirms this troubling shift with uncomfortable clarity.
-
-Both films were criticised on release, not by fringe commentators but by mainstream reviewers, for reducing complex political questions to crude propaganda. Article 370 presents the abrogation of Jammu and Kashmir’s special status as an unqualified triumph, flattening the anxieties of Kashmiris, particularly Muslims, into a caricature of national threat requiring perpetual suspicion. The Savarkar biopic, meanwhile, lionises a figure whose writings and speeches championed a conception of Hindus and Muslims as separate nations that Indian nationalists have long condemned when advanced by others.
-
-Article 370 won the Best Feature Film award, the ceremony’s highest honour, while Randeep Hooda, who directed, co-wrote and starred in Swatantrya Veer Savarkar, won Best Debut Director for it. That two such propagandistic projects were singled out signals something significant: the Indian State now regards ideological conformity as equivalent to, or superior to, genuine artistic merit.
-
-Does Kannada cinema reward talent or lineage? The nepotism debate returnsThis is now an established trend. In 2023, The Kashmir Files won the Nargis Dutt Award for Best Feature Film on National Integration, a recognition that reads almost as satire given how thoroughly it demonised an entire community. Nadav Lapid, the Israeli filmmaker who chaired the jury at the International Film Festival of India, publicly called it vulgar propaganda to his own considerable cost and controversy. The Kerala Story, which won two national awards in 2025, followed a similar template, inflating unverified statistics about religious conversion into a feature-length warning against Muslim men.
-
-Several BJP-run states granted these films entertainment tax exemptions, and government officials in some states took special leave or attended organised screenings to watch them. Prime Minister Narendra Modi has also publicly praised these films, revealing a pattern of official political patronage.
-
-Cinema in a democracy carries responsibilities beyond entertainment: it shapes how citizens understand their neighbours, their history and their nation’s fault lines. When the State’s own award apparatus repeatedly favours films that stoke suspicion of minorities, it lends the authority of officialdom to narratives otherwise confined to fringe circles. A private producer may be free to make a propagandist film, but a democratic republic conferring its highest cinematic honour upon it converts partisan messaging into something resembling national consensus.
-
-None of this suggests these films lack technical merit or commercial appeal; several may have been well produced and skilfully marketed. Craft, however, has never been the sole criterion for an award meant to honour cinema’s contribution to public life, since a film can be technically accomplished and simultaneously corrosive to social harmony.
-
-Past National Film Award decisions were hardly beyond reproach. Selections have long provoked debate over favouritism and questionable taste. Yet even the most contentious of those earlier choices rarely amounted to State endorsement of narratives hostile to a religious community. The current pattern marks a sharp divergence from that history, telling young filmmakers that ambiguity, empathy and nuance are institutionally disadvantageous, while communal suspicion dressed as patriotism is the surer route to national recognition.
-
-Perhaps most troubling is the relative silence from India’s film fraternity. Actors, directors and producers who have historically spoken up, sometimes at real professional cost, on artistic freedom have offered little sustained criticism of this trend. This silence, whether born of caution, complicity or indifference, allows the normalisation to proceed unchallenged.
-
-India’s cinematic heritage includes works of extraordinary humanity, from Satyajit Ray’s quiet meditations on ordinary lives to recent films that have grappled honestly with caste, gender and communal violence without descending into vilification. That legacy deserves protection, not dilution by association with films whose principal achievement is stoking division.
-
-(The writer is an assistant professor with the Department of Professional Studies, Christ University, Bengaluru)
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/awards-for-hate-diminish-us-all-4093748)
 
 ---
 
