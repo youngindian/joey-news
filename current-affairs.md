@@ -1,3 +1,630 @@
+## 30 October 2026
+
+### After cyclone Arnab devastation, Congress calls for coordinated relief operations
+*India Today News Desk · general*
+
+## Congress leaders Mallikarjun Kharge, Priyanka Gandhi Vadra and Rahul Gandhi have called for swift assistance to cyclone Arnab-affected families and asked party workers to support relief and rescue efforts.
+
+Mallikarjun Kharge, Priyanka Gandhi Vadra and Rahul Gandhi called for swift assistance to cyclone-affected families.. (File Photo-PTI)
+
+Newdelhi,Oct 30, 2026 11:24 IST
+
+The Congress on Friday urged the Centre to coordinate relief and rehabilitation efforts with state governments after cyclone Arnab caused devastation in Andhra Pradesh and disrupted lives in Odisha, news agency Press Trust of India reported.
+
+Congress leaders Mallikarjun Kharge, Priyanka Gandhi Vadra and Rahul Gandhi called for swift assistance to affected families and asked party workers to support relief and rescue efforts.
+
+Congress president Mallikarjun Kharge urged party workers to extend all possible help to those in distress.
+
+“Deeply distressed by the loss of lives in Andhra Pradesh and the massive disruption to people's lives in Odisha caused by Cyclone Arnab. My heartfelt condolences to the bereaved families,” he said in a post on X, according to PTI.
+
+Kharge said the Union government must lead coordinated relief and rehabilitation efforts with state governments and ensure timely assistance through the PM-CARES fund for all affected families.
+
+Congress general secretary Priyanka Gandhi Vadra also urged party workers to help with relief efforts.
+
+“My thoughts are with the people of Andhra Pradesh facing the devastation caused by Cyclone Arnab and those in Odisha affected by heavy rainfall and flooding. I pray for everyone's safety and urge Congress workers to extend every possible help to those affected and support relief and rescue efforts,” she said.
+
+On Thursday night, Leader of Opposition in the Lok Sabha Rahul Gandhi expressed deep concern over the devastation in Andhra Pradesh and the heavy rainfall and flooding in Odisha.
+
+“Deeply concerned by the devastation caused by Cyclone Arnab in Andhra Pradesh and the heavy rainfall and flooding in Odisha,” he said in a post on X.
+
+“My heartfelt condolences to the families who have lost their loved ones. My thoughts are with everyone affected, those who have lost their homes, livelihoods and a sense of security,” the former Congress president said. He urged the governments to ensure swift relief and rehabilitation for every affected family.
+
+The Congress leaders called for coordinated and timely relief for families affected by the cyclone, heavy rainfall and flooding, while urging party workers to assist people in distress.
+
+\- Ends
+
+---
+
+### Overdraft trap: Promised Rs 16 lakh at 6.5%, man buys insurance but gets no loan
+*Koustav Das · general*
+
+Do you often get calls offering balance transfers, instant loans or overdraft facilities at dirt-cheap interest rates? Are you told that a large credit limit can be made available with minimal paperwork, sometimes with just one condition to fulfil?
+
+Beware. The next such call could come with a catch: you may be asked to buy an insurance policy to unlock the promised credit. And the loan or overdraft may never materialise.
+
+Delhi-based businessman Parminder Singh Sidhu says he found himself in precisely this situation. He was promised an overdraft facility of up to Rs 16 lakh at an annual interest rate of 6.5%, but was told he first needed to purchase a life insurance policy. He ended up paying Rs 1.90 lakh as the first-year premium for a policy from Star Union Dai-ichi Life Insurance (SUD Life). The promised overdraft, however, never came through.
+
+In his complaint, Sidhu described the experience bluntly: “Got scammed from an insurance company agents where i was told that i will be getting the Over Draft facility at 6.5% ROI but never got the OD account.”
+
+The individuals who contacted Sidhu claimed to represent Axis Bank. IndiaToday.in has not independently established their identities or whether they had any association with the bank.
+
+### THE CHEAP OVERDRAFT PROMISE
+
+According to Sidhu, the first call came on July 28, 2026, from a woman who introduced herself as Ilma and claimed to represent Axis Bank. She offered him an overdraft facility of up to Rs 16 lakh at an interest rate of around 6.5% a year.
+
+Sidhu says he was told that purchasing a life insurance policy was necessary to get the overdraft approved. The policy was presented as a Rs 19-lakh plan, with an annual premium of Rs 1.90 lakh payable for 10 years.
+
+He agreed to the proposal and paid the first premium of Rs 1.90 lakh using his HDFC Bank credit card through BillDesk. SUD Life issued the policy on July 30, 2026. The policy number is 03158100.
+
+Sidhu says another individual, who identified himself as Ashish, contacted him and sought documents, including his Aadhaar and PAN details. A person named Sumit also followed up and allegedly assured him that the overdraft would be arranged in around 20 days.
+
+The callers' actual identities and affiliations have not been independently verified.
+
+### PROMISED CREDIT NEVER CAME
+
+WhatsApp conversations shared by Sidhu show the discussions about the overdraft and the insurance purchase. In one message, the initial caller referred to an interest rate of “6.5 rate of interest yearly” and said an approval call would come that day. Another message said, “aapse koi otp nhi liya jyga” — meaning no OTP would be sought from him.
+
+In a separate exchange, a WhatsApp number, whose profile displayed the SUD Life logo, asked Sidhu for an OTP. Sidhu says he shared a four-digit code. It is not clear from the material reviewed what the OTP was for or who was operating the number. The display of an insurer's logo on a WhatsApp profile does not, by itself, establish that the number belongs to the company or an authorised representative.
+
+As the promised overdraft failed to materialise, Sidhu began following up with the people who had contacted him. In one message to Sumit, he wrote: “Aaj account khulna tha OD wala” — the overdraft account was supposed to be opened that day.
+
+The exchanges show repeated attempts by Sidhu to get an update. On September 12, he said he was still waiting for a call. Later, on September 24, he wrote: “Please let me know clearly agar yeh mere saath fraud hua hai toh I will work accordingly.”
+
+He also sent messages asking, “Koi toh kuch batado” — someone, please tell me something — and “Koi bhi call nhi utha raha hai inme se” — none of them is answering the calls.
+
+Sidhu says the people who had been in touch with him gradually stopped responding after he purchased the policy. He also approached Axis Bank with his complaint, but says the bank did not pay heed to it.
+
+### BE CAUTIOUS ABOUT SUCH OFFERS ON CALL
+
+Calls offering balance transfers, personal loans and overdraft facilities can sound attractive, particularly when they promise large amounts at low interest rates. But consumers should be wary if a caller makes the purchase of an insurance policy or another financial product a condition for getting a loan or credit facility.
+
+An insurance policy and an overdraft are separate financial products. Consumers should seek written details of the loan, including the lender, interest rate, charges, eligibility criteria and approval status, directly from the bank through its official channels. They should also verify the identity of anyone claiming to represent a bank or insurer.
+
+Customers should never share OTPs, PINs, passwords, CVVs or other confidential credentials with callers or over messages. Requests for sensitive documents should also be verified through official channels before anything is shared.
+
+### HOW SIDHU GOT HIS MONEY BACK
+
+After paying the first premium, Sidhu approached SUD Life seeking a refund. He says the insurer initially declined his request, citing the expiry of the free-look period — the period during which a policyholder can review a policy and seek cancellation, subject to applicable conditions.
+
+Sidhu's argument, however, was that he had not bought the policy as a standalone insurance product. He says he was persuaded to purchase it on the representation that doing so would help him secure an overdraft facility.
+
+He subsequently escalated the matter through the Insurance Regulatory and Development Authority of India's Bima Bharosa grievance portal. After a second escalation, Sidhu says the matter was resolved and he received a full refund of Rs 1.90 lakh.
+
+“Earlier the insurance company denied to refund the amount but after raising the complaint on the Bima Bharosa app, this issue was resolved in the second try (Escalated),” Sidhu said in his account of the complaint process.
+
+The refund meant he recovered the premium, but the overdraft he had been promised was never sanctioned.
+
+### IS THIS PART OF A WIDER CONCERN?
+
+Sidhu suspects that people seeking loans or overdraft facilities could be targeted through similar pitches, in which insurance products are presented as a route to securing credit. His experience alone, however, does not establish that this is a widespread or organised practice.
+
+He says he later received another call pitching a similar arrangement involving an insurance product from Ageas Federal Life Insurance. He recorded the conversation and says he could hear several people making calls in the background.
+
+Sidhu decided to speak about his experience despite getting his money back. “My only concern is that people should be aware of this scam,” he said, urging anyone facing a similar situation to lodge a complaint on the Bima Bharosa portal.
+
+“Please help in the awareness of this ongoing scam,” he wrote, adding that he could not find information about a similar case online and feared that people in need of money could be taken advantage of.
+
+IndiaToday.in has reached out to Axis Bank for a response on the alleged use of its name by the callers and whether the individuals identified by Sidhu were associated with the bank. The story will be updated with the bank's response.
+
+Lastly, the next time you get a call promising a large overdraft, balance transfer or instant loan at an unusually low interest rate, be cautious if you're asked to buy an insurance policy first. Verify the offer directly with the bank through its official channels before paying a premium or sharing your personal details. A cheap credit promise could end up costing you far more than you expect.
+
+\- Ends
+
+---
+
+### Setback For Anant Singh As SC Cancels Bail In Dularchand Yadav Murder Case, Orders Surrender By Dec 1
+*Apoorva Misra · general*
+
+
+
+[Read full article](https://www.news18.com/india/setback-for-anant-singh-as-sc-cancels-bail-in-dularchand-yadav-murder-case-orders-surrender-by-dec-1-10404513.html)
+
+---
+
+### Delhi's AQI plunges from 363 to 78 in 24 hours. How long will it stay clean?
+*India Today Science Desk · general*
+
+Delhi's air improved by a whopping 78.5% in just 24 hours, with the city's Air Quality Index (AQI) falling from 363 on Thursday morning to 78 on Friday morning, October 30, according to AQI.in data recorded at 9:31 am.
+
+The significant improvement was a result of the widespread rain and winds that swept across the capital on the intervening night of October 29-30. The heavy rain and strong winds that cleansed the capital's air were a result of a western disturbance and weather systems associated with Cyclone Arnab.
+
+The India Meteorological Department (IMD) said moderate rain accompanied by thunderstorms and lightning occurred at most places in Delhi over the preceding 24 hours, with heavy rain at isolated locations.
+
+A graph illustrating Delhi's AQI in the last 24 hours. (Photo: AQI.in)
+
+### RAIN WASHES AWAY POLLUTION, TEMPERATURES FALL
+
+Delhi recorded substantial rainfall across several weather stations.
+
+Safdarjung received 61.4 mm of rain in the 24 hours ending at 8:30 am on Friday, while Lodhi Road recorded 63.4 mm and Palam 43.1 mm.
+
+Rain proved helpful because it can help remove dust and pollutants from the air, while winds can disperse pollution.
+
+> #WATCH | Delhi: Light rain witnessed in the national capital; visuals from Shanti Path area. https://t.co/mMG4CTWEsV— ANI (@ANI) October 30, 2026
+
+The wet spell also brought down temperatures across the capital, with Safdarjung recording a maximum temperature of 25.4°C on Thursday, 6.4°C below the previous day's reading.
+
+The minimum temperature stood at 17.2°C, down by 2°C, and the maximum temperature had fallen by 4-6°C across Delhi.
+
+### HOW LONG WILL DELHI'S CLEAN AIR LAST?
+
+The improvement in the AQI, however, could face yet another test as weather conditions change.
+
+The IMD has forecast another spell of very light to light rain at many places on Friday, with moderate rainfall at a few locations and thunderstorms likely during the day.
+
+People walk amid smog in New Delhi. (Photo: PTI)
+
+However, the weather is expected to turn drier over the weekend, the IMD said in its bulletin on Friday morning. It added that Delhi is likely to remain partly cloudy on October 31 and November 1, with no rainfall forecast.
+
+With the rain easing, pollution levels could begin rising again if winds weaken and atmospheric conditions favour the accumulation of pollutants. The improvement, therefore, may offer temporary relief but doesn't mark the end of Delhi's pollution spell.
+
+### CLEANEST OCTOBER AIR SINCE 2024
+
+Another thing is that Delhi has recorded its cleanest October air in three years, based on the available AQI.in data.
+
+People walk amid poor air quality in New Delhi. (Photo: PTI)
+
+The city's average AQI for October 1–29, 2026, stood at 191.5, around 15% lower than the average of 226.1 for the same 29-day period in 2025 and 19% below the corresponding 2024 average of 236.8.
+
+The improvement is particularly evident in the number of severely polluted days.
+
+Delhi has not recorded a single day with an AQI of 300 or above in October 2026 so far. In comparison, it recorded 12 such days during October 2024 and eight during October 2025.
+
+However, the improvement does not mean consistently clean air. Delhi still recorded 16 poor and 13 unhealthy days in October so far.
+
+\- Ends
+
+---
+
+### Supreme Court appoints Justice Ranjana Desai mediator in gas migration dispute
+*India Today News Desk · general*
+
+## The Supreme Court appointed former judge Ranjana Prakash Desai to mediate the Krishna-Godavari gas dispute. The move follows failed settlement efforts and brings domain experts into the process.
+
+Newdelhi,Oct 30, 2026 11:14 IST
+
+The Supreme Court on Friday appointed former apex court judge Ranjana Prakash Desai as the sole mediator in the Krishna-Godavari basin gas migration dispute involving Reliance Industries and other parties, news agency Press Trust of India reported.
+
+A bench comprising Chief Justice of India Surya Kant and Justices Joymalya Bagchi and Vipul M Pancholi passed the order after being informed that the parties had been unable to find a viable solution.
+
+“The parties themselves have not been able to find a viable solution. We suggest, on their behalf, that former judge of this court Ranjana Prakash Desai be requested to act as mediator,” the bench said.
+
+“We also request the learned mediator to have the assistance of two domain experts, as may be suggested by the parties, for the aforesaid purpose,” it added.
+
+Attorney General R Venkataramani, appearing for the Centre, assured full cooperation with the mediator, according to PTI.
+
+The court asked the parties to contact Justice Desai during the day or by the following day and fix a date and time at her convenience.
+
+On May 20, the Supreme Court had rejected Reliance Industries' request to put the hearing in the dispute on hold while the company and two foreign firms sought mediation or conciliation with the Centre for an amicable settlement.
+
+The court was hearing appeals filed by Reliance Industries Ltd, BP Exploration (Alpha) Ltd and Niko (NECO) Ltd against a Delhi High Court verdict that had set aside an arbitration award in their favour in the gas migration dispute with the Centre.
+
+The dispute will now proceed to mediation under Justice Desai, assisted by two experts suggested by the parties, after their earlier efforts to reach a solution failed.
+
+\- Ends
+
+---
+
+### Allahabad High Court calls prolonged KGBV teacher contracts forced labour
+*India Today News Desk · general*
+
+## The Allahabad High Court ordered Uttar Pradesh to improve pay and service conditions for KGBV teachers. The ruling treats prolonged insecure contracts and inadequate remuneration as unconstitutional forced labour.
+
+Lucknow,Oct 30, 2026 11:10 IST
+
+The Allahabad High Court has ruled that keeping teachers at Kasturba Gandhi Balika Vidyalayas on contracts for years without adequate pay or job security amounts to forced labour prohibited under Article 23 of the Constitution, news agency Press Trust of India reported.
+
+The court directed the Uttar Pradesh government to create or sanction posts for these teachers within four months and bring their service conditions on a par with those of regular teachers. It also ordered a monthly honorarium of Rs 17,000 for all KGBV teachers in the state until the government completes the process.
+
+Justice Pankaj Bhatia of the high court's Lucknow Bench said on Thursday that the honorarium paid to KGBV teachers was lower than the prescribed remuneration for semi-skilled workers. The judge described the practice of calling the payment an honorarium as a "cruel joke", according to PTI.
+
+The directions came while the court was allowing petitions filed by Archana Boodh and others. It asked the authorities to consider the petitioners and other similarly placed teachers for regularisation in accordance with the law, taking into account their educational qualifications and length of service.
+
+The court said the monthly honorarium of Rs 17,000 would be payable from the date of the judgment. It also directed the authorities to extend service-
+
+The Bench asked the government to frame service conditions for KGBV teachers in line with those applicable to regular teachers up to the intermediate level. It clarified that the directions would apply to all KGBV teachers in Uttar Pradesh, not only the petitioners.
+
+The government was also directed to periodically revise the teachers' honorarium or pay to align it with the salaries and allowances of teachers in government and aided schools in the state.
+
+On funding, the court said the Centre must contribute its agreed share of expenditure under the scheme. However, the Uttar Pradesh government could not refuse to comply with the directions on the ground that the Centre had not sanctioned the funds.
+
+The state may "pay first, recover later" after obtaining the Centre's share of the funds, the court added.
+
+The court observed that the KGBV scheme aims to provide quality education to disadvantaged sections, particularly girls. It said this objective could not be achieved by keeping teachers in prolonged employment insecurity and paying them inadequate remuneration for years. Such an arrangement was inconsistent with constitutional principles, it held.
+
+The Kasturba Gandhi Balika Vidyalaya scheme, launched by the Centre in 2004, provides residential schooling and quality education to girls from disadvantaged and marginalised communities. The ruling requires Uttar Pradesh to improve the pay, job security and service conditions of all KGBV teachers in the state.
+
+\- Ends
+
+---
+
+### Insane, will cause devastating escalation: US senator on Trump's Iran war plan
+*India Today World Desk · general*
+
+US President Donald Trump is reportedly planning to restart the war against Iran after the November 3 midterm elections, US Senator Chris Murphy has claimed, warning that the proposed military strategy could trigger another cycle of escalation.
+
+In a post on X, Murphy, a Democratic senator from Connecticut, said some individuals had been briefed on the proposed war plan but declined to disclose its details. However, he described the strategy as "insane", arguing that it would fail to achieve its objectives and further escalate the conflict.
+
+"Some of us have been briefed on the war plan. And while I cannot disclose any details, I can say this: the plan is insane. It will not achieve objectives and will set off a new cycle of escalation," Murphy told the press.
+
+The post had garnered 2.8 million views at the time of reporting.
+
+The claim comes amid growing indications that the Trump administration is keeping the option of renewed military action against Iran open, even as the conflict's financial and political costs continue to mount.
+
+### TRUMP WEIGHS FRESH STRIKES AFTER MIDTERM ELECTIONS
+
+Trump has repeatedly raised the possibility of resuming military operations against Iran, with the November 3 midterm elections emerging as a key political consideration.
+
+The US President had earlier warned that Washington could launch another military operation as the war approached its eight-month mark. Rising fuel prices linked to the conflict have also weighed on Republican candidates and Trump's approval ratings ahead of the elections.
+
+Trump had launched the war jointly with Israel in February, initially predicting that the conflict would be short-lived. However, an April ceasefire gave Iran time to recover underground military storage facilities and bring back some of its previously inaccessible air defences, missiles and drones.
+
+The US has since imposed a naval blockade on Iran in an attempt to cut off its oil export revenue. US officials, speaking on condition of anonymity, have also indicated that the Pentagon has been preparing for the possibility of heavy fighting resuming if Trump gives the order.
+
+### IRAN WAR HAS COST US OVER $47 BILLION
+
+The prospect of renewed military action comes as the financial burden of the Iran war continues to increase.
+
+According to Pentagon data obtained by Reuters, the US military's spending on the conflict has crossed $47 billion. This is more than 25 per cent higher than the estimate provided by the Defence Department in July.
+
+The latest estimate includes operational expenses, with more than $29 billion projected to replace the munitions used during the conflict. Another $6 billion-plus would be required to replace military equipment and platform losses, including aircraft and drones.
+
+### PENTAGON REMOVES TOP MILITARY PLANNER AMID FRESH WAR PLANS
+
+The developments also come against the backdrop of significant changes in the US military leadership.
+
+Defence Secretary Pete Hegseth recently removed Army Lieutenant General Brett Sylvia from his position as the Pentagon's top military planner, according to a defence official quoted by the Associated Press.
+
+Sylvia was serving as the head of strategy, plans and policy on the Joint Chiefs of Staff, a position known as the J5. The office plays a key role in preparing and coordinating military plans in consultation with the chairman of the Joint Chiefs of Staff and the President.
+
+No immediate replacement had been announced, and no reason was given for Sylvia's removal, the official said.
+
+Sylvia's departure marked the latest in a series of changes involving senior US military leadership. Nearly two dozen generals, admirals and other senior military officials have been fired, forced into retirement or stepped down during Hegseth's tenure.
+
+Last month, Hegseth said he had ordered the military to double planned cuts to its senior-most officer ranks, targeting a 20 per cent reduction by January 1, 2027. He described the move as "accountability and long overdue", while some members of Congress criticised the exercise as a purge that could take years to reverse.
+
+### US BASES PREPARE FOR 90 DAYS WITHOUT EXTERNAL SUPPORT
+
+Separately, the US military is preparing for a scenario in which its bases could operate for 90 days without external support amid the possibility of major disruptions to power grids and supply chains.
+
+The initiative, called FORTRESS, has added to concerns about the prospect of a wider conflict involving the US and Iran.
+
+The preparations also surfaced just days after the UK and Japan urged households to stock up on essential supplies, further highlighting concerns over potential disruptions linked to the conflict.
+
+Murphy's warning comes amid growing concerns over the cost and consequences of a renewed US military campaign against Iran. The US military has already spent more than $47 billion on the war, while the Trump administration has reportedly kept plans for fresh strikes on the table after the November 3 midterm elections.
+
+\- Ends
+
+---
+
+### Rs 43 Lakh Settled, More Claims Under Review: PNB Assures Customers In Rs 35-Crore Fraud Case
+*Aanchal Sinha · general*
+
+The bank reiterated its zero-tolerance approach to fraud, financial irregularities and misconduct.
+
+[Read full article](https://www.news18.com/india/rs-43-lakh-settled-more-claims-under-review-pnb-assures-customers-in-rs-35-crore-fraud-case-ws-kl-10404403.html)
+
+---
+
+### An Ohio man bought a house in a neighbourhood of about 140 homes and advertised it on Airbnb, arguing it was also his residence; on October 26, an appeals court upheld a zoning ban after neighbours objected
+*TOI World Desk · politics*
+
+An Ohio appeals court has upheld a local zoning ban on short-term home rentals. The ruling shuts down a property owner’s attempt to run an Airbnb business in a quiet suburban neighborhood of about 140 homes.
+
+In a decision issued on 26 October 2026, the Fifth District Court of Appeals of Ohio backed a lower court ruling against home buyer Michael A. Clevenger. The court found that local residential zoning rules legally bar short-term tourist rentals run as a business in single-family zones. The dispute began after Clevenger bought a single-family house in a housing development of about 140 properties in Stark County, Ohio.
+
+Soon after he took ownership, he listed the house on online booking sites. He advertised it for short stays to passing guests and vacationers. Nearby residents quickly raised concerns about crowded parking, noise, and safety risks. Local zoning inspectors then issued a formal notice of violation. They said he was running an unapproved business in an area zoned only for single-family homes. Clevenger appealed the enforcement action to the local township zoning board.
+
+He then appealed to the Stark County Court of Common Pleas. He argued that renting out the house did not break the zoning code. He said the house was his main home and that he only sometimes hosted guests.
+
+## Rejection of primary residence argument
+
+The Fifth District Court of Appeals rejected Clevenger’s arguments one by one. It held that short-term commercial rentals change the basic residential character of a neighborhood. This is true even if the owner sometimes sleeps at the property.
+
+The court wrote for its three-judge panel that local township zoning codes exist to protect stable, quiet, low-density living for long-term residents. Court records show that neighbors gave local authorities logs, photographs, and testimony.
+
+These described frequent guest turnover, parties, and unfamiliar cars parked along narrow residential streets. The appeals judges decided that advertising a house for paid short stays turns a single-family home into a hotel-style business.
+
+That kind of business needs specific commercial zoning approval or a conditional use permit. The property had neither. The court also ruled that the local zoning board acted within its legal powers when it read the township land-use codes. It confirmed that local governments in Ohio have clear police powers to limit short-term rentals. These powers protect neighborhood safety and property values.
+
+## Growing legal precedent on short-term rentals
+
+The 26 October ruling adds to a series of similar decisions in Ohio state courts.
+
+Those decisions back the right of local towns and township trustees to limit or ban platforms like Airbnb and VRBO in established residential areas. Lawyers for local homeowners argued during court hearings that unmonitored commercial rentals in a subdivision of 140 homes would badly weaken deed restrictions and local land planning rules.
+
+Those rules are meant to build long-term community ties. Under Ohio law, township trustees have broad power to define land uses within set zones. Courts have repeatedly held that short-term rentals do not count as normal single-family residential use. This is because guests do not live there permanently or sign long-term leases. The decision makes clear that property owners cannot avoid local short-term rental bans by simply calling a property their personal residence while actively offering rooms to paying travelers. Clevenger can still ask the Supreme Court of Ohio for a discretionary review. However, state legal experts consider it unlikely that further appeals would overturn the settled precedent on local township land-use powers.
+
+---
+
+### A $295 million Malibu mansion by Pritzker Prize-winning architect Tadao Ando was quietly on the market when Kanye West came unannounced and stayed for four days, a new book claims; his own Ando-designed Malibu home now faces an uncertain future
+*TOI Real Estate Desk · politics*
+
+A $295 million Malibu mansion designed by Pritzker Prize-winning Japanese architect Tadao Ando was quietly on the market when rapper Kanye West arrived unannounced and stayed for four days, according to a new biography of his former wife, Kim Kardashian.
+
+An October 2026 report by the New York Post drew on journalist Jonathan Van Meter’s book 'Citizen Kim' to recount how West persuaded the estate’s owners to let him inside, set up an office beside the pool and hold meetings there. The episode offers a glimpse into the rapper’s fascination with Ando’s architecture, even as West’s own Ando-designed Malibu property remains mired in restoration and foreclosure complications.
+
+## Kanye West’s unexpected visit to the $295 million estate
+
+Art collectors Maria and Bill Bell commissioned the mansion in Malibu’s exclusive Paradise Cove area. Known as the “Big Ando”, the approximately 42,000-square-foot property took 15 years to build and features the Japanese architect’s signature use of concrete, geometric forms and carefully framed ocean views. According to 'Citizen Kim', West drove to the estate without scheduling an appointment through celebrity real estate agent Kurt Rappaport, who represented the owners.
+
+Instead, he reportedly arrived at the gate and introduced himself.When the owner hesitated to let him in, West allegedly invoked Elvis Presley to make his case. “If Elvis Presley came to your door and rang your buzzer, would you let him in? This is that,” he reportedly said. The visit went far beyond a conventional property viewing. Van Meter writes that West remained at the estate for four days, setting up an office by the pool and holding meetings because he wanted to experience what it felt like to work inside an Ando-designed home.The mansion had reportedly been marketed privately for $295 million. It was eventually purchased by Jay-Z and Beyoncé in 2023 for $200 million, setting a California residential real estate sales record at the time. The sale price was substantially below the reported asking price.
+
+## The smaller Ando house West bought for $57.25 million
+
+The larger estate was not West’s first encounter with the architect’s work. In September 2021, he purchased a separate oceanfront house on Malibu Road for $57.25 million.
+
+The roughly 4,000-square-foot residence had originally been commissioned by financier and art collector Richard Sachs and was completed in 2013 after a seven-year design and construction process. It was also designed by Ando, whose limited portfolio of standalone residential buildings in the United States makes the properties particularly notable among architecture enthusiasts.According to the New York Post, Ando’s executive architect for the Malibu Road project, Ron Radziner, used the informal name “Little Ando” for West’s house, distinguishing it from the much larger Paradise Cove estate.
+
+West reportedly wanted to turn his own property into an intensely minimalist retreat, described in media reports as a bunker, bomb shelter or “bat cave”. But the renovation took a destructive turn, leaving the home without many of the features required for ordinary habitation.
+
+## From architectural landmark to an unfinished concrete shell
+
+After purchasing the Malibu Road house, West hired contractor Tony Saxon to carry out the renovation. The work involved removing windows, plumbing, electrical systems, marble bathrooms and other interior features.
+
+The changes stripped the residence of much of its original design and left an unfinished concrete structure exposed to the coastal environment. The alterations also triggered a legal dispute. Saxon sued West for $1.7 million over the renovation project.
+
+According to the New York Post, a Los Angeles jury awarded Saxon $140,000 in March 2026 for lost wages and medical expenses. West eventually abandoned the project and listed the property in December 2023 for $53 million.
+
+The house sold in September 2024 for $21 million to developer Steven “Bo” Belmont’s real estate firm, Belwood Investments.The new owner initially pledged to restore the residence to its original design. In March 2025, however, the partly renovated house returned to the market with an asking price of $39 million. Belmont said at the time that approximately $2 million in restoration work had been completed and estimated that another $6.5 million would be needed.
+
+## Foreclosure delays leave the property's future uncertain
+
+The restoration plans encountered further difficulties after the property’s ownership company faced foreclosure proceedings. A December 2025 report by Realtor.com said the lender had accused Belwood Investments of defaulting on an $18.5 million mortgage and sought to recover overdue payments. The foreclosure auction was subsequently postponed. According to Realtor.com’s April 7, 2026, report, an auction scheduled for March 19 was halted after a last-minute bankruptcy filing.
+
+A second scheduled sale on April 7 was also postponed, with no new date immediately announced.Belmont maintained that he was working towards completing the restoration and protecting investors’ interests. The delays left the property’s ultimate fate unresolved in the latest reports available for this account.The two Malibu houses illustrate sharply different outcomes for Ando’s work. The larger Paradise Cove estate became a record-breaking purchase for Beyoncé and Jay-Z, while West’s smaller property remains caught between architectural restoration and financial uncertainty.Ando, who received the Pritzker Architecture Prize in 1995, is known for using exposed concrete, natural light and restrained forms to create spaces that interact closely with their surroundings. His Malibu residences were designed around those principles. Whether the smaller house can be restored to its original vision remains an open question.
+
+---
+
+### India and Tanzania hold Army Staff Talks, discuss strengthening defence cooperation
+*ania hold Army Staff Talks · business*
+
+New Delhi \[India\]: India and Tanzania held the inaugural Army-to-Army Staff Talks in New Delhi from October 27-29, focusing on strengthening defence cooperation through military education, training exchanges and capacity building.
+
+During its stay in India, the Tanzanian delegation visited the 505 Army Base Workshop and DPSU Bhawan, besides paying tribute to the fallen heroes at the National War Memorial.
+
+"The inaugural India-Tanzania Army-to-Army Staff Talks, held in New Delhi from 27 to 29 October 2026, focused on strengthening bilateral defence cooperation through military education, training exchanges and capacity building. The Tanzanian delegation visited 505 Army Base Workshop and DPSU Bhawan, gaining insights into India's military maintenance capabilities and indigenous defence manufacturing," the Indian Army's Additional Director General of Public Information (ADGPI) posted on X.
+
+  
+
+"The delegation also paid homage to the fallen heroes at the National War Memorial. The engagement reinforced mutual trust and the shared commitment towards deeper military cooperation," it added.
+
+The latest engagement follows the fourth edition of the Joint Defence Cooperation Committee (JDCC) meeting held between India and Tanzania in Zanzibar earlier this year. The two countries discussed cooperation in military training, maritime security and defence industry collaboration.
+
+Amitabh Prasad, Joint Secretary in the Defence Ministry's International Cooperation Division, co-chaired the meeting in Zanzibar from February 2-3. The discussions also covered ways to expand cooperation in emerging areas, including cyber and artificial intelligence (AI).
+
+"Joint Secretary (International Cooperation) Shri Amitabh Prasad co-chaired the fourth edition of Joint Defence Cooperation Committee (JDCC) meeting between India and Tanzania held in Zanzibar from 02-03 February 2026. The two sides discussed cooperation in military training, maritime security, defence industry collaboration and also explored new areas like counter terrorism, Peacekeeping training and training in niche areas of EW, Cyber, AI to further expand bilateral defence cooperation," the Ministry of Defence's Directorate of Public Relations had posted on X.
+
+India and Tanzania share longstanding friendly and cooperative relations, with their partnership encompassing political engagement, economic cooperation and people-to-people exchanges. The two countries also collaborate in education, healthcare and development initiatives, including capacity-building training, concessional credit lines and grant projects.
+
+The bilateral relationship was elevated to a strategic partnership in 2023 during the State Visit of Tanzanian President Samia Suluhu Hassan to India.
+
+---
+
+### In 2020, conservation partners began securing Maine’s Chadbourne Tree Farm; six years later, more than 27,000 acres of working forest are permanently protected from development. The forest remains open to the public
+*TOI World Desk · politics*
+
+More than 27,000 acres of forestland in western Maine have been permanently protected after a six-year conservation effort brought together environmental organisations, state agencies and local land trusts.
+
+The achievement safeguards working forests, drinking-water resources and recreational access across a landscape near Bethel that could otherwise have faced fragmentation and development. According to Maine Public, the Bangor Daily News and The Conservation Fund, the October 2026 milestone builds on an initial acquisition in 2020 and extends conservation protections across the surrounding region. The protected land includes approximately 11,000 acres at the heart of Chadbourne Tree Farm.
+
+Crucially, the agreement does not remove the forest from productive use: timber operations can continue, and the land remains accessible to the public.
+
+## A six-year effort to protect Maine’s forests
+
+The conservation initiative began in 2020, when The Conservation Fund and the Malone Family Land Preservation Foundation acquired nearly 14,900 acres of Chadbourne Tree Farm. The purchase gave conservation partners time to arrange permanent protections and prevent the property from being divided into smaller parcels for potential development.
+
+The effort subsequently expanded beyond the original acquisition, bringing together Mahoosuc Land Trust, Greater Lovell Land Trust, Western Foothills Land Trust, Inland Woods + Trails, state conservation agencies and the US Forest Service. Together, the partners secured additional properties, expanded existing nature preserves and added land to public conservation holdings. The resulting network now protects more than 27,000 acres across western Maine.The broader initiative includes a 600-acre expansion of White Mountain National Forest, more than 1,300 acres added to Western Foothills Land Trust properties, and additional protected land along the Kezar River corridor. Mahoosuc Land Trust also secured substantial acreage, including the Crooked River Headwaters conservation easement and Tumbledown Dick Preserve.
+
+## Protecting drinking water for more than 200,000 people
+
+One of the most important benefits of the project lies in its watershed protections.
+
+Chadbourne Tree Farm sits near the headwaters of the Sebago Lake watershed, a critical source of drinking water for more than 200,000 people in the greater Portland area.Forests help protect water quality by filtering runoff, stabilising soil and reducing the movement of sediment into streams and rivers. Conserving large, connected forest areas can therefore help maintain the health of waterways that supply nearby communities.
+
+The protected landscape also provides wildlife habitat and forest corridors that allow animals to move through the region as environmental conditions change.
+
+Keeping these areas connected is particularly important as development and a changing climate put pressure on natural habitats.
+
+## Working forests continue to support local jobs
+
+The conservation agreement is designed to protect the land without ending its economic role. Chadbourne Tree Farm will remain an actively managed working forest, supporting timber production and jobs linked to Maine’s forest-products industry.The approach reflects a broader conservation strategy that seeks to balance environmental protection with the needs of rural communities. Rather than removing the land from economic use, the partners have secured its future while allowing sustainable forestry operations to continue.The project received support from Maine’s Land for Maine’s Future programme, the US Forest Service’s Forest Legacy Program, funding through the Land and Water Conservation Fund, and more than $10 million in private philanthropic contributions.
+
+## A connected trail network for year-round recreation
+
+The protected acreage also helps connect outdoor recreation areas around Bethel. Conservation of key parcels secures important sections of a continuous trail network linking Sunday River Resort and Mt. Abram, opening up opportunities for hiking, skiing and cycling throughout the year. The project also expands access to community forests, river corridors and other recreational areas used by residents and visitors.For western Maine, the achievement extends beyond the preservation of a single tree farm. It creates a connected landscape that supports clean water, working forests, wildlife and outdoor recreation while reducing the risk of future development fragmenting the region. Six years after the initial acquisition, the partnership has secured a long-term future for more than 27,000 acres, keeping the forest productive and accessible for generations to come.
+
+---
+
+### G20 ministers meet in Atlanta as wars and trade disputes deepen
+*India Today World Desk · general*
+
+## Marco Rubio will chair G20 foreign ministers and senior envoys meeting in Atlanta. Deep divisions over wars, navigation and trade threaten meaningful collective action.
+
+Image used for representational purposes only
+
+Washington,Oct 30, 2026 11:04 IST
+
+Foreign ministers and senior envoys from the Group of 20 major economies, including Russia and China, are meeting in Atlanta amid deep divisions over wars and other global crises affecting international security and trade, news agency Press Trust of India reported.
+
+US Secretary of State Marco Rubio will chair the meeting on Friday and Saturday. The talks will set the stage for a G20 leaders' summit to be hosted by President Donald Trump at his Miami golf club in December, though there appears to be little chance of agreement on several contentious issues.
+
+These include the Russia-Ukraine conflict, the US-Israeli war against Iran, US tariffs and China's actions in the South China Sea. The developments have contributed to higher global fuel costs and uncertainty over trade.
+
+According to PTI, US officials said their main priority was to resolve differences over freedom of navigation, particularly in the Strait of Hormuz, the Red Sea, the Black Sea and the South China Sea. Discussions will cover Iran, the Russia-Ukraine war, and China's relations with its smaller neighbours.
+
+The prospect of fresh US military intervention in Iran also hangs over the meeting and has caused concern across the region, including in G20 member Saudi Arabia.
+
+The Associated Press has reported that US officials told several Middle Eastern countries and regional allies to prepare for possible renewed military strikes against Iran after Tuesday's midterm elections and for the possibility of Iranian retaliation.
+
+Some G20 countries have expressed concern over the US invitation to Russia amid its intensified attacks on Ukraine. Russia will be represented by Foreign Minister Sergey Lavrov. China is sending a deputy foreign minister, while most other countries have sent their top diplomats, according to US officials cited by PTI.
+
+It remains unclear whether Russian President Vladimir Putin will accept Trump's invitation to the December summit in Florida. US allies in Europe are uneasy about Russia's presence, particularly after Trump waived fresh sanctions on Moscow and temporarily restricted operational and intelligence assistance to Ukraine, pushing ties with Kyiv to new lows.
+
+Russia's foreign ministry complained about problems in securing visas for its delegation, which were resolved only at the last minute. Ministry spokeswoman Maria Zakharova said the complications had created the impression that “not everyone in Washington is happy” about Lavrov attending.
+
+Zakharova said Lavrov would use the meeting to call for the “swift reform of global economic institutions” and promote Russia's vision of a “multipolar world”.
+
+Lavrov has rarely travelled to NATO member countries since Russia invaded Ukraine in February 2022 and severe sanctions were imposed on Moscow. His presence in Atlanta is likely to create domestic political problems for Trump days before the midterm elections and unsettle the G20's Western members, said Ian Kelly, a US ambassador to Georgia during Trump's first term.
+
+“It seems politically boneheaded to invite him,” said Kelly, who now teaches international relations and diplomacy at Northwestern University near Chicago.
+
+Kelly said many Republican lawmakers, already concerned about losing their congressional majorities, were “cranky” over Trump's conciliatory approach towards Putin. He added that Democrats could use the invitation to attack the Republican Party ahead of Tuesday's vote.
+
+Lavrov's attendance would also almost certainly undermine efforts to reach a common position on the Russia-Ukraine war, Kelly said. “It will definitely take away from the message that at least the Western members want to send.”
+
+Ukraine, which is not a G20 member but had been invited to previous meetings, was not invited this year. US officials said they had made a conscious decision to include only formal members of the group.
+
+South Africa is also absent from the Atlanta invitee list amid several disputes with the Trump administration. South Africa chaired the G20 last year, but senior US officials, including Trump and Rubio, stayed away from the meetings it hosted.
+
+The US State Department said Rubio viewed the gathering as a way “to advance practical cooperation on shared economic and security challenges”. It said his priority was to seek solutions to “geopolitical crises contributing to global economic shocks”, including threats to freedom of navigation, energy and food security, and critical mineral supply chains.
+
+However, there is scepticism over whether G20 members can overcome their differences. Elaine Dezenski, head of the Centre on Economic and Financial Power at the Foundation for Defense of Democracies, a Washington think tank that takes a hard line on Iran and other issues, said the gathering would be more of a test than a meeting.
+
+“The Atlanta meeting takes place within an environment of widening disagreement over the global economic order, and the right test is whether the US can build cooperation with partners when all member consensus appears to be out of reach,” she said during a conference call with reporters.
+
+Dezenski said the Trump administration had shown a willingness, and considerable success, in working outside the G20 framework to build coalitions supporting its foreign policy goals. “The meeting offers a chance to assess whether the US can turn shared economic security concerns into more meaningful cooperation with partners even without the consensus,” she said.
+
+The Atlanta meeting will therefore focus on cooperation over economic and security challenges, but divisions over Russia, Ukraine, Iran, China and trade are expected to make a unified G20 position difficult.
+
+With PTI Inputs
+
+\- Ends
+
+---
+
+### Is everything made of tiny strings? Oskar Klein medallist Ashoke Sen on what we still don’t know
+*Radifah Kabir · general*
+
+Ask most people to explain the universe, and they reach for a metaphor before they reach for the truth. Professor Ashoke Sen does the opposite. We asked him for an everyday analogy for the discovery that made his name, and he replied with five words that would make any science writer put down her pen. "There is no everyday analogy."
+
+Then, almost relenting, he offered one. "The closest I can think of is the fact that water and ice are both described by the theory of H2O molecules even though they look different."
+
+That is Professor Sen in miniature. He writes the way a good equation behaves, with nothing ornamental and every term made to earn its place. And across two rounds of interviews, one theme kept returning in his replies, stated with a candour rare among the celebrated. Again and again, one of the world's greatest living physicists told us, in effect, that this is not yet known.
+
+On October 22, the Kolkata-born string theorist delivered the 2026 Oskar Klein Memorial Lecture, titled _Gravity from Strings and Strings from Gravity_, at Stockholm University's AlbaNova Centre. With it came the Oskar Klein Medal, which ICTS-TIFR in Bengaluru announced made him the first Indian physicist to receive the honour.
+
+Awarded every year since 1988 by Stockholm University and the Nobel Committee for Physics of the Royal Swedish Academy of Sciences, the medal went first to the Nobel laureates Chen-Ning Yang, Steven Weinberg and Hans Bethe. Later names on its roll include Stephen Hawking and Edward Witten.
+
+There is a quiet rhyme here. In 1926, the Swedish physicist Oskar Klein suggested that the universe might hide an extra dimension, curled up too small to see. A century later, his medal has gone to a man who has spent his life inside a theory that needs six of them.
+
+### WHY GRAVITY BREAKS THE MATHS
+
+Physics runs on two magnificent rulebooks that refuse to share a shelf. General relativity, Einstein's theory, describes gravity as the bending of space and time by mass, and it governs planets, stars and galaxies. Quantum mechanics describes the very small, a world of atoms and particles that moves in jumps and probabilities. A theory uniting the two, called quantum gravity, is the missing chapter of modern science.
+
+The trouble begins with points. Physicists have long treated the smallest particles as dots with no size at all. "In a theory of point particles, the effect of gravitational force is so strong that it gives infinite answers to sensible questions," Professor Sen told India Today. Ask how two particles bounce off each other through gravity, and the arithmetic returns infinity. In physics, that is not an answer. It is an alarm bell.
+
+String theory swaps the dot for a tiny vibrating strand of energy, far smaller than anything a machine can see. "In string theory the interaction spreads out over the string and we get sensible answers to sensible questions," he wrote.
+
+Think of a tanpura. A single string can sound many tones depending on how it vibrates. In string theory, each pattern of vibration appears to us as a different particle, with its own mass and charge, and one of those notes behaves exactly like the graviton, the particle that would carry gravity. A dot cannot hum. A string can, and its humming smooths the infinities away.
+
+### WATER, ICE AND A THEORY IN DISGUISE
+
+Born on July 15, 1956, Professor Sen studied at Presidency College, Kolkata, then at IIT Kanpur, before earning a PhD at Stony Brook University in the United States. After years at Fermilab and the SLAC accelerator centre in California, he returned to the Tata Institute of Fundamental Research (TIFR) in Mumbai. There, in the early 1990s, he built the case for S-duality.
+
+The name is forbidding, but it comes apart into two plain ideas. Coupling is simply how strongly particles tug on one another. When the tug is weak, physicists can calculate by adding small corrections, much as you estimate a restaurant bill by rounding. When the tug is strong, the maths becomes hopeless. S-duality, short for strong-weak duality, proposes that a theory with a strong tug is secretly the same as another with a weak one, so the hopeless calculation can be traded for an easy one. In his 1994 paper, Professor Sen gave evidence that this swap turns electrically charged particles into magnetically charged ones.
+
+Few believed it at first. "This happened gradually, and since the evidence for the symmetry was thin not many people believed in it," he recalled. "This is the way science works; all radical ideas have to be met with skepticism and only those that pass the stringent tests should be accepted."
+
+His idea passed. In 1995, Edward Witten argued that five rival versions of string theory were faces of one deeper structure, soon called M-theory, sparking what physicists call the second superstring revolution. In 2012, the inaugural Breakthrough Prize in Fundamental Physics honoured Professor Sen for opening the path to that realisation. Water and ice, after all. His other honours include the 2014 Dirac Medal, Fellowship of the Royal Society, the Padma Bhushan, and, in April 2026, election to the American Academy of Arts and Sciences.
+
+### THE SECRETS A BLACK HOLE KEEPS
+
+A black hole is a region where gravity is so fierce that nothing, not even light, escapes. In the 1970s, Jacob Bekenstein and Stephen Hawking showed that it nonetheless has entropy, a measure of how many hidden internal arrangements could produce the same outward appearance. A shuffled deck of cards still looks like a deck. Its entropy counts the orderings you cannot see.
+
+But entropy needs something to count, and a black hole seemed to have nothing inside. In 1996, Andrew Strominger and Cumrun Vafa used string theory to count the hidden states of certain black holes, and the number matched Hawking's formula exactly. Professor Sen spent years sharpening that counting to remarkable precision.
+
+"String theory provides a description of a certain class of black holes that allows us to count the number of states and reproduce the result for the entropy that we get from geometry," he explained, much as statistical mechanics, the physics of counting jostling molecules, explains heat and temperature.
+
+Yet here lies the first great unknown. Hawking showed that black holes slowly leak radiation and evaporate. Does everything that fell in vanish for ever? That question is the information paradox. Counting the states, Professor Sen said, is "a strong evidence that black holes are like ordinary quantum systems," and for some simple black holes, physicists can watch the information emerge. But "a full solution will require an explanation of how information emerges for all black holes in all solutions of string theory. This has not been done."
+
+His Stockholm lecture went a step further. In a June 2026 paper, he showed that calculations for certain black holes in supergravity, a theory blending Einstein's gravity with a proposed symmetry of nature, stay consistent only if gravity changes at the size of a string. "This suggests that string theory is a natural framework for taming the problems in quantum gravity," he said, before adding the scientist's caveat. "I would not claim anything more than this."
+
+### SIX DIMENSIONS WE CANNOT SEE
+
+We live in three dimensions of space, length, breadth and height, plus one of time. Superstring theory needs nine of space. The extra six, it says, are curled up out of sight, the way a garden hose looks like a line from far away but is a tube up close.
+
+Could we ever catch them? "It depends on the size of the extra dimensions," Professor Sen said. In some versions of the theory, he explained, they are large enough to show up in the next generation of particle accelerators, the giant machines that smash particles together at nearly the speed of light. In others, they are far smaller than anything we can probe in the near future. Searches at CERN's Large Hadron Collider have hunted for gravity leaking into hidden dimensions, and found no sign of it so far.
+
+### A UNIVERSE STILL LOOKING FOR ITS ADDRESS
+
+Why, then, is string theory so hard to test? "Even though string theory is a unique theory, it has many solutions," Professor Sen explained. Each solution is a possible universe, and together they form what physicists call the string landscape. Think of a raga, a single grammar that gives rise to countless melodies. Only a small part of these solutions has been found, he noted, and until we find the one that describes our world, a direct experimental prediction remains out of reach.
+
+The night sky may yet offer clues. Dark energy is the unseen push that makes the universe expand faster and faster. The Dark Energy Spectroscopic Instrument, or DESI, a vast survey mapping millions of galaxies, has hinted that this push may be weakening over time. The signal sits at about three sigma, a measure of how unlikely a result is to be a fluke, still short of the five sigma physicists demand for a discovery.
+
+Professor Sen sees opportunity rather than threat. "String theory has many different types of solutions, including solutions where the dark energy varies with time," he wrote. "So any new information that we gather about our universe is a possible guide to finding the right solution."
+
+### WHAT A MACHINE MIGHT FIND
+
+Professor Sen has said that he would be very happy if AI solved quantum gravity. Could a machine one day have his kind of insight? "It is certainly possible." Does he use it now? "I use AI and have gotten many useful results."
+
+On India's place in this rarefied field, he was characteristically brief. "Since theoretical physics requires limited resources, India has thrived in this subject." The year bears him out. In August, his ICTS colleague Deepak Dhar became only the second scientist working in India to win the Dirac Medal. The first was Professor Sen.
+
+### THE QUESTION HE WOULD ASK NATURE
+
+Would he still choose string theory if he knew our universe's solution would not be found in his lifetime? He rejected the premise. "The very nature of research tells us that it is not possible to know 'for certain' that it will not be found in our lifetime. But I think that is not relevant. If we only work on things for which we are certain to get results then no genuine progress can be made."
+
+Are space and time themselves fundamental, or built from something deeper? "I can only answer this after we have a concrete understanding." And if nature granted him one guaranteed true answer? "What is the theory that describes all the elementary constituents of matter and their interactions including gravity."
+
+There is no metaphor in that either. Only the plain question, still waiting, like water that has not yet decided to become ice.
+
+\- Ends
+
+---
+
+### IND vs NZ 4th T20I Playing 11: All eyes on Abhishek Sharma, Vaibhav Sooryavanshi as India eye 4-0 lead; check playing 11, weather and pitch report
+*Trending Desk · business*
+
+India are unlikely to make major changes to their winning combination when they take on New Zealand in the fourth T20I in Auckland, with an opportunity to extend their lead to 4-0. Vaibhav Sooryavanshi and Abhishek Sharma are expected to continue opening the innings after their impressive performances against the New Zealand bowling attack, while Sanju Samson is likely to retain his No. 3 position. With the series already secured, Ishan Kishan could remain on the sidelines as he continues his recovery from injury.
+
+New Zealand, meanwhile, will be without Lockie Ferguson and Matt Henry for the contest and are likely to bring Nathan Smith into the playing XI. The hosts will hope their bowling attack can find a way to restrict the aggressive Indian openers as they look to avoid a 5-0 series whitewash.
+
+  
+
+## IND vs NZ 4th T20I Playing 11 Prediction
+
+India: Vaibhav Sooryavanshi, Abhishek Sharma, Sanju Samson (wk), \[Shreyas Iyer\] (c), Tilak Varma, Naman Dhir, Nitish Reddy, Axar Patel, Bhuvneshwar Kumar, Prince Yadav, Arshdeep Singh/Mayank Yadav
+
+  
+
+New Zealand: Tim Seifert (wk), Finn Allen, Daryl Mitchell, Glenn Phillips, Bevon Jacobs, Michael Bracewell, Mitchell Santner (c), Nathan Smith, Adam Milne, Jacob Duffy, Matthew Fisher
+
+## IND vs NZ 4th T20I Pitch Report
+
+The pitch at Eden Park in Auckland offers a fairly balanced contest between bat and ball. Fast bowlers are likely to find some assistance during the initial overs, while batters will need to show patience and build their innings to post a big total.
+
+  
+
+## IND vs NZ 4th T20I Weather Update
+
+Auckland is likely to experience cool weather, with daytime temperatures ranging between 13°C and 19°C. There is a chance of rain, accompanied by southwesterly winds. Weather conditions will therefore be worth monitoring ahead of the match, as showers could potentially affect play.
+
+  
+
+## India vs New Zealand 4th T20I: Key Players to Watch
+
+Abhishek Sharma (India): Abhishek Sharma will be one of the biggest players to watch after his explosive batting performances in the series. His aggressive approach at the top of the order has put New Zealand's bowlers under pressure. He will look to continue his impressive run in Auckland.
+
+Vaibhav Sooryavanshi (India): The young batter has impressed with his fearless strokeplay. He smashed 45 runs in the third T20I in Wellington and will aim to provide another strong start alongside Abhishek Sharma.
+
+Mitchell Santner (New Zealand): New Zealand captain Mitchell Santner will have a crucial role to play with both bat and ball. He will need to lead from the front and find ways to restrict India's aggressive batting line-up.
+
+## IND vs NZ 4th T20I: Head-to-Head Record
+
+India hold the upper hand over New Zealand in T20I cricket, having won 20 of the 34 matches played between the two sides, while New Zealand have secured 11 victories. Three encounters ended in a tie. India's dominance has also been evident in New Zealand, where they enjoy an 8-4 winning record against the hosts.
+
+---
+
+### PM Narendra Modi's Gujarat Visit: ₹14,000 Crore Projects & ₹19,000 Crore for Farmers | News18
+*News Desk · general*
+
+Prime Minister Narendra Modi is on a two-day visit to Gujarat, beginning his tour with a grand roadshow as the state prepares for a major development push. The visit features the inauguration of the state-of-the-art BBBRC facility and the launch of development projects worth more than ₹14,000 crore....
+
+[Read full article](https://www.news18.com/videos/breaking-news/pm-narendra-modi-s-gujarat-visit-14-000-crore-projects-19-000-crore-for-farmers-news18-10404458.html)
+
+
+---
+
 ## 29 October 2026
 
 ### In 2017, a 41-year-old Michigan mother died following cosmetic surgery and five days in hospital; an appeals court has upheld a $9.7 million verdict finding the hospital negligent
