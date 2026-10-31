@@ -1,3 +1,608 @@
+## 31 October 2026
+
+### Is Covid still affecting our health? Experts explain its impact on immunity and the heart
+*India Today Health Desk · general*
+
+## Four leading specialists discuss the possible long-term effects of COVID-19, rising heart attacks among young people, fertility concerns and recurring infections. At the India Today HealthWealth Summit, doctors also explain why people should avoid self-medication and focus on preventive healthcare.
+
+Doctors discuss the long-term health impact of COVID-19, including its effects on heart health, immunity and fertility, at the India Today HealthWealth Summit 2026.
+
+New Delhi,Oct 31, 2026 11:10 IST
+
+The COVID-19 pandemic may have ended as a global health emergency, but conversations around its impact on human health continue. From young people suffering heart attacks to recurring coughs and colds, fertility concerns and changes in immunity, several health issues are often being linked to the virus and its vaccines. In many households, people continue to question whether their frequent illnesses, delayed recovery or other health problems are connected to their experience during the pandemic.
+
+At the India Today HealthWealth Summit, Padma Shri Dr D S Gambhir, Senior Cardiologist at Kailash Hospital; Dr Manoj Kumar, Vice Chairman, Cardiac Sciences and Interventional Cardiology, Max Healthcare; Dr Sanjay Sachdeva, Chairman, ENT, Max Healthcare; and Dr Preeti Aggarwal, Obstetrics and Gynaecology specialist, discussed the possible long-term effects of COVID-19 and what current scientific evidence tells us.
+
+The experts explained how the infection may have affected different organs and bodily functions, while cautioning against attributing every health concern to COVID-19. They also emphasised the need to understand individual risk factors, adopt healthier lifestyles and seek timely medical advice rather than rely on assumptions or misinformation.
+
+### COVID-19 WAS MORE THAN A RESPIRATORY INFECTION
+
+Explaining the impact of the virus, Dr D S Gambhir said COVID-19 was an unprecedented health crisis for the current generation. He pointed out that the infection did not affect only the lungs but also involved several other organs through the bloodstream.
+
+According to him, COVID-19 disturbed the normal balance of blood clotting in some patients, leading to the formation of clots that could affect different organs. Heart and lung complications were among the major concerns.
+
+He added that some people continue to experience health problems after recovering from the infection. However, he cautioned against linking every new illness or sudden death to COVID-19 without scientific evidence.
+
+### YOUNG HEART ATTACKS HAVE MULTIPLE RISK FACTORS
+
+The increasing number of heart attacks among young people has become a major concern. Dr Manoj Kumar said COVID-19 could be an important risk factor, referring to research that found a higher incidence of cardiovascular events among people who had experienced the infection.
+
+He explained that the virus can damage the inner lining of blood vessels and cause inflammation, potentially increasing the risk of blood clot formation.
+
+However, he also highlighted other risk factors, including diabetes, high blood pressure, cholesterol, smoking, obesity, stress and a sedentary lifestyle. Sitting for more than 10 hours a day may also increase cardiovascular risks, he said.
+
+Dr D S Gambhir, meanwhile, cautioned against attributing every young heart attack or sudden death to COVID-19. He said available scientific evidence has not established that all such cases are linked to the infection.
+
+Dr Manoj Kumar also clarified that available studies do not support a direct link between COVID-19 vaccination and an increased risk of heart attacks.
+
+### STRESS AND LIFESTYLE ARE ADDING TO HEART RISKS
+
+Doctors also highlighted the growing role of chronic stress in heart health. Dr Manoj Kumar said prolonged stress can affect hormone levels, including adrenaline and cortisol, and contribute to inflammation in the body.
+
+He warned against unhealthy ways of managing stress, such as smoking, vaping and alcohol consumption.
+
+He advised people to include exercise, yoga, meditation and social interaction in their daily routines. Those experiencing persistent anxiety or depression should seek professional help.
+
+### COVID-19, IMMUNITY AND RECURRING INFECTIONS
+
+Addressing concerns about frequent coughs and colds, ENT specialist Dr Sanjay Sachdeva said COVID-19 could have affected immune responses, including the functioning of T-cells.
+
+He said pollution, sudden temperature changes and lifestyle habits could also contribute to recurring respiratory infections. However, the direct link between COVID-19 and frequent common colds needs further scientific research.
+
+### DID COVID-19 AFFECT FERTILITY?
+
+Dr Preeti Aggarwal explained that some women experienced temporary menstrual changes after vaccination, while some men experienced changes in semen parameters following COVID-19 infection. These changes were generally temporary, she said.
+
+She added that stress, uncertainty and delayed pregnancy plans during the pandemic may have affected couples trying to conceive.
+
+Age is another important factor. As women grow older, the number and quality of their eggs decline. Conditions such as endometriosis and previous ovarian surgery can also affect fertility.
+
+Dr Aggarwal said current research has not established a major long-term impact of COVID-19 vaccination or infection on reproductive health. She advised couples facing difficulty conceiving to seek medical help rather than continuing to blame the pandemic.
+
+### AVOID SELF-MEDICATION AND ANTIBIOTIC MISUSE
+
+Dr Sachdeva also warned against using artificial intelligence tools to self-prescribe medicines. Most common coughs and colds are caused by viruses and do not require antibiotics.
+
+Unnecessary antibiotic use can contribute to antimicrobial resistance, making bacterial infections harder to treat.
+
+He also highlighted the importance of recommended vaccinations, including influenza vaccination during pregnancy and for older adults, as well as pneumococcal vaccination for eligible individuals.
+
+### THREE IMPORTANT HEALTH CHECKS AFTER 40
+
+Dr D S Gambhir recommended regular monitoring of blood pressure, cholesterol and blood sugar, particularly after the age of 40. People with a family history of heart disease should be especially careful.
+
+He stressed that early identification of high cholesterol, hypertension and prediabetes can help people take preventive measures.
+
+The doctors agreed that COVID-19 may have had health consequences for some people, but lifestyle, genetics, stress and existing medical conditions also play an important role. Rather than blaming every health concern on the pandemic, people should focus on timely screening, healthy habits and evidence-based medical advice.
+
+\- Ends
+
+---
+
+### IIT Kanpur to set up and operate Uttar Pradesh's Rs 104 crore cybersecurity centre
+*India Today Education Desk · general*
+
+## The Uttar Pradesh Cabinet has approved a cybersecurity centre worth more than Rs 104 crore, to be established and run by IIT Kanpur's C3iHub. The three-year mandate will centralise threat monitoring and incident response across government departments.
+
+The Uttar Pradesh Cabinet has approved a cybersecurity centre worth more than Rs 104 crore, to be established and run by IIT Kanpur's C3iHub.
+
+Kanpur,Oct 31, 2026 11:09 IST
+
+The Indian Institute of Technology (IIT) Kanpur will set up and run Uttar Pradesh’s new Cybersecurity Operations Centre, a Rs 104.28 crore project cleared by the state Cabinet. Its Cybersecurity Technology Innovation Hub, C3iHub, will lead the establishment and manage operations and maintenance for an initial three years.
+
+The centre will monitor the state government’s digital infrastructure round the clock and help departments respond to cyber threats. As public services increasingly depend on online platforms and connected systems, it will help identify suspicious activity.
+
+### A CENTRAL WATCH OVER GOVERNMENT NETWORKS
+
+The Uttar Pradesh Cybersecurity Operations Centre (UP-CSOC) will bring monitoring and incident response under one system. Its work will cover Information Technology (IT) and Operational Technology (OT) environments, including government networks, applications, data and critical information systems.
+
+It will use threat intelligence to identify emerging risks, assess the seriousness of incidents and help departments prioritise responses. The centre will also investigate cyber incidents and analyse them afterwards to identify gaps and reduce the risk of similar attacks.
+
+The system is expected to use Artificial Intelligence (AI), Machine Learning (ML), Security Information and Event Management (SIEM), Security Orchestration, Automation and Response (SOAR), and Network Detection and Response (NDR).
+
+### MORE THAN JUST MONITORING
+
+The initiative will involve coordination with departmental Chief Information Security Officers and nodal officers. It will also include cybersecurity training, vulnerability assessments, cyber drills and independent security audits to improve preparedness across government departments.
+
+The aim is to detect attacks and protect public services that rely on digital infrastructure.
+
+Speaking on the announcement, Prof Manindra Agrawal, Director, IIT Kanpur, said, "The establishment of the Uttar Pradesh Cybersecurity Operations Centre is an important step towards protecting the state’s digital infrastructure from evolving cyber threats, as any breach can disrupt essential services and compromise sensitive data.
+
+### IIT KANPUR BRINGS PRIOR EXPERIENCE
+
+C3iHub has previously deployed Security Operations Centre capabilities for organisations including SAIL Bhilai Steel Plant, the National Highways Authority of India and the Indian Ports Association, the institute said.
+
+These projects have given the hub experience in protecting critical infrastructure, where digital disruption can affect essential services. It will draw on this work for the state-level facility.
+
+The project is intended to strengthen cybersecurity across departments statewide.
+
+\- Ends
+
+---
+
+### IPO ahead: Value-fashion retailer Ratnadeep Retail gets Sebi nod to raise funds through public issue
+*Kumar Gaurav · general*
+
+Ratnadeep Retail, an organised food, grocery and value-fashion retailer, has received approval from the Securities and Exchange Board of India (SEBI) to raise funds through an initial public offering (IPO), according to an update on the capital markets regulator’s website on Friday.
+
+The proposed IPO of the Hyderabad-based company comprises a fresh issue of equity shares aggregating up to Rs 400 crore and an offer for sale (OFS) of up to 1.49 crore equity shares by the promoter selling shareholders, according to its draft red herring prospectus (DRHP).
+
+The company plans to utilise Rs 40 crore from the net proceeds of the fresh issue towards repayment or prepayment of certain borrowings. Another Rs 260 crore will be deployed towards expanding its retail footprint through the addition of new stores under the Ratnadeep and National Mart formats. The balance proceeds will be used for general corporate purposes.
+
+Motilal Oswal Investment Advisors, Axis Capital and DAM Capital Advisors are the book-running lead managers to the issue.
+
+Ratnadeep Retail offers a diversified portfolio of more than 30,000 stock-keeping units (SKUs) across fresh produce, fast-moving consumer goods (FMCG), staples, general merchandise and apparel. Its product assortment caters to both essential and discretionary consumer spending.
+
+As of March 31, 2026, the company operated 190 stores across its two retail formats. Under the Ratnadeep brand, it operates 'Ratnadeep – Mindful Living', a neighbourhood supermarket format, and 'Ratnadeep Select', which focuses on premium food retailing.
+
+The company also operates National Mart, a value-led hypermarket chain that houses Style Mart, its affordable fashion retail offering.
+
+Ratnadeep Retail may also undertake a pre-IPO placement of equity shares aggregating up to Rs 80 crore, in consultation with the book-running lead managers, before filing the red herring prospectus with the Registrar of Companies (RoC). In the event of such a placement, the size of the fresh issue will be reduced by the amount raised.
+
+On the financial front, the company reported revenue from operations of Rs 2,223 crore in FY26, registering a compound annual growth rate (CAGR) of 15% since FY24. Its profit after tax (PAT) stood at Rs 36.7 crore during the fiscal.
+
+According to the DRHP, Avenue Supermarts, Vishal Mega Mart, Spencer's Retail and Trent are among the company's listed peers.
+
+_Disclosure: This article has been written by Kumar Gaurav, who is not a Sebi-registered Research Analyst or an Investment Adviser. Gaurav and their ‘relative(s)’ (as defined under Section 2(77) of the Companies Act, 2013) do not hold any financial interest in the companies mentioned in this article as of the date of publication. The views/recommendations mentioned in this article, wherever applicable, are those of the respective Sebi-registered Research Analyst/brokerage and have been reproduced/reported with due attribution. They should not be construed as the views or recommendations of The Economic Times Digital or the journalist. Readers are advised to consider the original research report and make their investment decisions based on their own assessment. Brokerage disclaimers here_
+
+---
+
+### 'Modi's visit to Canada in December will be another building block': Jaishankar meets Anita Anand
+*SECTIONS s visit · business*
+
+Washington: External Affairs Minister S Jaishankar has met his Canadian counterpart Anita Anand in Atlanta and agreed that Prime Minister Narendra Modi's visit to Canada in December will be another "building block" in ties between the two countries.
+
+Jaishankar met Anand on Friday on the sidelines of the G20 Foreign Ministers' Meeting.
+
+Both the leaders also assessed the "steady growth" in India-Canada cooperation.
+
+  
+
+According to an official statement, "the ministers agreed that Prime Minister Modi's visit to Canada in December will be another building block in the two countries' ambitious relationship."
+
+They also "agreed" to stay in close contact ahead of the visit, it said.
+
+Earlier this month, during her visit to India, Canadian Foreign Minister Anand met Prime Minister Modi, and she said they had a productive discussion on further strengthening India-Canada ties in trade, technology and energy.
+
+On October 16, the Indian High Commission in Ottawa said Prime Minister Modi will visit Canada on December 11 and 12.
+
+The date of the visit was also confirmed by Canadian Prime Minister Mark Carney.
+
+Carney had said he spoke to Modi and the visit will take place in Toronto and Ottawa. "We'll see if we can broaden it out," he said earlier this month.
+
+India-Canada relations hit rock bottom following then Prime Minister Justin Trudeau's allegations in 2023 of a potential Indian link to the killing of Sikh separatist Hardeep Singh Nijjar.
+
+India then dismissed Trudeau's accusation as "absurd".
+
+Carney's victory in the parliamentary election in April last year helped rebuild relations. The two countries also agreed to revive several mechanisms to advance relations in a range of areas.
+
+The relations witnessed a major upswing since Canadian Prime Minister Carney's visit to India in March.
+
+---
+
+### Vande Bharat Sleeper Train Service Connecting Varanasi And New Delhi To Be Flagged Off Today
+*Swarajya Staff · politics*
+
+A Vande Bharat sleeper service will be launched today (31 October) between Varanasi and New Delhi, marking Uttar Pradesh's first overnight semi-high-speed rail service.
+
+Railway Minister Ashwini Vaishnaw and Chief Minister Yogi Adityanath flagged off the inaugural special service from Varanasi at 4.15 pm today.
+
+The 16-coach fully air-conditioned train covers approximately 760 kilometres with a capacity of 823 passengers across three classes.
+
+Regular commercial operations will commence with Train 27421 departing Varanasi at 8.50 pm and arriving in New Delhi at 6.10 am, while the return service leaves the national capital at 9.40 pm.
+
+The service will operate six days weekly, with no departure from Varanasi on Fridays and New Delhi on Saturdays.
+
+The train will stop at Prayagraj, Kanpur Central, Aligarh and Ghaziabad, providing connectivity for passengers across these major cities. Northern Railway will operate and maintain the service, with primary maintenance facilities in Varanasi.
+
+The train features CCTV cameras, automatic sensor-based doors, fire detection systems, security alarms and 52 vacuum toilets.
+
+Tested at speeds up to 180 kmph, the service will operate at a maximum of 160 kmph during regular runs.
+
+Each coach includes sealed gangways and mini-pantries, while First AC coaches offer shower facilities for premium passengers.
+
+This launch follows the successful introduction of India's first Vande Bharat sleeper service between Howrah and Kamakhya in January 2026.
+
+The Delhi-Varanasi route represents a significant upgrade for one of the country's busiest corridors, offering modern amenities and reduced travel times for business travellers, pilgrims and tourists connecting the national capital with one of India's most important cultural and religious centres.
+
+**Please click here to add** _**Swarajya**_ **as your preferred and trusted news source on Google**
+
+---
+
+### Isro chief reveals list of big-ticket missions up next after textbook GSLV launch
+*India Today Science Desk · general*
+
+The Indian Space Research Organisation, or Isro, is gearing up for a busy second half of the financial year, with five more launches planned, including the first uncrewed mission under the Gaganyaan human spaceflight programme.
+
+Speaking after the successful launch of the GSLV-F18 rocket carrying navigation satellite NVS-03 on Friday night, Isro Chairman V Narayanan said the space agency was moving closer to its goal of sending Indian astronauts into space.
+
+The announcement comes after a successful mission that strengthened India's independent navigation capabilities and marked another milestone for Isro's heavy-lift launch vehicle.
+
+> GSLV-F18/NVS-03 Mission: Watch highlights of the journey from lift-off to spacecraft separation. Mission details: https://t.co/wtZ6TmjUhc #GSLVF18 #NVS03 #ISRO #NavIC https://t.co/wstykeeMK9— ISRO (@isro) October 31, 2026
+
+### FIVE MORE LAUNCHES ARE COMING
+
+Narayanan said Isro was targeting at least five more launches before the end of the current financial year, with plans including two launches of the Polar Satellite Launch Vehicle (PSLV), two of the Small Satellite Launch Vehicle (SSLV) and a private-sector launch.
+
+The overall target stands at six launches, though accomplishing at least five remains the priority, he said.
+
+The PSLV is Isro's workhorse rocket, used to launch satellites into different orbits, including those used for Earth observation.
+
+The SSLV, meanwhile, is a smaller rocket developed to carry lightweight satellites into space, offering a quicker and more economical launch option.
+
+The planned missions will add to an already significant year for Isro, which has been working to increase launch frequency while strengthening India's capabilities in space.
+
+Isro's PSLV-C62 is seen after liftoff from the Satish Dhawan Space Centre. (Photo: PTI)
+
+### A STEP CLOSE TO THE MOON
+
+One of the biggest missions on the upcoming schedule is Gaganyaan-1 (G1), the first uncrewed flight in India's human spaceflight programme.
+
+The mission will be a crucial step towards sending Indian astronauts into space aboard an Indian rocket and bringing them safely back to Earth.
+
+Narayanan said Isro has completed more than 8,000 tests so far.
+
+However, before astronauts can fly, the agency must successfully carry out three uncrewed missions to demonstrate that the rocket, spacecraft and safety systems can work reliably without putting human lives at risk.
+
+A picture of the GSLV-F18 sitting on the launch pad before the key launch on October 30, 2026. (Photo: Isro)
+
+He said preparations were progressing well, with teams working on critical systems and conducting simulations. The focus, he stressed, remains on astronaut safety.
+
+The successful GSLV-F18 mission, meanwhile, has restored NavIC to its minimum operational configuration of four satellites, strengthening India's independent positioning, navigation and timing services.
+
+\- Ends
+
+---
+
+### Bjørn Lomborg Takes A Pin To The Woke Climate-Panic Balloon
+*Deepesh Gulgulia · politics*
+
+-   _In 2014, Greenpeace gave a Bihar village solar power that could light a lamp but not run a stove. The villagers greeted the chief minister with placards demanding real electricity. Bjørn Lomborg's 'False Alarm' is full of such cases, where he accepts that climate change is real but shows that the panic over it costs more than the warming._
+
+**False Alarm: How Climate Change Panic Costs Us Trillions, Hurts the Poor, and Fails to Fix the Planet.** _Bjorn Lomborg. Basic Books. Pages: 352. Price: Rs 1593._
+
+Bjorn Lomborg opens with a photograph that, for him, sums up our age. A girl holds a placard: “You’ll die of old age. I’ll die of climate change.”
+
+She will not. She will very probably live longer than her parents, earn more than them and breathe cleaner air in her own kitchen. That is the first uncomfortable fact in _False Alarm_, and Lomborg spends the rest of the book proving it, mostly with the alarmists’ own sources.
+
+I came to this book the wrong way round. I first read his _Best Things First_ (2023), which ranks the twelve most efficient things the world can do for its poorest people, from tuberculosis and schooling to land titles and trade. That book deserves its own review, and it will get one another day.
+
+This one is the more eye-opening of the two, for far more readers. It is the most clarifying book on climate policy I have read, because it answers the question behind the later book: why does the money for those twelve things keep disappearing?
+
+Lomborg’s answer is fear. Fear sells newspapers, wins research grants, raises donations and elects saviours. Fear also sends a bill, and the poor pay it. That is why I cannot name a single poor or developing country that can afford to skip this book. If copies ran short, I would start with every desk in India where environmental rules are written.
+
+Here is the thesis of this review in three lines. Climate change is real. The panic is illusory. And the people who pay for the panic live in places like Bihar and Bangladesh, not in Brussels.
+
+**Who Is Lomborg, And Is He A Climate Denier?**
+
+He is not, though his critics often call him one. At the very start, Lomborg says that global warming is real, that it is mostly caused by humans burning coal, oil and gas, and that we need to deal with it. He objects to the exaggeration, and to the costly, badly chosen policies it produces.
+
+Lomborg heads the Copenhagen Consensus Center, a think tank that works with leading economists, Nobel winners among them. Its question is simple: which fixes for the world’s problems do the most good per dollar? He brings the same question to climate change.
+
+His best line is a comparison. Climate change, he says, is not a giant asteroid heading for Earth, where you would drop everything. It is more like diabetes: a long-term condition that needs steady attention while you get on with life.
+
+The late Bibek ‘da’ Debroy, who chaired the Prime Minister’s Economic Advisory Council, called the book “a must-read”. I agree.
+
+**How The Alarms Are Manufactured**
+
+Lomborg starts with incentives, because that is where any honest account must start. Catastrophe earns clicks for the media and donations for campaigners. It wins attention and funding for researchers. It lets politicians promise salvation. Nobody, as he points out, is paid to report that life in 2100 will be recognisable, only richer.
+
+He names the merchants: David Wallace-Wells, whose bestseller _The Uninhabitable Earth_ opens with “It is worse, much worse, than you think”; Bill McKibben, who rates warming a bigger threat than nuclear war; and _The Guardian_, which told its reporters to write “climate emergency” or “climate crisis” because “climate change” sounded “rather passive and gentle”.
+
+Then he exposes the master trick. In study after study that feeds the headlines, the climate changes but people do not. No one raises a dike, buys an air conditioner or plants a hardier seed. Strip out adaptation and any number will explode.
+
+Take the famous sea-level scare: 18.7 crore people would lose their homes if you assume nobody adapts for eighty years. Allow for the dikes people will obviously build, and the figure drops to about 3,05,000. Coastal floods costing up to $100 trillion a year assume no country raises a single dike; with realistic adaptation, the total falls to 0.008 per cent of GDP. Tuvalu, we are told, will be wiped off the map. Its land area actually grew 2.9 per cent over four decades of rising seas.
+
+If no country raises its sea defences, rising seas flood 18.7 crore people a year by 2100. If countries keep adapting, the figure is about 15,000.
+
+**What Is Really Happening: Fewer Deaths, Not More**
+
+What does the evidence say? The UN’s own climate panel found little sign of a global rise in droughts or floods, and could not confidently link hurricanes to human-caused warming. Disasters cost more mostly because far more people and buildings now sit in harm’s way.
+
+The death toll matters most, and here the trend runs opposite to the news. In the 1920s, floods, droughts, storms, wildfires and extreme temperatures killed nearly 5 lakh people a year. In the 2010s, the toll was under 20,000, even though the world’s population had grown fourfold.
+
+Deaths from climate-
+
+The book’s most striking Indian example is about heat and cold. CNN once ended a month of coverage with the headline “Dozens Dead in One of India’s Longest Heat Waves”. Yet the research Lomborg cites finds that extreme heat kills about 25,000 Indians a year, extreme cold twice as many, and ordinary moderate cold around 5.8 lakh. Heatwaves kill quickly and in plain sight. Cold kills slowly, mostly elderly people in poorly heated homes, and rarely makes the news.
+
+**What Will Climate Change Really Cost?**
+
+Lomborg leans on William Nordhaus, the Yale economist who won the 2018 Nobel for exactly this work. With no new policy, the world warms by about 4°C by 2100 and loses about 3.6 per cent of global GDP. That already includes a 25 per cent cushion Nordhaus adds for damages nobody has managed to model.
+
+Meanwhile the world keeps getting richer. The UN expects the average person in 2100 to be about four and a half times as well off as today. Climate change trims that to about 4.3 times: a real loss, but not the end of civilisation.
+
+He also explains why disaster bills keep climbing even when disasters do not. He calls it the expanding bull’s-eye. Florida’s coastal population is 67 times what it was in 1900, so the same hurricane now flattens far more homes, and far costlier ones. Measured against the size of the world economy, weather-disaster losses actually fell, from 0.26 per cent of GDP in 1990 to 0.18 per cent in 2019.
+
+Then comes a chapter that should be required reading in every ministry in New Delhi. The UN’s climate panel uses five broad scenarios for this century, and all five leave the world richer than today. In the green scenario, average income in 2100 is about $1,03,000 a year after subtracting climate damages. In the fossil-fuelled scenario it is about $1,72,000, also after damages.
+
+Choosing the green path, on Lomborg’s numbers, costs every person on Earth about $69,000 a year by the end of the century. Because poorer people die younger, it also means roughly 30 lakh more deaths a year.
+
+All five UN scenarios leave the world richer in 2100. The fossil-fuelled path makes the average person 10.4 times richer, the green path 6 times.
+
+Critics reply that the fossil-fuelled path is richer because of its investment in people and technology, not its fuel. Lomborg agrees, which only strengthens his point: the future depends far more on schools, hospitals and innovation than on the thermometer.
+
+**Feel-Good Steps That Do Little**
+
+The third section of the book is a demolition, and I confess I enjoyed it enormously.
+
+Start with personal virtue. Sir David Attenborough once promised to unplug his phone charger. Done faithfully for a year, that saves about three kilograms of carbon dioxide, which could be bought on America’s north-eastern carbon market for under two cents. A $10,000 subsidy for an electric car buys emission cuts worth $48. The BBC’s “Ethical Man” spent a year cutting his family’s carbon footprint, then celebrated with a family trip to South America that wiped out the savings. And my favourite: ground every passenger flight on Earth from now until 2100, and the warming due by the end of the century arrives less than a year late.
+
+Governments do the same thing at scale. When Lomborg wrote, in 2020, solar and wind together supplied about 1 per cent of the world’s energy. Germany has spent $36 billion a year on its Energiewende, yet since 2010 the fossil share of its energy has slipped by one point, from 80 per cent to 79.
+
+Then there is Paris. Lomborg prices the agreement at $1 trillion to $2 trillion a year by 2030, the most expensive treaty in history. If every promise to 2030 were kept, warming by 2100 would fall by about 0.03°C. Each dollar spent buys just 11 cents of benefit. New Zealand’s net-zero law could cost at least 16 per cent of its GDP by 2050, more than its entire government spends today, to postpone the warming due on 1 January 2100 by about three weeks.
+
+The Paris promises cut 6,400 crore tonnes of CO₂ by 2030, against 5.34 lakh crore tonnes needed to stay under 2°C.
+
+Underneath all this is one brutal sum. If the entire rich world had stopped emitting in 2020 and never emitted again, the planet would be only about 0.4°C cooler in 2100. Three-quarters of this century’s emissions will come from outside the rich world, above all from China, India, Africa and Latin America. They will cut when clean energy is cheaper than coal, and not a day before.
+
+If every rich country had stopped emitting in 2020, warming in 2100 would be 3.7°C instead of 4.1°C.
+
+**Where A Dollar Does The Most Good**
+
+This is the heart of the book. Lomborg’s test for any policy is its return on investment: for every dollar spent, how much good comes back? His think tank had some fifty teams of economists work this out across the world’s biggest problems. The answers fit on one page, and that page belongs on the wall of every finance ministry.
+
+Freer trade returns $2,011 for every dollar spent; the Paris Agreement returns 11 cents.
+
+A dollar spent on contraception, tuberculosis or child nutrition does $43 to $120 worth of good. Green energy research, the climate policy Lomborg backs most, returns $11. A dollar spent doubling renewable energy returns 80 cents, and a dollar spent on the Paris Agreement just 11 cents. Money is limited. Spending it where it returns least is not virtue. It is waste, and the poor bear most of it.
+
+**Who Ends Up Paying?**
+
+The last chapter of that section is the one Indian readers should read twice. Its argument, in a sentence, is that climate policy as practised works as a tax on the poor.
+
+When the UN asked nearly one crore people around the world to pick their priorities from a list of sixteen, education, health and jobs came top. Action on climate change came last.
+
+Asked to choose from 16 priorities, 97 lakh people put education first and action on climate change last.
+
+Yet by the late 2010s, about a quarter of every aid dollar was going to climate-
+
+Lomborg’s best example is ours. In 2014 Greenpeace built a solar micro-grid for Dharnai, a village in Bihar’s Jehanabad district, and declared that “Dharnai refused to give into the trap of the fossil fuel industry”. On the first day the batteries drained within hours. The panels could light a lamp but could not run a stove, so families kept cooking on wood and dung. When the chief minister arrived to meet the grateful villagers, they greeted him with placards demanding “real electricity”. Within a week Dharnai was connected to the grid, and it now pays a third of the price.
+
+Across the border, a study Lomborg cites found that new coal plants in Bangladesh would cause about $592 million of global climate damage and deliver $258 billion of benefits. When Al Gore tut-tutted about those plants at Davos, Sheikh Hasina replied: “If you cannot develop the economic conditions of your people, then how will you save our people?”
+
+The hunger arithmetic is worse. By 2050, warming may put 2.4 crore more people at risk of hunger. Aggressive climate policy, by pushing up energy and food prices, would put 7.8 crore there. This has happened before. The rich world’s biofuel mandates helped drive the 2008 food-price spike, which the head of the UN’s World Food Programme called a “silent tsunami” that pushed 10 crore people into poverty.
+
+**India's Own Story: From Stockholm To 1986**
+
+Lomborg describes rich countries imposing their priorities on poor ones through aid. India’s story runs deeper. We imposed those priorities on ourselves, by statute, half a century ago.
+
+The modern sustainability debate was born in rich capitals, and the rich have expected everyone else to follow its script ever since. In 1972 the Club of Rome put out _The Limits to Growth_, and the United Nations held its first environment conference in Stockholm. Indira Gandhi was the only head of government, apart from Sweden’s own, to attend and speak. She asked the question this book spends every chapter answering: “Are not poverty and need the greatest polluters?”
+
+Then India went home and wrote Stockholm into law. The Water Act came in 1974. The 42nd Amendment put environmental protection into the Directive Principles in 1976. The Forest (Conservation) Act followed in 1980 and the Air Act in 1981, its preamble citing Stockholm.
+
+After Bhopal, Parliament passed the Environment (Protection) Act of 1986 under Article 253, the Constitution’s power to give effect to international agreements and conference decisions. The Act’s preamble says so openly: it exists to implement the decisions taken at Stockholm. Bhopal gave the law its urgency. Stockholm gave it its template. In 1994 a notification under the Act made prior environmental clearance compulsory for whole categories of industry, and the 2006 notification widened the net.
+
+The trouble is that the model was built by rich countries, for rich countries, and then handed to poor ones.
+
+**How Rich Each Country Was When It Passed Its Main Environmental Law**
+
+India passed its Environment (Protection) Act when income per person was $460. America, Sweden and Japan passed theirs at between $11,600 and $25,200.
+
+America, Sweden and Japan wrote their rules after their people had grown well off. India took on the same kind of rules when the average Indian earned less than a fiftieth of what the average American had earned in 1970.
+
+Even today, after four decades of growth, the average Indian earns about a tenth of that 1970 figure. The result, in my view, was a permit system built for countries that had already industrialised, placed on one that had barely begun.
+
+Manufacturing’s share of India’s GDP fell from 16.2 per cent in 1986 to 13.5 per cent in 2025, while services rose to nearly half the economy.
+
+In 1986 manufacturing made up 16.2 per cent of India’s GDP. In 2025 it made up 13.5 per cent. Services rose from 37 per cent to nearly half the economy by 2020. Bangladesh, which had the smaller manufacturing share in 1986, now stands at 22 per cent. China and Vietnam sit near 25 per cent.
+
+Correlation is not proof. Rigid labour law, costly land and unreliable power share the blame, and the 1991 reforms helped services far more than factories. But the clearance regime is among the biggest reasons a factory in India takes years to begin. POSCO signed up for a $12 billion steel plant in Odisha in 2005 and walked away in 2017 without breaking ground. Navi Mumbai’s airport was proposed in 1997, received environmental clearance in 2010 and opened in 2025, 28 years later.
+
+A software park needs a lease and a fibre line. A steel plant needs clearances that can outlive a government. India became very good at software.
+
+Every few years, from Stockholm to Rio, Kyoto and Paris, a summit writes rules sized for rich economies and expects poor ones to wear them. Lomborg prices what that costs the world. India’s factory floor shows what it cost us.
+
+**What Lomborg Says We Should Do Instead**
+
+For all his criticism, Lomborg does not say “do nothing”. He proposes five things.
+
+**1\. A modest carbon tax** that rises slowly. In Nordhaus’s model it costs about 0.4 per cent of world GDP and buys about 0.8 per cent in avoided damage. Worth doing, but no miracle. Push the tax to panic levels and the cost runs far past the damage it averts.
+
+**2\. Green innovation:** $100 billion a year for research into storage, nuclear power, carbon capture and fuels nobody has invented yet. Each dollar avoids about $11 of climate damage. Rich countries promised in 2015 to double clean-energy research, and spending barely moved. He is blunt about nuclear power as well. It kills about two thousand times fewer people than coal, yet it became ruinously expensive in the West because designs kept changing and rules kept multiplying. Standardise, and costs fall. As India opens nuclear power to private players, that lesson is worth more than any slogan.
+
+**3\. Adaptation:** cheap, local and fast. Bangladesh cut cyclone deaths from about 15,000 a year to a dozen with early warnings and shelters. Ahmedabad drew up a heat action plan after the 2010 heatwave killed more than 1,300 people, and cities across India copied it.
+
+**4\. Research** into geoengineering as an emergency brake. One study suggests a fleet of cloud-brightening boats costing about $9 billion could offset this century’s warming. Lomborg wants it studied, not deployed.
+
+**5\. Prosperity** itself. On the high-growth path, Bangladesh becomes richer than today’s Netherlands by the late 2060s, rich enough to build Dutch-grade defences against the sea.
+
+From here _False Alarm_ leads into _Best Things First_. Ask what each dollar returns, and climate becomes one problem among many, rarely the one where money does the most good.
+
+**What Has Changed Since The Book Came Out**
+
+The book went to press in early 2020, with an epilogue added in 2021. Six years later, much of it reads like a forecast that came true.
+
+The epilogue warned that voters would not keep paying for promises with no visible return. Washington has since walked out of the Paris Agreement a second time.
+
+The rich world has also found new ways to export its priorities. Since 1 January 2026 the European Union’s carbon border tax has applied to Indian steel and aluminium, pricing the carbon embedded in them. The Global Trade Research Initiative reckons exporters may have to cut prices by 15 to 22 per cent to stay in the market. Stockholm wrote our rules. Brussels now sends invoices.
+
+India, meanwhile, has proved Lomborg’s central point about innovation. In 2025 non-fossil sources crossed half of India’s installed power capacity, five years ahead of target. That happened because solar became cheap, not because anyone was shamed. Coal still generates most of India’s electricity, because sunshine still needs storage, which is precisely the problem Lomborg wants research money aimed at.
+
+The book is dense with numbers but never heavy. Lomborg writes like a patient accountant walking you through a ledger, and the endnotes will keep a sceptic busy for weeks. Those who have made apocalypse their identity will hate this book. Everyone else will finish it feeling, oddly, lighter.
+
+**The Bottom Line**
+
+Go back to the girl with the placard. She will not die of climate change. If the panic wins, she will simply live poorer than she needed to, and so will millions of children in Bihar and Bangladesh whose parents were told to wait for solar lanterns.
+
+Lomborg ends his introduction with a line every climate summit should take to heart: “But first, we need to calm down.”
+
+India never really needed to be told this. Indira Gandhi said much the same in Stockholm in 1972. We just did not write it into our laws.
+
+Next time: _Best Things First_ and the twelve things worth doing first.
+
+Deepesh Gulgulia is a Policy Consultant and a Lawyer.
+
+---
+
+### Delhi Police arrest Hashim Baba gang member in Dabri murder case
+*SECTIONS Delhi Police arrest Hashim Baba gang member · business*
+
+New Delhi: Delhi Police have arrested Shivam, an active member of the Hashim Baba gang, in connection with the murder of a 30-year-old man in the Dabri police station area of southwest Delhi on October 24.
+
+According to Delhi Police, the victim sustained severe injuries after being stabbed and was taken to Deen Dayal Upadhyay Hospital, where he was declared dead.
+
+Police said the accused has been arrested. Further details regarding the arrest and the investigation are awaited.
+
+  
+
+In a separate incident, a woman was stabbed to death while attempting to save her son from an assault in the Najafgarh area, police said.
+
+The deceased, identified as Seema Rishi, succumbed to her injuries on October 17 after being hospitalised following a late-night attack on October 15. The alleged accused has been identified as Satish Lamba (30).
+
+The victim's husband, Kamal Rishi, said, "There were three people, and they attacked us with a knife. When someone told us, my wife left first, then I left. As soon as we arrived, I was attacked first, and then my wife was attacked. We had actually gone there just to calm things down. First, we took my wife to a government centre, and then they referred her to Deen Dayal Hospital."
+
+The victim's son, Dhruv Rishi, detailed the incident, saying that three men on a motorcycle blocked the path while he was returning home with his friends. The altercation escalated, involving verbal abuse and a fight. Dhruv added that one of his friends called his mother from home, but by the time she came, he had escaped the situation. He further alleged that the men attacked both his parents.
+
+"I was returning home with some friends. Three men on a motorcycle blocked the path. An altercation broke out, involving verbal abuse and a fight. They started beating me, and my friends fled the scene. One of my friends then went to my house and told my mother about the fight. My mother left the house to go there, but by that time, I had already managed to escape. The men who were attacking me attacked my mother and my father with a knife. We live in the same neighbourhood, so I know one of them; he is a neighbour, but I don't know the others," he said.
+
+---
+
+### 'He was crying and grabbing the doctor's hands to stop him': US organ donation group faces decertification after Kentucky man’s near-fatal ordeal
+*TOI World Desk · politics*
+
+“My brother grabbed the doctor’s hand as he tried to harvest his organs…” Donna Rhorer’s account of what happened to her brother, Anthony Thomas “TJ” Hoover II, has become central to a case raising serious questions about patient safety and oversight in the US organ donation system.
+
+Hoover, who was taken for organ donation after a drug overdose in Kentucky in October 2021, showed signs of life as preparations for organ retrieval progressed. Nearly five years later, the case has drawn renewed scrutiny after US authorities moved to decertify Network for Hope, the organisation responsible for coordinating organ donations in the region.The US Department of Health and Human Services (HHS) announced on August 5, 2026, that it had begun the process of decertifying Network for Hope following federal reviews that identified concerning patient-safety practices in multiple cases involving potential organ donors.
+
+Rhorer described her experience in testimony at the Kentucky Attorney General’s office, recounting how her family had been told that Hoover had no reflexes or brain activity and would not recover.
+
+They agreed to withdraw life support and honour his wishes to become an organ donor. However, she said, his behaviour during the subsequent preparations raised questions about whether he was still alive.“I was there, I saw what happened to my brother. They prepared to recover his organs while he was still alive.
+
+During that honour walk his eyes were open, he was tracking me and they told me it was just reflex,” Rhorer testified.“And then during the heart cath, he was thrashing, crying and grabbing the doctor's hands to stop him. Even after those signs the organ procurement continued until the physician refused to proceed.”Rhorer also alleged that a coordinator contacted the organisation’s home office after the doctor refused to continue, only to be told to find another surgeon or risk losing her job.
+
+“One of the organisation’s own coordinators called the home office after the doctor refused, she was told, ‘find another surgeon or you'll lose your job because we're finishing this case. My brother almost died that day, that should never happen to anyone.
+
+Laws and standards were clearly violated, those responsible must be held accountable,” she said.When the procedure was stopped, Rhorer said, the family was told to take Hoover home and make him comfortable because he was not expected to survive much longer.“Well, it's been five years, and he's still here. I'm grateful every day for that but he is not the same, he has nightmares, he struggles remembering things and he asked me 'sis, why do they wanna kill me?' I don't have an answer for him,” she said.
+
+## Procedure stopped, but questions remained
+
+Hoover’s case came to wider public attention in October 2024, when NPR reported accounts from witnesses who said he had shown signs of life during preparations for organ recovery.
+
+The Guardian also reported on the incident, including the concerns raised by former employees of the Kentucky Organ Donor Affiliates (KODA), the organisation now known as Network for Hope.Former KODA employee Nyckoletta Martin and organ-preservationist Natasha Miller raised concerns about Hoover’s condition. Miller, whose work involved preserving organs after removal, reportedly witnessed Hoover thrashing and crying on the operating table.
+
+Other accounts described him moving his head and pulling his knees towards his chest.The organ retrieval was ultimately stopped after a physician refused to proceed. Rhorer said the family was not initially given a full explanation of what had happened. She later learned more about the incident after a former KODA employee contacted her in January 2024.Hoover survived, but his family has described lasting difficulties with memory and other aspects of his daily life.
+
+Rhorer’s account has since become part of a wider debate over the responsibilities of organ procurement organisations (OPOs), which coordinate donations between hospitals, potential donors and transplant centres.
+
+## Federal investigation identifies wider concerns
+
+The controversy intensified after federal authorities examined hundreds of cases handled by Network for Hope. In its August 5, 2026 announcement, HHS said the Health Resources and Services Administration had reviewed 351 cases between 2021 and 2024 in which organ donation had been authorised but ultimately did not proceed.Of those cases, 103 had concerning features, according to the department. It said 73 patients displayed neurological signs incompatible with organ donation. The review raised concerns about neurological assessments, communication between medical teams, consent practices and the classification of causes of death, particularly in cases involving drug overdoses.The findings do not mean that organs were removed from all the patients reviewed.
+
+Instead, they point to concerns about the assessments and preparations undertaken before donation could proceed. Organ recovery must follow the applicable medical and legal requirements for determining death.
+
+## US authorities move to decertify Network for Hope
+
+Following the federal review, HHS said Network for Hope had failed to demonstrate sufficient improvement despite earlier corrective measures and monitoring. Authorities therefore began the process of decertifying the organisation, which coordinates organ procurement across Kentucky and parts of Indiana, Ohio and West Virginia.The Centers for Medicare and Medicaid Services issued a notice stating that its Medicare agreement with Network for Hope would be terminated on November 3, 2026, subject to the applicable process. The organisation’s donation service area is expected to be transferred through a process that depends on the outcome of any appeal or the organisation’s decision not to appeal.Network for Hope has disputed aspects of the allegations and maintained that organ procurement organisations do not provide patient care or independently declare death.
+
+The organisation has also said that organ recovery can proceed only after an independent healthcare provider has declared a patient dead.The regulatory action has placed renewed focus on how hospitals and organ procurement organisations communicate with families, assess neurological activity and respond when relatives or medical staff raise concerns about a patient’s condition.The United States has more than 100,000 people waiting for organ transplants, making public confidence in the donation system critical.
+
+Experts and transplant advocates have stressed the importance of investigating alleged failures thoroughly while ensuring that individual cases do not discourage people from donating organs that could save lives.For Rhorer, however, the issue remains deeply personal. Her brother survived the procedure that was meant to lead to organ recovery, but she says he continues to live with the consequences of what happened. His case has now become part of a wider examination of patient safety and accountability in the US organ donation system.
+
+---
+
+### Gold rates dropped silver rate today (October 31, 2026): Check 24k, 22k, 20k 18k jewellery prices from IBJA, Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers and Tanishq - The Economic Times
+*Sneha Kulkarni · finance*
+
+Gold jewellery prices decreased significantly (below Rs 13,000 per gram) at key jewellery brands such as Malabar Gold & Diamonds, Joyalukkas and Kalyan Jewellers, while they remained unchanged at Tanishq today (Saturday, October 31, 2026).
+
+Gold and silver prices remain on the radar of buyers as many compare jewellery rates before making a purchase ahead of Dhanteras and Diwali. If you are planning to buy gold or silver today, it is worth checking the latest rates before visiting a jewellery store. Malabar Gold & Diamonds, Joyalukkas and Kalyan Jewellers prices for 22-carat gold jewellery dropped below Rs 13000 today.
+
+Here is a look at the latest rates from these jewellers and IBJA.
+
+## Gold and silver rates today (Saturday, October 31, 2026)
+
+Here is a look at 22k gold jewellery rates from Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers and Joyalukkas across New Delhi, Mumbai, Chennai and Kolkata. Also have a look at the IBJA’s 24k, 22k, 20k, 18k and 14k indicative gold jewellery rates and the 999-purity silver jewellery indicative price today.
+
+## 22k gold rate at Tanishq today
+
+As of October 31, 2026, Tanishq's price of 22k gold jewellery is Rs 13,090 per gram across New Delhi, Mumbai, Chennai, Kolkata, Thiruvananthapuram, Coimbatore and Bengaluru. On October 30, 2026, the same variety of gold at Tanishq was priced at Rs 13,090 per gram.
+
+## 22k gold price at Malabar Gold & Diamonds today
+
+As of October 31, 2026, Malabar Gold & Diamonds' 22k gold jewellery price is Rs 12,730 per gram across New Delhi, Mumbai, Chennai, Kolkata, Thiruvananthapuram, Coimbatore and Bengaluru. On October 30, 2026, the 22k gold rate at the same brand was Rs 13,040 per gram.
+
+## 22k gold rate at Joyalukkas today
+
+As of October 31, 2026, Joyalukkas’ 22k gold jewellery price is Rs 12,730 per gram across New Delhi, Mumbai, Chennai, Kolkata, Thiruvananthapuram, Coimbatore and Bengaluru. On October 30, 2026, the 22k gold rate at the same brand was Rs 13,040 per gram.
+
+## 22k gold rate at Kalyan Jewellers today
+
+As of October 31, 2026, Kalyan Jewellers’ 22k gold jewellery price is 12730 per gram across New Delhi, Mumbai, Chennai, Kolkata, Thiruvananthapuram, Coimbatore and Bengaluru. On October 30, 2026, the 22k gold rate at the same brand was Rs 13,040 per gram.
+
+## The IBJA’s indicative retail selling rates for gold and silver jewellery as of October 31, 2026 (pm rates).
+
+IBJA Gold and Silver Rates – October 30, 2026 (PM)
+
+-   Fine Gold (999): ₹14,005
+-   22 Carat (22 KT): ₹13,669
+-   20 Carat (20 KT): ₹12,464
+-   18 Carat (18 KT): ₹11,344
+-   14 Carat (14 KT): ₹9,033
+-   Silver (999): ₹1,81,344 per kg
+
+---
+
+### INDIA bloc's mock impeachment of CEC Gyanesh Kumar today, top leaders to attend
+*India Today News Desk · general*
+
+## The programme, originally scheduled for Friday, was postponed to Saturday after heavy rain lashed several parts of Delhi. Leader of the Opposition in the Lok Sabha, Rahul Gandhi, confirmed the change and said the event would now be held on Saturday.
+
+INDIA bloc's public impeachment of CEC will take place today (File Photo-PTI)
+
+The INDIA bloc will hold the public impeachment of Chief Election Commissioner Gyanesh Kumar in New Delhi on Saturday, with nearly 21 Opposition parties expected to participate in the exercise. The event is scheduled to take place at the residence of the Leader of the Opposition in the Rajya Sabha, Mallikarjun Kharge, at 3.30 pm.
+
+The programme, originally scheduled for Friday, was postponed to Saturday after heavy rain lashed several parts of Delhi. Leader of the Opposition in the Lok Sabha, Rahul Gandhi, confirmed the change and said the event would now be held on Saturday.
+
+The programme is expected to witness the participation of nearly 21 parties, including major INDIA bloc constituents such as the Congress, Samajwadi Party and Mamata Trinamool Congress. Several Left parties will also take part in the mock impeachment. Apart from political parties, social groups, student organisations and people affected by the Special Intensive Revision (SIR) exercise are also expected to attend.
+
+Former Lok Sabha Speaker Meira Kumar will preside over the event. She served as Speaker during the second United Progressive Alliance (UPA) government, from 2009 to 2014.
+
+### HOW THE MOCK IMPEACHMENT WILL BE CONDUCTED
+
+The event will follow a mock parliamentary format, with Meira Kumar presiding over the proceedings and Congress president Mallikarjun Kharge moving the motion. Leaders from different parties will speak on the motion within their allotted time, with nearly 30 speakers expected to address the gathering.
+
+Rahul Gandhi will deliver the concluding remarks at the event.
+
+Several Opposition leaders met at Kharge's residence last Thursday to finalise the programme. The meeting was attended by Congress leaders Priyanka Gandhi Vadra, Jairam Ramesh, KC Venugopal and Meira Kumar; CPI(M)'s John Brittas; Trinamool Congress MP Derek O'Brien; Samajwadi Party's Harendra Malik; and JMM's Mahua Maji, among others.
+
+The programme was initially planned at the Ashoka Hotel and was later shifted to Ramlila Maidan. However, owing to permission-
+
+The event is part of a broader campaign by the Congress and other Opposition parties seeking Gyanesh Kumar's resignation over the SIR exercise and alleged electoral irregularities. The INDIA bloc has also planned the programme as a curtain-raiser for its November 1 rally at Ramlila Maidan, which will focus on its 'vote chori' allegations.
+
+### AMIT SHAH'S DARE TO RAHUL, AKHILESH AHEAD OF MOCK PARLIAMENT
+
+A day before the INDIA bloc's mock impeachment, Union Home Minister Amit Shah challenged Congress leader Rahul Gandhi and Samajwadi Party chief Akhilesh Yadav to debate the Opposition's allegations of 'vote chori' in Parliament. Shah said the BJP was ready to convene a special session to discuss the issue.
+
+Addressing the BJP's state working committee meeting in Lucknow, Shah took a swipe at the two leaders, comparing their allegations to a cricket team blaming the umpire after losing a match.
+
+"Rahul and Akhilesh Yadav, instead of practising harder after losing a match, start blaming the umpire. I challenge them — the BJP is ready to discuss these allegations in Parliament. Come forward, and let us convene a special session," Shah said.
+
+The Home Minister also questioned whether Rahul Gandhi would accept the challenge, accusing the Congress leader of preferring to create "drama on the streets" rather than taking up the issue in Parliament.
+
+\- Ends
+
+---
+
+### CM Vijay suspends top official, orders major transfers after Tamil Nadu jailbreak
+*Pti · business*
+
+Chennai, Chief Minister C Joseph Vijay on Saturday ordered the suspension of the deputy jail superintendent in charge of Thekkampatti sub-jail for dereliction of duty and also initiated action against the prison personnel for security lapses leading to the major jailbreak on October 26.
+
+In a decisive response to the jailbreak in Theni district, in which 17 prisoners escaped after staging a fake medical emergency and overpowering prison guards but were later recaptured, Chief Minister Vijay has ordered stringent disciplinary actions against prison officials for dereliction of duty and security lapses.
+
+The directives include the immediate suspension of the deputy jail superintendent (in-charge) N Ramalingam until further orders and a strategic reshuffle of top prison administrators across the state.
+
+---
+
+### Column | Why a Kerala lawyer wants to alter Muslim inheritance law for orphan children
+*Unknown · legal*
+
+In the latest Legal Minds column, Sadaf Parvez, who teaches law at Jamia Millia Islamia, examines how orphaned grandchildren’s inheritance rights under Muslim personal law could be protected by an obligatory bequest.
+
+[Read full article](https://indianexpress.com/article/legal-news/kerala-lawyer-changes-muslim-inheritance-law-orphaned-children-10944437/)
+
+
+---
+
 ## 30 October 2026
 
 ### After cyclone Arnab devastation, Congress calls for coordinated relief operations
