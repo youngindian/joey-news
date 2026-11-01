@@ -1,3 +1,334 @@
+## 1 November 2026
+
+### J&K Has Emerged As Model Of Peace, Development & Good Governance: LG Manoj Sinha On UT Foundation Day
+*Manjiri Joshi · general*
+
+Says Article 370 abrogation ended decades of discrimination, empowered ordinary citizens; claims over 780 terrorists eliminated since 2020
+
+[Read full article](https://www.news18.com/india/jk-has-emerged-as-model-of-peace-development-good-governance-lg-manoj-sinha-on-ut-foundation-day-ws-klrt-10407335.html)
+
+---
+
+### KTR Targets Rahul Gandhi: BRS Leader Launches Sharp Attack Amid Political Row | India Bloc Rally
+*News Desk · general*
+
+BRS Working President KTR has launched a fierce attack on Rahul Gandhi and Rewant Reddy, accusing them of hypocrisy over vote chori. As the INDIA BLOC gears up for a major protest in Delhi, KTR's comments highlight the ongoing political tensions in Telangana. KTR's remarks have added another flashpo...
+
+[Read full article](https://www.news18.com/videos/india/ktr-targets-rahul-gandhi-brs-leader-launches-sharp-attack-amid-political-row-india-bloc-rally-10407353.html)
+
+---
+
+### KTR Targets Rahul Gandhi: BRS Leader Launches Sharp Attack Amid Political Row | India Bloc Rally
+*News Desk · general*
+
+BRS Working President KTR has launched a fierce attack on Rahul Gandhi and Rewant Reddy, accusing them of hypocrisy over vote chori. As the INDIA BLOC gears up for a major protest in Delhi, KTR's comments highlight the ongoing political tensions in Telangana. KTR's remarks have added another flashpo...
+
+[Read full article](https://www.news18.com/videos/india/ktr-targets-rahul-gandhi-brs-leader-launches-sharp-attack-amid-political-row-india-bloc-rally-10407354.html)
+
+---
+
+### Honey Singh’s nephew among 2 killed as car crashes into parked tractor in Punjab
+*India Today News Desk · general*
+
+A road accident in Punjab's Jalandhar claimed the lives of two friends returning home from a birthday party in the early hours of Sunday. One of the deceased, Vidit Olak, was the nephew of singer Yo Yo Honey Singh and the son of Dinesh, owner of Punjabi music company Speed Records.
+
+The other victim was identified as Aarav Talwar, son of the owner of Pappy Sweets.
+
+The accident took place on a flyover near the Police Lines area, where their Volkswagen car rammed into a Municipal Corporation tractor-trolley parked on the road. The two were returning from a friend's birthday party when the crash occurred.
+
+Honey Singh also shared an Instagram Story following the incident.
+
+### CAR RAMMED INTO TRACTOR-TROLLEY DURING CLEANING WORK
+
+Baradari police station SHO Sahil Chaudhary said the police received information about the accident at around 3 am.
+
+According to him, Municipal Corporation sanitation workers were cleaning the flyover at the time and had parked the tractor-trolley there to collect garbage. The car was travelling from BMC Chowk towards BSF Chowk when it rammed into the stationary vehicle.
+
+### FIVE PEOPLE WERE TRAVELLING IN THE CAR
+
+Five people were in the Volkswagen car before accident. While Vidit Olak and Aarav Talwar died, the other three occupants had already returned home, the SHO said.
+
+Police reached the spot after receiving information and took the bodies into their custody. The families declined further legal action, following which the bodies were handed over to them.
+
+Old picture of Vidit Olak, son of Speed Records owner Dinesh Olak and nephew of singer Yo Yo Honey Singh.
+
+\- Ends
+
+(With inputs from Davinder Kumar)
+
+---
+
+### Pink rock found in Sahara turns out to be 4.1-billion-year-old Martian meteorite, reveals clues to ancient Mars
+*Trending Desk · business*
+
+A seemingly ordinary rose-coloured rock recovered from the Sahara Desert has given scientists a rare glimpse into Mars' earliest geological history, after analysis revealed that it originated on the Red Planet more than 4.1 billion years ago. The 800-gram specimen, named Teghaza 001, contains mineral evidence of ancient volcanic processes and changes caused by water, offering researchers clues about the conditions that existed on Mars long before it became the cold, largely dry world seen today.
+
+The meteorite was discovered in 2022 near the Teghaza salt plain in Mali, but its age and unusual geological features became clear only after detailed laboratory examination. A NASA-funded study published in the journal Science on October 29, 2026, identified it as one of the three oldest Martian meteorites recovered on Earth. It is also among roughly 435 meteorites from Mars identified so far.
+
+The findings are significant because Teghaza 001 preserves a sample of ancient Martian crust that could help scientists reconstruct how the planet formed, how its interior evolved and how water interacted with its rocks billions of years ago.
+
+  
+  
+
+## How scientists identified the Sahara rock as a Martian meteorite
+
+The specimen did not initially reveal its extraordinary history simply from its appearance. Researchers at the University of New Mexico first established its Martian origin by analysing oxygen isotopes, which act as chemical signatures that help distinguish material from different planetary bodies.
+
+Although the rock appeared to belong to the shergottite class, a commonly found category of Martian meteorites, its internal structure and mineral composition stood out. Planetary scientist Yang Liu of NASA's Jet Propulsion Laboratory (JPL) took a closer look at the sample and identified unusual features that warranted further investigation.
+
+The examination revealed a combination of igneous minerals, formed when molten material cools and solidifies, along with zircon crystals that preserve information about a rock's geological history. Unlike several other ancient Martian specimens that contain a mixture of different rock materials, Teghaza 001 represents a distinct type of rock, making it particularly valuable for studying the planet's early crust.
+
+  
+
+## What Teghaza 001 reveals about Mars' age and ancient water
+
+Zircon crystals played an important role in establishing the meteorite's antiquity because they can retain clues about the timing and conditions of rock formation. Researchers used high-precision mineral dating techniques, including an in-situ rubidium-strontium method developed with contributions from scientists at the California Institute of Technology.
+
+The technique allowed the team to examine individual mineral grains using a fragment smaller than a fingernail, rather than dissolving a much larger portion of the rare specimen for analysis. This helped preserve most of the meteorite for future scientific work. The University of New Mexico's account of the research also describes uranium-lead analysis of the zircon crystals as part of the age determination.
+
+The results indicate that Teghaza 001 formed more than 4.1 billion years ago and underwent changes linked to Martian water around that period. The water-
+
+A separate study published in Science Advances in June 2026 examined hydrogen and water signatures preserved in the meteorite's minerals. That research found evidence of an ancient Martian water reservoir and interactions between migrating magma and water-altered crust. The results also support the view that Mars lost hydrogen from its early atmosphere over time, contributing to the planet's gradual drying.
+
+## Where on Mars did the ancient meteorite originate?
+
+Despite establishing the rock's planetary origin and age, scientists have not been able to pinpoint the exact location from which it was ejected. By comparing Teghaza 001's chemical and mineral characteristics with observations collected by NASA's Mars Reconnaissance Orbiter, researchers identified 13 possible locations that could match the specimen.
+
+Several of these candidate areas are situated in the Red Planet's ancient southern highlands, a region marked by extensive cratering. However, the available evidence is not sufficient to establish a specific birthplace for the meteorite.
+
+Like other Martian meteorites found on Earth, Teghaza 001 is believed to have been launched into space when a powerful impact struck the planet's surface. The resulting fragments travelled through space before eventually reaching Earth. The precise impact that sent this particular rock on its journey has not been identified.
+
+Its possible origin is of interest beyond reconstructing the meteorite's journey. Identifying the geological region it represents could help scientists decide where future Mars landers, rovers or sample-return missions should investigate, particularly because the specimen may represent crust from an area not previously sampled through meteorites.
+
+## Why the 4.1-billion-year-old Mars discovery matters
+
+Teghaza 001 offers researchers an unusually old and relatively distinct sample of Martian rock. Its record of volcanic formation and later interaction with water provides evidence about a period when the planet's geological and environmental conditions differed significantly from those prevailing today.
+
+The discovery does not establish that life existed on Mars. However, evidence of ancient water and a more active early environment gives scientists additional material for investigating whether parts of the planet once had conditions that could have supported life.
+
+Researchers expect further examination of the meteorite to provide more information about the evolution of Mars' crust, the movement of water through its interior and surface, and the changes that eventually transformed the planet into the arid world observed today
+
+---
+
+### Fuel, forex and farmers: Why India is betting big on maize
+*SECTIONS Fuel · business*
+
+In 2021–22, India exported 3.7 million tonnes of maize. Just three years later, exports had fallen to nearly half, despite a significant increase in production. The reason? A grain once primarily grown to feed poultry had increasingly found a new destination—as fuel. Maize now sits where energy security, farm income and import substitution meet, and planners increasingly describe it as an economy to be built rather than a crop to be grown. The base is already large. India produced about 55.1 million tonnes (Mt) of maize in 2025-26, up from 23.67 Mt in 2014-15 which makes it the sixth-largest producer with about 4.1% of world output. The crop is 14.6% of foodgrain production and supports about seven million farmers across 27 states.
+
+**_The ethanol effect_**
+
+What changed the market is ethanol. Maize diverted to fuel rose from 0.83 Mt in 2022-23 to 7.54 Mt in 2023-24 and 13.1 Mt in 2024-25, and ethanol now takes about a quarter of the roughly 50 Mt of grain India consumes, against almost nothing in 2021-22. Poultry feed still leads at 44%, ahead of starch at 14% and livestock feed at 10%.
+
+  
+
+Calculations show that maize ethanol saved about US$3.7 billion (about Rs 31,600 crore) in foreign exchange between 2022-23 and 2024-25 and displaced around 5.7 Mt of crude oil. The maize behind it was worth about Rs 46,500 crore to growers at minimum support prices. Grain-based distillery capacity has now overtaken molasses-based capacity. The arithmetic has limits. The savings are back-calculated and are gross: the 2024-25 saving of about US$2.2 billion was only 1.6% of the crude import bill.
+
+**_The arithmetic_**
+
+Here optimism meets a shortfall. Imports were about 0.9 Mt in 2024-25. If E20 blending holds without diverting sugar, ethanol alone will need 15-18 Mt of maize by 2026-27, and a move to E27 or E30 around 2030 would lift that to 18-25 Mt. Feed adds steadier demand. Poultry is growing at about 8% a year, adding roughly 1.5 Mt to annual maize demand. Dairy is growing at about 6%, and starch and derivatives are expanding at about 10% a year to 2030. Sustainable aviation fuel (SAF), biogas and bioplastics are small today but growing fast, with SAF demand projected at about 158 kilotonnes by 2030. Together, demand points to 64-72 Mt by 2030 and 97-110 Mt by 2047, against a 2047 production target of only 86 Mt.
+
+**_Where the tonnes will come from_**
+
+It is argued that the yield gap is a kharif, rainfed and management problem, not a national ceiling. India averaged 3.82 tonnes per hectare (t/ha) in 2025-26, against 5.7 t/ha worldwide and 10.9 t/ha in the US. But rabi maize already yields 5.74 t/ha, and West Bengal (7.0 t/ha), Telangana (5.9 t/ha), Bihar (5.7 t/ha) and Tamil Nadu (5.5 t/ha) are at or above the world average.
+
+Single-cross hybrids cover 55-60% of the area and deliver about 5 t/ha against a national 3.5 t/ha. With about 14.4 million hectares under the crop, every extra tonne per hectare adds roughly 14 Mt. Management matters as much as seed. Across 8,434 farmer fields, zero-till planters delivered a median 8.25 t/ha against 4.5 t/ha for broadcasting. In eastern India, demonstrations by ICAR’s Indian Institute of Maize Research (ICAR-IIMR) showed maize out-yielding paddy: 9.8 t/ha against 4.5 t/ha in West Bengal.
+
+ICAR’s 2030 plan lifts kharif yields from 2.9 to 4.0 t/ha, rabi yields from 5.3 t/ha to 6.5 t/ha and adds 2-3 million hectares in rice fallows. That could take output to about 70 Mt from 55.09 Mt in 2025-26, which is the steepest sustained rise in the historical series. Water is the caution. Expansion must not repeat the rice-wheat system’s water trajectory, and drip fertigation with mulch can deliver 20% or more in extra output while saving up to 40% of water, alongside zero tillage, residue retention and legume intercropping.
+
+**Breeding for the buyer**
+
+The science is shifting from volume to end-use quality. Distilleries want fermentable starch, and ICAR-IIMR is targeting 64-65%; waxy maize converts at 93% against 88% for normal maize. Feed mills buy on moisture (12-14%), aflatoxin and broken-grain limits. Breeders are being asked to start with the end-user and work backwards to the trait. Genome editing for waxy and high-amylose starch, low-lignin stover and heat tolerance is on the agenda; the focus on genome edited crops has already produced two edited rice varieties in 2025.
+
+**The chain is only as strong as its weakest link**
+
+The harder problem is delivery rather than science. A farmer can grow a perfect crop, but if drying capacity is inadequate or no distillery or feed mill offers a reliable contract, the incentive collapses. Yield gains stick only when the surrounding ecosystem is built to hold them. Assam built one in under two years, and West Bengal did too: yields rose 38% and maize area doubled.
+
+The delivery chain ICAR proposes to begin with the market assurances to start with, moves to seed supply and farmer producer organisations growing to contract with custom-hired planters and dryers, and ends in forward contracts with distilleries and feed mills. ICAR is also pressing for higher research and development, from both the government and private sector, and for incentives and carbon credits for farmers who shift from rice to maize.
+
+**The bottom line**
+
+For investors and policymakers, the maize story has three layers. Demand is policy-anchored through ethanol blending and structurally supported by poultry, dairy and starch growth. The supply response is technically feasible but needs coordinated spending on seed, mechanisation and procurement. And ethanol’s economics rest on energy-security and farm-income logic rather than cost parity with petrol.
+
+India’s maize planners have set themselves a demanding test: add roughly 15 Mt by 2030 and keep climbing towards 100 Mt by 2047, without letting imports fill the gap or letting maize become another water-hungry crop. The system, with an agro food value chain can deliver but the procurement, seed supply and farm-gate prices can keep pace is the open question.
+
+_The author is Secretary, Department of Agricultural Research & Education (DARE), Government of India & Director General, ICAR, Views expressed are personal._
+
+(Disclaimer: The opinions expressed in this column are that of the writer. The facts and opinions expressed here do not reflect the views of www.economictimes.com.)
+
+---
+
+### A stranger, a phone call and an exit: Japan's unusual resignation business
+*India Today Education Desk · general*
+
+## In Japan, even quitting a job can require professional help. Resignation agencies are giving workers a way out of difficult workplaces, uncomfortable conversations and demanding bosses, revealing a deeper shift in how employees view work, loyalty and personal boundaries.
+
+In Japan, you can hire someone to quit your job for you. Here's how it works (AI-generated image)
+
+New Delhi,Nov 1, 2026 11:30 IST
+
+Imagine waking up on a Monday morning, deciding you have had enough of your job, and wanting to resign. There is just one problem: you cannot bring yourself to tell your boss. What if someone else could make that awkward phone call for you?
+
+In Japan, this is no workplace fantasy. Resignation agencies, known locally as **_Taishoku Daiko_**, allow employees to hire professionals to inform their employers that they are quitting. What began as a solution to uncomfortable workplace conversations has grown into an unusual service industry, offering workers a way out without having to face their bosses.
+
+### THE PEOPLE WHO TELL YOUR BOSS YOU'RE LEAVING
+
+### The idea is fairly simple. Instead of approaching their manager or sending an uncomfortable resignation email, employees contact an agency, pay a fee and let its representatives communicate their decision to the employer.
+
+According to _The Washington Post_, one of Japan's best-known resignation agencies, Momuri, handles around 2,500 cases every month, compared with approximately 200 when it started in 2022. Its name roughly translates to 'I can't take it anymore'.
+
+The agency contacts the employer, informs the company about the employee's decision, and helps coordinate practical details, such as returning office equipment. This allows workers to avoid a potentially stressful conversation with their managers.
+
+In other words, employees can outsource the part of quitting that they find most difficult: telling their bosses they are leaving.
+
+In Japan, you can hire someone to quit your job for you. Here's how it works (AI-generated image)
+
+### WHEN QUITTING ISN'T EASY
+
+It is not always about avoiding an awkward goodbye. For some employees, resigning can involve workplace bullying, harassment, excessive working hours or managers who refuse to accept their decision to leave.
+
+As reported by _The Guardian_ in October 2024, one young Japanese worker turned to Momuri after experiencing intimidation, forced overtime and workplace harassment. The report also highlighted cases in which employers made resignation difficult or tried to prevent employees from leaving.
+
+The problem appears to go beyond individual experiences.
+
+A December 2025 report by _Nippon.com_, citing a Mynavi survey of 800 respondents, found that 40.7 per cent of those surveyed who had used resignation agencies said their employers had tried, or would have tried, to stop them from resigning. Another 32.4 per cent said they did not feel they could comfortably communicate their decision to quit.
+
+For these workers, a resignation agency is not simply a convenient alternative to an uncomfortable conversation. It can offer a way to leave a workplace where saying 'I quit' is not always easy.
+
+### AN EASIER EXIT, BUT AT WHAT COST?
+
+Getting someone else to deliver your resignation does not come free. According to _The Washington Post_, Momuri's services can cost up to 50,000 yen, depending on the circumstances.
+
+For someone who would rather pay than face an uncomfortable confrontation, the price may seem worth considering. The service essentially puts a price on something most employees would expect to do themselves: tell their employer they are leaving.
+
+### THE LEGAL CATCH BEHIND JAPAN'S QUIT-FOR-YOU SERVICES
+
+There is a catch. Resignation agencies cannot simply act as lawyers without the required qualifications.
+
+As reported by _The Washington Post_, ordinary agencies can communicate an employee's intention to resign but cannot independently negotiate legal disputes or matters such as unpaid wages and severance.
+
+Japan's Civil Code also provides employees with a way out. Under Article 627, workers on indefinite-term employment contracts can generally terminate their employment by giving two weeks' notice. This means an employer's refusal to accept a resignation does not automatically prevent it from taking effect.
+
+In simple terms, Taishoku Daiko does not make the decision to quit for an employee. It takes over the uncomfortable task of communicating that decision.
+
+The industry has also faced regulatory scrutiny. According to _Nippon TV News_, the operators of Momuri were arrested in February 2026 over alleged illegal lawyer-referral fees. They denied the allegations.
+
+In Japan, you can hire someone to quit your job for you. Here's how it works (AI-generated image)
+
+### WHAT JAPAN'S RESIGNATION TREND REVEALS ABOUT WORKPLACE CULTURE
+
+Japan's resignation agencies raise a question that extends well beyond the country: why should leaving a job become so difficult that an employee needs professional help to do it?
+
+The trend reflects changing expectations around workplace loyalty, hierarchy and personal boundaries. As younger workers become more willing to change jobs, employers are also being pushed to reconsider how they treat employees who want to leave.
+
+For some, hiring a resignation agency may seem excessive. For others, particularly those dealing with difficult managers or hostile working conditions, it may offer a sense of control over an otherwise stressful experience.
+
+After all, resigning from a job should ideally take one conversation, not an entire support team. But in Japan, an entire industry has emerged around making that conversation disappear.
+
+\- Ends
+
+---
+
+### How a new standard could make it easier for publishers to opt out of AI training
+*Karan Mahadik · legal*
+
+A shared token in a website’s settings could let publishers tell multiple AI companies not to use their content to train AI models.
+
+[Read full article](https://indianexpress.com/article/technology/artificial-intelligence/new-standard-publishers-opt-out-ai-training-10945678/)
+
+---
+
+### Hyderabad MBA Student's Thar Stepney Obsession Ends In Arrest; Police Recover 15 Stolen Wheels
+*Shankhyaneel Sarkar · general*
+
+The footage captured Khan approaching the Thar before retreating to his scooter whenever another vehicle or passerby came into view.
+
+[Read full article](https://www.news18.com/india/hyderabad-mba-students-thar-stepney-obsession-ends-in-arrest-police-recover-15-stolen-wheels-ws-klr-10407321.html)
+
+---
+
+### India Sees Third Warmest October Since 1901, Record-Breaking Day Temperatures Amid Strong El Niño
+*Oindrila Mukherjee · general*
+
+With an average monthly temperature of 26.6°C, nearly 0.94°C above normal, this October was third-warmest on record, surpassed only by 2024 and 1951
+
+[Read full article](https://www.news18.com/india/el-nino-india-october-temperature-winter-months-weather-update-imd-cyclone-arnab-murasu-ws-el-10407299.html)
+
+---
+
+### Apple doesn't want to join the AI race blindly, CEO John Ternus explains why
+*Kazi Nasir · general*
+
+As artificial intelligence becomes the hot topic and headline feature for all major new gadgets, Apple CEO John Ternus seems to be choosing a different path in the AI race. He thinks the technology should do its job without constantly demanding attention.
+
+In an interview with Wired’s Steven Levy, Ternus addressed Apple’s place in the AI race, which has often been questioned after delays to its promised Siri upgrade. Ternus, who took over from Tim Cook on September 1, was not particularly worried about what people think. “Everyone has an opinion—I really like where we’re at,” he said.
+
+He made it clear that AI will remain part of Apple's plans, but the company does not want to add it simply to keep up with rivals. “We’re absolutely going to leverage AI to do that. We don’t want to ship AI for AI’s sake. When we’re doing it right, people won’t have to think about whether it was AI that made this happen or more traditional software. What matters is, did we build something that they really love?”
+
+### Apple’s revamped Siri AI
+
+Apple has already started putting that idea to work. It introduced its revamped Siri AI at its Worldwide Developers Conference in June and began rolling it out in beta on September 14. The assistant is designed to understand personal context, recognise what is on a user’s screen, answer broader questions and carry out more actions across apps. Apple says it uses on-device processing and Private Cloud Compute to handle requests while protecting personal data. Its latest foundation models were developed with Google and draw on Gemini technology.
+
+Now, on the internet, there are so many murmurs around the future of AI and its impact on technology and gadgets. Some suggest AI assistants could eventually take on traditional apps, making them less important. In other words, the idea is that people may in the coming days ask an AI agent to book a cab or order food or edit a photo, rather than open separate apps. The interviewer, Levy put that possibility to Ternus, who was not convinced that apps and products would disappear.
+
+“That could make life really easy, I suppose, but the creation of products is a deeply human and personal thing, something that we love to do,” he said.
+
+It is a distinctly Apple answer. Rather than present AI as a replacement for the products people already use, Ternus wants it to make those products better. That puts pressure on Apple to prove the idea in everyday use. Siri will have to be genuinely helpful, not just sound smarter in a launch video.
+
+\- Ends
+
+---
+
+### IIM Bangalore records 100% summer placements, Google and Microsoft among recruiters
+*India Today Education Desk · general*
+
+## Management consulting dominated IIM Bangalore's 2026–28 summer placements, accounting for 308 offers. All 608 participating students secured offers from 128 organisations, taking the placement record to 100 percent. Technology hiring also doubled, while the median monthly stipend stood at Rs 2 lakh.
+
+IIM Bangalore records 100% summer placements, Google and Microsoft among recruiters
+
+New Delhi,Nov 1, 2026 11:19 IST
+
+The Indian Institute of Management Bangalore (IIM-B) has recorded 100 percent summer placements for its 2026–28 PGP and PGPBA batches, with all 608 participating students receiving offers from 128 organisations. The placement drive saw strong demand for management consulting roles, which accounted for more than half of the total offers.
+
+The institute also disclosed its stipend figures this year, marking a departure from its usual practice. The median monthly stipend stood at Rs 2 lakh, while the average was Rs 1.95 lakh.
+
+Management consulting remained the leading recruitment segment, with companies making 308 offers through 22 firms. Accenture Strategy emerged as the biggest recruiter, extending 123 offers, matching its record from the previous year.
+
+### WHICH SECTORS ATTRACTED THE MOST OFFERS?
+
+Consulting dominated the summer placement season, with Bain & Company, Boston Consulting Group, EY Global Delivery Services, EY-Parthenon and Kearney among the prominent recruiters. Each of Bain, BCG, EY Global Delivery Services and EY-Parthenon made 23 offers, while Kearney extended 19.
+
+Finance, banking and investments formed another important recruitment segment. A total of 74 offers came from 33 organisations, including Goldman Sachs, Deutsche Bank, Ajman Bank, Motilal Oswal and PwC India.
+
+Beyond consulting and finance, product management and technology roles also attracted student interest. The recruitment season saw participation from established global companies, major Indian business groups and leading consumer brands.
+
+### TECHNOLOGY HIRING DOUBLES. WHO WERE THE RECRUITERS?
+
+Technology recruitment also witnessed a notable increase, with hiring reportedly doubling compared with the previous year. Global technology companies, including Microsoft and Google, featured among the recruiters, reflecting continued demand for management graduates in technology-focused roles.
+
+Legacy recruiters, including global fast-moving consumer goods (FMCG) companies and prominent Indian conglomerates, also maintained their presence during the placement process.
+
+Commenting on the outcome, Nishant Kumar Verma, Chairperson of Career Development Services (CDS) at IIM Bangalore, said the results reflected students' aptitude, recruiters' continued confidence in the institute and the strong coordination demonstrated by the placement committee.
+
+### WHAT DOES THE PLACEMENT SEASON INDICATE?
+
+The latest summer placement figures underline the continued demand for IIM Bangalore graduates across consulting, finance, technology and product management. With all participating students securing offers and the median monthly stipend reaching Rs 2 lakh, the institute has reported a strong outcome for its 2026–28 cohorts.
+
+The growing presence of technology recruiters also points to expanding opportunities for management students beyond traditional consulting and finance roles.
+
+\- Ends
+
+---
+
+### LIVE | INDIA Bloc’s ‘chalo dilli’ march: Opposition steps up ‘Vote Chori’ campaign against CEC
+*ET Online · business*
+
+Ramlila Maidan in Delhi gears up for the INDIA Bloc's ‘Chalo Dilli’ march with preparations underway ahead of today's gathering. Posters announcing the INDIA Bloc's ‘Chalo Dilli’ march have been displayed prominently across the Ramlila Maidan venue in New Delhi. Security arrangements are visible at ...
+
+[Read full article](https://economictimes.indiatimes.com/news/politics-and-nation/live-india-blocs-chalo-dilli-march-opposition-steps-up-vote-chori-campaign-against-cec/videoshow/135419065.cms)
+
+
+---
+
 ## 31 October 2026
 
 ### Is Covid still affecting our health? Experts explain its impact on immunity and the heart
