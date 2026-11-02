@@ -1,10 +1,241 @@
 # Editorials
 
-_Last updated: 2026-11-01 07:57 UTC_
+_Last updated: 2026-11-02 08:03 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 2 November 2026
+
+### Dwindling support: On the U.S. and the Cuban embargo
+*The Hindu · Editorial*
+
+Nearly every year since 1992, the United Nations General Assembly has passed a resolution calling on the U.S. to end its decades-old economic embargo on Cuba. As a result, the outcome at the UNGA resolution titled the ‘Necessity of ending the economic, commercial and financial embargo imposed by the United States of America against Cuba’ passed on October 30, was expected. Surprisingly, the support for the resolution this year was dramatically lower than previous years. For the preceding decade, more than 180 countries of the 193-member UNGA had expressed their support for ending the embargo, but the numbers dropped to 165 in favour in 2025; this year’s tally dropped sharply lower, with 130 in favour, 25 abstaining and 17 countries voting against the resolution. The trend clearly points to efforts by the Trump administration to use its pressure on countries to change their votes, and many appear to have succumbed to those threats. Among those were several Latin American countries, that have more recently grown closer to the U.S., particularly after the operation in Venezuela in January 2026, where U.S. marines abducted President Maduro and brought him to the U.S. for a trial. Countries in the region such as Costa Rica, Ecuador, Argentina, and Colombia that have downgraded ties with Havana, switched votes on the resolution. In addition, U.S. diplomats argued that Havana-Moscow ties emboldened Russia’s war in Ukraine, which led to several western countries switching their vote. Diplomats from Ukraine and Poland, for example, referred to Cuba’s ties with Russia while explaining their vote, and Germany and Italy switched for the first time in many years to abstaining on the resolution. While it is clear that the bulk of the Group of 77 and non-aligned states including India maintained their support on the resolution for Cuba, the vote by the others demonstrates a disquieting turn.
+
+Amidst these turns, New Delhi must be credited for standing firm on the issue, opposing the embargo, and calling for “dialogue and diplomacy” in its statement. The vote came a month after the BRICS New Delhi declaration expressed “deep concern” over the tightening of unilateral blockade measures on Cuba, and the “worrying humanitarian impact” on the Cuban people. It is important that India continue to stand up to such unilateral measures and amplify the voice of smaller countries, particularly those in the Global South.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/the-hindu-editorial-dwindling-support-on-the-us-and-the-cuban-embargo/article71654007.ece)
+
+---
+
+### Slow recovery: On the ISRO’s GSLV-F18 mission
+*The Hindu · Editorial*
+
+With the successful launch of the GSLV-F18 mission and the NVS-03 satellite’s healthy status, the Indian Space Research Organisation (ISRO) is on course to heave a sigh of relief. Its last 18 months have been constrained by the consequences of two launch failures involving PSLV rockets, which share some of their design aspects with GSLV, to the extent that the F18 mission was only the second successful launch of 2026. If the NVS-03 satellite is successfully manoeuvred into its final intended orbital slot and commissioned, ISRO will also have pulled off a rescue mission for the ‘Navigation with Indian Constellation’ (NavIC) programme, which has been at least one functional satellite short for the last six months and thus unable to meet its primary purpose of providing standalone positioning services over the Indian subcontinent. The three second-generation NVS satellites thus far are distinguished by having at least one indigenously made atomic clock onboard, in line with the recommendations of the Parliamentary Standing Committee (PSC) on Science and Technology and India’s investments in quantum timekeeping, and away from the imported clocks onboard the first-generation IRNSS satellites.
+
+The PSC had also flagged procurement bottlenecks across ISRO’s programmes, including difficulties with obtaining specialised components and ensuring vendor readiness on the timelines that NavIC needs. The ISRO Space Applications Centre’s ‘request for proposals’ in 2025 also specified a large lead time of nearly two years between a contract’s start and the first two flight models. The Electronics Component Manufacturing Scheme and the programme to modernise the Semiconductor Laboratory can be tweaked to serve these needs, with the Electronics Ministry also setting aside dedicated funds for developing specialised components and their qualification tests in a five- to seven-year programme. In tandem, the government must allocate around ₹17,000 crore in the 2027-28 Union Budget for the Department of Space, against ₹13,705.6 crore in 2026-27, with the hike focusing on manufacturing launch vehicles, replacing satellites, and recruitment. Besides, NavIC also requires a dedicated operator, so that ISRO can be left to focus on its core mandate, and India needs a national space law addressing private participation in this enterprise, and liability. Two successful orbital missions in five-sixths of a year is unbecoming of a national space programme with imminent plans of human spaceflight, a space station, and reusable launch vehicle capabilities. Without significant measures, ISRO will lurch from one mission to the next as and when its inadequate workforce is able to make do with its inadequate allocation.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece)
+
+---
+
+### Even as unemployment falls, lack of ‘decent work’ in India
+*The Hindu · Opinion*
+
+India’sunemployment rate fell from 6.1% in 2017-18 to 3.2% in 2023-24. At the same time, female workforce participation increased for the first time in decades as has been widely reported in government documents. In light of these positive developments, it is the right time to ask what kind of jobs have been generated in India recently, and what working conditions accompany them.
+
+This is important because employment alone does not inherently ensure dignity, security, or a stable livelihood. A worker engaged in garment sewing without a formal contract, a gig worker without insurance coverage, or a construction labourer without paid leave may technically be considered employed, but they remain outside the promise of decent work. The International Labour Organization (ILO) defines ‘decent work’ as employment that offers equitable income, workplace rights, social security and dignity. This principle is integrated into Sustainable Development Goal 8 (SDG-8), which advocates “decent work for all”. Measured this way, India’s labour market persistently exhibits high levels of informality, insecure employment, and increasing inequalities.
+
+[Read full article](https://www.thehindu.com/opinion/lead/even-as-unemployment-falls-lack-of-decent-work-in-india/article71653971.ece)
+
+---
+
+### Ensure firecracker law is enforced
+*Deccan Herald · Editorial*
+
+With Deepavali approaching, a group of citizens in Bengaluru has served a legal notice on the state government, police, Karnataka State Pollution Control Board and Greater Bengaluru Authority, seeking strict enforcement of rules on the sale and use of firecrackers. The notice follows blatant violations during the 10-day Ganesha festival, when deafening explosions, suggesting the use of banned non-green crackers, went unchecked. That authorities looked the other way despite repeated violations raises serious doubts about their commitment to enforcing the law. Separately, 85-year-old retired IAS officer M G Devasahayam has served legal notices on the DGP, Bengaluru Police Commissioner, and Banaswadi police, alleging that loud crackers continue to be burst beyond permitted hours despite repeated complaints. When a former senior civil servant must resort to legal action simply to secure a night’s sleep, it reflects a spectacular failure of policing and civic administration.
+
+The law is unambiguous. Through a series of orders flowing from the Arjun Gopal case, the Supreme Court has restricted the manufacture, sale, and use of conventional polluting firecrackers, permitting only approved green crackers that meet prescribed emission norms. The court has banned fireworks containing toxic chemicals, while permitted crackers may be used between 8 pm and 10 pm. The ban on sound-emitting crackers between 10 pm and 6 am is equally clear. Recent observations by the apex court that its orders are being violated more often than obeyed make the issue harder to ignore. Its earlier warning that station house officers could face contempt proceedings for failing to enforce its directions should serve as a caution to the police.
+
+Bengaluru's Hosur Road emerges as a firecracker shopping hub ahead of DeepavaliAgainst this backdrop, Bengaluru is preparing to accommodate 411 temporary firecracker shops across 83 locations. The police also propose deploying 1,000-plus AI-enabled cameras to detect excessive heat, smoke, and overcrowding. Technology is welcome, but surveillance without enforcement is pointless. The authorities must inspect outlets, ensure shops prominently display certificates confirming that they sell only approved green crackers, verify QR-code certification, seize prohibited stock, and prosecute offenders. The 2023 Attibele fireworks tragedy, which claimed 17 lives, remains a reminder of the cost of regulatory negligence. As the Supreme Court rightly observed, Deepavali is a festival of lights, not an occasion to impose noise, toxic air, and distress on others. Children, senior citizens, people with respiratory ailments, and animals deserve consideration. Religious sentiment cannot justify breaking the law or disregarding fellow citizens’ rights. A festival’s spirit is diminished when celebration comes at the expense of public health and safety.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/ensure-firecracker-law-is-enforced-4203740)
+
+---
+
+### The Tatas should be left to the Tatas
+*Deccan Herald · Editorial*
+
+The controversies surrounding the Tata Group, which started as a corporate dispute, have acquired political overtones and triggered charges of government interference. A meeting between Tata Trusts Chairman Noel Tata, Vice-Chairman Venu Srinivasan and others with Union Home Minister Amit Shah and Finance Minister Nirmala Sitharaman prompted Leader of Opposition Rahul Gandhi to allege that the group was being “criminally destroyed” by the government. He claimed businesses were under pressure from the government. Nirmala Sitharaman replied, saying he was politicising the issue and ‘’casually labelling commercial and legal matters as criminal.” She added that he was spreading “distrust and toxicity” among business leaders. But the question of why the country’s top business leaders should discuss “commercial and legal matters” with the home minister is relevant. The Tatas have expertise in these matters, and the home minister would not be offering guidance.
+
+The meeting and the political exchanges come amid the ongoing dispute over the governance and ownership structure of Tata Sons, the holding company of the Tata Group. The Reserve Bank of India (RBI) wants Tata Sons to list on the stock market. Tata Trusts, which holds around 66% of Tata Sons, insists that the company should remain unlisted because its existing ownership structure supports long-term decision-making, philanthropy, and social responsibility. The RBI has rejected Tata Sons’ application to surrender its registration, and Governor Sanjay Malhotra has reiterated that top non-bank finance companies must list. Another dispute concerns the reappointment of Tata Sons chairman N Chandrasekaran. Though he had earlier said he would not seek another term, he was reappointed despite Noel Tata’s opposition and negative vote. Alleged governance problems in the Sir Dorabji Tata Trust, which holds about 28% of Tata Sons, have been taken to the Maharashtra Charity Commissioner by Venu Srinivasan. The charity commissioner, who froze the decision-making powers of the Sir Ratan Tata Trust, may soon act on the Dorabji Trust matter.
+
+Tata Group row: Rahul Gandhi alleges govt destroying conglomerate, Nirmala Sitharaman warns against politicising commercial issuesThere are several strands to the dispute, and it has been taken to court as well. The disputes should be resolved swiftly, either legally or through settlement between the contending parties. The Tata Group is among India’s most respected business conglomerates and has a global footprint. Government or political interference risks damaging the group’s and India’s international reputation. Global investors expect laws, regulations, and norms of good governance to guide corporate functioning and dispute settlement. The Tatas should be left to the Tatas and their stakeholders.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-tatas-should-be-left-to-the-tatas-4203738)
+
+---
+
+### AI in Khaki | Efficiency meets accountability
+*Deccan Herald · Opinion*
+
+The use of some Artificial Intelligence (AI) tools, especially the Delhi Police's Facial Recognition System (FRS) during the recent NEET- and CEC-related Gen Z protests, has sparked serious disaffection, criticism, and allegations about AI in policing. However, AI is already expanding its reach across all spheres, and policing is no exception. If used well, AI has tremendous force-multiplier potential for doing a lot of good for citizen service delivery, particularly at the police station level.
+
+Let us see what will happen if a citizen meets an AI-enabled robot instead of a human being (Duty Officer) when they first appear at the police station.
+
+At the very least, they will get a patient hearing, almost immediately — no sitting around waiting indefinitely, no ‘lunch-ke-baad-aana’ (come after lunch break). Whatever they say will get recorded in the General Diary in a legible manner. If the matter is merely informatory in nature, a receipt with General Diary number, date, and time will be automatically generated for them. If the matter indicates a cognisable offence, a First Information Report (FIR) will be drawn up with the correct sections of law without any discretion and escalated to the Station House Officer (SHO) for taking a decision as to whether to investigate or to refuse investigation and for allotment to an Investigating Officer. Refusal to register complaints, the long-standing bane of the police, will be a thing of the past.
+
+Telangana Police forms Tech Team to accelerate AI in policingDocumentation made easier
+
+Further, AI can reduce the humongous documentation burden that police stations grapple with. Around 59 lakh cognisable cases were registered in 2024 in India. Each case involves an FIR, the crime scene maps, witness statements, arrest memos, forensic reports, seizure lists, medical examination records, report in final form, and so on — documents numbering in the hundreds. All documents in the local language need to be translated into English when a case goes to a high court or the Supreme Court.
+
+Manual documentation and translations, which take weeks, can now be done in hours and minutes, while retaining specialised legal and local terminology like surathal, panchnama, khatian, zimma, etc. and also retaining page-for-page parity (for translations) so that it is acceptable in the courts. AI-enabled digitisation can read handwritten FIRs in multiple languages with high accuracy. It can also process low-quality scans and faded documents by intelligently reconstructing the degraded words. Most importantly, all the documents will become searchable.
+
+How CJP protesters countered Delhi Police measures? AI might be one toolAdministrative work made easier
+
+Another big help from AI would be when the investigation is transferred to another officer. Rather than the new officer having to go through the entire case file word by word, they can go through a structured summary, a chronological timeline of events, and evidentiary gaps and inconsistencies, all AI-generated. AI can listen in on the interrogation of an accused, correlate everything and point out the anomalies in the statements.
+
+AI can generate the chargesheet index, cross-reference evidence, biometric data, witnesses, and legal sections, and verify the completeness of the case diary and chargesheet. It can create a draft prosecution narrative to be used by the Public Prosecutor and the Investigating Officer. Based on my experience and decades-long service, if implemented in the right earnest, AI can free up to about 30 officer-hours per day at a mid-size police station on documentation alone.
+
+Police station inspections by senior officers are the backbone of police administration. Usually, it is an annual affair, and after an inspection, things are forgotten for a year until the next inspection. AI can enable a GPS-enabled field visit tracking system that will have a readily available digital record of every inspection. This will enable continuous performance monitoring and accountability, rather than the annual sound and fury, often signifying nothing. Further, both at the police station level and beyond, AI can also help in mapping and identifying crime hotspots, connecting FIRs, modus operandi, and red-flagging repeat offenders.
+
+This AI deal could change policing — Here’s what just happenedHumans over AI
+
+A module can be carved out for the public representatives to send their recommendations and queries to officials and escalate to higher-ups. Further, there can be a chatbot for the public to obtain any information regarding their application for permission, licences, fines, applicable sections of law, etc. in multiple languages.
+
+Despite all the foregoing, it is important that there must be human oversight, intervention and accountability because AI makes mistakes, and sometimes, the mistakes in policing can mark the difference between life and death. A Duty Officer can possibly be replaced by a robot, but AI cannot judge context or the nuances of social situations and does not have the emotional intelligence required of an SHO.
+
+As of today, AI cannot become an SHO, but the use of AI can make for an unimaginably better SHO. By several orders of magnitude.
+
+Bibhuti Dash is a retired Director General of Police of the West Bengal cadre.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/ai-in-khaki-efficiency-meets-accountability-4204006)
+
+---
+
+### The hidden threat to India’s milk, meat and eggs: A global animal health funding crisis
+*Deccan Herald · Opinion*
+
+For millions of Indian families, an animal is a savings account that pays out every morning. The country is the world’s largest milk producer, at 247.87 million tonnes in 2024-2025, accounting for about a quarter of global milk production. According to the latest census, India has about 536 million livestock, and the dairy sector alone directly employs more than 80 million farmers. This year’s Budget speech put livestock at nearly 16% of farm income. Dairy, poultry and animal health services also offer young people a livelihood close to home.
+
+This matters for hunger. The UN’s 2026 food security report shows undernourishment in India falling from 21.1% in 2004-2006 to 9.8% in 2023-2025. But 520.1 million Indians, or 35.5%, still could not afford a healthy diet in 2025. Milk, eggs and meat help fill that gap, and they come only from healthy animals.
+
+Sick animals are not a local problem because diseases cross borders. Lumpy skin disease was reported in Bangladesh in July 2019 and in India a month later. Officials in Mizoram believed the state’s first African swine fever outbreak came from pigs illegally brought in from Bangladesh, and the disease has since cost the state an estimated Rs 982 crore. This September, lumpy skin disease is back. A national forecast flagged 219 districts in 28 states as at risk, and suspected cases have been reported in Uttarakhand, Himachal Pradesh, Uttar Pradesh and Haryana.
+
+Stopping such outbreaks needs things no single farm, or even a single state, can supply alone. It needs laboratories, research workers, official teams that watch for disease on both sides of a border, vets who can reach remote villages, and vaccines that protect animals. Much of this is organised and paid for internationally. The UN Food and Agriculture Organisation (FAO), the World Organization for Animal Health (WOAH) and the World Health Organization (WHO) work together on diseases that pass between animals and humans, and the first two jointly guide the global fight against diseases like foot-and-mouth disease, avian influenza and sheep/goat plague. The FAO’s emergency work on animal diseases has relied on sustained funding from the United States.
+
+Maneka Gandhi, PETA oppose new draft rules easing animal test approvalsIndia has benefited directly. An $82 million World Bank loan approved in 2023 supports disease control and veterinary services in five states.
+
+A $25 million Pandemic Fund grant is strengthening laboratories, state-level disease-monitoring teams and coordination at borders. Combined with the government’s own vaccination drives, the results show that sheep and goat plague outbreaks fell from 98 in 2019 to 29 in 2025, and foot-and-mouth outbreaks from 132 to 40.
+
+Now that support is shrinking. Foreign aid from rich countries fell 23.1% in 2025, the largest drop on record. Animal health was already getting under 0.6% of global health spending, while preventable disease destroys more than a fifth of the world’s animal production every year. The FAO was told that more than 100 American-funded programmes, worth about $382 million, would end, and it has reportedly scaled back its disease monitoring in 49 countries. The American aid agency’s own projects in India were small, about $97 million in 2023-2024 in areas such as agriculture, water, energy and health.
+
+India is not the most exposed. Its neighbours are, and a country that cannot afford to spot an outbreak early cannot stop it crossing the border.
+
+That is why global support is more than charity. Disease monitoring, the running of laboratories and the availability of vaccines before an outbreak cost far less than fighting one afterwards. Even where a better vaccine exists, cost appears to be
+
+the deciding factor. Indian scientists developed a vaccine made specifically for lumpy skin disease, but most states reportedly still use a goatpox vaccine that costs about Rs 5 per dose, against about Rs 23 per dose for the new one. A field study in Rajasthan reportedly found the cheaper vaccine only 21.7% effective.
+
+Three things would help. Donors should protect funding for disease monitoring, laboratories and vaccines, especially in countries that share borders with others. The FAO, the WOAH, the WHO and India should agree on a joint plan for the region, with shared outbreak reporting, vaccination near borders and training for vets. And India should offer its vaccine makers and research institutes as partners, and use its pooled buying power to bring vaccine prices down.
+
+(The writer is a veterinarian and an independent researcher)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-hidden-threat-to-indias-milk-meat-and-eggs-a-global-animal-health-funding-crisis-4203744)
+
+---
+
 ## 1 November 2026
+
+### DC Edit | In Manipur, Involve All Stakeholders
+*Deccan Chronicle · Editorial*
+
+The renewed violence in Manipur and massive demonstrations in Imphal are reminders of an ethnic conflict that has been tearing up the northeastern state since May 2023. It also raises serious questions about the accountability of both the state and Central governments and showcases their abject failure to restore peace in the state.
+
+The alleged abduction of two Kuki civilians from Taphou Kuki village in Kangpokpi district, and the killing of three Kuki village volunteers in Noney district, and mass protests in the state demonstrate the fragility of the situation.
+
+The current demonstrations by Meitei umbrella groups (such as COCOMI) and certain Naga organisations demand the Central government scrap the Suspension of Operations (SoO) agreement with Kuki armed groups, alleging breach of peace terms.
+
+The issue involves three communities in the state — the Meiteis of the Imphal valley, who make up 53 per cent of the state’s population, the Kuki tribals, who constitute up to 20 per cent of population but are occupying 90 per cent of the state’s territory, and Nagas forming 24 per cent.
+
+The fundamental problem in Manipur is that these communities view developments through the prism of ethnic identity. An attack on a member of a community is magnified as the attack on the whole community, potentially triggering retaliation against another. Unless this cycle is broken, even minor incidents could escalate into major confrontations.
+
+Nevertheless, it is the government’s constitutional responsibility to find a solution to the problem, regardless of how protracted it may be, and protect every citizen, irrespective of ethnicity.
+
+With regard to the demand to scrap SoO agreement, any deal that allows armed cadres to violate its conditions without consequences loses credibility. However, abandoning negotiations without a viable alternative could worsen instability. The need of the hour is a sustained quadrilateral dialogue involving Centre, Meitei, Kuki-Zo and Naga representatives.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-in-manipur-involve-all-stakeholders-2000936)
+
+---
+
+### DC Edit | Oust-CEC Movement Coalesces Opposition
+*Deccan Chronicle · Editorial*
+
+The massive rally the INDIA bloc organised in Delhi on Sunday demanding the resignation of chief election commissioner (CEC) Gyanesh Kumar for striking off the names of crores of bona fide voters from the electoral roll during the special intensive revision (SIR) signals the ability of the Opposition to keep the momentum of the political movement that targets the CEC and the Narendra Modi government which supports him. This, coupled with the recent observations of the Supreme Court, makes it untenable for the EC to go ahead with the SIR process as it is now. The mammoth gathering also puts a question mark on the legitimacy of the government’s continued support for the CEC and SIR process and the cost it will have to pay for it.
+
+It is an undeniable fact that the SIR protest has given a political direction and platform for the INDIA bloc where every ally, even estranged ones, can join forces. The Trinamul Congress, which has had a troubled relationship with the bloc, is now a formidable part of the formation. The Biju Janata Dal, a former ruling party of Odisha, has now joined the ‘Delhi Chalo’ march, though it is not part of the INDIA bloc. The notable absentee was the DMK, one of the founding members, thanks to the avoidable haste the Congress demonstrated to jump ship in Tamil Nadu and join the C. Joseph Vijay cabinet. However, the TVK was on board an anti-SIR protest in Chennai recently.
+
+As it stands today, the Opposition bloc has been able to put forward a cohesive argument against the SIR process and the CEC, who orchestrated it. There is no justification for the EC to go outside the mandate of the law and make the process an exclusionary one. It has been pointed out that a person enters the electoral roll after going through a process laid down in the law and that the EC can remove one only through such a process. More reports are coming these days on how the EC has invented and used a tool called “logical discrepancy” to strike names off the roll and how Form 6 for new voters has been tampered with and how Form 7, used to raise a complaint against the continuance of a voter on the role, has been misused. The limiting of access to data at the EC headquarters in violation of the law is another critical point.
+
+Vitiating a solemn process with such harmful steps cannot go unquestioned, and that is what India is witnessing at the moment. Universal adult franchise was a unique achievement India attained when it was born as a republic; several of the world’s great democracies took decades and even centuries to come to such an understanding that every citizen has a vote and every vote carries same value. The SIR now comes out as a tool to undermine this fundamental element of our democracy.
+
+The demand for the righting of the wrongs committed in the name of SIR is a logical, legitimate and democratic one, and must be heeded. It is in the interest of democracy that everything that went wrong must be accounted for and the perpetrators brought before the law. It is for the government, the Supreme Court and the EC to decide how it will approach this vital issue.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-oust-cec-movement-coalesces-opposition-2000926)
+
+---
+
+### Kin Of Police Martyrs Deserve A Better Deal
+*Deccan Chronicle · Opinion*
+
+Assistant commandant Raghunath Singh Bhati of the Indo Tibetan Border Police (ITBP) was travelling back to base after elections were successfully conducted in West Bengal when his vehicle met with a serious accident on April 13, 2026. He was evacuated to the Army Hospital in New Delhi, where he succumbed to his injuries on April 29 despite prolonged treatment. He was cremated with full honours the following day in his hometown of Jaisalmer.
+
+On October 10, 2025, Inspector Koushal Kumar Mishra, 58, of the Central Reserve Police Force (CRPF) was leading a patrol to apprehend Maoists in the Seranda forests of West Singhbhum district (Jharkhand) when Maoists detonated an Improvised Explosive Device (IED). The blast seriously injured Mishra and two others, including head constable Mahendra Laskar, 45, from Naogaon (Assam). Laskar died of his injuries the following day while Mishra succumbed to his injuries on October 30 while under treatment.
+
+These three were among 154 police personnel who died in the line of duty during the year beginning September 1, 2025 — the lowest toll in two decades, down from a peak of 786 in 2010. The CRPF recorded two such deaths, its lowest toll in several decades, touching a peak of 191 in 2010 — the year 76 CRPF personnel were killed in an encounter with Maoists in the Tadmetla forests of Dantewada (Chhattisgarh), on April 6.
+
+To CRPF goes much of the credit for eliminating Maoists across the country, though at a heavy cost of many of its personnel sacrificing their lives, and several others maimed in blasts and encounters. Over 780 personnel sacrificed their lives combating the Maoists.
+
+Incidentally, Toman Kumar Taram, 31, a Commando of the 209th Battalion of the Commando Battalion for Resolute Action (CoBRA) set his foot on an IED while operating in Lohardaga (Jharkhand) in February 2022. His left foot was blown off in the blast. While he continues to serve in CRPF, he took to archery with a prosthetics foot under the tutelage of his coach Pankaj Singh in Hyderabad and recently bagged a gold in the mixed team with Sheetal Devi at the Para Asian Games in Nagoya (Japan).
+
+The Border Security Force recorded the highest toll, with 25 personnel martyred, while Bihar Police lost 12 of its personnel. Jammu and Kashmir police, engaged in counter-terrorism since 1989, lost nine personnel, as did Madhya Pradesh Police and ITBP. Having wiped out the Maoists, Chhattisgarh Police deaths dwindled to six from 16 last year. Last year’s toll included additional superintendent of police Akash Rao Girepunje, who was killed in an IED blast in Konta in Sukma district.
+
+In the far northeastern state of Manipur that is grappling with the challenges posed by the internecine clashes between the Meiteis, Nagas and the Kukis for the last over three years, one policeman of the India Reserve Battalion lost his life when he was stabbed by an assailant while on a search operation to recover drugs in Thoubal district on June 3, 2026.
+
+The Police Commemoration Day is observed on October 21 every year in remembrance of 10 CRPF men who sacrificed their lives while taking on hordes of Chinese soldiers who dared to intrude into the Indian territory in Hot Springs in Ladakh on October 21, 1959. Though heavily outnumbered, the CRPF men stood their ground and repulsed their attack. The derring-do displayed by the brave CRPF men is written in golden words in the annals of Indian police. A magnificent memorial at Hot Springs draws a contingent of police personnel from all states and Central Armed Police Forces including the National Security Guard to pay homage every year. On the memorial which stands as a mute testimony to the sacrifices made by our policemen is engraved the famous epitaph by John Maxwell Edmunds: “When you go home, tell them of us, and say ‘For your tomorrows these gave their today’.”
+
+A contingent of ITBP maintains the post round the year while guarding the Indo-China borders even in extreme cold weather harsh conditions. At solemn parades in all state capitals and districts, names of all 154 police martyrs who sacrificed their lives during the last one year were read out and homage paid by laying wreaths and observing two minutes silence in memory of their fallen comrades.
+
+Addressing the police personnel at the National Police Memorial in New Delhi on the Police Commemoration Day recently, the Union Home minister Amit Shah extolled the duties performed by police personnel not only in crushing the Maoists menace once for all but also maintaining law and order across the country in difficult conditions. While the citizens of the country celebrate festivals with their near and dear ones, the police personnel maintain constant vigil on the streets, roads and borders to prevent any untoward incident. As many as 36,852 police personnel sacrificed their lives at the altar of duty since independence, he said. Dwelling on the unique achievement of having met the deadline of March 31, 2026 to win the war...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/kin-of-police-martyrs-deserve-a-better-deal-2000905)
+
+---
+
+### PM, Shah Rush To Discredit INDIA Vote-theft Campaign
+*Deccan Chronicle · Opinion*
+
+As the Opposition INDIA bloc’s campaign against electoral roll manipulation appears to be gathering momentum, Prime Minister Narendra Modi and Home minister Amit Shah have made public statements aimed at delegitimising the Opposition’s allegations of “vote-theft” under chief election commissioner (CEC) Gyanesh Kumar.
+
+This is evident in Mr Modi’s post on X mocking the Congress even as the ballots for the legislative council elections were still being counted on October 28, prematurely suggesting that the Congress won zero seats despite ballot papers being used. He posted: “MLC elections in 28 seats across four big states — Uttar Pradesh, Maharashtra, Bihar and Karnataka. Elections held using ballot papers. Guess how many seats Congress won?” A monocled emoji at the end of the post emphasised his sarcasm suggesting that this was the obvious conclusion after a close examination of the results. The Congress, however, did win one seat after all the ballots were counted.
+
+Although it emerged as the largest party with 16 of the 28 MLC seats up for election the BJP lost in several critical strongholds. It lost two MLC seats (Graduates’ and Teachers’ Constituencies) in Varanasi, Mr Modi’s own parliamentary constituency, to the Samajwadi Party.
+
+It also lost the Graduates’ Constituency seat of Nagpur to the Congress. Nagpur is the headquarters of the RSS besides being the home of Maharashtra chief minister Devendra Phadnavis and the parliamentary pocket-borough of Union minister for road transport Nitin Gadkari. The Patna Teachers’ Constituency seat, a reliable bastion of the BJP in the past, was wrested by the Rashtriya Janata Dal.
+
+So while there was little reason for Mr Modi to gloat, his intervention on social media could help to project the multi-party Opposition campaign on vote-theft as a bipolar contest between the Congress and the BJP. And it attempted to shift the Opposition’s allegations about the integrity of electoral rolls to its electoral performance in legislative council elections, despite ballot papers being used, especially by emphasising the Congress’ weak electoral performance.
+
+Mr Modi’s argument conflates the question of whether the Congress (or the Opposition) has the public support to elections with the question that the Opposition and the public is raising about the lack of transparency and accountability of institutions responsible for conducting elections impartially. Political parties can perform badly and still raise legitimate questions about the alleged manipulation of voter rolls and electoral procedures.
+
+These questions cannot be reduced to only the use of ballot papers in legislative council elections as they are not a referendum on the special intensive revision (SIR) of electoral rolls. These elections are different from normal elections with limited electoral colleges and held in different contexts.
+
+Mr Shah’s intervention seeking to relocate the street protests to Parliament is an indication that the government is finding it difficult to handle the mass mobilisation that is playing out on the streets. The government, faced with mass protests, is pretending that Parliament is the appropriate forum to raise the vote-theft issue. There the ruling party largely controls the agenda, procedures and the terms of the debate, through its sheer strength in numbers and with presiding officers who are more likely to yield to the ruling party’s suggestions.
+
+Mr Modi and Mr Shah are trying to reclaim the democracy narrative from the Opposition.
+
+The Opposition is saying that winning elections do not amount to a peoples’ mandate if in the electoral contest, the pitch is tampered and the umpire is partisan. They want the suspension of SIR, the resignation of CEC Gyanesh Kumar and restoration of names allegedly fraudulently deleted from the electoral rolls. This is not a demand of the Congress alone but of 20 opposition parties that have come together on this issue for a common mass campaign.
+
+Neither Mr Modi nor Mr Shah want this argument to acquire the acceptance it is finding with ordinary citizens. They also do not want the Opposition to find a common political language against their ruling dispensation. Up to now, the biggest problem of the INDIA bloc has been maintaining unity among its constituents who have competing regional interests. Electoral integrity has given them a common cause as it impacts all of them if their voters are unfairly excluded by a partisan Central Election Commission.
+
+Mr Shah’s challenge of offering to call a special session of parliament to debate vote-theft is particularly interesting.
+
+In fact, during the Monsoon Session of Parliament, the House was adjourned repeatedly as the government refused to debate SIR in Bihar. When Leader of the Opposition Rahul Gandhi challenged Mr Shah to debate his three “vote-theft” press conferences, Mr Shah refused saying he would decide the order of his own speeches, leading to an Opposition walk out. In April this year, Lok...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/pm-shah-rush-to-discredit-india-vote-theft-campaign-2000915)
+
+---
 
 ### Love, deception and the joys of human fallibility
 *Deccan Herald · Opinion*
@@ -21696,302 +21927,6 @@ The writers are lawyers and policy researchers.
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/punishing-paper-leaks-can-only-fix-the-symptom-not-the-structural-flaws-4098032)
-
----
-
-## 3 August 2026
-
-### Distress and dispute: On Karnataka, Tamil Nadu and the Cauvery
-*The Hindu · Editorial*
-
-With the southwest monsoon playing truant in its first half, a familiar distress situation has developed in the Cauvery basin. The principal riparian States — Karnataka upstream and Tamil Nadu downstream — have made little progress in evolving a distress-sharing formula in the vexed dispute. Once again, heavy rain in the Cauvery catchment has come to the aid of both States. Whether this will douse the embers or fan parochial flames remains to be seen. Political tensions are rising, with pro-Kannada groups calling for a Karnataka bandh on August 13 and the DMK planning a stir in Thanjavur on August 3, coinciding with the Aadi Perukku festival on the Cauvery’s banks. Despite a surge in inflows into four major Karnataka reservoirs in the Cauvery basin, it is too early to conclude that the water shortage affecting farmers in both States is over. The decision of the Congress government in Karnataka not to release irrigation water adds to the crisis, though such refusals over scheduled water deliveries are not new. Consequently, Billigundulu, the inter-State border measuring point, realised barely one thousand million cubic feet (tmc ft) against the stipulated 31 tmc ft in July, the wettest month.
-
-Perhaps guided by forecasts of a deficient monsoon, Karnataka’s Chief Minister chose to err on the side of caution, anticipating an acute drinking water shortage ahead. However, this has proved costly for Tamil Nadu, which realised only about 3.6 tmc ft from June 1 to July-end, barely 10% of the 40-odd tmc ft prescribed by the Cauvery Water Disputes Tribunal and the Supreme Court. The Cauvery Water Management Authority (CWMA), at its July 30 meeting, ratified the Cauvery Water Regulation Committee (CWRC)’s directive that Karnataka release 3,500 cusecs to Billigundulu daily for 15 days from July 29. Although this quantum would not have met irrigation needs in Tamil Nadu’s Cauvery delta, it would have provided some support to the ecosystem. The CWMA’s decision has upset farmers in Karnataka and the political class but nature has intervened in a limited way. If Karnataka finds the existing mechanisms — the CWMA and CWRC — inadequate, it can suggest alternatives, but must first abide by the decisions of these institutions, which safeguard riparian States’ interests in line with Tribunal and Supreme Court verdicts. Unlike his predecessors, Tamil Nadu Chief Minister C. Joseph Vijay reached out to his Karnataka counterpart, D.K. Shivakumar — but Mr. Shivakumar has asked Mr. Vijay to defer his August 3 Bengaluru visit. However, this episode should not deter the two States from making a renewed bid to work out a distress-sharing formula, the last of which was attempted nearly 25 years ago. Mr. Vijay should also take a cue from his counterpart in handling the Cauvery issue, by bringing together other political players in the State.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/distress-and-dispute-on-karnataka-tamil-nadu-and-the-cauvery/article71297936.ece)
-
----
-
-### A common civil code spelling equality for every Indian
-*The Hindu · Opinion*
-
-The 22nd Law Commission has called for responses to a proposal for a Uniform Civil Code in India. This has set off a debate, which has often been acrimonious. But the debate itself is much needed as Indians have never been consulted on the personal laws they are governed by. These laws were instituted by the British colonial government by giving a cursory hearing to the clergy, or religious scholars in the case of religions without one. The result was a religion-based set of personal laws for Hindus, Muslims and Christians. Whether the colonisers did this out of a deep concern for the sentiments of the natives or it was intended as another instrument in a strategy of divide and rule in order to hold India is irrelevant, but we should note the provenance of India’s personal laws.
-
-SC issues notice to Centre on plea to ban polygamy
-
-Laws that are boxedPersonal laws in India are boxed according to the religion or social origins of the citizen. However, it does not take much to see a fearful symmetry between them. This is their unmistakably patriarchal framing, whereby men are privileged at every turn. Thus, only a man can be the ‘karta’ or head of a Hindu Undivided Family, a divorced Muslim woman is not entitled to maintenance beyond a certain period, among some tribes of India, the custom is that women do not inherit ancestral property, and a Parsi woman who marries outside the community is excommunicated. So, from the point of view of women’s empowerment, India’s civil code is uniform already. As for the section of the population that we today refer to as the LGBT community, the British colonialists considered them mere flotsam and jetsam, to be ignored altogether. Not only did they not even merit a personal law but their actions deserved to be criminalised, even when they were consensual.
-
-We can now see why we cannot consider ourselves to be a democracy so long as we continue with current approach to personal law. It is not because it is not the same for different religious groups but because their uniformly patriarchal core denies women equality before the law. Prime Minister Narendra Modi’s widely reported query as to how one country can be run on two laws misses this. But so does the Opposition when it rushes to defend inaction on these personal laws on grounds of diversity, which they hold as sacrosanct.
-
-The antiquity of India’s customs and the diversity of its peoples are both brought up to make a case for tip-toeing around the existing personal laws despite their unequal rights for men and women. But is this a valid argument at all? India’s caste system is antique alright, but India’s lawmakers were wise enough to junk it in law very early on the history of independent India.
-
-The matter of diversityNext comes diversity. Opponents of reform seem to be unaware that they are extolling a diversity based on religion. Here it is worth recalling political scientist Pratap Bhanu Mehta’s reminder that India was not conceived of as “a federation of religions”. Similarly, during the deliberations of the Constituent Assembly, B.R. Ambedkar is said to have expressed surprise that religion was being given as much importance when choosing India’s political arrangements. These observations have a bearing on what is being debated today. Whether India’s civil code accords with the diktats of all religions is irrelevant. What matters is that it must be in accord with the democratic principles of liberty, equality and dignity. It is entirely possible to draft a civil code that preserves these ideals without any reference to religious practices. This would have the merit of being secular, in keeping with the defining character of India’s constitution.
-
-Self-appointed heads of religious groups have resisted calls for a common civil code by resorting to the argument that it infringes upon religious freedom. They fail to see that religious freedom means the freedom to adopt the faith of one’s choice. In the domain of expression of faith, such as public worship, Indian courts have declared that it should conform to constitutional principles. In what may be considered one of the most significant social changes in India, restriction of temple entry to the avarna was discontinued almost a century ago. Much later, the Supreme Court of India struck down the practice of restricting women’s entry to the Sabarimala temple.
-
-These milestones point to an understanding of the right to religion as being confined to choice of one’s faith and not to extra-constitutional expressions of it, such as the regulation of women’s autonomy by men. This takes us to the question of the efficacy of legislation in advancing rights. For instance, when it comes to temple entry, we find instances of Dalits being denied entry even today. There are also recorded cases of bigamy among Hindus, in some regions greater than among Muslims. But the conclusion drawn from this that banning polygamy among Muslims is discriminatory is a non sequitur. The response to finding bigamy among Hindus hardly invalidates a call for ending the provision for polygamy among Muslims. The right response would be to prosecute those Hindus violating the law.
-
-What is relevant here is not parity among men of different religious groups when it comes to marriage, it is the rights of women within every religious grouping. The demand that sections of the population, whether tribal or Muslim, are entitled to separate personal laws even when they are gender unjust fails to acknowledge that they are equal beneficiaries of India’s democracy. Democracy guarantees them liberty and equality in all spheres of life, including access to the rule of law, freeing them from arbitrary governance. A reform of their personal laws to end gender discrimination, rendering them compatible with democracy, would be no more than to seek a balance between their rights and their responsibilities.
-
-Bridging a gapThe obsession with parity among males across India’s religion-based personal codes blanks out the issue of the rights of its LGBT community. No amount of reform of the Hindu, Muslim and Christian personal codes can reach them, for they have been rendered invisible by these colonial-era constructions. If there were to be a common civil code applicable to all Indians irrespective of faith, gender and sexual orientation, the LGBT population could be accommodated within it. In its absence, an alternative would have to be conceived of. Given the recognition implicitly granted to them with the reading down of Section 377 of the Indian Penal Code in 2018 and a highly visible hearing of a petition in the Supreme Court to allow same-sex marriage, which concluded only recently, the question of a personal law for this group can no longer be postponed.
-
-To be credible, the current debate on personal law must include the LGBT, for the questions of civil partnership, inheritance and adoption are as relevant to them as to other Indians. Mundane acts such as opening a bank account or purchasing life insurance would make one aware of this. Complacently confining the discussion of India’s personal laws within a Hindu-Muslim binary, leaves unrecognised the potential to empower a wide section of the population through their drastic overhaul. The combination of uniformly gender unjust personal laws and a disempowered LGBT population points to the advantage of having a universal civil code which encompasses all Indians. On Independence Day in 1947, Prime Minister Jawaharlal Nehru had, in a message to the nation, stated that the task before India was to “create social, economic and political institutions which will ensure justice and fullness of life to every man and woman”. No social cleavage has been imagined in this vision. A universal civil code would be a step in that direction.
-
-Pulapre Balakrishnan is an economist
-
-[Read full article](https://www.thehindu.com/opinion/lead/a-common-civil-code-spelling-equality-for-every-indian/article67091277.ece)
-
----
-
-### The state against its students, lessons to remember
-*The Hindu · Opinion*
-
-On July 26, 1876, 150 years ago almost to the day, Surendranath Banerjee founded the Indian Association in Calcutta. Its first great agitation was, at its core, a student grievance. The colonial government had lowered the maximum age for the Indian Civil Service examination from 21 to 19, a change that quietly shut young Indians out of the highest offices open to them. The state treated the complaint as an administrative footnote. Banerjee treated it as a constitutional question, toured the country, and turned the anger of examination-going youth into the first genuinely pan-Indian political mobilisation. The Raj never recovered the loyalty of the generation it dismissed.
-
-Fifty years ago, in the winter and monsoon of 1976, two states on two continents were teaching the opposite lesson in real time. On June 16, schoolchildren in Soweto, South Africa, who marched against the imposition of Afrikaans as the medium of instruction were met with live ammunition; hundreds died in the weeks that followed. In India, the Emergency had already emptied the campuses by other means: student unions stood suspended, and activists of every persuasion sat in jail under the Maintenance of Internal Security Act (MISA). Pretoria used bullets, New Delhi used preventive detention, and both were confident they had restored order. Within a decade and a half, the generation of Soweto had made apartheid ungovernable, and the generation of the Emergency had produced much of India’s post-1977 political leadership. Order purchased through the suppression of the young turned out to be the most expensive commodity either state ever bought.
-
-Abhijeet Dipke, Ashutosh Ranka and Saurav Das | The three faces of a revoltThe pattern repeats againThis July, the streets around Parliament and Jantar Mantar have supplied the third panel of the triptych. What began as an online satire has become one of the largest student mobilisations in years, built on grievances that are neither manufactured nor abstract: a leaked National Eligibility cum Entrance Test (Undergraduate), or NEET-UG, paper that forced the cancellation of an undergraduate medical examination taken by over 20 lakh aspirants, and an on-screen marking controversy that left thousands of school students in limbo. So far, the state’s response has followed the familiar pattern of barricades, tear gas, a baton charge that injured more than 100 students during the march on Parliament, and rhetoric from the highest levels of the establishment comparing protesters to vermin.
-
-History suggests three lessons that the state would do well to learn before the pattern completes itself. Lesson one: force does not disperse a genuine grievance, it organises it. The Soweto uprising did not begin as a revolution. It began as a march by schoolchildren over the language of instruction. It was the shooting that made it a revolution. Every image of a fallen student became a recruitment poster, exile camps filled with teenagers who had left the country in the months after June 1976. The regime’s own commission later conceded that the police response, not the original grievance, had transformed a protest into an insurrection.
-
-The mechanism is not South African, it is universal. When the state answers a specific, bounded demand with generalised violence, it converts a policy dispute into a question of dignity, and dignity disputes do not settle. The students who returned to Jantar Mantar the morning after the lathi charge, and said so to every camera available, were following a script written in Soweto and in a hundred places since. A government that reads their return as defiance to be broken, rather than as evidence that force has already failed, is preparing its own sequel.
-
-The ‘lazy’ generation held power accountableThe politics of disrespectLesson two: contempt delegitimises the state faster than it delegitimises the students. The colonial government’s error in 1876 was not primarily one of policy. It was one of register. By treating the civil service age question as beneath serious engagement, it told an entire educated generation that their aspirations had no standing before the state. Banerjee understood that the insult was more mobilising than the injury, and the Indian Association was built on that understanding.
-
-The instinct to belittle is alive today. When constitutional functionaries such as the Chief Justice of India reach for the vocabulary of pest control to describe a section of youth, they repeat the Raj’s mistake with less excuse. Dehumanising language aimed at the young does not shrink a movement but hands the movement its identity, its symbols and its moral high ground in a single gesture. The protesters outside Parliament this week did not have to manufacture the charge that the state holds them in contempt. The state made the charge for them, on the record. A government serious about de-escalation would begin not with concessions but with a change of register by acknowledging, plainly and publicly, that the integrity of public examinations is a legitimate constitutional concern of every citizen who sits for one, and that those raising it are stakeholders, not enemies.
-
-Lesson three: protest is the symptom; blocked accountability is the disease. Students do not camp on pavements because they enjoy tear gas. They do so when every institutional channel for redress has been tried and found closed. The 1876 agitation arose because Indians had no representative forum in which the civil service rules could even be debated and the Association became the forum the constitution did not provide. The Emergency-era campuses went silent because the ordinary machinery of accountability, the courts, the press, the legislature, had been suspended; when it was restored in 1977, the verdict was unambiguous.
-
-The Gen Z-led education reform movement has been explicit that it wants action rather than assurances: credible investigations, examination reform, and accountability for the institutional failures that preceded the leak. These are demands that a functioning system of parliamentary and regulatory oversight should have been capable of processing without a single barricade. The durable answer to this protest is therefore not a better crowd-control strategy but a stronger accountability architecture, wherein an examination authority enjoys genuine independence, evaluation and revaluation are subject to statutory transparency, parliamentary committee scrutiny produces published findings, and consequences attach to officials rather than only to invigilators and middlemen. A state that builds those channels makes the street redundant. A state that refuses to build them makes the street inevitable.
-
-Youth angst that should worry every political partyEnsure genuine accountabilityIt is an accident of the calendar, but a useful one, that the July 2026 crackdown falls in the same week as the sesquicentenary of the Indian Association. The men who governed India in 1876 could not have imagined that a students’ grievance about an examination would seed the movement that ended their rule. Public officials who governed India and South Africa in 1976 could not have imagined that the teenagers they jailed and shot would inherit their states. No government ever believes the pattern applies to itself. That is precisely how the pattern survives.
-
-The young people at Jantar Mantar were not asking the state to surrender. They were asking it to be worthy of the examinations it conducts. On the evidence of a century and a half, the governments that listen to that request are the ones that last.
-
-Shashank Pandey is a lawyer based in New Delhi and former Legislative Assistant to Member of Parliament (LAMP) Fellow
-
-[Read full article](https://www.thehindu.com/opinion/lead/the-state-against-its-students-lessons-to-remember/article71298559.ece)
-
----
-
-### DC Edit | Beyond Commonwealth Medal Count
-*Deccan Chronicle · Editorial*
-
-The 2026 Commonwealth Games in Glasgow marked both an ending and a beginning. As the curtains came down on a scaled-down edition in Scotland, the baton was passed to Ahmedabad, which will host the Games in 2030. For India, Glasgow was less about where it finished on the medals table and more about what the campaign revealed: its growing strengths, its persistent weaknesses and the enormous responsibility that now comes with staging the next edition.
-
-India finished fourth behind Australia, England and Canada with 39 medals (13 gold, 17 silver and nine bronze). On paper, that appears to be a step backwards from the 61 medals won in Birmingham four years ago. But numbers, in this case, tell only part of the story. The downsized Glasgow Games, shifted from Australia to Scotland, had a sharply reduced programme. With shooting, badminton, wrestling and hockey excluded, India’s 50-medal target was unrealistic, making its campaign more creditable. Of India’s 122 athletes, 38 won medals, with Gulveer Singh claiming two, giving the country a slightly better conversion rate than Birmingham. Boxing led with 10 medals, including seven golds, followed by athletics with 16 and weightlifting with eight.
-
-Neeraj Chopra’s silver in javelin was below the lofty standards he has set for himself as Sri Lanka’s Rumesh Tharanga Pathirage produced a memorable performance to win gold. Yet the sight of debutant Yash Vir Singh sharing the podium with India's Olympic champion underlined the lasting impact Neeraj has had on a new generation of javelin throwers. Tejaswin Shankar battled injury to win India’s first-ever CWG medal in the decathlon. The six medals won in para athletics provided another encouraging reminder that India's talent pool continues to deepen across disciplines.
-
-The 2010 Delhi Games remain India’s finest Commonwealth performance, with 101 medals, including 38 gold, and a second-place finish. Yet they are equally remembered for corruption allegations, delays, inflated contracts and administrative chaos that embarrassed the country. Ahmedabad must learn from Delhi’s failures and deliver efficient, transparent and corruption-free Games, with timely infrastructure, clean competition and a lasting sporting legacy.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-beyond-commonwealth-medal-count-1976336)
-
----
-
-### DC Edit | Protect Lives, Restore Trust In J&K; Don’t Let Fear Back
-*Deccan Chronicle · Editorial*
-
-The killing of two young Hindu migrant labourers from Chhattisgarh in Kulgam on July 31 evening — days after the “shoot and scoot” assassination of IRP head constable Ashiq Hussain Qureshi in neighbouring Anantnag — has once again exposed the fragility of peace in Jammu and Kashmir. Police suspect a lone Lashkar-e-Taiba operative may be responsible, but the impact is far wider: the attacks revive old anxieties, shake public confidence, and target those most vulnerable.
-
-Migrant workers sustain construction, horticulture, brick kilns and infrastructure across the Valley. They travel thousands of kilometres to earn modest wages, yet remain poorly protected and easy targets. Their killings are not just acts of brutality; they are attempts to disrupt normalcy, sow fear, and fracture communal harmony.
-
-The latest attacks triggered a massive security response — cordon-and-search operations, additional deployments, and intensified counter-terror grid strengthening. His directives for mandatory registration, employer-provided insurance, and dignified last rites for victims are necessary steps. But Kashmir’s recent history shows force alone cannot secure lasting peace.
-
-This Wednesday, August 5, marks seven years since the Centre stripped Jammu and Kashmir of its special status and bifurcated it into two Union Territories. Against this politically charged backdrop, the National Conference has intensified its demand for the full restoration of statehood — an aspiration widely shared across the region.
-
-It is in this context that NC president Farooq Abdullah’s remarks questioning the “timing” of the Kulgam and Anantnag attacks have sparked controversy. Abdullah argues that targeted killings often spike whenever political demands — especially statehood — gain momentum. The Lt. Governor’s call for an unbiased investigation is legitimate; his caution against premature conclusions is prudent. But political speculation around terror incidents, from any side, risks deepening polarisation and distracting from the urgent task of securing lives.
-
-Reports suggest the Centre may restore statehood under a Delhi-like model while retaining control over policing and law and order, a plan the NC rejects. Whatever the framework, the Anantnag and Kulgam attacks must not be used for political score-settling.
-
-Terror attacks must not be politicised to undermine elected leaders or democratic demands. Authorities must also avoid mass detentions, demolitions and sweeping arrests that alienate communities and erode trust.
-
-Lasting peace needs targeted counter-terror operations and community-sensitive policing. Migrant workers require secure housing, transport, rapid-response teams and liaison officers. Investigations must be swift, transparent and protected from misinformation, while political leaders must condemn violence, support victims’ families and avoid exploiting tragedy.
-
-Jammu and Kashmir stands at a crossroads today. Constitutional changes reshaped its politics but not its people’s aspirations. Restoring meaningful statehood, empowering elected institutions and clarifying administrative and security roles are essential to rebuilding trust.
-
-Statehood alone cannot bring peace. Peace requires residents and migrant workers to live without fear, tourists to feel safe, and security personnel to be protected from terrorist attacks.
-
-The Valley must break free from violence and political exploitation. Whatever the statehood model, Kashmir needs inclusive politics, protective security and unity. The killers must face justice, while people are safeguarded with compassion and foresight.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-protect-lives-restore-trust-in-jk-dont-let-fear-back-1976327)
-
----
-
-### Aakar Patel | Why India Is Now In The Race For A ‘Non-permanent’ Seat At The UNSC
-*Deccan Chronicle · Opinion*
-
-The “Mother of Democracy” is standing for a non-permanent elected seat at the United Nations Security Council. Non-permanent because it is a two-year term and elected because 10 seats are shared between the 188 member states wanting to sit alongside the five permanent members. These 10 seats come with no veto power, so if any one of China, the US, Russia, UK or France do not want something, it is rejected no matter how the other 14 vote.
-
-The Mother has been elected eight times before and the last time was as recently as in 2021-22. I cannot remember what we achieved then and am unsure why we are again contesting, but a clue is available in the date. The term is for 2028 and 2029, which will mean that bang in the middle of the next general election we will have the opportunity to erect hoardings and pretend we are globally important. Remember the G-20 presidency from a couple of years ago.
-
-Elections at the UN are in June next year and there is one other candidate in the Asia-Pacific group whom we have to defeat (or get to withdraw), and that is Tajikistan. It has the advantage of being endorsed by the 56 voting members of the Organisation of Islamic Conference and of taking the sympathy vote as a nation that has never been elected even once.
-
-Candidates need the support of two-thirds of the total 193 member states, so 129 votes if all nations are present and voting. Theoretically, it is possible for us to win without any of the 56 OIC votes, but it will be tough. We must do some jugaad to get Tajikistan to withdraw or break the Muslim bloc with the appeal of our platform.
-
-So, what is our platform? It was announced through an address by external affairs minister S. Jaishankar. As with most things in New India, the acronym is the most important bit. This time we have been given “SHANTI”, which expands to “Securing Holistic Advancement through Norms, Trust and Integrity”. Which sounds like something our election commission says, or the Delhi police.
-
-“SHANTI” has six elements. The first is the claim that India is the Voice of the Global South. How? Where? That is not explained, but let us assume it is true. Second is reformed multilateralism, which is a fancy way of saying give us a permanent UNSC seat. Third is peacekeeping. Readers may not know that a few nations dominate the UN peacekeeping force. The largest contributor is Nepal, next are India, Bangladesh, Rwanda and Pakistan. India will make peacekeeping “future-ready”, which Mr Jaishankar says “means to be better equipped, technologically enabled, to be realistically mandated and focused on core objectives”. Perhaps it means we will issue Aadhaar cards.
-
-Fourth is artificial intelligence, where our role is unclear given that America and China are the only two nations with AI capabilities. Mr Jaishankar clarifies that the contribution of the Mother here is yet another acronym. He says: “India has put forward a human-centric vision of AI, that draws on both its capabilities and on India’s traditions. Our word for that is MANAV, which is an acronym for Moral and ethical systems, Accountable governance, National sovereignty, Accessible and inclusive, and Valid and legitimate systems”. Okay.
-
-Fifth is maritime order, which is to say that Iran should stop blockading Hormuz. Sixth is terrorism, our most favourite subject. Mr Jaishankar says “our commitment is to concentrate on countering terror financing”. This is not true. In its September 2024 Mutual Evaluation Report on India, the Financial Action Task Force (FATF) rated India as only "partially compliant” because of Mother’s dislike of NGOs, about which I have written here before.
-
-These six things comprise our platform. Perhaps the world will find this scintillating manifesto reason enough to vote for us. But we will have to address the two, related, gigantic, global issues of our time. The illegal war in Iran affecting everyone and the genocide in Palestine.
-
-On the first, we have nothing to say because we are afraid to speak against President Donald Trump and we accepted a medal from Israel hours before the war began. On the second, recognising that it needs to be mentioned, Mr Jaishankar said in his address: “We have only yesterday, at the Palestine donor group meeting in Brussels, additionally committed to setting up a specialty hospital, an artificial limb fitment centre and a vocational training institute for Palestine.”
-
-But of course, our real record on Palestine is clear and transparent.
-
-India abstained from votes calling for Israel to stop bombing Gaza. Only one nation has voluntarily, enthusiastically embraced Israel amid its genocide and apartheid against Palestinians, and that is India. Germany does it out of historic guilt, America does it because of the Israeli lobby. India alone has decided it hates Palestinians enough to love Israel.
-
-As my organisation Amnesty International revealed last week, India has been shipping weapons to Israel including warheads and other munitions used...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-why-india-is-now-in-the-race-for-a-non-permanent-seat-at-the-unsc-1976317)
-
----
-
-### Shikha Mukerjee | Fix The Education ‘System’; Just A New Law Not Enough
-*Deccan Chronicle · Opinion*
-
-Something is rotten in the state of India’s education, with apologies to William Shakespeare; a harsher law will not do the job that an overhaul, without ideological bias, would.Paper leaks, as India knows, is a yearly phenomenon; the victims of the government’s decades of ineptitude and unintelligent approach to public examinations are everywhere.
-
-In Bihar, victims of a botched railway recruitment exam set rail coaches on fire, blocked railway tracks, pelted stones. More than one crore applicants had taken the test for a total of 35,000 jobs, that would have given them tenured employment starting at around Rs 20,000 per month. In Bihar, Madhya Pradesh, Uttar Pradesh, Haryana, Telangana, young men and women, exploded in rage over the change in the rules for recruitment to the armed forces — the “Agnipath” scheme.
-
-For the Narendra Modi government, not to know this is impossible. The solution to paper leaks does not lie in harsher punishment for the small fry who are invariably nabbed for paper leaks.
-
-The paper leaks business is big, an estimated Rs 1,000 crores at least. A punishment of Rs 10 crores is chicken-feed and entirely affordable.
-
-The “system” needs to be fixed; tokenism is not a solution. Education, in the context of public examinations, be it for admission into under-graduate, post=graduate or fellowship programmes or for recruitment in the safest and most secure jobs in the country, namely government jobs, has been reduced to a competition. It is a fierce fight to “crack the exam” — turning education into a commodity. By doing so, a market is created, of a supply mechanism of leaked papers to meet the demand to succeed.
-
-The National Education Policy and revisions of history and science curricula, dismantling institutions to replace them with new ones like the utterly untrustworthy National Testing Agency, which keeps springing leaks on unsuspecting students and helps the exam mafia rake profits contribute to the stench, but they aren’t solutions. Nor is tinkering with mid-day meals — satvik (pure vegetarian) menus versus menus with animal proteins — that fail to serve the purpose of a government-sponsored meal in schools.
-
-Students know what needs changing; so do educationists and experts; it is evident the government does not. Paternalistic, patriarchal and pathetic as the political class reveals itself to be, Gen Z or Gen Alpha knows it must stand up for itself or it will be thrown under the bus by a political class that talks about AI but does little to educate India’s young adequately to tackle an AI-appropriated world that eats up low-skilled jobs and has no value for the poorly qualified products of India’s ramshackle universities.
-
-The numbers, show exactly the pits of destroyed desires to which India’s youth have been consigned, with little chances of escape. Of 307 million young people in the 15-29 age group who entered the labour market, roughly 141 million are in the labour force; while 127 million are “employed”, but less than one in eight (15 million) have regular salaried jobs with a contract and social security, decent working conditions, fair pay and career prospects. Put differently, a quarter (25.7% of the young, and in India, the legal age for a young person to have a job is only 14) are engaged in unpaid family work. About 21.3% of the young are, euphemistically, engaged in “own account work,” while 22% are engaged in casual work, and 18% are employed in regular work, but without social security and only 11.8% have jobs with social security.
-
-Qualifications: a degree in medicine, engineering, or even law and in accountancy, are investments that the student and his/her family make to buy a chance at a better quality of life. It’s also true these families know there are no guarantees; the qualified young may not land the jobs that are worth the investment.
-
-Education needs capacity-building reforms that create the capabilities required by an economy that must adopt and adapt to AI technologies. It doesn’t need ideological reform of the Vedic maths variety. India needs massive investment in education; not the chicken feed of private investment in education as a safe profit-making route, but public investment to produce young Indians who can join a workforce that is transforming with AI technologies.
-
-There is a mismatch between expectations of the aspiring and it must be recognised; the meritorious young are frustrated by the very restrictive choices they have because of the serious scarcity of opportunities for work with adequate compensation.
-
-The Neet process is a test that excludes those deemed ineligible; a hit-and-miss event, that can destroy dreams, of the family and the tested, regardless of his/her talent. The job recruitment tests are also a method to exclude the eligible from the rest. In both instances, the number of vacancies — of seats in medical colleges and tenured jobs in various government services — are seriously disproportionate; over one crore aspirants ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/shikha-mukerjee-fix-the-education-system-just-a-new-law-not-enough-1976314)
-
----
-
-### Revive KGF, stop mining paralysis
-*Deccan Herald · Editorial*
-
-Andhra Pradesh's commissioning of the Jonnagiri Gold Mine, India's first private-sector primary gold mine since Independence, marks a milestone for the country's mining sector.
-
-The state is preparing several more gold-bearing blocks for auction to attract private investment and reduce imports. In contrast, India’s most famous gold mine at Kolar Gold Fields (KGF) in Karnataka continues to languish despite repeated promises of revival.
-
-The now-defunct Union government undertaking Bharat Gold Mines Limited (BGML), which operated KGF, was shut in 2001 after falling gold prices, mounting losses, and years of mismanagement rendered operations unviable.
-
-During its century-long history, BGML produced nearly 800 tonnes of gold. The Union Ministry of Mines itself informed the Karnataka High Court that reserves worth around Rs 8,000 crore may still be underground. The prolonged neglect of KGF is, therefore, difficult to justify.
-
-Inside India's first private gold mine as Andhra awaits its 'KGF moment'In 2006, the Union Cabinet approved handing over BGML's assets to the Employees Forum after valuation and global bidding, with the employees retaining the right to match the winning bid.
-
-Ernst & Young prepared the bid documents, which were approved by the Karnataka High Court and later upheld by the Supreme Court. Yet, nearly two decades later, the project remains mired in bureaucratic delays.
-
-The Employees Forum says it has repeatedly petitioned Prime Minister Narendra Modi for intervention, but to no avail. Meanwhile, BGML's nearly 20,000 acres of freehold land, strategically located along the Bengaluru-Chennai Industrial Corridor, faces steady encroachment, increasing the urgency for decisive action.
-
-The Centre's latest proposal to auction the tailings dumps — mounds of mine waste left behind after decades of gold extraction — has also raised legitimate concerns.
-
-Modern technology can recover significant quantities of gold from the 33 million tonnes of processed ore, making the dumps commercially attractive. However, employees argue that separating this asset would weaken the case of reviving the underground mines as an integrated project, an apprehension that cannot be ignored.
-
-At a time when the prime minister has urged Indians to reduce their appetite for imported gold, the most effective response is to boost domestic production by reviving KGF.
-
-Rather than allowing legal and administrative uncertainty to persist indefinitely, the Centre should constitute an expert committee comprising representatives from the Union and Karnataka governments, mining specialists, financial experts, and the Employees Forum.
-
-It should submit a time-bound roadmap to resolve the remaining legal hurdles, and recommend a viable revival strategy. India cannot afford to let one of its richest mining legacies remain buried under official indecision.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/revive-kgf-stop-mining-paralysis-4096828)
-
----
-
-### Sanctity cannot substitute neutrality
-*Deccan Herald · Editorial*
-
-The Supreme Court has rightly underlined the need for a fair process in the appointment of the Chief Election Commissioner (CEC) and election commissioners (ECs) while hearing a petition challenging the current system of appointment.
-
-Under the Chief Election Commissioner and Other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023, appointments of the CEC and ECs are made by a committee comprising the prime minister, a Union minister, and the leader of the opposition.
-
-This law was enacted after the apex court, in the Anoop Baranwal case, directed that the selection committee include the prime minister, the leader of the opposition, and the Chief Justice of India (CJI).
-
-The court laid down this procedure to ensure equal representation of the government and the Opposition, with an independent, neutral person of eminence as the third member to guarantee fairness in the choice.
-
-'No show of fairness?': Supreme Court questions exclusion of CJI from CEC, ECs appointment panelA bench of Justices Dipankar Datta and S C Sharma has, in earlier hearings, noted that the committee created by the 2023 law lacked even “one absolutely neutral person.”
-
-The presence of a neutral person on the committee is essential because elections are the most important democratic process, and the body that conducts them must be neutral and independent.
-
-Solicitor General Tushar Mehta defended the law, arguing that it was wrong to assume that the prime minister and the minister would “not act in the interest of democracy” merely because they hold a majority in the committee.
-
-He said that the office of the prime minister carries constitutional authority and high sanctity, and demanding a neutral member implied a lack of trust in the prime minister.
-
-The court made it clear that the issue was not one of trust or distrust in the prime minister, but imbalance in the committee’s composition, which tilts power toward the executive. Democratic processes must not only be fair but also be seen to be fair.
-
-The sanctity of the office of the prime minister does not ensure fairness and neutrality. The government rushed the legislation to override the Anoop Baranwal judgment and secure control over the appointment of the next CEC.
-
-The consequence is visible in the conduct of the Election Commission of India, which increasingly mirrors the government’s interests. The Solicitor General offered a weak defence of a wrong position, while the court’s questions and observations were fair and valid, and affirmed the need for institutional checks and balances in the system.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/sanctity-cannot-substitute-neutrality-4096827)
-
----
-
-### Iran breaks retaliation cycle
-*Deccan Herald · Opinion*
-
-The ongoing conflict in West Asia began on February 28, with the United States and Israel launching major air strikes, marking the start of the 2026 Iran war.
-
-Iran retaliated with missile and drone attacks across the region. A temporary ceasefire between the US and Iran came into effect on April 8. On July 10, US President Donald Trump stated that the ceasefire was “over”, due to Iranian strikes on commercial shipping in the Strait of Hormuz, indicating the collapse of the truce.
-
-The US resumed a new wave of strikes on Iran, with Iran retaliating across the Gulf. On July 25, Trump said that the US had paused its bombing campaign to allow diplomacy a chance, and he later said that Washington and Tehran were having “good talks”.
-
-'For future benefit of the world': Trump announces pause in strikes on Iran if a deal is agreed uponReuters reported that the pause followed concerns raised by senior military leaders about the sustainability and effectiveness of continued strikes. In response, a senior Iranian official said that Iran would halt retaliatory strikes as long as the US maintained its pause in bombing. Consequently, there was an uneasy pause in hostilities, and oil markets began to stabilise.
-
-That calm did not last long. On July 29, Iran launched pre-emptive ballistic missile attacks on US forces in Jordan and Kuwait.
-
-This was an unexpected, exceptional strategic shift by Iran, which had been following a strike-for-strike retaliatory policy until now. Prior to that, it had also activated its proxies, notably in Sudan and Iraq. On July 20, the Houthis announced a “maritime blockade” against Saudi Arabia, and that Saudi-linked shipping in the Red Sea and the Bab el-Mandeb Strait would be targeted.
-
-The conflict entered a new phase when Saudi Arabia publicly joined US strikes against Iran-backed militias in Iraq, marking Riyadh’s first acknowledged participation in the widening campaign.
-
-On July 29, the arc of the West Asian conflict further enlarged when an unidentified drone attacked Damietta Port on Egypt’s Mediterranean coast near the Suez Canal, causing a fire on US-linked gas storage tanker Energos Winter, which spread to a second vessel, Gaslog Salem.
-
-These developments have far-reaching implications for both the conduct and the eventual outcome of the conflict. By its recent actions, Iran has attempted to take control of the escalation continuum by raising the stakes for the US and, through horizontal escalation, amplifying instability and insecurity in the region.
-
-So far, the US has been controlling the escalation ladder with Iran in the reactive mode. Throughout the conflict since February, Iranian officials have consistently framed military actions as proportionate retaliation for US attacks, sanctions, and pressure. That narrative helped Iran position itself domestically and internationally as reacting rather than initiating. This pattern has been reversed. Iran has rightly concluded that the US lacks the appetite to force a decisive outcome of the conflict.
-
-Over time, Iran has assessed that the current scale and trajectory of US military operations will likely remain unchanged. In fact, the US is striving to wage a high-stakes war using a force level designed for rapid response and limited objectives, rather than decisive victory. This is not the force posture for achieving a regime change, destroying nuclear capability or forcing a total surrender.
-
-Even securing Kharg Island or the Strait of Hormuz is beyond the capability of these forces. Moreover, the US naval blockade of Iran is largely a symbolic reaction lacking strategic intent. It represents tokenism undertaken in response to military and diplomatic failures in altering Tehran’s position.
-
-Therefore, Washington’s frequent and unceasing threats to annihilate the country have not been taken seriously by Iran, as it lacks credibility and has become ineffectual. As force becomes less usable, the threat to use it loses its value.
-
-Escalation, in many ways an irreversible process, is a competition to pay the cost in pursuit of objectives and is also a competition in risk-taking. Consequently, escalation dominance is a complex mind game in which military calculations are only one element of the matrix; others being resolve, commitment, assurance, morale, and internal discipline.
-
-The US has fared poorly in these parameters. The US had the military power to expel the Chinese from Korea in 1953 but was irresolute. Iran also feels it has suffered enough. Therefore, it has attempted to escape from the current state, where it is being continuously battered by the US, by changing the circumstances.
-
-Surprisingly, the US political and military leadership has been unable to read the Iranian intention to escalate in the fog of war, which will always exist in a conflict situation.
-
-What may happen now? The April agreement to cease hostilities and negotiate for lasting peace is dead and buried. Renewed bombing duels by both sides, interspersed with pauses, are likely to continue along with diplomatic efforts. Both sides will have to accept a ceasefire with conditions or guarantees satisfactory to Iran, which will retain its military capability, bolstered further by Russia and China.
-
-Any long-term agreement will have to be renegotiated. Since Iran has equal, if not more, leverage now than it had in April, it is in a position of strength to dictate terms and not accept conditions unfavourable to it.
-
-Reuters quoted Trump admitting on August 1 that “Iran is becoming stronger every day, and if we wait too long, the problem gets much bigger.”
-
-However, the US may have to settle for an inconclusive or disjunctive outcome, like the status quo ante that existed when the conflict commenced. It may also have to accept a compromise settlement that largely reflects Iran’s current control of Hormuz.
-
-The issue of dismantling Iran’s nuclear capability has become even more vexed after the US and Saudi Arabia signed a civil nuclear cooperation agreement on July 22. Iran is unlikely to settle for anything that curtails its nuclear potential in relation to Saudi Arabia. The US is in a serious predicament that is largely of its own making.
-
-The author is a former Vice Chief of Army Staff.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/iran-breaks-retaliation-cycle-4096831)
 
 ---
 
