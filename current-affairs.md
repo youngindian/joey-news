@@ -1,3 +1,434 @@
+## 2 November 2026
+
+### Turbulence, ice build-up, -47°C temp: Did weather play a role in Learjet crash?
+*India Today Science Desk · general*
+
+## A Learjet 60 crew reported ice and turbulence before declaring an emergency over Florida. Investigators are examining whether severe weather contributed to its fatal crash.
+
+Weather maps from the period show extensive cloud cover and precipitation across Florida. (Photo: X/elteslaengineer)
+
+New Delhi,Nov 2, 2026 11:50 IST
+
+The final radio transmissions from the cockpit of a Learjet 60 that crashed in Florida have raised questions about whether rapidly developing thunderstorms, turbulence and icing contributed to the aircraft’s catastrophic loss of altitude.
+
+The aircraft, registered as N722BD, crashed near Greenacres in Palm Beach County on November 1, killing all nine people on board. It was flying from Austin, Texas, to North Eleuthera in the Bahamas when it encountered deteriorating weather conditions over Florida.
+
+“We have light, clear ice that is manageable and moderate turbulence,” the pilot told Miami Air Route Traffic Control Center, according to recordings of the exchange.
+
+> The Learjet 60 that crashed in Palm Beach County today went from 35,000 ft to the ground in 76 seconds. I rebuilt the last 3 minutes in 4D from ADS-B, ATC audio, a NEXRAD analysis and dashcam video, then ran the engineering. Here's what the data says, and what it doesn't. https://t.co/9VMIT6qs3R— El Tesla (@elteslaengineer) November 2, 2026
+
+The crew also reported an outside air temperature of minus 47 degrees Celsius. The aircraft was experiencing turbulence significant enough to cause altitude deviations, and the pilots asked whether there was a smoother route ahead.
+
+The situation then deteriorated rapidly. After reporting precipitation and requesting permission to climb to 37,000 feet, the crew declared an emergency.
+
+“We’re descending 8,000 – mayday, mayday – we’re descending 10,000 feet per minute,” the pilot radioed. Moments later, the pilot reported an overspeed condition and a descent rate of 20,000 feet per minute, warning: “We’re going to crash into the ground.”
+
+### DID THE LEARJET FLY INTO A THUNDERSTORM?
+
+Weather maps from the period show extensive cloud cover and precipitation across Florida, with clusters of stronger thunderstorms over the Gulf of Mexico, the state's west coast and parts of southern Florida. The aircraft's route took it across a region experiencing unsettled weather.
+
+A preliminary analysis by meteorologist Matthew Cappucci, published by MyRadar, suggests a developing thunderstorm was present near the aircraft's location shortly before the crash.
+
+The storm's cloud tops reportedly grew from just under 33,000 feet to around 48,300 feet in approximately 20 minutes, a sign of powerful atmospheric updrafts.
+
+> Slow motion video of the plane crash in Palm Beach Florida moments ago. Learjet 60 https://t.co/cwH8thiKtm— Brian Krassenstein (@krassenstein) November 1, 2026
+
+Such rapidly growing thunderstorm cells can produce severe turbulence. They can also transport supercooled liquid water to high altitudes, potentially creating hazardous icing conditions.
+
+This could be significant because clear ice forms when supercooled water droplets freeze on contact with an aircraft's surface. It can alter the shape of wings and other aerodynamic surfaces, affecting lift and aircraft handling.
+
+However, the reported minus 47-degree temperature also makes the precise icing environment an important question for investigators. Conditions inside a vigorous thunderstorm can differ sharply from those in the surrounding air.
+
+### WEATHER A POSSIBLE FACTOR, NOT A CONFIRMED CAUSE
+
+The National Transportation Safety Board (NTSB) is investigating the crash, with assistance from the Federal Aviation Administration.
+
+Investigators will examine the aircraft's flight data, weather radar, cockpit recordings, maintenance history and crew actions.
+
+For now, the weather evidence raises important questions but does not establish why the Learjet entered its steep descent.
+
+Whether icing, turbulence, a loss of control or a combination of factors triggered the emergency will have to be determined by the investigation.
+
+\- Ends
+
+---
+
+### Rapido Gets Representation on National Social Security Board for Gig and Platform Workers
+*Prakash Chand · general*
+
+## Rapido Gets Representation on National Social Security Board for Gig and Platform Workers
+
+Manasvi Mann, General Counsel and Head of Corporate Affairs and Public Policy at Rapido, nominated as a member; company is the only app-based passenger mobility aggregator among five platform companies represented.
+
+The Government of India has constituted the National Social Security Board for gig and platform workers through the Ministry of Labour and Employment, bringing together industry representatives, worker organisations, government officials and experts to strengthen social protection for the country's growing gig workforce.
+
+Among the industry nominees, Manasvi Mann, General Counsel and Head of Corporate Affairs and Public Policy at Rapido, has been appointed as a member of the Board, as stated in the Ministry's recently issued Extraordinary Gazette notification. Rapido is the only app-based passenger mobility aggregator among the five platform companies whose representatives have been nominated to the national body.
+
+The constitution of the Board marks a step towards developing and implementing social security measures for gig and platform workers. Its work will contribute to improving access to welfare benefits, financial security and long-term protection for people engaged in platform-based work.
+
+The Board brings together representatives from digital platforms, worker organisations, central and state governments, as well as subject-matter experts. This structure provides a platform for different stakeholders to share their perspectives and contribute to the development of practical and sustainable welfare measures.
+
+Rapido's representation is expected to bring the perspective of app-based passenger mobility into national discussions on gig-worker welfare. The sector includes bike-taxi, auto and cab services, which create livelihood opportunities while also involving specific considerations 
+
+Through Manasvi Mann's participation, Rapido will be represented in discussions on the responsible development of India's platform economy and the social security needs of gig and platform workers. The deliberations will involve government officials, industry representatives, worker organisations and other stakeholders.
+
+The formation of the Board comes at a time when platform-based work is receiving increasing attention for its role in creating livelihood opportunities. Alongside the expansion of this sector, the need for accessible welfare measures that support workers' financial and social security has also become important.
+
+Rapido's inclusion places app-based passenger mobility within a wider consultative framework involving policymakers, industry and worker representatives. The Board's constitution reflects the growing importance of developing inclusive social protection systems as India's gig economy expands, with long-term worker security remaining central to its sustainable growth.
+
+---
+
+### Indian Stocks Outperform Global Markets In October As Investors Rotate Away From AI Stocks: Goldman Sachs
+*Mohammad Haris · business*
+
+India's benchmark Nifty outperforms MSCI Asia-Pacific ex-Japan (MXAPJ) index by 7 percentage points in October, reversing its underperformance during the first nine months of 2026.
+
+[Read full article](https://www.news18.com/business/markets/indian-stocks-outperform-global-markets-in-october-as-investors-rotate-away-from-ai-stocks-goldman-sachs-10408368.html)
+
+---
+
+### Delhi trade suffers Rs 11,000 crore loss due to November 1 rally, claims traders' body
+*Ashutosh Mishra · general*
+
+## CTI said the November 1 Ramlila Maidan rally disrupted trade across Delhi. Its estimate covered retail, transport, hospitality, tourism and daily-wage livelihoods.
+
+2.5 lakh shops were shut in key markets like Chandni Chowk and Karol Bagh.
+
+New Delhi,Nov 2, 2026 11:35 IST
+
+Delhi's trade suffered an estimated loss of Rs 11,000 crore on November 1 due to the mega rally held at Ramlila Maidan, the Chamber of Trade and Industry (CTI) has claimed. The traders' body said the disruption affected retail and wholesale markets, transport, hospitality and tourism, with around 2.5 lakh shops remaining shut.
+
+According to an assessment released by CTI, retail and wholesale trade accounted for the biggest share of the estimated loss at Rs 8,800 crore. Transport and logistics suffered an estimated loss of Rs 1,500 crore, while the hospitality, hotel, restaurant and tourism sectors lost around Rs 500 crore. The informal sector and daily-wage workers accounted for the remaining Rs 200 crore.
+
+CTI chairman Brijesh Goyal said the rally came at a particularly sensitive time for Delhi's traders, as markets were preparing for the festive shopping rush ahead of Dhanteras on November 6 and Diwali on November 8.
+
+### RETAIL TRADE, TRANSPORT HIT
+
+CTI said around 2.5 lakh shops remained completely shut across markets within a five-kilometre radius of Ramlila Maidan. These included major trading centres such as Chandni Chowk, Sadar Bazaar, Kashmere Gate, Khari Baoli, Chawri Bazaar, Connaught Place, Karol Bagh, Paharganj and Bhagirath Palace.
+
+The organisation estimated that around 80% of business activity in these markets came to a halt. It also said the rally led to panic among customers from nearly 100 cities and towns around Delhi, including Sonipat, Panipat, Gurugram, Faridabad, Ghaziabad, Noida and Meerut. These areas typically send around 3-4 lakh customers to Delhi's markets, according to CTI.
+
+Transport and logistics operations were also severely disrupted, the traders' body claimed. It said loading and unloading of goods stopped within a 10-kilometre radius of the rally venue, affecting the movement of goods between Delhi's markets and industrial areas.
+
+Around 5,000 trucks and tempos from 56 industrial areas, including Narela, Bawana, Okhla, Mayapuri and Mundka, reportedly bring goods to these markets every day. Another 3,000 vehicles transport goods from Delhi to the NCR and other parts of the country.
+
+CTI also claimed that around 15,000-20,000 buses, cars and tempos were stranded on key roads, including Jawaharlal Nehru Marg, Bahadur Shah Zafar Marg and Netaji Subhash Marg.
+
+### HOTELS, RESTAURANTS AND DAILY-WAGE WORKERS AFFECTED
+
+The hospitality and tourism sectors also faced disruption, according to CTI. The organisation estimated that more than 2,000 hotels, restaurants, guest houses and eateries in areas such as Connaught Place, Karol Bagh, Paharganj, Chandni Chowk and Daryaganj faced booking cancellations.
+
+Tourists, both domestic and foreign, were also unable to visit popular destinations such as the Red Fort, Jama Masjid and Chandni Chowk, it said.
+
+The impact was also felt by workers dependent on daily earnings. CTI estimated that around 20 lakh people, including loaders, auto and e-rickshaw drivers, street vendors, porters and other workers, lost a day's income.
+
+### 'WE ARE TRADERS, NOT BJP AGENTS'
+
+Goyal also pushed back against allegations that the traders' body was acting on behalf of the BJP. He said around 100 market associations had appealed to the Congress to postpone the rally, arguing that it would disrupt business during the festive season.
+
+"We are traders, not BJP agents. These market associations are not agents of any political party. We are traders in Delhi, and our work is business, not politics," Goyal said.
+
+The CTI chairman also questioned who would compensate traders, factory owners and shopkeepers for the losses allegedly suffered because of the disruption.
+
+The Rs 11,000 crore figure is CTI's estimate of the economic impact of the rally, based on its assessment of business activity across the affected sectors.
+
+\- Ends
+
+---
+
+### BJP's Mega Battle Plan For UP 2027: PM Modi, Shah, Nabin To Lead Post-Diwali Blitz In November-December
+*Pragati Ratti · general*
+
+Under the strategy, Prime Minister Narendra Modi will be the principal face of the BJP's Mission 2027 campaign.
+
+[Read full article](https://www.news18.com/india/bjps-mega-battle-plan-for-up-2027-pm-modi-shah-nabin-to-lead-post-diwali-blitz-in-november-december-ws-l-10408348.html)
+
+---
+
+### Apple to launch next-gen touch-screen MacBook Pro with M7 Pro, M7 Max chips
+*Kazi Nasir · general*
+
+This year, Apple has done several things that break more than a decade of industry precedent. From introducing its first-ever touchscreen laptops with OLED displays to stepping into the foldable smartphone market and revamping Siri with AI, the company is making some major changes. Now, its new touchscreen MacBooks have barely hit physical shelves; a fresh report suggests the iPhone maker has already begun sketching out second-generation versions of touch laptops for next year.
+
+According to Bloomberg's Mark Gurman, Apple's touchscreen MacBook Pro is expected to get another major upgrade next year. The upcoming models are reportedly set to feature M7 Pro and M7 Max chips, which could unlock new AI hardware capabilities and make Apple's next-generation laptops even more interesting. The report also suggests that Apple is planning to bring an entry-level 14-inch M7 MacBook Pro, which will feature a “thinner, lighter design and slimmer bezels introduced on the higher-end versions this past week.”
+
+The current touchscreen MacBook Pro models, announced on October 28, come in 14-inch and 16-inch sizes. They feature what Apple calls a new PROLED XDR display, which uses tandem OLED technology, and support touch gestures such as swiping, pinching to zoom and dragging content across the screen. Apple says the feature can be useful for tasks such as manipulating 3D models and playing musical instruments on screen.
+
+Apple has also added the Dynamic Island to the Mac for the first time, replacing the traditional notch. These laptops are powered by M5 Pro and M5 Max chips and promise up to 24 hours of battery life.
+
+However, the next upgrade could be more about what's happening inside. According to Gurman's reporting, Apple is skipping the M6 Pro and M6 Max generations and moving directly to M7 Pro and M7 Max chips, which are being developed with AI workloads in mind. The high-end touchscreen MacBook Pro models with these processors are reportedly planned for late 2027.
+
+Maintaining two high-end MacBook Pro lineups could create complications for Apple. As Gurman points out, the company would have to manage separate engineering, marketing and manufacturing efforts for both models. Since their prices could be relatively close, Apple might eventually bring the two lineups together, potentially simplifying its MacBook Pro portfolio.
+
+\- Ends
+
+---
+
+### K Annamalai battles pain, cramps to finish Ironman 70.3 challenge for 2nd time
+*India Today Trending Desk · general*
+
+## Former Tamil Nadu BJP chief K Annamalai completed the Ironman 70.3 challenge in Goa for the second consecutive year, pushing through severe pain and relentless cramps to cross the finish line.
+
+K Annamalai battles pain, cramps to finish Ironman 70.3 challenge for 2nd time (Photos: K Annamalai/X)
+
+New Delhi,Nov 2, 2026 11:32 IST
+
+Former Tamil Nadu BJP chief K Annamalai completed the Ironman 70.3 challenge in Goa for the second consecutive year.
+
+In a post on X, Annamalai shared pictures from the sporting event and reflected on the physical challenges he faced during the race.
+
+The Ironman 70.3 is a half-distance triathlon that tests athletes' endurance across three disciplines: a 1.9-km swim, a 90-km cycling leg and a 21.1-km run, covering a total distance of 113 km.
+
+Annamalai said he was glad to have crossed the finish line once again, despite moments of excruciating pain and relentless cramps that made every step difficult.
+
+“There were moments when excruciating pain and relentless cramps made every step an uphill battle. Crossing the finish line made every bit of the struggle worthwhile," he wrote, adding that the journey continued to make him "a better version" of himself.
+
+Take a look at his post here:
+
+> For the second consecutive year, I returned to Goa to take on the Ironman 70.3 challenge. I am glad to have crossed the finish line once again. There were moments when excruciating pain and relentless cramps made every step an uphill battle. Crossing the finish line made every bit of the struggle worthwhile. The journey continues to make me a better version of myself! Heartiest congratulations to all participants who took up the challenge this year, and a special shout-out to the volunteers of this world-class organisation, Ironman 70.3 Goa, for making the event memorable.— K.Annamalai (@annamalai\_k) November 1, 2026
+
+Annamalai also congratulated all participants who took up the challenge this year and extended a special shout-out to the volunteers of Ironman 70.3 Goa for making the event memorable.
+
+\- Ends
+
+---
+
+### Reddit Login Requirement Explained: What Could Change for Users Soon
+*Waquar Haider · technology*
+
+The social media site, Reddit, is now proposing to make its users log in to view its content. Steve Huffman, the CEO of Reddit, made the announcement on Friday, saying that the company will first roll out the change in a few select locations outside of the United States. At the moment, Reddit makes it possible for people to view much of its content without creating an account. The decision to log in will enable Reddit to personalize content recommendations and increase advertising income while preventing unauthorized data mining.
+
+> Reddit plans to require logins to browse most of the platform with tests starting in select markets outside the US The front page and some shared posts may remain accessible without an account https://t.co/tvaW6TNjX7
+> 
+> — Dexerto (@Dexerto) October 29, 2026
+
+Steve Huffman revealed in his post on Reddit that the social media site is making a move toward an experience where users will be required to be logged in to view content. Logging in will allow Reddit to give more relevant recommendations to its users.
+
+For more than two decades, Reddit has been allowing people to view much of its content without having to log in. With the proposed change, Reddit will try to encourage its users to log in to personalize content recommendations and increase its advertising revenue.
+
+As per the CEO, logging in will allow the site to recommend communities, discussions, and other content based on user interests. Logged-in users will also be allowed to engage in activities like voting and commenting. The company intends to roll out this strategy to select regions outside the US in the coming months, but it is yet to reveal which countries they are targeting.
+
+> Reddit plans to introduce a login requirement that will restrict access to much of its platform for users who aren't signed in. https://t.co/HHAhqRDmY0
+> 
+> — PetaPixel (@petapixel) October 30, 2026
+
+That notwithstanding, the site is planning to keep its homepage open to non-signed-in users. Users that find their way to the site through external search engines or referral URLs will also be able to see the discussions, according to Huffman. The mandatory login strategy will also serve the purpose of limiting the unauthorised data scraping from Reddit.
+
+Reddit is sure that limiting access to logged-out users will limit third parties' ability to scrape posts and discussions without authorisation. The new strategy will also help the company improve its advertising efforts.
+
+**Also See: Voice Cloning Scams: How To Protect Yourself From Audio Deepfakes**
+
+---
+
+### Delhi-NCR Pollution Plan: 50% WFH, Vehicle Checks And Construction Curbs – What Has The Govt Ordered Ahead Of Diwali?
+*Parishmita Saikia · general*
+
+Delhi-NCR is introducing precautionary curbs ahead of Diwali to tackle rising pollution. Find out how 50% WFH, construction restrictions and vehicle checks will affect residents
+
+[Read full article](https://www.news18.com/cities/new-delhi-news/delhi-ncr-pollution-plan-50-wfh-vehicle-checks-and-construction-curbs-what-has-the-govt-ordered-ahead-of-diwali-ws-l-10408178.html)
+
+---
+
+### Apple Watch Series 12 Has A New Rival? Deepinder Goyal Makes Big Claim About Temple
+*Priya Singh · technology*
+
+Deepinder Goyal's Temple wearable is now available for pre-orders in India. Ahead of its debut, the Zomato founder shared a performance claim on X, saying the device can measure heart rate more accurately than several popular wearables, including the Apple Watch Series 12. Temple is said to have shown an advantage during high-intensity workouts, where maintaining accurate heart rate readings can be more challenging. However, these are claims made by the company, and independent testing will be needed to establish how its performance compares with competing devices.
+
+## Temple Costs Rs 85,000, Buyers May Have To Wait Three Months
+
+Temple is not being sold like a regular off-the-shelf fitness tracker. The company is taking orders through a made-to-order system, with each buyer potentially waiting up to three months for delivery. An early-access invitation puts its price at Rs 85,000. There is also an option to back out of the purchase, but only until the wearable has been dispatched. Customers can request a refund within this period.
+
+## Deepinder Goyal Says Temple Outperforms Leading Wearables
+
+For Deepinder Goyal, Temple's biggest selling point is not simply that it tracks heart rate, but how well it does so when the body is pushed to its limits. The Zomato founder says the device is being developed as the "ultimate wearable for elite performance athletes". Explaining why the company is focusing on this feature, he wrote, "You would think accurate HR (Heart Rate) tracking is a solved problem. It is not. Especially in zones 4 & 5, which matter to professional athletes the most."
+
+> At @temple, one of our missions is to become the ultimate wearable for elite performance athletes. And today, let's start with the basics: Heart Rate (HR). You would think accurate HR tracking is a solved problem. It is not. Especially in zones 4 & 5, which matter to professional athletes the most. To see whether Temple is the most accurate wearable on something as basic as HR, we gave ourselves a high bar to aspire to. A Polar H10 chest strap, taped to the chest. Taped, because worn the usual way, straps lose contact mid-sprint and miss beats. We benchmarked five flagship wearables against that reference, from rest to max effort, second by second. All the other leading wearables were well behind Temple in our study. Apple Watch Series 12 came closest. Temple also beat the untaped chest strap, the industry's benchmark, in zones 4 and 5. Why does Temple win? Two reasons. 1. Temple uses adhesive, so its lab condition is its wear condition. You'll experience our study outcomes in real life. 2. The location. Your temple sits right over a major artery, and it's the one patch of skin that doesn't clamp down its blood flow when you go hard. We tested the same sensor at four body sites. The temple was the most accurate of the four. Charts attached. Accurate HR makes Temple better at so much more downstream. More soon. The full paper and data are live right now at https://t.co/ovabS2dvnY, and an extended study by independent researchers is underway. We invite further independent replication in more conditions, and will fund it. Write to us at research@temple.com
+> 
+> — Deepinder Goyal (@deepigoyal) November 1, 2026
+
+## How Temple Was Tested Against Apple Watch
+
+Temple's performance was measured against five premium wearables, with a Polar H10 chest strap serving as the benchmark. However, the company changed how the reference device was worn. Instead of using it in the conventional way, Temple taped it to the participant's chest, arguing that a strap can shift during fast movements and fail to register some heartbeats. The comparison covered different levels of physical activity, starting with rest and progressing to maximum effort. Heart rate readings from all devices were then matched at one-second intervals. Goyal said Temple recorded better results than the competing wearables, with the Apple Watch Series 12 coming closest to its performance. The company also claims its device produced more accurate readings than a normally worn Polar H10 during the most demanding exercise zones.
+
+## Why Temple Is Worn On The Side Of The Head
+
+Temple's design is central to its accuracy claims. Unlike smartwatches that sit around the wrist, this wearable sticks to the side of the head, in the area between the forehead and ear. Goyal believes this position gives its sensor access to a major artery without the same blood-flow restrictions that can affect other measurement points during strenuous exercise. The company says it tested the sensor at four different locations before settling on the temple, with Goyal noting, "We tested the same sensor at four body sites. The temple was the most accurate of the four." Temple has also released its research paper and test data publicly. However, the findings are yet to be independently validated. Goyal says the company is open to researchers repeating the experiment and has offered to fund independent testing under different conditions.
+
+**ALSO SEE: Halloween 2026: Best ChatGPT AI Photo Editing Prompts to Create Stunning Images**
+
+---
+
+### What does Murasu mean? The story behind the cyclone heading towards Andhra
+*Pramod Madhav · general*
+
+A cyclone heading towards Andhra Pradesh has a name that sounds more like a call to battle than a weather warning. Called Murasu, the storm has drawn its name from Tamil, where the word refers to a large drum traditionally used during war, celebrations and to alert people to impending danger.
+
+But Murasu is not just an unusual name picked for a storm approaching India's eastern coast. It is part of a pre-approved list of cyclone names, with each country in the North Indian Ocean region contributing names under an established international system.
+
+The name has also followed a specific sequence. Days after Cyclone Arnab, which was named by Bangladesh, made landfall in Andhra Pradesh on October 28, the India Meteorological Department (IMD) named the next cyclonic storm Murasu. India had contributed the name to the regional list.
+
+So, how did an Andhra-bound cyclone get a Tamil name, and who decides what a storm should be called?
+
+### WHY IS THE CYCLONE CALLED MURASU?
+
+Murasu is a Tamil word referring to a musical instrument, specifically a large drum. Traditionally, the instrument has been associated with different public and social occasions, including warfare, celebrations and alerting people to imminent danger.
+
+The drum was used to communicate important messages, summon people and signal events. One of its traditional forms, Veera Murasu, was a martial drum used for military purposes.
+
+According to the naming guidelines, cyclone names should have a connection with people, be easy to pronounce and should not be anyone's specific name. Murasu is among the names contributed by India to the official list used for cyclones forming over the North Indian Ocean.
+
+Its cultural association with alerting people to danger makes the name particularly striking for a storm, although a cyclone's name does not indicate its intensity or the threat it poses.
+
+### HOW DID MURASU FOLLOW CYCLONE ARNAB?
+
+The sequence in which cyclones receive their names is not decided by the country towards which a storm is heading.
+
+The North Indian Ocean cyclone naming list contains 169 names, with 13 names contributed by each of the 13 participating countries. These countries are arranged alphabetically, and the names are used in a predetermined sequence.
+
+In the relevant sequence, Bangladesh's Arnab was followed by India's Murasu, with Iran's Akvan next in line.
+
+This explains why the cyclone approaching Andhra Pradesh received an Indian name. It was not because the storm was expected to make landfall in India, but because Murasu was the next name in the regional naming sequence.
+
+The same list is used for cyclones forming over both the Bay of Bengal and the Arabian Sea.
+
+### WHO DECIDES THE NAMES OF CYCLONES?
+
+Cyclone naming involves three stages: countries proposing names, the regional committee approving the list and the designated weather centre assigning a name when a storm qualifies.
+
+Participating countries submit suggestions through regional arrangements involving their respective weather services. The names are then considered and approved under the World Meteorological Organization's framework.
+
+For the North Indian Ocean, the India Meteorological Department (IMD), headquartered in New Delhi, is the designated centre responsible for assigning cyclone names.
+
+Its responsibility extends to cyclones forming over the Bay of Bengal and the Arabian Sea, including storms that may eventually affect countries other than India.
+
+The names are therefore assigned according to the approved regional sequence, rather than the location where a cyclone is expected to make landfall.
+
+### WHAT RULES MUST A CYCLONE NAME FOLLOW?
+
+Not every suggested word makes it to the official cyclone naming list. Names have to meet specific conditions before they can be approved.
+
+For the North Indian Ocean region, names must be short, easy to pronounce and contain no more than eight letters. They must not be offensive and should remain neutral towards politics, political figures, religious beliefs, cultures and gender.
+
+Public suggestions can also be considered. An IMD committee had considered suggestions from people in India while selecting the country's contributions to the 2020 list.
+
+However, a proposed name must undergo scrutiny and receive approval before it becomes part of the official list. The regional panel can reject a suggestion or review an approved name if a reasonable objection is raised.
+
+### WHEN DOES A CYCLONE GET ITS NAME?
+
+A weather system does not receive a cyclone name as soon as it develops over the sea.
+
+In the North Indian Ocean region, the IMD assigns a name when a system's maximum sustained surface wind speed reaches at least 34 knots, or approximately 62 kmph. This is the threshold for cyclonic storm intensity.
+
+A depression can be tracked by weather agencies before reaching this stage. Once it qualifies and receives a name, the storm retains that name even if its intensity increases.
+
+This means that even if Murasu strengthens, it will continue to be called Murasu.
+
+### FROM MURASU TO AKVAN, WHAT COMES NEXT?
+
+The cyclone naming list also provides a glimpse of the name that could be assigned to the next qualifying storm in the region.
+
+With Bangladesh's Arnab followed by India's Murasu, Iran's Akvan is next in the sequence.
+
+However, this does not mean that another cyclone is expected to form immediately. The naming sequence only determines which approved name will be used when a future weather system meets the criteria for being declared a cyclonic storm.
+
+For now, Murasu is the name attached to the storm approaching Andhra Pradesh. While its name comes from a traditional Tamil drum associated with warning people of danger, it is the IMD's weather bulletins and advisories that will determine the actual threat posed by the cyclone.
+
+\- Ends
+
+---
+
+### AQI crosses 500 in Delhi: NCR braces for toxic fortnight as November air worsens
+*India Today Science Desk · general*
+
+Delhi has entered the fortnight that typically records some of the highest air pollution levels of the year, with farm fires, festival-
+
+The warning signs are already visible. Real-time readings from AQI.in on November 2 showed Delhi's AQI at 386 at 11:01 am, placing it in the 'Severe' category on the platform.
+
+The reading had peaked at 512 shortly after midnight, while the minimum over the preceding 24 hours was 334. Neighbouring Noida recorded an even higher AQI of 409 at 11:01 am, classified as 'Hazardous' by the platform.
+
+The readings also showed dangerously elevated particulate pollution. Delhi's PM2.5 concentration stood at 233 micrograms per cubic metre, while PM10 was recorded at 291 micrograms per cubic metre. In Noida, PM2.5 was 262 micrograms per cubic metre and PM10 stood at 297 micrograms per cubic metre.
+
+Graphic: AQI.in
+
+These are real-time readings from AQI.in and should not be confused with the Central Pollution Control Board's 24-hour citywide average. CPCB's average AQI for Delhi on November 1 was 261, in the 'Poor' category. However, several monitoring stations had already reported 'Very Poor' air quality.
+
+### WHY THE NOVEMBER FORTNIGHT MATTERS
+
+The first half of November is particularly challenging for Delhi-NCR because multiple pollution sources converge.
+
+Paddy harvesting in Punjab and Haryana leads to a seasonal rise in stubble-burning incidents, sending smoke and particulate matter towards the national capital depending on wind direction.
+
+According to the government's Decision Support System, farm fires contributed around 18.57 per cent of Delhi's pollution on November 1, up sharply from 5.33 per cent a day earlier.
+
+Historically, the contribution from agricultural fires tends to peak around the first week of November. Transport emissions also remain a significant source of pollution.
+
+Graphic: AQI.in
+
+Festival-
+
+Weather plays a critical role in determining how long pollutants remain trapped over the region. Low wind speeds, falling temperatures and a shallow atmospheric mixing layer restrict the vertical and horizontal dispersion of pollutants. This allows emissions from vehicles, industries, construction, waste burning and farm fires to accumulate close to the surface.
+
+The Air Quality Early Warning System for Delhi has forecast that air quality could deteriorate into the 'Very Poor' category on November 4, with conditions likely to remain between 'Poor' and 'Very Poor' over the subsequent six days.
+
+### AUTHORITIES ANNOUNCE PRECAUTIONARY CURBS
+
+The Commission for Air Quality Management has already moved to tighten pollution-control measures.
+
+Under a fresh order, government and private offices in Delhi and six NCR districts will operate with only 50 per cent of staff attending physically between November 5 and 20, with the remaining employees working from home.
+
+Graphic: AQI.in
+
+The commission has also ordered restrictions on dust-generating construction and demolition activities during this period. These measures come in addition to Stage-I restrictions under the Graded Response Action Plan, which were invoked on October 21.
+
+Vehicle restrictions have also been tightened, including curbs on the entry of non-BS-VI compliant vehicles registered outside Delhi from November 1.
+
+With the most polluted part of the season now underway, the coming days will test whether these preventive measures can limit the deterioration. For residents, the concern is not merely a few hours of poor visibility, but prolonged exposure to high concentrations of fine particulate matter that can penetrate deep into the lungs.
+
+Delhi's winter pollution season has begun in earnest, and the next fortnight could determine how severe the capital's air crisis becomes this year.
+
+\- Ends
+
+---
+
+### ‘Can't Touch Me’ Vs ‘Movie Is Yet To Come’: Karnataka Sting Op Row Reaches Kumaraswamy's Door
+*Aanchal Sinha · general*
+
+Two videos containing serious allegations against Siddaramaiah were reportedly uploaded on YouTube in September.
+
+[Read full article](https://www.news18.com/india/cant-touch-me-vs-movie-is-yet-to-come-karnataka-sting-op-row-reaches-kumaraswamys-door-ws-kl-10408217.html)
+
+---
+
+### ED raids ex-Punjab minister, son and associates in disproportionate assets case
+*Munish Pandey · general*
+
+## The searches come ahead of the 2027 Punjab Assembly elections and are linked to a corruption and disproportionate assets case involving Arora, along with alleged irregularities in Punjab Small Industries and Export Corporation (PSIEC) plot allotments and subsequent changes in ownership.
+
+Punjab ex-Industries minister Sunder Sham Arora (Sunder Sham Arora/X handle)
+
+The Enforcement Directorate (ED) on Monday conducted searches at multiple locations in Punjab and Chandigarh targeting former Punjab Industries Minister and Congress leader Sunder Sham Arora, his son Prateek Arora, the Marbella Group, Gulmohar Township Group, their promoters and Sanjeev Juneja.
+
+The searches come ahead of the 2027 Punjab Assembly elections and are linked to a corruption and disproportionate assets case involving Arora, along with alleged irregularities in Punjab Small Industries and Export Corporation (PSIEC) plot allotments and subsequent changes in ownership.
+
+Earlier, leaders linked to the ruling Aam Aadmi Party (AAP) in Punjab had also faced action by central agencies. In May, the ED arrested Punjab minister and AAP leader Sanjeev Arora after conducting searches at his residence and premises linked to him in a money laundering case.
+
+The agency's probe involved alleged fake GST purchases of mobile phones worth over Rs 100 crore and claims of fraudulent input tax credit. The arrest had triggered a political confrontation between the AAP government and the BJP-led Centre.
+
+In September, the ED conducted searches at the Greater Mohali Area Development Authority (GMADA) office in Mohali as part of a probe into allegations of money laundering, change of land use and waiver of dues.
+
+The searches also covered a government house in Chandigarh's Sector 39 and the residence of a relative of Punjab Minister Hardeep Singh Mundian. AAP workers protested outside the GMADA premises, alleging that the central agency was being used against the state government ahead of the elections.
+
+The Central Bureau of Investigation (CBI), too, conducted searches at eight locations across Punjab and Chandigarh on October 6 in connection with alleged corruption involving Rajbir Ghuman, an Officer on Special Duty to Chief Minister Bhagwant Mann.
+
+The action followed a Punjab and Haryana High Court order directing a CBI probe into allegations flagged by the ED.
+
+The CBI searches triggered a political row after the agency also searched Chief Minister Bhagwant Mann's camp office. Mann accused the BJP-led Centre of using central agencies to target his government ahead of the 2027 Assembly elections. The BJP rejected the allegation, maintaining that the CBI action followed directions from the High Court.
+
+\- Ends
+
+
+---
+
 ## 1 November 2026
 
 ### J&K Has Emerged As Model Of Peace, Development & Good Governance: LG Manoj Sinha On UT Foundation Day
