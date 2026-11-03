@@ -1,8 +1,251 @@
 # Editorials
 
-_Last updated: 2026-11-02 08:03 UTC_
+_Last updated: 2026-11-03 08:25 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 3 November 2026
+
+### Cascading effect: On dams and land rights
+*The Hindu · Editorial*
+
+The bureaucratic impetus for the 11.2-GW Siang Upper Multipurpose Project (SUMP) in Arunachal Pradesh purportedly comes from China’s aggressive development of a 60-GW mega-dam in Tibet, stoking anxieties among Indian authorities over ‘weaponised’ transboundary waters. Beijing may be able to divert flows in the Yarlung Tsangpo river, which becomes the Brahmaputra in India, to cause drought downstream or release water en masse to trigger catastrophic floods in Arunachal Pradesh and Assam. New Delhi thus imagines SUMP as a strategic buffer, but in so doing faces a dilemma it should not attempt to resolve with force. Its extant top-down approach, exemplified by deploying security forces to guard survey teams and imposing the State Unlawful Activities (Prevention) Act against activists, only validates fears among locals that the state will grab their land. The region also hosts sustained protests against the Subansiri Upper Hydroelectric Project, expanding the indictment to Arunachal Pradesh’s model of hydroelectric power development. The eastern Himalayas are among the most tectonically active and erosion-prone landscapes in the world. The mega-dam in Tibet will comprise five cascading power stations over the river’s roughly 2,000-metre fall over 50 km. Beijing has maintained the dam will not harm countries downstream but has declined to share crucial engineering details. This is why diplomacy will be an essential part of operating SUMP, in addition to Beijing’s disputed claims on Arunachal Pradesh.
+
+The Brahmaputra basin in Assam and Bangladesh receives most of its water from monsoon rains and tributaries downstream of the Tibetan Plateau, so China cannot straightforwardly control the river’s total flow through India. Yet since Chinese interventions would have greater consequences closer to the border, SUMP will need information about both the mega-dam’s operations and downstream inflows to plan its own operations, and Beijing has declined to share the former. SUMP thus faces many uncertainties at the outset. Despite India repeatedly raising the issue with China at the highest levels, headway has been limited to Beijing agreeing to share hydrological data on humanitarian grounds during emergencies. Planners have contemplated maintaining the SUMP reservoir at 70% to accommodate unexpected surges, but the level of protection possible if China supplies no advance warning remains unclear. This uncertainty is a thorn in the side of the government’s push against more legitimate resistance by Adi community members and civil rights groups. The need for the project does not excuse the state from following all the relevant laws and protections. The state cannot protect the nation’s needs by antagonising the nation’s people.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/cascading-effect-on-dams-and-land-rights/article71658201.ece)
+
+---
+
+### United stand: On protests against SIR
+*The Hindu · Editorial*
+
+The gathering of hundreds of thousands of people at Delhi’s Ramlila Maidan, organised by the Congress-led INDIA bloc parties, was a milestone in the battle for the restoration of the integrity of India’s election process. As more and more skeletons tumble out the of the closet of the Election Commission of India (ECI), its chief Gyanesh Kumar has chosen silence while the ruling BJP has rushed to shield him from criticism. The united outcry of protest by the Opposition, led by the Leader of Opposition Rahul Gandhi, is a strong signal of public opinion for the ruling party and India’s institutions, including the ECI, that appear complicit in a scheme that threatens the foundations of Indian democracy. What remains unexplained by the ECI and Mr. Kumar are malpractices in the Special Intensive Revision that could have the effect of subverting the popular will. Protestors on Sunday had arrived from all parts of India, and included people directly affected by the SIR across the country.
+
+The protest reinforced Mr. Gandhi’s central role as the key challenger of Prime Minister Narendra Modi. Mr. Gandhi, for all his faults, has been an uncompromising champion of constitutional values and pluralism in India. The BJP caricatured him, and even non-BJP voices had bought into the idea of Mr. Gandhi being a privileged dynast out of touch with the commoner. While his ancestry is a matter of fact, so is his tenacity. All Opposition parties mobilised for the protest, but the centrality of the Congress party was unmistakable. Mr. Gandhi has a special focus on subaltern classes to be included in positions of responsibility in the party. The Sunday protest was clearly the largest show of strength in recent memory. The manner in which the Congress coordinated with the wide spectrum of the Opposition, often involving rivals in States, also indicates a clear sense of purpose and pragmatism. The call for the restoration of institutional integrity is the need of the hour; but Mr. Gandhi must be careful not to misstate the nature of the crisis. In his well-reasoned call for accountability of the ECI, Mr. Gandhi ended up questioning the legitimacy of the previous election without providing any substantive basis for his allegations. He must remember that his emergence as the voice of the Opposition places on him the responsibility of being measured in his speeches and his steps.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/united-stand-on-protests-against-sir/article71658203.ece)
+
+---
+
+### How AI training models could compromise privacy
+*The Hindu · Opinion*
+
+The right to privacy is a constitutional right upheld by the Supreme Court in 2017. However, the legal instruments currently in place to safeguard this right seem inadequate, especially considering the technological revolution led by Artificial Intelligence (AI) around the world. While AI regulation is one of the most commonly discussed issues within governments today, the recommendations have been broad, vague and have only led to further questions. AI has immense potential to boost productivity and have positive effects on people’s lives; any indiscriminate regulatory or policy measure risks inhibiting innovation and economic growth. However, there are lower hanging fruits; specific gaps that can be filled to better safeguard people’s constitutional rights without permanently losing out in the AI race.
+
+The Digital Personal Data Protection (DPDP) Act was passed in 2023, with the DPDP Rules being notified in November 2025. The implementation is phased with some provisions on consent and safety becoming effective only in 2027. Prior to the DPDP Act, the primary legal instrument to regulate the use and management of personal data was the Information Technology (IT) Act, 2000. Together the IT Act, 2000 and its 2011 Rules broadly regulated the export of “sensitive personal data” on the condition that the recipient ensured a level of data protection required under Indian law, and that the transfer was either necessary to perform a lawful contract or had been consented to by the data provider. An assertion and claim were sufficient to record adequacy. The criminal penalty for unauthorised disclosure was capped at three years’ imprisonment or a fine of ₹5 lakh. These penalties only applied to disclosure of sensitive personal data that were listed in the Rules such as financial data, medical or health details, sexual orientation, biometric information etc. The Rules did not apply to personal data such as names, addresses, phone numbers, caste, religion, political affiliations, browsing history, social media activity, online or offline behavioural patterns, institutional affiliations etc.
+
+[Read full article](https://www.thehindu.com/opinion/lead/how-ai-training-models-could-compromise-privacy/article71658179.ece)
+
+---
+
+### Aakar Patel I Imperfect Rashtra: Our Global Brand Clashes With Domestic Reality
+*Deccan Chronicle · Opinion*
+
+My thesis is that the Indian State under Hindutva is incompletely communal. I have written about this before, but the principal argument is that the inability of Nepal before 2008 to become a Hindu Rashtra in the full meaning of the term by legislating doctrine as described by the Smritis also applies to us. This is a structural problem and not resoluble. This is the reason why the musings of Guru Golwalkar on the ideal state of the nation is not part of the BJP's manifestos. This also means that the State, meaning the apparatus of government, retains an instinct to be secular and normal. How can we observe this? We can do so in how the government behaves when it engages with the world. When our Prime Minister and foreign minister travel abroad to lecture the world and receive its medals, they do not use the same rhetoric as they do within India. They speak of Vasudhaiva Kutumbakam and Sarvadharma Sambhava. They do not tell the world that inside India their policy is bulldozer and beef lynching and CAA and NRC and love jihad. They go to the United Nations and other fora under a Nehruvian carapace. There is a creature called the hermit crab. It does not have a shell of its own. It takes the shell of a dead animal and uses it to protect itself. This is what the BJP does with Nehruvian secularism when it goes out into the world. The universalism they spout and pretend to espouse elsewhere clashes with their actions here at home and all the various laws they have legislated through the years from 2015 (criminalising beef), 2018 (criminalising interfaith marriage), 2019 (criminalising Muslim divorce and excluding Muslims from CAA) and so on. This produces a paradox which makes us vulnerable to the charge of hypocrisy. It also opens us up to pressure from the world which would otherwise be muted if we did not boast of values that we actually do not hold. In August 2019, India imposed an Internet blockade on Kashmiris. Four months after that, on December 6, a motion was tabled in the United States Congress demanding that India lift it. The author was a Congresswoman of Indian origin. That same month Mr Jaishankar was in Washington and scheduled to meet legislators in the House Foreign Affairs Committee. On learning that the author (Democrat Pramila Jayapal) would be present, Mr Jaishankar refused to attend. This was in the first Trump term and though that bill was tabled it was not voted on. When Mr Donald Trump lost the election and Mr Joe Biden was sworn in, in January 2021, India lifted the ban. Why? Likely because our government felt it could not resist the pressure from the Democrats. Something similar happened in Europe. Five separate groups in their Parliament tabled a motion which was most condemnatory on the Citizenship Amendment Act on January 28, 2020. It was reported in newspapers here that the motion had enough votes to be passed. Mr Jaishankar went to Brussels on February 17 to make some sort of deal. We do not know the details because this is not a transparent government but what happened was that the motion was not voted on there and though the law had already passed here India did not enforce it for another four years. This problem of a gap between words and deeds creating trouble can be seen elsewhere. Last year, our National Human Rights Commission was demoted by the Global Alliance of National Human Rights Institutions from having ‘A’ status to ‘B’. Why? The main reasons where that it was not independent, that it had police-led investigations into police atrocities, that it was not diverse and that it was silent on systemic violations by the State. All of these are indisputably true. We have appealed the demotion and that hearing is over the next few days. But more than appeal we should consider changing our behaviour so that we are not accused of pretending to be something we are not. The government instead gets prickly and irritated when the world sees the paradox and merely points it out. The responses to findings by Freedom House that India was only “partly free” (calling it “misleading, incorrect and misplaced” in 2021), to the Economist Intelligence Unit concluding India was a “flawed democracy” (saying in 2020 that this was “misleading and perception-based”) or to its fall on the Global Hunger Index (calling it “unscientific” in 2021; “effort to taint India” in 2022; and "flawed measure” in 2023) are examples. The targeted attacks on minorities are usually the principal cause of our demotion on the global indices. And yet the government seems baffled at times that the mother of democracy should receive such poor grades in democracy. The issue is simple: Freedom is not separable from individual rights and liberties. A government that assumes that democracy consists only of free and fair elections — and even here we have lost ground recently — will always be defensive when it is told that it is imperfect. To some extent this is fine. The Gulf nations and North Korea do not care if the...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/dc-edit-i-imperfect-rashtra-our-global-brand-clashes-with-domestic-reality-2001248)
+
+---
+
+### K.C. Singh I Knesset Deadlock: Delhi Needs Active Diplomacy
+*Deccan Chronicle · Opinion*
+
+Israel’s parliamentary election on October 27 has produced a hung verdict, but with some distinct features. With over 90 per cent votes counted the seats won by three blocs are: Prime Minister Benjamin Netanyahu 53; Godi Eisenkot 48; and Arab parties 19. The majority required in the 120-member Knesset is 61, which neither of the two leading blocs possesses. The election turnout was the highest in the past three decades. While the Netanyahu bloc dropped from its pre-election 68 members to 53, the Arab parties rose from 10 to 19. Consequently, PM Netanyahu has begun debunking the Arab success as vote theft. The main Opposition leader is Gadi Eisenkot, whose party Yashar won 21 seats. He is a former Army chief, who lost his son and some nephews in the Gaza military operation. However, ideologically, even he subscribes to Zionism, albeit a moderate version. Although he strongly opposes Mr Netanyahu, he shares his views on some issues, especially concerning the Palestinians. The wrangling has already begun between the two main groups, competing to attain a majority of 61. A number of factors are in play. Firstly, there appears to be consensus amongst the Opposition parties, including the Arabs, that they must change the speaker, after agreeing on a new name. Secondly, there is reluctance on the part of most members of the two dominant blocks, to not openly align with the Arabs. Consequently, to attain a majority, sans the support of the Arabs, then parties would have to break away and defect. Avigdor Liberman, leader of Yisrael Beiteinu, provides an example of shifting allegiances since the past. He split from Mr Netanyahu’s Likud in 1999. He was foreign minister (2009-15) and then defence minister (2016-18) in Netanyahu’s Cabinet. But since 2019 he has avoided joining it. He has been critical of military conscription exemption given to ultra-religious Haredi youth. Despite a Supreme Court ruling against it, the status quo remains. Thus, although his winning candidates, numbering seven or eight, are being counted in the Netanyahu bloc, he is urging Mr Eisenkot to form a coalition with Mr Netanyahu. However, both these leaders oppose conscription exemptions on religious grounds. If Mr Netanyahu was to concede their demand he would upset his ultraorthodox ally UJT, which has seven elected members, and wants no separation between religion and politics. Mr Eisenkot in social media posts talks of being focussed on “the heavy task entrusted to us — bringing change to Israel and establishing a Zionist mobilisation government”. He maintains that the will of the people translates into “no confidence in the government of October 7”. Thus, it appears that for the time being no grand coalition between the two main blocs is likely. That brings into play the role of President Donald Trump and the US. With the crucial US midterm elections due on November 3, and with the President’s Republican Party badly trailing in polls, resumption of armed conflict with Iran comes into play. The October 26, 2026, visit by Mecca Pact principal Islamic nations, i.e., Pakistan, Saudi Arabia and Türkiye, to Tehran signalled the regional concern about US-Israel restarting the war. Resumed hostilities can help Israel’s Prime Minister postpone the meeting of the re-elected Knesset and the Opposition’s attempt to eject the incumbent leader. The final call would have to be that of the US President, whether hostilities would help or further harm his party electorally. The significantly large number of Arab members getting elected to the Knesset opens a possibility for Israel to move from using force to handle the Palestinian issue to opting for dialogue and negotiations. The stigma over allowing Arabs, constituting 20 per cent of Israeli population, to be a part of the ruling coalition needs to be overcome. The choice for the Eisenkot Opposition bloc is between continuing to suffer the Netanyahu-engendered confrontational scenario or rising above ethnic and communal prejudices and engaging the elected Arabs. That could then lead to a peaceful settlement of the Palestinian issue. Politics, however, rarely produces statesmen with the ability to reshape history, for which an opportunity is now available. It is possible that realignment between parties of the two main blocs may produce either a reshaped Netanyahu government or a new regime, without the support of the Arab bloc. If military hostilities are avoided until the US midterms and the Democrats capture the House and even the Senate, then PM Netanyahu’s ability to suppress Palestinians and market theories about reshaping the regional order, etc., would get constrained. Thus, the next week is crucial for the Gulf and West Asia. Where does India fit into this developing scenario? Having openly aligned with Israel before it and the United States attacked Iran on February 28, the Indian options got restricted. Essentially, India was perceived as positioning itself alongside Israel, the US and...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/dc-edit-i-knesset-deadlock-delhi-needs-active-diplomacy-2001247)
+
+---
+
+### DC Edit I IAF Badly In Need Of Upgrade
+*Deccan Chronicle · Opinion*
+
+New Air Chief Marshal Ashutosh Dixit has identified the basic requirements that need to be fulfilled to keep the Indian Air Force combat-ready — operational readiness, self-reliance, innovation and unity of effort. Its success, however, will depend on whether the government, industry and the armed forces work together. The immediate challenge is the shortfall of fighter aircraft. The IAF’s sanctioned strength is 42 squadrons or 756 fighter jets, but it has been reduced to only 558 fighter jets or 31 squadrons. By comparison, Pakistan has around 480 jets, while China operates around 3,200 fighter aircraft. Given the battlefield coordination between Pakistan, Turkey and China, the current fighter jet strength will not be sufficient for India. It would need at least 1,500 jets or 83 squadrons to deal with the scenario of a two-front war. Acquiring such a large fleet of fighter jets will not be possible unless the country produces them locally. Though the government is taking steps to manufacture time-tested fighter jets locally, the country should aim to produce all components, including jet engines, domestically, especially given uncertain global alliances. The Russia-Ukraine war and the US-Iran war have unmistakably altered battle scenarios. The endurance of Ukraine and Iran against bigger and far better equipped adversaries has forced defence strategists to redraw their strategies. AI-enabled command systems, counter-drone defences, resilient networks and space defences are key to modern warfare. Despite being technologically backward compared to India, Ukraine, Turkey and Iran have well-developed arms industries. New Delhi, therefore, must aim for 100 per cent localisation of remotely operated weapon systems. Similarly, the armed forces must reskill their personnel to use new equipment, which would require nothing short of unlearning decades of battle strategies. The government and the Opposition must work together to provide the armed forces with what they need, without any narrow political considerations.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/iaf-badly-in-need-of-upgrade-2001246)
+
+---
+
+### Foreign hand and other distractions
+*Deccan Herald · Editorial*
+
+India’s Opposition parties staged one of their biggest shows of strength in recent times with the ‘Chalo Dilli’ rally at the Ramlila Maidan on Sunday, demanding the resignation of Chief Election Commissioner (CEC) Gyanesh Kumar. The Aam Aadmi Party (AAP) and the Dravida Munnetra Kazhagam (DMK) were the only prominent Opposition parties missing at the event. Many regional and Left parties actively participated in the agitation, which was led by the Congress and the Leader of the Opposition, Rahul Gandhi. The rally has lent momentum to the ongoing protests against the exclusionary implementation of the Special Intensive Revision (SIR) of electoral rolls. It will serve the Opposition’s efforts to keep the resistance alive and expand its scope beyond political considerations.
+
+In a politically charged counter-move, the Bharatiya Janata Party (BJP) organised protests in Delhi and elsewhere on the same day, highlighting the anti-Sikh riots following the assassination of former Prime Minister Indira Gandhi. While questions can be raised against the Congress over the anti-Sikh riots, just as they can be posed to the BJP over the 2002 Gujarat riots, it is difficult to see how the 1984 violence can provide a counter-narrative to an undemocratic electoral roll revision. The SIR is a live issue, directly posing a threat to the democratic rights of millions of people and undermining a constitutional office. The BJP’s continued support for the actions of the Election Commission of India (ECI) and its chief also lends credibility to questions about the party’s interest in the matter.
+
+Rahul Gandhi challenges PM Modi for open debate on 'foreign help'Under Prime Minister Narendra Modi, voices aligned with the dispensation have referred to a “foreign hand” behind the agitation, calling the protesters anti-nationals and anarchists. Rashtriya Swayamsevak Sangh (RSS) chief Mohan Bhagwat has warned of an international conspiracy, and BJP leaders have accused the Opposition of working with foreign forces to destabilise the country. Alleging foreign interference is the easiest counter-move in the face of formidable political opposition. But when such a serious charge is made, the government should produce evidence in support. When protests peaked during the Emergency, Indira Gandhi claimed that a foreign hand was working against her. Governments that find it difficult to counter the issues raised by the Opposition and are forced to go on the defensive invariably raise the foreign-hand bogey. The Modi government has wrongly supported the CEC, whose position has become untenable in view of the damage his office has done to the country’s electoral system.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/foreign-hand-and-other-distractions-4204908)
+
+---
+
+### State must challenge Krishna diversion
+*Deccan Herald · Editorial*
+
+Maharashtra Chief Minister Devendra Fadnavis’s proposal to divert 40 tmc of Krishna water to the Bhima basin raises questions about the rights of downstream states. Announced as a floodwater-management measure, the project would carry water from near Mahabaleshwar to the Ujjani reservoir to ease scarcity in parts of Maharashtra. But labelling it as “floodwater” does not establish that it is surplus or give an upstream state the right to appropriate it unilaterally. The Krishna flows through Maharashtra, Karnataka, Telangana, and Andhra Pradesh before emptying into the Bay of Bengal, sustaining irrigation, drinking-water schemes, and livelihoods across the basin.
+
+The first Krishna Water Disputes Tribunal (KWDT-I), headed by Justice R S Bachawat, allocated 560 tmc to Maharashtra, 700 tmc to Karnataka and 800 tmc to undivided Andhra Pradesh. The second tribunal recommended revised allocations, subsequently modifying Karnataka's share to 907 tmc in its 2013 report. The modified award remains unnotified because of pending litigation before the Supreme Court. Therefore, Krishna water-sharing continues to be governed by the Bachawat award. Fadnavis’s proposal is particularly contentious because KWDT-I had capped Maharashtra's westward diversion of Krishna waters at 67.5 tmc to balance upstream utilisation with downstream needs. A fresh 40 tmc diversion under floodwater management risks undermining that principle and the hydrological assumptions underlying subsequent allocations.
+
+Cauvery panel directs Karnataka to release 3,000 cusecs of water to Tamil Nadu for 15 daysFor Karnataka, the implications are significant. Reduced inflows into the Almatti reservoir could affect irrigation and drinking-water supplies in the drought-prone districts of Belagavi, Bagalkote, Vijayapura, Kalaburagi, Yadgir, and Raichur. It could jeopardise benefits envisaged under KWDT-II, including expansion of the Upper Krishna Project. Karnataka’s plan to raise Almatti dam’s height from 519.6 metres to 524.256 metres, enabling an additional 130 tmc of storage under Stage III, remains stalled pending notification of the award. Any upstream diversion could further complicate the project and Karnataka’s ability to utilise its allocation. A project of this scale requires the Central Water Commission’s scrutiny and environmental clearances, particularly given its origin in the ecologically sensitive Western Ghats. Karnataka must challenge the proposal before the Supreme Court and seek an interim stay until its legality and downstream impact are thoroughly examined. It should place objections before the tribunal and the Centre, demand the detailed project report, hydrological studies, and clearance documents, and insist on an independent assessment of the claimed surplus. It must also pursue notification of the modified KWDT-II award. Allowing Maharashtra to create a fait accompli would undermine Karnataka’s water security and the principles governing inter-state river-water sharing.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/state-must-challenge-krishna-diversion-4204909)
+
+---
+
+### Caring for dementia patients: Who cares for the caregivers?
+*Deccan Herald · Opinion*
+
+Five years ago, a 31-year-old software professional in Bengaluru watched his mother slowly stop recognising the home she had lived in for two decades. Today, he still lives with her – bathing her, changing her, taking her out for fresh air. He works from home by necessity. He hasn’t married, not because he doesn’t want to, but because he hasn’t met someone willing to build a life around this kind of love.
+
+A dementia diagnosis rarely stays contained to the person who receives it. It reshapes marriages, careers, sibling relationships, and finances. Interactions the Tata Trusts held with people living with dementia, their caregivers, and doctors surfaced five emotional wounds that often shape the caregiver journey: guilt, grief, resentment, imprisonment, and ‘the last straw’.
+
+Caregivers may grieve the gradual loss of the person they knew, feel guilty about their reactions, or experience resentment alongside love. Round-the-clock care can feel imprisoning; a loved one’s failure to recognise them can be a painful breaking point. Yet the caregiver, present at every appointment and sleepless night, often becomes an afterthought. This is why many in this field call them invisible patients.
+
+As dementia progresses, the caregiver’s life reorganises around another person’s needs. Some of this work is visible: feeding, dressing, medication schedules, and hospital visits. Underneath lies the constant scanning for warning signs and preventing a loved one from wandering off. In India, this invisible labour falls disproportionately on women, who are often expected to manage caregiving, children, household responsibilities, and a career simultaneously.
+
+When the roles begin to reverse: Learning to care for ageing parentsAn older spouse may spend years caring for someone who slowly stops recognising them. Younger caregivers may turn down jobs requiring relocation, forgo promotions, or put relationships on hold. Dementia can stretch across eight to twelve years, and the costs extend beyond medical expenses. Every reduced work hour, declined opportunity, or early career exit is a loss that doesn’t show up on a hospital bill but is felt just as sharply.
+
+This is the uncomfortable gap sitting at the centre of India’s dementia conversation. The gaps begin well before the diagnosis and continue long after it. Too many people living with dementia remain undiagnosed or are diagnosed only after a significant decline.
+
+I think of a 49-year-old man living with frontotemporal dementia. During the pandemic, caregiving folded into family life, but when offices and schools reopened, that arrangement fell apart. Professional home care and even transport to a day-care centre were out of reach. His wife did not want to step back from caring for him, but every option demanded the same impossible trade-off.
+
+Too often, families are left to improvise, and their improvisations deserve more understanding than judgement. Seeking respite care is not abandoning a parent. A daughter who hires help is no less loving than one who insists on giving every bath herself. These are not failures of devotion, but adaptations within a system where the family remains the default safety net.
+
+Families need to understand how dementia may progress, what to prepare for, and what support exists. Wherever possible, the person with dementia should remain part of care decisions. Advance care planning can make space for these conversations before a crisis.
+
+Can dementia be delayed? Here are modifiable lifestyle factors that lower brain riskCaregiver support must begin that day, with access to counselling, support groups, and respite care, alongside better-trained professionals, standardised training, and services equipped to respond to changing needs. Workplaces must also recognise that an employee caring for a parent with dementia deserves consideration alongside those managing childcare responsibilities.
+
+Public spaces and transport systems need to be built to help people experiencing cognitive decline find assistance. Police should recognise that a lost, disoriented older adult may need patience rather than suspicion.
+
+Two patients, one diagnosis
+
+Dementia is never an experience that happens to just one person. Every diagnosis creates two people who need support: the one living with dementia and the one walking quietly beside them, holding both of their lives together.
+
+An earlier diagnosis can give families more time to understand and prepare. But that preparation must include the person providing care. It may be the son who puts his own life on hold, the wife balancing care with a job, or the spouse grieving someone who is physically present. Their circumstances differ, but they share one reality: dementia has changed their lives, too. The person with dementia deserves to be seen beyond their memory loss, and the caregiver beyond their role. Only then can we begin to understand what it truly means to care for them both.
+
+(The writer is Executive Director, Dementia India Alliance)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/caring-for-dementia-patients-who-cares-for-the-caregivers-4204911)
+
+---
+
+### EPFO's reserve revival is a cosmetic fix to a structural problem
+*Deccan Herald · Opinion*
+
+Recently, media reports indicated that the Employees Provident Fund Organisation (EPFO) was creating a Rs 25,000 crore Interest Stabilisation Reserve (ISR) for smoothing annual interest payments to the EPFO member-employees.
+
+However, the ISR, named Equity Income Stabilisation Reserve (EISR), was approved by the Finance Investment & Audit Committee (FIAC) of the EPFO way back on December 9, 2015, and was part of an official circular issued on December 31, 2015. For reasons not explained, the EISR has not been operationalised for the last 10 years.
+
+Why has the EPFO woken up now? Is its proposed funding feasible? Can it really smoothen annual interest payments to the EPFO employees?
+
+EPFO wage ceiling raised to Rs 25,000 to cover 51 lakh more workersEquity investment queered the pitch
+
+In April 2015, the government (the Ministry of Labour and Employment) mandated a new pattern for the EPFO’s investments, specifying a range limit of 5-15% of the corpus to be invested in equity and related investments. Subsequently, the Central Board of Trustees (CBT) of the EPFO decided to invest 5% of the corpus in Exchange Traded Funds (ETFs) from FY2016.
+
+Earlier, all EPFO investments were made in fixed income securities, yielding predictable annual interest receipts which were considered for determining the interest to be paid to the EPFO members. The ETFs yield some dividends, and most of their returns come in the form of annual capital appreciation (with the occasional depreciation).
+
+The EPFO decided to adopt an ETF-specific annual profit/loss determination considering the nature of its returns. The investment was taken at cost, closing stock valued at market price, and dividend considered on an accrual basis. Annual profit or loss was calculated as the sum of closing stock value, dividends, and sales (if any), minus the opening stock and purchases during the year.
+
+The ETF returns are indeed volatile. Recognising this, the EPFO assumed that the ETFs would yield a compounded annual return of 12% over seven to 10 years. It, therefore, directed that if the ETF profit in a year is up to 15%, an interest rate equal to the average government security (G Sec) interest rate plus 2% would be used for distribution. For profits between 16% and 20%, 40% of additional profit, for profits between 21% and 30%, 50% of additional profit, and for profits above 30%, 60% of it, were decided to be distributed.
+
+The remaining profits were to be transferred to the ESIR, subject to a maximum accumulation of 10% of the assets under management (AUM). The ESIR was to be used when the profits on the ETFs were lower than the G Sec.
+
+Supreme Court terms private access to EPFO, ITR data 'worrisome', seeks safeguardsThe EPFO statement of investments (Annual Report 2024-2025) informs that it held Rs 1.71 lakh-crore worth of ETFs (at cost price) out of its total corpus of Rs 17.64 lakh crore (about 10%).
+
+No amount/balance existed in the ESIR. Clearly, the EPFO kept valuing the ETFs at cost and did not operationalise the ESIR scheme.
+
+The ISR scheme proposed now introduces a few new elements in the 2015 approved scheme.
+
+First, it suggests a specific corpus of Rs 25,000 crore.
+
+Second, it is proposed to be funded from the ‘surplus capital gains’ from the equity ETFs (no new/modified formula has been spelt out) and the ‘excess interest income’ from fixed income assets.
+
+Third, it is suggested that the ISR would be invested in liquid G Secs.
+
+Fourth, the objective of the ISR has been stated to smooth out annual EPF interest payouts, not volatility in ETF returns.
+
+These proposals are quite dicey.
+
+The EPFO distributed Rs 1.44 lakh-crore in interest payments, at an 8.25% interest rate, in FY2026. A corpus of Rs 25,000 crore provides for less than 1.5% interest rate volatility even if used fully.
+
+Its funding, in the current scenario, is nearly impossible. The Nifty ETF returned only 5.34% capital gains in FY2025 and about (-)5% in FY2026. There are no surplus ETF capital gains to fund the ISR.
+
+The notion of ‘excess interest income’ is more problematic. There is no ‘normal’ interest rate which can serve as a benchmark for determining excess interest rate.
+
+The average interest income of the EPFO in the last few years has been less than the interest rate the EPFO has paid. It is unlikely that the EPFO can divert its interest income to the ISR without reducing interest payout to the members, which will invite complications of a different order.
+
+Given these circumstances, the ISR idea is a non-starter.
+
+Align interest payouts with actual returns
+
+The EPFO has been trying to pay interest at rates higher than the market/general provident fund rate. In the last few years, it has been able to do so as the ETFs had yielded much higher returns. Instead of creating the ESIR, it just distributed all the returns.
+
+Currently, when the ETF returns are weak, the EPFO cannot maintain a high interest payment. Any ISR created out of current income will aggravate the problem further.
+
+Both equity and fixed income investments operate in an internationally integrated environment. So many factors impact investment returns.
+
+The most prudent policy is to faithfully distribute the income actually earned. Period.
+
+Subhash Chandra Garg is former Finance & Economic Affairs Secretary, and author of ‘The Great Indian Budget: How the Government of India Spends Your Money’, and ‘We Also Make Policy’.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/epfos-reserve-revival-is-a-cosmetic-fix-to-a-structural-problem-4205394)
+
+---
+
+### India needs to move from policy to classroom
+*Deccan Herald · Opinion*
+
+India’s education system is becoming more ambitious. New institutions are being created, universities are experimenting with greater flexibility, and there is renewed attention to India’s linguistic and intellectual traditions. These are welcome developments. But a basic question is: are we strengthening the foundations on which these reforms will stand?
+
+The Union Education Ministry’s recent decision to establish five Centres of Excellence for Assamese, Bengali, Marathi, Pali, and Prakrit is an important investment in India’s linguistic and scholarly heritage. The centres, to be located at Tezpur University, Visva-Bharati, Central University of Gujarat, Central University of Odisha, and Deccan College, could create valuable opportunities for research in literature, manuscripts, translation, philosophy, and regional intellectual histories.
+
+Their real value, however, will depend on what happens beyond the university campus. If these centres develop digital archives, fellowships, teaching resources, and meaningful partnerships with schools and teacher education institutions, they could make India’s linguistic traditions accessible to a much wider group of learners.
+
+Language is not simply another subject in the curriculum. It carries memory, culture, and ways of understanding the world. At a time when education is increasingly discussed through the language of technology, employability, and skills, such investments remind us that education also has a cultural and intellectual purpose.
+
+But access must remain central. Rural students, first-generation learners, and students studying in under-resourced institutions should be able to see these new centres as part of their educational future, rather than as distant spaces meant only for specialists.
+
+The same concern applies to recent changes in higher education. The Delhi University’s decision to relax a key credit requirement has been welcomed by students who have struggled with rigid academic structures. Flexibility is important. But it should not become a substitute for academic support.
+
+Students may fail to accumulate credits for many reasons: inadequate teaching, financial difficulties, lack of academic guidance, or personal circumstances. Simply changing the requirement may provide immediate relief without addressing these underlying problems. A genuinely flexible university must also provide mentoring, remedial support, counselling, and clear academic pathways.
+
+These developments in higher education must also be viewed against the realities of school education.
+
+A recent report in Deccan Herald on Kalyana Karnataka described the region as facing a severe educational crisis, with historical neglect, structural gaps, and administrative challenges continuing to affect learning. Experts pointed to the need to strengthen teaching at the primary level.
+
+This is not merely a regional concern. It is a national one.
+
+We often discuss education as though school and university are separate worlds. They are not. A university receives students with the knowledge, confidence, and learning habits that schools have helped them develop. If a child reaches secondary school without being able to read with understanding, later reforms in higher education, digital learning, or employability cannot fully compensate for that lost foundation.
+
+This is why teachers must remain at the centre of educational reform.
+
+Teacher education cannot be treated as a routine requirement to be completed before entering the profession. Teachers need sustained professional development, mentoring, manageable workloads, and opportunities to learn from one another. They also need enough autonomy to respond to the classrooms they teach.
+
+A multilingual classroom in Punjab, a tribal-majority school in central India, and an urban government school in Bengaluru may have very different learning needs. Educational reform will succeed only when teachers have both the preparation and the space to respond to these differences.
+
+The new classical-language centres could contribute to this greater effort. Their work need not stop at university research. They could collaborate with teacher education institutions and schools to develop age-appropriate resources, translations, and materials that help students encounter India’s linguistic and cultural traditions in meaningful ways.
+
+India does not lack educational ambition. What we need is a stronger bridge between policy and practice.
+
+Centres of excellence, flexible credit systems, and new higher education initiatives are important. But the success of educational reform cannot be measured only by the number of institutions established or regulations changed. We must ask whether students are learning better, whether teachers feel better equipped to teach, and whether historically underserved regions are receiving sustained attention.
+
+The real test of reform is much closer to the ground: the child learning to read in a government primary school, the first-generation student trying to navigate university, and the young researcher entering a classical-language department.
+
+If reform reaches them, it becomes meaningful. If it remains confined to campuses, circulars and committee rooms, we will have changed the system without necessarily changing learning.
+
+India now needs to make that journey from policy to classroom.
+
+Richa Pandey holds a doctorate in education, and is a researcher at the Ravi J Matthai Centre for Educational Innovation, Indian Institute of Management Ahmedabad.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/india-needs-to-move-from-policy-to-classroom-4205431)
+
+---
 
 ## 2 November 2026
 
@@ -21643,290 +21886,6 @@ The writer is a noted economist; Syndicate: The Billion Press
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/the-future-of-work-needs-new-ground-rules-4099539)
-
----
-
-## 4 August 2026
-
-### ​FIFA foul: On the shelved FIFA Forward Enterprise
-*The Hindu · Editorial*
-
-The collapse of FIFA’s controversial plan that would have helped private investors benefit from the World Cup and other flagship competitions represents the latest hit to the global body’s reputation. In the aftermath of the 2026 World Cup, FIFA president Gianni Infantino hurriedly put together strategies to form the FIFA Forward Enterprise (FFE) to consolidate all revenue-generating operations, and invite private bodies to hold non-controlling stakes in the body. But this elicited enormous backlash from a number of FIFA’s 211 member associations, with European governing body UEFA even declaring that its 55 members would boycott the World Cup. Europe is football’s nerve-centre, and with the Asian Football Confederation and players’ union FIFPRO also expressing apprehensions, and one of Mr. Infantino’s senior advisers quitting in protest, the scheme was a non-starter. The episode has also reduced Mr. Infantino’s standing, especially after the controversy-ridden World Cup, where political interference by the U.S. — one of the co-hosts — and rampant commercialisation severely diminished ‘the beautiful game’. The now-shelved FFE was to be backed by a venture capitalist with familial ties to U.S. President Donald Trump, making the whole deal all the more suspect. The 2027 FIFA election, where Mr. Infantino was expected to be re-elected for a third full term, is no longer a cake-walk.
-
-The saga has brought back into focus the conflict at the heart of FIFA’s functioning and the patronage politics it enables. FIFA is the global regulator of the sport, and ideally, its commercial wing should be kept at an arm’s length. However, the organisation’s structure is such that the revenue generated is often used as leverage to extract favour. As a non-profit, FIFA is duty-bound to redistribute income amongst its members, but presidents — past and present — have turned it into a vote-catching tool to hold on to power. To approve the FFE project, FIFA had reportedly offered each of its members $20 million upfront, and a direct beneficiary of this would have been Mr. Infantino at next year’s election, for every association has one vote. However, history shows that moves to use legacy tournaments for self-aggrandisement are bound to fail. In 2018, the International Tennis Federation entered into a 25-year, $3 billion partnership with a private investment firm to re-jig the over-a-century-old Davis Cup, with the promise of extra money for the game’s global development. That agreement lasted just five years, with the shift from the traditional home-and-away format deeply unpopular and considered soul-shattering to the sport. It is time FIFA re-inculcates fairness, embraces consensus and shuns its president’s unilateralism.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/fifa-foul-on-the-shelved-fifa-forward-enterprise/article71301247.ece)
-
----
-
-### Proof of life: On the Registration of Births and Deaths (Amendment) Bill 2026
-*The Hindu · Editorial*
-
-The Registration of Births and Deaths (Amendment) Bill 2026 passed in the Lok Sabha amends Section 13(3) of the 1969 Act. In the updated framework, registrations delayed for up to two years still require a district, a subdivisional or an authorised executive magistrate’s order, but when the delay exceeds two years, a judicial magistrate is required to verify the event and pass an order. The 2023 amendment rendered birth certificates the principal, in fact near-conclusive, proof of date and place of birth for school admission, voter rolls and applications for passport, Aadhaar, driving licence and government jobs. It also allowed the Centre and States to create digital databases, and required them to share data with the Registrar General. As the certificate’s gatekeeping power grew, so did the incentive to obtain one fraudulently, leading to the 2026 amendment. However, the Bill’s passage lacked debate in the Lok Sabha as the Opposition was protesting the July 20 police crackdown on the CJP protests. Since identity documents have also become more politically sensitive, moving potentially more contentious cases into courts insulates the administration from accusations that it is arbitrarily granting or refusing documentation. But while judicial scrutiny places the decision at arm’s length from the executive, erroneous decisions could prove more difficult for disadvantaged applicants to rectify.
-
-The amendment also leaves the evidentiary rules unchanged. If the government believed executive magistrates were approving suspicious applications because the evidentiary standards were too lax, it could have prescribed more rigorous documentation, but it has not. Further, how the risk of fraudulent registrations rises after two years is unclear; the government has also not published evidence justifying a judicial magistrate’s intervention at two years or whether it considered less burdensome alternatives. For now, it appears to be a compromise based possibly on shorter delays being common enough for administrative responses to resolve. Registrations are also not infrequently delayed for valid reasons, for example because they transpired in remote areas, or undocumented migrants realised a need for educational certificates. But when identity documents become indispensable to access state support, the government’s policy instinct has been to raise the documents’ level of assurance rather than render them more accessible. In the same vein, the amendment may further a broader philosophy that, in pursuit of bureaucratic certainty, treats the wrongful exclusion of legitimate citizens as an acceptable price to minimise the risk of wrongful inclusion. And the Rajya Sabha must debate the Bill to clarify whether this trade-off is backed by sufficient evidence.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/proof-of-life-on-the-registration-of-births-and-deaths-amendment-bill-2026/article71301223.ece)
-
----
-
-### AI and cyber, the double helix of today’s security threats
-*The Hindu · Opinion*
-
-The rapid proliferation of digital technologies is reshaping the global security landscape. What was once an interconnected, but relatively limited, digital world, has altered into a complex interconnected ecosystem where dangers and threats lurk at every step. The combination of Artificial Intelligence (AI) and cyber threats has emerged as one of the most critical concerns of the modern world.
-
-While AI has changed from being merely an operational efficiency mechanism into an absolute infrastructure mandate, cyber threats are becoming more sophisticated, harder to detect and more difficult to mitigate. Today, AI-powered malware can adapt and evolve in response to changes in its environment, making it harder for traditional anti-virus software to detect. The global interconnectedness of digital systems has also raised the ante as far as cyber attacks are concerned. Malicious autonomous agents are today well positioned to undermine the legacy of “Zero Trust” protocols, aggravating insider threat vectors.
-
-Meanwhile, as seen in the war in Ukraine, newer technologies are demonstrating the potential to undermine conventional military calculus through asymmetric impact. The rapid proliferation of digital technologies and systems across every discipline, cyber breaches and malicious activities are impacting every level of security. Many governments facing sophisticated cyber adversaries are drawing up a security architecture which involves a blend of innovation, policy coherence and strategic realism, but still lag behind.
-
-A new disruptive eraAI, meanwhile, is reshaping every consequential domain of human activity. AI’s Large Language Models (LLM) are intruding into many business enterprises, without either proper training or evolution of the human interface. As ‘Agentic’ AI — as distinct from Generative AI — becomes a force to reckon with, problems attached to AI implementation are set to become even more complex. The catalyst for such concerns is the arrival of the latest AI systems, notably Mythos, developed by United States firm Anthropic. According to experts it demonstrates an uncanny ability to detect ‘Zero day’ vulnerabilities across major operating systems. What is evident is that AI is beginning to test the limits of legacy systems.
-
-AI’s overarching influence makes it essential to understand the risks and threats it poses, especially when combined with cyber capabilities, where the danger grows exponentially. AI has already transformed modern warfare, as seen in the Russia-Ukraine conflict and the U.S./Israel-Iran war. AI-powered smart systems can detect, track, and predict missile trajectories with remarkable accuracy. AI can also provide different kinds of intelligence from photos, text, radio, and electromagnetic signals to deny adversaries a tactical advantage. Munitions, such as systems dubbed “Goalkeeper” and “Whiplash” can independently identify and strike targets. Yet, nations, particularly the U.S., have not yet demonstrated a level of sagacity on how best to wield this power and in a manner that does not endanger human civilisation.
-
-These developments are fuelling concerns about AI’s future as increasingly capable models and robots replace human roles. LLMs and autonomous agents are already performing complex tasks once reserved for people. The World Economic Forum warns that while AI will strengthen cyber defences, it will also enable more sophisticated automated attacks, potentially rendering current “Zero Trust” protocols ineffective. This raises concerns that hard power may increasingly be shaped by nations and organisations at the forefront of AI.
-
-Companies in the West such as Anthropic and Palantir are behaving as if they own the world of tomorrow, since they hold the key to the world’s mightiest technology. Anthropic has reached a stage today where with Mythos, it creates the spectre of all-encompassing power residing in a single instrument that is not subject to any rules. China, perhaps, has its own version of Anthropic or something resembling it, but this is of little comfort to the rest of the world. What is becoming clearly evident is that an attacker with the latest version poses a grave threat to not merely one country but an entire civilisation.
-
-An AI ‘power shift’As AI technologies become more rampant and uncontrollable, existing rules concerning cyber security may require to be completely rewritten. Many experts warn that as “Agentic Autonomous Operations” become even more sophisticated, the world could reach an inflection point that has grave forebodings for the world. Whether Mythos is the harbinger of this is yet to be determined, but it is generally acknowledged that the newer generations of AI machines provide opportunities for ‘rogue groups’ to demonstrate capabilities that were once associated with only nation states. As Agentic AI begins to displace Generative AI, enabling it to act more autonomously, threat levels are certain to go up still further. AI has, hence, the potential to become the dominant source of military and economic power, even as the rules to govern AI are still in a fledgling state. The bugle call has already been sounded by the pontiff of Anthropic, the AI firm that makes models such as Mythos, that it has the potential to become the dominant source of military and economic power as civilisation advances.
-
-Notwithstanding the god-like properties of existing modern AI models, experts warn that they are often subject to “hallucinations”, thus giving scope for distortions, producing misleading reactions. Judgments in such cases tend, quite often, to be subjective. Even otherwise, biases are known to creep into decisions dictated by AI, enhancing the danger posed by unrestricted reliance on AI. Furthermore, experts warn that it is vitally important to guard against such ‘algorithmic radicalisation’, and ensure that AI platforms do not push opinion makers towards extreme views.
-
-A future that needs oversight, wisdomThe world, thus, appears to have reached a tipping point in AI progress and development. Already, some companies that are leading the AI charge are accusing others of stealing their technologies and expanding on them to their advantage. The latest is a charge made by the U.S. against China, viz., that China’s ‘Moonshot’ AI stole from Anthropic’s most sophisticated AI Large Language Model ‘Fable’, to help create its latest AI version. Predictably, China has rejected this charge, but it reflects the intensity of the competition between the U.S. and China in this area. If Anthropic’s claim is true — that its latest model has surpassed “all but the most skilled humans” in finding and exploiting security vulnerabilities in everything from popular operating systems to cryptographic software — the world could face a new kind of apocalypse.
-
-The world has steadily progressed from abiding concerns of stagnant economic growth to doomsday technologies, and this merits a great deal of introspection. Altruism is not enough to decide on how to handle a technology that is about to eat up the world. There are several aspects of advanced AI that clearly demand more introspection, but this is not evident. As AI increasingly enters into the arena of defence sensing and warning, there is a need not only to keep machines under human control but also to ensure that AI-dictated warnings do not outrun proper understanding and reality.
-
-Those steeped in defence aspects already know the gap that exists between warning and understanding of what might happen, and how critical this is in strategic terms. High-powered AI systems may often prove unreliable as they may demonstrate a bias towards national security given that algorithms often display such biases. The world, hence, needs to reach an understanding on how best to deal with this new technology which can, and could, end or make the future of the world. What we have seen in Ukraine and West Asia is not even the tip of this iceberg. Better to “cross the river by feeling the stones” is a better maxim than ‘blind prejudice or unadulterated endorsement of a new technology’.
-
-M.K. Narayanan is a former Director, Intelligence Bureau, a former National Security Adviser, and a former Governor of West Bengal
-
-[Read full article](https://www.thehindu.com/opinion/lead/ai-and-cyber-the-double-helix-of-todays-security-threats/article71302018.ece)
-
----
-
-### DC Edit | Lens On Sexual Abuse In Sport
-*Deccan Chronicle · Editorial*
-
-A trial court has acquitted Brij Bhushan Sharan Singh and Vinod Tomar in a case of sexual harassment filed by six women wrestlers, including prominent international medal winners Vinesh Phogat and Sakshi Malik. The seeking of justice might not end with this though it is likely that the grounds that the evidence was short of proving the crime may weigh heavily even if the sportspersons pursue the matter in higher courts.
-
-What the cause celebre, which remained in national focus for over three years since demonstrations first took place in Jantar Mantar in April 2023 and chief judicial magistrate of the Rouse Avenue court began hearing the case from 2024, was to bring humongous attention to sexual harassment and intimidation that young sportspersons face.
-
-Brij Bhushan, ex-MP and former president of the Wrestling Federation of India, and his fellow official may have been cleared of the charges because the evidence was scanty, and testimony inconsistent and even flawed as we saw the accused claim that they were not even in the city as mentioned in the pleas. It does not, however, mean that the problem does not exist in Indian sport, especially because talented rural sportspeople are known to move to urban centres with better infrastructure and so come under the direct influence of sports administrators, among whom sexual predators may be present.
-
-The court framed charges of sexual harassment, intimidation and outraging the modesty of women against Brij Bhushan and criminal intimidation against Mr Singh. There was so much smoke that the facile assumption was that there had to be a fire. Irrespective of the legal position and the difficulty of proving sexual harassment cases in the Indian judicial environment, this defining case was necessary as it led to many such charges being aired and several coaches and administrators coming under fire for alleged mistreatment of sportspersons and, we daresay, the outing of many predators.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-lens-on-sexual-abuse-in-sport-1976629)
-
----
-
-### DC Edit | Results In Bankipur, Other Bypolls A warning To BJP
-*Deccan Chronicle · Editorial*
-
-The Cockroaches appear to have bitten off a good chunk of the BJP’s popular base if one were to go by the party’s shock defeat in the Bankipur Assembly seat in Bihar, its loss in Dahita in Madhya Pradesh and a win with a much reduced margin in Manjalpur in Gujarat in recently held by-elections. The message of the electorate, however, to all parties is that the youth of this country is getting disillusioned with them and hence they have two options: Perish or perform. And the signs are most ominous for the BJP, the ruling party at the Centre and in most states.
-
-The loss in Bankipur is significant for the BJP for more reasons than one. The bypoll was necessitated when Mr Nitin Nabin who represented the constituency vacated the seat before taking over as the national president of the BJP. The party naturally marshalled all its resources to ensure victory in the prestigious battle against Prashant Kishor, once a poll strategist for BJP representing his fledgling Jan Suraaj Party. The mostly urban constituency had elected only a BJP candidate for more than three decades even in the worst of seasons. It was also the first election after the BJP assumed the chief ministerial chair after wresting it from its long term ally, the JD(U), and sent Nitish Kumar packing from the state politics. The numbers are significant: The party lost by a margin of 19,324 in a seat which it had won with a lead of 51,936 votes in 2025. Every single reason has contributed in magnifying the blow to the saffron party.
-
-The loss in Madhya Pradesh to the Congress is a sign of the declining popularity of the Mohan Yadav ministry in the state though it was not a sitting seat of the party. Both the BJP and the Congress faced internal strife in the bypoll on the choice of the candidate but the fact remains that the final numbers favoured the Opposition party. The BJP has experimented with new faces as its choice for chief ministers but the slogans around “double engine” growth may have lost its steam at least in the state. It will be a morale booster for the Congress that it remains a fighting force in the state and gives it time to prepare for the Assembly polls in 2028.
-
-Yet the most disheartening among the results for the BJP could be its scraping through the Manjalpur bypoll ahead of the Gujarat Assembly election scheduled next year. The party indeed retained the seat but the margin of victory tells an ominous story: It has fallen to 30,630 from the 1,00,754 it had led with in the 2022 Assembly election. This erosion in votes will be tough to recoup in the Assembly election scheduled for next year unless the BJP worked hard at the grassroots.
-
-The success of the Jantar Mantar agitation has given out a clear message to all parties: The young generation is unwilling to live on promises politicians make; they want actions that can positively impact their lives. So it is up to them to decide if they want to change or face consequences.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-results-in-bankipur-other-bypolls-a-warning-to-bjp-1976622)
-
----
-
-### Anil Tyagi | 2 Top Leaders Decide Fate Of Thousands Of Civil Servants
-*Deccan Chronicle · Opinion*
-
-The fate of thousands of civil servants, including 5,577 IAS officers, 4,594 IPS and those from nearly 60 Central services and PSUs are in the hands of a single two-member committee, Appointments Committee of the Cabinet (ACC).
-
-The ACC now comprises two senior-most politicians from the administration, Prime Minister Narendra Modi and home minister Amit Shah. They are inevitably the most powerful decision-makers today. But what is significant, and crucial, is the subtle yet critical change in the composition of the ACC.
-
-Earlier, it had three members: the Prime Minister, home minister, and the Cabinet minister of the concerned ministry. On June 19, 2014, the membership was reduced to two. Not many, including senior retired and working civil servants, know the reason(s) behind the change. There are no policy papers or minutes that explain the decision.
-
-Prior to 2014, the establishment officer (EO), ex-officio secretary to the ACC in the department of personnel and training (DoPT), who served ex-officio as the secretary to the ACC, prepared a list of vacancies that were pinpointed by the various Central ministries. The official panel of candidates was forwarded to the ACC for final approvals. The ACC either held in-person meetings in the Prime Minister’s Office in South Block or discussed the issues on phone. Once the committee approved the appointments, the EO’s office issued the requisite orders.
-
-Since 2015, contend sources, the role of the EO and DoPT has diminished. The relevant Central ministry or department initiates the future appointments, which is done online through the ACC Vacancy Monitoring System (AVMS). This usually happens up to two months before an actual vacancy arises. Instead of the EO’s role in forwarding the names of the potential candidates, sources contend that in most cases the names for the coveted posts are decided at the higher/highest levels. The EO’s role is largely limited to preparing the digital proposal and submitting the file electronically to the ACC for approval.
-
-One is not sure how, when and where the two members of the ACC meet to finalise the appointments. When one looks at the official communication that announces the appointments, it typically states: “The ACC has approved the following names for the post…”
-
-Seniority takes back seat; extension raj holds sway
-
-The one question in the minds and lips of senior civil servants, which is being discussed in professional and social circuits is about the future of T.V. Somanathan, the current Cabinet secretary. His term expires on August 31, and the senior secretaries wish to know if it will be extended. A 1987-batch IAS officer of the Tamil Nadu cadre, Mr Somanathan took charge as Cabinet secretary on August 31, 2024, for a two-year term. Sources say that an extension may not be difficult unless Prime Minister Modi decides otherwise and has other plans.
-
-Experience shows that in the past 12 years, during the three consecutive Modi terms, extensions of senior civil servants were more the rule than an exception. Instead of the mandatory two-year terms, the former Cabinet secretaries like B.K. Chaturvedi served for three years, K.M. Chandrashekhar for four, Ajit Kumar Seth for four, and Pradeep Kumar Sinha for 4.2 years. Mr Somanathan’s predecessor, Rajiv Gauba, a 1982-batch IAS officer of the Jharkhand cadre, held the post for five years, which made him the country’s longest-serving Cabinet secretary.
-
-A similar pattern can be seen in the high-profile ministries. The tenure of Vikram Misri, a 1989-batch IFS officer, was extended till July 14, 2027. Praveen Sood, director of the CBI and a 1986-batch officer of the Karnataka cadre, got a second extension until May 24, 2027. Alok Sharma, DG SPG, and Alok Garg, DG Narcotics Control Bureau, received extensions. While Satish Kumar, IRMS 1986, chairman of the Railway Board, got a second extension, Gurdeep Singh, CMD, NTPC, recently received a six-month extension (up to January 2027) despite having served for 10 years.
-
-Therein lies the paradox, and complication. Each extension of a senior bureaucrat slashes a year, or two, or more from the career calendars of those who are in the promotion queue and they wait with bated breath for the incumbent to retire. There is a growing feeling that possibly the Modi Raj has quietly shifted promotions and tenures in the civil services from a seniority-based rotating system that allows new entrants to a less flexible trust-based one.
-
-Big Brother is watching
-
-In Lutyens’ Delhi, everything is noticed, and little goes unobserved, monitored and documented. Spread across 28.73 sq km, the Capital’s enclave that denotes and wields power and influence has become a zone that is under constant watch and surveillance since Mr Modi became Prime Minister on May 26, 2014.
-
-Look around and quietly observe the iconic hangouts of the rich and powerful. Senior civil servants, who once inhabited Delhi Golf Club, India Habitat Centre, IIC and Khan Market,...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/anil-tyagi-2-top-leaders-decide-fate-of-thousands-of-civil-servants-1976606)
-
----
-
-### Sunil Gatade | Gen Z Protests Helped To Revive India’s Opposition
-*Deccan Chronicle · Opinion*
-
-There is a saying in Marathi, “Aandhala magto ek dola, dev deto don”, which transliterates to: “The blind prays to God to give him one eye, and he gets both”.
-
-It is an apt description in which the Opposition across the country, which was virtually hapless till yesterday in the wake of the BJP’s bulldozer brigade running amok through its ranks, finds itself much emboldened following the Gen Z movement.
-
-The successful agitation for the removal of controversial education minister Dharmendra Pradhan by the Cockroach Janta Party has turned historic in that it has suddenly debilitated the Narendra Modi government and has given voice to its detractors.
-
-It was not that the Opposition was not attempting to raise the issue vociferously, but the fact that concerted attempts to break its ranks have somewhat broken its resolve or weakened it. Prime Minister Modi and home minister Amit Shah were running down their necks consistently to establish an “one umbrella” rule, which is antithetical to a parliamentary democracy.
-
-The failure of the strong leader to understand the plight and emotions of Gen Z resulted in his undoing, so much so that he was caught napping by the fierce passion and doggedness at the Jantar Mantar protests. unmindful of alleged police excesses.
-
-In fact, the Delhi police, which works under Mr Amit Shah, helped spread the Jantar Mantar protests like wildfire throughout the country by their strong-arm tactics that proved more than counterproductive.
-
-The CJP might have now called off the protests, but the Opposition has taken a cue from it by turning aggressive on the ruling side, squarely blaming the Union home minister for the excesses on the students and demanding an apology from the Prime Minister.
-
-The Opposition’s attempts to encircle Mr Shah, the crisis manager of the Modi Sarkar, and the de facto number two in the government, are bound to bring a fresh churn to the ongoing Monsoon Session of Parliament, where hardly anything is going as per the government’s script.
-
-The talk in political circles speaks of a rift in the Union Cabinet as well as the party over the handling of the student protests. The RSS chief’s appeal for a dialogue with the students was at divergence to the strong-arm tactics used by the police.
-
-Mr Modi might have sought to buy peace by sacrificing a “corrupt” Dharmendra Pradhan. But wittingly or unwittingly, he has opened the floodgates for the Opposition to “gherao” it on a number of issues to set right the education system, on the one hand, as well as institutions of democracy on the other.
-
-In fact, the CJP’s drawing first blood in the movement against the government has emboldened the Opposition to go on the offensive, and it is raring for a kill. “You have nothing to lose but your chains”.
-
-The fact is that the CJP has helped the Opposition to break the Narendra Modi code, which looked unbreakable due to the politics of polarisation to the hilt.
-
-A political commentator remarked that since Mr Modi has now bent once, you will see him bending again and again as the sheen is off his leadership. There are still three years to the next Lok Sabha polls, and the ruling side is not in the best of health. The Pradhan episode has made a huge difference.
-
-It has not only made a major hole in the credibility of the PM within the BJP, but also the claim of him being the most outstanding leader India has ever produced.
-
-The significance of the resignation of Mr Pradhan should be gauged from the fact that for the first time since he started as Gujarat CM 24 years ago, Mr Modi was forced to ask one of his ministers to quit. M.J. Akbar’s resignation as minister of state for external affairs following the “MeToo” scandal in 2018 was in a different league.
-
-Till now, the Prime Minister’s attitude was like an overlord's, always seeking to protect his men, whatever might be their omissions and commissions, as if they had done no wrong. claiming that his government stood for “na khaunga, na khane doonga”.
-
-With the Opposition turning restive, things would not be the same again for the Prime Minister. The beleaguered leader is expected to face an avalanche of problems, as his detractors have not only woken up but are up in arms after more than a decade of suppression.
-
-History is replete with instances where those who forget their promises have to repent sooner rather than later. Mr Modi had promised two crore jobs per year before he became Prime Minister in May 2014. He had also promised “achche din” for the one billion-plus people
-
-of India, which were seen as the gospel truth.
-
-A resurgent BJP had not only become an aggressive BJP but also an arrogant and autocratic BJP, with the “godi media” playing footsie, knowing full well that the government pulls the purse strings for advertisements.
-
-The arrogance emanated from the belief that it has mastered the art ot winning elections by hook or crook, and the work at hand is only to marginalise the allies and detractors once and for all. ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/sunil-gatade-gen-z-protests-helped-to-revive-indias-opposition-1976612)
-
----
-
-### A costly amnesty in green governance
-*Deccan Herald · Editorial*
-
-India’s environmental law stipulates that development projects should obtain the relevant environmental clearances ahead of operations.
-
-The country’s Environmental Impact Assessment (EIA) framework, based on the Environment (Protection) Act, 1986, and the 2006 EIA Notification, mandates “prior environmental clearance” of projects before irreversible damage can occur. A May 2025 Supreme Court ruling prohibited ex post facto environmental clearances “in any form”.
-
-On July 29, the Court upheld this principle, but diluted the law in spirit, intent, and practice. A bench led by Chief Justice Surya Kant set aside a 2021 Office Memorandum that allowed retrospective validation of environmental violations.
-
-But it held that a “narrowly tailored amnesty scheme” can be allowed where it is justified by “public interest”. The Court’s condition is that ex post facto clearances may be allowed if done by a statutory notification instead of an administrative order.
-
-Experts question WII's environmental impact assessment of Tinaighat-Kulem railway line doubling projectWhile the Court has affirmed the mandate for prior clearance, it has said that the law allows the government to retrospectively validate the violations with a statutory notification, provided such a measure satisfies the tests of proportionality, sustainable development, and public interest.
-
-It is the government and the industry that propose large-scale projects that require EIA and prior environmental clearance. Allowing the government to clear such projects by issuing a notification citing public interest removes any legal bar for the projects.
-
-The Court has introduced the idea of amnesty into environmental jurisprudence. It says if amnesty schemes are acceptable to deal with tax law violations, they can be replicated for environmental law violations, too.
-
-While an amnesty scheme might help the government recover lost or stolen revenue, it will not undo environmental damage like vanished forests or wetlands.
-
-The Court contends that the government’s powers to protect the environment, under Section 3 of the Act, include the power to grant amnesty for violations.
-
-Under the ruling, clearances already granted under previous notifications will remain protected. Retrospective approvals will be valid if done through formal legislative notifications in the name of public interest. Only a fine may have to be paid.
-
-The Court’s ruling conforms with a recent pattern of ex post facto validation of decisions, as seen in the cases relating to Aadhaar and Article 370. It may have narrowed the scope for ex post facto validation of violations, but the opening it has provided may be adequate to greenlight projects with major breaches.
-
-The judgment is a setback for environmental governance at a time when climate change demands stronger legal safeguards.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/a-costly-amnesty-in-green-governance-4098022)
-
----
-
-### The mob cannot seize the stage
-*Deccan Herald · Editorial*
-
-Stand-up comedy has become an unlikely barometer of free expression in India. The latest instance is comedian Kunal Kamra's Bengaluru performances, shifted from Whitefield to Koramangala after an obscure outfit objected to the show.
-
-The episode once again exposed that the easiest way to silence an artist is not through the law, but through the threat of disruption. This fits a familiar pattern in the state. In 2021, Kamra was forced to cancel a 20-day Bengaluru run after the venue received threats. Munawar Faruqui's ordeal was more severe.
-
-His show was pulled out in 2021, marking his twelfth cancellation in just two months across India, after he was arrested in Madhya Pradesh before he even took the stage over allegations that he intended to offend religious sentiments. Vir Das's show in 2022 was cancelled after protests over his I Come From Two Indias monologue.
-
-Comedian Kunal Kamra cancels select Bengaluru shows after controversyOrganisers often withdraw not because authorities ban the event but because venue owners fear vandalism. Such ‘voluntary’ cancellations are, in reality, decisions taken under duress.
-
-The Supreme Court, in S Rangarajan v. P. Jagjivan Ram (1989), made it clear that free speech cannot be held hostage to threats of violence and that it is the state's duty to protect expression rather than yield to intimidation.
-
-Yet those who threaten disruption are seldom prosecuted for criminal intimidation, even as performers bear the losses and other consequences. The Congress was among the strongest critics of such cancellations when it sat in the Opposition.
-
-Priyank Kharge had then rightly observed that questioning authority and expressing dissent are fundamental to democracy. Those words deserve to be translated into policy now that he is Home Minister.
-
-Karnataka's cultural history makes this principle self-evident. From the irreverent Hasyagara of Yakshagana and the social commentary of Bayalata to the satire of Hirannaiah and the works of Girish Karnad, P Lankesh, and B V Karanth, the state's artistic tradition has challenged authority, mocked hypocrisy, and provoked debate.
-
-It has enriched, not diminished, public life. Freedom of expression is not absolute. If a performance violates the law or incites hatred, action should follow. But pre-emptively stopping a show because someone predicts it might be objectionable turns the heckler's veto into public policy.
-
-The Congress came to power promising an inclusive and liberal Karnataka. The government must not allow fringe groups to decide what citizens may watch. Its duty is to protect lawful performances and punish those who threaten violence, not those who take the stage.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/the-mob-cannot-seize-the-stage-4098023)
-
----
-
-### Punishing paper leaks can only fix the symptom, not the structural flaws
-*Deccan Herald · Opinion*
-
-The Union government’s Public Examinations (Prevention of Unfair Means) Amendment Act, 2026, strengthens India’s response to paper leaks after the NEET-UG crisis triggered weeks of student protests and eventually the resignation of Union Minister of Education Dharmendra Pradhan.
-
-On paper, the response looks formidable: imprisonment of up to ten years, higher fines, two-month investigations, three-month trials through special fast-track courts, and, separately, a high-powered examination reform task force led by Nandan Nilekani to explore technological solutions.
-
-The harder question, however, is whether any of these addresses the vulnerabilities that allowed another examination crisis to occur barely two years after NEET-UG 2024.
-
-On that count, the answer is uncomfortable. The government already had a detailed reform blueprint. The K Radhakrishnan Committee, constituted after the 2024 controversy, made 101 recommendations covering examination security, the National Testing Agency (NTA)’s capacity, outsourcing, testing infrastructure, and technology. Nearly two years later, only 57 recommendations have been fully implemented, and 10 have been partially implemented.
-
-Therefore, the present crisis is not the result of the government not knowing what needs to change. It follows an incomplete attempt to change it.
-
-Bill to amend anti-paper law gets President's assentOne of the Committee’s central concerns was the vulnerability created by the examination supply chain itself. It recommended reducing NTA’s dependence on outsourced staff and private service providers, building permanent domain expertise within the agency, and expanding secure government-controlled testing infrastructure.
-
-It also proposed computer-assisted secure pen-and-paper Testing under which the encrypted question papers would be digitally transmitted to examination centres and printed shortly before the test, eliminating much of the printing, storage, and transportation chain through which a leak can occur.
-
-The 2026 Amendment Act does not incorporate these structural fixes, opting instead to penalise the symptom. It increases penalties for service providers found liable under the law, but does not reduce the system’s dependence on vendors in the first place.
-
-It creates fast-track courts after a leak has occurred, but does not mandate secure digital transmission of question papers before one occurs. It raises sentences, but does not restructure how high-stakes examinations are designed or delivered.
-
-Even the transition towards computer-assisted examinations, among the most consequential preventive recommendations of the Radhakrishnan Committee, finds no statutory place in the Amendment Act. In other words, the Committee sought to shrink the opportunities for a leak; the law primarily raises the cost of being caught after one.
-
-There are reasons to question that reliance on punishment. The Law Commission, in its 262nd Report, while examining capital punishment, cautioned against assuming that greater severity necessarily produces greater deterrence, a principle that applies here too: increasing imprisonment from five years to ten will do little if investigation and prosecution cannot reliably carry a case to conviction.
-
-The fast-track court provisions face a similar problem. Two months for investigation and three months for trial are desirable targets, but statutory deadlines do not by themselves create investigative, forensic, or judicial capacity.
-
-The Law Commission, in its 245th Report on judicial arrears, cautioned that without adequate infrastructure and support staff, even increasing judicial strength would not effectively reduce delay.
-
-Despite their specialised mandate, more than 2.45 lakh cases remained pending before fast-track special courts for rape and POCSO cases at the end of 2025. The lesson is not that timelines are unnecessary, but that a three-month deadline is only as credible as the institutional machinery built to meet it.
-
-The missing guarantee
-
-There is also a more immediate omission regarding the victims of these lapses. The Act gives the state deadlines to investigate the offenders and courts deadlines to try them, but gives students no comparable right when the examination system fails.
-
-There is no statutory deadline for deciding whether an examination will be cancelled, no guaranteed period within which a re-examination must be conducted, and no compensation framework for candidates forced to spend again on travel, accommodation, and preparation because an examination was compromised.
-
-The law is elaborate about what the state may do to the accused; it says remarkably little about what the state owes the student. That gap matters because every compromised examination imposes costs long before offenders are investigated, tried, or punished by the state.
-
-The Nilekani-led task force may now address precisely the preventive side of the problem that the Amendment Act largely leaves untouched. Its focus on examination reform and technological solutions could help translate the earlier push towards computer-based and computer-assisted testing into a secure and workable system.
-
-But the direction of reform is not new. The blueprints for structural and technological safeguards have been available since 2024. The fundamental issue is not a lack of technological roadmaps, but that legislative penalisation has moved faster than bureaucratic implementation.
-
-The Amendment Act ultimately answers only part of the problem. It makes paper leaks more punishable, but does much less to make them harder to commit, and almost nothing to guarantee relief to students when the system fails. If public examinations are to regain their credibility, these omissions will matter more than whether the maximum punishment is five years or ten.
-
-The writers are lawyers and policy researchers.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/punishing-paper-leaks-can-only-fix-the-symptom-not-the-structural-flaws-4098032)
 
 ---
 

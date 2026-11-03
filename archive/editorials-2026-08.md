@@ -1,5 +1,289 @@
 # Editorials archive — 2026-08
 
+## 4 August 2026
+
+### ​FIFA foul: On the shelved FIFA Forward Enterprise
+*The Hindu · Editorial*
+
+The collapse of FIFA’s controversial plan that would have helped private investors benefit from the World Cup and other flagship competitions represents the latest hit to the global body’s reputation. In the aftermath of the 2026 World Cup, FIFA president Gianni Infantino hurriedly put together strategies to form the FIFA Forward Enterprise (FFE) to consolidate all revenue-generating operations, and invite private bodies to hold non-controlling stakes in the body. But this elicited enormous backlash from a number of FIFA’s 211 member associations, with European governing body UEFA even declaring that its 55 members would boycott the World Cup. Europe is football’s nerve-centre, and with the Asian Football Confederation and players’ union FIFPRO also expressing apprehensions, and one of Mr. Infantino’s senior advisers quitting in protest, the scheme was a non-starter. The episode has also reduced Mr. Infantino’s standing, especially after the controversy-ridden World Cup, where political interference by the U.S. — one of the co-hosts — and rampant commercialisation severely diminished ‘the beautiful game’. The now-shelved FFE was to be backed by a venture capitalist with familial ties to U.S. President Donald Trump, making the whole deal all the more suspect. The 2027 FIFA election, where Mr. Infantino was expected to be re-elected for a third full term, is no longer a cake-walk.
+
+The saga has brought back into focus the conflict at the heart of FIFA’s functioning and the patronage politics it enables. FIFA is the global regulator of the sport, and ideally, its commercial wing should be kept at an arm’s length. However, the organisation’s structure is such that the revenue generated is often used as leverage to extract favour. As a non-profit, FIFA is duty-bound to redistribute income amongst its members, but presidents — past and present — have turned it into a vote-catching tool to hold on to power. To approve the FFE project, FIFA had reportedly offered each of its members $20 million upfront, and a direct beneficiary of this would have been Mr. Infantino at next year’s election, for every association has one vote. However, history shows that moves to use legacy tournaments for self-aggrandisement are bound to fail. In 2018, the International Tennis Federation entered into a 25-year, $3 billion partnership with a private investment firm to re-jig the over-a-century-old Davis Cup, with the promise of extra money for the game’s global development. That agreement lasted just five years, with the shift from the traditional home-and-away format deeply unpopular and considered soul-shattering to the sport. It is time FIFA re-inculcates fairness, embraces consensus and shuns its president’s unilateralism.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/fifa-foul-on-the-shelved-fifa-forward-enterprise/article71301247.ece)
+
+---
+
+### Proof of life: On the Registration of Births and Deaths (Amendment) Bill 2026
+*The Hindu · Editorial*
+
+The Registration of Births and Deaths (Amendment) Bill 2026 passed in the Lok Sabha amends Section 13(3) of the 1969 Act. In the updated framework, registrations delayed for up to two years still require a district, a subdivisional or an authorised executive magistrate’s order, but when the delay exceeds two years, a judicial magistrate is required to verify the event and pass an order. The 2023 amendment rendered birth certificates the principal, in fact near-conclusive, proof of date and place of birth for school admission, voter rolls and applications for passport, Aadhaar, driving licence and government jobs. It also allowed the Centre and States to create digital databases, and required them to share data with the Registrar General. As the certificate’s gatekeeping power grew, so did the incentive to obtain one fraudulently, leading to the 2026 amendment. However, the Bill’s passage lacked debate in the Lok Sabha as the Opposition was protesting the July 20 police crackdown on the CJP protests. Since identity documents have also become more politically sensitive, moving potentially more contentious cases into courts insulates the administration from accusations that it is arbitrarily granting or refusing documentation. But while judicial scrutiny places the decision at arm’s length from the executive, erroneous decisions could prove more difficult for disadvantaged applicants to rectify.
+
+The amendment also leaves the evidentiary rules unchanged. If the government believed executive magistrates were approving suspicious applications because the evidentiary standards were too lax, it could have prescribed more rigorous documentation, but it has not. Further, how the risk of fraudulent registrations rises after two years is unclear; the government has also not published evidence justifying a judicial magistrate’s intervention at two years or whether it considered less burdensome alternatives. For now, it appears to be a compromise based possibly on shorter delays being common enough for administrative responses to resolve. Registrations are also not infrequently delayed for valid reasons, for example because they transpired in remote areas, or undocumented migrants realised a need for educational certificates. But when identity documents become indispensable to access state support, the government’s policy instinct has been to raise the documents’ level of assurance rather than render them more accessible. In the same vein, the amendment may further a broader philosophy that, in pursuit of bureaucratic certainty, treats the wrongful exclusion of legitimate citizens as an acceptable price to minimise the risk of wrongful inclusion. And the Rajya Sabha must debate the Bill to clarify whether this trade-off is backed by sufficient evidence.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/proof-of-life-on-the-registration-of-births-and-deaths-amendment-bill-2026/article71301223.ece)
+
+---
+
+### AI and cyber, the double helix of today’s security threats
+*The Hindu · Opinion*
+
+The rapid proliferation of digital technologies is reshaping the global security landscape. What was once an interconnected, but relatively limited, digital world, has altered into a complex interconnected ecosystem where dangers and threats lurk at every step. The combination of Artificial Intelligence (AI) and cyber threats has emerged as one of the most critical concerns of the modern world.
+
+While AI has changed from being merely an operational efficiency mechanism into an absolute infrastructure mandate, cyber threats are becoming more sophisticated, harder to detect and more difficult to mitigate. Today, AI-powered malware can adapt and evolve in response to changes in its environment, making it harder for traditional anti-virus software to detect. The global interconnectedness of digital systems has also raised the ante as far as cyber attacks are concerned. Malicious autonomous agents are today well positioned to undermine the legacy of “Zero Trust” protocols, aggravating insider threat vectors.
+
+Meanwhile, as seen in the war in Ukraine, newer technologies are demonstrating the potential to undermine conventional military calculus through asymmetric impact. The rapid proliferation of digital technologies and systems across every discipline, cyber breaches and malicious activities are impacting every level of security. Many governments facing sophisticated cyber adversaries are drawing up a security architecture which involves a blend of innovation, policy coherence and strategic realism, but still lag behind.
+
+A new disruptive eraAI, meanwhile, is reshaping every consequential domain of human activity. AI’s Large Language Models (LLM) are intruding into many business enterprises, without either proper training or evolution of the human interface. As ‘Agentic’ AI — as distinct from Generative AI — becomes a force to reckon with, problems attached to AI implementation are set to become even more complex. The catalyst for such concerns is the arrival of the latest AI systems, notably Mythos, developed by United States firm Anthropic. According to experts it demonstrates an uncanny ability to detect ‘Zero day’ vulnerabilities across major operating systems. What is evident is that AI is beginning to test the limits of legacy systems.
+
+AI’s overarching influence makes it essential to understand the risks and threats it poses, especially when combined with cyber capabilities, where the danger grows exponentially. AI has already transformed modern warfare, as seen in the Russia-Ukraine conflict and the U.S./Israel-Iran war. AI-powered smart systems can detect, track, and predict missile trajectories with remarkable accuracy. AI can also provide different kinds of intelligence from photos, text, radio, and electromagnetic signals to deny adversaries a tactical advantage. Munitions, such as systems dubbed “Goalkeeper” and “Whiplash” can independently identify and strike targets. Yet, nations, particularly the U.S., have not yet demonstrated a level of sagacity on how best to wield this power and in a manner that does not endanger human civilisation.
+
+These developments are fuelling concerns about AI’s future as increasingly capable models and robots replace human roles. LLMs and autonomous agents are already performing complex tasks once reserved for people. The World Economic Forum warns that while AI will strengthen cyber defences, it will also enable more sophisticated automated attacks, potentially rendering current “Zero Trust” protocols ineffective. This raises concerns that hard power may increasingly be shaped by nations and organisations at the forefront of AI.
+
+Companies in the West such as Anthropic and Palantir are behaving as if they own the world of tomorrow, since they hold the key to the world’s mightiest technology. Anthropic has reached a stage today where with Mythos, it creates the spectre of all-encompassing power residing in a single instrument that is not subject to any rules. China, perhaps, has its own version of Anthropic or something resembling it, but this is of little comfort to the rest of the world. What is becoming clearly evident is that an attacker with the latest version poses a grave threat to not merely one country but an entire civilisation.
+
+An AI ‘power shift’As AI technologies become more rampant and uncontrollable, existing rules concerning cyber security may require to be completely rewritten. Many experts warn that as “Agentic Autonomous Operations” become even more sophisticated, the world could reach an inflection point that has grave forebodings for the world. Whether Mythos is the harbinger of this is yet to be determined, but it is generally acknowledged that the newer generations of AI machines provide opportunities for ‘rogue groups’ to demonstrate capabilities that were once associated with only nation states. As Agentic AI begins to displace Generative AI, enabling it to act more autonomously, threat levels are certain to go up still further. AI has, hence, the potential to become the dominant source of military and economic power, even as the rules to govern AI are still in a fledgling state. The bugle call has already been sounded by the pontiff of Anthropic, the AI firm that makes models such as Mythos, that it has the potential to become the dominant source of military and economic power as civilisation advances.
+
+Notwithstanding the god-like properties of existing modern AI models, experts warn that they are often subject to “hallucinations”, thus giving scope for distortions, producing misleading reactions. Judgments in such cases tend, quite often, to be subjective. Even otherwise, biases are known to creep into decisions dictated by AI, enhancing the danger posed by unrestricted reliance on AI. Furthermore, experts warn that it is vitally important to guard against such ‘algorithmic radicalisation’, and ensure that AI platforms do not push opinion makers towards extreme views.
+
+A future that needs oversight, wisdomThe world, thus, appears to have reached a tipping point in AI progress and development. Already, some companies that are leading the AI charge are accusing others of stealing their technologies and expanding on them to their advantage. The latest is a charge made by the U.S. against China, viz., that China’s ‘Moonshot’ AI stole from Anthropic’s most sophisticated AI Large Language Model ‘Fable’, to help create its latest AI version. Predictably, China has rejected this charge, but it reflects the intensity of the competition between the U.S. and China in this area. If Anthropic’s claim is true — that its latest model has surpassed “all but the most skilled humans” in finding and exploiting security vulnerabilities in everything from popular operating systems to cryptographic software — the world could face a new kind of apocalypse.
+
+The world has steadily progressed from abiding concerns of stagnant economic growth to doomsday technologies, and this merits a great deal of introspection. Altruism is not enough to decide on how to handle a technology that is about to eat up the world. There are several aspects of advanced AI that clearly demand more introspection, but this is not evident. As AI increasingly enters into the arena of defence sensing and warning, there is a need not only to keep machines under human control but also to ensure that AI-dictated warnings do not outrun proper understanding and reality.
+
+Those steeped in defence aspects already know the gap that exists between warning and understanding of what might happen, and how critical this is in strategic terms. High-powered AI systems may often prove unreliable as they may demonstrate a bias towards national security given that algorithms often display such biases. The world, hence, needs to reach an understanding on how best to deal with this new technology which can, and could, end or make the future of the world. What we have seen in Ukraine and West Asia is not even the tip of this iceberg. Better to “cross the river by feeling the stones” is a better maxim than ‘blind prejudice or unadulterated endorsement of a new technology’.
+
+M.K. Narayanan is a former Director, Intelligence Bureau, a former National Security Adviser, and a former Governor of West Bengal
+
+[Read full article](https://www.thehindu.com/opinion/lead/ai-and-cyber-the-double-helix-of-todays-security-threats/article71302018.ece)
+
+---
+
+### DC Edit | Lens On Sexual Abuse In Sport
+*Deccan Chronicle · Editorial*
+
+A trial court has acquitted Brij Bhushan Sharan Singh and Vinod Tomar in a case of sexual harassment filed by six women wrestlers, including prominent international medal winners Vinesh Phogat and Sakshi Malik. The seeking of justice might not end with this though it is likely that the grounds that the evidence was short of proving the crime may weigh heavily even if the sportspersons pursue the matter in higher courts.
+
+What the cause celebre, which remained in national focus for over three years since demonstrations first took place in Jantar Mantar in April 2023 and chief judicial magistrate of the Rouse Avenue court began hearing the case from 2024, was to bring humongous attention to sexual harassment and intimidation that young sportspersons face.
+
+Brij Bhushan, ex-MP and former president of the Wrestling Federation of India, and his fellow official may have been cleared of the charges because the evidence was scanty, and testimony inconsistent and even flawed as we saw the accused claim that they were not even in the city as mentioned in the pleas. It does not, however, mean that the problem does not exist in Indian sport, especially because talented rural sportspeople are known to move to urban centres with better infrastructure and so come under the direct influence of sports administrators, among whom sexual predators may be present.
+
+The court framed charges of sexual harassment, intimidation and outraging the modesty of women against Brij Bhushan and criminal intimidation against Mr Singh. There was so much smoke that the facile assumption was that there had to be a fire. Irrespective of the legal position and the difficulty of proving sexual harassment cases in the Indian judicial environment, this defining case was necessary as it led to many such charges being aired and several coaches and administrators coming under fire for alleged mistreatment of sportspersons and, we daresay, the outing of many predators.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-lens-on-sexual-abuse-in-sport-1976629)
+
+---
+
+### DC Edit | Results In Bankipur, Other Bypolls A warning To BJP
+*Deccan Chronicle · Editorial*
+
+The Cockroaches appear to have bitten off a good chunk of the BJP’s popular base if one were to go by the party’s shock defeat in the Bankipur Assembly seat in Bihar, its loss in Dahita in Madhya Pradesh and a win with a much reduced margin in Manjalpur in Gujarat in recently held by-elections. The message of the electorate, however, to all parties is that the youth of this country is getting disillusioned with them and hence they have two options: Perish or perform. And the signs are most ominous for the BJP, the ruling party at the Centre and in most states.
+
+The loss in Bankipur is significant for the BJP for more reasons than one. The bypoll was necessitated when Mr Nitin Nabin who represented the constituency vacated the seat before taking over as the national president of the BJP. The party naturally marshalled all its resources to ensure victory in the prestigious battle against Prashant Kishor, once a poll strategist for BJP representing his fledgling Jan Suraaj Party. The mostly urban constituency had elected only a BJP candidate for more than three decades even in the worst of seasons. It was also the first election after the BJP assumed the chief ministerial chair after wresting it from its long term ally, the JD(U), and sent Nitish Kumar packing from the state politics. The numbers are significant: The party lost by a margin of 19,324 in a seat which it had won with a lead of 51,936 votes in 2025. Every single reason has contributed in magnifying the blow to the saffron party.
+
+The loss in Madhya Pradesh to the Congress is a sign of the declining popularity of the Mohan Yadav ministry in the state though it was not a sitting seat of the party. Both the BJP and the Congress faced internal strife in the bypoll on the choice of the candidate but the fact remains that the final numbers favoured the Opposition party. The BJP has experimented with new faces as its choice for chief ministers but the slogans around “double engine” growth may have lost its steam at least in the state. It will be a morale booster for the Congress that it remains a fighting force in the state and gives it time to prepare for the Assembly polls in 2028.
+
+Yet the most disheartening among the results for the BJP could be its scraping through the Manjalpur bypoll ahead of the Gujarat Assembly election scheduled next year. The party indeed retained the seat but the margin of victory tells an ominous story: It has fallen to 30,630 from the 1,00,754 it had led with in the 2022 Assembly election. This erosion in votes will be tough to recoup in the Assembly election scheduled for next year unless the BJP worked hard at the grassroots.
+
+The success of the Jantar Mantar agitation has given out a clear message to all parties: The young generation is unwilling to live on promises politicians make; they want actions that can positively impact their lives. So it is up to them to decide if they want to change or face consequences.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-results-in-bankipur-other-bypolls-a-warning-to-bjp-1976622)
+
+---
+
+### Anil Tyagi | 2 Top Leaders Decide Fate Of Thousands Of Civil Servants
+*Deccan Chronicle · Opinion*
+
+The fate of thousands of civil servants, including 5,577 IAS officers, 4,594 IPS and those from nearly 60 Central services and PSUs are in the hands of a single two-member committee, Appointments Committee of the Cabinet (ACC).
+
+The ACC now comprises two senior-most politicians from the administration, Prime Minister Narendra Modi and home minister Amit Shah. They are inevitably the most powerful decision-makers today. But what is significant, and crucial, is the subtle yet critical change in the composition of the ACC.
+
+Earlier, it had three members: the Prime Minister, home minister, and the Cabinet minister of the concerned ministry. On June 19, 2014, the membership was reduced to two. Not many, including senior retired and working civil servants, know the reason(s) behind the change. There are no policy papers or minutes that explain the decision.
+
+Prior to 2014, the establishment officer (EO), ex-officio secretary to the ACC in the department of personnel and training (DoPT), who served ex-officio as the secretary to the ACC, prepared a list of vacancies that were pinpointed by the various Central ministries. The official panel of candidates was forwarded to the ACC for final approvals. The ACC either held in-person meetings in the Prime Minister’s Office in South Block or discussed the issues on phone. Once the committee approved the appointments, the EO’s office issued the requisite orders.
+
+Since 2015, contend sources, the role of the EO and DoPT has diminished. The relevant Central ministry or department initiates the future appointments, which is done online through the ACC Vacancy Monitoring System (AVMS). This usually happens up to two months before an actual vacancy arises. Instead of the EO’s role in forwarding the names of the potential candidates, sources contend that in most cases the names for the coveted posts are decided at the higher/highest levels. The EO’s role is largely limited to preparing the digital proposal and submitting the file electronically to the ACC for approval.
+
+One is not sure how, when and where the two members of the ACC meet to finalise the appointments. When one looks at the official communication that announces the appointments, it typically states: “The ACC has approved the following names for the post…”
+
+Seniority takes back seat; extension raj holds sway
+
+The one question in the minds and lips of senior civil servants, which is being discussed in professional and social circuits is about the future of T.V. Somanathan, the current Cabinet secretary. His term expires on August 31, and the senior secretaries wish to know if it will be extended. A 1987-batch IAS officer of the Tamil Nadu cadre, Mr Somanathan took charge as Cabinet secretary on August 31, 2024, for a two-year term. Sources say that an extension may not be difficult unless Prime Minister Modi decides otherwise and has other plans.
+
+Experience shows that in the past 12 years, during the three consecutive Modi terms, extensions of senior civil servants were more the rule than an exception. Instead of the mandatory two-year terms, the former Cabinet secretaries like B.K. Chaturvedi served for three years, K.M. Chandrashekhar for four, Ajit Kumar Seth for four, and Pradeep Kumar Sinha for 4.2 years. Mr Somanathan’s predecessor, Rajiv Gauba, a 1982-batch IAS officer of the Jharkhand cadre, held the post for five years, which made him the country’s longest-serving Cabinet secretary.
+
+A similar pattern can be seen in the high-profile ministries. The tenure of Vikram Misri, a 1989-batch IFS officer, was extended till July 14, 2027. Praveen Sood, director of the CBI and a 1986-batch officer of the Karnataka cadre, got a second extension until May 24, 2027. Alok Sharma, DG SPG, and Alok Garg, DG Narcotics Control Bureau, received extensions. While Satish Kumar, IRMS 1986, chairman of the Railway Board, got a second extension, Gurdeep Singh, CMD, NTPC, recently received a six-month extension (up to January 2027) despite having served for 10 years.
+
+Therein lies the paradox, and complication. Each extension of a senior bureaucrat slashes a year, or two, or more from the career calendars of those who are in the promotion queue and they wait with bated breath for the incumbent to retire. There is a growing feeling that possibly the Modi Raj has quietly shifted promotions and tenures in the civil services from a seniority-based rotating system that allows new entrants to a less flexible trust-based one.
+
+Big Brother is watching
+
+In Lutyens’ Delhi, everything is noticed, and little goes unobserved, monitored and documented. Spread across 28.73 sq km, the Capital’s enclave that denotes and wields power and influence has become a zone that is under constant watch and surveillance since Mr Modi became Prime Minister on May 26, 2014.
+
+Look around and quietly observe the iconic hangouts of the rich and powerful. Senior civil servants, who once inhabited Delhi Golf Club, India Habitat Centre, IIC and Khan Market,...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/anil-tyagi-2-top-leaders-decide-fate-of-thousands-of-civil-servants-1976606)
+
+---
+
+### Sunil Gatade | Gen Z Protests Helped To Revive India’s Opposition
+*Deccan Chronicle · Opinion*
+
+There is a saying in Marathi, “Aandhala magto ek dola, dev deto don”, which transliterates to: “The blind prays to God to give him one eye, and he gets both”.
+
+It is an apt description in which the Opposition across the country, which was virtually hapless till yesterday in the wake of the BJP’s bulldozer brigade running amok through its ranks, finds itself much emboldened following the Gen Z movement.
+
+The successful agitation for the removal of controversial education minister Dharmendra Pradhan by the Cockroach Janta Party has turned historic in that it has suddenly debilitated the Narendra Modi government and has given voice to its detractors.
+
+It was not that the Opposition was not attempting to raise the issue vociferously, but the fact that concerted attempts to break its ranks have somewhat broken its resolve or weakened it. Prime Minister Modi and home minister Amit Shah were running down their necks consistently to establish an “one umbrella” rule, which is antithetical to a parliamentary democracy.
+
+The failure of the strong leader to understand the plight and emotions of Gen Z resulted in his undoing, so much so that he was caught napping by the fierce passion and doggedness at the Jantar Mantar protests. unmindful of alleged police excesses.
+
+In fact, the Delhi police, which works under Mr Amit Shah, helped spread the Jantar Mantar protests like wildfire throughout the country by their strong-arm tactics that proved more than counterproductive.
+
+The CJP might have now called off the protests, but the Opposition has taken a cue from it by turning aggressive on the ruling side, squarely blaming the Union home minister for the excesses on the students and demanding an apology from the Prime Minister.
+
+The Opposition’s attempts to encircle Mr Shah, the crisis manager of the Modi Sarkar, and the de facto number two in the government, are bound to bring a fresh churn to the ongoing Monsoon Session of Parliament, where hardly anything is going as per the government’s script.
+
+The talk in political circles speaks of a rift in the Union Cabinet as well as the party over the handling of the student protests. The RSS chief’s appeal for a dialogue with the students was at divergence to the strong-arm tactics used by the police.
+
+Mr Modi might have sought to buy peace by sacrificing a “corrupt” Dharmendra Pradhan. But wittingly or unwittingly, he has opened the floodgates for the Opposition to “gherao” it on a number of issues to set right the education system, on the one hand, as well as institutions of democracy on the other.
+
+In fact, the CJP’s drawing first blood in the movement against the government has emboldened the Opposition to go on the offensive, and it is raring for a kill. “You have nothing to lose but your chains”.
+
+The fact is that the CJP has helped the Opposition to break the Narendra Modi code, which looked unbreakable due to the politics of polarisation to the hilt.
+
+A political commentator remarked that since Mr Modi has now bent once, you will see him bending again and again as the sheen is off his leadership. There are still three years to the next Lok Sabha polls, and the ruling side is not in the best of health. The Pradhan episode has made a huge difference.
+
+It has not only made a major hole in the credibility of the PM within the BJP, but also the claim of him being the most outstanding leader India has ever produced.
+
+The significance of the resignation of Mr Pradhan should be gauged from the fact that for the first time since he started as Gujarat CM 24 years ago, Mr Modi was forced to ask one of his ministers to quit. M.J. Akbar’s resignation as minister of state for external affairs following the “MeToo” scandal in 2018 was in a different league.
+
+Till now, the Prime Minister’s attitude was like an overlord's, always seeking to protect his men, whatever might be their omissions and commissions, as if they had done no wrong. claiming that his government stood for “na khaunga, na khane doonga”.
+
+With the Opposition turning restive, things would not be the same again for the Prime Minister. The beleaguered leader is expected to face an avalanche of problems, as his detractors have not only woken up but are up in arms after more than a decade of suppression.
+
+History is replete with instances where those who forget their promises have to repent sooner rather than later. Mr Modi had promised two crore jobs per year before he became Prime Minister in May 2014. He had also promised “achche din” for the one billion-plus people
+
+of India, which were seen as the gospel truth.
+
+A resurgent BJP had not only become an aggressive BJP but also an arrogant and autocratic BJP, with the “godi media” playing footsie, knowing full well that the government pulls the purse strings for advertisements.
+
+The arrogance emanated from the belief that it has mastered the art ot winning elections by hook or crook, and the work at hand is only to marginalise the allies and detractors once and for all. ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sunil-gatade-gen-z-protests-helped-to-revive-indias-opposition-1976612)
+
+---
+
+### A costly amnesty in green governance
+*Deccan Herald · Editorial*
+
+India’s environmental law stipulates that development projects should obtain the relevant environmental clearances ahead of operations.
+
+The country’s Environmental Impact Assessment (EIA) framework, based on the Environment (Protection) Act, 1986, and the 2006 EIA Notification, mandates “prior environmental clearance” of projects before irreversible damage can occur. A May 2025 Supreme Court ruling prohibited ex post facto environmental clearances “in any form”.
+
+On July 29, the Court upheld this principle, but diluted the law in spirit, intent, and practice. A bench led by Chief Justice Surya Kant set aside a 2021 Office Memorandum that allowed retrospective validation of environmental violations.
+
+But it held that a “narrowly tailored amnesty scheme” can be allowed where it is justified by “public interest”. The Court’s condition is that ex post facto clearances may be allowed if done by a statutory notification instead of an administrative order.
+
+Experts question WII's environmental impact assessment of Tinaighat-Kulem railway line doubling projectWhile the Court has affirmed the mandate for prior clearance, it has said that the law allows the government to retrospectively validate the violations with a statutory notification, provided such a measure satisfies the tests of proportionality, sustainable development, and public interest.
+
+It is the government and the industry that propose large-scale projects that require EIA and prior environmental clearance. Allowing the government to clear such projects by issuing a notification citing public interest removes any legal bar for the projects.
+
+The Court has introduced the idea of amnesty into environmental jurisprudence. It says if amnesty schemes are acceptable to deal with tax law violations, they can be replicated for environmental law violations, too.
+
+While an amnesty scheme might help the government recover lost or stolen revenue, it will not undo environmental damage like vanished forests or wetlands.
+
+The Court contends that the government’s powers to protect the environment, under Section 3 of the Act, include the power to grant amnesty for violations.
+
+Under the ruling, clearances already granted under previous notifications will remain protected. Retrospective approvals will be valid if done through formal legislative notifications in the name of public interest. Only a fine may have to be paid.
+
+The Court’s ruling conforms with a recent pattern of ex post facto validation of decisions, as seen in the cases relating to Aadhaar and Article 370. It may have narrowed the scope for ex post facto validation of violations, but the opening it has provided may be adequate to greenlight projects with major breaches.
+
+The judgment is a setback for environmental governance at a time when climate change demands stronger legal safeguards.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-costly-amnesty-in-green-governance-4098022)
+
+---
+
+### The mob cannot seize the stage
+*Deccan Herald · Editorial*
+
+Stand-up comedy has become an unlikely barometer of free expression in India. The latest instance is comedian Kunal Kamra's Bengaluru performances, shifted from Whitefield to Koramangala after an obscure outfit objected to the show.
+
+The episode once again exposed that the easiest way to silence an artist is not through the law, but through the threat of disruption. This fits a familiar pattern in the state. In 2021, Kamra was forced to cancel a 20-day Bengaluru run after the venue received threats. Munawar Faruqui's ordeal was more severe.
+
+His show was pulled out in 2021, marking his twelfth cancellation in just two months across India, after he was arrested in Madhya Pradesh before he even took the stage over allegations that he intended to offend religious sentiments. Vir Das's show in 2022 was cancelled after protests over his I Come From Two Indias monologue.
+
+Comedian Kunal Kamra cancels select Bengaluru shows after controversyOrganisers often withdraw not because authorities ban the event but because venue owners fear vandalism. Such ‘voluntary’ cancellations are, in reality, decisions taken under duress.
+
+The Supreme Court, in S Rangarajan v. P. Jagjivan Ram (1989), made it clear that free speech cannot be held hostage to threats of violence and that it is the state's duty to protect expression rather than yield to intimidation.
+
+Yet those who threaten disruption are seldom prosecuted for criminal intimidation, even as performers bear the losses and other consequences. The Congress was among the strongest critics of such cancellations when it sat in the Opposition.
+
+Priyank Kharge had then rightly observed that questioning authority and expressing dissent are fundamental to democracy. Those words deserve to be translated into policy now that he is Home Minister.
+
+Karnataka's cultural history makes this principle self-evident. From the irreverent Hasyagara of Yakshagana and the social commentary of Bayalata to the satire of Hirannaiah and the works of Girish Karnad, P Lankesh, and B V Karanth, the state's artistic tradition has challenged authority, mocked hypocrisy, and provoked debate.
+
+It has enriched, not diminished, public life. Freedom of expression is not absolute. If a performance violates the law or incites hatred, action should follow. But pre-emptively stopping a show because someone predicts it might be objectionable turns the heckler's veto into public policy.
+
+The Congress came to power promising an inclusive and liberal Karnataka. The government must not allow fringe groups to decide what citizens may watch. Its duty is to protect lawful performances and punish those who threaten violence, not those who take the stage.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-mob-cannot-seize-the-stage-4098023)
+
+---
+
+### Punishing paper leaks can only fix the symptom, not the structural flaws
+*Deccan Herald · Opinion*
+
+The Union government’s Public Examinations (Prevention of Unfair Means) Amendment Act, 2026, strengthens India’s response to paper leaks after the NEET-UG crisis triggered weeks of student protests and eventually the resignation of Union Minister of Education Dharmendra Pradhan.
+
+On paper, the response looks formidable: imprisonment of up to ten years, higher fines, two-month investigations, three-month trials through special fast-track courts, and, separately, a high-powered examination reform task force led by Nandan Nilekani to explore technological solutions.
+
+The harder question, however, is whether any of these addresses the vulnerabilities that allowed another examination crisis to occur barely two years after NEET-UG 2024.
+
+On that count, the answer is uncomfortable. The government already had a detailed reform blueprint. The K Radhakrishnan Committee, constituted after the 2024 controversy, made 101 recommendations covering examination security, the National Testing Agency (NTA)’s capacity, outsourcing, testing infrastructure, and technology. Nearly two years later, only 57 recommendations have been fully implemented, and 10 have been partially implemented.
+
+Therefore, the present crisis is not the result of the government not knowing what needs to change. It follows an incomplete attempt to change it.
+
+Bill to amend anti-paper law gets President's assentOne of the Committee’s central concerns was the vulnerability created by the examination supply chain itself. It recommended reducing NTA’s dependence on outsourced staff and private service providers, building permanent domain expertise within the agency, and expanding secure government-controlled testing infrastructure.
+
+It also proposed computer-assisted secure pen-and-paper Testing under which the encrypted question papers would be digitally transmitted to examination centres and printed shortly before the test, eliminating much of the printing, storage, and transportation chain through which a leak can occur.
+
+The 2026 Amendment Act does not incorporate these structural fixes, opting instead to penalise the symptom. It increases penalties for service providers found liable under the law, but does not reduce the system’s dependence on vendors in the first place.
+
+It creates fast-track courts after a leak has occurred, but does not mandate secure digital transmission of question papers before one occurs. It raises sentences, but does not restructure how high-stakes examinations are designed or delivered.
+
+Even the transition towards computer-assisted examinations, among the most consequential preventive recommendations of the Radhakrishnan Committee, finds no statutory place in the Amendment Act. In other words, the Committee sought to shrink the opportunities for a leak; the law primarily raises the cost of being caught after one.
+
+There are reasons to question that reliance on punishment. The Law Commission, in its 262nd Report, while examining capital punishment, cautioned against assuming that greater severity necessarily produces greater deterrence, a principle that applies here too: increasing imprisonment from five years to ten will do little if investigation and prosecution cannot reliably carry a case to conviction.
+
+The fast-track court provisions face a similar problem. Two months for investigation and three months for trial are desirable targets, but statutory deadlines do not by themselves create investigative, forensic, or judicial capacity.
+
+The Law Commission, in its 245th Report on judicial arrears, cautioned that without adequate infrastructure and support staff, even increasing judicial strength would not effectively reduce delay.
+
+Despite their specialised mandate, more than 2.45 lakh cases remained pending before fast-track special courts for rape and POCSO cases at the end of 2025. The lesson is not that timelines are unnecessary, but that a three-month deadline is only as credible as the institutional machinery built to meet it.
+
+The missing guarantee
+
+There is also a more immediate omission regarding the victims of these lapses. The Act gives the state deadlines to investigate the offenders and courts deadlines to try them, but gives students no comparable right when the examination system fails.
+
+There is no statutory deadline for deciding whether an examination will be cancelled, no guaranteed period within which a re-examination must be conducted, and no compensation framework for candidates forced to spend again on travel, accommodation, and preparation because an examination was compromised.
+
+The law is elaborate about what the state may do to the accused; it says remarkably little about what the state owes the student. That gap matters because every compromised examination imposes costs long before offenders are investigated, tried, or punished by the state.
+
+The Nilekani-led task force may now address precisely the preventive side of the problem that the Amendment Act largely leaves untouched. Its focus on examination reform and technological solutions could help translate the earlier push towards computer-based and computer-assisted testing into a secure and workable system.
+
+But the direction of reform is not new. The blueprints for structural and technological safeguards have been available since 2024. The fundamental issue is not a lack of technological roadmaps, but that legislative penalisation has moved faster than bureaucratic implementation.
+
+The Amendment Act ultimately answers only part of the problem. It makes paper leaks more punishable, but does much less to make them harder to commit, and almost nothing to guarantee relief to students when the system fails. If public examinations are to regain their credibility, these omissions will matter more than whether the maximum punishment is five years or ten.
+
+The writers are lawyers and policy researchers.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/punishing-paper-leaks-can-only-fix-the-symptom-not-the-structural-flaws-4098032)
+
+---
+
 ## 3 August 2026
 
 ### Distress and dispute: On Karnataka, Tamil Nadu and the Cauvery
