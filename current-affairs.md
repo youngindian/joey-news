@@ -1,3 +1,424 @@
+## 3 November 2026
+
+### 'Congress Hates Hindus': BJP's Pradeep Bhandari Slams Neha Bora Over 'Pujaris Rape In Temple' Remark
+*Vani Mehrotra · general*
+
+Pradeep Bhandari accused AISA chief Neha Bora of anti-Hindu remarks over temple priests and linked her comments to Rahul Gandhi.
+
+[Read full article](https://www.news18.com/india/neha-bora-temple-remarks-spark-row-pradeep-bhandari-rahul-gandhi-bjp-row-ws-l-10410235.html)
+
+---
+
+### ‘If Yogi Adityanath Government Returns…’: Maulana Jarjis Ansari's Remarks Trigger Political Row In UP
+*Manjiri Joshi · general*
+
+BJP accuses cleric of spreading fear and communal polarisation; SP attacks Yogi government; prominent Muslim clerics reject his Palestine comparison
+
+[Read full article](https://www.news18.com/india/if-yogi-government-returns-maulana-jarjis-ansaris-remarks-trigger-political-row-in-up-ws-klrt-10410124.html)
+
+---
+
+### ‘Deeply Concerning’: India Renews Call To End Attacks On Commercial Ships After Sailor’s Death Off Oman Coast
+*Prisha Vibhavari · general*
+
+An Indian seafarer was killed, and 13 others were rescued after an Indian vessel carrying 14 crew members was struck by an aerial object off the coast of Oman on November 2.
+
+[Read full article](https://www.news18.com/world/deeply-concerning-india-renews-call-to-end-attacks-on-commercial-ships-after-sailors-death-off-oman-coast-10410218.html)
+
+---
+
+### Voyager 1 is days away from being 1 light-day from Earth. What does it mean?
+*India Today Science Desk · general*
+
+## Voyager 1 is expected to cross the one-light-day mark on 18 November 2026. The milestone will stretch each command-and-response exchange with Earth to about 48 hours.
+
+The spacecraft is expected to cross the one-light-day distance mark on November 18, 2026. (Photo: India Today)
+
+New Delhi,Nov 3, 2026 12:07 IST
+
+Nearly five decades after leaving Earth, NASA's Voyager 1 spacecraft is approaching another extraordinary milestone in human space exploration.
+
+The spacecraft is expected to cross the one-light-day distance mark on November 18, 2026, meaning radio signals travelling at the speed of light will take approximately 24 hours to reach it from Earth, and another 24 hours for a response to return.
+
+Launched on September 5, 1977, Voyager 1 is currently travelling through interstellar space, more than 25.8 billion kilometres from Earth. According to NASA's tracking data, the spacecraft is already more than 172 astronomical units (AU) away from the Sun.
+
+But what exactly does reaching one light-day mean?
+
+A light-day is the distance light travels in 24 hours at approximately 3 lakh kilometres per second.
+
+That translates to nearly 25.9 billion kilometres. Unlike a light-year, which measures the distance light covers in an entire year, a light-day is a smaller unit used to understand enormous distances within our cosmic neighbourhood.
+
+When Voyager 1 crosses this threshold, it will become the first human-made object to travel one light-day away from Earth.
+
+Voyager 1 crossed the heliopause, the boundary where our Sun's impact ends, in August 2012. (Photo: Nasa)
+
+### A 48-HOUR CONVERSATION WITH EARTH
+
+The milestone will fundamentally change how communication with the spacecraft works. When mission controllers send a command, it will take nearly 24 hours to reach Voyager 1. Any response from the spacecraft will take another 24 hours to return.
+
+This means a simple exchange of instructions and confirmation could take approximately two days, making real-time communication impossible.
+
+NASA communicates with the Voyager spacecraft through its Deep Space Network, a global system of giant radio antennas located in California, Spain and Australia. These antennas track the probes, receive scientific data and transmit commands across billions of kilometres.
+
+Voyager 1 and its twin, Voyager 2, were launched in 1977. (Photo: Nasa)
+
+### THE JOURNEY THAT CHANGED OUR UNDERSTANDING OF THE SOLAR SYSTEM
+
+Voyager 1 and its twin, Voyager 2, were launched in 1977 to explore the outer planets during a rare planetary alignment that occurs roughly once every 175 years.
+
+Their Grand Tour transformed our understanding of Jupiter and Saturn, while Voyager 2 went on to explore Uranus and Neptune.
+
+Voyager 1 crossed the heliopause, the boundary where our Sun's impact ends, in August 2012, becoming the first spacecraft to enter interstellar space. Its twin followed in November 2018.
+
+Both spacecraft also carry the Golden Record, a 12-inch gold-plated copper disc containing sounds, images, music and greetings in 55 languages, intended as a message from humanity to any intelligent life that might encounter them.
+
+As Voyager 1 approaches the one-light-day milestone, its journey offers a remarkable perspective on how far humanity's first interstellar messenger has travelled — and how much farther it continues to go.
+
+\- Ends
+
+---
+
+### Dilip Ghosh takes 'Sonia' jibe at Mamata for joining INDIA bloc rally against SIR
+*Vijaya Srivastava · regional, india*
+
+Ghosh claimed that Banerjee's party has lost political ground in its state and that she was seeking political relevance by aligning with the Congress leadership.
+
+NEW DELHI: West Bengal minister Dilip Ghosh on Tuesday criticised former chief minister Mamata Banerjee for attending the INDIA bloc rally at Delhi's Ramlila Maidan against the Special Intensive Revision (SIR) of electoral rolls.
+
+Taking a dig at Mamata, he said that she was turning to Congress leader Sonia Gandhi for leadership out of "utter helplessness".Ghosh claimed that Banerjee's party has lost political ground in its state and that she was seeking political relevance by aligning with the Congress leadership.“Earlier, she set out to become the top leader herself. Now, she has nothing left in her hands. Today, she isn’t even an elected representative.
+
+That is why, out of utter helplessness, she goes around accepting Sonia ji as her leader again. Her party is finished today,” news agency ANI reported, quoting Ghosh.He also hit out at Banerjee over her objections to the electoral process, saying political parties must respect the people's mandate. He alleged that she had no complaints about the Election Commission or democracy when her party was winning elections.
+
+“As long as she was winning, democracy was fine, and the Election Commission was fine. The moment she lost, everything went wrong. Keep faith in the people; the people decide who wins and who loses. One must accept the verdict of the public,” he said.The minister further claimed that the removal of fake voters during the electoral roll revision had paved the way for free and fair elections in West Bengal. He alleged that Banerjee had benefited from such voters in previous elections.“Look, when the revision occurred, the fake voter base through which Mamata used to win was eliminated. Once they were separated, a free and fair election took place. A genuine election happened in Bengal after many years, and people are happy about it; change has arrived. No outsider can simply enter and become a citizen of this country or avail benefits here,” he said.Ghosh also said the ruling government and party workers would organise rallies across the state to counter the Opposition's attempts to create unrest and communicate their position to the public.“It is also our responsibility to make people understand and deliver the right message. The people are nationalist, and the government is nationalist. No one will be permitted to create unrest in the country. We will also reach out to the people and hold rallies everywhere; this is just the beginning,” he said.
+
+## Festive season security arrangements
+
+Meanwhile, Ghosh said the state government was making arrangements to ensure that Deepavali, Kali Puja and Jagaddhatri Puja celebrations passed off peacefully.He said every cabinet minister had been assigned a district to oversee law and order during the festive season. Ghosh has been given responsibility for Purba Medinipur, also known as East Midnapore.“The government is keeping a close watch across all of West Bengal to ensure that the upcoming Deepavali, Kali Puja, and Jagaddhatri Puja are conducted smoothly and with enthusiasm. Every cabinet minister has been assigned the responsibility of overseeing law and order in one district.
+
+I have been given charge of Purba Medinipur (East Midnapore). I am also meeting with them to ensure all arrangements are in place and nothing goes wrong.
+
+This is the government’s duty, and the public must cooperate,” he said.
+
+## Ghosh targets Mamata over development boards
+
+The minister also criticised the previous Trinamool Congress government over the functioning of development boards set up for marginalised communities, including the Matua community.He alleged that several boards formed during Banerjee's tenure had not received adequate funds or been given meaningful work.“Mamata Banerjee had formed several development boards in West Bengal: the Rajbanshi Board, the Matua Board, the Bhumij Adivasi Board, but gave neither funds nor work to anyone. She only played politics,” he said.Ghosh said the Matua community, many of whose members migrated from Bangladesh, continued to face economic hardships and needed focused development measures. He said the board should be made functional and provided with funds.
+
+“Now, for that community, especially the Matua community, most of whom came from Bangladesh, have numerous hardships and are poor. Their development must happen; therefore, the board must be actively functional for them, and funds must be provided, which our chief minister (Suvendu Adhikari) has initiated," he said.
+
+---
+
+### India needs to curtail SUV mania, Indians need to get real about traffic and roads
+*Javed Anwer · general*
+
+If Sigmund Freud were to arrive in Delhi in 2026, there is one phenomenon that will immediately catch his fancy — the number of Thars on our roads. Mostly driven recklessly, Thar is a car that is comical and menacing at the same time. Comical because its silhouette is similar to an overgrown toy created by someone with no aesthetic sense and taste. And menacing, because like a car in Mad Max movies, it is brutish, complete with a macho grille and artificially padded exterior, the kind that puny kings used to wear to look more imposing than they actually were.
+
+But Freud would not look at the aesthetics of Thar. He would probably try to figure out why someone, who works in an office cubicle 9-5, would want a car like this to drive on congested city roads. And Freud might reach a conclusion, like he so often did, that it is all due to repressed sexual desires. That probably the Thar owner is trying to compensate for something, that maybe the Thar drivers don't get laid enough, and the car is a manifestation of it all.
+
+Freud could be wrong. Or he could be right. Who really knows the mind of a Thar owner!
+
+This piece is not about Thar, though. Neither is it about the repressed sexual urgency, voluntary or involuntary, and how it can wreck someone psychologically. Instead, this piece is about the love affair that Indians have with large cars — SUVs and wannabes. And how this SUV mania is choking our roads and cities.
+
+Indians love large cars! There are some reasons, genuine ones, for that. Our roads are often bad, and an SUV with higher ground clearance is better suited to navigate through potholes and speed breakers. Such a car is also better for driving through waterlogged roads.
+
+But these reasons do not entirely explain India’s love affair with large cars. In fact, even if roads get fixed tomorrow, our affair with big cars will not end. It is the Indian psyche that seems to be fuelling the phenomenon. A Thar doesn’t just run on petrol. It also runs on the ego, unfulfilled desires and inferiority complex of its driver. Alfred Adler once called the phenomenon overcompensation.
+
+A large car on the road adds several dimensions to a person’s psyche. It probably gives the owner a feeling that they exist a few inches higher than the rest of India. It gives them a feeling of power and control when they sit on the high seat of an SUV and look down upon the smaller cars, bicycles, and pedestrians. It probably makes them feel chuffed that they are manoeuvring and controlling a huge box of steel and iron. It gives them, even if it is false, an impression that in their big car they are big people. In their mind, their car makes them big.
+
+The problem, however, is that Indian roads and cities are not the suitable arenas where the Thar gladiators should be racing their metal chariots in search of glory. Our cities are congested places, teeming with masses and vehicles. There are turns in our cities that narrow arbitrarily. There are roads that get swallowed by parked vehicles from 8 in the morning to 10 at night. And some roads get swallowed by parked vehicles from 8 in the evening to 10 in the morning.
+
+The large cars — SUVs and wannabes — only add to the problem. They add to it in two ways: one by their physical presence and two by their psychological play.
+
+This piece is now about a particular car brand or a particular car. But I fail to understand the design of the Mahindra XEV 9, a car that seems unnecessarily large. It is not the only comically and meaninglessly large car one sees on the road. From Creta to Thar, from Alcazar to Sierra, cars in India have been deliberately made big. They come with, compared to global standards, puny engines. But size? They have been stretched to the maximum possible, because otherwise the Indian car buyer will steer clear of them.
+
+From parking to taking road space in traffic, the SUVs create nightmares on the roads. They slow down our already slow traffic because their wheel base and the enlarged rears can’t be squeezed through tight spaces. Across the world, no other population in congested cities love big cars as much as we Indians do. The most popular cars in most European cities, which are often as congested as Indian cities, are small cars. The likes of Renault Clio and Dacia Sandero. Same with Japan, where Toyota Yaris hatchback with its size of less than 4 meters is often the car that leads the charts.
+
+Indian cities are exceptions for being places that are congested and yet have a love affair with large cars. Otherwise, large cars are only popular in places like the US, Australia, Canada, and the Middle East that are sparsely populated.
+
+Along with their physical presence, large cars also bring to our roads a psychological dimension. They are, by their nature, driven in a particular way. They tend to accentuate the worst driving aspects of their drivers. As soon as a driver is behind the wheel in an SUV, it seems to give him a shot of adrenaline, a toxic rush to the head that makes him inclined to shove and push their vehicle in whichever direction they feel like. The rest of the road is treated like private property. Bicycles, autos, pedestrians, any “loser” still stuck in an Alto – they are viewed with contempt. An open stretch of a road is seen as an invitation to hit 120 km/h. The lane changing is done at the flick of the wheel because the big car hurrr durr! You may find someone a sensible driver with a small car. But put them in a Thar, and they transform. It’s the big car ego that takes over them.
+
+The end result is again the same: a city choking with poor traffic and total mayhem on roads.
+
+Given the love Indians have for big cars, there is no way we are going to make a sensible choice by choosing a smaller car. Instead, the only way to solve this problem is if the government enters the scene.
+
+Instead of forcing ethanol down our throats, the government needs to nudge — or even push — people to choose smaller cars. It needs to make buying big cars more expensive, and needs to offer bigger incentives and larger tax breaks on smaller cars. Maybe parking rates for big cars need to be made higher. Maybe their entry in parts of our cities needs to be banned. But something needs to be done because, unlike Europeans or Japanese, or, for that matter, any other sensible people living in congested cities, we Indians put our ego and psychological need for overcompensation over our own comfort and convenience. All those big cars parked in a congested South Delhi colony are an example of that.
+
+**(Views expressed in this opinion piece are those of the author)**
+
+\- Ends
+
+---
+
+### 'Targeting civilian infrastructure must end': MEA after Indian national killed in attack on ship in Oman
+*Priyanka Jaiswal · regional, india*
+
+MEA called for an immediate de-escalation of tensions and the conclusion of ongoing negotiations to reach a diplomatic solution
+
+NEW DELHI: The ministry of external affairs (MEA) on Tuesday condemned the attack on a commercial vessel off Oman’s coast that left one Indian national dead and 13 others rescued.
+
+The vessel, MSV Al Jusufi, came under attack near Limah on Monday evening.In a statement, the MEA said the Indian national died after sustaining injuries in the attack. It conveyed its condolences to the family of the deceased and said the Indian Embassy in Oman was closely monitoring the situation.
+
+The embassy is coordinating with Omani authorities to facilitate the early repatriation of the 13 rescued Indian nationals as well as the mortal remains of the deceased, the ministry said.Expressing concern over repeated attacks on commercial shipping in the region, the MEA called for an immediate de-escalation of tensions and the conclusion of ongoing negotiations to reach a diplomatic solution."The targeting of commercial shipping and civilian infrastructure in the region must end," the statement said, adding that free and unimpeded navigation and commerce through international waterways must be restored in accordance with international law.
+
+The ministry reiterated that peace and stability in the region could return only through diplomatic efforts and an end to attacks on commercial vessels and civilian infrastructure.The deceased seafarer has been identified as Gandhar Nahim Ajij from Gujarat, who succumbed to his injuries while the remaining 13 crew members were safely evacuated and rescued by the Omani Coast Guard.Sharing details of the incident in a post on X, Sonowal said the vessel, MSV AL JUSUFI, was hit by the unidentified aerial object on November 2.
+
+---
+
+### Why Pakistan is also a factor as Delhi's air turns toxic before Diwali
+*India Today News Desk · general*
+
+## While smoke from farm fires in Punjab and Haryana is believed to be driving the spike in Delhi's pollution, an unusually high number of stubble burning incidents in Pakistan is aggravating the crisis, satellite data shows. We explain the Pakistan factor behind the rise in Delhi's AQI.
+
+Schoolgirls cross railway tracks amid smog in Lahore
+
+New Delhi,Nov 3, 2026 12:15 IST
+
+Delhi's annual pollution season appears to have arrived earlier than usual, with the air quality (AQI) deteriorating sharply to 'very poor' days before Diwali. While stubble burning in Punjab and Haryana is believed to be driving the spike in Delhi's pollution, an unusually high number of crop fires in Pakistan is aggravating the crisis. The result? Delhi is already breathing some of its worst air of the season.
+
+Usually, the spell of hazardous-looking winter smog begins after Diwali. Year after year, Supreme Court directives on a 'green' Diwali and various piecemeal government initiatives go up in smoke. This season, Delhi's AQI slipped into the 'very poor' category for the first time on Monday (November 2). On Tuesday, while the average AQI hovered around 330, at least three stations recorded severe air quality (above 400).
+
+### DELHI AQI: 2026 vs 2025
+
+Just three days ago, on October 30, Delhi's AQI was down to 60 following rainfall. In fact, Delhi saw its cleanest October air quality in more than eight years, recording an average AQI of 167.
+
+The pollution spike well before Diwali has led the government to impose GRAP II emergency measures. This includes stricter pollution control measures, like water sprinkling, use of anti-smog guns, and monitoring of construction sites.
+
+According to the Central Pollution Control Board (CPCB), an AQI between 301 and 400 falls in the 'very poor' category, while 401 to 500 is classified as 'severe'.
+
+Compared with last year, Delhi's AQI first entered the 'very poor' category on Diwali eve (October 19). GRAP II came into force from that day. This year, the AQI has crossed the 300 mark nearly a week before Diwali.
+
+Satellite data shows a sharp rise in agricultural fires across Pakistan's Punjab
+
+### PAKISTAN TO BLAME FOR DELHI POLLUTION?
+
+Meteorological experts say a key factor is the sharp rise in agricultural fires across Pakistan's Punjab. Favourable weather conditions have added to the concerns.
+
+Northwesterly winds are currently blowing across the region, creating a pathway for the smoke from crop fires in Pakistan to travel across Punjab, Haryana, and Delhi-NCR. Moreover, relatively low wind speeds are making it difficult for the pollutants to disperse.
+
+The landlocked geography of the northern plains adds to the problem, trapping pollutants closer to the ground.
+
+"Active stubble burning across Pakistan and Punjab is peaking now. Northern plains are, as usual, acting up as landlocked geography. As the fires continue to rise and local emissions will keep on adding, the AQI across the region is expected to deteriorate further in the coming days," meteorological expert Navdeep Dahiya tweeted.
+
+Stubble burning in Punjab and Haryana is believed to be driving the Delhi AQI spike (PTI)
+
+Satellite data shows that fire counts in Pakistan's Punjab are unusually high this year. Crop-fire detections in Pakistan's Punjab are 4.2 times higher than in Indian Punjab during the first 29 days of October, according to a report in Dawn.
+
+The findings are based on NASA's Fire Information for Resource Management System (FIRMS), which uses satellite instruments to detect active fires.
+
+As per the data, Pakistan's Punjab recorded 13,241 stubble burning incidents between October 1 and 29. In comparison, Indian Punjab recorded 3,158 detections during the same period.
+
+The stubble burning activity has spiked towards the end of October. As many as 6,655 incidents, nearly half the month's total, were detected in Pakistan's Punjab in the last seven days of October alone.
+
+Much of it has been concentrated in the rice-growing belt around Lahore. This has resulted in Lahore ranking as the world's most polluted city on November 2. As per reports in Pakistan, the AQI exceeded 500 in several areas.
+
+The data points to a reversal of the situation in 2019, when Indian Punjab recorded almost five times as many crop-fire detections as Pakistan's Punjab.
+
+An analysis found that satellite-detected crop fires in Indian Punjab fell by 95% between 2021 and 2025, Dawn reported. In Pakistan, however, it increased by 33% between 2019 and 2025.
+
+However, it must be noted that a higher number of fires in Pakistan does not, by itself, mean that they contributed to Delhi's pollution.
+
+### IS THERE ANY RELIEF IN SIGHT FOR DELHI?
+
+There is a combination of factors, including falling temperatures and sluggish winds. Also, smoke from farm fires in Punjab and Haryana continues unabated.
+
+Moreover, many farmers were unable to harvest their fields in October due to untimely rainfall in the north triggered by Cyclone Arnab. "Many of them will now rush to do that, which will lead to an accumulation of stubble fires," a senior CPCB official told The Print.
+
+The IMD forecast indicates that northwesterly winds are likely to continue for the next four days. This means more smoke from farm fires in Pakistan, Punjab and Haryana is likely to travel across Delhi-NCR. Coupled with relatively calm winds, it is likely to trap pollutants closer to the ground.
+
+"We could expect the first day of severe AQI within the next 3 days," Navdeep Dahiya said.
+
+The coming days will, therefore, prove crucial for Delhi-NCR. With Diwali approaching, the possibility of additional pollution from firecrackers will add another layer of concern to an already deteriorating situation.
+
+\- Ends
+
+---
+
+### Before exit, ex-air chief urged Rajnath Singh to shield IAF land from govt takeover
+*Shivani Sharma · general*
+
+Days before his retirement, Air Chief Marshal AP Singh urged Defence Minister Rajnath Singh to protect the Indian Air Force’s control over Race Course Air Force Station near the Prime Minister’s residence in Delhi, amid a government move to reclaim the land, sources told India Today.
+
+The former Air Chief met Rajnath Singh to flag the issue, and highlighted the strategic and operational importance of the station and the implications of transferring its land, sources said.
+
+The development comes amid the Ministry of Housing and Urban Affairs’ (MoHUA) move to reclaim around 40 acres of land housing the Air Force Sports Complex, which has triggered concern within defence circles.
+
+In his meeting with the Defence Minister, Singh is understood to have underlined the station’s role in supporting Air Headquarters and its infrastructure for more than 5,000 personnel. The facility houses training centres, accommodation, medical infrastructure and security arrangements.
+
+The station also plays a role in countering unmanned aerial system (UAS) threats during activities coordinated by the Delhi Integrated Air Defence Centre, adding to its operational significance, sources said.
+
+The proposed reclamation has already affected the sports complex, which was shut on October 28 until further orders. The complex, located within the Race Course Air Force Station, houses a golf course, swimming pool and other sporting facilities frequented by serving and retired Air Force personnel.
+
+The facility’s closure also led to the cancellation of AP Singh’s scheduled farewell golf event, commonly known as a "golfing-out". Such events are traditionally organised for outgoing Air Chiefs, who serve as the patron-in-chief of the golf course.
+
+The closure has drawn political criticism, with Congress leader Jairam Ramesh questioning the government's move.
+
+"The IAF Sports Complex has a long history and has, over the decades, served many public purposes, as well as being an integral part of the Indian Air Force social infrastructure. The Modi govt’s actions are an absolute disgrace and show utter disrespect to the entire IAF family," Ramesh posted on X.
+
+As reported by India Today on October 5, MoHUA has been pursuing the reclamation of several high-value government properties near the Prime Minister's home, including the Gymkhana Club and Jaipur Polo Ground.
+
+The Air Force Sports Complex is among the prominent properties affected by the broader land reclamation drive. However, its closure does not establish whether a formal process to transfer the land has been initiated. The government has also not publicly specified what it intends to do with the premises.
+
+\- Ends
+
+---
+
+### 'Rs 25cr spent on ads to claim no stubble burning, FIRs tell another story': BJP targets AAP govt in Punjab
+*Trisha Mahajan · regional, india*
+
+Rs 20-25 crore was spent on advertisements to project that there was no stubble burning in the state, said
+
+Delhi Environment Minister Manjinder Singh Sirsa on Tuesday accused the Aam Aadmi Party (AAP) government in Punjab of allowing and facilitating stubble burning while spending Rs 20-25 crore on advertisements claiming that no farm fires were taking place in the state.
+
+He alleged that the government was then registering FIRs against farmers for stubble burning, even as it publicly denied the practice.He also questioned the appointment of former AAP spokesperson Reena Gupta as chairperson of the Punjab Pollution Control Board, alleging that the move was aimed at manipulating pollution data.
+
+Addressing a press conference in Delhi, Sirsa claimed that Punjab had recorded more than 1,000 incidents of stubble burning and alleged that the state government was trying to conceal the extent of the problem through publicity campaigns.“Advertisements worth Rs 20-25 crore were released to claim that stubble burning was not taking place in Punjab this year. On the other hand, I am handing over copies of all the FIRs, district-wise, to you. These are all FIRs registered in connection with stubble burning,” he said, displaying documents that he claimed contained details of the cases, further alleging that "Punjab Police and Punjab government officers are facilitating the burning of stubble.
+
+"
+
+Taking aim at AAP national convenor Arvind Kejriwal, Sirsa alleged that the party had brought its political spokesperson from Delhi to head the Punjab Pollution Control Board to influence the reporting of pollution data.
+
+“For the first time in Punjab's history, a non-Punjabi, non-IAS, non-technical person has been appointed to such a position. They have appointed their political spokesperson, who is said to be a close relative of Arvind Kejriwal, as the chairperson of the Punjab Pollution Control Board after bringing her from Delhi,” Sirsa said.
+
+He identified the appointee as Reena Gupta, alleging that she was being projected as the face of the campaign to deny the scale of stubble burning in Punjab. Sirsa claimed the appointment was intended to “conceal the truth by fudging data”.Sirsa sought to contrast Punjab's situation with Delhi's air quality, claiming that the national capital had recorded 220 clean-air days in 2026, the highest in a decade. He also said October was the cleanest in the past 10 years and that the average air quality index (AQI) had improved by 10 per cent compared with previous years.Appealing to Kejriwal and AAP leader Manish Sisodia not to undermine Delhi's efforts to improve air quality, Sirsa said, “By setting fires in Punjab, you are once again causing the situation in Delhi to deteriorate.”
+
+---
+
+### Two former partners' fight over a Sausalito house led to a legal-fee demand of $90,010; a California federal judge has now ordered one to pay the other $66,192.50 after a partially successful court motion
+*TOI World Desk · politics*
+
+Representative Image (AI-generated)
+
+A dispute over a shared home can continue long after a relationship ends, particularly when disagreements over property ownership turn into lengthy legal proceedings. In Sausalito, California, a former couple's fight over a house led to a separate dispute over attorney fees after one partner partly succeeded in getting allegations against him struck from a lawsuit.
+
+The legal battle took another turn when he sought $90,010 from his former partner to cover his legal expenses. In its October 30, 2026, order in Fotsch v. Shroder, available in Justia, the US District Court for the Northern District of California granted the request in part, ordering Mackenzie Fotsch to pay Matthew Shroder $66,192.50 while rejecting his demand for additional, unspecified fees.
+
+## Dispute centred on a Sausalito property
+
+Mackenzie Fotsch and Matthew Shroder, who were formerly in a romantic relationship, became involved in litigation concerning a house in Sausalito.
+
+Their dispute included an unlawful-detainer action that Shroder had filed and pursued against Fotsch. Fotsch subsequently brought claims against Shroder, including allegations involving contract disputes, unjust enrichment, breach of fiduciary duty and conversion.
+
+Shroder responded with a special motion to strike under California's anti-SLAPP law.The law protects people from lawsuits targeting their exercise of constitutionally protected rights, including participation in legal proceedings.
+
+Shroder argued that certain allegations in Fotsch's complaint relied on his protected litigation activities. The court partly agreed, striking portions of four allegations to the extent that they made his filing, service and prosecution of the unlawful-detainer action a basis for liability.
+
+Those allegations could remain in the complaint as background and evidence. However, it refused to dismiss the entire claims and allowed the unjust-enrichment claim to proceed.
+
+## Shroder sought $90,010 in legal expenses
+
+Following his partial success, Shroder sought attorney fees and costs under California's anti-SLAPP statute, which allows a defendant who prevails on a special motion to strike to recover reasonable legal expenses. His application totalled $90,010. This included $45,685 for the anti-SLAPP motion, $40,720 for preparing and arguing the subsequent attorney-fee motion, and $3,605 in Westlaw legal research charges.
+
+He also requested additional fees that might arise later.The application covered work by three lawyers and a paralegal, whose hourly rates ranged from $225 to $900. Fotsch challenged the amount, arguing that Shroder had achieved only limited success because the court had allowed her claims to survive. She also questioned the billing records, the hours claimed and the expenses associated with preparing the fee application.
+
+She proposed limiting the award to $3,593, or at most $7,129.50, based on the portions of the anti-SLAPP motion that had succeeded.
+
+She also opposed the research charges and the request for unspecified future fees.
+
+## Court reduced the claimed attorney fees
+
+The judge recognised that Shroder had not secured everything he requested. The court had rejected his attempt to strike entire claims and had allowed the unjust-enrichment claim to continue. However, it found that removing the unlawful-detainer proceedings as a basis for liability and damages had materially narrowed the issues in the lawsuit.Rather than calculating fees solely according to the proportion of allegations struck, the court deducted time associated with unsuccessful portions of the motion. It also removed an hour spent correcting an over-length reply brief. The court consequently approved $40,887.50 in attorney fees for the anti-SLAPP proceedings. It allowed the full $3,605 in Westlaw research expenses, finding that the charges were supported by itemised records and 
+
+The court therefore reduced the principal lawyer's claimed time by 50 per cent, bringing the recoverable fees for the fee application to $21,700.
+
+## Final award fixed at $66,192.50
+
+The court ordered Fotsch to pay Shroder $62,587.50 in attorney fees, comprising $40,887.50 for the anti-SLAPP proceedings and $21,700 for the fee application. An additional $3,605 was allowed for legal research costs. The judge rejected Shroder's request for further, unquantified attorney fees, requiring any additional expenses to be specified and supported. The October 30 order resolves the attorney-fee dispute, not the underlying disagreement over the Sausalito property.
+
+Fotsch's remaining claims were not dismissed, and the ruling does not determine the ultimate outcome of the former partners' wider legal battle.
+
+---
+
+### How Lawrence Bishnoi gang's social media posts give cops clues to its network, recruits and hideouts
+*Raj Shekhar Jha · regional*
+
+The Lawrence Bishnoi gang uses social media to claim responsibility for crimes, aiding law enforcement investigations
+
+NEW DELHI: When the Lawrence Bishnoi group released a social media screenshot claiming responsibility for the attack on actor Tiger Shroff, to the casual observer, it was just a badge of digital infamy.
+
+However, to investigators it was, like always, an opportunity to scan for hidden clues within an open-source intelligence map authored by the criminals themselves.The Lawrence group is considered a pioneer in owning up to crimes through online press releases. Abandoning the underworld's traditional code of secrecy, the gang weaponised performative violence, broadcasting screenshots within an hour of a hit.
+
+At times, they are accompanied by point-of-view videos of the shootings too.When the syndicate posts these cyber-manifestoes following a high-profile strike, it offers an unfiltered window into the inner workings of the gang, officials say. In the Mumbai case, for example, it provided the cops many leads to start with. It mentioned three names -- Anmol Bishnoi, Anil Pandit and Harman Sandhu. It had a hashtag of a Delhi-based gang, "Gogi-Maan group".
+
+Incidentally, in the next few days, multiple arrests were made in the case from the two places as cops followed up with the leads on Anil Pandit's network.
+
+The gang also claimed that Tiger ignored warnings, prompting cops to to dig in to the call and IP records besides recee angles.Sometimes, the posts introduce new gang members too. A screenshot released last year, for instance, mentioned a mysterious name, Tyson Bishnoi, whose actual identity continues to be a mystery.
+
+Aarzoo Bishnoi was another such member introduced through posts. Beyond announcements, these uploads also double as digital press releases for internal promotions, newly forged alliances, or brewing rivalries through hashtags.
+
+"These are meticulously curated propaganda tool machines where every name and hashtag holds a tip. The names, for example, expose the possible locations of key henchmen who use location-tagged monikers as digital status symbols," said an investigator.
+
+Anil Pandit branded himself as 'Anil Pandit USA' on social media to lure impressionable young recruits with the "American dream". Lately, however, the 'USA' suffix has mysteriously vanished from his profile handle, prompting investigators to wonder if the shift stems from pressure exerted by the FBI's Operation Hardball or indicates an evasion tactic as he changes hideouts. Many others embed their geographical jurisdiction directly into their handles - Fateh Portugal, Sam Canada, Manna Brampton, Mandy Spain, and X Australia are a few cases in point.
+
+Beyond serving as intelligence goldmines, these posts fulfil a psychological purpose, operating as digital shrines of friendship and loyalty tailored specifically for Gen Z recruits. "They weave a narrative of camaraderie through hashtags and evocative tributes honoring fallen associates killed in police encounters or gang rivalries, often accompanied by emotional catchphrases like 'salam shahida nu'" a source pointed out.
+
+---
+
+### Congress challenges Amit Shah on SIR debate, demands Gyanesh Kumar's resignation
+*Pti · business*
+
+New Delhi: The Congress on Tuesday hit back at Home Minister Amit Shah over his remarks that the government is ready to convene a special session of Parliament on the SIR issue, saying if he is serious about the proposal, he should first secure the resignation of his "hatchet man", Chief Election Commissioner Gyanesh Kumar, and also suspend SIR.
+
+Congress general secretary in-charge communications Jairam Ramesh said 82 days have gone by since the Monsoon Session of Parliament was adjourned sine die and it has still not been prorogued.
+
+"This is because the Home Minister is still entertaining ideas of calling a Special Session to pass the Delimitation Bills with a super-tainted two-thirds majority in the Lok Sabha," Ramesh alleged.
+
+  
+
+The content of these Bills is still not known, although its intent is clear - to save the BJP from the debacle that is staring at it in 2029, he said on X.
+
+"Meanwhile, the self-styled Chanakya, the master of bluff, bombast and bluster says he is ready for a Special Session to discuss vote chori. Last year, when the combined Opposition wanted a debate on SIR he had refused, saying SIR was the prerogative of the Election Commission," Ramesh said.
+
+"If the Home Minister is serious about a Special Session on vote chori, he should first secure the resignation of his hatchet man CEC Gyanesh Kumar. He should also suspend SIR," the Congress leader said.
+
+And, of course, he should also be sharing with the Opposition well in advance his new proposals for Delimitation, Ramesh added.
+
+Why doesn't he have the courage to convene an all-party meeting to discuss these proposals in detail, the Congress leader said.
+
+Ramesh's remarks come a day after Shah said the government is ready to convene a special session of Parliament on the issue and dared Congress leader Rahul Gandhi to debate the matter in the House.
+
+Dismissing the INDIA bloc's rally in Delhi on Sunday as a "save infiltrator" rally, he wondered how the Congress formed governments in states, including Telangana, if the EVMs are bad, and said that Rahul Gandhi can become prime minister only in mock Parliament.
+
+Leading the BJP's 'Save Democracy, Remove Anarchy' padayatra here, Shah said: "He (Rahul) holds the Constitution in hand, but doesn't respect the Constitution. Rahul ji, you don't allow Parliament to run. Be it EVMs, SIR, infiltrators, I challenge you from Hyderabad. We are ready to convene a special session of Parliament. Come for debate."
+
+If a Parliament session is held, Prime Minister Narendra Modi will "shred Congress into pieces," he said and accused the Congress of wishing to be in the limelight through "anarchy."
+
+The grand old party was trying to stop the SIR exercise to protect "infiltrators from Bangladesh" in the electoral rolls, he alleged and asserted that the BJP would remove every infiltrator from the electoral rolls.
+
+---
+
+### Mahjong finds a seat at the Diwali party table
+*Divya Kaushik · regional*
+
+Ria Bajaj and Manek Jain Daswani enjoying a round of Mahjong with their friends
+
+What once used to be a popular social engagement among Indian army wives in cantonment towns has now made inroads in Delhi’s elite circle as its favourite party game. The popularity of Mahjong, a 19th century Chinese tile game, started making news last year.
+
+From then to now it has skyrocketed to an extent that Mahjong has acquired a high table at Diwali parties. The game’s social status and engagement score even seem to exceed the popularity of traditional games like Teen Patti at Diwali parties. Now, a setup or two for Mahjong with highly engrossed players has become a common sight at parties this festive season.‘Now most Diwali parties have a Mahjong setup or two’Fashion designer Ritu Beri, a proud Army kid who’s grown up watching her mother play Mahjong, shares that she is surprised at how the game, which she saw her mom playing all her life, has now become the talk of the town.
+
+“In the Army, it was the one game that everyone played, there was no Rummy or anything else, for army wives it was only Mahjong. I still remember my mom had the most beautiful ivory Mahjong set, a rare set. It is so nostalgic for me when someone says, ‘Let’s meet over Mahjong,’” she tells us.The ‘game of luck and strategy’ has been popular at theme parties, and we have been told that there is “hardly any upscale kitty party that doesn’t have Mahjong.”
+
+Given its popularity, it is understandable when we are told that Karwa Chauth Mahjong events and parties were a hit this festive season.“I do Mahjong events and parties with my friends regularly and it was one of the most appropriate fit for a Karwa Chauth gathering. This game keeps you engrossed, you actually can spend hours playing it. Once you start playing, it gets so interesting that you lose track of time. Now most Delhi parties have Mahjong setups and it is as popular as card games, even more,” says Sunayana Bhinder Chibba, who has been organising Mahjong parties for her friends.
+
+From intimate gatherings to elaborate festive celebrations, the game seems to have found its way into every party calendar. And unlike games where guests can join in for a quick round before moving to the next party, Mahjong seems to have everyone glued to their seats
+
+‘Mahjong is replacing games like Rummy and Teen Patti’Along with parties, there are also festive events being organised by Mahjong-exclusive clubs with hundreds of members across cities. The growing interest has also turned Mahjong into a reason to host a party rather than just as an activity. From private sessions among friends to larger gatherings organised by clubs, the game has acquired a social calendar of its own.
+
+Mumbai-based Ria Bajaj, co-founder of The Mahjong Network, shares, “Ever since the beginning of the festive season, we have been flooded with queries to arrange Mahjong events and private parties.
+
+We have an event or a party happening every two days in the city and requests are still pouring in.”And while Mahjong may have traditionally been associated with women’s social gatherings, its growing popularity is now drawing interest from everyone.
+
+So much so that even restaurants are looking to cash in on the trend by adding Mahjong to their festive celebrations. Maneka Jain Daswani, Ria’s partner and co-founder of The Mahjong Network based in Delhi, adds, “This festive season Diwali card parties are being replaced by Mahjong parties as it is no longer a ladies’ game.
+
+It will be safe to say that Mahjong is fast replacing party games like Rummy or Teen Patti.”‘People are requesting crash courses for the game’
+
+The spike in Mahjong’s popularity has also led to many seeking crash courses for the game, especially in the festive season.
+
+Noida-based Mahjong coach from Indian Mahjong Association, Vineeta Sahni, who has been playing Mahjong for over three decades now and is also teaching the game now, says that she has been getting requests every day from people who want to learn Mahjong in a couple of hours. “Some people are only seeing this as a social engagement activity and to be a part of the circle, they are looking for crash courses, but the game is not learnt this way.
+
+We conduct sessions to introduce the game, provide tables and even train individuals who are interested in learning the game. We recommend a three-hour class to learn and I think five classes are essential. During the festive season, we are witnessing a demand for trainers by those hosting Mahjong parties,” says Vineeta.
+
+
+---
+
 ## 2 November 2026
 
 ### Turbulence, ice build-up, -47°C temp: Did weather play a role in Learjet crash?
