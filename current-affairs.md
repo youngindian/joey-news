@@ -1,3 +1,383 @@
+## 4 November 2026
+
+### Trump Concedes Defeat In Midterms, Warns Of Veto Power As Democrats Sweep Key Polls
+*India Today Video Desk · world*
+
+US President Donald Trump has conceded defeat following the midterm election results as the Democratic Party made significant gains, closing in on control of both chambers of Congress. Addressing the outcome, Trump initially struck an analytical posture on social media, posting an image of a cap marked with the word veto, before stating his willingness to accept the election outcome and collaborate with Democrats. However, he also reiterated a stark warning that he would act as 'Mr. Veto' to block Democratic legislation if his agenda is challenged, suggesting repeated vetoes could bring opponents to negotiations. During a discussion on the outcome, Sri Thanedar remarked that voters delivered an unmistakable rejection of the administration's economic record, tariffs, and handling of the Iran conflict. Key results highlighted major Democratic victories and flipped seats across several states, including North Carolina, Georgia, South Carolina, Texas, and Ohio, where Democratic candidate Amy Acton defeated Trump-backed Republican contender Vivek Ramaswamy in the gubernatorial election.
+
+---
+
+### Tired of 'andhbhakts'? Shashi Tharoor suggests a new word for political puppets
+*India Today News Desk · general*
+
+## Shashi Tharoor has suggested the rarely used English word 'quockerwodger' as an alternative to terms such as 'andhbhakts', 'godi' and 'paid followers'.
+
+Shashi Tharoor has described 'quockerwodger' as the 'word of our era' in an apparent dig at the BJP government.
+
+New Delhi,Nov 4, 2026 11:53 IST
+
+Tired of calling political loyalists 'andhbhakts', 'godi' or 'paid followers'? Congress MP Shashi Tharoor has a new word for them -- 'quockerwodger'.
+
+The Thiruvananthapuram MP has suggested the obscure English term as an alternative, using it to describe people who act as political puppets, controlled by someone else and following their instructions.
+
+The Thiruvananthapuram MP, known for introducing uncommon English words to his social media followers, explained that a 'quockerwodger' refers to "a political puppet; a person who is controlled by someone else and acts on their instructions".
+
+Sharing the definition on X, Tharoor wrote. "For those tired of describing people as 'andhbhakts', 'godi', 'paid followers' and the like, an acceptable alternative?"
+
+This was not the first time Tharoor had used the word to make a political point. In September, he described 'quockerwodger' as the "word of our era" in an apparent dig at the government, saying, "I think our ruling party has spawned a few of these in the last dozen years."
+
+Terms such as 'andhbhakts' and 'godi media' are commonly used by government critics to describe staunch BJP supporters and sections of the media that they accuse of promoting the government's narrative.
+
+Tharoor had also introduced the meaning of 'quockerwodger' in April 2022, calling it a useful addition to the country's political vocabulary. The author and politician has frequently drawn attention to obscure English words through his social media posts, often prompting followers to look up their meanings.
+
+Among the other words he has used in political contexts are 'allodoxaphobia', which he explained as an irrational fear of opinions, 'farrago', meaning a confused mixture, and 'troglodyte', referring to someone regarded as deliberately ignorant or old-fashioned.
+
+With his latest post, Tharoor has once again added an uncommon English word to the political lexicon, offering an alternative description for people he believes act at someone else's direction.
+
+\- Ends
+
+---
+
+### Low CIBIL Score? How A Credit Card Against Fixed Deposit Can Help Improve Your Credit Rating
+*Mohammad Haris · business*
+
+Customers can use FD-backed credit card for routine purchases and build a fresh repayment record by paying the bills on time.
+
+[Read full article](https://www.news18.com/business/banking-finance/low-cibil-score-how-a-credit-card-against-fixed-deposit-can-help-improve-your-credit-rating-10411961.html)
+
+---
+
+### Tired of using 'andhbhakts', 'godi', Congress leader Shashi Tharoor has an alternative for you
+*SECTIONS Tired · general*
+
+New Delhi: Tired of using words like "andhbhakts", "godi" and "paid followers"?
+
+Well, Congress leader and wordsmith Shashi Tharoor has an alternative - 'quockerwodger'.
+
+The MP from Thiruvananthapuram, who is known to share rarely-used and often difficult-to-pronounce English words, which sends social media users reaching for the lexicon, also shared its meaning.
+
+  
+
+'Quockerwodger' - A political puppet; a person who is controlled by someone else and acts on their instructions, Tharoor posted on X along with a screenshot of the definition.
+
+In his post, Tharoor said, "For those tired of describing people as 'andhbhakts', 'godi', 'paid followers' and the like, an acceptable alternative?"
+
+  
+
+> — ShashiTharoor (@ShashiTharoor)
+
+In September, Tharoor had shared 'Quockerwodger' and its meaning, calling it the word of our era.
+
+He had taken a dig at the government by posting the word.
+
+"Word of our era! I think our ruling party has spawned a few of these in the last dozen years," he said.
+
+Interestingly, words like "andhbhakts" and "godi media" are often used by the government's critics to describe the BJP's hardcore supporters and a section of the media which they claim pushes the government's narratives.
+
+This is not the first time Tharoor has spoken about the word. In April 2022, he had shared its meaning and described it as a useful addition to our political vocabulary.
+
+The author-politician-wordsmith has often left social media users scurrying for their dictionaries to confirm whether such a word indeed exists.
+
+Tharoor has also taken digs at the BJP government using rarely used words such as 'allodoxaphobia', which he explained as an irrational fear of opinions.
+
+In the past, he has also stumped people with words such as 'farrago' and 'troglodyte.' While 'farrago' means a confused mixture, a 'troglodyte' means a person regarded as being deliberately ignorant or old-fashioned.
+
+---
+
+### FIR against Prashant Bhushan for sharing fake video of Russian foreign minister
+*Pragynesh · legal*
+
+Delhi Police registered an FIR against lawyer Prashant Bhushan for allegedly sharing a doctored video of Russian Foreign Minister Sergey Lavrov criticising India.
+
+[Read full article](https://indianexpress.com/article/cities/delhi/prashant-bhushan-fir-fake-video-russian-foreign-minister-sergey-lavrov-10950005/)
+
+---
+
+### Delhi's AQI crosses 450 mark with Diwali yet to come. Was it this bad last year?
+*India Today Science Desk · general*
+
+Delhi's air pollution has reached levels that warrant far more than warnings and curbs, with the Air Quality Index (AQI) touching 488 at 11:00 am on November 4, according to AQI.in.
+
+At this level, breathing the capital's air is equivalent to smoking around 14 cigarettes a day, as per AQI.in, highlighting the severity of the pollution gripping the city.
+
+The reading comes after Delhi recorded an average daily AQI of 410 on Tuesday, November 3, adding yet another severe deterioration in air quality just days before Diwali.
+
+People play and walk in a ground shrouded in smog as air pollution spikes, in New Delhi. (Photo: Reuters)
+
+The latest numbers paint a troubling picture.
+
+Delhi's air in the last two days, from November 3-4, has shot past the AQI recorded on Diwali last year on October 20, when firecrackers shrouded the capital with haze and smoke, and the day after the festival.
+
+The air has been polluted even though Diwali 2026 is still four days away, on November 8.
+
+The comparison raises concerns about how much worse the air could become as celebrations begin, particularly when pollution levels typically climb around the festival.
+
+A graph illustrating Delhi's AQI in the last 24 hours. (Photo: AQI.in)
+
+### DELHI TURNS TOXIC BEFORE DIWALI
+
+According to AQI.in data, Delhi recorded an average daily AQI of 376 on October 20, 2025, the day of Diwali, and the AQI reading climbed further to 393 on October 21, the day after the festival.
+
+This year, the capital's average daily AQI was already at 410 on November 3, exceeding both last year's festival-day readings. The situation worsened on Wednesday, with the AQI touching 488 at around 11:00 am.
+
+In other words, Delhi's pollution has crossed last year's post-Diwali levels before the festival has even arrived, with the numbers illustrating how quickly the city's air quality has worsened over the past few days.
+
+### WHY DOES POLLUTION RISE AFTER DIWALI?
+
+Diwali is a period when Delhi tends to remain vigilant. Or at lest it tries to be.
+
+Firecrackers bursting around the city add substantial amounts of smoke and fine particles to the air during Diwali celebrations. These same particles can remain suspended in the air and add to the pollution the following morning.
+
+However, fireworks are only one part of Delhi's winter pollution problem.
+
+A worker makes firecrackers at a factory ahead of Diwali. (Photo: Reuters)
+
+Vehicle emissions, construction dust, industrial pollution and waste burning also contribute to the city's polluted air.
+
+As temperatures fall, calm winds and cooler nights make it harder for pollutants to disperse. They accumulate closer to the ground, allowing pollution to build up over several days.
+
+### NEW ANTI-POLLUTION LAWS PROVE FUTILE
+
+This year, however, was supposed to be better, if not the same.
+
+A man meditates in a ground shrouded in smog in Delhi. (Photo: Reuters)
+
+Authorities have introduced stricter pollution-control measures ahead of Diwali in the form of a new winter action plan that includes restrictions on certain vehicles entering the capital, construction curbs, the 'No PUC, No Fuel' rule and measures to promote public transport.
+
+The Commission for Air Quality Management (CAQM) also invoked Stage 2 of the Graded Response Action Plan (GRAP) on November 2, following a sharp rise in pollution.
+
+Measures include higher parking fees, restrictions on coal and firewood use in eateries, tighter controls on diesel generators and intensified road dust management.
+
+Commuters move along a road littered with firecracker waste after Diwali. (Photo: PTI)
+
+Despite these steps, the latest readings show that Delhi is already battling severe pollution before the festival.
+
+With Diwali still days away, the thought of the festival of light and the hazy morning that is bound to follow invokes anything but the festive spirit, and raises questions about just how much worse the city's air becomes.
+
+\- Ends
+
+---
+
+### West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates
+*Education Desk · legal*
+
+West Bengal Board Madhyamik, HS Exam Date 2027: The proposed March 2–16 window would give the board more time to ensure the availability of teachers and examination personnel after the Census enumeration exercise.
+
+[Read full article](https://indianexpress.com/article/education/west-bengal-madhyamik-2027-wbchse-hs-exams-postponed-fresh-march-exam-dates-census-teachers-10949927/)
+
+---
+
+### US Midterms: Democrats Win Congress, Flip Republican Strongholds In Setback For Trump
+*India Today Video Desk · world*
+
+UPDATED: Nov 4, 2026 11:44 IST
+
+Democrats are poised to take control of both houses of the United States Congress following sweeping victories in the US midterm elections, delivering a significant political setback to President Donald Trump. Democrats crossed the halfway mark of 218 seats in the House of Representatives and flipped traditionally Republican strongholds, including Senate seats in Texas, South Carolina, and Kansas. Key gubernatorial races also shifted, with Trump ally Vivek Ramaswamy losing in Ohio to Amy Acton, and Gina Hinojosa defeating Greg Abbott in Texas. The election results reflect voter dissatisfaction regarding inflation, living costs, and foreign policy developments. President Trump acknowledged the shift in power, stating in an interview with The New York Times that he was willing to accept the results and work with the Democrats, though he indicated he would use his veto power if legislation conflicts with his administration's agenda.
+
+### VIDEOS FROM OTHER SECTIONS
+
+### LATEST VIDEOS
+
+## Trump Warns of Large Action on Iran as US Midterm Results Emerge Amid Nuclear Strike Rumours
+
+Donald Trump has issued a warning to Iran, stating to US media that plans are underway to do something large involving a heavy hit, amid swirling rumours of a possible nuclear strike. These remarks follow the results of the US midterm elections, where the mandate did not favour Republicans. Iran responded to the election results by claiming that the American public has rejected the strategy of an Iran war. Meanwhile, Trump also brought up Greenland, asserting that the United States secured it permanently and forever without having to go to war, while noting that nobody speaks about the achievement.
+
+## Trump May 'Compromise to Some Extent' Post-Midterms: Indiaspora's Sanjeev Joshipura
+
+Speaking to India Today following the US midterm elections, Indiaspora Executive Director Sanjeev Joshipura analysed the potential political fallout for the Trump White House and the expanding footprint of the Indian-American community. Reflecting on Donald Trump's potential reaction to Republican setbacks, Joshipura stated, "I would not rule it out that Donald Trump does compromise to some extent, because he might even be forced by the Republicans in the legislature who are seeing the writing on the wall for 2028." He added that while initial denial and assertions of vote rigging may emerge, compromise remains plausible. Evaluating the political rise of Indian-Americans across party lines, Joshipura noted that while participation is steadily climbing, "Our journey in the Indian diaspora has just begun."
+
+## US Midterms, Donald Trump Iran Policy & Indian American Voters Debate
+
+A televised news debate analysed the outcome of the US midterm elections following major gains by the Democratic Party across key states, including Texas and Virginia. The discussion evaluated shifting voting patterns among Indian Americans, who historically backed Democrats before leaning towards Donald Trump and the Republican Party over economic and deregulation concerns. Panelists debated Donald Trump's governance record, focusing on domestic inflation, energy independence, and economic challenges. A central point of contention was the administration's military escalation against Iran, with discussions highlighting whether the ongoing conflict contradicted prior anti-war commitments and examining disputed casualty figures from Iranian unrest. The broadcast also focused on congressional oversight, noting that incoming Democratic majorities in the US Congress are expected to rigorously question top defence and administration officials regarding the strategic basis and intelligence underlying military interventions abroad.
+
+## US Midterms, Donald Trump Iran Policy & H-1B Visa Debate for Indian Americans
+
+In a special broadcast examining the fallout of the US midterm elections, Republican strategist Puneet Ahluwalia discussed the political landscape facing Donald Trump and the Republican Party. Addressing electoral setbacks and the challenges of managing legislation without full congressional control, Ahluwalia maintained that the executive branch retains authority over foreign policy. The discussion covered key issues impacting voters, including inflation, rising gas prices, and foreign policy decisions regarding Iran and Middle East stability. The debate also addressed shifting sentiments among Indian Americans, who have expressed concerns over policies regarding H-1B work visas and immigration. Ahluwalia defended the administration's record, emphasising the need to create domestic opportunities while rejecting claims that the Republican leadership is anti-Indian, citing prominent figures such as JD Vance and Vivek Ramaswamy within the party's coalition.
+
+---
+
+### Trump Warns of Large Action on Iran as US Midterm Results Emerge Amid Nuclear Strike Rumours
+*India Today Video Desk · world*
+
+## Trump May 'Compromise to Some Extent' Post-Midterms: Indiaspora's Sanjeev Joshipura
+
+Speaking to India Today following the US midterm elections, Indiaspora Executive Director Sanjeev Joshipura analysed the potential political fallout for the Trump White House and the expanding footprint of the Indian-American community. Reflecting on Donald Trump's potential reaction to Republican setbacks, Joshipura stated, "I would not rule it out that Donald Trump does compromise to some extent, because he might even be forced by the Republicans in the legislature who are seeing the writing on the wall for 2028." He added that while initial denial and assertions of vote rigging may emerge, compromise remains plausible. Evaluating the political rise of Indian-Americans across party lines, Joshipura noted that while participation is steadily climbing, "Our journey in the Indian diaspora has just begun."
+
+## US Midterms, Donald Trump Iran Policy & Indian American Voters Debate
+
+A televised news debate analysed the outcome of the US midterm elections following major gains by the Democratic Party across key states, including Texas and Virginia. The discussion evaluated shifting voting patterns among Indian Americans, who historically backed Democrats before leaning towards Donald Trump and the Republican Party over economic and deregulation concerns. Panelists debated Donald Trump's governance record, focusing on domestic inflation, energy independence, and economic challenges. A central point of contention was the administration's military escalation against Iran, with discussions highlighting whether the ongoing conflict contradicted prior anti-war commitments and examining disputed casualty figures from Iranian unrest. The broadcast also focused on congressional oversight, noting that incoming Democratic majorities in the US Congress are expected to rigorously question top defence and administration officials regarding the strategic basis and intelligence underlying military interventions abroad.
+
+## US Midterms, Donald Trump Iran Policy & H-1B Visa Debate for Indian Americans
+
+In a special broadcast examining the fallout of the US midterm elections, Republican strategist Puneet Ahluwalia discussed the political landscape facing Donald Trump and the Republican Party. Addressing electoral setbacks and the challenges of managing legislation without full congressional control, Ahluwalia maintained that the executive branch retains authority over foreign policy. The discussion covered key issues impacting voters, including inflation, rising gas prices, and foreign policy decisions regarding Iran and Middle East stability. The debate also addressed shifting sentiments among Indian Americans, who have expressed concerns over policies regarding H-1B work visas and immigration. Ahluwalia defended the administration's record, emphasising the need to create domestic opportunities while rejecting claims that the Republican leadership is anti-Indian, citing prominent figures such as JD Vance and Vivek Ramaswamy within the party's coalition.
+
+## US Midterms: Diverse Wave Flips Key Battleground States as Trump Veto Loom
+
+A panel discussion analyses the shift in the United States political landscape following election results across key battleground states. Commentators examine President Donald Trump's social media remarks concerning executive veto powers and negotiating tactics amid a transformed US Congress. The discussion details notable victories by Black and Hispanic candidates, including Keisha Lance Bottoms in Georgia and Byron Donalds in Florida, alongside James Talarico's win in Texas. Analysts highlight changing voter demographics across the Midwest, noting shifting choices among white male voters and strong political mobilization by Indian American communities in response to targeted campaign rhetoric. The panel also observes potential upcoming legislative scrutiny, noting Congressman Ro Khanna's focus on transparency regarding the Jeffrey Epstein files.
+
+---
+
+### 'Will take back the house, finish the job': Mike Johnson vows GOP comeback after midterm losses
+*ET Online · business*
+
+US House Speaker Mike Johnson addressed supporters in Shreveport, Louisiana, after winning re-election to Congress. Johnson acknowledged Republican setbacks in the midterm elections, thanked President Donald Trump and JD Vance, and pledged to continue fighting for his party's agenda. He criticized D...
+
+[Read full article](https://economictimes.indiatimes.com/news/international/world-news/will-take-back-the-house-finish-the-job-mike-johnson-vows-gop-comeback-after-midterm-losses/videoshow/135526902.cms)
+
+---
+
+### ‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court
+*Vineet Upadhyay · legal*
+
+The court held that a former judge’s transfer and retirement outside Odisha could not disqualify him from claiming the benefits as long as he was not receiving them elsewhere.
+
+[Read full article](https://indianexpress.com/article/legal-news/judges-entitled-post-retirement-support-transfer-orissa-high-court-10949953/)
+
+---
+
+### Raj Thackeray's MNS cancels Dipotsav in Mumbai over drought, urges restraint during Diwali
+*Pti · business*
+
+Mumbai: Maharashtra Navnirman Sena (MNS) chief Raj Thackeray on Wednesday said his party will not hold Dipotsav, its annual Diwali celebration at Shivaji Park in Mumbai, this year because of severe drought in the state.
+
+In a video message, Thackeray also appealed to people of the state to be mindful while celebrating Diwali.
+
+It would not be prudent to celebrate festivals extravagantly when rural Maharashtra is reeling from a severe drought, farmers are under severe financial pressure, and thousands are migrating to cities due to it, he said.
+
+  
+
+The Maharashtra government has declared 85 per cent of the state drought-hit following deficient rains this year and announced an interim aid of Rs 5,000 to farmers before Diwali.
+
+Thackeray said the Dipotsav will be organised next year if the situation, hopefully, improves.
+
+The MNS' Dipotsav attracts thousands of people every year. The city's iconic Shivaji Park and the area around it are decorated with lights, and a synchronised firecracker display is part of the celebration.
+
+The event is inaugurated by prominent public figures. In 2023, then chief minister Eknath Shinde and deputy CM Devendra Fadnavis, who is now chief minister, attended the celebrations. In 2024, legendary scriptwriters Salim Khan and Javed Akhtar inaugurated the Dipotsav.
+
+Last year, ahead of the Brihanmumbai Municipal Corporation polls, Raj and his cousin, Shiv Sena (UBT) chief Uddhav Thackeray, inaugurated the event together.
+
+---
+
+### Equity LTCG tax relief buzz: SBI wants level playing field for bank deposits; key points for FD, savings account holders | Mint
+*Sheetal Goel · economy*
+
+## Amid the growing debate over LTCG tax relief on equities, SBI Research suggested a level playing field between equity investments and bank deposits. It has proposed tax relief on savings account interest to make bank deposits more attractive to savers.
+
+Equity LTCG tax relief buzz: SBI wants level playing field for bank deposits; key points for FD, savings account holders. (AI-generated image for representational purposes only)
+
+The ongoing debate over capital gains tax relief has put equity taxation in the spotlight. SEBI has recommended scrapping LTCG tax for foreign investors and exempting domestic mutual fund investors from LTCG tax when they sell existing holdings after one year to reinvest in new schemes, according to a _Reuters_ report on 2 November.
+
+Recently, during a fireside chat at the FE Leadership Awards, Finance Minister Nirmala Sitharaman acknowledged investor concerns about equity taxation. “I appreciate and recognise the concerns and anxieties prevailing among retail investors and equity market participants,” she said.
+
+SBI Research's _Ecowrap_ report dated 12 October first suggested abolishing LTCG tax “for all class of investors”. Its latest report, on 2 November, explores alternative tax relief measures for equity investors and explains why bank deposits also need a more favourable tax treatment. Here's what bank depositors and customers should know.
+
+## What has SBI Research suggested on LTCG tax relief?
+
+Currently, equity investments held for more than 12 months are subject to LTCG tax at 12.5%, with an annual exemption of ₹1.25 lakh. SBI Research has proposed linking this ₹1.25 lakh exemption threshold to inflation instead of retaining the existing flat limit. This would help the exemption keep pace with the expanding retail investor base.
+
+It has also suggested preferential tax treatment for longer holding periods. For instance, investments held for more than two to three years could attract zero LTCG tax, compared with the existing 12.5% rate for investments held for one to two years.
+
+The report has also discussed reviewing LTCG taxation alongside a possible 50% increase in the Securities Transaction Tax (STT). Another suggestion is to allow investors to defer LTCG tax on a pro rata basis when mutual fund redemption proceeds are reinvested in eligible equity mutual funds within 90 days.
+
+## Why does SBI want tax relief for savings account and FD depositors?
+
+Alongside equity tax reforms, SBI Research has called for changes in the taxation of bank deposits to prevent savings from shifting disproportionately towards equities.
+
+Without these adjustments, “the incentives for investment in equities would significantly outweigh the incentives for investment in bank deposits.”
+
+Currently, interest earned on savings bank accounts is eligible for a deduction of up to ₹10,000 for eligible taxpayers. SBI has suggested increasing the tax exemption threshold on savings account interest from the existing ₹10,000 to ₹20,000.
+
+SBI Research noted that term deposits have “witnessed greater favour with savers, with elevated rates attracting higher proportions.” This includes bank fixed deposits (FDs), which have attracted savers amid relatively higher interest rates. For term deposits, it has suggested replacing the existing tax treatment across different maturity periods with a flat 15% tax rate.
+
+Currently, FD interest is added to your taxable income and taxed at your applicable slab rate.
+
+For depositors, this could mean a higher tax-free interest limit on savings accounts and a uniform tax rate on term deposit interest. The broader objective is to ensure that traditional bank savings remain less attractive than equity investments.
+
+_Disclaimer: This is for informational purposes only. SBI Research's proposals are not government-approved tax changes._
+
+### About the Author
+
+Sheetal Goel
+
+Sheetal Goel is a Content Producer at Livemint, where she covers corporate developments, personal finance, business trends, markets, and SEBI-
+
+---
+
+### Ramayana first show at 6:30 am in Delhi, Mumbai and Bengaluru. Check show timings and ticket prices for Ranbir Kapoor, Sai Pallavi's film
+*ET Entertainment Desk · business*
+
+With just a few hours to go, the much-awaited movie of the year, Ramayana, is all set to take over the big screens on November 5. Directed by Nitesh Tiwari and produced by Namit Malhotra, the film features Ranbir Kapoor, Sai Pallavi, Ravi Dubey and Yash in lead roles. Advance bookings for the epic film opened weeks ahead of its release, and now, several theatres across the country are reportedly almost housefull. The early morning shows of Ramayana will begin as early as 6:30 am.
+
+## Ramayana movie timings in Delhi, Mumbai, Bengaluru
+
+Yes, you read that right! According to BookMyShow's official website, advance bookings for Ramayana are already open. In some of the theatres in Delhi, Mumbai, Bengaluru and Hyderabad, the first shows are scheduled as early as 6:15 am and 6:30 am. Several other screenings are also available throughout the day, with showtimes starting from 7 am and 8 am and extending until midnight.
+
+  
+  
+
+Ramayana show timings (Credit: BookMyShow)
+
+## What are the ticket prices of Ramayana movie?
+
+Delhi moviegoers can catch 3D screenings at PVR ECX Chanakyapuri. Tickets for the 9 am show are priced between Rs 338.98 and Rs 406.78, plus GST. The late-night show at 11:45 pm is considerably more expensive, with ticket prices ranging from Rs 474.58 to Rs 559.32, excluding GST.
+
+For a more immersive experience, viewers can also opt for 4DX screenings. The earliest show at 10:30 am is priced at Rs 650, while tickets for the last show at 10:45 pm can cost up to Rs 820, according to the listings.
+
+Ramayana ticket prices in Mumbai: IMAX 3D and recliner seats - If you want to watch Ramayana in IMAX 3D in Mumbai, you can check out the screenings at EROS INOX IMAX Cinema in Churchgate.
+
+According to BookMyShow, tickets for the 7:30 am show are available for prices ranging from Rs 530 to Rs 680. However, some premium seats come at a higher cost. Recliner seats in Mumbai are priced at Rs 2,770.
+
+**Ramayana ticket prices in Bengaluru**
+
+In Bengaluru, the film is also available in Telugu at AMB Cinemas Kapali, among other theatres. The 5:20 pm show is priced at Rs 950, while tickets for the last shows range from Rs 450 to Rs 850, according to BookMyShow.
+
+## More about Ramayana
+
+Advance ticket sales are already indicating audience interest in the movie. According to Sacnilk.com, Ramayana has earned Rs 96.64 crore through advance bookings. Around 25.68 lakh tickets have been sold across 83,087 shows in 898 cities so far.
+
+However, the report further states that Hindi shows have contributed the highest amount, with tickets worth Rs 78.93 crore sold.
+
+Apart from the lead cast, the film also features an ensemble of actors, including Sunny Deol, Anupam Kher, Kajal Aggarwal, Rakul Preet Singh, Vivek Oberoi, Kunal Kapoor, Arun Govil, Indira Krishnan and Lara Dutta. It remains to be seen how the film performs at the box office.
+
+---
+
+### Talarico wins Texas senate race, ending a three-decade drought for Democrats
+*New York Times · legal*
+
+The victory immediately vaulted Talarico into the political stratosphere as one of the Democratic Party’s biggest stars after he accomplished the generational dream of turning Texas blue.
+
+[Read full article](https://indianexpress.com/article/world/james-talarico-texas-senate-race-democrats-ken-paxton-republican-10949956/)
+
+---
+
+### No AI, no Google Search: Google changes rules for schools
+*Armaan Agarwal · general*
+
+Google Search and the phrase, “Google it,” are synonymous with looking up things online. But what if Google Search does not work for you anymore? This is what some school students may face if their school does not want Google’s AI products.
+
+The tech giant has changed its policy for school products. From early 2027, all AI products, including Gemini, will be switched off by default for school students. But the catch is that Google Search will also not work unless the school turns on AI features.
+
+“We are now updating our approach to controls for Gemini, Gemini Notebook, Gemini in Classroom, and Google Search,” Chris Phillips, Google VP and GM of Education said in a blog post. “Access to these products will be entirely off for K-12 student accounts until school administrators explicitly turn them on.” K-12 is a term used for schooling in the US and Canada, which covers kindergarten to the final year of high school.
+
+### Google says you can use Search but with AI
+
+But this decision sparked backlash online. Later, Google clarified that schools could enable Search without activating additional Gemini products. However, Search would retain built-in AI features, including AI-generated summaries, because “AI is increasingly integrated into the service.”
+
+“We believe schools should have control over AI in their classrooms and in providing administrators with controls to help them manage their approach,” Chris Philips said.
+
+Google enabled Gemini in its Classroom platform earlier this year, allowing children to access AI products unless districts disabled them. This raised concerns over students using AI to do schoolwork. Thirteen parent advocacy organisations, including the Digital Childhood Institute and Schools Beyond Screens, asked US school districts to disable Gemini and YouTube.
+
+According to the company, its updated AI Mode and AI Overviews can offer step-by-step guidance so students did not receive quick answers to schoolwork.
+
+Google has also announced a Guided Learning system that can detect homework-
+
+Google said that its school version comes with stronger restrictions and allows teachers to review transcripts, compared to the consumer version you use on your smartphone.
+
+\- Ends
+
+
+---
+
 ## 3 November 2026
 
 ### 'Congress Hates Hindus': BJP's Pradeep Bhandari Slams Neha Bora Over 'Pujaris Rape In Temple' Remark
