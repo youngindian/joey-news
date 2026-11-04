@@ -1,5 +1,260 @@
 # Editorials archive — 2026-08
 
+## 5 August 2026
+
+### Straws in the wind: On the Bankipur, Datia and Manjalpur by-elections
+*The Hindu · Editorial*
+
+The by-elections held on July 30, 2026 in three Assembly constituencies across three Bharatiya Janata Party (BJP)-ruled States threw up some surprises, but it may be risky to read them as indicators of any definitive or enduring political trend. Still, Bankipur in Bihar, Datia in Madhya Pradesh and Manjalpur in Gujarat were among the most closely watched electoral contests. Though involving only three seats, the results were significant, offering clues about regional political currents, the strength of major parties and the prospects of emerging political formations. These were also the first electoral tests after student protests forced the BJP to remove Union Education Minister Dharmendra Pradhan on July 25. The most consequential result came from Bankipur. The seat fell vacant after BJP national president Nitin Nabin resigned following his election to the Rajya Sabha. Jan Suraaj Party (JSP) founder Prashant Kishor chose the constituency for his electoral debut, turning what would otherwise have been a routine by-election into a high-profile political contest. He defeated BJP candidate Neeraj Kumar by 19,324 votes, ending decades of BJP dominance in the constituency. It marks the JSP’s first major electoral success and gives Mr. Kishor political legitimacy after years as an election strategist.
+
+In Datia, the Congress secured an important victory as its candidate, Ghanshyam Singh, defeated BJP candidate Ashutosh Tiwari by just over 6,000 votes. Unlike Bankipur, Datia witnessed a robust voter turnout of 71.44%, indicating strong local engagement with the contest and suggesting that the Congress retains pockets of resilience in Madhya Pradesh despite the BJP’s dominance. The victory does not alter the balance of power in the Assembly, but gives the Congress evidence that local anti-incumbency and candidate-specific factors can still work in its favour. For the BJP, the defeat serves as a reminder that its Statewide strength does not automatically translate into victory in every constituency. The third contest, in Manjalpur produced a different outcome. The BJP retained the constituency, with Satish Govindbhai Patel defeating his rival by over 30,000 votes. Manjalpur demonstrates the BJP’s ability to hold its core support base. At the same time, the outcomes in Bankipur and Datia suggest some volatility among the BJP’s core social base of Hindu voters, particularly the upper castes. There is also a larger acceptance among the electorate for fresh political experiments, and that is a trend that connects what happened in the Tamil Nadu Assembly elections with Bankipur. If this trend holds, the challenge will be not only for the BJP but also for other legacy parties, including and particularly the Congress.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/straws-in-the-wind-on-the-bankipur-datia-and-manjalpur-by-elections/article71305481.ece)
+
+---
+
+### ​Top spot: On the new phase of the Khelo India Scheme
+*The Hindu · Editorial*
+
+One of the biggest impediments to India’s aspiration to bid for the 2036 Olympics is the lack of enough world-class performers. For India, a prospective host, targeting a prestigious top-10 finish is a humongous task. In the 21st century, the country achieved its best-ever result of 48th with seven medals at the Tokyo Olympics in 2021 and was 71st with six medals at Paris 2024. India needs to win approximately 30 to 40 medals, including gold in double digits, to be in the elite club. To chase this Olympic dream, the Union Cabinet has approved an allocation of ₹29,054 crore — an eight-fold increase — for the new phase of the Khelo India Scheme. The primary goal of this ambitious grassroots programme is to tap talent early for the 2036 Olympics. It aims to increase Khelo India centres, State and National centres of excellence and accredited academies from roughly one per district — more than 1,000 centres at present — to an average of two or three. Involving schools and clubs, encouraging talented children to compete in club-level events, upgrading facilities, and assimilating grassroot-coaches and technical officials are essential ingredients of the wholesome scheme.
+
+A novel concept of upgrading the knowledge of local coaches by helping them overcome the language barrier posed by English, the formation of a National Coach Accreditation Board to standardise coaching and better utilisation of physical education teachers are expected to impart correct training at the basic level. In sync with the National Education Policy, the Khelo India Feeder Schools and Khelo India Utkrishta Vidyalaya initiatives are designed to integrate education and sports. The existing Khelo India Athletes programme, with 2,904 athletes, and the new Emerging Khelo India Athletes initiative aim to expand the talent pool to around 28,000. Talent identification, digitisation of the sports ecosystem to maintain data on every athlete, and a bottom-to-top communication channel are its key components. The overall outlay, including assistance to National Sports Federations, stands at a staggering ₹36,441 crore for 2026-31. However, the biggest challenge will be effective and transparent implementation of the scheme. Enabling talent to graduate to the highest level, already backed by the Target Olympic Podium Scheme, with an eye on the 2036 Olympics and beyond will be crucial. The 2030 Commonwealth Games in Ahmedabad will be an immediate test. The other major hurdle for India’s attempt to emerge as a sporting power is its dubious distinction as a doping hub. Strict anti-doping measures, promotion of a sports culture by maximising the scope of the Fit India Movement, and a focus on grassroots development must go hand-in-hand to achieve the desired results.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/top-spot-on-the-new-phase-of-the-khelo-india-scheme/article71305508.ece)
+
+---
+
+### Fiscal federalism, efficiency versus equity concerns
+*The Hindu · Opinion*
+
+The Finance Commission, an institutional innovation embedded in India’s constitutional architecture, was never intended to be a routine allocator of funds. It was designed as a central pillar of India’s fiscal federal compact and as a corrective institution that would mediate the inherent asymmetry between a fiscally dominant Union and structurally constrained States, while also addressing deep horizontal inequalities arising from history, geography, and institutional capacity. In a country marked by uneven development at Independence, the Commission’s central mandate was to safeguard the interests of the States and thereby preserve a strong Union.
+
+Each successive Commission, cognisant of its historical context, has interpreted this mandate in its own way, yet all have contributed to sustaining India’s fiscal federal compact. The recently submitted report of the 16th Finance Commission (FC-16), chaired by Arvind Panagariya and covering the period 2026-31, marks a decisive turning point. While it retains the vertical devolution of central taxes to the States at 41%, it fundamentally re-engineers the structure of fiscal transfers, particularly grants-in-aid. In doing so, it prioritises efficiency and performance but raises serious concerns about equity and constitutional intent. At the heart of the issue lies a deeper question: has the Commission moved away from its equalising role toward one that implicitly protects the Union’s fiscal primacy?
+
+The constitutional logic of grants-in-aidEvidently, the provision for grants-in-aid under Article 275 was not an afterthought; it was a foundational design element. In a country more diverse than any other in the world, tax devolution, however sophisticated its formula, cannot account for the diversity of State-specific needs. For instance, Kerala’s “export-oriented” human capital development strategy has accounted for nearly 23% of India’s total remittances, thereby strengthening the country’s external sector. However, this has come at a cost to the State’s fiscal health, as it has had to rely on borrowing to finance investments in education.
+
+Similarly, Punjab has played a critical role in ensuring national food security, but at the cost of its revenue base, by focusing on the production of wheat and rice, which are non-taxable apart from paying the price of being a border State. The same is true of the hill States, which face high infrastructure costs; the north-eastern States, which grapple with connectivity constraints; and fiscally stressed States burdened by demographic pressures and social sector commitments.
+
+Grants-in-aid were therefore conceived as instruments of equalisation, enabling targeted support for States with special needs where formula-based tax devolution falls short. The F-14 and the FC-15 recognised this reality by retaining Revenue Deficit Grants (RDGs), sector-specific grants, and State-specific grants.
+
+The FC-16 departs sharply from this tradition. It recommends grants-in-aid of ₹9.47 lakh crore, compared with ₹10.1 lakh crore under the FC-15, while their share in total Finance Commission transfers has more than halved, from 19.4% to 8.3%. By restricting grants-in-aid to local bodies and disaster management, it eliminates RDGs, sector-specific grants, and State-specific grants.
+
+While retaining the States’ share in the divisible pool at 41%, despite the demand from 18 States to raise it to 50%, the Commission presumes that improved fiscal discipline should enable States to manage their finances without additional gap-filling transfers. However, this reasoning rests on a problematic assumption: that fiscal capacity across States is sufficiently uniform for devolution to be self-equalising.
+
+Empirically and historically, this assumption is untenable. The Commission’s justification for doing away with RDGs is rooted in concerns about fiscal prudence. It argues that RDGs create moral hazard by incentivising States to underperform in revenue mobilisation or overspend in the expectation of central support.
+
+It also points to aggregate data suggesting that the States, taken as a whole, are not in severe fiscal distress. Yet, this aggregate view masks deep inter-State disparities, with some States remaining fiscally stressed despite contributing disproportionately to national development and continuing to require fiscal assistance. The very purpose of RDGs was to recognise this heterogeneity, as a fiscal surplus in one State cannot offset a fiscal deficit in another.
+
+More troubling is the contrast between the Commission’s stance on RDGs and its treatment of cesses and surcharges. While advocating fiscal discipline for States through the withdrawal of RDGs, it stops short of recommending any binding rollback of these non-shareable union levies ignoring the demand by many States.
+
+Dual shiftInstead, it proposes a “grand bargain”, whereby the Centre would gradually merge cesses into the divisible pool in exchange for States accepting a lower devolution share. This asymmetry is difficult to overlook. RDGs are removed in the name of discipline, yet cesses — arguably a more distortionary instrument from a federal perspective — are only gently nudged toward reform. The resulting framework imposes stringency on States while preserving fiscal flexibility for the Union. This dual shift, protecting Union revenues while constraining State support, raises a fundamental concern: is the Commission inadvertently reinforcing vertical imbalance rather than correcting it?
+
+The consequences are particularly severe for States that already face structural disadvantages. As many as eight States, including most of the disadvantaged north-eastern States and fiscally stressed West Bengal, are set to experience a reduced share in both tax devolution and grants-in-aid, while another six States have seen a decline in their share of grants. The problem is further compounded by the reduction in the weight assigned to income distance (from 45% to 42.5%) and the introduction of a 10% weight for contribution to GDP. When combined with the removal of the RDGs, which accounted for about 20% of Finance Commission grants in 2024-25, this creates a double burden: lower tax devolution and the absence of compensatory grants. The Commission’s implicit assumption that efficiency should trump equity risks widening regional disparities.
+
+Another defining feature of the FC-16 is its emphasis on tied and performance-based grants, particularly for local governments. While the allocation of nearly ₹7.2 lakh crore to the third tier is commendable, the conditionalities attached to these grants are stringent, linking the release of funds to targets in water and sanitation, revenue mobilisation, and audited accounts. This approach promotes accountability, but it also reduces fiscal autonomy. In effect, the architecture of grants shifts from need-based equalisation to compliance-based incentivisation. Fiscal discipline, while necessary, cannot substitute for fiscal justice.
+
+Efficiency versus equityThe FC-16’s report is bold in ambition but uneven in balance. The dismantling of the RDGs and the shift toward performance-based transfers reflect a technocratic confidence in market-like incentives, even though fiscal federalism is a political and constitutional arrangement designed to manage diversity. The contrast between the Commission’s strict stance on RDGs and its accommodative approach to cesses and surcharges, along with its hesitation to raise the States’ share in the divisible pool to 50% despite demands from several States, reveals a deeper tension.
+
+It suggests a framework that, intentionally or otherwise, protects the fiscal space of the Union while placing a greater adjustment burden on the States. In doing so, the Commission may have moved away from its core mandate of acting as an equalising force within the federation. If the Finance Commission is to continue playing its historic role in holding India together, future Commissions must reward high-performing States while supporting those that continue to face structural disadvantages.
+
+For a country as diverse as India, fiscal federalism cannot be sustained on performance alone; it must be anchored in fairness.
+
+K.J. Joseph is Director, Gulati Institute of Finance and Taxation, Thiruvananthapuram, Kerala. Sumalatha B.S. is Assistant Professor, Gulati Institute of Finance and Taxation, Thiruvananthapuram, Kerala. The views expressed are personal
+
+[Read full article](https://www.thehindu.com/opinion/lead/fiscal-federalism-efficiency-versus-equity-concerns/article71310469.ece)
+
+---
+
+### Jammu and Kashmir — the elusive quest for Statehood
+*The Hindu · Opinion*
+
+August 5 marks seven years since Jammu and Kashmir (J&K)’s special status (Article 370) was revoked by the Narendra Modi administration; a few days hence, August 9 will mark seven years of J&K’s loss of Statehood. Both actions were accompanied by the most dubious lockdown in India’s history. Thousands of troops were flown in, over 5,000 political leaders and cadre were detained, and curfew was imposed together with a communications blockade.
+
+These were emergency measures, yet no emergency was either visible or declared. The Modi administration argued that its measures were temporary and would lead to a violence-free region in which economic growth would be unleashed. Instead, and predictably, violence has continued, as last year’s terrorist attacks in Kashmir’s Pahalgam (April) and Delhi’s Red Fort (November) attest; indeed, it has spread to areas that were relatively dormant, such as Poonch-Rajouri, and from there to adjoining districts of J&K.
+
+Economically, the region continues to suffer. According to the J&K Economic Survey 2025-2026, the ratio of the region’s per capita income to the national average is 76.6%, whereas it was 79.9% in 2013-14, a fall of 3.3 percentage points. Unemployment remains close to twice that of the national average; graduate unemployment is as high as 23.9%.
+
+Jammu & Kashmir: From a State with autonomy to two Union TerritoriesLockdowns and summonsKashmiri response to the Pahalgam attack was a wholehearted rejection of violence, expressed in peace marches and candlelit demonstrations. It offered the Modi administration an opportunity for peacebuilding on the ground, beginning with the restoration of Statehood. Instead, the Union Home Ministry chose an even more heavy-handed security response. This year’s Amarnath yatra is the most militarised in the history of J&K. Citizens are routinely charged under the draconian Jammu and Kashmir Public Safety Act (PSA) and the Unlawful Activities (Prevention) Act on the flimsiest of grounds; mass summons are common — over 2,000 were called in for questioning after Constable Ashiq Hussain Qureshi was shot on July 22 this year — curfews are more often in place than not; and the Union Territory has had the highest number of Internet and communications shutdowns in the country since 2019.
+
+At the time, few recognised how momentous the Modi administration’s actions were, not only in what they did but also in how they did it. Article 370 was hollowed out by executive fiat — a Governor who later said he was ‘ordered’ to sign by the Union Home Minister. Statehood was removed by legislative fiat, via a Parliament which did not even consider consulting J&K’s people or political leaders. No Indian State had been stripped of its Statehood since Delhi lost its Statehood in 1956.
+
+Article 370 abrogation case | The Hindu’s detailed coverage Together, the two actions comprised a breathtaking violation of India’s constitutional principles and the basic structure of the Union. They should have been seen as the second major salvo against India’s democracy — the first being the re-communalisation of the Indian polity through state-sanctioned attacks on Muslims and Christians — but instead they were hived off as specific to conflict-ridden Jammu and Kashmir.
+
+The belief that draconian measures are justified in a conflict-ridden region is fundamentally flawed both morally and pragmatically, as India knows from its own colonial past. Morally, the argument that subjugation is a means towards a desirable end masks the point that subjugation is a repugnant end per se, never a means. Pragmatically, as India knows from its more recent past, subjugation only breeds disaffection which will likely express itself in violence when peaceful means of expression are disallowed.
+
+Editorial | ​Fulfil the promise: On restoring Statehood to Jammu and Kashmir
+
+Yet, the deployment of the argument has allowed the Modi administration to get away with direct rule for seven years. The Supreme Court of India let Solicitor General of India Tushar Mehta parrot the argument for four years before weakly advising that Statehood be restored as soon as possible.
+
+Three more years have passed since then, without the Court hearing petitions seeking a timeline for restoration. At no point did the Court question the Union on the utility of its measures on constitutionally moral, or even merely pragmatic, grounds.
+
+Lieutenant-Governor holds powerThe Constitution limited the imposition of emergency conditions to six months. Yet, in J&K, emergency conditions have not been lifted for seven years. Though the J&K High Court has repeatedly and increasingly lamented the misuse of draconian laws by the J&K police, its strictures do not appear to have led to reform. J&K held elections two years ago, but the elected administration has few powers. It is the Lieutenant-Governor who controls the administration, the police and government prosecutors under the 2024 Transaction of Business Rules; he has now been granted emergency powers over telecommunications. As an appointee rather than an elected representative, the Lieutenant-Governor is not accountable to the people.
+
+Accountability through democracyThanks to India’s young, who so joyfully turned the derogatory ‘cockroach’ into an assertion of strength, accountability has acquired a salience that it had been stripped of over the past decade. Fortuitously, J&K’s ruling National Conference party had already decided to renew a campaign for the restoration of Statehood that the Congress party had launched two years ago but persisted with only fitfully. Now the campaign for Statehood must couch itself in the name of accountability.
+
+As the Constitution clearly recognised, an elected administration is the only way to provide for accountability. Though accountability needs guarantees by an independent legislature, oversight and autonomous institutions and a free media, these too require an elected administration to develop. At base, civil society acquires some space to push for reform under an elected administration, which it lacks under an appointed administration.
+
+Over the past decade, J&K has acquired a number of ugly firsts. It was the first State to undergo wide use of the semi-lethal pellet guns in 2016. (Ironically, pellet guns were developed partly as a less lethal response to the stone-pelting agitation in 2010. Our Interlocutors report had criticised their induction.) It was the first State to lose its special status and its Statehood in 2019. It was the first State to undergo a communal delimitation in which Jammu’s demography was altered by the creation of additional Hindu-majority constituencies, some of them with populations below 50,000, in 2022.
+
+Article 370 abrogation: Seven years on, what has changed in Kashmir? | In Focus PodcastIs it not time for J&K to experience some positive firsts instead of suffering only ugly ones? After all, it was the first State to overcome communal gerrymandering when the 2024 elections yielded a majority for the pluralist National Conference-Congress alliance. It is only fitting that it also be the first State to regain the Statehood that has been withheld for so long.
+
+Radha Kumar is a former Member, Group of Interlocutors for Jammu and Kashmir, and the author of the book, The Republic Relearnt: Renewing Indian Democracy, 1947-2024
+
+[Read full article](https://www.thehindu.com/opinion/lead/jammu-and-kashmir-the-elusive-quest-for-statehood/article71306297.ece)
+
+---
+
+### DC Edit | Mid-Air Scare: Obey Seat Belt Rule
+*Deccan Chronicle · Editorial*
+
+For the 145 people aboard Air India flight AI2379, the journey from Phuket to Delhi turned without warning from an ordinary flight into a few seconds of terror as the aircraft suddenly dropped 300 feet in mid-air.Although the aircraft regained altitude, 13 passengers and four crew members were injured. The passengers have since been discharged, while the four crew members remain under medical care.A plunge of 300 feet may appear insignificant when an aircraft is cruising several kilometres above the ground. Inside the cabin, however, such numbers offer little comfort. A sudden drop creates the sickening sensation that the floor has disappeared from beneath one’s feet.Sudden clear air turbulence (CAT) can lift people who have not fastened their seat belts out of their seats and hurl them against overhead panels, armrests or fellow travellers. Luggage and other loose objects can become projectiles, potentially injuring passengers. Such bewildering moments can naturally cause panic among passengers despite reassurances from the cockpit.Nevertheless, the occurrence of clear air turbulence (CAT) is not uncommon. According to the US National Transportation Safety Board, turbulence accounted for more than one-third of accidents involving large commercial air carriers between 2009 and 2018, usually causing serious injuries without damaging the aircraft. Flight attendants accounted for 78.9 per cent of those seriously injured.These data also explain why the familiar instruction to keep seat belts fastened deserves more than casual observance. As unexpected turbulence may offer little warning, airlines must not treat the seat-belt announcement as a routine recording.Better forecasts, prompt cockpit warnings and procedures that allow cabin crew members to take their seats earlier can prevent a frightening event from becoming a medical emergency. The DGCA should, therefore, thoroughly investigate the matter and recommend measures to ensure that airlines continue to learn from such incidents.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-mid-air-scare-obey-seat-belt-rule-1976882)
+
+---
+
+### DC Edit | Stalin Jr Arrest a Message to Curb Sexism in Politics
+*Deccan Chronicle · Editorial*
+
+Distasteful and vulgar as Tamil Nadu Opposition leader Udhayanidhi Stalin’s double entendre comment on Cauvery water was, his arrest was an act of political excess that clouds the message the government may wish to convey against misogyny.By grandstanding through the drama as if this was a great conquest, Udhayanidhi may have tried to give the impression that he was hoping to make political capital out of the mess. Truth to tell, his objectification of women will only lead to his alienating further at least half the population which has always found the state’s Dravidian political environment toxically loaded against them.This was by no means the first time that the Opposition leader, who earlier was deputy chief minister before the regime change this year, has invoked women and sarcastically touched upon the private lives of rivals when speaking at public forums. Given the history of his own family and his stint as a film actor, he is skating on thin ice when he gets invasive on the chief minister’s private life.What the chief minister, who represents a desire for change in the public from the tired old politics of the Dravidian majors, has been aiming at is to curb the sexism that has been embedded in the state’s politics. He may have kept a studious silence on personal attacks, but he has demonstrated that he is willing to act when Opposition leaders try to drag women into the political slang.Udhayanidhi may have skirted such bigotry in attacks on Jayalalithaa’s aide Sasikala and in denouncing Sanatan dharma in language that often crossed the boundaries of civil debate and responsible public speaking, especially in career politicians and, in his case, a dynastic politician at that. It is in dragging the actor Trisha often into his political rivalry that he invited the wrath which led to unseemly scenes of arrest, a 300-km police convoy drama that triggered demonstrativeness in the DMK cadre.Given the fact that courts are always hyper-sensitive when it comes to the arrest of political leaders and celebrities — which, however, comes in sharp contrast to the helplessness of lesser mortals in such matters like police action — detaining Udhayanidhi for interrogation was unlikely to fetch results in the legal domain, nor political dividend. Too often such acts only trigger law & order situations and an invitation to anti-social elements to take disruption as a political ploy.The fact that the arrest and brief detention at least conveyed the message strongly about dishonour to women not being tolerated symbolises the change that Vijay wishes to bring into the state’s political culture, which had too often in the past descended into vitriol. As an actor who turned politician with the promise to bring about a change in thinking and action, Vijay needs to stop arresting Opposition politicians for crude comments, which is their wont, and oppose them in the lively political theatre that exists in the state.Vijay’s point about misogyny is well taken and, perhaps, appreciated most by women, but to give crass people mileage in such arrests can prove counterproductive. Yet if his action brings the curtain down on toxicity involving women in state politics, he would have achieved something. The cost in proving such things can, however, be too high in a male-dominated society that is high on ingrained prejudices against women.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-stalin-jr-arrest-a-message-to-curb-sexism-in-politics-1976878)
+
+---
+
+### Pradeep S. Mehta | Trust Becomes the Toughest Test for India’s Young in Examinations
+*Deccan Chronicle · Opinion*
+
+Few public issues have shaken India’s youth as deeply in recent months as the controversy surrounding competitive examinations, such as NEET. The government’s response inter alia includes a high-level examination reform task force chaired by technocrat Nandan Nilekani, the pioneer who had created Aadhaar. This, alongside renewed emphasis on secure, technology-driven examinations, further signals recognition that restoring public trust requires systemic reform.Yet the anger on the streets was never only about leaked papers. It reflected a deeper concern about whether the systems governing access to education, employment and opportunity continue to reward hard work fairly.For millions of families, a competitive examination represents an implicit compact with the State to work hard, compete fairly and that the performance will be assessed honestly. Paper leaks, cancelled examinations, delayed recruitment and unpredictable rule changes erode that compact, along with years of preparation, emotional investment and financial sacrifice. Trust, once broken, is far harder to rebuild than an examination calendar.The government’s response -- the Public Examinations (Prevention of Unfair Means) Amendment Bill 2026, alongside the examination reform task force chaired by Mr Nilekani -- is both timely and necessary. The emphasis on technology-enabled examinations, foolproof systems and structural reforms reflects an acknowledgement that India’s examination ecosystem requires more than just temporary fixes.The challenge, however, extends beyond examination administration. Over decades, irregularities in recruitment, admissions and other public processes have gradually eroded public confidence, fostering a perception that influence or manipulation can sometimes outweigh merit.Society, too, has often become resigned to these distortions, treating them as inevitable rather than unacceptable.India’s democratic journey, however, has steadily challenged that acceptance. Public movements against corruption, judicial oversight, stronger investigative institutions, an increasingly vigilant media and active citizen engagement have raised expectations of transparency and accountability. The present reforms should therefore be viewed not merely as a response to one controversy, but as another step towards institutions where integrity becomes the norm rather than the exception.Yet even a flawless examination system cannot resolve a deeper structural reality. India must confront the scarcity that underpins its examination culture. When lakhs of aspirants compete for a fraction of available quality institutions and secure public sector jobs, examinations become not only a measure of ability but also a means of rationing opportunity. Under such pressure, every irregularity assumes disproportionate significance and every perceived injustice deepens public distrust.Rebuilding trust also requires a mature conversation about merit, disadvantage and reservation.Reservation remains central to addressing India’s legacy of caste-based exclusion, but its implementation should continue to be informed by evidence and periodic evaluation. The concerns of economically modest families in the unreserved category deserve recognition, even as historically marginalised communities continue to face unequal educational opportunities.The answer lies not in pitting one disadvantaged set of people against another but in improving equality before the exam through better public education, scholarships, mentoring and preparatory support, while ensuring affirmative action reaches those most in need without compromising excellence.Medical education illustrates why this balance matters. India has expanded medical education, increasing MBBS seats from 1,09,115 (2023-24) to 1,28,976 (2025-26), alongside 86,360 postgraduate seats. Expansion, however, cannot substitute for quality. The Neet-PG 2025 controversy illustrated this when qualifying thresholds were sharply lowered to zero percentile for SC, ST and OBC candidates, and substantially reduced for General and EWS candidates, yet thousands of postgraduate seats remained vacant.The debate should move beyond simplistic pro- or anti-reservation positions to ask why specialist seats remain vacant despite threshold relaxation. High fees, speciality preferences, geographic distribution and institutional quality require evidence-based solutions rather than repeated procedural changes. Professional competence must remain non-negotiable. Affirmative action should widen access and provide support, but all graduates must meet uniform, rigorous standards so that patients can trust their doctors.The Nilekani task force therefore has an opportunity to move India from examination reform to opportunity reform. Secure examinations, transparent governance, accountable institutions, equal preparation and rigorous professional standards are complementary pillars of public trust.Reform must also recognise student well-being. Academic...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/pradeep-s-mehta-trust-becomes-the-toughest-test-for-indias-young-in-examinations-1976889)
+
+---
+
+### Sunanda K. Datta-Ray | Amid Friction in PoK, Why Delay Over J&K Statehood?
+*Deccan Chronicle · Opinion*
+
+It must have been the unkindest cut of all for the approximately four million people of “Azad Kashmir” -- “Pakistan-occupied Kashmir” or PoK to us -- when Pakistan’s defence minister, Khawaja Muhammad Asif, dismissed them as “enemies like India”. The insult followed deadly clashes in Rawalakot and Mirpur, both in PoK, where Pakistani security forces were accused of using lethal force against civilian demonstrators, including women and children, seeking relief for economic and administrative grievances.While “Azad Kashmir” struggles with a war within the bigger war for the former princely state of Jammu and Kashmir, and, indeed, for India itself, a dark cloud may loom over 1.4 billion Indians, including J&K inhabitants. It is the threat of rituals and ostentatious religiosity replacing the scientific temperament that India’s founding Prime Minister, Jawaharlal Nehru, sought to inculcate in all Indians. His successors squander fortunes on huge statues and ostentatious shrines, while prostrating before deities in temples where lavish donations are reportedly robbed right, left and centre by unscrupulous managers.Not that that abuse of faith and worship has any bearing on the friction that has flared up between the federal Pakistani authorities in Islamabad and a recalcitrant PoK. However, the strictly secular crisis of thieving -- petty in itself -- might inadvertently reveal something of Narendra Modi’s much more ominous long-term plans for the country. The allegedly fundamentalist Muslim politician, Asaduddin Owaisi, president of the All India Majlis-e-Ittehadul Muslimeen, known as AIMIM, may only have put into words what others, including many Hindus, suspect, when he recently dismissed Mr Modi’s actions as a “bid to create Hindu Rashtra”.That is probably a major reason why no discernible attempt has been made to restore Article 370 of India’s Constitution which was revoked seven years ago, or to repeal the Jammu and Kashmir Reorganisation Act 2019, that New Delhi enacted on August 9, 2019, reducing what had been a full-fledged state since 1947 to the level of a Union territory ruled by a lieutenant-governor appointed by New Delhi and not accountable to anyone outside the top tier of the power hierarchy at the Centre.That J&K is the only Muslim-majority state in an overwhelmingly Hindu India and that it has always been ruled by a Hindu hereditary monarch, Maharaja Hari Singh was the last, makes the demotion especially significant. Intriguingly, Hari Singh’s principal support came from his Muslim prime minister, Sheikh Mohammed Abdullah, who felt that secular India was a safer bet than theocratic Pakistan for his liberal Islam and his state’s distinctive cultural and ethno-national social identity.Playing the communal card, Pakistan sent an invading army into J&K on October 22, 1947. Thanks to India’s military intervention, the Pakistanis were unable to occupy more than about six per cent of the total area (about 13,297 sq. km out of roughly 222,236 sq. km) which it calls “Azad Kashmir” (Free Kashmir), and pretends is an autonomous entity. But as the recent fracas confirmed, the relationship is far from amicable.Meanwhile, the continuing war for Kashmir periodically erupts in savage terrorism. Even otherwise, it prejudices and poisons perceptions and keeps alive and exacerbates grievances, real or imaginary, dating back to Partition. For instance, when Pakistan’s high commissioner in Singapore was asked in a TV programme celebrating the 50th anniversary of South Asian Independence, why Pakistan did not enjoy a stable democracy like India instead of veering from one military coup to another, he shot back that Pakistan’s soldiers are aggrieved because India had kept back military assets that should have been shared in 1947.On the Indian side, there is a tendency to forget -- deliberately or otherwise -- that the “Instrument of Accession” that Hari Singh signed on October 26, 1947 was only in respect of defence, external affairs, and communications. New Delhi acquired other powers mainly through the courtesy of tame Kashmiri politicians holding office in Srinagar.Syama Prasad Mookerjee, a Bengali politician who founded the Bharatiya Jana Sangh (predecessor of Mr Modi’s ruling BJP) and former president of the All-India Hindu Mahasabha, has posthumously shot up in the popularity stakes as the embodiment of Hindu revivalism. Refusing to accept that J&K was not legally a part of India, Mookerjee tried illegally to enter the state in 1953. He was arrested, suffered a heart attack, died the next day and is now revered as a martyr. Two further India-Pakistan wars and constant friction, not to mention an unending stream of propaganda, have done nothing to end a bitterness whose only positive outcome may be the emergence of an independent Bangladesh.“Azad Kashmiris” complain of high inflation, heavy taxation, and the extortionate price of electricity in a state that is partly snow-bound for some months. Citizens’...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sunanda-k-datta-ray-amid-friction-in-pok-why-delay-over-jk-statehood-1976896)
+
+---
+
+### After expansion, a test of stability
+*Deccan Herald · Editorial*
+
+The long-awaited expansion of Karnataka Chief Minister D K Shivakumar's cabinet has delivered both satisfaction and disappointment in equal measure.
+
+Two months after assuming office with 13 ministers, the Chief Minister has now inducted 19 colleagues, taking the cabinet’s strength to 33 against the constitutionally permitted maximum of 34.
+
+While the reshuffle broadens regional and community representation, it also exposes the compulsions and contradictions of balancing competing interests within the ruling Congress party. While nearly 60% of the representation has gone to the AHINDA bloc, for the first time in nearly three decades, the state cabinet has no Brahmin representative.
+
+Kodagu continues to remain without a minister for 13 years, while the coastal belt is underrepresented. The induction of several new faces signals an attempt to nurture the next generation of party leadership, though this shift leans heavily on political legacy, with sons of influential leaders finding a place in the ministry.
+
+Disgruntlement brews as D K Shivakumar Cabinet gets 19 new ministersThe process has also left considerable heartburn. Mankal Vaidya’s name was initially announced, but dropped to include S S Mallikarjun. The exclusion of the lone woman in the list, MLC Gayathri Shanthegowda, set the rumour mills abuzz.
+
+A no-woman cabinet makes for poor optics at a time when the Congress is strongly advocating 33% reservation for women. Equally debatable is the return of B Nagendra, who had stepped down earlier over corruption allegations.
+
+Several senior legislators have expressed displeasure at being excluded, some even threatening resignation. Though former Chief Minister Siddaramaiah stayed away from the swearing-in, his imprint on the expanded cabinet is unmistakable, underlining the delicate balance the Chief Minister must maintain between competing power centres. Shivakumar’s assertion that all is well masks what is clearly a tightrope walk.
+
+The reshuffle also carries a message that seniors who have long enjoyed power must recognise that the renewal of leadership is essential to the party's future.
+
+The Bharatiya Janata Party (BJP) has consistently invested in building a second line of leadership alongside its veterans, and the Congress appears to be attempting a similar, if cautious, transition.
+
+A cabinet can never satisfy every aspiration, and with supporters of the disappointed leaders now taking to the streets, Shivakumar faces the immediate task of managing discontent. With the next Assembly polls about two years away, this appears to be an election-oriented cabinet unlikely to witness further changes.
+
+The Chief Minister must now move swiftly from political management to governance, so that the present disquiet proves a passing phase rather than a lasting liability.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/after-expansion-a-test-of-stability-4099380)
+
+---
+
+### Don’t rebrand a sporting legacy
+*Deccan Herald · Editorial*
+
+Hockey India (HI)'s decision to swap blue for saffron on the team jerseys in the upcoming FIH World Cup in Belgium and the Netherlands lacks any real justification beyond saffron being the ruling establishment's political colour.
+
+The federation’s primary argument that blue jerseys blur into the blue synthetic turf, creating visibility issues, doesn't hold up. The blue turf has been standard in field hockey for more than a decade, and Indian players have done well on it, winning bronze medals in the Olympic Games in 2020 and 2024, while wearing blue.
+
+Notably, the decision has not been communicated along with credible evidence for the contrast between kit colours and the playing surface influencing player performance or visibility. The manner in which the colour switch was effected raises valid questions about the political objectives behind the move.
+
+'This is embarrassing': Indian hockey teams' new saffron jersey sparks rowFormer players and administrators have criticised the decision, even as the federation faces charges of aiding a push to saffronise the sport. Viren Rasquinha, former India captain, called the move “embarrassing”, asserting that blue is always linked to the team’s legacy and identity.
+
+The most striking voice of dissent came from within the official fold, with HI president and former India captain Dilip Tirkey saying federation office-bearers were informed about the decision only a few hours before the jerseys were unveiled.
+
+The president seeking an explanation from the HI Director-General on this matter deepens concerns about the institutional processes followed. He reportedly wrote in an official communication that the larger issue was about decision-making – about a change involving one of Indian hockey’s “most recognisable” symbols.
+
+However, HI secretary Bhola Nath Singh has maintained that all officials were informed about this change.
+
+The federation has justified the colour change, citing feedback from the players and coaches. The official clarification has pointed to requests made by the players and coaches in connection with a visual overlap caused by the blue jerseys on the blue turf, necessitating a change in the kit’s colour.
+
+It has also noted the significance of saffron, which represents courage and strength in the national flag. However, these arguments fail to justify altering a long-standing sporting legacy. For decades, the blue jersey has defined Indian hockey.
+
+The team wore blue when they brought home multiple titles – the colour has been integral to a sporting identity, affirmed in expressions such as “Men in Blue”. Any decision to disregard this cherished tradition sets a concerning precedent.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/dont-rebrand-a-sporting-legacy-4099382)
+
+---
+
+### The future of work needs new ground rules
+*Deccan Herald · Opinion*
+
+The student protests that dominated the headlines were triggered by an examination paper leak. But it would be a mistake to view them only as a protest against the mismanagement of examinations. The leak touched a much deeper anxiety.
+
+For millions of young Indians, success in a competitive examination is one of the few remaining routes to a secure and reasonably paid livelihood. When the integrity of that process is compromised, it means another year in an already prolonged wait for employment. The protests were therefore as much about jobs as about examinations.
+
+The gig economy’s labour questionGovernment competitive examinations have become a national waiting room for graduates. Young people in their early twenties spend several years in coaching classes, libraries, and rented rooms, making repeated attempts at examinations where the success rate may be one or two per cent. These are prime years in which they could have acquired work experience, workplace skills, savings, and professional networks.
+
+This waiting is not irrational because entry-level private-sector salaries have hardly moved for a long time. The average monthly earnings of a young male graduate fell from about Rs 21,800 in 2011 to Rs 19,573 in 2023, even before adjusting for inflation.
+
+A government job, by contrast, offers much better pay, continuity, health benefits, social status, and much greater protection against dismissal. Waiting is therefore an individually rational response. But the collective outcome is a considerable waste of human potential.
+
+The Periodic Labour Force Survey reported an overall unemployment rate of 3.1% in 2025 and youth unemployment of 9.9%. But the “usual status” measure can classify a person as employed even if he or she undertook a subsidiary economic activity for only 30 days during the previous year.
+
+Someone helping intermittently on a family farm, doing occasional delivery work or earning a small amount through self-employment may thus be statistically employed without possessing a stable livelihood.
+
+That is why the employment debate must go beyond the binary distinction between employed and unemployed. Underemployment, disguised unemployment, irregular hours, low wages, absence of contracts, and lack of social security are equally important.
+
+Agriculture offers the clearest illustration of human capital underutilisation. Its share in employment, after declining for several decades, rose from 44.1% in 2017-18 to 46.1% in 2023-24.
+
+This reversal reflected pandemic-era migration as well as the inability of manufacturing and services to absorb workers sufficiently. Agriculture produces only about one-sixth of national output but supports more than two-fifths of the workforce.
+
+More revealing is the wage picture. Average daily earnings of male casual workers remained virtually unchanged at Rs 455 in 2025 (Rs 456 in 2024). Female casual earnings rose from Rs 299 to Rs 315. The spread of platform work must be understood in this setting.
+
+A recent promotional offer advertised an hour of domestic help for Rs 29. This was a subsidised price charged to the customer, not the wage paid to the worker.
+
+Platforms perform a useful economic function. They reduce search costs, match customers and workers quickly, create new services, and can bring transparency into deeply informal labour markets.
+
+The policy response should therefore not be to obstruct the gig economy. But describing workers as “partners” cannot by itself settle the question of responsibility when the platform controls access to customers, working hours, ratings, penalties, and eligibility to work.
+
+Precarity is also appearing in occupations once regarded as secure. In information technology, layoffs occur through reduced bench periods, performance improvement plans, skill-based exits, and encouraged resignations.
+
+At the same time, researchers and engineers with scarce artificial-intelligence expertise are receiving exceptional salaries and stock awards. The labour market is becoming more unequal: extraordinary rewards at the frontier, but greater insecurity in routine coding, testing, and back-office work.
+
+This suggests that India must prepare for a future in which there may be plenty of work, but fewer conventional jobs. A job traditionally implied a continuing relationship with one employer, a defined salary, predictable hours, and some measure of social protection.
+
+Work in the future may increasingly be organised through projects, assignments, platforms, and multiple short-term engagements. The gig worker, broadly defined, may no longer be a small or exceptional category. Flexible working arrangements could become the norm for a substantial part of the workforce.
+
+Such flexibility can enable women with care responsibilities, older people, migrants, and skilled professionals to participate on terms better suited to their circumstances. It can also encourage entrepreneurship. But without an appropriate framework, flexibility for the employer can easily become insecurity for the worker.
+
+India, therefore, needs two simultaneous objectives: an environment in which the gig and platform economy can flourish, and a framework that ensures such work is decent. Social-security benefits must become portable across employers and platforms.
+
+Platforms should disclose how remuneration, ratings, work allocation, and deactivation decisions are determined. Workers need accessible grievance mechanisms, timely payment, and protection against arbitrary exclusion. The law must preserve genuine flexibility without allowing the terminology of “partnership” to eliminate every employer obligation.
+
+It is in this context that India’s abstention from the ILO Convention on Decent Work in the Platform Economy does not bode well. The International Labour Organisation’s Convention No. 193 is the world’s first legally binding treaty targeting app-based and digital platform work.
+
+The representatives of both Indian workers and employers reportedly supported the convention, while the government delegate abstained. The government’s choice raises concerns because India’s domestic gig workforce is expanding rapidly, yet there is official reluctance to commit to binding global standards on algorithmic transparency and worker reclassification.
+
+India certainly needs more employment. The policy challenge is to protect workers, not jobs, and to enable technology and flexible working. It is to ensure that a labour market based increasingly on assignments, contracts, and platforms does not leave workers without income security, bargaining power or social protection. Otherwise, the national waiting room may continue to fill.
+
+The writer is a noted economist; Syndicate: The Billion Press
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-future-of-work-needs-new-ground-rules-4099539)
+
+---
+
 ## 4 August 2026
 
 ### ​FIFA foul: On the shelved FIFA Forward Enterprise
