@@ -1,3 +1,334 @@
+## 5 November 2026
+
+### When Justice Ujjal Bhuyan holds court, outside the Supreme Court
+*Amaal Sheikh · legal*
+
+Voting rights or judicial appointments, the apex court judge has been addressing contentious issues, including those under jurisdiction, at legal and academic forums
+
+[Read full article](https://indianexpress.com/article/india/justice-ujjal-bhuyan-supreme-court-speaking-mind-10951655/)
+
+---
+
+### CERT-In flags ‘Crafty Falcon’ AI hacking campaign targeting Indian fintech firms
+*Karan Mahadik · legal*
+
+CERT-In’s response team for the finance sector has detected an escalation of cyber attacks using publicly available AI security tools. Here’s what the latest advisory says.
+
+[Read full article](https://indianexpress.com/article/technology/tech-news-technology/cert-in-crafty-falcon-ai-driven-hacking-campaign-fintech-10951672/)
+
+---
+
+### Keenan-Reuben murder: Convict’s life term reduced, two others walk free
+*Omkar Gokhale · legal*
+
+While the High Court upheld the conviction of key accused, it modified his sentence from life imprisonment to 20 years 'considering his age'
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/keenan-reuben-murder-convict-life-term-two-others-acquitted-10951658/)
+
+---
+
+### Indian-origin astronaut Anil Menon to step out of Space Station: What will he do?
+*India Today Science Desk · general*
+
+Indian-origin Nasa astronaut Anil Menon is set to venture outside the International Space Station (ISS) on Thursday, November 5, for a spacewalk that will complete a major upgrade to the orbiting laboratory's power supply.
+
+Menon will join Canadian astronaut Joshua Kutryk for US Spacewalk 101, a roughly seven-hour operation to install the station's eighth and final roll-out solar array.
+
+The spacewalk is scheduled to begin at 7 pm IST, with Nasa's live coverage starting at 5:30 pm IST.
+
+One of the most crucial parts of the operation will see Menon riding the station's giant robotic arm while carrying the folded solar array to its installation site.
+
+An image of an astronaut hanging outside the ISS during a spacewalk. (Photo: X/@astro\_anil)
+
+### WHAT IS A SPACEWALK AND WHAT WILL MENON DO?
+
+A spacewalk, officially called an extravehicular activity, is when astronauts leave the safety of their spacecraft or space station to carry out repairs, installations or other work in the vacuum of space.
+
+They wear specially designed spacesuits that provide oxygen, maintain pressure and protect them from extreme temperatures.
+
+During Thursday's operation, Menon and Kutryk will install an International Space Station Roll-Out Solar Array (IROSA) on the station's 3B power channel, located on its starboard-side structure.
+
+The folded array will be transported using Canadarm2, the station's robotic arm.
+
+Menon will initially ride the arm while carrying the array before the astronauts work together to attach and deploy it.
+
+An image of Anil Menon working outside the ISS during a previous spacewalk. (Photo: X/@astro\_anil)
+
+### AFTER PREVIOUS SPACEWALKS
+
+The operation follows another spacewalk operation, lasting 7 hours and 11 minutes, by the same duo on October 29, when they installed the seventh roll-out solar array on the station's 2A power channel.
+
+The two spacewalks are part of a power upgrade programme that began in June 2021.
+
+The station's original solar panels have been exposed to the harsh conditions of space for more than two decades and need additional support.
+
+With the eighth array installed, all eight roll-out arrays will be in place. Together, they are expected to increase the station's available power by up to 30%, raising its electricity generation capacity from 160 kilowatts to approximately 215 kilowatts.
+
+> Tune in tomorrow for installment 7 of 8 roll out solar arrays. Last week, we installed this one and saw a greater than 40% increase in power on that channel. Teams across @NASA are spending the day preparing for tomorrow’s spacewalk. https://t.co/0P8wuIOKZQ— Anil Menon (@astro\_anil) November 4, 2026
+
+The number and name US Spacewalk 101 refers to Nasa's sequence of US spacewalks conducted from the International Space Station, not the total number of spacewalks ever performed in space.
+
+The October 29 operation was US Spacewalk 100, while Thursday's will be number 101.
+
+It will also be the 286th spacewalk supporting the station's assembly, maintenance and upgrades, marking another milestone in the laboratory's continuing operations.
+
+\- Ends
+
+---
+
+### Bengaluru's 4-year-old reads 1,676 words in 27 minutes, enters two record books
+*India Today Education Desk · general*
+
+## Four-year-old Atharva Kirti Sagar read 1,676 words from a storybook chapter in under 27 minutes. The Bengaluru child's feat earned recognition from the India and Asia Book of Records.
+
+Four-year-old Atharva Kirti Sagar read 1,676 words from a storybook chapter in under 27 minutes. (Photo: (l) indiabookofrecords, (r) asiabookofrecords))
+
+New Delhi,Nov 5, 2026 12:31 IST
+
+At four, reading a storybook chapter of more than 1,600 words may seem like a task that calls for patience and practice. Atharva Kirti Sagar, a child from Bengaluru, Karnataka, has done just that — reading 1,676 English words in less than 27 minutes.
+
+The achievement has earned him recognition from two record organisations: the India Book of Records and the Asia Book of Records. Both have listed him for reading the maximum number of English words from a storybook by a child.
+
+According to the India Book of Records, Atharva completed the reading on September 7, 2026, when he was four years, 11 months and 10 days old. The Asia Book of Records confirmed the achievement on September 10.
+
+### A CHAPTER, 1,676 WORDS AND ONE READING ATTEMPT
+
+Atharva read the chapter 'A Send-off Party' from The Magic of the Lost Temple, an English storybook written by author Sudha Murty.
+
+He finished the 1,676 words in 26 minutes, 49 seconds and 76 milliseconds. The reading challenge is listed under the category 'Maximum English words read from a story book by a kid' on both organisations' websites.
+
+### TWO RECORD BOOKS, THE SAME READING FEAT
+
+The two recognitions make the achievement notable: Atharva's reading feat appears in both the national and Asia-level record listings. The entries carry the same word count, book, chapter and recorded time, while noting different confirmation dates.
+
+The record recognises the number of words read from one chapter and the time taken to complete that passage in full.
+
+For now, the documented accomplishment is specific and impressive: a four-year-old reading 1,676 words from a single English storybook chapter in under 27 minutes — and having that feat recognised by two record organisations.
+
+\- Ends
+
+---
+
+### '24-Hour Deadline For Cops Starts At Actual Detention': Supreme Court's Big Ruling On Arrest
+*Meemansa Shekhawat · general*
+
+The Supreme Court laid down the law on arrest, detention and Article 22 (2), which grants a fundamental right that protects individuals from unlawful or prolonged police custody.
+
+[Read full article](https://www.news18.com/india/24-hour-deadline-for-cops-starts-at-actual-detention-supreme-courts-big-ruling-on-arrest-10413589.html)
+
+---
+
+### From ₹198 Crore Contract Win to ₹1,776 Crore Order Book: Highway Infrastructure Limited's Expanding Role in India's Construction Sector
+*Prakash Chand · general*
+
+## From ₹198 Crore Contract Win to ₹1,776 Crore Order Book: Highway Infrastructure Limited's Expanding Role in India's Construction Sector
+
+Highway Infrastructure Limited secures a ₹198.31 crore CPWD contract to construct residential and non-residential facilities for the CISF 12th Reserve Battalion in Sehore, Madhya Pradesh.
+
+**Sehore, Madhya Pradesh**: Highway Infrastructure Limited has bagged a noteworthy domestic contract for an amount of ₹198.31 crore (₹198,30,99,984) awarded by the Central Public Works Department (CPWD) for the design and construction of residential and non-residential infrastructure for the setting up of CISF 12th Reserve Battalion at Village Jamunia Talab, District Sehore, Madhya Pradesh in Phase I.
+
+This project will be carried out on EPC Mode-I basis with a fixed period of two years for execution. The scope of work of the project includes the construction of residential and non-residential infrastructure for the setting up of CISF 12th Reserve Battalion.
+
+This is a great milestone for the Highway Infrastructure Limited and forms one of the largest civil construction contracts won by the Company since its inception. With this new contract added to its repertoire, the total orders of the Company as of October 31, 2026, is ₹1,776.19 crore.
+
+**Commenting on the development, Anoop Agarwal, Whole Time Director & Chief Financial Officer, Highway Infrastructure Limited said:**
+
+"The contract marks a positive sign for the Company as we move ahead to grow our footprint in the infrastructure and civil construction segments. The execution of such a large-scale contract with CPWD will further enhance our expertise in the execution of significant infrastructure contracts for the government. The increasing pipeline of orders to the tune of ₹1,776.19 crore signifies the business deals that we have won and the way forward for the Company. We plan to capitalize on this positive trend in the coming days through increased project execution capability and large infrastructure deals."
+
+The project demonstrates the strength of the Company in dealing with massive infrastructure undertakings that encompass planning, designing, and construction. It also offers the chance for the Company to enhance its expertise in handling big government infrastructure projects especially those which involve total EPC-based development.
+
+By securing this important contract, Highway Infrastructure Limited has continued to grow in the number of operations and variety of projects. The Company will continue to focus on utilizing its execution strengths, ensuring quality standards and meeting timelines in its quest for sustained growth.
+
+**About Highway Infrastructure Limited**
+
+Highway Infrastructure Limited is involved in developing infrastructure and conducting other business operations. The Company is constantly striving to increase its number of projects and improve its execution capabilities within the expanding Indian infrastructure sector.
+
+---
+
+### Delhi Building Collapse: 2 dead, several feared trapped in Chawri Bazaar; rescue operation underway
+*Monica Singh · general*
+
+2 dead, 1 injured after 3-storey under-construction building collapses in Old Delhi's Chawri Bazaar Gali Sitara near metro station, several feared trapped. 160-year-old Chandni Chowk Town Hall also collapses.
+
+Two persons died while another was injured after three-storey under-construction building collapsed in Old Delhi's Chawri Bazaar on Thursday morning.
+
+More people were feared trapped under debris, officials reportedly said. Incident was reported at 9.50 am from Gali Sitara, near Chawri Bazaar Metro station, according to PTI news agency.
+
+## **Rescue operation underway in Gali Sitara Near Metro Station**
+
+At least six fire units, including water tenders and rescue vehicles, have been rushed to spot with senior officers supervising rescue operation, officials was quoted as saying.
+
+Incident comes amid Diwali rush in Old Delhi area, where wholesale markets such as Chandni Chowk and Chawri Bazaar see massive footfall of shoppers.
+
+In Chandni Chowk, meanwhile, more than 160-year-old Town Hall — a Grade-I protected heritage building owned by Municipal Corporation of Delhi (MCD), has also collapsed. The collapse has left facade, first floor, roof, walls of main entrance porch and clock mounted above it collapsed.
+
+Historic building is owned by very civic body responsible for protecting and maintaining heritage structures across Delhi.
+
+Complex, which has remained largely unused since MCD shifted its headquarters from this very building in 2011-12, has dilapidated corridors, damaged windows, peeling plaster and blocked passageways.
+
+## **Second Collapse: 160-year-old Chandni Chowk Town Hall collapses**
+
+Last month, four people, including two children, died after five-storey residential building collapsed in Delhi's Seemapuri area. Eight people suffered injuries in incident.
+
+Delhi building collapses have become frequent during monsoon and festive season due to old structures, illegal construction and lack of maintenance.
+
+In Chawri Bazaar, narrow lanes make rescue operations difficult. Fire department teams are using manual removal and small machinery to clear debris.
+
+Officials said identity of deceased is being ascertained. Injured person has been rushed to nearby hospital.
+
+MCD officials have been asked to submit report on both collapses. Locals allege illegal construction was going on in Gali Sitara building without proper safety measures.
+
+Chawri Bazaar is densely populated area with many old buildings over 80-100 years old. Many have been converted into warehouses and shops without structural audit.
+
+Town Hall collapse has raised questions over MCD's heritage conservation. Building was once pride of Delhi but has been left to decay for over decade. Heritage experts had warned earlier that building needed urgent restoration
+
+---
+
+### Air pollution engulfs Delhi ahead of Diwali, AQI in capital reaches near 400, what next?
+*Anshika Pandey · general*
+
+Delhi's AQI hit 377 on Wednesday. It may turn severe during Diwali due to crackers and farm fires. People are facing breathing problems, coughs and burning eyes.
+
+Delhi chokes before Diwali, AQI near 400.
+
+Delhi is choking again. On Wednesday, the air became so dirty that it was hard to breathe properly. The AQI hit 377, putting the air in the "very poor" category. A thick grey haze covered the whole city. And the worst part is, it may get even worse during Diwali.
+
+## **From clean to choking in just 5 days**
+
+Delhi was breathing easy just five days ago. On Friday, the AQI was only 60 after rain and strong winds cleaned the air. However, that pure air was short-lived. It reached 117 on Saturday. It increased to 261 on Sunday. On Monday, it reached 324. It reached 350 on Tuesday. It reached 377 on Wednesday.
+
+## **Some areas are even worse**
+
+Twenty-one of Delhi's 59 air-check locations already fall into the "severe" category with an AQI of more than 400. At 451, IIT-Delhi and Jahangirpuri had the worst air quality. IGNOU, Maidangarhi, at 275, was the cleanest location, but it's still not good. For the average person, this means coughing, keeping windows closed, burning eyes, and reaching for a mask again.
+
+## **Diwali may make it worse**
+
+According to experts, when people burst crackers for Diwali on November 6 and 7, the air quality may become "severe". After that, it might continue to be bad for nearly a week. Concurrently, Delhi's air quality is deteriorating due to an increase in farm fires in Punjab. The government has instructed power plants to use biomass and asked officials to cease burning stubble. However, under a gloomy sky, Delhi residents see it as just another Diwali.
+
+---
+
+### There was no Mangalyaan. But a failed Russian plan put India on road to Mars
+*India Today Science Desk · general*
+
+## Russia's withdrawal from Chandrayaan-2 prompted ISRO to redirect existing orbiter work towards Mars. The pivot enabled Mangalyaan to reach Martian orbit after a rapid 15-month development.
+
+A generative AI image of Mangalyaan mission in Mars's orbit. (Photo: India Today)
+
+New Delhi,Nov 5, 2026 12:10 IST
+
+Thirteen years ago, on November 5, 2013, a rocket carrying India's first spacecraft bound for Mars lifted off from Sriharikota. But the story of Mangalyaan did not begin with a dream of reaching the Red Planet.
+
+In many ways, it took shape after India's plans for its second Moon mission ran into an unexpected roadblock.
+
+Around 2011, the Indian Space Research Organisation (Isro) was preparing Chandrayaan-2 in collaboration with Russia.
+
+India was developing the orbiter, while Russia was responsible for building the lander. But the partnership ran into trouble after Russia had to modify its lander design following problems with another mission. Eventually, Russia withdrew from the collaboration, leaving Isro with an important decision to make.
+
+Isro decided to adapt the existing lunar orbiter design for a Martian journey. (Photo: Isro)
+
+India could develop its own lander and rover, but that would take several more years. Meanwhile, the orbiter hardware was already being developed. Could that work be put to another use?
+
+That question opened an entirely different route for Isro.
+
+The Isro top leadership realised that instead of waiting years to complete a new lunar mission, it could redirect its efforts towards Mars. The opportunity was particularly important because favourable launch windows to Mars come roughly once every 26 months.
+
+With a launch opportunity approaching in late 2013, Isro decided to adapt the existing lunar orbiter design for a Martian journey.
+
+The spacecraft's hardware and software were modified to meet the demands of travelling to and operating around another planet.
+
+The timeline was punishing. After the mission received formal approval in August 2012, engineers had just about 15 months to build, test and prepare the spacecraft for launch.
+
+The challenge was not merely changing its destination. Mars was much farther away, communication delays were significant, and the spacecraft had to perform critical operations largely on its own. Isro also had to make the mission work with its PSLV rocket, using a series of carefully planned engine burns to escape Earth's orbit.
+
+The team worked tirelessly through day and night to meet the target.
+
+On November 5, 2013, PSLV-C25 carried Mangalyaan into space. After a journey of nearly 300 days, the spacecraft successfully entered Martian orbit on September 24, 2014.
+
+The mission was initially a demonstration mission with a lifespan of six months.
+
+But it continued working for approximately seven and a half years. Isro lost communication with the spacecraft in April 2022 after it had exhausted its mission life.
+
+The mission's longevity was helped by careful fuel management and the spacecraft performing its manoeuvres without needing the additional correction fuel originally reserved for contingencies.
+
+What began as a difficult turn in India's lunar exploration plans became a landmark in its space programme.
+
+Mangalyaan was not simply a Moon mission sent somewhere else; it was a new interplanetary mission made possible by existing work, engineering ingenuity and a narrow launch opportunity.
+
+India is now readying Mangalyaan-2 for landing on Mars.
+
+\- Ends
+
+---
+
+### Democrats Sweep US Midterms: How Crude Oil, Gold, Sensex, Rupee And Bitcoin Reacted To Election Outcomes In America
+*Mohammad Haris · business*
+
+Democrats' US midterm sweep sends Brent below $94, Dow up 1,569 points, Sensex soaring 1,400 points as the dollar weakens and gold rallies.
+
+[Read full article](https://www.news18.com/business/markets/democrats-sweep-us-midterms-how-crude-oil-gold-sensex-rupee-and-bitcoin-reacted-to-election-outcomes-in-america-10413556.html)
+
+---
+
+### 2 dead, 6 trapped after 3-storey building collapses in Old Delhi's Chawri Bazaar
+*India Today News Desk · general*
+
+At least 2 people died and 6 people are trapped after a portion of a three-storey under-construction building collapsed in Delhi's Chandni Chowk area on Thursday morning. The incident took place near Chawri Bazaar Metro Station, following which six fire department units were rushed to the spot.
+
+According to the Delhi Fire Services, a call regarding the building collapse was received at around 9:50 am from the Paiwalan area. Two water tenders, one water bowser, one Quick Response Vehicle (QRV) and one Incident Response Team (IRT) were initially dispatched to the location.
+
+At around 10:15 am, Station Officer DK Rai informed the department that a three-storey building under construction had collapsed and that several people might be trapped under the debris. He also sought additional workforce and the presence of a senior officer at the site.
+
+Following the request, the fire department deployed one additional water tender and sent Assistant Divisional Officer (ADO) Rajesh Shukla to assist with the rescue operation, taking the total number of deployed units to six.
+
+The operation is being supervised by ADO Rajesh Shukla, Station Officer (STO) Bhupender Sharma and Station Officer DK Rai.
+
+Rescue efforts are underway to locate and reach those who may still be trapped beneath the rubble.
+
+Rescue ops are underway. (Credits: ANI)
+
+NDRF teams are deployed for rescue ops. (Credits: ANI)
+
+An eyewitness, Mohd Nayeem, said the collapse occurred around 9 am or 9:30 am when residents were asleep.
+
+"We heard a loud crashing sound and rushed outside, initially fearing that our own house was collapsing. We then realised that the neighbouring building, which was under construction, had caved in. Three or four lintels had already been cast, and they collapsed together. An injured labourer told us that around three or four workers were present at the site. We also saw a body being pulled out of the debris. The building had been under construction for the past three to four months," he said.
+
+> #WATCH | Delhi: An eye-witness Mohd Nayeem says, "This happened around 9:00 or 9:30. We were asleep when we heard a crashing sound. We all got up and rushed outside. We thought our own house was collapsing. When we checked, we realized it was the house being built next door. Three or four lintels had already been cast, and they all collapsed at once. One of the injured laborers said there were about three or four people there. We saw a body being taken out. This building was under construction for the last 3-4 months..."— ANI (@ANI) November 5, 2026
+
+### SAURABH BHARADWAJ TARGETS REKHA GUPTA GOVERNMENT
+
+Meanwhile, Aam Aadmi Party (AAP) leader Saurabh Bharadwaj criticised the Rekha Gupta-led Delhi government following the incident and questioned the effectiveness of building safety audits conducted by the authorities.
+
+In a post on X, Bharadwaj said another three-storey building had collapsed in the Chawri Bazaar-Chandni Chowk area, with several people feared trapped under the debris.
+
+(Credits: X/Saurabh Bhardwaj)
+
+He questioned why building collapses continued despite repeated safety audits by the Delhi government and the Municipal Corporation of Delhi (MCD).
+
+"Another 3-storey building collapses at Chawri Bazaar/Chandni Chowk. Many feared trapped under debris. Rekha Gupta’s government and MCD conducted multiple safety audits of all buildings in Delhi, yet buildings keep collapsing. Why?" he wrote.
+
+Bharadwaj also accused various civic and government departments of corruption, claiming that enforcement action against buildings was selective and influenced by bribery.
+
+He claimed that several departments, including the Delhi Police, MCD, Fire Department and the Revenue Department, were involved in collecting bribes from building owners. He further claimed that buildings whose owners refused to pay bribes were sealed by the MCD.
+
+The AAP leader also questioned the selective sealing of commercial establishments, citing the closure of two gyms in Greater Kailash 2 while other gyms and commercial buildings in the same South Delhi zone continued to operate.
+
+### BUILDING SAFETY UNDER SCRUTINY
+
+The collapse has once again raised questions about the safety of under-construction and ageing buildings in congested parts of Delhi. The Chandni Chowk area, with its densely packed buildings and narrow lanes, presents additional challenges for emergency response teams.
+
+The circumstances leading to Thursday's collapse and the condition of the building are yet to be established. Further details about the victims and the number of people trapped are awaited as rescue operations continue.
+
+The incident comes less than two months after a five-storey building housing a paying guest (PG) accommodation collapsed in Delhi's Satya Niketan on September 6, killing seven people and injuring six others.
+
+The building collapse had triggered questions over construction and renovation safety, with investigators examining whether repair work had weakened the structure.
+
+Following the tragedy, the Delhi government announced plans for mandatory periodic structural audits and safety certificates for buildings used as hostels, schools and nursing homes.
+
+\- Ends
+
+
+---
+
 ## 4 November 2026
 
 ### Trump Concedes Defeat In Midterms, Warns Of Veto Power As Democrats Sweep Key Polls
