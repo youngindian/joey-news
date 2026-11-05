@@ -1,5 +1,168 @@
 # Editorials archive — 2026-08
 
+## 6 August 2026
+
+### Highs and lows: On GST metrics
+*The Hindu · Editorial*
+
+That GST grossed ₹2.11 lakh crore in July, expanding by 15.4% year-on-year, the second best growth in FY27, could indicate that the Indian economy is resilient. But it conceals the uneven internal and external trajectories, and disparities within India. The 26.9% growth in import IGST vis-à-vis a 4.5% rise in domestic revenues ferrets out the criticality in the trade-led tax buoyancy. IGST’s faster pickup started during the post-pandemic recovery, reflective of global commodity inflation, higher imports of capital goods and the rupee’s depreciation. A 10%-12% depreciation of the Indian denomination over the past year had its reflection on the rupee cost of crude oil, electronics, machinery and chemicals — they collectively constitute as much as 50% of total imports — contributing to a higher import bill. Although gold imports added to higher IGST collections, supply fell to a six-year low, due to lower bullion imports, which fell 22%. High WPI inflation, notably at the manufacturing level, at 7.18% this June against 1.52% a year-ago period, explains the traction of domestic revenues in an ad valorem tax system amid five-year low manufacturing growth as seen from the HSBC Manufacturing PMI. The services witnessed slowest growth in 53 months with real estate and business services recording the strongest rise in charges, but the sector’s GST buoyancy is concentrated geographically.
+
+The fiscal reality is that only 16 States/UTs have reported post-settlement GST growth exceeding the national average and a little over a dozen States saw higher than average growth in GST, showing an increasingly chequered path as manufacturing and organised services are concentrated in a few jurisdictions; others, especially those with a larger unorganised sector, struggle to generate tax buoyancy, becoming dependent on central transfers and Finance Commission devolution. GST 3.0 should ensure that the benefits of economic expansion are geographically broad-based and fiscally inclusive. The faster domestic refunds, in comparison to IGST refunds, imply that formal businesses are expanding their GST compliance and also carrying larger credit balances as the government improved the GST ecosystem, even as faultlines such as input tax credit disputes and litigation are yet to be resolved. The July numbers warrant a closer reading as a healthy GST trajectory should reflect domestic production, growing incomes and broad-based consumption rather than exchange-rate-induced gains in import taxation and piggyback riding on local inflation. Otherwise ‘Make in India’ remains a tall claim as imported inputs do much of the heavy lifting in the GST metrics.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/highs-and-lows-on-gst-metrics/article71309455.ece)
+
+---
+
+### Quantum shift: On private industry and national research spending
+*The Hindu · Editorial*
+
+The Department of Science and Technology’s latest figures on India’s research profile record a milestone. In 2023-24, private industry accounted for 51.8% of national research spending — a first in India’s history — overtaking all tiers of government combined for the first time. Moreover, industry now employs more core researchers than government institutions. Transport firms are the largest corporate investors, followed by pharmaceuticals, biotechnology and information technology (IT). The break from the past is sharp. Through the 2010s, private industry contributed a little over a third of national R&D, and the ratio moved slowly. Then, between 2020-21 and 2021-22, private spending nearly doubled — from ₹46,388 crore to ₹82,975 crore — and total R&D jumped from ₹1.27 lakh crore to ₹1.95 lakh crore in a single year. R&D spends in the transport sector, which barely registered before 2020, has roughly tripled and leads the triumvirate that includes biotechnology and IT that are counted among India’s most research-intensive industries.
+
+Officials attribute this to a post-pandemic realisation that research is essential to competitiveness, and that may be part of the story. The purported investments for ‘23-’25 also look healthy, but a change concentrated in one year looks less like a shift in corporate behaviour and more like a change in what is counted. Mandatory sustainability disclosures for large listed firms, and tighter RBI norms on reporting research, took effect at the same moment. Spending that was always occurring — in the foreign subsidiaries of Indian companies, and in the captive centres of multinationals — is only now being fully captured. Some of the surge, in other words, reflects better measurement rather than more money. Genuinely new capital is flowing too — into artificial intelligence, chip design and semiconductor fabs — though much of that is still infrastructure building and may not yet belong in the R&D column. India’s R&D stands at 0.84% of GDP, against 2.58% for China, 3.45% for the U.S. and 4.94% for South Korea; it fields 354 researchers per million people where South Korea and Israel field several thousand. The private sector’s own priorities are a further reason for caution: more was spent on advertising than on research in 2023-24. The shift will prove worthwhile if it deepens India’s pool of specialised workers and its capacity for sophisticated manufacturing, carrying the economy beyond its long reliance on supplying low-cost services. That depends less on how spending is recorded than on how many researchers the country can train. The Anusandhan National Research Foundation, with a ₹50,000-crore corpus largely to be raised from private sources, was created for precisely this purpose. Its promise now rests on delivery.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/quantum-shift-on-private-industry-and-national-research-spending/article71309476.ece)
+
+---
+
+### A loss and margins for reflection
+*Deccan Herald · Editorial*
+
+The Bharatiya Janata Party (BJP)’s loss in the Bankipur by-election may be its most significant electoral reverse since the 2024 Lok Sabha polls. Prashant Kishor, leader of the fledgling Jan Suraaj Party (JSP), which was routed in Bihar’s Assembly elections last year, stormed the BJP bastion with a decisive victory margin of 19,324 votes. In Madhya Pradesh, another BJP-governed state, the Congress retained the Datia seat. The BJP’s sole consolation came from Gujarat, where it retained Manjalpur, but at a significantly lower margin than in the 2022 Assembly election. By-elections do not indicate the larger popular mood. Their results are not often seen to reflect even the state’s political order. When there are too few of them and when they are held across states, drawing a message of national relevance can become unwieldy. However, the results from Monday have significance that goes beyond the three constituencies.
+
+Bankipur has been a BJP stronghold since 1995. The constituency, represented by Nitin Nabin since 2010, went to the polls following Nabin’s resignation after being elected to the Rajya Sabha. That the party lost an urban constituency composed of upper-caste and middle-class voters — its core electorate — to a political rookie is particularly significant, given that it is in power in both the Centre and the state. By replacing Nitish Kumar with Samrat Choudhary as the Chief Minister, the BJP had asserted its dominance in Bihar. The Bankipur outcome undermines that narrative of authority and may be interpreted as reflecting anti-incumbency.
+
+From Bankipur to Datia: What the bypoll verdict tells BJP and OppositionKishor’s margin of victory is emphatic, considering that he was in the fray less than a year after what was dubbed a failed political experiment, and that Nabin won the seat in 2025 by over 51,000 votes. While the JSP leader clearly drew votes from both the BJP and the Rashtriya Janata Dal (RJD), the ruling party’s loss carries the louder political message. It remains to be seen if this experiment holds political appeal across diverse social groups. The possible impact of the Gen Z protests demanding examination reform will also be a point of concern for the BJP as it takes stock of this defeat. In Manjalpur, where the voting dropped significantly to 37.5 per cent, the BJP won but with a markedly thinner margin — from over a lakh in 2022 to about 30,000. Congress’s victory in the BJP-dominated Madhya Pradesh provides momentum after recent setbacks. The takeaways from the results are largely symbolic, but they assume greater relevance ahead of key state elections, including in Uttar Pradesh.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-loss-and-margins-for-reflection-4100742)
+
+---
+
+### Parking crisis demands lasting reform
+*Deccan Herald · Editorial*
+
+Bengaluru Development Minister Krishna Byre Gowda’s decision to crack down on haphazard parking is a welcome step. Parallel parking, vehicles parked on both sides of narrow roads, and blatant disregard for No-Parking zones have long contributed to the city’s chronic traffic congestion. While enforcing existing rules is necessary, it is only a start in addressing a far deeper problem that demands structural reforms. With Bengaluru’s population estimated at 1.5 crore and almost a one-to-one vehicle-to-population ratio, there is no magical solution to the city’s congestion. This is precisely why piecemeal measures cannot substitute for long-term planning. The government must recognise its own role in creating this crisis. Illegal parking is not confined to the city’s commercial districts; residential neighbourhoods have become equally clogged, with vehicles lining both sides of streets. Many houses are constructed without adequate parking, while families increasingly own multiple vehicles. Instead of enforcing building norms, the government has diluted them. Its recent decision to exempt houses built on sites up to 2,400 sq ft from obtaining occupation certificates weakens scrutiny of whether sanctioned plans and parking requirements have been followed. Violations become easier, while amnesty schemes create the expectation that illegal constructions will eventually be regularised.
+
+Traffic management cannot succeed unless the city makes public transport an attractive alternative. Metro expansion has been painfully slow; the Kempegowda International Airport, inaugurated in 2008, still lacks Metro connectivity. BMTC continues to face a shortage of buses, while poor first- and last-mile connectivity forces many commuters to depend on private vehicles even when Metro services are available. Equally important is restoring order to parking management itself. The pay-and-park system on major roads has fallen into disarray following the expiry of contracts. Clear road markings and unambiguous signboards distinguishing parking from non-parking areas are essential. Strict enforcement is necessary, but periodic 50 per cent discounts on traffic fines dilute deterrence and send contradictory signals.
+
+GBA Parking Rules 2026 | A new toolkit for public parking pain in BengaluruThe city requires institutions that enforce rules consistently regardless of who holds office. The recent drive to clear footpaths illustrates the point. Had the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014, been implemented by demarcating vending and non-vending zones, many encroachments would never have occurred. Today, vendors have returned to several cleared locations. Unless mobility reforms are embedded in law, planning, and administration, the illegally parked vehicles will return just as predictably. Only reforms rooted in a comprehensive mobility plan – not episodic campaigns – can keep Bengaluru moving.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/parking-crisis-demands-lasting-reform-4100741)
+
+---
+
+### Floods wash away BJP’s poll promise in Assam
+*Deccan Herald · Opinion*
+
+Guwahati: “Vote for BJP for another five years ahead; we will make Assam flood-free!” Videos showing Union Home Minister Amit Shah’s promise during campaigning for Assembly elections in Assam in 2021 and again in April 2026 are going viral on social media amid the floods that have wreaked havoc in parts of the state since July 19-20.
+
+As individuals, NGOs and government agencies continue relief efforts in the worst-hit Sivasagar, Charaideo and Jorhat districts in eastern Assam, the ruling BJP and its leaders are being reminded about their promises of solving Assam’s perennial flood problem. Flooding in Assam kills at least 80 people annually and destroys crops and properties. Chief Minister Himanta Biswa Sarma and his Cabinet colleagues have been caught on camera struggling to reply to questions over the pre-poll promise.
+
+Banking on the state’s vexed foreigners issue, the BJP and its regional allies had formed their first government in Assam in 2016. In the next elections in 2021, the BJP was vocal over floods — another major issue that dominates every poll campaign, with Shah repeatedly promising to divert the flood water by digging large ponds across the state. “Space technology will be used to map the flood-prone areas and the lakes where the flood water will be stored will also be used for fishery and tourism,” Shah had announced in western Assam’s Nalbari and Silchar in South Assam.
+
+Human-made disaster: Opposition demands judicial probe into Assam flood reasonsNalbari and Silchar have witnessed severe floods almost every year. But Sivasagar, Charaideo and Jorhat in eastern Assam have not seen such severe floods in several decades. “People there never expected such a severe flood. They were not prepared, and so the deaths and devastation are more,” Chief Minister Sarma told reporters while calling the current wave of flood “unprecedented.”
+
+Heavy rains for days in neighbouring Nagaland and in eastern Assam led to a surge in water in three rivers, Dikhow, Disang and Janji, inundating houses in hours on July 19 and 20. At least 80 people died in 72-hours (bodies recovered later) in Sivasagar, Charaideo and Jorhat while mud flowing down the hills of Nagaland clogged houses, markets and roads. The flood victims are still struggling to get back to normal life even after two weeks.
+
+Sarma blamed the excessive rains (more than 400% of normal Monsoon rains) and the silt from Nagaland for the sudden devastation. But questions over the lack of an adequate flood response mechanism in the three districts despite the entire state being flood-prone, have remained unanswered. A government official, however, said work was underway to dig big ponds at several flood-prone areas as per the action plan and BJP’s promise to solve the flood problem.
+
+Environmental experts, as well as Opposition parties including the Congress, blamed unabated coal and sand mining on the hills of Nagaland and eastern Assam more than the heavy rains. Congress slammed the BJP-led government, saying that their repeated demand to check mining remained ignored by the BJP which is a dominant ally in the Nagaland government. “Let there be a judicial inquiry by a retired judge of the Supreme Court to unearth who is involved in the illegal mining that has killed more than 80 people and caused massive devastation in Sivasagar, Charaideo and Jorhat. Will the BJP government take the blame?” Congress leader Nilamani Sen Deka said recently. Many alleged the involvement of leaders of the BJP and its allies in illegal mining activities.
+
+Experts also questioned why rainfall data was not shared despite India having very sophisticated satellite technology. “Both Assam and Nagaland are flood-prone and witness floods and landslides almost every Monsoon. But it is unfortunate to see the two neighbouring states still lacking a joint mechanism to share weather-related data to reduce impact.”
+
+At least three geological science experts DH spoke to stressed that making Assam flood-free as promised by the BJP is an impossible task given the geography and geology of the region. “Instead, the Centre should bring in a mechanism where all states in the Northeast can share weather-related data instantly for quick response. The impact of climate change is real, and the Northeast is already bearing the brunt in the form of excessive rainfall in a short span of time, leading to quick flooding in the low-lying areas in Assam. We must get ready quickly to reduce the impact,” one expert said. “We must also empower the communities to adopt a flood- and climate-resilient lifestyle.”
+
+The devastating flood has reignited the demand for declaring Assam’s annual flood a national calamity to bring in more funds and expertise rather than setting an impossible task of ending floods. Sivasagar MLA and president of Raijor Dal, a regional ally of Congress, said that if the Narendra Modi government is committed towards solving Assam’s perennial flood, it should declare it a national calamity and launch an action plan to reduce the impact of flood. “The flood in Sivasagar, Charaideo and Jorhat proved Amit Shah and BJP’s promise a hollow one,” Gogoi said.
+
+Opposition parties in Assam also questioned why Prime Minister Narendra Modi and Home Minister Amit Shah did not visit the flood-ravaged state even as they travelled multiple times before elections to seek votes and power.
+
+[Read full article](https://www.deccanherald.com/opinion/floods-wash-away-bjps-poll-promise-in-assam-4100779)
+
+---
+
+### Israel strikes undermine Trump’s Gaza peace plan
+*Deccan Herald · Opinion*
+
+By Isabel Kershner and Adama Rasgon for The New York Times
+
+Soon after President Donald Trump announced a new plan last week to deliver peace and security in the Gaza Strip, the Palestinian enclave instead experienced a spike in deadly Israeli bombings, which threatened to undermine hopes for long-awaited progress.
+
+On Sunday, Israeli strikes killed 18 people, according to the health ministry in Gaza, making it one of the deadliest days there since a troubled ceasefire came into force in October. Gaza Health Ministry data from the conflict does not distinguish between civilians and combatants.
+
+Israeli strikes a day earlier killed at least two people and damaged warehouses for medical supplies, Palestinian officials said. And on Monday, the Israeli military struck a car on a beachside road, killing two, according to officials in Gaza. No new Israeli strikes have been reported in Gaza since Monday evening.
+
+Trump is hailing it as a ‘breakthrough’, but will Hamas actually disarm in Gaza? With many of the plan’s details still unclear, including a timetable for the Hamas disarmament at its heart, the 15-point plan released by Trump’s Board of Peace — which also calls for an Israeli withdrawal and a new administration in Gaza — risks being undone before the specifics are worked out.
+
+On Monday, a spokesperson for the Israeli prime minister’s office, Doron Spielman, pushed back against the terms of the agreement, which Israel had not signed. “The version that has been made public does not reflect Israel’s positions,” he said in a statement. He added, “Israel has conveyed its comments and concerns on the proposed framework to our American counterparts.” He said the concerns centred on Hamas disarmament.
+
+Nickolay E. Mladenov, a veteran Bulgarian diplomat who is the Board of Peace’s high representative for Gaza, levelled rare criticism at Israel over its attacks.
+
+“Two days of strikes across Gaza have killed civilians and destroyed medical supplies that people depend on,” he said in a statement posted on social media Sunday. He said that the attacks came after “intense efforts” by the mediators to reach a deal and that he and his team were “working around the clock with the parties, mediators and regional partners to de-escalate.”
+
+In a joint statement Monday, three countries that have served as mediators — Qatar, Egypt and Turkey — condemned what they described as “the ongoing Israeli violations” in Gaza.
+
+Hamas said in a statement that “entire families” were wiped out Sunday, and it accused Israel of “a deliberate escalation” aimed at blocking the plan.
+
+The Israeli military has said that its strikes in recent days have targeted Hamas fighters and weapons infrastructure. It also said it had taken steps to mitigate harm to civilians.
+
+Since the October ceasefire, Israel has steadily stepped up attacks across the Gaza Strip. In July, the military carried out almost daily strikes and named at least 50 militants it said it had eliminated, including what it said were Hamas members who had participated in the Oct. 7, 2023, assault on Israel that killed about 1,200 people. That attack ignited the war in Gaza, which has left more than 70,000 dead, according to officials, and much of the enclave in ruins.
+
+On Tuesday, a mass funeral was held in Gaza City for 112 people whose bodies had been pulled from the rubble in recent weeks, according to Mahmoud Bassal, a spokesperson for the civil defence, which operates under the Hamas-run interior ministry.
+
+Michael Milshtein, an Israeli analyst and a former Israeli military intelligence officer specialising in Palestinian affairs, said it was “no coincidence” that Israel had recently increased its pace of attacks.
+
+Israel was either showing it did not care about the agreement, he said, “or there was a fear that the point may come where the United States tells Israel to stop” and the military was striking while it still could.
+
+On Sunday night, Mohammed Dahlan, an influential Palestinian exile and a confidant of the president of the United Arab Emirates, wrote on social media that Jared Kushner, a son-in-law and an aide to Trump, had provided assurances that he reached an agreement with Israel that it would cease its strikes. But shortly thereafter, he edited the post, deleting the reference to an agreement, and said Kushner had conveyed he was “working with the Israeli side to stop the attacks on Gaza.”
+
+Negotiators on the Board of Peace described the new agreement with Hamas, announced by Trump last week, as a “road map” intended to cement the fragile ceasefire, disarm Hamas, secure a complete Israeli withdrawal from Gaza and enable a return to normalcy for the population and the start of reconstruction.
+
+But key questions immediately arose over whether Hamas and Israel would carry out the agreement. According to the text, the parties were given two weeks to determine a schedule, which an international verification committee could extend.
+
+Stark differences have already emerged over sequencing, among other issues. The agreement with Hamas stipulates that Israel must initially fulfil its obligations under the October ceasefire deal, which called for an immediate suspension of Israeli attacks.
+
+Israeli Prime Minister Benjamin Netanyahu had pledged total victory over Hamas, along with its dismantlement. He said on social media Tuesday that Israel would not pull back from its current positions in Gaza before Hamas had completely disarmed.
+
+Hamas, for its part, has long touted armed struggle against Israel as the core of its ideology. The group’s weapons have helped it keep power in Gaza, though Hamas has said it is willing to hand over the administration of the territory to a committee of Palestinian technocrats working under the Board of Peace’s supervision.
+
+Palestinian analysts said Israel’s continued airstrikes in Gaza strengthened Hamas officials’ argument that Israel will press its military campaign even if the group agrees to disarm.
+
+“They’re saying: ‘Look, I told you so,’” said Akram Atallah, a Palestinian columnist originally from Gaza and living in London. “They feel like Israel is proving them right.”
+
+Hamas now says it agreed to relinquish its “heavy weapons,” in part on condition that Israel commits to halting attacks and withdrawing. The group has found itself with few regional allies, and most of its senior leaders in Gaza have been killed.
+
+In an Instagram post Tuesday, Netanyahu said, “We’re not withdrawing from our current lines until Hamas is totally disarmed.”
+
+Spielman said that over the past eight months, according to Israeli intelligence, “Hamas has used the ceasefire to rearm, recruit thousands of additional terrorists, rebuild its military infrastructure and prepare for further Oct. 7-style massacres.”
+
+The 15-point plan has left elements of disarmament vague. It calls for a “gradual, sequential and time-bound manner” for decommissioning and storing heavy weapons, with the timetable yet to be determined.
+
+The agreement, however, adds that, at the “end of the process,” only the National Committee for the Administration of Gaza, the group of Palestinian technocrats hoping to take over governing under the Board of Peace’s administration, will “hold, control or store weapons in Gaza.” No weapons will be handed to Israel or non-Palestinian parties.
+
+The Board of Peace has tried to downplay the differences. After Mladenov and other board members met Monday with Netanyahu, the board said in a post on social media that it and Israel “share a common understanding of the ultimate objectives.”
+
+[Read full article](https://www.deccanherald.com/opinion/israel-strikes-undermine-trumps-gaza-peace-plan-4100953)
+
+---
+
+### Rediscovering our shared identity
+*Deccan Herald · Opinion*
+
+As per World Population Review (WPR), there are around 195 countries in the world inhabited by people who follow about 4,200 religions and speak more than 7,100 languages. This number, going by Ethnologue's latest count, keeps shifting as smaller native tongues fade out even faster than new dialects are documented. Differences of nationality, race, language, and religion have given rise to numerous conflicts over centuries.
+
+In all such strife, those involved identify themselves with their label of nationality, religion, race or sect, all the while forgetting who they really are. As per spiritual principles, it is the spirit or soul that animates a human being. This being is in the form of an infinitesimally small point of light, and it carries within it a record of everything it does — thoughts, feelings, words, actions, etc. The souls take birth in different places, communities and circumstances. According to these factors, the souls acquire labels of nationality, race, religion, sect, class, community and gender.
+
+But, since most of us are ignorant or forgetful of being souls, we take these labels to be our true identity. Thus, if we define our identity by our nationality, we tend to see those with a different nationality as 'others'. The same happens when we identify ourselves with our religion, race or any of the other labels acquired according to our physical circumstances.
+
+The wisdom of getting along with othersAnd when we dwell too much on the differences between us and others, it leads to feelings of being superior or inferior, creates likes and dislikes, and even leads to animosity and hatred for those different from us. Such negative feelings fuel religious, racial, international and class conflicts. We forget that we are all souls originated from the same source.
+
+Hence, to be happy and peaceful, we must be rooted in soul-consciousness and be aware that all human souls are our brothers, and we are all one family, being the children of ONE. If all humans come to recognise their true, spiritual identity and their mutual brotherhood, all boundaries of nations, religions, classes, etc. would become meaningless, and humanity would be able to live in peace and harmony as one family.
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/rediscovering-our-shared-identity-4100745)
+
+---
+
 ## 5 August 2026
 
 ### Straws in the wind: On the Bankipur, Datia and Manjalpur by-elections

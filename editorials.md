@@ -1,8 +1,152 @@
 # Editorials
 
-_Last updated: 2026-11-04 07:53 UTC_
+_Last updated: 2026-11-05 08:19 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 5 November 2026
+
+### Damning report: On Justice Muralidhar’s report on Israeli atrocities
+*The Hindu · Editorial*
+
+Briefing the United Nations General Assembly (UNGA) last week on the International Commission of Inquiry’s latest report on the situation in Israel and the Palestinian territories, its chairperson, retired Indian judge Justice Srinivasan Muralidhar, did not couch his words in ambiguity. He said that the unequivocal conclusion was that Israeli security forces continued to commit “war crimes, crimes against humanity, and the crime of genocide” a year after the October 2025 ceasefire agreement brokered by the U.S. The Commission’s third such submission since October 7, 2023, the report focuses on the “killings and bodily and mental harm by state actors”, predominantly Israeli security forces. It draws on medical records, satellite imagery, forensic analysis, witness testimony and videos posted by Israeli soldiers. Despite Israeli denials, the report finds that soldiers targeted Palestinian civilians, including infants, by using Artificial Intelligence (AI) to identify and execute their targets with impunity; the report quotes top Israel officials claiming the killings. Justice Muralidhar said that more than 75,000 Palestinians including 21,500 children and 11,000 women have been killed across Palestinian territories since 2023, and yet “little or no action” is being taken by member-states, including Israel itself. The report calls on UN members to “employ all means” to prevent the genocide, investigate and prosecute suspects for it, and establish clear rules for AI use in conflicts. The Committee had previously called on UN members to halt military transfers to Israel, and pass sanctions against those linked to child abuses, as well as to cooperate with the International Criminal Court to enforce arrest warrants against Israeli officials and soldiers.
+
+The committee’s findings have shocked many around the world but have not thus far effected much action. The UNGA lacks the power to implement any resolution aimed at preventing Israel’s actions, and the UN Security Council lacks the consensus to do so, given the U.S.’s support of Israel. So, it should come as no surprise that Justice Muralidhar could not even present the report to the UNGA in person, as the U.S. withheld grant of a visa. New Delhi, while upholding Palestinian rights and providing humanitarian aid, has avoided any recommendation that could harm relations with Israel. India has abstained from UN resolutions calling for a ceasefire or action against Israel, while continuing to supply it with arms, ammunition, ordnance and drone parts. The Ministry of External Affairs has neither directly criticised Israel’s actions nor commented on the disturbing findings of reports by the UN commission chaired by Justice Muralidhar and his predecessor, 2026 Nobel Peace Prize laureate Navanethem Pillay. The government’s silence is in conflict with its stated principles and could place it on the wrong side of history.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/damning-report-on-justice-muralidhars-report-on-israeli-atrocities/article71665929.ece)
+
+---
+
+### Helping hand: On Cyclones Arnab and Murasu
+*The Hindu · Editorial*
+
+Long-term preparedness and a swift response by authorities minimised casualties when the back-to-back cyclones Arnab and Murasu hit two places of the Andhra Pradesh coast. In Andhra Pradesh, damage from Cyclone Arnab, which made landfall on October 28 was estimated at roughly ₹4,526 crore. Initial estimates of the damage by Cyclone Murasu, which crossed the coast on November 3, indicate that about 52,500 hectares of standing crops were affected. The State reported 12 deaths from the two cyclones. The first cyclone damaged nearly 90,000 hectares of standing crops in southern parts of Odisha. After preliminary on-the-spot assessment of flood-hit areas, the Union government is expected to soon release the first instalment of funds to the affected States. Personnel from Karnataka, Telangana and Tamil Nadu have also gone to the rescue of Andhra Pradesh.
+
+The deployment of the Real Time Governance Society (RTGS) and other technologies has significantly reduced human casualties and property damage. During Cyclone Hudhud in October 2014, Andhra Pradesh reported 63 deaths and damage estimated at nearly ₹22,000 crore. As natural disasters become more frequent in India, greater collaboration is needed between higher learning institutions, especially in science and technology, and central and State government agencies. Authorities must develop an effective compensation framework for saving crops/crop losses. The Pradhan Mantri Fasal Bima Yojana, a crop insurance scheme that was launched by the Union government a decade ago, has not provided farmers with comprehensive safety cover, as they suffer due to the vagaries of nature. The Union government should improve the scheme so that all farmers are encouraged to bring their crops under the scheme, while State governments should raise awareness about the insurance scheme and support agriculturists by topping up benefits that are under the insurance cover. The Centre should also focus on financial assistance for permanent restoration projects. The initial stand of the Union government was that the National and State Disaster Response Funds were meant for response and relief, not recovery and reconstruction, but following the 15th Finance Commission’s nudge, it added recovery and reconstruction as a component of the two funds two years ago. However, when public infrastructure suffers extensive damage, the Centre should provide additional assistance to ease the burden on affected States. Prime Minister Narendra Modi and his team at the Centre must act in the spirit of “cooperative federalism”.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece)
+
+---
+
+### Anaemia burden — iron alone is no solution
+*The Hindu · Opinion*
+
+India’s anaemia burden is not in doubt. The fifth National Family Health Survey (NFHS-5) found that more than half of women and about two-thirds of young children are anaemic. In this context, double-fortified salt (DFS) — fortified with iodine and iron — is often proposed as a potentially transformative solution. However, the case for DFS rests on convenience: everyone consumes salt, so why not add iron to it? But convenience is not efficacy, and a policy that asks the country to continue consuming salt to deliver iron deserves closer scrutiny.
+
+Iron fortification of salt is a vehicle that cuts against public health. Indians consume, by most estimates, roughly twice the five grams of salt a day recommended by the World Health Organization (WHO). About one in three adults has hypertension, and India’s own non-communicable disease (NCD) action plan commits to a 30% relative reduction in salt intake.
+
+[Read full article](https://www.thehindu.com/opinion/lead/anaemia-burden-iron-alone-is-no-solution/article71666828.ece)
+
+---
+
+### A mandate for banking diligence
+*Deccan Herald · Editorial*
+
+The Supreme Court’s ruling that financial institutions should compensate customers who lose money through digital fraud is a call to sharpen institutional diligence. Very often, banks look at such frauds within the narrow context of criminals and victims, distancing themselves from accountability. This approach is untenable, given that many such frauds occur on official platforms where the banks are committed to protecting the deposited funds. Digital arrest scams have repeatedly exposed serious gaps and weaknesses in the cybersecurity systems deployed by the banks. Even amid intensified efforts to curb cybercrime in the country, digital fraud cases involving hundreds of crores of rupees are being reported. The victims are from across the sections of society. Senior citizens are frequently targeted by scamsters; even bankers and police personnel are not safe anymore.
+
+By directing the Reserve Bank of India (RBI) to mandate banks to indemnify losses from digital arrests and other frauds in cases involving institutional negligence, the apex court has pushed for much-needed reform. It would also examine the proposed RBI (Know Your Customer) Amendment Directions, 2026, which have been envisioned to curb cyber fraud. The Court wants systems to be in place within financial institutions to temporarily suspend activity that uncharacteristically deviates from an account’s transaction history. Automated alerts on such suspicious transactions must be relayed to police authorities, followed by physical verifications and ascertainment of their genuineness. This should be possible because banks possess the tools to track the transaction histories of their customers. Applications that run on Artificial Intelligence (AI), which many banks are using now, can supplement these measures. The laws may need to be strengthened, too. The Court did well to emphasise that preventing fraud needed to be prioritised over investigation and efforts to recover lost money.
+
+The central bank’s amendment directions will be notified by November 30 and operationalised by December 31. They should define the banks’ responsibilities and prescribe penalties. Responding to the Court’s observation on many frauds being committed by misusing the messaging platform WhatsApp, the RBI said the intermediaries’ responsibilities would also be a part of the package of measures. WhatsApp has informed the Court about software being developed to identify accounts impersonating law enforcement officials and government agencies. The efforts should culminate in a system where the banks, the messaging platforms, the police, and other agencies collectively prevent digital frauds and, if they occur, ensure effective follow-through, including fair compensation for the victims.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-mandate-for-banking-diligence-4207921)
+
+---
+
+### The cost of politics by sting
+*Deccan Herald · Editorial*
+
+The controversy over an alleged sting operation targeting former chief minister Siddaramaiah has grown beyond political mudslinging. It has exposed murky methods increasingly used to settle political scores, raised questions about the police investigation, and dented Karnataka’s reputation. The dispute centres on a video containing allegations of sexual misconduct. Siddaramaiah has denied the allegations and approached the police, describing the video as fabricated. The Central Crime Branch has said the evidence collected so far does not substantiate the incident and that the allegations appear concocted.
+
+What might have remained a criminal investigation has spiralled into a political slugfest. The controversy has drawn in a television channel, political leaders, and competing conspiracy theories, deepening the damage to Karnataka’s public life. Union Minister H D Kumaraswamy has accused Chief Minister D K Shivakumar of orchestrating the operation to pressure Siddaramaiah and engineer a change in leadership. Siddaramaiah, for his part, views the episode as an “inside job” and has conveyed his concerns to the Congress high command. The investigation took a contentious turn when Bengaluru Police Commissioner Seemant Kumar Singh disclosed that a man arrested in the case had told investigators that the phone used to upload the video had changed hands at Kumaraswamy’s official residence in Delhi. The Commissioner was ill-advised to link the Union Minister’s residence to the case solely based on the statement of an accused before the facts had been conclusively established. Kumaraswamy has accused the Commissioner of acting to serve a political agenda. Whatever the truth, such disclosures risk prejudicing the investigation and turning it into a political spectacle. Meanwhile, the controversy has diverted attention from governance.
+
+Honey traps and sting operations have haunted Karnataka politics for more than a decade. What should be exceptional investigative tools have evolved into a cottage industry in which compromising recordings, fabricated narratives, and threats of exposure are used for extortion and intimidation. The police must establish who runs this network, who finances it, who supplies material, and who benefits from it. Investigators must be allowed to complete their work without political pressure, establish the chain of events, and identify those responsible so that this apparatus is dismantled. Karnataka, long seen as an engine of growth and innovation, cannot afford to become a byword for political intrigue and blackmail. Political leaders must stop trading allegations, and investigators must follow the evidence wherever it leads. The state must end this spectacle and return its focus to governance.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-cost-of-politics-by-sting-4207922)
+
+---
+
+### At COP 31, India must stand up for the Himalayas
+*Deccan Herald · Opinion*
+
+On October 29, a glacial lake outburst flood (GLOF) from Shintaphu Lake, in Bhutan’s Gasa district sent a surge of water down the Mo Chhu river system, damaging infrastructure and triggering flood alerts in neighbouring West Bengal and Assam. Indian authorities issued warnings for downstream communities, while precautionary evacuations were undertaken. The incident demonstrated both the value of early warning systems and the extraordinary vulnerability of communities living downstream of unstable mountain ecosystems.
+
+On August 26, Nepal experienced catastrophic flooding through the Bhote Koshi–Trishuli corridor. Triggered by a rock-and-ice avalanche near Langtang Lirung, rather than a conventional glacial lake outburst, the disaster killed about 1,500 people, with more than 5,000 still missing. Roads, bridges, hydropower facilities, homes, and livelihoods were devastated.
+
+These disasters illustrate mountain vulnerability in a warming climate, but their precise links to climate change require event-specific scientific investigation. Geological and hydrological processes, exposure, and planning also shape the consequences. The wider evidence shows that rising temperatures, glacier retreat, permafrost thaw, and changing snow conditions are reshaping risks that extend far beyond the Himalayas. Yet, mountain ecosystems remain inadequately represented in the institutional architecture of global climate negotiations.
+
+Floods and dry taps | What Uttarakhand's forests are telling usThat is precisely why Nepal and Bhutan’s joint submission of October 28, requesting an agenda item titled ‘1.5°C warming in Mountains’, at COP 31, the next Conference of Parties of the United Nations Framework Convention on Climate Change (UNFCCC), scheduled for November 9-20 in Antalya, Türkiye, deserves serious political support.
+
+The submission seeks formal recognition of mountain vulnerability within climate negotiations and stresses the urgency of limiting warming and avoiding overshoot of 1.5°C. A dedicated Mountain Work Programme, regular dialogue, stronger scientific assessment, and better integration of mountain priorities into adaptation and climate finance should be considered as ways to give that recognition practical value, not treated as already agreed mechanisms.
+
+The Hindu Kush Himalaya region is often described as the water tower of Asia, the Intergovernmental Panel on Climate Change (IPCC) estimates that its snow and ice support freshwater and other ecosystem services for approximately two billion people, including 240 million mountain residents and 1.65 billion people downstream. The great river systems originating in these mountains support agriculture, drinking water, energy production, biodiversity, and economic activity across several countries. What happens in the mountains ultimately affects the plains, cities, deltas, and coastlines.
+
+Why India cannot afford to sit this out
+
+For India, supporting the Nepal-Bhutan proposal is not an act of regional solidarity alone, it is a matter of national interest. India has vulnerable Himalayan landscapes, from Ladakh and Himachal Pradesh to Uttarakhand, Sikkim, and Arunachal Pradesh. The 2021 Chamoli disaster, also a rock-and-ice avalanche that transformed into a destructive debris flow, alongside recurring floods, landslides, and glacial-lake hazards, demonstrates that India faces many of the same risks as its neighbours.
+
+The stakes extend far beyond the mountains, across large parts of northern and eastern India, agriculture, drinking water supplies, hydropower generation, and food security depend on Himalayan river systems, although the contribution of glacier and snowmelt varies by basin and season. The Ganga, Brahmaputra, and Indus basins connect mountain catchments with some of India’s most densely populated plains. A disruption in the mountains can cascade into water stress, damaged infrastructure, agricultural losses, and displacement hundreds of kilometres downstream.
+
+India has both the scientific capacity and institutional resources to contribute meaningfully to a regional mountain resilience agenda. Its support could help build shared glacier and glacial-lake monitoring networks, improve satellite-based observation, strengthen hydrological forecasting, and establish protocols for the rapid exchange of information between upstream and downstream countries.
+
+Mountains need delivery, not declarations
+
+A dedicated mountain agenda must deliver more than better monitoring. It must connect scientific observation with community-based early warning systems, transboundary data sharing, risk-informed infrastructure planning, ecosystem restoration, and climate-resilient livelihoods. It must also ensure that climate finance arrangements respond to the needs of mountain countries.
+
+The political opportunity is significant. From the Nairobi Work Programme and the IPCC’s cryosphere assessments to the dedicated expert dialogue at SBSTA60 in 2024, the mountain agenda has gradually gained recognition within the UNFCCC. COP30 in Belém mandated a further dialogue, and mountain-related indicators were included among the Belém Adaptation Indicators. Nepal and Bhutan’s submission now offers COP31 an opportunity to build on this progress.
+
+The path will not be easy, at COP30, the EU, Switzerland and Japan argued that mountain concerns could be handled within existing workstreams, such as the research dialogue and the Nairobi Work Programme, and the presidency’s consultations ended without consensus on a dedicated agenda item. India is well placed to answer that scepticism, because the Himalayan floods of 2026 show that a mountain agenda confined to existing workstreams has not kept pace with the risk.
+
+The Himalayas are not at the periphery of the climate crisis, they are at its very heart. Their glaciers feed rivers that sustain billions, their instability threatens economies and communities across national boundaries. The UNFCCC’s relevance cannot be measured only by the agreements reached on emissions targets or the promises made on climate finance. It must also be measured by whether it can respond to the unfolding realities of vulnerable regions and help countries act together.
+
+Shailendra Yashwant is an environmental researcher and adjunct fellow at Sunway Centre for Planetary Health, Malaysia.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/at-cop-31-india-must-stand-up-for-the-himalayas-4208323)
+
+---
+
+### The luxury of boredom
+*Deccan Herald · Opinion*
+
+In life, there are days we feel drenched in delight with no definite reasons. Similarly, there are days we are drowning in dreary doldrums, again with no distinct reasons. Well, last week, I was in the latter state. Consumed by ennui, I called on a close friend, who, coincidentally, was also combating the same ceaseless boredom.
+
+As soon as I stepped into her place, we struck upon a splendid idea of strolling around stretches of tree-studded avenues in her sprawling locality. The cool breeze seemed to be conducive, too, to the chitchat. Barely had we walked, and we could behold a bevy of construction workers, bustling around, making brisk progress. We saw dozens of women, dressed in double-loose shirts, worn atop dirt-laden saris, working diligently, undeterred by dreadful drudgery.
+
+Among them, one scrawny woman was concurrently casting her gaze at her infant child, nestled comfortably in a cloth-cradle. Within moments, I began meditating over the miserable lifestyle of these money-strapped folks. Among their myriad woes, the main thing on their mind, maybe, was to procure the next meal. Then, we saw a pushcart vegetable vendor, beckoning potential customers. Scorching sun, severe rains, or skin-biting cold, each day, he had to sell his stuff for his sustenance.
+
+Then our gaze fell on a gaunt-looking gentleman, gingerly guiding his special child through his compound gate, guarding him against gaping potholes and zipping vehicles. Seeing all these, suddenly, sharp irony stung both of us at the same time. Of how, even after being blessed with a barrage of the best things, we were still bemoaning boredom, bad mood, and such other bagatelles. Especially when many around us were battling bigger challenges.
+
+The sheer truth that we could simply afford to ‘squander time’, speaking about insignificant things, itself stood testimony to our secured financial status. The ‘luxury’ of which these less-privileged lacked in their lives. Since every passing minute was precious, and ‘at premium’ to these people.
+
+Slowly, with this stark realisation, the spirit-sapping clouds that had surrounded our mindscape started scudding away. Feeling all spry and sprightly, we set off homeward with spring in our steps.
+
+[Read full article](https://www.deccanherald.com/opinion/the-luxury-of-boredom-4207907)
+
+---
+
+### Who’s at the peace table? Why the UN’s Women, Peace and Security agenda is failing
+*Deccan Herald · Opinion*
+
+About 756 million women and girls live within 50 km of armed conflicts, and more than 37,000 civilian deaths across 20 armed conflicts occur, in which one in four of those killed was a female, according to the UN Women. There has been a surge in conflict-related sexual violence, attacks on healthcare, displacement and education disruptions of girls in conflict zones. The Women, Peace and Security (WPS) agenda, initiated through UNSC in 2000, reaffirms the role of women in prevention and resolution of conflicts, peacekeeping, peace-building, peace negotiations and humanitarian response. Greek Minister of Foreign Affairs Giorgos Gerapetritis chaired the annual debate held on October 27. It offers an opportunity for Greece to take specific steps to advance the implementation of the WPS agenda.
+
+Historically, the United Nations has been institutionalising women’s rights and addressing violence through initiatives, including the Commission on the Status of Women (CSW), aimed at promoting gender equality, the CEDAW convention and the Beijing Declaration over decades. The establishment of WPS also emphasised monitoring and protection against sexual violence, accountability, and women’s leadership. The initial phase was critiqued for settling for the principle of formal equality while neglecting patriarchy. The subsequent phases were scrutinised for marginalising perspectives from the Global South and overlooking intersectionality. For many scholars, perceiving women as mere victims of violence within militarised State-centric institutions that essentialise the patriarchal ‘myth of protection’ was unsettling. The current phase is assessed for its global racial hierarchies and limited scope of localisation.
+
+The four pillars of WPS—participation, protection, prevention, and relief and recovery—are also subject to feminist critiques. Participation poses the question of reducing women’s representation to numerical terms, and protection perceives women as mere victims of violence. Prevention treats conflict as a security problem rather than as a systemic issue. Relief and recovery is all about institutional recognition rather than female resilience. The WPS mandate faces the contradiction of the institutional setting being shaped by traditional military security, unequal political power and geopolitical competition over national interests.
+
+A male chair of WPS may not discard its primary objectives. However, it must be critically engaged to raise the institutional question of women’s political authority. The gender imbalance within the UNSC is not merely about a male presidency. The veto-power-holding permanent members represent privileged great-power national interests. When the veto power blocks actions on conflicts affecting women and children, it sidelines the WPS cause. The proposed humanitarian ceasefire in Gaza, where women and children continue to face displacement, violence and lack of healthcare, was vetoed by the US recently. The resolution for freedom of navigation through the Strait of Hormuz vetoed by China and Russia points out the impact of military blockages of maritime chokepoints on vulnerable populations, including women. A ceasefire, which would have prevented Ukrainian women facing displacement and economic insecurities, was vetoed by Russia. Although vetoes aren’t explicitly intended to hinder gender justice, they depict the structural contradictions embedded in the UNSC decision-making process. Such security priorities reflect hegemonic masculinity that undermines women’s lived experiences and depoliticise women’s representation without interrogating the gendered nature of wars.
+
+Another concern is the West-centric treatment of the Global South. For women scholars and activists of the Global South, peace is not only about protection from sexual violence and participation in political negotiations but also about their active role in political self-determination and freedom from modern forms of imperial and capitalist interventions. Nevertheless, treating Global South as homogeneous undermines differences in experiences of women shaped by colonial history, race, religion, caste and sexuality in conflict zones.
+
+When international institutions frame protection as a tool of treating vulnerable sections to superficially meet the progressive commitments, it is another form of institutionalised patriarchy. The role of women in building and negotiating peace through resistance movements in communities challenges conventional notions of security. There is a need to redefine women’s role in ceasefire decisions, the resource distribution in settlements and the recognition of survivors of conflict as agents of peacebuilding. Can effective implementation of the WPS agenda address injustice and transform the structures that shape conflict and peacebuilding to democratic and inclusive spaces for women?
+
+The writer is an assistant professor at the Department of International Relations, Peace and Public Policy, St Joseph’s University, Bengaluru.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/whos-at-the-peace-table-why-the-uns-women-peace-and-security-agenda-is-failing-4207906)
+
+---
 
 ## 4 November 2026
 
@@ -39,12 +183,77 @@ The clearest signal came on October 22, 2026. Speaking at an Indo-Tibetan Border
 
 ---
 
+### DC Edit | Americans Punish Trump’s Republicans in Midterms
+*Deccan Chronicle · Opinion*
+
+It is not without a touch of schadenfreude that the world will look at the dismal performance of Donald Trump’s Republicans in the House of Representatives, Senate and governor polls since it was his autocratic behaviour as the globe’s most powerful man which brought about this stinging midterm rebuke.As one of the victorious Democratic candidates described it, "In this race, we went up against our own Goliaths. The richest man in the world, the most powerful man in the world and the entire Washington, DC establishment.” The Goliaths were slain as the Democrats rode a Blue tsunami into a position from which they can assert themselves in America’s famous systemic checks and balances constitution.
+
+Having lost the race for the House, as universally predicted, and the Senate, which was forecast to be a close-run race for 35 seats, and conceded seats that historically voted conservative for decades — and close to 100 years in the case of Kansas — a chastened Mr Trump said that he would reconcile to working with the Democrats.
+
+How long Mr Trump would remain humbled by the voice of the people is anyone’s guess though it is a good sign that he has not thus far challenged the results as is his wont whenever the polls go against him or his party. What a miffed Mr Trump may do is, perhaps, more easily predicted as he and his team have been preparing for months since sighting the Democratic wave and begun confabulating on how to work around the loss of control in the US Capitol.
+
+The US President should be well aware that the single biggest cause of his downfall was the rising cost-of-living index that was triggered mostly by the war he declared on Iran at the behest of Israeli Prime Minister Benjamin Netanyahu. The people pounced on gas (petrol and diesel) and grocery prices as the most noticeable effect of a war that made their President one of the most unpopular in American history.
+
+The state of democracy was to be seen in the harsh immigration policies leading to ICE officials opening fire on citizens on the streets of American cities as well as the misuse of several institutions of governance. A defeat in midterms and loss of legislative majority themselves is not uncommon, however, as 18 of the last 20 Presidents have suffered it. But it is the slide in an economy that was riding high at the end of last year that fashioned his comeuppance.
+
+There were several firsts in unique messages from the polls like the election of the first Black, Black woman and Latina governors, the first openly gay lawmaker, the first Muslim senator and the first Native American female governor and so on. Beyond that, the overwhelming message as several deep Republican states changed colour dramatically in an expensive campaign that saw billions being spent on advertising was that of the compelling necessity of reining in an authoritarian President who upended the most cherished traditions of American democracy, now in its 250th year.
+
+What happens to world peace will depend on whether Mr Trump will still pursue the foolish course he charted in the on-off Iran war or lump the losses by ditching operations altogether just as he has cut $4 bn annual aid to Israel. On how he will react to the Indian diaspora turning against him may hinge the US-India ties and a trade deal that hit several roadblocks in recent times. Even then, India will stand to gain along with the rest of the world if Mr Trump indeed disavows his dalliance with the war in Iran.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/dc-edit-americans-punish-trumps-republicans-in-midterms-2001727)
+
+---
+
 ### DC Edit I No Excuse For Usurious Airfares
 *Deccan Chronicle · Opinion*
 
 The Supreme Court’s refusal to an urgent hearing against exorbitant airfares during the Diwali season has brought into focus a disturbing reality: Airlines can quote domestic fares six or seven times their normal levels on the pretext of dynamic pricing.Reacting to a plea for hearing an interlocutory application (IA) filed in a one-year-old writ petition on the same subject, a Supreme Court judge quipped, “Don’t travel by air.” Yet, according to the IA filed in the Supreme Court, a Delhi-Kolkata ticket is priced at Rs 78,694 against a normal fare of around Rs 10,500 — an increase of nearly 650 per cent. While dynamic pricing is an accepted practice worldwide, it does not mean that the government leaves airlines entirely free to charge whatever they please. A survey of airfare pricing in the seven largest countries in the world shows that India is the only country that reported nearly 650 per cent rise in airfare during the festive season. Compare this with the United States where an academic study found that holiday airfare premiums ranged between 4.3 per cent and 83.1 per cent. In the EU, the festive surge hovered between 20 per cent in Hungary to 170 per cent in Portugal. China maintains government-guided pricing on designated routes and economy class while allowing market-based fares elsewhere. Australia monitors airline prices, costs and profitability through its competition regulator, while Brazil collects actual ticket-sales data and investigates suspected anti-competitive pricing practices.The aviation industry may argue that high peak-season fares compensate for lower prices during lean periods. But last year, the Supreme Court disapproved of exploitative prices during Kumbh Mela and threatened to intervene if the Central government did not frame a new policy. Though the government has come up with new aviation rules, the Bharatiya Vayuyan Niyam, 2026, which will come into force from January 1, 2027, the Rule 135 of the Aircraft Rules, 1937, empowered the Directorate General of Civil Aviation to act against excessive or predatory tariffs.Airlines are entitled to reasonable profits, of course, but not immunity from scrutiny. Therefore, they should submit detailed information on actual ticket prices, booking patterns, seat availability and operating costs. The regulatory mechanism should monitor route-wise fares, identify abnormal increases and investigate whether pricing algorithms are operating within a reasonable range. The government should ask airlines to announce an upper limit for the surge price.
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/dc-edit-i-no-excuse-for-usurious-airfares-2001529)
+
+---
+
+### Sunanda K. Datta-Ray | Can Jewish-Arab Truck Pave Way To Better Israel
+*Deccan Chronicle · Opinion*
+
+Nothing better illustrates the truth of Talleyrand’s claim that “speech was given to man to disguise his thoughts” than the recent telephone exchange between Narendra Modi and Israel’s prime minister Benjamin Netanyahu.The occasion, the topic discussed, and the context in which it took place, all highlighted today’s single most ominous threat to global peace as well as the one possible path to reconciliation revealed by Israel’s frustrating parliamentary election. If any one man can help to find a solution, it is the President of Israel, Isaac Herzog, the son of a legendary former President, and himself soldier, lawyer and politician.
+
+In June 2014, Mr Herzog famously criticised Mr Netanyahu for not engaging the international community in finding a solution to the Israeli impasse, failing to present a proposal for peace with Palestinians, and not working effectively with the American President,
+
+Barack Obama . Mr Herzog blamed Mr Netanyahu's “loathing and hostility for Barack Obama” as one of his greatest failures, since it put Israel’s security at risk.
+
+According to Mr Netanyahu’s recent reported conversation, he “officially invited” Mr Modi “to light a ceremonial torch (often called a celebratory flame or lamp) on Israel’s next Independence Day, May 14, along with the heroic Captain Smit Machchhar who suffered life-threatening injuries when he aborted his first officer’s treacherous mid-air attempt to hijack the Dubai-Tel Aviv
+
+Flydubai Flight 1073 , of which Machchhar was the captain.
+
+The Israeli leader explained afterwards, “Mr Modi thanked me for the invitation and said that on the ground and in the air, India and Israel fight terrorism together. He expressed his appreciation for the courageous and long-standing relationship between us”, meaning Israel and India.
+
+Not every Indian will agree with that declaration. Many might see in it an attempt to play the victim card during a time of war to muster support for Jews against Iranians, Lebanese and millions of hapless Arabs who are themselves victims of a vicious war.
+
+Many others cannot but fail to note the rough and ready methods used by far richer, modern and efficiently organised Jews to oust Palestinians from the only homes they have ever known, especially in the West Bank where some Israelis now invite comparison with the Nazi oppressors who tried so cruelly to purge Germany of Jews.
+
+Jewish settlers are white Europeans whereas the indigenous Palestinians are brown Asians. No matter how many Mizo, Manipuri or other northeastern Indian tribes are sanctified as “lost” Jewish tribespeople and welcomed to Israel, no one can separate this seeming generosity from modern Israel’s need for low-paid labour. Israel needs sturdy young men and women to dig and delve even in this age of mechanised agriculture, especially now that many of yesterday’s kibbutzim, fashioned out of the desert by the loving toil of the pioneers, are luxurious holiday resorts.
+
+As for relations between India and Israel, they were distinctly cold, if not frigid, under Jawaharlal Nehru and Indira Gandhi. In fact, elderly Zionists recall that Mahatma Gandhi rejected their request for help long before Israel became independent. Apparently, he wanted no truck with a cause that he must have known would displease many Asians, especially Arabs.
+
+That was not Captain Machchhar’s thinking as he battled his co- pilot to prevent him from hijacking the Flydubai flight with 174 passengers going from Dubai to Tel Aviv on September 30. He was attacked with an axe and sustained injuries to his head and neck but managed to open the cockpit door, allowing crew members and passengers to overpower the co-pilot and enable the aircraft to make an emergency landing in Saudi Arabia. Israeli officials say the co-pilot intended to crash the aircraft.
+
+Nobody knows for sure as yet but Mr Modi and Mr Netanyahu have rightly lauded Machchhar for his bravery. President Isaac Herzog’s invitation to him to visit Israel to receive the Presidential Award for Civilian Heroism, Israel’s highest decoration for bravery by civilians, is a well-deserved honour. Wounded though he was, Machchhar managed to open the cockpit door and save so many lives. Unlike Mr Modi and Mr Netanyahu, he is not a politician. He has no axe to grind, he serves only his professional duty. He must know, therefore, that the definition of a terrorist varies from country to country, and that one man’s terrorist is often another’s freedom fighter.
+
+Israel, too, evokes contrary responses like the ancient dispute over Jammu and Kashmir, and Mr Modi’s blissful view of unifying anti-terrorism is not shared by all Asians. But no one can disagree that stable growth demands economic development for which the two-state formula devised by the Norwegians and endorsed by the United Nations is the best foundation.
+
+That is the nub of the matter. It calls for divisible land, cooperation for sustainable growth, a future beyond the 120-seat Knesset, freedom...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sunanda-k-datta-ray-can-jewish-arab-truck-pave-way-to-better-israel-2001737)
+
+---
+
+### Sunil Gatade | Is UP Becoming Ulta Pradesh for the BJP
+*Deccan Chronicle · Opinion*
+
+Strange, it may sound. Things look odd for the BJP in poll-bound Uttar Pradesh.Chief minister Yogi Adityanath is burning the midnight oil, stirring through the politically key state to secure power for a third term in the polls just four months away.The election scheduled in early 2027 is taking place for the first time after the massive donation theft scandal at Ayodhya came to the fore. The faithful have been hurt, and no one knows how deep the wound is. The Opposition is out to exploit it to the fullest, to hit where it hurts most.Coupled with this, the issues of price rise and unemployment, as well as student unrest; have become a cause for concern.In the last Lok Sabha polls, the BJP had got a shock of its life with its tally sharply plunging from 62 to 33 in the state’s 80 seats. The election had witnessed the Akhilesh Yadav Samajwadi Party coming out with its best-ever performance of 37 seats. Whatever the reasons, the word is out that the state BJP is not fully behind him and that the chief minister is facing backlash for promoting ‘thakurvad’. State BJP chief Pankaj Chaudhary is not known to be a Yogi fan.This does not mean the end of the road for the Yogi, who looks unfazed and could come up the winner by doing what he knows best – the communal polarisation card, the vicious 80-20 game that has seen him come on the top.Anything can happen by the time of the elections is what is being said ominously. This means there could be a slip between the cup and the lip for rival sides given the BJP’s propensity to play the communal card to a devastating effect. Uttar Pradesh is the jewel of BJP’s Hindutva politics, and it is not for nothing that the former Gujarat CM had turned it into his karmabhumi.There are many ifs and buts if the BJP is to repeat its dismal performance in the Lok Sabha polls, which had resulted in Narendra Modi failing to get an absolute majority for the third term. It should not be forgotten that the BJP had lost Ayodhya in the polls, much to the shock of the world’s largest party.The Yogi is posing to be deferential to Mr Modi, knowing fully well that the PM might be facing a crisis at the national level but still has the wherewithal to turn things topsy-turvy for him.All is not well in the organisation, as is clear from the fact that party chief Nitin Nabin, as well as some central office bearers and RSS leaders, recently held feedback sessions with regional leaders, which saw issues of ‘neglect’ by a section of leadership coming to the fore.Reports of Amit Shah coming to Uttar Pradesh soon for tightening the nuts and bolts have also appeared. But the thing is that the scenario in the state ahead of the 2027 polls is not the one that was in 2022 or 2017. The Brahmins, who have a traditional rivalry with the Thakurs, are not happy with Yogi, who has used his power to spread the influence of his community far and wide. The problem for the Brahmins is that since they have aligned with the BJP for long, they have become alien to other parties. The community shifted from the Congress lock, stock and barrel after the beginning of the Ram Janmabhoomi movement in the late 80s, making the grand old party a cripple in the most crucial state.Will the TINA (There Is No Alternative) factor help the BJP to keep a majority of Brahmins with it? The answer could be in the affirmative at the present.The dominance of Thakurs at the police station level too has affected other communities. Akhilesh Yadav had lost power after people were fed up with the Yadav control of police stations that, according to their perception, had helped the Yadavs and the Muslims alone.However, Yogi's take on his governance is different: ‘We have razed mafia to dust.’ He insists that his government’s zero-tolerance policy towards crime has resulted in better facilities, economic growth, and investment in the state.While the BJP is making every effort to come up as the winner in UP, it is not unduly worried as to whatever the outcome.A section in the BJP believes that whatever happens in Uttar Pradesh, it is unlikely to affect the party at the national level or the Modi dispensation. This meant that an upset for Yogi is not necessarily an upset for the PM. The BJP, especially Modi, has honed the art of managing the states to his will from the Centre; whatever the dispensation there, goes the refrain. It was the Modi brand of ‘cooperative federalism’ or whatever the detractors say.Besides, an Opposition-ruled state helps the BJP grow there in the Lok Sabha polls, is the reasoning. Heads, I win; tails, I win.In the last Assembly polls, there were a number of seats won by the BJP by a very lesser margin. Yogi had pygmed all other leaders, be they Deputy CMs or ministers, to such an extent that the impression for the past decade is that Yogi alone rules. This was bound to have its fallout at a time when the Samajwadi Party is looking a serious contender for power.In the just concluded UP Legislative Council (MLC) elections, the...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sunil-gatade-is-up-becoming-ulta-pradesh-for-the-bjp-2001738)
 
 ---
 
@@ -21675,169 +21884,6 @@ Given the cancerous nature of ‘proxying’ on representative democracy, it is 
 Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
 
 [Read full article](https://www.deccanherald.com/opinion/tackling-male-proxy-politics-4102175)
-
----
-
-## 6 August 2026
-
-### Highs and lows: On GST metrics
-*The Hindu · Editorial*
-
-That GST grossed ₹2.11 lakh crore in July, expanding by 15.4% year-on-year, the second best growth in FY27, could indicate that the Indian economy is resilient. But it conceals the uneven internal and external trajectories, and disparities within India. The 26.9% growth in import IGST vis-à-vis a 4.5% rise in domestic revenues ferrets out the criticality in the trade-led tax buoyancy. IGST’s faster pickup started during the post-pandemic recovery, reflective of global commodity inflation, higher imports of capital goods and the rupee’s depreciation. A 10%-12% depreciation of the Indian denomination over the past year had its reflection on the rupee cost of crude oil, electronics, machinery and chemicals — they collectively constitute as much as 50% of total imports — contributing to a higher import bill. Although gold imports added to higher IGST collections, supply fell to a six-year low, due to lower bullion imports, which fell 22%. High WPI inflation, notably at the manufacturing level, at 7.18% this June against 1.52% a year-ago period, explains the traction of domestic revenues in an ad valorem tax system amid five-year low manufacturing growth as seen from the HSBC Manufacturing PMI. The services witnessed slowest growth in 53 months with real estate and business services recording the strongest rise in charges, but the sector’s GST buoyancy is concentrated geographically.
-
-The fiscal reality is that only 16 States/UTs have reported post-settlement GST growth exceeding the national average and a little over a dozen States saw higher than average growth in GST, showing an increasingly chequered path as manufacturing and organised services are concentrated in a few jurisdictions; others, especially those with a larger unorganised sector, struggle to generate tax buoyancy, becoming dependent on central transfers and Finance Commission devolution. GST 3.0 should ensure that the benefits of economic expansion are geographically broad-based and fiscally inclusive. The faster domestic refunds, in comparison to IGST refunds, imply that formal businesses are expanding their GST compliance and also carrying larger credit balances as the government improved the GST ecosystem, even as faultlines such as input tax credit disputes and litigation are yet to be resolved. The July numbers warrant a closer reading as a healthy GST trajectory should reflect domestic production, growing incomes and broad-based consumption rather than exchange-rate-induced gains in import taxation and piggyback riding on local inflation. Otherwise ‘Make in India’ remains a tall claim as imported inputs do much of the heavy lifting in the GST metrics.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/highs-and-lows-on-gst-metrics/article71309455.ece)
-
----
-
-### Quantum shift: On private industry and national research spending
-*The Hindu · Editorial*
-
-The Department of Science and Technology’s latest figures on India’s research profile record a milestone. In 2023-24, private industry accounted for 51.8% of national research spending — a first in India’s history — overtaking all tiers of government combined for the first time. Moreover, industry now employs more core researchers than government institutions. Transport firms are the largest corporate investors, followed by pharmaceuticals, biotechnology and information technology (IT). The break from the past is sharp. Through the 2010s, private industry contributed a little over a third of national R&D, and the ratio moved slowly. Then, between 2020-21 and 2021-22, private spending nearly doubled — from ₹46,388 crore to ₹82,975 crore — and total R&D jumped from ₹1.27 lakh crore to ₹1.95 lakh crore in a single year. R&D spends in the transport sector, which barely registered before 2020, has roughly tripled and leads the triumvirate that includes biotechnology and IT that are counted among India’s most research-intensive industries.
-
-Officials attribute this to a post-pandemic realisation that research is essential to competitiveness, and that may be part of the story. The purported investments for ‘23-’25 also look healthy, but a change concentrated in one year looks less like a shift in corporate behaviour and more like a change in what is counted. Mandatory sustainability disclosures for large listed firms, and tighter RBI norms on reporting research, took effect at the same moment. Spending that was always occurring — in the foreign subsidiaries of Indian companies, and in the captive centres of multinationals — is only now being fully captured. Some of the surge, in other words, reflects better measurement rather than more money. Genuinely new capital is flowing too — into artificial intelligence, chip design and semiconductor fabs — though much of that is still infrastructure building and may not yet belong in the R&D column. India’s R&D stands at 0.84% of GDP, against 2.58% for China, 3.45% for the U.S. and 4.94% for South Korea; it fields 354 researchers per million people where South Korea and Israel field several thousand. The private sector’s own priorities are a further reason for caution: more was spent on advertising than on research in 2023-24. The shift will prove worthwhile if it deepens India’s pool of specialised workers and its capacity for sophisticated manufacturing, carrying the economy beyond its long reliance on supplying low-cost services. That depends less on how spending is recorded than on how many researchers the country can train. The Anusandhan National Research Foundation, with a ₹50,000-crore corpus largely to be raised from private sources, was created for precisely this purpose. Its promise now rests on delivery.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/quantum-shift-on-private-industry-and-national-research-spending/article71309476.ece)
-
----
-
-### A loss and margins for reflection
-*Deccan Herald · Editorial*
-
-The Bharatiya Janata Party (BJP)’s loss in the Bankipur by-election may be its most significant electoral reverse since the 2024 Lok Sabha polls. Prashant Kishor, leader of the fledgling Jan Suraaj Party (JSP), which was routed in Bihar’s Assembly elections last year, stormed the BJP bastion with a decisive victory margin of 19,324 votes. In Madhya Pradesh, another BJP-governed state, the Congress retained the Datia seat. The BJP’s sole consolation came from Gujarat, where it retained Manjalpur, but at a significantly lower margin than in the 2022 Assembly election. By-elections do not indicate the larger popular mood. Their results are not often seen to reflect even the state’s political order. When there are too few of them and when they are held across states, drawing a message of national relevance can become unwieldy. However, the results from Monday have significance that goes beyond the three constituencies.
-
-Bankipur has been a BJP stronghold since 1995. The constituency, represented by Nitin Nabin since 2010, went to the polls following Nabin’s resignation after being elected to the Rajya Sabha. That the party lost an urban constituency composed of upper-caste and middle-class voters — its core electorate — to a political rookie is particularly significant, given that it is in power in both the Centre and the state. By replacing Nitish Kumar with Samrat Choudhary as the Chief Minister, the BJP had asserted its dominance in Bihar. The Bankipur outcome undermines that narrative of authority and may be interpreted as reflecting anti-incumbency.
-
-From Bankipur to Datia: What the bypoll verdict tells BJP and OppositionKishor’s margin of victory is emphatic, considering that he was in the fray less than a year after what was dubbed a failed political experiment, and that Nabin won the seat in 2025 by over 51,000 votes. While the JSP leader clearly drew votes from both the BJP and the Rashtriya Janata Dal (RJD), the ruling party’s loss carries the louder political message. It remains to be seen if this experiment holds political appeal across diverse social groups. The possible impact of the Gen Z protests demanding examination reform will also be a point of concern for the BJP as it takes stock of this defeat. In Manjalpur, where the voting dropped significantly to 37.5 per cent, the BJP won but with a markedly thinner margin — from over a lakh in 2022 to about 30,000. Congress’s victory in the BJP-dominated Madhya Pradesh provides momentum after recent setbacks. The takeaways from the results are largely symbolic, but they assume greater relevance ahead of key state elections, including in Uttar Pradesh.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/a-loss-and-margins-for-reflection-4100742)
-
----
-
-### Parking crisis demands lasting reform
-*Deccan Herald · Editorial*
-
-Bengaluru Development Minister Krishna Byre Gowda’s decision to crack down on haphazard parking is a welcome step. Parallel parking, vehicles parked on both sides of narrow roads, and blatant disregard for No-Parking zones have long contributed to the city’s chronic traffic congestion. While enforcing existing rules is necessary, it is only a start in addressing a far deeper problem that demands structural reforms. With Bengaluru’s population estimated at 1.5 crore and almost a one-to-one vehicle-to-population ratio, there is no magical solution to the city’s congestion. This is precisely why piecemeal measures cannot substitute for long-term planning. The government must recognise its own role in creating this crisis. Illegal parking is not confined to the city’s commercial districts; residential neighbourhoods have become equally clogged, with vehicles lining both sides of streets. Many houses are constructed without adequate parking, while families increasingly own multiple vehicles. Instead of enforcing building norms, the government has diluted them. Its recent decision to exempt houses built on sites up to 2,400 sq ft from obtaining occupation certificates weakens scrutiny of whether sanctioned plans and parking requirements have been followed. Violations become easier, while amnesty schemes create the expectation that illegal constructions will eventually be regularised.
-
-Traffic management cannot succeed unless the city makes public transport an attractive alternative. Metro expansion has been painfully slow; the Kempegowda International Airport, inaugurated in 2008, still lacks Metro connectivity. BMTC continues to face a shortage of buses, while poor first- and last-mile connectivity forces many commuters to depend on private vehicles even when Metro services are available. Equally important is restoring order to parking management itself. The pay-and-park system on major roads has fallen into disarray following the expiry of contracts. Clear road markings and unambiguous signboards distinguishing parking from non-parking areas are essential. Strict enforcement is necessary, but periodic 50 per cent discounts on traffic fines dilute deterrence and send contradictory signals.
-
-GBA Parking Rules 2026 | A new toolkit for public parking pain in BengaluruThe city requires institutions that enforce rules consistently regardless of who holds office. The recent drive to clear footpaths illustrates the point. Had the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014, been implemented by demarcating vending and non-vending zones, many encroachments would never have occurred. Today, vendors have returned to several cleared locations. Unless mobility reforms are embedded in law, planning, and administration, the illegally parked vehicles will return just as predictably. Only reforms rooted in a comprehensive mobility plan – not episodic campaigns – can keep Bengaluru moving.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/parking-crisis-demands-lasting-reform-4100741)
-
----
-
-### Floods wash away BJP’s poll promise in Assam
-*Deccan Herald · Opinion*
-
-Guwahati: “Vote for BJP for another five years ahead; we will make Assam flood-free!” Videos showing Union Home Minister Amit Shah’s promise during campaigning for Assembly elections in Assam in 2021 and again in April 2026 are going viral on social media amid the floods that have wreaked havoc in parts of the state since July 19-20.
-
-As individuals, NGOs and government agencies continue relief efforts in the worst-hit Sivasagar, Charaideo and Jorhat districts in eastern Assam, the ruling BJP and its leaders are being reminded about their promises of solving Assam’s perennial flood problem. Flooding in Assam kills at least 80 people annually and destroys crops and properties. Chief Minister Himanta Biswa Sarma and his Cabinet colleagues have been caught on camera struggling to reply to questions over the pre-poll promise.
-
-Banking on the state’s vexed foreigners issue, the BJP and its regional allies had formed their first government in Assam in 2016. In the next elections in 2021, the BJP was vocal over floods — another major issue that dominates every poll campaign, with Shah repeatedly promising to divert the flood water by digging large ponds across the state. “Space technology will be used to map the flood-prone areas and the lakes where the flood water will be stored will also be used for fishery and tourism,” Shah had announced in western Assam’s Nalbari and Silchar in South Assam.
-
-Human-made disaster: Opposition demands judicial probe into Assam flood reasonsNalbari and Silchar have witnessed severe floods almost every year. But Sivasagar, Charaideo and Jorhat in eastern Assam have not seen such severe floods in several decades. “People there never expected such a severe flood. They were not prepared, and so the deaths and devastation are more,” Chief Minister Sarma told reporters while calling the current wave of flood “unprecedented.”
-
-Heavy rains for days in neighbouring Nagaland and in eastern Assam led to a surge in water in three rivers, Dikhow, Disang and Janji, inundating houses in hours on July 19 and 20. At least 80 people died in 72-hours (bodies recovered later) in Sivasagar, Charaideo and Jorhat while mud flowing down the hills of Nagaland clogged houses, markets and roads. The flood victims are still struggling to get back to normal life even after two weeks.
-
-Sarma blamed the excessive rains (more than 400% of normal Monsoon rains) and the silt from Nagaland for the sudden devastation. But questions over the lack of an adequate flood response mechanism in the three districts despite the entire state being flood-prone, have remained unanswered. A government official, however, said work was underway to dig big ponds at several flood-prone areas as per the action plan and BJP’s promise to solve the flood problem.
-
-Environmental experts, as well as Opposition parties including the Congress, blamed unabated coal and sand mining on the hills of Nagaland and eastern Assam more than the heavy rains. Congress slammed the BJP-led government, saying that their repeated demand to check mining remained ignored by the BJP which is a dominant ally in the Nagaland government. “Let there be a judicial inquiry by a retired judge of the Supreme Court to unearth who is involved in the illegal mining that has killed more than 80 people and caused massive devastation in Sivasagar, Charaideo and Jorhat. Will the BJP government take the blame?” Congress leader Nilamani Sen Deka said recently. Many alleged the involvement of leaders of the BJP and its allies in illegal mining activities.
-
-Experts also questioned why rainfall data was not shared despite India having very sophisticated satellite technology. “Both Assam and Nagaland are flood-prone and witness floods and landslides almost every Monsoon. But it is unfortunate to see the two neighbouring states still lacking a joint mechanism to share weather-related data to reduce impact.”
-
-At least three geological science experts DH spoke to stressed that making Assam flood-free as promised by the BJP is an impossible task given the geography and geology of the region. “Instead, the Centre should bring in a mechanism where all states in the Northeast can share weather-related data instantly for quick response. The impact of climate change is real, and the Northeast is already bearing the brunt in the form of excessive rainfall in a short span of time, leading to quick flooding in the low-lying areas in Assam. We must get ready quickly to reduce the impact,” one expert said. “We must also empower the communities to adopt a flood- and climate-resilient lifestyle.”
-
-The devastating flood has reignited the demand for declaring Assam’s annual flood a national calamity to bring in more funds and expertise rather than setting an impossible task of ending floods. Sivasagar MLA and president of Raijor Dal, a regional ally of Congress, said that if the Narendra Modi government is committed towards solving Assam’s perennial flood, it should declare it a national calamity and launch an action plan to reduce the impact of flood. “The flood in Sivasagar, Charaideo and Jorhat proved Amit Shah and BJP’s promise a hollow one,” Gogoi said.
-
-Opposition parties in Assam also questioned why Prime Minister Narendra Modi and Home Minister Amit Shah did not visit the flood-ravaged state even as they travelled multiple times before elections to seek votes and power.
-
-[Read full article](https://www.deccanherald.com/opinion/floods-wash-away-bjps-poll-promise-in-assam-4100779)
-
----
-
-### Israel strikes undermine Trump’s Gaza peace plan
-*Deccan Herald · Opinion*
-
-By Isabel Kershner and Adama Rasgon for The New York Times
-
-Soon after President Donald Trump announced a new plan last week to deliver peace and security in the Gaza Strip, the Palestinian enclave instead experienced a spike in deadly Israeli bombings, which threatened to undermine hopes for long-awaited progress.
-
-On Sunday, Israeli strikes killed 18 people, according to the health ministry in Gaza, making it one of the deadliest days there since a troubled ceasefire came into force in October. Gaza Health Ministry data from the conflict does not distinguish between civilians and combatants.
-
-Israeli strikes a day earlier killed at least two people and damaged warehouses for medical supplies, Palestinian officials said. And on Monday, the Israeli military struck a car on a beachside road, killing two, according to officials in Gaza. No new Israeli strikes have been reported in Gaza since Monday evening.
-
-Trump is hailing it as a ‘breakthrough’, but will Hamas actually disarm in Gaza? With many of the plan’s details still unclear, including a timetable for the Hamas disarmament at its heart, the 15-point plan released by Trump’s Board of Peace — which also calls for an Israeli withdrawal and a new administration in Gaza — risks being undone before the specifics are worked out.
-
-On Monday, a spokesperson for the Israeli prime minister’s office, Doron Spielman, pushed back against the terms of the agreement, which Israel had not signed. “The version that has been made public does not reflect Israel’s positions,” he said in a statement. He added, “Israel has conveyed its comments and concerns on the proposed framework to our American counterparts.” He said the concerns centred on Hamas disarmament.
-
-Nickolay E. Mladenov, a veteran Bulgarian diplomat who is the Board of Peace’s high representative for Gaza, levelled rare criticism at Israel over its attacks.
-
-“Two days of strikes across Gaza have killed civilians and destroyed medical supplies that people depend on,” he said in a statement posted on social media Sunday. He said that the attacks came after “intense efforts” by the mediators to reach a deal and that he and his team were “working around the clock with the parties, mediators and regional partners to de-escalate.”
-
-In a joint statement Monday, three countries that have served as mediators — Qatar, Egypt and Turkey — condemned what they described as “the ongoing Israeli violations” in Gaza.
-
-Hamas said in a statement that “entire families” were wiped out Sunday, and it accused Israel of “a deliberate escalation” aimed at blocking the plan.
-
-The Israeli military has said that its strikes in recent days have targeted Hamas fighters and weapons infrastructure. It also said it had taken steps to mitigate harm to civilians.
-
-Since the October ceasefire, Israel has steadily stepped up attacks across the Gaza Strip. In July, the military carried out almost daily strikes and named at least 50 militants it said it had eliminated, including what it said were Hamas members who had participated in the Oct. 7, 2023, assault on Israel that killed about 1,200 people. That attack ignited the war in Gaza, which has left more than 70,000 dead, according to officials, and much of the enclave in ruins.
-
-On Tuesday, a mass funeral was held in Gaza City for 112 people whose bodies had been pulled from the rubble in recent weeks, according to Mahmoud Bassal, a spokesperson for the civil defence, which operates under the Hamas-run interior ministry.
-
-Michael Milshtein, an Israeli analyst and a former Israeli military intelligence officer specialising in Palestinian affairs, said it was “no coincidence” that Israel had recently increased its pace of attacks.
-
-Israel was either showing it did not care about the agreement, he said, “or there was a fear that the point may come where the United States tells Israel to stop” and the military was striking while it still could.
-
-On Sunday night, Mohammed Dahlan, an influential Palestinian exile and a confidant of the president of the United Arab Emirates, wrote on social media that Jared Kushner, a son-in-law and an aide to Trump, had provided assurances that he reached an agreement with Israel that it would cease its strikes. But shortly thereafter, he edited the post, deleting the reference to an agreement, and said Kushner had conveyed he was “working with the Israeli side to stop the attacks on Gaza.”
-
-Negotiators on the Board of Peace described the new agreement with Hamas, announced by Trump last week, as a “road map” intended to cement the fragile ceasefire, disarm Hamas, secure a complete Israeli withdrawal from Gaza and enable a return to normalcy for the population and the start of reconstruction.
-
-But key questions immediately arose over whether Hamas and Israel would carry out the agreement. According to the text, the parties were given two weeks to determine a schedule, which an international verification committee could extend.
-
-Stark differences have already emerged over sequencing, among other issues. The agreement with Hamas stipulates that Israel must initially fulfil its obligations under the October ceasefire deal, which called for an immediate suspension of Israeli attacks.
-
-Israeli Prime Minister Benjamin Netanyahu had pledged total victory over Hamas, along with its dismantlement. He said on social media Tuesday that Israel would not pull back from its current positions in Gaza before Hamas had completely disarmed.
-
-Hamas, for its part, has long touted armed struggle against Israel as the core of its ideology. The group’s weapons have helped it keep power in Gaza, though Hamas has said it is willing to hand over the administration of the territory to a committee of Palestinian technocrats working under the Board of Peace’s supervision.
-
-Palestinian analysts said Israel’s continued airstrikes in Gaza strengthened Hamas officials’ argument that Israel will press its military campaign even if the group agrees to disarm.
-
-“They’re saying: ‘Look, I told you so,’” said Akram Atallah, a Palestinian columnist originally from Gaza and living in London. “They feel like Israel is proving them right.”
-
-Hamas now says it agreed to relinquish its “heavy weapons,” in part on condition that Israel commits to halting attacks and withdrawing. The group has found itself with few regional allies, and most of its senior leaders in Gaza have been killed.
-
-In an Instagram post Tuesday, Netanyahu said, “We’re not withdrawing from our current lines until Hamas is totally disarmed.”
-
-Spielman said that over the past eight months, according to Israeli intelligence, “Hamas has used the ceasefire to rearm, recruit thousands of additional terrorists, rebuild its military infrastructure and prepare for further Oct. 7-style massacres.”
-
-The 15-point plan has left elements of disarmament vague. It calls for a “gradual, sequential and time-bound manner” for decommissioning and storing heavy weapons, with the timetable yet to be determined.
-
-The agreement, however, adds that, at the “end of the process,” only the National Committee for the Administration of Gaza, the group of Palestinian technocrats hoping to take over governing under the Board of Peace’s administration, will “hold, control or store weapons in Gaza.” No weapons will be handed to Israel or non-Palestinian parties.
-
-The Board of Peace has tried to downplay the differences. After Mladenov and other board members met Monday with Netanyahu, the board said in a post on social media that it and Israel “share a common understanding of the ultimate objectives.”
-
-[Read full article](https://www.deccanherald.com/opinion/israel-strikes-undermine-trumps-gaza-peace-plan-4100953)
-
----
-
-### Rediscovering our shared identity
-*Deccan Herald · Opinion*
-
-As per World Population Review (WPR), there are around 195 countries in the world inhabited by people who follow about 4,200 religions and speak more than 7,100 languages. This number, going by Ethnologue's latest count, keeps shifting as smaller native tongues fade out even faster than new dialects are documented. Differences of nationality, race, language, and religion have given rise to numerous conflicts over centuries.
-
-In all such strife, those involved identify themselves with their label of nationality, religion, race or sect, all the while forgetting who they really are. As per spiritual principles, it is the spirit or soul that animates a human being. This being is in the form of an infinitesimally small point of light, and it carries within it a record of everything it does — thoughts, feelings, words, actions, etc. The souls take birth in different places, communities and circumstances. According to these factors, the souls acquire labels of nationality, race, religion, sect, class, community and gender.
-
-But, since most of us are ignorant or forgetful of being souls, we take these labels to be our true identity. Thus, if we define our identity by our nationality, we tend to see those with a different nationality as 'others'. The same happens when we identify ourselves with our religion, race or any of the other labels acquired according to our physical circumstances.
-
-The wisdom of getting along with othersAnd when we dwell too much on the differences between us and others, it leads to feelings of being superior or inferior, creates likes and dislikes, and even leads to animosity and hatred for those different from us. Such negative feelings fuel religious, racial, international and class conflicts. We forget that we are all souls originated from the same source.
-
-Hence, to be happy and peaceful, we must be rooted in soul-consciousness and be aware that all human souls are our brothers, and we are all one family, being the children of ONE. If all humans come to recognise their true, spiritual identity and their mutual brotherhood, all boundaries of nations, religions, classes, etc. would become meaningless, and humanity would be able to live in peace and harmony as one family.
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/rediscovering-our-shared-identity-4100745)
 
 ---
 
