@@ -1,3 +1,396 @@
+## 6 November 2026
+
+### From selling Diwali lights in a Mumbai chawl to becoming a Dubai business tycoon. Danube's Anis Sajan once sold an Aquaguard to Sanjay Dutt
+*ET Entertainment Desk · business*
+
+Long before he became a Dubai-based business tycoon, Anis Sajan was a schoolboy selling Diwali lights from a makeshift stall below his home in Mumbai. Growing up in a chawl in Pant Nagar, Ghatkopar, he witnessed his family struggle after losing his father at a young age. It began as a small effort to support the household by bringing extra income. Eventually, it turned into a journey through street-side trading, sales jobs and business ventures across countries. Today, he is the Vice Chairman of Danube Group.
+
+## From a Mumbai chawl to a Diwali lights stall
+
+Anis lost his father when he was very young. His elder brother, Rizwan, and sister, Shabnam, took on family responsibilities, while their mother battled epilepsy. The family found ways to earn additional income, and business ideas began taking shape at home.
+
+In an interview with Gulf News, Anis recalled how Rizwan, who had started working at the company where their father was employed, began selling novelty items from a table, or makeshift street-side stall. His products ranged from pocket combs and mirrors to plastic balls and bats. A couple of years later, Anis started his own small venture. After school, between 5 pm and 9 pm, he would set up a table below their building and sell greeting cards and Diwali serial lights.
+
+  
+
+Getting electricity for the lights was a challenge since the family lived on the third floor. He struck a deal with a neighbour on the first floor, promising him 10 per cent of his earnings in exchange for power.
+
+Each string of lights which he sources, cost him Rs 30. He soon sold half his stock to residents of the building. When a policeman threatened to confiscate his lights, Anis explained his family's circumstances and requested permission to continue selling. He later gave the policeman a box of lights as a gesture of gratitude.
+
+## From selling electrical goods to Dubai
+
+After the Diwali season, Anis expanded his small business by sourcing electrical switches, sockets and tube lights from a nearby factory. He bought a bicycle for Rs 100 and began visiting traders to take orders.
+
+At 19, he moved to Kuwait in 1990 to join Rizwan. However, the brothers soon found themselves caught in the Gulf War. They briefly sold car oil before Rizwan and his family were evacuated to Mumbai on an Indian Air Force plane in October 1990.
+
+Back in Mumbai, Anis joined a multinational company, Eureka Forbes, selling water purifiers. During this stint, he even sold an Aquaguard to Bollywood actor Sanjay Dutt. In November 1992, he moved to Dubai, where he started by selling sanitaryware, which included toilet jet sprays.
+
+## Building a business in Dubai
+
+Danube Group was founded by Rizwan Sajan in 1993 as a small trading firm and has since grown into a multi-billion-dollar conglomerate. Anis now serves as its Vice Chairman and is the founder of Milano.
+
+In an interview with The National, he reflected on the company's growth, saying, “We went from being a business comprising two people to a 5,000-member workforce today.” It further reported that Anis now lives in Emirates Hills with his wife and two children.
+
+---
+
+### Delhi braces for ‘pollution season’ as smog shrouds India’s capital – in pictures
+*Guardian staff reporter · national*
+
+The air quality index in Delhi has already soared above 650, more than 30 times the limit the World Health Organization deems to be safe
+
+[Read full article](https://www.theguardian.com/world/gallery/2026/nov/06/delhi-braces-for-pollution-season-as-smog-shrouds-indias-capital-in-pictures)
+
+---
+
+### Centre Tells Supreme Court It May Form Panel To Revisit UGC Equity Rules 2026 Amid Concerns Over Student Exclusion
+*Swarajya Staff · politics*
+
+The Centre informed the Supreme Court on Thursday (5 November) that it is contemplating the appointment of a special committee to re-examine the University Grants Commission's controversial 2026 equity regulations.
+
+Solicitor General Tushar Mehta told a bench comprising Chief Justice Surya Kant and Justice Joymalya Bagchi that the government aimed to address students' concerns and ensure no group feels excluded or threatened under the framework.
+
+The UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026, were notified on 13 January this year but have faced significant opposition.
+
+The regulations mandate institutions to establish equity committees and address discrimination complaints, but petitioners from general categories have challenged them as exclusionary.
+
+Key concerns centre on the definition of caste-based discrimination under Regulation 3(1)(c), which focuses specifically on unfair treatment directed at members of Scheduled Castes, Scheduled Tribes and Other Backward Classes.
+
+In January, the Supreme Court stayed the 2026 regulations, observing they appeared prima facie vague and capable of misuse.
+
+The court directed that the 2012 UGC regulations would continue to operate in the interim.
+
+Chief Justice Kant emphasised that the concerns and wellbeing of the younger generation should remain central to any deliberations, stressing the need to protect the interests of every student.
+
+The apex court adjourned the batch of petitions for four weeks following the Centre's submissions.
+
+The case arose in Abeda Salim Tadvi versus Union of India, originally filed in 2019 by the mothers of Rohith Vemula and Payal Tadvi, who died by suicide after allegedly facing caste discrimination on campuses.
+
+The Centre had earlier indicated in August that the regulations were under reconsideration.
+
+**Please click here to add** _**Swarajya**_ **as your preferred and trusted news source on Google**
+
+---
+
+### Watch: Indian-origin Nasa astronaut upgrades Space Station in major spacewalk
+*India Today Science Desk · general*
+
+## A five-year effort to increase the ISS's electricity-generating capacity has reached a major milestone, with its final solar array installed.
+
+Anil Menon is seen outside the space station during the spacewalk. (Photo: Screengrab/Nasa)
+
+New Delhi,Nov 6, 2026 12:11 IST
+
+Nearly 400 km above Earth, Indian-origin astronaut Anil Menon stepped outside the International Space Station (ISS) for a nearly seven-hour operation that has brought an important power upgrade to the orbiting laboratory a step closer to completion.
+
+Menon, along with Canadian astronaut Joshua Kutryk, completed the spacewalk on November 5 (US time), spending six hours and 59 minutes working outside the station.
+
+Nasa confirmed that the operation ended at 2:05 am IST on November 6.
+
+The assignment, known as US Spacewalk 101, was Menon's fifth spacewalk and Kutryk's second, and it was the 286th spacewalk supporting the construction, upkeep and upgrades of the ISS.
+
+> .@Astro\_Kutryk and @Astro\_Anil completed their spacewalk at 3:35 p.m. EST today after installing the eighth and final roll-out solar array. This completes the upgrade of the International Space Station's power generation system. More... https://t.co/JNTjNfzFld https://t.co/ysjIrvK47I— International Space Station (@Space\_Station) November 5, 2026
+
+### WHY WAS US SPACEWALK 101 IMPORTANT?
+
+The astronauts' main task was to install and unfold the eighth and final International Space Station Roll-Out Solar Array (IROSA).
+
+Unlike conventional rigid solar panels, these arrays are designed to roll out in space, opening up to collect sunlight and generate electricity for the station.
+
+Their installation completes a power-upgrade programme that started in February 2021.
+
+An image of Joshua Kutryk and Anil Menon. (Photo: Nasa)
+
+The eight additional arrays are expected to raise the ISS's electricity-generating capacity from 160 kilowatts to around 215 kilowatts, helping meet the demands of its scientific experiments and onboard systems.
+
+The project required 18 spacewalks, during which astronauts prepared the station and fitted the new arrays.
+
+### A LONG JOURNEY TO SPACE
+
+Menon was selected as a Nasa astronaut in 2021.
+
+Born in Minneapolis to Indian and Ukrainian immigrant parents, he has a background in medicine and engineering.
+
+Anil Menon points his camera toward his spacesuit’s helmet visor and takes a space selfie. (Photo: Nasa)
+
+Before joining Nasa's astronaut corps, he served as SpaceX's first flight surgeon, helping prepare astronauts for their missions. He also worked with Nasa's astronaut corps as a crew flight surgeon.
+
+Menon reached the space station aboard Russia's Soyuz MS-29 spacecraft on July 14, 2026, beginning an approximately eight-month mission.
+
+The latest spacewalk adds to his growing experience in orbit, while completing a crucial piece of infrastructure that will help keep the space station powered.
+
+\- Ends
+
+---
+
+### Flying Flea S6 is our electric scrambler icon of EICMA 2026
+*Auto Today · general*
+
+## Royal Enfield has showcased the production-spec Flying Flea S6 at EICMA 2026, bringing scrambler styling, off-road hardware and advanced electronics to its expanding electric motorcycle portfolio.
+
+Royal Enfield has brought a different flavour to its electric motorcycle portfolio with the production-spec Flying Flea S6, showcased at EICMA 2026. The second model under the Flying Flea sub-brand, the S6 takes the electric platform in a more adventurous direction, adopting scrambler styling and hardware that promise greater versatility than the C6.
+
+Unlike the C6's urban-focused character, the S6 is designed to look more at home on broken roads and unpaved trails. Its styling centres around a slim silhouette, exposed frame, circular headlamp and a flat handlebar. A long, narrow enduro-style seat further reinforces its scrambler identity, while the finned magnesium battery casing adds a distinctive mechanical element to the design.
+
+The motorcycle gets long-travel upside-down front forks and a rear monoshock. It runs on 19-inch front and 18-inch rear wire-spoke aluminium wheels, shod with dual-purpose tyres. Another significant mechanical distinction from the C6 is the use of a conventional chain drive instead of a belt-driven setup. Royal Enfield will offer the S6 in Dart Yellow, Lightning Grey and a carbon finish.
+
+Power comes from a high-torque electric motor, for reference, the Flying Flea C6 comes with a 3.91kWh battery and has 21bhp and 60Nm of torque, although Royal Enfield is yet to reveal the battery capacity, power output and claimed riding range. The S6 features a twist-and-go throttle and a bidirectional crawl function, allowing it to move slowly in either direction. This should prove useful when manoeuvring the motorcycle in tight spaces or negotiating tricky sections off the road.
+
+The electronics package is extensive for an electric scrambler. It gets six riding modes, including an off-road setting and a customisable option. Riders can also alter regenerative braking and traction control intervention. Safety features include lean-angle-sensitive ABS, with the option to switch off ABS on both wheels for off-road use.
+
+Technology is another key part of the package. The S6 features a 3.5-inch circular TFT touchscreen running Royal Enfield's Fleaware.OS. The system supports navigation, connected vehicle functions and smartphone and smartwatch integration. Digital locking and unlocking, live location sharing and security alerts are also part of its connected features. Wireless phone charging and full-LED lighting round off the equipment list.
+
+The Royal Enfield Flying Flea S6 is scheduled to enter production and go on sale in summer 2027. Pricing and market-specific availability details are expected to be announced closer to its launch.
+
+****Subscribe to Auto Today Magazine****
+
+\- Ends
+
+---
+
+### WWE Reportedly Offering Hazard Pay For Crown Jewel 2026 As Several Crew Members Reject Saudi Arabia Trip
+*Unknown · sports*
+
+WWE is reportedly offering $3,000 in hazard pay to crew members traveling to Saudi Arabia for Crown Jewel. However, several employees have declined the trip, while the company has also moved the event to a smaller indoor venue in Riyadh.
+
+[Read full article](https://sports.ndtv.com/us/wwe/wwe-reportedly-offering-hazard-pay-for-crown-jewel-2026-as-several-crew-members-reject-saudi-arabia-trip-12291444)
+
+---
+
+### Gold or silver this Dhanteras? What people should know before buying
+*Anand Singh · general*
+
+Every Dhanteras, gold finds its way into Indian homes, whether as jewellery, a coin, or a small token purchase. This year, however, the festive ritual comes after a particularly unpredictable run for the yellow metal. Prices have hit record highs, fallen sharply, and then bounced back. For those planning to buy gold, the question is not just how much they will have to pay today, but whether the purchase will hold its value over the years.
+
+The past 10 months have been a reminder of just **how sharply gold prices can move**. Gold climbed to nearly $5,600 an ounce in January 2026, dropped below $4,000 and then recovered. Indian buyers felt these swings too, with changes in the rupee's value against the dollar adding to the movement in local prices. Silver saw an even wilder ride, rising above $100 an ounce before falling sharply.
+
+Manav Modi, Commodities Analyst at Motilal Oswal Financial Services, said gold and silver were facing a difficult mix of forces in 2026. While uncertainty around the world encouraged people to turn to precious metals, other factors pulled prices in the opposite direction.
+
+"While elevated US Treasury yields and a stronger dollar have weighed on prices, underlying investment demand remains encouraging," he said, pointing to record global gold ETF holdings and significant inflows during the third quarter as signs that investors continued to show interest in gold despite recent price falls.
+
+Silver, he added, could deliver bigger gains than gold, but its prices were also likely to swing much more sharply.
+
+This is one reason gold and silver should not be treated as interchangeable investments.
+
+Silver can offer bigger gains during a rally, but its price swings can also be wider. Gold, by comparison, is generally the more defensive choice. A recent commodities assessment by Motilal Oswal Financial Services makes a similar distinction, describing gold as relatively defensive while noting that silver offers greater upside with significantly higher volatility.
+
+### HOW GOLD PRICES MOVE AROUND DHANTERAS, DIWALI
+
+There is a seasonal pattern around Diwali in how gold prices behave, although it is not a reliable guide to future returns. Over the past decade, gold generally performed better in the 30 days before Diwali than in the 30 days after it, according to the Motilal Oswal Financial Services report. The pattern was especially strong in 2025, when gold rose nearly 20% in the month before the festival. But there were exceptions, including 2016 and 2021, when prices fell in the run-up to Diwali, the report also said.
+
+Diwali and Dhanteras can affect how much gold people buy, but its price is largely shaped by what happens around the world. The value of the US dollar, interest rates, inflation and global tensions all play a role. When interest rates rise, people may prefer investments that offer regular returns, making gold less attractive. A stronger dollar can also push gold prices down. But wars, rising government debt and uncertainty about the economy can make people turn to gold as a safe way to protect their wealth.
+
+Motilal Oswal's analysts, Navneet Damani, Head of Research – Commodities, and Manav Modi, believe gold and other precious metals will remain relevant investments over the long term, despite short-term price ups and downs. They say gold prices will depend largely on how interest rates change in the US. However, concerns about rising prices, government debt, wars and global uncertainty, along with central banks buying more gold, could continue to support its value in the years ahead.
+
+"While near-term volatility cannot be ruled out, we believe the long-term investment case for precious metals remains intact," the analysts said. They advised investors not to rush into buying gold when prices are high, but to consider buying when prices fall.
+
+### GOLD AS AN INVESTMENT: WHAT DHANTERAS BUYERS SHOULD KNOW
+
+Central banks across the world have continued to add gold to their reserves as they diversify their holdings. The World Gold Council's latest report said central banks bought a net 321 tonnes in the July-September quarter, while gold-backed exchange-traded funds attracted 211 tonnes after seeing outflows in the previous quarter. These purchases provide an important source of demand beyond individual jewellery buyers.
+
+India's investment demand has also shown signs of resilience, even as high prices have weighed on jewellery purchases. The report noted that domestic gold ETF inflows rose sharply in September, while digital-gold purchases remained steady between June and August. This suggests some buyers are choosing investment products instead of, or alongside, physical jewellery. However, high prices and adequate inventories also led to wider discounts in the domestic market ahead of the festive season.
+
+For Dhanteras buyers, the key is to separate the reason for buying from the expectation of returns. Jewellery bought for a wedding or family occasion serves a different purpose from coins, bars or gold-backed funds bought as investments. Jewellery also carries making charges and other costs that might not be recovered when it is sold.
+
+The recent rally does not mean prices cannot fall again.
+
+Perhaps the smartest way to look at gold this Dhanteras is not as a bet on what prices will do next, but as something to be held beyond the next festive season. After all, Dhanteras buying is often about passing wealth on, not cashing in at the next price high.
+
+\- Ends
+
+---
+
+### Google sued after its AI allegedly helps 13-year-old girl plan her suicide
+*Ankita Garg · general*
+
+A school Chromebook became the starting point of a disturbing series of conversations between a 13-year-old girl and Google's Gemini AI chatbot, according to a new lawsuit filed in the US. According to Reuters, the girl's parents have accused Google of failing to protect young users after its chatbot allegedly discussed suicide methods with their daughter, helped her make funeral plans and assisted her in keeping her emotional struggles away from her family.
+
+The teenager, identified as Emma in the complaint, started interacting with Gemini when she was 13. She was using a Chromebook supplied by her school, which gave her access to Google's AI chatbot. Her conversations with Gemini allegedly went beyond general discussions about mental health. The lawsuit claims the chatbot engaged with her questions about different ways to die and helped her think through arrangements for her own funeral. It also allegedly offered assistance in hiding her feelings from her family.
+
+The situation came to light when the school's monitoring software detected a document Emma had created about her funeral. This alerted her parents, who have now taken Google to court. The family argues that Google made its AI tools easily available to children without giving parents and educational institutions adequate warnings about the risks. They have also alleged that the company knew Gemini 3 Flash, the model Emma interacted with, could handle conversations involving mental health poorly.
+
+The lawsuit seeks monetary damages and was initially filed in a California state court on Monday. Google moved the case to federal court on Wednesday.
+
+Responding to the allegations, Google spokesperson Jos Castaeda said the company was examining the claims. "We’ve worked extensively with medical professionals and academic experts to build features that help young people find critical support and trusted resources when they need them," he said.
+
+### Google also expands voluntary exit program for employees
+
+The legal challenge comes at a time when Google is making major investments in AI while also looking to manage its employee costs. The company has extended voluntary exit offers to employees in five countries, including Canada, France, Germany, Japan and Switzerland.
+
+Google confirmed to Reuters that the latest round of offers began in June. The program allows eligible employees to leave the company in exchange for severance payments. It follows similar initiatives introduced in parts of its US and UK operations over the past year.
+
+The company has been directing more resources towards AI and cloud computing, which executives have identified as important areas for future hiring. Its earlier buyout programs also excluded employees working in Google Cloud and its AI research division DeepMind.
+
+The financial terms of the latest program have also emerged in Switzerland. Employees accepting the offer there were eligible for compensation equivalent to one month's salary for every year they had worked at Google, capped at 12 months' pay. The program reportedly covered several divisions but did not include DeepMind.
+
+Google has not revealed how many employees have accepted the latest offers. Its expansion comes amid rising AI-
+
+\- Ends
+
+---
+
+### Logan Cooley Makes NHL History With Rare Achievement Over Alex Ovechkin
+*Unknown · sports*
+
+Logan Cooley became the fastest active NHL player to five career hat tricks in 228 games, two fewer than Alex Ovechkin, after his hat trick performance against the Montreal Canadiens on November 5, 2026.
+
+[Read full article](https://sports.ndtv.com/us/nhl/logan-cooley-makes-nhl-history-with-rare-achievement-over-alex-ovechkin-12291426)
+
+---
+
+### Ro Khanna's supporters launch campaign for 2028 bid, Marco Rubio rules out early exit
+*India Today World Desk · general*
+
+## Ro Khanna's allies have launched an organised effort supporting a possible 2028 presidential bid. The move signals early progressive positioning as Marco Rubio rejects reports of leaving the Trump administration.
+
+A possible Khanna candidacy would face significant challenges. (Credits: Reuters)
+
+Washington,Nov 6, 2026 12:00 IST
+
+Attention in the United States has shifted to the 2028 presidential election after the midterm polls, with allies of Indian-American Congressman Ro Khanna seeking support for his possible candidacy and reports suggesting that Secretary of State Marco Rubio may also enter the race, according to news agency Press Trust of India.
+
+While a group supporting Khanna has begun raising funds and building support, Rubio has dismissed reports that he could leave the Trump administration to prepare for a presidential bid.
+
+A section of the media reported on Thursday that Rubio might resign from the administration for a possible presidential run. However, he said he planned to work for President Donald Trump until the end of his term.
+
+Working for Trump until the end of his term has “always been my plan”, Rubio told The New York Times. “I don't know where these things come from, to be honest with you,” he said in response to reports that he could soon leave the Cabinet.
+
+Former Congressman Jamaal Bowman and progressive strategist Nomiki Konst have launched a group called “Run Ro” to support Khanna. The group can raise money from donors and begin building support while he considers a 2028 campaign.
+
+“By launching now, we are trying to ensure that the presidential primary debate is framed from a progressive populist perspective,” Konst told NBC News.
+
+A possible Khanna candidacy would face significant challenges. James Garfield, elected in 1880, is the only person to have won the presidency directly from the House of Representatives.
+
+Khanna, a fifth-term lawmaker, has drawn attention for bipartisan efforts to secure the release of the Jeffrey Epstein files and end the war in Iran, PTI reported.
+
+“We need America's Next New Deal. Whether I run or support someone else is something I will decide with my family after the holidays,” Khanna said in a statement to NBC News.
+
+Khanna, who was a co-chair of Bernie Sanders' 2020 campaign, is also popular among progressives across the country. The Philadelphia-born lawmaker has been visiting early primary states for months.
+
+Khanna and fellow Democratic leaders, Senators Cory Booker and Chris Van Hollen, are scheduled to attend a gathering of prominent Democrats in Denver next week to discuss the party's future course.
+
+The meeting, to be held from November 12 to 14, is being hosted by Majority Democrats. The group was formed last year by largely moderate elected representatives and other prominent Democrats who say they are “committed to reshaping and growing the Democratic Party”.
+
+Other potential presidential candidates expected to attend include former Transportation Secretary Pete Buttigieg, Senator Raphael Warnock of Georgia, Senator Ruben Gallego of Arizona and Senator Chris Murphy of Connecticut.
+
+The developments reflect early preparations for the 2028 presidential race, with Khanna's supporters beginning an organised campaign as he weighs a bid and Rubio rejecting reports of an early departure from the Trump administration.
+
+\- Ends
+
+---
+
+### iPhone 17 Gets Rs 40,000 Price Cut On Flipkart: Here’s How To Buy It For Under Rs 60,000
+*Priya Singh · technology*
+
+The iPhone 17 is now available on Flipkart at an effective price of under Rs 60,000, significantly lower than its listed price of Rs 99,900. However, buyers will need to combine the platform's price reduction with eligible bank card offers and an exchange deal to reach this price. The offer applies to the 256GB model, and the final amount will depend on the buyer's payment method and old device.
+
+## iPhone 17 Flipkart Deal: How To Get It For Under Rs 60,000
+
+The 256GB iPhone 17, listed at Rs 99,900 in India, is available at a lower price on Flipkart, which is offering an upfront discount of around 3 per cent. This brings the selling price to approximately Rs 97,300. Buyers can unlock additional savings through select bank card offers and an exchange deal, but getting the lowest price requires combining all these benefits.
+
+## Bank Discounts And Exchange Offer Explained
+
+ICICI Bank and HDFC Bank credit card holders can save Rs 7,016, while SBI and Flipkart Axis Bank credit card users are eligible for benefits worth Rs 7,000. The biggest reduction comes from exchanging an old smartphone. Flipkart is offering up to Rs 31,250 for an iPhone 15, which, along with the ICICI or HDFC card discount, can bring the effective iPhone 17 price down to Rs 59,034. The exchange value depends on the old phone's condition and eligibility checks, so this is not a guaranteed price for every buyer. A three-month EMI option is also available at Rs 20,852 per month, taking the total payout to Rs 62,556.
+
+## iPhone 17 Display And Performance
+
+The iPhone 17 features a 6.3-inch Super Retina XDR OLED display with a 120Hz ProMotion refresh rate, Always-On functionality and up to 3,000 nits of peak outdoor brightness. It runs on Apple's A19 chipset, built using a 3nm process, and supports Apple Intelligence features. The phone also gets an aluminium body, Ceramic Shield 2 protection and an IP68 rating for dust and water resistance.
+
+## iPhone 17 Cameras, Battery And Colours
+
+For photography, the smartphone has a dual rear camera system comprising a 48-megapixel Fusion main sensor and a 48-megapixel ultra-wide camera. On the front is an 18-megapixel Centre Stage camera with automatic framing and Dual Capture support. Apple claims up to 30 hours of video playback on a single charge. The iPhone 17 is available in Black, White, Mist Blue, Sage and Lavender colour options, with 256GB and 512GB storage configurations.
+
+**ALSO SEE: ‘Godfather of AI’ Geoffrey Hinton Says AI Could Cause A Major Blackout By 2027: What Is The Warning About?**
+
+---
+
+### The internet is in love with this Aish-AB moment
+*Unknown · general*
+
+The internet is in love with this AishAB moment
+
+[Read full article](https://www.indiatoday.in/newsmo/short-videos/the-internet-is-in-love-with-this-aish-ab-moment-3033537-2026-11-06)
+
+---
+
+### Rainbow Children's Medicare plans ₹2,200 crore expansion by FY32
+*Business Standard · business, entrepreneur, finance*
+
+Hospital chain targets over 5,000 beds by FY32; eyes more facilities in Mumbai as new hospitals weigh on margins
+
+[Read full article](https://www.business-standard.com/companies/news/rainbow-childrens-medicare-rs-2200-crore-expansion-5000-beds-fy32-126110600667_1.html)
+
+---
+
+### Did Calcutta get its name from Kali? The history of Kalighat and the city
+*Adrija Roychowdhury · legal*
+
+From an ancient pilgrimage site to a landmark of colonial Calcutta, Kalighat's journey reflects the relationship between religion, urbanisation, and cultural identity.
+
+[Read full article](https://indianexpress.com/article/research/did-calcutta-get-its-name-from-kali-the-history-of-kalighat-and-the-city-10952982/)
+
+---
+
+### When SRK swapped scripts for pizzas: How a new hobby can help you bounce back
+*Express News Service · legal*
+
+Shah Rukh Khan’s post-Zero break highlights how stepping away, exploring a new hobby and accepting failure can help rebuild confidence, restore motivation and improve mental well-being.
+
+[Read full article](https://indianexpress.com/article/health-wellness/shah-rukh-khan-pizza-making-break-after-zero-failure-lessons-10953093/)
+
+---
+
+### No difference in praying: Rohingya struggle to find sense of community in Malaysia
+*India Today World Desk · general*
+
+## Rohingya refugees in Malaysia are struggling to worship freely and rebuild their lives. Their uncertain legal status deepens fears of detention, exclusion and poverty.
+
+Religious freedom advocacy group CSW said Rohingya refugees in Malaysia cannot officially register their own places of worship. (Photo: Reuters)
+
+Kuala Lumpur,Nov 6, 2026 11:52 IST
+
+Rohingya refugees in Malaysia continue to face difficulties in practising their faith and rebuilding their lives despite finding safety from persecution in Myanmar, according to a report carried by news agency Press Trust of India. Malaysia does not legally recognise refugees, leaving many vulnerable to detention and limiting their access to places of worship, education, healthcare and fair wages.
+
+About 7,00,000 Rohingya fled a military crackdown in Myanmar in 2017 and crossed into neighbouring Bangladesh, according to the UN refugee agency, UNHCR. Others sought refuge in countries including Malaysia, India, Indonesia and Thailand. As of February 2026, about 126,000 Rohingya were registered with UNHCR in Malaysia.
+
+Nur Sadek, who now studies law and advocates for Rohingya rights in Malaysia, was once preparing to become an Islamic scholar. His mother had hoped he would serve as a religious leader in their village in western Myanmar. The Rohingya, a predominantly Muslim ethnic minority, live in Myanmar's Rakhine State alongside Buddhists and a smaller Hindu population, in a region long shaped by ethnic and religious divisions.
+
+Sadek fled Myanmar with his family in 2017 after soldiers opened fire on his community and bullets struck the tin roof of his home. He escaped with only the clothes he was wearing and never returned.
+
+Religious freedom advocacy group CSW said Rohingya refugees in Malaysia cannot officially register their own places of worship, according to the report carried by PTI. Most pray at local mosques, but some face discrimination or stay away because they fear immigration detention. “Religious solidarity is often overtaken by social and cultural differences between the two groups,” CSW said.
+
+### PERSONAL CRISES LOOM IN
+
+Nurul Hakim, the first of 10 siblings to leave Myanmar, fled in 2010. He reached Kuala Lumpur after travelling for days on foot, by car and by boat through Thailand. Although his family was not directly attacked, years of violence and discrimination had made life increasingly difficult for the Rohingya community.
+
+Rohingya Muslims in Rakhine faced restrictions for years on religious gatherings, access to mosques and Islamic education. Authorities closed mosques and limited communal prayers, according to reports by the United Nations and Amnesty International.
+
+Hakim said he can now pray freely and feels welcomed by local Muslim religious leaders. However, he has heard of Rohingya elsewhere in Malaysia being barred from mosques. Rohingya Rights Response, an organisation co-founded by Sadek to monitor issues affecting refugees in Malaysia, has also documented restrictions on religious practices. Banners saying Rohingya were unwelcome have been displayed outside mosques in some neighbourhoods.
+
+Even where Rohingya can pray freely, they find it difficult to recreate aspects of their religious life away from home. “Most of the Rohingya don't have their own imam leading the prayers because the mosques are run by Malay imams,” Sadek said.
+
+Hakim said he misses pulling a rickshaw, trading goods with neighbours and learning about Islam with other Rohingya. “There is no difference in praying at a different mosque, but there are differences with who you are praying with,” he said. “When I was back in Myanmar and I went to pray, I could pray with my neighbours, with my villagers, and I don't have that here.”
+
+For some refugees, the lack of legal status creates a more immediate barrier. Mohammed Rafique said he mostly prays at home and rarely visits a mosque because he fears encountering immigration authorities. He fled Myanmar in 2009 with his wife and five children, who stayed in Bangladesh while he continued to Malaysia. He has not seen them since.
+
+Rafique earns 30 ringgit, or USD 7.50, a day collecting scrap materials, which is barely enough to pay for his medication. He said the hardest moment was learning that his wife had died when he had been unable to say goodbye. Sadek faced a similar loss after his mother died in Bangladesh. He has yet to visit her grave. “I always wanted to do a lot of stuff, but now I just want to visit her cemetery and that has become like a dream for me,” he said.
+
+Sadek's organisation campaigns for greater safety for Rohingya in Malaysia. Besides the risk of immigration detention, it has documented harassment by social media content creators who mock and demean refugees. Sadek also advocates for fair wages and access to healthcare and education.
+
+Zahidah Begum said these challenges are part of daily life. Her husband struggles to work because of health problems, while her school-age children cannot attend formal classes. “I don't know what the future holds for us,” she said.
+
+Begum fled Myanmar in 2013 with memories of religious persecution. Her father, an imam and respected religious leader in their village, taught Islamic studies every day from 8 am to 4 pm. “I love my father because of what he did,” she said. “He is the one who raised me, who taught me everything, including the Islamic teachings.”
+
+Her father introduced her to the Quran, taught her to read and understand its verses, and explained what their faith permitted and forbade. During a raid on their village, soldiers tried to arrest him. He fell and broke his leg while escaping. He later fled to Bangladesh but could not receive medical treatment. His injury became infected and he died.
+
+“I miss every moment of my father,” Begum said. She now passes his lessons on to her two daughters, teaching them to pray, recite verses from the Quran and make duas, or personal supplications to God. “I still feel the same connection to my faith that I felt back home,” she said. “Even here, I remain connected to my religion.”
+
+For Rohingya refugees in Malaysia, escaping persecution has brought safety but not legal recognition or an end to hardship. Fear of detention, restrictions at some mosques and the loss of family and community continue to affect their lives, even as they seek to preserve their faith and traditions.
+
+\- Ends
+
+
+---
+
 ## 5 November 2026
 
 ### When Justice Ujjal Bhuyan holds court, outside the Supreme Court
