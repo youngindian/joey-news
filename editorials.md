@@ -1,8 +1,222 @@
 # Editorials
 
-_Last updated: 2026-11-05 08:19 UTC_
+_Last updated: 2026-11-06 08:22 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 6 November 2026
+
+### Danger in the sewer: On India’s sewer cleaning deaths
+*The Hindu · Editorial*
+
+Despite legislation, Supreme Court orders, government programmes, the availability of mechanised cleaning technologies, and exhortations from politicians, India continues to lose sanitation workers to foreseeable, and largely preventable, circumstances. In a recent incident, four workers lost their lives in Ujjain, Madhya Pradesh, cleaning a hotel’s food-waste chamber. According to Parliament and the National Commission for Safai Karamcharis data, the number of workers who died on jobs involving sewer and septic tanks was 859 between 2014 and 2025, 498 from 2019 to mid-2026, 332 across 18 States and Union Territories in 2021-26, and 1,350 between 1993 and 2025. The figures have never tended towards zero even as the Safai Karamchari Andolan has repeatedly alleged severe under-reporting. Further, the government has maintained since at least 2021 that the practice of manually cleaning excreta from insanitary latrines has been eliminated, effectively signalling that it believes it has addressed the root of the problem when it has not, and freeing administrative bodies of the urgency of inspecting municipalities and private establishments. Members of historically marginalised castes are also overrepresented in these jobs. The law has distinguished hazardous cleaning of sewers and septic tanks from manual scavenging since 2013. Even so, persons entering them are still vulnerable to noxious gases. In Dr. Balram Singh (2023), the Court strengthened the requirements under Safai Karamchari Andolan (2014) to, among other measures, ensure outsourced sewer-cleaning contracts did not entail workers entering sewers and raise the compensation for deaths to ₹30 lakh per worker. In 2025, there was an order to end manual sewer cleaning in four metropolitan cities, Bengaluru, and Hyderabad followed a year later with notices to 15 Chief Secretaries for disobeying the 2023 order, including on the compensation.
+
+Private contractors and municipal bodies are known to violate the restrictions on manual cleaning specified in the Prohibition of Employment as Manual Scavengers and their Rehabilitation Act 2013 and Rules, and evade liability by hiring undocumented daily-wage workers. The scourge of such worker deaths thus cannot be eliminated without also formalising their employment and improving social security across caste lines. A significant gap between aims and outcomes has also persisted under the National Action for Mechanised Sanitation Ecosystem scheme. And while it is centred on urban local bodies, its difficulties speak to the state’s fundamental error: to maximise administrative assistance, such as by distributing kits, rather than minimising the number of situations that could lead to worker deaths.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece)
+
+---
+
+### Trump debacle: On the U.S. midterm election results
+*The Hindu · Editorial*
+
+President Donald Trump faced the worst political setback of his current term in office after the Republican Party lost control of both the Senate and the House of Representatives in the mid-term election. Democrats not only won resoundingly in their traditional stronghold States, such as Colorado, Oregon and Illinois, and held onto important swing States, such as Georgia, Michigan and Virginia, but they also made historic inroads into “red states” such as Texas, Kansas and Iowa. While Mr. Trump fumed that Republicans would have performed better had his name been on the ballot, he also appeared to be resigned to the imminent reality of working with Democratic lawmakers over the remaining two years of his administration. Beyond the immediate impact on the future functioning of the federal government, this week’s “bluenami” has also brought sweeping changes at the State level: Democrats won a Senate seat in Texas for the first time in 37 years; Democrat Abdul El-Sayed won in Michigan, making him the first Muslim Senator in history; Chris Pappas of New Hampshire became the first openly gay man to be elected to the Senate; and Senate Minority Leader Hakeem Jeffries will soon be the first African-American Speaker of the House.
+
+It is ironic that Mr. Trump alluded to his name not being on the ballot as the cause for the Republican collapse because, for many voters, the midterm election was indeed a referendum on the second Trump administration’s performance in office. The result has been an unambiguous thumbs-down from voters so far as top policy areas of the Trump administration are concerned, including cost of living and jobs, immigration enforcement, the war in Iran. The writing was on the wall, as were the approval ratings, especially in the case of oil prices and the Iran war, given that the price of gas in the U.S. has soared since the conflict around the Strait of Hormuz escalated. Similarly, the widespread raids by ICE and accelerated deportation processes for undocumented migrants led to protests across States and galvanised progressives around immigration reform. While Democrats may be justified in celebrating their victory after two years of harsh Trumpism, they would do well to remember that the President still retains a veto vote for policies passed by Congress. The temptation to launch a series of investigations and interrogate the functioning of the Trump White House may be strong, yet congressional Democrats may wish to avoid any posturing that yields no palpable policy impact, including kicking off impeachment proceedings against Mr. Trump. A more productive way forward for Democratic lawmakers would be to engage with the White House and, through negotiation and compromise, mitigate the real impact of deleterious policies in critical areas such as health-care insurance and tariffs.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/trump-debacle-on-the-us-midterm-election-results/article71670096.ece)
+
+---
+
+### A middle power moment in a fragmenting world
+*The Hindu · Opinion*
+
+When, early in October, this writer found himself in Berlin, addressing the question of whether this is a “Middle Power moment”, just a day after External Affairs Minister S. Jaishankar had made a speech in Delhi on the same topic, it led to a realisation why this theme has gained renewed salience this year. It began with Canadian Prime Minister Mark Carney calling, in Davos in January, for the middle powers to collectively address the challenges facing the international system, and persisted with the global recognition that the world is no longer defined solely by the gravitational pull of superpowers, nor by the binary alignments of the Cold War, but by a wider constellation of states. These states neither command the international system nor submit passively to it. Instead, their influence derives from strategic positioning, economic weight, diplomatic agility, and normative ambition.
+
+Middle powers are not easy to define. They are typically characterised by a combination of attributes: significant regional presence and influence, desire for greater relevance, growing economic capabilities, credible diplomatic networks, and the political will to act beyond their immediate neighbourhoods. They are not “great” powers in the traditional sense, but they possess enough weight to matter in global governance, and enough autonomy to pursue independent strategies. Their influence is exercised less through coercion than through coalition-building, agenda-setting, and the ability to act as bridges between different parts of the international system.
+
+[Read full article](https://www.thehindu.com/opinion/lead/a-middle-power-moment-in-a-fragmenting-world/article71670894.ece)
+
+---
+
+### DC Edit | Govt’s Intriguing U-turn On Agnipath
+*Deccan Chronicle · Editorial*
+
+The flavour of the season appears to be the U-turn. After the controversy over the Special Intensive Revision (SIR) of electoral rolls raised questions and prompted fresh scrutiny of voters’ lists, the much-touted Agnipath scheme is now in the spotlight.
+
+A policy projected as transformational military reform is being rewritten weeks before the first batch of Agniveers completes its four-year tenure. The Union Cabinet has approved an additional two-year engagement for the 75 per cent of Agniveers who would otherwise leave after four years. The provision allowing 25 per cent to enter regular service on merit remains. Those who take the extension will receive higher remuneration and, after six years, another chance to seek regular enrolment, subject to willingness and selection criteria.
+
+The government says the change follows four years of assessment. But if the scheme was so well-conceived, why correct it before its first full cycle has ended?
+
+The timing of the Agniveer U-turn is difficult to ignore. Punjab, Uttarakhand and Uttar Pradesh have traditionally been major recruitment grounds for the armed forces. In these states, joining the armed forces is not merely a career or a matter of family tradition and social prestige. It is also a source of employment for rural youth.
+
+The first batch of Agniveers was staring at unemployment within two months. The Navy's first batch was scheduled to exit on November 21, followed by the Air Force on December 25 and the Army on December 31. The government was obviously running out of time to make any adjustments before thousands of young men, after four years of military training and service, returned to civilian life without any assurance of permanent employment. In short, in regions where jobs are scarce, thousands of young men would once again find themselves back in the ranks of the unemployed. There was another dimension at play. During the CJP protests, videos had surfaced showing Agniveers expressing support for the agitation. With waves of protests crashing relentlessly against the saffron citadel, the possibility of these trained young men lending support to it would have created an extremely uncomfortable situation for the establishment.
+
+There is also an electoral angle. With elections approaching in these three states, the political situation is hardly comfortable for the BJP. In Uttarakhand, the burden of anti-incumbency seemed to be weighing heavily on the ruling party. In Punjab, rebuilding its political presence will be an uphill climb. And in Uttar Pradesh, even the BJP's staunchest supporter is keeping his fingers crossed.
+
+When launched on June 14, 2022, the Agniveer scheme was projected as a “transformative reform” and a “Game Changer”. But within the military establishment, it apparently came as a “bolt out of the blue”, as former Army chief Gen. Manoj Mukund Naravane revealed in his now contentious memoir, Four Stars of Destiny.
+
+According to the former Army chief, the scheme was in fact a far broader and substantially altered version of a proposal he had mooted in 2020 under the title “Tour of Duty”. He had suggested a limited recruitment model for the Army, but was taken by surprise when the idea resurfaced in an expanded form of the Agnipath scheme, covering all three services.
+
+Agnipath was billed as a way to lower the armed forces’ average age, create a younger military, and reduce pension liabilities. Recruits would serve four years, with only 25 per cent retained; the remaining 75 per cent would leave with a Seva Nidhi package but no pension or an assured career. The government dismissed mounting criticism. Now, barely four years later, it has changed the rules. A supposedly non-negotiable military reform has been substantially diluted. Call it a recalibration, but it is unmistakably a U-turn.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-govts-intriguing-u-turn-on-agnipath-2002132)
+
+---
+
+### DC Edit | Major Energy Win For India
+*Deccan Chronicle · Editorial*
+
+Iran’s decision to exempt vessels from India, China, Iraq and Qatar from restrictions on passage through the Strait of Hormuz will further ease global oil supply and will help New Delhi to deal with its oil-deficit economy better. However, the decision also conveys an important diplomatic message.
+
+The concession has been attributed partly to Iran’s need for medicines and pharmaceutical supplies from India. However, reducing the decision to a transactional arrangement would overlook the deeper strategic relationship between the two countries.
+
+The decision assumes greater significance against the backdrop of reported efforts by Pakistan’s Army chief Field Marshal Syed Asim Munir to convince Iran to downgrade its relations with India over the latter’s close ties with Israel. This concession coming in such a backdrop shows that Iran is unwilling to allow third-party concerns to dictate its relations with New Delhi.
+
+There could also be a broader economic calculation behind the exemption. An understanding between Iran and the United States to facilitate energy movements through Indian refining capacity cannot be ruled out, although there is no confirmed evidence of such an arrangement. The reported observation that American forces are not intercepting vessels covered by the Iranian exemption makes this possibility worth examining.
+
+India’s refining capacity, which is fourth largest in the world, after the United States, China and Russia, provides substance to this argument. With 22 operational refineries and an installed capacity of 258.1 million tonnes annually, India exported 61.5 million tonnes of petroleum products in 2025-26.
+
+For India, the immediate benefit is considerable. The Strait of Hormuz remains vital for crude oil, LPG and LNG imports. Greater predictability in shipping could help contain energy costs, protect domestic consumers and support industrial activity. The larger lesson is that India's policy of maintaining relations with competing powers has yielded a tangible diplomatic advantage.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-major-energy-win-for-india-2002136)
+
+---
+
+### Dem Win In Congress Alters Path Of US Policy
+*Deccan Chronicle · Opinion*
+
+The 2026 US midterm elections were expected to negatively impact the Republican Party, due to President Donald Trump’s disruptive policies. The outcome, however, became an electoral tornado, with the House and the Senate passing into the hands of Democrats. Additionally, even the gubernatorial contests favoured the Democrats.
+
+President Trump, on the eve of the polls, instructed his supporters to “pretend I’m on the ballot”. Facing a rout he switched his position, claiming he “wasn’t on the ballot and if I was, we would have won in a landslide”. However, he allayed rising concern about him questioning the election result, saying he would accept the outcome.
+
+The constitutional implications of the Republicans losing control of the Congress are clear. Democrats can now veto the government’s nominees for ministerial, judicial or other posts. By occupying the chairs of sensitive committees they can institute enquiries, summon officials, etc., Democrats also get to shape the legislative agenda, including overseeing governmental spending and President Trump-designed projects, especially those impacting historical buildings, like the under-construction White House ballroom. Democrats would also try rectifying the Trump administration’s tampering with the Obama-era healthcare under the Affordable Care Act (ACA). Almost 7,60,000 enrollees face name-deletion. Another 4,20,000 are being investigated for fraud.
+
+President Donald Trump’s irrationally high tariffs, unilaterally imposed, and joining Israel to launch armed hostilities against Iran on February 29 clearly caused the current global energy crisis, resulting also in higher energy and living costs in the US. The Iranian resilience in bearing the air attacks while retaliating with drones and missiles has created a military standoff. Iran has also extensively damaged the assets and military facilities of the US and its allies in the Gulf region, besides seizing control of the vital Strait of Hormuz.
+
+Vice-president J.D. Vance took to social media immediately to analyze the rout of Republicans. Quoting an analyst, whose private advice he claims proved correct, he listed four necessary policy changes. These are: “1) End the war; 2) Focus on cost of living/inflation; 3) Put America First; 4) Change our relationship to Israel.” There is increasing consensus that the Iran war caused the escalation of oil price and the cost of living in the US. The vice-president, of course, underplayed the role of the physical targeting of suspected illegal immigrants by masked agents of the Immigration and Customs Enforcement (ICE). A shift in the Hispanic votes can be traced to this policy.
+
+With 54 or even 55/56 senate seats and over 250 members in the House, the Democrats achieved unprecedented success. They scored victories in traditionally pro-Republican states like Iowa, Ohio, South Carolina, Texas and Kansas. President Trump now faces a lame-duck presidency with likely inquiries into conflicts of interest as the current US Congress ignored the business dealings of Trump, his family and close associates.
+
+The question, in the US and global minds, is whether President Trump will modify the weaponisation of tariffs, end the Iran war, modify the alliance with Israel and so on. Three past Presidents, who suffered midterm setbacks, immediately addressed the issues in play. Presidents Ronald Reagan in 1982, Bill Clinton in 1994 and Barack Obama in 2010, encountered similar defeat but recovered the lost space two years later. President Donald Trump, so far, has not shown the sensibility to modify policies when confronting negative outcomes. However, as the 2028 presidential election approaches, even candidates like J.D. Vance and Marco Rubio would have to start distancing themselves from President Trump’s highly personalised policy making and family-centred nepotism.
+
+The impact abroad may take a different form. Historically, the US Presidents, when facing domestic political constriction, turn to diplomacy to safeguard their legacy. President Bill Clinton spent 2000, his last year in office, resolving the Palestinian issue. He held the Camp David Summit in July 2000, where Israeli Prime Minister Ehud Barak and Palestinian leader Yasser Arafat negotiated for 13 days. Despite the Second Intifada in September, he made a final bid for peace in December.
+
+President Donald Trump confronts a more complicated situation. He has threatened escalating the Iran war, including dropping nuclear weapons to destroy Iran’s Pickaxe Mountain nuclear enrichment facility. But Israeli elections have dismantled the ruling alliance of PM Benjamin Netanyahu. Gadi Eisenkot, the likely Opposition prime ministerial candidate, would need to moderate Zionism, requiring the tacit support of the 19-member Arab groups. Though Mr Netanyahu may still prefer re-commencing the war with Iran to disrupt Opposition’s government formation, will Mr Trump ignore the end-the-war message the US voters have broadcast? Iran has ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/dem-win-in-congress-alters-path-of-us-policy-2002126)
+
+---
+
+### What India’s Online Child Safety Rules Must Get Right
+*Deccan Chronicle · Opinion*
+
+On October 15, the Supreme Court recognised children’s fundamental right to access and use the Internet under Articles 21 and 19(1)(a) of the Constitution. It rejected blanket restrictions and said children should not be kept offline because platforms fail to remove abusive material. The ruling sets an important principle, but it does not answer how children should be protected. India must safeguard them without making access to information depend on parental approval, intrusive identity checks, or private platforms’ procedures. Policy must also separate protection from surveillance.
+
+There is no doubt that parental consent has a legitimate purpose. Young children need guidance in dealing with grooming, harmful content, and services designed to keep them online for hours. But consent becomes a problem when it is the only route to access.
+
+India’s Digital Personal Data Protection Act, 2023, and the Rules notified in November 2025 rely on it, requiring verifiable parental consent before companies process children’s personal data, subject to exceptions. Implementation is phased.
+
+It is well known that not every home is safe. A teenager facing abuse, a child whose family rejects their identity, or a young person seeking confidential health advice may be unable to approach a parent. Rules should distinguish younger children from older adolescents, whose capacity for independent decisions grows with age. Helplines, health information, education and public services should not require unnecessary parental consent.
+
+Of course, age-based safeguards need a way to establish age, but must that mean collecting identity documents from every user? No. Under the notified rules, platforms must verify that the person giving consent is an adult, which could link a child’s account to an adult’s identity record. The Supreme Court has warned that age restrictions can increase the risks of identification, monitoring, and data misuse. How about using less intrusive methods? A trusted provider could confirm whether a user is above or below a specified age without disclosing identity. On-device systems could estimate age without sending data to a platform. Neither is error-free, so users need a way to challenge wrong decisions. India should require data minimisation, limited retention, and independent audits, and bar the use of age-verification data for advertising or profiling.
+
+Next, the government must distinguish access to harmful content from access to an entire service. Exposure to sexual exploitation does not automatically justify blocking a platform that offers educational resources, news, and support. Restrictions should target identified risks and use the least intrusive effective method, so proportionality guides legislation and enforcement.
+
+Platforms, too, shape what children see through recommendations, notifications, advertising, and design, and control contact settings and complaint mechanisms. However, policy often places the burden on children and parents. India needs enforceable duties: private accounts by default for younger users, limits on unsolicited contact from unknown adults, effective reporting and appeal systems, and limits on targeted advertising to children. Repeated failures should attract meaningful penalties.
+
+Abuse material needs the same care. The Court has directed the government to strengthen systems for detecting and removing child sexual exploitation and abuse material, including a national database of verified hash values and URLs. Its directions require multiple verification stages and review by at least three trained human analysts. Independent audits and clear procedures to challenge wrongful removals are needed so the database does not restrict lawful material without scrutiny.
+
+However, enforcement matters as much as legislation. A regulator needs technical expertise, independence, and powers to investigate failures. Compliance should be judged by independent audits, complaint-resolution times, and evidence of reduced harm, not by the number of accounts blocked. Otherwise, platforms may over-remove lawful content to avoid penalties. The government should publish its methods and findings for researchers and civil society to assess. Since much abuse goes unreported, assessments must explain their limitations.
+
+Foreign laws offer limited guidance because they address different problems. The United States’ Children’s Online Privacy Protection Act requires verifiable parental consent before covered services collect personal information from children under 13, with exceptions; it does not generally ban social media. The United Kingdom’s Online Safety Act requires highly effective age checks only for services giving access to specified harmful content, including pornography. India should assess the evidence, privacy costs, and scope for evasion before adopting similar measures. Australia’s under-16 social media restrictions took effect in December 2025, and a June 2026 study in The BMJ found that ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/what-indias-online-child-safety-rules-must-get-right-2002117)
+
+---
+
+### Language choice: Plan before prescription
+*Deccan Herald · Editorial*
+
+Karnataka Chief Minister D K Shivakumar’s proposal to introduce medical education in Kannada deserves consideration, but it must be approached with caution. With medical seats scarce and the quality of training directly linked to patient safety, the initiative demands careful planning. Making professional education accessible in the mother tongue can expand opportunities for Kannada-medium students and strengthen their ability to connect with patients. The proposal is to add Kannada as an option for students, not replace English or compel anyone to study in a particular language. But medicine is not a field where the costs of a poorly executed programme can be easily corrected. The state should examine why engineering courses offered in Kannada have not seen success. One reason is the perception that regional-language degrees may restrict employment prospects, as English remains the dominant language of technical literature, higher education, research, and recruitment. These concerns must be assessed before extending the model to medicine.
+
+Madhya Pradesh was the first state to introduce Hindi-medium MBBS instruction in 2022 using translated textbooks in foundational subjects. Chhattisgarh and Rajasthan subsequently announced similar initiatives. Karnataka would do well to study the outcomes of these programmes rather than assume that policy announcements alone validate the approach. The case for Kannada in healthcare is nevertheless compelling. Students often learn complex concepts more effectively when taught in a familiar language. Equally important is communication with patients. Doctors who can understand symptoms, explain diagnoses, and provide treatment instructions in Kannada are better placed to build trust and reduce misunderstandings. This is as relevant in private hospitals and clinics as it is in government healthcare institutions. Even doctors educated in English need to communicate fluently in the language their patients understand.
+
+At the same time, medical graduates must be equipped to work beyond Karnataka, pursue specialisation, and keep pace with research. Standard textbooks, postgraduate entrance examinations, research publications, and much of medical terminology remain rooted in English. Weak proficiency in that language could limit opportunities. Translation, too, requires continuous expert review, standardisation, and updating. The most sensible path is a carefully designed programme that preserves student choice and maintains academic standards. Kannada can enhance conceptual learning and patient communication, while students must also acquire the English proficiency needed for clinical terminology, advanced study, and research. The initiative should broaden access and improve patient care without narrowing the horizons of the graduates. It should be backed not by linguistic symbolism but by educational outcomes.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/language-choice-plan-before-prescription-4209368)
+
+---
+
+### Weakened Trump is the world’s problem
+*Deccan Herald · Editorial*
+
+There are times when, notwithstanding the leader’s popularity, the party in power faces an electoral setback: the Republican Party in the United States is facing such a crisis. The November 3 results of the US midterm polls appear to be a clear indictment of President Trump’s policies. Voter concerns over inflation, uncertainty regarding tariffs, the brutal use of force to address the immigration problem, government corruption, and the ongoing war with Iran seem to have worked in favour of the Democratic Party, which won Congress: both the Senate (54 seats) and the House (245 seats). Reacting to the results, Trump said he was ‘absolutely willing to accept’ them. But he is known to be temperamental, and to walk back on his words if it suits his case. For example, at the hustings, he asked his supporters to vote pretending he was “on the ballot” – on Tuesday, he defended his pride by saying that had he been on the ballot, it would have been a “landslide” victory for the GOP.
+
+By losing Congress, Trump’s remaining term in office enters a ‘lame duck’ phase. Legislative gridlock, increasing oversight over his policies and conduct, and intense judicial confirmation battles can be expected to punctuate the next two years. Expect the Republican Party to think about its 2028 presidential candidate options, and in the process distance itself from Trump. Given the stranglehold Trump has over the party, this will not be easy. However, the losses in the blood-red states of Kansas, Texas, and South Carolina should sound alarm bells within the party and embolden anti-Trump voices within the GOP. The thorough hiding that Trump’s hand-picked candidates received shows that his hold over his MAGA constituency is waning. Clearly, Trump fatigue has set in.
+
+The midterm blues have domestically constrained Trump, but he still wields vast executive powers, especially in foreign policy. It is highly unlikely that Trump will hold Tel Aviv accountable for war crimes in Gaza. His course of action on Iran remains erratic. This uncertainty could keep crude prices high, reflecting in India’s import bill. If he decides to tighten sanctions on Russia – for which there will be bipartisan support – India’s defence and energy sovereignty could come under pressure. The India-US FTA, a long time in the offing, will depend on which side blinks first. With chances of leaving his signature through domestic legislation virtually zero, Trump could fancy a foreign policy hurrah – and that has already got capitals around the world concerned.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/weakened-trump-is-the-worlds-problem-4209367)
+
+---
+
+### Modi’s Trump card just lost its value
+*Deccan Herald · Opinion*
+
+The Democratic Party’s electoral sweep of both chambers of the US Congress presents a two-front dilemma for the Narendra Modi government. It must simultaneously navigate an unpredictable and transaction-oriented US President Donald Trump, and an empowered US Congress controlled by Democrats who have tended to be quite vocal about domestic governance in India.
+
+Trump’s electoral setback will further erode the value of Modi's personal relationship with Trump that went beyond conventional diplomatic engagement, although it had begun to produce diminishing returns in Trump’s second term.
+
+India faced a 50 per cent tariff on its exports, pressure on Russian oil imports, sending back Indian illegal immigrants in fetters, visa restrictions on Indian professionals, and a high-profile promotion of diplomatic partnership with Pakistan.
+
+Trump’s transactional style had also given Modi room to manoeuvre domestically and avoid uncomfortable questions. The issues of domestic political developments were segregated from the issues of bilateral engagement by Trump.
+
+A US Congress controlled by Democrats will, however, change the environment in which Modi operated. It may be far less accommodating precisely on the domestic issues that Trump kept at bay. Far from rehabilitating or enhancing Modi’s international standing, this merging of the two may highlight the contradictions in his foreign policy and domestic political positioning.
+
+US Midterm Elections: ‘Crushing bow to Trump’ — How world leaders reacted to Democrats’ victoryIt is not as if Trump's electoral defeat in the US Congress will entirely remove his influence. He may still use the executive powers of the president to demonstrate that he remains decisive in matters of consequence in foreign policy.
+
+Trump has been fairly unpredictable in the recent past, combining faint praise of Modi with punitive pressure on trade, Russian oil, defence co-operation, and India’s relationship with other countries. Modi will, therefore, have to face both a deteriorating and undependable relationship with Trump along with a more demanding scrutiny of India's domestic institutions by the US Congress.
+
+Prominent Democrats (like Pramila Jayapal) have been critical of the Modi government on minority rights, religious polarisation, restrictions on free speech, and limits placed on civil society. Such scrutiny will also have direct consequences for Modi’s global as well as domestic political image.
+
+Reports such as those of the US Commission on International Religious Freedom (USCIRF), which has designated India as ‘Country of Particular Concern’, are likely to get much more play in a Democrat controlled US Congress. The 2025 report of USCIRF recommended targeted sanctions against India’s external intelligence agency R&AW for extrajudicial targeting of Sikh separatists who are US citizens. Its 2026 report extended the demand for asset freezes and entry/visa bans on the RSS for alleged violation of religious freedom. Although the USCIRF reports are not binding, they are bad propaganda for the Modi government and that will get a louder play.
+
+So, while a Democratic Congress will not abandon India nor make human rights the core principle of US foreign policy, it will not give Modi the free pass that Trump did. Democrats have an ideological distrust of Modi, and they view his domestic politics with deep suspicion.
+
+Taken together, this could mean greater Congressional scrutiny — committee hearings, letters signed by Congressmen, and conditional resolutions on religious freedom and conversion laws, human rights violations, minority rights, and electoral institutions may abound, for example.
+
+There could also be use of stricter language on the state of civil liberties in India in US State Department reports; greater scrutiny of transnational activities such as alleged plots against dissidents abroad; etc.
+
+Yet the US’ strategic interests will ensure that there is no fracture in India-US ties.
+
+Despite Modi's timidity over Chinese transgressions against India, countering China's influence in the Asia-Pacific will remain a compelling reason for the Democrats to nurture ties with New Delhi. The Quad, as an institution, is an important reflection of that convergence of views between the two nations.
+
+However much they might dislike Modi’s domestic politics, abandoning India for that will weaken the strategic approach of the US to this region.
+
+Similarly, the Democrats will protect the co-operation in defence and military technology. They would want to continue promoting interoperability, sharing secure data and streamlining joint operations in the region based on the foundational defence agreements signed between the two countries. These institutional arrangements are not dependent on the personal relationship between Trump and Modi.
+
+Co-operation under the Initiative on Critical and Emerging Technology (iCET), covering semiconductors, AI, quantum computing, telecom, space, and defence innovation, is likely to deepen to protect US economic and security interests and supply chains. This bipartisan US interest in deepening co-operation is not only commercially beneficial to both countries but also necessary for maintaining technological leadership against China.
+
+Blue wave in US: Democrats sweep Senate, Congress; what this means for Trump and RepublicansFor Democrats, the concern for reducing US vulnerability to Chinese supply chain disruptions would mean that initiatives such as the Minerals Security Partnership and bilateral supply-chain co-operation will remain unaffected.
+
+Co-operation on energy transition and climate change — both high on the agenda of the Democrats traditionally — will also see continuity. Some irritants in the field of energy like Russian oil imports will probably coexist with greater US energy exports to India.
+
+On trade, the disagreements over tariffs, agricultural restrictions, intellectual property protection, and market access will remain contentious. However, eventually compromises will be found as the Democrats have no obvious interest in deliberately sacrificing the opportunities offered by the Indian market.
+
+It seems clear that Trump’s electoral setback weakens the value of Modi’s personalised diplomacy, while the Democratic control of US Congress will expose the Modi government to greater scrutiny without fundamentally undermining the strategic India-US relationship.
+
+Indian diplomacy must, therefore, move from a leader-centric engagement towards an institution-centred, interest-based and genuinely multi-aligned diplomacy.
+
+To some extent the Modi government had already begun adjusting its foreign policy. Having burnt its fingers in dealing with Trump, India pushed back while diversifying its trade portfolio, securing alternative trade agreements with individual countries to build long-term resilience.
+
+India can learn from its own diplomatic history — after the collapse of the Soviet Union, the relationship with Russia survived because it was built on enduring strategic and institutional interests. The relationship with the US needs similar resilience without becoming an alliance of dependence.
+
+Bharat Bhushan is a New Delhi-based journalist.
+
+[Read full article](https://www.deccanherald.com/opinion/modis-trump-card-just-lost-its-value-4209702)
+
+---
 
 ## 5 November 2026
 
@@ -21525,365 +21739,6 @@ Traditional remittance instruments such as demand drafts have almost passed into
 Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
 
 [Read full article](https://www.deccanherald.com/opinion/when-banking-was-personal-4103490)
-
----
-
-## 7 August 2026
-
-### Access paradox: On medical education in India
-*The Hindu · Editorial*
-
-The scope of medical education in India has expanded so rapidly that it raises important questions about access to it. The number of seats has nearly tripled in 12 years, thanks in part to the government’s push to improve access to health care, entailing infrastructure upgrades and simplified regulations. However, much of the growth has been happening in the private sector, in addition to new government colleges attached to district hospitals. This year, for the first time, private institutions host more than half of all MBBS seats. Of the roughly 10,000 new seats, 79% are in such institutions, a sign that growth in the near future will remain concentrated thus. The increase in seats is, in and of itself, commendable as India’s students still compete fiercely for MBBS seats even as health-care centres suffer a debilitating shortage of specialist practitioners. Thousands of students also seek education abroad. Therefore, expanding domestic ‘capacity’ is a natural response and the rising number of seats ought to relieve the bottleneck and keep talent at home.
-
-But problems abound. Whereas an MBBS seat in a government college rarely exceeds ₹5 lakh for the full term, that in a private institution can cost 10 times more, sustained in part by the unflagging demand for health care. These institutions’ commercial viability is clustered in specific geographies, especially in tier-I and -II cities in the more prosperous States, where incomes are higher. Unless their students deliberately fan out after graduation, their skills also become concentrated in these clusters, whereas the paucity of health-care providers is felt more keenly in the rural areas farther away. Rapid growth also raises the risk of highly uneven quality, with institutions seeking to secure NMC accreditation with the bare minimum of facilities rather than mindfully addressing local needs. ‘Capitation fees’, which persist despite government bans, create new debt that can influence behaviour after graduation. Finally, sans competitive salaries, housing and schools, and assured career progression, graduates gravitate to private practice or abroad. Paradoxically, then, the surge in private capacity obligates the government to keep adding capacity, including opening new AIIMS-like institutions, so the number of cheap seats also keeps increasing. The NMC’s rule of having half of all private institution seats be charged at government rates should be enforced; the NMC should also embrace mechanisms that support surprise inspections and the ability to inspect records without institutions’ permission. Finally, beyond compelling rural service, governments should reward it, in addition to ensuring that the daily needs of rural health-care workers and their families and of hospitals are both well-met.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/access-paradox-on-medical-education-in-india/article71313988.ece)
-
----
-
-### Stop the scam: On the ‘digital arrest’ menace
-*The Hindu · Editorial*
-
-The Supreme Court of India’s order of August 4 on the “digital arrest” menace is notable for not being lured into complacency. After all, the Indian Cybercrime Coordination Centre’s status report showed that complaints on the National Cyber Crime Reporting Portal fell from 1,23,672 in 2024 to 58,249 in 2025, and stood at 16,377 in the first six months of 2026. The Court called the figures “certainly encouraging” and directed the Reserve Bank of India to circulate a standard operating procedure for temporary debit holds on mule accounts, States to notify cybercrime coordination centres and operationalise e-Zero FIRs, and an inter-departmental committee to examine a victim compensation framework. Thanks to advisories from banks, telecom operators and the police, fewer senior citizens and others are getting victimised by these scams, which have succeeded due to older victims’ deference to authority and fear of legal trouble. Yet, scammers find it easy to target youth and professionals, and senior citizens the advisories have not reached. And there have been very few convictions despite scrutiny and investigation, which suggests that law enforcement must move faster in tackling these scams.
-
-The digital scammers have proved nimble in their modus operandi. They route calls through SIM boxes to mask their origin, making them appear as Indian numbers, and use multiple mule accounts across many States to move funds swiftly. They are now known to deploy deepfakes on video calls to dupe victims and remain untraceable by investigators. In effect, the fraudsters always seem to be a step ahead of those pursuing them. The Court’s insistence on restoring money — completed in 36,290 cases involving ₹18.05 crore — and on the swift disposing of account-freeze cases, alongside detection systems such as MuleHunter.AI, used in over 20 banks, will help limit the damage even when perpetrators are not caught or convicted. But convictions are rare as many of these fraud and extortion schemes are run from overseas “scam compounds” in Myanmar, the wider Golden Triangle, and Cambodia. In Myanmar, scam centres proliferated through direct and indirect official patronage, even as recent scrutiny produced raids that were largely for show with these centres shifting to new areas in the conflict-ridden country. After Beijing’s crackdown, in 2023, on scam centres targeting Chinese victims, scammers shifted focus to other countries, with Indians also being trafficked and tortured to commit digital crimes against fellow citizens. New Delhi must use diplomatic pressure in coordination with China, the U.S. and ASEAN to compel Naypyidaw and Phnom Penh to act against the networks that host these compounds.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/stop-the-scam-on-the-digital-arrest-menace/article71314079.ece)
-
----
-
-### Donald Trump in the Persian labyrinth
-*The Hindu · Opinion*
-
-“When we are finished, take over your government. It will be yours to take. This will be probably your only chance for generations,” United States President Donald Trump told Iranians on February 28, 2026, after the U.S. and Israel assassinated Iran’s Supreme Leader Ayatollah Ali Khamenei, and launched a war against the country. More than five months later, the war that Mr. Trump believed would be over in weeks, if not days, is far from over. The Islamic Republic has not only survived but has also consolidated its position, at home and in the region. Mr. Trump has alternated between strikes, ceasefires, talks, threats, ultimatums, renewed strikes, and U-turns in an attempt to shape the course and outcome of the conflict and the behaviour of the Iranian state, while seeking a face-saving exit. But with the war unresolved and his objectives unmet, Mr. Trump, confronting a resolute yet risk-tolerant Tehran, has found himself in a strategic cul-de-sac.
-
-The U.S. and Israel launched the war with four principal objectives: destroy Iran’s nuclear programme; dismantle its missile capabilities and military industrial base; end Tehran’s support for its non-state quartet (Hamas, Houthis, Hezbollah and Hashad) and bring about a regime change. The first three objectives, however, were inseparable from the fourth. Without toppling the Islamic Republic, achieving any of the other goals appeared impossible even before the war began. This makes regime change or regime collapse the central strategic aim of the war on which all the others depended.
-
-[Read full article](https://www.thehindu.com/opinion/lead/donald-trump-in-the-persian-labyrinth/article71314667.ece)
-
----
-
-### DC Edit | Govt, Opp. Must Allow Parliament To Function
-*Deccan Chronicle · Editorial*
-
-The continued disruption of parliamentary proceedings that has translated into passage of bills with no debate in the Monsoon Session presents a no-win situation not only for the Opposition and the government but, more importantly, for the country as a whole. It is incumbent upon the government and the Opposition to jointly find a solution to the logjam so that Parliament can resume its jobs, lawmaking and parliamentary oversight, in order to give meaning to accountability, the term that is the flavour of the season.
-
-The government made a move to end the impasse when parliamentary affairs minister Kiran Rijiju met Leader of the Opposition in the Lok Sabha Rahul Gandhi but the discussions do not appear to have borne fruit. Mr Gandhi has reiterated the Opposition position that the Union home minister must explain to Parliament the events at Jantar Mantar in relation to the protests led by Cockroach Janta Party demanding the resignation of then education minister Dharmendra Pradhan following a series of lapses in the conduct of Neet, CBSE and CUET.
-
-There is no doubt in the minds of the right-thinking people that police brutality was out on display against the youth who were legitimately raising a matter of utmost concern to them. The government may proceed against criminals who managed to creep into the youth’s protest and indulged in criminal activities but that does not offer the police an excuse to beat up protesting students, many of them teenagers. The Union government and the home minister are responsible for the conduct of the Delhi police; they own an explanation to the country on the doings of the cops under them.
-
-The Opposition has a point, too, when it demands that the government explain the theft of offerings at the Ram temple in Ayodhya. The government constituted the trust that manages the temple on the orders of the Supreme Court of India, and hence is responsible to the people on the acts of omissions and commissions attributed to the trust. True, investigations are on and no wrongdoing against the trust has yet been found out but many individuals are suspects, its senior office-bearers having quit on their own. The legal process may take its course but the government does not have the luxury to remain silent; it needs to share updates with the people.
-
-On its part, the Opposition must realise that it has primarily been sent to Parliament for carrying out the all-important business of lawmaking and parliamentary oversight. It must be careful as to not create a situation wherein bills are passed without discussion. Given the nature of the governments in the country in the past and in the present, it may not be repentant about a lack of presence, but the end result points to a good deal of irresponsibility.
-
-The government carries a larger share of the responsibility. It needs to ensure that Parliament functions because the people have entrusted them with that task. It must offer a workable solution to the Opposition which should accept it and go back to the House. Parliament must be allowed to function, issues must be debated and laws must be discussed. That’s the least the people expect in a democracy.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-govt-opp-must-allow-parliament-to-function-1977231)
-
----
-
-### DC Edit | HC Verdict On Tejpal Is Welcome
-*Deccan Chronicle · Editorial*
-
-The Bombay high court’s decision to sentence former Tehelka editor Tarun Tejpal to 10 years of rigorous imprisonment in the 2013 rape case deserves to be welcomed. This verdict is important because it shows that fame, influence and professional accomplishment cannot become shields against accountability.
-
-The importance of the verdict extends beyond one individual. Tejpal was not merely a journalist. As the founder-editor of Tehelka, which is reputed for exposing wrongdoing among the powerful, he occupied a position of considerable influence and public trust. The high court, which overturned his 2021 acquittal, through its judgment enhanced people’s trust in the judiciary.
-
-Unfortunately, Tejpal, who demanded accountability from governments and public institutions, himself failed to meet the standards that he set out for others. The law, of course, must treat a celebrity and an ordinary citizen alike, and no person deserves harsher punishment merely because he or she is famous. However, public stature carries a greater moral responsibility.
-
-Celebrities, political leaders, journalists, entrepreneurs and others, whose actions influence society, should understand that privilege cannot be divorced from responsibility. Their behaviour often becomes an example — for good or bad — to crores.
-
-The 2013 case also underlines an important principle in sexual assault jurisprudence.
-
-Courts declared that there is no prescribed manner in which a victim must behave after an assault. The earlier trial had attracted criticism for assessing whether the complainant displayed “behaviour” expected of a victim.
-
-While Tejpal retains his constitutional right to challenge his conviction before the Supreme Court, the high court verdict — unless overturned by an appeal — stands as a powerful reminder that reputation cannot substitute for character and influence cannot confer immunity. People who are in places of power and trust must not merely preach standards to society. They must exemplify them. The higher the pedestal, the greater the obligation to remain beyond reproach.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-hc-verdict-on-tejpal-is-welcome-1977491)
-
----
-
-### DC Edit | RSS, Political Class Need To Treat Gen Z More Seriously
-*Deccan Chronicle · Editorial*
-
-The confusion created by the youth of the country who took to the streets under the banner of the Cockroach Janta Party in the thinking of political parties is becoming evident every passing day. While the government saved its skin by conceding the major demands of the protesters, the other organisations are still processing the phenomenon.
-
-The statement of Rashtriya Swayamsevak Sangh (RSS) chief Mohan Bhagwat on Thursday that Generation Z should not be viewed as anti-national, certifying them to be more honest and sincere than the older generations, must be viewed in this background. Mr Bhagwat, who heads an organisation with Hindutva at its core, widely believed to be the ideological fountainhead of the BJP, went on to say that the protesters “are our own people and the next generation”; they have a “genuine commitment to patriotism and service” and that “dialogue should be held with them in a warm and friendly manner”.
-
-The fact of the matter is that the right to protest is a fundamental right the Constitution has made available to the people; it’s a duty of the democratic government to hold talks with them in a “warm and friendly manner”. It is for the government to look into the issues they have raised and solve them in a manner most acceptable to them. If it requires systemic change, it is for the government to initiate them. The government is not doing the protesters a favour by doing so. They have made it very plain that a condescending attitude and talking down do not work with them; they ask for straight and honest dialogue.
-
-Mr Bhagwat’s position may help defuse the confusion the followers of right-wing politics and a section of the media have about the young protesters. They have already constructed and propagated theories that CJP protesters are anti-nationals and traitors who have taken money from foreign funding agencies and enemies of the nation to undermine it, that they are no patriots and that they have no commitment to service. The RSS’s nuanced position may help them see reason and perhaps view the entire episode from the right perspective, instead of the rightist one.
-
-But Mr Bhagwat’s revelations make hardly sense to Gen Z and Gen Alpha whom he tried to address. They are two generations that cannot be unsettled by throwing words such as “traitors” and “anti-nationals” which may have worked with the previous generations who now direct the nation’s polity. People who work within the framework of the law and the Constitution and those who take up causes which the government has failed to address demand honest attempts to fulfil them. Taking recourse of endless political arguments and counter-arguments is not their habit. It will be good if the government and the RSS which guides it understand this fundamental character of Gen Z whom they call the “future of the country”.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-rss-political-class-need-to-treat-gen-z-more-seriously-1977484)
-
----
-
-### DC Edit | Tough Choices For Hasina
-*Deccan Chronicle · Editorial*
-
-It is a perilous journey that Bangladesh’s former Prime Minister Sheikh Hasina will be undertaking if she chooses to follow up on her desire to return to Bangladesh by the end of the year. She accepts the reality that she may be jailed on her arrival and may even be executed if the death sentence against her is carried out.
-
-India has been a haven for the Bangladeshi leader in the two years since she had to flee home at short notice. Coming here was her choice, which was backed by India considering how good the ties were during her time in office. Leaving to go home would be her choice too, but one loaded with the threat hanging over her freedom and her life itself.
-
-The reaction of the Bangladesh government of Tarique Rahman to her holding a virtual press meet from her protected residence in New Delhi was a dead giveaway about how the former PM is regarded now. “Bangladesh is outraged that the absconding convicted genocider [sic] Sheikh Hasina was allowed to engage in live interaction with the media in New Delhi,” was the caustic message from Dhaka.
-
-Sheikh Hasina was a democratically elected Prime Minister whose political career was forged after cataclysmic events in which her father Sheikh Mujibur Rehman was eliminated along with many members of his family.
-
-She continued her reign later by holding elections from which she excluded the main rival — Bangladesh Nationalist Party.
-
-Condemned as an autocrat, she became the focus of a student movement which avowedly began as a protest against seats reserved for the kin of martyrs. Who sponsored it or manipulated the events quickly thereafter to oust her and put in an adviser in Md Yunus who oversaw a disastrous interregnum before Khaleda Zia’s party returned to power with her son at the helm will remain a mystery.
-
-Given the toxic political rivalries among major parties in the subcontinent and a dreadful history of assassinations or state-sponsored executions of Presidents and Prime Ministers, it is with trepidation that Sheikh Hasina’s intending return to her homeland should be viewed. As a friend of India, we will wish her well if she does decide to go home because of compulsions only she can know of.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-tough-choices-for-hasina-1977242)
-
----
-
-### Bhopinder Singh | Don’t Misuse The  ‘Prestige’ Of The Military To Further Partisan Politics
-*Deccan Chronicle · Opinion*
-
-In the United States of America, military service commands immense respect. Equally revered, however, is the principle that the Armed Forces must remain above partisan politics. This is why retired veterans are generally expected to separate the symbols of military service -- such as the uniform, medals and insignia -- from political campaigns, debates and party contests. The purpose is not to diminish their rights as citizens, but to preserve a more important democratic compact: that the authority of the armed forces belongs to the Constitution and the nation, not to any political faction or partisan ideology.
-
-This distinction is so deeply embedded in American political culture that some of the country’s most celebrated military figures have warned against weakening it.
-
-Republicans such as John McCain and James Mattis have expressed concern about attempts to blur the boundary between military prestige and partisan politics, particularly when certain political leaders (such as incumbent President Donald Trump) seek to portray senior officers as personal extensions of their own movements. The concern is not about the political opinions of individuals who have served in uniform; it is about preventing the institution itself from appearing to take sides.
-
-India, on the other hand, presents a more complicated picture. The country’s retired military officers enjoy the same democratic freedoms as all other citizens, yet the conventions separating military symbolism from political advocacy are less firmly established. Increasingly, retired officers have appeared in political settings and toxic television debates wearing regimental attire, medals or other visible markers of military identity. Such appearances have triggered a debate over whether the stature earned by military service is being transferred, intentionally or otherwise, into partisan political contests.
-
-The attraction for political actors is fairly obvious. At a time when confidence in many public institutions has been weakened, the armed forces remain among the few national
-
-institutions that command broad public trust. A former officer speaking with the authority and language of the regiment carries the kind of credibility that politicians and other commentators often struggle to match. Military symbolism therefore becomes a powerful political asset -- one that can lend emotional force and moral weight to arguments far removed from matters related to defence and national security.
-
-But this is a risky exchange. The short-term benefits of borrowing military prestige may come at the cost of a longer-term institutional erosion. The strength of a professional military in a democracy lies not only in its battlefield capability but also in its perceived impartiality. Once citizens begin to associate military identity with a particular political position or political party, the institution risks losing the broad-based confidence on which its legitimacy depends.
-
-This does not mean, of course, that veterans should withdraw from public life. On the contrary, their experience in leadership, administration, national security and public service can enrich the democratic debate. They have every right to join political parties, contest elections, campaign for causes and express their personal views. The crucial distinction is that they do so as individual citizens, not as representatives -- real or implied -- of the armed forces on active service.
-
-The concern arises when personal political expression is accompanied by the visual language of the institution itself. A retired officer appearing in regimental gear, displaying service symbols or invoking military identity while advancing a partisan argument, may unintentionally create the impression that the armed forces share that position. That perception, even if incorrect, can be damaging because it weakens the separation between the personal convictions of veterans and the constitutional neutrality of the military.
-
-Military regulations and traditions do recognise circumstances in which veterans may appropriately display their service identity, particularly during ceremonial, commemorative or official occasions. The difficulty emerges when these symbols migrate into overtly partisan environments – such as political rallies, television battles and ideological campaigns, where the uniform risks becoming less a reminder of national service and more a prop in political theatre.
-
-The phenomenon has extended beyond questions of defence policy into wider political controversies. Retired military voices have featured prominently in debates on issues ranging from national security operations to domestic political disputes such as economic policy, religious questions and public protests. The danger is not that veterans participate in these conversations; it is that their military credentials may be used to imply institutional authority in areas where the armed forces themselves have no constitutional role.
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/bhopinder-singh-dont-misuse-the-prestige-of-the-military-to-further-partisan-politics-1977235)
-
----
-
-### Sanjeev Ahluwalia | India’s Higher Education: Poised For Deep Reforms
-*Deccan Chronicle · Opinion*
-
-Reasonably priced access to higher education is a ubiquitous demand of the middle and the aspiring class, which together comprise just under one-half of the population. The National Education Policy 2020 catered specifically to this demand.
-
-Compared to 700 universities in 2014-15, there were 1,289 universities by 2023-24. The number of colleges and standalone institutions also increased from 38,498 and 12,276 respectively to 48,246 and 15,221 respectively by 2023-24. Higher education became more accessible with the national average availability of universities increasing from 27 to 32 per one lakh population, albeit with wide variations across states showing the role of development policy in higher education. Consider that, Bihar --where Nalanda was once the centre of learning -- has 39 universities, but Gujarat has raced ahead with 107 universities, more than even in Uttar Pradesh -- India’s largest state by population -- with 103 universities.
-
-In this frantic pace of expansion, state governments have done much of the heavy lifting. There are now 926 state universities, near evenly divided between publicly managed and privately managed. Compare this with just 284 Central universities, Institutes of National Importance, private universities and government or government-aided universities.
-
-To effectively manage this growing array of institutions of higher education with some degree of congruity in norms, whilst leaving sufficient room for innovation and fine tuning, the NEP proposed a new architecture of five functionally distinct agencies dealing with oversight and vision, accreditation, regulation, funding, and academic standard setting.
-
-A new Higher Education Commission of India (HECI) would oversee four specialised institutions. First, to manage the regulatory framework, a National Higher Education Regulatory Council is proposed. Second, a National Accreditation Council, which would frame the norms for accreditation of new entities. Daringly, all Higher Education Institutions will henceforth be expected to progressively aim for enhancing their accreditation levels, such that by 2035, they would all become self-governed degree-granting institutions.
-
-Third, a Higher Education Grants Commission would replace the University Grants Commission to fund both development and scholarships. Fourth, and perhaps most interestingly, a new General Education Council would identify outcomes from education (along the lines of outcome-based budgeting). These specific graduate education attributes would be consolidated into a National HE Qualification Framework. This would be synced with a Skills Qualification Framework to ease seamless integration of vocational training with graduate qualifications. The alphabet soup generated is dizzying. Whilst no one would object to specialisation within regulatory organisations, the problem is: how to get the entire, heavy structure onto a uniform performance level.
-
-For the moment, the overhaul awaits parliamentary approval of the HECI Bill 2025. After Parliament approves it, the existing system would be wound down and the new one rung in. With Lok Sabha elections due in 2029, the report card focus of the Narendra Modi administration would surely expedite the new arrangements as a major high-level institutional reform in the educational system.
-
-Till then, the existing regulatory commissions which are based on domains continue their work. UGC, AICTE and NCTE are three pillars of the higher educational system -- each with exclusive mandates, albeit without separate functional specialisations. The University Grants Commission (UGC) oversees both the administration of universities and funds the HEIs. A separate body, the All-India Council for Technical Education (AICTE), governs technical and management education. The National Council for Teacher Education regulates skill development and self-learning for teachers. In sum, they maintain standards, provide accreditation, and quality assurance in their respective areas. These tasks will be hived off to four specialised entities in future under the overall supervision of the HECI.
-
-Cumbersome though the proposed structure appears, it aligns with global best practices, which emphasise the use of delegated powers to match the capacity of each specialised institution. In India this is particularly relevant since ministries are not staffed by specialists, unlike in the developed economies.
-
-Four additional actions should be considered. First, whilst operationalising the five specialised institutions, there should be a corresponding reduction in the size of the ministry of education, which should henceforth devolve all technical decisions to these agencies and cease looking over their shoulder. This is important not only for building up the stature of these new agencies but also to ensure that executive responsibility can be fixed on those responsible for implementation. That the primary demand of the Jantar Mantar “cockroaches” was that...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjeev-ahluwalia-indias-higher-education-poised-for-deep-reforms-1977505)
-
----
-
-### Wasbir Hussain | Time For Diplomatic Reset In Delhi’s Ties With Dhaka
-*Deccan Chronicle · Opinion*
-
-Diplomacy is often conducted through symbolism. A handshake, an invitation, or even the choice of an ambassador can reveal more than official communiqués. Today, India and Bangladesh appear to be communicating through such signals.
-
-New Delhi has chosen veteran politician Dinesh Trivedi, not a career diplomat, as high commissioner to Dhaka, conferring Cabinet rank. Bangladesh, in turn, named serving foreign secretary Asad Alam Siam as envoy to India. These aren’t routine appointments. Both capitals seem to recognise that the relationship has entered dangerous territory and political intervention is urgently needed. And Prime Minister Narendra Modi has invited Bangladesh PM Tarique Rahman to the Brics summit in New Delhi in September, which can provide the right platform to discuss contentious issues.
-
-The slide in bilateral ties began after the dramatic political transition in Bangladesh in August 2024. Since then, mistrust has steadily replaced the warmth of the Sheikh Hasina era. Even after Bangladesh elected a new government under Tarique Rahman, the anticipated reset has remained elusive.
-
-Mr Rahman’s first major diplomatic choices reinforced India’s concerns. By choosing Malaysia for his first foreign trip and China next, while keeping India waiting, Dhaka departed from an established convention of visiting New Delhi early. Every Bangladeshi leader understands such departures are read not merely as scheduling decisions but as strategic messaging.
-
-The message was unmistakable: Bangladesh intends to broaden its strategic options and is no longer ready to be seen operating within India’s political orbit.
-
-And China hardly needs a second invitation. Beijing spent the past decade patiently building influence across South Asia: not through military alliances but through ports, highways, railways, industrial parks, energy projects and generous financing. Bangladesh occupies a pivotal place in this strategy. Sitting astride the Bay of Bengal, bordering India’s vulnerable Northeast, it’s one of the region’s most valuable geopolitical prizes.
-
-For India, the issue extends far beyond bilateral diplomacy. It’s about strategic geography: Nearly every ambitious Northeast connectivity initiative depends on a cooperative Bangladesh. Access to Chittagong and Mongla ports, multimodal transport corridors, rail connectivity, inland waterways and road links can dramatically reduce transport costs for the eight Northeast states. Bangladesh isn’t simply India’s neighbour; it’s the Northeast’s natural gateway to the sea.
-
-If political relations deteriorate, India’s Act East Policy risks becoming an expensive slogan rather than a transformative strategy. One must remember that Prime Minister Modi is bent on making the Act East policy work and succeed.
-
-There are security implications. China has steadily expanded its strategic footprint around India’s periphery: from Pakistan and Sri Lanka to Nepal and Myanmar. Should Bangladesh drift substantially into Beijing’s strategic embrace, India will face a far more complex security environment along its entire eastern frontier.
-
-It’s not that Bangladesh will become a Chinese military ally overnight. Rather, the cumulative effect of deeper Chinese infrastructure investment, digital penetration, telecommunications partnerships, surveillance technologies and defence cooperation could gradually erode India’s traditional strategic advantage in its own neighbourhood.
-
-For the Northeast, this matters enormously. The region already faces challenges due to insurgency, illegal migration, narcotics trafficking, arms smuggling and instability spilling over from Myanmar. Any weakening of India’s strategic understanding with Bangladesh complicates border management and intelligence cooperation while giving external powers greater room to influence developments around one of India’s most sensitive regions.
-
-The Siliguri Corridor (Chicken’s Neck), which links mainland India with the Northeast, is one of India’s most vulnerable choke poimts. A Bangladesh that maintains strategic balance contributes to regional stability. A Bangladesh increasingly aligned with China inevitably raises uncomfortable questions for Indian planners.
-
-This is why New Delhi’s move to send Dinesh Trivedi carries significance. Political relationships can’t always be repaired through diplomatic notes. They require trust, direct access and political credibility. By appointing a senior political figure instead of a career diplomat, India appears to acknowledge that rebuilding confidence with Dhaka is now a political mission.
-
-Bangladesh’s decision to send its serving foreign secretary to New Delhi suggests a similar assessment. Both governments understand that allowing relations to drift further helps neither country.
-
-One obstacle continues to cast a long shadow over bilateral ties: Sheikh Hasina. Her continued presence in India is politically sensitive inside Bangladesh. Whether justified or not, many in the new political...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/wasbir-hussain-time-for-diplomatic-reset-in-delhis-ties-with-dhaka-1977238)
-
----
-
-### Krishna waters: Legal limbo must end
-*Deccan Herald · Editorial*
-
-For decades, the Upper Krishna Project (UKP) has symbolised Karnataka's commitment to correcting a historic regional imbalance in irrigation. While the southern parts benefited from irrigation works initiated during the reign of the Mysore Maharajas and expanded after Independence, the drought-prone districts of Kalyana Karnataka and Kittur Karnataka have remained heavily dependent on uncertain monsoons.
-
-It is, therefore, ironic that today, the state is losing 5,500 TMC of its allocated share of Krishna waters simply because it cannot store it. The Krishna Water Disputes Tribunal-II allotted Karnataka 907 TMC of water, Maharashtra 666 TMC, and the then undivided Andhra Pradesh 1,005 TMC.
-
-It also permitted Karnataka to raise the Full Reservoir Level of the Almatti dam from 519.6 metres to 524.26 metres, enabling the state to utilise an additional 177 TMC earmarked for irrigation and drinking water projects. However, the Centre has not gazetted the award because of the Supreme Court's stay, leaving the state unable to legally raise the dam height.
-
-Karnataka failed to utilize its share of 5,561 tmcft of water last decade through Upper Krishna project As a result, water that could have transformed parched fields in northern districts continues to flow downstream unutilised. Completion of Phase III of the UKP would bring irrigation to nearly 5.94 lakh hectares (about 14.7 lakh acres) across Vijayapura, Bagalkote, Yadgir, Kalaburagi, Raichur, and Koppal districts. Yet, despite abundant inflows into the Almatti reservoir this monsoon, these benefits remain unrealised. Formally launched in 1964, the project has seen the completion of major structures such as the Almatti dam, Narayanpur dam, and Hipparagi barrage. Even after six decades, however, it remains a work in progress because the crucial third phase is stalled.
-
-Legal hurdles are only one part of the problem. Raising the reservoir level requires the acquisition of about 1.33 lakh acres and the rehabilitation of 20 villages. So far, only around 30,500 acres have been acquired. Delays have sharply escalated costs, with the project estimate swelling beyond Rs 1 lakh crore. Speculative land prices have led to demands for exorbitant compensation, further complicating acquisition.
-
-The state must press for an expedited hearing in the Supreme Court so that the legal uncertainty surrounding the tribunal award is resolved. Simultaneously, it should engage Maharashtra, Telangana, and Andhra Pradesh to address their legitimate concerns over flooding and downstream flows. The state cannot wait indefinitely to complete land acquisition and rehabilitation. Only by pursuing legal, diplomatic, and administrative solutions can Karnataka ensure that its rightful share of Krishna waters irrigates its own fields instead of flowing downstream.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/krishna-waters-legal-limbo-must-end-4102189)
-
----
-
-### The burden is still on the survivor
-*Deccan Herald · Editorial*
-
-The acquittal of Bharatiya Janata Party (BJP) leader and former Wrestling Federation of India (WFI) chief Brij Bhushan Sharan Singh in a sexual harassment case by a Delhi court raises troubling questions. These questions are familiar, too, especially when the charges are directed against powerful individuals.
-
-In Brij Bhushan’s case, the allegations were made by acclaimed women wrestlers, including Vinesh Phogat and Sakshi Malik, and pertained to sexual harassment and criminal intimidation. The court rejected the charges, stating the evidence was inconclusive and citing inconsistencies in the witness testimonies. About two-thirds of sexual harassment cases in the country do not lead to convictions; the rate drops further when influential persons are arraigned. Brij Bhushan, at the time of being accused, was an MP who held clout in the party and the government.
-
-After the wrestlers went public with the allegations in 2023, it was clear that their bigger fight would be against the establishment. The fact that the Supreme Court had to intervene to get an FIR registered points to the odds the wrestlers were against. A minor wrestler who levelled charges against Brij Bhushan later withdrew her complaint, leading to the scrapping of a case under the POCSO Act.
-
-Delhi court acquits Brij Bhushan Singh, co-accused in wrestlers’ sexual harassment case The wrestlers attracted international attention after they launched an agitation at Jantar Mantar in Delhi. They were dragged away by the police as they headed to Parliament in a march. Some of them considered throwing their medals in the Ganga. Though the Ministry of Sports formed an oversight committee to examine the wrestlers’ charges, its report was never made public.
-
-The women wrestlers have said that they will appeal against the judgment. Vinesh Phogat noted that the wrestlers have not given up their hope for justice. They may keep the fight going, but this is a legal battle that underlines the challenge in confronting individuals holding positions of power. Two recent cases from Kerala – one involving the sexual assault of an actress and the other around a nun’s allegations of rape against a priest – illustrate a troubling pattern where protracted legal processes invariably end up punishing the survivors.
-
-The collapse of such cases in court will deter women from reporting the abuse. The complainants face intimidation and social harassment. Those who raised the charges against Brij Bhushan also had to navigate professional challenges. When the complainant suffers, and the accused prevails, it erodes trust in the state’s capability to protect survivors and dispense certain and timely justice.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/the-burden-is-still-on-the-survivor-4102188)
-
----
-
-### Blindness towards the bright side
-*Deccan Herald · Opinion*
-
-Once, an acquaintance in government service got transferred to an unglamorous place far from where his son was studying. For the fourth time in a row, he did not get a place of his choice. Instead of raising it with the concerned authorities, he fell into a melancholy, relentlessly rueing his ill fate.
-
-Many of us are prone to harbouring thoughts of victimhood of one kind or the other. Many a time we blame our fate; at other times we slam the system. Sometimes circumstances become our ‘enemy’. We sink ourselves into sulking with the notion that we are victimised by the system, discriminated against by the divinity. The mind of the person who feels victimhood becomes agitated with helplessness. The ‘victim’, displaying self-pity to the hilt, vainly attempts to garner sympathy.
-
-Feelings of victimhood lower your morale and confidence. Instead of facing the challenges boldly, you exacerbate the conditions for yourself. You cannot extricate yourself from the vicious web spun by your own negativity. Your position is further weakened and becomes susceptible to further ‘victimisation’. You become a victim of imaginary victimhood.
-
-Choosing empathy over judgementThe sooner you free yourself from the irrational trap of victimhood, the better. Nobody is immune from difficulties and challenges in life. We have to learn to develop a proper perspective on our circumstances. We must see the brighter side as well. If we stay positive, the outcome will eventually be positive. Let us avoid becoming victims of self-deception.
-
-Starting from weather to politics to food, we fret over everything that does not ‘suit’ us. Complaining and blaming become our second nature. People who complain and blame become prone to sulking and seething. Human nature must be aligned with Nature and with the nature of things. The only thing under our control is how we respond to things which are not under our control. The direction of our lives is determined more by our response to than by circumstances. In the US, they say, ‘there is no bad weather, only bad clothing’.
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/blindness-towards-the-bright-side-4102180)
-
----
-
-### Europe’s fate lost to wars, wildfire and migration
-*Deccan Herald · Opinion*
-
-By Michael D Shear for The New York Times
-
-Once again in recent days, Europe has seemed to be watching from the sidelines as its destiny is shaped by outside forces.
-
-Would President Donald Trump choose to restart a massive war with Iran and drive up the cost of oil? Would global warming drive wider and worse wildfires, even as several already raged across the continent? Would a sudden, unexplained surge of people across the Moroccan border into a Spanish exclave — almost all of whom were immediately sent back — divide the bloc’s leaders and fuel the far right?
-
-It has already been a brutal summer for Europe: two wars, record heat, rising inflation and deep anxiety about food, energy and security. The back-to-back crises are prompting calls for joint action, urgent Zoom meetings between different groups of presidents and prime ministers, and political hand-wringing in parliaments from Poland to the United Kingdom.
-
-But like so much else that has happened in the past several years, many of Europe’s challenges are out of its control.
-
-The Iran war — a conflict that most of Europe never wanted — has disrupted life across the region, driving up the price of gas, groceries and travel. The continent’s leaders have pledged to help secure the passage of oil through the Strait of Hormuz once the fighting ends. And yet, they seem destined to hear about the next stage of the war from Trump’s social media feed.
-
-Europe has been unable to resolve the war in Ukraine after more than four years of bloodshed. Its achievements in cutting emissions to combat climate change are overshadowed by the actions of the United States and China. The future of artificial intelligence is being shaped largely elsewhere. Right-wing populism has risen, fueled by migration, inequality and misinformation.
-
-Spain, Morocco try to halt deadly rush on Spanish enclave after tens of thousands cross in a day “No matter how you look at it, measure it, this is a difficult, unsettling time for Europe,” said Richard Haass, who served for two decades as the president of the Council on Foreign Relations. He said Europe is partly a victim of circumstance, but also is responsible for its lack of authority over its own fate.
-
-“It’s not just that they’ve under-spent, but they’ve underorganized themselves when it comes to their own security,” he said. “It’s essentially a bystander, with few exceptions, to the AI competition. That’s not something that was done to Europe by the United States or China. That was something that was done by Europe to itself.”
-
-On many fronts, Europe has acted.
-
-When Russia invaded Ukraine more than four years ago, Europe and Britain immediately took steps to support Ukraine, including sending billions of dollars in aid, sanctioning Russia and welcoming millions of Ukrainian refugees into their countries through special programs.
-
-After Trump reentered the White House in 2025 and signalled a warmer stance toward President Vladimir Putin, Britain, France, Germany and other European nations formed the “Coalition of the Willing” to try to protect Ukraine’s interests in any peace deal, and worked behind closed doors to reconcile the Ukrainian and American presidents. Those efforts helped prevent Putin from cutting a deal with Trump at Ukraine’s expense.
-
-But while the coalition has repeatedly stated that “no arrangements regarding European interests and security can be negotiated without Europeans,” that has proved difficult to enforce. Time and again, Trump has sidelined America’s allies in favour of direct — and largely fruitless — talks with either Russia or Ukraine.
-
-“For years, European leaders have spoken about strategic autonomy and Europe’s emergence as a serious security actor,” Lesia Ogryzko, the director of the Sahaidachnyi Security Centre in Kyiv, Ukraine, wrote for the Atlantic Council. “The coming months may provide the clearest test yet of whether those ambitions are realistic.”
-
-They have had less influence over the U.S.-Israeli war against Iran, even though its effects are felt keenly across the continent. Europe’s vocal opposition to Trump’s decision to go to war enraged the American leader and soured trans-Atlantic relations.
-
-In April, partly as an effort to repair relations with Trump, Britain and France announced an effort to organise a military operation that could help protect free and open travel through the Strait of Hormuz once a lasting ceasefire was agreed to. But the on-again, off-again fighting between the United States and Iran has made it too dangerous for the operation to begin. Diplomats from several European countries said the possibility that they will send military ships to help remove mines from the strait or escort tankers is essentially on hold until it becomes clear whether the war is truly on pause.
-
-Trump has threatened in recent days to dramatically escalate strikes on Iran if the regime does not agree to open the strait. On Tuesday, the president told Fox News that Iran would be “hit very hard” if the crucial waterway was not opened very soon.
-
-Even as the Iran crisis has continued, wildfires have been raging across Europe, where swaths of bright red on the weather maps indicated the unprecedented heat waves that have become increasingly frequent.
-
-For most of the past two decades, European countries have mostly been in agreement about the dangers posed by climate change and have acted to cut emissions and invest in renewable energy. But since Trump’s arrival in the United States, they have been at odds with one of the world’s largest polluters, making their efforts to confront the changing climate more difficult.
-
-Now, it is clear that countries in the region are facing the consequences of global warming, with average temperatures rising faster than on any other continent. Britons are living through the driest July in nearly two centuries. Fires have displaced more than 300,000 people in France and Spain. In Greece, firefighters died battling blazes that are yet to be fully controlled.
-
-The surge last week of tens of thousands of people into Ceuta, a tiny Spanish territory on the North African coast, raised the possibility of a new crisis that is testing European unity on one of the region’s most potent political issues.
-
-Pedro Sánchez, Spain’s left-wing prime minister, has become famous for his welcoming approach to some migrants, particularly workers from Latin America. But he has taken a tougher approach with people attempting to illegally cross Spain’s borders with Morocco. He quickly cracked down on arrivals in Ceuta with his country’s military, and most were sent back over the weekend. A floating barrier is being set up near a sea wall between the two countries.
-
-The incident exposed tensions within the European Union that have grown deeper in recent years, as far-right parties including the Alternative for Germany and France’s National Rally have seized on fear of migrants as a way to energise political supporters. Almost two dozen EU countries lashed out at Spain in the hours after the migrants arrived in Ceuta, with some calling for suspending the country from the bloc’s free-movement zone. Sánchez responded by calling those nations “selfish.”
-
-Some analysts noted that the lack of solidarity with Spain at a time when it faced an external threat was an indication of the difficulty that the continent has in projecting authority on the global stage.
-
-Haass said he thinks the lack of unity underscores the fundamental problem for Europe as it seeks to shape its future.
-
-“The whole,” he said, “is much less than the sum of its parts.”
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/europes-fate-lost-to-wars-wildfire-and-migration-4102340)
-
----
-
-### Tackling male proxy politics
-*Deccan Herald · Opinion*
-
-Today’s electoral conversations are dominated by the female vote, governance by welfare schemes for women, and legislation by the women’s quota. Let the reader not mistake this for women’s dominance; a long and protracted process has brought matters to this pass. While it is a fact that tremendous gains have been made in women’s health and education in the last eight decades, the country still flounders under the superstructure of gender imbalance.
-
-There is a cavernous gap in women’s representation in the states’ and Union legislative, executive and judiciary, barely touching 15-20 per cent. An eagerly awaited and long overdue step to remedy political under-representation was the 106th Constitutional Amendment of 2023, the Nari Shakti Vandan Adhiniyam. It reserved 33per cent of constituencies in state and general elections for women, with rotation. This followed the landmark Panchayati Raj Act (73rd Constitutional Amendment Act, 1992) that established the third tier of governance. With its 33 per cent reservation, the 73rd Amendment paved the way for the entry of women into grassroots, elected administration.
-
-Beyond quota, the missing feminine in Indian politics However, even after three decades, and the climb of literacy and urbanisation, the patriarchal superstructure hasn’t quite acquiesced to legislated gender representation. The plague of ‘male proxies’ haunts Panchayats and municipalities across India, although its prevalence has seen some reduction over the years. The unstated fear is as follows. When the 106th Amendment is actualised, and the swell of women reaches the legislatures, will the illegitimate and habituated usurpation of women’s political space spill over to the higher tiers? This fear is real, since time-tested methods of “training” women and “sensitising” men at the local self-government levels have not been sufficiently effective in redressing this malaise.
-
-This is because the root cause assessment is partially flawed. The pith of the issue is that elected women are proxied, not by strangers, but by their own male kin. Intrusion into their profession by male relatives, therefore, cannot be resisted without tension spilling over to their personal lives. Elected women’s professional assertion incurs the risk of family alienation, and jeopardy to their entire ‘domestic complex’. Indeed, male relatives indulge in the violation by exploiting this very aspect of patriarchal society: women’s subordinate domestic status. They trap her in a vice between the domestic contract and the elected role. What is unfortunate, but typical in male-dominated societies, is that administrative functionaries witnessing this power-mongering, even recipients of ‘sensitisation’ training, do not act to suppress proxies, though it is not a kinship matter for them.
-
-‘Proxy’ is a deleterious euphemism for the usurpation of public office. It is also viewed mainly as detrimental to the elected individual herself, when the bigger offence is against the public office, through impersonation. This is salient because assuming the role of an elected or unelected public officer is a cognisable, non-bailable offence under BNS Section 204 (IPC, Section 170), a serious crime. Given the statutory nature of this transgression, the onus of reporting and acting upon it lies both with the state and the citizenry, and not just the representative herself. This also makes the cavalier attitude of administrative functionaries an abetment to the offence.
-
-With this ammunition in place, governments of the states and the Union must execute a paradigm shift in handling male interloping on elected women’s territories. They can do this by —
-
-1. Enjoining the police to enforce BNS Section 204 on impersonators, upon receiving public complaints.
-
-2. Issuing government orders and regulations to Panchayats as elected bodies, and unelected government functionaries, mandating the registration of complaints against impersonators of elected women’s offices.
-
-3. Providing physical, informational, and cautionary paraphernalia, and complaint registration mechanisms at Panchayat offices and Panchayati Raj departments at village, taluk, and district levels.
-
-4. Mounting a public awareness campaign to encourage citizens to report impersonation with videographic evidence.
-
-Thus far, the inaction of law enforcement, the dereliction of government employees, and the frustrated surrender of the public have provided institutional safe-harbour for power-mongering. What is proposed here is a transposition that drives the offender to his reckoning. He is not a proxy for his wife, or sister, or daughter; rather, he is a non-bailable, criminal impersonator of public office. Such statutory intervention, in addition to curbing malpractice through penal action, also induces a crucial psychological deterrent — fear of reprisal — in aspiring impersonators. An assertive approach such as this could go much further in unshackling female elected representation from male insurgents.
-
-Given the cancerous nature of ‘proxying’ on representative democracy, it is imperative that governments act posthaste. Instead, the old habit of laying the consequences of the male-kin’s criminal offence at the elected female’s doorstep makes her the target of both the rifle’s shot and its recoil.
-
-(The writer is a Bengaluru-based policy consultant)
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/tackling-male-proxy-politics-4102175)
 
 ---
 
