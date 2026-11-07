@@ -1,3 +1,580 @@
+## 7 November 2026
+
+### 2 arrested in shooting at Kapil Sharma's Canada restaurant, face firearms charges
+*India Today World Desk · world*
+
+## Canadian police have charged two men over shootings at Kapil Sharma's restaurant and a Surrey home. The linked attacks are being investigated as extortion-
+
+The two 22-year-old suspects now face charges over both extortion-
+
+Ottawa,Nov 7, 2026 11:41 IST
+
+Two men have been arrested and charged in connection with a shooting at comedian Kapil Sharma's restaurant in Canada last year, news agency Press Trust of India reported, citing police.
+
+Shots were fired at the restaurant in Surrey on October 16, 2025, in the third such incident since it opened in July. Police described the shooting and a separate attack at a home as extortion-
+
+The suspects, Pardeep Singh and Saveer Khan, both aged 22, were arrested on November 1, the Royal Canadian Mounted Police said in a statement on Friday. They have also been charged in connection with the separate shooting.
+
+"On October 16, 2025, police responded to a report of shots fired at a cafe in the 8400-block of 120 Street. Although the business was closed at the time, two employees were inside but were not injured," the RCMP said, according to PTI.
+
+In the other incident, police responded to a report of shots fired at a home in Surrey on October 12. A woman was injured in the shooting.
+
+Singh and Khan were each charged with one count of recklessly discharging a firearm in connection with the October 12 shooting and another count over the October 16 incident.
+
+"The BC Extortion Task Force assumed conduct of both investigations after potential linkages between the incidents were identified," the RCMP said.
+
+"These charges are the result of extensive investigative work conducted over the past year, including multiple judicial authorisations, search warrants, and detailed analysis of evidence," PTI quoted Chief Superintendent Duncan Pound, Lower Mainland District Operations Officer and Assistant District Commander, as saying.
+
+"These charges should serve as another clear message to those involved in extortion-
+
+The two 22-year-old suspects now face charges over both extortion-
+
+\- Ends
+
+---
+
+### Doctors are right about Temple, but we should let Deepinder Goyal cook
+*Javed Anwer · general*
+
+Around a week ago on November 1, Temple opened for pre-orders. Hyped with a number of celebrity endorsements and some unique health tracking claims, Temple has divided the tech-savvy and vocal social media crowd. When something new hits the market promising unique experience, the way Temple has done, it is bound to attract limelight and scrutiny. And Temple, pushed by Zomato founder Deepinder Goyal, has clearly promised — or rather implied — a lot. In ways that seem almost magical, and for which its creator Goyal currently does not offer any iron-clad proof.
+
+The celebrity endorsements, out-of-this-world sales pitch, and some unique claims mean Temple has come quickly on the radar of doctors. They, or at least the most vocal of them including LiverDoc aka Cyriac Abby Philips, are up in arms against what they say are tall health claims made by the device. Goyal, never the one to back down from a fight, is hitting back. If you open X aka Twitter today, chances are that you will find yourself in the middle of salvos the two camps are firing at each other.
+
+But before all that, a few words about the device itself — the Rs 85,000 hero of all the brouhaha.
+
+Temple has been pitched by Deepinder Goyal as a new kind of tech-health product that you can stick to your temple, a little above the jawbone. Hence the name. This part is simple. The more contentious is the issue 
+
+The interesting part is that the Temple website itself doesn’t put “BrainFlow” at the centre of the conversation. Instead, on the pre-order page what you get to see is another concept — and feature — called Entropy. “Entropy measures how hard your body is working to shed heat, read from your temple,” notes the website. “Your Resting Entropy and your Entropy Max combine into Span: the one number that shows you how well your body is doing across a wide range of systems.”
+
+Lots of buzz words but little science. Temple does not go into fine details. Entropy sounds similar to “Readiness” scores that devices like Oura Ring and Apple Watch give to users. And just like them it possibly uses a number of health markers, like heart rate, to calculate it.
+
+These scores are mostly art rather than science. They do use some data that health sensors in devices like Oura Ring collect. But how this data is used to calculate a “score” is more of algorithmic art, a guesswork finely tuned to not just a score but also to show it in a way that pleases the user and gamifies the health. It may or may not have any diagnostic value.
+
+The problem, however, for Temple is that its loud sales pitch and vocal fitness claims have attracted the attention of a number of Indian doctors on X. And almost all of them — quite rightly — slam it. The device, with its unique design that seems straight out of Star Trek universe, gives the impression that it is doing something novel in terms of health and fitness tracking. After all, blood flow to the brain is central to many health conditions. If there is a consumer device that can measure it accurately — and currently there is none — surely that would be a major breakthrough. Even bigger than the devices measuring ECG or blood flow through the wrist, because those are older technologies built on top of settled science.
+
+It is the BrainFlow that has caught the attention of doctors and they are finding that the arguments and possibilities Temple implies are just that — arguments. So far, the Temple team has not shared any concrete proof of concept on measuring blood flow to the brain, beyond a couple of pre-prints. Pre-prints, as we know in 2026 where there are thousands of pre-print papers everyday, hold little value in the scientific community.
+
+LiverDoc, who has never shied away from a boxing match on X, has been characteristically blunt. “There is no our science and your science. But there is bad science, fringe science and science fraud and Team Temple, embraced all of these,” the Doc wrote on Thursday. “Temple device is a scam. There is no doubt about it.”
+
+His main problem is that Deepinder has “provided no real evidence or proof that his device can measure and interpret brain flow from a superficial artery — superficial temporal artery, which is entirely outside the skull, supplying blood to the side of the face, temple, and scalp regions.”
+
+His other problem, I suspect, is that he has been blocked by Deepinder on X.
+
+The Zomato founder has been similarly combative, although the major takeaway from his argument so far seems to be his assertion that corresponds to — let me cook.
+
+Yesterday, the Zomato founder responded to doctors with a few points. It’s a long post, but the summary seems to be this: I am a builder and not a doctor. And I am building a fitness and lifestyle product and not a medical device aimed at diagnosing health conditions. I have a pitch to users, and they can bite it or leave it. If they bite it, they also have another 14 days to fully commit. In other words, if consumers are not happy they can return Temple back within 14 days.
+
+And then to this pitch he has added another aspect: That I do not have the peer-reviewed research to back up Temple, but I do have faith in it. The proof of that is over Rs 180 crore of my own money that I have spent on building Temple, and all the money that other employees and other investors have pledged.
+
+It is a strong rejoinder from Deepinder, although doctors are understandably not buying it. They are still demanding proof, just the way they should.
+
+Both camps are right. Deepinder is approaching Temple like a tech entrepreneur building a solution in search of a problem. It is a product that he wants to sell. And he says that explicitly when he writes on X: “Just to be clear because I am seeing a lot of give me clinical evidence. Temple is a fitness tracker, and wellness device. We are not a medical device. If at some point, we clinically validate any of our metrics, we will let you know.”
+
+But doctors are right as well because they believe users don’t see the distinction between a lifestyle product and a medical device as clearly as Deepinder sees it. Their argument is that if it walks like a duck, if it quacks like a duck, and if it looks like a duck, then evidence must be supplied to support that it is a duck.
+
+Given that both camps are right, ultimately I think we should let the consumers decide. They are the best judge of a wellness product and they vote with their wallets. Temple is an expensive gadget and if it doesn’t offer some tangible benefits, not necessarily health benefits by the way, then it will face rejection from consumers.
+
+It is worth noting that Temple is not the only health-tech product that has faced scepticism from doctors. Even global products like Oura Ring, Whoop, and Apple Watch, routinely face scrutiny. They also come with similar more-art-than-science features like Readiness and stress score.
+
+But eventually people buy – or not buy – them because they bring something to the table. Not always it is medically-proven data. Sometimes it is just a number that provides a goody feeling to the user, or a number that calms them, or a feature that can act as a placebo — for example, a Deep Breaths feature to calm nerves.
+
+Sometimes it is not even about heath tracking or this feature or that. For many people a wearable device is just a fashion accessory, a statement of intent, or an object of emotional support like an emotional support dog. Have you seen how many obese and unfit people wear the Apple Watch Ultra, arguably the most advanced consumer wearable ever made? They definitely do not wear it because it lets them track their steep mountain trails.
+
+Will Temple offer similar lifestyles? Maybe it will, maybe it won’t. We will not know until Deepinder and the team dip their toes in the market. And they have every right to dip their toes in the market. Unless anyone is outrightly scamming or lying to users, we should let people try to sell whatever it is that they are trying to sell. Even if it is snakeoil. I may not see the value in it. But someone else may. Doctors are right but we should still let Deepinder cook whatever it is that he is cooking with Temple.
+
+\- Ends
+
+---
+
+### 41-year-old US citizen found dead in Hyderabad hotel, was in India for business
+*Abdul Basheer · general*
+
+A 41-year-old US citizen was found dead inside his hotel room at Marriott Executive Apartments in Hyderabad's Gachibowli area, with police investigating the circumstances surrounding his death.
+
+The deceased has been identified as Mitchell Brian Lee, who had reportedly travelled to Hyderabad for business-
+
+According to the initial information, hotel staff became concerned after Lee failed to respond to phone calls. When there was no response, the staff opened his room and found him lying dead on the bed.
+
+The hotel authorities subsequently alerted the police, following which a team from the Gachibowli police station reached the spot and began an investigation.
+
+### CAUSE OF DEATH YET TO BE ESTABLISHED
+
+Police registered a case in connection with the incident and initiated the necessary procedures. The circumstances leading to Lee's death remain unclear.
+
+Officials said the exact cause of death would be established only after the post-mortem examination report is received.
+
+The police are investigating the incident, while further details are awaited.
+
+\- Ends
+
+---
+
+### 'Democratic rights were curtailed but constitutionally': Sonia Gandhi reflects on Emergency
+*Aadrita Halder · regional, india*
+
+Sonia Gandhi revisits Emergency, BJP hits back
+
+NEW DELHI: Congress Parliamentary Party (CPP) Chairperson Sonia Gandhi has accused the Bharatiya Janata Party (BJP) government of causing significant damage to India's democratic institutions over the past 12 years, expressing confidence that the country's electorate would eventually bring about a return to proper governance.In an interview with The Hindu, Sonia said the damage extended to the country's democratic fabric and institutions, adding that people were increasingly recognising the consequences of the government's actions."Over the last twelve years, great damage has been done to the fabric of our country, our democracy and our institutions," she said.She expressed optimism about the country's political future, while acknowledging that restoring democratic institutions and governance would require considerable time and effort, even after the present government leaves office."Even after this government goes, it will take time to restore our systems to health, and great effort from political parties. People are now beginning to be restless and recognising the damage. But I am optimistic, and I know that the people of India will welcome a return to proper governance," she said.Sonia Gandhi on the 1975 EmergencyReflecting on the 1975 Emergency imposed by former Prime Minister Indira Gandhi, Sonia Gandhi acknowledged that democratic rights had been curtailed during the 21-month period but said the decision was taken constitutionally.
+
+"It was only after the Emergency that I came to know the true gravity of what had been happening. Yes, democratic rights had been curtailed, and there was a suspension of habeas corpus, but it was done constitutionally," she said.She also offered her perspective on the circumstances leading to the imposition of the Emergency, referring to violent protests, attacks on government offices and public transport, widespread unrest and calls for the bureaucracy and armed forces to disobey orders.
+
+She ought to remember that era as well. In contrast, over the last 12 years, PM Modi has nurtured, flourished, and strengthened democracy, proclaiming to the entire world that India is the 'mother of democracy.
+
+' It is Prime Minister Narendra Modi who has emphatically declared that 'India is the mother of democracy,'" he said.Responding to the opposition's demand for a special parliamentary session, Meghwal said the government was ready for a debate and urged opposition parties to submit a proposal.
+
+He also referred to the Home Minister's remarks at a rally in Haryana, saying Parliament was the appropriate forum for such discussions."Our Home Minister provided a fitting response (to Rahul Gandhi) at a rally in Haryana, pointing out that the Constitution-makers designated Parliament as the proper venue for such debates. If the opposition wishes to engage in a discussion, let them put forward a proposal; we can certainly convene a special session—there is no issue with that.
+
+The Prime Minister has also expressed a similar sentiment. As for the suggestion that someone should act as a 'judge'—our democratic system already has a mechanism for this; the Speaker serves as the arbiter.
+
+What is new about this proposal? Why not simply debate? Who is stopping them? They have written requesting a special session; the government is prepared to call one. We are ready for a debate," he said.Sonia Gandhi's memoir 'Belonging: A Journey of Love'The Congress leader also spoke about her upcoming memoir, Belonging: A Journey of Love, describing it as an account of how she grew to love her husband and former Prime Minister Rajiv Gandhi's family and India, and how that connection eventually brought her into public life.In the interview, she said she had long been reluctant to share her personal story but eventually decided to write about the experiences that shaped her life and her decision to enter politics."I had no desire to talk about it for so long. But it is not only a love story between the two of us, but it's also the story of how I grew to love Rajiv's family and the country to which they belonged, and then I too came to belong in it. And of how this love brought me into public life, when I saw the purpose of all the sacrifices they had made being threatened, and the party was weakening.
+
+I felt I had to do something," she said.The memoir traces Sonia's journey from her childhood in post-war Italy and her romance with Rajiv Gandhi, which brought her to India, to the personal losses that shaped her life and her relationship with her adopted country. It also recounts her experiences as a member of the Nehru-Gandhi family and her journey from private life to public service.The book, her first memoir, is scheduled to be launched on November 10.Rahul Gandhi expresses pride over mother's memoirEarlier, Leader of Opposition in the Lok Sabha Rahul Gandhi had expressed his excitement over the publication of his mother's memoir, saying he was proud that her personal story would reach readers.
+
+On the 82nd birth anniversary of his father, Rajiv Gandhi, Rahul said he understood how difficult it had been for his mother, who preferred to maintain a private life, to share her experiences publicly."I am happy, and so proud, that your story--'Belonging: A Journey of Love'--will finally be read by the millions of people who love you. I know how hard it was for someone as private as you to tell the world your beautiful story. Today, on his birthday, I can see Papa smiling and looking down proudly at his beautiful Sonia," Rahul Gandhi said.
+
+---
+
+### IOA Elections: PV Sindhu named Athletes' Commission chairperson
+*PTI · sports*
+
+Harmanpreet Singh, the hockey captain, will assist Sindhu as the deputy.
+
+[Read full article](https://thebridge.in/others/ioa-elections-pv-sindhu-athletes-commission-chairperson-58300)
+
+---
+
+### Delhi AQI remains 'very poor' at 364; several areas record 'severe' levels as strict GRAP Stage-III curbs remain active
+*Yashika Bajaj · regional*
+
+Delhi is facing hazardous air pollution, with an average Air Quality Index recorded at 364 currently.
+
+NEW DELHI: Delhi continued to reel under hazardous air pollution on Saturday morning, with the city's average Air Quality Index (AQI) recorded at 364 at 8 am, placing it in the 'very poor' category, according to data from the Central Pollution Control Board (CPCB).While the overall AQI showed a marginal improvement from Friday's reading of 389, authorities have allowed schools to shift primary classes to a hybrid mode, combining physical and online learning, under Stage III of the Graded Response Action Plan (GRAP). Several monitoring stations across the capital, however, continued to record 'severe' air quality.IIT Delhi recorded the highest AQI at 443, followed by Punjabi Bagh at 433 and Narela at 409.
+
+Cantonment Area registered an AQI of 315, while Dhaula Kuan recorded 318. Anand Vihar, meanwhile, reported an AQI of 272, placing it in the 'poor' category.Misty conditions prevailed at New Delhi's Safdarjung station in the early hours of Saturday, with the temperature recorded at 17 degrees Celsius at 5.30 am, according to the India Meteorological Department (IMD).The readings came a day after the Commission for Air Quality Management (CAQM) invoked Stage III of GRAP across Delhi-NCR, two days ahead of Diwali, amid forecasts of further deterioration in air quality.
+
+Under the GRAP framework, an AQI of 301-400 is classified as 'very poor', while readings between 401 and 500 fall in the 'severe' category. The four-stage emergency plan is implemented in Delhi and adjoining districts of Haryana, Uttar Pradesh and Rajasthan, based on pollution and weather forecasts issued by the IMD and the Indian Institute of Tropical Meteorology (IITM).With Stage III restrictions now in force, measures under the earlier stages will continue, alongside additional curbs aimed at reducing vehicular emissions, construction dust and industrial pollution.What Stage III restrictions meanThe restrictions include a ban on BS-III petrol and BS-IV diesel four-wheelers in Delhi and designated NCR districts. Curbs have also been tightened on older light and medium goods vehicles, as well as non-Delhi-registered diesel commercial vehicles entering the capital.All non-essential construction activities involving high dust generation, including excavation, earthwork, demolition and road construction, have been suspended.
+
+Essential projects allowed to continue will have to follow stringent dust-control measures.Stone crushers and mining activities, which contribute significantly to particulate pollution, will also face shutdowns or operational restrictions.To discourage the use of private vehicles, authorities have also been directed to augment public transport services by increasing Metro frequency and deploying additional buses.Four stages of GRAPGRAP is a four-stage emergency framework implemented by the CAQM in coordination with the CPCB and state governments. Restrictions become progressively stricter depending on the severity of air pollution.Stage I is triggered when AQI ranges between 201 and 300, categorised as 'poor'. Measures include controlling road dust, enforcing pollution norms and preventing open waste burning.Stage II comes into force when AQI is between 301 and 400, or 'very poor'.
+
+It includes intensified dust-control measures, higher parking fees and staggered office timings.Stage III is implemented when AQI reaches 401-450, classified as 'severe'. It entails restrictions on polluting vehicles, a halt to non-essential construction activities and the option of hybrid classes for primary school students.Stage IV, or 'severe plus', is triggered when AQI crosses 450. It includes restrictions on heavy goods vehicles and additional emergency measures targeting traffic and industrial emissions.The latest restrictions are aimed at preventing air quality from deteriorating further and entering the 'severe plus' category. By targeting major sources of pollution, including particulate matter PM2.5 and PM10, as well as nitrogen oxides, the measures seek to reduce the risk of respiratory and cardiovascular illnesses.
+
+Authorities have stressed the need for coordinated action across the NCR, even as the emergency curbs remain in place. Cleaner transport, effective waste management and sustained control of construction and industrial emissions remain crucial to addressing the region's recurring air pollution crisis.
+
+---
+
+### CBSE declares Class 12 special exam results for West Asia, marksheets on DigiLocker
+*India Today Education Desk · general*
+
+## CBSE has declared the Class 12 special examination results for students across seven West Asian countries. The final scores will replace candidates' earlier assessment-based results.
+
+Students can log in to their DigiLocker accounts to access and download their digital marksheets.
+
+New Delhi,Nov 7, 2026 11:16 IST
+
+The Central Board of Secondary Education (CBSE) has declared the Class 12 Special Examination Result 2026 for students in West Asian countries. Candidates who appeared for the examination can now access their results through the DigiLocker platform.
+
+According to the latest notification issued by CBSE on November 6, the results of the special examinations conducted between October 23 and October 28, 2026, are now available online. Students can log in to their DigiLocker accounts to access and download their digital marksheets.
+
+### CBSE CLASS 12 SPECIAL EXAM RESULT 2026: WHY WERE THE EXAMS CONDUCTED?
+
+The special examinations were organised for eligible Class 12 students in West Asian countries whose board examinations could not be conducted during the regular March-April 2026 examination session due to the prevailing situation in the region.
+
+In September, CBSE announced fresh examinations for eligible candidates whose results had earlier been declared under the assessment scheme. The move provided students with an opportunity to appear for examinations in subjects that could not be conducted during the main examination period.
+
+The special examination facility covered eligible students from Bahrain, Iran, Kuwait, Oman, Qatar, Saudi Arabia and the United Arab Emirates (UAE).
+
+### CBSE CLASS 12 WEST ASIA RESULT 2026: HOW TO CHECK MARKSHEETS ON DIGILOCKER
+
+-   Visit the official DigiLocker website or open the DigiLocker mobile application.
+-   Log in using your registered mobile number and credentials.
+-   Navigate to the education or documents section.
+-   Search for the Central Board of Secondary Education (CBSE).
+-   Select the Class 12 marksheet or relevant special examination result document.
+-   Enter the required details, if prompted.
+-   View and download the digital marksheet for future reference.
+
+The CBSE special examination was conducted over six days, from October 23 to October 28, with a break on October 25. The examination schedule covered subjects including Political Science, Economics, Mathematics, Applied Mathematics, Psychology, Business Studies, Biology, Computer Science, Informatics Practices, Home Science and English Core, among others.
+
+Earlier, CBSE had clarified that the results of the special examinations would be treated as final and would replace the candidates' earlier assessment-based results.
+
+\- Ends
+
+---
+
+### Why she-ghosts steal fish on Kali Puja
+*Rinku Ghosh · legal*
+
+From the fish-loving petni to the luchi-loving shakchunni, Bengali folklore’s female ghosts reclaim their appetites, desires and agency, challenging the social expectations that constrained women in life.
+
+[Read full article](https://indianexpress.com/article/express-sunday-eye/why-she-ghosts-steal-fish-on-kali-puja-10954390/)
+
+---
+
+### Diwali Muhurat Trading 2026: Samco Securities picks 12 stocks and ETFs for investors; BSE, Adani Power among top bets
+*Kumar Gaurav · economy*
+
+As Dalal Street investors gear up for the traditional Muhurat Trading session, domestic brokerage Samco Securities has unveiled a basket of 12 investment ideas for Samvat 2083, spanning key domestic sectors and international exchange-traded funds (ETFs).
+
+The recommendations, drawn from the brokerage's live calls, cover a diverse range of opportunities across power, capital-market infrastructure, IT services, aerospace and defence engineering, data-centre and telecom equipment, music and automobiles. The list comprises 10 Indian stocks and two US-listed ETFs, with holding periods ranging from three months to the long term.
+
+The two international ETF picks are aimed at providing a hedge against rising crude oil prices and a weakening rupee, which are the key risks identified by the brokerage.
+
+## Diwali Muhurat Trading 2026: Date and timings
+
+The Indian stock market will remain open for a special one-hour Muhurat Trading session on Sunday, November 8, 2026, as the country celebrates Diwali. Trading on both the BSE and NSE will take place between 2:20 pm and 3:30 pm.
+
+However, the exchanges will remain closed on Tuesday, November 10, on account of Diwali Balipratipada.
+
+In the commodity derivatives segment, the Multi Commodity Exchange of India (MCX), the country's largest commodity exchange, will conduct a special session from 2:05 pm to 2:19 pm, followed by the regular Muhurat Trading window from 2:20 pm to 3:30 pm.
+
+Muhurat Trading is steeped in tradition, with the Bombay Stock Exchange (BSE) introducing the practice in 1957, followed by the National Stock Exchange (NSE) in 1992. The session traditionally coincides with Lakshmi Puja, when investors seek the blessings of Goddess Lakshmi for wealth and prosperity.
+
+## Samvat 2083: 12 stocks and ETFs to watch
+
+Samco Securities' Muhurat basket combines domestic equity opportunities with overseas sectoral exposure. Here is a closer look at the brokerage's recommendations and the technical rationale behind each call.
+
+## BSE
+
+BSE appears to be entering an accumulation phase near its 50-week exponential moving average (EMA), according to Samco Securities.
+
+The stock's recent correction from Rs 4,447 to around Rs 3,000 was broadly consistent with its historical corrections of approximately 30% over periods of seven to 15 weeks. The brokerage believes the correction has now run its course in terms of both price and duration.
+
+The stock has subsequently reclaimed its 50-day moving average at Rs 3,300 and its 200-day moving average at Rs 3,369. A bullish crossover in the weekly Relative Strength Index (RSI) further strengthens the case for a potential resumption of its primary uptrend.
+
+Recommendation: Buy in the range of Rs 3,455-3,565.
+
+Stop loss: Rs 2,810
+
+Target price: Rs 5,441
+
+Investment horizon: One year.
+
+## Adani Power
+
+Adani Power returns to Samco Securities' Muhurat basket after featuring in last year's selection and achieving its target of Rs 240 in May 2026.
+
+Following a rally to Rs 254, the stock has undergone a correction and is now consolidating around its 200-day moving average of Rs 192. The brokerage identifies the Rs 175-180 zone as an important support area.
+
+With the daily RSI at 45, the stock's momentum indicator remains in neutral territory, leaving room for a potential recovery and the next upward move.
+
+Recommendation: Buy in the range of Rs 186-192.
+
+Stop loss: Rs 162.70
+
+Target price: Rs 318.85
+
+Investment horizon: One year.
+
+## Tech Mahindra
+
+Tech Mahindra has emerged from a prolonged consolidation phase, breaking above the Rs 1,450-1,650 range in which it traded for most of the past year following its second-quarter results.
+
+The stock is now trading close to its 52-week high of Rs 1,854 and comfortably above its 50-day and 200-day moving averages of Rs 1,608 and Rs 1,525, respectively.
+
+Samco believes the earlier resistance zone of Rs 1,650-1,700 could now act as support, providing a stronger technical foundation for the stock's upward trajectory.
+
+Recommendation: Buy in the range of Rs 1,760-1,820.
+
+Stop loss: Rs 1,492.80
+
+Target price: Rs 2,904.50
+
+Investment horizon: One year.
+
+## Azad Engineering
+
+Azad Engineering is among the more compelling risk-reward opportunities in Samco Securities' Muhurat basket.
+
+After surging from Rs 1,400 to Rs 3,128 between April and October, the stock has corrected approximately 22% and is now testing its July breakout zone of Rs 2,400-2,450.
+
+Despite the correction, the stock continues to trade comfortably above its rising 200-day moving average of Rs 2,148. Its RSI, hovering around 35, also indicates that the stock is approaching oversold territory.
+
+The brokerage considers this the strongest reward-to-risk opportunity in its basket, citing a stop loss approximately 9% below the current price and an upside target of more than double the recommended buying range.
+
+Recommendation: Buy in the range of Rs 2,405-2,485.
+
+Stop loss: Rs 2,221.55
+
+Target price: Rs 5,108
+
+Investment horizon: One year.
+
+## HFCL
+
+HFCL has been among the market's stronger performers over the past year, delivering gains of approximately 206% over the 12-month period.
+
+After touching a high of Rs 282, the stock has entered a consolidation phase within the Rs 200-280 range. Samco views this as a healthy pause following its sharp rally rather than a deterioration in its broader trend.
+
+The stock continues to trade significantly above its 200-day moving average of Rs 159, while the Rs 191-200 zone remains an important support area.
+
+Recommendation: Buy in the range of Rs 227-235.
+
+Stop loss: Rs 180.25
+
+Target price: Rs 381.10
+
+Investment horizon: One year.
+
+## Tips Music
+
+Tips Music has gained approximately 21% over the past month following its results and is trading just below its 52-week high of Rs 809.
+
+The stock remains well above its 50-day and 200-day moving averages of Rs 675 and Rs 623, respectively. It is also forming an inverse head-and-shoulders pattern on the weekly charts, a technical formation that could indicate further upside.
+
+Samco's recommendation issued in May 2026 has already generated gains of around 22%. For fresh investors, the brokerage suggests accumulating the stock on declines rather than chasing the recent rally.
+
+Recommendation: Accumulate in the range of Rs 770-794, preferably on dips.
+
+Stop loss: Rs 616
+
+Target price: Rs 1,050
+
+Investment horizon: One year.
+
+## L&T Technology Services
+
+L&T Technology Services (LTTS) witnessed a sharp breakout after its October 21 results, surging approximately 15% intraday and moving decisively above the Rs 3,000-3,800 range in which it had remained confined for most of the year.
+
+While the breakout signals a strengthening technical structure, the stock is now trading around 22% above its 50-day moving average, with its RSI at 75, indicating overbought conditions in the near term.
+
+Given the sharp run-up, Samco recommends a staggered entry strategy. Investors are advised to deploy half their intended investment initially and consider the remaining allocation on a potential pullback towards Rs 3,900-4,000.
+
+Recommendation: First tranche in the range of Rs 4,215-4,345, with the remaining allocation on a pullback towards Rs 3,900-4,000.
+
+Stop loss: Rs 3,308.80
+
+Target price: Rs 6,013.45
+
+Investment horizon: Six months.
+
+## TVS Motor Company
+
+TVS Motor Company has been consolidating within the Rs 3,740-4,485 range over the past three months, while maintaining its position above both its key moving averages.
+
+The stock's 50-day moving average stands at Rs 4,134, while its 200-day moving average is at Rs 3,793, indicating that the broader technical structure remains constructive.
+
+According to Samco, a decisive close above the Rs 4,485 consolidation high could signal the beginning of the next leg of the uptrend.
+
+Recommendation: Buy in the range of Rs 4,130-4,260.
+
+Stop loss: Rs 3,600
+
+Target price: Rs 5,411
+
+Investment horizon: Six months.
+
+## Multi Commodity Exchange of India (MCX)
+
+MCX has reached an all-time high of Rs 3,481, adjusted for the 1:5 stock split undertaken in January 2026, and has since entered a consolidation phase between Rs 3,000 and Rs 3,480.
+
+The stock is currently trading around its 50-day moving average of Rs 3,248 and remains comfortably above its 200-day moving average of Rs 2,846.
+
+Samco believes a sustained move above Rs 3,480 could trigger a fresh breakout, making the current consolidation range an important technical zone to monitor.
+
+Recommendation: Buy in the range of Rs 3,140-3,240.
+
+Stop loss: Rs 2,750.20
+
+Target price: Rs 3,835.75
+
+Investment horizon: Three months.
+
+## Sansera Engineering
+
+Sansera Engineering continues to trade within a rising price channel, with the stock recently rebounding from a crucial support zone near the channel's lower boundary and its 50-day moving average of Rs 4,121.
+
+The stock is now attempting to reclaim its 20-day moving average. Samco also highlights that an earlier resistance zone has turned into support, while the RSI has rebounded from the 40 level, which the stock has consistently respected since January 2026.
+
+These technical indicators, according to the brokerage, suggest that the primary uptrend could be resuming.
+
+Recommendation: Buy in the range of Rs 4,045-4,175.
+
+Stop loss: Rs 3,558.85
+
+Target price: Rs 4,965.90
+
+Investment horizon: Three months.
+
+ETMarkets.com
+
+## Energy Select Sector SPDR Fund (XLE)
+
+For investors seeking international exposure and a potential hedge against rising energy prices, Samco has included the Energy Select Sector SPDR Fund (XLE) in its Muhurat basket.
+
+The US-listed ETF is trading near its 52-week high of $70.15 and remains above its 50-day and 200-day moving averages of $64.93 and $58.73, respectively.
+
+It has gained approximately 19% over the past three months. Samco's recommendation on the Samco app, initiated in March 2026, is already in profit.
+
+The brokerage sees further long-term upside in the ETF, supported by its prevailing technical strength.
+
+Recommendation: Buy in the range of $68.50-71.50.
+
+Stop loss: $49.75
+
+Target price: $102.70
+
+Investment horizon: Long term.
+
+## Health Care Select Sector SPDR Fund (XLV)
+
+The second international ETF recommendation is the Health Care Select Sector SPDR Fund (XLV), which is trading at a fresh 52-week high and remains comfortably above its key moving averages.
+
+Its 50-day moving average stands at $172.22, while the 200-day moving average is at $158.67. However, with the RSI at 73, the ETF is in overbought territory in the near term.
+
+In view of the elevated momentum indicator, Samco advises investors against deploying their entire allocation at once. Instead, the brokerage recommends accumulating the ETF in multiple tranches over the coming weeks.
+
+Recommendation: Accumulate in the range of $182-188.
+
+Stop loss: $133.50
+
+Target price: $295.95
+
+Investment horizon: Long term
+
+_Disclosure: This article has been written by Kumar Gaurav, who is not a Sebi-registered Research Analyst or an Investment Adviser. Gaurav and their ‘relative(s)’ (as defined under Section 2(77) of the Companies Act, 2013) do not hold any financial interest in the companies mentioned in this article as of the date of publication. The views/recommendations mentioned in this article, wherever applicable, are those of the respective Sebi-registered Research Analyst/brokerage and have been reproduced/reported with due attribution. They should not be construed as the views or recommendations of The Economic Times Digital or the journalist. Readers are advised to consider the original research report and make their investment decisions based on their own assessment. Brokerage disclaimers here_
+
+---
+
+### Odisha High Court stays Hockey India elections
+*PTI · sports*
+
+Hockey India elections were slated to be held on 5 December, 2026.
+
+[Read full article](https://thebridge.in/hockey/india-election-stay-odisha-high-court-58298)
+
+---
+
+### Muhurat Trading 2026: Date, Time and Stock Market Outlook for Samvat 2083
+*Akash Mandal · legal*
+
+Muhurat trading 2026 begins at 2:20 PM on Diwali as Sensex and Nifty extend their rally. Experts assess market trends and the outlook for Samvat 2083.
+
+[Read full article](https://indianexpress.com/article/explained/explained-economics/muhurat-trading-2026-date-time-stock-market-outlook-samvat-2083-10954351/)
+
+---
+
+### US-Iran war: Tehran says forces 'stronger' than at beginning of war
+*SECTIONS US-Iran war Tehran says forces than · business*
+
+Tehran: Iran said Saturday its military has grown "stronger" since the outset of its war with the United States, which has offered a $20 million reward for information about Tehran's nuclear programme.
+
+Mediators have been working to prevent any resumption of fighting after months of deadlock in the Middle East conflict, which began when the United States and Israel attacked Iran in late February.
+
+Tehran has sought to limit traffic through the Strait of Hormuz, which normally carries about one-fifth of global oil consumption.
+
+  
+
+Iranian army spokesman Mohammad Akraminia said Tehran retained control over the strategic waterway and that it would remain closed until its demands were met by the United States.
+
+He also said Iran's forces had grown stronger and more confident, state news agency IRNA reported on Saturday.
+
+"Today, the Islamic Republic's armed forces... having gained experience from direct confrontation with the United States and the Israeli regime, are on higher alert and are stronger than they were at the beginning of the war," he said.
+
+"They now possess greater motivation, commitment, and self-confidence."
+
+"Under the order of the Supreme Leader, the response of the armed forces will be immediate, effective, and without geographical limitations," he added.
+
+## Reward offered
+
+On Friday, the US military said it was offering a $20 million reward "and possible relocation" for information about Iran's nuclear programme.
+
+Rewards for Justice, a State Department programme, was seeking information on topics including "facilities, equipment, and associated personnel, such as those in the scientific community," US Central Command said on X.
+
+The programme was established in 1984 under the State Department's national security rewards programme to offer money for information that protects American lives and interests.
+
+In a statement about the reward, the State Department said Iran's "lack of compliance with the (International Atomic Energy Agency) on safeguards obligations has led to the agency's loss of 'continuity of knowledge' regarding Iran's production and inventory of key components like centrifuges."
+
+It did not specify what type of information would warrant a $20 million reward.
+
+US President Donald Trump has repeatedly said US forces have effectively obliterated Iran's nuclear programme.
+
+"If we didn't hit Iran, you wouldn't have Israel today," Trump said Friday night in West Palm Beach, Florida.
+
+"If they had nuclear, they would have used nuclear. They would have obliterated the Middle East."
+
+## Dialogue
+
+The president also said Iran -- which he stressed has had its economy and military severely damaged over eight months of war -- is eager to end the conflict.
+
+"We're dealing with them now. They want to make a deal very badly," he said.
+
+Trump called Qatari Emir Sheikh Tamim bin Hamad Al Thani on Friday to discuss efforts to end the war.
+
+Iran's President Masoud Pezeshkian said this week his government was still trying to resolve the crisis through dialogue.
+
+Early on Saturday, Iran's Tasnim news agency reported that two missiles had struck Qeshm Island in the Strait of Hormuz, adding there was no official information about any damage.
+
+Iranian state television reported two explosions on the island.
+
+The Iranian army said early Saturday that its air defences had "struck and destroyed" a US drone that was flying over the island, according to state media. It did not say whether the island was attacked.
+
+---
+
+### India's Aditya-L1 has completed a year of studying the Sun's secrets
+*India Today Science Desk · general*
+
+India's Aditya-L1 solar mission has completed a successful first year of observations with its Solar Ultraviolet Imaging Telescope (SUIT), offering scientists a closer look at the Sun's lower atmosphere and its explosive activity.
+
+A research paper detailing the instrument's performance describes how it was operated, calibrated and maintained while capturing important features of the Sun, including solar flares.
+
+The study, titled 'Unraveling the Secrets of the Lower Solar Atmosphere: One Year of Operation of the Solar Ultraviolet Imaging Telescope (SUIT) on board Aditya-L1', was led by Rahul Gopalakrishnan and a team of researchers.
+
+The research paper has been accepted for publication in the Journal of Astrophysics and Astronomy. But what story does it tell?
+
+An image of the SUIT instrument aboard Aditya L1. (Photo: URSC)
+
+### INDIA'S SOLAR MISSION
+
+Launched by the Indian Space Research Organisation, or Isro, on September 2, 2023, Aditya-L1 is India's first dedicated space-based solar observatory.
+
+The spacecraft reached its designated halo orbit around the Sun-Earth Lagrange Point 1 (L1) on January 6, 2024, approximately 1.5 million kilometres from Earth.
+
+This location gives the spacecraft a largely uninterrupted view of the Sun, without the regular interruptions caused by Earth's shadow or eclipses.
+
+> Suit Observation of an Offlimb eruption and a following flare arcade on 16 Feb, 2026 in Mg II k 279.6 nm Check out @suitadityal1 for more updates !! https://t.co/p80IbNBDhV @IUCAAScipop @dktripathi @sree\_padi @ydnad0 @dipu\_iia @isro https://t.co/na1UkBethf— SUIT Aditya-L1 (@suitadityal1) February 26, 2026
+
+The mission aims to help scientists understand how the Sun's outer atmosphere gets heated, how solar flares and massive eruptions of material begin, and how these activities influence space weather, potentially affecting satellites, communication networks and power systems on Earth.
+
+### WHAT DID ADITYA L1 FIND?
+
+Aditya L1's SUIT is one of its seven scientific instruments that are aboard Aditya-L1.
+
+It captures images of the Sun in near-ultraviolet light, covering wavelengths between 200 and 400 nanometres.
+
+The instrument was switched on November 20, 2023, and captured its first scientific images on December 6, while the spacecraft was still travelling towards L1.
+
+(Photo: Journal of Astrophysics)
+
+Unlike observations made using visible light, SUIT's ultraviolet images allow scientists to examine features in the Sun's photosphere and chromosphere, two layers of its atmosphere that provide important clues about solar activity.
+
+The research paper details the instrument's calibration, regular maintenance, operating procedures and observations during its first year.
+
+The paper also highlights notable solar features and events recorded during this period.
+
+> Full-disk solar observations on 24 October 2026 using SUIT MgII k 279.6nm. Stay tuned to @suitadityal1 for more updates !! https://t.co/qfZKAYVIhE @IUCAAScipop @dktripathi @sree\_padi @ydnad0 @dipu\_iia @isro https://t.co/4UgnlGioLV— SUIT Aditya-L1 (@suitadityal1) November 5, 2026
+
+### FINDINGS REMAIN IMPORTANT
+
+Understanding activity in the Sun's lower atmosphere is important because it can help scientists trace how solar disturbances develop and evolve into larger eruptions.
+
+Such observations can improve our understanding of space weather and the potential impact of solar activity on technology around Earth.
+
+With its five-year planned mission life, Aditya-L1 will continue collecting observations through its seven instruments, helping scientists build a more complete picture of the Sun and its influence on Earth's space environment.
+
+\- Ends
+
+---
+
+### OpenAI to press ahead with data-center expansion despite midterm sweep: Report
+*Reuters · legal*
+
+OpenAI says it will continue expanding its US data centres despite growing opposition and concerns over tighter scrutiny following the midterm elections.
+
+[Read full article](https://indianexpress.com/article/technology/artificial-intelligence/openai-us-data-centre-expansion-10954367/)
+
+
+---
+
 ## 6 November 2026
 
 ### From selling Diwali lights in a Mumbai chawl to becoming a Dubai business tycoon. Danube's Anis Sajan once sold an Aquaguard to Sanjay Dutt
