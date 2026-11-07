@@ -1,8 +1,99 @@
 # Editorials
 
-_Last updated: 2026-11-06 08:22 UTC_
+_Last updated: 2026-11-07 07:39 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 7 November 2026
+
+### Epic failures: on electoral roll, welfare
+*The Hindu · Editorial*
+
+Union Panchayati Raj Minister Rajiv Ranjan Singh’s statement that voter identity cards, with biometric authentication, will replace Aadhaar as the basis for identifying beneficiaries and making payments under his Ministry’s schemes runs contrary to existing laws and regulations. Essentially, the electoral roll, prepared in several States through the flawed Special Intensive Revision (SIR) by the Election Commission of India (ECI), will become the dataset to vet the identities of beneficiaries. This contradicts the Supreme Court’s May 27 judgment on the Bihar SIR and its observations while hearing petitions against West Bengal’s orders removing people deleted during the SIR from the Public Distribution System and the Annapurna Yojana. The Court held that the ECI may undertake only a “limited enquiry” into citizenship to decide who belongs on the electoral roll, and that “any action taken pursuant thereto is confined to electoral consequences alone”. The consequence of deletion from the rolls, it said, is “correspondingly limited” to a person’s place on the roll and their right to vote. The Court also called the EPIC “a derivative document, issued on the basis of inclusion in the electoral roll”, and held that relying on it to verify that very roll would defeat the exercise. It is ironic that Mr. Singh now wants this “derivative document” to be the determinant of welfare benefits.
+
+Not every citizen is an eligible voter, and tying benefits to the electoral roll is illogical and also cruel. In West Bengal, lakhs were deleted from the rolls, many for dubious “logical discrepancies”. In the appeals heard for reinstatement, 93% resulted in the restoration of names by September 2026, pointing to massive pre-election disenfranchisement. The Court has stated that it is yet to adjudicate on the legality of the ECI’s “logical discrepancies” method. The SIR was designed by the ECI to restrict enrolment through stringent residency criteria; thus, itinerant voters had to prove their eligibility. The Opposition, civil society and even some of the BJP’s allies have objected to this, but the BJP refuses to acknowledge the SIR’s flaws. This is partly because it has benefited from disenfranchisement — as in West Bengal. But the Minister’s remarks suggest another reason. The BJP-led coalition sees the pruned electoral rolls as a way to limit welfare, especially at a time when growth in tax revenues has slowed because of the Centre’s policies. Inordinately delaying the Census, changing the procedure to appoint Election Commissioners, who then run an exercise that disenfranchises millions by design, and now, using the resultant rolls to decide who gets welfare, all cut at the heart of the painstakingly built constitutional welfare state. The sooner the Court decides the petitions against the SIR, and reiterates that its rolls cannot be used to curtail welfare, the better.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/epic-failures-on-electoral-roll-welfare/article71674394.ece)
+
+---
+
+### The struggle for justice is indivisible
+*The Hindu · Opinion*
+
+In the district jail in Panna, in Madhya Pradesh, a 24-year-old woman walked into the Superintendent’s office, her bright eyes alight as she stretched out her hands to greet us. She is Divya Ahirwar, an elected ward councillor from a Scheduled Caste-reserved seat, who has been in jail since September 27 on a fabricated charge of attempted murder. She has now been granted bail by the High Court of Madhya Pradesh in Jabalpur. Along with Amit Bhatnagar, founder of the Jai Kisan Sangathan, Divya has been at the forefront of a movement seeking justice for thousands of Adivasi and Dalit families facing displacement because of three projects in the State’s Panna and Chhatarpur districts. Amit, who undertook a hunger strike lasting several weeks, has also faced arrest.
+
+The three projects are the Majhgaya dam, the Runjh dam and the Ken-Betwa river-linking project. These are distinct projects, with different administrative histories and varying scales of displacement. But they share a common thread: the flagrant violation of the rights of project-affected families. The project sites have become centres of intense repression and brave resistance. The conflict raises fundamental questions about the power equations between the state, the class interests it represents and those against whom that power is exercised.
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-struggle-for-justice-is-indivisible/article71675148.ece)
+
+---
+
+### Fare hikes merely transfer distress
+*Deccan Herald · Editorial*
+
+The Karnataka government’s decision to raise bus fares, coming close on the heels of a milk price increase, makes for poor optics, though both stem from genuine economic pressures. With Deepavali approaching, people usually expect relief. Last year, the Centre’s rationalisation of GST rates offered households some respite. This year, they face an additional burden on their cost of living. Dairy farmers have long demanded higher procurement prices to make milk production viable. The government has responded with an increase of Rs 8 per litre in the base price of Nandini milk. A similar dilemma confronted it in the transport sector. State-run bus corporations have struggled for years to meet operating expenses amid rising diesel, wage, and maintenance costs. The result was a fare revision of 35% for BMTC and 23% for other transport corporations, which took effect on November 5 and triggered public outrage.
+
+While the lion’s share of the milk price hike will flow to farmers, the bus fare revision intends to address the deteriorating financial health of the state’s road transport undertakings. The four corporations together carry liabilities of nearly Rs 10,000 crore. Transport Minister Byrathi Suresh has denied that the Shakti scheme, which provides women free travel in non-AC buses, is responsible for the financial distress, pointing out that the government reimburses the corporations. The problem, however, is the delay in reimbursements, creating severe cash-flow pressures. Compounding this is Karnataka’s funding model. Unlike states providing substantial budgetary support to their transport undertakings, Karnataka’s corporations depend largely on passenger revenue. However, the distress is not confined to Karnataka. Transport undertakings in Tamil Nadu, Maharashtra, and Kerala also face mounting losses and liabilities. The crisis is structural and industry-wide.
+
+But that is no reason to make public transport unaffordable. Mobility experts rightly warn that higher fares run counter to efforts to reduce congestion and promote public transport. They could drive commuters towards two-wheelers, undermining the broader objective of sustainable urban mobility. The long-term answer lies in bridging the welfare-commercial divide through timely reimbursement of government concessions, modest periodic fare revisions linked to costs, and greater non-fare revenue. The Delhi Metro, for instance, earns substantial non-fare income through property development, leasing and advertising, creating a strong second pillar of revenue. The challenge before the government is not merely to balance the books of its corporations, but to reconcile fiscal health with affordable public mobility. The burden of this balancing act cannot fall on commuters alone.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/fare-hikes-merely-transfer-distress-4210635)
+
+---
+
+### Poverty reduction: Beyond welfare gains
+*Deccan Herald · Editorial*
+
+The World Bank’s India Poverty and Equity Brief – October 2026 has reported the welcome development that the country has recorded one of the fastest rates in poverty decline globally. It says the proportion of Indians living below the lower middle-income line of $4.2 a day fell from 57.7% to 16.1% between 2011 and 2023. An estimated 496 million people moved above the poverty threshold. Extreme poverty, measured against the $3/day benchmark, declined from 27.1% to 2.6%. The Multi-dimensional Poverty Index (MPI) also fell to 15.5% in 2022-23. The Bank has attributed the improvement mainly to strong consumption growth, rising employment, especially among women, and welfare measures, including expanded social transfers. The poverty levels are expected to decline further in the coming years, though at a slower pace.
+
+While the figures signal a credible achievement, they have also sparked discussions around the assessment methods. The 2026 Global Hunger Index ranks India 100th among 122 countries, with high rates of undernourishment, stunting, and wasting of children. The poverty brief itself says that median earnings among the highest-paid 10% of workers were approximately 1,200% higher than those among the lowest-paid 10% in 2023. Economic growth has been jobless and inequitable, favouring higher-income brackets more than the poorest strata. According to the World Inequality Lab 2024 report, India’s top 1% controls over 40% of national wealth. Youth unemployment has been high in the last 10 years. NITI Aayog estimates that graduate unemployment is at 13%. Real earnings have been stagnant. Only 23% of non-farm paid work is formal, and only 31% of women participate in paid work. The World Bank’s figures do not align with these estimates.
+
+An important question is whether all those who rose above the poverty line did so based on their own incomes and whether their current economic status is sustainable. Most of the poor in the country receive free food, monthly payments from the government in their bank accounts, and many other handouts. If the government largesse distributed in multiple ways accounts for the upliftment of people above the poverty line, that cannot be termed a genuine drop in poverty. Statistical measures of poverty do not present a full account of the situation, even when they generate accurate figures. Poverty is primarily about inadequate access to food, healthcare, education, housing, and other necessities. India needs to make steady and substantial investments in all these areas to secure real progress.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/poverty-reduction-beyond-welfare-gains-4210636)
+
+---
+
+### A window for India before the US Congress shifts
+*Deccan Herald · Opinion*
+
+On January 3, a new Congress takes its seat in Washington and promises to make Donald Trump’s second term very different. However, while the Democrats may have gained control of both houses in this week’s midterms, the old Congress remains in place until then. Republicans still control both chambers, and Trump holds all government levers. For India, the next eight weeks and the eight months following will require two very different plans.
+
+The Republican-controlled Congress is operating in a lame-duck session, but this session is very important because it can affect politics for a generation. A Republican Senate can still confirm nominees that the incoming Democratic majority would not after January 3.
+
+The most important of these confirmations would be a Supreme Court justice. Clarence Thomas, 78, and Samuel Alito, 76, were appointed by earlier Republican presidents and are the court’s most conservative members. Both gave rulings the Republican base wanted desperately for decades. In 2022, Alito’s judgment that overturned Roe v. Wade ended the national right to abortion. Thomas widened the right to carry guns in public. In 2024, both justices supported giving presidents broad immunity for official acts. That ruling stalled the case against Trump over the 2020 election. Conservatives will press either justice to retire now, so that a younger successor can be confirmed before January. This will secure the court’s six-to-three conservative majority for a generation. Congress must also pass funding to run the government, and both parties seek to resolve issues before the power shifts.
+
+The states will finish counting and certifying their results through November and December: Alaska on November 18, and Mississippi’s Senate sooner. It remains to be seen if Trump stands by his statement that he is “absolutely willing to accept those results”.
+
+A president weakened at home seeks wins abroad. Trump attends the ASEAN and APEC summits in mid-November in Manila and Shenzhen, before hosting the G20 in mid-December. Prime Minister Narendra Modi is among those attending. These may be when Trump announces deals.
+
+That gives India an opening. In October, Marco Rubio said Washington was “trying to finalise a trade deal with India” and “very close to doing that”. India should secure that deal before January, while Trump controls trade and a friendly Congress is in place.
+
+The second deadline is Russian oil. In October, the administration waived the tariffs of up to 100% that the Sanctioning Russia Act allows on the largest buyers of Russian energy. This group includes India. Rubio then announced a 60-day pause before deciding on new sanctions, which end by mid-December. Delhi should use these weeks to frame what comes after the pause while those who granted it are still in charge.
+
+From January, the situation will change drastically as the Democratic-controlled House will relentlessly use its power to hold the administration accountable. Robert Garcia, the Democrat likely to chair the House Oversight Committee, has already named four targets: the “Trump crime family” businesses, corporate corruption and unfair practices, including surveillance pricing, abuses by immigration agencies such as DHS and ICE, and the handling of the Jeffrey Epstein files. He has warned administration officials to ‘lawyer up’. The spending bills will also be bargained over, and the war powers resolutions will force Trump to either change course or use his veto. The Senate will control confirmation of his choice of appointments.
+
+Trump will respond with executive orders and vetoes, and the courts will be busy resolving many disputes. By spring, the 2028 race will be in full swing. J D Vance will carry the baggage of his party’s losses in his home state of Ohio. And the Democrats will use their new majorities to give a platform to the victors of Texas and Ohio.
+
+For India, this brings both friction and relief. Democrats are more hawkish on Russia. In March, Senator Ruben Gallego and Representative Sam Liccardo called an earlier waiver for Russian oil “dangerous, self-defeating, and indefensible”. A Democratic Senate is likely to resist further waivers, which makes Russian oil Delhi’s main new risk. Democrats have also questioned Trump’s warmth towards Pakistan’s Field Marshal Asim Munir, and their committee chairs will scrutinise arms sales to Pakistan, suiting India. Human rights will also return to the agenda. Progressive members such as Pramila Jayapal will gain influence, and talks on religious freedom and Kashmir are likely.
+
+On trade, Democrats oppose broad tariffs and may pull back some of the tariff powers Congress gave the President. That would ease the pressure on partners, including India. On skilled migration, Democrats are friendlier to H-1B workers, but the executive holds the levers, and change will be slow.
+
+The core of the relationship remains, with strong, continued support for
+
+defence cooperation, technology, and the Quad.
+
+Delhi should adopt two paths simultaneously. With the White House, finish whatever is possible before January—i.e., the first phase of the trade deal and a clear understanding on Russian oil. With Capitol Hill, start building relationships now. The Democrats who will chair the Senate Foreign Relations, Armed Services, and Finance committees, along with their House counterparts, will be decided over the next few weeks. India also loses John Cornyn, the Republican co-chair of the Senate India Caucus, who is leaving in January after losing his primary. India must find a new Republican champion because its position in Washington has always been through bipartisan support.
+
+Since January 2025, Delhi has dealt with Washington largely through the White House. From January 2027, Capitol Hill will have a large say again, and the weeks before then are the time to prepare.
+
+The writer is the head of the defence fellowship and a research fellow at the Takshashila Institution.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/a-window-for-india-before-the-us-congress-shifts-2-4210645)
+
+---
 
 ## 6 November 2026
 
@@ -28,6 +119,17 @@ It is ironic that Mr. Trump alluded to his name not being on the ballot as the c
 
 ---
 
+### Young and fast: on F1’s youngest champion
+*The Hindu · Editorial*
+
+Andrea Kimi Antonelli etched his name in motorsport history by becoming the youngest driver to win a Formula One World Championship. The 20-year-old has secured his maiden title with four races to spare after finishing third at the Mexico Grand Prix on Sunday. The Italian’s feat is remarkable, for he has claimed the crown in his sophomore campaign, becoming only the fifth driver in history to do so in the first or second season. Mercedes signed Antonelli for its junior driver programme when he was just 12. Since then, the Italian’s step towards F1 has been meticulously managed. After acing the F4 championships, Antonelli skipped one level to transition to F2. And when the opportunity arose to fill a seat vacated by seven-time champion Lewis Hamilton, Mercedes boss Toto Wolff took a bold gamble by drafting in the youngster. Antonelli’s rookie campaign in 2025 was baptism by fire, and he was outclassed by teammate George Russell. For 2026, F1 ushered in drastic changes with new engine and aerodynamic regulations, dramatically altering the dynamics of the cars. Though conventional wisdom suggested that the experienced Russell would be the favourite, the Italian prodigy embraced the challenge astonishingly well. This was best exemplified by how he won five consecutive races starting from the second round of the season.
+
+One of the hardest things in F1 is handling the nerves associated with protecting the lead, especially when it is the driver’s first attempt at a Championship bid. Antonelli, though, was incredibly consistent throughout the year, and hardly made any errors. Titles are often decided by how a driver minimises his losses on bad days, and Antonelli showed great temperament in this regard. At the same time, he was ruthless on the track and made decisive overtaking manoeuvres. The defining race was in Monza, Italy, in September, where Antonelli charged from 19th on the grid to win his home Grand Prix, finishing ahead of Russell who started second. It was a statement of intent, and strengthened his grip on the trophy. Drivers often raise their games following a world title, more so when success comes early in their career. Considering the giant leap Antonelli made to become F1’s first champion to be born in the 21st century, he will undoubtedly attract a new generation of fans. The charm of the sport lies in its iconic driver rivalries such as Ayrton Senna versus Alain Prost, and Michael Schumacher versus Mika Hakkinen. With four-time champion Max Verstappen widely considered the gold standard of the present era, Antonelli could well be the perfect candidate to battle the Dutchman in F1’s next great rivalry.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/young-and-fast-on-f1s-youngest-champion/article71674756.ece)
+
+---
+
 ### A middle power moment in a fragmenting world
 *The Hindu · Opinion*
 
@@ -36,6 +138,27 @@ When, early in October, this writer found himself in Berlin, addressing the ques
 Middle powers are not easy to define. They are typically characterised by a combination of attributes: significant regional presence and influence, desire for greater relevance, growing economic capabilities, credible diplomatic networks, and the political will to act beyond their immediate neighbourhoods. They are not “great” powers in the traditional sense, but they possess enough weight to matter in global governance, and enough autonomy to pursue independent strategies. Their influence is exercised less through coercion than through coalition-building, agenda-setting, and the ability to act as bridges between different parts of the international system.
 
 [Read full article](https://www.thehindu.com/opinion/lead/a-middle-power-moment-in-a-fragmenting-world/article71670894.ece)
+
+---
+
+### DC Edit | Dalal Street Defies Global Rout
+*Deccan Chronicle · Editorial*
+
+The bulls appear to be back on Dalal Street, if one goes by the remarkable resilience shown by the Indian equity markets in the last seven consecutive trading sessions. Despite a global sell-off, the Sensex surged 1,718 points to close at 81,028, while the Nifty reclaimed the 25,000-mark.
+
+While American, Japanese and South Korean markets suffered substantial losses, the Indian indices gained more than 10 per cent. This rally shows how the same international developments can produce contrasting consequences for different economies.
+
+There are four important factors behind the rally — declining crude oil prices, rout in artificial intelligence stocks, hope of India-US relations stabilising and falling yield of US treasury bills.
+
+The most important factor is the sharp decline in crude oil prices. It was the same crude oil, which brought down the stock markets, when it was rising. As India imports nearly 90 per cent of its crude oil requirements, falling prices reduce its import bill, ease inflationary pressures, strengthen the external balance and improve corporate profitability.
+
+While American technology stocks are facing concerns over tighter regulation by the Democrats-led Congress and excessive artificial intelligence investments, Indian investors anticipate that the changed political equations in Washington could encourage a negotiated settlement of the US-Iran conflict, and stable India-US relations.
+
+US Treasury yields have declined steadily from around five per cent to 4.85 per cent, with a near-term downward bias of four per cent to 4.3 per cent. When US yields decline and the dollar softens, currency pressure on emerging markets such as India eases and foreign Institutional Investors (FIIs) often shift money into higher-growth economies like India.
+
+The real test will be whether lower oil prices translate into sustained economic growth and corporate profitability. India's present advantage is encouraging, but its durability will depend on economic fundamentals rather than speculative optimism.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-dalal-street-defies-global-rout-2002361)
 
 ---
 
@@ -83,6 +206,33 @@ For India, the immediate benefit is considerable. The Strait of Hormuz remains v
 
 ---
 
+### DC Edit | Winds Of Change Are Sweeping The World
+*Deccan Chronicle · Editorial*
+
+There has been a significant shift in the global political landscape. The shackling of the US President Donald Trump in the midterms is the latest sign of this continuing shift which may have begun with youth movements in Nepal and Bangladesh and a popular uprising in Sri Lanka which came some years after the Arab Spring had shown the world was willing to seek change.
+
+The Brazilians just preferred to keep faith with Lula and keep out far-right candidate Flavio Bolsonaro. Their choice bucked the Latino American tide in which at least seven conservative and right-wing leaders had been chosen by the people. While Hungary’s Viktor Orban was shown the door after 16 years, long term Serbia’s Aleksandar Vucic of Serbia had to make way for a students’ movement that surprisingly grabbed the right to rule.
+
+It appears Benjamin Netanyahu’s time may be up too if the latest indications about his chief rival in Gadi Eisenkot getting the first call to try and form the government are a guide to nations being swept away by this swelling tide of change. In Israel, it is not a shift to left wing populism since another brand of right-wing, security-oriented movement is being recognised with the downing of Benjamin Netanyahu whose waning popularity saw his Likud Party and coalition shorn of its majority.
+
+Young people’s tilt to the left may be said to be rooted in material insecurity and general disillusionment with life, particularly their prospects that seem to have stalled, as much as what is seen as the failure of established politicians to deliver. The rising cost-of-living everywhere in the world is lending greater voice to the term affordability, which was the primary reason why Mr Trump’s Republicans faced such a rout in the polls.
+
+The same reason can be attributed to the surprising victory of another person of Indian origin, a Tamil from Kerala, in Nithya Raman who has been elected mayor of Los Angeles and who beat the well-entrenched senior politician Karen Bass. A newcomer to the poll fray, she rode to victory on her opponent’s failure as she was absent from the scene when enormous fires flared around LA last year.
+
+The two most populous cities of the US — New York and Los Angeles — are in the hands of people of Indian origin now with Zohran Mamdani having led the progressive brigade into the office of mayor.
+
+Youth power and the rekindled liking for democratic socialism which comes with the promise of redistribution of the wealth that is concentrated in the microscopic few in all societies now has been magnified by the young capturing the core of the online social media ecosystem. This new hyper power is also demonstrated in the power of protest that youth have brought with their enthusiastic messaging for change.
+
+What the leaders of the US and Israel must learn from this is the fact that the cost-of-living and unaffordable urban housing which is leading to youth anxiety can be traced to the Iran war they foolishly started last February and whose deleterious aftereffects from the choking of a portion of global oil supply has exacerbated the situation.
+
+The one favour that Mr Trump can do to himself and his beleaguered Republicans is to find an immediate way to negotiate the end to the Iran war so that the world may breathe easier. Much the same could be said of the Ukraine war too that the Russian President Vladimir Putin has been engaged in since Feb. 2022.
+
+Setting the world right with a personal agenda might seem their biggest challenge to elderly men behind the trigger, but what they are blind to is the fact that the world is changing and it is people by a far younger age group with a life ahead of them and which they would like to live in peace to pursue happiness.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-winds-of-change-are-sweeping-the-world-2002392)
+
+---
+
 ### Dem Win In Congress Alters Path Of US Policy
 *Deccan Chronicle · Opinion*
 
@@ -105,6 +255,59 @@ The impact abroad may take a different form. Historically, the US Presidents, wh
 President Donald Trump confronts a more complicated situation. He has threatened escalating the Iran war, including dropping nuclear weapons to destroy Iran’s Pickaxe Mountain nuclear enrichment facility. But Israeli elections have dismantled the ruling alliance of PM Benjamin Netanyahu. Gadi Eisenkot, the likely Opposition prime ministerial candidate, would need to moderate Zionism, requiring the tacit support of the 19-member Arab groups. Though Mr Netanyahu may still prefer re-commencing the war with Iran to disrupt Opposition’s government formation, will Mr Trump ignore the end-the-war message the US voters have broadcast? Iran has ...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/dem-win-in-congress-alters-path-of-us-policy-2002126)
+
+---
+
+### Far Right Across Globe Faces Post-midterm Reality Check
+*Deccan Chronicle · Opinion*
+
+“He sleeps enchanted by classical tunes
+
+Dreaming of pyramids and huge sand dunes
+
+He wakes to the sound of sirens and horns
+
+And pain from the gout and his toes with their corns…”
+
+— From An Hour with the Bawa by Bachchoo
+
+The USA comes to its senses. The MAGA saga is sad history as the Democrats sweep into the Congress and the Senate. Trump, with all his presidential powers and even the constitutional power of veto, is on the skids. It is perfectly possible for him to be impeached and then tried for fraud.
+
+The world is also, predictably, awaiting the results of the indeterminate Israeli election. Will either side manage to patch up a coalition? Netanyahu may not be on the skids, but he’s certainly on unstable roller skates and vulnerable to being pushed.
+
+Both elections stimulate universal curiosity because the immediate future, though not the fate, of the world’s dispositions depend on them. The deranged policies of US tariffs, the Iran war, sucking up to Putin, threats to Canada and Greenland, etc., may be history. America’s sensible population has triumphed and you and I, gentle reader and trillions over the world, were merely anxious spectators.
+
+There are those whose conceit and money conspire to make them believe they can exert influence on the politics, and even elections, of countries in which they have no stake or business.
+
+There are the two British tax-exile crypto-currency billionaires, Chris Harborne who lives in Thailand and Ben Delo who lives in Hong Kong. They each donated £36 million to Nigel Farage and his far-right Reform Party.
+
+As crypto-currency dealers, they both got rich, not through toil and trouble, but through cunningly gambling with gullible people’s deposits — perfectly legal — and that’s our world!
+
+Even so, the present Labour government is contemplating putting a celling on the donations that foreign residents can contribute to British political parties. The possibility has caused Ben Delo to indicate that he might move back to Britain and his Oxfordshire country estate. Both donors say they want nothing in exchange for their extravagant donations, except backing the fascistic programmes of Reform. Hail-El-Luiya?
+
+And then, of course, the other interferer, who has Fuckleberry-Hinn-all to do with Britain, voices his support for a far-right thug who has adopted the name of Tommy Robinson and pays him donations. Musk also supports, and possibly finances, the ultra-right political faction which calls itself the Restore Party — a breakaway from Nigel Farage’s Reform.
+
+Musk’s past support of Trump and MAGA may be considered legitimate as he lives in the US, but his vociferous and social-media support for British right-wingers is aimed at his universal battle against Muslim immigration to the Europe and the West.
+
+As with Delo and Harborne, Musk’s billions don’t originate in anything but very sharp cunning, which has, through the years, employed the brilliant, inventive scientists and engineers to build his car manufacturing, his space programme and of course his bank balance. Does he know the first thing about the quantum physics and statistical maths that make ‘his’ exploration of space travel possible?
+
+Has the Pope converted to Islam?
+
+Putin is another mother-lover who conceitedly interferes with foreign elections, though perhaps he only does so with cash inputs into the elections of the ex-Soviet Russian neighbours such as Georgia and Belarus.
+
+Despite conspiracy-wallahs saying that Putin has cyber methods of interfering with British elections, I remain sceptical. Of course, Putin’s putative chamcha, Orangeboob Duck, thinks nothing of making statements about uniting Ireland and supporting this or that British Party. I don’t think anyone takes the least notice of Duck’s quacking.
+
+Enriched by £72 million, Nigel Farage has started a newspaper in his Party’s name — yes, it’s called Reform. He spends vast amounts on propaganda against the wearing of hijabs and niqabs in public. Despite all that, his party’s standing in the polls, relative to that of Labour, is steadily on the decline.
+
+Even so, the anti-immigrant, anti-asylum-seeker, anti-welfare policies of Reform may revive support for the Party.
+
+I have always maintained that the British population is not going to vote overwhelmingly for fascistic Parties. My contention is based on the fate of Oswald Mosely in the 1940s whose British Union of Fascists was decisively seen off. And then there was, in 1968, Enoch Powell’s bid for the leadership of the Tory Party using violent racist predictions. His bid failed miserably.
+
+Have things changed substantially since then with the refugee population growing — negligibly in numbers relative to the entire population of the sceptred isle, but still enough to give the far-right its only discernible policy?
+
+I hope my now-contentious assessment still holds; and that Farage and Restore will fail with the electorate even though today Reform has eight MPs in Parliament — most of...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/far-right-across-globe-faces-post-midterm-reality-check-2002369)
 
 ---
 
@@ -132,6 +335,37 @@ However, enforcement matters as much as legislation. A regulator needs technical
 Foreign laws offer limited guidance because they address different problems. The United States’ Children’s Online Privacy Protection Act requires verifiable parental consent before covered services collect personal information from children under 13, with exceptions; it does not generally ban social media. The United Kingdom’s Online Safety Act requires highly effective age checks only for services giving access to specified harmful content, including pornography. India should assess the evidence, privacy costs, and scope for evasion before adopting similar measures. Australia’s under-16 social media restrictions took effect in December 2025, and a June 2026 study in The BMJ found that ...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/what-indias-online-child-safety-rules-must-get-right-2002117)
+
+---
+
+### When Opp. Rules Streets, Govt Behind Barricades
+*Deccan Chronicle · Opinion*
+
+By taking possession of the streets, by challenging the obstructive and coercive power of the police and paramilitary, the Opposition has delivered a powerful message to the rulers: People’s politics cannot be confined by barricades. Converting the core government territory of Lutyens’ Delhi into a fortress is not the answer to the discontents reflected in the protests.
+
+Slapping multiple cases against the Leader of the Opposition, Rahul Gandhi and the Congress president Mallikarjun Kharge by accusing them of defamation cannot halt the increasing intensity and expansion of the protests across India and in New Delhi. Calling protests “anarchy” and protesters “anarchists,” is infructuous; it calls attention to the failure the Bharatiya Janata Party and the Narendra Modi administration to defuse the crisis of credibility that the street protests embody against its decisions, choices, policies and actions.
+
+The street rallies, the meeting at the Ramlila Ground in New Delhi and uncertainty over permission from the Delhi Police to allow a mock court and trial of the chief election commissioner Gyanesh Kumar for perpetrating “political genocide”, as critics have described it, through the deletions and exclusions under the special intensive revision of electoral rolls, are not acts of anarchy. On the contrary, such mass mobilisations are legitimate demands for a government and a system of governance that is not anti-people, or at the very least, not champions of a process that has disenfranchised 13.37 crore Indian voters.
+
+The counter-strategy drawn up by the Bharatiya Janata Party to hit the streets in a series of rallies across its domain in North India to “Save Democracy — Defeat Anarchy” is a bizarre idea. As the ruling party at the Centre and in 20 states, either independently or in coalitions, why would a legitimately elected party need to “save democracy” and “defeat anarchy”?
+
+It does not matter that Amit Shah will lead a rally in Karnal in Haryana and Yogi Adityanath will hold a rally in Lucknow. Neither of these places are the nerve centre of the nation. The first rally in New Delhi was a staged turnout, reeking of righteousness and minus the spontaniety of the Janat Mantar rallies.
+
+If BJP has the nerve, it should organise the biggest ever public rally in India, if not the world, as befits a party that claims to be the biggest in the world. That rally should be addressed by Mr Modi as the helmsman of the BJP. It would signal that the party and Mr Modi are acknowledging that there is an accountability to the people that goes beyond the schedules of elections.
+
+The street protests are about holding the Modi government accountable. The relationship between ruling party and the people is not limited to the intense engagement during elections and campaigning. It extends beyond that. For acts that the people or a section of people consider to be misdemeanours, there must be accountability. That accountability is not be confused with elections and results. It is a pity that the BJP cannot conceive of democracy outside the calendar of elections and inside legislatures where it controls the majority.
+
+The discourse of politics is not easily confined; it must and it does cross the flimsy boundaries that the BJP has drawn up to defend itself from aderse public scrutiny. It is easy for Mr Modi to jeer at Mr Gandhi as a “failed product”. It is difficult for Mr Modi to counter or challenge the failed product atop a barricade. Indulging in name calling, “anarchist” to be precise, is all noise and entirely meaningless.
+
+Since 2014, the Modi administration has never had to deal with public discontent on a multi-state, multi-party scale; street mobilisations on one specific issue — SIR and disenfranchisement of crores of voters and the earlier demand for the dismissal of Union education minister Dharmendra Pradhan over examination paper leaks — are evidence that there is a demand for accountaility of government outside the BJP-controlled Parliament.
+
+Election politics and the politics of discontent are different from each other. Winning an election does not make the discontent and the discontented disappear.
+
+The Congress and Opposition parties within the Indian National Developmental Inclusive Alliance have lost elections to the BJP, for control of the Lok Sabha and about 20 state Assemblies and Union Territory legislatures. In some states the leading regional parties have been reduced to wraiths of their original selves, as in Maharashtra and in West Bengal.
+
+Even so, there is opposition to the ruling dispensation that, instead of declining after every electoral defeat, seems to have reconstituted itself in forms of public protest that are different from the organised movements of political parties. The Cockroach Janta Party, that began life as a cheeky satire and pushback against the slurs cast on India’s youth by the judiciary, is one significant instance of how the public chooses to represent itself, outside...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/when-opp-rules-streets-govt-behind-barricades-2002346)
 
 ---
 
@@ -21488,257 +21722,6 @@ Adam Smith remarked that there is a great deal of ruin in a nation. He meant it 
 Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
 
 [Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Aug/08/incredible-india-as-told-to-parliament)
-
----
-
-## 8 August 2026
-
-### ​Pay wall: On a charge on UPI transactions
-*The Hindu · Editorial*
-
-The government’s decision to allow banks and payment processors to levy a charge on UPI transactions, while still pending, has already led to several policy questions. No official decision has yet been announced, but the preparations are apparent. The only official change that has been made is the amendment to the Payment and Settlements Systems Act that will now allow the government to notify which types of transactions can attract a charge. This was done through the Taxation and Other Laws (Amendment) Bill, 2026, which was passed in the Lok Sabha recently without a debate. Before this law, UPI and RuPay debit card transactions were expressly exempt from any charges. Government sources say that the charge could be allowed only for transactions conducted by large merchants with turnovers of more than ₹1 crore-₹1.5 crore and for transactions above ₹2,000 in value. This would limit the charge to only about 5% of all UPI transactions. However, the amended law gives the government the ability to widen this scope. The fear also is that merchants will pass this cost on to consumers, who will move back to cash, which remains free to use. That said, the issue must also be looked at from the point of view of the payment ecosystem. UPI was made free in 2020. The payments players have argued that they have been bearing the cost of maintaining and running UPI since then. As Reserve Bank of India (RBI) Governor Sanjay Malhotra recently said, “somebody has to pay” for UPI. Presumably, he meant that “somebody” should no longer be the payment processors or banks.
-
-However, the burden of the cost has not solely been borne by these players. Taxpayers are already bearing some of it. In 2021, the government introduced a scheme where it paid these payment processors and banks a subsidy to partially cover the cost of processing transactions up to ₹2,000 done by small merchants. The government has already paid about ₹11,349 crore on this, with another ₹2,000 crore budgeted for 2026-27. The question is whether consumers and merchants should be asked to pay an additional charge when some of their taxes are already being used for this purpose. There is also some anger over the perception that the government pushed people towards UPI through demonetisation, only to now allow it to become chargeable. Finance Minister Nirmala Sitharaman has argued that such a charge will help payment players invest more on infrastructure, innovation, and security. The RBI has the resources to pay for UPI’s development. Using this would entail a small reduction in the vast surplus that it transfers to the Centre each year, but it would save the government from an increasingly unpopular decision.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/pay-wall-on-a-charge-on-upi-transactions/article71318110.ece)
-
----
-
-### Prudent approach: On the RBI’s interest rate-setting committee meeting
-*The Hindu · Editorial*
-
-There was little room for the Reserve Bank of India (RBI)’s interest rate-setting committee to manoeuvre during its meeting in early August. Elevated global crude prices over the past few months had already pushed retail inflation beyond the central bank’s 4% target, with headline CPI rising to 4.38% in June, the highest in the current CPI series. While the outcome was a foregone conclusion, leading the RBI to keep the repo rate unchanged at 5.25% for the fourth consecutive meeting, RBI Governor Sanjay Malhotra’s post-MPC statement suggests that the central bank’s principal concern has, for some time now, been containing the fallout of mounting geopolitical uncertainties on India’s macroeconomic fundamentals. The recent dollar-rupee swap and the decision to absorb the hedging cost on fresh Foreign Currency Non-Resident (Bank) deposits are clear indications of the RBI’s focus. The objective is twofold: to maintain adequate domestic liquidity as the rupee weakens amid capital outflows, while shoring up foreign exchange reserves as the merchandise import bill swells on the back of elevated crude prices. Foreign exchange reserves have now climbed close to $700 billion, while FCNR(B) deposits have risen to around $40 billion and are expected to grow further before the scheme closes. The rupee, which until recently was the worst-performing Asian currency, has recovered to around ₹95.
-
-However, the MPC’s assessment that inflationary pressures are not yet broad-based and remain largely confined to food and fuel may prove premature. Higher fuel costs have affected sectors including transport, food, travel, and tourism. Inflation in transport services more than doubled to 4.31% in June from 1.75% in May. Although the Centre cut commercial LPG prices for a second consecutive month in July, it is unrealistic to expect restaurants and eateries to pass on these savings immediately. Passenger vehicle manufacturers have also raised prices this year, reflecting higher input and logistics costs. While U.S. President Donald Trump has indicated a possible truce and a durable arrangement to secure navigation through the Strait of Hormuz, the Ukraine war continues to threaten supplies from Russia, India’s largest crude supplier. Even so, the RBI’s decision to prioritise growth while remaining alert to inflationary pressures from global supply shocks is underpinned by India’s relatively strong domestic fundamentals. Merchandise exports grew 15.5% year-on-year in June, consumption demand has remained resilient, and public and private investments continue to strengthen. Governor Malhotra’s assertion that future policy decisions will remain “data dependent” and that the RBI will adopt a “wait-and-watch” approach is arguably the most prudent course.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/prudent-approach-on-the-rbis-interest-rate-setting-committee-meet/article71318661.ece)
-
----
-
-### Kerala can become India’s model AI governance State
-*The Hindu · Opinion*
-
-The evolution of public administration has reached a critical juncture today. The sheer complexity of modern governance has outpaced the legacy tools traditionally used to manage it. Kerala has long enjoyed a distinguished reputation built upon its enduring strengths: a highly educated citizenry, robust public institutions, and an enlightened tradition of public discourse. Yet, these historic achievements risk being undermined if the State’s administrative machinery continues to rely on fragmented information flows, delayed reporting, and rigid, department-centric silos.
-
-In an era defined by real-time data analytics, artificial intelligence (AI), and systems-level coordination, relying on annual reports and retrospective reviews is no longer just an operational inefficiency; it has become a structural hazard. Upgrading these systems is not an exercise in technocratic ambition, but rather a fundamental requirement for institutional credibility, fiscal discipline, and responsible statecraft.
-
-The problem of administrative silosAcross Kerala’s administrative ecosystem, most departments continue to design, execute, and evaluate their public schemes within narrow, isolated boundaries. Key sectors such as health, power, local self-government, social welfare, finance, agriculture, and education operate with incompatible reporting formats and disconnected review cycles. Crucially, the overwhelming majority of these programmes lack real-time monitoring. Performance assessment remains largely confined to quarterly or year-end reporting. By the time these retrospective evaluations occur, systemic inefficiencies have already hardened into permanent financial losses. Regulatory leakages, cost overruns, beneficiary exclusion, and execution delays are discovered months after the fact, when corrective intervention is both administratively expensive and politically constrained. This delayed-visibility model creates severe risks, as fiscal leakages go undetected across departmental lines, policy failures are identified only after public resources are completely exhausted, and administrative accountability shifts from preventing errors to merely explaining them away. For a State that prides itself on exceptional human development outcomes, this structural vulnerability is inexcusable.
-
-Modern public policy does not operate in isolation; it functions as a highly interconnected web of cause and effect. A rural housing scheme directly alters electricity demand; energy pricing reshapes household economics. These economic shifts subsequently influence nutrition and community health outcomes, which ultimately dictate workforce productivity and long-term fiscal capacity. When administrative departments optimise solely for their individual mandates, the State loses its ability to anticipate or manage these critical second-order effects. What Kerala requires today is not a proliferation of more welfare schemes, but a unified, continuously updated, decisional view of governance — one that accurately reflects reality as it unfolds on the ground.
-
-A real-time digital nervous systemThis is precisely where AI-powered governance dashboard becomes a strategic necessity. Such a platform is far from a cosmetic overlay of digital charts and superficial indicators; it functions as a living institutional nervous system. By integrating live data streams from all departments, public utilities, and local bodies, it can track public programmes end-to-end, from the initial budget allocation and fund release to ground-level execution and actual beneficiary outcomes. Machine-learning models can automatically flag anomalies, delays, cost escalations, and implementation gaps as they occur, providing predictive alerts that allow leadership to intervene before an administrative hitch escalates into a public crisis. This approach transitions informed decision-making from a distant aspiration into a daily institutional discipline.
-
-The true value of this integrated digital architecture becomes apparent when it is applied systematically across core administrative sectors. In public health, real-time monitoring of hospital capacity, medicine inventories, ambulance response times, and disease surveillance can actively prevent system overloads rather than just document them after a crisis. AI-driven alerts can detect emerging public health stress at the district and panchayat levels, enabling rapid, localised interventions. Similarly, within the power and energy sector, integrating data on electricity generation, distribution losses, subsidy flows, and rooftop solar adoption onto a single platform, allows energy policy to be managed as a dynamic fiscal and infrastructure system, safeguarding grid stability and mitigating financial drain.
-
-This transparency is equally vital for Kerala’s celebrated decentralised governance model. Local self-government institutions can leverage these dashboards to track project execution, fund utilisation, and citizen grievance resolution timelines, ensuring that local autonomy is matched by clear visibility. In the domain of social welfare, where multiple schemes frequently target the same households through different departments, real-time database reconciliation can instantly flag duplication or unwarranted exclusions, ensuring welfare spending remains efficient. Finally, in public finance, moving away from delayed financial reconciliation toward live visibility of treasury cash flows and committed liabilities directly reinforces fiscal discipline and state credibility.
-
-This shift fundamentally transforms a political culture where review meetings have historically functioned as retrospective rituals characterised by static presentations and selective indicators. An automated dashboard alters this dynamic by making performance continuous, visible, and cross-institutional. Responsibility moves from episodic justification to real-time ownership. Public officers receive structural protection through objective, unmanipulated data, while senior political leadership gains high-level clarity without resorting to micromanagement. Far from weakening the civil service, this system actively strengthens public institutions.
-
-State ownership mattersTo ensure that this transformation is credible, the reform must be anchored in a concrete, State-owned digital architecture. Though there is a strong case for decentralised governance, and those who generate data must continue to “own” it, senior leadership will need a unified oversight to interpret live feeds, highlight deviations from targets, simulate the downstream impact of proposed policy adjustments, and recommend evidence-based course corrections. This architecture would collapse the time lag that routinely paralyses governance, centralising operational visibility while keeping execution authority properly distributed.
-
-To ensure that this advanced technological framework strengthens democracy rather than unsettling it, robust legal and institutional guardrails are mandatory. All data must remain the sovereign property of the State of Kerala, held in trust for its citizens and managed in absolute compliance with Indian data protection laws. Every AI-generated alert or policy recommendation must be fully auditable, preserving clear decision logs for statutory oversight, vigilance reviews, and legislative scrutiny. In democratic governance, algorithmic transparency is a necessity, ensuring that executive efficiency never erodes legislative authority or constitutional balance.
-
-Furthermore, layered over existing infrastructure such as the e-Kerala systems embedded across village offices, this real-time awareness acts as a vital safeguard for State resources. By interfacing lawfully with secure national data verification systems, the State can seamlessly authenticate beneficiary eligibility, track the end-to-end delivery of subsidies, and align property records to close long-standing loopholes in revenue leakage. When identity, entitlement, and transaction data converge under strict legal oversight, fiscal pilferage becomes structurally difficult, protecting the State from systemic financial strain.
-
-The cost of administrative inaction in an increasingly digitised world is exceptionally high. If Kerala maintains its fragmented, legacy approach, persistent fiscal leakages, eroding policy credibility, and unmonitored financial liabilities will inevitably compound. Bureaucratic morale suffers when officers are forced into defensive post-hoc explanations rather than proactive problem-solving. Kerala risks surrendering its historic leadership role as a pioneer in social development.
-
-Instead, Kerala can serve as an example to the nation as a strong, data-capable State. Transitioning to an AI-driven governance model would signal that public funds are treated as sacred capital, and that democratic administration can be both deeply humane and technologically precise. It bridges the gap between political intent and actual delivery, turning the ideal of collective administrative responsibility into a measurable, 21st-century reality. And once again, Kerala could set a model for the rest of India in how AI can be channelled constructively to improve democratic governance, rather than undermine it.
-
-Shashi Tharoor is the fourth-term Member of Parliament (Lok Sabha) for Thiruvananthapuram (Congress party), the Chairman of the Parliamentary Standing Committee on External Affairs, and the Sahitya Akademi Award-winning author of 29 books, including, most recently, The Sage Who Reimagined Hinduism: the Life, Lessons and Legacy of Sree Narayana Guru
-
-[Read full article](https://www.thehindu.com/opinion/lead/kerala-can-become-indias-model-ai-governance-state/article71318572.ece)
-
----
-
-### OF CABBAGES AND KINGS | Of Trump & Iran; And A Flashback To WMDs In Iraq And Sobhraj Saga | Farrukh Dhondy
-*Deccan Chronicle · Opinion*
-
-“Say ‘no’ to everything proposed
-
-Be negative, don’t give a shit
-
-The Positivists have overdosed
-
-The Negativists must use their wit…
-
-Denial is the beginning
-
-Of alternative ways to go
-
-Determination delivering
-
-Newly defiant ways to grow!”
-
-From Kismet Haldy, by BachchooThe deranged orange booby President Dump of the United States has threatened to cut off trade with Spain after its Prime Minister Pedro Sanchez denied the US access to use the Spanish air bases of Moron and Ratafor to launch strikes against Iran.
-
-Pedro Sanchez went further, using the example of the Iraq war by George W. Bush and Tony Blair, saying that it was based on the blatant lie that Iraq and Saddam Hussein were a danger to the world as they had vast deposits of “Weapons of Mass Destruction”. This claim, whose targets became known as WMD, were presumed to mean biological, chemical and nuclear arsenals.
-
-After the defeat of Saddam in Iraq, both the US and Britain were forced to concede that the invading forces had not found any evidence of arsenals of WMD -- neither chemical, biological or nuclear.
-
-Of course, the apologists of Mr Bush and Mr Blair resorted to the “conspiratorial” theory that with the impending defeat of Iraq, these arsenals of WMD were destroyed – untraceably so.
-
-That brings me, gentle reader, to the recollection of an episode of my very peripheral involvement in a story about WMD.
-
-You may be aware that from 1997 I have had the acquaintance of the convicted serial murderer Charles Sobhraj. How and why I made his acquaintance is another story, which of course is told in detail in my memoir Hawk and Hyena, which contains the episode in which Charles invited me to get involved in selling arms from the ammunition dumps of the former Soviet republics to organisations all round the world, including the Taliban.
-
-(I’ve warned you before about advertising your stuff --Ed. Not advertising, yaar, just in the interests of truth, if readers want to quote sources --fd).
-
-In 2002 he called me from Paris asking me what “Red Mercury” was. I have a couple of science degrees and I knew and told him that it was a purported Russian invention of a trigger for nuclear weapons, a product of the element Antimony. He didn’t say why he wanted to know, and I didn’t bother to ask. Perhaps he was catching up on his neglected physics studies?
-
-The Iraq war happened in March 2003. Completely unrelatedly, I was, soon after, writing a screenplay which involved Red Mercury and Sobhraj’s query came to mind.
-
-I think I asked his partner Chantal why he wanted to know about Red Mercury and she told me that he had gone to Bahrain to sell it in 2002, before the Iraq invasion. I called Charles and asked him to whom he had sold the Red Mercury. He said he had been to Bahrain to negotiate its sale and purchase with some Arab gentlemen.
-
-I asked him if they could have been Iraqis and he said they were in Western suits and ties and yes, could have been. He added that he had in his possession coded emails from them and had secretly recorded their meeting regarding the negotiation and purchase of this nuclear trigger. He had kept all that evidence.
-
-Much though I regretted it, being an ardent opponent of Mr Bush’s and Mr Blair’s war, I told Sobhraj that he was sitting on a very hot international news story. If Iraqi negotiators were buying nuclear triggers before the Iraq war, then it’s possible that Saddam was stocking, or preparing to stock, WMD! I said, however much I regrated it, the story had to reach the international press. Sobhraj said he’d come over that evening with the emails and recording he had.
-
-I called a Spectator journalist called Peter Oborne with whom I had a vague acquaintance and told him the story. He invited Charles and myself to breakfast early next morning.
-
-Charles and I went, and the then editor of the Spectator, one Boris Johnson, turned up. Boris heard the story from Charles and said it was too big a story for a weekly such as the Spectator and he would call a reporter called Mike from the Daily Telegraph. I left the meeting at that point having made the introductions.
-
-That evening the Telegraph writer Mike called me to say that Sobhraj was demanding exorbitant sums to disclose the evidence and newspapers don’t pay for news. I said it was none of my business and it was up to him and Sobhraj.
-
-Fifteen minutes after that call, Charles phoned to say that he was being offered a paltry £15,000 by the Telegraph and, now that he knew that it was explosive international news, he’d sell it to America -- but first he had business in Kathmandu, and could I take him to St. Pancras?
-
-I did. I was curious to know why he would go to Nepal where he was wanted for a couple of murders. He said he had no worries as he had protection from the CIA. I knew that he had negotiated some deal with the CIA, as it was I who had connected him with a colleague who had written a history of the CIA.
-
-The deal for which he went to Kathmandu fell through, and...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-cabbages-and-kings-of-trump-iran-and-a-flashback-to-wmds-in-iraq-and-sobhraj-saga-farrukh-dhondy-1977532)
-
----
-
-### A steep price for crowd control
-*Deccan Herald · Editorial*
-
-The Supreme Court’s observations on pellet guns in connection with the recent police action on youth protests in Delhi did not engage with a fundamental issue regarding their use. A bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana, while hearing a petition on the use of metallic pellets as ammunition by the CRPF's Rapid Action Force, expressed reservations about the petition.
-
-The Court found the demand vague because it did not challenge existing police regulations. It pointed out that the regulations allowed the use of such weapons in exceptional situations, and a prayer for a blanket ban would be untenable without challenging the validity of those very regulations. The Court noted that a bona fide protest may turn violent at any point, perhaps due to infiltration of anti-social elements, sometimes necessitating graded responses of law enforcement.
-
-'How can pellets be barred when bullets are allowed in extreme cases?': Supreme Court questions plea seeking ban on pellet gunsPellet guns, as a crowd control measure, are distinct from a lathi charge or the use of water cannons. They don’t merely deter; they are instruments of deliberate punishment and risk causing permanent impairment to the affected. Crowd control measures cannot be aimed at punishment, which should come only at the end of a trial.
-
-The youth at Jantar Mantar did not commit any offence; they only exercised their right to protest. Past use of pellet guns has caused blindness, facial disfigurement or neurological damage. Kashmir has reported many such cases. Using them against students and other protesters cannot be defined in terms of a “graded response”. This state response is disproportionate and should not have a place in a democratic society.
-
-The condition that pellet guns should be used only in exceptional situations is flawed. When the police face an unruly crowd, the personnel won’t be in a position to decide whether they are engaging with something exceptional. In a rapidly evolving situation, while managing an agitated group of people, they might not possess the mental frame for a considered decision. While the use of firearms comes with stipulations such as the below-the-knee guideline, pellet fire can become indiscriminate, causing injuries anywhere on the body.
-
-Many international human rights organisations and medical bodies have sought a ban on the use of pellet guns. If the Supreme Court intends to ban the use of these weapons, it can quash the administrative rules and standard operating procedures that make their use legal. The Court can do it under Article 142 of the Constitution, which gives it discretionary powers.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/a-steep-price-for-crowd-control-4103488)
-
----
-
-### An uneasy transition in the Council
-*Deccan Herald · Editorial*
-
-Basavaraj Horatti’s resignation as the Chairperson of the Karnataka Legislative Council is less about personalities and more about the changing arithmetic of democracy. Having secured a majority in the 75-member Council, the Congress is well within its rights to seek one of its own as the presiding officer. Nevertheless, considering the dignity attached to the office, the transition could have been managed with greater decorum by all parties concerned.
-
-Horatti expressed deep pain at the developments, insisting that convention entitles the Chairperson to a full tenure. However, in a parliamentary system, the occupant of the Chair is ultimately determined by the numerical strength of the House. To his credit, Horatti has largely conducted himself with impartiality and upheld the dignity of the office throughout his tenure. An eight-time member of the Council, he is among Karnataka's longest-serving legislators. The only notable blemish was his handling of the controversy when Bharatiya Janata Party (BJP) member C T Ravi allegedly hurled an abusive remark at then Minister Laxmi Hebbalkar, creating the impression that the Chair failed to protect a woman member.
-
-'Congress should not hijack House': Asked to quit as Legislative Council chairperson by CM, Basavaraj Horatti braces for political testHoratti himself benefited from a similar political realignment in 2021 when his predecessor, K Prathapachandra Shetty, resigned during the inter-session period rather than face a no-confidence motion after the balance of power shifted. Horatti, then a Janata Dal (S) member, assumed the Chair with the support of the BJP.
-
-What is unfolding today is merely the reverse of what worked in his favour then. In 2022, he resigned as both Chairperson and JD(S) MLC, joined the BJP, won re-election from the West Teachers constituency and was elected Chairperson once again. It was an unprecedented episode in Karnataka's legislative history, with a sitting Chairperson resigning from one party and returning to the same office immediately under another party's banner.
-
-The Congress, for its part, has been more than accommodating. Chief Minister D K Shivakumar and KPCC president B K Hariprasad reached out to Horatti to spare him the embarrassment of a no-confidence motion. It, however, committed an impropriety by announcing Saleem Ahmed as its nominee for Chairperson and Umashree for Deputy Chairperson, along with its list of ministers. The election of the presiding officers is the prerogative of the House and should not appear to be dictated by party headquarters. At 80, Horatti has had a distinguished innings. The most fitting legacy he can leave is to step aside gracefully, allowing the institution to function in keeping with democratic convention.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/an-uneasy-transition-in-the-council-4103489)
-
----
-
-### Hormuz holds key to peace in expanding war
-*Deccan Herald · Opinion*
-
-The war in Iran has entered its sixth month, bringing heightened anxiety to the Gulf over the last weekend, following United States President Donald Trump’s warning that Washington intended to hit Tehran “very hard”. The statement issued after a cabinet meeting at Camp David coincided with media reports that US and Israeli forces were coordinating major air strikes against Iran’s energy infrastructure.
-
-Anxiety over the impending attacks in the Gulf intensified further as Trump had met Israeli Prime Minister Benjamin Netanyahu in Washington just three days prior, on July 28, as well as by a security advisory from the US Embassy in Israel urging American citizens to consider leaving the region.
-
-However, the tension was defused by Trump’s announcement that he was cancelling the strikes on condition that a deal with Iran is finalised quickly. He noted that the pause was in response to requests from countries in the region and Iranian officials who assured him that a framework had been reached.
-
-Iran says it still controls Strait of Hormuz, not seeking talks, after Trump halts bombingSince the conflict began on February 28, the US President has halted planned military strikes against Iran on six distinct occasions. This recurring pattern reveals reliance on maximum rhetorical escalation followed by sudden retreats. Every time Trump makes threats to attack Iranian energy infrastructure, Gulf partners quickly intervene to plead for restraint to protect their critical assets from the fallout. This time, the turnaround happened after a phone call from Saudi Crown Prince Mohammed bin Salman and coordinated pressure from other Gulf states.
-
-This collective intervention was done after they received calls from Iranian Foreign Minister Abbas Araghchi, who warned that Iran would be forced to retaliate by attacking their energy and vital desalination infrastructure. This cycle of threatening attacks followed by withdrawals has exposed the limits of Washington’s leverage beyond strikes on military assets in Iran.
-
-The latest episode has also demonstrated the US’s dwindling options for ending the war, particularly the opening of the Strait of Hormuz. Repeated heavy US bombardments have reached their limit in securing further military advantages, and a full-scale ground invasion to force an Iranian surrender is not an option. Simultaneously, the US is fast depleting its stockpile of precision long-range missiles and interceptors needed for other global theatres.
-
-In the meantime, Iran has broadened the scope of the war by activating the Houthis in Yemen and Shia militias in Iraq. The uneasy truce between Saudi Arabia and the Houthis has collapsed in recent weeks after they declared a maritime embargo against Saudi shipping and Red Sea ports. The Houthis also quickly acted on their threat, striking Saudi oil tankers as well as key energy facilities along the Red Sea. This has undermined Riyadh’s contingency strategy of using its East-West Pipeline to bypass the Strait of Hormuz, leaving it no choice but to reroute its oil tankers around Africa to supply its major buyers in Asia. The Houthis are continuing their attacks, with the latest targeting an airport in southwestern Saudi Arabia.
-
-In addition, Iran-backed Iraqi militias launched a two-day drone and missile attack on the crude stabilisation units in Saudi Arabia’s oil-rich Eastern Province to undermine the Kingdom’s export reliability. This forced Saudi Arabia to abandon its strategic restraint to join with the US to launch retaliatory airstrikes against militia command centres across Iraq.
-
-The war further expanded to the Eastern Mediterranean when unidentified drones struck an American floating storage vessel in the Egyptian port city of Damietta. While neither Iran nor the Houthis claimed responsibility for the attack, it was a clear message that Western energy supply chains remain vulnerable beyond the Gulf region as well.
-
-While Iran is under severe economic strain, compounded by the US naval blockade on its ports, it is determined to endure the short-term pain, rather than accepting a temporary truce. Iranian leadership is holding out for a decisive outcome that permanently ends the cycle of war with the US and Israel. It is also equally determined to maintain control of the Strait of Hormuz.
-
-The US and the Gulf Cooperation Council (GCC) countries are encouraging Oman to find an acceptable solution for opening the Strait. The debate over the deadlock in Hormuz has shifted from whether Iran will exert control on the route to how it will enforce this control, culminating in Iran’s announcement late Wednesday that a tentative agreement with Oman has been reached, but emphasising that finalising a bilateral transit corridor cannot ensure maritime security until the US lifts its naval blockade.
-
-While the Gulf countries will be deeply unhappy about Iran’s control over maritime traffic or the imposition of a service fee, their immediate priority remains securing the reopening of the strait for their exports. Though the US remains opposed to making concessions to Iran on the Strait of Hormuz, Article 43 of the United Nations Convention on the Law of the Sea (UNCLOS) provides a legal framework for sharing the financial burden of keeping an international strait safe and clean through consensus-driven, voluntary partnerships, offering Washington a viable diplomatic off-ramp.
-
-Unless the US is willing to make concessions to Iran on the issue of Hormuz, the present cycle of military attacks, paused by temporary ceasefires, will continue with severe consequences for the world economy. Resolving the Hormuz deadlock offers the only plausible path for Washington and Tehran to resume negotiations on nuclear and other issues.
-
-(The writer is a former governor of India to the International Atomic
-
-Energy Agency [IAEA], Vienna, former ambassador to Egypt, and
-
-former permanent representative to the Arab League)
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/hormuz-holds-key-to-peace-in-expanding-war-4103484)
-
----
-
-### ODR route to fast-track justice
-*Deccan Herald · Opinion*
-
-India’s courts are carrying more than 5.6 crore pending cases — 4.97 crore of them stuck at the district level, another 64.5 lakh in the high courts, and roughly 95,000 in the Supreme Court itself. This number is the single biggest driver of the next wave of justice tech reform. No amount of new judges alone will close a gap that size. For this precise reason, Online Dispute Resolution (ODR) and last-mile justice technology have moved from pandemic-era convenience widgets to serious pillars of justice reform.
-
-ODR uses digital platforms to settle disputes outside courtrooms — mediation, arbitration, and negotiation conducted over video calls, chat, and structured online workflows. NITI Aayog’s 2021 blueprint, ‘Designing the Future of Dispute Resolution’, set the direction, and platforms have since built ODR panels for banks, e-commerce firms, and insurers, resolving cheque-bounce cases and motor accident claims in weeks rather than years. What it needs now is a spine capable of standing shoulder to shoulder with the country’s justice edifice. If reforms have to be ushered in anywhere, it has to be the justice sector — perhaps the last bastion, and the first frontier, for scalable technology that transforms the aspirations of millions of citizens.
-
-Rethinking judicial reformTo this end, the Mediation Act, 2023 — India’s first standalone mediation law — gave the shift legal teeth: pre-litigation mediation is now mandatory for many civil disputes, mediated settlements are enforceable like court decrees, and the new Mediation Council of India regulates who gets to mediate. The Arbitration Bar of India, launched in 2024, does the same for institutional arbitration.
-
-The judiciary is catching up at scale. The Supreme Court’s e-Courts Mission Mode Project has entered Phase III, backed by a Rs-7,210 crore outlay through 2027, aiming for fully digital, paperless courts with AI-assisted case management and universal e-filing. The 2026-27 Budget kept the momentum going with a fresh Rs-1,200 crore allocation. SUVAS has machine-translated more than 36,000 judgments into Hindi and other Indian languages; SUPACE gives judges an AI research assistant that surfaces facts and precedent, without deciding for them. The art of letting go is something the justice sector ought to imbibe: a rent control case and a habeas corpus petition often eat the same court time. The government needs to identify which disputes technology can resolve, so courts focus on what only a judge can decide.
-
-Funding and software alone don’t fix a justice system. The real test is whether courts can absorb this technology as fast as it’s being built. Judges and staff need training, not just terminals. Legacy case files need accurate digitisation, or AI-assisted case management will learn from bad data. And every new digital layer needs a human-appeals process behind it, so nobody’s rights are lost to a server error.
-
-Can justice tech be a public-private partnership? It already is, informally. Private ODR providers do the triage — cheque bounce, insurance, e-commerce — that would otherwise clog magistrate courts. The government’s job isn’t to compete with that; it’s to certify it: set standards for neutrality, data security, and enforceability under the Mediation Act, and let private platforms scale under that umbrella. That’s the model — public infrastructure, private innovation, aimed at the same backlog.
-
-Paperless courts are the harder promise to keep. Filing a case online isn’t the same as a court running paperless — that needs interoperable case management across district, high court, and Supreme Court systems, unified through the National Judicial Data Grid, searchable digitised archives, and video infrastructure that works in a small-town courtroom, not just in metros. There are lessons here from India’s own playbook — UPI, DigiLocker, even the National Electricity Grid.
-
-India still has ground to cover globally: 79th of 142 countries on the World Justice Project’s 2024 Rule of Law Index, and a sobering 107th on civil justice — the exact category ODR is built to fix. Closing that gap requires making pendency reduction measurable by publishing case-clearance rates and the number of settlements via ODR, court by court.
-
-The road ahead has friction — digital literacy gaps, patchy rural connectivity, questions of enforceability, and data security still need answers. But the direction is clear: India is building a justice system where technology sits alongside, not instead of, the judge. Done right, ODR will free them to do what only courts can — focus on justice.
-
-(The writer is a justice tech entrepreneur)
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/odr-route-to-fast-track-justice-4103487)
-
----
-
-### When banking was personal
-*Deccan Herald · Opinion*
-
-My banking career began at Grameen Bank in Raichur district, in an era when bank jobs were considered prestigious white-collar occupations. I was posted to Deodurga, a taluk headquarters. After serving there for one and a half months, I was transferred to Chandrabanda, a nondescript village where a new branch was to be opened. Within a few months, I received an appointment with the State Bank of Mysore and was posted near Bengaluru.
-
-As bankers in those days, we knew every customer personally, often to the extent of calling them by name. The profession also commanded immense respect. During my posting at Chandrabanda, the villagers staged a performance of the Kurukshetra drama. As bankers — and as "Lakshmiputras" — we were accorded a warm welcome and seated in the front row. We remained there throughout the performance, as leaving midway would have been discourteous.
-
-No guards, just cameras: Are ATMs safe anymore in Bengaluru?Banking operations were entirely manual then. While the Savings Bank ledgers were relatively small, the Current Account and Cash Credit ledgers were enormous, sturdy volumes that were quite a challenge — and sometimes a source of amusement—to handle.
-
-Our bank's name was a household name, and everyone aspired to have an account with it. At the taluk headquarters, our branch conducted government transactions on behalf of the Reserve Bank of India. Government employees, teachers, and pensioners all preferred to maintain their accounts with our bank. Consequently, salary and pension payment days during the last and first weeks of every month were particularly hectic and demanding.
-
-Customers who came to open fixed deposit accounts were welcomed with open arms. They were offered comfortable seats, given preferential treatment, and attended to with utmost courtesy and humility. They were, in a sense, treated like honoured guests.
-
-The relationship between our customers and us resembled that of an extended family. We were invited to their family functions, weddings, and poojas without fail.
-
-In those days, everyone had to visit the bank for transactions such as depositing and withdrawing cash, obtaining cheque books, purchasing demand drafts and bankers' cheques, and other routine banking services. Today, computerisation has brought about a paradigm shift in the way banking is conducted. Banking has become largely faceless and contactless. The personal rapport and human touch that once defined banker-customer relationships have gradually faded.
-
-Traditional remittance instruments such as demand drafts have almost passed into history with the advent of ATMs, credit cards, internet banking, mobile banking, and digital payment platforms.
-
-"Serve the customer with a smile" was our guiding principle. Today, however, face-to-face interaction with customers has become infrequent, and opportunities to build enduring personal relationships are far fewer than they once were.
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/when-banking-was-personal-4103490)
 
 ---
 
