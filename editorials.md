@@ -1,8 +1,146 @@
 # Editorials
 
-_Last updated: 2026-11-07 07:39 UTC_
+_Last updated: 2026-11-08 07:49 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 8 November 2026
+
+### Another reminder of why we won’t stop debating Gandhi
+*Deccan Herald · Opinion*
+
+A Kannada play is firing fresh ammunition against Gandhi, and its author, Addanda Cariappa, is contesting the honorific of Mahatma conferred on him. Gandhi Hatyeya Satya (The Truth of Gandhi’s Assassination) has been in the news, first for what it set out to say, and then for what happened in the wake of its staging. Protesters from the Congress threw ink at him, and the police issued a circular, making it mandatory for theatre groups to get their scripts vetted at a police station before they went on stage.
+
+Gandhi’s extraordinary life lends itself to admiration, debate, and dispute. Louis Fischer’s The Life of Mahatma Gandhi provided the basis for Richard Attenborough’s cinematic epic Gandhi. Ramachandra Guha writes with passion and profound scholarship about what Gandhi has meant to India. Gandhi regularly appears in literature, cinema, and pop culture. K Raja Rao’s Kanthapura and R K Narayan’s Waiting for the Mahatma are novels hallowed by Gandhi’s distant presence; they describe his influence on the personal lives of people in South India.
+
+The project to strip Gandhi of his halo has acquired significant momentum in recent years. A lot of what we had read about him is being disputed not just by the Hindu right, but also by anti-caste and feminist voices. In the view of the RSS and allied organisations, Gandhi went too far in accommodating Muslim interests and laid the foundation for a politics forever pandering to their dogmas. Paradoxically, the story of Rama has been central to the politics of both Gandhi and the BJP: he used it inclusively, while the party used it for majoritarian mobilisation.
+
+Amid all the adulation during his lifetime – Einstein and Chaplin were among his admirers – Gandhi faced critics of the highest intellectual order. Ambedkar was sceptical of Gandhi’s political methods. Gandhi found merit in the caste order, while Ambedkar held a diametrically opposite view and campaigned for the annihilation of caste. One was defining strict boundaries and teaching equity; the other was nurturing and teaching love and kindness. D R Nagaraj, the renowned literary critic, also saw their roles as complementary. They were learning from each other, he argues, even as they were sparring. Kannada writer Mogalli Ganesh saw them as heroic figures shaping an India emerging out of two centuries of British rule: Ambedkar was the ‘brain’ and Gandhi the ‘soul’.
+
+When V S Naipaul, whose family had lived in Trinidad for generations, visited India for the first time, he found the country hobbled by Gandhi’s ideas. He lauded Gandhi for seeing India in a way few Indians could, but found his autobiography narcissistic, and his legacy hollow. Naipaul didn’t agree with Gandhi’s village economics; he felt it was out to make poverty pious.
+
+In our schooling years, Gandhi had always been Bapu and ‘the father of the nation’. The reverence did not leave much room for comparison or analysis. Not much was said in our textbooks about competing ideologies, although if you delved into the period with extended reading, you would discover how M Visvesvaraya and K M Cariappa ran into practical difficulties when they engaged with his ideas. Visvesvaraya, the brilliant engineer who designed the KRS dam in Mysuru and gave Hyderabad its flood protection system, believed that India had to “industrialise or perish”, and Cariappa, as the first major-general of the Indian army, bluntly said he wouldn’t be able to prepare his forces for war if he had to go by the Gandhian ideal of ahimsa (non-violence). Gandhi’s pacifism hasn’t influenced the course of India’s nuclear policies either.
+
+Confusions arise in other places as well. Gandhi was espousing village self-sufficiency, but Nehru, his choice for prime minister, was taking India far from the khadi economics. Nehru favoured big dams, heavy industries, private trade, and public sector behemoths. With his mixed economy, he was attempting a blend of Soviet socialism and American capitalism. For common citizens, Gandhi became a portrait in government offices, where his values of truth and service are hard to come by. He was deified, as Naipaul put it, and that meant adoration without any regard for his message.
+
+Shivarama Karanth, the Kannada literary colossus, held Gandhi in high regard, but found his ideas on celibacy and widow remarriage puritanical. Gandhi’s experiments to test his own brahmacharya angers many – they find it disturbing and exploitative that he slept naked with young girls just so that he could make a point about his virtuousness.
+
+And yet, despite all the repudiation, where does Gandhi stand in today’s scheme of things? He beams from our currency notes, and world leaders are routinely taken to his memorial at Raj Ghat. We have a symbolic temperance board to acknowledge his thoughts on prohibition, and we have public landmarks named after him. Do our governments do anything else to honour him? Perhaps not, but then, people across the political spectrum still talk about him because his secularism isn’t fading away so easily.
+
+The writer often sees high art in kitsch and vice versa.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+Write to us at: theprism@deccanherald.co.in
+
+[Read full article](https://www.deccanherald.com/opinion/another-reminder-of-why-we-wont-stop-debating-gandhi-4211589)
+
+---
+
+### Democrats’ midterm victory could shift Trump's focus to foreign policy
+*Deccan Herald · Opinion*
+
+In the end, there was no way to put a spin on it. It was the political equivalent of a hurricane that left nothing in its wake, as far as the Grand Old Party was concerned. Political pundits will probably spend days and weeks explaining what happened and why it happened on such a scale. The analysis of the midterm elections is straightforward: Trump simply failed to keep his promises to voters on the cost of living and not involving America in unnecessary wars, both military and trade.
+
+President Trump is still the leader of the Republican Party and will continue to wield powers that we will discuss a little later. Two actions by the President may reveal his intentions regarding the future. First, contrary to the opinion in some quarters, he did not contest the election results and, in fact, complimented the Democrats on their good showing. Given that Trump hates losing, this would not have been easy for him to do. Second, he said that he would find a way to work with Democrats and make things happen for the country rather than simply keep vetoing things for the next two years. Knowing Trump, he may well renege on this.
+
+Modi’s Trump card just lost its valuePolitical losses deepen the stakes as Trump contemplates renewed Iran attack There is no question that, from a domestic point of view, the Democrats now have enough leverage to constrain the President. The two chambers of Congress have an array of instruments at their disposal: controlling funding, referred to as the “power of the purse”; launching investigations; issuing summonses and subpoenas to officials; and, finally, initiating impeachment proceedings against the President himself. Additionally, Congress can now pass legislation that President Trump may or may not like. The catch in all this is that President Trump still wields the veto. All the summonses and subpoenas, not to mention investigations, are time-consuming and will have no impact in the short term, except to contribute to political gridlock. As for impeachment, Trump is no stranger to it, having been impeached twice before. Some would argue that the last time around, it made him politically stronger because he played the victim. The Democrats therefore need to be careful not to overplay the winning hand they have acquired so painstakingly.
+
+What does a domestically constrained US President do? The best precedent is perhaps George W Bush, who in 2006 lost both chambers of Congress, maybe not as badly as Trump has, but still lost. However, in 2007, rather than withdraw US troops from Iraq, as the election results suggested and the public wanted, Bush doubled down on the war in Iraq by launching a “surge”, sending more than 20,000 additional American troops to Iraq. And that was not all. Congress sent him a war-funding bill later in 2007 that sought to set a timeline for the withdrawal of American troops from Iraq. Bush simply used his presidential veto and buried the bill.
+
+The other precedent is more recent. After the 2014 midterm elections, the Democratic Party suffered severe losses and gave Republicans full control of both chambers of Congress. So, what did President Obama do? He promptly turned abroad and concluded two substantive international agreements. In July 2015, Obama finalised the Iran nuclear deal (JCPOA, or the Joint Comprehensive Plan of Action) to curb Iran’s nuclear capabilities. Later in 2015, Obama first signed a bilateral deal with China on climate change, which then became a template for the Paris Climate Accords, which he signed in December 2015.
+
+It is noteworthy that both these international agreements were characterised by the Americans as “non-binding political agreements” to enable President Obama to sign them without congressional approval. If these had been formally binding international treaties, Obama would have had to secure congressional approval, which may not have been forthcoming because Congress was then controlled by the Republicans. All this is to say that domestically constrained American Presidents invariably turn their gaze abroad to exercise their authority. It is another matter that executive agreements entered into by an American President are not as legally binding or politically enduring as international treaties approved by Congress. Indeed, after Trump assumed power, he promptly withdrew from the Paris Climate Accords in June 2017 at the stroke of a pen. Similarly, Trump also withdrew from the JCPOA, the Iran deal, in May 2018. This fact will not be lost on the international partners of the US, who will now be wary of signing such non-binding political agreements. The overriding instinct of America’s partners may well be to run out the clock on President Trump.
+
+Against the above background, it will be interesting to see how Trump approaches the wars in Iran and Ukraine. Will he act as a peacemaker with an eye on his legacy, or double down on war as Commander-in-Chief to signal how powerful he still is? Given Trump’s unpredictability, he could go either way.
+
+As for India, we were simply not a factor in these midterm elections. Indeed, except for Iran and Israel, very few countries were. So, there is no reason to expect a dramatic change in Trump’s policy towards India. If he does want a foreign policy win, the trade deal with India offers an opportunity. Whether he takes it or not is another matter. Countries will therefore need to deal with President Trump as they did before, despite the devastating loss suffered by his party in the midterm elections.
+
+The writer is a former Indian Ambassador to France and Director General of the Motwani Jadeja Institute for American Studies at OP Jindal Global University.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/democrats-midterm-victory-could-shift-trumps-focus-to-foreign-policy-4211656)
+
+---
+
+### Resurrect the temple of democracy
+*The New Indian Express · Opinion*
+
+As an unfortunate fall out, one hallowed chamber built for that conversation stands sullen, silent and too often adjourned. Government by discussion has quietly mutated into government by denunciation. As a consequence, the talking democracy so painstakingly built by the republic’s founders is perilously close to becoming a fighting one.
+
+The political shenanigans for the past few weeks symbolise degeneration. On November 2, Leader of the Opposition Rahul Gandhi, smarting from the Prime Minister’s barbed insinuation that forces within the country were peddling lies and fomenting instability, flung down a flamboyant gauntlet. He demanded an open debate with Narendra Modi, at any venue of the Prime Minister’s choosing. A day later he renewed the taunt, “Daro mat, debate me,” offering, with unmistakable irony, RSS chief Mohan Bhagwat as umpire.
+
+The ruling establishment answered with a scornful counter challenge. Home Minister Amit Shah declared that the government was ready to summon a special session of Parliament on the electoral-roll revision and the incendiary ‘vote chori’ charge, provided the Congress let the House function.
+
+The BJP president branded Rahul a “toolkit” of foreign forces, while the Gandhi scion accused the Prime Minister of holding office through foreign help. Each protagonist loudly invites the other to debate but none of them agrees on the venue.
+
+The cold numbers of Parliament proceedings since 2024 tell the story more soberly than the overheated wrhetoric. According to PRS Legislative Research, the Lok Sabha functioned for a dismal 15 percent of its scheduled time in the Monsoon Session of 2026. It was perhaps the worst performance since the demonetisation winter of 2016.
+
+Question Hour, that ritual of accountability, survived for a pitiful nine minutes, and nine of the 11 Bills the lower House passed sailed through without a single member other than the minister uttering a word. The previous Monsoon Session had forfeited more than 84 hours to forced adjournments, and the Winter Session of 2024 limped along at 52 percent in the Lok Sabha and a meagre 39 percent in the Rajya Sabha.
+
+The pattern is shocking. Whenever politics turns poisonous, Parliament becomes its first and most defenceless casualty. The Treasury benches accuse the opposition of disruption and filibustering. The opposition replies with a bitter litany of rejected notices, muted microphones and the Leader of the Opposition denied the floor. Even urgent demands for discussing the electoral rolls, General Naravane’s unpublished memoir and the NEET leak are brushed aside by a brute majority that prioritises the passage of Bills over arguments. Both narratives hold a kernel of truth; neither holds the whole of it.
+
+What has vanished is not merely civility and dignity but the delicate connective tissue of democratic life. The invisible connectivity through credible channels—like the discreet telephone call, the trusted emissary, the leisurely cup of tea in Central Hall, where bitter adversaries once quietly settled differences—has been snapped. Indian democracy was never a garden of genteel consensus and the Emergency remains its darkest chapter. Yet, even in fiercer times, parliamentary leaders and Prime Ministers kept the lines open.
+
+Indira Gandhi reached out to opposition leaders when the nation went to war in 1971. Rajiv Gandhi, learning that Atal Bihari Vajpayee needed medical treatment abroad, quietly included him in a delegation to the United Nations, a kindness Vajpayee never forgot. P V Narasimha Rao sent the same Vajpayee, then Leader of the Opposition, to lead India’s delegation to Geneva in 1994 to defend the nation on Kashmir. Vajpayee governed through coalition and conversation, and Manmohan Singh shared with L K Advani, Sushma Swaraj and Arun Jaitley a courteous connect that survived the sharpest floor exchanges.
+
+Behind them stood seasoned interlocutors—Pranab Mukherjee, Pramod Mahajan, Jaswant Singh, Sharad Pawar and others who brokered pragmatic compromises before crises hardened into deadlocks. Even in opposition, the Congress prided itself on keeping the door to dialogue ajar. Now, the new leadership in Congress communicates through abusive barbs and unfounded accusations.
+
+Today that door has been closed. Sonia Gandhi and Rahul rarely share a social platform with Modi and Amit Shah. The vocabulary of politics has slid from adversary to enemy, from rival to traitor. The ruling party taunts that a Congress which has lost three successive Lok Sabha elections and around 90 state elections is now adopting a violent toolkit of regime change. Rahul has responded by a charge that the government survives on foreign favour and electoral sleight of hand. When opponents are recast as enemies, every compromise is condemned as capitulation and every handshake suspected as betrayal.
+
+The bargain on which parliamentary democracy rests is elegantly simple: the opposition must have its say, and the government must have its way. Take away the first and majority rule curdles into majoritarian rule; strip away the second and principled argument hardens into sterile obstruction. Lose that balance and politics degenerates into a permanent campaign in which governance is the unpaid casualty, while unemployment, inflation and agrarian distress wait forlornly in the ante-room as non-issues.
+
+Road shows and street protests are the new megaphones, serving as forums. They amplify, not adjudicate. A televised showdown between two leaders, however gripping, would be a poor substitute for a parliamentary debate governed by rules, preserved in records and concluded with a vote.
+
+The proper arena for the questions is the floor of Parliament and of the state Assemblies. For that, both sides must make the sacrifice that power finds most painful: they must swallow their pride and subdue their egos.
+
+The government must make generous room for the opposition’s agenda, admit adjournment motions, elect a long-overdue Deputy Speaker and treat the Leader of the Opposition as a constitutional office rather than a partisan nuisance. The opposition must accept that a House it paralyses can hold no one to account and must seize offers of debate rather than dismiss them as stagecraft.
+
+History is unsentimental about such quarrels. It will not record who won the war of words on the street; it will record whether India’s leaders kept faith with the institutions entrusted to them. Parliament was not built as a stage for dueling egos but as a sanctuary for the nation’s argument with itself. If that sanctuary falls silent, the noise of the street will not be democracy; it will be its requiem. India’s leaders have mastered the confrontation; they must now relearn the conversation.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Nov/07/resurrect-the-temple-of-democracy)
+
+---
+
+### Voters read Trump the Commandments
+*The New Indian Express · Opinion*
+
+Updated on: 07 Nov 2026, 7:18 pm4 min readCopiedIsiah called Cyrus the lord’s anointed. When Donald Trump arrived, evangelicals saw him as Cyrus, a man of the world that god is using. The analogy flattered everyone and the instrument. It was a theology for the transaction. Pew found that 81 percent of white evangelicals voted for him in 2024. Judges, religious liberty and a verdict on abortion were the temple. Nobody pretended the man was a saint.
+
+Two years into his second presidency, Trump has dashed their prayers. And the voters read him the commandments. Their anger achieved what Democrats could not for decades. Voters elected Democrats to the Senate from Texas, which had not elected one since 1988, from South Carolina, which had not since 1998, and from Kansas, which had waited 94 years. Six pastors, former pastors and seminarians won as Democrats.
+
+The Ten Commandments are a collar on power: devotion must be rationed, authority is borrowed, life is not that of the ruler to spend, property and truth are held in trust, and desire needs a ceiling. Held up beside the presidency, the commandments work as a mirror.
+
+The first commandment is unambiguous: “Thou shalt have no other gods before me.” Trump built a cult of personality around the presidency and demanded loyalty from officials and legislators as an article of faith. His choice of whom he backed and whom he threatened was all about loyalty. His conduct on the international stage was again about ‘Him’.
+
+The second commandment says, “Thou shalt not make unto thee any graven image,” prohibiting creation of objects of worship. Trump deployed religious imagery to elevate himself. He posted an AI image of himself as a Christ-like figure, light in his hands, healing a man in a hospital bed.
+
+Following an uproar, he deleted it but added, “I thought it was me as a doctor.” His own people objected—and it was not just about bad taste.
+
+Trump routinely blends politics with religion and has framed the war with Iran in religious terms. He hailed the rescue of a downed airman as an “Easter miracle”. The third commandment says, “Thou shalt not take the lord’s name in vain.” Aghast at the war, Leo XIV, the first US-born pontiff, said, “Even the holy name of god, the god of life, is being dragged into discourses of death,” adding later, “Enough of the idolatry of self and money!” As if on cue, US Secretary of War Pete Hegseth led a prayer at Pentagon where he read a fictitious hitman’s lines from the movie Pulp Fiction. Trump dismissed the pope’s advice with a curt “I am not a fan”.
+
+The commandment to “Honour thy father and thy mother” is as much about respecting family as it is about honouring responsibilities of place and persons. Even his most ardent supporters have cringed at Trump’s utterances on the campaign trail—especially the monologue on the posterior of Jon Husted, a Republican senator and candidate from Ohio. In the same state, Vivek Ramaswamy aired an ad much reviled by Republicans and Democrats as it pitted a mother against her daughter. Trump didn’t agree. “I suggested that Vivek should keep it up.”
+
+“Thou shalt not kill.” Under Trump, killing acquired a casual shrug: in Minneapolis by ICE agents or schoolgirls in Minab, Iran by missiles. Theologians have argued over the commandment and the doctrine of a just war for 16 centuries and more. Six in 10 Americans in an opinion poll said the US took a wrong decision in taking military action against Iran. The commandments place the moral responsibility for the decisions taken during war on those who order it. The cost of the war, as per Pentagon, is over $47.1 billion till date. Trump conceded that the conflict’s effect on energy prices cost his party. Households that never voted on the war were billed for it.
+
+The unstated expectation is that the presidency, defined by the motto ‘E pluribus unum’, Latin for ‘Out of many, one’, will preserve the integrity of the office. The eighth commandment—“Thou shalt not steal”—is not just about petty pelf but also about fidelity to the trust about what an office confers and who keeps it. The anger over data centres is about costs, but also about Trumpian promiscuity with billionaires. The Boeing 747 from Qatar with gold plated interiors, $2.2 billion in 2025 income, $1.4 billion of it from crypto and meme coins, and priced early access to Truth
+
+Social posts have brought his conduct into focus. It is unsurprising that Robert Garcia, the incoming House oversight committee chair, has asked Trump to “Lawyer up”.
+
+The ninth commandment says, “Thou shalt not bear false witness.” The 2020 election was thoroughly probed by courts and the claim of stolen victory failed in each. Yet Trump and his acolytes persist in a narrative based on a lie.
+
+The 10th commandment states, “Thou shalt not covet.” The caution is not confined to money—although the collections for the presidential library may be probed—but a reminder that pursuit of power can become an end in itself. The tablets prescribe limits; politics prescribes a calendar.
+
+The modern-day Isaiahs who hailed Trump as Cyrus expected their woes to be addressed. Trump promised affordability, Trumponomics denied it. Those who voted for Trump find that the geography of grievance has survived the promise of redemption.
+
+The scriptures speak of teshuvah, a return, and of metanoia, a change of mind. Asked what the Iran war had cost his party, Trump said: “If I had to do it again, I’d have to do it again.” The voters who had once hailed Trump began the return without him.
+
+Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India (shankkar.aiyar@gmail.com)
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Nov/07/voters-read-trump-the-commandments)
+
+---
 
 ## 7 November 2026
 
@@ -25,6 +163,119 @@ In the district jail in Panna, in Madhya Pradesh, a 24-year-old woman walked int
 The three projects are the Majhgaya dam, the Runjh dam and the Ken-Betwa river-linking project. These are distinct projects, with different administrative histories and varying scales of displacement. But they share a common thread: the flagrant violation of the rights of project-affected families. The project sites have become centres of intense repression and brave resistance. The conflict raises fundamental questions about the power equations between the state, the class interests it represents and those against whom that power is exercised.
 
 [Read full article](https://www.thehindu.com/opinion/lead/the-struggle-for-justice-is-indivisible/article71675148.ece)
+
+---
+
+### Ramlila Model For UP Elections; Mamata Warms Up To The Left
+*Deccan Chronicle · Opinion*
+
+Pleased with the arrangements made for last week’s INDIA bloc rally at the Ramlila Maidan, a special review meeting was held later by the Congress where it was decided to adopt the same system for the upcoming state elections. A special QR code of all the rallies which are to be addressed by the party’s top leaders like Mallikarjun Kharge, Rahul Gandhi and Priyanka Gandhi Vadra will be distributed to all workers who will have to scan the code to register their presence. Instructions are to be issued that party workers will have to turn up for the meetings in their respective areas and that no excuses will be entertained. State leaders will be expected to prepare a list of habitual offenders and seek their explanation for their absence. In addition, a roster is to be drawn up of local leaders who will be given charge of specific areas in the poll-bound states both in the run-up to the election and during polling. A senior leader will be attached to each local leader to supervise the arrangements. Those entrusted with these responsibilities will also be expected to conduct a review after a rally or polling to find out how many workers turned up, the hours they clocked and the tasks undertaken by them.
+
+Former West Bengal chief minister and Trinamul Congress head Mamata Banerjee’s antipathy towards the Left parties, her old political rivals, is well-known. She led a tenacious battle to oust the well-entrenched Left Front government and has since maintained her political distance from the Communists. However, Mamata Banerjee appears to have softened towards her old opponents after the change in West Bengal’s political landscape following her party’s defeat to the Bharatiya Janata Party in the last assembly election. This was evident at last week’s rally organised by the INDIA bloc parties at Delhi’s Ramlila Grounds on “vote chori. The camaraderie between the Trinamul Congress chief and CPI(M) general secretary M.A. Baby did not go unnoticed by political observers. Seated together in the open vehicle in which the leaders were driven to the rally grounds, Mamata Banerjee and Mr Baby were seen chatting amiably with each other. Later, in her speech, Mamata Banerjee acknowledged the Left leaders along with other INDIA bloc parties in her opening remarks. According to the political grapevine, a chastened Mamata Banerjee is no longer averse to combining forces with the Left parties and the Congress to fight the BJP.
+
+The long-awaited memoirs of former Congress president Sonia Gandhi, titled Belonging: A Journey of Love, is all set for release on November 10. An exhaustive media and publicity plan has been drawn by the publishers, HarperCollins, to promote the book which is expected to be a blockbuster. But it is Sonia Gandhi and her children, Rahul and Priyanka, who are taking a final call on the execution of the plan. It is learnt that they are deciding on key details like where the book extracts are to be published and who will get the first interview with Sonia Gandhi. The pre-publicity began last month with Sonia Gandhi sharing a video on her first Instagram account in which she is seen unveiling the first copy of the book at her residence. Subsequently, there have been little teasers about how she met Rajiv Gandhi at Oxford and what attracted her to him. She also remarked at another point that there is bound to be a “tamasha” when the book is released but clearly, she is prepared for it. There is no doubt that the Bharatiya Janata Party and other Sonia-baiters will be combing through the book for anything they can use to launch an attack against her.
+
+Prime Minister Narendra Modi’s recent phone call to veteran Nationalist Congress Party leader Sharad Pawar, during which he remarked that Supriya Sule and he would manage the country, has led to considerable speculation in political circles. While several interpretations of this conversation are on offer, the Congress and other INDIA bloc parties are wondering if Sharad Pawar is planning to walk out of the opposition alliance though his daughter Supriya Sule has been an active participant in its recently-concluded campaign on “vote chori”. That Mr Modi and Mr Pawar have cordial relations is no secret. It is also an acknowledged fact that Mr Pawar can prove to be unpredictable as he has ditched Congress in the past. The Pawar camp is keeping everyone guessing about his future plans. One explanation is that Mr Pawar prefers a merger with the Congress to secure Ms Sule’s political future but his party MLAs would rather merge with the NCP faction led by Sunetra Pawar which will give them a chance to join the Maharashtra government. It is also being suggested that senior NCP leaders who are unhappy with the manner in which Sunetra Pawar’s son Parth Pawar is running the party could rejoin the Sharad Pawar faction.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/ramlila-model-for-up-elections-mamata-warms-up-to-the-left-2002608)
+
+---
+
+### The Eurocentric, Myopic, Bias Of The Nobel Prizes
+*Deccan Chronicle · Opinion*
+
+In the maelstrom of politics, where one event overwhelms another in quick succession hijacking attention from everything else, sometimes one needs to pause to take stock of some other less sensational but equally important matters. In India, the flavour of the season is the controversial SIR exercise and the role of the Election Commission. In America, President Donald Trump and his Republican Party have just been routed in the mid-term Congressional and Senate elections.
+
+After this major setback, it would seem that Trump’s desire to somehow get the Nobel Peace Prize might have receded. But frankly, nothing surprises me anymore about the choices of the Nobel Prize jury.
+
+So far, four US Presidents and two vice-presidents have won the Prize. Mr Trump could easily have been the fifth — in fact more than one Norwegian lawmaker recommended his name — but alas he did not get it. His claim on Greenland was perhaps too close to the Scandinavian arbiters, even if the pummelling of Iran could be ignored.
+
+But there are other fields where far more deserving candidates have also suffered Mr Trump’s fate. This year one of the nominees for the Nobel Prize in Literature was the 94-year-old titan of Indian letters, Gulzar. I am among countless people who wanted his name to be nominated. I wrote to the then vice-president of India to do the honours, but got no reply. I spoke also to the president of the Sahitya Akademi, but he did not follow up. His name was finally nominated by the chancellor of the Symbiosis International University, the legendary educationist, S.T. Mujumdar.
+
+Having spent a monumental lifetime in the meticulous crafting of words, Gulzar is a household name across India, and through translations, respected globally. The sheer canvas of his writing is breathtaking, spanning classical poetry, film lyrics, children’s books, dramas, short stories, prose works and cinematic scripts. His poems have fundamentally transformed the idiom of modern poetry in India.
+
+Given his age and lifelong dedication to literature, it was only befitting that his literary contribution be honoured.
+
+Instead, the Academy’s opaque panel of judges overlooked this living legend, choosing instead the Canadian writer Anne Carson. Carson is undoubtedly a competent classical philologist who works in playful dialogue with Greek antiquity to craft experimental verse, but her literary niche reach pales in comparison to the vast, living and democratised canvas of Gulzar’s oeuvre, which speaks directly to the souls of over a billion people. But the cloistered committee in Sweden simply never took the trouble to explore any profound merit outside the predictable, comfortable canvas of familiar Western languages.
+
+The last — and only — time an Indian writer received the Nobel Prize for Literature was Rabindranath Tagore in 1913. More than a century has elapsed since then. Are we to seriously believe that in a subcontinent of 1.4 billion people, cradling 24 highly developed literary languages with written traditions going back millennia, there has not been a single writer worthy of this prize?
+
+The list of historical casualties from the non-Western world, as a result of Stockholm’s insular and systemic neglect, is shocking. For instance, Argentina’s
+
+Jorge Louis Borges, or African giants like Chinua Achebe and Ngũgĩ wa Thiong'o, or the Syrian colossus Adonis, were ignored. In India, apart from Gulzar, writers like Premchand, R.K. Narayan, Vaikom Muhammad Basheer or Mahasweta Devi, were never considered. Nor were literary giants like Leo Tolstoy. With such omissions, how is the Prize an indicator of global excellence?
+
+The truth, in my view, is that, except perhaps in the hard fields of science, the Prizes have largely become a Eurocentric farce, aggressively Western-dominated, arbitrary, and biased. The data itself delivers a damning indictment of this structural prejudice and
+
+cultural cartelisation. Out of the 123 laureates for literature since the inception of the Prize in 1901, a single Western nation, France, holds the crown with 15 laureates, closely shadowed by the United States and the United Kingdom. English accounts for an astounding 30 laureates, followed predictably by French with 16, German with 14, and Spanish with 11. Combined, these four Western tongues alone cannibalise nearly two-thirds of the global Prize pool. The rest of the world — encompassing the ancient civilisations of Asia, the Middle East and Africa — is left to scramble for a few residual crumbs tossed from Stockholm's high table.
+
+This parochialism is not merely a matter of geographic bias; it is an organic consequence of a completely opaque selection process. The deliberations of the Swedish Academy are sealed in absolute secrecy for 50 years, shielded from public scrutiny or peer review. This allows the Prize to be hijacked by transient geopolitical considerations. The bias of the Nobel system is revealed most explicitly when one examines the Nobel Peace ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/the-eurocentric-myopic-bias-of-the-nobel-prizes-2002617)
+
+---
+
+### Three Short Takes On Anger Management
+*Deccan Chronicle · Opinion*
+
+As an adolescent, I had blazing anger, lots of it. (You wouldn’t have guessed, right, lol.) And it was my mother who worried about me the most. “Your anger is your enemy,” she’d tell me constantly. “My grandfather used to say that the hardest assignment he ever undertook was conquering his own anger.”
+
+Like all adolescents, I didn’t pay any attention. Anger continued being my fuel, raw material and output.
+
+However, my subconscious couldn’t help but take note of my mother’s reference to her grandfather. Born into extreme poverty, he didn’t let that come in the way of becoming a doctor. As a freedom fighter, he faced betrayals, beatings, went to jail, and wrote books while imprisoned. Still later, he founded a bank and served as governor of a state. While here I was, a self-centred little runt getting three hot meals a day, raging because I’d been stood up by a girl or pushed around by a couple of bullies. Even then, though I didn’t admit it, I had the sense to realize how petty, misplaced and plain dumb my anger was.
+
+Years later, I began to get the hang of forgiveness. It was a breakthrough, I thought. After all, forgiving was the opposite of anger. If anger came from wrongs not being righted, perpetrators going unpunished, and the balance of the universe remaining skewed, forgiveness was accepting that life could be unfair, wrongdoers would get away more often than not, and that Dharma was rarely ever restored. Also: understanding that if you didn’t learn to forgive, you would end up bitter, ill, dead or all three.
+
+Despite my ‘growth spurt’, to my surprise, I found that my anger remained. As is. It remains to this day. And I’m guessing it isn’t going anywhere soon.
+
+So, today, I have both forgiveness and anger sitting quite comfortably in my heart like old friends who’ve booked their seats together.
+
+I’m guessing my great-grandfather retained his anger, too. He wasn’t saying he had got rid of it when he spoke about conquering his anger; what he meant was that he had come to terms with it, learnt how to hold that blob of mercury in his hand instead of allowing it to consume him, and deploy it to do the right things.
+
+Imagine losing your anger completely. How would that feel?
+
+We arrive in the world angry. The cries of the newborn, her very first dialogue with the world, aren’t from sadness or helplessness. They are from resistance and rage.
+
+To lose that would be to lose the very foundation of all other feelings, wouldn’t it? How would we laugh, love, sing, dance, create or live at all if we denied ourselves anger?
+
+And how wrong — despite what the wretched godmen tell you about anger — that would be.
+
+There once lived a man in whom resided two selves. Self One valued peace above all else.
+
+And it wasn’t the grand world-order variety with a ‘P’ but ordinary peace. The kind that permitted him to stare quietly at a tree for five minutes or sleep undisturbed for an hour. That kind.
+
+But there was another him, too. A soldier who waged war, 24/7. For him, to live was to fight. So relentless was this half of the man that it invariably triumphed over his peacenik half.
+
+“What is your problem?” the peaceful guy asked the warrior one day. “Why don’t you ever give it a rest, you self-destructive fool?”
+
+“Do you sleep okay at night?” said the veteran, soothing his battle scars.
+
+“Yes, mostly. Despite the bruises I’ve accumulated on your behalf.”
+
+“Do you get to look at trees?”
+
+“Yes. Not enough, though. You know why.”
+
+“Is your conscience clear?” said the warrior.
+
+“Yes, clear-ish, for now,” said the quiet guy.
+
+“Who do you think made it possible?” said the warrior, picking up his bloodied sword.
+
+“Well,” said the swordsman. “Off to make sure it remains clear tomorrow.”
+
+Not too long ago, it took the completion of a difficult piece, the arrival of a long overdue cheque or a new writing gig for me to celebrate.
+
+Yesterday, my car was blocked from getting out of a legit parking spot not once but twice, at two different places in quick succession.
+
+The first time it was by a driver who had taken off for a tea. Ten minutes later, as he unhurriedly removed his car, quite open to an apology from me for interrupting the much-needed beverage of an honest, hardworking gent such as himself, I smiled politely and drove off giving him a cheery wave.
+
+I found myself in the exact same position sometime later, blocked off by a giant SUV. This time I found the gent, the owner, and told him he needed to move his car. He said ‘Yeah, yeah, I’ll do it’ and proceeded in no particular hurry to buy what he he’d come for.
+
+I smiled and waited. It may have had something to do with his being 6′5″, and his left butt-cheek weighing the same as me.
+
+As soon as I got home, I Iooked in the mirror, clenched my hand till my knuckles turned white and (drumroll) gave myself a fist pump. “You rock, KSD!” I said.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/three-short-takes-on-anger-management-2002625)
 
 ---
 
@@ -21460,268 +21711,6 @@ Ashwini is an assistant professor of psychology, School of Liberal Arts and Scie
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/the-tragic-costs-of-aspiration-when-exam-failure-becomes-a-failure-of-self-4105156)
-
----
-
-## 9 August 2026
-
-### Krishna Shastri Devulapalli | The Art Of Asking The Right Questions
-*Deccan Chronicle · Opinion*
-
-I was at this old bungalow with a large, tree-filled compound the other day. It’s where we buy our veggies. As I sat on a convenient tree stump, a girl of about five came skipping in. Two steps behind her was her mother.
-
-With mother going about her shopping, and out of the way, the girl headed straight towards me purposefully. I realised what it was that she found attractive about me: the empty swing behind me. Without a single exchanged word, I was informed what my duties were. The kid got on the swing, and after both of us got an okay from her mildly embarrassed mother, I was assigned pushing duties.
-
-Five minutes of careful, wordless swinging later, the girl gave me a big grin, jumped off the swing and proceeded to examine all that was around her — the trees, the shopping baskets, what was under the tables on which the vegetables had been displayed. A crow was chased, a slide was climbed from the side meant for sliding, and all of it done unhurriedly, methodically, thoughtfully, like it had been planned beforehand.
-
-As the child left (after giving me a shy wave), I heard her bombarding her mom with questions.
-
-I have this friend. Whoever he meets, within five minutes, he embarks on finding out how much that person earns, what their children are doing, what their salaries are, and how much maintenance they are paying for their apartment.
-
-He walks nonchalantly into people’s kitchens and bedrooms and wants to know every detail of their lives. He takes great pride in knowing and remembering the most obscure details of people he last met twenty years ago. Every conversation with him is basically a questionnaire where you fill in details of net worth, the sexual orientation of your cook, which cousin of yours is related to which colleague of his, who cleans your car, where you’re planning to spend the summer...
-
-He is a black hole where humongous amounts of data go, never to return.
-
-When a mutual friend happened to be going through his wedding (which had taken place thirty years ago) album, this friend pointed to a photograph of an uncle and aunt (now both dead), and asked him “What were they talking about, any idea?”
-
-I swear I am not making this up.
-
-All of us have met both — the kid who had assigned me temporary playmate duties, and the questioner, at different times.
-
-Why is the former charming and life-affirming and the latter unbearable? After all, they are both equally thirsty for knowledge. Is it because the first is a child, the second is a grown-ass adult, and we are more patient and forgiving of children?
-
-Perhaps it’s because what the child displays by going to places beyond its so-called jurisdiction, taking liberties with strangers, and wanting to know everything comes from its curiosity, wonder and sense of adventure. Asking her mother those endless questions comes out of her eagerness to understand the world.
-
-My friend doing something roughly similar, on the other hand, comes from the opposite of curiosity — nosiness. And his straying into territories, mental and physical, that he ought not to be in comes not from wonder or a sense of adventure but a lack of understanding of boundaries, and ironically enough, a learnt indifference to the world. Because what he is collecting is information, which has no intrinsic value.
-
-Will the child I played with turn into my friend in later years? That is the question.
-
-I think not. From the little I saw of her mother, and how she let her daughter be — while keeping an eye on her, and choosing a trustworthy temporary playmate for her — the child was permitted to be a child. That she felt free to ask her mother all those questions was another sign that she was being encouraged to be a child.
-
-I think it is children whose curiosity, and natural sense of adventure were curbed for one reason or another, most likely by one parent or both, who turn into my friend. If you stop children from being children — childlike — they turn into childish adults, who live life asking questions they ought not to and never asking the ones they should.
-
-Wanting endless information that adds nothing to your understanding of the world comes from fear of having to navigate those parts of your mind that you weren’t encouraged to explore as a child, and finding out things about yourself, and the world, you may not be able to deal with.
-
-Boy, am I glad, if what has been happening all over India the last few weeks is anything to go by, that the children of the early 2000s, despite being told by parents and teachers of my generation that they ought not to be curious, accept what has been handed to them, and trust God and those who have appointed themselves God, have not allowed their natural desire to seek, question and challenge be curbed. And are continuing to look under tables, behind smokescreens, and showing us the awful truth about ourselves we have refused to see.
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/krishna-shastri-devulapalli-the-art-of-asking-the-right-questions-1977745)
-
----
-
-### Manish Tewari | Why Collapse Of Islamabad Memorandum Was Certain
-*Deccan Chronicle · Opinion*
-
-The collapse of the Islamabad Memorandum was a predictable reckoning. The US-Iran deal promised a cessation of hostilities, an end to Iranian restrictions on the Strait of Hormuz, a phased reduction of American military assets in the region, sanctions relief for Tehran, and a substantial economic commitment to Iran’s reconstruction. A 60-day deadline was set to resolve the outstanding nuclear-programme issue. By early July, that architecture lay in rubble.
-
-The Houthis in Yemen, acting at Iran’s behest, have announced a blockade of the Bab al-Mandab strait. Saudi Arabia and 13 other nations have formed the Multinational Maritime Defence Alliance in Riyadh to counter Houthi threats in the Red Sea and Bab al-Mandab. In less than three weeks, a diplomatic thaw had given way to maritime warfare, proxy escalation and the crystallisation of opposing military blocs.
-
-To understand why durable stability remains elusive across the Middle East, one must first recognise that this land has been the central corridor of the Old World. Long before oil, it was the overland and maritime crossroads connecting the Indian, Chinese and Persian civilisations with Egypt, Greece and Rome.
-
-The Syrian Wars of the third and second centuries BCE, between the Ptolemaic and Seleucid empires, were at their core a struggle for control of mercantile revenues and the fertile plains that fed imperial ambitions.
-
-So too were the Roman-Persian Wars that raged across centuries for dominion over the Fertile Crescent.
-
-Religion added a vertical dimension to these horizontal struggles. The seventh-century Arab conquests momentarily unified vast stretches of territory, but the succession crisis following the Prophet Muhammad’s death in 632 CE embedded a fracture that would deepen over 14 centuries. The Sunni-Shia divide originated in a dispute whether the caliph should be chosen by consensus, as the Sunnis held with the election of Abu Bakr, or remain within the Prophet’s bloodline through Ali ibn Abi Talib, as the Shias insisted.
-
-The Safavid conversion of Iran in the 16th century sharpened the divide irreversibly. The Ottoman-Safavid rivalry transformed this theological schism into an imperial struggle for legitimacy and territory. For the Sunni Ottomans, control over Iraq and especially Baghdad, with its shrine to Abu Hanifa, conferred religious authority. For the Twelver Shia Safavids, sovereignty was inseparable from guardianship of the shrine cities of Najaf, Karbala, Kadhimiya and Samarra.
-
-The consequence was a centuries-long war that turned Iraq into a sectarian battleground. Ottomans categorised native Arab and Kurdish Shias as potential Persian subjects, issuing fatwas that condemned them as heretics and enacting laws that prohibited marriage between Ottoman women and Shia men. This state-administered framework of suspicion passed into the genetic code of the modern Iraqi state.
-
-The two Persian Gulf Wars, the American-led dismantling of Saddam Hussein’s Sunni-dominated regime in Iraq and the mass uprisings of the Arab Spring after 2011 tore away the thin membranes of authoritarian stability, releasing the sectarian demons into civil wars in Syria, Yemen and beyond.
-
-Yet the most enduring source of instability are the political boundaries, which were imposed on the region with almost artistic indifference to its human geography. The collapse of the Ottoman Empire after the First World War presented a vacuum into which European colonial powers and local nationalisms rushed, but the outcomes were shaped far more by the former than the latter. As early as 1916, Mark Sykes and François Georges-Picot were drawing lines across the Levant, partitioning it into British and French spheres of control in five distinct entities.
-
-The Sykes-Picot Agreement remains the original sin from which a century of conflict has flowed. Before the ink was dry, Britain compounded the betrayal. The Balfour Declaration of November 1917 pledged a Jewish national home in Palestine, directly contradicting the terms of the Sykes-Picot agreement and the earlier McMahon-Hussein Correspondence, in which the British had promised the Arab Peninsula, including Palestine, to Sharif Hussein bin Ali of Mecca in return for his revolt against the Ottomans. Britain, triple-dealing, promised the same land to the Arabs, the Zionists, and its own colonial administration.
-
-The consequences were immediate and lasting. The 1920 Treaty of Sèvres attempted to formalise the dismemberment, but its boundaries collapsed under the weight of Turkish resistance, leading to the Treaty of Lausanne, 1923, and the emergence of a Turkish republic that repudiated the colonial carve-up, an exception that proved the rule.
-
-In Damascus that same year, a constitutional convention of delegates from Syria, Jordan, Lebanon and Palestine declared an independent Arab Kingdom under Faisal, a pluralistic constitutional monarchy forged through compromise among diverse communities. However, the French...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/manish-tewari-why-collapse-of-islamabad-memorandum-was-certain-1977753)
-
----
-
-### Ruchira Gupta | Abdul El Sayed’s Michigan Primary Win And The Rise Of America’s New Left
-*Deccan Chronicle · Opinion*
-
-Abdul El Sayed’s victory in Michigan has brought the United States closer to electing its first Muslim senator. It has also placed him at the centre of a struggle over the future of the Democratic Party.
-
-Mr El Sayed has not yet been elected to the Senate. He has won Michigan’s Democratic primary, the preliminary election in which voters choose their party’s candidate. On November 3, he will face Republican Mike Rogers. The winner will become a member of the 100-member United States Senate.
-
-His narrow victory over centrist Congresswoman Haley Stevens was remarkable. Ms Stevens was supported by leading Democrats and benefited from tens of millions of dollars in outside political expenditure, much of it from organisations associated with AIPAC, the powerful pro-Israel lobby.
-
-Mr El Sayed turned the spending against him into a moral argument. He asked whether Michigan’s next senator would represent its people or the corporations, billionaires and special interests seeking political influence. The effort to overwhelm him financially strengthened his claim that concentrated wealth is weakening American democracy.
-
-A physician and former public health administrator, Mr El Sayed believes political and economic systems directly affect people’s health. His programme includes universal medical coverage through Medicare for All, affordable housing, stronger trade unions, better public education, clean air and water, and higher taxes on extreme wealth.
-
-Unlike India, the United States does not guarantee health care to every citizen. Americans frequently depend upon employers for insurance or purchase expensive private plans. Even insured families can be pushed into debt by illness. Mr El Sayed argues that medical treatment and secure housing should be rights rather than privileges.
-
-This has parallels with India’s democratic socialist inheritance. Its different traditions shared the conviction that electoral democracy was incomplete without economic justice. Government had a responsibility to provide essential services, protect workers and prevent a small wealthy class from monopolising national resources.
-
-America’s “Democratic Socialists” make similar arguments within a different political system.
-
-Politics is dominated by the Democratic and Republican parties, leaving smaller parties with little chance of winning. The Socialists, therefore, usually contest Democratic primaries and, if successful, enter the final election as Democratic candidates.
-
-The Democratic Socialists of America, known as the DSA, is not the equivalent of a major Indian party. It is an organised movement seeking to elect socialists and move the Democratic Party towards the left.
-
-More than 250 DSA members reportedly hold elected office across approximately 40 states, mostly in municipal bodies and state legislatures. Only a small number serve in Congress, but their influence is greater than their numbers suggest. When Democrats and Republicans are separated by very few seats, a disciplined group can the make party leaders negotiate.
-
-Democratic Socialists and allied progressives have moved universal health care, affordable housing, stronger unions, higher wages, cheaper education and transport, taxes on billionaires and controls on corporate campaign money further into the Democratic debate. They have also pressed the party on immigration, environmental justice and Palestinian freedom.
-
-Mr El Sayed belongs to this progressive wave. The son of Egyptian immigrants, he presents himself openly as both Muslim and American rather than treating his faith or name as electoral liabilities.
-
-His psychiatrist wife, Sarah Jukaku, has Indian family connections, including to Bengaluru, and they are raising two daughters. If elected, Mr El Sayed would become the first Muslim in the United States Senate. But he offers more than representation. His programme addresses families struggling with rent, medical bills and insecure employment.
-
-Gaza is central to his challenge. Mr El Sayed has described Israel’s actions there as “genocide” and has opposed American military assistance and weapons sales to Israel. Mr El Sayed’s victory shows that support for Palestinian rights is moving from protests into electoral politics.
-
-This has global implications. Israel relies heavily on American weapons, money and diplomatic protection. One senator cannot reverse that relationship. Senators can, however, vote on arms policies, question officials, confirm senior appointments and bring marginalised arguments into the national debate.
-
-The result could also help determine which party controls the US Senate. When the parties are separated by just one or two seats, Michigan can influence legislation, investigations, judicial appointments and the President’s ability to govern. The House of Representatives already contains left-wing voices such as Alexandria Ocasio Cortez and Rashida Tlaib.
-
-South Asians are contributing to this coalition. Chennai-born Pramila Jayapal has led the...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/ruchira-gupta-abdul-el-sayeds-michigan-primary-win-and-the-rise-of-americas-new-left-1977768)
-
----
-
-### Codes of honour: The politics of policing dissent
-*Deccan Herald · Opinion*
-
-The recent Cockroach Janta Party (CJP) protests led me to reflect on the existence of honour killings in India. You might reasonably ask why. What does a social media-fuelled Gen Z movement against the country’s education minister have to do with the ghastly practice of killing your own wives and daughters for defying social norms? A lot more than you would imagine.
-
-For centuries, Indians have adhered to their revered honour codes as a means to enforce order and discipline. There were two key reasons for this: one, a lack of political centralisation, and two, an absence of government at the local level.
-
-Before its founding as a constitutional republic in 1950, India spent millennia under the split rule of several political dynasties that were rarely unified. These empires, kingdoms, and princely states regularly shrank and expanded, from generation to generation, often leaving people to function on their own.
-
-A biryani, a tasteless joke, and India’s aversion to reformThe courts and governments of Indian kings and emperors were far-flung and difficult to access for most people who lived in small towns and villages. And in many cases, rulers simply decided that the best way to govern such a vast and diverse land was to let people follow whatever norms and customs they fancied.
-
-If the king’s court was too far away, the villages had to build their own political and judicial structures. And these were generally overseen by the village elders. If you had a dispute with your neighbour over your shared well, you went to the village elders. If you felt cheated by a bad business deal, you went to the village elders. But unlike kings and emperors, village elders did not have a permanent standing police force to enforce their laws. How were a bunch of old men (and often, priests) supposed to uphold social order, punish wrongdoing, and deter crime? It was through the weaponisation of honour. When a villager was found guilty of violating society’s norms, they were ostracised and shamed in the public square by collective will.
-
-In a world where the government was virtually absent, this mechanism was more effective than the use of force. Without access to state-run public services, people relied on their neighbours for everything. If they cut you off, you lose your means of survival.
-
-Under these practices, individual freedoms were relegated to an afterthought. The first line of defence in honour-driven societies was at the household level. Men were to act as heads of their families and keep their women and children in check. And if they failed, society would harass the whole lot of them en masse.
-
-That brings us to the recent protests. In the throes of the chaos that gripped Delhi’s streets, a 15-year-old girl launched a torrent of vitriol against Prime Minister Narendra Modi in a video that went viral. Outraged that a young girl had violated age-old honour codes, social vigilantes doxxed her and threatened her in her own home, forcing the girl and her mother to move out. Under duress, the young girl later apologised for her words.
-
-This wasn’t, however, an isolated incident. Many young women – and even underage girls – reported similar online and offline harassment after their participation in the protests was exposed. Parents became wary and distressed about their daughters’ participation in the protests, because it invariably affected their own family’s honour and safety.
-
-Communalisation was also inevitable. As has long been customary, the participation of individuals who belonged to religious minority groups was highlighted in media coverage, accompanied by a caricaturing of their entire communities. These counteractions – based on the idea that women or minorities must not express themselves so strongly – are central to Indian society. But it is also in open conflict with any mature idea of democracy.
-
-Modern representative democracies – including India’s – operate under the assumption of one person, one vote. But you cannot possibly practise your rights as an individual if you’re constantly worried about your family’s honour and safety. In such a world, not every person enjoys an equal vote, because you cannot express or act on your beliefs in a way that violates society’s rigid honour codes. It would instead mean that you live in a democracy of one family, one vote. Or one colony, one vote. Or one community, one vote.
-
-The good news is that this can be changed. If enough people decide that the vigilantes of society must stop policing them, they will have to stop policing them.
-
-(The writer is a student of all things global and, self-confessedly, master of none, notwithstanding his Columbia Master’s, a stint with the UN and with monarchs in the Middle East.)
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/codes-of-honour-the-politics-of-policing-dissent-4104460)
-
----
-
-### Laws lost in resolution
-*Deccan Herald · Opinion*
-
-Last month, the Delhi High Court upheld the Central Information Commission (CIC)’s finding that the National Stock Exchange (NSE) is a public authority under the RTI Act. Soon afterwards, the Supreme Court stayed that judgment. The Additional Solicitor General argued that the NSE is a private company and mere regulation by the Securities and Exchange Board of India (SEBI) is not enough to impose on it the transparency obligations applicable to governments and their instrumentalities. Readers will recall that more than a decade ago, investigations into a whistleblower’s letter revealed serious internal governance failures and other wrongdoings at the NSE. Its CEO had claimed that she was always guided by a nameless and faceless Himalayan guru in her official duties. SEBI imposed a hefty fine for her transgressions.
-
-Well-meaning citizens’ efforts to bring entities like the NSE or public utilities like Delhi’s DISCOMs, Indraprastha Gas (IGL), and even Mother Dairy, which supplies milk, fruits, and vegetables to Delhiites, have faced stiff and continued opposition. The RTI application that resulted in the NSE being declared a public authority was initiated in 2006. The five-member CIC issued a unanimous decision in 2007, which was upheld by a single judge of the Delhi High Court in 2010 and, more recently, by two judges constituting the court’s division bench. Now, after twenty years, this matter will be brought afresh before the apex court.
-
-'Extremely disturbing state of affairs': CIC on one govt body forced to use RTI against anotherIn March this year, the Delhi High Court remanded the cases of Delhi’s DISCOMs and IGL back to the CIC, en bloc. The CIC’s original finding that the DISCOMs are covered by the RTI Act is from 2006. The Commission reiterated its finding in 2007 at the instance of the Delhi High Court. Now, the case is back in the CIC’s court for a fresh consideration of all facts, including whether the minority shareholding by public sector companies in them constitutes substantial financing by the Delhi government. Meanwhile, information about the functioning of these bodies, which provide essential public services, remains locked up like sarkari secrets, decade after decade.
-
-In recent years, remanding such cases back to the CIC has not always led to a robust consideration of all arguments or well-reasoned decisions. For example, another RTI case from 2007, in which the Mumbai International Airport Ltd. (MIAL) was declared a public authority, was remanded back in 2020. A two-member bench of the CIC set aside its earlier order on the mere technicality that the RTI applicant had filed a direct complaint about MIAL’s opacity instead of going through the two-stage appeals process. The RTI applicant was not even provided the opportunity to file the appeals afresh.
-
-Of late, it is not uncommon for information commissions to cherry-pick from the uneven RTI case law emanating from the constitutional courts while deciding routine matters, even to the extent of creating new obstacles to RTI. For example, earlier this year, the CIC cited a 2017 order of the Madras High Court (N Saravanan v. The Chief Information Commissioner & Ors.) to rule that legal practitioners cannot be permitted to use RTI to obtain documents for their clients. That order does not contain any cogent reasoning. Yet, the CIC has cited it more than once to bar lawyers and advocates from using RTI. Strangely, nothing in these orders indicates that the Commissioners had considered other case laws on the same subject. In 2016, the Himachal Pradesh High Court had ruled that the credentials of an RTI applicant have no relevance and are not at all to be taken into account while giving the information. “Truth remains the truth, and it is not important who accesses it”, the court had observed.
-
-A year after the Madras High Court’s order, the Supreme Court ruled that the standing of an RTI applicant is irrelevant for deciding whether the information sought ought to be disclosed or not (Ferani Hotels Pvt Ltd. v. The State Information Commissioner, Greater Mumbai & Ors). The CIC has completely ignored this ruling of the highest court of the land and has repeatedly denied RTI to advocates, as if they are lesser mortals because of their profession. How deeply the Commissioners or their legal assistants researched the case law is anyone’s guess. Lately, both courts and information commissions offer little satisfaction to citizens as dispute resolution bodies. RTI matters must be adjudicated with as much care as cases involving the infringement of other fundamental rights.
-
-(The writer wakes up every morning thinking someone somewhere is hiding something.)
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/laws-lost-in-resolution-4104464)
-
----
-
-### The Itihasa of Prithviraj Chauhan
-*Deccan Herald · Opinion*
-
-Every age gets the Prithviraj Chauhan it needs. The contemporary Hindu nationalist imagination needs a martyr, the last defender of a civilisation, blinded but unbroken, killing the invader with a single arrow guided by sound alone. This is the Prithviraj of the Prithviraj Raso, enlarged and popularised through decades of retelling, and most recently installed on cinema screens via Akshay Kumar. But this image is a late construction. Long before the nationalist imagination got to work, two older traditions had already told very different stories about the same king, and neither of them had any use for a hero.
-
-The Jain textual tradition, preserved in works like the Prabandha Cintamani and the Puratana Prabandha Sangraha, presents Prithviraj as a case study in failed kingship. He is not defeated by a superior enemy. He defeats himself. The recurring motif is sleep. In one account, he sleeps for ten consecutive days while his army is destroyed around him. In another, he is captured because he has eaten after a religious fast and fallen into too deep a slumber to be roused. These are not incidental details. In Jain frameworks of governance, the ideal king is one of disciplined senses, wakeful discernment, and careful attention to counsel. Prithviraj violates these norms. He cuts off a minister’s ears. He ignores loyal advisors. He shoots at a target and hits someone else. When imprisoned, he is tricked into shooting a metal statue of the Sultan, believing it to be the real man – the would-be avenger reduced to a blind archer fooled by a decoy. The Jain texts are not interested in Prithviraj as a religious or civilisational symbol. They are interested in him as a political warning. This is what happens when a king stops listening.
-
-The Alha epic, sung across Bundelkhand and the Gangetic plains, offers a completely different problem with the same man. Here, Prithviraj is neither lethargic nor easily fooled. He is energetic, resolute, brave, and entirely villainous. The epic belongs to the Banaphar heroes, Alha and Udal, warriors of the Mahoba kingdom that Prithviraj crushed. From their perspective, the king of Delhi is an outside aggressor, an imperial bully, the reincarnation of Duryodhana. His defining characteristic is not sloth but arrogance, specifically, the arrogance of caste.
-
-Shakuni and the price of grievanceThis is where the Alha tradition cuts deepest. Prithviraj’s contempt for the Banaphar heroes is explicitly caste contempt. He dismisses them as sons of Ahir mothers, cowherd-born, unfit to stand beside Rajputs. When his own daughter Bela dies, he refuses to allow Alha and Udal to light her funeral pyre – they are too low-born for that honour. Bela ignites it herself, with a flame from her own hair. The episode is devastating as social commentary. The high-status king is so consumed by hierarchy that he cannot even grieve properly. His daughter burns herself rather than wait for his caste arithmetic to resolve.
-
-What is striking is that despite their opposite portraits (the sleeping king versus the aggressive one, the incompetent archer versus the daring warrior), both traditions converge on certain damning details. Both record that Prithviraj captured the Sultan of Ghor multiple times and released him, whether seven times or twenty-two. Both insist that internal treachery was decisive in his final defeat: in the Jain texts, it is the ministers he mistreated who guide the Ghurid army to his camp; in the Alha, it is the character Mahil who engineers the betrayal. Neither tradition accepts the framing in Raso of a clean civilisational battle. Both suggest the defeat came from within.
-
-This convergence matters more than the divergence. The Raso and its modern descendants need Prithviraj to have been brought down by overwhelming external force – only this preserves the martyr narrative. But the older, more grounded traditions, whether Jain scribal or subaltern oral, consistently locate the cause of failure inside the court, inside the character, inside the social structure. A king who will not listen to ministers, a king who will not honour warriors because of their mothers’ caste – these are not men felled by history. They are men who constructed their own collapse.
-
-The Prithviraj that contemporary politics has built is a backward projection of entirely modern anxieties. The traditions that actually lived closest to the events recorded something more uncomfortable: a king undone not by the enemy at the gate but by the failures of the world he himself maintained.
-
-(The writer works with gods and demons who churn nectar from the ocean of Indian, Chinese, Islamic, Christian, even secular mythologies.)
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/the-itihasa-of-prithviraj-chauhan-4104461)
-
----
-
-### Who controls and dictates NGOs?
-*The New Indian Express · Opinion*
-
-The immediate confrontation is over the BJP government’s proposed amendments to the Foreign Contribution (Regulation) Act. The BJP and the Sangh parivar have long regarded sections of the NGO establishment as instruments for perpetuating Western cultural influence and diminishing India’s civilisational symbols. More recently, BJP leaders alleged that foreign-funded organisations also played a role in the youth protests. The present legislative push is therefore being projected as a mechanism to prevent misuse of foreign money and impose greater transparency. The opposition sees it as an attempt to choke institutions critical of the saffron establishment. Minority groups, particularly Christian organisations, fear that legitimate schools, hospitals and charities could be trapped in an increasingly rigid regulatory regime.
-
-India is possibly the world’s largest and certainly one of its cosiest habitats for NGOs. A government-commissioned study estimated their number at 33 lakh in 2009, roughly one organisation for every 400 Indians. The figure is old and international comparisons remain difficult because countries classify and register NGOs differently. Yet, even that historical estimate reveals the extraordinary scale of India’s voluntary sector.
-
-Alongside this vast domestic ecosystem also flourishes a financially formidable foreign-funded network. Official figures show that 13,520 organisations received `55,741 crore in foreign contributions between 2019 and 2022. The FCRA portal showed 14,449 active certificates as of July 15. Money creates capacity; capacity creates influence; influence eventually creates power. But these organisations are managed through widely differing cultural, religious, social and ideological structures. There is no uniformity in their ownership, objectives or methods of operation. That makes transparency not less necessary but more imperative.
-
-The more serious question is the secrecy surrounding their architecture. Who controls an NGO before the government attempts to regulate it? Foreign donors do not operate in an ideological vacuum. Foundations, religious bodies, philanthropic institutions and international agencies have their own missions, priorities and preferences. The donor chooses what deserves support; the recipient decides how to pursue it. The old maxim that the person who pays the piper calls the tune may be crude. But it cannot simply be dismissed when substantial resources dubiously cross national borders in the name of charity and social causes.
-
-The government now wants scrutiny of their finances, ethics and standards of operation. Who appoints the trustees? Who determines the priorities? Are organisations genuinely independent or influenced by political families, ideological networks, religious establishments or powerful individuals? When an NGO campaigns against government policy, who finances that campaign? These are not questions invented yesterday. Yet sections of the NGO establishment appear more willing to accuse the government of suppressing their voice and killing their ventures than to accept that public influence must carry public accountability.
-
-The BJP and the RSS have, for years, argued that sections of the foreign-funded NGO network have never reconciled themselves to the BJP’s rise to power. They also believe that Prime Minister Narendra Modi has been personally singled out for a sustained campaign of vilification. The Modi government has progressively tightened FCRA enforcement and acted against prominent organisations. The opposition has predictably entered the fray because the legislation affects institutions that have frequently challenged the government. But political resistance cannot become a certificate of innocence, just as government suspicion cannot become a certificate of guilt.
-
-The latest Bill raises the stakes. It creates a designated authority to supervise, manage and dispose of foreign contributions and assets when an organisation’s FCRA certificate is cancelled, surrendered or ceased. According to a research organisation, the proposed framework could result in assets created partly or wholly from foreign contributions vesting in the authority. That explains the anxiety among Christian organisations and other charitable institutions operating schools, hospitals and welfare programmes with overseas support. Their religious identity should provide either immunity from scrutiny or grounds for automatic suspicion. The government must distinguish between legitimate philanthropy and activity that violates the law. That requires evidence, not ideology.
-
-The government, however, risks overplaying its hand. Choking the financial arteries of an organisation that has demonstrably violated the law may be justified. Choking an entire sector because some organisations are politically hostile would be self-defeating. India still needs charities that educate children, run hospitals, provide disaster relief and reach communities that government agencies cannot adequately serve. A confident government should be able to regulate dissent without fearing it.
-
-There is an international irony. The US under Donald Trump has itself radically reorganised foreign assistance, ending USAID as an independent agency. Washington is questioning whether foreign assistance should operate as an autonomous channel of influence. India, therefore, has every sovereign right to insist that foreign money entering its institutions must comply with Indian law. The relationship between the State and the Third Sector should be simple. Governments are elected and answerable to voters, Parliament, courts and the Constitution. NGOs are self-appointed and derive their authority from public trust. They can question government, expose failures, campaign for neglected causes and supplement public welfare. They can correct. They cannot coerce. They can advocate. They cannot acquire the mandate of an elected opposition. And if they demand transparency from the State, they cannot reasonably treat questions about their own finances, affiliations and objectives as persecution.
-
-The Modi government is determined to cleanse a sector that has accumulated money and influence without always displaying a comparable culture of accountability. It should expose genuine financial and political cabals without crippling genuine charities. The NGO establishment, for its part, must accept that moral purpose does not confer immunity from scrutiny. A healthy democracy needs checks and balances, not competing centres of unaccountable power. The State cannot become the master of civil society. But civil society cannot become a State within the State. That is the real test of the FCRA exercise. Will the government cleanse the Third Sector or choke it? And will the NGOs accept scrutiny or continue to believe that their cause gives them immunity from it?
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Aug/08/who-controls-and-dictates-ngos)
-
----
-
-### Incredible India, as told to Parliament
-*The New Indian Express · Opinion*
-
-Updated on: 08 Aug 2026, 6:50 pm4 min readCopiedIn the grand theatre of Indian governance, there exist many republics. In one, you have the lived reality of a citizen—navigating crater-sized potholes, wading through flooded cities, sweating through endless job applications and paying the price for a power sector that loses crores of rupees to theft. In the other, the government presents a meticulously-curated republic, where everything is under control, projects are largely completed. Deficits are not deficits here—they are a “continuous process”.
-
-The disconnect between these two worlds visible in Parliament Q&As isn’t just a matter of perception; it is a political chasm. Consider the state of roads. Every week, the feeds on your screens deliver the footage—a flyover sagging, a carriageway swallowing a car. Conscientious MPs prodded by constituents asked the government how many roads caved in. The answer: 49. Not in 2026 or 2025. This is the data from 2014 to 2026.
-
-There is visible mystery and then there is seasonal mayhem. Every monsoon, India’s cities morph into Venice without the romance. Asked about urban flooding, the Union government said it was the responsibility of states and urban local bodies. Constitutionally unimpeachable. Except that the largest urban development programme in the country is run from Delhi. Under the Smart Cities Mission, 7,790 of 8,064 projects were completed at a cost of Rs 1,56,257 crore.
-
-Expenditure only means that money moved, not resolution of issues. The evasion is portable. This week, MPs asked about water contamination—contaminants, assessments, BIS standards and redressal. The answer: 2.52 crore laboratory samples were collected and 2.87 crore field tests conducted since 2023-24. Three of the four queries evaded and no assessment offered. The tanker mafia is evidence that the scarcity is real. The booming water filter industry is proof that contamination is.
-
-Primary education—the spine of hopes about the future—is broken. Government runs 10.05 lakh schools teaching 11.89 crore children; the private sector runs 3.42 lakh teaching 9.89 crore. Amid all the talk about the National Education Policy and computerisation, Parliament was told that 73,481 schools have no electricity. There are 1,00,843 schools with just one teacher for the entire school. The number of students in these schools: 29.12 lakh. In a nation where missing teachers is a phenomenon, a school for differently abled children in Jaipur has 76 teachers for 592 students. Normally, the ratio would be on a poster. Last week, when students protested in sign language, too few teachers understood a word.
-
-Barely half of those enrolled in Class I complete secondary school. Those who survive schooling wrestle with systemic woes. The rage at Jantar Mantar and now in Jharkhand, Punjab, Rajasthan and Karnataka is about employment. MPs asked how many railway posts were vacant. The answer: against 4.11 lakh recruitments between 2004 and 2014, over 5.16 lakh were recruited from 2014 to June 2026. Filling vacancies is a “continuous process”. The ratio of posts to applicants reveals the magnitude of need. In one category, 3.58 crore hopefuls competed for 92,116 posts; in another, 90.96 lakh for 29,775 posts. This labour market is a lottery.
-
-India is a live paradox where unemployment stares at vacant government jobs. The pain is felt in the first obligation of the State: security and justice. Data placed before Parliament shows 5.81 lakh police posts vacant, leaving the police-per-lakh ratio at 154 against a sanctioned 197. Add 93,139 vacancies in the paramilitary forces. In a country with over 5 crore pending cases, 341 of 1,122 high court judge posts and 7,311 of 30,868 subordinate court judge posts are vacant. Lant Pritchett named the condition—the flailing State, a head issuing instructions its limbs no longer obey.
-
-India is import-dependent for energy—every balance of payments crisis has arrived via fuel bills and left the rupee worse off. The context of the standoff at the Strait of Hormuz got MPs asking about domestic output of crude and gas. Answer: crude production has fallen from 29.36 million metric tonnes to 27.96, gas from 22.56 MMT to 21.23. There have been 28 field discoveries since 2023 and 22 policy initiatives since 2014, including the newest Rs 84,000-crore Samudra Manthan. The churn continues. Discoveries are notified. Output falls.
-
-India is not short of policy. It is short of the people to execute it. Where there are people, the system is politicised. India generates 15,37,356.15 million units of power, of which 15.04 percent is booked as transmission and distribution losses—part physics, mostly theft and unbilled consumption laundered. The accumulated losses of Rs 6.47 lakh crore parked in distribution companies reflect the wattage of political power. The schools waiting for connection clearly have no godfather.
-
-The inertia imposed by systemic sloth is deliberate and visible. The Insolvency and Bankruptcy Code was sold as a silver bullet for debt and default. Between 2020 and December 2025, 50,900 cases were filed and 188 resolved—one in 270. Claims admitted Rs 9.18 lakh crore; realised Rs 2.53 lakh crore. Twenty-seven paise in a rupee. The system is embalming capital, not moving it.
-
-Adam Smith remarked that there is a great deal of ruin in a nation. He meant it as consolation. It has become an alibi. A State that can conduct a general election across every booth in the Republic, and revise the rolls voter by voter can also count contaminated habitations and fill sanctioned posts. Nothing here is beyond the government’s capacity. All of it is beneath its attention. The State cannot be performative. It must perform. Parliament’s job is to make inattention unaffordable.
-
-Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Aug/08/incredible-india-as-told-to-parliament)
 
 ---
 
