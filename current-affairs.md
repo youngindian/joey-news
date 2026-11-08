@@ -1,3 +1,394 @@
+## 8 November 2026
+
+### Tamil Nadu's Rs 2,000 crore laptop plan: What Vijay's big student push means
+*India Today Education Desk · general*
+
+## Tamil Nadu Chief Minister Vijay has cleared the Rs 2,000 crore Vetri Laptop Scheme, extending free laptops to undergraduate and diploma students across government and aided institutions, with a special provision for engineering students and those previously excluded.
+
+CM Vijay clears Vetri Laptop Scheme for Tamil Nadu college students, Rs 2,000 crore allocated (Photo: ITG)
+
+New Delhi,Nov 8, 2026 11:43 IST
+
+Tamil Nadu Chief Minister C Joseph Vijay has ordered the implementation of the Vetri Laptop Scheme, a Rs 2,000 crore initiative aimed at providing free laptops to college students across the state.
+
+Announced in the Tamil Nadu Budget for 2026-27, the scheme will cover students pursuing undergraduate, diploma and professional courses in government and state-aided institutions. The state government has also approved the formation of a high-level committee under the chief minister to oversee its implementation.
+
+A Government Order granting administrative sanction for the financial allocation and laying down detailed guidelines for the rollout has also been issued.
+
+### WHO WILL BENEFIT FROM THE SCHEME?
+
+The scheme will primarily cover first- and second-year undergraduate students, along with diploma students enrolled in government and state-aided institutions during the 2026-27 academic year.
+
+Students pursuing courses in arts, science, engineering, medicine, veterinary science, agriculture, fisheries and law will be eligible. The scheme will also include students enrolled in polytechnic and Industrial Training Institute (ITI) programmes.
+
+In addition, the government has decided to extend the benefits to students who missed out on the free laptop scheme during the 2025-26 academic year. This provision will cover those currently studying in the third and fourth years of professional courses at government and state-aided institutions.
+
+### ENGINEERING STUDENTS TO GET LAPTOPS WITH INTEL CORE i5 PROCESSORS
+
+The state government has made a specific provision for engineering students, considering the technical requirements of their courses.
+
+Under the scheme, engineering students will receive laptops equipped with Intel Core i5 processors or equivalent configurations. The government has also granted administrative sanction to the state-run Electronics Corporation of Tamil Nadu (ELCOT) to procure laptops that meet the prescribed quality standards.
+
+### WHY HAS THE GOVERNMENT INTRODUCED THE SCHEME?
+
+According to the state government, laptops have become an essential educational resource in an increasingly digital learning environment.
+
+The initiative is intended to help students improve their technological knowledge, access online education, undertake skill development programmes and prepare for employment opportunities.
+
+The government said the scheme would particularly benefit students from marginalised communities and middle-income families by improving their access to digital resources.
+
+The initiative is also expected to strengthen students' ability to acquire skills relevant to an increasingly competitive global job market and improve their employability.
+
+The word 'Vetri' translates to 'victory'. The TVK-led government's initiatives, including its free bus travel scheme for women, also carry the Vetri prefix.
+
+(With PTI inputs)
+
+\- Ends
+
+---
+
+### Akhilesh should apologise for defaming Ram Mandir: Yogi Adityanath at AajTak Panchayat
+*India Today News Desk · general*
+
+## Speaking at Aaj Tak Panchayata, Uttar Pradesh Chief Minister Yogi Adityanath said that Samajwadi Party leader and MP Akhilesh Yadav should apologise to devotees for defaming Ram Mandir over the years.
+
+Yogi Adityanath mentioned that Ayodhya has underwent a massive transformation over the last 10 years. (Credits: X/AajTak)
+
+Uttar Pradesh Chief Minister Yogi Adityanath on Sunday criticised Samajwadi Party chief Akhilesh Yadav over his party's past actions against Ram devotees and said he should apologise to them ahead of his planned visit to the Ram Temple in Ayodhya on December 12.
+
+Speaking at the AajTak Panchayat, Adityanath said Lord Ram remained an ideal for the country and that his ideals had guided the government's approach towards development and the welfare of the poor.
+
+"Shri Ram is our idol. Taking him as our inspiration, we have worked towards development and the welfare of the poor," the chief minister said.
+
+Taking a swipe at Akhilesh Yadav, Adityanath said the Samajwadi Party leader should apologise to devotees for what he described as the party's past actions against them. His remarks come ahead of Yadav's proposed visit to Ayodhya, which would be his first visit to the Ram Temple since its consecration.
+
+The chief minister also asserted that Ayodhya could no longer be humiliated or looked down upon.
+
+"No one can humiliate Ayodhya now, no one can scorn it now," Adityanath said, highlighting the transformation of the temple town and its importance in India's cultural and religious landscape.
+
+\- Ends
+
+---
+
+### Fox can never become tiger: Revanth Reddy mocks KTR for copying his beard look
+*India Today News Desk · general*
+
+## Revanth Reddy mocked KTR over his beard and political demeanour at a Vikarabad gathering. He also outlined Kodangal industrial hub plans and a December 2027 road deadline.
+
+The remarks come amid continued political sparring between the ruling Congress and the opposition BRS in Telangana. (File Photo: ITG)
+
+Hyderabad,Nov 8, 2026 11:36 IST
+
+Telangana Chief Minister Revanth Reddy on Saturday took a swipe at Bharat Rashtra Samithi (BRS) working president KT Rama Rao, saying that merely growing a beard would not make him like the chief minister. Comparing political imitation to a fox trying to appear like a tiger, Revanth Reddy said that copying another leader's appearance or style would not help win the trust of the people.
+
+Addressing a gathering in Vikarabad, the chief minister mocked KTR over his political demeanour and questioned whether he could gain public support without changing his approach and mindset.
+
+"Just as a fox cannot become a tiger by trying to mimic its stripes, you cannot become a tiger by imitating one. Simply growing a beard does not make you Revanth Reddy. It took him 50 years to grow a beard. Who knows how many more years it will take for him to gain some wisdom?" Revanth Reddy said, according to a statement shared by the Telangana Chief Minister's Office (CMO).
+
+> KTR, No matter how many lifetimes you live, You’ll never be Revanth Reddy. - CM Revanth Reddy Garu https://t.co/Ehs3PQPvNn— Dr. Girija Shetkar (@GirijaShetkar) November 7, 2026
+
+The chief minister also said that the people of Telangana would not trust a leader unless there was a genuine change in his political attitude.
+
+"Until the leader changes the mindset, the people of Telangana will never trust \[him\]," he said.
+
+The remarks come amid continued political sparring between the ruling Congress and the opposition BRS in Telangana. Leaders from both parties have frequently exchanged criticism over governance, development and political leadership in the state.
+
+### REVANTH REDDY HIGHLIGHTS KODANGAL INDUSTRIAL HUB PLANS
+
+Separately, the chief minister spoke about the development of the Rural Agri-Region Economy (RARE) Industrial Hub in Kodangal, saying the project would generate large-scale employment opportunities in the region.
+
+According to a statement issued by the CMO, Revanth Reddy said the industrial hub was expected to support economic activity and create jobs for local residents.
+
+He also announced that the radial road connecting Shamshabad to Kodangal would be completed by December 2027.
+
+Highlighting the industrial potential of areas located near airports, the chief minister said such locations offered favourable opportunities for industrial growth.
+
+The proposed road connectivity is expected to support the development plans for the region and improve access to the industrial hub.
+
+While the chief minister's remarks against KTR added to the political exchange between the Congress and the BRS, his comments on the Kodangal project focused on the state's plans to promote industrial development and employment generation.
+
+\- Ends
+
+---
+
+### GCC deploys 600 workers, 350 vehicles for firecracker waste collection in Chennai
+*SECTIONS GCC deploys · business*
+
+Chennai: The GCC has announced special arrangements for the separate collection and safe disposal of firecracker waste across the city during Deepavali to ensure a clean and safe festive season.
+
+Under the direction of Greater Chennai Corporation Commissioner G S Sameeran, the Solid Waste Management Department has launched a citywide drive to clear public spaces, roads and stormwater drains of firecracker debris, Corporation sources said on Sunday.
+
+As part of the initiative, the civic body has deployed 600 personnel and 350 vehicles and distributed 30,000 designated collection bags, each with a capacity of 50 kg, to conservancy workers.
+
+  
+
+Residents and administrators of residential complexes, classified as bulk waste generators, have been urged to segregate firecracker waste from regular household garbage, including biodegradable and non-biodegradable waste, and hand it over separately to conservancy workers.
+
+The Corporation has also intensified cleaning operations, deploying mechanical sweepers and overnight road-cleaning teams during the festival period.
+
+Awareness campaigns are being conducted through battery-operated vehicles across neighbourhoods, along with outreach programmes in schools, colleges and public spaces.
+
+The civic body has issued safety guidelines, urging people to use only approved green crackers to minimise noise and air pollution.
+
+---
+
+### Houthis claim six missile, drone attacks on Saudi Arabia, target Aramco facilities and Riyadh airport
+*ANI · business*
+
+Sanaa: Houthi military spokesperson Yahya Saree has claimed responsibility for a series of missile and drone attacks targeting Saudi Arabia's oil facilities and King Khalid International Airport in Riyadh, alleging that six military operations were carried out against strategic and military installations across the kingdom.
+
+According to statements made by Saree, the operations involved ballistic missiles, cruise missiles and drones and were launched in response to what the group described as Saudi aggression against Yemen.
+
+"The first operation targeted Khalid International Airport, oil storage tanks, and a distillation tower belonging to Aramco in the Saudi enemy's capital, Riyadh, and, by Allah's grace, successfully achieved its objective," Saree said.
+
+  
+
+He further claimed that the second operation targeted Aramco facilities in Khurais, while the third struck Pumping Station No. 8 in the Dawadmi area.
+
+According to Saree, the fourth operation targeted Saudi military concentrations at a National Guard camp in Najran, while the fifth targeted troop positions east of Al-Jawf Governorate in three stages.
+
+"The sixth operation targeted Saudi enemy troop concentrations east of Raghwah and Madghal districts in Marib Governorate, under the command of Saudi officer Fares Al-Shammari, leaving a large number of dead and wounded among their ranks," he added.
+
+The Houthi spokesperson claimed that the operations resulted in several casualties among Saudi military personnel. These claims have not been independently verified.
+
+In a separate post on X, Saree alleged that Saudi Arabia had conducted 105 airstrikes and missile attacks against Yemen over the preceding 24 hours, targeting areas in Sanaa and the governorates of Al-Jawf, Taiz, Amran, Hajjah, Saada, Marib and Lahj.
+
+"These attacks left dozens of civilians dead and wounded, most of them women and children. This brings the total number of airstrikes and missile attacks by the Saudi aggressor against our country since the escalation began to 4,369," he said.
+
+Threatening further retaliation, Saree said, "We will continue our operations deep inside Saudi territory, imposing the equation of blockade for blockade and escalation for escalation, and targeting Saudi enemy troop concentrations and officers."
+
+Meanwhile, Yemen's internationally recognised government has urged Lebanon to take coordinated measures to stop Hezbollah's alleged military assistance to the Houthi militia.
+
+Yemen's Foreign Minister Afrah Al-Zouba called for cooperation between the security and intelligence agencies of both countries to prevent further support for Houthi military operations.
+
+---
+
+### Gujarat businessman skips sweets, gives employees over Rs 1 lakh each as Diwali bonus
+*India Today Trending Desk · general*
+
+## A Surat-based textile trader gave 20 employees cash bonuses exceeding Rs 1 lakh. The emotional presentation on ceremonial thalis drew widespread praise on social media.
+
+A businessman from Surat gave his employees a massive cash bonus. (Photos: @CAAnurag\_/X)
+
+New Delhi,Nov 8, 2026 11:13 IST
+
+For most employees, a Diwali bonus means an extra salary, a box of sweets or perhaps a hamper of dry fruits. But for 20 employees of a Surat-based textile businessman, this year's festive surprise came with a little more than the usual goodies; bundles of cash worth over Rs 1 lakh each, presented on ornate ceremonial trays.
+
+A video capturing the unusual bonus distribution by Ramswaroop Munde, who runs a textile firm in Gujarat's commercial hub, is now going viral on social media. The businessman reportedly rewarded each of his 20 employees with more than Rs 1 lakh in cash as a Diwali gift.
+
+What made the gesture even more special was the way the money was presented. Instead of handing out cash in envelopes or transferring the bonus directly to their bank accounts, Munde arranged bundles of fresh currency notes on silver-like ceremonial puja thalis.
+
+The trays featured neatly stacked bundles of notes in different denominations, ranging from Rs 10 to Rs 500. Adding a personal touch to the celebration, the employees' wives presented the cash-filled trays to their husbands, turning the occasion into an emotional family moment.
+
+The gesture clearly caught the employees off guard. Several of them appeared visibly overwhelmed as they received their gifts, with a few even breaking down in tears. Their reactions, captured in the video, offered a glimpse of just how much the unexpected reward meant to them.
+
+**Watch the video here:**
+
+> THIS IS WHAT TRUE GENEROSITY LOOKS LIKE Meet Ramswaroop Mund, a textile businessman in Surat originally from Rajasthan. This Diwali, he gifted 1 LAKH CASH to each of his 50 employees, along with special gifts. But the money isn’t the most heartwarming part. His philosophy is simple: Why should Diwali celebrations be limited to his own home? The families of those who work hard alongside him deserve to celebrate with equal happiness. He doesn’t treat his employees merely as workers; he considers them part of his family. Money can make you wealthy, but a heart like this makes you truly RICH. Hats off, Sir This is the spirit of Diwali. — CA Anurag (@CAAnurag\_) November 7, 2026
+
+The video has since made its way across social media platforms, attracting thousands of comments. While many users have applauded the textile businessman for recognising and rewarding his employees, others have jokingly wondered what it would take to land a job at his firm.
+
+Several viewers also pointed out how refreshing it was to see an employer go beyond the customary festive gifts and make the occasion genuinely memorable for his workforce.
+
+With Diwali traditionally being a time for sharing prosperity and celebrating with loved ones, Munde's gesture has given his employees plenty of reasons to remember this year's festivities.
+
+\- Ends
+
+---
+
+### IOC to buy crude, LPG ships as West Asia crisis exposes shipping risks
+*PTI · general*
+
+New Delhi: State-owned Indian Oil Corporation plans to acquire crude oil and liquefied petroleum gas carriers of its own as disruptions to shipping around the Strait of Hormuz and soaring freight costs prompt India's largest oil refiner to strengthen control over its energy supply chain.
+
+The company's board has already approved the purchase of a few vessels, and tenders were issued several months ago, Director of Finance Anuj Jain said during its second-quarter earnings call.
+
+  
+
+"The country needs oil sector companies to focus more on the shipping area now," Jain said, adding that IOC was also exploring the possibility of building ships in India under the government's Make in India initiative.
+
+The move marks a potential shift in the company's shipping strategy, which has traditionally relied on a mix of time-charter and voyage-chartered vessels. IOC is now examining three approaches: optimising existing charter arrangements, owning ships and supporting domestic shipbuilding.
+
+The importance of securing shipping capacity has increased as geopolitical tensions in West Asia disrupt commercial movement near the Strait of Hormuz, pushing up freight rates and war-risk insurance costs.
+
+IOC currently has three crude oil vessels and nine LPG vessels on time charter. These arrangements have provided significant cost savings during the current crisis, Jain said.
+
+The company's time-chartered crude carriers cost around USD 2-2.50 per barrel, compared to spot-market rates of as much as USD 8-10 per barrel.
+
+LPG freight rates, which would normally be around USD 40 per tonne, have risen to USD 160-180 per tonne in the spot market, he said.
+
+The shipping strategy is part of a broader effort to diversify crude procurement and reduce exposure to supply disruptions. IOC sourced 55 per cent of its crude requirements from Russia during the first half of the current financial year, while Middle Eastern supplies accounted for 24 per cent, Jain said.
+
+Africa contributed about 10 per cent, Brazil 7 per cent, the United States 2-5 per cent and Venezuela 3-4 per cent.
+
+The company has also substantially increased its reliance on spot purchases. Spot imports accounted for about 87 per cent of crude sourcing in the first half of FY27, compared to around 50 per cent in the previous financial year.
+
+Jain said the company had been able to negotiate discounts against benchmark prices even as global crude markets remained volatile. The premium or discount paid over benchmark crude during the September quarter ranged from a discount of USD 5 per barrel to a premium of USD 12 per barrel, compared to a range of zero to USD 18 per barrel in the preceding quarter.
+
+IOC has continued to buy Russian crude at what it described as optimal prices and has also been processing Venezuelan crude.
+
+The company's procurement diversification comes against the backdrop of a sharp rise in oil prices following the escalation of US-Iran hostilities towards the end of February.
+
+Indian basket crude, which averaged around USD 65-70 per barrel in February, remained above USD 100 for much of the first quarter and averaged about USD 120 per barrel in October, Jain said.
+
+Despite the supply-chain disruptions, IOC said it had maintained refinery operations at optimal levels and increased crude inventories to about 39 days, from its usual 33-35 days. It was also holding 20 days of LPG inventory and 23-25 days of petrol and diesel stocks.
+
+IOC reported a net profit of Rs 21,630 crore in the September quarter, compared with a loss of Rs 2,661 crore in the preceding quarter and a profit of Rs 7,610 crore in the year-earlier period. The company said inventory gains and improved performance across several businesses contributed to its profitability.
+
+It recorded a gross refining margin of USD 18.52 per barrel, excluding the impact of the special additional excise duty, and an inventory gain of USD 6,948 crore during the quarter.
+
+Jain cautioned that geopolitical developments remained a key source of uncertainty for the company, particularly because of their impact on crude procurement, freight and marketing margins.
+
+The proposed vessel purchases and domestic shipbuilding initiative reflect a wider effort by Indian oil companies to strengthen logistics resilience as India remains heavily dependent on imported crude and overseas shipping routes.
+
+---
+
+### Andhra CM Naidu orders immediate financial aid for Cyclone Murasu-hit families, steps to curb price rise
+*SECTIONS Andhra CM Naidu orders immediate financial aid · business*
+
+Amaravati: Andhra Pradesh Chief Minister N Chandrababu Naidu has directed officials to ensure uninterrupted supply of essential commodities, curb price rise and provide immediate financial assistance to families affected by Cyclone Murasu.
+
+During a review meeting at his camp office, Naidu sought updates from officials of various departments on relief, rehabilitation and restoration measures being undertaken on the ground.
+
+He reviewed damage to electricity infrastructure and the progress of power restoration.
+
+  
+
+"The government will ensure uninterrupted availability of essential commodities, take steps to keep market prices under control and provide immediate financial assistance to families affected by Cyclone Murasu," Naidu said in a press release late on Saturday.
+
+Officials informed him that nearly 92 per cent of the assessment of damage to horticultural crops had been completed, while the assessment of agricultural crop losses would be completed by November 9.
+
+Reviewing power restoration, officials said around 30,000 electricity poles had been damaged during Cyclone Arnab and power supply had since been restored in all affected villages.
+
+Following Cyclone Murasu, power restoration was under way in 1,825 affected villages, with 7,850 damaged poles repaired so far, they said.
+
+The Civil Supplies Department informed the CM that essential commodities had been distributed to 3.8 lakh families as part of the cyclone relief operations.
+
+Naidu reviewed measures to regulate the prices of onions, rice, palm oil, wheat flour and red gram dal, and arrangements to make these commodities available through ration shops.
+
+Officials said 8,000 quintals of onions had been procured and were being sold through Rythu Bazaars at Rs 35 per kg.
+
+Traders had agreed to sell different varieties of rice at fixed prices ranging from Rs 47 to Rs 82 per kg, they said.
+
+Cases had been registered against 204 traders for violating government directives, officials added.
+
+Dharani brand rice was being sold through Rythu Bazaars (farmers' market) at Rs 50 per kg, against its open-market price of Rs 70 per kg, while BPT variety rice was available at Rs 49 per kg, officials said.
+
+A total of 27,430 quintals of rice had been sold through 150 counters, benefiting 1.03 lakh families, they added.
+
+Arrangements were being made to supply palm oil at Rs 125 per litre, red gram dal at Rs 100 per kg and wheat flour at Rs 25 per kg through ration shops.
+
+---
+
+### Chained to bed, windows covered in foil: How ex-husband held US woman captive for 2 years
+*Yashasvi Vasistha · politics*
+
+40-year-old Arturo Calzada-Becerril and his girlfriend, Erendira Amoles, 41, pose in a police photo following their arrest on kidnapping and assault charges​
+
+A woman in Fargo, North Dakota, was rescued after allegedly being chained to a bed for two years, beaten and sexually assaulted by her ex-husband and his girlfriend, police said. The woman was found after a maintenance worker heard her cries for help at an apartment complex on November 3.Officers responding to the building found her restrained by a heavy chain and padlock around her right ankle, with the chain secured to the bedframe, according to court documents cited by the New York Post.A maintenance technician had reported hearing muffled screams from the apartment, prompting the building management to call 911.The victim was taken to hospital after being freed. Police interviewed her with the help of a translator, as she communicated through a translation app, according to the reports.Her ex-husband, 40-year-old Arturo Calzada-Becerril, and his girlfriend, 41-year-old Erendira Amoles, have been charged in connection with the case.
+
+## **Woman allegedly brought from Mexico and held captive**
+
+According to court documents cited by Valley News Live, the woman told investigators that Calzada-Becerril brought her to Fargo from Mexico in 2024 and kept her confined in the apartment, where she was not allowed to leave.The bedroom reportedly had a security camera pointed towards the bed, while its windows were covered with aluminium foil.
+
+The woman said she was given food twice a day and forced to use a bucket beside the bed as a toilet.Investigators found bruising on her arms, legs and face. She also told police that Calzada-Becerril and Amoles had beaten and sexually assaulted her. She said she had been punched, leaving a scar on her forehead.An investigative report cited by Inforum described the restraints as chains secured to the bed's headboard and footboard with large bolts, washers and nuts.
+
+The chains were covered with foam pool noodles and secured with Master Lock padlocks.Court documents state that Calzada-Becerril told police he kept the woman restrained so that "she did not run away", claiming she was addicted to drugs and that he did not want her to start using again.Prosecutors alleged that the pair held the woman captive to obtain immigration status. The victim is an American citizen, according to Valley News Live.
+
+## **Two accused face kidnapping charges**
+
+Calzada-Becerril and Amoles made their first court appearance on Friday, November 6. Both have been charged with kidnapping, along with additional counts including domestic violence and assault, Valley News Live reported.A judge set bail at $500,000 each. Prosecutors said both defendants could face deportation. Additional charges may be filed as the investigation continues.According to court documents, Amoles was usually responsible for handling the victim and unlocking her from the bedframe.
+
+She returned to the apartment with her eight-year-old daughter shortly after authorities discovered the woman.
+
+## **Neighbours shocked by discovery**
+
+Residents of the apartment complex said they were stunned to learn that a woman had allegedly been held captive in the building for two years without their knowledge.Erin Schauer, a resident, told Valley News Live that security personnel regularly patrolled the complex."We have security coming through from like 6 to 11 p.m. every single night.
+
+They stop in the hallways, they walk through every single building, they drive around," she said."That is really scary. You hear about that all the time on the news, but the fact that it was literally right over there," she added.Another resident, Reed Bertsch, said he could not understand how nobody had suspected what was happening."It's unbelievable. I just can't believe no one heard it, or you know, had any suspicion of something like that going on," he said.A longtime tenant also told Valley News Live that she had noticed the foil covering the apartment windows for years but had not known why it was there.Fargo police are working with the Cass County State's Attorney's Office as the case proceeds, according to Valley News Live.
+
+---
+
+### Forget corporate jobs, Argentina is hiring spies and 40,000 people have applied
+*India Today Education Desk · general*
+
+## Argentina's intelligence agency has received over 40,000 applications within 24 hours of launching its first public recruitment drive. The campaign seeks fresh talent across intelligence, technology, cybersecurity, and strategic analysis.
+
+Argentina launches public recruitment drive for intelligence agents, receives 40,000 applications (AI generated image)
+
+New Delhi,Nov 8, 2026 11:01 IST
+
+Imagine scrolling through job advertisements and finding one that asks you to become a spy. It might sound like something straight out of a Hollywood thriller, but Argentina has turned this unusual career possibility into a public recruitment campaign.
+
+The country's main intelligence agency has received more than 40,000 applications within the first 24 hours of opening its doors to aspiring intelligence agents. And no, applicants do not necessarily need a background in espionage to get started.
+
+According to a report by _United Press International (UPI)_, Argentina's State Intelligence Secretariat, known as SIDE, has launched its first-ever public recruitment drive to expand its intelligence workforce.
+
+### FROM SECRET MISSIONS TO PUBLIC JOB ADVERTISEMENTS
+
+The recruitment campaign is rather unusual for an organisation whose work generally revolves around secrecy.
+
+SIDE has taken its talent search to the streets, putting up recruitment posters across Buenos Aires and near several universities. Inspired by the iconic Uncle Sam recruitment posters, the advertisements carry a straightforward message: "We are looking for the best."
+
+The agency says the initiative is part of an effort to make intelligence recruitment more transparent and professional, with a career structure based on merit, training, and performance.
+
+Interestingly, the opportunity is not restricted to people who have previously worked in intelligence or security.
+
+Screenshot of Secretara de Inteligencia's post
+
+### WHO CAN APPLY AND WHAT DOES THE JOB INVOLVE?
+
+The basic eligibility requirements are relatively simple. Applicants must be Argentine citizens, have completed their secondary education, and be willing to relocate to Buenos Aires.
+
+However, getting through the door is another matter. Candidates must clear medical and security screenings, including background investigations, physical and psychological assessments.
+
+The selection process begins with profile screening, followed by an online general knowledge examination. Shortlisted candidates then face written tests, physical and psychological evaluations, and a personal interview.
+
+Those who perform well may be invited to undertake a basic entry course at Argentina's National Intelligence School. Completing the training, however, does not guarantee a job.
+
+### NOT EVERYONE NEEDS TO BE A SECRET AGENT
+
+The agency is also looking beyond traditional spy profiles. It is seeking people with expertise in strategic analysis, cyberintelligence, technology, languages, regional studies, operations and counterintelligence.
+
+So, candidates with backgrounds in technology, law, criminology and information security could also find themselves in the running.
+
+There is, however, one important catch. SIDE has not disclosed the number of vacancies or the salaries on offer.
+
+Applications remain open until November 30. For now, Argentina's unusual recruitment drive has demonstrated that sometimes the most unexpected job advertisement can attract thousands of curious applicants.
+
+\- Ends
+
+---
+
+### Who Are the Siddis? Gujarat’s African-Origin Tribe and Their History
+*Ritu Sharma · legal*
+
+Who are the Siddis of Gujarat? Explore the African-origin community’s history, migration to India, tribal identity, culture, population and sporting achievements.
+
+[Read full article](https://indianexpress.com/article/explained/explained-history/siddis-tribal-gujaratis-youth-olympics-darjada-10954934/)
+
+---
+
+### At just 10, Ukrainian boy Noah Beshto turned wildlife detective, tracking a rare black stork from Chernobyl to Africa in a motorhome; he wants to save the bird from deadly power lines, poaching and habitat loss
+*TOI World Desk · politics*
+
+A 10-year-old Ukrainian boy has taken on an unusual wildlife mission, following a GPS-tagged black stork across countries in a motorhome to understand the dangers it faces during migration.
+
+Noah Beshto, a young wildlife documentarian, travelled with Georgian ornithologist Nika Paposhvili as they tracked the bird from an area near Chernobyl in northern Ukraine towards Africa. As per a report published by Discover Wildlife, Noah described how the journey exposed him to the threats facing the species, including electrocution near power lines, poaching and habitat loss.Noah documented the expedition for his YouTube channel, Noah’s Diary.
+
+The journey was driven by his curiosity about a bird that he believes receives far less attention than its more familiar relative, the white stork. “Everyone knows and loves white storks. In many countries, they are a symbol of family,” he told Discover Wildlife. “But many people don’t even know that black storks exist! They are beautiful, rare and mysterious birds.
+
+”The tracking expedition also brought the young filmmaker face-to-face with the consequences of human activity.
+
+In Bulgaria, Noah and Paposhvili found several dead storks near power lines. According to Noah, the birds had been feeding at a local landfill before landing on or colliding with electrical lines and being electrocuted.The deaths were not an isolated concern. The Bulgarian Society for the Protection of Birds has documented bird casualties caused by electrical infrastructure during migration. In one investigation near the village of Stozher in northeastern Bulgaria, conservationists found 35 dead birds along a power line, followed by another 27 storks.
+
+The dangerous poles were subsequently secured, the organisation reported in September 2021.A separate survey in the Burgas region recorded 237 white storks killed by electric shocks in a month, highlighting the risks birds face along an important migration route. While these findings concern several bird species, they illustrate the wider danger posed by unprotected power infrastructure to migrating storks.Black storks also face pressure from habitat loss, hunting and changing environmental conditions. The species depends on suitable wetland and forest habitats, making damage to these ecosystems another concern for its survival. The International Union for Conservation of Nature's 2025 assessment lists the black stork as Least Concern globally. However, that classification does not mean individual birds or regional populations are free from threats.For Noah, the expedition was about more than following one bird. He wants his films to encourage people, especially children, to care about wildlife and take an interest in conservation. His project, Noah’s Diary, began when he was seven and has since grown into a series of wildlife documentaries filmed across 11 countries, according to an interview with Social Impact Heroes.The interview also described how the black stork expedition helped connect an environmental activist working to address bird deaths caused by power lines with a Bulgarian ornithologist.
+
+The two groups are now planning discussions about possible joint projects to reduce such deaths. Noah said this showed how his work could do more than raise awareness: it could also bring people working on conservation together.He said he wants to help stop pollution, illegal hunting and poaching, while drawing attention to animal cruelty and the suffering of animals kept in inadequate conditions. He credits wildlife documentaries, including those by naturalist David Attenborough, as an inspiration.He also has a message for other children who believe they are too young to make a difference. “You don’t have to wait until you’re grown up to do something good for our planet. You can start right now!” he told Discover Wildlife.
+
+
+---
+
 ## 7 November 2026
 
 ### 2 arrested in shooting at Kapil Sharma's Canada restaurant, face firearms charges
