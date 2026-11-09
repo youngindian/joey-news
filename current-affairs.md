@@ -1,3 +1,421 @@
+## 9 November 2026
+
+### 10 years of demonetisation: Why cash remains king in India
+*George Mathew · legal*
+
+Ten years after demonetisation, currency held by the public has more than doubled. What RBI data reveal about cash circulation and digital payments.
+
+[Read full article](https://indianexpress.com/article/explained/explained-economics/10-years-demonetisation-india-cash-currency-gdp-digital-payments-10956081/)
+
+---
+
+### Apple’s 20th Anniversary iPhone Could Launch Without An Action Button: Everything We Know So Far
+*Waquar Haider · technology*
+
+Apple will celebrate 20 years of the iPhone in 2027, and it can take advantage of this to launch one of the biggest design changes in the last few years. The iPhone first came out in 2007, when Steve Jobs launched it. 10 years later, in 2017, the iPhone X made its way to the market and gave Apple phones an entirely new design. This time around, rumors suggest that Apple has got a new design change for the 20th anniversary iPhone. Earlier leaks revealed the possibility of a phone that comes in mostly glass exterior. Moreover, a new rumor has been doing the rounds that Apple might get rid of the Action Button in the next iPhone design.
+
+## Apple May Merge Action Button Functions With Camera Control
+
+As revealed by the tipster Momentary Digital on the Chinese social media site Weibo, Apple plans to remove the standalone Action Button from the next generation anniversary edition iPhone. The new product is likely to come out in the second half of 2027 under the management of John Ternus.
+
+> Several rumours hint at a curved display on Apple’s 20th Anniversary iPhone. Looks like Apple could be planning something different this time! 👀👇 https://t.co/FcYdoOIcKJ
+> 
+> — adiii (@adiicodess) November 3, 2026
+
+Rather than completely eliminating the feature, it can be combined with the Camera Control button, according to the tipster. It suggests that the press of the button will keep on serving the same purpose as before, whereas holding it would bring up the function of the Action Button. This move, if made by the company, will make sure that all the custom shortcuts provided by the Action Button remain in use without an increase in the hardware components of the device. Nevertheless, it is not confirmed by Apple yet.
+
+## A Look at Apple's Action Button and Camera Control
+
+The Action Button came with the introduction of the iPhone 15 Pro and iPhone 15 Pro Max in 2023. The Action Button substituted the conventional Ring/Silent button, giving users the opportunity to customize their actions via a physical button. In its default state, it operates the phone's ring tone mute function; however, one can customize it to do other things.
+
+Initially, it was available only for the Pro phones; however, Apple soon released the feature for all models of the iPhone 16 series. Since its inception, no changes in the design and functions of the button were seen. The Camera Control, in turn, was released together with the iPhone 16 series. This feature differs from the former in that its primary function is taking photos and recording videos. Thus, it is possible to take pictures and operate camera modes via the touchpad.
+
+The current implementation of Visual Intelligence on Apple's side involves a long press of the Camera Control button, where the camera will recognize the object being pointed at and show information about it. Interestingly, the rumored book-style folding iPhone dubbed the iPhone Duo would become the first iPhone after the iPhone 16 generation that doesn't feature an Action Button. Instead, the company introduced Touch ID as means for authentication while still retaining the Camera Control.
+
+So far, Apple hasn't made any announcements about their upcoming 20th anniversary iPhone. Thus, all of the information mentioned above should be considered rumors until the official statement from the company.
+
+**Also See: Diwali 2026: Apple CEO Tim Cook Celebrates Diwali With Photo Captured On iPhone 18 Pro Max, Here's Who Took It**
+
+---
+
+### Sion Flyover: Chembur to Colaba, faster: Sion flyover to get two new arms to ease traffic bottleneck
+*Pratip Acharya · legal*
+
+The Rs 125.37-crore arms to the Sion flyover will run parallel to the 2003 flyover. It will link Sion Circle directly to the Eastern Express Highway. The deadline is December 2028
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/chembur-colaba-sion-flyover-two-new-arms-express-highway-10956080/)
+
+---
+
+### Jensen Huang is bigger than Nvidia — and it’s a problem
+*SECTIONS Jensen Huang is bigger than Nvidia · business*
+
+When a high-profile chief executive is in trouble, investors worry about key-person risk and whether the company will continue to prosper. But what if that businessman is crucial to an entire narrative that has underpinned the global markets boom?
+
+Nvidia Corp. said on Sunday that it was opening an investigation into Jensen Huang, after the CEO acknowledged that he had a romantic relationship with a business executive whom US intelligence determined was a Chinese spy.
+
+The path forward — and Huang’s future — will depend on what emerges from the board’s fact-finding process. But the revelation itself is shaking up the entire artificial intelligence world. Nvidia is not only the sector’s most valuable publicly listed company, with a market cap of $4.5 trillion, but has lent its own creditworthiness to speed up infrastructure growth. Over the last three years, it has offered $300 billion in financial support to customers, in addition to investing billions into startups including neoclouds, or data center operators that lease out computing power to AI labs.
+
+  
+
+Despite having only a 3.4% stake, Huang is very much the boss and the architect of Nvidia’s corporate strategies. He has no heir apparent and has created an informal organization structure whereby his direct reports — as many as 60, according to Bernstein Research — are tasked with rapidly implementing his decisions. Will Nvidia’s money keep on flowing now that the central banker of AI is in a bit of trouble himself?
+
+This is bad timing for neoclouds. As the likes of CoreWeave Inc. are hit with skyrocketing borrowing costs and financing channels close, they naturally look to Nvidia for a lifeline. Australia’s Firmus Grid Ltd., for instance, is reportedly in talks with the company for follow-on venture investments after pulling a much-anticipated initial public offering in Sydney. Deal negotiations may well be put on hold or scrapped altogether.
+
+With Huang’s authority challenged, it’s only natural that Nvidia’s dealmakers take a more defensive stance and step back from vendor financing to customers, which has already worsened the chipmaker’s credit profile. The cost of protecting Nvidia’s debt against default has tripled this year, as investors look to hedge against potential losses from mounting debt tied to data centers. Its corporate bond spread has widened as well.
+
+Bloomberg
+
+And how about AI infrastructure developments across Asia? The worry is that Nvidia will have to slow down shipments to the region while the company is under public scrutiny. The Chinese woman who Huang had an affair with was an executive at Singapore-based Megaspeed International, which has been building data centers in Southeast Asia. The operator reportedly rented compute to Alibaba Group Holding Ltd. and gave China a backdoor way of getting access to advanced Nvidia chips.
+
+As such, national security risks will surface just as Asian banks are getting more comfortable with chip financing and capital deployments into data centers are gaining momentum. Going forward, the pace of billion-dollar deals could slow as lenders not only question how fast graphics processing units, or GPUs, will become technologically obsolete, but also whom their ultimate customers are.
+
+A charismatic salesman, Huang has done a lot of talking, predicting the next trillion-dollar company and promoting Asia’s ecosystem. With his star power tarnished however, the AI trade is looking increasingly shaky. A bear market is looming.
+
+---
+
+### Jesse and Kylie Sebero manage more than 500 acres of Wisconsin forest for both timber and wildlife and open it to researchers; they are among five families shortlisted for the state’s $10,000 Leopold Conservation Award
+*TOI World Desk · politics*
+
+Wisconsin family manages 500-acre forest for wildlife and timber; shortlisted for state conservation award (Image Credit: Sand County Foundation)
+
+A forest can be both a source of timber and a home for wildlife when it is managed with conservation in mind. In Wisconsin, Jesse and Kylie Sebero are demonstrating how privately owned woodland can support economic activity while protecting natural habitats.
+
+The couple manages more than 500 acres of contiguous forest in Marinette County, balancing timber production with wildlife conservation. They also open their property to researchers and organise educational tours for landowners and forestry professionals.The Sand County Foundation announced on September 10, 2026, that the Seberos were among five finalists for the 2026 Wisconsin Leopold Conservation Award.
+
+The $10,000 award recognises farmers and forestland owners who make significant efforts to protect soil health, water quality and wildlife habitat while managing productive land. The foundation, which announced the shortlist, presents the award with national sponsor American Farmland Trust and state partners Wisconsin Farm Bureau Federation and Dairy Farmers of Wisconsin.
+
+The winner is scheduled to be announced on November 12.
+
+## How the Seberos manage their 500-acre forest
+
+The Sebero Family Tree Farm in Porterfield, Marinette County, covers more than 500 acres of contiguous forest. Rather than focusing only on timber production, the family considers the ecological and economic value of each acre.According to the Sand County Foundation, the Seberos manage the quality of timber and wildlife habitat across their property to achieve its fullest potential. Their approach reflects an effort to maintain a productive forest while ensuring that it continues to provide suitable habitat for wildlife.
+
+The family also makes the woodland available for research projects and tours. They welcome landowners, timber professionals and conservation experts who want to learn about forest management and conservation practices.Jesse Sebero's professional work further supports these efforts. He serves as a technical service provider for the US Department of Agriculture's Natural Resources Conservation Service (NRCS).
+
+In this role, he has written 272 forestry plans covering thousands of acres of privately owned land. His experience in providing technical guidance, together with the family's management of their own woodland, has made the Sebero property a place for research, learning and knowledge-sharing.
+
+## Four other families shortlisted for the award
+
+The Seberos are competing with four other finalists whose conservation work focuses on farming, grazing, soil health and water protection.
+
+Andy Bensend of Dallas in Barron County has introduced cover crops, nutrient management and reduced tillage at AB Farms. Despite the shorter growing season in northern Wisconsin, he grows corn, soybeans and winter wheat while participating in research projects examining agricultural practices and soil health.The Brattset Family Farm in Jefferson County is managed by Weenonah Brattset and her daughter, Kirsten Jurcek.
+
+They have practised rotational grazing of beef cattle since 2005. Their work includes integrating cropland into perennial vegetation, improving soil health, water quality and biodiversity. They also work with the National Audubon Society to support grassland bird habitats and mentor other graziers.Jeff Endres, co-owner of Endres Berryridge Farms in Waunakee, Dane County, installed a manure composting facility to reduce the need for spreading manure during winter.
+
+He also founded the Yahara Pride farmer-led watershed group, which encourages farmers to adopt conservation practices and reduce phosphorus pollution in waterways.The Schoepp Family of Lodi, in Columbia and Sauk counties, uses no-till farming and diverse crop rotations to grow corn, soybeans, alfalfa and wheat. Their use of cover crops helps reduce soil erosion, improve soil structure and increase water infiltration.
+
+They also rotationally graze dairy heifers and beef cattle on cover crops.
+
+## What is the Leopold Conservation Award?
+
+The Leopold Conservation Award is named after American conservationist Aldo Leopold, who promoted the idea of a land ethic in his influential 1949 book, A Sand County Almanac. His philosophy encouraged people to recognise their responsibility towards the land they own and manage. The award recognises farmers, ranchers and forestland owners who combine productive land management with efforts to improve the environment.
+
+Sand County Foundation and American Farmland Trust present the awards to private landowners across 28 states.In Wisconsin, the $10,000 award is presented with the support of the Wisconsin Farm Bureau Federation and Dairy Farmers of Wisconsin. An independent panel of agricultural and conservation leaders reviewed the applications and selected the five finalists. The first Wisconsin Leopold Conservation Award was presented in 2006 to woodland conservationist Gerry Mich of Appleton.
+
+The 2025 recipient was Michael Berg of Blanchardville in Lafayette County.The 2026 winner will be announced at the Wisconsin Board of Agriculture, Trade and Consumer Protection meeting on November 12. For the Seberos, the nomination highlights how privately managed forests can serve several purposes at once, providing timber, supporting wildlife and creating opportunities for research and education.
+
+---
+
+### Her grandparents bought 146 acres in South Carolina in the 1940s; she promised her mother she would keep it together and has now barred future development on the family land
+*TOI World Desk · politics*
+
+Smith and another landowner have protected over 250 acres of family land from development. (Representational photo)
+
+A woman in South Carolina has permanently protected her family's 146-acre property from future development, fulfilling a promise she made to her mother. Alice Smith placed the land, known as Duck Haven, in Pickens County under a conservation easement, a legal arrangement that restricts future construction while allowing the family to retain ownership.According to a report by WVLT 8, Smith's grandparents bought the property in the 1940s. She wanted to ensure that the land, which had remained with the family for generations, would not be sold or taken over for development. She said she had promised her mother that she would find a way to keep the property together. "I made a promise to my mother that I would find a way to keep the land together," Smith said as quoted by WVLT 8.The 146-acre property has rolling fields that connect to the Saluda River. It was mostly farmland when her grandparents purchased it, according to Smith. By choosing a conservation easement instead of accepting development offers, she has ensured that restrictions on future development will remain in place even after her lifetime.Smith is among two landowners in Upstate South Carolina who have recently protected more than 250 acres of family-owned land through conservation easements arranged with non-profit organisation Upstate Forever.
+
+The second property, Moore Farm, covers 110 acres in Greenville County and belongs to Ed Lomas's family.The organisation said the two agreements are part of its wider effort to protect land across the region. Upstate Forever now safeguards more than 40,000 acres across 10 counties.
+
+## How conservation easements protect land
+
+A conservation easement is a legal agreement that allows property owners to retain ownership while placing permanent restrictions on development.
+
+These restrictions continue to apply even if ownership of the property changes.Scott Park of Upstate Forever said landowners grant these restrictions to the organisation, which takes responsibility for ensuring that the agreed protections remain in place."Conservation easements, they’re in essence a charitable donation, so that’s why Upstate Forever can be a grantee of these conservation easements," Park said.He explained that the landowner grants the restrictions and the organisation becomes the long-term steward of the property."So the landowner is the grantor; they grant those restrictions to Upstate Forever. We are the forever steward, so we’re almost a partner in the pocket of that landowner now for as long as that landowner owns that piece of property."
+
+## Another family protects its century-old farm
+
+The second property covered by the agreements is Moore Farm, owned by the Lomas family for more than 100 years.
+
+The 110-acre farm is located near Horsepen Creek in Greenville County.The property was previously used to grow cotton. Since around the 1950s, it has been used to raise cattle. However, new residential neighbourhoods have gradually developed around the farm.Ed Lomas said the change has been particularly noticeable in the traffic passing through the area. "Twenty years ago, you would wait for cars to come by maybe every few minutes," Lomas said.
+
+"Now it’s a constant stream, especially first thing in the morning."The process of securing the conservation easement took around a year and a half. Lomas said he decided to protect the farm after hearing about another family that was struggling to hold on to its property.He recalled receiving a call from a family friend whose relatives were getting older and could no longer manage their land. They were concerned about leaving the property to their children and the difficulties that could follow.
+
+"I actually had a phone call from a family friend about a year ago saying they had exactly that scenario," Lomas said.He said the family believed selling the property was their only option. "They were older, they couldn’t take care of it, it was going to be left to the children, it was going to be a big mess. They felt that was their only option, just to sell the land."Lomas wanted to prevent his own family from facing similar pressure.
+
+He said the agreement would protect the farm and ensure that his children would not be pressured into selling it for development. "I know it’ll be safe and the kids will not be able to be pressured into selling it as a development," he said.
+
+## Conservation agreements offer tax benefits
+
+Conservation easements can also provide financial benefits to property owners because they are treated as charitable donations.According to the South Carolina Farm Bureau, the value of an easement is calculated by comparing the property's fair market value before and after the development restrictions are imposed.
+
+The difference is recognised by the Internal Revenue Service as a non-cash charitable donation. Landowners can claim this amount as a federal tax deduction for up to 15 years.South Carolina also offers state tax credits, generally amounting to a maximum of $250 per acre. These credits have no expiration date and can be applied towards the landowner's personal income.In addition, many easements qualify for direct financial support from sources such as the South Carolina Conservation Bank.
+
+This funding is generally calculated as a percentage of the easement's value and paid to the landowner at closing.
+
+## Families want others to consider the option
+
+Park said Upstate Forever was seeing growing interest from landowners who wanted to protect their properties against development.He said families such as the Lomas and Smith families were determined to preserve land that had remained in their families for generations."You meet landowners like Ed and Alice that are just salt of the earth," Park said.
+
+"They just want to protect their property. They see the development pressure that’s coming around them and they are pretty much, they are laser focused on getting these properties protected, and we’re happy to be a partner in that."Both landowners said they hoped their decisions would encourage other families to explore ways to protect their properties."There are opportunities and ways to protect and conserve the property you may have," Lomas said.
+
+Smith said she did not consider herself wealthy or well-connected but wanted others to know that protecting family land was possible."I’m not well-to-do, I’m not really well connected, but if for some reason I can plant a seed in anyone, that if I’m able to do this, they can too," she said.For Smith, the agreement means that her family's land will remain protected even after she is gone. She said she wanted to ensure that the work and sacrifices made by earlier generations were not lost to development."What your family sacrificed and worked so hard for did not go to waste and a developer is not going to be able to ever touch it, and even when I’m gone, it’s still going to stay like this," she said.
+
+---
+
+### South Carolina father leaves his 6-year-old daughter sleeping outside Target with a pillow and blanket to hold his place in a queue for Pokemon cards; arrested after customers alert police
+*TOI World Desk · politics*
+
+A 35-year-old man in South Carolina has been arrested after allegedly leaving his six-year-old daughter sleeping outside a Target store in the middle of the night while he went home to hold his place in a queue for Pokemon trading cards.
+
+According to the Charleston Police Department, John-Michael Dooley gave the child a pillow and blanket before leaving her unattended. He reportedly stayed away for around an hour, prompting concerned customers waiting outside the store to contact police. Officers arrived at the scene at approximately 2.30 am on November 6. The girl was found unharmed, while Dooley was subsequently arrested and charged with unlawful conduct toward a child.
+
+## Father left daughter alone to retain his place in the queue
+
+The incident took place outside a Target store in West Ashley, a neighbourhood in Charleston, South Carolina, as customers gathered overnight for the release of a new Pokemon trading card collection.Police said Dooley had brought his young daughter to the store and left her sleeping outside with a pillow and blanket. He then went home, allegedly to ensure he did not lose his position in the queue.According to the police account, Dooley later admitted to detectives that he had left the child unattended so he could maintain his place in line and avoid missing the opportunity to purchase the cards.
+
+## Customers alert police after child is left unattended
+
+Other customers waiting outside the store became concerned when they realised the six-year-old had been left without adult supervision.After Dooley failed to return for approximately an hour, witnesses contacted the police. Officers arrived at around 2.30 am on November 6, and the customers identified Dooley when he eventually returned to the store.The child was found unharmed. Following the incident, she was placed in emergency protective custody with the South Carolina Department of Social Services.
+
+## Father charged with unlawful conduct toward a child
+
+Dooley was arrested and charged with unlawful conduct toward a child. He was subsequently held at the Al Cannon Detention Center in Charleston County.According to reports, his bond was set at US$40,000, with an initial court appearance scheduled for December 18, 2026.
+
+## Pokemon card release draws overnight crowds
+
+The queue had formed for the release of the Pokemon Trading Card Game collection Mega Evolution – Delta Reign, which went on sale on November 6.The launch attracted collectors and enthusiasts who gathered outside retail stores to purchase the new cards. Individual packs reportedly started at around US$5, with demand contributing to overnight queues.
+
+---
+
+### Princess Margaret received a 10-acre Caribbean plot as a wedding gift; the secluded Mustique villa she built there now welcomes guests for up to $50,000 a week
+*TOI World Desk · politics*
+
+Image: Mustique/ Wikipedia
+
+Princess Margaret, the younger sister of Queen Elizabeth II, received a 10-acre plot on the Caribbean island of Mustique as a wedding present in 1960 from British aristocrat Colin Tennant, later Lord Glenconner.
+
+She subsequently commissioned renowned British designer Oliver Messel to build a private holiday residence on the property, naming it Les Jolies Eaux, meaning 'beautiful waters'. The villa became one of Margaret's favourite retreats, where she spent holidays and entertained friends away from royal engagements and public attention. More than six decades later, the former royal residence is available for luxury holiday rentals.
+
+Located on a secluded stretch of Mustique's southern coastline, the five-bedroom property commands rates of up to $50,000 per week during the January-April high season.
+
+## Princess Margaret's 10-acre wedding gift on Mustique
+
+The story of Les Jolies Eaux began with Colin Tennant, a Scottish aristocrat who purchased Mustique in the late 1950s for approximately £45,000. He envisioned transforming the relatively undeveloped island into an exclusive residential retreat for friends, wealthy visitors and members of the international elite.
+
+In 1960, following Margaret's marriage to photographer Antony Armstrong-Jones, Tennant offered her a choice between a conventional wrapped present and a piece of his Caribbean island. Margaret chose the land, receiving a 10-acre plot on a private peninsula towards the southern end of Mustique.She first visited the island during her honeymoon Caribbean cruise aboard the Royal Yacht Britannia. The property offered a secluded setting where she could spend time away from the formal responsibilities associated with royal life.
+
+## Oliver Messel designed Princess Margaret's Caribbean villa
+
+Margaret commissioned Oliver Messel, a celebrated British theatrical and film designer, to create the residence. Messel was also the uncle of her husband, Antony Armstrong-Jones, later Lord Snowdon. He became one of the principal architects associated with Mustique's distinctive residential style.The villa was designed around an open courtyard, with buildings arranged to take advantage of the tropical surroundings and sea views.
+
+Its architectural features included coral stone, airy interiors, covered outdoor spaces and a swimming pool surrounded by landscaped gardens.Construction began in the late 1960s, and the residence was completed in the early 1970s. It was named Les Jolies Eaux, a French expression meaning 'beautiful waters'.Margaret also took a personal interest in its interiors. In an interview published in Architectural Digest in October 1979, she explained that Messel had drawn the house while she handled the decorating.
+
+She wanted the interiors to reflect her own ideas about comfort and intimate living spaces.The residence featured blue-and-white decorative elements, patterned fabrics, porcelain plates and personal objects. Her bedroom, notably, was decorated in bright orange. A portrait of Queen Elizabeth II was also displayed inside the house.
+
+Image: Getty Images
+
+## Inside Les Jolies Eaux: Five bedrooms, a private pool and Caribbean views
+
+The villa occupies a secluded position at the southern tip of Mustique, overlooking the Caribbean Sea.
+
+Its landscaped grounds extend towards Gelliceaux beach, giving the property direct access to a quiet coastal setting.According to the Mustique Company's official listing, the residence has five bedroom suites and can accommodate up to 10 guests. Its principal features include:
+
+-   A Great Room opening towards the swimming pool and gardens.
+-   Five bedrooms with en-suite bathrooms.
+-   A private plunge pool.
+-   An open-sided dining pavilion beside the pool.
+-   Extensive lawns and landscaped tropical gardens.
+-   A home office and outdoor entertaining spaces.
+-   A children's bunkroom available on request for an additional charge.
+
+The property's layout combines indoor living spaces with open-air areas designed to make the most of the tropical climate. Its gardens and position near the coastline are among the features highlighted in the official rental description.
+
+## The villa became part of Princess Margaret's personal history
+
+Mustique became an important destination in Margaret's personal life, and she reportedly visited Les Jolies Eaux twice a year for much of her adult life. The island offered privacy and an informal environment in which she could spend time with friends away from Britain.The property also became associated with a widely publicised episode in her marriage. In 1976, photographs of Margaret with landscape gardener Roddy Llewellyn were published in British newspapers.
+
+The pictures were taken during their time together on Mustique and attracted considerable media attention.Margaret and Lord Snowdon had already been experiencing marital difficulties and had separated before the photographs appeared. Their divorce was finalised in 1978.The episode brought further attention to Mustique, reinforcing its image as a private Caribbean destination frequented by prominent personalities.
+
+## Princess Margaret's former villa now rents for up to $50,000 a week
+
+The former royal residence is now available as a luxury holiday rental through the Mustique Company. Its weekly price varies according to the season, with the January-April period carrying the higher rate.The Mustique Company's official rental listing advertises a weekly rate of $35,000 for stays between May 1 and December 18, 2026, rising to $50,000 per week for the January 4 to April 30, 2027 season.The listed prices are subject to an 11% government tax and a 12% island fee.
+
+A discretionary staff gratuity of 5%-10% is also recommended. Flights, food and beverages are charged separately.The villa comes with a dedicated team comprising a butler, chef, gardener and two housekeepers. Guests can therefore access hospitality services alongside the privacy of an independently rented residence.The five-bedroom property accommodates up to 10 guests, with a children's bunkroom available for an additional charge.
+
+## Mustique developed into an exclusive Caribbean retreat
+
+Mustique's transformation into an exclusive holiday destination began under Colin Tennant, who purchased the island in 1958 and invested in infrastructure, roads and residential development. The Mustique Company was subsequently established to oversee the island's development and manage its properties.The island attracted wealthy visitors, celebrities and members of royal families, partly because of its emphasis on privacy and limited commercial development.
+
+Musicians and public figures, including Mick Jagger, have also been associated with Mustique.Its residential landscape includes villas designed by architects and designers such as Oliver Messel, whose work helped establish the island's distinctive architectural identity. Les Jolies Eaux remains among its best-known properties because of its connection to Princess Margaret and its history as a former royal residence.
+
+---
+
+### Nvidia Shares Fall 3.4% In Extended Trading After Board Orders Probe Into Jensen Huang's Reported China Spy Links
+*Mohammad Haris · business*
+
+Perpetual futures linked to Nvidia shares on the Hyperliquid exchange and after-hours trading on Blue Ocean system indicate stock trading at nearly $180.30 apiece, down about 3.4%.
+
+[Read full article](https://www.news18.com/business/markets/nvidia-shares-fall-3-4-in-extended-trading-after-board-orders-probe-into-jensen-huangs-reported-china-spy-links-10418277.html)
+
+---
+
+### Sheikh Hasina Seeks Fresh Passport Ahead Of December Return, Bangladesh Insists On Extradition
+*Apoorva Misra · general*
+
+Hasina’s lawyers at London-based Matrix Chambers have written to Preeti Rahman, the acting high commissioner at Bangladesh's embassy, requesting new travel and identity documents
+
+[Read full article](https://www.news18.com/world/sheikh-hasina-seeks-fresh-passport-ahead-of-december-return-bangladesh-insists-on-extradition-ws-kl-10418272.html)
+
+---
+
+### Jensen Huang Row: How a Singapore firm, China spy allegations and Nvidia are linked
+*Soumyarendra Barik · legal*
+
+The Jensen Huang controversy comes amid Washington's efforts to restrict China's access to advanced AI technology, particularly Nvidia's most powerful processors, which can have military and intelligence applications.
+
+[Read full article](https://indianexpress.com/article/explained/explained-global/jensen-huang-nvidia-megaspeed-china-spy-allegations-10956091/)
+
+---
+
+### Reporter asks Trump “How does it feel being a loser, Mr President?” His reaction says it all!
+*ET Online · business*
+
+A reporter puts Donald Trump on the spot with a blunt question: “How does it feel being a loser, Mr President?” Watch Trump's reaction as the unexpected exchange grabs attention.
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/reporter-asks-trump-how-does-it-feel-being-a-loser-mr-president-his-reaction-says-it-all/videoshow/135673483.cms)
+
+---
+
+### Delhi Fire Service Receives 257 Calls On Diwali, 24 Linked To Firecrackers
+*Shankhyaneel Sarkar · general*
+
+Six people sustained non-fatal injuries, while five Delhi Fire Service personnel were injured during firefighting operations.
+
+[Read full article](https://www.news18.com/cities/new-delhi-news/delhi-fire-service-receives-257-calls-on-diwali-24-linked-to-firecrackers-ws-lr-10418250.html)
+
+---
+
+### Diwali night exposes gaps in Delhi's AQI system, screens switched off, data unclear
+*Sreya Chatterjee · general*
+
+Delhi was choking on Diwali night. Firecrackers continued to light up the sky, smoke hung over neighbourhoods and pollution levels shot up. But as residents tried to make sense of the air they were breathing, the systems meant to track and display pollution appeared to be telling an incomplete story.
+
+An India Today investigation, based on ground checks on Diwali evening and the following morning, found gaps in the way pollution information was being displayed to the public. While monitoring stations recorded extremely high concentrations of particulate matter, public display screens at two locations were switched off or unavailable. Online dashboards, meanwhile, did not appear to reflect live changes during the team's checks.
+
+The investigation was carried out in two stages. On Diwali evening and night, the team visited monitoring stations across Delhi to check the readings and the availability of public display screens. On Monday morning, the focus shifted to the information being shown on public AQI platforms.
+
+In the morning, two platforms appeared to offer very different pictures of Delhi's air quality. A digital screen outside the India Meteorological Department (IMD) office showed an Air Quality Index (AQI) of 143, categorised as 'moderate'.
+
+At around the same time, the Central Pollution Control Board (CPCB) dashboard showed an AQI of approximately 343, in the 'very poor' category, for Lodhi Road, where the IMD office is located.
+
+That is a difference of 200 points between the two displayed figures. However, the source station, update time and averaging period of the IMD screen's reading could not be established, leaving it unclear whether the readings were directly comparable.
+
+IMD officials told the reporting team that the screen outside its office was managed by the Delhi Pollution Control Committee (DPCC).
+
+So, while Delhi residents were being asked to keep an eye on pollution levels and take precautions, the bigger question was whether the information available to them was current, consistent and reliable.
+
+### CRACKERS DID NOT STOP, AQI KEPT RISING
+
+To understand what was happening on the ground, our reporters hit the streets on Diwali night, when firecracker bursting was at its peak. The idea was to see not just how polluted Delhi's air had become, but also how its government monitoring system was responding.
+
+The 10 pm deadline for bursting crackers had passed, but the celebrations were far from over. At Dwarka Sector 8, crackers were being burst close to the air-quality monitoring station itself, even as its display recorded extraordinarily high particulate matter concentrations.
+
+A few minutes past 11 pm, the station showed PM2.5 at 1,727 micrograms per cubic metre and PM10 at 2,005 micrograms per cubic metre. At around 11.30 pm, the PM2.5 reading remained elevated at 1,725 micrograms per cubic metre.
+
+The picture was no different at ITO. Around 1 am, its monitoring station displayed a PM2.5 concentration of 994 micrograms per cubic metre.
+
+These were concentrations of fine particulate matter in the air, not AQI figures. Under CPCB's National AQI framework, PM2.5 concentrations above 250 micrograms per cubic metre fall in the 'severe' category. However, the station's short-term readings cannot be directly converted into AQI values, which are calculated using specified averaging periods.
+
+But the problem was not limited to what the physical monitoring stations were recording. It was also about what people looking at online dashboards could see.
+
+The online AQI values checked alongside the physical station readings were 403 for Dwarka and 407 for ITO. During the team's observations, the online dashboard did not appear to reflect the changing readings in real time.
+
+For someone checking pollution levels on a phone or computer, this raises a basic question: if pollution levels are changing rapidly, how useful is an online dashboard if residents cannot establish when its information was last updated?
+
+The issue is not simply whether two numbers match. PM2.5 concentration and AQI measure different things. What matters is whether the platforms clearly communicate the source and age of the information they display, particularly during sudden pollution spikes.
+
+### THE SCREENS THAT WENT DARK
+
+And it wasn't just the online information that raised questions. The ground investigation found that residents could not access pollution readings through public display screens at two monitoring locations either.
+
+At the NSIT Dwarka monitoring station, a guard told the reporting team that the public display board had been switched off at 9 pm.
+
+At Lodhi Road, another guard said an AQI monitor was installed but readings were no longer being displayed publicly.
+
+For residents, this meant that the very screens meant to provide information about local air quality were offering no readings when pollution was a major concern.
+
+There is an important distinction here. The unavailable public displays do not establish that the monitoring stations had stopped measuring pollution or transmitting data. But they do raise questions about why the information was not being made accessible on the screens and whether residents were provided an alternative way to check it.
+
+A monitoring station may continue collecting data in the background. But if its readings are not visible to the public, one of the most direct ways residents have of understanding local pollution disappears.
+
+### 'MODERATE' OUTSIDE IMD, 'VERY POOR' ON CPCB DASHBOARD
+
+The questions over access to pollution information did not end with the Diwali-night checks. The following morning brought another striking observation.
+
+Outside the IMD office, a high-tech digital screen displayed an AQI of 143, suggesting 'moderate' air quality. At around the same time, the CPCB dashboard showed approximately 343 for Lodhi Road, placing it in the 'very poor' category.
+
+For a resident looking at the two platforms, the difference would be difficult to ignore. One indicated relatively moderate conditions, while the other pointed to a much more polluted morning.
+
+IMD officials told the reporting team that the digital screen was managed by DPCC. Its location outside the weather department's office, therefore, did not necessarily mean that IMD was responsible for the readings being displayed.
+
+But several details remained unclear. Which monitoring station was feeding the screen? When had the information last been updated? Was the displayed figure based on an hourly reading, a rolling average or another calculation?
+
+Without these details, it cannot be established whether the two platforms were displaying comparable readings or whether one was carrying older data.
+
+The distinction is important because AQI readings can vary depending on the monitoring station, pollutant concentrations and averaging periods used. CPCB's AQI framework uses specified averaging periods, including 24-hour averages for PM2.5. A sudden spike in particulate matter over a short period may therefore not be reflected at the same level in the published AQI.
+
+### A CITY UNDER SMOG, BUT WHERE IS THE CLEAR PICTURE?
+
+The ground investigation also captured the larger picture of Diwali night. From Dwarka to Sardar Patel Marg, Lodhi Road, central Delhi and Connaught Place, thick smog hung over the capital. Firecrackers continued to be burst beyond the 10 pm deadline, including outside the Dwarka Sector 8 monitoring station.
+
+Pollution was visible across the capital, monitoring station displays were recording extremely high particulate matter concentrations, but the public-facing systems did not always offer residents a clear and consistent picture.
+
+The findings do not establish that government monitoring equipment was malfunctioning or that AQI figures were deliberately misreported. They do, however, raise important questions about the reliability, timeliness and accessibility of public pollution information.
+
+Why were the public display boards switched off? When were the online dashboards last updated during the Diwali-night checks? Which monitoring station supplied the reading displayed outside IMD? And why was the screen showing 'moderate' air quality while the CPCB dashboard indicated 'very poor' conditions for Lodhi Road?
+
+Delhi residents are routinely told to check AQI levels before stepping outdoors, limiting physical activity and taking precautions when pollution worsens. But that advice assumes that the information available to them is current and understandable.
+
+When the air turns toxic, residents need more than monitoring stations collecting numbers somewhere in the background. They need to know what those numbers mean, where they come from and when they were last updated.
+
+On Diwali night, Delhi's air was telling one story. Its public-facing AQI systems were not always telling residents the whole of it.
+
+\- Ends
+
+---
+
+### NCW chief Vijaya Rahatkar calls for mindset change, says laws alone cannot ensure women's safety
+*Pti · business*
+
+New Delhi: Society expects women to manage homes, earn livelihoods, support families and provide emotional strength, but continues to discriminate against them, NCW Chairperson Vijaya Rahatkar has said, calling for a fundamental change in attitudes towards women.
+
+In an interview with PTI, the National Commission for Women (NCW) chief said governments have introduced several laws to protect women, but these alone cannot bring the necessary transformation.
+
+"I also find it a bit surprising that society expects everything from women. Whether (it is) taking care of the home, it should be the mother, wife, sister, or daughter. She should stand firm in everything, stand on her own feet, earn, support everyone, do household chores, and provide emotional support. She must do all this; we cannot function without her," Rahatkar said.
+
+  
+
+Despite the significant contribution women make to their families and society, discrimination and violence against them remain a concern, she said.
+
+"Sometimes I feel very surprised and saddened that in a country that has respected women so much, not just today but for centuries, discrimination against women still occurs sometimes. This bothers me deeply," the NCW chief said.
+
+"When domestic violence happens to that very mother, sister, or daughter, it hurts deeply. There is an urgent need to change society's mindset regarding domestic violence," she said.
+
+Rahatkar said governments had introduced several laws to protect women and the fear of legal consequences has helped reduce incidents of violence, but it is not enough.
+
+"The law alone cannot achieve everything. Society's attitude towards women and the perspective through which they are viewed must become broader and more respectful, requiring significant effort," she said.
+
+She underlined how crimes against women are evolving, with newer challenges emerging with changing times.
+
+"... with time, crimes and attitudes change. Working women frequently face sexual harassment and numerous new challenges are constantly emerging before us," she said.
+
+Flagging the growing threat of cybercrimes, Rahatkar said the rapid rise in such offences is also a matter of serious concern.
+
+"Society's thinking is evolving, but sometimes this changing mindset divides rather than unites people. Therefore, we must address these issues and ensure that women are respected and safe in every place and sector," she said.
+
+
+---
+
 ## 8 November 2026
 
 ### Tamil Nadu's Rs 2,000 crore laptop plan: What Vijay's big student push means
