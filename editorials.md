@@ -1,10 +1,280 @@
 # Editorials
 
-_Last updated: 2026-11-09 08:32 UTC_
+_Last updated: 2026-11-10 08:44 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 10 November 2026
+
+### Cracker conundrum: On need for strict enforcement of cracker ban
+*The Hindu · Editorial*
+
+The two Deepavali nights following the Supreme Court’s (SC) temporary relaxation of the cracker ban, played out predictably. The Air Quality Index (AQI) in several north Indian cities — already ‘poor’ and ‘very poor’ in the first week of November — was ‘severe’ on Deepavali night. Several air sensors — maintained by various organisations — reported PM2.5 in Delhi and its outskirts, exceeding 1,000 by Deepavali night. In this context, the SC’s order last week regarding crackers bears revisiting. While stating it was aware of the consequences of emissions from crackers, the Court has been waiting for quantitative evidence on the health and environmental effects of emissions from Deepavali celebrations. Such direct, causative evidence is almost impossible to furnish. Slackening winds and post-monsoon atmospheric dryness are known to trap the latent particulate matter from vehicles, industries, construction dust and stubble burning. Crackers are only an additional element that further degrades an already vitiated air. Delhi’s five-day average AQI rose from approximately 298 before Deepavali to 358 afterwards in 2024, 259 to 315 in 2025 and from 350 to 376 in 2026. While the timing of these spikes is consistent with a contribution from firecrackers, their precise share of overall pollution cannot be isolated from other emissions and meteorological influences. An absolute ban would encourage “illegal crackers from across the border,” the Court was told. Cracker season begins a fortnight before Deepavali and therefore an earlier decision by the Court regarding its permissibility would have given stockists time to better dispense ‘green’ crackers.
+
+However, it is important to note that CSIR-NEERI, the developers of the products, underline that low-emission crackers — under stringent lab conditions — only reduce emissions by 30%–45%. These percentage reductions reveal nothing about gross particulate matter emissions. The post-Deepavali AQI is evidence of this. The Court acknowledges, but does not address, the immense implementation challenges in policing cracker sales and hyphenates crackers with religious observation but pays only lip service to provisions in the Constitution that say that religious customs cannot override considerations of health and life. Rather than wait for the week running up to Deepavali 2027, the Court must pronounce a final view on crackers and lay down the contours for the government to evolve a policy on limiting the manufacture, sale, and burning of crackers in a time-bound manner.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/cracker-conundrum-on-need-for-strict-enforcement-of-cracker-ban/article71683846.ece)
+
+---
+
+### Point of no return: On Israel’s next government
+*The Hindu · Editorial*
+
+Israeli President Isaac Herzog’s decision to invite opposition leader Gadi Eisenkot to form the next government reflects the real mandate of the October 27 legislative elections. While Mr. Eisenkot’s centrist Yashar party finished second with 21 seats, behind Prime Minister Benjamin Netanyahu’s Likud, which won 27, the former military chief, who campaigned on an anti-Netanyahu platform, has secured the support of 67 legislators in the 120-member Knesset. In Mr. Eisenkot’s own words, Israel risks “descending to dark places, to a point of no return”. But it is not yet clear what kind of a government Mr. Eisenkot is seeking to form. The opposition parties are split between a Jewish-led bloc with 48 MKs and an Arab-led bloc of 19 MKs. Arab parties have offered in-principle support for Mr. Eisenkot to keep Mr. Netanyahu’s right-religious coalition out of power. But what is not clear is whether they would be part of the government or offer outside support by allowing Mr. Eisenkot to run a minority government. Some of Mr. Eisenkot’s Jewish right-wing allies, such as Avigdor Lieberman, are opposed to joining hands with Arab parties. Mr. Eisenkot has now called for a unity government, appealing even to Likud and the far-right Religious Zionism, to join him.
+
+But the challenges facing Israel’s next leader are formidable and immediate. Mr. Netanyahu’s unchecked militarism has deepened Israel’s international isolation, strained its relationship with the U.S., its most important patron and ally, and aggravated the security challenges it faces in its neighbourhood. At home, the surge of the far-right has further polarised society, while systemic violence against Palestinians has spread across the West Bank. Mr. Netanyahu’s response to these challenges has been to unleash more violence, which has only compounded Israel’s problems. If Mr. Eisenkot is serious about pulling Israel back from the point of no return, he must pursue a three-pronged approach. Firstly, he should form an Arab-Jewish unity government focused on healing the country’s internal wounds and bridging gaps between communities. Second, Israel’s deepening international isolation and increasingly negative public opinion around the world will begin to exact a heavy toll sooner rather than later. Tel Aviv must take urgent steps to restore its international standing. Third, Israel must reopen the path to peace. The new government should initiate negotiations with the Palestinians under international mediation, crack down on settler violence, pull back from Gaza and reaffirm its commitment to the two-state solution. Without peace, Israel risks continuing to “descend to dark places”.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/point-of-no-return-on-israels-next-government/article71683836.ece)
+
+---
+
+### How students are the first line of resistance
+*The Hindu · Opinion*
+
+It would be a grievously wrong reading of the current national climate if one were to see the recent student protests as isolated incidents of resistance. Such a reading assumes that this movement is a temporary expression of dissatisfaction. It also assumes that it will eventually dissipate. The movement of today is built on the sediments of the grievances of the past, which were ignored and buried under layers of distortion.
+
+The first section of society that recognises when democracy is under threat and stands up for it are always students. Almost a year after the Narendra Modi-led government first came to power in 2014, students of the Film and Television Institute of India (FTII) went on a hunger strike for 139 days, opposing the appointment of Gajendra Chauhan as chairman of the institute. Mr. Chauhan’s lack of academic credentials was made up for by his proximity to the Rashtriya Swayamsevak Sangh (RSS) and the Bharatiya Janata Party (BJP).
+
+[Read full article](https://www.thehindu.com/opinion/lead/how-students-are-the-first-line-of-resistance/article71683849.ece)
+
+---
+
+### A medium for equity in education
+*Deccan Herald · Editorial*
+
+Karnataka’s decision to introduce bilingual education in all government schools from the 2027-28 academic year is a significant step towards making quality education more accessible and equitable. Offering English alongside Kannada, while retaining parental choice, can help bridge the divide between government and private schools. For children from economically weaker families, proficiency in English can open doors to higher education, competitive examinations, and better employment opportunities. Many are disadvantaged not by a lack of ability, but by limited access to language skills essential for social and economic mobility. The success of the initiative, however, will depend largely on teacher preparedness. The move to provide structured training, including collaboration with the British Council, is therefore welcome. Training must be continuous, with teachers receiving regular academic support and opportunities to strengthen their language proficiency and classroom practices. Studies have consistently emphasised the strong academic and professional credentials possessed by teachers in government schools. The state must build on this strength rather than assume that English-medium instruction alone will improve educational outcomes.
+
+Karnataka to introduce bilingual education in all govt schools by June 2027The declining preference for government Kannada-medium schools is a reality that must be acknowledged. Parents increasingly associate English-medium education with better career prospects, prompting many to enrol their children in private schools, including low-cost institutions in rural areas. Falling enrolment has contributed to school closures and mergers, while inadequate infrastructure, teacher vacancies, and concerns about instructional quality have accelerated the trend. Bilingual education can help reverse this decline, but only if accompanied by visible improvements in teaching and learning. There are encouraging signs that targeted interventions can yield results. In 2026, Karnataka recorded a historic improvement in SSLC performance, with government schools achieving a pass percentage of 93.97%.
+
+The gains were driven by measures such as early syllabus completion, preparatory examinations, regular assessment of student progress, special classes, and remedial support. These initiatives should be sustained and extended to lower grades. However, examination results alone cannot define educational quality. Strengthening foundational literacy, numeracy, and comprehension must remain the central objective. The emphasis must be on improving learning outcomes, not merely expanding the medium of instruction. English should complement, not undermine, proficiency in Kannada. Children from poor families deserve the same quality of foundational education as those attending elite private schools. Bilingual education can be an important instrument in achieving this objective, provided the government backs its ambition with sustained investment and quality teaching.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-medium-for-equity-in-education-4213139)
+
+---
+
+### Informal detention cannot escape scrutiny
+*Deccan Herald · Editorial*
+
+The Supreme Court’s ruling that the 24-hour period for producing a detained person before a magistrate begins at the moment of detention, and not from the formal recording of arrest, reaffirms the right to liberty of citizens. A bench of Justice Ujjal Bhuyan and Atul S Chandurkar said the police and other agencies have followed wrong processes to defeat the spirit of the law. All of them have deployed the procedural fiction of “informal detention” to blur and falsify arrest deadlines. Individuals are taken into custody, interrogated, and subjected to torture for days in the name of preliminary inquiries before they are formally arrested. The State has normalised this practice. The difference between detention and arrest is artificial and has been used to blunt Article 22(2) of the Constitution and Section 58 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), which mandates that every detained person must be produced before a magistrate within 24 hours.
+
+24-hour period to produce before magistrate starts from detention, not formal arrest: Supreme CourtThe case involved the detention of four persons in a narcotics-related incident in Tripura. They were detained in the afternoon of September 29, 2025, but the arrests were recorded the next day. Two courts, including the Tripura High Court, denied them bail. The State argued that the interval between detention and arrest was spent on statutory formalities and that intercepting the accused did not constitute an arrest. The apex court rejected the argument and directed that the accused be produced before the Special Court within seven days and released on bail. The Court did not accept arguments justifying the gap between detention and arrest, including the contention of a “buffer zone”, propounded by some high courts which accept procedural exemptions for drugs- and terror-related cases. These courts effectively legalised a distinction between investigative detention and formal arrest.
+
+Such distinctions facilitate arbitrary exercise of policing power and custodial abuse. BNSS demands that the detention be reasonable, too. The Court clarified that a magistrate may refuse remand if detention is unreasonable, even when the person is produced within the prescribed time. It observed that the “worst violation of human rights” can occur during investigation, when police resort to third-degree methods or describe detention as prolonged interrogation. The Court directed magistrates to record the actual time of detention and independently examine whether constitutional safeguards have been respected. The Constitution provides a vital safeguard for citizens against detention without judicial scrutiny. The police have very often violated it at their discretion. This ruling sets the constitutional record straight.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/informal-detention-cannot-escape-scrutiny-4213138)
+
+---
+
+### Airfare caps are no solution: Fix market power, not price
+*Deccan Herald · Opinion*
+
+This Diwali, a plea alleging a 700% rise in airfares reached the Supreme Court. But a steep fare is not by itself proof of exploitation, and a cap is not relief by itself. Headline figures often compare the cheapest early ticket with the last seat on the plane.
+
+The Bharatiya Vayuyan Niyam, 2026, effective from January 1, 2027, leaves fares to the market. Rule 192 requires airlines to file tariffs with the DGCA and disclose fare components. It lets the Centre issue proportionate, time-bound directions in an “extraordinary situation”, a term it does not define. Whether this works depends on the economics that regulators bring to it.
+
+A seat is perishable: once the aircraft leaves, an empty seat earns nothing. Once a flight is scheduled, most of its costs are fixed, and carrying one more passenger costs little. Airlines recover fixed costs through dynamic pricing, a mix of price discrimination and peak load pricing: cheap early fares fill seats that would otherwise fly empty; the burden falls on travellers with inelastic demand, such as a family heading home for Diwali.
+
+The real test is whether they reflect scarcity or market power. If every aircraft is flying and seats are genuinely short, even fierce competition pushes fares up, and high prices signal the need for more capacity. If rivals cannot enter, high fares reflect market power. The theory of contestable markets holds that a route with few airlines can stay competitive if entry is easy. In India, it is not. IndiGo and the Air India Group carried over 90% of domestic passengers in the first half of 2026, and slots at major airports are scarce.
+
+Concentration can also cause manufactured scarcity. After IndiGo’s mass cancellations in December 2025, the Competition Commission of India (CCI) ordered an investigation into whether the airline abused its dominance by cancelling its own flights and then benefiting from the fare surge. The CCI fined IndiGo, Jet Airways, and SpiceJet in 2018 for jointly fixing fuel surcharges on cargo. With two dominant groups and a pricing software that reacts to rivals within minutes, passenger fares can move in step without any agreement. Such parallel pricing is not illegal under Section 3 of the Competition Act.
+
+This is where the new rules fall short. The old Rule 135(4) allowed the DGCA to act against excessive, predatory, or oligopolistic pricing; Rule 192 drops that language. Market power now rests wholly with the CCI. Section 4 of the Competition Act does bar a dominant firm from imposing unfair prices. But nothing links the two bodies: the DGCA holds the fare data but does no competition analysis; the CCI has the mandate but no routine view of fares. A formal channel, with the DGCA sharing route-level fare data with the CCI and referring suspicious patterns, would close that gap.
+
+Blanket caps would not. A ceiling below the market-clearing price creates excess demand. Seats are then rationed by who books first or refreshes the app most often, and the urgent traveller may still go without. A ceiling that makes extra flights unprofitable also deters the supply that would bring fares down.
+
+Temporary caps do have a place, and December 2025 shows how. When the IndiGo collapse removed capacity overnight, supply could not respond in the short run, so high fares mostly transferred income from stranded passengers to the remaining carriers. The ministry imposed distance-based ceilings, up to Rs 18,000 on the longest routes, and withdrew them once capacity was restored. That is the model: sudden shock, short duration, clear exit.
+
+Festivals are different. Diwali is on the calendar; predictable demand calls for more slots, more capacity, and fewer barriers to entry. Affordability is a separate matter. If the State wishes to support essential journeys, a targeted subsidy does so openly and at a lower cost than a universal cap that hands the same discount to the business traveller and the migrant worker.
+
+The Supreme Court hears the matter on November 16, and the new rules arrive weeks later. “The market decided” is no answer when the market has two players, and entry is blocked. “Cap the fares” is no answer when seats are genuinely scarce. Regulators should ask three questions: is the problem scarcity or market power, is the tool suited to the problem, and are more people actually flying? A good airfare policy is measured not by the price on the screen but by whether a seat is there when a passenger needs it.
+
+(The writer is an associate professor of Economics and Director, Centre for Economics, Law and Public Policy, National Law
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/airfare-caps-are-no-solution-fix-market-power-not-price-4213135)
+
+---
+
+### Identity trap: Why adding voter IDs to welfare delivery risks exclusion
+*Deccan Herald · Opinion*
+
+Aadhaar, India’s 12-digit identification number, was introduced in 2009 with the bold aim of giving every resident a verifiable identity and improving the delivery of government welfare schemes. It was created to stop corruption and facilitate Direct Benefit Transfers (DBT). Aadhaar’s portability gave workers, pensioners, and economically vulnerable families a single identity that lets them access public services. By reducing reliance on documents and middlemen, Aadhaar promised greater transparency and efficiency in welfare administration. Yet as Aadhaar is used more in public service delivery, it also brings up concerns about privacy, exclusion, and how technology governance interacts with citizens’ fundamental rights.
+
+The latest controversy has brought these concerns back into focus. In November 2026, Union Minister Rajiv Ranjan Singh said Aadhaar would no longer be the way to identify people for certain government payments. He said the Electoral Photo Identity Card (EPIC), along with authentication, would be used instead. His comments caused criticism from the Opposition parties, which said this change could leave out vulnerable people. This issue is especially sensitive against the backdrop of the ongoing Special Intensive Revision (SIR) of electoral rolls.
+
+It’s important to remember the difference between what the minister said and an actual nationwide policy. As of November 2026, there has been no order across the country replacing Aadhaar with voter ID for all welfare programmes. The minister later explained that the change he mentioned was for identifying trainees under the Pradhan Mantri Viksit Gram Swaraj Yojana. Still, the debate raises a question: should the government add another identity requirement to a welfare system that’s already difficult to manage?
+
+The first concern is the exclusion of beneficiaries. Aadhaar authentication has faced challenges, especially in rural and remote areas. Issues like fingerprint mismatches, worn-out fingerprints among labourers, poor internet connections, server breakdowns, and outdated biometric data have at times blocked eligible people from getting their rightful benefits. Elderly individuals and people with disabilities are at risk. No one should be denied food, pensions, or employment benefits just because a machine fails to recognise their identity.
+
+Introducing voter ID as a verification step may only shift the problem rather than solve it. Migrant workers, young adults waiting to be registered to vote, and those whose names have been wrongly removed from electoral rolls could face even greater barriers. Importantly, tying access to welfare programmes with voter identity creates a troubling connection between democratic participation and social protection. A person’s right to food security, pensions, or public employment should be based on the rules of the welfare programme itself, not on whether they appear on a roll.
+
+The implications become clearer when we examine the welfare programmes already integrated with Aadhaar:
+
+Major welfare schemes involving Aadhaar include:
+
+Public Distribution System (PDS) and National Food Security Act (NFSA): Aadhaar authentication and seeding identify ration-card beneficiaries and facilitate subsidised foodgrain distribution.
+
+Pradhan Mantri Ujjwala Yojana (PMUY): Aadhaar is used for beneficiary identification and subsidy delivery. Biometric authentication has also been introduced for subsidised LPG refills.
+
+PM-KISAN: Aadhaar-based identification and e-KYC are important for verifying eligible farmers and facilitating instalment payments.
+
+Pradhan Mantri Awas Yojana-Gramin (PMAY-G): Aadhaar identification and linked payment arrangements are used for beneficiary verification and housing assistance.
+
+National Social Assistance Programme (NSAP): Old-age pensions, widow pensions, and disability assistance use Aadhaar-linked identification and payment arrangements in various implementation processes.
+
+Several pre-matriculation and post-matriculation scholarships for Scheduled Tribe students, the National Fellowship and Scholarship for Higher Education of ST students, and other notified tribal welfare programmes incorporate Aadhaar requirements.
+
+The exact requirements differ. Some schemes mandate Aadhaar authentication under notified provisions. Others use Aadhaar-based e-KYC or Aadhaar-seeded bank accounts for DBT. Nevertheless, the scale of integration shows how deeply Aadhaar is embedded in India’s welfare architecture.
+
+Any additional identity requirement could affect millions of households relying on food subsidies, pensions, scholarships, agricultural aid, and wages. Consider a widow waiting for her pension or a rural worker waiting for wages. They go to the government not as customers picking between platforms but as citizens using rights made by public policy and law.
+
+Added governance layers
+
+Administrative failures can directly threaten household income, food security, and dignity. There is another dimension. The Supreme Court, in its landmark 2017 Puttaswamy judgment, recognised privacy as a right. In 2018, the Supreme Court upheld Aadhaar’s validity in significant respects while restricting several forms of compulsory use. Section 7 of the Aadhaar Act permits Aadhaar authentication or proof of possession for notified benefits funded through the Consolidated Fund while requiring viable identification arrangements for individuals who have not been assigned Aadhaar. These safeguards must be strengthened in practice.
+
+The government is justified in addressing beneficiaries, financial leakages, and fraudulent claims. Public resources must be protected. However, introducing another identity document is not automatically evidence of governance. Multiple identification requirements may increase costs, create confusion, and disproportionately burden people with limited access to digital infrastructure.
+
+India needs reliable welfare identification. The government should not keep adding identity documents. The main focus should be authentication, interoperability, offline verification, easy grievance redressal, and other options when biometric authentication fails. No real beneficiary should be denied food grains, pensions, wages, or scholarships because of an error or missing document. Welfare identification must be simple and reliable.
+
+The success of a welfare state is not measured by the number of databases or how smart its identification systems are. The real test is whether the last eligible citizen gets what the law promises. Aadhaar was created to close the gap between welfare policy and real delivery. If another identity mechanism makes that gap bigger, it defeats the purpose of reform. A citizen’s identity should help the State give rights, not become a hurdle where citizens must prove they deserve them.
+
+The writer is an assistant professor of Political Science at the Amity
+
+Institute of Liberal Arts, Amity University, Bengaluru.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/identity-trap-why-adding-voter-ids-to-welfare-delivery-risks-exclusion-4213130)
+
+---
+
+### Mogging in the classroom yet?
+*Deccan Herald · Opinion*
+
+When Collins Dictionary announced its Word of the Year for 2026 as ‘mogging’, my first expression was, “What?” I soon discovered that the word was popular among Gen Z and Gen Alpha, and perhaps it was time for me to update my contextual knowledge as I interact with them every day. ‘Mogging’ is a contemporary slang word that refers to outshining or outperforming someone, often by making one’s superiority apparent.
+
+A few days later, as I walked around my classroom while students were reading an article online, something caught my attention. An undergraduate had an Oxford Dictionary lying on his desk, with a pencil tucked inside it. It was quite an unusual sight in a classroom where information and meanings are easily accessible online. Curious, I inquired about the dictionary, and he shared a heartwarming memory of a habit he had picked up from his Class 6 English teacher, who insisted that students bring dictionaries to class to learn new vocabulary and its proper usage.
+
+This incident got me thinking about whether carrying a dictionary to a classroom was still relevant. Yet, the patient act of looking up a word, identifying its different meanings, noting it down in a book and attempting to use it in a sentence carried its own significance. It was not merely about learning vocabulary; it was about learning to engage with language.
+
+Somewhere along the way, these seemingly ordinary practices taught us contextual knowledge. We learnt that a word could mean different things in different situations, that its meaning could change with its usage and that understanding a word required more than memorising its definition. It required us to read, engage, question and practise.
+
+Bengaluru English: Locked in? Now clock it As an English teacher, I often walk into classrooms hoping to introduce students to unfamiliar vocabulary and ideas. I try to make words tangible by placing them within contexts that students can relate to. Of course, learning patterns have evolved, and perhaps the ways in which students encounter language today are very different from ours. The digital world has made knowledge more accessible, but accessibility and engagement are not necessarily the same thing.
+
+Perhaps the Oxford Dictionary on that student’s desk was a reminder that not every old learning practice has outlived its relevance. In a world where meanings are instantly available, the act of looking for one can still be an experience worth preserving.
+
+And if mogging means outshining or outperforming, this young student has certainly been mogging his way through the classroom. He is owning his classroom presence and being unapologetically radical by turning the pages of a dictionary in a room full of digital natives. Perhaps he is reminding us that sometimes, the best way to stand out is to return to the basics, one word at a time!
+
+[Read full article](https://www.deccanherald.com/opinion/mogging-in-the-classroom-yet-4213133)
+
+---
+
 ## 9 November 2026
+
+### DC Edit | Anyone But Netanyahu Will Do
+*Deccan Chronicle · Editorial*
+
+Anyone but Netanyahu was the prevailing sentiment in Israel as Gadi Eisenkot was tasked with forming a government to keep out the long-serving Prime Minister ‘Bibi’. His coalition may have topped the polls in a simple numbers game, but Netanyahu’s brand of aggressive politics has been shunned by a majority of voters leaving the next best alliance of parties the chance to resolve the knotty verdict in the proportional representation system.
+
+Eisenkot has the unenviable task of cobbling together the parties and numbers to run a government, even if it be a minority one with the support of the Israeli Arab parties from outside. But there is a Catch-22 situation there for the former army chief, who lost a son and two nephews in the military action in Gaza, as ultra-Orthodox and other Jewish parties might not wish to see the Arab parties buttress government ranks in the Knesset.
+
+Given four weeks, extendable by another two weeks, Eisenkot, who has refused to countenance Netanyahu’s invitation to form an emergency government with him still heading it, has a delicate balancing act to get enough parties together to ensure his government can command at least a 61-legislator majority that seems a bridge too far at the moment unless the Arab parties are allowed to join the alliance and enjoy a formal share in power.
+
+Bristling with contradictions as the situation is, the old call of ensuring stability to be able to forcefully handle Israel’s security problems in the face of a permanent existential threat may have failed. In fact, the hawkish Netanyahu’s government has been punished more for its failure on the intelligence front to predict and stave off the barbaric attack on the country by Hamas on October 7, 2023.
+
+With the risk of another election being called in the event the deadlock persists, the anti-Netanyahu coalition must get its act together and forgo long-standing suspicion of the Arab parties, not insist on their terming Hamas terrorists, nor force them to formally accept that Israel is a Jewish state, if it is to give their country the opportunity to forge a whole new beginning with Mr Netanyahu not in the PM’s seat.
+
+Peace in the region is all too important for Israel to recover from the extended military action in Gaza, which has been seen as a disproportionate response to the October 7 butchery. The only silver lining from the indistinct general election vote is that not even ‘Bibi’ may dare to attack Iran or escalate attacks on Gaza as he stays on as the caretaker Prime Minister.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-anyone-but-netanyahu-will-do-2002984)
+
+---
+
+### DC Edit | SC Spelling Out Arrest Protocol Is Welcome
+*Deccan Chronicle · Editorial*
+
+The Constitution is the protective shield of the lonely citizen against the might of the state in a democracy. Chances are that the power the very same citizen has bestowed on the state machinery turns against him; it’s the Constitution that comes to his aid at such points. And it is for the constitutional courts to rise to the occasion when the state interprets the law to its convenience, and remind the state of the intent of the law-makers and restore the primacy of the Constitution.
+
+For this reason, the order of the Supreme Court last week categorically stating that the 24-hour constitutional deadline for producing an arrested person before a magistrate begins from the moment he is detained by the police and not from the time of formal arrest becomes a landmark moment in our history as a constitutional democracy.
+
+A plain reading of Article 22 (2) gives no room for a different interpretation as it states that “every person who is arrested and detained in custody shall be produced before the nearest magistrate within a period of twenty-four hours of such arrest excluding the time necessary for the journey from the place of arrest to the court of the magistrate and no such person shall be detained in custody beyond the said period without the authority of a magistrate.”
+
+The executive branch of the state, namely the police, however, interpreted it differently in such a way that the 24-hour period begins when the person is formally arrested. Several high courts went by that unconstitutional route and upheld the position, giving the police a big leg room to keep people in their custody unlawfully. The practice even entered journalistic parlance with reports specifically mentioning the “formal recording of arrest” after “detaining” a person for an unrecorded period.
+
+The Supreme Court has now put paid to all such “creative” interpretations of the Constitutional provision and
+
+the law as stated in Bharatiya Nagarik Suraksha Sanhita, 2023. Now it is unequivocal: An interpretation allowing the police to exclude the period of pre-arrest detention will be contrary to the constitutional mandate and will dilute or negate the fundamental right.
+
+“The prescription of 24 hours time period would commence the moment a person is detained by the arresting authority, suspecting him to have committed an offence, when his liberty is effectively curtailed,” the court has ruled. Article 22(2) uses the expression “every person who is arrested and detained in custody”, the court pointed out and held that the expressions “arrested” and “detained” are to be seen as joint and conjunctive. “This is because the Constitution does not recognise any detention divorced from arrest,” the court said. True, law enforcement agencies work in difficult circumstances and often against people who have no respect for the law. They pay very dearly, even with their lives, when they act to protect the law and those who are protected by the law. It is up to the state to create an atmosphere for them to discharge their
+
+duties fearlessly; it cannot come at the cost of the rights of those who must get the protection of the law, including the law-breakers.
+
+It is for the government and its arms to ensure that the assertion by the Supreme Court on the inviolability of the constitutional provision on the magisterial supervision of the police with regard to personal liberty is respected in letter and spirit.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sc-spelling-out-arrest-protocol-is-welcome-2002991)
+
+---
+
+### Bengal’s Christians Now The Target Of Nationwide Majoritarian Hate
+*Deccan Chronicle · Opinion*
+
+Attacks on Bengali Christians and their churches have begun after the BJP victory in that state. Last week, a group of us led by Karwan e-Mohabbat (former IAS officer Harsh Mander’s outfit) witnessed testimonies from Christians across the state. We concluded that this was new, that it was condoned if not actually encouraged by the government, and that it would accelerate with time.
+
+One of us, the former TMC MP Jawhar Sircar, theorised that the attacks were happening as thugs were positioning themselves as party leaders. Given the relative absence of BJP organisation at the local level in the state, this space was being occupied by those making a name through violence. This seems convincing particularly after hearing the stories of the survivors, and it is what leads to the conclusion that the attacks will only grow.
+
+The stories were similar to what has been happening in other states that the BJP has captured, such as Odisha and Chhattisgarh. Mobs are led where people have congregated for prayer, sometimes in village churches and sometimes at people’s homes.
+
+The churches are desecrated. In one instance the cross was vandalised, and the people gathered are abused and beaten up. Women worshippers are not spared and are at times sexually assaulted. Christian children were slapped around. The pastors come in for the harshest treatment. Property is looted, and the cases are filed usually against the victims. One study estimated that there had been 48 attacks since the BJP took power in May. And in 33 of these instances no FIR had been registered at all.
+
+In one instance, the pastor who was attacked in his house was jailed for over a month after the attackers’ complaint was given more credence than their own assault and trespass. Again, this is also a familiar pattern. The police take their cues from the ideology of the government and we are left in no doubt where the BJP stands on this count.
+
+The attackers take offence to the fact that some of the worshippers wear bangles and sindoor. The idea that this is a nation where faith is fluid, where can one visit a temple and gurdwara and dargah and have belief in all three places is now unacceptable.
+
+Some other things are worth noting here. One is that, at least thus far, the mainline churches have not come under attack. This means that the Roman Catholic Church and other established churches in Kolkata and other cities have been deliberately avoided by the mobs. This is likely strategic because it will create greater pushback from within India and indeed the world if the BJP mobs vandalise, say, Mother Teresa’s Missionaries of Charity.
+
+The second thing is that Bengalis must not assume that they are insulated from this sort of hate merely because of their traditions and their liberalism. The rest of India is a shining example of how easily societies go down this path and how little resistance there is, particularly from the State.
+
+There is close to zero interest from IPS officers and senior bureaucrats in doing the right thing as opposed to doing what the government wants them to do. There could be others, but I can think of only two IAS officers in my lifetime of who resigned on matters of principle when it came to State-driven communalism. One was Harsh Mander who quit after the 2002 pogrom and the other was Kannan Gopinathan who resigned after the abrogation of Article 370 in 2019. That is it. With two years remaining in the Rajya Sabha, Jawhar Sircar quit in 2024 on the issue of the RG Kar rape.
+
+The norm is that those who, for decades, may have appeared normal, will turn on a dime and enthusiastically become majoritarian. Take a close look at our foreign minister for instance.
+
+“How was it possible for a mere handful of foreigners from a distant land to make themselves masters of a large subcontinent, the inhabitants of which numbered many millions?” asked Sir Penderel Moon in his two-volume work on the British conquest and dominion of India.
+
+His answer was that the British conquered the country with the assistance and connivance of Indians themselves and then ruled over it for a century with their collaboration. The same phenomenon is being played out today, with those who have sworn themselves to a secular constitution selling themselves for the baubles of office.
+
+The third thing is that this is a continuation of the erosion of our Constitution under the BJP. Peaceful assembly under Article 19 is dead and even its previous consignment to the graveyards of protest in ‘designated areas’ like Jantar Mantar is today disallowed. Similarly, Article 25 is not a real fundamental right. It promises us that we all have “the right freely to profess, practise and propagate religion”. These are merely words and not reflective of the laws. They are a fib that we tell the world along with grand and meaningless phrases such as Vasudhaiva Kutumbakam and Sarvadharma Samabhava in a nation which has criminalised propagation and practice of faith.
+
+Muslims across India...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/bengals-christians-now-the-target-of-nationwide-majoritarian-hate-2003035)
+
+---
+
+### Indian Diaspora’s Politics Is A Double-edged Sword
+*Deccan Chronicle · Opinion*
+
+Whenever a person of Indian origin is in the news anywhere in the world the media in India becomes very excited. Even though the members of the diaspora are people who have made a conscious choice to leave India, give up Indian citizenship and become citizens of other nations, the fact is that many in India do feel a sense of pride in their achievements overseas. Much of the media focus is on the Indian diaspora in English-speaking countries, especially the United States. Little attention is paid to what people of Indian origin have been able to achieve in other distant parts of the world, from Fiji in the Pacific to Suriname on the Atlantic coast of South America.The one community of overseas Indians that is always in the news is Indian Americans. Two categories of Indian Americans attract most of the media attention — business leaders and politicians. This mirrors the priority of the Indian media even at home with businesspersons and politicians, along with sportspersons, getting most media attention while scientists, educationists and scholars hardly feature.
+
+So it is not surprising that there has been much celebratory reporting on the number of Indian Americans who have been elected to various posts in the recently concluded elections in the United States. We know that the mayor-elect of Los Angeles is a Tamil and that the wife of the first Muslim senator in the United States Congress hails from Karnataka. The names of several politicians, some familiar by now, like Ro Khanna and Pramila Jayapal, have also figured in the news. While overseas Indians do constitute a cultural and diplomatic asset for India, it should be remembered that they are a diverse lot and their political activism in their host country can both benefit and hurt Indian interests. Cultivating the diaspora is important. However, the diaspora in itself does not become a diplomatic asset unless it enjoys status and power in the host country. This is where the story becomes complicated.
+
+For many years the average Indian American was a post-graduate, a taxpaying, upper-income individual with children doing well at school and the activities of the family empowering the United States. They were clearly a diplomatic asset. India reaped the diplomatic benefits of this phenomenon during the 1990s and early 2000s when the support for India increased in the US Congress and decreased for Pakistan. Thus, even though the US imposed economic sanctions on India in 1998 following the Shakti nuclear tests, the government of Atal Behari Vajpayee was able to limit the fallout and stabilise the relationship.
+
+Even during the negotiation of the US-India civil nuclear agreement, the government of Prime Minister Manmohan Singh was able to deploy the diplomatic weight of the diaspora to secure wider political support in the US for India’s nuclear status. Prime Minister Narendra Modi inherited this goodwill. He was even able to get President Barack Obama to accept an invitation to be chief guest at the Republic Day parade in January 2015.
+
+Mr Modi was so enthused by this positive response, conscious of the fact that he had been denied a visa due to complaints about his treatment of religious minorities, that he assumed a strong person-to-person equation with an equally attention-craving politician like Donald Trump would help manage the US-India relationship. Mr Modi underestimated the role of two developments.
+
+First, the social composition of the Indian diaspora changed rapidly as more and more of the less qualified H-1B visa types flooded the US. A growing number of Indian immigrants were unable to speak proper English and socially integrate into American neighbourhoods. Second, a growing number of Indian Hindus began to assert their cultural presence, attracting negative local attention in communities around the country.
+
+Most importantly, many Indian Americans in public life disapproved of Mr Modi’s Hindu majoritarianism at home and his close equation with the likes of Benjamin Netanyahu. During the first Modi-Trump era, so to speak, Republicans like Tulsi Gabbard helped raise India’s profile. During the second Modi-Trump era, Tulsi Gabbard was replaced by Zohran Mamdani as the most prominent Indian American political figure. That changed the dynamic.
+
+The conservative Republican, Vivek Ramaswamy, was one face of the Indian American in politics, Mamdani the other face. When US Congresswoman Pramilla Jayapal criticised Mr Modi’s communal politics India chose to snub her. When Mamdani did the same he too was snubbed. Befriending an ideologically compatible politician while snubbing critics is not good diplomacy. The decision of the Modi government to play politics in the US is not in India’s interest.
+
+The Indian government should maintain links with all shades of opinion in the US, as indeed in any other democratic country. How can Indian diplomacy continue to ignore the popularly elected mayors of two major American cities — New York and Los Angeles — at ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/indian-diasporas-politics-is-a-double-edged-sword-2003006)
+
+---
 
 ### CSR needs scrutiny, not symbolism
 *Deccan Herald · Editorial*
@@ -21324,177 +21594,6 @@ Seen in this light, Gen Z may well represent the rejection of the philosophical 
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/why-gen-z-cant-be-won-over-easily-4107771)
-
----
-
-## 11 August 2026
-
-### Case for consensus: On delimitation
-*The Hindu · Editorial*
-
-The monsoon session of Parliament is in its last week without any substantive deliberations or legislative outcomes. There may be several reasons for the stalemate, but at its core are the controversial FCRA amendments and the opacity around the government’s delimitation proposals. Overall, it is as if the government views Parliament as an obstacle to be circumvented rather than a forum for deliberation and consensus-building on national issues. That is the attitude that offers no resolution to any question, while it may create winners and losers on some. But in the absence of good-faith conversations and consensus, what may appear to be a victory for the government or the Opposition at one moment could turn out to be a net loss for parliamentary democracy and the nation. A parliamentary majority is a necessary technicality, but democracy is not limited to that. The effort must always be to expand consensus and reduce conflict across the spectrum of opinion on any given issue. India, being as diverse as it is, naturally has multiple views, not only between the government and the Opposition but also within each side. Unfortunately, expressing and reconciling those opinions is given far less priority than marshalling the numbers to support any given move.
-
-The impact of the forthcoming delimitation is going to be far-reaching; it must be preceded by as wide a consensus as possible. The country’s representative system is on the cusp of a revision, but the government that is anxious to modify its timeline and terms also wants to be extremely secretive about it. Passing legislation with very little prior deliberation or parliamentary debate has become routine in recent years. Delimitation is a topic about which there is a great deal of misunderstanding and serious concern. A large segment of even the political class may be oblivious to its scope and implications. Rather than trying to change the laws regarding delimitation and the size of the Lok Sabha by somehow aggregating the required number of votes behind it, the government should circulate its proposals and receive feedback from all stakeholders. An all-party meeting, as demanded by the Opposition, can be a good start to the deliberations that should take place in the polity at large and inside Parliament. Anything that is technically legitimised through subterfuge will be seen by the public as such. It must be recalled that in 1976 and in 2001, under a Congress government and a BJP government, respectively, decisions with regard to delimitation were taken unanimously. The government and the BJP should once again take the initiative to build a consensus on delimitation for the sake of the nation’s unity and progress.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/case-for-consensus-on-delimitation/article71328817.ece)
-
----
-
-### Tracking nursing: On the Nurses Registration and Tracking System
-*The Hindu · Editorial*
-
-For a country where the human resources in health care will always fall short of the recommended patient-professional ratio, it is important to make sure that every single resource is harnessed. However, government data tabled in the Lok Sabha have shown that the Nurses Registration and Tracking System, created over seven years ago, has registered less than a third of the total nurses in the country. Only 14.24 lakh of the 46.02 lakh registered nursing personnel have been enrolled, leaving 31.78 lakh outside the national system. Clearly, the move to create an accurate national registry and streamline registration-related services on a single platform for all nurses is far from yielding satisfactory results. There are also stark regional disparities, and unexpected performances with the large southern States (Tamil Nadu, Karnataka, and Andhra Pradesh) figuring among the laggers, while Bihar, Jharkhand and Odisha show between 80%-99% enrolment rates. The Indian Nursing Council has attributed the delays to issues rooted in jurisdiction, and federal tension, on the grounds that primary registration is legally the responsibility of individual State Nursing Registration Councils. To receive a National Unique Identity card and nurse passbook, nurses rely on verification by their respective State Nursing Councils. Further, the charge is that several State councils have resisted migrating fully to the central portal and continue operating independent parallel systems.
-
-Poor nurse registration — irrespective of whether it is caused by incomplete digital tracking systems, outdated State registries, delayed licensing, or regional autonomy — has widespread consequences across health-care systems, apart from personally affecting nurses. For nurses, there will be delays in sanctioning their requests for inter-State transfer and credential verification for overseas employment. For the nation, without a centralised live registry that can provide a true measure of how many nurses (with specialisations) are available where, there might be artificial surpluses or deficits on paper, leading to less-than-ideal deployment of resources, and implementation of policy decisions. Fragmented registries also make it easy for unverified individuals, impersonators, or personnel with revoked licences to practise using fraudulent credentials, thus compromising patient safety. A live tracker would be of utmost use during public health emergencies — including disease outbreaks and natural disasters. Else, it could be impossible for state agencies to track, mobilise or deploy specialised nursing personnel to high-alert zones. Given the crucial complementary role, and in some areas, even the primary role that nurses play in the health-care system, efforts must be made to ensure that all nurses are brought into the portal.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/tracking-nursing-on-the-nurses-registration-and-tracking-system/article71328779.ece)
-
----
-
-### DC Edit | Jharkhand Stir Reveals Real Issues Far Deeper Than NEET
-*Deccan Chronicle · Editorial*
-
-As the protests by Jharkhand job aspirants snowballed into open defiance of restrictions placed around the new Vidhan Sabha in Ranchi with protesters sticking to their demand for accountability over exam paper leaks and breaches in the integrity of the JPSC-JSSC tests, the realisation may have dawned on all political leaders that Jantar Mantar may have been just a trailer.
-
-Behind the demonstrativeness at Jantar Mantar, which then spread to Ranchi in a restrained and peaceful manner under the leadership of students, is something that is genuine. The frustrations and discontent among the youth over a broken examination system which carries enormous implications for their careers and jobs and their very future have found a path to put governments on notice about the dire and urgent need for cleaning up the exam and recruitment systems.
-
-The same pattern of police brutality, discernible in the use of force as in water cannons, baton charges and firing of tear gas shells, was to be seen in Ranchi, capital of an Opposition-ruled state as well. An opportunistic Opposition that saw an opening to be more relevant in national affairs and jumped on the explosive Jantar Mantar situation may now have to persuade one of its own leaders to be reasonable and assuage the Jharkhand protesters.
-
-Not only is the problem the same as happened to the prestigious medicine gateway that is Neet but also that state governments which conduct their own civil service entrance tests for jobs — seen as tickets to a secure life and so are in disproportionately high demand — can be equally callous about trying to ensure the preservation of the integrity of the exam system, which has had huge holes punched into it by the greed of question paper setters and the paper-leak mafia.
-
-The initial response of governments that have had to deal with the gathering student protests was to treat it as a law and order situation which had to be controlled to prove that the establishment is in control. What was invariably missing at the start was the desired empathy backed by a timely recognition of the need to sit down and talk to student leaders and convince them that the government has woken up to the reality of the situation and that, going forward, its efforts to retrieve the system’s fairness will be real.
-
-No one expects that an ideal meritocracy can be put in place in a country that has such a huge, decades-old commitment to affirmative action. But the least those who run competitive exams can do is to ensure that the question papers are not leaked and that a level playing field is offered to all those who endeavour to ace the tests and get their favoured stream of study or land government jobs.
-
-Governments have the money to hire the expertise to foolproof question papers and the exam process. It is a lack of will to address the issue as vital to Gen Z aspirations and study it thoroughly to find solutions to stop the irregularities and the leaks until protests exploded that showed up the character of political leaders. If they cannot heed the level of protests as seen in New Delhi and Ranchi, they will be doomed in their avocation as career politicians.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-jharkhand-stir-reveals-real-issues-far-deeper-than-neet-1978201)
-
----
-
-### DC Edit | National Song Must Unite Indians, Not Divide Them
-*Deccan Chronicle · Editorial*
-
-The founding fathers of the republic and the makers of the Constitution were very clear in their mind that India can survive and succeed only if it recognised and promoted its diversity. The very first article of the Constitution is the celebration of this idea when it defines “India that is Bharat” as a “union of states”. There can be more than one name possible for the country which they envisaged as being built not as one single block but as a union of states. The effort now must be to recognise all the possible versions and opinions within a large agreed framework and celebrate them all instead of steamrolling all but one.
-
-Unfortunately, those who run the administration at the Centre now have different ideas, and hence we hear reports of states and people objecting to the singing of ‘Vande Mataram’, the national song in full. The great men and women who led the freedom movement wanted it to be of all the people of the country and hence they chose slogans and symbols which, they believed, reflected their unity and celebrated their diversity. True, the Sangh Parivar which drives the present government had a different idea about the country in those days. It believed and propagated two-nation theory which finally triumphed but India, despite being partitioned on religious lines, chose to remain a secular democratic republic while its newborn neighbour had other ideas. This dichotomy had carried seeds of division within, but the country’s leadership has been careful not to widen the fault lines; they chose instead to bridge them. The BJP government at the Centre, however, is driven by the divisive ideology of those times; and hence the insistence on singing all six stanzas of the national song.
-
-Respecting people’s sentiments is one thing, appeasing them quite another. Democracy is not about imposing the majority’s decision on the minority; and if that’s the case, then India need not retain a democratic form of governance. Democracy is all about respecting disagreement within the framework where the proponents of the different idea get to enjoy the same rights as the majority. Attempts to upset this arrangement mean attempts to unravel the republic.
-
-The national flag and national anthem are symbols that enjoy constitutional protection which the national song does not. Insulating the national song as it has been approved by the Constituent Assembly is a legitimate act but stretching that protection to the last stanza is an attempt to present it as equal to the other national symbols. That could face resistance. It was not for no reason that the leaders of the national movement, including Mahatma Gandhi, Pandit Jawaharlal Nehru, Subhas Chandra Bose and Sardar Vallabhbhai Patel, came to a decision on the song. Going against the spirit of that decision will only widen and deepen the fault lines. Some states give priority to their own state anthems while some others would not go by the decision of the Union government but that of the Constituent Assembly. The Union government must respect their decisions instead of devising new rules and decrees to impose its will on them. It must find means and reasons to unify the people, not divide them further.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-national-song-must-unite-indians-not-divide-them-1978459)
-
----
-
-### DC Edit | Unlock Faster FDI Decisions
-*Deccan Chronicle · Editorial*
-
-A proposal, reportedly being considered by the government to raise the threshold for foreign direct investment (FDI) proposals requiring approval of the Cabinet Committee on Economic Affairs (CCEA) from Rs 5,000 crore to Rs 15,000 crore, is both timely and sensible. India cannot remain a preferred destination for global capital if it retains approval structures that have not kept pace with the rising scale of investment.
-
-Under the current FDI norms, investment proposals involving foreign equity inflows above Rs 5,000 crore must go before the CCEA, while those below the threshold can be cleared by the ministry concerned. The reported move to triple the limit would allow ministries to decide on proposals without automatically pushing them for the consideration of the Cabinet committee, which met just 10 times in 2025.
-
-The current Rs 5,000-crore benchmark ($550 million) appears dated as investment requirements for semiconductors, electronics, renewable energy, automobiles, data centres, infrastructure and advanced manufacturing routinely run into several thousand crores. This makes the investment which may once have qualified as an exceptionally large investment seem increasingly normal. The approval architecture, therefore, must evolve accordingly.
-
-When multiple countries, including the developed ones, vie for global capital, speed and ease of doing business matter.
-
-Besides labour costs, market size and tax incentives, multinational companies typically look for regulatory certainty and the time taken to secure approvals. Every avoidable layer of decision-making imposes a cost and may lead to a lost opportunity.
-
-India has made considerable progress in dismantling unnecessary controls over foreign investment.
-
-That process must continue wherever regulation adds delay without adding meaningful oversight. The proposed change, which is speculated to be under consideration, preserves the essential safeguards of India’s FDI regime. It also signals to global investors that India understands a basic rule of modern business: capital goes where opportunity is matched by speed, certainty and administrative efficiency.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-unlock-faster-fdi-decisions-1978221)
-
----
-
-### Anil Tyagi | Sergio Gor: The Quiet US Envoy Behind India’s Power Games
-*Deccan Chronicle · Opinion*
-
-We are familiar with the powerful faces in our country’s Indian politics — Prime Minister Narendra Modi and home minister Amit Shah. Yet, there is a little-known name lurking in the diplomatic shadows, a foreigner whose fogginess hides the influence he wields. Meet the Tashkent-born Sergey (Gor) Gorokhovsky, the 27th American ambassador to India, and the US Special Envoy for South and Central Asian Affairs. Before you dismiss him nonchalantly, let us tell you that he reportedly has a direct hotline to President Donald Trump, and enjoys proximity to his son, Donald Trump Jr.
-
-Here is an intimate look at the Gorokhovsky itinerary. He hobnobbed with the Telangana chief minister, A. Revanth Reddy, in New Delhi on August 5, 2026. On August 7, he was in Bengaluru, rubbing shoulders with D.K. Shivakumar, the Karnataka chief minister. A day later, he flew to Kochi, and met the Kerala chief minister, V.D. Satheesan. A few months earlier, on May 12, 2026, Gor, as he is known, was at the oath-taking ceremony of another state head, Assam’s Himanta Biswa Sarma. A bevy of chief ministers with bouquets of goodies, perhaps? Oh, and yes, before he took charge as the American envoy, he met Mr Modi in New Delhi on October 11, 2025.
-
-Gorokhovsky’s diplomatic reach, and geopolitical influence is measured by the regular presence of Indian Cabinet ministers such as S. Jaishankar (external affairs), Ashwini Vaishnaw (railways), and Hardeep Puri (oil and gas), apart from Delhi lieutenant governor, Taranjit Singh Sandhu, who are former civil servants, at Roosevelt House, Gor’s residence at New Delhi’s posh diplomatic hub at Chanakyapuri. Gor’s power can be gauged by the fact that his team appointed nearly 4,000 presidential personnel at the White House in Washington. He helped to block the planet’s first dollar-trillionaire Elon Musk’s Nasa nomination of Jared Isaacman, whose past donations to the Democrats were revealed.
-
-Forget members of the ruling administration, Gor has pathways into the Opposition. He reportedly met Rahul Gandhi, although he never tweeted about it. But some of you may still not be shocked, or convinced that Gor is special. So, let us tell you a secret. Among diplomats and civil servants in the external affairs ministry, there is a buzz about Gor’s mission — find the future face of Indian politics. Who will be the next Prime Minister? If the Opposition makes electoral inroads, what will be the reaction of the leaders in the Opposition-ruled southern states (remember Gor’s meetings with them)? What is the future of the deadly Cockroach Janta Party, the average age of whose leaders is around 30 and who need political savviness and experience? There is another factor — President Trump’s displeasure with Mr Modi after the latter’s visit to Israel in February 2026. Strange are the ways of politicians, and weirder are the ways of diplomats, especially American ones.
-
-When Modi underestimated Yogi
-
-Arvind Kumar Sharma, a 1988-batch IAS officer of the Gujarat cadre, enjoyed a distinguished career before he entered politics. Between 2001 and 2021, he served as an additional secretary in the Prime Minister’s Office, and was later appointed as secretary, ministry of micro, small and medium enterprises. His loyalty to Prime Minister Narendra Modi is unquestioned. Meanwhile, after Yogi Adityanath became the chief minister of Uttar Pradesh on March 19, 2017, there was an unease in the Capital. To keep a close tab on the chief minister, Anandiben Patel was appointed as the state’s governor in July 2019, and a senior RSS functionary, Sunil Bansal, enjoyed a considerable presence in Lucknow. But Delhi wanted more. In January 2021, Arvind Kumar Sharma took voluntary retirement from the civil services, and joined the BJP in UP. He was named as a candidate for the state legislative council, and his name cropped up as a candidate for the post of deputy chief minister. Instead, the astute Yogi Adityanath appointed him as a Cabinet minister on March 25, 2022.
-
-Today, Mr Sharma’s life is uncertain. As an energy minister, his proposals for electricity distribution and private sector reforms faced opposition. Mr Sharma has alleged that there was a “supari” (assassination attempt) against him. Once a persuasive presence in the Capital, Mr Sharma is forced to keep a low profile in Lucknow. He remains aloof, and is not even active on the 1988-batch IAS WhatsApp group.
-
-Nitish’s BPSC model puts UPSC on notice
-
-In Bihar, the former chief minister Nitish Kumar, who is mocked by the opponents as a shape-shifter, has set up a state public service commission framework that is the envy of New Delhi. Under Parmar Ravi Manubhai, IAS (retd), the commission manages the progress of 3.5 lakh IAS aspirants across the preliminary, mains and interview stages. The interviews are designed to shut out unfairness. Candidates are stripped of visible identities and have computer-generated codes issued at the venue. Even the staff addresses them by...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/anil-tyagi-sergio-gor-the-quiet-us-envoy-behind-indias-power-games-1978453)
-
----
-
-### Get the Karnataka government moving
-*Deccan Herald · Editorial*
-
-The Congress executed the change of guard in Karnataka with surgical precision, replacing Siddaramaiah with D K Shivakumar on June 3 without the drama and disruption that often accompany a transfer of power. Yet while the transition at the top was smooth, the rest of the party’s apparatus has struggled to recalibrate. Thirteen ministers were administered the oath along with Shivakumar, but it took two months to expand the Cabinet, and the uncertainty that continues suggests that internal politics has overshadowed the business of governance. Rumblings began even before the swearing-in ceremony. Mankal Vaidya was replaced with S S Mallikarjun at the last minute, while Gayathri Shanthegowda, the lone woman among the proposed ministers, was dropped. This left the Cabinet with a vacancy and, more significantly, without a woman minister.
-
-A week after the expansion, the ministers are unable to take charge of their departments as portfolios are yet to be allotted. More troubling are reports that some of the newly inducted ministers could be asked to resign even before being assigned responsibilities, to accommodate disgruntled leaders who have refused to fall in line with the party’s diktat. Should this materialise, it would make a mockery of the Cabinet expansion. One of its objectives was to bring in fresh faces and nurture a new generation of leadership. But the old guard appears reluctant to relinquish ground, with several leaders seeking to preserve influence. The result is an administrative vacuum, with unelected bureaucrats becoming the de facto decision-makers in critical areas.
-
-Karnataka bandh on August 13 will go ahead, asserts Kannada activist Vatal NagrajThe delay has also cast its shadow on the monsoon session of the legislature, which was postponed from August 6 to 13. Traditionally, the session convenes soon after a leadership change, giving elected representatives – and through them, the people – a chance to hear the new Chief Minister’s policies, programmes, and roadmap. That opportunity has been denied for two months. The Congress’s predicament is understandable: it faces a problem of plenty in terms of legislators and leaders, while caste and regional aspirations cannot simply be brushed aside. However, political compulsions cannot become an excuse for administrative paralysis. To his credit, Shivakumar has injected some momentum into an administration criticised for becoming dormant. But the leadership must now swiftly get its house in order and not allow the inertia to persist. The Congress will be judged not by how smoothly the leadership transition took place, but by how effectively its government delivers for the people at large.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/get-the-karnataka-government-moving-4106387)
-
----
-
-### UPI success is a model to preserve
-*Deccan Herald · Editorial*
-
-With the amendment to the Payment and Settlement Systems Act, 2007, which enables the government to levy charges on banks and service providers for UPI transactions, questions emerge on the central idea of free transactions envisioned under the digital regime. The government has clarified that person-to-person transactions will remain free, and any future Merchant Discount Rate (MDR), enabled by the legislation, will apply only to a specific category of merchant transactions. It is reported that transactions of Rs 2,000 and above may attract costs, which are yet to be determined. According to NPCI data, 86% of UPI transactions involve Rs 500 or less, and those between Rs 501 and Rs 2,000 account for 10%. Only 4% of transactions involve Rs 2,000 and more, though they constitute around two-thirds of UPI payments by value.
-
-The argument for imposing an MDR is that banks and payment processors have borne the costs of maintaining and upgrading the UPI infrastructure since the system went free in 2020. While the government’s incentive scheme covers a part of the costs, banks and payment operators have highlighted their burden, which they see as disproportionate. Reserve Bank of India (RBI) Governor Sanjay Malhotra recently said, “Someone will have to pay” for these transactions. The demand for an MDR regime has grown with the steady expansion of the UPI footprint. UPI is a major Indian success story that has transformed financial transactions. With 640 million daily transactions, it has emerged as the world’s largest real-time digital payment system and has significantly helped the country move towards its stated objective of a cashless economy.
-
-Parliament clears taxation bill, Sitharaman says UPI transactions to remain free for consumersThis makes it imperative that the UPI services continue to be free for most of its users. It is stated that the MDR will be limited only to merchants, who may be tempted to recoup this cost under various pretexts. The cost of this change should not be passed on to customers. The government should establish robust, transparent provisions to prevent any such attempt. A failure here can prove costly, pushing people back to cash payments. It is also important to look closely at the claim that transactions for customers are “free”. A part of the subsidy that the government extends to the scheme is met with taxes paid by citizens, through substantial budgetary allocations. Access and affordability have steered the UPI system to the success it has achieved. Policy revisions must stay true to these foundational principles.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/upi-success-is-a-model-to-preserve-4106386)
-
----
-
-### AI is reading for us. What about the thinking?
-*Deccan Herald · Opinion*
-
-Many people hail artificial intelligence as the next major advancement in humankind. Every technological advance, however, compels society to confront an unsettling question: Progress for whom, and at what cost? We are forced to address this issue in light of the recent disclosures on Anthropic's internal project, Project Panama. The disagreement is also a much larger discussion about knowledge, culture, and the future of human intellect, even though it has been primarily portrayed as a copyright dispute.
-
-Anthropic bought millions of actual books, removed their bindings, scanned each page to create digital datasets, and then recycled or threw away the original copies, according to court records made public during the copyright dispute. According to reports, the business saw this as an effective way to get top-notch training data for its AI models. Due to the transformative character of the usage, a United States federal court determined that scanning legally acquired books for AI training might be considered fair use. However, the same lawsuit also discovered that Anthropic had independently collected millions of digital books that had been stolen; this behaviour was not covered by fair-use protection and resulted in significant legal liabilities.
-
-Travellers beware of AI CaptiveCrunch cyberthreat; hackers using hotel Wi-Fi to record your video, audio, steal passwordsThese are separate legal concerns. But from an ethical standpoint, they all centre on the same question: What happens when books stop being educational tools and are used as raw materials by machines? A physical book's worth is derived from its tangible presence, including its edition, annotations, typography, pictures, and even use indicators, in addition to the words printed on its pages. These physical traits are essential for comprehending the history of ideas, as historians, literary academics, archivists, and bibliographers have long shown. A book that has been destructively scanned could still be readable, but it is no longer a cultural memory.
-
-To be clear, destructive scanning is not new in and of itself. It has occasionally been employed by libraries and archives to provide public access to rare works or to preserve decaying collections. The key difference is in intent. To increase access and preserve information, public institutions digitise books. The main reason commercial AI companies digitise books is to create proprietary models that are profitable. While enclosure benefits private platforms, preservation benefits the general public.
-
-This distinction is important because AI systems are starting to take over as the primary interface humans use to interact with information. Instead of reading a book, checking a journal article, or comparing many sources, consumers are increasingly asking chatbots questions. AI replies with concise synopses, integrated reasoning, and responses that appear authoritative. There is no denying the convenience. Less comforting are the philosophical consequences.
-
-Learning is the methodical process of creating understanding, not only the acquisition of knowledge. It is frequently a laborious, sluggish, and difficult intellectual process. AI can identify important points, compare writers, describe a 500-page book in a matter of seconds, and even write articles. These features can boost output, but they also promote a covert kind of cognitive outsourcing. People may depend more and more on machine-generated interpretations rather than interacting directly with original works. The fear is not that AI would instantly reduce human intelligence. Instead, it is that civilisations may progressively abandon the customs that foster independent thought. Critical thinking is developed via debating opposing viewpoints rather than absorbing conclusions.
-
-The price of efficiency
-
-Important issues about the political economics of knowledge are also brought up by Project Panama. Proprietary AI systems use millions of books produced over centuries by philosophers, scientists, historians, writers, and poets as training material. A small number of firms dominate the resultant models, which mediate the presentation and accessibility of knowledge. Although the original books are still scattered across libraries and bookshops, commercial algorithms are increasingly exposing the public to their condensed material.
-
-A democratic examination of this concentration of informational power is warranted. Liberal democracies depend on people who can assess the facts, identify prejudice, and discuss opposing ideas. AI systems are not intended to introduce people to the entirety of the richness and diversity of intellectual traditions; rather, they are made to produce knowledge. Although useful, efficiency shouldn't take the place of plurality.
-
-This should not be interpreted as a criticism of AI in general. AI has huge potential to democratise expertise, speed up scientific discovery, increase educational access, and support research. Additionally, one should not be suspicious of digitalisation. Numerous manuscripts have been preserved thanks to digital preservation, which has also increased global access to knowledge.
-
-Making sure that technical progress stays in line with human growth rather than just business optimisation is the difficult part. AI systems run the danger of undermining the very intellectual capabilities democratic societies rely on if they start to replace reading rather than complement it.
-
-Therefore, Project Panama should be remembered as more than just a copyright lawsuit or a tale of millions of books being destroyed. It represents a significant change in how people see knowledge. Books are increasingly regarded as inputs for training machines rather than only as tools for educating people.
-
-Whether AI can read every book ever published is not the real challenge posed by Project Panama. The question is whether we are unintentionally producing a generation that reads less, reflects less, and thinks less independently as a result of our zeal to create thinking robots. That would be a much bigger loss than any one library being destroyed.
-
-Enterprises should embed responsible AI, security throughout agent lifecycle: Infosys executiveThe legal issue of fair use vs piracy is now mostly settled, and Project Panama will probably be regarded as a case study in how AI firms acquired their training data. However, the more enduring question it poses is unrelated to courtrooms. The question is whether a generation that grew up with rapid synthesis would still frequently decide to sit with the challenging original. No judge can make that decision. Long after this case is forgotten, it will be created, one reader at a time.
-
-(The writer is an assistant professor at the Department of Political Science, Amity Institute of Liberal Arts, Amity University, Bengaluru)
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/ai-is-reading-for-us-what-about-the-thinking-4106379)
 
 ---
 

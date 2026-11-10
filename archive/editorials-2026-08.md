@@ -1,5 +1,176 @@
 # Editorials archive — 2026-08
 
+## 11 August 2026
+
+### Case for consensus: On delimitation
+*The Hindu · Editorial*
+
+The monsoon session of Parliament is in its last week without any substantive deliberations or legislative outcomes. There may be several reasons for the stalemate, but at its core are the controversial FCRA amendments and the opacity around the government’s delimitation proposals. Overall, it is as if the government views Parliament as an obstacle to be circumvented rather than a forum for deliberation and consensus-building on national issues. That is the attitude that offers no resolution to any question, while it may create winners and losers on some. But in the absence of good-faith conversations and consensus, what may appear to be a victory for the government or the Opposition at one moment could turn out to be a net loss for parliamentary democracy and the nation. A parliamentary majority is a necessary technicality, but democracy is not limited to that. The effort must always be to expand consensus and reduce conflict across the spectrum of opinion on any given issue. India, being as diverse as it is, naturally has multiple views, not only between the government and the Opposition but also within each side. Unfortunately, expressing and reconciling those opinions is given far less priority than marshalling the numbers to support any given move.
+
+The impact of the forthcoming delimitation is going to be far-reaching; it must be preceded by as wide a consensus as possible. The country’s representative system is on the cusp of a revision, but the government that is anxious to modify its timeline and terms also wants to be extremely secretive about it. Passing legislation with very little prior deliberation or parliamentary debate has become routine in recent years. Delimitation is a topic about which there is a great deal of misunderstanding and serious concern. A large segment of even the political class may be oblivious to its scope and implications. Rather than trying to change the laws regarding delimitation and the size of the Lok Sabha by somehow aggregating the required number of votes behind it, the government should circulate its proposals and receive feedback from all stakeholders. An all-party meeting, as demanded by the Opposition, can be a good start to the deliberations that should take place in the polity at large and inside Parliament. Anything that is technically legitimised through subterfuge will be seen by the public as such. It must be recalled that in 1976 and in 2001, under a Congress government and a BJP government, respectively, decisions with regard to delimitation were taken unanimously. The government and the BJP should once again take the initiative to build a consensus on delimitation for the sake of the nation’s unity and progress.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/case-for-consensus-on-delimitation/article71328817.ece)
+
+---
+
+### Tracking nursing: On the Nurses Registration and Tracking System
+*The Hindu · Editorial*
+
+For a country where the human resources in health care will always fall short of the recommended patient-professional ratio, it is important to make sure that every single resource is harnessed. However, government data tabled in the Lok Sabha have shown that the Nurses Registration and Tracking System, created over seven years ago, has registered less than a third of the total nurses in the country. Only 14.24 lakh of the 46.02 lakh registered nursing personnel have been enrolled, leaving 31.78 lakh outside the national system. Clearly, the move to create an accurate national registry and streamline registration-related services on a single platform for all nurses is far from yielding satisfactory results. There are also stark regional disparities, and unexpected performances with the large southern States (Tamil Nadu, Karnataka, and Andhra Pradesh) figuring among the laggers, while Bihar, Jharkhand and Odisha show between 80%-99% enrolment rates. The Indian Nursing Council has attributed the delays to issues rooted in jurisdiction, and federal tension, on the grounds that primary registration is legally the responsibility of individual State Nursing Registration Councils. To receive a National Unique Identity card and nurse passbook, nurses rely on verification by their respective State Nursing Councils. Further, the charge is that several State councils have resisted migrating fully to the central portal and continue operating independent parallel systems.
+
+Poor nurse registration — irrespective of whether it is caused by incomplete digital tracking systems, outdated State registries, delayed licensing, or regional autonomy — has widespread consequences across health-care systems, apart from personally affecting nurses. For nurses, there will be delays in sanctioning their requests for inter-State transfer and credential verification for overseas employment. For the nation, without a centralised live registry that can provide a true measure of how many nurses (with specialisations) are available where, there might be artificial surpluses or deficits on paper, leading to less-than-ideal deployment of resources, and implementation of policy decisions. Fragmented registries also make it easy for unverified individuals, impersonators, or personnel with revoked licences to practise using fraudulent credentials, thus compromising patient safety. A live tracker would be of utmost use during public health emergencies — including disease outbreaks and natural disasters. Else, it could be impossible for state agencies to track, mobilise or deploy specialised nursing personnel to high-alert zones. Given the crucial complementary role, and in some areas, even the primary role that nurses play in the health-care system, efforts must be made to ensure that all nurses are brought into the portal.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/tracking-nursing-on-the-nurses-registration-and-tracking-system/article71328779.ece)
+
+---
+
+### DC Edit | Jharkhand Stir Reveals Real Issues Far Deeper Than NEET
+*Deccan Chronicle · Editorial*
+
+As the protests by Jharkhand job aspirants snowballed into open defiance of restrictions placed around the new Vidhan Sabha in Ranchi with protesters sticking to their demand for accountability over exam paper leaks and breaches in the integrity of the JPSC-JSSC tests, the realisation may have dawned on all political leaders that Jantar Mantar may have been just a trailer.
+
+Behind the demonstrativeness at Jantar Mantar, which then spread to Ranchi in a restrained and peaceful manner under the leadership of students, is something that is genuine. The frustrations and discontent among the youth over a broken examination system which carries enormous implications for their careers and jobs and their very future have found a path to put governments on notice about the dire and urgent need for cleaning up the exam and recruitment systems.
+
+The same pattern of police brutality, discernible in the use of force as in water cannons, baton charges and firing of tear gas shells, was to be seen in Ranchi, capital of an Opposition-ruled state as well. An opportunistic Opposition that saw an opening to be more relevant in national affairs and jumped on the explosive Jantar Mantar situation may now have to persuade one of its own leaders to be reasonable and assuage the Jharkhand protesters.
+
+Not only is the problem the same as happened to the prestigious medicine gateway that is Neet but also that state governments which conduct their own civil service entrance tests for jobs — seen as tickets to a secure life and so are in disproportionately high demand — can be equally callous about trying to ensure the preservation of the integrity of the exam system, which has had huge holes punched into it by the greed of question paper setters and the paper-leak mafia.
+
+The initial response of governments that have had to deal with the gathering student protests was to treat it as a law and order situation which had to be controlled to prove that the establishment is in control. What was invariably missing at the start was the desired empathy backed by a timely recognition of the need to sit down and talk to student leaders and convince them that the government has woken up to the reality of the situation and that, going forward, its efforts to retrieve the system’s fairness will be real.
+
+No one expects that an ideal meritocracy can be put in place in a country that has such a huge, decades-old commitment to affirmative action. But the least those who run competitive exams can do is to ensure that the question papers are not leaked and that a level playing field is offered to all those who endeavour to ace the tests and get their favoured stream of study or land government jobs.
+
+Governments have the money to hire the expertise to foolproof question papers and the exam process. It is a lack of will to address the issue as vital to Gen Z aspirations and study it thoroughly to find solutions to stop the irregularities and the leaks until protests exploded that showed up the character of political leaders. If they cannot heed the level of protests as seen in New Delhi and Ranchi, they will be doomed in their avocation as career politicians.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-jharkhand-stir-reveals-real-issues-far-deeper-than-neet-1978201)
+
+---
+
+### DC Edit | National Song Must Unite Indians, Not Divide Them
+*Deccan Chronicle · Editorial*
+
+The founding fathers of the republic and the makers of the Constitution were very clear in their mind that India can survive and succeed only if it recognised and promoted its diversity. The very first article of the Constitution is the celebration of this idea when it defines “India that is Bharat” as a “union of states”. There can be more than one name possible for the country which they envisaged as being built not as one single block but as a union of states. The effort now must be to recognise all the possible versions and opinions within a large agreed framework and celebrate them all instead of steamrolling all but one.
+
+Unfortunately, those who run the administration at the Centre now have different ideas, and hence we hear reports of states and people objecting to the singing of ‘Vande Mataram’, the national song in full. The great men and women who led the freedom movement wanted it to be of all the people of the country and hence they chose slogans and symbols which, they believed, reflected their unity and celebrated their diversity. True, the Sangh Parivar which drives the present government had a different idea about the country in those days. It believed and propagated two-nation theory which finally triumphed but India, despite being partitioned on religious lines, chose to remain a secular democratic republic while its newborn neighbour had other ideas. This dichotomy had carried seeds of division within, but the country’s leadership has been careful not to widen the fault lines; they chose instead to bridge them. The BJP government at the Centre, however, is driven by the divisive ideology of those times; and hence the insistence on singing all six stanzas of the national song.
+
+Respecting people’s sentiments is one thing, appeasing them quite another. Democracy is not about imposing the majority’s decision on the minority; and if that’s the case, then India need not retain a democratic form of governance. Democracy is all about respecting disagreement within the framework where the proponents of the different idea get to enjoy the same rights as the majority. Attempts to upset this arrangement mean attempts to unravel the republic.
+
+The national flag and national anthem are symbols that enjoy constitutional protection which the national song does not. Insulating the national song as it has been approved by the Constituent Assembly is a legitimate act but stretching that protection to the last stanza is an attempt to present it as equal to the other national symbols. That could face resistance. It was not for no reason that the leaders of the national movement, including Mahatma Gandhi, Pandit Jawaharlal Nehru, Subhas Chandra Bose and Sardar Vallabhbhai Patel, came to a decision on the song. Going against the spirit of that decision will only widen and deepen the fault lines. Some states give priority to their own state anthems while some others would not go by the decision of the Union government but that of the Constituent Assembly. The Union government must respect their decisions instead of devising new rules and decrees to impose its will on them. It must find means and reasons to unify the people, not divide them further.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-national-song-must-unite-indians-not-divide-them-1978459)
+
+---
+
+### DC Edit | Unlock Faster FDI Decisions
+*Deccan Chronicle · Editorial*
+
+A proposal, reportedly being considered by the government to raise the threshold for foreign direct investment (FDI) proposals requiring approval of the Cabinet Committee on Economic Affairs (CCEA) from Rs 5,000 crore to Rs 15,000 crore, is both timely and sensible. India cannot remain a preferred destination for global capital if it retains approval structures that have not kept pace with the rising scale of investment.
+
+Under the current FDI norms, investment proposals involving foreign equity inflows above Rs 5,000 crore must go before the CCEA, while those below the threshold can be cleared by the ministry concerned. The reported move to triple the limit would allow ministries to decide on proposals without automatically pushing them for the consideration of the Cabinet committee, which met just 10 times in 2025.
+
+The current Rs 5,000-crore benchmark ($550 million) appears dated as investment requirements for semiconductors, electronics, renewable energy, automobiles, data centres, infrastructure and advanced manufacturing routinely run into several thousand crores. This makes the investment which may once have qualified as an exceptionally large investment seem increasingly normal. The approval architecture, therefore, must evolve accordingly.
+
+When multiple countries, including the developed ones, vie for global capital, speed and ease of doing business matter.
+
+Besides labour costs, market size and tax incentives, multinational companies typically look for regulatory certainty and the time taken to secure approvals. Every avoidable layer of decision-making imposes a cost and may lead to a lost opportunity.
+
+India has made considerable progress in dismantling unnecessary controls over foreign investment.
+
+That process must continue wherever regulation adds delay without adding meaningful oversight. The proposed change, which is speculated to be under consideration, preserves the essential safeguards of India’s FDI regime. It also signals to global investors that India understands a basic rule of modern business: capital goes where opportunity is matched by speed, certainty and administrative efficiency.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-unlock-faster-fdi-decisions-1978221)
+
+---
+
+### Anil Tyagi | Sergio Gor: The Quiet US Envoy Behind India’s Power Games
+*Deccan Chronicle · Opinion*
+
+We are familiar with the powerful faces in our country’s Indian politics — Prime Minister Narendra Modi and home minister Amit Shah. Yet, there is a little-known name lurking in the diplomatic shadows, a foreigner whose fogginess hides the influence he wields. Meet the Tashkent-born Sergey (Gor) Gorokhovsky, the 27th American ambassador to India, and the US Special Envoy for South and Central Asian Affairs. Before you dismiss him nonchalantly, let us tell you that he reportedly has a direct hotline to President Donald Trump, and enjoys proximity to his son, Donald Trump Jr.
+
+Here is an intimate look at the Gorokhovsky itinerary. He hobnobbed with the Telangana chief minister, A. Revanth Reddy, in New Delhi on August 5, 2026. On August 7, he was in Bengaluru, rubbing shoulders with D.K. Shivakumar, the Karnataka chief minister. A day later, he flew to Kochi, and met the Kerala chief minister, V.D. Satheesan. A few months earlier, on May 12, 2026, Gor, as he is known, was at the oath-taking ceremony of another state head, Assam’s Himanta Biswa Sarma. A bevy of chief ministers with bouquets of goodies, perhaps? Oh, and yes, before he took charge as the American envoy, he met Mr Modi in New Delhi on October 11, 2025.
+
+Gorokhovsky’s diplomatic reach, and geopolitical influence is measured by the regular presence of Indian Cabinet ministers such as S. Jaishankar (external affairs), Ashwini Vaishnaw (railways), and Hardeep Puri (oil and gas), apart from Delhi lieutenant governor, Taranjit Singh Sandhu, who are former civil servants, at Roosevelt House, Gor’s residence at New Delhi’s posh diplomatic hub at Chanakyapuri. Gor’s power can be gauged by the fact that his team appointed nearly 4,000 presidential personnel at the White House in Washington. He helped to block the planet’s first dollar-trillionaire Elon Musk’s Nasa nomination of Jared Isaacman, whose past donations to the Democrats were revealed.
+
+Forget members of the ruling administration, Gor has pathways into the Opposition. He reportedly met Rahul Gandhi, although he never tweeted about it. But some of you may still not be shocked, or convinced that Gor is special. So, let us tell you a secret. Among diplomats and civil servants in the external affairs ministry, there is a buzz about Gor’s mission — find the future face of Indian politics. Who will be the next Prime Minister? If the Opposition makes electoral inroads, what will be the reaction of the leaders in the Opposition-ruled southern states (remember Gor’s meetings with them)? What is the future of the deadly Cockroach Janta Party, the average age of whose leaders is around 30 and who need political savviness and experience? There is another factor — President Trump’s displeasure with Mr Modi after the latter’s visit to Israel in February 2026. Strange are the ways of politicians, and weirder are the ways of diplomats, especially American ones.
+
+When Modi underestimated Yogi
+
+Arvind Kumar Sharma, a 1988-batch IAS officer of the Gujarat cadre, enjoyed a distinguished career before he entered politics. Between 2001 and 2021, he served as an additional secretary in the Prime Minister’s Office, and was later appointed as secretary, ministry of micro, small and medium enterprises. His loyalty to Prime Minister Narendra Modi is unquestioned. Meanwhile, after Yogi Adityanath became the chief minister of Uttar Pradesh on March 19, 2017, there was an unease in the Capital. To keep a close tab on the chief minister, Anandiben Patel was appointed as the state’s governor in July 2019, and a senior RSS functionary, Sunil Bansal, enjoyed a considerable presence in Lucknow. But Delhi wanted more. In January 2021, Arvind Kumar Sharma took voluntary retirement from the civil services, and joined the BJP in UP. He was named as a candidate for the state legislative council, and his name cropped up as a candidate for the post of deputy chief minister. Instead, the astute Yogi Adityanath appointed him as a Cabinet minister on March 25, 2022.
+
+Today, Mr Sharma’s life is uncertain. As an energy minister, his proposals for electricity distribution and private sector reforms faced opposition. Mr Sharma has alleged that there was a “supari” (assassination attempt) against him. Once a persuasive presence in the Capital, Mr Sharma is forced to keep a low profile in Lucknow. He remains aloof, and is not even active on the 1988-batch IAS WhatsApp group.
+
+Nitish’s BPSC model puts UPSC on notice
+
+In Bihar, the former chief minister Nitish Kumar, who is mocked by the opponents as a shape-shifter, has set up a state public service commission framework that is the envy of New Delhi. Under Parmar Ravi Manubhai, IAS (retd), the commission manages the progress of 3.5 lakh IAS aspirants across the preliminary, mains and interview stages. The interviews are designed to shut out unfairness. Candidates are stripped of visible identities and have computer-generated codes issued at the venue. Even the staff addresses them by...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/anil-tyagi-sergio-gor-the-quiet-us-envoy-behind-indias-power-games-1978453)
+
+---
+
+### Get the Karnataka government moving
+*Deccan Herald · Editorial*
+
+The Congress executed the change of guard in Karnataka with surgical precision, replacing Siddaramaiah with D K Shivakumar on June 3 without the drama and disruption that often accompany a transfer of power. Yet while the transition at the top was smooth, the rest of the party’s apparatus has struggled to recalibrate. Thirteen ministers were administered the oath along with Shivakumar, but it took two months to expand the Cabinet, and the uncertainty that continues suggests that internal politics has overshadowed the business of governance. Rumblings began even before the swearing-in ceremony. Mankal Vaidya was replaced with S S Mallikarjun at the last minute, while Gayathri Shanthegowda, the lone woman among the proposed ministers, was dropped. This left the Cabinet with a vacancy and, more significantly, without a woman minister.
+
+A week after the expansion, the ministers are unable to take charge of their departments as portfolios are yet to be allotted. More troubling are reports that some of the newly inducted ministers could be asked to resign even before being assigned responsibilities, to accommodate disgruntled leaders who have refused to fall in line with the party’s diktat. Should this materialise, it would make a mockery of the Cabinet expansion. One of its objectives was to bring in fresh faces and nurture a new generation of leadership. But the old guard appears reluctant to relinquish ground, with several leaders seeking to preserve influence. The result is an administrative vacuum, with unelected bureaucrats becoming the de facto decision-makers in critical areas.
+
+Karnataka bandh on August 13 will go ahead, asserts Kannada activist Vatal NagrajThe delay has also cast its shadow on the monsoon session of the legislature, which was postponed from August 6 to 13. Traditionally, the session convenes soon after a leadership change, giving elected representatives – and through them, the people – a chance to hear the new Chief Minister’s policies, programmes, and roadmap. That opportunity has been denied for two months. The Congress’s predicament is understandable: it faces a problem of plenty in terms of legislators and leaders, while caste and regional aspirations cannot simply be brushed aside. However, political compulsions cannot become an excuse for administrative paralysis. To his credit, Shivakumar has injected some momentum into an administration criticised for becoming dormant. But the leadership must now swiftly get its house in order and not allow the inertia to persist. The Congress will be judged not by how smoothly the leadership transition took place, but by how effectively its government delivers for the people at large.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/get-the-karnataka-government-moving-4106387)
+
+---
+
+### UPI success is a model to preserve
+*Deccan Herald · Editorial*
+
+With the amendment to the Payment and Settlement Systems Act, 2007, which enables the government to levy charges on banks and service providers for UPI transactions, questions emerge on the central idea of free transactions envisioned under the digital regime. The government has clarified that person-to-person transactions will remain free, and any future Merchant Discount Rate (MDR), enabled by the legislation, will apply only to a specific category of merchant transactions. It is reported that transactions of Rs 2,000 and above may attract costs, which are yet to be determined. According to NPCI data, 86% of UPI transactions involve Rs 500 or less, and those between Rs 501 and Rs 2,000 account for 10%. Only 4% of transactions involve Rs 2,000 and more, though they constitute around two-thirds of UPI payments by value.
+
+The argument for imposing an MDR is that banks and payment processors have borne the costs of maintaining and upgrading the UPI infrastructure since the system went free in 2020. While the government’s incentive scheme covers a part of the costs, banks and payment operators have highlighted their burden, which they see as disproportionate. Reserve Bank of India (RBI) Governor Sanjay Malhotra recently said, “Someone will have to pay” for these transactions. The demand for an MDR regime has grown with the steady expansion of the UPI footprint. UPI is a major Indian success story that has transformed financial transactions. With 640 million daily transactions, it has emerged as the world’s largest real-time digital payment system and has significantly helped the country move towards its stated objective of a cashless economy.
+
+Parliament clears taxation bill, Sitharaman says UPI transactions to remain free for consumersThis makes it imperative that the UPI services continue to be free for most of its users. It is stated that the MDR will be limited only to merchants, who may be tempted to recoup this cost under various pretexts. The cost of this change should not be passed on to customers. The government should establish robust, transparent provisions to prevent any such attempt. A failure here can prove costly, pushing people back to cash payments. It is also important to look closely at the claim that transactions for customers are “free”. A part of the subsidy that the government extends to the scheme is met with taxes paid by citizens, through substantial budgetary allocations. Access and affordability have steered the UPI system to the success it has achieved. Policy revisions must stay true to these foundational principles.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/upi-success-is-a-model-to-preserve-4106386)
+
+---
+
+### AI is reading for us. What about the thinking?
+*Deccan Herald · Opinion*
+
+Many people hail artificial intelligence as the next major advancement in humankind. Every technological advance, however, compels society to confront an unsettling question: Progress for whom, and at what cost? We are forced to address this issue in light of the recent disclosures on Anthropic's internal project, Project Panama. The disagreement is also a much larger discussion about knowledge, culture, and the future of human intellect, even though it has been primarily portrayed as a copyright dispute.
+
+Anthropic bought millions of actual books, removed their bindings, scanned each page to create digital datasets, and then recycled or threw away the original copies, according to court records made public during the copyright dispute. According to reports, the business saw this as an effective way to get top-notch training data for its AI models. Due to the transformative character of the usage, a United States federal court determined that scanning legally acquired books for AI training might be considered fair use. However, the same lawsuit also discovered that Anthropic had independently collected millions of digital books that had been stolen; this behaviour was not covered by fair-use protection and resulted in significant legal liabilities.
+
+Travellers beware of AI CaptiveCrunch cyberthreat; hackers using hotel Wi-Fi to record your video, audio, steal passwordsThese are separate legal concerns. But from an ethical standpoint, they all centre on the same question: What happens when books stop being educational tools and are used as raw materials by machines? A physical book's worth is derived from its tangible presence, including its edition, annotations, typography, pictures, and even use indicators, in addition to the words printed on its pages. These physical traits are essential for comprehending the history of ideas, as historians, literary academics, archivists, and bibliographers have long shown. A book that has been destructively scanned could still be readable, but it is no longer a cultural memory.
+
+To be clear, destructive scanning is not new in and of itself. It has occasionally been employed by libraries and archives to provide public access to rare works or to preserve decaying collections. The key difference is in intent. To increase access and preserve information, public institutions digitise books. The main reason commercial AI companies digitise books is to create proprietary models that are profitable. While enclosure benefits private platforms, preservation benefits the general public.
+
+This distinction is important because AI systems are starting to take over as the primary interface humans use to interact with information. Instead of reading a book, checking a journal article, or comparing many sources, consumers are increasingly asking chatbots questions. AI replies with concise synopses, integrated reasoning, and responses that appear authoritative. There is no denying the convenience. Less comforting are the philosophical consequences.
+
+Learning is the methodical process of creating understanding, not only the acquisition of knowledge. It is frequently a laborious, sluggish, and difficult intellectual process. AI can identify important points, compare writers, describe a 500-page book in a matter of seconds, and even write articles. These features can boost output, but they also promote a covert kind of cognitive outsourcing. People may depend more and more on machine-generated interpretations rather than interacting directly with original works. The fear is not that AI would instantly reduce human intelligence. Instead, it is that civilisations may progressively abandon the customs that foster independent thought. Critical thinking is developed via debating opposing viewpoints rather than absorbing conclusions.
+
+The price of efficiency
+
+Important issues about the political economics of knowledge are also brought up by Project Panama. Proprietary AI systems use millions of books produced over centuries by philosophers, scientists, historians, writers, and poets as training material. A small number of firms dominate the resultant models, which mediate the presentation and accessibility of knowledge. Although the original books are still scattered across libraries and bookshops, commercial algorithms are increasingly exposing the public to their condensed material.
+
+A democratic examination of this concentration of informational power is warranted. Liberal democracies depend on people who can assess the facts, identify prejudice, and discuss opposing ideas. AI systems are not intended to introduce people to the entirety of the richness and diversity of intellectual traditions; rather, they are made to produce knowledge. Although useful, efficiency shouldn't take the place of plurality.
+
+This should not be interpreted as a criticism of AI in general. AI has huge potential to democratise expertise, speed up scientific discovery, increase educational access, and support research. Additionally, one should not be suspicious of digitalisation. Numerous manuscripts have been preserved thanks to digital preservation, which has also increased global access to knowledge.
+
+Making sure that technical progress stays in line with human growth rather than just business optimisation is the difficult part. AI systems run the danger of undermining the very intellectual capabilities democratic societies rely on if they start to replace reading rather than complement it.
+
+Therefore, Project Panama should be remembered as more than just a copyright lawsuit or a tale of millions of books being destroyed. It represents a significant change in how people see knowledge. Books are increasingly regarded as inputs for training machines rather than only as tools for educating people.
+
+Whether AI can read every book ever published is not the real challenge posed by Project Panama. The question is whether we are unintentionally producing a generation that reads less, reflects less, and thinks less independently as a result of our zeal to create thinking robots. That would be a much bigger loss than any one library being destroyed.
+
+Enterprises should embed responsible AI, security throughout agent lifecycle: Infosys executiveThe legal issue of fair use vs piracy is now mostly settled, and Project Panama will probably be regarded as a case study in how AI firms acquired their training data. However, the more enduring question it poses is unrelated to courtrooms. The question is whether a generation that grew up with rapid synthesis would still frequently decide to sit with the challenging original. No judge can make that decision. Long after this case is forgotten, it will be created, one reader at a time.
+
+(The writer is an assistant professor at the Department of Political Science, Amity Institute of Liberal Arts, Amity University, Bengaluru)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/ai-is-reading-for-us-what-about-the-thinking-4106379)
+
+---
+
 ## 10 August 2026
 
 ### ​Podium finish: On India at the Glasgow Commonwealth Games
