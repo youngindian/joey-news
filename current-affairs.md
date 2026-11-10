@@ -1,3 +1,442 @@
+## 10 November 2026
+
+### Soan Papdi who? These companies went big on Diwali gifts for employees this year
+*India Today Trending Desk · general*
+
+## While Soan Papdi makes its usual rounds this Diwali, some companies had much bigger surprises lined up for their employees. From iPhones to gadgets and luxury gifts, here's a look at what offices handed out this festive season.
+
+These companies went big on Diwali gifts for employees this year (Photos: pi42india, durga\_devi\_shree/Instagram)
+
+New Delhi,Nov 10, 2026 12:44 IST
+
+If your Diwali gift is still making the rounds from one family member to another in the form of Soan Papdi, these office gifts might make you jealous. From iPhones and giant suitcases to back massagers and gadgets, companies went all out for their employees this Diwali.
+
+But this year, however, social media had a different message for companies: if your office is still giving you Soan Papdi, it might be time to resign.
+
+Instagram was filled with employees showing off their Diwali gifts, while founders and CEOs also joined in by revealing what they had kept on their employees' desks for the festival. And the gifts ranged from iPhones and suitcases to back massagers, speakers, earbuds and even a rather unusual golf-themed coin.
+
+So, what happened to Soan Papdi? The sweet has become almost synonymous with Diwali gifting because of its reputation as the gift nobody particularly asks for, but somehow everyone ends up receiving.
+
+It has also earned a reputation as the ultimate rotational gift, one box gets passed from one household to another, often without anyone actually opening it. That running joke appeared to spill into workplace Diwali gifting this year, with companies seemingly trying to make sure their employees got something they would actually use.
+
+An Udaipur-based startup, Influish, decided to skip the usual sweets and put something considerably more practical on its employees' desks.
+
+Instagram account The Viral Startup Office shared a video in which Influish co-founder Sankalp Nag showed viewers the company's Diwali gifts. He revealed that every employee was getting a Cult back massager worth nearly Rs 13,000, along with baked goodies and a soft comforter.
+
+"People get tired sitting on their desks all day and working, so this back massager would definitely come in handy," Nag said while showing off the gifts.
+
+The idea seemed to land well online, with viewers praising the company for choosing gifts that employees could actually use rather than simply handing out another box of festive sweets.
+
+Meanwhile, a Delhi-based company took the phrase "a Diwali bonus" to another level by gifting iPhones to its employees.
+
+Financersaab, a company based in Rohini, shared an Instagram video showing the phones wrapped with decorative bows and placed neatly on employees' desks. The clip then showed employees holding their new iPhones and posing for the camera with huge smiles.
+
+It was, quite literally, the kind of Diwali unboxing that probably did not need much convincing.
+
+Pi42 Exchange, a crypto consultancy company, also shared a glimpse of its Diwali gifts, and its choice was a little less conventional.
+
+The company gave its employees a golf coin as their Diwali gift. A video shared by the company showed employees displaying the coin as part of the festive celebrations, giving the traditional Diwali gift a decidedly different spin.
+
+At Deloitte, employees appeared to have received a full festive hamper rather than one single gift.
+
+Durga Shree, a Deloitte employee, shared a video on Instagram showing the goodies she had received for Diwali. She laid everything out neatly, revealing a BlendJet mixer jar, Skullcandy Bluetooth earbuds, a bar speaker with RGB lights, a Milton tumbler and a selection of snacks.
+
+She captioned the post, "A little Diwali happiness from Deloitte!"
+
+KPMG, one of the world's major professional services firms, also made an appearance in the Diwali gift unboxing trend.
+
+Employee Kritika Gupta shared a video showing employees lining up to sign for and collect their Diwali presents. This one came in a rather large package, a Mokobara suitcase.
+
+The gift set also included a KPMG-branded wallet, a Borosil tumbler, a power bank and snacks, giving employees a mix of travel gear, everyday essentials and festive treats.
+
+And somewhere between the iPhones, speakers, suitcases and back massagers, the humble Soan Papdi appeared to have lost its usual starring role.
+
+For employees, these videos turned Diwali gifting into a little workplace show-and-tell, with people comparing what their companies had put on their desks.
+
+For companies, meanwhile, the trend offered a chance to make the festival feel a little more personal, and perhaps avoid becoming the office that brought out the dreaded Soan Papdi box again.
+
+After all, Diwali is about sharing happiness, and if that happiness happens to arrive in the form of an iPhone, a suitcase or a back massager instead of the same box of sweets making its 14th office-to-office journey, nobody seems to be complaining.
+
+\- Ends
+
+---
+
+### SC asks Delhi, UP, Haryana, Rajasthan to explain steps against polluting vehicles
+*India Today News Desk · general*
+
+## The Supreme Court directed Delhi and three neighbouring states to detail action against polluting vehicles. The order signals urgent scrutiny of vehicular emissions as stubble-burning incidents decline.
+
+The Supreme Court directed Delhi and three neighbouring states to detail action against polluting vehicles. (Representative photo)
+
+New Delhi,Nov 10, 2026 12:44 IST
+
+The Supreme Court has said the sharp rise in vehicular emissions requires urgent intervention and directed Delhi and three neighbouring states to explain the steps taken to stop over-age and non-compliant vehicles from entering or operating in the National Capital Region, news agency Press Trust of India reported.
+
+The court asked the governments of Delhi, Uttar Pradesh, Rajasthan and Haryana, along with the Municipal Corporation of Delhi and Delhi Police, to submit detailed responses on measures to reduce vehicular emissions and their impact on air quality in Delhi-NCR.
+
+A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana sought details of short-term and long-term measures proposed or under consideration. It also asked the authorities to explain the existing system for identifying, monitoring and regulating vehicles that do not meet prescribed emission standards, including the enforcement of Pollution Under Control certificates.
+
+The authorities were directed to provide details of the regulatory framework and enforcement mechanisms governing the entry and movement of commercial and non-commercial vehicles in Delhi-NCR, particularly those coming from neighbouring states.
+
+The Supreme Court passed the order on November 6 while hearing a suo motu case on measures to curb air pollution in the NCR, PTI reported.
+
+The bench noted that data placed before it showed a substantial decline in incidents of stubble burning across Delhi, Uttar Pradesh, Haryana and Rajasthan.
+
+“While this development is certainly laudable, the same data also brings to the fore a converse and equally pressing concern, namely, the sharp increase in issues attributable to vehicular emissions,” it said.
+
+The court said Delhi and the NCR, because of their geographical and economic links, face the combined burden of traffic originating within the region and in the neighbouring states of Uttar Pradesh, Haryana and Rajasthan.
+
+“The situation is further compounded by the substantial volume of both commercial and non-commercial vehicles entering and plying within the city from different parts of the region, thereby adding to the existing vehicular emission load,” it said.
+
+“There can be little doubt that the issue warrants urgent and immediate intervention,” the bench said.
+
+The court asked the authorities to detail the steps taken to prevent the entry and operation of over-age, end-of-life or otherwise non-compliant vehicles in the NCR. It also sought information on enforcement action, including the number of vehicles inspected, fined, denied entry or subjected to other proceedings during the relevant period.
+
+The bench sought details of coordination between the Delhi authorities and neighbouring states to regulate inter-state vehicle movement and ensure compliance with emission standards.
+
+“The respective authorities shall also indicate the specific measures proposed to strengthen the existing enforcement mechanisms, together with a time-bound roadmap for their implementation,” the bench said.
+
+The states were asked to file their submissions within two weeks, outlining the steps already taken, their responses to suggestions made by the Commission for Air Quality Management and the amicus curiae, and any further action they independently propose.
+
+The Supreme Court registry was directed to list the suo motu case concerning vehicular emissions and pollution in Delhi-NCR on November 23.
+
+The court said cases 
+
+The case concerning solid waste management and the burning of crop residue and firecrackers will be listed on November 25.
+
+During the November 6 hearing, the bench expressed serious concern over the recurring air pollution crisis in Delhi-NCR and described vehicular emissions as a major contributor to worsening air quality.
+
+It also raised concerns over bumper-to-bumper traffic and highlighted the large number of vehicles using roads connecting Delhi with Ghaziabad, Greater Noida, Gurugram and Faridabad.
+
+The Centre informed the bench that restrictions on the entry of vehicles below BS-VI emission standards were being implemented. It also said Pollution Under Control certificates were being linked to the locations where vehicle checks were conducted, according to PTI.
+
+\- Ends
+
+---
+
+### 2026 could become one of the hottest years on record, UN issues stark warning
+*India Today Science Desk · general*
+
+2026 could go down as one of the hottest years ever recorded, extending an alarming run of global warming that has lasted more than a decade.
+
+The warning comes from the United Nations (UN) as world leaders gather in Antalya, Turkiye, for the COP31 climate summit, where rising temperatures and increasingly extreme weather are expected to feature prominently in discussions.
+
+A satellite image shows the warming oceans as a result of a developing El Nino. (Photo: Noaa)
+
+In its latest State of the Climate Update 2026, released on November 9, the World Meteorological Organisation (WMO) said the past 12 years, from 2015 to 2026, are on track to become the warmest 12-year period in recorded history.
+
+Furthermore, the past four years, including 2026, are also expected to occupy the top four positions in global temperature records.
+
+Between January and September this year, the global average temperature was approximately 1.47°C above the pre-industrial average, measured between 1850 and 1900.
+
+A sign says COP31 during the ongoing annual UN climate talks in Antalye, Turkiye. (Photo: AP)Â 
+
+### WHY IS 2026 GETTING HOTTER?
+
+The sustained rise in temperatures is primarily driven by human activities, particularly the burning of coal, oil and gas, which release greenhouse gases that trap heat in the atmosphere.
+
+However, a developing El Nino is adding to the warming.
+
+A graph showing the rising sea surface temperature due to El Nino. (Photo: Climate Reanalyzer)
+
+El Nino is a natural climate phenomenon that occurs when parts of the Pacific Ocean become unusually warm, releasing additional heat into the atmosphere and influencing weather patterns worldwide.
+
+The WMO said El Nino has intensified since August and could reach exceptional strength by December, with its effects expected to continue into early 2027, potentially pushing temperatures even higher next year.
+
+The four warmest years on record are now expected to be 2023, 2024, 2025 and 2026, with 2024 retaining the top position – for now.
+
+A firefighter and a local resident try to put out a forest fire in Spain. (Photo: AP)
+
+### WHAT DOES THIS WARMING TREND SPELL FOR EARTH?
+
+The warming is not limited to rising air temperatures.
+
+The WMO found that ocean heat reached a record for the 10th consecutive year, while global sea levels also climbed to their highest point since satellite measurements began in 1993.
+
+Warmer oceans expand as they absorb heat, while melting glaciers and ice sheets add more water to the seas. This increases the risk of coastal flooding and threatens communities living along vulnerable shorelines.
+
+This combination of photos show the melting ice at the St. Vrain Glacier in Colombia. (Photo: AP)
+
+Rising temperatures are also making heatwaves, droughts and heavy rainfall more dangerous, affecting food supplies, water availability and human health.
+
+Releasing the report as COP31 opened, WMO Secretary-General Celeste Saulo warned that the world was entering an increasingly dangerous period of climate extremes.
+
+UN Secretary-General Antonio Guterres called on governments to accelerate cuts in greenhouse gas emissions, move away from fossil fuels and provide greater financial support to countries most vulnerable to climate change.
+
+UN Secretary-General Antonio Guterres speaks at UN headquarters. (Photo: AP)
+
+The warning has been sounded as countries face growing pressure to turn climate commitments into action.
+
+With temperatures continuing to rise and El Nino adding to the heat, the coming months could bring further challenges for an already warming planet.
+
+\- Ends
+
+---
+
+### 'We'll fight tooth and nail': House speaker Mike Johnson vows fight to win back Congress
+*ET Online · business*
+
+US House Speaker Mike Johnson on Monday (November 9) urged Republicans to regroup after disappointing election results, saying the party must "get right back up" after being "knocked down" by voters. "The people have spoken," Johnson told reporters, acknowledging that Republicans fell short of their goals despite an extensive campaign effort in which he said he raised more than $500 million and traveled enough miles "to circle the globe over nine times." Mike Johnson also announced he will not run for House minority leader following the Republican party's midterm election losses, which handed control of Congress to Democrats.
+
+---
+
+### Sonia Gandhi's memoir 'Belonging: A Journey of Love' hits bookstores across India
+*ET Online · business*
+
+Congress Parliamentary Party chairperson Sonia Gandhi's memoir, 'Belonging: A Journey of Love', officially goes on sale across India on November 10, 2026. At Bahrisons Booksellers in Delhi's Khan Market, the book has taken centre stage, with the store receiving enquiries since the previous day and orders over the past few months. Store owner Rajni Bahri Malhotra expressed excitement over the release, calling it a significant moment for India's publishing industry. The memoir is now available across Bahrisons bookstores in India #SoniaGandhi #BelongingAJourneyOfLove #SoniaGandhiMemoir #BahrisonsBooksellers #KhanMarket #Delhi #BookLaunch #IndianPublishing
+
+---
+
+### Allegation of harassment to woman Collector: TN Minister promises probe against TVK MLA
+*SECTIONS Allegation · business*
+
+Chennai Tamil Nadu School Education Minister Rajmohan on Tuesday assured a thorough and impartial inquiry into allegations of misconduct levelled against ruling TVK MLA Arul Vignesh, following reports that he sent inappropriate text messages to a female district collector.
+
+The controversy erupted after reports surfaced on social media alleging that Vignesh, who represents the Kallakurichi constituency, sent improper messages to District Collector J E Padmaja.
+
+  
+
+Addressing reporters here, the minister stated that the state administration under Chief Minister C Joseph Vijay maintains a zero-tolerance policy toward harassment, regardless of the accused individual's political affiliation or stature.
+
+"Under our CM's administration, if an allegation is levelled against anyone, a thorough investigation will be conducted, and action will be taken without partiality," Rajmohan said.
+
+He emphasised that formal proceedings will commence upon receipt of an official complaint, and strict legal consequences will follow if the charges are substantiated.
+
+The issue gained traction on Monday when DMK MP Kanimozhi took to social media, accusing the lawmaker of Vijay-led TVK of harassing the district collector via text messages and making an unannounced visit to her residence.
+
+Denying the allegations, Vignesh termed the reports entirely baseless and alleged they were part of a deliberate misinformation campaign orchestrated by the DMK's IT wing.
+
+---
+
+### Nifty Prediction For November 11: GIFT Nifty Surges Nearly 280 Points; Is Market Set For Further Rally?
+*Mohammad Haris · business*
+
+Nifty Prediction For Tomorrow, November 11: The GIFT Nifty currently trades at 25,321.50, up 277.50 points or 1.11%, at around 12:05 pm, indicating further rally in markets.
+
+[Read full article](https://www.news18.com/business/markets/nifty-prediction-for-november-11-gift-nifty-surges-nearly-280-points-is-market-set-for-further-rally-10419692.html)
+
+---
+
+### After Maharashtra bird flu outbreak, why are poultry farmers seeking H5N1 vaccination?
+*Majid Alam · legal*
+
+After 4.13 lakh birds were culled in Maharashtra’s Navapur on April 30, poultry farmers are at a loss. But experts say stronger biosecurity, disease monitoring and better farm management remain essential to preventing future outbreaks
+
+[Read full article](https://indianexpress.com/article/health-wellness/after-maharashtra-bird-flu-outbreak-why-are-poultry-farmers-seeking-h5n1-vaccination-10957398/)
+
+---
+
+### Silver bar instead of 10 gram 24-Karat gold: Woman wins Rs 91,000 from e-commerce site
+*Vineet Upadhyay · legal*
+
+The Kapurthala District Consumer Commission in Punjab was hearing a complaint of a woman over delivery of a 10-gram silver bar instead of a 24-karat gold bar ordered online in October 2023 for Rs 65,813.
+
+[Read full article](https://indianexpress.com/article/legal-news/woman-silver-24-karat-10-gram-gold-bar-online-wins-rs-91000-10957208/)
+
+---
+
+### India’s product landscape is changing: Which products are setting the benchmark across technology, finance, and consumer markets?
+*Unknown · business*
+
+India’s product landscape is becoming increasingly competitive, with businesses across sectors moving beyond product launches to focus on adoption, customer impact, and measurable market outcomes. The **ET Product of the Year Awards 2026** recognises products that are creating tangible value across enterprise technology, financial services, consumer markets, mobility, healthcare and other emerging sectors.
+
+The breadth of India’s product ecosystem is reflected in the awards’ categories, spanning products built for businesses as well as those shaping everyday consumer experiences.
+
+**Enterprise technology: Products powering the next phase of business**
+
+For organisations, technology products are becoming central to productivity, security, and digital transformation. The **Enterprise** categories cover **Enterprise SaaS, FinTech Infrastructure, Cybersecurity, Developer Tools & Platforms, Vertical SaaS, Data & Cloud Infrastructure, HR & WorkTech, MarTech & SalesTech, Industrial & Engineering, Logistics & Supply Chain Solutions, Business & Professional Services, and IT & Digital Services**.
+
+Together, these categories reflect the growing role of technology in helping businesses manage operations, strengthen capabilities, and solve industry-specific challenges.
+
+**Financial services: From banking to digital finance**
+
+The financial services ecosystem is also seeing rapid product innovation. Categories including **Banking Products, Credit Cards, Payments & Consumer Fintech, Insurance, and Wealth & Investment Platforms** recognise products that are changing how consumers access, manage and use financial services.
+
+As digital adoption grows, convenience alone is no longer enough. Products increasingly need to demonstrate customer usage, differentiation, and sustained value.
+
+**Consumer markets: Products competing on relevance and experience**
+
+The consumer side of the product economy is equally diverse. The awards include categories for **Smartphones, Consumer Electronics, Home & Kitchen Appliances, Wearables & Hearables, Consumer Apps, Quick Commerce & Retail, Electric Vehicles, Food & Beverage, Beauty & Personal Care, D2C Products, Healthcare & MedTech, Wellness & Fitness, Education & EdTech, and Astrology & Spirituality**.
+
+These categories capture the changing ways in which consumers shop, communicate, travel, manage their health, access services, and experience brands.
+
+Beyond sector-specific categories, the awards also include **Make in India Product of the Year** and **Sustainable Product of the Year**, recognising products for broader contributions to Indian innovation and sustainability.
+
+**What makes a product eligible?**
+
+The awards are designed for products that have already moved beyond the idea or launch stage and can demonstrate real market activity. A product must be **currently available in India** and qualify as a live software, hardware, vehicle, financial or consumer product.
+
+Products must have been **launched or significantly upgraded between January 1, 2025 and September 30, 2026**. Entrants should also be able to provide evidence of **adoption, growth, usage or commercial results**, and the nomination must be submitted by the product owner, operating company or official India entity.
+
+Products incorporating AI as a feature can be considered under the relevant category, while AI-first products are directed towards the separate ET AI Product Awards.
+
+**How are products evaluated?**
+
+Eligibility is only the starting point. The **ET Product of the Year Awards 2026** evaluates eligible entries across four key areas:
+
+-   **Market Impact:** What measurable difference has the product made in its market, sector or customer base?
+-   **Adoption:** How strongly has the product been adopted? Evidence can include customers, users, growth, usage, retention, distribution or reach.
+-   **Innovation:** What does the product do differently, and why does that difference matter to its users or market?
+-   **Execution quality:** How effectively does the product deliver on its promise, including reliability, user experience, performance and ability to operate at scale?
+
+For product companies, this means the nomination is about more than presenting features or marketing claims. It is an opportunity to demonstrate the product’s **market performance, customer impact, innovation, and execution** with evidence.
+
+With categories spanning enterprise technology, financial services, consumer products, mobility and healthcare, the **ET Product of the Year Awards 2026** brings India's diverse product ecosystem onto one platform, recognising products that have moved beyond the launch stage to create measurable value in the market.
+
+**Nominate Now**
+
+---
+
+### IIT Madras maps 4,403 road accident hotspots to place 4,237 ambulances
+*Radifah Kabir · general*
+
+A road accident does not wait for an ambulance. The ambulance, if it is to arrive on time, must already be waiting nearby.
+
+That is the idea behind a nationwide ambulance map drawn by researchers at IIT Madras, which suggests where India’s ambulances should be stationed to reach road accident victims fastest, Professor Venkatesh Balasubramanian and his team told India Today Digital in an exclusive interview at the IIT Madras campus.
+
+The map is not yet public. It proposes 4,237 ambulances, placed to cover 4,403 super-hotspots, the stretches of road where accidents keep happening.
+
+### WHAT IS IIT MADRAS'S AMBULANCE MAP?
+
+A planning tool that decides where help should wait, before the accident.
+
+The tool is called Dynamic Ambulance Positioning. Ambulance positioning is simply the choice of where an ambulance should wait between calls. The map was designed and developed by the Centre of Excellence for Road Safety (CoERS) and the Rehabilitation Bioengineering Group, known as RBG Labs, at IIT Madras, under Professor Balasubramanian, the team said.
+
+The tool was designed and developed by CoERS and RBG Labs at IIT Madras, under Professor Venkatesh Balasubramanian. (Photo: IIT Madras via special arrangement)
+
+The same group conceived the national road accident database of the Ministry of Road Transport and Highways.
+
+The team has also developed IntelliSeat, a smart driver’s seat that senses fatigue from the way a person sits and warns them before a crash, so its work spans both preventing road accidents and responding to them.
+
+Professor Balasubramanian was careful about what the map is. "I am not saying it is right or wrong," he told India Today Digital. A local officer would still have to judge each spot. If a no-entry rule bars a position, he said, the ambulance could simply be moved to the other side of the road. "IIT Madras has these suggested base locations, which can be adopted," he said.
+
+### HOW MANY PEOPLE DIE IN ROAD ACCIDENTS IN INDIA?
+
+More than 1.6 lakh a year, the latest official release shows.
+
+In 2022, 4,61,312 road accidents killed 1,68,491 people in India, according to a government release based on police data. National highways accounted for 32.94 per cent of the accidents and 36.22 per cent of the deaths.
+
+### WHAT IS THE GOLDEN HOUR AFTER A ROAD ACCIDENT?
+
+The hour in which prompt care is most likely to save a life.
+
+The Motor Vehicles Act defines it as the hour after a traumatic injury, during which there is the highest likelihood of preventing death by providing prompt medical care. Trauma care, in plain words, is emergency treatment for serious injuries. Researchers note that the idea is debated, but a peer-reviewed study of fatal crashes in Delhi says it is widely understood that rapid transfer to a medical facility improves outcomes.
+
+The golden hour is the hour after a traumatic injury when prompt medical care is most likely to prevent death. (Representative Photo: Getty Images)
+
+That study found that, over four years, no fatal crash site in the city was more than 45 minutes from a hospital. Yet it measured only the journey to the hospital, and its authors cautioned that the result holds only if a vehicle is available at the moment of the crash. Getting that vehicle to the victim is the gap Professor Balasubramanian wants the map to address.
+
+"When everything fails, I need to have great trauma care," he said. "I need to know where to position an ambulance." The second half of the puzzle, he said, is which hospital to go to. "If I have a head injury, going to a hospital where a neurosurgeon is not there is a waste of time." That question is the subject of separate work.
+
+### HOW DOES THE AMBULANCE MAP WORK?
+
+Accident records go in, and a map of waiting points comes out.
+
+The model was fed the state and district of each crash, its location, date and time, national highway records provided by the road transport ministry in September 2023, total deaths and the severity of the crash, the team said.
+
+Planners can filter IIT Madras’s ambulance map by state, district, day of the week and three-hour block of the day. (Representative photo of an ambulance: Getty Images)
+
+Think of each past accident as a pin on a map. Where the pins crowd together, danger lives. From such records, the tool draws super-hotspots as shaped patches, called polygons, on a digital map of India. Ambulances are then placed on and around them. A screenshot of the tool reviewed by India Today Digital shows Tamil Nadu, with 541 super-hotspot polygons and 497 unique ambulances. Along the road corridor running from Tambaram towards Chengalpattu, the purple stretches of hotspot and the red ambulance icons sit close together.
+
+Planners can filter the map by state, district, day of the week and three-hour block of the day. The professor said most accidents cluster in the evening and the early morning, a pattern the time filters let planners study. The tool can also mark tertiary, secondary and primary hospitals, meaning the most advanced, mid-level and first-contact facilities. Buttons measure distances and download the results as a spreadsheet.
+
+### HOW MANY AMBULANCES DOES INDIA NEED FOR ROAD ACCIDENTS?
+
+The map's answer is 4,237 at the minimum.
+
+The tool labels its total the minimum number of ambulances required for vehicular trauma, which means injuries from vehicle crashes. Nationwide, it counts 4,237 unique ambulances and 4,403 super-hotspots. In Tamil Nadu, the screen reads 497. These are the research team's own estimates, not a government norm.
+
+### HAS ANY STATE ADOPTED THE AMBULANCE MAP?
+
+Not yet, but talks are on.
+
+No state is using it today, the team said. It is under discussion for implementation as part of the data-driven hyperlocal interventions programme, which favours low-cost fixes tailored to a place over expensive, sweeping ones.
+
+No state uses IIT Madras’s ambulance map yet, but the locations computed for Tamil Nadu are under consideration there, the team said. (Representative photo: Getty Images)
+
+Tamil Nadu has used a similar approach with data from EMRI, the team said, and the locations computed by IIT Madras are under consideration there. EMRI is the agency that runs the 108 ambulance service in the state, under a public-private partnership.
+
+The map will not be released to the public, the team said. It is meant for state governments to use in planning. The team did not name an outside expert who could judge the model independently, saying it is still being discussed with the states.
+
+### CAN THE AMBULANCE MAP SAVE MORE LIVES?
+
+It is too early to count, and the team says so.
+
+The team said it cannot yet tell by how much the map cuts the time taken to reach victims. That would need the earlier positions of ambulances and their travel histories.
+
+To calculate how many more people would reach help within the golden hour, it would need real-time counts of demand and the ambulance cycle time, the time an ambulance takes to finish a trip and become free again.
+
+So, for now, the map is a careful proposal, not a proven cure. Its worth will be known when a state parks its ambulances where the map suggests and counts the minutes that follow. A siren is only as fast as the place it starts from.
+
+\- Ends
+
+---
+
+### Punjab man shows room's condition after Diwali rocket explodes inside, sparks fire
+*India Today Trending Desk · general*
+
+## Bharat Raj Dhawan, a resident of Bollywood Heights 1 in Punjab, shared several videos of the aftermath and raised concerns over the bursting of firecrackers within residential societies.
+
+Punjab man shows room's condition after Diwali rocket explodes inside (Photos: Bharat Raj Dhawan/Instagram)
+
+New Delhi,Nov 10, 2026 12:25 IST
+
+A man living in a residential society in Punjab’s Zirakpur claimed that a fire broke out in his room after a rocket, allegedly burst during Diwali celebrations, pierced through the window and exploded inside.
+
+Bharat Raj Dhawan, a resident of Bollywood Heights 1, shared several videos of the aftermath and raised concerns over the bursting of firecrackers within residential societies.
+
+He said the incident occurred at around 9:30 pm when a rocket entered his room through the window and exploded, setting it on fire. The impact also cracked the window.
+
+Bharat also questioned the society management's ability to regulate firecracker use on the premises. He claimed that despite residents raising concerns, people continued bursting crackers late into the night.
+
+“At around 12:45 am, these people were still bursting crackers. We called the society management and asked them to tell these people to stop and deploy a guard on duty,” he said.
+
+Showing the damage caused by the fire, Bharat said, “Only the person whose house catches fire knows what it feels like.” The video showed a burnt bed, a damaged air conditioner and household belongings scattered across the room.
+
+He further explained that the family had been awake when the incident occurred and noticed a smell similar to burning plastic before discovering the fire. “If the rocket had exploded after we had gone to sleep, nothing would have been left. Everything could have been destroyed. We were awake, noticed a smell and came to check, only to find the entire room engulfed in flames,” he said.
+
+Urging people to be mindful of their neighbours' safety, Bharat appealed to residential society management to prohibit the bursting of rockets and firecrackers within their premises.
+
+“I want to tell every society management that rockets and firecrackers should not be burst inside residential societies. People should burst them outside and look after their own safety as well as that of their neighbours,” he added.
+
+In another video, Bharat spoke about the emotional impact of the incident on his family, saying they had been unable to sleep properly since the fire. His children wake up crying at night and tell him that they no longer want to live in the house.
+
+“Our mental health has been affected. Do not ruin someone else's Diwali just to celebrate your own,” he said.
+
+Bharat Raj Dhawan’s account has raised concerns about the safety risks of bursting firecrackers within residential complexes, particularly when children and other residents are at risk. He urged people to celebrate festivals responsibly and ensure that their celebrations do not come at the cost of someone else's safety and peace of mind.
+
+\- Ends
+
+---
+
+### From Greece to Punjab’s fields: How a young farmer built a Rs 2-crore sugarcane enterprise
+*Majid Alam · legal*
+
+According to his estimates, the enterprise generates annual revenue of over Rs 2 crore and leaves him with net earnings of Rs 60-65 lakh after expenses.
+
+[Read full article](https://indianexpress.com/article/cities/chandigarh/from-greece-to-punjabs-fields-how-a-young-farmer-built-a-rs-2-crore-sugarcane-enterprise-10957351/)
+
+---
+
+### Republican congressman moves to impeach War Secretary Pete Hegseth over Iran war claims
+*India Today Video Desk · general*
+
+Republican Congressman Thomas Massie has introduced impeachment charges against War Secretary Pete Hegseth for unauthorized military actions in Iran, backed by President Trump but expected to fail. Indian-origin Democrat Pia Dandia won Florida's midterm election, becoming the first Indian American w...
+
+[Read full article](https://www.indiatoday.in/world/video/republican-congressman-introduces-impeachment-articles-against-war-secretary-pete-hegseth-ytvd-3035892-2026-11-10)
+
+---
+
+### 'I am devastated’: Trump as Dana White turns down WH Press Secy job
+*ET Online · business*
+
+US President Donald Trump says he is "devastated" after UFC CEO Dana White reportedly turns down the offer to become White House Press Secretary. White's decision has drawn attention, given his close association with Trump. The development has sparked conversations about the unusual intersection of ...
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/i-am-devastated-trump-as-dana-white-turns-down-wh-press-secy-job/videoshow/135702372.cms)
+
+
+---
+
 ## 9 November 2026
 
 ### 10 years of demonetisation: Why cash remains king in India
