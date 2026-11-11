@@ -1,3 +1,159 @@
+## 11 November 2026
+
+### Kai Cenat Turns Into A Dog During His GTA Marathon, Begs Chat For Help
+*Unknown · sports*
+
+Kai Cenat panicked after turning into a dog in GTA 5, blaming the strawberries he ate, which were most likely the game's peyote plants.
+
+[Read full article](https://sports.ndtv.com/us/us-streamers/kai-cenat-turns-into-a-dog-during-his-gta-marathon-begs-chat-for-help-12311464)
+
+---
+
+### Kelani Jordan To Defend The WWE NXT Women's Title Against Kendal Grey Again
+*Unknown · sports*
+
+Kelani Jordan will defend the NXT Women's Championship against former titleholder Kendal Grey on November 17. Grey returned on NXT, demanded the rematch she missed after Heatwave, and got her match approved by GM Robert Stone. Grey is now cleared.
+
+[Read full article](https://sports.ndtv.com/us/wwe/kelani-jordan-to-defend-the-wwe-nxt-womens-title-against-kendal-grey-again-12311444)
+
+---
+
+### WWE Makes Temporary Commentary Change As Booker T Misses NXT
+*Unknown · sports*
+
+Wade Barrett filled in for Booker T on WWE NXT commentary this week while the Hall of Famer was away on vacation. Barrett joined Vic Joseph, drawing on his own NXT history, as WWE kept Booker listed as part of the regular team. The swap is temporary.
+
+[Read full article](https://sports.ndtv.com/us/wwe/wwe-makes-temporary-commentary-change-as-booker-t-misses-nxt-12311401)
+
+---
+
+### No strikes, no peace deal: How Trump plans to keep Iran under pressure
+*Abhishek Mishra · politics*
+
+No strikes, no peace deal: How Trump plans to tighten the screws on Iran
+
+US President Donald Trump has settled on a third option in the Iran war, choosing to intensify economic pressure on Tehran rather than resume military strikes or agree to a peace deal on terms Washington considers unacceptable, according to an Axios report.US secretary of state Marco Rubio outlined the administration's approach during a meeting with G7 foreign ministers on Tuesday, saying Trump was not limited to choosing between renewed military action and a negotiated agreement with Iran.Instead, Washington plans to continue its existing pressure campaign and further tighten the financial squeeze on Tehran, Axios reported."The President doesn't just have two options. It's not just returning to war or signing a ridiculous peace deal.
+
+We won't do a stupid deal. The third option we have is to continue to do what we do now," Rubio said.He argued that maintaining the current strategy would steadily increase the financial burden on Tehran without forcing Washington to set a deadline for ending the pressure campaign.The strategy aims to weaken Iran's financial infrastructure to the point where it struggles to fund armed groups or rebuild its military capabilities.
+
+Rubio also argued that Tehran was inflicting serious damage on its own economy by refusing to accept Washington's conditions."The President is not under false time pressure, the Iranians are inflicting major damage on their own economy," Rubio mentioned.The approach comes after months of uncertainty over the direction of the conflict. Trump has repeatedly threatened devastating military action against Iran while insisting that Tehran would eventually give in to Washington's demands.
+
+The conflict has also become a domestic political liability, with Republican candidates suffering setbacks in the midterm legislative contests.An American official close to the administration told Axios that Trump had been weighing several options without being certain which course to pursue. However, after meeting Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani on Monday, Trump signalled that he preferred to avoid another round of military strikes.He described the possibility of fresh attacks on Iranian targets as highly unlikely and unnecessary under the current circumstances.The administration instead plans to maintain its economic offensive and naval blockade while pursuing a new operation, 'Iron Gate'. The operation is aimed at dismantling ground transportation routes allegedly used to smuggle advanced weapons and technology.According to administration sources cited by Axios, Rubio was among the key figures in Trump's national security team who advocated this approach.
+
+Treasury secretary Scott Bessent, CIA director John Ratcliffe and presidential adviser Jared Kushner were also involved in the discussions.The officials reportedly opposed a renewed military escalation, arguing that Iran's current negotiating position remained fundamentally at odds with American interests. They favoured maintaining stringent financial pressure on the regime instead.Rubio also expressed doubts about the prospects of an immediate diplomatic breakthrough, saying Iran's preconditions for formal negotiations were unworkable.
+
+Speaking to reporters after the G7 ministerial meeting, he said Tehran wanted an agreement but had failed to put forward constructive proposals.He suggested that prolonged economic pressure would eventually force Iran to reconsider its position, as mounting financial difficulties would become increasingly difficult for its leadership to sustain."Eventually you have to eat," Rubio said, suggesting that basic material realities would eventually sway even the most uncompromising factions within the Iranian hierarchy.However, Washington's strategy of maintaining an extended economic squeeze has raised concerns among some of its key regional partners, including Turkey, Pakistan and Iraq, an administration official told Axios.The three countries reportedly have reservations about Washington's preference for indefinite financial pressure over efforts to secure a stable, negotiated settlement with Tehran.
+
+---
+
+### OnePlus 17 Could Get Wider Screen Designed For Mobile Gaming: Here's What We Know
+*Waquar Haider · technology*
+
+Even as the OnePlus 16 navigates through the market, there have been early leaks regarding the next flagship phone from OnePlus. While this would be the OnePlus 17, it is likely that this smartphone will feature a major change in terms of the design of the phones from OnePlus by virtue of the wider display on the phone. If the latest leaks prove to be true, then OnePlus may go against the trend of the elongated screens that many smartphones have been featuring recently.
+
+## OnePlus 17 Could Get a Wider Screen
+
+The Weibo page of tipster Smart Pikachu, as translated from Chinese, hints that the OnePlus 17 will be one of five performance smartphones slated to come with wider screens in the coming year. The leak implies that the screen configuration will offer more horizontal views, thus providing gamers on mobile with more fields of view.
+
+> ColorOS 17 is bringing a smoother and more fluid experience to the OnePlus 12! ⚡ • Smoother system animations • More fluid transitions • Refined lock screen • Interactive music playback controls • Enhanced visual experience The animations look seriously smooth! #ColorOS17 #OnePlus12 #OnePlus #SoftwareUpdate #mymobileindia Video source:- @enough\_yt
+> 
+> — My Mobile (@MyMobile\_India) November 11, 2026
+
+Nevertheless, there is no information provided regarding the specifications of the panel. For example, the sizes of the screen, as well as its resolution and aspect ratio, remain unknown. It is worth noting that the tipster mentions only the OnePlus 17, which makes the post an early sign of what screen direction the company is considering for their future flagship.
+
+It is not the first time when rumors about the existence of a wider-screened OnePlus smartphone emerge. On a separate post in late October, the page of the tipster Digital Chat Station, as translated from Chinese, suggests that the company is unlikely to release a typical successor to the OnePlus 15T. Instead, they may introduce a smartphone with a wider screen.
+
+## OnePlus 17 Could Depart From Recent Flagship Designs
+
+This would be a significant deviation from the display strategy that OnePlus has employed in their latest flagship phones. To give you an idea, the OnePlus 15 features a 6.78-inch AMOLED display that supports 1.5K resolution and a maximum refresh rate of 165Hz. As for the OnePlus 16, it also sports a 6.78-inch AMOLED display, although it is expected to increase its refresh rate to 185Hz.
+
+Meanwhile, the alleged OnePlus 17 might decide to go against the trend and prioritize the width of the screen over the number of its refresh rate. Of course, such a strategy could be more useful in some cases like gaming, watching videos, and more.
+
+## OnePlus 16 India Launch: What We Know So Far
+
+On the other hand, the OnePlus 16 has already been released in China but is yet to hit India and other international markets. In recent times, there have been reports that OnePlus India executives convened a closed door meeting in Mumbai, Maharashtra regarding the possibility of launching the phone in India. This could imply that OnePlus India is still working towards bringing the new OnePlus flagship phone to India despite early assumptions about its release status.
+
+Price might be another key issue of discussion. It has been reported that the OnePlus 16 will make its way into the Indian market with a price range of around Rs. 1,30,000 – 1,40,000. However, if this price tag turns out to be true, the OnePlus 16 will cost quite a bit compared to its predecessor.
+
+To give a comparison, the OnePlus 15 is available on the company's official website in India at a price of Rs. 84,999 for the variant with 12GB RAM and 256GB Storage. The one with 16GB RAM and 512GB storage comes in at a price of Rs. 93,999. It is worth noting that OnePlus has not yet announced the OnePlus 17, neither has the company disclosed the screen size.
+
+**Also See: iPhone Air 2, iPhone 18 Dummy Models Surface Online, Hinting at Possible Camera Design Changes**
+
+---
+
+### Amit Shah's heartwarming moment with grandson goes viral
+*ET Online · business*
+
+A heartwarming moment featuring Union Home Minister Amit Shah and his grandson has caught the internet's attention. The video, captured during a Gujarati New Year gathering at Shah's residence in Ahmedabad, shows him holding his grandson's hand and accompanying him downstairs after giving in to the ...
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/amit-shahs-heartwarming-moment-with-grandson-goes-viral/videoshow/135727867.cms)
+
+---
+
+### 'I Bought A Bengaluru Flat and It Returned 0% For Six Years. Then This Happened'
+*Aishwarya Singh · general, business*
+
+A Reddit user shared how holding a 1,900 sq ft 3BHK on Bengaluru's Harlur Road paid off.
+
+[Read full article](https://www.ndtvprofit.com/personal-finance/i-bought-a-bengaluru-flat-and-it-returned-0-for-six-years-then-this-happened-12311289)
+
+---
+
+### Jey Uso Takes The Mr. WARGAMES Name After Roman Reigns’ Challenge To 946
+*Unknown · sports*
+
+Jey Uso calls himself “Mr. WARGAMES” after this week’s RAW, leaning on his record in every main-roster WarGames match. The Bloodline will face The 946 at Survivor Series, while Uso has also asked WWE for a place in John Cena’s December 14 Classic.
+
+[Read full article](https://sports.ndtv.com/us/wwe/jey-uso-takes-the-mr-wargames-name-after-roman-reigns-challenge-to-946-12311345)
+
+---
+
+### BSE Share Price Gains Over 2% After ICICI Securities Upgrades Rating To 'Add', Raises Target
+*Ankit Gohel · general, business*
+
+ICICI Securities highlighted a sharp improvement in BSE's operating performance, with quarterly EBITDA, excluding the Settlement Guarantee Fund (SGF), rising to Rs 10.9 billion in Q2FY27 from Rs 1.9 billion in Q2FY24.
+
+[Read full article](https://www.ndtvprofit.com/markets/bse-share-price-gains-over-2-after-icici-securities-upgrades-rating-to-add-raises-target-12311343)
+
+---
+
+### NMC warns students against unapproved medical colleges, misleading MBBS admission offers
+*Education Desk · legal*
+
+The court directed regulatory bodies to caution students against dealing with medical colleges without checking their authenticity. The orders followed a reported incident involving a purported fake medical college operating from a farmhouse and claiming to offer various courses.
+
+[Read full article](https://indianexpress.com/article/education/nmc-warns-students-against-unapproved-medical-colleges-misleading-mbbs-admission-offers-10958479/)
+
+---
+
+### "We Have Done Pretty Decent" - Philadelphia 76ers Star Tyrese Maxey Reflects On Team’s Early Season Performance
+*Unknown · sports*
+
+Tyrese Maxey said the 76ers have done "pretty decent" despite their third loss, a defeat to the Celtics. He urged the team to keep "stacking days" and not let it dwell before Thursday's game.
+
+[Read full article](https://sports.ndtv.com/us/nba/we-have-done-pretty-decent-philadelphia-76ers-star-tyrese-maxey-reflects-on-team-s-early-season-performance-12311337)
+
+---
+
+### A tale of 2 photos on Sonia Gandhi’s book – and a ‘what if’ note at end
+*Express News Service · legal*
+
+The BJP has criticised Sonia Gandhi's memoir, saying the “underlying thinking throughout the book revolves around the Babri (Masjid) vote bank”
+
+[Read full article](https://indianexpress.com/article/political-pulse/sonia-gandhi-memoir-belonging-a-journey-of-love-rajiv-gandhi-congress-bjp-10958566/)
+
+---
+
+### Reddit Reviews Feature Lets Users Explore Product Experiences
+*Nithya P Nair · technology, internet*
+
+Reddit said the initial testing phase of Reddit Reviews will include approximately 10,000 products.
+
+[Read full article](https://www.gadgets360.com/apps/news/reddit-reviews-testing-product-categories-feature-rollout-12311181)
+
+
+---
+
 ## 10 November 2026
 
 ### Soan Papdi who? These companies went big on Diwali gifts for employees this year
