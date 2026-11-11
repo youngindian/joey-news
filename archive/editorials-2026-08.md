@@ -1,5 +1,192 @@
 # Editorials archive — 2026-08
 
+## 12 August 2026
+
+### In the way: On the Tribunal Reforms Bill 2026
+*The Hindu · Editorial*
+
+Tribunals have a raison d’être in the justice system: they allow specialists to settle technical disputes faster than the judiciary could. In S.P. Sampath Kumar (1987) and L. Chandra Kumar (1997), the Supreme Court said that tribunals’ decisions remain subject to review by High Courts because judicial review is part of the basic structure. Sensible though they were, the orders left a structural flaw standing. Tribunals have historically been administered by the same Ministries whose decisions the tribunal might have to review. In Rojer Mathew (2019), the Court recommended an independent, statutory National Tribunals Commission (NTC) to oversee the selection and administration of tribunals. However, Parliament used the Finance Act 2017 to give the executive more control over appointments and the Tribunals Reforms Ordinance 2021 to reinstate conditions the Court had rejected. The final straw was the Court’s judgment in Madras Bar Association (2025), where it struck down the objectionable provisions Parliament had re-enacted, restored the previous framework, and gave the government four months to establish the NTC. That is the Tribunal Reforms Bill 2026, which the Lok Sabha passed on August 10 with no discussion, and the Rajya Sabha on August 11. To its credit, inter alia, the Bill restores the five-year terms for tribunal members, introduces uniform service conditions, includes provisions for a National Tribunals Data Grid, and does not maroon already pending appointments.
+
+However, the Bill still does not give the NTC enough institutional autonomy. For one, Section 14 leaves the qualifications, manner of selection, salaries, allowances, and other conditions of service of tribunal members to future executive rules. But in Rojer Mathew, Justice Deepak Gupta had held that defining who is qualified to exercise judicial power is an essential legislative function that cannot be delegated to rulemaking. Yet, the Bill claims consonance with the 2025 judgment while making room for the sort of delegation the judge’s line of reasoning had resisted. Experts have also flagged similarly vague language in Section 3. Further, under Section 16, a Ministry will first screen a complaint before it passes to the NTC for inquiry. So, while the process is more elaborate than it was in 2021, the Centre still appoints the NTC’s members, only consulting the CJI for the chairperson and judicial members, and retains substantial influence over its finances and administration. That is essentially a continuing failure: a commission designed to insulate tribunals from executive control cannot be thus subject to the terms of the executive. The government must make the NTC fully independent by forsaking its power to appoint or remove its members at will.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/in-the-way-on-the-tribunal-reforms-bill-2026/article71332673.ece)
+
+---
+
+### No path to peace: On Israel’s rejection of peace plan
+*The Hindu · Editorial*
+
+It has been nearly a year since the U.S.-brokered ceasefire supposedly ended Israel’s bombardment and decimation of Gaza. But since the ceasefire, Israel’s strikes have killed nearly 1,300 Palestinians and its forces hold about 65% of the Strip, where much of the two-million population lives in tent camps amid rubble with schools and hospitals shut. Aid remains severely restricted, while Israel has blocked reconstruction, insisting that Hamas disarm first. Yet, when Hamas agreed to decommission and store its heavy weapons in phases, with U.S.-backed Palestinian technocrats in step with a gradual Israeli withdrawal — as part of a 15-point road map proposed by the Donald Trump-led “Board of Peace” — Israeli Prime Minister Benjamin Netanyahu refused to accept this. He said Israel was “ruling out the 15-point document” and that there would be no withdrawal until Hamas gave up “heavy weapons, lighter weapons, all weapons”. Israel is keen not only on Hamas’s disarmament, but also on the total subjugation of Gaza, at a continuing cost to civilians and children. It faces genocide proceedings at the International Court of Justice while the International Criminal Court has issued an arrest warrant for Mr. Netanyahu, who also faces a corruption trial still before the courts. By promising the complete destruction of Hamas, he has been trying to stay in power by retaining the support of the jingoistic right wing; any concession on withdrawal would invite political repercussions for his right-wing coalition in elections due in October.
+
+The war on Iran launched by Mr. Trump and Israel on February 28 to effect a regime change has proved to be a disaster, setting off a fuel crisis that has affected several countries. With the Strait of Hormuz barely functioning, rising costs of American petrol and fertilizers have begun to affect the U.S. economy, leading to Mr Trump seeking a face-saving breakthrough in West Asia. Waning sympathy for Israel as the U.S. mid-term elections approach also explains the Board’s proposal. While the farcical Board’s vision of a “New Gaza” — free-trade zone, privatised infrastructure, no Palestinian representation on the Board — resembles an attempt at naked profiteering following the disastrous conflict, the 15-point proposal would actually be welcomed by the battered people of Gaza. For Hamas, which has few cards left, disarmament is an imperative, but must be matched by Israeli withdrawal. Mr Trump and his advisers must ask whether Washington’s decades-long Faustian bargain — arming and shielding a militarised Israel on Israel’s terms — is worth continuing, or whether it will use its leverage as Israel’s principal arms supplier to compel a genuine withdrawal. It is still not too late.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/no-path-to-peace-on-israels-rejection-of-peace-plan/article71333380.ece)
+
+---
+
+### Beyond an alliance, the case for a Congress-SP merger
+*The Hindu · Opinion*
+
+The Congress party, under its leader Rahul Gandhi, is attempting perhaps its most significant ideological and social repositioning. It seeks to recast itself as the principal political vehicle of the Bahujans: the broad social coalition of Other Backward Classes (OBCs), Scheduled Castes, Scheduled Tribes, and economically disadvantaged groups among the upper castes and minorities. In doing so, it is consciously trying to move beyond its long-standing image as a party whose leadership and institutional culture were dominated by upper castes, even while it enjoyed substantial support from the rest. Mr. Gandhi’s repeated emphasis on a nationwide caste census, his slogan ‘Jitni Abadi, Utna Haq (rights proportional to population’), and his persistent advocacy of greater representation in state institutions all reflect a larger political project: to redefine the Congress as the natural home of social justice and equitable representation.
+
+Samajwadi Party (SP) chief Akhilesh Yadav too is engaged in an equally ambitious exercise for his party. The SP has long carried the perception of being primarily a Yadav-Muslim formation: a coalition that delivered electoral success but also imposed clear political limits. Mr. Yadav now seeks to broaden that social base. His formulation of Pichhda, Dalit, Alpsankhyak (PDA, i.e., Backward Classes, Dalits and Minorities) signals an effort to transform the SP from a caste-centred regional party into a wider coalition across caste and religious lines. He has now said P stood also for Pandits, i.e., Brahmins.
+
+[Read full article](https://www.thehindu.com/opinion/lead/beyond-an-alliance-the-case-for-a-congress-sp-merger/article71333242.ece)
+
+---
+
+### गठबंधन नहीं, विलय: क्या सपा और कांग्रेस का मिलन बदल सकता है भारत की राजनीति?
+*The Hindu · Opinion*
+
+राहुल गांधी के नेतृत्व में कांग्रेस शायद अपना सबसे महत्वपूर्ण वैचारिक और सामाजिक पुनर्गठन करने का प्रयास कर रही है। वह खुद को ‘बहुजनों‘—यानी अन्य पिछड़ा वर्ग (OBC), अनुसूचित जाति (SC), अनुसूचित जनजाति (ST), उच्च जातियों के आर्थिक रूप से कमजोर वर्गों और अल्पसंख्यकों के व्यापक सामाजिक गठबंधन—के मुख्य राजनीतिक वाहन के रूप में फिर से ढालने की कोशिश कर रही है।
+
+ऐसा करके, कांग्रेस अपनी उस पुरानी छवि से सचेत रूप से बाहर निकलने का प्रयास कर रही है, जहाँ उसका नेतृत्व और संस्थागत संस्कृति सवर्णों के वर्चस्व वाली मानी जाती थी; भले ही उसे बाकी वर्गों से भी भारी समर्थन मिलता रहा हो। देशव्यापी जाति जनगणना पर राहुल गांधी का बार-बार जोर देना, उनका नारा “जितनी आबादी, उतना हक“, और राज्य की संस्थाओं में अधिक प्रतिनिधित्व की उनकी लगातार वकालत, एक बड़े राजनीतिक प्रोजेक्ट को दर्शाती है: कांग्रेस को सामाजिक न्याय और समान प्रतिनिधित्व का स्वाभाविक स्थान बनाना।
+
+समाजवादी पार्टी (सपा) के अध्यक्ष अखिलेश यादव भी अपनी पार्टी के लिए इतने ही महत्वाकांक्षी प्रयोग में लगे हुए हैं। सपा पर लंबे समय से मुख्य रूप से ‘यादव-मुस्लिम‘ समीकरण वाली पार्टी होने का ठप्पा लगा रहा है—एक ऐसा समीकरण जिसने चुनावी सफलता तो दी, लेकिन साथ ही स्पष्ट राजनीतिक सीमाएं भी निर्धारित कर दीं। अखिलेश यादव अब उस सामाजिक आधार को विस्तार देना चाहते हैं। उनका PDA यानी ‘पिछड़े, दलित, अल्पसंख्यक‘ का फार्मूला सपा को एक जाति-केंद्रित क्षेत्रीय दल से बढ़ाकर जाति और धर्म की सीमाओं से परे एक व्यापक गठबंधन में बदलने के प्रयास का संकेत है। अब तो उन्होंने यह भी कहना शुरू कर दिया है कि ‘P’ का मतलब ‘पंडित‘ यानी ब्राह्मण भी है।
+
+दरअसल, राहुल गांधी और अखिलेश यादव की राजनीति अब लगभग एक ही दिशा में आगे बढ़ती दिखाई दे रही है। दोनों सामाजिक न्याय, बराबरी का प्रतिनिधित्व और समावेशी लोकतंत्र की बात कर रहे हैं। दोनों की नजर लगभग एक ही सामाजिक समूह पर है।
+
+अगर दोनों दल एक-दूसरे के खिलाफ चुनाव लड़ते हैं, तो जिस सामाजिक आधार को वे मजबूत करना चाहते हैं, वही बंट सकता है। लेकिन अगर वे एक साथ आ जाते हैं, तो एक-दूसरे की ताकत बढ़ा सकते हैं।
+
+फिलहाल दोनों उत्तर प्रदेश में चुनावी गठबंधन की तैयारी कर रहे हैं। हमेशा की तरह सीटों के बंटवारे को लेकर लंबी और कठिन बातचीत होगी और संभव है कि गठबंधन बन भी जाए। लेकिन सवाल यह है कि क्या मौजूदा राजनीतिक परिस्थितियों में केवल गठबंधन से बीजेपी के ताकत का मुकाबला किया जा सकता है?
+
+पिछले एक दशक में भाजपा की राजनीति का एक बड़ा आधार विपक्षी दलों में बिखराव रहा है। विपक्षी गठबंधनों को कमजोर किया गया, कई दलों में टूट हुई और क्षेत्रीय पार्टियों को एक-दूसरे से मुकाबला करने के लिए प्रेरित किया गया, ताकि वे साझा मंच पर एक साथ न आ सकें।
+
+ऐसी स्थिति में सवाल यह है कि क्या इसका जवाब सिर्फ एक और गठबंधन हो सकता है, या उससे बड़ा कदम उठाने की जरूरत है? अगर उत्तर प्रदेश में भाजपा के दो सबसे बड़े प्रतिद्वंद्वी—कांग्रेस और समाजवादी पार्टी—गठबंधन करने के बजाय एक ही पार्टी बन जाएँ, तो क्या भारतीय राजनीति की तस्वीर बदल सकती है?
+
+अगर कांग्रेस और समाजवादी पार्टी का विलय होता है, तो दोनों दलों को राजनीतिक, संगठनात्मक और चुनावी स्तर पर बड़ा फायदा मिल सकता है। इतना ही नहीं, इससे देश की राजनीति में भी नए सिरे से बदलाव की शुरुआत हो सकती है।
+
+दोनों पार्टियां अपनी-अपनी पुरानी छवियों से बाहर निकल सकती हैं। कांग्रेस पर लंबे समय से यह आरोप लगता रहा है कि वह सवर्णों और मुसलमानों की पार्टी है, जबकि समाजवादी पार्टी को अब भी मुख्यतः यादवों की पार्टी माना जाता है। दोनों के एक होने से इन सीमित पहचानों को पीछे धकेलकर एक ऐसी नई कांग्रेस सामने आ सकती है, जो हर जाति और हर समुदाय के लोगों के अधिकार और प्रगति का मंच बने।
+
+ऐसी स्थिति में समाजवादी पार्टी को अपनी अलग संगठनात्मक पहचान छोड़नी पड़ सकती है। लेकिन इसका यह मतलब नहीं होगा कि समाजवादी विचारधारा खत्म हो जाएगी। उलटे, वह अपने मूल स्वरूप में लौट सकती है। आज़ादी की लड़ाई के दौरान समाजवादी धारा कांग्रेस के भीतर ही सक्रिय थी। बाद में वैचारिक और राजनीतिक मतभेदों के कारण समाजवादी नेताओं ने कांग्रेस से अलग रास्ता चुन लिया था।
+
+आज राहुल गांधी उसी कांग्रेस की राजनीति को बदलने की कोशिश कर रहे हैं। वे सामाजिक न्याय और जातिगत बराबरी को पार्टी की राजनीति के केंद्र में लाना चाहते हैं। एक तरह से वे कांग्रेस की पुरानी राजनीतिक विरासत में बदलाव कर रहे हैं।
+
+अखिलेश यादव के सामने भी ऐसा ही अवसर है। वे चाहें तो समाजवादी पार्टी को अलग क्षेत्रीय दल बनाए रखने के बजाय समाजवादी विचारधारा को एक बदली हुई कांग्रेस के भीतर नई ताकत के रूप में स्थापित कर सकते हैं। इस बार समाजवादी धारा कांग्रेस के हाशिए पर नहीं, बल्कि उसकी सबसे महत्वपूर्ण वैचारिक ताकतों में से एक हो सकती है।
+
+अगर ऐसा होता है, तो भारतीय राजनीति में एक बिल्कुल नई संगठनात्मक व्यवस्था सामने आएगी। व्यावहारिक रूप से इसका मतलब होगा कि उत्तर प्रदेश में कांग्रेस का नेतृत्व प्रभावी तौर पर अखिलेश यादव के हाथों में होगा।
+
+भारतीय राजनीति में अब तक कई बड़े क्षेत्रीय नेता कांग्रेस छोड़कर अपनी अलग पार्टी बना चुके हैं। शरद पवार और ममता बनर्जी इसके सबसे बड़े उदाहरण हैं। लेकिन अगर पहली बार कोई मजबूत क्षेत्रीय नेता अपनी अलग पार्टी को कांग्रेस में मिलाकर राष्ट्रीय राजनीति का हिस्सा बनने का फैसला करे, तो यह भारतीय राजनीति में बिल्कुल नया प्रयोग होगा।
+
+चुनावी दृष्टि से भी इसके बड़े नतीजे हो सकते हैं। बहुजन समाज पार्टी के कमजोर पड़ने और उसके समर्थकों में बढ़ती निराशा के कारण बड़ी संख्या में दलित मतदाता नए राजनीतिक विकल्प की तलाश में हैं। कांग्रेस और समाजवादी पार्टी का संयुक्त मंच उनके लिए एक मजबूत विकल्प बन सकता है। यह नहीं कहा जा सकता कि बसपा के सभी वोट अपने-आप इस नए दल को मिल जाएंगे, लेकिन दोनों पार्टियों के अलग-अलग लड़ने की तुलना में एकीकृत पार्टी के लिए उन मतदाताओं का भरोसा जीतना ज्यादा आसान होगा।
+
+एक और महत्वपूर्ण पहलू भी है। आज की राजनीति पहले की तुलना में कहीं अधिक राष्ट्रीय और वैश्विक होती जा रही है। ऐसे दौर में केवल क्षेत्रीय और जाति-आधारित दलों के लिए लंबे समय तक अपनी राजनीतिक ताकत बनाए रखना मुश्किल हो सकता है।
+
+समाजवादी पार्टी भी भविष्य में उन्हीं चुनौतियों का सामना कर सकती है, जिनसे बिहार में राष्ट्रीय जनता दल या तमिलनाडु में द्रविड़ पार्टियां जूझ रही हैं। इसलिए अखिलेश यादव के लिए कांग्रेस में विलय केवल अगले चुनाव की रणनीति नहीं होगा, बल्कि भविष्य की राजनीति को ध्यान में रखकर लिया गया एक दूरदर्शी फैसला भी हो सकता है। इससे उनकी राजनीतिक भूमिका भी बदल सकती है। वे एक क्षेत्र की सीमा से उपर उठकर राष्ट्रीय राजनीति में क्षेत्रीय सीमाओं से परे जाकर, देश की उभरती राजनीति को नई दिशा देने वाले मुख्य चेहरा बन सकते हैं।
+
+चाहे गठबंधन हो या दोनों दलों का विलय, यह महज वोटों का जोड़-घटाव नहीं होता। 2019 के लोकसभा चुनाव में समाजवादी पार्टी और बहुजन समाज पार्टी का गठबंधन इसका सबसे उपयुक्त उदाहरण है। 2014 के लोकसभा चुनाव में उत्तर प्रदेश में समाजवादी पार्टी को 22.18 फीसदी और बहुजन समाज पार्टी को 19.62 फीसदी वोट मिले थे। यानी दोनों मिलाकर 41.8 फीसदी वोट था। लेकिन जब दोनों 2019 में राष्ट्रीय लोकदल के साथ मिलकर चुनाव लड़े, तब गठबंधन का वोट शेयर घटकर 39.23 फीसदी रह गया और उसे केवल 15 सीटें ही मिल सकीं।
+
+इससे साफ है कि चुनावी राजनीति केवल गणित का खेल नहीं है। वोटों का सीधा जोड़ हमेशा चुनावी सफलता में नहीं बदलता। राजनीतिक समीकरण और मतदाताओं का व्यवहार कहीं अधिक जटिल होता है।
+
+इसी तरह, कांग्रेस और समाजवादी पार्टी का विलय भी अपने-आप उन चुनौतियों को खत्म नहीं कर देगा, जिनका सामना दोनों दल आज कर रहे हैं। दोनों पर वंशवादी राजनीति करने और पुराने ढर्रे से बाहर न निकल पाने के आरोप लगते रहे हैं।
+
+अगर कांग्रेस को सचमुच नई शुरुआत करनी है, तो उसे पी. वी. नरसिंह राव और सीताराम केसरी के दौर से सीख लेते हुए मल्लिकार्जुन खड़गे के नेतृत्व को और मजबूत करना होगा। नेहरू–गांधी परिवार पार्टी में महत्वपूर्ण भूमिका निभाता रहे, लेकिन हर समय वही सबसे आगे दिखाई दे, यह ज़रूरी नहीं है। ये सोचना चाहिए कि क्या कारण है कि शरद पवार, ममता बनर्जी और वाई. एस. जगन मोहन रेड्डी जैसे नेता कांग्रेस से अगल हुए?
+
+अखिलेश यादव के सामने भी ऐसी ही चुनौती है। उन्हें भी अपनी पार्टी और नेतृत्व को अधिक उदार बनाना होगा, ताकि अलग-अलग सामाजिक और राजनीतिक पृष्ठभूमि से आने वाले प्रतिभाशाली लोगों को आगे बढ़ने का मौका मिले। इन जोखिमों के बावजूद राहुल गांधी और अखिलेश यादव का रिश्ता केवल चुनावी मजबूरी या अवसरवादी समझौता नहीं है। दोनों के बीच वैचारिक समानता भी है। अगर वे अलग-अलग रहते हैं तो एक ही सामाजिक आधार के लिए प्रतिस्पर्धा करते रह सकते हैं। दोनों अपनी-अपनी पार्टियों को लगभग एक जैसी सामाजिक सोच के आधार पर नए सिरे से गढ़ना चाहते हैं। दोनों का लक्ष्य ऐसी राजनीतिक ताकत तैयार करना है, जिसमें अलग-अलग धर्मों और जातियों के लोग सामाजिक न्याय के साझा एजेंडे पर एकजुट हों।
+
+Click here to read this article in English.
+
+[Read full article](https://www.thehindu.com/opinion/lead/hindi-translation-of-beyond-an-alliance-the-case-for-a-congress-sp-merger/article71335073.ece)
+
+---
+
+### DC Edit | Mineral Rights Bill: Consult States
+*Deccan Chronicle · Editorial*
+
+The Union government’s decision to introduce the Mines and Minerals (Development and Regulation) (MMDR) Amendment Bill to prevent uneven taxation of mineral rights and mineral-bearing lands in the country is welcome. The bill will lead to a predictable cost structure for mining companies across the country.
+
+A uniform cost structure will promote ease of doing business for miners. The new bill will provide certainty, stability and predictability in the fiscal regime in the mineral sector. In the process, however, the bill infringes on the state government’s right to collect charges that the Supreme Court sanctioned.
+
+According to a nine-judge bench of the Supreme Court, royalty is not a tax, and it is a contractual and financial consideration paid by a lessee to a lessor for the privilege of removing minerals, not a compulsory exaction or tax. This bill, however, states that “no tax, cess or such other levy (by whatever name called) shall be imposed by the state government on mineral rights”.
+
+Though Entry 50 of the State List empowers the state government to tax extraction of minerals, Entry 54 of the Union List makes the state power subordinate to limitations imposed by the Centre by law. However, a nine-judge bench of the Supreme Court in 2024 ruled that the state government can collect royalty as it is not like tax, and therefore, not restricted by the MMDR Act.
+
+The current bill effectively seeks to overturn the Constitution Bench’s judgment and denies the state government one of its revenue streams, which was duly declared valid by the Supreme Court.
+
+While the objective of the amendment is understandable, the Central government needs to adopt a consultative approach on the issue and build consensus with states before snatching their source of revenue by force of law. The Centre should also make good the loss to state governments caused by this law.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-mineral-rights-bill-consult-states-1978468)
+
+---
+
+### K.C. Singh | Pak-Saudi-Turkish Pact A Fresh Challenge For India
+*Deccan Chronicle · Opinion*
+
+On August 7, 2026, a trilateral mutual defence agreement was signed between Turkey, Saudi Arabia and Pakistan in Mecca. The venue, which has Islam’s holiest mosque, symbolises a convergence of three powerful Islamic nations. The mutual defence clause reflects Article 5 of the Nato agreement. Though Egypt had joined the negotiations earlier, it kept away. Turkey’s foreign minister, Hakan Fidann, expects it to join soon. Turkish leaders emphasised that the agreement was not aimed at any country and was a purely defensive measure.
+
+Though not a “Middle Eastern Nato”, some term it the “Islamic Nato”. Members of Nato had shared concerns about countering the Soviet Union and the Warsaw Pact countries. In fact, their joining the 2001 US intervention in Afghanistan went beyond the original mandate. Also, Nato countries have a joint command and control syatem and a shared nuclear deterrence, though the US retains the control of forward-deployed nuclear weapons.
+
+The three Mecca agreement nations have some, not totally, overlapping threat concerns. Turkey has had differences with Israel. Israeli Prime Minister Benjamin Netanyahu even declared that “our next target is Turkey”. Consequently, Turkish President Recep Tayyip Erdogan announced that “now you can’t even touch our hair”. Turkey has berated Israeli military intrusions into Lebanon and pressure on the Syrian regime, which Turkey helped install. Turkey’s relations with Iran have fluctuated. But they share an interest in containing the aspirations of the Kurdish community which dominates eastern Turkey, the northern parts of Syria and Iraq as well as western Iran. Reportedly, Turkey restrained Israel from employing Iraqi Kurds for a ground operation against Iran, co-opting Iran’s Kurdish minority, at the start of the US-Israeli war.
+
+Ironically, the Turkish Ottoman Empire, after recapturing Diriyah, the first Saudi state, in 1818, took the al-Saud family ruler and his sons prisoner. They were beheaded in Istanbul, then Constantinople, in 1818. Recent Saudi-Turkish differences first arose over Turkey supporting the Arab Spring in 2010-11. Then came the brutal killing of American journalist Jamal Khashoggi in the Saudi consulate in Istanbul. Now the shared threats eclipse the past differences.
+
+Saudi Arabia basically perceives a threat from Iran and its allies like Yemen’s Houthis and Iraq’s pro-Iran militias. Yemen has had a truce since 2022, but recently the Houthis targeted Saudi Arabia’s Aramco oil facility. Regarding Israel, the Saudis have resisted US pressure to sign the 2020 Abraham Accords and normalise relations, demanding that Israel must first present a pathway to a Palestinian state. In fact, the Saudis hurriedly signed a mutual defence agreement with Pakistan in September 2025, days after Israel targeted Hamas in Qatar, which created a perception of the US being unable or unwilling to control Israel targeting the GCC countries. However, the US-Israeli airstrikes on Iran on February 28 triggered the Iranian retaliation on US military bases and assets in the GCC nations. Thus, the present Mecca agreement covers Saudi Arabia’s perceived threats from both Israel and Iran plus its allies.
+
+Pakistan presents a different case. Since independence, it has repeatedly tried grabbing the India-controlled Jammu and Kashmir by force or multilateral UN intervention or terrorism-based blackmail. After 1947, while India chose nonalignment during the Cold War, Pakistan accepted military alliances with the US and Britain. In 1954, it signed the mutual defence assistance agreement with the US for obtaining military assistance in exchange for an anti-Communist posture.
+
+The new Air Force aircraft and the Army’s tanks gave Pakistan a military advantage over India, which instead was focused on development and not strengthening its defence forces. China militarily defeating India in 1962 and the 1964 death of Prime Minister Jawaharlal Nehru left the Indian defence forces demoralised and under-equipped. Perceiving Indian vulnerability, Pakistan tried in 1965 to militarily grab Kashmir, but failed.
+
+The military alliance with the United States slowly weakened after Pakistan declined to send troops to assist America during the Vietnam War. It eventually collapsed after India won the 1971 war, leading to the creation of Bangladesh. Pakistan since then has aligned with China as both countries want to contain India while keeping their outstanding disputes alive. In between, Pakistan again became the military spearhead of the US-Saudi countering of the Soviet military intervention in Afghanistan in 1979.
+
+In the new trilateral arrangement, the Saudis bring oil wealth and religious standing; Turks contribute a modern army and weapons compliant with Nato standards; and Pakistan represents the only Islamic nation possessing nuclear weapons. But the “mutual defence” commitment has limits. Iran’s recent targeting of Saudi Arabia, over the existence of US military bases on its soil, saw...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/kc-singh-pak-saudi-turkish-pact-a-fresh-challenge-for-india-1978476)
+
+---
+
+### A course correction in rural quota
+*Deccan Herald · Editorial*
+
+The proposal to create a sub-quota in professional courses for students from rural government schools within Karnataka’s existing rural quota is a necessary correction. Reservation is intended not merely to earmark seats but to ensure that affirmative action reaches the students for whom it was intended. The existing 15% rural reservation appears to have developed a loophole that has allowed relatively privileged urban families to benefit from it. Conceived to help rural students facing disadvantages in access to quality education, infrastructure, coaching, and other academic resources, the intent has been undermined by the rapid growth of private residential schools in rural areas, particularly those affiliated with the CBSE and ICSE. Over the past 15 years, such schools have drawn students from urban centres such as Bengaluru and Mysuru. By studying in these institutions for the mandatory 10 years, such students qualify for the rural quota despite having little connection with the educational deprivation it was designed to address.
+
+Over time, this has displaced students from public schools who face genuine educational distress. Data from the Karnataka Examinations Authority show the extent of this distortion: of the 2,246 seats allotted under the rural quota in professional courses over three years, 1,610, or nearly 72%, went to private-school students. This is further corroborated by the Administrative Reforms Commission report, which notes that although rural CBSE/ICSE students account for only 5% of Class 10 candidates, they capture more than half of rural medical seats. Such figures reveal how relatively privileged students benefit from the eligibility criteria, leaving genuine rural beneficiaries vulnerable. The proposal should therefore be seen as a rectification of this imbalance rather than the creation of another layer of reservation. Since it is carved out of the existing rural quota, it does not breach the Supreme Court’s 50% ceiling.
+
+Online public opinion poll for reprinting out-of-stock Kannada classicsTamil Nadu has introduced a 7.5% horizontal quota for government-school students in professional courses, while Odisha, Puducherry, and Madhya Pradesh have adopted similar provisions. Karnataka can draw lessons from these models while tailoring its policy to local circumstances. The government must now frame unambiguous eligibility criteria, guard against fraudulent claims, and periodically audit admission outcomes. Affirmative action must be judged by whether it reaches those who need it most. Correcting this distortion is justified and long overdue. But true equity will depend on sustained investment in rural government schools – improving infrastructure, teaching quality, and academic standards – so that students are not merely protected by quotas but empowered by education itself.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-course-correction-in-rural-quota-4107779)
+
+---
+
+### Dissent meets selective solidarity
+*Deccan Herald · Editorial*
+
+In the agitation by student groups in Ranchi, there are striking parallels with the protests in Delhi’s Janta Mantar – in both form and objectives. The protesters in Jharkhand are demanding accountability for breaches in tests conducted by the state’s public service commission and staff selection commission, and over examination paper leaks. Following talks with the students, the state government cancelled three examinations, and three members of the Jharkhand Public Service Commission (JPSC) resigned. Protesters, who demand a probe by the Central Bureau of Investigation (CBI) into examination malpractices and the functioning of a Lucknow-based testing agency, were lathi-charged and tear-gassed during their march to the state Assembly.
+
+The protests are especially significant for the larger message of youth discontent they carry. At the heart of this response is a broken education and examination system that triggers anxieties among large sections of vulnerable youth. The country has often been warned about the cost of failing to meet the aspirations of its young demographics, and the present distress and street expression are responses to this failure. The names of the exams, the erring institutions, and the details may vary from state to state, but the common theme is the failure of the establishment. In Delhi, the focus was on the resignation of a recalcitrant minister. In Ranchi, too, the protesters seek accountability from the system, though their demands have not taken an overwhelmingly political form. The message may be that youth dissent becomes political when it is handled politically or when established democratic means of protest fail.
+
+CAG cites Bengaluru Metro-BMTC non-integration for missed ridershipInstitutional responses – whether from the ruling Bharatiya Janata Party (BJP) at the Centre or from the Opposition parties in states – have been largely similar. Though the Jharkhand government claims that 98% of the protesters’ demands have been accepted, the ground situation indicates a prevailing disconnect. Political responses have been predictably opportunistic. Congress leader Rahul Gandhi has condemned police action on the students, though his party shares power in the state. He should now offer guidance to the government on managing the situation. The BJP says the state government should have talked to the protesters on the first day; however, its government at the Centre, and its leaders, did not engage with the protesting students in Delhi for days, and consistently vilified them. Governments and political parties must realise that the youth take to the streets when the leadership fails. Their protests are desperate calls for systemic accountability. That desperation should be addressed, and not weaponised for political points.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/dissent-meets-selective-solidarity-4107791)
+
+---
+
+### Why Gen Z can’t be won over easily
+*Deccan Herald · Opinion*
+
+Prime Minister Narendra Modi has taken to Instagram, aiming his messages at the tell-it-as-it-is generation called ‘Gen Z’. Rashtriya Swayamsevak Sangh (RSS) chief Mohan Bhagwat has also opened conversations with them. The establishment, it appears, wants to listen to voices that, in a matter of 12 days at their peak, wiped out 12 years of carefully constructed PR campaigns that sold a particular image of the current leadership. This was a new kind of bulldozer effect, giving the Bharatiya Janata Party (BJP) a taste of its own medicine in the digital world.
+
+But how do you patch up with those who reject yesterday’s polite conversation and genteel criticism for raw honesty and stripped-down candour unknown and not understood in India’s hierarchical social order? One safe statement bandied about in old-world fashion (and outdated management training) used to be that it is okay to be disagreeable, but please do it agreeably. In India, authority is presumed to be knowledgeable and responsible. We are told to “respect” the Prime Minister. The Gen Z wants to ask: “Why?” If there is so much to disagree with, why not throw out the niceties and disagree in a disagreeable way?
+
+Belagavi | Govt opinion on pro-Karnataka resolution soon: Minister Satish Jarkiholi By boldly walking that path, the protesters who made history at Jantar Mantar by gaining the rare exit of an incompetent minister taught the BJP-RSS some important lessons. They also turned many assumptions on their head, not the least of which is that fancy campaigns, hyperbolic language, and fantastic claims may build you temporarily but can tear you apart eventually. In this new world, the number of followers does not determine the extent of your influence. Numbers date back to the age of influencers. This is the age of anti-influencers who are ready to call you out. Raw numbers fail to reveal the true political pulse of the audience. In a digital space flooded with aggressive, fish-market-style propaganda, high view counts do not necessarily translate to agreement. IT cells either mistake forced visibility for genuine support or have an interest in promoting this easy metric, masking a growing audience that watches not out of admiration, but out of deep skepticism and contempt.
+
+What matters in this world is the honesty of content, not the flaky paint of the form. It brings back the classic style of conversation rooted in the world of spontaneity that is increasingly being seen as a byword for trust and conviction. This grammar is not so new; it is a way of being that was lost to the age of gloss, false framing, and feigned outrage on controlled television and money-spinning social media platforms. Gen Z have reclaimed the classic, and they deserve to be celebrated just for that if not more. The system pushed too far in one direction, and the spring has now pulled back.
+
+The dynamic mounts an almost insurmountable hurdle for a leadership that is fashioned from ideas of power, machismo, and the grandiose approaches that are neither felt nor desired by a new generation of citizens. To use a modern-day analogy: the young person on a date is not impressed by the quality of the car but by how you treat the waiter. In tests such as these, the BJP stands on weak ground.
+
+A generation that celebrates diversity, experiences climate anxiety, and distrusts corporate honchos will naturally reject the bulldozer Raj and the crony capitalism that hallmarks our times. When a Prime Minister who is himself quite senior by age jokes that older people feel the weather because their responses are jaded and not because climate change is real (September 5, 2014; remarks to school children), the created image has already suffered a hit in the eyes of those who worry about the environment. The impact of that hit may follow much later.
+
+The fundamental divide was evident during the Prime Minister’s address at the IIT Delhi convocation last week. Beyond the cliches of “syllabus” on campus versus “out-of-syllabus” characteristics of life, or mimicking Gen Z terms like “bloodline”, his core advice to the graduates was to tackle massive challenges by breaking them down into smaller components. As anyone working on the world’s wicked problems knows, this reductionist approach is precisely what is blamed for the big crises of our times, such as climate change. The universal call from leaders sensitive to the connectedness around us is to look for systemic accounts of how the world and nature work, to understand how one act impacts another, and to extend this understanding widely, calling for science to be humane and to be driven by values rather than a march of the value-free. That may be more like Gen Z language.
+
+Seen in this light, Gen Z may well represent the rejection of the philosophical foundations of the BJP-RSS. Of course, the party under its current leadership will not climb down easily – it has the resources to fight back, but there is little hope of recreating the story for a new audience. The Congress under Rahul Gandhi may have emerged as an attractive proposition. Yet, Rahul Gandhi will have to face difficult tests, one of which is the political twist seen in protests by students in Jharkhand who were lathi-charged, especially since the government is in power with the Congress’s support. In sum, it would be a mistake to see the story of the changed political scenario as an issue of style or language or rebellious youth when it may well represent a shift in the substance of the politics of our times.
+
+(The writer is a journalist and faculty member at SPJIMR; Syndicate: The Billion Press)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/why-gen-z-cant-be-won-over-easily-4107771)
+
+---
+
 ## 11 August 2026
 
 ### Case for consensus: On delimitation

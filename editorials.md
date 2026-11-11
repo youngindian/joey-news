@@ -1,8 +1,182 @@
 # Editorials
 
-_Last updated: 2026-11-10 08:44 UTC_
+_Last updated: 2026-11-11 08:09 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 11 November 2026
+
+### Caste and class: On OBC reservation
+*The Hindu · Editorial*
+
+If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant. The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently. The Supreme Court in March corrected one inconsistency, that the government cannot hold the salary alone of an OBC candidate’s parent as evidence of social advancement. In Indra Sawhney (1992), the Court upheld the government’s 27% reservation for OBC candidates in central government services if it also excluded economically advanced sections, i.e., the creamy layer, among OBCs. Following the equivalence requirement issued in 1993, the Department of Personnel & Training (DoPT) issued a “clarification” in 2004 that the government used, from around 2015, to deny dozens of OBC candidates who had cleared the Civil Services Examination their benefits because their parents’ salaries exceeded the official threshold due to pay revisions that did not always reflect changes in occupational status. The Cabinet also approved equivalence guidelines in 2017 but a parliamentary committee criticised it over a number of issues.
+
+In Rohith Nathan (2026), the Court rightly rejected the government’s use of the 2004 “clarification” to arbitrarily exclude OBC candidates based on their parents’ salaries alone. However, the government stalled service allocations following the 2025 examination and appealed that retrospectively applying the ruling would create administrative chaos. On November 6, the Court conceded that it had not asked the government to reopen completed selections, as it could set workers against one another while leaving government misapplication unaddressed. A proactive policy is essential now as the government must create supernumerary posts for legitimate claimants and apply the 1993 rules to pending allocations without vouchsafing these remedies for only those who can afford litigation. Access to public employment continues to be grossly unequal: per the 2024-25 DoPT Annual Report, OBC representation in central government employment was 26.3% but declined steadily towards higher positions. As the Justice G. Rohini Commission also indicated, the benefits of reservation are distributed unevenly among OBC communities. However, the report, submitted in 2023, is still not in the public domain. The coming Census includes caste enumeration but policymakers also need data on each caste’s education, occupations, assets, and landholdings. Defending redistribution among caste groups while ignoring major inequalities within them, and constraining OBC reservation assuming relatively more high-income families capture the benefits without first establishing the extent and the causes are equally difficult to justify.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/caste-and-class-on-obc-reservation/article71686599.ece)
+
+---
+
+### Without any rationale: On the disbanding of the Justice Kurian Joseph Committee
+*The Hindu · Editorial*
+
+By abruptly disbanding the Justice Kurian Joseph Committee on Union-State Relations and handing over its task to the Tamil Nadu State Law Commission, the C. Joseph Vijay government appears to have succumbed to the political impulse to reverse earlier decisions rather than being guided by any compelling rationale or necessity. This gains credence from the very grounds cited. The committee executed its mandate with scholarly rigour, seen in Part I of its report that was submitted to the then M.K. Stalin government in February. Citing the Committee’s basic character of being a “non-statutory body” is unconvincing, particularly when the Law Commission itself is established only through “executive order”. There is also no public evidence of State Law Commissions having examined or addressed issues concerning Union-State relations. The mandate “to suggest ways and means for the inter-State relations and Centre-State relations”, constitutes only one part of the broader terms of reference of the State Law Commission, reconstituted in August. Given the commission’s wider responsibilities, successive State governments had constituted high-level committees to examine conflicts involving Concurrent List subjects and recommend specific remedies. It is through such recommendations that Tamil Nadu enacted certain pieces of legislation to overcome limitations imposed by central laws, including the provision of horizontal reservation in professional course admissions for disadvantaged students. Therefore, the State’s other argument of “similarity or overlap” in the “nature and scope of the functions” entrusted to the Committee and the Commission, does not withstand close scrutiny.
+
+In September, Leader of the Opposition Udhayanidhi Stalin, had flagged an attempt to “paralyse” the Committee’s functioning. A fair assessment of the Committee’s Part I Report reveals the breadth and depth of its dispassionate examination of issues, including State autonomy, delimitation, and the office of the Governor. Parties, barring the BJP, had largely welcomed the report. Interestingly, its contents are not even remotely at odds with the broad public ideological positioning of Mr. Vijay’s Tamilaga Vettri Kazhagam on State rights. Besides, Prof. M. Naganathan, the Committee’s only member with an overt political association, had already resigned. The government would do well to rethink and allow it to complete its work. This would strengthen the political endeavour towards evolving a more balanced federal governance structure, facilitating harmonious Centre-State relations.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/without-any-rationale-on-the-disbanding-of-the-justice-kurian-joseph-committee/article71686725.ece)
+
+---
+
+### Transparency is essential to institutional credibility
+*The Hindu · Opinion*
+
+The proposed amendments to the Foreign Contribution (Regulation) Act, 2010, have triggered strong reactions from civil society organisations, Opposition parties and Christian institutions. The concerns are not without substance. What it seeks is tighter regulation of foreign-funded organisations, including provisions concerning assets created or acquired through foreign contributions. The Government maintains that the objective is greater transparency, accountability and prevention of misuse of foreign funds, while critics fear possible restrictions on legitimate civil society activity and minority institutions being disproportionately affected. With the Bill referred to a Joint Parliamentary Committee for further scrutiny, there is an opportunity for a reasoned debate.
+
+Foreign contribution cannot become a pretext for suppressing legitimate charitable, educational, health care or social-service activity. At the same time, the receipt and utilisation of foreign funds cannot be placed beyond scrutiny.
+
+[Read full article](https://www.thehindu.com/opinion/lead/transparency-is-essential-to-institutional-credibility/article71687014.ece)
+
+---
+
+### A Tale of Two Karnatakas | Can growth travel beyond Bengaluru?
+*Deccan Herald · Opinion*
+
+Charles Dickens’ A Tale of Two Cities showcases the paradox of prosperity and adversity. Perhaps, Karnataka’s economic geography is a similar tale. One Karnataka, spearheaded by Bengaluru, is internationally recognised for technology, innovation and investment. Another Karnataka, equally rich in potential, is in search of similar economic opportunities.
+
+Chief Minister D K Shivakumar’s announcement that Karnataka aims for a $1 trillion economy by 2037 and a $3 trillion target by 2047 offers a chance to bridge these contrasting realities.
+
+His Navodaya Karnataka 2047 vision, with its eight growth centres across seven regions, acknowledges that Bengaluru’s phenomenal success cannot be a bottomless pit to compensate for uneven development elsewhere. Karnataka has started laying the foundations, and that is encouraging. The challenge is to coalesce these initiatives into a coherent, fiscally sustainable strategy.
+
+Mangaluru offers a blueprint for Karnataka's growth beyond BengaluruLook at the evidence. Invest Karnataka 2025 saw investment commitments of Rs 10.27 lakh-crore, of which almost three-fourths were proposed outside Bengaluru and more than 45% toward North Karnataka. The government said it had received investment commitments of Rs 4.71 lakh-crore as of December 2025.
+
+Karnataka’s Industrial Policy 2025-2030 aims to attract Rs 7.5 lakh-crore investment and generate 20 lakh jobs separately. These are encouraging signs of a geographically diversified industrialisation. But commitments and investment realisation are different stages of development from operational production and sustained employment. Each should be reported separately in future Budgets.
+
+An important institutional basis also exists for the government’s regional strategy. The Govinda Rao Committee recommended an additional outlay of Rs 43,914 crore to be spent over five years to correct regional imbalances. The next employment-linked incentive for backward taluks is a sign of willingness to translate diagnosis into action. The Kalyana Karnataka Region Development Plan has been allocated Rs 3,000 crore in the 2026-2027 Budget. These measures need to be reinforced, not re-invented,
+
+Regional development is not only about moving factories. Mysuru’s industrial and educational base, Mangaluru’s port-linked opportunities, Hubballi-Dharwad’s logistics potential, and Kalaburagi’s scope for agro-processing point to differentiated growth pathways. The widely spread manufacturing ecosystem in Tamil Nadu is a testimony to the advantages of connecting industrial clusters with skills, suppliers, and infrastructure. Other states like Karnataka can build such networks around existing regional strengths, connecting smaller enterprises to larger industrial investments.
+
+Looking beyond Bengaluru: Two global tech centres to come up in North Karnataka regionHere, the fiscal arithmetic requires discipline. Karnataka’s FY2027 Budget has estimated GSDP of Rs 33.06 lakh-crore, fiscal deficit at Rs 97,448 crore, and revenue deficit at Rs 22,957 crore. Welfare guarantees stand at Rs 51,286 crore. It is important not to discard these commitments as useless expenditure. Income security and women’s mobility can boost economic participation. Their long-term contribution must be assessed in terms of household resilience, employment and capability formation. Welfare credibility and fiscal accountability would be strengthened by independent evaluation underpinned by publicly available outcome data.
+
+The Budget should first aim at protecting productive public investment, completing viable projects, and tackling regional infrastructure bottlenecks. A 5-year district investment plan should identify financing, implementing agencies, industrial linkages, and measurable employment outcomes. ‘Public-private partnerships’ should be considered, but only with transparent disclosure of fiscal risks. The State should differentiate between investment intentions and completed assets, and monitor actual capital expenditure against allocated funds.
+
+Institutions are equally important for longer-term transformation. The case of decentralised planning in Kerala shows how local capacity can enhance development expenditure. Karnataka needs to strengthen municipal finances, planning capability, and predictable transfers, especially in emerging industrial towns. Unless affordable housing, reliable transport, water security, and functioning urban governance are assured, tomorrow’s regional hubs could inherit Bengaluru’s infrastructure problems without the city’s economic advantages.
+
+Arithmetic behind Karnataka’s trillion-dollar targetsThe trillion-dollar target itself must be taken with a grain of salt. Exchange-rate movements can change the size of the economy in dollar terms without productivity improvements. Karnataka should publish annual milestones for real per capita income, labour productivity, employment quality, and regional convergence alongside its headline target.
+
+The State’s vision promises that the next economic frontier of Karnataka is not just Bengaluru. The biggest risk is fragmentation: lots of initiatives moving forward without a common framework for financing, implementation, and accountability. The next Budget is an opportunity to bring them together.
+
+Dickens wrote of two cities divided by history and circumstance. Karnataka’s challenge is singular: its diverse economic geographies share one political future. When the trillion-dollar mark is crossed, will we still talk of two Karnatakas, or one whose prosperity has finally travelled beyond its capital?
+
+Debdulal Thakur is Professor and Director-Centre of Excellence (CoE) for Public Policy, Sustainability, and ESG advances research, Alliance University, Bengaluru.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/a-tale-of-two-karnatakas-can-growth-travel-beyond-bengaluru-4214521)
+
+---
+
+### Nvidia's Board Has a History of Letting Jensen Huang Get His Way
+*Deccan Herald · Opinion*
+
+San Francisco: In 1993, Sequoia Capital and Sutter Hill Ventures led a $2 million funding round for Nvidia, a startup that made chips for video games. Mark A. Stevens, an investor at Sequoia, and Tench Coxe, an investor at Sutter Hill, then joined Nvidia's board of directors. They watched the company struggle as it burned cash and its earliest products failed.
+
+"It wasn't clear if Nvidia was ever going to, sort of, have escape velocity," Stevens recalled on a podcast in 2023. "We were very concerned about, are we going to lose this company or not?"
+
+Three decades later, under the leadership of Jensen Huang, its co-founder and CEO, Nvidia is one of the most valuable companies in the world. Its chips are an essential component of the giant artificial intelligence projects that are driving the U.S. economy.
+
+Now, Nvidia's 10-member board of directors -- a collection of early investors, longtime partners and other business executives -- faces a daunting task: investigating their celebrity CEO. On Sunday, Huang admitted to an extramarital relationship with a businessperson whom U.S. intelligence agencies have determined was a spy for China.
+
+(China has rejected the espionage claims. Alice Huang, the Chinese executive accused of spying for Beijing, has not responded to requests for comment.)
+
+Nvidia's board members are coming into this investigation with a track record of both loyalty and deference to Jensen Huang, exposing them to criticism that they were unprepared for him to become the Silicon Valley company's biggest vulnerability.
+
+"Substantial experience does not always translate to willingness to provide full oversight, especially if that long tenure has built strong connections to the CEO," said Allison Henry, a clinical assistant professor of management and organizations at Northwestern University's Kellogg School of Management.
+
+Nvidia does not appear to even have a succession plan for Huang, and it does not have an obvious internal candidate to replace him. Huang, 63, said in 2023 that he believed he could run the company for three or four more decades.
+
+A class-action shareholder lawsuit against Nvidia and Huang was filed Monday in the U.S. District Court for the Northern District of California.
+
+None of Nvidia's board members responded to requests for comment Monday, and a company spokesperson declined to comment.
+
+Setting up a succession plan for Huang was internally discussed over the years, former Nvidia executives said, but Huang resisted.
+
+"He didn't like the idea," said Rene Haas, CEO of chip design company Arm Holdings, who worked at Nvidia from 2006 to 2013. He discussed Huang's management style in a 2024 interview. "He felt it would create competition among executives and be divisive."
+
+Many of Nvidia's board members -- with a combined 161 years of serving on the board -- have a long history with Huang, who has shown that his big bets usually pay off for his company and the people backing him.
+
+One of the first examples was Synopsys, a Silicon Valley company that supplied key software needed to design chips. Two former Synopsys leaders joined Nvidia's board of directors in the 1990s: Harvey C. Jones, the software company's onetime CEO, and A. Brooke Seawell, its former chief financial officer. The Nvidia shares of the two former Synopsys executives were worth a combined $1.86 billion as of June.
+
+Huang is by far the largest individual shareholder in Nvidia, with a 3.56% stake, making him one of the wealthiest people in the world.
+
+Among other individual shareholders, Stevens and Coxe, his early investors and board members, are second and third on the list. When Stevens last sold shares in the company, in September, his stake was worth $6.22 billion. When Coxe last gave away shares, in November, his stake was worth $5.62 billion.
+
+The other board members are: Dawn Hudson, the former chief marketing officer of the National Football League; Stephen C. Neal, the former CEO of law firm Cooley LLP; John O. Dabiri, an engineering professor; Aarti Shah, the former chief information officer at drugmaker Eli Lilly; Melissa B. Lora, the former president of Taco Bell; Suzanne Nora Johnson, the former vice chair of Goldman Sachs.
+
+Huang has viewed Nvidia's board primarily as a governance requirement, rather than as an important part of the company's strategy or execution, according to three former employees.
+
+He has taken that same go-it-alone approach to building his executive team, emphasizing an anti-bureaucratic management philosophy designed to make big decisions quickly. He has more than 60 direct reports, putting him at the center of the company's day-to-day operations, despite a hectic travel schedule that often takes him from California to Washington to Asia and back.
+
+But Nvidia's current predicament presents considerable challenges for a company so dependent on one man. Nvidia's independent board members will choose an outside counsel to investigate. A company spokesperson said Huang would not be part of the selection process, but he will continue to lead Nvidia during the investigation.
+
+"The best way to weather this kind of storm in the world of public opinion is to have the CEO or whoever is caught out apologize publicly and cede control at least temporarily to another party," said Jo-Ellen Pozner, associate professor of management at Santa Clara University's Leavey School of Business.
+
+Huang has also given his children substantial power and authority at Nvidia, according to five current and former employees.
+
+His son, Spencer, is a director of product management and plays a leading role in Nvidia's robotics efforts. His daughter, Madison, is a senior director of product marketing who also works on robotics, as well as communications and marketing. And his son-in-law, Nico Caprez, works on business development for the company. That has created the impression among some at the company that he is nurturing his children to eventually succeed him.
+
+In an interview last month, when asked whether Madison was in line to succeed him, Huang said: "I don't wish the job on her."
+
+"If the CEO doesn't do his job according to 12 or 15 board members, the CEO is let go," Huang said in January. But, he added, "there will never be one like me, and the reason for that is because I was raised by the company."
+
+It wouldn't be easy to pick a manager inside Nvidia that could temporarily run the company, said Jeff Christian, CEO of Christian & Timbers, an executive recruiting firm that frequently works with Silicon Valley companies.
+
+Most current executives have responsibilities for specific products or technology areas, not broad responsibilities with thousands of people reporting to them. The question is, he said, is whether directors will at some point feel compelled to ask Huang to step aside.
+
+"He's such a big personality," he said. "It's almost like trying to fire the owner."
+
+[Read full article](https://www.deccanherald.com/opinion/nvidia-s-board-has-a-history-of-letting-jensen-huang-get-his-way-4214021)
+
+---
+
+### US midterm setback: The Republican Party needs a reset, not another Trump-style playbook
+*Deccan Herald · Opinion*
+
+Never in my lifetime has there been an easier political post-mortem. It’s obvious what caused the GOP’s midterm wipeout. The harder question for Republicans is what comes next. And no, it’s not just ending the war in Iran — although that would help.
+
+The Republicans who remain in office are not only in a lame-duck, choose-your-own adventure policy vacuum. They are also wading through the floodwaters of a largely self-inflicted blue wave. Democrats now control the drainpipes, complicating matters for Republicans keen for a quick escape.
+
+The GOP cannot flip policy levers and undo the experience of the last two years, any more than Democrats could flip the script after Covid lockdowns and Biden’s absenteeism. It’s going to take time to rebuild trust and demonstrate a different way of governing. This cannot happen in the next two years, but it can start.
+
+Vice President JD Vance outlined his four objectives on X: “1) End the war 2) Focus on cost of living/inflation, 3) Put America First, 4) Change our relationship to Israel.” To be sure, he’s doing a delicate dance, as vice president to an administration roundly rebuked in the polls while simultaneously trying to chart his own 2028 presidential pathway. But these don’t cut in deep enough. Conspicuously missing is a sense of responsibility. Not to mention corruption.
+
+For Trump and America, a clear election verdict leaves a murky futureHow Trump's revenge tour against Republicans could cost the party in NovemberCorruption is the fatal sin of MAGA, the golden crown atop its excess and overreach. Members of the Trump administration have enriched themselves in the most blatant of ways. But corruption isn’t only about money; it’s about power. And this administration has bypassed Congress to operate largely out of the executive branch, labeled anyone in the way of their agenda an enemy and eschewed accountability for its actions. The American people had enough: 91% of voters listed corruption as a crucial or major factor for their vote, according to NBC exit polling.
+
+I’m concerned that given the overwhelming nature of their midterm victory, Democrats might face similar temptations for excess and overreach. It is unlikely to manifest in triumphal arches or crypto empires, but it might in vindictiveness and spite.
+
+Although some of the newcomers are more pragmatic than that, such as Texas Senator-elect James Talarico, the next Congress will also include Democrats of a more ideological stripe, ready for revenge. “We’re going to toss out subpoenas like Mardi Gras beads,” said New Jersey Representative Analilia Mejia, who was reelected to fill the seat she won in a 2025 special election.
+
+But what the midterms showed is that Americans want — and need — a check on power. A check on the unilateral power that has raised costs, gotten us into wars, bypassed laws and sowed division. And that doesn’t mean investigations wrought with partisan fever or imposing one’s own partisan vision on a divided nation. It means demonstrating a radically different way to govern.
+
+For that, might I suggest revisiting small-c conservatism. Edmund Burke, the father of conservatism, called it “a condition of unchangeable constancy, through the varied tenure of perpetual decay, fall, renovation and progression.” We could use that conservative spirit right of restraint about now — across both parties.
+
+It starts with the Republicans who remain in office showing ownership and steadiness. The war, the erratic tariffs, the deportations of otherwise peaceful people; these weren’t thrust upon the GOP. They were a chosen path that raised costs and created fear and disorder. They were also the exact opposite of a limited government agenda.
+
+Not enough Republicans spoke out against them. Those who did waited until they weren’t facing reelection. This is the party’s chance for a hard reset.
+
+Let this not get lost in the blue wave: In the exit polls, nearly three quarters of voters identified as either moderate (41%) or conservative (33%). Moderates voted for Democrats over Republicans by a two-to-one margin. Also according to exit polls, 24% of Republicans thought Congress wasn’t providing enough checks on the president.
+
+There’s an open playbook for the GOP with respect to what comes next, but it should start with Republicans advocating to reduce the executive branch’s footprint. It’s harder to reduce the cost of living than politicians will admit; but ending the war and getting rid of tariffs will help.
+
+Conservatism as a governing strategy isn’t limited to Republicans. The new Congress has a chance to show restraint, to chip away methodically at big problems instead of roiling the system in explosive investigations and impeachment.
+
+The federal debt is out of control; both parties have made it so. Form a bipartisan commission to come up with a serious plan to spend within our means. Somewhere between open borders and deporting breastfeeding mothers, there’s a compromise of safety and compassion. Find it and put it into law. On healthcare policy, there is a compromise somewhere between a government-run system that delays treatment and our current broken system. Universal catastrophic coverage could protect families when the unthinkable happens. Reinvest in America’s long-standing institutions — the arts, universities and scientific research labs. Respect what’s stood the test of time and have a healthy suspicion for the new hot thing, in this case, artificial intelligence.
+
+Both political parties have spent a decade trying to move mountains, and it’s caused division and wreckage. Maybe for the next two years, we try conservatism on for size.
+
+[Read full article](https://www.deccanherald.com/opinion/us-midterm-setback-the-republican-party-needs-a-reset-not-another-trump-style-playbook-4214110)
+
+---
 
 ## 10 November 2026
 
@@ -36,6 +210,106 @@ It would be a grievously wrong reading of the current national climate if one we
 The first section of society that recognises when democracy is under threat and stands up for it are always students. Almost a year after the Narendra Modi-led government first came to power in 2014, students of the Film and Television Institute of India (FTII) went on a hunger strike for 139 days, opposing the appointment of Gajendra Chauhan as chairman of the institute. Mr. Chauhan’s lack of academic credentials was made up for by his proximity to the Rashtriya Swayamsevak Sangh (RSS) and the Bharatiya Janata Party (BJP).
 
 [Read full article](https://www.thehindu.com/opinion/lead/how-students-are-the-first-line-of-resistance/article71683849.ece)
+
+---
+
+### DC Edit | Attitudes To Blame For Miasma Of Indian Air
+*Deccan Chronicle · Editorial*
+
+Don’t blame the fireworks and firecrackers. Don’t blame the stubble burning. Just blame us as Indians since we are unable to follow even minor rules and regulations and end up suffering as a nation because each Indian believes the problem is someone else’s. Not one of them would stop letting off a firecracker or fireworks on festival days as this has been a tradition for hundreds of years, or at least since the invention of commercial fireworks.
+
+As toxic air enveloped the major urban centres of the country post-Diwali, all Indians stood up to rave and rant about the poor quality of the air that was barely breathable. Dehradun is said to have seen the steepest rise in AQI at 219 per cent over pre-Diwali days’ average with major metropolises like Chennai, Mumbai, Bengaluru and Hyderabad not far behind. Paradoxically, Delhi in the NCR saw only a 3.9 per cent rise over the otherwise toxic enough winter air.
+
+As Indians, we take comfort in tokenism as various authorities issue guidelines about the effect of festival fireworks on the atmospheric air. The Supreme Court would pass diktats, promote green crackers as a thoughtful solution and state governments would pass orders restricting fireworks to certain hours in the day along the lines suggested by the top court. But would even a small clutch of Indians follow the regulations for the sake of the common good — No.
+
+As winter sets in over the north of India, the cities of the Gangetic plains have a bad enough time grappling with the deteriorating quality of air as the pollution blanket refuses to lift. As Indians, we are experts at cheating ourselves with statistics. If the government counts the incidence of stubble burning at under 5,000 events in a month, international monitors tell us the actual fires are about 10 times the official numbers as farmers have learnt to cheat the observation satellites that pass over a region at fixed times in the day.
+
+The measuring stations also mysteriously stop functioning when the AQI levels could be rising sky high and the final pollution figures stop at a convenient maximum rather than go the whole hog and find out how much PM2.5 particles are actually in the air that millions of Indians, including the elderly and people with conditions like asthma and COPD, must breathe. The whole system seems to have been built so that we can take refuge in a numb belief that somehow everything will be alright in the end.
+
+If the courts restrict the hours of fireworks, people take delight in defying the diktat. If they say green crackers, people take country crackers as there is a greater bang for the buck. If they say aerial fireworks are dangerous because no one can really control their trajectory and those that stray cause fires as well as burn innocent passersby, people will set off more fancy crackers like rockets and ‘outs’. There is a delight in defiance of orders passed for the common good.
+
+As the noxious fumes rise and the air returns to normal levels in most cities, the resolve not to allow the atmosphere to worsen so much again may last a few days until the next big festival comes along, in celebrating which we must endanger more Indians. If only people see the real statistics of how many people die prematurely because of the foul air we choose to live in, remorse might kick in and the resolve may stay strong enough for a while until it is time to live life the Indian way — with no rules. The simplest explanation for all this — we are like this only.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-attitudes-to-blame-for-miasma-of-indian-air-2003281)
+
+---
+
+### DC Edit | Lessons From The Nvidia Affair
+*Deccan Chronicle · Editorial*
+
+The controversy surrounding Nvidia CEO Jensen Huang’s reported extramarital relationship with Alice Huang, a businesswoman suspected by American intelligence agencies of working for China, has raised questions over the protection of strategically important technology companies from foreign interference and the need for corporate succession planning.
+
+Nvidia occupies a critical position in the global artificial intelligence industry, with its advanced processors playing a major role in the development of AI technologies. Its chips were the most prized possessions of the US, which Washington tried to use as bargaining chips in its trade tussle with China. Any security vulnerability involving its leadership, therefore, could have implications for technological competitiveness, national security and financial markets.
+
+While China has denied allegations that Alice Huang was involved in espionage, Nvidia’s board has initiated an independent investigation and stated that it has no reason to believe sensitive information was compromised.
+
+The controversy has also brought corporate succession planning into focus. Jensen Huang has played a central role in Nvidia’s growth. He reportedly has not groomed any person to replace him, raising questions about the risks associated with excessive dependence on a single executive.
+
+The developments come ahead of an expected meeting between US President Donald Trump and Chinese President Xi Jinping next week, against the backdrop of continuing technological and trade differences between the two countries.
+
+The outcome of Nvidia’s independent investigation will be important in determining whether any security concerns are substantiated. The broader issue of corporate governance, however, remains relevant to companies whose leadership and technologies have implications beyond their immediate business interests.
+
+This incident also holds a lesson for India, especially in the wake of rising numbers of honeytraps being reported in India, involving people in high positions. The government should, therefore, conduct an intensive orientation programme to prevent such foreign spy networks.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-lessons-from-the-nvidia-affair-2003250)
+
+---
+
+### IDBI Bank Stake Sale To Fairfax Sparks Hot Debate
+*Deccan Chronicle · Opinion*
+
+IDBI’s stake sale of 60.72 per cent, owned jointly by the government, and LIC, the state-owned insurer, to Fairfax Financial for Rs 52,878 crore is not a simple case of privatisation, or a banking takeover. It involves political legitimacy, valuation concerns and social value.
+
+The political costs are visible. Opposition parties, IDBI employees and critics question and protest the deal. Congress’ Rahul Gandhi challenges the transfer of control. The ruling establishment defends it.
+
+In financial terms, some experts contend that the sale is undervalued, and the bid amount is lower than the initial reserve price. Arunish Chawla, secretary, department of investment and public asset management, which manages privatisation of public assets, clarified that the reserve price (Rs 94.42 per share), higher than the deal price (Rs 81 per share), became “functus officio (lost its legal effect)”. This was because the government renegotiated the price with Fairfax when it did not receive any offer above the reserve price during the public auction. The policymakers decided that scrapping the auction and restarting the process from scratch would be a “futile exercise”, with minimal chance “finding another buyer willing to pay nearly Rs 50,000 crore”.
+
+Many other charges cloud the IDBI sale. Opposition claims that several assets, especially the land banks with IDBI, are not adequately reflected and included in Fairfax’s price. In addition, the bank has among the lowest non-performing assets, and earns huge profits. A revolving-door-related issue hints at possible conflicts of interest.
+
+Although there are no direct links, Amitabh Kant, an IAS officer of 1980 batch of Kerala cadre, former CEO of Niti Aayog (2016-22), became Fairfax’s senior adviser in June 2025. This merits scrutiny due to Mr Kant’s earlier role in the disinvestment process. There are other names, who are linked to both LIC, one of the sellers, and Fairfax. At present, public records do not establish any connections between Kant/Niti Aayog and IDBI. In social terms, employees worry about their futures. One cannot say if IDBI, once privatised, will cater to social needs.
+
+IPS deputation: Control over paramilitary forces
+
+Despite a Supreme Court order, the Centre continues to induct IPS officers in Central Armed Police Forces (CAPFs). The apex court’s directive was to progressively reduce such deputations in phases, and within two years. While the issue focuses on the role of the Home ministry, it indicates an unusual power tussle in the uniformed establishment.
+
+Between May 2025 and September 2026, 46 IPS were deputed to five forces: 13 to BSF, 11 to CISF, nine to CRPF, six to ITBP and seven to SSB. Here are some examples. Himachal Pradesh-cadre officer Ajay Kumar Yadav (1996 batch) was appointed ADG, CRPF, on November 6, 2026. Shrihari Pandey (West Bengal cadre, 2011 batch) joined CRPF as DIG, and Tripti Bhatt (Uttarakhand, 2013) became an SP in CBI. On September 2, 2026, SC sought an explanation from Home secretary Govind Mohan on the continuation of the appointments. The government argued that progressive reduction did not imply an outright ban. The deputations were triggered by requisitions from forces’ chiefs.
+
+The controversy exposes a deeper divide. CAPF officers demand opportunities in senior positions. They add that deputations of IPS officers lead to the latter’s dominance, and restricts career progressions of the CAPF officers. In another development, which concerns the IPS cadre, the Home ministry tightened career-related conditions for younger IPS officers. From the 2011 batch onwards, there is a mandatory and minimum two-year Central deputation at SP or DIG level for empanelment as IG at the Centre. Although the move addresses vacancies, it raises questions about cadre autonomy and career advancement.
+
+Sajjan Yadav takes charge in J&K
+
+The appointment of Sajjan Singh Yadav (1995 batch) as chief secretary of Jammu and Kashmir has turned into a test that will contest authority, seniority and influence. For the first time, an officer from the AGMUT cadre inherits a secretariat with senior members and entrenched administrative networks. Many officers such as Shaleen Kabra (1992 batch), Dheeraj Gupta (1993 batch), Navin Choudhary (1994 batch), Ashwani Kumar (1992 batch), and Ashish Chandra Verma (1994 batch) are senior to Sajjan Yadav. Two others, Shailendra Kumar and Anil Kumar Singh, are batchmates. This raises awkwardness about how the new, official, and formal command structure will translate into unquestioned authority.
+
+The timing is crucial. Before the new chief secretary could settle in, lieutenant governor Manoj Sinha ordered a large-scale bureaucratic reshuffle. For example, Chandraker Bharti was given an additional charge of revenue, M. Raju was assigned estates, Saugat Biswas got an additional charge of Jal Shakti, Rehana Batul was moved to tribal affairs, and Avny Lavasa was handed extra responsibility. The situation becomes ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/idbi-bank-stake-sale-to-fairfax-sparks-hot-debate-2003264)
+
+---
+
+### Why India’s Sovereign AI Requires Global Collaborations
+*Deccan Chronicle · Opinion*
+
+Sovereignty, defined tightly, includes the digital infrastructure — software, datacentres, electrical power, cooling including water and data — should all be Indian, located in India regulated under Indian law with commercial disputes settled only in India. This resembles the Chinese approach to data sovereignty where direct control equals power. It maxes security and resilience. But does it ensure spontaneous innovation and efficiency and at what cost?
+
+Geopolitics vindicates this approach. Nothing is certain unless it is under a country’s direct control. For more than eight decades post-World War II, Japan had outsourced its national security to the United States — an arrangement, which today, provokes unease. Even US support to Nato now appears conditional.
+
+The problem with drawing a moat around AI capacity is that typically the science around it has evolved collaboratively since the second quarter of the 20th century when the computer was being developed. There is some lack of unanimity around who made the first computer depending on whether you qualify hardware with electro-mechanical components — low efficiency gears and rotating drums — or only more efficient electronic circuit design.
+
+Similarly, purpose matters. Specific purpose machines — like World War II code breakers — were not programmable for general tasks. Computers are flexible because it is software which targets specific tasks to be accomplished. Incidentally, during the WW-2 years, women were ace programmers. Men dominated the hardware innovations. In today’s gender-neutral environment such “allocated” gender roles are abhorrent — a social advance not to be sniffed at. AI, for instance, makes no sense if it reverses social advancement like equity and environmental sustainability.
+
+The race for AI dominance is about securing the critical minerals and the capacity to refine them, invest in fabs to make chips, ensure adequate power supply and cooling alternatives to scarce water for data centre capacity, develop the R&D facilities which feed into hardware and software, cultivate the entrepreneurship to manage big enterprises and put in place supportive regulations.
+
+China defines next steps in an investment centric “six networks” vision. Till 2030, it will spend three per cent of its cumulative GDP till then or US$3.7 trillion (slightly less than India’s annual GDP). About one half is earmarked for upgrading water supply distribution in the arid West where data centres are planned, strengthening the grid with dispersed battery storage, additional compute capacity and communication facilities. The purpose is not just to be ahead in AI. Big investment spends in logistics and underground urban pipe infra are all intended to create domestic demand to soak up geopolitically sensitive trade surpluses.
+
+Unlike China, India is constrained by a trade and current account deficit and must keep fiscal allocations severely targeted. It must service a population larger than China with one-fifth its resources. This fiscal constraint will define how India builds its AI strategy. Collaborations are an option. The existing operational capacity of data centres is about 2.2 MW across 185 establishments and 29 providers. An additional 1.6 MW is under construction with a possible total capacity of 5 MW by 2030.
+
+Scaling up will be constrained by water supply. India ranks 125th out of 185 countries on per capita availability of fresh water, well below Iran though better than Iraq. Nearly 85 per cent of water is used for agriculture but very inefficiently. Enhancing the efficiency of use and crop diversification away from water hungry crops like rice and sugar is a thorny road to freeing up supply. Water supply rates are minimal at best, so overuse is rampant as is the use of cheap fertiliser.
+
+About 40 per cent of workers are in the agricultural economy. Till this share drops below 20 per cent — via absorption in manufacturing or services — political economy factors will constrain agricultural reform. India’s political parties are sensitive to the loss of vote share. This points to a careful selection of data centre clusters, along the coastal regions where desalinated water supply is an option along with waterless cooling options. In any case, proximity to global subsea data transmission links make such locations desirable.
+
+“Local” India tends to intrude into “Global” India. State governments are the primary partners for project completion. In May 2026 Andhra Pradesh issued a local distribution licence to Google’s 1GW data centre being built near Visakhapatnam. Consider now a contrary experience from Haryana. The state government put on hold an order (the first of its kind) of the local State Electricity Regulatory Commission granting a parallel distribution licence to a private licensee, in addition to the existing state-owned distribution company, in the Gurugram and Nuh area. State electricity workers promptly went on strike forcing the government to...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/why-indias-sovereign-ai-requires-global-collaborations-2003311)
 
 ---
 
@@ -21407,193 +21681,6 @@ Ranjith Krishnan is associate professor, CHRIST University, Delhi-NCR, and Aruna
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/beyond-chandrasekaran-tata-sons-faces-its-next-challenge-4109352)
-
----
-
-## 12 August 2026
-
-### In the way: On the Tribunal Reforms Bill 2026
-*The Hindu · Editorial*
-
-Tribunals have a raison d’être in the justice system: they allow specialists to settle technical disputes faster than the judiciary could. In S.P. Sampath Kumar (1987) and L. Chandra Kumar (1997), the Supreme Court said that tribunals’ decisions remain subject to review by High Courts because judicial review is part of the basic structure. Sensible though they were, the orders left a structural flaw standing. Tribunals have historically been administered by the same Ministries whose decisions the tribunal might have to review. In Rojer Mathew (2019), the Court recommended an independent, statutory National Tribunals Commission (NTC) to oversee the selection and administration of tribunals. However, Parliament used the Finance Act 2017 to give the executive more control over appointments and the Tribunals Reforms Ordinance 2021 to reinstate conditions the Court had rejected. The final straw was the Court’s judgment in Madras Bar Association (2025), where it struck down the objectionable provisions Parliament had re-enacted, restored the previous framework, and gave the government four months to establish the NTC. That is the Tribunal Reforms Bill 2026, which the Lok Sabha passed on August 10 with no discussion, and the Rajya Sabha on August 11. To its credit, inter alia, the Bill restores the five-year terms for tribunal members, introduces uniform service conditions, includes provisions for a National Tribunals Data Grid, and does not maroon already pending appointments.
-
-However, the Bill still does not give the NTC enough institutional autonomy. For one, Section 14 leaves the qualifications, manner of selection, salaries, allowances, and other conditions of service of tribunal members to future executive rules. But in Rojer Mathew, Justice Deepak Gupta had held that defining who is qualified to exercise judicial power is an essential legislative function that cannot be delegated to rulemaking. Yet, the Bill claims consonance with the 2025 judgment while making room for the sort of delegation the judge’s line of reasoning had resisted. Experts have also flagged similarly vague language in Section 3. Further, under Section 16, a Ministry will first screen a complaint before it passes to the NTC for inquiry. So, while the process is more elaborate than it was in 2021, the Centre still appoints the NTC’s members, only consulting the CJI for the chairperson and judicial members, and retains substantial influence over its finances and administration. That is essentially a continuing failure: a commission designed to insulate tribunals from executive control cannot be thus subject to the terms of the executive. The government must make the NTC fully independent by forsaking its power to appoint or remove its members at will.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/in-the-way-on-the-tribunal-reforms-bill-2026/article71332673.ece)
-
----
-
-### No path to peace: On Israel’s rejection of peace plan
-*The Hindu · Editorial*
-
-It has been nearly a year since the U.S.-brokered ceasefire supposedly ended Israel’s bombardment and decimation of Gaza. But since the ceasefire, Israel’s strikes have killed nearly 1,300 Palestinians and its forces hold about 65% of the Strip, where much of the two-million population lives in tent camps amid rubble with schools and hospitals shut. Aid remains severely restricted, while Israel has blocked reconstruction, insisting that Hamas disarm first. Yet, when Hamas agreed to decommission and store its heavy weapons in phases, with U.S.-backed Palestinian technocrats in step with a gradual Israeli withdrawal — as part of a 15-point road map proposed by the Donald Trump-led “Board of Peace” — Israeli Prime Minister Benjamin Netanyahu refused to accept this. He said Israel was “ruling out the 15-point document” and that there would be no withdrawal until Hamas gave up “heavy weapons, lighter weapons, all weapons”. Israel is keen not only on Hamas’s disarmament, but also on the total subjugation of Gaza, at a continuing cost to civilians and children. It faces genocide proceedings at the International Court of Justice while the International Criminal Court has issued an arrest warrant for Mr. Netanyahu, who also faces a corruption trial still before the courts. By promising the complete destruction of Hamas, he has been trying to stay in power by retaining the support of the jingoistic right wing; any concession on withdrawal would invite political repercussions for his right-wing coalition in elections due in October.
-
-The war on Iran launched by Mr. Trump and Israel on February 28 to effect a regime change has proved to be a disaster, setting off a fuel crisis that has affected several countries. With the Strait of Hormuz barely functioning, rising costs of American petrol and fertilizers have begun to affect the U.S. economy, leading to Mr Trump seeking a face-saving breakthrough in West Asia. Waning sympathy for Israel as the U.S. mid-term elections approach also explains the Board’s proposal. While the farcical Board’s vision of a “New Gaza” — free-trade zone, privatised infrastructure, no Palestinian representation on the Board — resembles an attempt at naked profiteering following the disastrous conflict, the 15-point proposal would actually be welcomed by the battered people of Gaza. For Hamas, which has few cards left, disarmament is an imperative, but must be matched by Israeli withdrawal. Mr Trump and his advisers must ask whether Washington’s decades-long Faustian bargain — arming and shielding a militarised Israel on Israel’s terms — is worth continuing, or whether it will use its leverage as Israel’s principal arms supplier to compel a genuine withdrawal. It is still not too late.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/no-path-to-peace-on-israels-rejection-of-peace-plan/article71333380.ece)
-
----
-
-### Beyond an alliance, the case for a Congress-SP merger
-*The Hindu · Opinion*
-
-The Congress party, under its leader Rahul Gandhi, is attempting perhaps its most significant ideological and social repositioning. It seeks to recast itself as the principal political vehicle of the Bahujans: the broad social coalition of Other Backward Classes (OBCs), Scheduled Castes, Scheduled Tribes, and economically disadvantaged groups among the upper castes and minorities. In doing so, it is consciously trying to move beyond its long-standing image as a party whose leadership and institutional culture were dominated by upper castes, even while it enjoyed substantial support from the rest. Mr. Gandhi’s repeated emphasis on a nationwide caste census, his slogan ‘Jitni Abadi, Utna Haq (rights proportional to population’), and his persistent advocacy of greater representation in state institutions all reflect a larger political project: to redefine the Congress as the natural home of social justice and equitable representation.
-
-Samajwadi Party (SP) chief Akhilesh Yadav too is engaged in an equally ambitious exercise for his party. The SP has long carried the perception of being primarily a Yadav-Muslim formation: a coalition that delivered electoral success but also imposed clear political limits. Mr. Yadav now seeks to broaden that social base. His formulation of Pichhda, Dalit, Alpsankhyak (PDA, i.e., Backward Classes, Dalits and Minorities) signals an effort to transform the SP from a caste-centred regional party into a wider coalition across caste and religious lines. He has now said P stood also for Pandits, i.e., Brahmins.
-
-[Read full article](https://www.thehindu.com/opinion/lead/beyond-an-alliance-the-case-for-a-congress-sp-merger/article71333242.ece)
-
----
-
-### गठबंधन नहीं, विलय: क्या सपा और कांग्रेस का मिलन बदल सकता है भारत की राजनीति?
-*The Hindu · Opinion*
-
-राहुल गांधी के नेतृत्व में कांग्रेस शायद अपना सबसे महत्वपूर्ण वैचारिक और सामाजिक पुनर्गठन करने का प्रयास कर रही है। वह खुद को ‘बहुजनों‘—यानी अन्य पिछड़ा वर्ग (OBC), अनुसूचित जाति (SC), अनुसूचित जनजाति (ST), उच्च जातियों के आर्थिक रूप से कमजोर वर्गों और अल्पसंख्यकों के व्यापक सामाजिक गठबंधन—के मुख्य राजनीतिक वाहन के रूप में फिर से ढालने की कोशिश कर रही है।
-
-ऐसा करके, कांग्रेस अपनी उस पुरानी छवि से सचेत रूप से बाहर निकलने का प्रयास कर रही है, जहाँ उसका नेतृत्व और संस्थागत संस्कृति सवर्णों के वर्चस्व वाली मानी जाती थी; भले ही उसे बाकी वर्गों से भी भारी समर्थन मिलता रहा हो। देशव्यापी जाति जनगणना पर राहुल गांधी का बार-बार जोर देना, उनका नारा “जितनी आबादी, उतना हक“, और राज्य की संस्थाओं में अधिक प्रतिनिधित्व की उनकी लगातार वकालत, एक बड़े राजनीतिक प्रोजेक्ट को दर्शाती है: कांग्रेस को सामाजिक न्याय और समान प्रतिनिधित्व का स्वाभाविक स्थान बनाना।
-
-समाजवादी पार्टी (सपा) के अध्यक्ष अखिलेश यादव भी अपनी पार्टी के लिए इतने ही महत्वाकांक्षी प्रयोग में लगे हुए हैं। सपा पर लंबे समय से मुख्य रूप से ‘यादव-मुस्लिम‘ समीकरण वाली पार्टी होने का ठप्पा लगा रहा है—एक ऐसा समीकरण जिसने चुनावी सफलता तो दी, लेकिन साथ ही स्पष्ट राजनीतिक सीमाएं भी निर्धारित कर दीं। अखिलेश यादव अब उस सामाजिक आधार को विस्तार देना चाहते हैं। उनका PDA यानी ‘पिछड़े, दलित, अल्पसंख्यक‘ का फार्मूला सपा को एक जाति-केंद्रित क्षेत्रीय दल से बढ़ाकर जाति और धर्म की सीमाओं से परे एक व्यापक गठबंधन में बदलने के प्रयास का संकेत है। अब तो उन्होंने यह भी कहना शुरू कर दिया है कि ‘P’ का मतलब ‘पंडित‘ यानी ब्राह्मण भी है।
-
-दरअसल, राहुल गांधी और अखिलेश यादव की राजनीति अब लगभग एक ही दिशा में आगे बढ़ती दिखाई दे रही है। दोनों सामाजिक न्याय, बराबरी का प्रतिनिधित्व और समावेशी लोकतंत्र की बात कर रहे हैं। दोनों की नजर लगभग एक ही सामाजिक समूह पर है।
-
-अगर दोनों दल एक-दूसरे के खिलाफ चुनाव लड़ते हैं, तो जिस सामाजिक आधार को वे मजबूत करना चाहते हैं, वही बंट सकता है। लेकिन अगर वे एक साथ आ जाते हैं, तो एक-दूसरे की ताकत बढ़ा सकते हैं।
-
-फिलहाल दोनों उत्तर प्रदेश में चुनावी गठबंधन की तैयारी कर रहे हैं। हमेशा की तरह सीटों के बंटवारे को लेकर लंबी और कठिन बातचीत होगी और संभव है कि गठबंधन बन भी जाए। लेकिन सवाल यह है कि क्या मौजूदा राजनीतिक परिस्थितियों में केवल गठबंधन से बीजेपी के ताकत का मुकाबला किया जा सकता है?
-
-पिछले एक दशक में भाजपा की राजनीति का एक बड़ा आधार विपक्षी दलों में बिखराव रहा है। विपक्षी गठबंधनों को कमजोर किया गया, कई दलों में टूट हुई और क्षेत्रीय पार्टियों को एक-दूसरे से मुकाबला करने के लिए प्रेरित किया गया, ताकि वे साझा मंच पर एक साथ न आ सकें।
-
-ऐसी स्थिति में सवाल यह है कि क्या इसका जवाब सिर्फ एक और गठबंधन हो सकता है, या उससे बड़ा कदम उठाने की जरूरत है? अगर उत्तर प्रदेश में भाजपा के दो सबसे बड़े प्रतिद्वंद्वी—कांग्रेस और समाजवादी पार्टी—गठबंधन करने के बजाय एक ही पार्टी बन जाएँ, तो क्या भारतीय राजनीति की तस्वीर बदल सकती है?
-
-अगर कांग्रेस और समाजवादी पार्टी का विलय होता है, तो दोनों दलों को राजनीतिक, संगठनात्मक और चुनावी स्तर पर बड़ा फायदा मिल सकता है। इतना ही नहीं, इससे देश की राजनीति में भी नए सिरे से बदलाव की शुरुआत हो सकती है।
-
-दोनों पार्टियां अपनी-अपनी पुरानी छवियों से बाहर निकल सकती हैं। कांग्रेस पर लंबे समय से यह आरोप लगता रहा है कि वह सवर्णों और मुसलमानों की पार्टी है, जबकि समाजवादी पार्टी को अब भी मुख्यतः यादवों की पार्टी माना जाता है। दोनों के एक होने से इन सीमित पहचानों को पीछे धकेलकर एक ऐसी नई कांग्रेस सामने आ सकती है, जो हर जाति और हर समुदाय के लोगों के अधिकार और प्रगति का मंच बने।
-
-ऐसी स्थिति में समाजवादी पार्टी को अपनी अलग संगठनात्मक पहचान छोड़नी पड़ सकती है। लेकिन इसका यह मतलब नहीं होगा कि समाजवादी विचारधारा खत्म हो जाएगी। उलटे, वह अपने मूल स्वरूप में लौट सकती है। आज़ादी की लड़ाई के दौरान समाजवादी धारा कांग्रेस के भीतर ही सक्रिय थी। बाद में वैचारिक और राजनीतिक मतभेदों के कारण समाजवादी नेताओं ने कांग्रेस से अलग रास्ता चुन लिया था।
-
-आज राहुल गांधी उसी कांग्रेस की राजनीति को बदलने की कोशिश कर रहे हैं। वे सामाजिक न्याय और जातिगत बराबरी को पार्टी की राजनीति के केंद्र में लाना चाहते हैं। एक तरह से वे कांग्रेस की पुरानी राजनीतिक विरासत में बदलाव कर रहे हैं।
-
-अखिलेश यादव के सामने भी ऐसा ही अवसर है। वे चाहें तो समाजवादी पार्टी को अलग क्षेत्रीय दल बनाए रखने के बजाय समाजवादी विचारधारा को एक बदली हुई कांग्रेस के भीतर नई ताकत के रूप में स्थापित कर सकते हैं। इस बार समाजवादी धारा कांग्रेस के हाशिए पर नहीं, बल्कि उसकी सबसे महत्वपूर्ण वैचारिक ताकतों में से एक हो सकती है।
-
-अगर ऐसा होता है, तो भारतीय राजनीति में एक बिल्कुल नई संगठनात्मक व्यवस्था सामने आएगी। व्यावहारिक रूप से इसका मतलब होगा कि उत्तर प्रदेश में कांग्रेस का नेतृत्व प्रभावी तौर पर अखिलेश यादव के हाथों में होगा।
-
-भारतीय राजनीति में अब तक कई बड़े क्षेत्रीय नेता कांग्रेस छोड़कर अपनी अलग पार्टी बना चुके हैं। शरद पवार और ममता बनर्जी इसके सबसे बड़े उदाहरण हैं। लेकिन अगर पहली बार कोई मजबूत क्षेत्रीय नेता अपनी अलग पार्टी को कांग्रेस में मिलाकर राष्ट्रीय राजनीति का हिस्सा बनने का फैसला करे, तो यह भारतीय राजनीति में बिल्कुल नया प्रयोग होगा।
-
-चुनावी दृष्टि से भी इसके बड़े नतीजे हो सकते हैं। बहुजन समाज पार्टी के कमजोर पड़ने और उसके समर्थकों में बढ़ती निराशा के कारण बड़ी संख्या में दलित मतदाता नए राजनीतिक विकल्प की तलाश में हैं। कांग्रेस और समाजवादी पार्टी का संयुक्त मंच उनके लिए एक मजबूत विकल्प बन सकता है। यह नहीं कहा जा सकता कि बसपा के सभी वोट अपने-आप इस नए दल को मिल जाएंगे, लेकिन दोनों पार्टियों के अलग-अलग लड़ने की तुलना में एकीकृत पार्टी के लिए उन मतदाताओं का भरोसा जीतना ज्यादा आसान होगा।
-
-एक और महत्वपूर्ण पहलू भी है। आज की राजनीति पहले की तुलना में कहीं अधिक राष्ट्रीय और वैश्विक होती जा रही है। ऐसे दौर में केवल क्षेत्रीय और जाति-आधारित दलों के लिए लंबे समय तक अपनी राजनीतिक ताकत बनाए रखना मुश्किल हो सकता है।
-
-समाजवादी पार्टी भी भविष्य में उन्हीं चुनौतियों का सामना कर सकती है, जिनसे बिहार में राष्ट्रीय जनता दल या तमिलनाडु में द्रविड़ पार्टियां जूझ रही हैं। इसलिए अखिलेश यादव के लिए कांग्रेस में विलय केवल अगले चुनाव की रणनीति नहीं होगा, बल्कि भविष्य की राजनीति को ध्यान में रखकर लिया गया एक दूरदर्शी फैसला भी हो सकता है। इससे उनकी राजनीतिक भूमिका भी बदल सकती है। वे एक क्षेत्र की सीमा से उपर उठकर राष्ट्रीय राजनीति में क्षेत्रीय सीमाओं से परे जाकर, देश की उभरती राजनीति को नई दिशा देने वाले मुख्य चेहरा बन सकते हैं।
-
-चाहे गठबंधन हो या दोनों दलों का विलय, यह महज वोटों का जोड़-घटाव नहीं होता। 2019 के लोकसभा चुनाव में समाजवादी पार्टी और बहुजन समाज पार्टी का गठबंधन इसका सबसे उपयुक्त उदाहरण है। 2014 के लोकसभा चुनाव में उत्तर प्रदेश में समाजवादी पार्टी को 22.18 फीसदी और बहुजन समाज पार्टी को 19.62 फीसदी वोट मिले थे। यानी दोनों मिलाकर 41.8 फीसदी वोट था। लेकिन जब दोनों 2019 में राष्ट्रीय लोकदल के साथ मिलकर चुनाव लड़े, तब गठबंधन का वोट शेयर घटकर 39.23 फीसदी रह गया और उसे केवल 15 सीटें ही मिल सकीं।
-
-इससे साफ है कि चुनावी राजनीति केवल गणित का खेल नहीं है। वोटों का सीधा जोड़ हमेशा चुनावी सफलता में नहीं बदलता। राजनीतिक समीकरण और मतदाताओं का व्यवहार कहीं अधिक जटिल होता है।
-
-इसी तरह, कांग्रेस और समाजवादी पार्टी का विलय भी अपने-आप उन चुनौतियों को खत्म नहीं कर देगा, जिनका सामना दोनों दल आज कर रहे हैं। दोनों पर वंशवादी राजनीति करने और पुराने ढर्रे से बाहर न निकल पाने के आरोप लगते रहे हैं।
-
-अगर कांग्रेस को सचमुच नई शुरुआत करनी है, तो उसे पी. वी. नरसिंह राव और सीताराम केसरी के दौर से सीख लेते हुए मल्लिकार्जुन खड़गे के नेतृत्व को और मजबूत करना होगा। नेहरू–गांधी परिवार पार्टी में महत्वपूर्ण भूमिका निभाता रहे, लेकिन हर समय वही सबसे आगे दिखाई दे, यह ज़रूरी नहीं है। ये सोचना चाहिए कि क्या कारण है कि शरद पवार, ममता बनर्जी और वाई. एस. जगन मोहन रेड्डी जैसे नेता कांग्रेस से अगल हुए?
-
-अखिलेश यादव के सामने भी ऐसी ही चुनौती है। उन्हें भी अपनी पार्टी और नेतृत्व को अधिक उदार बनाना होगा, ताकि अलग-अलग सामाजिक और राजनीतिक पृष्ठभूमि से आने वाले प्रतिभाशाली लोगों को आगे बढ़ने का मौका मिले। इन जोखिमों के बावजूद राहुल गांधी और अखिलेश यादव का रिश्ता केवल चुनावी मजबूरी या अवसरवादी समझौता नहीं है। दोनों के बीच वैचारिक समानता भी है। अगर वे अलग-अलग रहते हैं तो एक ही सामाजिक आधार के लिए प्रतिस्पर्धा करते रह सकते हैं। दोनों अपनी-अपनी पार्टियों को लगभग एक जैसी सामाजिक सोच के आधार पर नए सिरे से गढ़ना चाहते हैं। दोनों का लक्ष्य ऐसी राजनीतिक ताकत तैयार करना है, जिसमें अलग-अलग धर्मों और जातियों के लोग सामाजिक न्याय के साझा एजेंडे पर एकजुट हों।
-
-Click here to read this article in English.
-
-[Read full article](https://www.thehindu.com/opinion/lead/hindi-translation-of-beyond-an-alliance-the-case-for-a-congress-sp-merger/article71335073.ece)
-
----
-
-### DC Edit | Mineral Rights Bill: Consult States
-*Deccan Chronicle · Editorial*
-
-The Union government’s decision to introduce the Mines and Minerals (Development and Regulation) (MMDR) Amendment Bill to prevent uneven taxation of mineral rights and mineral-bearing lands in the country is welcome. The bill will lead to a predictable cost structure for mining companies across the country.
-
-A uniform cost structure will promote ease of doing business for miners. The new bill will provide certainty, stability and predictability in the fiscal regime in the mineral sector. In the process, however, the bill infringes on the state government’s right to collect charges that the Supreme Court sanctioned.
-
-According to a nine-judge bench of the Supreme Court, royalty is not a tax, and it is a contractual and financial consideration paid by a lessee to a lessor for the privilege of removing minerals, not a compulsory exaction or tax. This bill, however, states that “no tax, cess or such other levy (by whatever name called) shall be imposed by the state government on mineral rights”.
-
-Though Entry 50 of the State List empowers the state government to tax extraction of minerals, Entry 54 of the Union List makes the state power subordinate to limitations imposed by the Centre by law. However, a nine-judge bench of the Supreme Court in 2024 ruled that the state government can collect royalty as it is not like tax, and therefore, not restricted by the MMDR Act.
-
-The current bill effectively seeks to overturn the Constitution Bench’s judgment and denies the state government one of its revenue streams, which was duly declared valid by the Supreme Court.
-
-While the objective of the amendment is understandable, the Central government needs to adopt a consultative approach on the issue and build consensus with states before snatching their source of revenue by force of law. The Centre should also make good the loss to state governments caused by this law.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-mineral-rights-bill-consult-states-1978468)
-
----
-
-### K.C. Singh | Pak-Saudi-Turkish Pact A Fresh Challenge For India
-*Deccan Chronicle · Opinion*
-
-On August 7, 2026, a trilateral mutual defence agreement was signed between Turkey, Saudi Arabia and Pakistan in Mecca. The venue, which has Islam’s holiest mosque, symbolises a convergence of three powerful Islamic nations. The mutual defence clause reflects Article 5 of the Nato agreement. Though Egypt had joined the negotiations earlier, it kept away. Turkey’s foreign minister, Hakan Fidann, expects it to join soon. Turkish leaders emphasised that the agreement was not aimed at any country and was a purely defensive measure.
-
-Though not a “Middle Eastern Nato”, some term it the “Islamic Nato”. Members of Nato had shared concerns about countering the Soviet Union and the Warsaw Pact countries. In fact, their joining the 2001 US intervention in Afghanistan went beyond the original mandate. Also, Nato countries have a joint command and control syatem and a shared nuclear deterrence, though the US retains the control of forward-deployed nuclear weapons.
-
-The three Mecca agreement nations have some, not totally, overlapping threat concerns. Turkey has had differences with Israel. Israeli Prime Minister Benjamin Netanyahu even declared that “our next target is Turkey”. Consequently, Turkish President Recep Tayyip Erdogan announced that “now you can’t even touch our hair”. Turkey has berated Israeli military intrusions into Lebanon and pressure on the Syrian regime, which Turkey helped install. Turkey’s relations with Iran have fluctuated. But they share an interest in containing the aspirations of the Kurdish community which dominates eastern Turkey, the northern parts of Syria and Iraq as well as western Iran. Reportedly, Turkey restrained Israel from employing Iraqi Kurds for a ground operation against Iran, co-opting Iran’s Kurdish minority, at the start of the US-Israeli war.
-
-Ironically, the Turkish Ottoman Empire, after recapturing Diriyah, the first Saudi state, in 1818, took the al-Saud family ruler and his sons prisoner. They were beheaded in Istanbul, then Constantinople, in 1818. Recent Saudi-Turkish differences first arose over Turkey supporting the Arab Spring in 2010-11. Then came the brutal killing of American journalist Jamal Khashoggi in the Saudi consulate in Istanbul. Now the shared threats eclipse the past differences.
-
-Saudi Arabia basically perceives a threat from Iran and its allies like Yemen’s Houthis and Iraq’s pro-Iran militias. Yemen has had a truce since 2022, but recently the Houthis targeted Saudi Arabia’s Aramco oil facility. Regarding Israel, the Saudis have resisted US pressure to sign the 2020 Abraham Accords and normalise relations, demanding that Israel must first present a pathway to a Palestinian state. In fact, the Saudis hurriedly signed a mutual defence agreement with Pakistan in September 2025, days after Israel targeted Hamas in Qatar, which created a perception of the US being unable or unwilling to control Israel targeting the GCC countries. However, the US-Israeli airstrikes on Iran on February 28 triggered the Iranian retaliation on US military bases and assets in the GCC nations. Thus, the present Mecca agreement covers Saudi Arabia’s perceived threats from both Israel and Iran plus its allies.
-
-Pakistan presents a different case. Since independence, it has repeatedly tried grabbing the India-controlled Jammu and Kashmir by force or multilateral UN intervention or terrorism-based blackmail. After 1947, while India chose nonalignment during the Cold War, Pakistan accepted military alliances with the US and Britain. In 1954, it signed the mutual defence assistance agreement with the US for obtaining military assistance in exchange for an anti-Communist posture.
-
-The new Air Force aircraft and the Army’s tanks gave Pakistan a military advantage over India, which instead was focused on development and not strengthening its defence forces. China militarily defeating India in 1962 and the 1964 death of Prime Minister Jawaharlal Nehru left the Indian defence forces demoralised and under-equipped. Perceiving Indian vulnerability, Pakistan tried in 1965 to militarily grab Kashmir, but failed.
-
-The military alliance with the United States slowly weakened after Pakistan declined to send troops to assist America during the Vietnam War. It eventually collapsed after India won the 1971 war, leading to the creation of Bangladesh. Pakistan since then has aligned with China as both countries want to contain India while keeping their outstanding disputes alive. In between, Pakistan again became the military spearhead of the US-Saudi countering of the Soviet military intervention in Afghanistan in 1979.
-
-In the new trilateral arrangement, the Saudis bring oil wealth and religious standing; Turks contribute a modern army and weapons compliant with Nato standards; and Pakistan represents the only Islamic nation possessing nuclear weapons. But the “mutual defence” commitment has limits. Iran’s recent targeting of Saudi Arabia, over the existence of US military bases on its soil, saw...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/kc-singh-pak-saudi-turkish-pact-a-fresh-challenge-for-india-1978476)
-
----
-
-### A course correction in rural quota
-*Deccan Herald · Editorial*
-
-The proposal to create a sub-quota in professional courses for students from rural government schools within Karnataka’s existing rural quota is a necessary correction. Reservation is intended not merely to earmark seats but to ensure that affirmative action reaches the students for whom it was intended. The existing 15% rural reservation appears to have developed a loophole that has allowed relatively privileged urban families to benefit from it. Conceived to help rural students facing disadvantages in access to quality education, infrastructure, coaching, and other academic resources, the intent has been undermined by the rapid growth of private residential schools in rural areas, particularly those affiliated with the CBSE and ICSE. Over the past 15 years, such schools have drawn students from urban centres such as Bengaluru and Mysuru. By studying in these institutions for the mandatory 10 years, such students qualify for the rural quota despite having little connection with the educational deprivation it was designed to address.
-
-Over time, this has displaced students from public schools who face genuine educational distress. Data from the Karnataka Examinations Authority show the extent of this distortion: of the 2,246 seats allotted under the rural quota in professional courses over three years, 1,610, or nearly 72%, went to private-school students. This is further corroborated by the Administrative Reforms Commission report, which notes that although rural CBSE/ICSE students account for only 5% of Class 10 candidates, they capture more than half of rural medical seats. Such figures reveal how relatively privileged students benefit from the eligibility criteria, leaving genuine rural beneficiaries vulnerable. The proposal should therefore be seen as a rectification of this imbalance rather than the creation of another layer of reservation. Since it is carved out of the existing rural quota, it does not breach the Supreme Court’s 50% ceiling.
-
-Online public opinion poll for reprinting out-of-stock Kannada classicsTamil Nadu has introduced a 7.5% horizontal quota for government-school students in professional courses, while Odisha, Puducherry, and Madhya Pradesh have adopted similar provisions. Karnataka can draw lessons from these models while tailoring its policy to local circumstances. The government must now frame unambiguous eligibility criteria, guard against fraudulent claims, and periodically audit admission outcomes. Affirmative action must be judged by whether it reaches those who need it most. Correcting this distortion is justified and long overdue. But true equity will depend on sustained investment in rural government schools – improving infrastructure, teaching quality, and academic standards – so that students are not merely protected by quotas but empowered by education itself.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/a-course-correction-in-rural-quota-4107779)
-
----
-
-### Dissent meets selective solidarity
-*Deccan Herald · Editorial*
-
-In the agitation by student groups in Ranchi, there are striking parallels with the protests in Delhi’s Janta Mantar – in both form and objectives. The protesters in Jharkhand are demanding accountability for breaches in tests conducted by the state’s public service commission and staff selection commission, and over examination paper leaks. Following talks with the students, the state government cancelled three examinations, and three members of the Jharkhand Public Service Commission (JPSC) resigned. Protesters, who demand a probe by the Central Bureau of Investigation (CBI) into examination malpractices and the functioning of a Lucknow-based testing agency, were lathi-charged and tear-gassed during their march to the state Assembly.
-
-The protests are especially significant for the larger message of youth discontent they carry. At the heart of this response is a broken education and examination system that triggers anxieties among large sections of vulnerable youth. The country has often been warned about the cost of failing to meet the aspirations of its young demographics, and the present distress and street expression are responses to this failure. The names of the exams, the erring institutions, and the details may vary from state to state, but the common theme is the failure of the establishment. In Delhi, the focus was on the resignation of a recalcitrant minister. In Ranchi, too, the protesters seek accountability from the system, though their demands have not taken an overwhelmingly political form. The message may be that youth dissent becomes political when it is handled politically or when established democratic means of protest fail.
-
-CAG cites Bengaluru Metro-BMTC non-integration for missed ridershipInstitutional responses – whether from the ruling Bharatiya Janata Party (BJP) at the Centre or from the Opposition parties in states – have been largely similar. Though the Jharkhand government claims that 98% of the protesters’ demands have been accepted, the ground situation indicates a prevailing disconnect. Political responses have been predictably opportunistic. Congress leader Rahul Gandhi has condemned police action on the students, though his party shares power in the state. He should now offer guidance to the government on managing the situation. The BJP says the state government should have talked to the protesters on the first day; however, its government at the Centre, and its leaders, did not engage with the protesting students in Delhi for days, and consistently vilified them. Governments and political parties must realise that the youth take to the streets when the leadership fails. Their protests are desperate calls for systemic accountability. That desperation should be addressed, and not weaponised for political points.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/dissent-meets-selective-solidarity-4107791)
-
----
-
-### Why Gen Z can’t be won over easily
-*Deccan Herald · Opinion*
-
-Prime Minister Narendra Modi has taken to Instagram, aiming his messages at the tell-it-as-it-is generation called ‘Gen Z’. Rashtriya Swayamsevak Sangh (RSS) chief Mohan Bhagwat has also opened conversations with them. The establishment, it appears, wants to listen to voices that, in a matter of 12 days at their peak, wiped out 12 years of carefully constructed PR campaigns that sold a particular image of the current leadership. This was a new kind of bulldozer effect, giving the Bharatiya Janata Party (BJP) a taste of its own medicine in the digital world.
-
-But how do you patch up with those who reject yesterday’s polite conversation and genteel criticism for raw honesty and stripped-down candour unknown and not understood in India’s hierarchical social order? One safe statement bandied about in old-world fashion (and outdated management training) used to be that it is okay to be disagreeable, but please do it agreeably. In India, authority is presumed to be knowledgeable and responsible. We are told to “respect” the Prime Minister. The Gen Z wants to ask: “Why?” If there is so much to disagree with, why not throw out the niceties and disagree in a disagreeable way?
-
-Belagavi | Govt opinion on pro-Karnataka resolution soon: Minister Satish Jarkiholi By boldly walking that path, the protesters who made history at Jantar Mantar by gaining the rare exit of an incompetent minister taught the BJP-RSS some important lessons. They also turned many assumptions on their head, not the least of which is that fancy campaigns, hyperbolic language, and fantastic claims may build you temporarily but can tear you apart eventually. In this new world, the number of followers does not determine the extent of your influence. Numbers date back to the age of influencers. This is the age of anti-influencers who are ready to call you out. Raw numbers fail to reveal the true political pulse of the audience. In a digital space flooded with aggressive, fish-market-style propaganda, high view counts do not necessarily translate to agreement. IT cells either mistake forced visibility for genuine support or have an interest in promoting this easy metric, masking a growing audience that watches not out of admiration, but out of deep skepticism and contempt.
-
-What matters in this world is the honesty of content, not the flaky paint of the form. It brings back the classic style of conversation rooted in the world of spontaneity that is increasingly being seen as a byword for trust and conviction. This grammar is not so new; it is a way of being that was lost to the age of gloss, false framing, and feigned outrage on controlled television and money-spinning social media platforms. Gen Z have reclaimed the classic, and they deserve to be celebrated just for that if not more. The system pushed too far in one direction, and the spring has now pulled back.
-
-The dynamic mounts an almost insurmountable hurdle for a leadership that is fashioned from ideas of power, machismo, and the grandiose approaches that are neither felt nor desired by a new generation of citizens. To use a modern-day analogy: the young person on a date is not impressed by the quality of the car but by how you treat the waiter. In tests such as these, the BJP stands on weak ground.
-
-A generation that celebrates diversity, experiences climate anxiety, and distrusts corporate honchos will naturally reject the bulldozer Raj and the crony capitalism that hallmarks our times. When a Prime Minister who is himself quite senior by age jokes that older people feel the weather because their responses are jaded and not because climate change is real (September 5, 2014; remarks to school children), the created image has already suffered a hit in the eyes of those who worry about the environment. The impact of that hit may follow much later.
-
-The fundamental divide was evident during the Prime Minister’s address at the IIT Delhi convocation last week. Beyond the cliches of “syllabus” on campus versus “out-of-syllabus” characteristics of life, or mimicking Gen Z terms like “bloodline”, his core advice to the graduates was to tackle massive challenges by breaking them down into smaller components. As anyone working on the world’s wicked problems knows, this reductionist approach is precisely what is blamed for the big crises of our times, such as climate change. The universal call from leaders sensitive to the connectedness around us is to look for systemic accounts of how the world and nature work, to understand how one act impacts another, and to extend this understanding widely, calling for science to be humane and to be driven by values rather than a march of the value-free. That may be more like Gen Z language.
-
-Seen in this light, Gen Z may well represent the rejection of the philosophical foundations of the BJP-RSS. Of course, the party under its current leadership will not climb down easily – it has the resources to fight back, but there is little hope of recreating the story for a new audience. The Congress under Rahul Gandhi may have emerged as an attractive proposition. Yet, Rahul Gandhi will have to face difficult tests, one of which is the political twist seen in protests by students in Jharkhand who were lathi-charged, especially since the government is in power with the Congress’s support. In sum, it would be a mistake to see the story of the changed political scenario as an issue of style or language or rebellious youth when it may well represent a shift in the substance of the politics of our times.
-
-(The writer is a journalist and faculty member at SPJIMR; Syndicate: The Billion Press)
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/why-gen-z-cant-be-won-over-easily-4107771)
 
 ---
 
