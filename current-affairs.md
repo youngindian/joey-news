@@ -1,3 +1,251 @@
+## 12 November 2026
+
+### He used AI to test if a weed could help crops grow. Class 11 student wins Rs 4.1 lakh
+*India Today Education Desk · general*
+
+## From late-night experiments to international recognition, Grade 11 student Rudra Patel has made his mark in scientific research. His machine learning-based study on using invasive Lantana camara extracts as potential crop growth boosters won him a Gold Medal and two other major honours at Eskom Expo 2026.
+
+He used AI to explore if an invasive weed could help crops grow, wins Rs 4.1 lakh (Image: LinkedIn/@Rudra Patel)
+
+New Delhi,Nov 12, 2026 12:44 IST
+
+At a time when young researchers are exploring innovative solutions to environmental challenges, Grade 11 student Rudra Patel has taken an unusual approach. He used machine learning to investigate whether an invasive plant threatening local ecosystems could have potential applications in agriculture.
+
+Patel's research earned him three major honours at the 46th Eskom Expo for Young Scientists International Science Fair 2026. A student at the University of Johannesburg (UJ) Academy Maths, Science and ICT School of Specialisation, he won a Gold Medal, the Top Senior Scientist Award and the CambriLearn Built For How You Think Award. The Top Senior Scientist Award carried a cash prize of R75,000 (approximately Rs 4.1 lakh), while the CambriLearn award came with a laptop.
+
+Titled 'Machine Learning Optimisation of Invasive Alien Plant Extracts as Sustainable Biostimulants for Crop Growth', the project examined whether extracts from Lantana camara, an invasive alien plant, could help promote wheat seedling growth
+
+### HOW AN INVASIVE WEED BECAME THE FOCUS OF HIS RESEARCH
+
+Patel initially planned to study another invasive plant but struggled to obtain enough material for laboratory experiments as the species had largely been eradicated. He eventually turned to Lantana camara, a more accessible invasive species, to explore whether its extracts could be used as biostimulants to support plant growth.
+
+His research also had an environmental dimension: finding productive uses for invasive vegetation that threatens local ecosystems.
+
+Young scientist celebrates his big win at the Eskom Expo International Science Fair 2026 alongside award presenters. (Image: exposcience.co.za)
+
+To test the idea, Patel developed machine-learning models to predict how different concentrations of Lantana camara extracts might affect wheat seedlings. He then conducted laboratory experiments to compare the predictions with actual plant responses.
+
+The results revealed that while the models performed well on familiar datasets, their predictions became less reliable under independent experimental conditions. This highlighted that machine learning cannot yet replace laboratory testing when predicting complex plant responses.
+
+The research is still at an early stage, with further standardised experiments needed to establish its practical agricultural applications.
+
+### LATE NIGHTS, INTERNATIONAL EXPOSURE AND A LESSON IN TIME MANAGEMENT
+
+Winning an international science fair was no easy journey for Patel. He developed the project with his mentor, Ms Lindiwe Maphalla, in January, while balancing regular classes, examinations and other academic responsibilities. However, procrastination delayed much of the initial work until shortly before his District Expo.
+
+In May 2026, he travelled to the US to represent South Africa at the Regeneron International Science and Engineering Fair (ISEF), alongside two other young scientists from the Eskom Expo.
+
+On returning, he still had to complete computational modelling, laboratory experiments and his final research report, while preparing for the Regional Science Fair and June examinations. The demanding schedule meant late nights and limited time with friends, and he admitted considering giving up several times.
+
+Support from his mentor, friends and family helped him persevere. The experience also taught him to manage his time better and balance competing responsibilities.
+
+By the time he was selected for the International Science Fair, Patel had learnt to plan his schedule more effectively. He also developed valuable skills in reading academic papers, interpreting complex information, maintaining concentration and managing long study sessions. He believes these lessons will benefit his future studies, whether or not he pursues research.
+
+### FROM ENGINEERING TO BIOMEDICAL RESEARCH: WHAT LIES AHEAD?
+
+Patel believes his research could eventually help scientists screen natural biostimulants, find productive uses for invasive plant biomass and explore more sustainable agricultural practices. With further validation, such approaches could also contribute to discussions about food security and efficient resource use.
+
+His interests extend beyond agriculture to biomedical research, particularly xenotransplantation, which involves transplanting organs or tissues between different species.
+
+The award has also broadened his academic ambitions. While he initially planned to study mechanical engineering before specialising in aerospace engineering, he is now considering biomedical or chemical engineering, followed by postgraduate studies in computational microbiology.
+
+Despite winning R75,000, Patel has no plans for extravagant purchases. He intends to invest the prize money and save it for future needs, particularly university education.
+
+Away from academics, the Grade 11 student enjoys crocheting and has made a life-sized emperor penguin and a Snorlax plushie at one-third of its original scale. He has also recently taken up baking and enjoys watching anime. His favourite way to spend free time, however, is much simpler: sleeping.
+
+### A YOUNG RESEARCHER WITH BIGGER QUESTIONS
+
+At a time when machine learning is finding applications across scientific disciplines, Patel's project offers an important reminder that technology and laboratory research need to work together.
+
+His experiment has not yet established that Lantana camara can improve crop yields, but it has raised interesting questions about invasive plant resources, computational biology and sustainable agriculture.
+
+For a Grade 11 student, the recognition is a significant milestone. More importantly, his willingness to question his own model's predictions and explore new possibilities reflects the curiosity and scientific thinking that young research competitions seek to encourage.
+
+\- Ends
+
+---
+
+### PM Modi Contrasts 'Garibi Hatao' Slogan With India's Poverty Reduction, Cites World Bank At Diwali Milan
+*Anushka Vats · general*
+
+At the BJP headquarters' Diwali Milan event, PM Narendra Modi urged journalists to spread awareness against drug abuse and highlight India's achievements.
+
+[Read full article](https://www.news18.com/india/pm-modi-contrasts-garibi-hatao-slogan-with-indias-poverty-reduction-cites-world-bank-at-diwali-milan-10422770.html)
+
+---
+
+### Nvidia searching for new CEO after Jensen Huang scandal tanks stock and sends investors in panic
+*Krishna Goswami · general*
+
+Nvidia is scurrying to find a viable replacement for Jensen Huang after reports linked its founder and long-time CEO to not one, but two separate affairs outside of his marriage, one of which involves a Chinese spy suspect. To expedite the succession plan, the company is also seeking outside help, onboarding a dedicated firm to help find the next Nvidia CEO.
+
+It’s been a rough few weeks inside what’s undeniably one of the greatest tech companies ever made and rightly so, it has a reputation at stake. That reputation has been put to test — and even somewhat tarnished some might say — after Jensen himself revealed that he was unfaithful to his wife — Lori Huang — of more than forty years. As if his involvement with an alleged Chinese spy, Alice Huang, was not enough, news of a second affair with Nvidia executive Kimberly Powell broke cover. Nvidia clearly can't catch a break.
+
+### What's the matter with Nvidia CEO?
+
+Jensen Huang was unfaithful to his wife, the Nvidia CEO revealed in a memo sent out to employees. The email was sent around the same time, reports started to emerge suggesting he had been having an affair with Alice Huang, formerly a top executive at the Singapore-based company called Megaspeed. Megaspeed was technically a customer of Nvidia which is to say that Jensen and Huang’s first contact might have happened over business.
+
+What muddies the water are suspicions that Alice may have been a Chinese spy sent out to “honeytrap” Jensen to try and sway him into sharing confidential Nvidia information while also influencing high-profile business decisions such as acquiring high-end Nvidia chips for China. The US has currently banned the sale of these chips to China citing national security concerns.
+
+The NYT said in its report that the US government may have known all along and in fact, a memo was apparently circulated within top officials of the Trump administration in spring of last year informing them about the “intel”. Nvidia, at that time, had claimed there was nothing “unusual” in the relationship between Jensen and Alice downplaying any romantic element. Beijing, too, had responded saying that Alice was not a Chinese spy.
+
+With Jensen’s confession, at least one of those things — his affair with Alice — was proven right. The jury is still out on whether Alice was also a spy.
+
+Before the dust even settled, Jensen was embroiled in another controversy. Reports said he was also involved with another woman. Allegedly, it was Kimberly Powell, Nvidia’s vice president of healthcare, who reports directly to him. The two were reportedly spotted being affectionate at a California hotel earlier this year.
+
+### What is Nvidia’s back up plan?
+
+Nvidia likely has one way to go. Look for a replacement. But finding a replacement for Jensen Huang is easier said than done. He co-founded the company 33 years ago in 1993 and has been its only CEO ever since. Nvidia is synonymous to Jensen and vice versa.
+
+The company does not have a clear succession plan so far, and dozens of executives report directly to Jensen. This shows how completely the $5 trillion company relies on just one man. Because of this massive gap, the board is reportedly looking at naming an interim (temporary) CEO while they do a thorough search for the next Nvidia CEO.
+
+Reports suggest that Nvidia's Chief Financial Officer (CFO), Colette Kress, could be named the interim chief. Another co-founder, Chris Malachowsky, might also step in to guide the company during this rocky transition. Meanwhile, the board has launched an independent investigation led by the law firm Wachtell, Lipton, Rosen & Katz to get to the bottom of the Jensen controversy.
+
+### Nvidia’s big dilemma
+
+Firing Jensen Huang is not a simple decision. He is widely considered the global face of the AI revolution. Under his leadership, Nvidia's stock has surged by over 700,000%, commanding widespread respect from shareholders and customers.
+
+But keeping him could be even more troublesome. Lawmakers, investors, and the US government are worried about whether his relationship with an alleged Chinese spy put America's national security and Nvidia's trade secrets at risk. He could even face a congressional subpoena if he does not answer questions in a scheduled closed-door briefing soon.
+
+### Stock market takes a hit
+
+The ongoing drama has spooked investors. Nvidia’s shares dropped sharply, falling between 4% and 8% in extended trading after the reports surfaced, and are down nearly 20% since the scandals began.
+
+For now, Nvidia has not officially commented on the situation. The tech world is watching closely to see if Jensen Huang will lose his crown.
+
+\- Ends
+
+---
+
+### 4-year-old falls into open sewer in outer Delhi, search on for nearly 48 hours
+*Himanshu Mishra · general*
+
+A four-year-old boy who fell into an open sewer in Delhi's Ranhola area on Tuesday afternoon remained untraced on Thursday morning, nearly two days after the incident, even as rescue teams continued their search for him.
+
+The development comes amid confusion over the child's whereabouts, with reports on Wednesday claiming that his dismembered body had been recovered from a water treatment plant in capital's Nilothi.
+
+However, the Delhi Police in a statement on Thursday morning clarified that the child has not yet been traced or recovered from the sewer and rescue efforts are continuing.
+
+According to the police, information about the incident was received at around 3.21 pm on November 10.
+
+The four-year-old was accompanying his mother at the time of the incident. According to the police, the child was walking towards the drain to relieve himself when he accidentally fell into an open sewer manhole.
+
+The sewer line runs alongside the service road adjoining the drain.
+
+The incident triggered an extensive rescue operation, with teams from the Fire Department and NDRF reaching the spot to trace the child. Police personnel also joined the operation.
+
+The search has been particularly challenging given the sewer's connection to the adjoining drain and the network through which the child may have travelled. Rescue teams have been working to locate and retrieve him.
+
+Police have registered a case under Section 106(1) of the Bharatiya Nyaya Sanhita (BNS), which deals with causing death by negligence. Further investigation is underway.
+
+\- Ends
+
+Inputs by Om Pratap Shukla
+
+---
+
+### From Gurdwaras To Diaspora Networks: ISI's New Playbook To Keep Punjab On The Boil? Exclusive
+*Apoorva Misra · general*
+
+Intel sources allege that ISI could be seeking to use religious tourism, people-to-people contact and diaspora networks to cultivate influence among Sikh communities
+
+[Read full article](https://www.news18.com/india/from-gurdwaras-to-diaspora-networks-isis-new-playbook-to-keep-punjab-on-the-boil-exclusive-ws-l-10422762.html)
+
+---
+
+### Videocon case explained: Why NCLT declared Venugopal Dhoot bankrupt
+*Dheeraj Mishra · legal*
+
+The NCLT has declared Videocon promoter Venugopal Dhoot bankrupt over Rs 12,668 crore in SBI loans. Here is what happens to his assets and debts.
+
+[Read full article](https://indianexpress.com/article/explained/explained-economics/venugopal-dhoot-bankruptcy-videocon-nclt-ibc-case-explained-10959905/)
+
+---
+
+### Nvidia CEO Jensen Huang Accused of Second Extramarital Affair With Company Executive
+*Express Global Desk · legal*
+
+Powell, Nvidia’s vice president overseeing healthcare and higher education initiatives, joined the semiconductor giant in 2008 with responsibility for establishing NVIDIA GPUs as the accelerator platform for medical imaging instruments..
+
+[Read full article](https://indianexpress.com/article/world/kimberly-powell-nvidia-ceo-jensen-huang-second-affair-10959960/)
+
+---
+
+### FMGE October 2026 results: Has the pass-rate improved? What numbers show
+*Deepto Banerjee · legal*
+
+FMGE October 2026 results show a 25.35% pass rate with 10,712 qualifiers, doubling June's low figure after candidate protests led NBEMS to introduce an additional third annual screening exam.
+
+[Read full article](https://indianexpress.com/article/education/fmge-october-2026-results-pass-percentage-comparison-june-attempt-nbems-nmc-10959731/)
+
+---
+
+### Arvind Kejriwal, daughter get death threats; Rs 7 crore demanded in Bishnoi gang's name
+*Abhishek Mishra · general*
+
+Kejriwal gets death threat in Bishnoi gang's name
+
+NEW DELHI: Former Delhi chief minister and Aam Aadmi Party supremo Arvind Kejriwal has allegedly received a death threat from a person claiming to be a member of jailed gangster Lawrence Bishnoi's gang, with the sender demanding Rs 7 crore in extortion, news agency ANI reported.According to a complaint filed by Tilak Nagar MLA Jarnail Singh with the Mohali SSP on November 6, the MLA received threatening phone calls and WhatsApp messages from the alleged gang member.The sender reportedly threatened to kill AAP chief Kejriwal and his daughter, Harshita Kejriwal, if the extortion demand was not met.Mohali Police have registered a case under relevant sections of the Bharatiya Nyaya Sanhita (BNS) and the Information Technology Act. The investigation has been assigned to Inspector Sunil Kumar of the Cyber Crime Police Station.Police are examining the suspect's call records, IP logs and location details as part of the probe.Jarnail Singh has also sought security for Kejriwal and his family, according to the report.
+
+---
+
+### ‘Diwali Mubarak Ho’: CCTV Captures Brutal Shooting Of Faridabad Executive Over Parking Dispute
+*Prisha Vibhavari · general*
+
+Police have arrested Sharma, while his wife Divya, son Mayank, daughter Naina and brother Hetram have also been named in the FIR registered on the basis of Shaurya’s complaint.
+
+[Read full article](https://www.news18.com/india/diwali-mubarak-ho-cctv-captures-brutal-shooting-of-faridabad-executive-over-parking-dispute-ws-l-10422678.html)
+
+---
+
+### 'Mithai khilao, you are Gujarat CM now': PM Modi recalls how journalists broke the news to him
+*Vivek Dubey · general*
+
+He said the media played an important role in keeping democracy vibrant and added that “nothing is impossible in journalism”.
+
+NEW DELHI: Prime Minister Narendra Modi on Thursday recalled how a group of journalists once informed him that he had become the chief minister of Gujarat, asking him to distribute sweets.Speaking at the BJP's Diwali Milan event for journalists, PM Modi said only a few senior party leaders knew about the development when the journalists walked into his room and told him, “You are the CM of Gujarat now, mithai khilao.
+
+”Reflecting on his long association with the media, PM Modi said he had witnessed its evolution from the days of press releases to the present era of Instagram reels. He also recalled his early days, when he would arrange chairs at similar events.He said the media played an important role in keeping democracy vibrant and added that “nothing is impossible in journalism”.PM Modi also thanked journalists for attending the event despite their demanding schedules during the festive season, jokingly describing it as a “non-breaking news event”.
+
+---
+
+### POCSO cases can’t be quashed only because parties settle cases, rules Kerala High Court
+*Vineet Upadhyay · legal*
+
+The high court was dealing with a reference on whether POCSO cases can be quashed after the accused and the survivors reach a settlement after single judges of the court gave divergent views.
+
+[Read full article](https://indianexpress.com/article/legal-news/kerala-high-court-relief-pocso-cases-quashed-settlement-10959904/)
+
+---
+
+### FPIs Invest Rs 7,759 Crore In FAR G-Secs In November; Buying Returns After Two Months Of Outflows
+*Mohammad Haris · business*
+
+The renewed interest in November comes amid a recovery in the rupee, a sharp rally in government bonds and easing global financial conditions.
+
+[Read full article](https://www.news18.com/business/economy/fpis-invest-rs-7759-crore-in-far-g-secs-in-november-buying-returns-after-two-months-of-outflows-10422672.html)
+
+---
+
+### Elon Musk says hiring scandal-hit Nvidia chief Jensen Huang would be ‘an honour’
+*Express Global Desk · legal*
+
+Elon Musk has said it would be an "honour" to hire Nvidia CEO Jensen Huang as Nvidia's board weighs his future amid affair scandals and a China spy probe.
+
+[Read full article](https://indianexpress.com/article/world/us-news/elon-musk-hire-nvidia-ceo-jensen-huang-affair-scandals-kimberly-powell-10959953/)
+
+---
+
+### Foreign divorce invalid in India if grounds not recognised by Indian law: Supreme Court
+*Ashish Shaji · legal*
+
+The court refused to quash criminal proceedings against a man who married a second time in the UK on the basis of a divorce decree granted by a UK court on the ground of irretrievable breakdown of marriage.
+
+[Read full article](https://indianexpress.com/article/legal-news/foreign-divorce-in-india-by-indian-law-supreme-court-10959846/)
+
+
+---
+
 ## 11 November 2026
 
 ### Kai Cenat Turns Into A Dog During His GTA Marathon, Begs Chat For Help
