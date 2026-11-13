@@ -1,8 +1,345 @@
 # Editorials
 
-_Last updated: 2026-11-12 08:44 UTC_
+_Last updated: 2026-11-13 08:36 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 13 November 2026
+
+### In a dilemma: On Sheikh Hasina and India-Bangladesh ties
+*The Hindu · Editorial*
+
+Bangladesh’s former Prime Minister Sheikh Hasina now in exile in India, has set off speculation about her imminent return to Dhaka by submitting an application for a new Bangladeshi passport and national identity card this week. The application, made through the Bangladesh High Commission in Delhi, was dismissed by Prime Minister Tarique Rahman’s Foreign Affairs Adviser Humayun Kabir, who said that the government in Dhaka would not grant a passport to a “terrorist”, and would seek her return via the extradition agreement as a “prisoner transfer process” with India. Ms. Hasina has already announced that she plans to return to Bangladesh in December this year, as she did after her previous stay in India in exile from 1975-1981, after the brutal assassination of her father Sheikh Mujibur Rahman and nearly every other member of her family. However, the situation is considerably different now. This time, Ms. Hasina came to India in 2024 fleeing mobs of protestors that overthrew her government, and has since been convicted by a tribunal for ordering a crackdown on thousands of students, and sentenced to death. In interviews, including to The Hindu, Ms. Hasina says she hopes to return to Bangladesh to argue her case and rebuild her party, the Awami League, but that is hardly likely, given the anger against her amongst the polity, and bipartisan consensus to ban the Awami League from politics. Despite the harsh rhetoric it employs against her, the BNP government is unlikely to wish for her return, as it would have to begin execution proceedings against the 79-year-old former Prime Minister, with international opposition to such a move expected to be voluble. Not doing so would only strengthen its opposition party, the Jamaat-e-Islami, that has accused the Rahman government of soft-pedalling the issue. The government must also worry about possible protests and violence within the country in the event Ms. Hasina returns.
+
+The situation puts the Modi government in a spot. Ever since Ms. Hasina announced plans to return, during a virtual press conference held in Delhi on August 5 this year, Delhi-Dhaka ties have been on a downslide. The government’s decision not to prevent Ms. Hasina from addressing the press, where she used the opportunity to soundly criticise PM Rahman, meant the abrupt cancellation of the Bangladesh PM’s visit. Next month, the Indo-Bangladesh Ganga Water treaty is set to expire, and talks on its extension have also become a casualty. Ms. Hasina has been an honoured guest in India, and the government cannot physically restrain her from taking the flight to Dhaka or travelling to the land border at Petrapole to cross over. Nor can it wash its hands of her situation once she crosses over. New Delhi must redouble its diplomatic efforts on improving bilateral ties while also ensuring Ms. Hasina’s welfare.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/in-a-dilemma-on-sheikh-hasina-and-india-bangladesh-ties/article71695189.ece)
+
+---
+
+### New deal: On COP31 and lofty climate goals
+*The Hindu · Editorial*
+
+The 31st Conference of Parties (COP) began this week in Antalya, Türkiye. Hosted by Türkiye and negotiations presided over by Australia, the run-up to the gathering saw ministerial delegations visit Fiji and Tuvalu. This was to serve as a stark reminder of the purpose of COPs, namely that it was small island nations that are most vulnerable to warming from rising greenhouse gas emissions. However, the opening days have belied this sense of urgency. Prominent world leaders, even from the European countries who as a group champion the cause most vociferously, have chosen to skip the meet. The agenda and pre-summit expectations suggest that the main concerns this year are likely to be about delivering on existing commitments such as delivering $300 billion a year by 2035, which was decided at COP29 in Baku, as well as the COP30 call to triple the adaptation finance during that interval. However, deciding how these climate funds will practically flow has been deferred to COP32. The second global stocktake, a periodic check on progress under the Paris Agreement, begins at COP31, but the Intergovernmental Panel on Climate Change (IPCC) has dithered on a timeline for the next reports that will serve as the scientific push to policy makers to accelerate efforts towards keeping a rise in temperatures below 2°C, and more ambitiously 1.5°C.
+
+The previous edition of COP30 concluded without a formal roadmap away from fossil fuels — a step back from the COP28 consensus in Dubai. There is a voluntary roadmap ahead of COP31 but it is out of the formal negotiating text. In the background of the West Asia war, the withdrawal of the United States from the Paris Agreement and financial strain writ large over Europe, funds are a challenge as evidenced in the recent Loss and Damage fund approval to Nepal of $21 million when the ask is in billions. COP31 president, Murat Kurum has laid an electrification target, which is to raise electricity’s share from 23% of total energy consumption to 35% by 2035. India has already refused to sign such a pledge and insisted on predictable climate finance, technology transfer, and nationally determined approaches to climate mitigation. These negotiations have a character of their own and deliberating nations must strive to get nations to deliver on past promises rather than commit to new lofty targets.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/new-deal-on-cop31-and-lofty-climate-goals/article71695206.ece)
+
+---
+
+### The SIR exercise is also a technology failure
+*The Hindu · Opinion*
+
+Much of the public argument over the Special Intensive Revision (SIR) of India’s electoral rolls is around law, power and politics. The autonomy of the Election Commission of India (ECI), the list of acceptable documents, and the burden placed on voters to prove eligibility are the key focus issues. There is, of course, no doubt that these questions matter. But a quieter, less spoken-about story runs underneath them. The 2025-26 SIR is the first revision of this scale to be run through a centralised digital platform, and the technology itself has become a source of exclusion. Viewed as a nationwide digital transformation project, the SIR fails on several counts that any student of technology would immediately recognise.
+
+The irony stares right at us. India presents itself, with ample reasons to do so, as a leader in digital public infrastructure. From the IRCTC’s (Indian Railway Catering and Tourism Corporation) ticketing system and the income tax department’s e-filing to Aadhaar authentication, UPI, DigiLocker etc., India holds up proof, at home and abroad, that it can build technology that works at scale.
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-sir-exercise-is-also-a-technology-failure/article71695196.ece)
+
+---
+
+### DC Edit | J&K: Terror Checked, Not Beaten
+*Deccan Chronicle · Editorial*
+
+The killing of two Special Police Officers (SPOs) in Kishtwar and the militant attack on a CRPF party in Kulgam within a span of two days serve as a grim reminder that terrorism in Jammu and Kashmir remains a potent threat. These incidents have punctured any complacency arising from recent successes against militant networks and underscored a reality that security agencies themselves have often acknowledged: militancy has been contained, but not eradicated.
+
+The murder of the two SPOs, who were on their way to join duty at an Army camp in the remote Marwah sector, bears all the hallmarks of a terrorist strike. The disappearance of their service weapons further strengthens this suspicion. Likewise, the attack on CRPF personnel in Kulgam demonstrates that militant groups continue to retain both intent and capability to strike whenever opportunities arise.
+
+Over the past several months, security forces have eliminated several key terrorists and degraded Pakistan-sponsored networks operating across the Pir Panjal region and the Kashmir Valley. Yet the latest attacks highlight the persistence of residual militant formations, particularly in difficult mountainous terrain where foreign mercenaries and hardened local operatives continue to seek refuge. The challenge, therefore, is not merely to neutralise individual militants but to dismantle the ecosystems that enable them to survive and regroup.
+
+The concerns expressed by political leaders across the spectrum deserve serious attention. While assurances from lieutenant governor Manoj Sinha that perpetrators will be brought to justice are reassuring, observations that traditional support structures of terrorism have not been fully dismantled cannot be ignored. Equally significant is the need to acknowledge that isolated acts of terror continue despite broader improvements in the security environment.
+
+The answer lies in deeper coordination among all security agencies, sustained intelligence-led operations, and relentless pressure on militant networks. However, lasting success cannot be achieved through force alone. Winning the confidence and cooperation of local communities remains indispensable. People living in vulnerable areas must see themselves as stakeholders in peace and partners in security.
+
+Jammu and Kashmir has travelled a long way from the dark years of insurgency. But these twin attacks reaffirm that the fight is not over. Vigilance, public trust and unwavering resolve will be essential to ensure that terrorism is not merely contained, but defeated once and for all.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-jk-terror-checked-not-beaten-2003951)
+
+---
+
+### DC Edit | Sonia’s Sonic Story Simply Had To Be Told
+*Deccan Chronicle · Editorial*
+
+There are always two sides to a story, and it is important that those on the power side of the barricade which separates them from the onlookers must tell their version in a nation that has lent itself too easily to opacity despite being an 80-year-old democracy, perhaps largely due to the public being so apathetic.
+
+Sonia Gandhi was an enigmatic power centre without being formally in charge of government. In a country whose political field is filled with yes-men and sycophants standing beside leaders, her own story had to be told. What she has helped produce is an insightful work into how a witness to events from close to the power centre for years remembers how things played out.
+
+Belonging: A Journey of Love throws light on many of the contentious events that revolved around the survivors of the Nehru-Gandhi dynasty who were at the centre of things after tragedy had struck many of its members and hence the understandable touches of sorrow to her tale.
+
+The empathy of a mother who lost her first-born in its infancy and the Rajiv Gandhi family’s dilemma in whether Sonia should accept the prime ministership that her party wanted her to offer revelations about the play of forces which the general public would love to hear about and now can read a firsthand account of.
+
+The politics of a polarised nation that is lately very loud about it may invite greater scrutiny to what Sonia has to say, especially of the prime ministership, about which she writes as having turned it down because her children were fearful of her security, but later interjects a political angle in saying she did not want it as the BJP would decry a foreigner in the hot-seat.
+
+By their very nature, autobiographies and memoirs are selective and can be self-regarding but, to her credit, Sonia turned down the most wanted job in the country, which she hopes her son will occupy someday, if only to continue an interrupted family legacy. That did, of course, make her an extra-constitutional authority to whom everyone bowed, including two-term Prime Minister Manmohan Singh.
+
+It is in recapturing without hesitation a couple of India’s worst incidents of communal hate killings that Sonia introduces some equity into the reading of historic national tragedies. While condemning the Sikh killings in the wake of the assassination of her mother-in-law Mrs Indira Gandhi, she attributes them to the collapse of effective governance though her husband was the one in charge.
+
+In revisiting the horrors of the Gujarat riots of 2002, she hints at a conspiracy behind the Sabarmati Express burning that led to a pogrom the nation should be truly ashamed of. It is remarkable that in all the adverse comments that the polemics of Sonia’s recounting of events drew, there was no effective refutation of the facts.
+
+That the tale is out there is itself a tribute to Indian democracy, however flawed it might seem in periods of time in which it was under threat. One publisher may have backed off for whatever conspiratorial reasons there might have been, but another was willing to stand up for the right of someone as important as a fulcrum of a particular political era to have her say.
+
+The opinions about any exposé may be colourful, the occasional presentation of facts may be one-sided, but the right to put a version of events out there has been upheld and there is reason to cheer because there is so much in the public eye now, including the innermost feelings within the Gandhi family, even as the writer can rejoice in having unburdened herself of her thoughts in her recollection of national events.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sonias-sonic-story-simply-had-to-be-told-2003967)
+
+---
+
+### India And The Refugee Crisis: A History Of Shelter Without A Law
+*Deccan Chronicle · Opinion*
+
+In today’s fractured and fragmented world, a problem which encompasses both the humanitarian and security aspects and is growing, unmistakably, both in the region and globally is the problem of refugees. India is a unique country which has encountered the problem of refugees in various dimensions right from its independence. The dawn of
+
+freedom in August 1947 brought in, very regretfully,
+
+one of the largest human migration in history with millions of people migrating to India or Pakistan — that this division ushered in the most heinous of violence, deaths, rapes, kidnapping and destruction in myriad forms in the emerging two nations is a
+
+painful fact of human history when communities which had lived in peace for centuries immediately turned against each other and indulged in the worst forms of violence and brutality.
+
+Coming to the current situation of refugees in India, it hosts more than 2,40,000 refugees and asylum seekers (official figures) but it lacks a formal domestic refugee law and all problem of refugee arrivals into India are dealt through temporary government policies and the Foreigners Act. It is pertinent to note that India is not a signatory of the 1951 UN Refugee Convention or its 1967 Protocol. All non-citizens without valid visas are governed by the Foreigners Act of 1946.This law treats refugees and illegal immigrants the same way and are principally governed by India’s general laws resting to foreigners.
+
+By the end of 2025, reportedly over 117.8 million people were displaced worldwide. Since decades, India has offered refuge to persecuted communities — from Parsis of Persia a few centuries back, to thousands of Tibetans since 1959 and to Bangladeshis in the 1970s, to Sri Lankan Tamils in the 1980s and 1990s, to Afghans and Chakmas and more recently displaced people fleeing from Myanmar (primarily nearly 40,000 Rohingyas refugees and Chin refugees in Mizoram), Yemen, Sudan and other nations too. Despite not being a signatory to some of the international protocols for refugees, India has consistently displayed a humanitarian approach to human suffering borne out by the plight of refugees and even illegal immigrants.
+
+Refugees all across many nations in today’s world — which you can call at war with itself — are increasing in number owing to a variety of reasons. Some of these causes are kinetic conflicts between nations, state collapse, persecution by the state, religious and ethnic differences, economic and climate stress — all these factors directly affect India’s development and security. A point also to note is that the distinction between refugees, asylum seekers, undocumented migrants have become increasingly blurred. Also, owing to the marked increase in numbers of these refugees or migrants or asylum seekers, problems concerning border management, organised crime, human trafficking, terrorism, social cohesion are on the rise. Importantly, overall national security concerns including law and order do get aggravated with such influx of population. A point which immediately comes to one’s mind is the drawback in India existing to holistically and uniformly deal with this problem is owing to the lack of a comprehensive national refugees’ law or policy framework.
+
+Despite the absence of a Central policy framework, India has continued to shelter refugees from many parts of the world owing to India’s civilisational values and its overall humanitarian traditions.
+
+However, compassion must be governed by law and procedure. We should therefore adopt a central design principle, orderly protection — humane yet with clear rules and responsibilities. India must not forget that today its responses are ad hoc through executive orders or bilateral arrangements.
+
+At times judicial rulings, as pronounced, produce uneven outcomes and governance gaps in rulings on refugee issues.
+
+Keeping a holistic approach in view, a flexible, rights respecting National Refugee Policy to provide legal clarity, operational convenience and integrated security safeguards should be adopted. Some suggested steps are, firstly, the adoption of a simple agreed upon and then published definitions for refugees, asylum seekers, irregular migrants, nature displaced people to facilitate categorisation, documents, entitlements and responsibilities.
+
+Secondly, implement a multi-layered
+
+rights-respected screening including biometrics, inter-agency intelligence checks and fair asylum interviews to protect genuine claimants. Thirdly, formalise an India-UNHCR partnership through a secure MOU for data sharing and technical cooperation with robust privacy and security safeguards. Importantly, non-refoulement should be included among our legal safeguards, that those seeking refuge in India owing to repression in their native countries are not forcibly sent back.
+
+In addition to the above measures, federal-state coordination should be strengthened by establishing state refugee coordination cells, allocating central funding...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/india-and-the-refugee-crisis-a-history-of-shelter-without-a-law-2003971)
+
+---
+
+### Monopoly Through Eyes Of Economics Nobel Winners
+*Deccan Chronicle · Opinion*
+
+Today, if an ordinary citizen dares to discuss serious issues like monopolies, oligarchies, or plutocracies within India’s 1.45-billion-person economy, they are almost guaranteed to be immediately shut down by online trolls.
+
+What is monopoly? The textbook says that “monopoly is a market in which there’s only one supplier” and “three features characterise it”. First, its pristine motive is profit. Second, it stands alone and barriers prevent new entrants. Third, the actions of the monopolist itself affect the market price of their output.
+
+Black’s Law Dictionary, too, notes that “monopoly is control or advantage obtained by one supplier or producer over a commercial market” and, in the modern sense, “monopoly exists when all or so nearly all of an article of trade/commerce is brought within the hands of one person or set of persons”.
+
+Before Independence, the three main private monopoly players of India were Bata, Tata and Birla. Bata’s (which entered India in 1931) was virtual monopoly in branded footwear mart the price being unusually high compared to every other shoe supplier. Its Ambassador men’s formal shoe once cost Rs 999.95 in the late 1980s, although today it battles multiple branded rivals priced from Rs 1,439 to Rs 2,999.
+
+Tata Steel (founded 1907), too, was an effective monopoly player from the early- to mid-20th century till the arrival of JSW and Jindal who set up large plants turning India from monopolies to market economics.
+
+Birla’s Hindustan Motors produced the Ambassador, a car that exemplified Lenin’s early 20th-century thesis: “Imperialism, the highest stage of capitalism.” The Ambassador car was not only ubiquitous; it was the soul of State power. For decades between the 1950s and 1980s, it was the undisputed official car for India’s politicians, bureaucrats, and all Central and state government departments, civil and military alike — easily fending off competition from the Premier Padmini, originally marketed as the Fiat, and the Standard Herald (1961-1974). It’s true — this was the ruthless Ambassador monopoly at the fiery peak of its automotive imperialism.
+
+Ultimately, the Ambassador’s market dominance collapsed under the weight of its own inefficiencies, including excessive fuel consumption, frequent mechanical failures and steep maintenance costs. Insulated by close ties to successive state administrations, the manufacturer developed an entrenched complacency, exploiting Indian consumers with a substandard product under the assumption of permanent protection. Then-PM Indira Gandhi stepped in to dismantle the monopoly of outdated, subpar cars. That decision brought in the game-changing 1983 partnership between the Indian government and Japan's Suzuki. Maruti was born. Monopoly was gone. Indians went from “beggars can’t be choosers” to “consumer is king”.
+
+At this juncture, let us remember that the 18th century Scottish scholar Adam Smith, referred to as the father of economics and the father of capitalism, too. In his magnum opus, The Wealth of Nations, he wrote that monopoly is the “fundamental enemy of free markets, public prosperity and efficient economic management”: “Monopoly hinders capital of the country and raises mercantile profit. But as it obstructs natural increase of capital, it tends rather to diminish than to increase the sum total of revenue which the country derives from profits.” (pp. 776-777)
+
+Fast forward to more recent times. The 1982 Economics Nobel winner, George Stigler, provides the “foundational economic proofs to measure monopoly damages” in this regard: “Monopolists intentionally create artificial scarcity to maximise profits by charging higher-than-competitive prices, lower output meaning millions of consumers are shut out from goods they otherwise would have afforded”, thereby generating irreversible “deadweight loss”.
+
+In his book, The Price of Inequality and People, Power and Profits, the 2001 Nobel winner Joseph Stiglitz, too, makes a devastating critique of modern monopolies and oligopolies. He writes, “Monopolists restrict output, raising consumer prices, and drive down wages.” Do Indians remember the high-priced Bata Ambassador shoes and Birla’s Ambassador cars from the yesteryears?
+
+Stiglitz posits that “monopolies directly stifle aggregate demand, transfers wealth from ordinary workers to billionaires and corporate cash hoard, triggering persistent economic weakness”. He warns: “highly concentrated market/money power naturally transforms into unchecked political power. Oligarchs lobby to capture regulatory agencies, block anti-trust enforcement and secure rules that protect their own dominance at public’s expense.”
+
+Paul Krugman, the 2008 Nobel Laureate, was even more pointed. He disproved the classic theory of perfect competition. “Massive corporations leverage economies of scale to lock out competitors. Once a firm achieves a certain size, it’s no longer bound by market discipline; it can manipulate market access, control supply...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/monopoly-through-eyes-of-economics-nobel-winners-2003947)
+
+---
+
+### Demographic shift warrants policy rethink
+*Deccan Herald · Editorial*
+
+The recent Supreme Court ruling and observations on the two-child norm are appropriate at this stage of India’s demographic transition. They signal the diminishing relevance of established population control policies. The country’s fertility rate has dropped below the replacement level of 2.1, and so, population policies framed for significantly higher rates, with punitive dimensions, have become outdated. They have also become counter-productive in some regions where the reality is slow expansion, not a population explosion. The immediate issue before the Court was the restriction on individuals with more than two children from contesting local body elections. Setting aside the disqualification of Mangala Bhimrao Ingle, a former sarpanch from Kakoda gram panchayat in Maharashtra, the Court referred the Javed v State of Haryana judgment from 2003, which upheld the constitutional validity of the two-child norm, for reconsideration by a larger bench.
+
+When the apex court upheld the validity of the two-child norm in Javed, India’s fertility rate was around 3. It has declined in most parts of the country due to changing socio-economic patterns, reflecting improved literacy and healthcare. The two-child norm is no longer a personal or family imperative and has lost its grounding to inform government policy. A wider issue here involves public policy and constitutional rights. Is the State right to impose its population policy on the individual, by turning the two-child norm into an instrument of population control? It enforces the idea that people’s representatives should lead by example by imposing a disproportionate burden on individuals, especially women who have little control over reproductive decisions in many households. Reproductive autonomy may be viewed as part of the right to protection of life and personal liberty that flows from Article 21. Qualifications for electoral contests and democratic participation prescribed by the Constitution do not mention the number of children a person has.
+
+India still spends heavily on sterilisation despite declining fertility rates, experts urge to roll back incentives While these issues will be decided by the larger bench, the Court’s observations have brought into focus the need for a balance between population policy and fundamental rights. Population policy, like any public policy, evolves in response to changing situations. Some states, including Andhra Pradesh, Telangana, and Rajasthan, have withdrawn the restrictive rule on local poll candidates regarding their children’s count. India presents a diverse demographic picture now, with most states experiencing a declining trend and some others witnessing an increase. Policies should therefore vary, and the Court has rightly decided they need closer scrutiny.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/demographic-shift-warrants-policy-rethink-4216539)
+
+---
+
+### Nutrition deficit: A costly imbalance
+*Deccan Herald · Editorial*
+
+The finding that one in five children in Karnataka suffers from acute malnutrition should unsettle a state that prides itself on social progress and human capital development. Despite allocating Rs 3.45 lakh crore to child-centred programmes between 2020-21 and 2026-27 – the highest per capita outlay in the country at Rs 34,186 – nutrition remains the “most challenging sector and primary weakness”, according to a recent study by the Fiscal Policy Institute (FPI). The figures are alarming. Some 35.4% of children under five suffer from stunting, or being too short for their age. Though marginally below the national average of 35.5%, this is far above the global Sustainable Development Goals (SDG) target of 13.5% by 2030. Wasting affects 19.5% of children. Another 32.9% are underweight. The SDGs do not prescribe a separate target for underweight, as this indicator combines elements of both stunting and wasting. Successive National Family Health Surveys have highlighted the persistence of these problems, pointing to years of policy stagnation.
+
+Chronic undernutrition often begins in the womb and continues through the first two years of life. It can impair physical growth, cognitive development, learning, and long-term health. The FPI study exposes a structural contradiction in the state’s policies. Of the child-centred outlay, 85% went to formal education, leaving foundational health and nutritional security underfunded. This creates a “leaky bucket” effect: educational investments cannot deliver their full returns when children enter classrooms weakened by poor nutrition.
+
+Food is more affordable in India. So why is nutrition still failing?Why, then, have food security programmes such as Anna Bhagya and the mid-day meal scheme not produced a decisive improvement? Food security is not the same as nutritional security. Staple cereals can ease hunger, but cannot alone supply the proteins, micronutrients, and healthy fats essential for development. School meals also reach children after the critical first 1,000 days, from conception to the second birthday, when the foundations of physical and brain development are laid. Maternal anaemia, low birth weight, and recurrent infections further undermine nutritional outcomes. The answer is not to divert education funds indiscriminately, but to correct the imbalance. Karnataka must strengthen anganwadis, improve the quality and diversity of supplementary nutrition, and ensure regular access to eggs, pulses, milk, and locally available foods. Maternal nutrition, antenatal care, breastfeeding support, and early detection of growth faltering need greater attention. Safe water, sanitation, and primary healthcare are equally important. Nutrition is not a competing welfare expense; it is the foundation on which educational success and the state’s human capital are built.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/nutrition-deficit-a-costly-imbalance-4216538)
+
+---
+
+### Modi’s McCarthyism and the politics of invisible enemies
+*Deccan Herald · Opinion*
+
+Prime Minister Narendra Modi’s speech in Bastar to CRPF personnel marks an important transformation of his public narrative. After taking credit for lifting 50 crore people out of poverty and ending the Naxalite insurgency, he claimed that ideological Naxalism was still very much alive. These “Dimagi Naxals”, he claimed, had infiltrated political parties and other organisations, and needed to be identified and defeated.
+
+He told the paramilitary assembly, “Armed Naxalites have vanished from the forests, but intellectual Naxalites have captured many organisations. Even today, they are provoking people against the Constitution and democracy of the country. These intellectual Naxalites have also infiltrated several political parties and various organisations. We must identify them, defeat them, and secure the nation.” The impropriety of the speech and the context in which it was made both need to be understood.
+
+Modi’s spoke attired in security-style camouflage that deliberately blurred the distinction between civilian executive authority and India’s neutral security apparatus. Although paramilitary forces should not be drawn into the partisan politics of a particular government in power, Modi was asking the CRPF to share his political definition of what constitutes a continuing Naxalite threat. It is not without significance that the framing of political dissent as another form of Naxalism took place in Bastar, the CRPF’s battleground against Naxalite insurgency.
+
+Armed Maoists gone, but 'dimagi Naxals' instigating people against Constitution: PM ModiModi’s efforts to draw the CRPF to his side of the political battle lines is not accidental at all.
+
+He is still shaken by the results of the 2024 general elections when voters denied him a clear majority. Then, this July his image took a massive beating in the student agitation with Gen-Z taking him down on social media in unprecedentedly sharp personal attacks, bordering on the profane. He had to concede to their demand of sacking his education minister.
+
+Immediately after, the Opposition took him on over the subversion of constitutional institutions, the Election Commission of India, ‘vote-theft’ through voter deletions and allegations of democratic backsliding. In this context, Dimagi Naxals has come as a handy term to label his critics — both from parties of the Opposition and from civil society. Refusing to reply to their accusations, Modi, his ministers, and the ruling Bharatiya Janata Party (BJP) have accused them of spreading anarchy and operating as instruments of foreign powers.
+
+Dimagi Naxal is not defined by law and, therefore, not an offence. But since Modi makes no distinction between Naxalites engaged in unlawful and violent acts and those who express disagreement with the government, the new name for the national enemy is left open to political interpretation.
+
+Modi desperately needs to reinvent himself given the erosion in mass acceptance. As in earlier moments of crises, he has reached once again for the rhetoric of national security. He wants the ongoing political contestations in India not to be seen as demands for better and more accountable governance, but as a struggle between patriots and internal enemies, now dressed up as Naxalites. This allows him to present the security agenda as an unfinished one where the active presence of imagined enemies requires his watchful leadership.
+
+'End of Maoist terror is victory of right policies and strong political will': PM ModiModi’s political language echoes that of United States Senator Joseph McCarthy who rose to political prominence in the early 1950s by exploiting the fear of Communist sympathisers having infiltrated US society. As in McCarthy’s case, the argument runs that victory over one set of Communists has not ended the battle but requires a sustained rooting out of those who are ostensibly hiding in the interstices of politics, culture, and civil society.
+
+Modi’s creation of imaginary, nebulous, and undefinable enemies has been a slow movement from ‘Tukde-Tukde gang’, ‘Urban Naxals’, ‘Andolanjeevis’, and agents of foreign conspiracy to ‘Dimagi Naxals’. At each stage the definition becomes progressively broader to include more of those who influence public opinion, teach in universities, and actors and comedians — those who are political party workers or are active in civil society organisations.
+
+Potentially, this is an ever-expanding category of enemies. It gives the BJP cadre an evolving adversary against whom they can rally. And, without having to answer any criticism of the government, it tries to put those protesting its policies and attacking democratic institutions on the defensive, requiring them to prove their nationalist credentials.
+
+Like McCarthy, Modi is using the language of national security and loyalty to not only narrow the space for dissent, but also to taint it with criminal intent. McCarthyism in the US did not limit itself to the persecution of alleged Communists in government. It extended to Hollywood actors, screenwriters, academics, journalists, and intellectuals, who were blacklisted and professionally destroyed.
+
+There may not be a formal government blacklist in India, and the conditions are very different from what they were in the US during the 1950’s Cold War. However, political intimidation, institutional pressure, and communal mobilisation exist on the ground. Academics and social activists have been branded urban Naxals; journalists have been raided and persecuted; comedians and Bollywood actors have faced organised boycotts, and Muslim cultural figures have had their nationalism questioned.
+
+Modi’s call to identify and defeat ideological dissenters aims to suppress the mass energy that has just begun to bubble up in the public sphere. The enemy is no longer just the Maoist insurgent but can be anyone in a political party, official institution, and civil society organisation whom the government considers hostile.
+
+This converts every citizen into a potential suspect, making people wary of speaking out, others from defending them, and political parties from challenging the government in power.
+
+'Any time, any place': Rahul Gandhi reiterates debate dare after PM Modi's 'Dimagi Naxal' jibe on DiwaliPolitical parties and civil society, therefore, need to fight the idea that dissent in democracy somehow means disloyalty. This requires rejecting Modi’s vocabulary and demanding material evidence in Parliament for the allegations of foreign conspiracy and conspiracy to create anarchy.
+
+The Opposition should ask which organisations have been infiltrated, who is responsible, which minister is responsible, what illegal activities have been committed, and by whom. The Opposition must also take this to ordinary people — defending the right of workers to organise, students to protest, farmers to demonstrate, journalists to investigate, and citizens to seek accountability.
+
+Civil society, meanwhile, needs to form broad, non-partisan coalitions for defending civil liberties — defending freedom of speech, association, and peaceful assembly. The constitutional right to question cannot be reduced to a concession granted or withdrawn by the Narendra Modi government.
+
+Bharat Bhushan is a New Delhi-based journalist.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/modis-mccarthyism-and-the-politics-of-invisible-enemies-4216903)
+
+---
+
+### No war, no peace: Trump’s three bad options on Iran
+*Deccan Herald · Opinion*
+
+The ‘No war, no peace’ status quo continues in the Gulf. This is contrary to expectations that President Donald Trump would move decisively towards another round of fighting after the midterms, given the absence of any clear Iranian commitment to front-load nuclear concessions.
+
+The Republicans suffered a major setback in the midterms, with the Democrats winning control of both the Senate and the House. A major reason was the impact of the Iran war on the cost of living, and Vice President J D Vance bluntly blamed the war for the debacle.
+
+Qatar has been among the countries hardest hit by Iran’s closure of the Strait of Hormuz and has now taken over from Pakistan as the chief mediator between the United States and Iran, to prevent further escalation and work towards a negotiated outcome. Qatar’s Prime Minister met Trump at the White House on November 9 to discuss Iran’s latest proposal. Trump, speaking to reporters after the meeting, said further strikes seemed “quite unlikely”, as Qatar, Saudi Arabia, the UAE, Bahrain, and Kuwait “would prefer the status quo”. But he added that the US was “locked and loaded” if anything changed, and that the naval blockade would stay.
+
+Tehran was dismissive, and the Secretary of Iran’s Supreme National Security Council responded to Trump, telling him to “stop manufacturing fake news about imaginary talks”. Even Secretary of State Marco Rubio, before the meeting, had played down expectations, saying, “I wouldn’t say we’re on the verge of a breakthrough”. The next day in Paris, after a G7 foreign ministers’ meeting, he echoed Trump, saying the economic campaign against Iran was “so devastating that right now there is no need for major combat operations”.
+
+When the US and Iran signed a Memorandum of Understanding (MoU) on June 17, Trump was heavily criticised by both Democrats and Republicans, who called it a “capitulation”. A few weeks later, ships began using a corridor through Omani waters under US oversight, which Iran rejected as transit without its approval. When Iran attacked shipping in the Strait, Trump was quick to declare that the deal was over. The US then reimposed the naval blockade, rescinded the oil sanctions waivers, launched “Operation Economic Outcast” against Iran’s economy, and insisted that nuclear issues be agreed before it lifts the blockade or makes other concessions.
+
+Iran’s September plan set out a seven-day timetable. In return for a ceasefire on all fronts, including Lebanon, the lifting of the US naval blockade, waivers on Iranian oil exports, and the unfreezing of Iranian assets, Iran would reopen the Strait of Hormuz on the sixth day. It would begin negotiations, including on its nuclear programme, from the seventh. These conditions largely reflected what the US had agreed to in the MoU.
+
+Iran has now shortened the timeline. Under its latest proposal, the US would implement its measures on day one, and Iran would reopen the Strait and resume talks on day two. But, in return for nuclear concessions, Iran is expected to bargain for recognition of joint control of the Strait with Oman and a reduced US military presence in the region.
+
+The President’s cards
+
+The first option for Trump is a negotiated deal. But sequencing the measures to be taken by both sides remains a key challenge. Given the huge trust deficit, this will be extremely difficult to achieve. Iran will be reluctant to agree to irreversible steps in return for US concessions that can be reversed. Congressional approval of a deal would offer Iran some assurance, but Trump is unlikely even to consider it, or to concede any Iranian control over Hormuz. Thus, a negotiated solution appears remote.
+
+The second option is to carry out a massive operation and proclaim victory. But his window of opportunity would be before the new members of the Senate and the House are sworn in on January 3, 2027. Though he could use his presidential powers to attack Iran at any time during the rest of his term, he will be more constrained with Democratic majorities in both chambers.
+
+With US bases in the Gulf damaged by Iranian attacks and their hosts wary of Iranian retaliation, Trump would want to enlist Israel’s support while Benjamin Netanyahu is still caretaker Prime Minister. The timeline for this is uncertain, given that Netanyahu’s prospects of returning as Prime Minister have dimmed. Trump’s other legacy project, the Board of Peace for Gaza, is already in the doldrums. Moreover, air strikes alone are unlikely to reopen the Strait. A massive operation that ends with Hormuz still under Iranian control would be good neither for Trump’s legacy nor for the Republicans in the 2028 presidential election.
+
+Trump may therefore choose a third option: to kick the can down the road, as US Presidents have done in Vietnam, Iraq, and Afghanistan. But if the economic pressure becomes unbearable, Iran may decide to escalate. A more prudent course for Trump would be to scale down US assets gradually and loosen the blockade, so that Iran, too, has an incentive not to escalate beyond a point, while keeping up his war rhetoric.
+
+This would mean continued low-level attacks by both the US and Iran, and some Gulf countries reaching a modus vivendi with Iran. Some ships are still crossing the Strait by paying transit fees to Iran, which is said to be exempting vessels from friendly countries from its restrictions. This arrangement is likely to continue, and traffic through Hormuz may slowly improve. But it will cause significant damage to the Gulf economies and strengthen Iran’s position in the region. It could also cost the Republicans the presidency in 2028.
+
+Having started a war with Iran without thinking through its lasting implications for the region and US domestic politics, Trump has already paid a price in the midterms and will pay more whichever option he chooses.
+
+(The writer is a former Indian Ambassador to Egypt and a former Permanent Representative of India to the Arab League).
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/no-war-no-peace-trump-s-three-bad-options-on-iran-4216546)
+
+---
+
+### Nvidia Crisis | When a CEO’s personal life becomes every shareholder’s problem
+*Deccan Herald · Opinion*
+
+On Sunday, November 8, Jensen Huang, the chief executive of the world's most valuable chipmaker, Nvidia, wrote to his employees and admitted that he had been unfaithful to his wife. The board announced an independent investigation almost at once, because press reports alleged that the other person had links to China’s intelligence service. Then came reports of a second relationship, this time with a senior Nvidia executive. On November 12, Huang resigned as president, chief executive, and director, and CFO Colette Kress was named interim chief executive. The stock fell about 10%.
+
+A matter that began inside a marriage has become a matter for shareholders, regulators, and governments. For the head of a listed company, the line between private life and public duty is thinner than most leaders like to believe.
+
+When private becomes material
+
+No board has any business judging a marriage. Its business begins when personal conduct creates a risk to the company, whether through a conflict of interest, an abuse of power over a subordinate, or an exposure to blackmail. The world saw this in July 2025, when the chief executive of a US software firm was caught on a stadium concert screen embracing his head of human resources. Both resigned within days. The problem was that the officer responsible for enforcing the code of conduct was a party to breaching it. Nvidia's case was graver on both counts. One relationship touched export controls and national security, and the other reportedly involved a subordinate.. Boards do not police morality. They police risk.
+
+The price of a single face
+
+Markets put a number on such episodes. A 2018 study in the Journal of Financial Economics by Brandon Cline, Ralph Walkling, and Adam Yore found that shareholders lose about 4% of their wealth on average when the chief executive is the one accused of personal misconduct. The damage is worst where the company and the person have become one in the public mind.
+
+Nvidia was valued at around $4.5 trillion when the story broke, yet it had not named a successor to Huang, who had run it since 1993. The board is only now searching for one.. Indian investors should recognise this ‘key person risk’ instantly. Many of our listed companies are promoter-led, and although SEBI's listing regulations require boards to satisfy themselves that succession plans exist, the plan is too often a paragraph in the annual report.
+
+Nvidia board prepares to fire CEO Jensen Huang as 'affairs' with employee, 'Chinese spy' come to lightWhat does a listed company CEO owe?
+
+The head of a public company is a custodian of other people's money. Behind every shareholding stand pension savers, mutual fund investors, and employees whose stock options are their retirement plan. Section 166 of the Companies Act, 2013, requires directors to act in good faith, exercise independent judgement, and avoid situations where personal interests conflict with the company's.
+
+Beyond the law, three plain duties remain: avoid relationships that compromise judgement, disclose potential conflicts to the board before the press does, and be candid when things go wrong. In the current case, the admission came only after months of press reports, though the board then moved quickly, placing the inquiry under a committee of independent directors with outside counsel; Within the week, an interim chief was in place. That is governance doing its job.
+
+The answer is balance and check, not moral policing. Privacy is a fundamental right in India, and a board that monitors the bedroom will lose good leaders and its own credibility.
+
+The test should be narrow. Does the conduct involve a subordinate, a business counterparty, company resources, a breach of law, or a security exposure? If so, it belongs before the board. Companies need a clear policy requiring senior executives to disclose such relationships in confidence to the lead independent director. Employment contracts should carry clawback and termination clauses linked to reputational harm.
+
+Succession plans should name real people and be reviewed every year. And when a crisis breaks, the drill should be prompt disclosure to the stock exchanges, an inquiry led by independent directors, and honest communication with employees.
+
+Good governance cannot make leaders perfect, but it can ensure that one person's lapse does not become every shareholder's loss.
+
+P Saravanan is a Professor of Finance and Accounting at IIM Tiruchirappalli, and A Paul Williams is the Head of India at Sernova Financial. (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/nvidia-crisis-a-ceos-personal-life-is-private-until-it-isnt-4216867)
+
+---
+
+### Fatal attraction of spies and chips: The public price of private lives
+*The New Indian Express · Opinion*
+
+Updated on: 12 Nov 2026, 6:48 pm4 min readCopiedIn the Insta world, the ‘Kodak moment’ has morphed long ago into the ‘Coldplay moment’. This week, the romantic dalliance of Nvidia CEO Jensen Huang with Alice Huang, allegedly a Chinese spy, lit screens across the world. The meme-world is ablaze. If the old maxim said that two wrongs don’t make a right, it’s now saying two Huangs don’t make it right. As the headlines play out, the capital markets are trying to price the risks.
+
+Markets pride themselves in their ability to price anything and everything. They price wars, monsoons, elections, the derby and even the mood of central bankers. Nvidia can insure against fire, hedge its currencies, buy cover for its directors and even takes out a key-man policy in case the boss meets a bus. What companies and markets have struggled with is how to price character, how to map the unknown risks of leadership. The fatal attraction here is not the one between the Huangs, but between the market and a stock.
+
+Beyond the salacious imagery, the worry for the investor world at large is if the AI rally will hang with Huang. Nvidia is around 6 percent of the S&P500 index, 10 percent of the Nasdaq100 and is on pension fund assets across the world. The best they have is phraseology: key-man risk. Ergo, they assume it and pay for the assumption when the unknowns become known.
+
+Since Jensen Huang confessed to his extramarital affair on November 8, his company has lost over $500 billion in market cap. Huang, who owns 3.6 percent of the stock, lost more than $15 billion. Of every dollar that vanished, a little under four cents was his.
+
+The rest belonged to index funds, pension plans, insurers and the households behind them—none of whom were consulted on his weekends. The affair was private. The invoice is public.
+
+Economists, being economists, have looked at the phenomenon. In 2018, Brandon Cline, Ralph Walkling and Adam Yore published a paper in the Journal of Financial Economics with the unimprovable subtitle ‘Sex, Lies and Firm Value’. They tracked 219 indiscretions by executives, the sexual, the dishonest, the intoxicated and the violent. On disclosure, the average company lost 1.6 percent of its value, or $110 million. When the sinner was the CEO, the loss was 4.1 percent, or $226 million. Nvidia’s Monday was a textbook illustration with more zeros.
+
+As the markets lathered, as Nikkei and Nasdaq yo-yoed, the board lawyered up preparing for a multitude of probes by an array of three-letter agencies, and enquiries by US House and Senate committees. Setting the stage for the company’s defence, the board ousted Huang on November 12 and sppointed Chief Financial Officer Colette Kress as interim CEO.
+
+Nvidia’s is not the first CEO tripping on frailties. With great power comes great temptations. Literature has covered the ground the prospectus is struggling with. “I can resist everything except temptation,” says Lord Darlington in Oscar Wilde’s Lady Windermere’s Fan.
+
+Harry Stonecipher, brought back to clean up Boeing’s ethics, was asked to resign in 2005 over an affair with a female executive. Mark Hurd left Hewlett-Packard in 2010 after an inquiry into his relationship with a contractor. Brian Krzanich quit Intel in 2018 over a past relationship with an employee. Steve Easterbrook was sacked by McDonald’s in 2019, and Andy Byron of Astronomer gave the Coldplay moment its name in 2025.
+
+As it always turns out, the plot is older. Ever since Washington curbed sales of advanced chips under the Biden administration in 2022, the many eyes and arms of US intelligence were tracing transactions and relations. Last Spring, a highly confidential memo went around to the top honchos of the Trump administration that a Chinese woman close to the Nvidia chief was a spy for the China’s ministry of State security.
+
+The troubles of Nvidia are likely to occupy prime time for weeks. The chairs of three Congress committees—the House China Committee, the House Foreign Affairs Committee and the House Intelligence Committee—have already summoned Huang to a closed-door meeting on November 18.
+
+Should the Nvidia board have known better? Boards do have filters. The trouble is the mesh. Related-party rules—the Securities and Exchange Commission’s Item 404 in the US and Section 188 of the Companies Act in India—define a related party by blood, marriage, household and shareholding. A lover is not a relative. The law requires arm’s length relationships—rarely has a term been burdened with so much responsibility—with customers/clients. The SEC rule bites when accounts are restated, but not when vows are violated.
+
+The question every board ducks is the ‘what if’. Yes, there is a peculiar problem with founder companies. Tesla, for instance, has informed shareholders that “we are highly dependent on the services of Elon Musk“ as if confession were a cure. Nvidia, which had crossed a valuation of $5 trillion as the world’s most valuable company for a while, had a peculiar operating structure. Huang had over 60 heads reporting directly to him in a style he called “extreme co-design”, which he said fosters innovation and accountability.
+
+The chip-maker has no clear succession plan for such a large enterprise representing a landscape of systemic risks—from debt to equity, from supply to services. When the National Association of Corporate Directors asked American boards in 2024 about succession plans, 30 percent had no CEO successor identified “if the chief left tomorrow”.
+
+It is not that it cannot be done. Tim Cook ran Apple while Steve Jobs was ill before he inherited it. The saga has many parallels in India. The exits at Flipkart and iGATE are merely cases that surfaced. The troubles are often swept under the carpet. The need to map the law to check the myriad maze of relatives and relationships awaits the next scandal.
+
+The Kodak moment went into the family album. The Coldplay moment into the mutual fund statement. Wilde’s lord could afford his quip; he was spending his own money. Stakeholders deserve a board that has planned for the day the camera swings round.
+
+Author of The Gated Republic,Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Nov/12/fatal-attraction-of-spies-and-chips-the-public-price-of-private-lives)
+
+---
 
 ## 12 November 2026
 
@@ -21491,264 +21828,6 @@ It is increasingly likely that the next pandemic, far from being a purely biolog
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/the-viral-conundrum-4111689)
-
----
-
-## 14 August 2026
-
-### ​A predictable rise: On inflation
-*The Hindu · Editorial*
-
-A rise in India’s July retail inflation was a foregone conclusion, but its modest increase, at 4.45%, up from 4.38% in June, is still the highest in 19 months, since December 2024. This is the second consecutive month that retail inflation has stayed above the Reserve Bank of India (RBI)’s 4% target, even while remaining comfortably within its 2%-6% tolerance range. Predictably, it has again been driven by food, fuel and transport, even as core inflation, excluding precious metals, has remained below 3%. What is telling is the extent of rural, food-led inflation, which rose from 5.45% in June to 5.79% in July, while urban food inflation decreased marginally from 5.09% to 5.05%. Staples such as onion (22.54%), garlic (35.36%) and ginger (83.62%) fuelled the rise, even as potato (-16.56%) and tomato (-4.59%) moderated. Transport, however, continues to have a wider impact, pointing to elevated input-cost pressures. Transport inflation quickened to 4.43% in July from 4.31% in June, while the crucial subdivision, transport services for goods, rose from 7.70% to 7.77%. Despite the July 1 cut in commercial LPG prices of about ₹183, food and beverage serving services inflation quickened to 7.75% in July, indicating that restaurants are yet to recoup revenues and margins lost following the steep operating costs from March through May. Commercial LPG was cut by a further ₹202 on August 1, but this is unlikely to immediately bring down menu prices.
-
-The monsoon remains a concern, with parts of western, central and southern India remaining rain-deficient. Precious metals inflation, particularly gold (32.98%) and silver (109.84%), moderated, but remains extraordinarily high. Crude prices were relatively stable during the July CPI reference period, but began rising again in August. More worryingly, Ukraine-related disruptions around Russia’s Black Sea export infrastructure, particularly Novorossiysk, could raise freight and risk premiums for Russian crude. Russia supplied nearly half of India’s crude imports in June, making such disruptions relevant to India’s landed energy costs. The rupee also depreciated by about 1.6% between the June 15 and July 15 CPI reference dates, further amplifying imported inflation. In the background, there are signs of weakening economic momentum, with the HSBC composite PMI showing a sharp fall from 57.1 in June to 54.3 in July, its weakest expansion since March 2022. While the PMI is a high-frequency indicator and need not reflect a long-term trend, it is nevertheless worth taking note of. The RBI’s Monetary Policy Committee, which held the repo rate at 5.25% for the fourth consecutive meeting in August, is therefore likely to remain on hold through the second quarter of FY27, as it weighs persistent supply-side inflation against weakening economic momentum.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/a-predictable-rise-on-inflation/article71341559.ece)
-
----
-
-### ​Sticks and goals: On India at the FIH Hockey World Cup 2026
-*The Hindu · Editorial*
-
-When India celebrates its 80th Independence Day, its men’s hockey team will open its World Cup campaign against Wales in Amstelveen, aiming to end a 51-year medal drought. Because of hockey’s emotional connection with Indians, the wait has been agonising for the eight-time Olympic champion. It won its last medal when the Ajit Pal Singh-led side lifted the trophy in Kuala Lumpur in 1975 during the pre-synthetic turf era. Trust in the present Harmanpreet Singh-captained side has grown after India broke a 41-year Olympic jinx with bronze in Tokyo in 2021 and retained it in Paris 2024. Under coach Craig Fulton, the team won Asian Games gold in 2023, Olympic bronze in 2024, and the Asia Cup in 2025, with the last one helping it qualify for the World Cup. Despite finishing eighth in the FIH Pro League 2025-26, India showed positive signs by beating World champion Germany and Olympic champion the Netherlands. After experiencing experimentation, defeats and two controversies — involving most-capped player Manpreet Singh, and the unwarranted decision to change the jersey from the familiar blue to saffron, the squad has regrouped for its first World Cup following the retirement of legendary custodian P.R. Sreejesh. After Wales, the eighth-ranked side faces a formidable England and traditional rival Pakistan in the pool.
-
-Comprising two-time Olympic medallists and promising youngsters, the team, placed sixth and ninth in the last two editions, now targets a higher finish in the World Cup before embarking next month on a mission to retain the Asian Games gold, which will earn it a berth in the 2028 Olympics. The Salima Tete-led women’s team has rebuilt under Dutchman Sjoerd Marijne after turmoil caused first by the exit of his predecessor and then by an alleged sexual harassment case involving a former Hockey India official. Marijne, who took India to its best-ever fourth in Tokyo in his first stint, guided it to World Cup qualification and Nations Cup victory. Despite the Hockey India League experience and the exposure to foreign players, the team of five 200-cap players and 11 debutants may find it tough to match 1974’s fourth-place finish. Ranked ninth, India plays Olympic silver medallist China on August 16, then South Africa and higher-ranked England. It will target a better position than 2022’s ninth before switching focus to the Asian Games. For the first time, the World Cup for both genders involving 32 teams altogether, with a new and tricky format, is co-hosted by Belgium and the Netherlands. Both the Indian teams must play as cohesive units to build towards Los Angeles 2028.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/sticks-and-goals-on-india-at-the-fih-hockey-world-cup-2026/article71341289.ece)
-
----
-
-### Making transparency the foundation of trust in medicine
-*The Hindu · Opinion*
-
-India marked Doctors’ Day on July 1, but the occasion demands that we continue to look beyond well-deserved expressions of gratitude and reflect on the structural foundations that sustain public confidence in health care. Trust in medicine is frequently thought of as a sacred, isolated bond between patient and doctor. In reality, that trust is forged much earlier — within the institutions that regulate care, the systems that deliver it, and the transparency that connects them.
-
-The limitations of this system are readily observable. This writer tried the simple exercise of verifying a doctor’s credentials on the Tamil Nadu Medical Council (TNMC) website. What should have been a straightforward search turned out to be unexpectedly challenging. The system required specific details, such as the doctor’s exact registration number, which are not easily available to the public. Whether something obvious was missed or the website was simply not designed with the public — or even a colleague concerned — in mind, the experience pointed to a larger question: how much does institutional transparency shape public faith in medicine?
-
-How institutions build trustIn many western countries, public trust is maintained through highly accessible regulatory frameworks. For example, the United Kingdom’s General Medical Council hosts a publicly searchable register where anyone can quickly verify a doctor’s qualifications, registration status, and any history of regulatory restrictions. Similarly, the provincial Colleges of Physicians and Surgeons in Canada require minimal identifying information to view a physician’s professional profile. These organisations explicitly signal that professional standards are being ensured through peer review, continuing education, and clear processes for handling complaints. This transparency does more than just share data. It reassures people that medical practice is open to independent scrutiny, creating a safe environment where individual doctor–patient relationships can thrive.
-
-India’s clinical landscape is evolving admirably, with a workforce that is known for its excellent clinical acumen despite working under considerable constraints. While the National Medical Commission has taken steps to improve medical education and professional standards in recent years, public-facing regulatory transparency remains uneven. State Medical Councils, including the TNMC, hold digital registers, but the ease with which a regular patient can navigate them varies. As India continues its digital transformation, making these regulatory portals genuinely user-friendly is a low-hanging opportunity to reinforce public trust at its foundation.
-
-Beyond individual blameBetween regulatory bodies and individual consultation rooms lie the systems of care — hospitals, clinics, and their organisational processes. These daily workflows heavily influence patient satisfaction, shaping perceptions of fairness long before a clinical outcome is reached.
-
-System transparency requires clear communication about medical costs, operational processes, and pathways to register a grievance. Crucially, it also means having an internal culture of medical auditing. Rather than placing blame entirely on individuals when things go wrong, modern health-care systems — following World Health Organization guidelines — are moving toward analysing the systemic design flaws that allow mistakes to occur in the first place.
-
-This approach requires a formal culture of “Open Disclosure”. In advanced medical jurisdictions, being honest when things go wrong is a professional requirement, not an option. It involves a structured, honest conversation with the patient or their family, acknowledging the incident, explaining how it occurred, and detailing the steps being taken to prevent recurrence.
-
-Formalising open disclosure in India, right from the ground level of clinical care, would be transformative. When hospitals support their doctors to be transparent about clinical uncertainties or complications, they reduce the emotional burden on the practitioner and prevent potential friction with families. A lack of clear information breeds suspicion. When processes are opaque or difficult to navigate, public dissatisfaction builds rapidly — even if the actual clinical care delivered was appropriate. Much of this friction arises not from malice, but from a mismatch between patients’ expectations and their actual experience.
-
-India has seen a worrying rise in violence against health-care workers. The Indian Medical Association reports that over 75% of doctors have faced some form of workplace violence. While the root causes are multifactorial, deep-seated systemic mistrust is often the spark that escalates conflict. In these high-stress settings, transparency is a protective shield, not an administrative burden. A system that is completely honest about limitations and constraints within clinical care makes it less likely that individual frontline doctors will become the sole targets of a family’s anger and resentment.
-
-At the ground level, the doctor–patient relationship remains the ultimate test of the profession — a space where high-stakes decisions are made in moments of profound human vulnerability. Here, transparency transitions from policy into a purely human interaction.
-
-Modern patients increasingly expect clarity regarding who is treating them and why specific clinical decisions are chosen. This means explaining a diagnosis in plain language, detailing the rationale behind investigations, discussing therapeutic alternatives, and being transparent about costs and complications. Providing proactive, periodic updates on a patient’s progress — or lack thereof — is often the single most effective way to ease a family’s distress.
-
-This shift toward shared decision-making recognises that transparency in treatment is about relationships, not just data. However, if transparency is to be a core part of modern medicine, it must be integrated into medical training. This cannot be taught in a lecture hall alone; it must be actively modelled by senior doctors during everyday clinical practice and teaching. By embedding this culture of communication early, we prepare the next generation of physicians to navigate increasing public expectations.
-
-In my experience, the majority of conflicts in health care do not arise from the medical decisions themselves, but from how those decisions were communicated and understood. When patients feel genuinely heard and informed, the bond is strengthened. When communication is poor, even appropriate care may be perceived as inadequate.
-
-A final reflectionDoctors need safe, respectful, and dignified environments in which to work. Patients require reassurance that the care they receive is both ethical and competent. These are not competing demands; they are mutually reinforcing traits.
-
-Trust in medicine is built collectively by what our institutions make visible, how our clinical care systems function, and how doctors and patients talk to one another. When transparency runs through all three layers, it stops being an abstract ethical principle and becomes part of everyday practice.
-
-Doctors’ Day has passed, words of appreciation are important. But the days after also invite a structural look at our systems. At a time when the medical profession is practising under unprecedented strain, enhancing transparency in regulatory frameworks, clinical corridors, and individual consultation rooms is the most meaningful way to protect the integrity of the profession. Trust is not an entitlement to be claimed; it is a professional pact that must be continuously renewed through transparency.
-
-Dr. Vincent Arockiasamy, FRCPC, is Clinical Assistant Professor of Paediatrics, and former Director, Student Assessment, Undergraduate Medical Education, University of British Columbia, Canada, and is also involved in medical professional regulation
-
-[Read full article](https://www.thehindu.com/opinion/lead/making-transparency-the-foundation-of-trust-in-medicine/article71342035.ece)
-
----
-
-### DC Edit | Pilot Drug Test Sets Off Alarm
-*Deccan Chronicle · Editorial*
-
-The disclosure that the commander of an Air India flight from Phuket to New Delhi had taken medication prescribed by his family doctor for severe sleep difficulties is deeply disturbing, particularly because a confirmatory post-flight test was reportedly positive for cannabis. Although investigators have not established that the pilot was impaired or that his condition contributed to the aircraft’s sudden loss of altitude, the episode could seriously undermine passengers’ confidence in air travel.
-
-Civil aviation rests on an unwritten compact. Passengers surrender control because airlines promise professional competence, regulatory vigilance and uncompromising safety. Therefore, a pilot consuming an impairing substance while commanding an aircraft would represent a grave breach of that understanding.
-
-A pilot affected by a psychoactive substance could experience impaired concentration, slower reactions, altered perception, reduced coordination or poor decision-making. Despite all the safeguards that modern aviation offers, the flight’s safety ultimately depends on sound human judgment. At cruising altitude, even a momentary lapse can have serious consequences.
-
-Reports of drug use, fatigue, and undeclared medication can make passengers question the safety of air travel. Airlines and the government must also investigate reasons that made the pilot in question not declare his medical conditions as per the mandate.
-
-No personal or professional difficulty can justify reporting for duty while impaired or concealing medication that could affect performance. At the same time, the airlines need to create an environment in which pilots can disclose sleep disorders, mental health concerns and other medical problems without automatically fearing dismissal.
-
-While Air India’s decision to make all pilots, instead of a random 10 per cent, undergo drug tests is welcome, testing alone cannot substitute for a mature safety system. The Aircraft Accident Investigation Bureau (AAIB) must conduct its investigation into the technical aspects of the aircraft without getting overshadowed by the pilot’s drug test results. Therefore, every person involved in aircraft operations should behave responsibly. Otherwise, it will not only affect their career, but also damage the airline and air travel as a whole.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-pilot-drug-test-sets-off-alarm-1979028)
-
----
-
-### Abhijit Bhattacharyya | Trump Out Of Options, Time To Stop Tormenting Tehran
-*Deccan Chronicle · Opinion*
-
-What is President Donald Trump really up to? Over five months after he and Israeli Prime Minister Benjamin Netanyahu unilaterally launched their war against Iran February 28, with sensational assassination of Tehran’s supreme leader Ayatollah Ali Khamenei on the first day, the war is nowhere near an end.
-
-After blitzkrieg-like aerial attacks by the US and Israel on Iran’s military and infrastructure failed to achieve its objectives, as Iran countered hard at the Gulf Arab states hosting US military bases, America and Iran signed an interim memorandum of understanding in June to halt mutual-retaliatory attacks and reopen the Strait of Hormuz, a final peace deal still proves elusive. The negotiations have hit fresh hurdles over control of the Strait of Hormuz, and on shipping terms and tariffs. Meanwhile, as the war becomes increasingly unpopular in the US, President Trump’s desperation to get out of the Iran-mess grows by the day, particularly with the midterm elections looming.
-
-The questions continue to be intriguing. Why is the world’s sole superpower still addicted to fighting wars across continents, far from its homeland, and why does it see ghosts in its imaginary adversaries? Why the insatiable hunger for bloodshed and why doesn’t it cease its endless invasions and interventions in Asia, South America, Central America and North Africa after seven decades? Why does POTUS continue this “gunboat capitalism” as a “tool of state power”, which will make no nation richer or safer?
-
-Declassified CIA documents revealed how the US had targeted Iran’s sovereignty in a 1953 coup, which was widely known but acknowledged only in 2013. Before that, the world had already seen the Korean War (1950-1953). The list of America’s forward deployment and divisive diplomacy grew with breakneck speed, resulting in all-round destruction in terrain “far from mainland USA”. There was the Lebanon intervention (1953); Bay of Pigs invasion of Cuba (1961); Vietnam (1955-1975); the invasion of Grenada (1983); strikes on Libya (1986); the Panama invasion (1986); the first Gulf War (1990-1991); the intervention in Somalia (1992-1995); Kosovo (1999); Afghanistan (2001-2021); the Iraq invasion (2003-2011); the Libya intervention (2011) and now the Iran war, beginning February 2026.
-
-Contextually, one must also peruse the words of scholar Nathan Robinson: “Between 1946 and 2000, the US undertook over 80 election-interference ops around the world”. The most startling, however, is former secretary of state Mike Pompeo’s admission at Texas A&M University on “Why Diplomacy Matters” in April 2019: “What’s the cadet motto at West Point? You will not lie, cheat, or steal, or tolerate those who do. I was CIA director. We lied, we cheated, we stole. We had entire training courses. It reminds you of the glory of the American experiment.”
-
-That’s the transparent and profound declaration of an inherently disruptive policy which has practical application in every nation of the world. One can, therefore, conclude that the present assault launched by the US and Israel will continue to torment Tehran as long as it takes to fulfil the “glory of the American experiment” and “mission success”.
-
-The world knows that it is an unequal contest between the US-Israel duo and the Islamic Republic. The likely outcome is the inevitable flattening of Iran’s territory (like in Vietnam and Afghanistan). In the prolonged conflicts in the Far East, Southeast Asia and poverty-afflicted landlocked Afghanistan, all three were ravaged, but could not be vanquished, conquered or captured. All three forced the US to vacate their soil and make an ignominious retreat. True, the warriors of Wall Street wrecked the wretched, poor but fearless Afghans, the valiant and valorous Vietnamese and courageous Koreans, but the outcome was zero. And now Iran is the fourth Asian target. It will be impossible not to believe that the Persians won’t do what they have been doing for thousands of years with unmatched bravery and enviable self-pride.
-
-The battered, unbent but a charged Iran has openly challenged Mr Trump: “We want a land invasion”. Tehran has claimed that “Iran has the advantage: It has been accumulating missiles and drones for decades now. We are prepared for a land war.” For Tehran, that is the preferred option because air power alone can never win a war on its own. The only exception perhaps was the August 1945 use of nuclear weapons on Japan’s Hiroshima and Nagasaki by the US Air Force. Similarly, conquest or capture of land can’t be done solely by the Navy, no matter how strong and versatile the fleet. Boots on the ground are the ultimate reality of any war even today.
-
-In Korea and Afghanistan, American boots had to be left behind, and Vietnam proved to be a super death-trap for land warriors. The US lost 300,000 soldiers in the Second World War, the lowest among the Allied powers, compared to the Soviet Union’s 30 million fatalities.
-
-The 58,220 deaths and 153,372 “wounded...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/abhijit-bhattacharyya-trump-out-of-options-time-to-stop-tormenting-tehran-1979023)
-
----
-
-### Devi Kar | Choosing A School For Your Child: The Things You Should Be Focusing On…
-*Deccan Chronicle · Opinion*
-
-The other day I asked a prospective parent why he was uprooting his daughter from a perfectly good institution, especially since his residence was a good distance away from our school. His answer disturbed me. He said his daughter wished to opt for the commerce “stream”, and had found our school’s commerce results had been excellent in the past five years. My response was that it was possible to attain very high marks and grades in board exams irrespective of the school. In fact, I added that a child needn’t even attend a regular school and yet get unusually good or even outstanding exam results by enrolling in a coaching centre known for churning out examinees who “maxed” their papers. Indeed, today, nothing below 100 per cent satisfies most good students, not ambitious ones alone. I have seen students being deeply disappointed with a score of 99.
-
-But a steady record of good results can’t be the only criterion for choosing a school for your child. When parents are seeking admission at the pre-primary stage, they of course, look for different things. For example, a playschool has to have a welcoming ambience with an inviting physical appearance along with warm and cheerful teachers. Parents are very particular about infrastructure these days. Classrooms must be cheerful, bright and airy. Furniture must be child-friendly and ergonomic while equipment for teaching and learning should be carefully selected and meet contemporary educational needs. Parents have become fussy about various things -- the diction and appearance of teachers, the cleanliness of the school and the teacher-student ratio. Thay try to make sure the children who attend the school are from a similar socio-economic background.Another point determining school selection is its “reputation”. I am still not quite sure about the factors that contribute to the public perception of a “good” school. Sometimes it is considered just “trendy” to send children to a particular school. But parents have to first decide on the kind of school the child should attend, depending on the child’s age, family circumstances, Board preference, personal liking and so on. Is it to be a play school, high school, international, national or regional? Distance from one’s home, the school’s infrastructure, facilities available, co- and extracurricular activities and the range of subjects offered, the kind of placements the students get after they leave school are all important factors. Strangely, there is no way to ascertain the quality of teachers, though it is generally regarded as a major factor (if not the most important one) that contributes to the quality of the school.
-
-Also, it is widely accepted that a school cannot function well without effective and imaginative leadership.
-
-Sometimes, undue importance is given to infrastructure. Schools have learned to attract clientele by flaunting their facilities through clever advertising -- swimming pool, gymnasium, smart devices to aid teaching. They publicise board results where every other student performs spectacularly. What is sometimes discovered later, to the chagrin of parents, is a lack of pastoral care, erratic individual attention and an uninspired approach to teaching and learning.
-
-Some discerning parents do a thorough check. They find out about the school in detail from past and present pupils and do not rely only on the school website or published rankings. However, others insist on blindly sending their children to the school they themselves attended.
-
-Having mentioned the criteria that are believed to make a good school, people often find themselves judging the total experience of the school-going child instead of looking at different aspects of a school in a disparate manner. I believe that every child learns not only from information and instruction, but also from the environment. Therefore, it is vital that a school should be conscious of providing enriching and interesting experiences on an ongoing basis. This way, the school becomes an exciting learning centre and the child grows up to be a curious individual who is not afraid to explore and experiment.
-
-The obsession with marks, grades and exam results has become a national disease. As a result, our children’s intellectual growth is stunted in terms of imagination, creativity, resourcefulness and innovativeness. When progressive schools encourage learning through activity and avoid dependence on textbooks and notes, I have noticed that many parents are dissatisfied and they grumble about “proper” studies not being done.
-
-Today’s parents should have a different mindset and not equate learning with the ability to retain and reproduce information which is out there for everyone to access. What they should demand from a school, instead, is the fostering of learning which will enable young people to process what they have imbibed from real world experiences and be able to apply them appropriately.
-
-In spite of the great importance that is placed on...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/devi-kar-choosing-a-school-for-your-child-the-things-you-should-be-focusing-on-1979034)
-
----
-
-### OF CABBAGES AND KINGS | Amid Rising Heat, How ‘Rewilding’ Drive Divides UK; As Species Die Out | Farrukh Dhondy
-*Deccan Chronicle · Opinion*
-
-“Love is not a gift, it’s the illusion
-
-That two humans, perhaps alone, adrift,
-
-Find fulfilment in fusion…
-
-Of course it heals, and offers us a reason
-
-To make two one and live an anchored state
-
-From spring to winter, passing very season
-
-Postponing thoughts of our ultimate fate…”
-
-From The Butterfly Flutters, by BachchooIn Britain today, apart from debates about whom to support politically or what to do about asylum seekers, there’s the argument about “rewilding”.
-
-It’s the movement to allow the growths of nature to take their course -- like not condemning any form of flora as an unwelcome “weed”. The “rewilders” say that it will stop threated species from getting extinct and disappearing from the planet.
-
-The farming lobby is seriously opposed, arguing that “rewilding” wastes land that could be used to cultivate crops or house and nurture cows, poultry, sheep, etc.
-
-And now that Britain is gripped by the hottest summer on record, the debate about global warming and consequently “rewilding” makes the headlines.
-
-It’s the right-wing that seems to oppose it. The Conservative and extreme-right lobbies are, for instance, advocates of fox-hunting, on the grounds that foxes are vermin. Though the sport of chasing foxes with hounds has been banned by law, they still ride out behind dogs who follow a false trail of fox-scented decoy bundles.Tally Ho!
-
-(The cry reminds me of a very strange Bollywood song with the usual soupy lyrics, but with a chorus which went “Tally ho, tally ho…” I’m sure it didn’t mean “hunt your lover”, but was perhaps a perverted pronunciation of “Thaaly Ho Jai” -- let clapping prevail?)
-
-In contrast, the “rewilders” want badgers, foxes and the like to breed and flourish, rather than be eliminated or fade away.
-
-Established in 1964, the International Union for Conservation of Nature (IUCN) estimates that 49,500 species of the flora and fauna of our evolving earth are today classified as threatened with extinction. These include mammals, birds, amphibians, reptiles, crustaceans and even conifers and corals.
-
-The IUCN details the human activities that cause or contribute to these threats.
-
-One which caught my attention was the threat to flying foxes -- the brown, furry bat-like creatures -- not directly through human activity, but through rising temperatures. Thousands of these creatures are dropping dead as a consequence of hot weather, which can undoubtedly be attributed to global warming and human activity.
-
-Why did it catch my attention? Quirky reason. In my childhood the family of a friend of mine called Rashid. Rashid lived in a large house with acres of enclosed forest behind it. Rashid’s father employed a “carer” for this forest called Khadeyvak, who proudly asserted that he was an Adivasi. He had built himself a hut in the forest and used catapults and a bow and arrow he had constructed to kill birds and flying foxes which he’d skin, roast on twig fires and eat.
-
-As a gang of young boys, we traipsed through the undergrowth of this “jungle” and of course sat around Khadevak’s campfires as he cooked the flying foxes and, uninhibitedly, shared the meal. I now suppose we contributed to the thinning out of the flying fox species?
-
-We’ve all heard of dinosaurs, unicorns and dodos and are expected to regret the loss of the latter two, but I for one had never heard of numbats or Black Cockatoos. These are among the estimated hundred species threatened with extinction in Australia, now labelled the extinction capital of the world.
-
-More alarming is the estimate that more than a billion animals have perished this year in the raging forest fires.
-
-Throughout history there must have been human tribes that became extinct through wars or slaughter. The religions of some nations disappeared through conversion, even though the populations that held those beliefs multiplied and thrived -- the polytheistic Greeks and Romans converted to Christianity, but didn’t die out.
-
-The Zoroastrian religion of Iran was partially wiped out when in 641 AD the Arabs invaded and converted most of the population to Islam. Those who remained Zoroastrian made their way as refugees to India and settled there as the Zoroastrian Parsis -- my family, me!
-
-And now, because the Parsis refuse to include in the religious community anyone who wants to adopt the Zoroastrian religion and “convert”, and because we only recognise the children of male Parsis as belonging to the religion and reject the children of female Parsis who marry non-Parsis, our numbers are dwindling.
-
-We are indeed an endangered species -- as King Charles III, when he was the Prince of Wales, remarked to me. I’ll tell you: He was on a visit to India and the British high commission asked if he could participate, in some way, in the film I’d written about the 1857 Indian Mutiny called The Rising, which was in pre-production.
-
-Charles came with two equerries and after a mock clapper-board scene, was presented by the producer to the lined-up cast and crew.
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-cabbages-and-kings-amid-rising-heat-how-rewilding-drive-divides-uk-as-species-die-out-farrukh-dhondy-1979256)
-
----
-
-### FCRA Bill: Scripting overreach
-*Deccan Herald · Editorial*
-
-Strong opposition to the Foreign Contribution (Regulation) Amendment Bill, 2026, has pushed the Union government to refer it to a Joint Parliamentary Committee (JPC). The move followed resistance in Parliament and outside. Protests were held in the North-Eastern states and Kerala by church-affiliated organisations. Criticism went beyond politics – the Chief Minister of Nagaland, Neiphiu Rio, who heads a coalition government in the state with the Bharatiya Janata Party (BJP) as a partner, sought a reconsideration of the amendments. Church leaders met Home Minister Amit Shah to convey their apprehensions, but were not convinced by his assurances. The Tamil Nadu Assembly passed a resolution demanding the withdrawal of the Bill. Opposition parties, including the Congress, the Samajwadi Party and the Left, civil society organisations, and NGOs have raised serious objections to the Bill.
-
-The government claims that the amended Bill intends to strengthen national security and transparency in the working of NGOs, trusts, and religious organisations. It amends a 2010 law by adding very stringent provisions. At the centre of the criticism is the possibility of the Bill’s provisions being weaponised, citing procedural lapses, paving the way to target minority institutions, particularly Christian institutions. Under the amendments, when an organisation loses its registration either because of a lapse or a refusal by the government to renew it, and the organisation fails to restore it within a prescribed period, the government can take over its assets built with foreign contributions. The new provisions offer limited scope for judicial remedy in such situations. Notably, the Bill requires state governments and agencies to seek approval from the Centre before initiating investigations under the FCRA. This stands in conflict with the federal framework. The stipulation that all foreign contributions must first arrive at a single designated account at the State Bank of India (SBI) in New Delhi makes the operation of such accounts extremely difficult.
-
-FCRA Bill 2026: Rajya Sabha recommends 10 MPs for Joint Parliamentary CommitteeThe Union government has all along adopted a confrontational attitude towards NGOs. Many of these organisations have made significant contributions in areas where the government does not reach or where its work is inadequate, such as health and education. Over the past 10-odd years, the government’s policies have led to the closure of thousands of such organisations. The amendment risks crippling the sector without providing the organisations a fair opportunity to defend themselves, even when they are targeted for undefined “breaches” such as proselytism. The government’s approach to NGOs has an anti-minority streak, which its latest legislation amplifies.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/fcra-bill-scripting-overreach-4110410)
-
----
-
-### Prison breaches demand deeper reform
-*Deccan Herald · Editorial*
-
-The seizure of a mobile phone, pen drive, and other prohibited items from former MP Prajwal Revanna, who is serving a life sentence for rape, is a disturbing reminder that Bengaluru’s Parappana Agrahara Central Prison repeatedly struggles to enforce even its most basic rules. The phone had WhatsApp, social media, and streaming applications, while its SIM was active inside the prison for months. A video has since surfaced showing Revanna in civilian clothes, speaking on the phone from within his cell. What makes the episode more troubling is that the items were recovered not by the prison authorities but during a surprise raid by the Central Crime Branch (CCB). It raises uncomfortable questions about whether internal oversight has failed through negligence or through complicity. Ironically, Bengaluru Rural MP C N Manjunath complained that prison jammers were disrupting mobile connectivity for residents and businesses nearby. Yet the same technology, ostensibly robust enough to inconvenience an entire neighbourhood, evidently has gaps wide enough for an inmate’s phone to function undetected. The authorities owe the public a clear answer: is this failure technical, administrative, or both?
-
-Parappana Agrahara has a long history of controversies involving VIP inmates. Abdul Karim Telgi allegedly ran his counterfeit stamp-paper racket from within its walls. In 2017, AIADMK leader V K Sasikala was accused of enjoying preferential treatment, including a private kitchen. Actor Darshan was photographed with cigarettes and refreshments, and a rowdy-sheeter was filmed celebrating his birthday in custody. Each episode has reinforced the perception that money, influence, and connections can penetrate the prison’s walls, while senior officers look on, helpless. The institutional response to these scandals follows a well-worn playbook: suspensions, show-cause notices, and promises of reform. What remains unclear is what happens afterwards. Once media attention wanes, compromised officers are quietly reinstated or shifted elsewhere, leaving the corruption pipeline intact. Suspension alone cannot serve as punishment. Officers implicated in smuggling banned material must face criminal investigation, exactly as the inmates who possess it do, and those found culpable must be dismissed.
-
-2 more phones seized in Bengaluru Central Prison during raids amid Prajwal Revanna mobile rowWhile technical failures can be fixed with better equipment, the deeper rot of human corruption demands sustained institutional will. The state must mandate unannounced inspections, rotate staff regularly, audit surveillance infrastructure, and see disciplinary proceedings through to documented conclusions. If Karnataka’s premier central prison is this porous, other prisons deserve urgent scrutiny. Until accountability becomes permanent rather than performative, Parappana Agrahara will remain not an institution of correction, but a sanctuary for the privileged.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/prison-breaches-demand-deeper-reform-4110411)
-
----
-
-### Wrongful takedowns, empty apologies
-*Deccan Herald · Opinion*
-
-On the night of July 28, Facebook took down Prime Minister Narendra Modi’s video message to students on the NEET paper leak. For five hours, nobody in India could see it. Then it returned, and Meta called it a technical error. Parliament did not accept that. Its Standing Committee on Information Technology summoned the company and gave Mark Zuckerberg three days to apologise personally. If not, it wanted the Union government to consider withdrawing Meta’s safe harbour protection under Section 79, which shields platforms from liability for what users post. The apology came, and the story moved on.
-
-It should not have, because of what happens to the others. Last week, the Kerala journalist K A Shaji posted a photograph of Rahul Gandhi and Shashi Tharoor with student protesters. Facebook blocked it, citing legal requirements under the IT Rules. In May, the Congress said Instagram blocked photographs of Rahul Gandhi with Tamil Nadu Chief Minister C Joseph Vijay under the same rules. Nobody was summoned.
-
-The question here is obvious. If there is an order on the takedown, the platform must show it. If not, why should a machine decide what Indians see? Rule 4(8) of the IT Rules says a user must be told the grounds for a takedown and given a chance to contest it. But a notice citing legal requirements under those rules is treated as good enough, though it names no rule, no order, and no authority. A ground you cannot see is one you cannot contest.
-
-Belagavi | Govt opinion on pro-Karnataka resolution soon: Minister Satish Jarkiholi Why would a platform delete a lawful post at all? Every automated filter makes two kinds of mistakes. It takes down something lawful, or leaves up something unlawful. Nobody has built one that avoids both; so how aggressively a company sets its filter depends on what each mistake costs.
-
-The Supreme Court foresaw this in Shreya Singhal. It read down Section 79(3)(b), which strips a platform of protection if it ignores a takedown demand, holding that only a court order or government notification can trigger that duty. Otherwise, the judges said, platforms buried in complaints would simply delete. Elon Musk’s X has now told the courts that the same provision is being used to order blocking without going through Section 69A. That is the formal route, requiring a designated officer, recorded grounds, and a review committee. The shortcut has none of them, and the user sees the same blank notice.
-
-Some essential corrections
-
-A Supreme Court-monitored inter-departmental committee has recorded the Ministry of Electronics and Information Technology (MeitY)’s own admission that no comprehensive mechanism is in place to ensure intermediaries comply with the IT Rules, or to address non-compliance. So the State is threatening to withdraw an immunity that is conditioned on due diligence, while recording that it has no systematic way of knowing whether due diligence is performed by anyone at all. Meta’s own remedy tells the rest. It has told the government that posts from the Prime Minister and other prominent accounts will get extra senior review before any takedown. The fix for a system that wrongly deletes lawful speech is a separate lane for important people. Everyone else keeps the one that failed.
-
-Three changes would do more, and none requires an apology. The reasons obligation under Rule 4(8) should first be given content. Every restriction applied in India ought to disclose whether it rests on a legal instrument, identified by number and issuing authority, or on the platform’s own assessment. Where a company invokes Indian law, it should be capable of naming the law.
-
-Second, create a duty to restore. The rules require a grievance to be disposed of in 15 days, but disposing of a complaint is not the same as putting the post back. Nothing obliges a platform to restore content it wrongly removed, or to do so within a fixed time. A post blocked during a protest is worthless a fortnight later.
-
-Third, make platforms publish how often they get it wrong. Not t
-
-heir source code, which no regulator could read, but how many lawful
-
-political posts they remove in error in each Indian language, and how many are restored on appeal. An error rate nobody measures is one nobody need reduce.
-
-Parliament had real bargaining power and spent it on an apology. Its ultimatum, if acted on, would push the wrong way, raising the price of leaving content up while taking it down stays free. The software is unchanged, the express lane is built, and the next post to vanish will belong to someone who cannot call a committee.
-
-(The writer is an advocate practising in the Bombay High Court)
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/wrongful-takedowns-empty-apologies-4110407)
 
 ---
 

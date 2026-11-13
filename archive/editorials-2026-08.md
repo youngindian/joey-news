@@ -1,5 +1,263 @@
 # Editorials archive — 2026-08
 
+## 14 August 2026
+
+### ​A predictable rise: On inflation
+*The Hindu · Editorial*
+
+A rise in India’s July retail inflation was a foregone conclusion, but its modest increase, at 4.45%, up from 4.38% in June, is still the highest in 19 months, since December 2024. This is the second consecutive month that retail inflation has stayed above the Reserve Bank of India (RBI)’s 4% target, even while remaining comfortably within its 2%-6% tolerance range. Predictably, it has again been driven by food, fuel and transport, even as core inflation, excluding precious metals, has remained below 3%. What is telling is the extent of rural, food-led inflation, which rose from 5.45% in June to 5.79% in July, while urban food inflation decreased marginally from 5.09% to 5.05%. Staples such as onion (22.54%), garlic (35.36%) and ginger (83.62%) fuelled the rise, even as potato (-16.56%) and tomato (-4.59%) moderated. Transport, however, continues to have a wider impact, pointing to elevated input-cost pressures. Transport inflation quickened to 4.43% in July from 4.31% in June, while the crucial subdivision, transport services for goods, rose from 7.70% to 7.77%. Despite the July 1 cut in commercial LPG prices of about ₹183, food and beverage serving services inflation quickened to 7.75% in July, indicating that restaurants are yet to recoup revenues and margins lost following the steep operating costs from March through May. Commercial LPG was cut by a further ₹202 on August 1, but this is unlikely to immediately bring down menu prices.
+
+The monsoon remains a concern, with parts of western, central and southern India remaining rain-deficient. Precious metals inflation, particularly gold (32.98%) and silver (109.84%), moderated, but remains extraordinarily high. Crude prices were relatively stable during the July CPI reference period, but began rising again in August. More worryingly, Ukraine-related disruptions around Russia’s Black Sea export infrastructure, particularly Novorossiysk, could raise freight and risk premiums for Russian crude. Russia supplied nearly half of India’s crude imports in June, making such disruptions relevant to India’s landed energy costs. The rupee also depreciated by about 1.6% between the June 15 and July 15 CPI reference dates, further amplifying imported inflation. In the background, there are signs of weakening economic momentum, with the HSBC composite PMI showing a sharp fall from 57.1 in June to 54.3 in July, its weakest expansion since March 2022. While the PMI is a high-frequency indicator and need not reflect a long-term trend, it is nevertheless worth taking note of. The RBI’s Monetary Policy Committee, which held the repo rate at 5.25% for the fourth consecutive meeting in August, is therefore likely to remain on hold through the second quarter of FY27, as it weighs persistent supply-side inflation against weakening economic momentum.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/a-predictable-rise-on-inflation/article71341559.ece)
+
+---
+
+### ​Sticks and goals: On India at the FIH Hockey World Cup 2026
+*The Hindu · Editorial*
+
+When India celebrates its 80th Independence Day, its men’s hockey team will open its World Cup campaign against Wales in Amstelveen, aiming to end a 51-year medal drought. Because of hockey’s emotional connection with Indians, the wait has been agonising for the eight-time Olympic champion. It won its last medal when the Ajit Pal Singh-led side lifted the trophy in Kuala Lumpur in 1975 during the pre-synthetic turf era. Trust in the present Harmanpreet Singh-captained side has grown after India broke a 41-year Olympic jinx with bronze in Tokyo in 2021 and retained it in Paris 2024. Under coach Craig Fulton, the team won Asian Games gold in 2023, Olympic bronze in 2024, and the Asia Cup in 2025, with the last one helping it qualify for the World Cup. Despite finishing eighth in the FIH Pro League 2025-26, India showed positive signs by beating World champion Germany and Olympic champion the Netherlands. After experiencing experimentation, defeats and two controversies — involving most-capped player Manpreet Singh, and the unwarranted decision to change the jersey from the familiar blue to saffron, the squad has regrouped for its first World Cup following the retirement of legendary custodian P.R. Sreejesh. After Wales, the eighth-ranked side faces a formidable England and traditional rival Pakistan in the pool.
+
+Comprising two-time Olympic medallists and promising youngsters, the team, placed sixth and ninth in the last two editions, now targets a higher finish in the World Cup before embarking next month on a mission to retain the Asian Games gold, which will earn it a berth in the 2028 Olympics. The Salima Tete-led women’s team has rebuilt under Dutchman Sjoerd Marijne after turmoil caused first by the exit of his predecessor and then by an alleged sexual harassment case involving a former Hockey India official. Marijne, who took India to its best-ever fourth in Tokyo in his first stint, guided it to World Cup qualification and Nations Cup victory. Despite the Hockey India League experience and the exposure to foreign players, the team of five 200-cap players and 11 debutants may find it tough to match 1974’s fourth-place finish. Ranked ninth, India plays Olympic silver medallist China on August 16, then South Africa and higher-ranked England. It will target a better position than 2022’s ninth before switching focus to the Asian Games. For the first time, the World Cup for both genders involving 32 teams altogether, with a new and tricky format, is co-hosted by Belgium and the Netherlands. Both the Indian teams must play as cohesive units to build towards Los Angeles 2028.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/sticks-and-goals-on-india-at-the-fih-hockey-world-cup-2026/article71341289.ece)
+
+---
+
+### Making transparency the foundation of trust in medicine
+*The Hindu · Opinion*
+
+India marked Doctors’ Day on July 1, but the occasion demands that we continue to look beyond well-deserved expressions of gratitude and reflect on the structural foundations that sustain public confidence in health care. Trust in medicine is frequently thought of as a sacred, isolated bond between patient and doctor. In reality, that trust is forged much earlier — within the institutions that regulate care, the systems that deliver it, and the transparency that connects them.
+
+The limitations of this system are readily observable. This writer tried the simple exercise of verifying a doctor’s credentials on the Tamil Nadu Medical Council (TNMC) website. What should have been a straightforward search turned out to be unexpectedly challenging. The system required specific details, such as the doctor’s exact registration number, which are not easily available to the public. Whether something obvious was missed or the website was simply not designed with the public — or even a colleague concerned — in mind, the experience pointed to a larger question: how much does institutional transparency shape public faith in medicine?
+
+How institutions build trustIn many western countries, public trust is maintained through highly accessible regulatory frameworks. For example, the United Kingdom’s General Medical Council hosts a publicly searchable register where anyone can quickly verify a doctor’s qualifications, registration status, and any history of regulatory restrictions. Similarly, the provincial Colleges of Physicians and Surgeons in Canada require minimal identifying information to view a physician’s professional profile. These organisations explicitly signal that professional standards are being ensured through peer review, continuing education, and clear processes for handling complaints. This transparency does more than just share data. It reassures people that medical practice is open to independent scrutiny, creating a safe environment where individual doctor–patient relationships can thrive.
+
+India’s clinical landscape is evolving admirably, with a workforce that is known for its excellent clinical acumen despite working under considerable constraints. While the National Medical Commission has taken steps to improve medical education and professional standards in recent years, public-facing regulatory transparency remains uneven. State Medical Councils, including the TNMC, hold digital registers, but the ease with which a regular patient can navigate them varies. As India continues its digital transformation, making these regulatory portals genuinely user-friendly is a low-hanging opportunity to reinforce public trust at its foundation.
+
+Beyond individual blameBetween regulatory bodies and individual consultation rooms lie the systems of care — hospitals, clinics, and their organisational processes. These daily workflows heavily influence patient satisfaction, shaping perceptions of fairness long before a clinical outcome is reached.
+
+System transparency requires clear communication about medical costs, operational processes, and pathways to register a grievance. Crucially, it also means having an internal culture of medical auditing. Rather than placing blame entirely on individuals when things go wrong, modern health-care systems — following World Health Organization guidelines — are moving toward analysing the systemic design flaws that allow mistakes to occur in the first place.
+
+This approach requires a formal culture of “Open Disclosure”. In advanced medical jurisdictions, being honest when things go wrong is a professional requirement, not an option. It involves a structured, honest conversation with the patient or their family, acknowledging the incident, explaining how it occurred, and detailing the steps being taken to prevent recurrence.
+
+Formalising open disclosure in India, right from the ground level of clinical care, would be transformative. When hospitals support their doctors to be transparent about clinical uncertainties or complications, they reduce the emotional burden on the practitioner and prevent potential friction with families. A lack of clear information breeds suspicion. When processes are opaque or difficult to navigate, public dissatisfaction builds rapidly — even if the actual clinical care delivered was appropriate. Much of this friction arises not from malice, but from a mismatch between patients’ expectations and their actual experience.
+
+India has seen a worrying rise in violence against health-care workers. The Indian Medical Association reports that over 75% of doctors have faced some form of workplace violence. While the root causes are multifactorial, deep-seated systemic mistrust is often the spark that escalates conflict. In these high-stress settings, transparency is a protective shield, not an administrative burden. A system that is completely honest about limitations and constraints within clinical care makes it less likely that individual frontline doctors will become the sole targets of a family’s anger and resentment.
+
+At the ground level, the doctor–patient relationship remains the ultimate test of the profession — a space where high-stakes decisions are made in moments of profound human vulnerability. Here, transparency transitions from policy into a purely human interaction.
+
+Modern patients increasingly expect clarity regarding who is treating them and why specific clinical decisions are chosen. This means explaining a diagnosis in plain language, detailing the rationale behind investigations, discussing therapeutic alternatives, and being transparent about costs and complications. Providing proactive, periodic updates on a patient’s progress — or lack thereof — is often the single most effective way to ease a family’s distress.
+
+This shift toward shared decision-making recognises that transparency in treatment is about relationships, not just data. However, if transparency is to be a core part of modern medicine, it must be integrated into medical training. This cannot be taught in a lecture hall alone; it must be actively modelled by senior doctors during everyday clinical practice and teaching. By embedding this culture of communication early, we prepare the next generation of physicians to navigate increasing public expectations.
+
+In my experience, the majority of conflicts in health care do not arise from the medical decisions themselves, but from how those decisions were communicated and understood. When patients feel genuinely heard and informed, the bond is strengthened. When communication is poor, even appropriate care may be perceived as inadequate.
+
+A final reflectionDoctors need safe, respectful, and dignified environments in which to work. Patients require reassurance that the care they receive is both ethical and competent. These are not competing demands; they are mutually reinforcing traits.
+
+Trust in medicine is built collectively by what our institutions make visible, how our clinical care systems function, and how doctors and patients talk to one another. When transparency runs through all three layers, it stops being an abstract ethical principle and becomes part of everyday practice.
+
+Doctors’ Day has passed, words of appreciation are important. But the days after also invite a structural look at our systems. At a time when the medical profession is practising under unprecedented strain, enhancing transparency in regulatory frameworks, clinical corridors, and individual consultation rooms is the most meaningful way to protect the integrity of the profession. Trust is not an entitlement to be claimed; it is a professional pact that must be continuously renewed through transparency.
+
+Dr. Vincent Arockiasamy, FRCPC, is Clinical Assistant Professor of Paediatrics, and former Director, Student Assessment, Undergraduate Medical Education, University of British Columbia, Canada, and is also involved in medical professional regulation
+
+[Read full article](https://www.thehindu.com/opinion/lead/making-transparency-the-foundation-of-trust-in-medicine/article71342035.ece)
+
+---
+
+### DC Edit | Pilot Drug Test Sets Off Alarm
+*Deccan Chronicle · Editorial*
+
+The disclosure that the commander of an Air India flight from Phuket to New Delhi had taken medication prescribed by his family doctor for severe sleep difficulties is deeply disturbing, particularly because a confirmatory post-flight test was reportedly positive for cannabis. Although investigators have not established that the pilot was impaired or that his condition contributed to the aircraft’s sudden loss of altitude, the episode could seriously undermine passengers’ confidence in air travel.
+
+Civil aviation rests on an unwritten compact. Passengers surrender control because airlines promise professional competence, regulatory vigilance and uncompromising safety. Therefore, a pilot consuming an impairing substance while commanding an aircraft would represent a grave breach of that understanding.
+
+A pilot affected by a psychoactive substance could experience impaired concentration, slower reactions, altered perception, reduced coordination or poor decision-making. Despite all the safeguards that modern aviation offers, the flight’s safety ultimately depends on sound human judgment. At cruising altitude, even a momentary lapse can have serious consequences.
+
+Reports of drug use, fatigue, and undeclared medication can make passengers question the safety of air travel. Airlines and the government must also investigate reasons that made the pilot in question not declare his medical conditions as per the mandate.
+
+No personal or professional difficulty can justify reporting for duty while impaired or concealing medication that could affect performance. At the same time, the airlines need to create an environment in which pilots can disclose sleep disorders, mental health concerns and other medical problems without automatically fearing dismissal.
+
+While Air India’s decision to make all pilots, instead of a random 10 per cent, undergo drug tests is welcome, testing alone cannot substitute for a mature safety system. The Aircraft Accident Investigation Bureau (AAIB) must conduct its investigation into the technical aspects of the aircraft without getting overshadowed by the pilot’s drug test results. Therefore, every person involved in aircraft operations should behave responsibly. Otherwise, it will not only affect their career, but also damage the airline and air travel as a whole.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-pilot-drug-test-sets-off-alarm-1979028)
+
+---
+
+### Abhijit Bhattacharyya | Trump Out Of Options, Time To Stop Tormenting Tehran
+*Deccan Chronicle · Opinion*
+
+What is President Donald Trump really up to? Over five months after he and Israeli Prime Minister Benjamin Netanyahu unilaterally launched their war against Iran February 28, with sensational assassination of Tehran’s supreme leader Ayatollah Ali Khamenei on the first day, the war is nowhere near an end.
+
+After blitzkrieg-like aerial attacks by the US and Israel on Iran’s military and infrastructure failed to achieve its objectives, as Iran countered hard at the Gulf Arab states hosting US military bases, America and Iran signed an interim memorandum of understanding in June to halt mutual-retaliatory attacks and reopen the Strait of Hormuz, a final peace deal still proves elusive. The negotiations have hit fresh hurdles over control of the Strait of Hormuz, and on shipping terms and tariffs. Meanwhile, as the war becomes increasingly unpopular in the US, President Trump’s desperation to get out of the Iran-mess grows by the day, particularly with the midterm elections looming.
+
+The questions continue to be intriguing. Why is the world’s sole superpower still addicted to fighting wars across continents, far from its homeland, and why does it see ghosts in its imaginary adversaries? Why the insatiable hunger for bloodshed and why doesn’t it cease its endless invasions and interventions in Asia, South America, Central America and North Africa after seven decades? Why does POTUS continue this “gunboat capitalism” as a “tool of state power”, which will make no nation richer or safer?
+
+Declassified CIA documents revealed how the US had targeted Iran’s sovereignty in a 1953 coup, which was widely known but acknowledged only in 2013. Before that, the world had already seen the Korean War (1950-1953). The list of America’s forward deployment and divisive diplomacy grew with breakneck speed, resulting in all-round destruction in terrain “far from mainland USA”. There was the Lebanon intervention (1953); Bay of Pigs invasion of Cuba (1961); Vietnam (1955-1975); the invasion of Grenada (1983); strikes on Libya (1986); the Panama invasion (1986); the first Gulf War (1990-1991); the intervention in Somalia (1992-1995); Kosovo (1999); Afghanistan (2001-2021); the Iraq invasion (2003-2011); the Libya intervention (2011) and now the Iran war, beginning February 2026.
+
+Contextually, one must also peruse the words of scholar Nathan Robinson: “Between 1946 and 2000, the US undertook over 80 election-interference ops around the world”. The most startling, however, is former secretary of state Mike Pompeo’s admission at Texas A&M University on “Why Diplomacy Matters” in April 2019: “What’s the cadet motto at West Point? You will not lie, cheat, or steal, or tolerate those who do. I was CIA director. We lied, we cheated, we stole. We had entire training courses. It reminds you of the glory of the American experiment.”
+
+That’s the transparent and profound declaration of an inherently disruptive policy which has practical application in every nation of the world. One can, therefore, conclude that the present assault launched by the US and Israel will continue to torment Tehran as long as it takes to fulfil the “glory of the American experiment” and “mission success”.
+
+The world knows that it is an unequal contest between the US-Israel duo and the Islamic Republic. The likely outcome is the inevitable flattening of Iran’s territory (like in Vietnam and Afghanistan). In the prolonged conflicts in the Far East, Southeast Asia and poverty-afflicted landlocked Afghanistan, all three were ravaged, but could not be vanquished, conquered or captured. All three forced the US to vacate their soil and make an ignominious retreat. True, the warriors of Wall Street wrecked the wretched, poor but fearless Afghans, the valiant and valorous Vietnamese and courageous Koreans, but the outcome was zero. And now Iran is the fourth Asian target. It will be impossible not to believe that the Persians won’t do what they have been doing for thousands of years with unmatched bravery and enviable self-pride.
+
+The battered, unbent but a charged Iran has openly challenged Mr Trump: “We want a land invasion”. Tehran has claimed that “Iran has the advantage: It has been accumulating missiles and drones for decades now. We are prepared for a land war.” For Tehran, that is the preferred option because air power alone can never win a war on its own. The only exception perhaps was the August 1945 use of nuclear weapons on Japan’s Hiroshima and Nagasaki by the US Air Force. Similarly, conquest or capture of land can’t be done solely by the Navy, no matter how strong and versatile the fleet. Boots on the ground are the ultimate reality of any war even today.
+
+In Korea and Afghanistan, American boots had to be left behind, and Vietnam proved to be a super death-trap for land warriors. The US lost 300,000 soldiers in the Second World War, the lowest among the Allied powers, compared to the Soviet Union’s 30 million fatalities.
+
+The 58,220 deaths and 153,372 “wounded...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/abhijit-bhattacharyya-trump-out-of-options-time-to-stop-tormenting-tehran-1979023)
+
+---
+
+### Devi Kar | Choosing A School For Your Child: The Things You Should Be Focusing On…
+*Deccan Chronicle · Opinion*
+
+The other day I asked a prospective parent why he was uprooting his daughter from a perfectly good institution, especially since his residence was a good distance away from our school. His answer disturbed me. He said his daughter wished to opt for the commerce “stream”, and had found our school’s commerce results had been excellent in the past five years. My response was that it was possible to attain very high marks and grades in board exams irrespective of the school. In fact, I added that a child needn’t even attend a regular school and yet get unusually good or even outstanding exam results by enrolling in a coaching centre known for churning out examinees who “maxed” their papers. Indeed, today, nothing below 100 per cent satisfies most good students, not ambitious ones alone. I have seen students being deeply disappointed with a score of 99.
+
+But a steady record of good results can’t be the only criterion for choosing a school for your child. When parents are seeking admission at the pre-primary stage, they of course, look for different things. For example, a playschool has to have a welcoming ambience with an inviting physical appearance along with warm and cheerful teachers. Parents are very particular about infrastructure these days. Classrooms must be cheerful, bright and airy. Furniture must be child-friendly and ergonomic while equipment for teaching and learning should be carefully selected and meet contemporary educational needs. Parents have become fussy about various things -- the diction and appearance of teachers, the cleanliness of the school and the teacher-student ratio. Thay try to make sure the children who attend the school are from a similar socio-economic background.Another point determining school selection is its “reputation”. I am still not quite sure about the factors that contribute to the public perception of a “good” school. Sometimes it is considered just “trendy” to send children to a particular school. But parents have to first decide on the kind of school the child should attend, depending on the child’s age, family circumstances, Board preference, personal liking and so on. Is it to be a play school, high school, international, national or regional? Distance from one’s home, the school’s infrastructure, facilities available, co- and extracurricular activities and the range of subjects offered, the kind of placements the students get after they leave school are all important factors. Strangely, there is no way to ascertain the quality of teachers, though it is generally regarded as a major factor (if not the most important one) that contributes to the quality of the school.
+
+Also, it is widely accepted that a school cannot function well without effective and imaginative leadership.
+
+Sometimes, undue importance is given to infrastructure. Schools have learned to attract clientele by flaunting their facilities through clever advertising -- swimming pool, gymnasium, smart devices to aid teaching. They publicise board results where every other student performs spectacularly. What is sometimes discovered later, to the chagrin of parents, is a lack of pastoral care, erratic individual attention and an uninspired approach to teaching and learning.
+
+Some discerning parents do a thorough check. They find out about the school in detail from past and present pupils and do not rely only on the school website or published rankings. However, others insist on blindly sending their children to the school they themselves attended.
+
+Having mentioned the criteria that are believed to make a good school, people often find themselves judging the total experience of the school-going child instead of looking at different aspects of a school in a disparate manner. I believe that every child learns not only from information and instruction, but also from the environment. Therefore, it is vital that a school should be conscious of providing enriching and interesting experiences on an ongoing basis. This way, the school becomes an exciting learning centre and the child grows up to be a curious individual who is not afraid to explore and experiment.
+
+The obsession with marks, grades and exam results has become a national disease. As a result, our children’s intellectual growth is stunted in terms of imagination, creativity, resourcefulness and innovativeness. When progressive schools encourage learning through activity and avoid dependence on textbooks and notes, I have noticed that many parents are dissatisfied and they grumble about “proper” studies not being done.
+
+Today’s parents should have a different mindset and not equate learning with the ability to retain and reproduce information which is out there for everyone to access. What they should demand from a school, instead, is the fostering of learning which will enable young people to process what they have imbibed from real world experiences and be able to apply them appropriately.
+
+In spite of the great importance that is placed on...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/devi-kar-choosing-a-school-for-your-child-the-things-you-should-be-focusing-on-1979034)
+
+---
+
+### OF CABBAGES AND KINGS | Amid Rising Heat, How ‘Rewilding’ Drive Divides UK; As Species Die Out | Farrukh Dhondy
+*Deccan Chronicle · Opinion*
+
+“Love is not a gift, it’s the illusion
+
+That two humans, perhaps alone, adrift,
+
+Find fulfilment in fusion…
+
+Of course it heals, and offers us a reason
+
+To make two one and live an anchored state
+
+From spring to winter, passing very season
+
+Postponing thoughts of our ultimate fate…”
+
+From The Butterfly Flutters, by BachchooIn Britain today, apart from debates about whom to support politically or what to do about asylum seekers, there’s the argument about “rewilding”.
+
+It’s the movement to allow the growths of nature to take their course -- like not condemning any form of flora as an unwelcome “weed”. The “rewilders” say that it will stop threated species from getting extinct and disappearing from the planet.
+
+The farming lobby is seriously opposed, arguing that “rewilding” wastes land that could be used to cultivate crops or house and nurture cows, poultry, sheep, etc.
+
+And now that Britain is gripped by the hottest summer on record, the debate about global warming and consequently “rewilding” makes the headlines.
+
+It’s the right-wing that seems to oppose it. The Conservative and extreme-right lobbies are, for instance, advocates of fox-hunting, on the grounds that foxes are vermin. Though the sport of chasing foxes with hounds has been banned by law, they still ride out behind dogs who follow a false trail of fox-scented decoy bundles.Tally Ho!
+
+(The cry reminds me of a very strange Bollywood song with the usual soupy lyrics, but with a chorus which went “Tally ho, tally ho…” I’m sure it didn’t mean “hunt your lover”, but was perhaps a perverted pronunciation of “Thaaly Ho Jai” -- let clapping prevail?)
+
+In contrast, the “rewilders” want badgers, foxes and the like to breed and flourish, rather than be eliminated or fade away.
+
+Established in 1964, the International Union for Conservation of Nature (IUCN) estimates that 49,500 species of the flora and fauna of our evolving earth are today classified as threatened with extinction. These include mammals, birds, amphibians, reptiles, crustaceans and even conifers and corals.
+
+The IUCN details the human activities that cause or contribute to these threats.
+
+One which caught my attention was the threat to flying foxes -- the brown, furry bat-like creatures -- not directly through human activity, but through rising temperatures. Thousands of these creatures are dropping dead as a consequence of hot weather, which can undoubtedly be attributed to global warming and human activity.
+
+Why did it catch my attention? Quirky reason. In my childhood the family of a friend of mine called Rashid. Rashid lived in a large house with acres of enclosed forest behind it. Rashid’s father employed a “carer” for this forest called Khadeyvak, who proudly asserted that he was an Adivasi. He had built himself a hut in the forest and used catapults and a bow and arrow he had constructed to kill birds and flying foxes which he’d skin, roast on twig fires and eat.
+
+As a gang of young boys, we traipsed through the undergrowth of this “jungle” and of course sat around Khadevak’s campfires as he cooked the flying foxes and, uninhibitedly, shared the meal. I now suppose we contributed to the thinning out of the flying fox species?
+
+We’ve all heard of dinosaurs, unicorns and dodos and are expected to regret the loss of the latter two, but I for one had never heard of numbats or Black Cockatoos. These are among the estimated hundred species threatened with extinction in Australia, now labelled the extinction capital of the world.
+
+More alarming is the estimate that more than a billion animals have perished this year in the raging forest fires.
+
+Throughout history there must have been human tribes that became extinct through wars or slaughter. The religions of some nations disappeared through conversion, even though the populations that held those beliefs multiplied and thrived -- the polytheistic Greeks and Romans converted to Christianity, but didn’t die out.
+
+The Zoroastrian religion of Iran was partially wiped out when in 641 AD the Arabs invaded and converted most of the population to Islam. Those who remained Zoroastrian made their way as refugees to India and settled there as the Zoroastrian Parsis -- my family, me!
+
+And now, because the Parsis refuse to include in the religious community anyone who wants to adopt the Zoroastrian religion and “convert”, and because we only recognise the children of male Parsis as belonging to the religion and reject the children of female Parsis who marry non-Parsis, our numbers are dwindling.
+
+We are indeed an endangered species -- as King Charles III, when he was the Prince of Wales, remarked to me. I’ll tell you: He was on a visit to India and the British high commission asked if he could participate, in some way, in the film I’d written about the 1857 Indian Mutiny called The Rising, which was in pre-production.
+
+Charles came with two equerries and after a mock clapper-board scene, was presented by the producer to the lined-up cast and crew.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-cabbages-and-kings-amid-rising-heat-how-rewilding-drive-divides-uk-as-species-die-out-farrukh-dhondy-1979256)
+
+---
+
+### FCRA Bill: Scripting overreach
+*Deccan Herald · Editorial*
+
+Strong opposition to the Foreign Contribution (Regulation) Amendment Bill, 2026, has pushed the Union government to refer it to a Joint Parliamentary Committee (JPC). The move followed resistance in Parliament and outside. Protests were held in the North-Eastern states and Kerala by church-affiliated organisations. Criticism went beyond politics – the Chief Minister of Nagaland, Neiphiu Rio, who heads a coalition government in the state with the Bharatiya Janata Party (BJP) as a partner, sought a reconsideration of the amendments. Church leaders met Home Minister Amit Shah to convey their apprehensions, but were not convinced by his assurances. The Tamil Nadu Assembly passed a resolution demanding the withdrawal of the Bill. Opposition parties, including the Congress, the Samajwadi Party and the Left, civil society organisations, and NGOs have raised serious objections to the Bill.
+
+The government claims that the amended Bill intends to strengthen national security and transparency in the working of NGOs, trusts, and religious organisations. It amends a 2010 law by adding very stringent provisions. At the centre of the criticism is the possibility of the Bill’s provisions being weaponised, citing procedural lapses, paving the way to target minority institutions, particularly Christian institutions. Under the amendments, when an organisation loses its registration either because of a lapse or a refusal by the government to renew it, and the organisation fails to restore it within a prescribed period, the government can take over its assets built with foreign contributions. The new provisions offer limited scope for judicial remedy in such situations. Notably, the Bill requires state governments and agencies to seek approval from the Centre before initiating investigations under the FCRA. This stands in conflict with the federal framework. The stipulation that all foreign contributions must first arrive at a single designated account at the State Bank of India (SBI) in New Delhi makes the operation of such accounts extremely difficult.
+
+FCRA Bill 2026: Rajya Sabha recommends 10 MPs for Joint Parliamentary CommitteeThe Union government has all along adopted a confrontational attitude towards NGOs. Many of these organisations have made significant contributions in areas where the government does not reach or where its work is inadequate, such as health and education. Over the past 10-odd years, the government’s policies have led to the closure of thousands of such organisations. The amendment risks crippling the sector without providing the organisations a fair opportunity to defend themselves, even when they are targeted for undefined “breaches” such as proselytism. The government’s approach to NGOs has an anti-minority streak, which its latest legislation amplifies.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/fcra-bill-scripting-overreach-4110410)
+
+---
+
+### Prison breaches demand deeper reform
+*Deccan Herald · Editorial*
+
+The seizure of a mobile phone, pen drive, and other prohibited items from former MP Prajwal Revanna, who is serving a life sentence for rape, is a disturbing reminder that Bengaluru’s Parappana Agrahara Central Prison repeatedly struggles to enforce even its most basic rules. The phone had WhatsApp, social media, and streaming applications, while its SIM was active inside the prison for months. A video has since surfaced showing Revanna in civilian clothes, speaking on the phone from within his cell. What makes the episode more troubling is that the items were recovered not by the prison authorities but during a surprise raid by the Central Crime Branch (CCB). It raises uncomfortable questions about whether internal oversight has failed through negligence or through complicity. Ironically, Bengaluru Rural MP C N Manjunath complained that prison jammers were disrupting mobile connectivity for residents and businesses nearby. Yet the same technology, ostensibly robust enough to inconvenience an entire neighbourhood, evidently has gaps wide enough for an inmate’s phone to function undetected. The authorities owe the public a clear answer: is this failure technical, administrative, or both?
+
+Parappana Agrahara has a long history of controversies involving VIP inmates. Abdul Karim Telgi allegedly ran his counterfeit stamp-paper racket from within its walls. In 2017, AIADMK leader V K Sasikala was accused of enjoying preferential treatment, including a private kitchen. Actor Darshan was photographed with cigarettes and refreshments, and a rowdy-sheeter was filmed celebrating his birthday in custody. Each episode has reinforced the perception that money, influence, and connections can penetrate the prison’s walls, while senior officers look on, helpless. The institutional response to these scandals follows a well-worn playbook: suspensions, show-cause notices, and promises of reform. What remains unclear is what happens afterwards. Once media attention wanes, compromised officers are quietly reinstated or shifted elsewhere, leaving the corruption pipeline intact. Suspension alone cannot serve as punishment. Officers implicated in smuggling banned material must face criminal investigation, exactly as the inmates who possess it do, and those found culpable must be dismissed.
+
+2 more phones seized in Bengaluru Central Prison during raids amid Prajwal Revanna mobile rowWhile technical failures can be fixed with better equipment, the deeper rot of human corruption demands sustained institutional will. The state must mandate unannounced inspections, rotate staff regularly, audit surveillance infrastructure, and see disciplinary proceedings through to documented conclusions. If Karnataka’s premier central prison is this porous, other prisons deserve urgent scrutiny. Until accountability becomes permanent rather than performative, Parappana Agrahara will remain not an institution of correction, but a sanctuary for the privileged.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/prison-breaches-demand-deeper-reform-4110411)
+
+---
+
+### Wrongful takedowns, empty apologies
+*Deccan Herald · Opinion*
+
+On the night of July 28, Facebook took down Prime Minister Narendra Modi’s video message to students on the NEET paper leak. For five hours, nobody in India could see it. Then it returned, and Meta called it a technical error. Parliament did not accept that. Its Standing Committee on Information Technology summoned the company and gave Mark Zuckerberg three days to apologise personally. If not, it wanted the Union government to consider withdrawing Meta’s safe harbour protection under Section 79, which shields platforms from liability for what users post. The apology came, and the story moved on.
+
+It should not have, because of what happens to the others. Last week, the Kerala journalist K A Shaji posted a photograph of Rahul Gandhi and Shashi Tharoor with student protesters. Facebook blocked it, citing legal requirements under the IT Rules. In May, the Congress said Instagram blocked photographs of Rahul Gandhi with Tamil Nadu Chief Minister C Joseph Vijay under the same rules. Nobody was summoned.
+
+The question here is obvious. If there is an order on the takedown, the platform must show it. If not, why should a machine decide what Indians see? Rule 4(8) of the IT Rules says a user must be told the grounds for a takedown and given a chance to contest it. But a notice citing legal requirements under those rules is treated as good enough, though it names no rule, no order, and no authority. A ground you cannot see is one you cannot contest.
+
+Belagavi | Govt opinion on pro-Karnataka resolution soon: Minister Satish Jarkiholi Why would a platform delete a lawful post at all? Every automated filter makes two kinds of mistakes. It takes down something lawful, or leaves up something unlawful. Nobody has built one that avoids both; so how aggressively a company sets its filter depends on what each mistake costs.
+
+The Supreme Court foresaw this in Shreya Singhal. It read down Section 79(3)(b), which strips a platform of protection if it ignores a takedown demand, holding that only a court order or government notification can trigger that duty. Otherwise, the judges said, platforms buried in complaints would simply delete. Elon Musk’s X has now told the courts that the same provision is being used to order blocking without going through Section 69A. That is the formal route, requiring a designated officer, recorded grounds, and a review committee. The shortcut has none of them, and the user sees the same blank notice.
+
+Some essential corrections
+
+A Supreme Court-monitored inter-departmental committee has recorded the Ministry of Electronics and Information Technology (MeitY)’s own admission that no comprehensive mechanism is in place to ensure intermediaries comply with the IT Rules, or to address non-compliance. So the State is threatening to withdraw an immunity that is conditioned on due diligence, while recording that it has no systematic way of knowing whether due diligence is performed by anyone at all. Meta’s own remedy tells the rest. It has told the government that posts from the Prime Minister and other prominent accounts will get extra senior review before any takedown. The fix for a system that wrongly deletes lawful speech is a separate lane for important people. Everyone else keeps the one that failed.
+
+Three changes would do more, and none requires an apology. The reasons obligation under Rule 4(8) should first be given content. Every restriction applied in India ought to disclose whether it rests on a legal instrument, identified by number and issuing authority, or on the platform’s own assessment. Where a company invokes Indian law, it should be capable of naming the law.
+
+Second, create a duty to restore. The rules require a grievance to be disposed of in 15 days, but disposing of a complaint is not the same as putting the post back. Nothing obliges a platform to restore content it wrongly removed, or to do so within a fixed time. A post blocked during a protest is worthless a fortnight later.
+
+Third, make platforms publish how often they get it wrong. Not t
+
+heir source code, which no regulator could read, but how many lawful
+
+political posts they remove in error in each Indian language, and how many are restored on appeal. An error rate nobody measures is one nobody need reduce.
+
+Parliament had real bargaining power and spent it on an apology. Its ultimatum, if acted on, would push the wrong way, raising the price of leaving content up while taking it down stays free. The software is unchanged, the express lane is built, and the next post to vanish will belong to someone who cannot call a committee.
+
+(The writer is an advocate practising in the Bombay High Court)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/wrongful-takedowns-empty-apologies-4110407)
+
+---
+
 ## 13 August 2026
 
 ### Lost flair: On India and its Test cricket
