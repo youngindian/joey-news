@@ -1,3 +1,512 @@
+## 13 November 2026
+
+### Delhi-based defence entrepreneur alleges fresh threat from gangster Rohit Godara, Rs 5 crore extortion demand
+*Prachi Kumawat · regional*
+
+Gangster Rohit Godara (R) named in fresh Rs 5 crore extortion threat to Delhi businessman (L)
+
+NEW DELHI: A Delhi-based defence entrepreneur has alleged that gangster Rohit Godara demanded Rs 5 crore from him and issued a fresh death threat, prompting him to approach Delhi Police for protection.The businessman, who claims to have faced repeated extortion attempts and threats since 2024, has sought an investigation into the latest threat and the alleged involvement of the gangster.Sahil Luthra, founder and managing director of Vijayan Trishul Defence Solutions Private Limited, submitted a complaint to the Station House Officer (SHO) of Chanakyapuri police station on November 12.He alleged that he received the latest threat on November 11 at around 8 pm and attributed it to Godara.Luthra has sought immediate police protection and a detailed investigation into the alleged extortion demand and death threat. The complaint also refers to an earlier case registered at Chanakyapuri police station on October 17, 2025.
+
+#### Luthra alleges repeated threats since 2024
+
+In his complaint, Luthra alleged that he had been facing repeated threats and extortion attempts since 2024. He also claimed that he was being surveilled and that confidential information was being leaked, seeking a probe into these allegations.
+
+The businessman has urged Delhi Police to ensure his safety and investigate the alleged involvement of Godara and other persons.Police have received the latest complaint and are verifying its contents before taking further necessary action.
+
+#### Earlier Rs 10 crore extortion conspiracy allegation
+
+Earlier, in June, Luthra had alleged a conspiracy to extort Rs 10 crore from him, claiming that he had received repeated threats through WhatsApp calls and chats from international gangs.He alleged that threatening calls and chats were received in August-September 2025 and again in June 2026.In August, Delhi's Patiala House court granted regular bail to Gurpinder Singh, accused in a case linked to the alleged extortion conspiracy.Judicial Magistrate First Class (JMFC) Animesh Kumar granted bail to Gurpinder Singh subject to furnishing a bail bond of Rs 50,000 with a surety in the like amount.While granting bail, the court said that although the allegations against the applicant were serious in nature, it could not be ignored that his custodial interrogation was not otherwise required.
+
+(With agency inputs)
+
+---
+
+### Woman flags ‘filthy’ washroom, foul smell inside train coach, Railways to pay Rs 30,000
+*Jagriti Rai · legal*
+
+The commission said that the opposite parties are a public authority does not, by itself, exclude them from the operation of consumer law.
+
+[Read full article](https://indianexpress.com/article/legal-news/woman-filthy-train-coach-washroom-foul-smell-railways-rs-30000-10961337/)
+
+---
+
+### Bengaluru to host Global Investors Meet 2027 in April: What's on the agenda?
+*India Today Business Desk · general*
+
+## The state government is planning to take the event to a global audience, while focusing on faster project implementation and industrial growth beyond Bengaluru.
+
+The government aims to combine support for emerging businesses with simpler processes for companies looking to set up operations in Karnataka.
+
+New Delhi,Nov 13, 2026 12:00 IST
+
+Karnataka is preparing to attract a fresh wave of investments with the Global Investors Meet 2027 scheduled to be held in Bengaluru from April 20 to 22. The state government is planning to take the event to a global audience, while focusing on faster project implementation and industrial growth beyond Bengaluru.
+
+The three-day event will take place at Palace Grounds. Ahead of the meet, the government launched its new Aerospace and Defence Policy (2026–31) and the Karnataka Industrial Areas Development Board (KIADB) Digital Industrial Land Bank, Large and Medium Industries Minister MB Patil said on Thursday.
+
+Speaking at the curtain-raiser event, Patil said the government had also launched the third edition of VentuRISE as part of its preparations for the investors' meet.
+
+### NEW INITIATIVES TO SUPPORT INDUSTRIAL GROWTH
+
+The two initiatives are aimed at addressing different stages of business development. While VentuRISE focuses on supporting and building new companies, the KIADB Digital Industrial Land Bank is designed to make it easier for businesses to identify and access industrial land.
+
+The government aims to combine support for emerging businesses with simpler processes for companies looking to set up operations in Karnataka.
+
+The upcoming investors' meet will also focus on attracting more global companies and making it easier for investors to turn their commitments into operational projects.
+
+The state had received investment commitments worth around Rs 10.27 lakh crore at the previous Global Investors Meet, exceeding its target.
+
+Patil said the government was now focusing on converting these commitments into projects on the ground. Around 65% of the manufacturing investments committed at the previous meet have already been converted into projects, with progress in land allotments, approvals and construction of industrial units.
+
+Several companies, including DN Solutions, Krones, Nidec and Foxconn, have started operations. Major projects by Lam Research, Applied Materials, MV, Wipro Electronic Materials, Jindal Aluminium and Mahindra Aerospace are also progressing.
+
+The investments are not limited to Bengaluru. Projects are coming up across different parts of Karnataka, including Kalaburagi, Koppal, Belagavi, Kolar and Tumakuru.
+
+Sectors such as electronics, aerospace, electric mobility, steel, cement, renewable energy and life sciences are also seeing investment activity.
+
+### KARNATAKA PLANS GLOBAL INVESTOR OUTREACH
+
+The state government plans to organise a series of programmes in the coming months to take Karnataka's investment opportunities directly to investors in different countries and markets.
+
+It also plans to hold a separate investors' conclave in North Karnataka to showcase opportunities in the Kalyana Karnataka and Kittur Karnataka regions.
+
+The aim is to attract more investments to these areas and ensure that industrial development is spread across the state rather than remaining concentrated around Bengaluru.
+
+### MORE INVESTMENTS AND JOBS ON THE AGENDA
+
+For the 2027 edition, Karnataka wants to build on the investment commitments received at the previous meet and attract more companies across sectors.
+
+The government is also looking to create more jobs, expand industrial activity beyond Bengaluru and simplify the experience for investors.
+
+The curtain-raiser event was attended by several state ministers, Rajya Sabha member Sudha Murty, former minister RV Deshpande, Dr Devi Shetty, Consuls General from various countries, industry leaders and senior government officials.
+
+Dr S Selvakumar, Principal Secretary, Department of Commerce and Industries, welcomed the gathering, while Khushboo G Chowdhary, Commissioner for Industrial Development, delivered the introductory remarks.
+
+\- Ends
+
+---
+
+### Airtel founder compares mobile recharge costs with Pepsi and chips, says tariffs are too low
+*Ankita Garg · general*
+
+A bottle of Pepsi, a packet of chips and a mobile recharge. Bharti Airtel founder Sunil Bharti Mittal believes the first two cost consumers more than they should be paying for the third. He has made a case for higher mobile tariffs in India, saying users should be paying an average of Rs 350 every month for telecom services.
+
+Mittal's argument is that people have become accustomed to extremely cheap mobile connections, even though their phones now serve as gateways to banking, education, entertainment and several government services. At Rs 350 a month, the cost works out to roughly Rs 10-12 per day, which he believes is reasonable for the range of services users get.
+
+"You buy now soap and a packet of chips. You know what it costs. Having a bottle of Pepsi costs you a lot more than that," he told PTI in an interview marking 50 years of Bharti Enterprises.
+
+He added that mobile users get access to banking, UPI payments, education, direct benefit transfers and health records, apart from entertainment platforms such as Instagram and YouTube. The Rs 350 figure is higher than the Rs 300 monthly average Mittal had previously advocated. He said his earlier estimate was made around 10 years ago and no longer accounts for inflation and the rising cost of running telecom networks.
+
+Fuel, electricity, employee salaries and administrative expenses have all become more expensive, he said. But the bigger concern is the amount of infrastructure India still needs to build.
+
+Mittal cited the difference between India and China to explain the gap. While China has more than 10 lakh mobile towers, India has approximately 3.5 lakh. According to him, the country needs to at least double its existing tower infrastructure. Expanding fibre connectivity and submarine cable networks will also require substantial spending. There is another financial concern. Telecom companies have invested heavily in 5G, but the returns have not been as strong as expected. Mittal said spectrum purchases cost operators lakhs of crores, while network deployment required another investment of around Rs 1.5 lakh crore.
+
+He believes this spending has created the capacity needed for India's digital economy, but operators need better returns to continue investing. He also pointed out that digital businesses benefit from telecom infrastructure without having to make comparable investments themselves.
+
+### When will the increase happen?
+
+As of now, Mittal has not committed to a date for the proposed Rs 350 average monthly revenue per user. Asked when the industry could reach that level, he told PTI, "I don't know." The suggestion comes at a time when the industry is already discussing another round of price increases. The last major revision happened in June 2024, when operators raised tariffs by 10-25 per cent. There have been only three major rounds of increases since 2019.
+
+Airtel reported an average revenue per user (ARPU) of Rs 271 for the September quarter, compared with Rs 256 a year earlier. Reaching Rs 350 would mean an increase of roughly 29 per cent from its latest figure.
+
+Airtel has also made some changes to its entry-level offerings in recent months. It withdrew certain low-cost plans in August without announcing a general tariff increase, but brought back its Rs 299 prepaid plan this month as its net customer additions slowed.
+
+Mittal also stressed that India needs three financially healthy private telecom operators. He described Vodafone Idea and BSNL as being in a challenging position and argued against returning to an era when more than a dozen operators competed in the market, saying that it had hurt investments in network infrastructure.
+
+\- Ends
+
+---
+
+### 'Don't fall into BJP's trap': Raj Thackeray alleges bid to divide Mumbai over Chhath Puja
+*Abhishek Mishra · general*
+
+Raj Thackeray alleges BJP of 'divide and rule'
+
+NEW DELHI: Maharashtra Navnirman Sena supremo Raj Thackeray on Thursday accused the ruling Bharatiya Janata Party (BJP) of using Chhath Puja to create social and cultural tensions in Mumbai, urging people not to fall in a "political trap."In a post on X, Thackeray alleged that the BJP was attempting to provoke a confrontation between Marathi and North Indian communities ahead of the upcoming Uttar Pradesh assembly elections.
+
+He claimed that the party and its social media network were circulating reels around Chhath Puja and what he termed cultural aggression to create discord in Maharashtra.Thackeray also referred to Bhojpuri songs being played at some railway stations in Mumbai, claiming that the MNS had intervened to stop the practice."However, the BJP appears to be disappointed that all these efforts have still not managed to create the kind of conflict it expects.
+
+And all this exercise is being undertaken with the upcoming Uttar Pradesh elections in mind," he said.Questioning the BJP's political strategy, the MNS chief said the party's think tank appeared to have run out of ideas and that its long-standing "divide and rule" formula would no longer help it win elections.He alleged that the BJP had repeatedly attempted to exploit religious and caste divisions for electoral gains, claiming that it sought to create Hindu-Muslim tensions ahead of Lok Sabha elections and caste-based divisions before state assembly polls.
+
+"Whenever Lok Sabha elections approach, it tries to ignite Hindu-Muslim tensions. It brings Muslim women wearing burqas into playgrounds and gardens and attempts to scare people by saying, 'Look, look, now they have reached our playgrounds and gardens.' Of course, several videos of people wearing burqas to create an atmosphere of terror among Hindu women and men are already visible on social media," he said.
+
+Thackeray also cited the row surrounding Mumbai's Kabutarkhana, alleging that the BJP had attempted to fuel a Gujarati-versus-Marathi divide ahead of the Mumbai Municipal Corporation elections last year."I have said several times in my speeches that when the BJP realises it cannot win elections by showcasing its work, it creates conflict between two groups and wins elections on the bloodshed that follows," he said.He further alleged that the Election Commission played the decisive role in electoral victories, while communal and social conflicts were used by the BJP to explain its success.
+
+---
+
+### Kerala board exams 2027 dates out: SSLC from March 1, Plus Two from March 2
+*India Today Education Desk · general*
+
+## Kerala's 2027 public examinations will begin on March 1 for more than 13 lakh students. The timetable spans February practicals, March written papers and May results.
+
+Kerala's 2027 public examinations will begin on March 1 for more than 13 lakh students.
+
+Thiruvananthapuram,Nov 13, 2026 11:54 IST
+
+Kerala's public examinations for 2027 will begin on March 1, with more than 13 lakh students expected to take the SSLC and various higher secondary examinations, General Education Minister N Samsudheen said on Thursday, according to news agency Press Trust of India.
+
+The schedule covers the Secondary School Leaving Certificate (SSLC), Technical High School Leaving Certificate (THSLC), Additional Higher Secondary Leaving Certificate (AHSLC), first and second-year Higher Secondary and Vocational Higher Secondary examinations, along with corresponding examinations for students with hearing disabilities.
+
+### SSLC EXAMINATION FROM MARCH 1
+
+Around 4.25 lakh students are expected to take the SSLC examination at 3,049 centres, including seven each in the Gulf countries and Lakshadweep, the minister said at a press conference in Thiruvananthapuram.
+
+The THSLC examination will be held at 46 centres, while the SSLC examination for students with hearing disabilities will be conducted at 29 centres. The corresponding THSLC examination for such students will be held at two centres. The AHSLC examination will be conducted at Kerala Kalamandalam.
+
+### HIGHER SECONDARY EXAMS FROM MARCH 2
+
+The first and second-year Higher Secondary examinations will be held from March 2 to 30. Around nine lakh students are expected to appear at about 2,000 centres across Keralam, the Gulf region and Lakshadweep, PTI reported.
+
+The first and second-year Vocational Higher Secondary examinations will be conducted at 389 centres, with around 53,000 students expected to appear.
+
+Here is a look at the examination schedule and expected student numbers:
+
+Examination
+
+Exam dates
+
+Expected students
+
+Centres
+
+From March 1
+
+4.25 lakh
+
+3,049
+
+From March 1
+
+\-
+
+46
+
+SSLC for students with hearing disabilities
+
+From March 1
+
+\-
+
+29
+
+THSLC for students with hearing disabilities
+
+From March 1
+
+\-
+
+2
+
+\-
+
+\-
+
+Kerala Kalamandalam
+
+Higher Secondary, first and second year
+
+March 2–30
+
+9 lakh
+
+Around 2,000
+
+Vocational Higher Secondary, first and second year
+
+\-
+
+53,000
+
+389
+
+### PRACTICALS, MODEL EXAMS IN FEBRUARY
+
+The SSLC Information Technology practical examination will be held from February 1 to 15, followed by the model examination from February 16 to 20. The Higher Secondary model examinations will take place from February 11 to 24.
+
+### SSLC RESULTS EXPECTED IN FIRST WEEK OF MAY
+
+Evaluation of SSLC answer sheets will begin on April 5 and end on April 27, with the results expected in the first week of May. Evaluation of Higher Secondary answer sheets will also begin on April 5, and the results are expected by May 15, the minister said.
+
+The Commissioner for Government Examinations will issue detailed notifications for the examinations. The 2027 examination cycle will begin with practical and model tests in February, followed by the main examinations in March and the results in May.
+
+\- Ends
+
+---
+
+### OpenAI starts local AI processing in India to help businesses
+*Krishna Goswami · general*
+
+In a massive relief for Indian companies, OpenAI has announced that it will now process artificial intelligence (AI) data locally in India. This means when businesses use OpenAI’s tools, their sensitive data and the actual computing work, known as inference will stay securely within the country instead of being sent to international servers.
+
+### Why this is a big deal
+
+Until now, many Indian companies, especially in financial services and banking, were hesitant to fully adopt AI. Strict rules require customer information to be stored and processed locally. With this new API inference residency, they can use AI for everyday tasks without worrying about their data crossing Indian borders. Both the processing of the request and the actual model computation will now happen in-country.
+
+Nitin Bawankule, Head of Enterprise - India at OpenAI, explained the impact. “Some Indian businesses have not fully deployed AI for important work because they need the information involved to be processed within the country,” he said.
+
+“Local inference gives them more control over where supported workloads run and helps address a practical barrier to adoption. It gives more businesses a way to put OpenAI’s tools to work, and gives Indian developers and startups more scope to build for their own, and enterprise needs.”
+
+### What is available right now?
+
+At launch, this local processing is available for the GPT-6 Luna model. Businesses can use it to speed up text-based work, such as summarising long documents, drafting responses, and analysing internal information.
+
+To use it, companies simply need to create a new API project on the OpenAI platform, choose India as their region for both data storage and processing, and use the specific India regional endpoint. Right now, it supports GPT-6 Luna input and output through the direct Responses and Chat Completions APIs.
+
+### The bigger picture
+
+This launch is a major part of the "OpenAI for India" programme introduced earlier this year to boost AI infrastructure and enterprise adoption. To make this local processing possible, OpenAI previously partnered with the Tata Group to build domestic AI data centres. Recently, OpenAI also made a similar local residency capability available on AWS Bedrock.
+
+India is a key market for the AI giant, joining Australia and Japan in OpenAI's recent global expansion of local processing tools.
+
+\- Ends
+
+---
+
+### Delhi-NCR chokes in toxic air: What's behind the sudden jump in AQI, PM2.5?
+*India Today Science Desk · general*
+
+Delhi-NCR is choking under a thick layer of toxic haze, with the capital's air quality slipping into the 'Severe' category as fine particulate pollution surges.
+
+Delhi's average AQI touched 402 on Friday, while PM2.5 concentration stood at 296 micrograms per cubic metre at 9:30 am, nearly 20 times the safety limit, according to AQI.in data.
+
+The decline in air quality is being driven by a combination of smoke travelling from farm fires in neighbouring states and weather conditions that are allowing pollutants to accumulate over the region.
+
+The direction of the wind also plays a major role.
+
+Commuters ride two-wheelers with headlights on through dense dust and smog. (Photo: PTI)
+
+Earlier this week, easterly and northeasterly winds had limited the movement of smoke from Punjab towards Delhi, but the northwesterly flow has since returned, creating a pathway for smoke from the farm-fire belt to reach the capital.
+
+Northwesterly winds were recorded to be blowing at around 34 kmph at an altitude of 1–2 km on Thursday, November 12. However, winds closer to the ground have been considerably weaker.
+
+This means that while smoke can travel towards Delhi at higher altitudes, pollution already present near the surface is not being dispersed efficiently.
+
+People drive with their headlights on amid dense smog on the Delhi-Meerut Expressway. (Photo: PTI)
+
+### THE TRAPPED POLLUTION
+
+Another important factor is a shrinking atmospheric mixing layer, which is the lower part of the atmosphere in which pollutants released at the surface spread and dilute.
+
+With less vertical space available for pollutants to spread, emissions from vehicles, industries and other sources can remain concentrated closer to the ground.
+
+Calm conditions overnight have further limited the dispersal of pollutants.
+
+Dark smoke billows from a field after farmers burn stubble. (Photo: PTI)
+
+The absence of significant rainfall has also meant there has been little opportunity for rain to wash suspended particles out of the atmosphere.
+
+### FARM SMOKE ENVELOPS DELHI
+
+The contribution of stubble burning to Delhi's pollution load has been fluctuating.
+
+The government's estimation suggests that farm fires accounted for 8.9% of the city's pollution on Thursday, while transport contributed around 16%, showing that pollution is not coming from a single source, with local emissions and smoke transported from neighbouring states adding to the burden.
+
+Smoke billows from a paddy field as a farmer burns crop stubble. (Photo: PTI)
+
+A western disturbance has brought rain and snowfall to parts of the western Himalayas, but Delhi has not received a comparable spell of rain.
+
+The IMD forecast indicates dry conditions for the capital, with no immediate rainfall expected to help clear the air.
+
+With smoke continuing to travel towards the city and unfavourable weather limiting its dispersal, Delhi remains vulnerable to a prolonged spell of toxic haze.
+
+\- Ends
+
+---
+
+### Fever, bleeding, death: 3 Lucknow siblings die in 72 hours, cause still a mystery
+*India Today News Desk · general*
+
+A family in Uttar Pradesh's Lucknow has been plunged into grief after three siblings died under mysterious circumstances within just 72 hours, prompting the Health Department to launch an investigation into the cause of their deaths.
+
+The children, aged three, six and nine, died one after another between Monday and Thursday.
+
+The tragedy began on Monday, when the three-year-old boy developed a high fever. His family rushed him to a local health centre, but he died before reaching the hospital.
+
+A day later, his six-year-old brother also died suddenly.
+
+The family suffered another devastating blow on Thursday when their nine-year-old daughter complained of severe stomach pain. She was rushed to a hospital, where she died during treatment.
+
+Following the deaths, a team of senior Health Department officials was deployed to investigate the circumstances and determine the possible cause.
+
+Doctors said the nine-year-old girl had bleeding from her nose and mouth, raising the possibility of food poisoning. However, her blood tests did not confirm dengue, malaria or typhoid. A chest X-ray, meanwhile, showed signs of severe pneumonia in both lungs.
+
+The CMO said the actual cause of the children's deaths had not yet been established.
+
+A four-member medical team, including a paediatrician, was also dispatched. Initial interactions with residents and family members did not reveal any obvious signs of a serious infectious disease.
+
+As a precautionary measure, the Health Department will organise a special medical camp on Friday to examine residents and check for any possible health risks.
+
+Police and health officials said the cause of the deaths would be established after the post-mortem reports arrive.
+
+If required, the bodies of the two other children may also be exhumed for post-mortem examinations.
+
+\- Ends
+
+(Inputs by Ankit Mishra)
+
+---
+
+### Adani Energy Solutions acquires IntelliSmart Infrastructure for Rs 3,050 crore
+*aniEnergy Solutions acquires IntelliSmart Infrastructure · general*
+
+New Delhi: Adani Energy Solutions on Friday said it has acquired IntelliSmart Infrastructure from National Investment and Infrastructure Fund (NIIF) and Energy Efficiency Services Limited (EESL) for Rs 3,050 crore, a move that will boost the Adani Group entity's presence in the smart metering space.
+
+The Rs 3,050-crore transaction includes the acquisition of 100 per cent equity share capital of IntelliSmart and redemption of the optionally convertible debentures of IntelliSmart held by NIIF.
+
+IntelliSmart Infrastructure provides advanced metering infrastructure for electricity and deploys certain smart gas meters in the country.
+
+  
+
+In an exchange filing, Adani Energy Solutions Ltd (AESL) said it has completed the acquisition of 100 per cent of the equity share capital of IntelliSmart from NIIF and EESL, and the optionally convertible debentures of IntelliSmart held by NIIF have been redeemed.
+
+On October 30, the fair trade regulator, the Competition Commission of India (CCI), approved Adani Energy Solutions' proposal to acquire IntelliSmart Infrastructure.
+
+Deals beyond a certain threshold require approval from the regulator, which keeps a watch on unfair business practices as well as promotes fair competition in the marketplace.
+
+In June this year, Adani Energy Solutions announced that it has executed a binding securities purchase and subscription agreement to acquire a 100 per cent equity stake in IntelliSmart Infrastructure.
+
+NIIF is India's sovereign-anchored alternative asset manager, while EESL is a joint venture of leading public sector undertakings under the Ministry of Power.
+
+Adani Energy Solutions Ltd (AESL) is involved in electricity transmission and distribution and the deployment of advanced metering infrastructure in the country. The firm is part of billionaire Gautam Adani-led Adani Group.
+
+---
+
+### Isro introduces changes to PSLV after repeated failures, conducts key test
+*India Today Science Desk · general*
+
+## ISRO successfully tested the upgraded PSLV third stage at Sriharikota. The changes seek to strengthen reliability after anomalies in two consecutive missions.
+
+The committee has urged authorities to adopt a more realistic approach while seeking budget allocations. (Photo: Isro)
+
+New Delhi,Nov 13, 2026 11:46 IST
+
+The Indian Space Research Organisation (Isro) has successfully conducted a ground static test of the upgraded third stage of its Polar Satellite Launch Vehicle (PSLV), marking a crucial step in efforts to strengthen the rocket following anomalies during two consecutive mission failures.
+
+The static test of the PSLV's third stage, known as PS3, was conducted on November 12, 2026, at the Static Test Facility at the Satish Dhawan Space Centre in Sriharikota.
+
+The test comes after anomalies were observed in the third stage during the PSLV-C61/EOS-09 and PSLV-C62/EOS-N1 missions.
+
+Following the incidents, ISRO undertook a comprehensive review of the PS3 configuration, examining its design margins, raw material acceptance criteria, assembly procedures and quality checks.
+
+The space agency has now strengthened the stage and introduced several changes to improve its reliability and performance.
+
+### WHAT HAS ISRO CHANGED IN PSLV?
+
+One of the key areas of improvement is the nozzle configuration of the PS3 solid motor stage.
+
+Isro has strengthened the configuration to improve design margins and address the issues identified during the analysis of the previous missions.
+
+The mechanical interfaces have also been strengthened, while additional redundancy has been introduced in the sealing systems to improve reliability.
+
+The agency has also revised its raw material acceptance criteria and updated the assembly procedures followed during the manufacturing and integration of the stage.
+
+In addition, Isro has introduced updated Non-Destructive Testing (NDT) procedures at different stages of integration and transportation. These inspections are aimed at identifying potential defects without damaging the components, adding another layer of quality assurance before the stage is cleared for flight.
+
+According to Isro, the adequacy of the revised design margins has been verified, and the new version of the PS3 solid motor stage has now been realised and successfully tested.
+
+### MORE TESTS PLANNED
+
+The successful static firing is an important milestone in Isro's efforts to restore confidence in the PSLV, one of India's most important launch vehicles.
+
+The PSLV has been a workhorse for India's space programme, carrying Earth observation satellites, navigation spacecraft and commercial payloads into orbit.
+
+However, the anomalies during the C61 and C62 missions in 2025 and 2026, respectively, have prompted a closer examination of the rocket's third stage and its manufacturing and quality-control processes.
+
+Isro said that the test data will now undergo detailed analysis and review. Further tests are planned based on the findings.
+
+The latest development signals a significant effort to strengthen the PSLV's third stage before the vehicle returns to its regular launch operations.
+
+\- Ends
+
+---
+
+### IIT Delhi returns to QS sustainability top 200, but Indian institutes lags in governance: QS world sustainability ranking 2027
+*Gayathri Mani · legal*
+
+Eight of India’s 99 entries debut this year and of those that ranked last year, 38 rise, 19 remain stable and 34 drop. This gives India an overall net improvement of 4%, the report said.
+
+[Read full article](https://indianexpress.com/article/education/qs-world-sustainability-rankings-2027-iit-delhi-top-200-india-universities-full-list-10961260/)
+
+---
+
+### A West Wales couple started an indoor farming business with less than £2,000; within three months, it was profitable and growing over 30 varieties of microgreens and herbs
+*TOI World Desk · politics*
+
+A West Wales couple turned a small investment into a profitable indoor farming business after spending less than £2,000 on shelves, seeds and trays. Toni and Alex Borella own and operate Green Up Farm, a hydroponic indoor vertical farm in Ceredigion.
+
+They started the business in 2021 after researching the market for microgreens and deciding to grow their own crops.In a 2024 interview with Swansea University, Toni Borella revealed that Green Up Farm grew more than 30 types of microgreens and micro herbs, supplying restaurants and other establishments across West Wales. Reportedly, Green Up Farm became profitable within just three months of its launch.
+
+## How did a couple start a profitable micro-herb farm with less than £2,000
+
+Toni and Alex Borella started Green Up Farm in 2021 after researching the microgreens market.
+
+The couple had wanted to start a business and were interested in growing their own crops. They found that microgreens were a large business in the United States before deciding to take the plunge.Their initial spending was less than £2,000, used to buy shelves, seeds and trays. The farm is based in Ceredigion and uses hydroponic indoor vertical farming. Its first client was Crwst, a company in Cardigan where Alex worked at the time.
+
+Toni approached the chefs at Crwst with samples of their produce and asked which micro herbs they would like the farm to grow.
+
+PC: Swansea University
+
+## How did live microgreens become Green Up Farm’s unique selling point
+
+The most important feedback from chefs was that they wanted live produce. Toni said this became Green Up Farm’s unique selling point because most other growers did not sell live products.She explained that produce which was not sold live had a limited shelf life and could lose quality. The feedback led the couple to adapt their process and focus solely on selling live products.As of 2024, Green Up Farm supplied directly to most mid to high end establishments in West Wales. Its customers included The Nags Head in Abercych, Yr Hens Printworks and Boys and Girls in Cardigan. Toni said communication and consistency were key to the business, particularly when supplies changed.
+
+## Green Up Farm grew more than 30 types of microgreens and herbs
+
+Green Up Farm sold more than 30 types of microgreens and micro herbs at the time. Its most popular varieties are pea shoots, nasturtium and coriander.
+
+The couple continues to look for different flavours, while considering whether a product adds something to a dish before taking it to market. Toni said conversations with chefs often spark trends, with one restaurant’s request sometimes leading others to ask for the same microgreen.Social media also influenced what customers want. One week they might ask for coriander and the next for fennel, making it important for the farm to keep up.
+
+The business also offered harvest boxes to local customers with small kitchens.
+
+## Green Up Farm reduced plastic waste through reusable packaging
+
+The couple moved to Pembrokeshire in 2019 after spending more than 20 years in London. Toni said they wanted to be closer to the coastline and had happy memories of the area from her childhood. Green Up Farm’s sustainability approach included avoiding plastic waste. The farm generated only cardboard waste, while its organic waste was sent to a community garden instead of being thrown into a food bin.Customers return packaging after use, which the couple hygienically clean and reuse. Toni said many customers chose the business because of its approach.
+
+## How the ARCS partnership helped Green Up Farm explore sustainable packaging
+
+Green Up Farm’s connection with Swansea University’s ARCS team centred on learning how to make its business more sustainable. Co-owner Toni Borella said the farm wanted a better understanding of the circular economy, particularly the use of plastics. The collaboration was expected to provide fact-checking and guidance as the business considered its choices, including plans to introduce a tray made from recycled PET (r-PET).
+
+Borella also wanted help communicating circular-economy ideas clearly to customers and social media followers. The farm already reused its packaging by collecting it from customers, cleaning it and using it again. Through the partnership, Green Up Farm hoped to assess whether new materials would genuinely improve its environmental impact while supporting sound business decisions in future.
+
+---
+
+### Absconding Bihar cop accused of killing man with service revolver found dead
+*India Today News Desk · general*
+
+## An absconding assistant sub-inspector accused of a fatal shooting was found dead in a Madhubani field. The unexplained death has shifted scrutiny towards post-mortem and forensic findings.
+
+Police said the exact cause of death could be established only after the post-mortem findings and forensic examination of the recovered service pistol.
+
+Madhubani,Nov 13, 2026 12:28 IST
+
+An assistant sub-inspector who had been absconding after shooting dead a man with his service revolver earlier this month was found dead in Bihar's Madhubani district, news agency Press Trust of India reported on Friday.
+
+The body of Chandra Mohan Singh was recovered from a field in the Babubarhi police station area on Thursday. Police said the cause of death would be known after a post-mortem examination and forensic analysis.
+
+Singh had opened fire after he was caught inside the house of a woman with whom he was having a relationship in a village in Madhubani district.
+
+One person was killed and three others were injured in the shooting, following which Singh fled.
+
+“Following the shooting incident under the Babubarhi Police Station limits, 12 special teams were constituted to arrest Singh. These teams had been conducting raids in areas along the Nepal border and suspected hideouts outside Bihar,” Madhubani Senior Superintendent of Police Yogendra Kumar told reporters, according to PTI.
+
+Kumar said police received information on Thursday about an unidentified body lying in a field in Babubarhi and a foul smell coming from the spot.
+
+During an inspection, the body was identified as Singh's based on his clothes, Aadhaar card, mobile phone, laptop and other documents found nearby, he said.
+
+A forensic team also recovered his service pistol and collected other evidence from the spot, Kumar added.
+
+“The inquest was carried out in the presence of an executive magistrate. A three-member medical board will conduct the post-mortem examination, which will also be videographed,” the SSP said.
+
+He said the exact cause of death could be established only after the post-mortem findings and forensic examination of the recovered service pistol.
+
+Police are investigating the death from all angles as they await the post-mortem and forensic findings, Kumar said.
+
+\- Ends
+
+With inputs from Amit Ranjan
+
+
+---
+
 ## 12 November 2026
 
 ### He used AI to test if a weed could help crops grow. Class 11 student wins Rs 4.1 lakh
