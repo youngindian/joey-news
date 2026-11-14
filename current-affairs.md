@@ -1,3 +1,452 @@
+## 14 November 2026
+
+### Riots in France: How anti-government protests spiraled out of control
+*SECTIONS Riots · world*
+
+PARIS: Smashed windows and ransacked shops. Bloodied teenage protesters. A city hall on fire.
+
+Such scenes shocked France as rioting erupted last month during nationwide protests over high living costs and strained ​public services.
+
+Government officials have repeatedly blamed far-left radicals and "opportunistic delinquents," who they say took advantage of mostly peaceful demonstrations to attack symbols of state authority and capitalism across France.
+
+  
+
+But the authorities' heavy-handed response - including thousands of arrests, police beatings and curbs on marches - has added to the volatile mix of grievances fueling an anti-government groundswell that shows no sign of abating before next year's presidential election, Reuters found.
+
+Reuters journalists reviewed dozens of videos of the violence, attended the court hearings of 26 people accused of taking part and interviewed over 50 government officials, police officers, attorneys, protesters and witnesses to understand how a movement that began in September with small protests over conditions in state schools spiraled into some of the worst civil unrest in years.
+
+Police tactics have faced scrutiny since the start due to the life-changing injuries suffered by some young people, including blown-off hands and lost eyes. United Nations and other human rights experts have also raised concerns about the arrest of nearly 7,000 minors during sometimes-violent school blockades, which they said was disproportionate.
+
+Images of riot police baton-charging teenagers fanned support for the students from a diverse array of protesters - including parents, teachers, left-wing politicians and trade unionists - who joined their marches.
+
+"We have rights," said Emilie Berthier de Grandry, 42, who has attended four demonstrations in Paris with her 15-year-old son, Aaron, dressed in an inflatable shark costume. "We're not going to let ourselves be pushed around."
+
+Nationwide demonstrations on October 17 also brought a resurgence of so-called yellow-vest protesters, an anti-establishment movement that faced off against President Emmanuel Macron's government in 2018-2019 over high fuel prices.
+
+The violent outbursts were so intense that day that police lost control of entire neighborhoods to rioters and looters in France's three largest cities: Paris, Marseille and Lyon. Every week since then, people have taken to the streets across France to voice their anger at police and the government.
+
+While the protests after October 17 were calmer, clashes erupted when police sought to disperse demonstrators as marches wound down. Officers repeatedly fired tear gas and charged groups of protesters who pelted them with bottles, paving stones and mortar-style fireworks. On October 24, far-right gangs entered the fray saying they wanted to protect businesses and clashed with protesters in several cities, authorities said.
+
+The Interior Ministry, which oversees the police, said internal watchdogs have launched 161 investigations into allegations of officer violence against protesters since September.
+
+Responding to Reuters questions, the Interior Ministry said force is used in accordance with applicable laws and regulations.
+
+The minister, Laurent Nunez, has expressed regret for injuries caused by explosive weapons used in crowd control, including stun grenades. But he has resisted calls to ban them, saying security forces must be able to defend themselves.
+
+Nunez has acknowledged security lapses, telling lawmakers that authorities didn't anticipate the scale of the October 17 violence.
+
+He credits a massive security operation - including the deployment of 70,000 police officers and paramilitary gendarmes - for maintaining public order at subsequent protests. But he says security forces still face "a great deal of violence" at demonstrations, including a petrol-bomb attack that injured three gendarmes in Paris on Halloween.
+
+The unrest comes at a difficult time for Macron, who won't be standing for election again in April. Strained public finances leave him little room to meet protesters' demands, and his centrist party no longer has the majority needed to pass major legislation.
+
+Macron has promised to both "listen to the anger" and "impose respect of the Republican order."
+
+The government has sought to appease protesters with proposals to improve education and the decision to bring forward a planned minimum-wage increase. Student leaders and major trade unions say the moves don't go far enough and have vowed to keep up the pressure.
+
+## AN ORCHESTRA HIT WITH TEAR GAS
+
+On October 17, protesters started gathering in Paris' Place de la Republique hours before a march was due to start at 2 p.m.
+
+Sousaphone in hand, Mael Roth arrived at about 11 a.m. for a warm-up session with the Orchestre du Nouveau Monde, a 400-piece classical orchestra that planned to perform in support of the marchers. The musicians were playing "The Avengers" theme song when the first clouds of tear gas wafted into the square about an hour later, the 20-year-old told Reuters.
+
+At first, he said, they assumed it wasn't aimed at them and kept playing. But within 30 minutes, tear gas canisters were landing at their feet.
+
+Reuters video shows riot police using tear gas around that time to drive back a group of protesters who tried to march down Rue du Faubourg du Temple, a street leading off the square.
+
+Elodie Aldila, who works at a patisserie on the street, welcomed the protection. Other businesses in the area were ransacked later that day.
+
+Roth, however, didn't see why the musicians couldn't remain in the square. Their aim was to "make people feel good," he said. "It was tough to feel ... like we're not legitimate."
+
+A huge crowd of mostly peaceful demonstrators soon filled the square again. But by then, the orchestra had packed up and left.
+
+## POLICE OVERWHELMED
+
+As tensions built through the afternoon, bands of protesters spread into surrounding streets, smashing storefronts, erecting barricades and setting fire to cars and bicycles.
+
+Around 4 p.m., police wielding batons beat a man to the ground after a heated exchange on the edge of the square, video verified by Reuters shows. Rumors of the man's death spread on social media, further inflaming tensions. The rumors later proved unfounded.
+
+An internal police watchdog is investigating the incident, the Interior Ministry said.
+
+As night fell, looting spread in Paris and other cities. Some 3,000 businesses were ransacked over 24 hours, from luxury boutiques to supermarkets.
+
+Addressing lawmakers last week, Nunez said an "unprecedented" mix of challenges unfolded simultaneously that day, overwhelming security forces.
+
+More than a half million people demonstrated around the country on October 17 - 110,000 in Paris alone, Nunez said. They included thousands of "ultra-left" activists, who he said confronted police from the start and tried to stage unauthorized marches toward seats of power.
+
+He didn't elaborate on the activists' suspected affiliations. French officials use the term ultra-left to describe a variety of groups, including anarchists and antifascists, who they say are willing to use violence.
+
+As word spread about the unrest on social media, people with no affiliation to such groups joined in the looting, Nunez said.
+
+In interviews with Reuters, three police officers and an intelligence official familiar with investigations into the violence said they couldn't confirm Nunez's assertions about the central role played by ultra-left groups. They said more investigation was needed to understand what happened.
+
+"There is a body of circumstantial evidence but no certainty," said Eric Moulin, a regional representative of the UNSA Police union in Marseille.
+
+Asked about the assertion, the Interior Ministry referred Reuters to Nunez's previous remarks.
+
+Nunez and other officials have said rioters are using tactics promoted on ultra-left online platforms to provoke a police response. They include forming "black blocs," in which activists wear all-black clothing and conceal their faces, to attack businesses and public buildings, they said.
+
+## HARDENED OFFICERS 'SCARED OUT OF THEIR MINDS'
+
+In Marseille, black-clad protesters broke into the city hall and toppled a bust of Marianne, a symbol of the French republic. Another group hurled rocks and steel bars at police at the Old Port, forcing around 45 officers to retreat to their vehicles and leave, verified videos show.
+
+"Some of my colleagues who were inside the police vans said they felt so threatened they reached for their service weapons," Moulin said. "These are tough, hardened men, yet they confided in me that they were scared out of their minds."
+
+In Limoges, municipal police took cover inside the 19th-century city hall; rioters set it on fire. The officers escaped unharmed.
+
+The Lyon tourism office was also torched.
+
+Prosecutors are investigating charges of attempted murder against a 34-year-old carpenter suspected of helping start the Limoges fire. The city's mayor, Guillaume Guerin, told French TV the man is on a security watchlist for alleged ties to the ultra-left and was "most likely the mastermind of the operation."
+
+The suspect's lawyers said they had no such information. They urged the mayor to respect the presumption of innocence, saying the evidence against their client is weak.
+
+Prosecutors didn't answer Reuters questions about the case.
+
+## 4,900 SUSPECTS ARRESTED, MOSTLY YOUNG MEN
+
+Justice Minister Gerald Darmanin has instructed prosecutors to deliver "an extremely firm judicial response" to the violence, including pre-trial detention and expedited trials for many accused.
+
+Over 4,900 suspects have been taken into custody since October 17, Darmanin told French TV on November 3. Some 2,290 were referred for prosecution and 404 handed prison sentences so far. Few details have been released about the suspects, though Darmanin said most are young men aged 18-25.
+
+The Tribunal de Paris, France's biggest courthouse, had to open two extra courtrooms for fast-track trials, which are reserved for people accused of low-level offenses. The schedule was so packed that some hearings Reuters observed had to be pushed back because the judge hadn't had time to review the case file.
+
+A union of French judges and prosecutors said it believes the justice system is being "instrumentalized" by the government. The Justice Ministry didn't respond to a request for comment.
+
+To avoid a repeat of the October 17 violence, the government reinforced police with troops at subsequent demonstrations, imposed curfews and banned numerous marches.
+
+Rights groups including Amnesty International have warned of a slide toward "authoritarianism." Officials said they were upholding the rule of law.
+
+Some researchers who study French social movements and policing have argued that the government's heavy-handed response is perpetuating the cycle of violence.
+
+"Escalation happens when black blocs provoke with violence, and law enforcement are ordered to respond with violence," said Fabien Jobard, a sociologist at the French National Centre for Scientific Research.
+
+In this way, he said, groups are able to demonstrate that police are violent and attract support.
+
+Titouan Malin, an 18-year-old medical student, said he started volunteering as a medic at protests after seeing how police treated demonstrators on October 17.
+
+"When you face this kind of violence - repression to such an extreme degree - you're forced to respond with violence," said Malin, who wore a white helmet and had a gas mask hanging around his neck as he watched for clashes during one of Paris' biggest marches on November 5.
+
+"It's the only way to make ourselves heard."
+
+---
+
+### 6 arrested for ‘flogging’ dalit man to death for ‘cutting foliage’ in Surat village
+*Kamal Saiyed · legal*
+
+Police said they are investigating the actual provocation for the incident.
+
+[Read full article](https://indianexpress.com/article/cities/ahmedabad/six-arrested-surat-flogging-dalit-man-to-death-cutting-foliage-atrocities-act-10962707/)
+
+---
+
+### Microsoft outage explained in 5 points, why Outlook and Teams went down for more than 24 hours
+*Kazi Nasir · general*
+
+Millions of people rely on Microsoft services to get through their working day. But an incident on November 12, caused by a technical failure in the company’s infrastructure, disrupted major services such as Outlook, Teams, Copilot, and several other Microsoft 365 services. This leaves businesses and individuals struggling to access emails and carry out routine work. And what began as a technical problem soon turned into a global disruption, affecting users across more than 70 countries.
+
+Microsoft revealed that the situation is now improving. As of Saturday, November 14, Microsoft says it is seeing sustained recovery and stability across the affected environments, with most disrupted services and features restored. However, it is still monitoring its systems and working through the backlog of delayed emails. The company has apologised for the disruption and promised to reveal a detailed report soon explaining what went wrong.
+
+### 1\. It started with Outlook, but quickly spread across Microsoft 365
+
+The outage first became noticeable as users began reporting problems accessing their Exchange Online mailboxes, the infrastructure that powers Microsoft's email service. Outlook users experienced difficulties opening their inboxes, sending messages and receiving emails. The problem then spread to other services that depend on the same infrastructure.
+
+Microsoft Teams continued to support core messaging and online meetings, but features linked to Exchange Online, such as calendars, meeting invitations and scheduling, were affected. Copilot users also faced problems loading chats and accessing work-
+
+Other affected services included SharePoint Online, Microsoft Planner, To Do, Defender, Purview, Power BI and Windows 365. Not every feature stopped working, though. Microsoft said services that did not depend on Exchange Online continued to function.
+
+Downdetector recorded more than 1.3 lakh reports of Outlook problems at the peak, while disruptions were reported across 74 countries and territories.
+
+### 2\. A network problem left Microsoft's servers struggling to respond
+
+The first clues came from Microsoft's investigation into why so many users were unable to access their mailboxes. Engineers found that a large number of servers had unexpectedly become unavailable, leaving fewer machines to handle incoming requests.
+
+Microsoft later identified a process responsible for establishing secure connections on the affected servers as a key factor. In one of its updates, the company said this process was becoming overwhelmed, causing servers to stop processing requests. Microsoft clarified that the problem was 
+
+Microsoft was also quick to rule out speculation about a cyberattack or an AI-
+
+### 3\. The outage reached airlines, businesses and even AI services
+
+The disruption was not limited to people unable to check their inboxes. Businesses that depend on Microsoft's cloud services also struggled to communicate with customers and access workplace tools.
+
+In India, the impact reached the aviation sector. IndiGo warned that its email support system had been affected and that it might not receive messages sent by customers. In its advisory, IndiGo said, "Due to a global Microsoft service disruption, our email support services are currently impacted, and we may not be able to receive your emails." It asked passengers needing urgent assistance to use its website or app.
+
+Financial services firms also reported difficulties accessing research reports and handling client interactions. The disruption even reached AI companies. OpenAI and Anthropic reported problems with their Microsoft 365 connectors, which allow their services to work with users' emails, calendars and other workplace data.
+
+### 4\. Bringing the servers back online proved harder than expected
+
+Microsoft's recovery efforts took longer because restarting affected servers did not always solve the problem. In some cases, machines that initially returned to service became unresponsive again once they started receiving traffic.
+
+Engineers tried several approaches. They redirected traffic to alternative infrastructure, restarted affected servers, tested configuration changes and worked to increase capacity by scaling up virtual machines. Microsoft also began reversing a recent network configuration change that coincided with the start of the outage.
+
+Rather than restoring everything at once, the company chose to bring services back in stages. Explaining the approach, Microsoft said, "Given the scale of demand, we restored services gradually, validating stability at each stage. While this took longer, it helped ensure a stable restoration."
+
+### 5\. Services are recovering, but Microsoft is still monitoring the impact
+
+By November 14, Microsoft was reporting sustained recovery across the previously affected environments. It said the majority of impacted scenarios had been addressed, while engineers continued to monitor service stability and ensure that delayed emails were successfully processed.
+
+Microsoft has apologised to customers and partners, saying, "We are deeply sorry for the disruption this incident has caused our customers and partners. We know the trust they place in our services and take that responsibility extremely seriously." Its promised post-incident report should offer a clearer account of the failure and the steps it plans to take to prevent a similar outage.
+
+\- Ends
+
+---
+
+### Pizzeria Americano: Alex Sanchez’s new pizza parlour in Kala Ghoda is worth the queue
+*Heena Khandelwal · legal*
+
+The San Francisco-raised chef first came to India to helm The Table when it opened in 2011. He has since co-founded Americano (2019), Otra (2024) and now Pizzeria Americano.
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/pizzeria-americano-alex-sanchezs-new-pizza-parlour-in-kala-ghoda-is-worth-the-queue-10962737/)
+
+---
+
+### Death Inside Chekkanoorani Police Station: Inspector Suspended After Truck Driver's Suicide | N18
+*News · general*
+
+A truck driver died by suicide inside the Chekkanoorani police station in Madurai district on November 14, 2026, triggering an investigation and departmental action. The incident has raised serious questions about the circumstances leading to the death and the safeguards that should be in place when...
+
+[Read full article](https://www.news18.com/videos/india/death-inside-chekkanoorani-police-station-inspector-suspended-after-truck-driver-s-suicide-n18-10425303.html)
+
+---
+
+### Babri, Bofors to anti-Sikh riots: How Sonia’s memoir navigates Congress’s uncomfortable past
+*Manoj CG · legal*
+
+elonging: A Journey of Love almost comes across as two books, one a candid and warm account of the Congress leader’s personal life and the other a cautious and cagey retelling of her political career.
+
+[Read full article](https://indianexpress.com/article/political-pulse/sonia-gandhi-memoir-belonging-emergency-1984-riots-babri-bofors-review-10962735/)
+
+---
+
+### Rs 37,500 cr coal gasification push: CDEP-CWS study identifies priority chemicals to cut import
+*SECTIONS Rs · general*
+
+Synopsis
+
+A study suggests India focus on coal-derived hydrogen, synthetic natural gas, and methanol to reduce imports. The government's initiative has a budget of Rs 37,500-crore aimed at boosting coal gasification. Investments should prioritize products that promise economic returns and reduce import dependence. The plan aims for 100 million tonnes of coal gasification capacity by 2030. India's experience may benefit from insights derived from China's coal-to-chemicals industry.
+
+Agencies
+
+CDEP-CWS study suggests India focus on coal-derived hydrogen, synthetic natural gas, and methanol to reduce imports  
+
+New Delhi: Hydrogen, synthetic natural gas (SNG), methanol and ammonia should be prioritised for production from coal to reduce India's dependence on imported fuels, fertilisers and industrial chemicals, according to a new study.
+
+The study by Centre for Domestic Economy Policy Research (C-DEP) and the Centre for WTO Studies (CWS) ranks 23 coal-derived products across eight economic, industrial and strategic parameters to guide investments under the government's Rs 37,500-crore scheme for promoting surface coal and lignite gasification projects.
+
+  
+
+Hydrogen emerged as the highest-priority product, followed by SNG, methanol, ammonia, dimethyl ether (DME), LNG, LPG, urea and diammonium phosphate (DAP), the study said.
+
+The recommendations come as India seeks to expand coal gasification capacity to reduce its reliance on imported energy and fertiliser products.
+
+The government scheme aims to facilitate the gasification of an additional 75 million tonne of coal and lignite annually, while the country's target is to achieve 100 million tonne of coal gasification capacity by 2030.
+
+India imported nearly USD 37 billion worth of LPG, LNG, urea and DAP in 2024, underscoring the potential for domestic coal-based production to substitute imports. LPG and LNG imports alone exceeded USD 27 billion, while urea and DAP imports accounted for another USD 9.6 billion, the report said.
+
+The study, titled "Coal-to-Chemicals Policy in India: A Strategic Framework for Product Prioritisation under the National Coal Gasification Mission", argues that investments should be directed towards products offering the greatest potential for import substitution, economic returns and strategic supply security.
+
+Addressing the report's release, Petroleum and Natural Gas Regulatory Board (PNGRB) Chairperson Anil Kumar Jain said coal gasification in India was still at an early stage and that the commercial viability of technologies suited to Indian coal needed to be established, according to a statement issued by the organisers.
+
+"While import dependence, supply security and strategic importance should guide product prioritisation, we must first allow industry to test these technologies and establish their feasibility. The government has created the necessary policy and financial support. The next step is for industry to demonstrate commercially viable projects, after which a more targeted product prioritisation framework can be developed," he said.
+
+C-DEP President Jaijit Bhattacharya said the government's Rs 37,500-crore commitment made it important to identify products that could deliver the greatest economic benefits.
+
+"Our analysis provides a framework for directing investment towards products that can reduce imports, strengthen domestic supply chains and support India's industrial self-reliance," he said.
+
+The report also draws lessons from China's coal-to-chemicals industry, which expanded domestic production of fertilisers, methanol and downstream chemicals through integrated industrial clusters.
+
+However, China's experience also highlights the risks of rapid capacity expansion, including underutilised plants, high capital costs and water constraints, the study said.
+
+It recommends that India adopt a phased investment approach and develop integrated manufacturing clusters where common coal gasification facilities can supply multiple downstream chemical industries.
+
+The study said a product-focused strategy could help India leverage its substantial coal reserves to reduce import dependence in energy and fertilisers while developing domestic chemical manufacturing capabilities.
+
+---
+
+### 6 out of 10 top performing largecap stocks in November delivered multibagger returns in long run. Do you own any? - Top Performers
+*Getty Images · general*
+
+Nov 14, 2026, 11:40:38 AM IST
+
+The Indian stock market has seen a stellar rebound in November, with Sensex soaring over 7,000 points and Nifty rallying more than 9% in just the first half of the month as a sharp surge in FII buying following months of selloff, along with other factors boosted investor sentiment on Dalal Street. One of the key trends noticeable during this bull attack was the outperformance of the largecaps over midcaps and smallcaps. During the same period of time, Nifty Midcap 100 and Nifty Smallcap 250 indices gained 7-8%. Here are the 10 largecap stocks that recorded the biggest jump in November so far, including six who have delivered multibagger returns in the longer run.  
+
+Getty Images
+
+Shriram Finance shares recorded the sharpest gains among all the largecap stocks in November so far, jumping nearly 22%. The shares of the non banking financial company dropped 2% in a month and 5% in 2026 so far, but gained over 19% in one year. In the longer term, the stock delivered multibagger returns of 147% in three years and 199% in five years.  
+
+Agencies
+
+Muthoot Finance followed, rising more than 21% in November so far. The shares of the gold loan provider dropped over 1% in a week but gained 8% in a month, although they remain 26% down in 2026 so far. In the longer term, the stock delivered multibagger returns of over 120% in three years and gained 68% in five years.
+
+ETMarkets.com
+
+Mahindra & Mahindra (M&M) shares gained 20% so far this month, ranking third among all the largecap stocks with highest returns in the first half of November. The shares of the automaker have gained more than 16% in a month but dropped over 11% in 2026 so far and 10% in a year. In the longer term, the stock delivered multibagger returns of 116% in three years and 255% in five years.  
+
+Reuters
+
+Ashok Leyland shares also gained around 20% in November so far. The stock has fallen 2% in a week and 8% in 2026 so far, although it gained 15% in one month. In the longer term, the stock jumped 95% in three years and delivered multibagger returns of 132% in five years.  
+
+6/11
+
+## ​HDFC Asset Management Company
+
+ETMarkets.com
+
+Bajaj Finance shares jumped over 18% in the first half of November. The shares of the company have gained 3% in a week and 14% in a month, with the stock overall being up 15% in 2026 so far. In the longer term, the stock jumped 52% in three years and 47% in five years.  
+
+ETMarkets.com
+
+Lodha Developers shares jumped nearly 18% in the first half of November. The shares of the company have gained 3% in a week and 12% in a month, with the stock overall being up 14% in 2026 so far. In the longer term, the stock jumped 43% in three years and 95% in five years.  
+
+Divi's Laboratories shares also jumped nearly 18% in the first half of November. The shares of the company have gained 11% in a week and 23% in a month, with the stock overall being up a whopping 80% in 2026 so far. In the longer term, the stock delivered multibagger returns of 226% in three years and 136% in five years.  
+
+ETMarkets.com
+
+10/11
+
+## ​Cholamandalam Investment and Finance Company
+
+ETMarkets.com
+
+HDFC Bank shares also saw a stellar rebound this month, with the shares of India’s largest private lender rising over 17% in the first half of November. The shares of the heavyweight company have gained more than 2% in one week and 13% in a month, with the stock overall being down 19% in 2026 so far. In the longer term, the stock gained 8% in three years and 3.5% in five years.
+
+_Disclaimer: This article has been written by Debaroti Adhikary, who is not a SEBI-registered Research Analyst or an Investment Adviser. Debaroti Adhikary and his/her ‘relative(s)’ (as defined under Section 2(77) of the Companies Act, 2013) do not hold any financial interest in the companies mentioned in this article as of the date of publication. The views/recommendations mentioned in this article, wherever applicable, are those of the respective SEBI-registered Research Analyst/brokerage and have been reproduced/reported with due attribution. They should not be construed as the views or recommendations of The Economic Times Digital or the journalist. Readers are advised to consider the original research report and make their investment decisions based on their own assessment. Brokerage disclaimers here._
+
+Agencies
+
+---
+
+### Delhi AQI Hits 350; Ministers Order 50% Work From Home Amid PM 2.5 Spike
+*NDTV Profit News · general, business*
+
+The decision aims to help control vehicular emissions, responsible for nearly 50% local air pollution in the national capital.
+
+[Read full article](https://www.ndtvprofit.com/trending/delhi-chokes-at-350-aqi-two-ministers-order-50-work-from-home-hazardous-pm-2-5-lead-pollutant-12325226)
+
+---
+
+### China, India step back from COP33: What's at stake for Asia's climate fight
+*India Today Science Desk · general*
+
+## China's decision not to host COP33 follows India's withdrawal in April, raising questions over who will lead the 2028 climate negotiations.
+
+PM Narendra Modi during a bilateral meeting with Chinese President Xi Jinping. (Photo: PTI)
+
+China has ruled out hosting the 2028 United Nations climate summit, COP33, leaving the Asia-Pacific region without one of its strongest potential candidates.
+
+The decision comes months after India also withdrew its offer, raising questions about who will lead the crucial negotiations, particularly on the climate concerns of vulnerable Pacific island nations.
+
+Chinese flags waving in front of a bridge at sunset. (Photo: Pexels)
+
+The withdrawals are significant because China and India are among the world's three largest greenhouse gas emitters, alongside the United States.
+
+Their hosting bids could have given greater political weight to regional climate priorities at a time when international cooperation is becoming increasingly difficult.
+
+### ASIA NEEDS A CLIMATE VOICE
+
+Under the United Nations' hosting rotation, COP33 falls to the Asia-Pacific negotiating group. However, the summit does not have to be hosted by a Pacific island nation.
+
+For countries such as Tuvalu, Kiribati and the Marshall Islands, climate change is an immediate threat. Rising sea levels are eroding coastlines and threatening freshwater supplies, homes and livelihoods.
+
+Flags of Pacific Island nations are seen at the Pacific Islands Forum Leaders Meeting. (Photo: AP)
+
+Despite contributing very little to global emissions, these nations face some of the worst consequences of warming.
+
+A major regional power hosting COP33 could have brought these concerns to the forefront and strengthened demands for climate finance and faster global emissions cuts.
+
+### WHY INDIA AND CHINA'S ROLE MATTERS
+
+China is the world's largest greenhouse gas emitter but has also emerged as a global leader in clean energy manufacturing and deployment. Its renewable energy capacity has overtaken coal, while electric vehicles are gaining ground.
+
+India, too, has rapidly expanded solar and wind energy and is among the world's leading renewable energy markets.
+
+Hosting COP33 could have allowed either country to showcase its energy transition while taking a more prominent role in global climate negotiations.
+
+India announced its intention to host the summit at COP28 in Dubai in 2023 but withdrew its offer in April 2026, without publicly stating a reason. China had considered hosting but never formally confirmed a bid.
+
+### A CRUCIAL CLIMATE ASSESSMENT AHEAD
+
+COP31 is underway in Antalya, Turkey, from November 9 to 20, while Ethiopia is scheduled to host COP32 in 2027.
+
+A COP31 sign is seen in Antalya, Turkey during the ongoing UN Climate Summit. (Photo: AP)
+
+COP33, scheduled for November 6-17, 2028, will include the second global stocktake under the Paris Agreement, assessing whether countries are making sufficient progress towards limiting global warming.
+
+With China and India stepping back, South Korea, Indonesia, Thailand and Uzbekistan have emerged as potential hosts.
+
+For Pacific nations, the priority will be ensuring their climate fight remains central to negotiations, regardless of who takes the lead.
+
+\- Ends
+
+---
+
+### Judo legend Teddy Riner's presidential bid faces a tough fight in France
+*SECTIONS Judo legend Teddy Riner's presidential bid faces a tough fight · world*
+
+Paris: In a contest of who has the firmer handshake, it's not a stretch to suggest, as he does, that French judo great Teddy Riner would get the better of Donald Trump if ever they were to meet as presidents of their respective countries.
+
+But that's a big "if."
+
+Even with five Olympic gold medals under his black belt and more than 3.3 million followers on his socials, Riner's newly announced bid for the presidency of France is likely to be a harder contest than many of the judokas he crushed.
+
+  
+
+History and rules stand in his way
+
+The list of celebrities who successfully campaigned for elected office is shorter in France than in the United States, where Trump, Ronald Reagan, Arnold Schwarzenegger, Jesse Ventura, two-time NBA champion Bill Bradley, former Buffalo Bills quarterback Jack Kemp and others turned small-screen, big-screen and sporting stardom into political power.
+
+Two-time Olympic champions David Douillet, in judo, and Jean-Francois Lamour, in fencing, and Guy Drut, the 110-meter hurdles champion at the Montreal Olympics in 1976, won seats in France's parliament in retirement and served as sports ministers. But Riner is aiming to be the first celebrity to hold France's top office since World War II hero Gen. Charles de Gaulle.
+
+To appear on the ballot for the first round of voting in April, Riner needs a minimum of 500 elected officials to sponsor his candidacy, a requirement designed to not be easy.
+
+The measure, intended to limit the size of the field and filter out fanciful candidacies, is an indication of how France has traditionally regarded running the country as a serious business. It has been in place since the 1981 election and was one of the barriers that foiled a presidential bid by comedian and actor Coluche that year.
+
+"In France, there are complex hurdles to entry for people who don't come from the establishment," said Francois Hourmant, a professor of political science at Angers University who has studied celebrity culture in French and North American politics.
+
+"Moving from the tatamis to the political arena isn't that simple, and isn't something everyone can do," he said in a phone interview with The Associated Press.
+
+Riner's first campaign stop
+
+A thicket of cameras that greeted the 37-year-old on Friday, when he made his first campaign stop at a hospital in the northern suburbs of Paris, testified to the star power that Riner brings to the race.
+
+Looking fighting fit in a dark suit and open-neck shirt, he towers over everyone from the height of his 2.04-meter (6-foot, 8-inch) frame. His imposing physicality and easy charisma translate readily to television.
+
+But the policy proposals Riner plans to bring to the campaign remain unclear. He describes himself as neither left nor right on the political spectrum and says France "needs common sense" and not "a professional politician who recites lessons and squabbles all day long."
+
+In a two-minute, 37-second video that launched his campaign Monday and in an interview with the newspaper Le Parisien, Riner spoke of problems that he sees in France, among them "fear," "anger," a "social divide" and people unable "to envisage a future." But he offered few solutions or blueprints for building what he called "the France that we want."
+
+Outside the hospital after meeting staff members, Riner said he is still working on his campaign platform and didn't answer questions, responding with a "have a good rest of the day, au revoir" before heading back to his car.
+
+Far-right candidate Marine Le Pen, widely seen for now as the favorite to succeed President Emmanuel Macron in May, took a gentle swipe during a campaign stop of her own on Friday, saying she couldn't form an opinion about Riner's bid without knowing anything about his platform.
+
+As a dominant judoka whose mantra was "Never let anyone steal your beefsteak," Riner told the AP in 2013 that he would sometimes wrestle up to five people at once in training to make it more challenging. As a fledgling politician, he says he is steeled for more rough-and-tumble.
+
+"When you know how to take punches, you also know how to throw them," he told Le Parisien.
+
+An electorate hungry for change but also experience
+
+The rise of Le Pen and the challenge she faces from the other end of French politics from far-left leader Jean-Luc Melenchon together suggest a swath of French voters want deep and disruptive change.
+
+But analysts believe many also want a seasoned hand to deal with the multitude of domestic and international challenges that France faces, including its record public debt and the threat to European security posed by Russian President Vladimir Putin and his war in Ukraine.
+
+"Teddy Riner certainly embodies renewal, but he doesn't necessarily embody experience. So that is probably one of his main disadvantages," said Mathieu Gallard, research director at the Ipsos polling institute.
+
+Riner, who is Black, was born on the French Caribbean island of Guadeloupe and grew up in Paris. Both Gallard and Hourmant said the potential that Riner is more likely to understand and combat discrimination could attract people of color in an election where Le Pen's party and others on the far right are again seeking to focus on immigration.
+
+"But again, is that enough to translate into votes," Gallard asked.
+
+"Teddy Riner's skin color will be a political issue for some people," Hourmant said. For some, "it may be a reason to support him, seeing a racialized candidate from the overseas territories. For others, it will be a deterrent."
+
+---
+
+### Charged Rs 125 ‘express fare’ on passenger train, man wins Rs 5,300 from railways
+*Richa Sahay · legal*
+
+The complainant said he travelled on the same passenger train on three occasions but was charged express fares each time, despite the train having none of the features of an express service in the Southern Railway.
+
+[Read full article](https://indianexpress.com/article/legal-news/charged-rs-125-express-fare-train-man-wins-rs-5300-railways-10962706/)
+
+
+---
+
 ## 13 November 2026
 
 ### Delhi-based defence entrepreneur alleges fresh threat from gangster Rohit Godara, Rs 5 crore extortion demand
