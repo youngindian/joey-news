@@ -1,3 +1,377 @@
+## 15 November 2026
+
+### Breakthrough In Fight Against Diabetes? IIT Kanpur Researchers Find Immune Cell 'Off Switch' For Insulin
+*Oindrila Mukherjee · general*
+
+Researchers have found that immune cells inside the pancreas can switch off insulin release within minutes and have identified the molecular switch that allows them to do it
+
+[Read full article](https://www.news18.com/india/diabetes-breakthrough-treatment-immune-cell-off-switch-insulin-iit-kanpur-research-ws-el-10426327.html)
+
+---
+
+### DK Shivakumar Writes To PM Modi, Seeks Ninth Schedule Protection For Karnataka's Enhanced SC/ST Quota
+*Mallika Soni · general*
+
+In his letter, DK Shivakumar said the aspirations of SC and ST communities deserved the government's sincere commitment.
+
+[Read full article](https://www.news18.com/india/dk-shivakumar-writes-to-pm-modi-seeks-ninth-schedule-protection-for-karnatakas-enhanced-sc-st-quota-ws-l-10426337.html)
+
+---
+
+### Video: Himachal woman injured as speeding car sends parked vehicle hurtling into her
+*India Today News Desk · general*
+
+## A speeding car struck a parked vehicle, flinging it into a woman in Dattowal. The pedestrian was seriously injured as police began investigating the unexplained loss of control.
+
+The collision triggered panic in the area, with the CCTV footage capturing the sequence of events leading up to the accident. (CCTV screengrab)
+
+Solan, Himachal Pradesh,Nov 15, 2026 11:49 IST
+
+A speeding car rammed into a vehicle parked along a roadside in Himachal Pradesh's Solan district, sending it flying into a woman pedestrian and leaving her seriously injured. The incident took place in Dattowal area of Nalagarh, where a CCTV camera captured the violent collision.
+
+The footage shows a woman walking along the roadside as a car remains parked nearby. Moments later, another car approaches at high speed and appears to lose control before crashing into the stationary vehicle.
+
+The impact was so powerful that the parked car was sent flying several metres, hitting the woman as she walked past. The collision also caused the speeding car to overturn in the middle of the road.
+
+The woman sustained serious injuries in the accident. Local residents rushed to help her and took her to a hospital for treatment. Her current condition was not immediately known.
+
+The collision triggered panic in the area, with the CCTV footage capturing the sequence of events leading up to the accident. The video shows the parked vehicle being thrown into the air and the other car overturning following the impact.
+
+The accident took place in Dattowal, in the Nalagarh area of Solan district. The exact circumstances that led to the speeding car losing control have not yet been established.
+
+Police have started an investigation into the incident. Further details about the driver, the vehicles involved and the cause of the crash are awaited.
+
+The CCTV footage has brought attention to the dangers posed by speeding and reckless driving, particularly in areas where pedestrians and parked vehicles are present along roadsides.
+
+\- Ends
+
+With inputs from Rajesh Sharma
+
+---
+
+### 'I Had No Money': DK Shivakumar Says PM Modi Bought His Metro Ticket For Bengaluru's Pink Line Ride
+*Vani Mehrotra · general*
+
+DK Shivakumar said PM Narendra Modi swiped his smart card to buy his Metro ticket during their journey on Bengaluru's newly inaugurated Pink Line.
+
+[Read full article](https://www.news18.com/india/dk-shivakumar-says-pm-modi-bought-my-metro-ticket-karnataka-chief-minister-ws-l-10426325.html)
+
+---
+
+### IndiGo Flight Makes Emergency Landing In Pune After Landing Gear Fails To Retract, 192 On Board Safe
+*Mallika Soni · general*
+
+Flight 6E 0623 (VT-IZE) landed safely at 9:04 am after the landing gear reportedly failed to retract and remained extended.
+
+[Read full article](https://www.news18.com/india/indigo-flight-makes-emergency-landing-in-pune-after-landing-gear-fails-to-retract-192-on-board-safe-ws-l-10426326.html)
+
+---
+
+### Kumamoto Masters: Lakshya Sen upsets Watanabe in final
+*The Bridge Desk · sports*
+
+Lifts second consecutive Super 500 title of the season, moves closer to qualifying for the BWF World Tour Finals in Hangzhou.
+
+[Read full article](https://thebridge.in/badminton/kumamoto-masters-lakshya-sen-upsets-watanabe-in-final-58382)
+
+---
+
+### Jaishankar says India-US trade agreement could be sealed soon with remaining concerns on American side
+*Swarajya News Staff · politics*
+
+India and the United States have sorted out the bulk of issues relating to their proposed trade deal and could seal an agreement soon, External Affairs Minister S Jaishankar said on Saturday (14 November).
+
+Speaking at the Hindustan Times Leadership Summit 2026, Jaishankar indicated that negotiations are in their final stretch, with remaining concerns largely on the American side.
+
+The minister emphasised that India seeks a trade deal that is beneficial, balanced and would give the country a comparative advantage over comparable economies.
+
+He described the negotiations as painstaking, noting that the two sides have gone through the agreement tariff line by tariff line.
+
+The US is India's biggest market, and having a trade deal would significantly benefit the country, he added.
+
+Last month, US Secretary of State Marco Rubio said in Mumbai that both sides are very close to firming up the trade deal.
+
+The two nations announced a framework for an interim agreement in February 2026, following a conversation between Prime Minister Narendra Modi and President Donald Trump.
+
+The framework included reducing US tariffs on Indian goods from 50 per cent to 18 per cent.
+
+Commerce and Industry Minister Piyush Goyal had earlier said India would secure one of the best trade deals with the US.
+
+The bilateral trade agreement negotiations cover 16 policy areas, including market access on goods and services, rules of origin, and trade remedies.
+
+Both countries have set a goal of expanding bilateral trade from its current level to $500 billion by 2030 under what has been termed Mission 500.
+
+A US trade team visited India in early November to discuss customs and trade facilitation issues.
+
+India continues to await clarity on the outcome of Section 301 investigations by the US Trade Representative, which could lead to additional tariffs.
+
+**Please click here to add** _**Swarajya**_ **as your preferred and trusted news source on Google**
+
+---
+
+### Iran Launches Fresh Drone Strikes On Bahrain Military Base Hosting US Helicopters Amid Escalating Gulf Tensions
+*Swarajya News Staff · politics*
+
+Bahrain issued its first nationwide threat alert in months today as explosions were reported across the kingdom and Iran's Islamic Revolutionary Guard Corps claimed drone attacks on a military base hosting US helicopters.
+
+The IRGC said six unmanned aerial vehicles targeted a US air-defence radar system at the Al-Riffa helicopter base, describing the operation as part of a second wave of retaliatory actions.
+
+Bahraini air defences intercepted and destroyed an Iranian drone early this morning, according to state television. The island nation hosts the headquarters of the US Navy's Fifth Fleet, making it a key centre for American military operations in the Gulf.
+
+Washington has not yet confirmed the latest reported attacks, though US Central Command stated earlier this week it had shot down two Iranian drones heading towards Bahrain with no casualties or damage.
+
+The fresh strikes represent Iran's first claimed attack on Bahrain since September, coming just days after Gulf Arab states demanded on Friday (13 November) that Tehran pay full compensation for damage caused by thousands of missile and drone attacks since February.
+
+Gulf Cooperation Council Secretary General Jasem Al Budaiwi told the UN Security Council that Iran had launched more than 7,000 missiles and drones at regional countries, targeting airports, ports, oil facilities, power stations, desalination plants and residential areas.
+
+Since the conflict began on 28 February 2026 following US and Israeli strikes on Iran, Bahrain has intercepted 125 missiles and 211 drones, with three fatalities and more than 51 injuries recorded as of June.
+
+The broader conflict has brought maritime trade through the Strait of Hormuz to a standstill and prompted elevated military alerts across Gulf states including Kuwait, Saudi Arabia, the United Arab Emirates, Jordan and Qatar, all of which have faced similar Iranian strikes.
+
+**Please click here to add** _**Swarajya**_ **as your preferred and trusted news source on Google**
+
+---
+
+### Giacomo Filibeck Backs Rahul Gandhi, Raises ‘Vote Chor’ Slogan In Hyderabad, Bharat Summit | News18
+*News · general*
+
+A slogan associated with Congress's campaign against alleged electoral irregularities has triggered a fresh political confrontation after a senior European political leader raised it at the Bharat Summit 2026 in Hyderabad.Giacomo Filibeck, Secretary-General of the Party of European Socialists (PES),...
+
+[Read full article](https://www.news18.com/videos/breaking-news/giacomo-filibeck-backs-rahul-gandhi-raises-vote-chor-slogan-in-hyderabad-bharat-summit-news18-10426338.html)
+
+---
+
+### Jensen Huang Could Return As Nvidia CEO? Two Big Investors Make Fresh Appeal To Board
+*Priya Singh · technology*
+
+Two prominent Nvidia investors have asked the company's board to take its time while deciding on its next leadership, suggesting that Jensen Huang's possible return should also remain on the table. Altimeter Capital CEO Brad Gerstner shared a letter on X, co-signed by Atreides Management's Gavin Baker, calling for a careful and deliberate CEO selection process. The two investment firms together held approximately $2.13 billion worth of Nvidia shares as of June 30. Altimeter owned 9.4 million shares valued at nearly $1.9 billion, while Atreides held 1.2 million shares worth around $250 million.
+
+## Nvidia Investors Back Interim CEO, Urge Caution On CEO Search
+
+The letter from Altimeter Capital and Atreides Management expressed confidence in interim CEO Colette Kress, who previously served as Nvidia's CFO for 13 years. The investors said the company would be “capably led” under her supervision. However, they stressed that Nvidia's board should give itself enough time before making a permanent leadership decision. The letter stated, “But the Founder and long time incredible leader of this extraordinary company has earned the right for a deliberate process that avoids any needless rush to replace him before all the facts are known.” It did not explicitly demand Jensen Huang's immediate return.
+
+> 🚨🇺🇸 The push to bring Jensen Huang BACK to Nvidia is gaining serious momentum. Two major investors, Altimeter Capital's Brad Gerstner and Atreides Management's Gavin Baker, are urging Nvidia's board NOT to rush into replacing him. Together, their firms held more than $2 BILLION in Nvidia shares as of June. Elon has also backed a petition calling for Huang's reinstatement, warning that Nvidia could lose critical deals without him. And the petition now claims more than 100,000 signatures, including over 5,000 Nvidia employees. Meanwhile, U.S. intelligence officials reportedly remain divided over whether Huang's alleged Chinese spy connection actually involved espionage. Huang built Nvidia into the world's AI powerhouse. Now some of its biggest backers want the board to consider bringing him back before the investigations have even concluded. That's a remarkable turnaround just days after his resignation. Source: CNBC / Writer: Oliver
+> 
+> — Mario Nawfal (@MarioNawfal) November 14, 2026
+
+## Jensen Huang's exit draws support from Elon Musk
+
+Huang stepped down from his roles as Nvidia's president, CEO and director on November 12, following reports involving alleged personal relationships, including one with Alice Huang, who has been suspected of having links to Chinese intelligence. She reportedly had connections with Megaspeed, a Singapore-based Nvidia customer that is under investigation by the US Justice Department over allegations that it may have diverted restricted AI chips to China. Meanwhile, SpaceX CEO Elon Musk publicly backed Huang's reinstatement, revealing on X that he had signed an online petition titled 'Stand with Jensen'. The petition claims to have received over 100,000 signatures, including support from more than 5,000 current Nvidia employees.
+
+## Elon Musk warns Nvidia could lose critical deals without Huang
+
+Musk reiterated his support for the former Nvidia chief in another post on X on Saturday, warning that the company could face business setbacks without his leadership. He said that without Huang, some “critical deals will be lost.” Separately, US lawmakers have sought greater scrutiny of the Megaspeed investigation, with a letter urging Commerce Secretary Howard Lutnick to appear before the House Intelligence Committee and answer questions about the matter.
+
+## Howard Lutnick and Jensen Huang asked to testify before US lawmakers
+
+Lutnick has agreed to appear before the Senate Banking Committee on December 10 to address whether the Commerce Department is “properly performing its broader role of preventing China from acquiring advanced AI chips.” Huang has also been asked to testify. The Commerce Department had initially investigated Megaspeed, but the matter was transferred to the Justice Department in 2025 after Nvidia's lawyer contacted a senior Commerce official, according to a _New York Times_ report. Separately, US President Donald Trump is scheduled to visit China on November 19, but officials say he does not intend to discuss Nvidia or the alleged espionage links during his meeting with Chinese President Xi Jinping. Musk is also expected to accompany Trump on the trip to Shenzhen for the APEC summit on November 18 and 19.
+
+**ALSO SEE: Jensen Huang's 'Nice Guy' Image Was Fake? Biographer Reveals What Nvidia Employees Knew**
+
+---
+
+### From bicycle crankshafts to satellites: Sunil Mittal's 50-year journey and his next big bet on AI
+*SECTIONS · general*
+
+New Delhi: When Sunil Bharti Mittal set up a small manufacturing unit making bicycle parts in Ludhiana in 1976, he was barely 18. Fifty years later, the founder of Bharti Enterprises is presiding over a business empire whose flagship, Bharti Airtel, has become one of the world's largest telecommunications companies.
+
+The journey from bicycle crankshafts to mobile networks, submarine cables and satellite communications has been marked by bets that often ran ahead of the market, setbacks triggered by policy changes and three major crises that Mittal describes as Bharti's "Mahabharatas".
+
+Now, as the group marks its 50th anniversary, Mittal is preparing for another transformation. He wants Airtel to evolve from a telecommunications operator into a digitally enabled technology company, with connectivity at its core and businesses spanning artificial intelligence, sovereign cloud, digital finance and satellite services.
+
+  
+
+His prescription for India's digital economy is equally expansive: higher mobile tariffs, financially stronger telecom operators, a substantial expansion of network infrastructure and greater national control over strategic communications systems.
+
+The most immediate part of that agenda concerns what consumers pay for mobile services. Mittal believes average revenue per user, or ARPU, in India should rise to about Rs 350 a month against the Rs 300 benchmark he advocated roughly a decade ago. Rising operating costs and the investment needed to expand digital infrastructure justify the higher level, he said.
+
+"Everything is up. So, 350 would be the right ARPU for our industry," Mittal told PTI in an interview.
+
+He compared the cost of mobile services with everyday purchases. "Now, you buy soap and a packet of chips. You know what it costs. Having a bottle of Pepsi costs you a lot more than that".
+
+At Rs 10-12 a day, he argued, consumers receive access not only to calls and data but also to banking, education, healthcare records, direct benefit transfers, UPI payments and entertainment. "I think you can't say that is not affordable."
+
+Airtel reported mobile ARPU of Rs 271 in the September quarter, up from Rs 256 a year earlier. Reaching Mittal's proposed level would require about a 29 per cent increase from the latest figure. The last major industry-wide tariff revision came in June 2024, when operators raised prices by around 10-25 per cent. Mittal did not give a timeline for reaching Rs 350, saying, "I don't know".
+
+## FROM A BICYCLE CRANKSHAFT TO MOBILE PHONES
+
+Mittal's first venture was a modest manufacturing operation in Ludhiana, making bicycle components for the city's established bicycle industry.
+
+"I was only 18 at that time, and I started with manufacturing, not trading in bicycle parts, which, as you know, Ludhiana is pretty famous for," he recalled.
+
+"The dream is to sort of, you know, do something, create something for yourself, make your ends meet, and get enough fuel to fire your ambitions or dreams that one has at that time and age," he said.
+
+Bicycle parts were followed by hosiery and stainless steel sheets. Mittal then moved into importing and trading products that were relatively new to Indian consumers, including portable generators, push-button telephones, cordless phones, answering machines and fax machines.
+
+"They were flying off the shelves. The margins were good," he said.
+
+But an early success also brought a lesson in the risks of doing business in India's tightly controlled economy. His portable generator business, which had become highly profitable, collapsed after the government changed its import policy.
+
+"Generator business, which was a very thriving, successful business for a few years, just went out overnight because the policy changed," he said.
+
+Having already built a business around telephone equipment, Mittal saw mobile services as the next step in communications. He had observed the development of cellular telephony in markets such as Britain and France and believed India would eventually embrace the technology, despite the high cost of handsets and services.
+
+Bharti launched Airtel's mobile services in Delhi in 1995. The market was then in its infancy, with mobile phones largely beyond the reach of ordinary consumers. An agency survey had estimated that Delhi would have only 10,000 mobile subscribers in 10 years.
+
+"I knew that was not going to be the case," Mittal said. Airtel crossed that number within its first year.
+
+Even he had not anticipated how deeply mobile phones would transform everyday life. "Nobody could have imagined" that mobile telephony would become the "fabric of everybody's lives", he said. Airtel's early slogan was "Power to keep in touch". There was not even an SMS service at the time.
+
+## THE BET ON MARKETS RIVALS QUESTIONED
+
+One of the defining decisions in Airtel's expansion was its push beyond major cities into smaller towns and difficult markets, where demand was uncertain, and network deployment was more challenging.
+
+Mittal recalled that Hutchison's then chief executive, Hashim Ghosh, questioned the strategy.
+
+"You're making a big mistake going into these places. They will not have enough demand," Ghosh told him, according to Mittal.
+
+Airtel nevertheless pursued a pan-India presence, investing in markets including Bihar, Odisha, Assam and the northeast. In some of these regions, Mittal said, the company was, for some time, the only operator.
+
+"That's what I would say gave us the scale and the confidence to keep growing the business," he said.
+
+The strategy was based on the expectation that falling tariffs and rising affordability would unlock demand well beyond affluent urban consumers. The subsequent expansion of mobile telephony across the country vindicated the decision and helped Airtel build a nationwide network.
+
+Another consequential decision concerned how the company would manage that network. When Airtel had around four to five million subscribers and wanted to expand to 25-35 million, it recognised that building all the necessary engineering, information technology and operational capabilities in-house would be difficult.
+
+Bharti vice-chairman Akhil Gupta proposed outsourcing network and IT operations to specialist vendors. The idea faced internal resistance, but Mittal backed it.
+
+The model allowed Airtel to focus on customers, marketing and business strategy, while external partners took responsibility for much of the network equipment and its management. It drew surprise and criticism from international telecom peers before becoming a reference point for other operators.
+
+"It eventually became a Harvard case study, and a lot of companies followed that model later on," Mittal said.
+
+Bharti also invested ahead of demand in long-distance networks, enterprise connectivity and submarine cable infrastructure. Mittal described the Chennai-Singapore cable, built during the tenure of Prime Minister Atal Bihari Vajpayee, as India's first such project.
+
+## THREE MAJOR BATTLES AND THE JIO DISRUPTION
+
+The expansion was not without existential challenges. Mittal has identified 2002, 2009 and 2016 as three particularly difficult periods for Bharti, describing them as the company's "Mahabharatas".
+
+The 2016 crisis coincided with Reliance Jio's entry into the market, when free introductory services and aggressive pricing triggered a price war and accelerated consolidation. Several operators exited or merged, while surviving companies faced pressure to invest in networks and retain customers.
+
+Mittal credits employees with helping Airtel withstand the disruption, recalling frontline teams engaging customers across states even as rivals offered free services.
+
+"In our case, our raw material was not the balance sheet. It was not the technology, because ultimately, it is the same technology. It was our people," he said.
+
+The upheaval left India with a far smaller number of major operators.
+
+Mittal believes the country should not return to the era when more than a dozen companies competed for subscribers.
+
+"India went too far into over a dozen operators," he said, arguing that fragmentation weakened balance sheets, divided spectrum and reduced the industry's capacity to invest.
+
+He considers three private operators, alongside state-owned BSNL, an appropriate structure for India. The comments come as Vodafone Idea continues to face financial challenges and BSNL works to rebuild its network and competitive position.
+
+Telecommunications, he said, is no longer simply a business of voice calls and data. UPI payments, banking, healthcare records, government benefit transfers, e-commerce, delivery platforms and streaming services all depend on reliable connectivity.
+
+Mittal also argued that existing networks have room to accommodate more customers and traffic.
+
+"All of us are running at 20, 30 per cent of our capacity of networks. So, we can take more traffic, we can take more customers," he said.
+
+## TELCOS SEEK A BIGGER SHARE OF DIGITAL VALUE
+
+Mittal's call for stronger operators is linked to what he sees as an imbalance in the digital economy: telecom companies bear the cost of building spectrum, towers, fibre and network infrastructure, while online platforms often command much higher valuations.
+
+"We do all the hard work, but we don't get the same valuation and the profitability that those who don't make these investments get," he said.
+
+He cited the valuations of companies such as Google, Facebook and Netflix, as well as e-commerce, quick-commerce and streaming platforms that rely on telecom networks to reach customers.
+
+The issue reflects a longstanding tension in the global telecom industry, where operators make large, recurring capital investments while much of the commercial value generated by rising internet use is captured by digital services.
+
+Mittal welcomed Reliance Jio's recent listing, saying it would bring greater investor attention and research coverage to the sector. But he said the listing had no direct bearing on Airtel's valuation, which he described as already placing it among a relatively small group of global telecom companies valued above USD 100 billion.
+
+## 5G'S REVENUE SHORTFALL AND THE NEXT TECHNOLOGY CYCLE
+
+Despite investment in next-generation networks, Mittal acknowledged that 5G has not delivered the new revenue streams operators had expected, particularly from industrial applications such as connected factories and automation.
+
+"That's been a disappointment globally," he said.
+
+The rollout has involved spectrum expenditure running into lakhs of crores of rupees across operators, with network deployment costs estimated by Mittal at another Rs 1.5 lakh crore.
+
+He nevertheless sees the investment as necessary to support future demand.
+
+The next opportunity could emerge from 6G and what he described as "sensing networks", potentially taking shape over the next three to five years.
+
+In that environment, connected glasses, rings, watches and earpods could perform functions now handled by smartphones, and networks would increasingly interact with users' artificial intelligence agents.
+
+For Airtel, the ambition is to build businesses around growing demand for connectivity and computing rather than depend principally on mobile subscriptions and tariffs.
+
+Asked what the company might look like a decade from now, Mittal said: "It will be a digitally enabled technology company where connectivity will be at its core because everything will need connectivity".
+
+The vision includes digital financial services, sovereign cloud infrastructure, AI computing, fibre connections to homes and satellite links for remote areas. Mittal believes India has the potential to develop capabilities in artificial intelligence, large language models, quantum computing and space technology.
+
+But that will require a substantial expansion of physical infrastructure.
+
+India has around 350,000 mobile towers, compared to more than one million in China, he said, arguing that the country needs to double its tower base at least. More fibre, submarine cables, satellites and AI data centres will also be required.
+
+## SATELLITES AND STRATEGIC AUTONOMY
+
+Satellite communications are another part of Mittal's strategy through Eutelsat OneWeb, in which Bharti has invested. The low-Earth-orbit network is intended to connect remote villages, forests, mountains, ships and aircraft where conventional mobile and fibre networks cannot economically reach.
+
+Mittal recalled persuading the British government to commit USD 500 million to the venture during the pandemic and said he subsequently invested USD 1 billion of his own money.
+
+He sees satellite services as complementary to terrestrial networks, rather than a substitute for them.
+
+"Where there is fibre, radio cannot compete with it. Where there is a radio, satellite cannot compete with it," he said.
+
+The commercial opportunity is only one part of the case. Mittal argues that satellite communications are increasingly important to national security, particularly as conflicts demonstrate the role of space-based connectivity in military operations.
+
+"The kill switch, as we call it, should not be sitting somewhere else.
+
+India must have control over its own space destiny," he said.
+
+He believes India needs multiple satellite providers, oversight of equipment and systems entering the country, and control over how data is routed. The position reflects growing concerns among governments about dependence on foreign-controlled communications infrastructure.
+
+Mittal said OneWeb services were functioning, with the company awaiting the final government signal to expand commercial operations. He cited the use of terminals for emergency services and recalled economic adviser Sanjeev Sanyal using one during a boat journey to Oman.
+
+## THE BUSINESSES BHARTI LEFT BEHIND
+
+Mittal's career has also involved exits from businesses that did not become central to the group's strategy. Bharti entered modern retail through a partnership with Walmart and expanded into insurance through international partnerships, but eventually stepped back from those ventures.
+
+The Walmart venture faced resistance in India and did not develop as originally envisaged.
+
+"Walmart was literally blocked out of this country," Mittal said, adding that the American retailer later returned through its acquisition of Flipkart.
+
+Bharti also sold its general insurance business to ICICI Lombard and is bringing Prudential in as a partner in life insurance.
+
+Asked whether he regretted leaving businesses behind, Mittal said: "There are no regrets. We were too busy building our telecom story".
+
+The response reflects his emphasis on concentrating capital and management attention on businesses where the group believes it can build scale.
+
+Fifty years after starting with a single bicycle component, Mittal's ambitions now extend to the infrastructure underpinning artificial intelligence, cloud computing and space-based communications. His central argument is that India's digital economy will require more investment in networks and stronger operators - even if that means consumers paying more for mobile services.
+
+The entrepreneur who once bet that mobile phones would find millions of customers beyond the major cities is now making a broader wager: that connectivity will remain the foundation of a much larger technology economy.
+
+---
+
+### Two Punjab Residents Arrested In Rajasthan Railway Track Blast Case, Pakistani Agent Link Suspected
+*Vani Mehrotra · general*
+
+Rajasthan ATS has arrested two people, including a woman, over the November 3 Sri Ganganagar railway track blast. Investigators suspect a Pakistani agent's role.
+
+[Read full article](https://www.news18.com/india/rajasthan-anupgarh-suratgarh-railway-track-blast-two-punjab-residents-arrested-pakistan-links-under-probe-ws-l-10426250.html)
+
+---
+
+### Three Hundred Automated Number Plate Recognition Cameras To Be Deployed Across Gurugram Fuel Stations To Verify Pollution Certificates
+*Arjun Brij · politics*
+
+Gurugram authorities to begin installing 300 Automated Number Plate Recognition (ANPR) cameras across petrol pumps today to monitor and enforce the 'no pollution under control certificate, no fuel' policy.
+
+District Transport Officer Sanjeev Singla confirmed the deployment marks the first phase of a technology-driven initiative to curb vehicular pollution in the city.
+
+The ANPR cameras automatically read vehicle number plates and cross-reference registration numbers with online PUC records to determine whether vehicles possess valid pollution certificates.
+
+Petrol pumps have been ordered to install warning boards prominently in both Hindi and English at entry points and fuelling areas, underlining that vehicles without PUC certificates will not be provided petrol, diesel or CNG.
+
+The 'no valid pollution under control certificate, no fuel' policy was implemented across the National Capital Region on 1 October as part of broader measures to tackle air pollution.
+
+The automated system aims to streamline enforcement and reduce reliance on manual verification at fuel stations.
+
+Driving without a PUC certificate can attract a fine of up to Rs 10,000 as per the Motor Vehicles Act.
+
+**Please click here to add** _**Swarajya**_ **as your preferred and trusted news source on Google**
+
+
+---
+
 ## 14 November 2026
 
 ### Riots in France: How anti-government protests spiraled out of control
