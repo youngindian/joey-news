@@ -1,5 +1,293 @@
 # Editorials archive — 2026-08
 
+## 16 August 2026
+
+### Not just turbulence: on the Air India aircraft incident
+*The Hindu · Editorial*
+
+The August 4, 2026, incident involving Air India flight AI 2379, from Phuket to Delhi, with 137 passengers and eight crew, now has two tracks. The first concerns its reclassification: the initial ‘event of turbulence’ is now a “serious incident” after inflight technical issues and a significant deviation in aircraft altitude caused injuries to more than 20 passengers and crew, quickly drawing in the Directorate General of Civil Aviation (DGCA). The subsequent probe by the Aircraft Accident Investigation Bureau, along with France’s investigation authority, BEA, and technical representatives from Airbus, should unravel the multiple anomalies that briefly overtook the Airbus A320N — fault warnings across the hydraulic systems, elevator flight-control faults, autopilot disconnection, emergency-exit door indications and an engine anti-ice warning. Airbus’s initial data is said to support the evidence of technical errors. However, it is the second track that has received much attention: the result of the pilot-in-command’s post-flight screening for psychoactive substances.
+
+The Tata Group-Singapore Airlines joint venture airline has been prodded into commencing the immediate and mandatory screening of its flight deck crew ‘for any substances or unprescribed medications’. But the deeply discomfiting discovery has exposed the weak link in crew screening — the greater emphasis on pre- and post-flight breathalyser checks for alcohol than on testing for psychoactive substances, which falls under the Civil Aviation Requirements (CAR) Section 5-Air Safety Series F Part V. In fact, the CAR — which applies to Air Traffic Controllers also — leans more towards random and post-flight/post-shift testing, with graded disciplinary action. With India’s air carriers expanding operations, crew citing stress-related issues, and, separately, the availability of substances for medicinal or recreational use, the regulator must ensure stringent psychoactive substance testing and operational compliance. The DGCA’s Medical Circular No. 02 of 2021, on ‘over-the-counter (OTC) drugs and self-medication’, highlights pilot cognitive/psychomotor skills impairment, drawing on the Mangaluru (2010) and Kozhikode (2020) fatal air accidents. Further, documented cases from the West reveal that even small levels of impairment can affect crew judgement, reaction time, coordination, and decision-making, the critical skills needed in the flight deck. Ensuring that fit crew are behind the controls is an aviation industry bedrock, and every Indian operator, large or growing, must uphold the highest standards. This was a lucky escape, but luck cannot be allowed to become a safety strategy.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/not-just-turbulence-on-the-air-india-aircraft-incident/article71352918.ece)
+
+---
+
+### India’s democracy needs different electoral rhythms
+*The Hindu · Opinion*
+
+The “One Nation, One Election (ONOE)” proposal (to enforce a uniform, synchronised timeline for national and State elections across India) represents a profound misapprehension of the structural mechanics of the parliamentary system, and poses an existential threat to the federal architecture designed by the framers of the Constitution.
+
+To align the distinct political rhythms of dozens of individual States with the central government, in the name of national uniformity, is to prioritise administrative convenience over democratic substance. The argument for synchronisation relies heavily on a superficial calculation of financial expenditure and an overblown narrative of governance paralysis. Yet, it ignores the fundamental constitutional friction that occurs when presidential mechanics are clumsily grafted onto a parliamentary democracy.
+
+[Read full article](https://www.thehindu.com/opinion/lead/indias-democracy-needs-different-electoral-rhythms/article71353386.ece)
+
+---
+
+### DC Edit | Curb Sale Of Unhealthy Food
+*Deccan Chronicle · Editorial*
+
+The Supreme Court’s direction to the Food Safety and Standards Authority of India (FSSAI) to implement front-of-package labelling (FOPL), a standard adopted internationally, on pre-packaged food products is a step in the right direction.
+
+If FSSAI does not act within two weeks, the apex court said it will pass necessary orders mandating FOPL. This might bring two-year-long litigation on the issue to a conclusion. The Central government has not been forthcoming in implementing FOPL in the country because traditional Indian foods tend to contain excessive amounts of sugar, salt and oil.
+
+Though the Supreme Court is right in its stand, the government’s hesitation is also understandable, especially after the flak it received two years ago for classifying samosa and jalebi as unhealthy through the oil and sugar board initiative by the National Institute of Nutrition (NIN), which was intended to help people make informed decisions.
+
+However, the government cannot escape its obligation to guide people in making the right choices merely because doing so could affect its electoral prospects. This issue assumes greater urgency because nearly 80 per cent of these packaged food products are available in the vicinity of schools, and up to 10 per cent of school-age children are overweight.
+
+The NIN initiative caused an uproar because the installation of oil and sugar boards was mandatory at all institutions and could have affected the livelihoods of lakhs of informal food vendors. The issue relating to pre-packaged foods is slightly different because consumers of these products largely come from the upper-middle and affluent classes.
+
+After implementing the court’s order, the government must engage with food experts and vendors to reinvent traditional cuisines to make them suitable for people with sedentary lifestyles. A gradual shift is acceptable, but inaction over dangerous food consumption is not expected of a responsible government.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-curb-sale-of-unhealthy-food-1979691)
+
+---
+
+### Pavan K. Varma | Students: Be Non-partisan; Stop Protests, Drive Policy
+*Deccan Chronicle · Opinion*
+
+On August 6 in Mumbai, RSS chief Mohan Bhagwat made a significant comment: “If Gen Z is protesting, they're not anti-national. They're our own people. They're our next generation.” He also said that, the grievances of Gen Z are genuine, and if asked whom he would trust, he would place his faith in Gen Z.
+
+At a time when student dissent can easily be classified as subversion, conspiracy or anti-nationalism, the RSS supremo has chosen to give the protests a remarkably generous vote of confidence.
+
+This assumes greater significance because only days earlier a senior RSS functionary, Atul Limaye, the organisation's joint general secretary, had apparently taken a markedly more suspicious view of the movement. Speaking to ABVP activists at Chhatrapati Sambhajinagar on July 30, he alleged that anti-national slogans were raised from the CJP stage and described the wider movement as an attempted “subversion of democracy through democratic means”. The distinction between the two approaches is important.
+
+Essentially, Limaye was asking who is behind the protest, while Bhagwat was asking the more fundamental question: why are the young protesting?
+
+The Cockroach Janta Party (CJP) and the larger Gen Z protest has set political parties at war with each other.
+
+The Congress blames the BJP for atrocities on the protesters in Delhi.
+
+The BJP is attacking the Congress for the violence against protesters in Jharkhand.
+
+Amidst this vociferous acrimony, Parliament was a washout.
+
+Objectively, it seems quite apparent that all political parties are trying to appropriate the youth unrest for their own political benefit. The critical question is whether this generation can escape the older mechanisms of political co-option. This would depend, of course, on how these protests develop and sustain themselves in the future. If the present unrest remains confined to individual examinations, recruitment scandals and campus grievances, it may gradually dissipate. But if disparate grievances begin to converge around a larger demand about governance and accountability of the entire political establishment, it could pose a new and real threat.
+
+The student movement did not emerge from a vacuum. The Neet examination controversy was the immediate detonator. For young Indians, competitive examinations are not merely examinations. They are often the principal gateway to a respectable career, social mobility and the fulfilment of family expectations. Years of preparation, enormous financial expenditure and intense emotional pressure are invested in them.
+
+If the sanctity of such examinations is compromised, the young do not merely lose marks. They lose faith in the promise that effort will be rewarded.
+
+That is why the agitation has acquired a significance far beyond Neet. The deeper grievances are about corruption, unemployment, police action, bureaucratic arrogance, authoritarian tendencies, and
+
+the perceived erosion of institutions. What began as a demand for fairness in an examination has become by now equally about whether the system delivers.
+
+Concerns like this cannot be lathi-charged out of existence. The students want examinations they can trust. Jobs they can compete for fairly. Institutions that are impartial. Police forces that exercise restraint. Universities where questioning is not treated as disloyalty. Governments that
+
+And elections that are fair.
+
+For decades, the political system has known how to mobilise the young through caste, religion, region and ideology. Mandal mobilised one set of identities; Mandir another. Political parties have become adept at converting social distinctions into electoral arithmetic. But what happens when a young person begins to see another student — not as a Hindu or Muslim, Brahmin or Dalit, North Indian or South Indian — but as someone confronting the same examination, the same unemployment, the same uncertainty and the same institutional failures?
+
+The really transformative possibility then is not that Gen Z will become another political party but a new political constituency. Such a constituency would be uncomfortable for everyone. It would trouble the BJP because it could not be easily absorbed into the politics of religious divides. It would trouble the Congress because the Opposition's attempt to piggyback on youth anger cannot conceal its own dynastic baggage and organisational infirmities. It would trouble regional parties because a pan-Indian youth identity could cut across carefully cultivated caste and regional loyalties.
+
+The Opposition will inevitably attempt to use the movement. That is the nature of politics. But the young should be wary of becoming the foot soldiers of parties whose own record they have every right to question. A movement that demands accountability from the government must demand it from the Opposition as well.
+
+The challenge for the young is, thus, not to exchange one form of political manipulation for another, but to see themselves...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/pavan-k-varma-students-be-non-partisan-stop-protests-drive-policy-1979519)
+
+---
+
+### SANJAYOVACHA | Zhu Rongji And His Role In Rise Of 21st Century China | Sanjaya Baru
+*Deccan Chronicle · Opinion*
+
+During my first visit to China in the early 1990s I was taken around a village across the river from Shanghai and told that this area would one day become a modern metropolis. Viewing all the plans that I was shown, I returned to write a column titled “A Manhattan of the East”. The plans were for nothing less.
+
+Revisiting Pudong across the Shanghai bund a decade later, I stood in awe of the transformation planned and executed within a decade. In April 2001 leaders from around the world arrived in Pudong New District to attend the Asia-Pacific Economic Cooperation (Apec) summit meeting.
+
+The man who was placed in charge of the transformation of Shanghai by Deng Xiaoping, the architect of China’s modernisation and globalisation, died last week at the age of 98. To an Indian unfamiliar with China’s recent history, Zhu Rongji would be best described as a combination of Manmohan Singh, P. Chidambaram and Montek Singh Ahluwalia, all put together, for his contribution to China’s economic transformation. From the late 1980s till the early 2000s, Zhu Rongji was responsible for a wide range of national policy initiatives including trade liberalisation, fiscal stabilisation and privatisation of state-owned enterprises.
+
+Equally, Zhu was responsible for the transformation of Shanghai from a colonised port town through which British imperialists pushed opium to dope and enslave a nation into Asia’s Manhattan, a bustling globalised metropolis. Zhu was able to do more for Shanghai in a decade then what a half a dozen chief ministers have been able to do so far for a city like Hyderabad.
+
+Trained to be an economist, Zhu joined the faculty of economics at Tsinghua University. Like many intellectuals and members of the Communist Party of China, Zhu had also been forced to quit his job and go to a village to work as a labourer during the Cultural Revolution. At the end of the Mao Zedong era Zhu, like Deng and hundreds of others, was rehabilitated and allowed to return to his earlier profession.
+
+As Deng’s biographer Ezra Vogel records in his monumental tome, Deng Xiaoping and the Transformation of China: “Deng had known Zhu in Beijing earlier, when Zhu had been deputy head of the State Economic Commission, and Deng recognised that he was a rare talent who combined bold political leadership skills, a strategic understanding of how to improve the economy, and an unusual confidence in pursuing reforms.”
+
+Returning from a visit to Shanghai in February 1990, Deng had told China’s Prime Minister Li Peng to prioritise the development of that port city and suggested that Zhu be made responsible for this task. As Vogel records, Deng told Prime Minister Li and Chinese President Jiang Zemin: “Why do people support us? Because over the last ten years our economy has been developing… If the economy stagnated for five years or developed only at a slow rate …. What effects would be produced? This would be not only an economic problem but also a political one.” He then went on to speak about the need for sustained economic reform and ended by observing: “It is of prime importance to develop Shanghai. That city is a trump card.”
+
+The man who monetised that trump card was Zhu. He was then named governor of the People’s Bank of China, during which term he was required to manage the consequences of the Asian financial crisis of 1997-98. China’s regional and global financial profile grew as a consequence. In 1998, Zhu succeeded Li as Prime Minister and in his five-year term (1998-2003) he undertook wide-ranging economic and fiscal reforms at home and oversaw China’s entry into the World Trade Organisation.
+
+If Deng was the political and intellectual architect of post-Mao China, Zhu was the technocrat who attended to the details. It is not surprising that Zhu’s obituaries have appeared across the world duly noting his contribution to the modernisation and globalisation of the Chinese economy.
+
+In an essay I wrote on “Henry Kissinger and the Selling of China” in a volume I co-edited titled, A New Cold War: Henry Kissinger and the Rise of China, I discuss in detail the bargaining that went on between the United States and China for China’s admission into the World Trade Organisation.
+
+With Kissinger’s support on the US side, Zhu played a key role in persuading the Clinton administration to agree to China’s admission into the WTO, a decision that accelerated China’s rise as a global trading superpower.
+
+As I record in my 2021 essay, Kissinger played an important role in convincing the US leadership at the turn of the century that the US ought to treat China as a “normal trading” nation and agree to its entry into the World Trade Organisation. The US and China were at the time in the midst of negotiations on the terms of that entry.
+
+Kissinger lent his weight to China’s admission stating that China’s membership of the WTO “should be in the interest of China, of the United States and of the world community”.
+
+Kissinger concluded his address stating: “I ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjayovacha-zhu-rongji-and-his-role-in-rise-of-21st-century-china-sanjaya-baru-1979696)
+
+---
+
+### Shreya Sen-Handley | Battle Won, Who Might The Roaches Bite Next?
+*Deccan Chronicle · Opinion*
+
+When you were little, and from an Anglicised clan such as mine, you might’ve heard chimed, “Night, night, don’t let the bed bugs bite”, as you were put to bed at slumber-time.
+
+But if bugs can bite, I remember questioning, did they have the necessary dental apparatus? The masses of mosquitoes in the monsoons, certainly left enough red welts on tender skin, to make a child imagine bloodthirsty fangs sinking into them after dark.
+
+If a part of my childhood was spent in the mosquito-infested gullies of Kolkata, however, the other half was in typhoon-tossed Manila, which was as mosquito-free as it was cockroach-crammed! The horror everyone evinced for those creepy-crawlies was only outdone by the protective zeal demonstrated by our dog, lunging behind sofas in pursuit as if weapon-wielding thugees had suddenly sprung up, leading me to wonder which was the more fearsome; the winged vampires, aka mossies, of my early years, or the indestructible cockroach swarms of my tween era.
+
+The answer to this question was revealed just last month, when India’s youth, labelled cockroaches by the Chief Justice, proudly, and with tongue firmly in cheek, embraced the appellation to take on the might of the incumbent authoritarian Indian government and WIN against them (perhaps only temporarily, as the aftermath is proving, but that doesn’t diminish what they managed to achieve, or their courageous resilience). Gen Z showed Gen X (and the Boomers, undoubtedly; architects of so much that’s wrong with the world today) how to hold power to account and make it pay (if only lightly, this time). They proved that ordinary citizens need not be toothless.
+
+Talking of teeth, our household’s been particularly toothsome these last few weeks. With my son’s braces being fitted, we’ve grown long in the tooth from sitting about in dentists’ and orthodontists’ waiting rooms.
+
+Both my son and daughter have inherited my healthy (haven’t had a cavity yet, and I’m in my fifties — hooray!) but unusually large and crooked teeth. They also have their father’s British genes to contend with, which doesn’t confer the strongest or whitest teeth.
+
+But if the British were as unconcerned about their teeth as American jokes make them out to be, dentists’ lobbies would not be heaving. It’s true that in the past, Brits could be rendered toothless as early as their thirties, so poor was their dental DNA, not to mention their hygiene. Was that why they were so attached to their cannon balls and muskets, you ruminate (as it would be a tad rude to ask anyone else), because nature supplied them with feeble natural defences?
+
+In the present, however, it is Americans who have firearms as appendages, and a teeth-burnishing obsession that leave them resembling Mister Ed (I know, I know, I’m a glass-house dweller if ever there was one!), awaiting the cleansing of the Augean stables. Even vanilla Friends satirised this slice of Americana, by having socially-awkward Ross whiten his teeth to a dusk-busting fluorescence, but only the degree of dazzle was spotlighted.
+
+If it’s sharp social commentary we want, Zadie Smith’s White Teeth has a great deal more bite. Published at the start of this century, with an Asian family central to the story, the political and racial landscape she digs into incisively, isn’t wildly different from the one we inhabit now.
+
+Walking along Belgrave road in Leicester a few weekends ago, eyeballing its large, colourful Bombay film murals (Rishi Kapoor and Dimple in Bobby gracing a pink backdrop, Sridevi peeking from behind bangles in an iconic eighties stance, and the sensuous Rekha from Umrao Jaan following you with her eyes), gleaming gold jewellery in shiny showrooms, and shimmering sarees in big and small family stores, as we breathed in the fragrances emanating from the rows of Indian restaurants dominating the neighbourhood, I was heartened that such a place existed in Britain, nor was it alone, but also fearful that the resurgence of overt, and often violent, racism might spell the end for these rare blossoms of British cosmopolitanism.
+
+The point is not that all of Blighty should look like this, not remotely, but that the Britain of the green and pleasant locales I love deeply — the tranquil tarns and tors of the Lake Poets, Shakespeare performed in bowering rose gardens, and golden Cotswold cottages — does, in fact, fit beautifully with the drama of Asian-flavoured oases, each enriching the other rather than tarnishing their unique resplendence. And this is true of anywhere on earth, delights of every hue and heritage only add to the magnificence of a place!
+
+But the world is increasingly more determinedly narrow-minded, and more brazenly confrontational as well. Consequently, never have I been more anxious about the future of Britain’s multi-ethnic, multicultural youth than today. They’ve always faced many more obstacles than their white counterparts, but racist practices were covert in the recent past, and in some quarters, frowned ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shreya-sen-handley-battle-won-who-might-the-roaches-bite-next-1979522)
+
+---
+
+### Gen AI’s epochal music moment
+*Deccan Herald · Opinion*
+
+Over the past few weeks, I subscribed to three AI music generation platforms and dabbled in them to understand what they can do. Their capabilities are staggering and represent a watershed moment in history. We are perhaps at the juncture where generative AI could do to musicians what the power loom did to weavers, printing did to calligraphers, and photography did to painters.
+
+What we regarded as the highest accomplishment of human evolution – the ability to create and play music – now looks like child’s play. Musicians have likely arrived at a most difficult crossroads in history, when all the values they regarded as eternal suddenly look meaningless. The long years of discipline and rigour it took to master an instrument and train a voice look redundant. The eclectic listening a composer invested looks like nothing compared to what a machine can scan and learn from. Collaborations make little sense when all you need to do for a change of genre is change your prompt from K-pop to swing jazz to ‘80s Bollywood.
+
+Walter Pater famously said, “All art constantly aspires to the condition of music,” placing it above writing, painting, and sculpture. That is the aura now in jeopardy. Anyone with a phone and zero knowledge of poetry and music can create music.
+
+Suno is the most popular app in the new world of AI music generation. What it can pull off is unprecedented and mind-boggling – all you do is give it a text prompt, and it can write lyrics, make a tune, arrange the orchestra, and deliver a song in less than a minute. You can tweak the lyrics, change the genre, and get another version, again within a minute. And you can continue generating version after version, changing the voice, changing the style, and altering the lyrics. Ace Studio has a steeper learning curve; Fadr began as an AI mastering platform and recently introduced a song remixing feature. Google’s Flow Music, which does not ask for a subscription, has some catching up to do with the competition.
+
+The first few songs that I got Suno to do sounded so rich they sounded right out of big-budget film and pop albums. Someone I know who listens to music all day in a professional capacity said he could easily distinguish between human recordings and AI songs, but non-specialists won’t get there in a hurry. You might assume the machines would be far from comfortable in Indian languages. No. What Suno can render in Kannada, for example, is convincing. The pronunciation gives you no room to complain. I can’t say the same of the Kannada lyrics, though. What AI generates sounds like a silly mish-mash of recent film songs.
+
+Karnataka CM DK Shivakumar unveils ‘Jobs Mission’, AI varsity and tech hubs in 80th I-Day addressLaunched in December 2023 by a four-member team of machine-learning researchers in Massachusetts, it is now in Version 5.5. One of its latest features is that it can clone your voice with 10 seconds of audio and then generate songs using your voice. It has run into legal problems, with Universal Music Group and Sony Music suing it for copyright infringement in training its models. Suno is navigating those choppy waters by getting into licensing arrangements.
+
+The implications for professional musicians are wide. If film scores, songs, jingles, and session vocals are all made on an app, what is left for the singers and instrumentalists to do? What happens to the music producers, sound engineers, and studios? And if you are in the business of music reviewing, how do you tell what is machine-generated and what is human? And on a philosophical level, what is truth in music? What should music teachers, schools, and conservatories teach?
+
+Earlier advances in music technology – the synths created new sounds, multitrack sequencers enabled one person to play many instruments, auto-tune corrected what a singer sang, and the Digital Audio Workstation (DAW) put a studio on a laptop – did not eliminate the musician. But generative AI is different, as it seeks to replace the musician with a description.
+
+Like weaving, painting, and calligraphy, live music will not go away, but technology is aggressively redrawing its contours. Musicians will use AI to sketch out ideas faster, combine their tunes with AI arrangements, and make music without visiting a studio. Live performances, especially improvisational music, could acquire new audiences. Who knows, we could find fresh virtue in human imperfection and value the human pursuit a little more.
+
+The writer often sees high art in kitsch and vice versa. Write to us at: theprism@deccanherald.co.in
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/gen-ai-s-epochal-music-moment-4112788)
+
+---
+
+### Looking for equality in the past
+*Deccan Herald · Opinion*
+
+A conference I organised recently at Vidyashilp University discussed nineteenth- and twentieth-century Indian thinkers of equality. Exciting as this intellectual exercise was, I was a bit uneasy that its focus on the modern period might reinforce the prevailing view that equality was a modern ideal. While the view that all humans are equal and whose rights and freedoms are secured by the state did gain worldwide currency following the French Revolution, other moral imaginations of equality have existed before and since.
+
+For instance, a Kannada verse of Devara Dasimayya, the twelfth-century weaver poet-saint, affirms that the self (atman) is neither male nor female: “If they see breasts and long hair coming/ they call it woman/ if beard and whiskers/ they call it man:/ but, look, the self that hovers/ in between/ is neither man/ nor woman/ O Ramanatha” (Translator: AK Ramanujan).
+
+M D Pallavi, the well-known singer and actor, offered to set to music and sing the verses I selected as embodying different visions of equality in a concert. (Opening the conference, Atmageete, a minimalist vocal-and-acoustic-guitar concert, saw her move brilliantly among enchanting voices from different languages, periods, and regions of the country). I rummaged through English translations of a few celebrated Bhakti saint-poets. Rather than imaginations of equality that conformed to what we take to be equality today, I looked for verses that affirmed a desire for equality in their own times.
+
+Rejecting all human rulers, a Tamil verse by Nammalvar, a ninth-century saint-poet, declares Vishnu to be the only lord: “My lord of a thousand names gives and gives/ the fame of his giving crosses all boundaries/ I cannot praise anyone else, cannot say to some paltry thing of this world: ‘Your hand is bounteous as the rain/ Your shoulders are as strong as the mountains.’/ I cannot tell such barefaced lies” (Translator: AK Ramanujan).
+
+A verse by Lal Ded, the fourteenth-century Saiva woman saint-poet from Kashmir, observes that the sun shines on all lands, not only on the rich, and that water flows in every home, and concludes that Shiva is difficult to attain.
+
+Found in the Guru Granth Sahib, a verse by Ravidas, the fifteenth-century saint-poet and worshipper of a formless God, dreams of a city free of pain, crime, and taxes, where no one owns property, and all are one, without anyone being ranked second or third. A verse by Mirabai, the sixteenth-century saint-poet and devotee of Krishna, extols Shabari, a poor, ragged Bhil woman of ordinary appearance, whose loving devotion to Ram—who saw no one as high or low—led him to accept the fruits she had already tasted to check for their sweetness.
+
+Space of equality cannot be converted into an arena of caste humiliation: Karnataka HCFor Bulleh Shah, the eighteenth-century Punjabi Sufi poet, true devotion brought a transcendence of all binaries. After declaring himself neither hungry nor full, neither naked nor clothed, neither a sinner nor a virtuous man, neither sad nor happy, he says: “The mind fixed on God leaves behind the duality of Hindu and Turk.” (Translator: Christopher Shackle).
+
+Vemana, the seventeenth-century Telugu saint-poet, refutes untouchability by showing it to be illogical: “When the pariah touches you/ you plunge into water/ When you depart to the cremation ground/ the pariah burns your body/ The filth that touched you then/ Where did it go now.” (Translators: J S R L Narayana Moorty and Elliot Roberts).
+
+Equality does not only concern humans. Composed by Narayana Guru, the nineteenth-century philosopher-saint from Kerala, Jiva Karunya Panchakam (Five Verses on Kindness to Life) opens with this verse: “All are born of the same Self/ there is no other way to say it;/ how then can we kill living beings/ and eat them with least pity.” (Translator: Vinaya Chaitanya).
+
+These so-called spiritual verses have had real-world consequences; for instance, they have seen the emergence of new communities of faith.
+
+The verses above are indeed anchored in differing theological visions: Saivism, Vaishnavism, and Sufi Islam. Are we obliged to accept these worldviews fully before engaging their moral poetry? Are we merely flirting with the latter otherwise? Knowing the philosophical foundations of these verses doubtless enriches the appreciation of their depth and texture. But the verses can exude a moral force even otherwise, stirring our ethical and aesthetic instincts in unexpected ways. My mother’s lesson that the left hand should not know what the right hand gives has stayed with me since childhood. The later realisation that what I had taken to be a Kannada saying had its origins in a Biblical injunction was important to me, but it did not take away from what it had meant to me all along. And then there is the question: did the saint-poets compose only for their followers? Surely not.
+
+The writer is a Vidyashilp Professor who looks for new ways of looking. Write to us at: theprism@deccanherald.co.in
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/looking-for-equality-in-the-past-4112790)
+
+---
+
+### Egoistic encounters paralyse Parliament
+*The New Indian Express · Opinion*
+
+A healthy democracy rests on three essential Ds: dialogue, debate and deliberation. After which a fourth D, decision, must follow, whether by majority or consensus. The purpose of the first three is not to prevent the fourth, but to ensure that when a decision is finally taken, it has been tested against competing arguments and subjected to public scrutiny. The cardinal principle of a robust democratic architecture is well settled. The opposition must have its say. The government must have its way.
+
+India is just killing this spirit. The just-concluded monsoon session exposed the malaise. Eleven Bills were passed by both the Houses. Seven of them received five minutes or less of discussion in the Lok Sabha, a total of 28 minutes. Nine of the 11 were passed with no member speaking except the minister in charge.
+
+The last day of the session captured the decline perfectly. Prime Minister Narendra Modi was present. Home Minister Amit Shah was present after weeks of opposition demand that he answer questions about police action against students. The Leader of the Opposition Rahul Gandhi and senior colleagues were present, too. Yet the House could not turn that gathering into a debate.
+
+Outside, rival groups of MPs staged protests against each other. Inside, slogans drowned speech until the Speaker adjourned the House sine die. The exchange between the Home Minister and the Opposition was revealing. He offered a full debate and said he was ready to answer questions. The opposition rejected the government’s terms and insisted on its own.
+
+The LOP later said sustained pressure on the Prime Minister and home minister was the only way to enforce accountability. The government accused the opposition of running away from debate. Both claims may have served short-term politics. Together they showed that the middle ground where negotiation once happened has almost vanished. Personal style has sharpened the problem.
+
+On the other hand, the LOP chose open confrontation as a tool of effective resistance. But these instruments become dangerous when firmness hardens into refusal to give an inch and political combat replaces the work of the House. An older generation of political managers understood the difference between election season and parliamentary season.
+
+Men such as Pramod Mahajan, Kamal Nath and Ghulam Nabi Azad could fight hard in public and still strike deals in private because they knew the other side also had pressures to meet. Their task was not only to defend their own side but to keep the House working despite disagreement. That skill of quiet persuasion is just missing in the current leadership of all the parties.
+
+Today, the language is more combative. A minister’s challenge to the LOP to face the home minister in the House turned the issue into a contest over who was running away, rather than a search for a way to let the House function. The opposition cannot escape its share of blame. Its duty is to question and expose. Disruption is not a substitute for that duty. The credible and the stronger option for Rahul was to allow the home minister to speak without setting any preconditions. And then dismantle the answers with facts and evidence.
+
+The government carries equal responsibility to run the house. A majority is a mandate to govern, not a licence to treat the opposition as a nuisance. A strong leader should be willing to be questioned and examined for legislative and administrative actions. The opposition has no right to veto the government’s programme, yet it has every right to insist that Bills be debated and tested before numbers are used to pass them.
+
+Unfortunately, numbers have been used as a weapon to silence contrary opinions for long. Numerical advantage has been weaponised by all ruling parties to curtail sittings. The decline did not begin with the present government. The 13th Lok Sabha sat for 356 days, the 14th for 332, the 15th for 357 and the 16th for 331. The 17th sat for only 274 days, the lowest for any full term. The 15th Lok Sabha alone lost 803 hours to disruptions. When it sits for fewer days, loses hours to chaos and sends fewer Bills for detailed study, Executive power expands by default.
+
+The formal checks on the misuse of powers by both the government and opposition remain on paper, leading to a total collapse of the principle of participatory democracy. The same pattern appears in the states, where many legislatures meet for fewer than 50 days a year. Elections alone do not keep a democracy healthy. Legislatures need time, authority and seriousness if they are to question those who govern.
+
+The remedy is not to weaken the government or to let the opposition freeze it. India needs a return to the politics of give-and-take: concede a little on procedure to gain substance, allow the other side its argument so that one’s own can be stronger. That is not soft politics. It is the practical grammar of parliamentary narrative.
+
+Powerful personalities must remember the difference between personal authority and institutional legitimacy. Elections reward mobilisation. Parliament requires negotiation. Ruling alliances or Prime Ministers cannot treat the House as a mere extension of their electoral triumph. The opposition cannot treat disruption as the main proof of accountability.
+
+The visible erosion of parliamentary dialogue can lead to a much dangerous pushback from civil society. Once citizens conclude that Parliament cannot settle political fights, they will look elsewhere, to the streets and extra-parliamentary confrontations. The political class still has time to reverse the slide. The government must talk before confrontation lead to calamitous outcomes. The opposition must question without stopping the House.
+
+India does not need a Parliament free of conflict. It needs one able to turn differences into debate, debate into deliberation, and deliberation into decisions that carry consensual legitimacy. After 79 years of independence, Indians expect civilised conflicts between an ideology and an alternative ideology, between leaders led by convictions, not conveniences. Egoistic encounters shouldn’t be allowed to inflict an unbearable pain of parliamentary paralysis.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Aug/15/egoistic-encounters-paralyse-parliament)
+
+---
+
+### Case for 850 MPs, record of 543 MPs, nine Bills, no debate
+*The New Indian Express · Opinion*
+
+Updated on: 15 Aug 2026, 7:20 pm4 min readCopiedParliament’s monsoon session was adjourned sine die on Thursday. In 19 sittings it passed 11 Bills. Ten of them took a combined 64 minutes on the floor of the Lok Sabha. In the case of nine Bills, only the piloting minister spoke and there was no debate. Question Hour in the Lower House functioned for 9 minutes across the entire session—1 percent of the time allotted—and of 380 questions listed for oral answer, two were answered.
+
+That damning record brings into focus the quest to ramp up the number of MPs. Ironically, the one Bill the government could not move this session was the one aimed at expanding Parliament—the Delimitation Bill, 2026, which would raise the Lok Sabha from 543 seats to 850, mired in a swamp of politics and arithmetic.
+
+The case for enlargement rests on the claim that smaller constituencies equal closer representation, and that closer representation means better governance. The first half of the proposition is arithmetic. The second is an empirical claim—and the weakest plank in a package carrying a great deal more than it advertises.
+
+Begin with what an additional member could actually do. The 7th Schedule places defence, foreign affairs, currency, banking and railways with the Union, and public order, police, public health, agriculture, land and local government with the states. The Tenth Schedule disqualifies a member who votes contrary to the direction of his party. Intervention is limited by the political placard of the day—the number of calling attention and adjournment motions this session: zero.
+
+Expansion of political representation is widely believed to improve governance via highly localised constituencies. The presumption of better outcomes is debatable. Veda Narasimhan and Jeffrey Weaver studied 12 lakh hyperlocal representatives across 1.5 lakh local governments (panchayats). The conclusion: “We find precisely estimated null effects” on core functions, including programme delivery and oversight over public finances. Another meta analysis of legislature size and public spending, led by Danilo Freire and published in the British Journal of Political Science, found “no robust evidence” that legislature size moves government budgets in either direction.
+
+The thesis of higher representation is challenged by studies and by the anatomy of governance. Every parliament session sees ministers weave and dodge accountability for poor services. The standard formulation: health, education, law and order, cities, water, agriculture, land, labour permits are state subjects. The addition of 307 MPs will not change outcomes. They will put the same question 307 times and get the same reply.
+
+Legislative power is backed by spending power. Last year, the states cumulatively spent Rs 63.54 lakh crore, much more than the Rs 50.65 lakh crore targeted by the Union. This year, the Union government is expected to spend over Rs 53.47 lakh crore. The biggest allocations are for subjects under the purview of states. Indeed, most of the 191 major schemes—including 29 PM-linked schemes with allocations of over Rs 4 lakh crore—are subjects listed under the states.
+
+This week girl, students at schools in Lucknow, Alwar, Kannauj and Ujjain were out on the streets—in one case, the students locked themselves in their classrooms—seeking better conditions and more teachers. Last week, this column had highlighted that despite claims of 100 percent electrification, over 73,000 schools have no electricity.
+
+In the 80th year of independence, over a lakh schools with 29 lakh students are single-teacher ones. Across primary healthcare centres and community centres, the positions for 9,765 doctors, 5,223 specialists, 1,910 radiographers, 8,976 pharmacists, 8,979 lab technicians and 21,843 nurses are vacant.
+
+Almost every misery haunting the life and livelihood of citizens must be cured by the states. The missing constable, the run-down primary health centre, the teacher-less government school, the chaos in land records, vacant posts, the problem of contaminated water, slums in towns, the flooding in cities, tanker mafia thriving on poor water supply, silt and litter in municipal towns are all List II or List III.
+
+The case for 850 MPs flies in the face of the track record of the 543 who are there. The authors of the Constitution had vested powers with the central government to scaffold the Union and empowered the states to deliver development. The trouble is that the key to power is vested in appropriation of resources. Successive Union governments pushed through amendments—the worst being the 42nd—and virtually colonised the states. Policy is designed in Delhi and implementation is with the states. The locus of poor governance is the divorce of authority and accountability.
+
+There is no disputing that Indians need better representation. The question is where—the need for representation is far greater at ground zero. What would be the necessary and sufficient conditions? India’s next phase of growth depends on structural reforms. Start with reversal of the 42nd Amendment and restoration of the 7th Schedule to the original format Babasaheb Ambedkar and Alladi Krishnaswami Iyer had envisaged.
+
+Delhi is scarcely the repository of wisdom—every major reform and welfare idea has come from the states. Empower the third tier of government with funds, functions and functionaries. Only when that foundation is in place does the argument for more representatives, at any tier, acquire legitimacy.
+
+The US has not changed the size of its House of Representatives since 1913, capping it at 435, nor of its Senate since 1959, though its population has trebled. The oldest democracy and largest economy has not needed numerical optics. The addition of MPs without structural reforms may address the political deficit, but not the development deficit. Representation is not a number. It is power. What is on offer is the number.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Aug/15/case-for-850-mps-record-of-543-mps-nine-bills-no-debate)
+
+---
+
 ## 15 August 2026
 
 ### House in disorder: On the monsoon session of Parliament
