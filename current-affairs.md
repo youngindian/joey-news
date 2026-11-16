@@ -1,3 +1,433 @@
+## 16 November 2026
+
+### 'Don't Lecture Them': Giorgia Meloni's Party Leader Defends India's Democracy Amid 'Vote Chor' Row
+*Mallika Soni · general*
+
+Italian politician Deborah Bergamini's remarks came after Giacomo Filibeck addressed Bharat Summit and endorsed Rahul Gandhi's campaign for clean and transparent electoral rolls.
+
+[Read full article](https://www.news18.com/india/dont-lecture-them-giorgia-melonis-party-leader-defends-indias-democracy-amid-vote-chor-row-ws-l-10427260.html)
+
+---
+
+### ‘Not Democracy, Rahul Gandhi’s Brain Is Dead’: BJP Launches Scathing Attack On Congress’s ‘Anti-Bharat Summit’
+*Manjiri Joshi · general*
+
+“Rahul Gandhi is clapping, looks visibly happy, and starts laughing...We all want to know how much money was spent on criticising and speaking against India," says Gaurav Bhatia
+
+[Read full article](https://www.news18.com/india/not-democracy-rahul-gandhis-brain-is-dead-bjp-launches-scathing-attack-on-congresss-anti-bharat-summit-ws-klt-10427231.html)
+
+---
+
+### AI-driven cyberattacks drive higher cybersecurity spending, says Mphasis CEO
+*Reuters · business*
+
+Mphasis CEO Nitin Rakesh says companies are increasing cybersecurity investments as AI makes cyberattacks more sophisticated, faster and cheaper. | Photo Credit: cueapi
+
+Blackstone-backed Mphasis said companies globally are increasing cybersecurity spending in the race to strengthen their defences, CEO Nitin Rakesh told Reuters, as AI enables increasingly sophisticated attacks that are faster and cheaper.
+
+Banks and insurers are leading the increase in cybersecurity spending, aided by larger technology budgets and regulatory requirements, while retailers and consumer firms are also stepping up investments to protect customer data, Rakesh said last week, without providing figures.
+
+The comments follow a record $6.3 billion theft from cryptocurrency exchange Binance last month, in which hackers used social engineering and compromised AI tools, highlighting the growing complexity of cyber threats.
+
+Against that backdrop, companies are stepping up cybersecurity spending as AI makes attacks faster and cheaper and increases the number of vulnerabilities they must address.
+
+## AI-driven attacks push up data breach costs
+
+IBM’s 2026 Cost of a Data Breach report underscored the trend, finding AI-driven attacks rose 56% from a year earlier, while the global average cost of a data breach climbed 12% to nearly $5 million.
+
+A 
+
+## Companies turn to AI to detect vulnerabilities
+
+Rakesh said clients were increasingly investing in identity and access controls covering employees, software accounts and automated agents, while also using AI to detect and fix vulnerabilities.
+
+While threat detection is already heavily automated, fixing vulnerabilities still requires significant manual work, he said.
+
+“You can’t really throw people at that problem because you won’t be able to keep up with the volume that is required in the time-frame that you need to fix those patches,” Rakesh said.
+
+Published on November 16, 2026
+
+---
+
+### Va Tech Wabag bets on data centres, semiconductor fabs for next leg of growth; company drafting five-year plan
+*Sindhu Hariharan · business*
+
+Rajiv Mittal, Chairman and Managing Director, VA Tech WABAG Limited | Photo Credit: JOTHI RAMALINGAM B
+
+Pure play water technology major VA Tech Wabag sees India’s burgeoning data centre, renewable and semiconductor manufacturing ecosystem as high-tech sectors where Wabag’s R&D and project implementation strengths can add value.
+
+The company has set up a dedicated business vertical to cater to the water requirements of these sunrise industries and has been initiating discussions with potential customers, Rajiv Mittal, chairman and MD, Va Tech Wabag, told _businessline_ in an interaction.
+
+“Data centre and renewable energy especially are of interest, where we already have some orders. We also have about half a dozen orders in the pipeline too. I wouldn’t consider it a topline-heavy business but with our long-term expertise we are well poised to replace other smaller players as a reliable partner to supply necessary water on site,” he said.
+
+Va Tech Wabag, he adds, sees opportunity to enable data centres to transition from air-based cooling to water-based cooling systems through the supply of reliable and affordable recycled water.
+
+## Next five-year plan in progress
+
+Interestingly, Wabag has also started working on its next five-year strategic plan, called Wriddhi 2.0, which it plans to unveil at its annual investor meeting in May 2027.
+
+“Our earlier plan -Wriddhi 1.0- is applicable up to March 2027. So, we are working on a new growth strategy which we plan to take to our Board in February and then to the investors,” Mittal told _businessline_, adding that some of these sunrise sectors will find a place in their future growth strategy.
+
+Bhupesh Chowdary Nagineni, the deputy MD, told analysts in an earnings call last week that the company is working on aligning its organisational and business structure, strengthening internal capabilities and upgrading employee skills to support its next phase of growth.
+
+## The Middle East situation
+
+With Middle East being a major revenue geography for the company, Mittal also acknowledged the commodity pricing and the disturbances in that region as a headwind for supply chain management.
+
+“While all the projects under execution are on time and there is disturbance in operation per se, we are facing supply chain hiccups. Our teams are spending each day finding alternate routes and as each route we find gets congested, we move on to discovering another alternative, he said, talking of the need for companies to be dynamic and flexible in the current crisis.
+
+## Strong order pipeline
+
+In the earnings call, the company noted that it remains bullish on its traditional water infrastructure business, with the company expecting strong order inflows over the next 12–18 months. Wabag’s order book crossed the ₹20,000-crore mark as of September.
+
+“We are very hopeful the next 12-18 months is going to be a bumper order intake for us,” Mittal told analysts, adding that the company is working towards achieving preferred bidder status for a substantial pipeline of projects over the next one or two quarters.
+
+Wabag is seeing renewed traction in Europe, where business activity had remained subdued in the past. The CIS region is also a focus, and Africa, meanwhile, is emerging as an underserved market.
+
+In India, the company told analysts it is witnessing enquiries from Gujarat, Maharashtra, Andhra Pradesh and Tamil Nadu across desalination, sewage treatment and industrial wastewater treatment projects.
+
+## Future-proofing
+
+When asked about the next leadership cohort, the company said it is working on succession planning through a combination of grooming internal talent and lateral hiring while exploring artificial intelligence platforms to make its technical knowledge repository more accessible to employees.
+
+Mittal’s son Rohan Mittal, who has been in the business for nine years, is currently handling the Middle East, GCC and Africa regions.
+
+Published on November 16, 2026
+
+---
+
+### BYD, Toyota, Honda lead SUV-EV offensive as dealers slash prices
+*Amit Vijay Mohile · business*
+
+BYD’s Denza, Toyota’s next-generation Fortuner, Honda’s ALPHA electric SUV, JSW Motors’ Combat SUV and Mahindra’s upcoming models are spearheading a post-festive product offensive aimed at sustaining passenger-vehicle sales through FY27. With indicative prices ranging from ₹20 lakh to over ₹1 crore, automakers are betting on premium SUVs and electrification even as dealers prepare steep December discounts to clear ageing inventory.
+
+## Premium EV push
+
+BYD’s premium Denza marque, that debuted in India on November 13. Potential introductions include the seven-seat D9 electric MPV and the Z9 GT shooting brake. The D9 is a 115 kWh battery pack paired with a single electric motor. The power output stands at 456bhp and 365Nm, sending power to the front wheels, with a claimed range of 730km on a single charge. Priced at ₹90 lakh, it would compete with the MG M9 and Toyota Vellfire. The 1,156-hp Z9 GT could be priced at over ₹1 crore.
+
+MINI’s new Cooper SE, scheduled for launch on November 27 alongside the Paul Smith Edition, features a 54.2-kWh battery, 218 hp and a claimed WLTP range of 402 km, up from around 270 km in the previous generation. Indicative pricing is pegged at ₹50-55 lakh.
+
+## SUV offensive
+
+Toyota’s Innova Hycross facelift is expected on November 25, followed by a proposed flex-fuel Innova event on November 26. Its next-generation Fortuner is scheduled for a global unveiling on December 1, with an India launch expected in 2027 at an indicative price of ₹40-60 lakh.
+
+Honda’s ALPHA, the company’s first made-in-India electric SUV, is scheduled for a global debut on December 2. Planned for production at its Tapukara facility in Rajasthan, industry estimates suggest a 60-75-kWh battery pack and pricing in the ₹20-30 lakh range, positioning it against the Hyundai Creta Electric and Maruti Suzuki e Vitara.
+
+JSW Motors is expected to unveil its Jetour T2-based Combat SUV on December 4. International plug-in hybrid variants offer claimed electric-only ranges of around 90-160 km, depending on the test cycle, and a combined driving range exceeding 1,000 km. Planned for assembly at Chhatrapati Sambhajinagar, Maharashtra, the model is expected to be priced between ₹25 lakh and ₹35 lakh.
+
+Volkswagen’s refreshed Virtus is reportedly due on December 11. Hyundai’s compact EV could follow in January or February, while Tata’s Avinya and Kia’s next-generation Sonet are expected to arrive in 2027.
+
+## Mahindra’s FY27-FY28 runway
+
+Mahindra has scheduled events for December 8, January 11-12 and January 18-19, though details remain under wraps.
+
+Its separately announced product pipeline for the first half of 2027 includes a NU\_IQ-based model, a new electric SUV, an SUV refresh, the Scorpio Lifestyler pickup and a light commercial vehicle.
+
+The pickup is expected by April 2027, while Mahindra is expanding monthly SUV and electric SUV production capacity to 82,000 units by March to support its next phase of growth.
+
+## December discount battle
+
+The arrival of new models could intensify pressure on dealers to clear existing inventory. According to Puneet Gupta of S&P Global Mobility, discounts are expected to peak in December as dealers prepare for the calendar-year transition.
+
+Incentives currently extend to ₹6 lakh on select older Volkswagen Tiguan models, ₹2.7 lakh on 2025-built Taiguns and ₹1.66 lakh on the Virtus. Tata Motors is offering discounts of up to ₹3.35 lakh on select Curvv EV variants and ₹2.75 lakh on the Harrier EV. Maruti Suzuki’s Victoris and Grand Vitara hybrids carry benefits of up to ₹1.5 lakh, while Hyundai’s Creta is available with offers of up to ₹1.2 lakh. Incentives on the Nexon EV remain relatively modest at around ₹45,000.
+
+For buyers, the divergence presents a choice between significant savings on existing inventory and paying a premium for the latest designs, technologies and powertrains.
+
+## Growth versus inventory
+
+FADA data show passenger-vehicle retail sales rose 16.41 per cent year-on-year to 30.68 lakh units during April-October. However, October registrations declined 14.23 per cent to 507,768 units, partly due to Diwali shifting from October in 2025 to November in 2026.
+
+Dealers are currently carrying 43-45 days of inventory, while October wholesale dispatches were estimated at 5.25-5.3 lakh vehicles.
+
+For carmakers, the challenge is twofold: clearing existing inventory without eroding margins and converting upcoming launches into showroom deliveries before the end of the fiscal year. How effectively they manage that balance will determine whether festive-season momentum extends through FY27 and provides a stronger foundation for FY28.
+
+Published on November 16, 2026
+
+---
+
+### Italian Politician In ‘Vote Chor’ Row Entered India On Conference Visa: Government Sources | News18
+*News · general*
+
+A fresh controversy has emerged over Italian politician Giacomo Filibeck's participation in the Bharat Summit 2026 in Hyderabad. Filibeck entered India on a conference e-visa, bringing his remarks at the Congress-backed event under scrutiny.Government sources have said that foreign nationals are not...
+
+[Read full article](https://www.news18.com/videos/breaking-news/italian-politician-in-vote-chor-row-entered-india-on-conference-visa-government-sources-news18-10427272.html)
+
+---
+
+### India hosts 62nd International Coconut Community meeting in Kochi
+*BL Kochi Bureau · business*
+
+Kochi will host the 62nd Session and Ministerial Meeting of the International Coconut Community from November 17 to 20.
+
+India is hosting the 62nd Session and Ministerial Meeting of the International Coconut Community (ICC) from November 17 to 20 at Courtyard by Marriott, Kochi Infopark.
+
+The international event is being jointly organised by the Coconut Development Board, Ministry of Agriculture and Farmers Welfare, and the International Coconut Community (ICC), Jakarta, Indonesia.
+
+Ram Nath Thakur, Union Minister of State for Agriculture and Farmers Welfare, will inaugurate the programme and Atish Chandra, Secretary, Agriculture, will deliver the presidential address.
+
+Anthony Muller, Minister of Natural Resources and Commerce, Marshall Islands; Tangriki Reete, Associate Minister of Tourism, Commerce, Industry and Cooperatives, Kiribati; and H.E. Aiolupotea Misa Tony Aiolupo, Associate Minister of Agriculture and Fisheries, Samoa will speak.
+
+## International platform for coconut-producing countries
+
+Established in 1969 under the aegis of the United Nations Economic and Social Commission for Asia and the Pacific (UN-ESCAP), the International Coconut Community is an intergovernmental organisation comprising coconut-producing countries. It provides a common platform for member countries to deliberate on issues concerning the development of the global coconut sector, promote cooperation and partnerships, and explore opportunities for the sustainable growth of the coconut industry.
+
+## Focus on cooperation and sustainable growth
+
+The four-day Session and Ministerial Meeting will provide an important opportunity for member countries to deliberate on key issues in the global coconut industry, share experiences and best practices, strengthen international cooperation, and explore collaborative approaches to address emerging challenges and opportunities in the sector.
+
+The meeting is expected to facilitate greater cooperation among coconut-producing countries and strengthen collective efforts towards the sustainable development of the global coconut industry, a press release said.
+
+e.o.m.
+
+Published on November 16, 2026
+
+---
+
+### MOMENT: Pope Leo rides in helicopter cockpit with Peruvian Air Force pilots
+*ET Online · business*
+
+Pope Leo XIV shared a helicopter cockpit with the Peruvian Air Force (FAP) pilots who flew him by chopper on Saturday (November 14), the FAP said in a Facebook post. The pope, originally from Chicago, lived for about 20 years in Peru as a missionary and holds US and Peruvian citizenship.
+
+[Read full article](https://economictimes.indiatimes.com/news/international/world-news/moment-pope-leo-rides-in-helicopter-cockpit-with-peruvian-air-force-pilots/videoshow/135875156.cms)
+
+---
+
+### Signing As A Loan Guarantor? Here's How It Can Impact Your Finances
+*Ankita Verma · business*
+
+Learn how a borrower's missed EMIs can hurt your CIBIL score and block your own loans.
+
+[Read full article](https://www.news18.com/photogallery/business/banking-finance/loan-guarantor-rules-risks-cibil-score-impact-ws-l-10427059.html)
+
+---
+
+### Carolina Hurricanes Become First NHL Team This Season To Achieve Impressive Scoring Feat
+*Unknown · sports*
+
+The Carolina Hurricanes became the first NHL team this season with four players scoring 10 or more goals, reaching the milestone after sweeping the Seattle Kraken in the NHL Global Series in Helsinki, Finland.
+
+[Read full article](https://sports.ndtv.com/us/nhl/carolina-hurricanes-become-first-nhl-team-this-season-to-achieve-impressive-scoring-feat-12332297)
+
+---
+
+### Falling Crude Prices, Stronger Rupee & More: Why FPI Inflows Are Breaking Records After Months Of Outflows
+*Pragati Ratti · business*
+
+The scale of the reversal has surprised market participants, with foreign investors bringing in around $7.5 billion in the first 10 trading sessions of November.
+
+[Read full article](https://www.news18.com/business/economy/falling-crude-prices-stronger-rupee-more-why-fpi-inflows-are-breaking-records-after-months-of-outflows-ws-l-10427224.html)
+
+---
+
+### Good Brothers Pay Tribute To Former WWE Star Pac After His Tragic Death
+*Unknown · sports*
+
+Doc Gallows and Karl Anderson remember late AEW star Pac on their Talk N' Shop podcast. Gallows revisits WWE's controversial tryout decision, while Anderson recalls the conversation that revealed Pac's desire to leave the company.
+
+[Read full article](https://sports.ndtv.com/us/wwe/good-brothers-pay-tribute-to-former-wwe-star-pac-after-his-tragic-death-12332289)
+
+---
+
+### Kaynes Technology shares hit 52-week low after Q2 profit falls 62%
+*BL Mumbai Bureau · business*
+
+Kaynes Technology shares hit a fresh 52-week low after the electronics manufacturing services company reported a sharp decline in Q2 FY27 profit.
+
+Shares of Kaynes Technology India Limited crashed to a fresh 52-week low of ₹2,744 on the NSE on Monday morning, before recovering slightly to trade around ₹3,003 — still down 12.45 per cent from Friday’s close of ₹3,430. The electronics manufacturing services (EMS) firm, listed in November 2022, has shed over 52 per cent in the past year and touched its lowest level since listing, with today’s intraday low marking a new 52-week bottom. Traded volume crossed 57.93 lakh shares by mid-morning, with a traded value of ₹1,679.58 crore, reflecting heavy selling pressure. Market capitalisation stood at approximately ₹20,335 crore.
+
+The selloff follows Q2 FY27 results reported the previous trading day, which came in sharply below street estimates. Motilal Oswal, maintaining a Buy rating with a CMP of ₹3,421 at the time of its note, flagged that consolidated revenue grew just 4 per cent year-on-year to ₹9.5 billion against an estimate of ₹10.3 billion. EBITDA fell 16 per cent YoY to ₹1.3 billion, missing the ₹1.6 billion estimate, with EBITDA margins contracting 320 basis points to 13.2 per cent against an estimate of 15.5 per cent. Adjusted PAT declined 62 per cent YoY to ₹454 million, well short of the ₹799 million estimate. For the first half of FY27, adjusted PAT dropped 50 per cent to ₹965 million despite a 20 per cent revenue uptick.
+
+The brokerage also flagged a deteriorating balance sheet, with gross debt rising to ₹18 billion from ₹14 billion as of March 2026. However, operating cash outflow narrowed to ₹2.8 billion from ₹4 billion a year earlier.
+
+The company’s investor presentation points to surging finance costs—up 191 per cent YoY in Q2—and a near-doubling of depreciation expenses as new facilities come online, including the Kaynes Circuits PCB plant that began trial production on October 1. Gross margins contracted 140 basis points to 32 per cent, pressured by elevated raw material and employee costs. The order book, however, expanded to ₹1,05,635 million, providing some visibility on future revenue.
+
+Published on November 16, 2026
+
+---
+
+### Sri Lanka’s Lakdhanavi wins $75 million contract to build 57 MW power plant in Andaman
+*PTI · business*
+
+##### SENSEX   81,942.77
+
++ 350.32
+
+##### GOLD   134,806.00
+
+ -1,899.00
+
+##### SILVER   169,937.00
+
+ -6,372.00
+
+##### SENSEX   81,942.77
+
++ 350.32
+
+##### GOLD   134,806.00
+
+ -1,899.00
+
+1.  Home 
+2.  Companies 
+
+## The project, awarded by India’s NTPC, will be located at Hope Town in Port Blair and is expected to strengthen electricity infrastructure and energy security in the islands.
+
+Updated - November 16, 2026 at 11:55 AM.
+
+A Sri Lankan company secured a USD 75 million contract to build a 57 MW power plant in the Andaman and Nicobar Islands, it said on Monday.
+
+Lakdhanavi signed an agreement for the project with India's NTPC on September 21.
+
+“The project will be located at Hope Town, Port Blair and is expected to strengthen the island’s electricity infrastructure, enable long-term energy security through LNG infrastructure and facilitate future economic development,” the company said in a statement.
+
+It added that the venture reflected economic ties between Sri Lanka and India and extended beyond Indian investment and development assistance that had always been the cornerstone of the economic ties between the two nations.
+
+“Lakdhanavi’s success demonstrates that opportunities can arise in both directions and that Sri Lankan companies should pursue them with diligence,” it said.
+
+Lakdhanavi is a subsidiary of LTL Holdings, Sri Lanka's largest power sector company, with interests in power generation, transmission and distribution.
+
+Published on November 16, 2026
+
+THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.
+
+THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.
+
+---
+
+### ULA's Vulcan rocket fails 10 minutes after launch, 40 Amazon satellites lost
+*India Today Science Desk · general*
+
+## United Launch Alliance's Vulcan rocket failed 10 minutes into flight, destroying 40 Amazon Leo internet satellites. Here is the science behind what may have gone wrong.
+
+ULA's Vulcan rocket lifts off from Space Launch Complex 41 at Cape Canaveral, Florida, on November 15, 2026. (Photo: ULA)
+
+New Delhi,Nov 16, 2026 11:48 IST
+
+For ten minutes, everything seemed to go right. Then a rocket carrying 40 internet satellites fell silent over the Atlantic, and with it ended a two-decade run without a single total failure.
+
+United Launch Alliance's (ULA) Vulcan rocket lifted off from Space Launch Complex 41 at Cape Canaveral, Florida, at 12:40 pm EST on November 15 (11:10 pm IST) with 40 Amazon Leo broadband satellites. About 10 minutes into the flight, the rocket suffered an anomaly and "failed to deliver the Amazon mission to orbit," ULA said in a statement.
+
+It is the first total mission failure in the history of ULA, the joint venture formed by Boeing and Lockheed Martin in 2006.
+
+### WHAT WENT WRONG?
+
+ULA says it does not yet know. "Since the anomaly just occurred, we don't have any specific data yet to understand what occurred today," the company said.
+
+The flight was Vulcan's fifth, and its first in nine months. Its six solid rocket boosters, strap-on motors that give the extra push at liftoff, burned out and separated normally about 1 minute 40 seconds into the flight. That matters, because a booster nozzle burned through and fell off on two earlier flights.
+
+> BREAKING: The Vulcan Rocket of United Launch Alliance (Lockheed Martin and Boeing) suffered total mission failure minutes after launch All 40 Amazon Leo satellites onboard were destroyed https://t.co/NskOOy8uAW— Exec Sum (@exec\_sum) November 16, 2026
+
+The trouble appeared later. Flight telemetry, the stream of data a rocket sends back to the ground, showed the core stage's two BE-4 engines burning longer than planned.
+
+Separation from the upper stage, called the Centaur, also came later than expected. The Centaur then made unusual orientation adjustments early in its planned 12-minute burn, before the mission was lost.
+
+### WHY DOES A FEW SECONDS MATTER?
+
+To stay in low Earth orbit, a satellite must travel sideways at about 28,000 km per hour, or 7.8 km per second. Fall short, and gravity pulls it back.
+
+If the first stage pushes less than it should, the rocket spends longer climbing against gravity instead of picking up speed. Engineers call this gravity loss. The upper stage then has to make up the deficit, and it carries only a limited amount of fuel.
+
+The Centaur burns liquid hydrogen at minus 253 degrees Celsius with liquid oxygen at minus 183 degrees.
+
+### WHY ARE THE ENGINES UNDER SCRUTINY?
+
+The BE-4 engines, built by Blue Origin, burn liquefied methane and liquid oxygen. In May, a Blue Origin New Glenn rocket exploded during a ground test, a failure traced to the main oxygen valve on one of its BE-4 engines.
+
+Blue Origin then modified the valves on Vulcan's engines. This was their first flight since the retrofit. Investigators have not linked the valve to Sunday's failure.
+
+### WHAT DOES IT MEAN FOR AMAZON?
+
+Amazon Leo, formerly Project Kuiper, is Amazon's planned network of more than 3,200 satellites, built to beam internet from space and compete with SpaceX's Starlink. About 400 had reached space before this launch. This was the first of 38 Vulcan launches Amazon has booked.
+
+ULA said it will work with Amazon to find the cause and "return to flight as quickly as possible."
+
+\- Ends
+
+---
+
+### India's exports jump 29.9% in October: Which sectors stole the show?
+*India Today Business Desk · general*
+
+## India's total exports of goods and services rose 29.90% year-on-year to an estimated $89.99 billion in October 2026, compared with $69.27 billion in the same month last year, according to data released by the Ministry of Commerce and Industry on November 13.
+
+Industrial factory and indian rupee product boxes. Investment in expansion of production. Support manufactures. National economy, domestic production of goods. Logistic transportation.
+
+New Delhi,Nov 16, 2026 11:47 IST
+
+India's export performance got a major boost in October, with shipments of everything from petroleum products and electronic goods to gems and jewellery seeing a sharp rise. The jump comes at a time when global trade remains challenging, raising an important question: which industries are powering India's export growth?
+
+India's total exports of goods and services rose 29.90% year-on-year to an estimated $89.99 billion in October 2026, compared with $69.27 billion in the same month last year, according to data released by the Ministry of Commerce and Industry on November 13.
+
+However, imports also increased during the month, rising 16.58% to $110.07 billion from $94.42 billion a year ago. This pushed the overall trade deficit to $20.09 billion in October, compared with $25.15 billion in October 2025.
+
+The growth in exports was supported by strong performances across several merchandise categories, particularly petroleum products, electronic goods, gems and jewellery, chemicals and engineering goods.
+
+### PETROLEUM PRODUCTS, ELECTRONICS LEAD THE EXPORT SURGE
+
+Petroleum products emerged as one of the biggest drivers of India's merchandise export growth in October. Exports from this category jumped 140.21% to $8.89 billion, compared with $3.70 billion in October last year.
+
+Electronic goods also recorded a strong performance, with exports rising 62.70% to $6.64 billion from $4.08 billion a year ago. The increase highlights the growing contribution of electronics to India's export basket.
+
+Gems and jewellery exports increased 40.06% to $3.21 billion, compared with $2.29 billion in October 2025.
+
+Chemicals and engineering goods also contributed to the rise. Exports of organic and inorganic chemicals grew 36.20% to $2.89 billion, while engineering goods exports increased 36.01% to $12.74 billion from $9.37 billion a year ago.
+
+Engineering goods remained the largest contributor among these major export categories in terms of value.
+
+### OTHER SECTORS ALSO REPORT STRONG GROWTH
+
+The rise in exports was not limited to the five major categories. Several other industries also recorded healthy growth during October.
+
+Exports of other cereals increased 87.47%, while oil meals rose 85.55%. Handicrafts, excluding handmade carpets, recorded growth of 55.22%.
+
+Cereal preparations and miscellaneous processed food items saw exports increase 37.40%, while plastics and linoleum products registered growth of 36.28%.
+
+Meat, dairy and poultry products also performed well, with exports rising 34.87%. Jute manufacturing products, including floor coverings, recorded growth of 30.59%.
+
+Textile exports showed an improvement too. Cotton yarn, fabrics and made-ups registered growth of 29.96%, while man-made yarn and fabrics increased 23.89%. Readymade garments of all textiles recorded a 20.33% rise.
+
+Other categories, including tea, carpets, rice, marine products, leather goods and pharmaceuticals, also reported positive export growth.
+
+### WHERE IS INDIA'S EXPORT GROWTH COMING FROM?
+
+A closer look at India's export destinations shows that several major markets recorded an increase in purchases of Indian goods.
+
+In October, exports to the US increased 39.25% compared with the same month last year. Shipments to Spain recorded a much sharper rise of 352.07%, while exports to Singapore increased 139.10%.
+
+Malaysia also emerged as a strong market, with exports rising 280.72%. Shipments to China increased 48.15%.
+
+For the April-October period, the US continued to be an important export destination, with shipments growing 14.48%. Exports to Singapore rose 107.50%, while those to Malaysia increased 106.87%.
+
+Shipments to Spain and China also recorded strong growth of 88.38% and 37.71%, respectively.
+
+### EXPORTS RISE 16.66% DURING APRIL-OCTOBER
+
+The strong October performance also contributed to a healthy increase in India's cumulative exports during the first seven months of the financial year.
+
+Total exports of merchandise and services during April-October 2026-27 are estimated at $568.84 billion, compared with $487.59 billion during the corresponding period last year. This represents growth of 16.66%.
+
+Merchandise exports increased 21.96% to $309.06 billion from $253.40 billion. Non-petroleum exports also remained strong, rising 18.01% to $259.22 billion during the period.
+
+Services exports, meanwhile, are estimated to have grown 10.93% during April-October 2026-27. Their value stood at $259.78 billion, compared with $234.18 billion in the corresponding period last year.
+
+However, imports have also been rising. Total imports during April-October increased 16% to $662.19 billion, compared with $570.84 billion a year ago.
+
+This resulted in a cumulative trade deficit of $93.35 billion, higher than the $83.25 billion recorded during April-October 2025-26.
+
+The October export figures point to a broad-based improvement in India's overseas shipments, with petroleum products, electronics, engineering goods and gems and jewellery making significant contributions.
+
+The growth in non-petroleum exports is also worth watching, as it indicates that the improvement is not entirely dependent on petroleum shipments.
+
+At the same time, the increase in imports means the overall trade deficit remains an important concern. Whether export growth can remain strong in the coming months will depend on demand in key overseas markets, global trade conditions and the performance of India's major export industries.
+
+For now, the October numbers offer an encouraging sign for India's exporters, with several industries contributing to the country's rising presence in global markets.
+
+\- Ends
+
+
+---
+
 ## 15 November 2026
 
 ### Breakthrough In Fight Against Diabetes? IIT Kanpur Researchers Find Immune Cell 'Off Switch' For Insulin
