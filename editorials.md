@@ -1,10 +1,338 @@
 # Editorials
 
-_Last updated: 2026-11-15 08:17 UTC_
+_Last updated: 2026-11-16 08:26 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 16 November 2026
+
+### India’s green law needs baselines, not snapshots
+*The Hindu · Opinion*
+
+On August 22 the Supreme Court set aside the National Green Tribunal’s judgment of December 2017, which had held the organisers of the World Culture Festival responsible for damage to the Yamuna floodplain. The festival ran from March 11 to 13, 2016, on 25 hectares of active floodplain upstream of the DND flyway in Delhi, on land allotted by the Delhi Development Authority, which holds that floodplain in trust for the public. The appellant was Vyakti Vikas Kendra India, which runs the Art of Living International Centre. The Authority must now refund the ₹5 crore the organisers deposited as environmental compensation.
+
+The proposition on which the judgment rests deserves defending. The polluter pays principle presupposes a polluter. Liability for ecological harm must attach to the party to whom that harm is attributable, and not to whoever happens to be in occupation when the reckoning is finally attempted. A doctrine that operates without attribution forfeits the moral authority on which its severity depends. The difficulty lies in what the reasoning does with uncertainty, and that difficulty will outlive this case.
+
+[Read full article](https://www.thehindu.com/opinion/lead/indias-green-law-needs-baselines-not-snapshots/article71704654.ece)
+
+---
+
+### DC Edit | SP Sees Momentum Amid BJP Challenges, Cong Wish
+*Deccan Chronicle · Editorial*
+
+The Uttar Pradesh Assembly elections are due in three-to-four months but the major players in the state’s political arena are facing powerful internal strife that have the power to down their prospects in the largest Indian state. The chances of victory appear to depend on the ability of the formations to set their respective houses in order, in time.
+
+The ruling BJP is holding a two-day brainstorming session from Monday to assess its strengths and weaknesses ahead of the crucial elections with the participation of all its senior leaders. Union home minister and master strategist Amit Shah will play a crucial role in devising the schemes for the party as he knows the terrain as the back of his palm; he has been visiting the state on a regular basis in the last few months to see that the party won a hattrick term in the state which sends 80 members to the Lok Sabha and 31 to the Rajya Sabha. The party has made early moves to ensure that the Rashtriya Swayamsevak Sangh (RSS) is on board unlike in the 2024 Lok Sabha elections which saw the lack of synergy delivering a disastrous result. The RSS has moved in early on this time to ensure that the allegations of massive theft in the Ram temple did not blunt the BJP’s chances in the polls. The Sangh Parivar organisations are in total sync when it comes to booth level coordination and in micro-managing poll preparations.
+
+A curious and potentially dangerous element the BJP faces in the state is the lethargy of the grassroots workers. Its central leadership is in receipt of the complaints that the party cadres have become inactive; they are ‘sitting at home’, refusing to share the enthusiasm of the leadership. Allegations of the loyal party workers being sidelined for new-comers, the government’s over-dependence on the bureaucracy and petty differences at local levels have drained the cadre of their energy which must be at its peak ahead of the elections. If the results of the elections to the legislative council — the BJP won six of the 11 seats while the SP bagged five — are any indication, then the BJP will have to do its homework properly if it is to repeat its performances in 2017 and 2022.
+
+The Samajwadi Party which leads the INDIA bloc in the state has many an element to look forward to, including the sense of anti-incumbency, the alleged scam around the Ram temple and the disillusionment in the BJP rank and file. The results of the election to the legislative council have come as a shot in the arm for the party which still has a solid vote base on which it can weave a success story. However, the Congress, the minor ally of the party in the state, is in no mood to concede the space the SP ought to have: it has been consistently making a demand that it must get 180-200 of the total 403 seats to contest. That its vote share in the state hit a double digit several elections ago has not deterred the Congress from making unrealistic claims when the alliance has a chance this time around. The Opposition bloc will also have to contend with the mega-plans of the AIMIM to contest the elections, which could, in all likelihood, cut into its vote share. Its chances depend on how the SP manages its unrealistic ally, the Congress, and how it can lessen the impact of the vote-cutter AIMIM in alliance with Chandrashekhar Azad’s Aazad Samaj Party.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sp-sees-momentum-amid-bjp-challenges-cong-wish-2004747)
+
+---
+
+### MBBS rush meets economic reality
+*Deccan Herald · Editorial*
+
+For decades, a medical college seat was regarded as the ultimate passport to prestige, social status, and financial security. However, recent admission cycles in Karnataka tell a different story. About 50 NRI and management-quota MBBS seats in private medical colleges remained vacant even after special counselling, forcing institutions to slash fees by up to half.
+
+The era when families were willing to pay almost any price for a medical degree appears to be ending.
+
+A major reason for the softening demand is Karnataka’s decision to introduce NRI seats in government medical colleges in 2025-2026 and double their number this year. These seats carry annual fees of around Rs 25 lakh, far below the Rs 45 lakh-plus charged by many private colleges.
+
+Adding to the pressure, private institutions have historically faced allegations of collecting hefty capitation fees in cash. Families are also becoming more realistic about the economics of medical education, where meaningful financial returns often come only after years of additional training.
+
+With opportunities in AI, finance, law, and entrepreneurship offering quicker and often more lucrative rewards, medicine is no longer viewed as the only pathway to a secure and prosperous career.
+
+Despite 4 extended rounds of counselling, 191 MBBS seats vacant in stateThe problem, however, is not merely one of pricing, but of policy. The medical education system remains tied to a capital-intensive regulatory model.
+
+The National Medical Commission requires colleges to maintain extensive infrastructure, prescribed faculty strength, and attached teaching hospitals, creating enormous fixed costs that are ultimately passed on to students.
+
+Unlike the United Kingdom, where medical schools commonly train students through affiliations with existing public hospitals, India largely requires colleges to establish and maintain their own teaching hospitals.
+
+This results in costly duplication, even as accredited private hospitals with substantial clinical infrastructure could serve as training partners, reducing costs without compromising quality.
+
+The answer is not more standalone colleges, but smarter expansion by decoupling medical education from real-estate-heavy hospital construction. India should scale up brownfield public-private partnerships linking new medical colleges to district hospitals and permitting accredited private hospitals with adequate patient loads to serve as teaching affiliates.
+
+Such a model would expand capacity while avoiding unnecessary infrastructure costs. Rural distribution can improve through scholarships, fee support, and financial incentives for doctors serving underserved areas, rather than relying solely on compulsory bonds.
+
+Finally, outcome-based regulation, backed by a robust National Exit Test (NExT), could ensure that graduates from different institutions meet common standards of clinical competence. India needs more doctors, but it needs a system that trains them affordably, distributes them more equitably, and safeguards quality through outcomes rather than infrastructure alone.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/mbbs-rush-meets-economic-reality-4219471)
+
+---
+
+### Personal choices, public consequences
+*Deccan Herald · Editorial*
+
+The Jensen Huang story is about romantic relationships, personal indiscretion, professional misconduct, workplace ethics, corporate fortunes and accountability, international espionage, and national security.
+
+Elements of all these themes are present, but it is the last two that have attracted global attention, even though the allegations are yet to be conclusively proved.
+
+The spectacular downfall of one of the most pivotal figures in the Artificial Intelligence (AI) ecosystem touches many chords and brings together many intertwined narratives. The co-founder and CEO of Nvidia, one of the world’s most valuable companies that controls over 80% of the global AI chip market, resigned after reports emerged of multiple extramarital relationships.
+
+The most damning was the relationship with a businesswoman, Alice Huang, who is alleged to be a Chinese spy. It has been alleged that this relationship may have enabled Chinese companies to access Nvidia’s chips that are otherwise banned from being sold to China. Reports also link Alice Huang to businesses that benefited Nvidia’s competitors.
+
+The Nvidia affair: Secret agent in the age of AIJensen Huang is not the first corporate leader to become embroiled in matters relating to workplace ethics and misconduct of this nature. Some have quit; others have survived. But Jensen Huang is different because of the size and value of his company and his iconic stature within the technology industry.
+
+Nvidia lost billions of dollars in market value after his resignation, although its business remains secure because of its dominant position. The market reaction nevertheless exposes Nvidia’s dependence on him, illustrating what is called ‘key man risk’.
+
+Jensen Huang failed to build a hierarchical managerial structure that would have made succession easier. The company must now find a leader capable of guiding it through the uncertainty created by his exit.
+
+The national security angle is key to the controversy. Nvidia’s board has initiated an independent investigation into the allegations and said that it did not believe that national security or corporate secrets were compromised. Investigations by State agencies are also underway.
+
+There are questions about the failure of the US Commerce Department and Secretary Howard Lutnick to act on intelligence reports about Alice Huang. US President Donald Trump has said that he does not believe the espionage charges and has supported Jensen Huang.
+
+While many aspects of the scandal remain unclear and require further scrutiny, it should serve as a warning to leaders in public life, not just corporate executives, about the consequences of personal conduct. It also offers important lessons in corporate governance.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/personal-choices-public-consequences-4219470)
+
+---
+
+### Judicial transfers must not come at the cost of speedy justice
+*Deccan Herald · Opinion*
+
+Every experienced lawyer knows the moment. A bench has heard your case for months and understood the facts. Then the roster changes, or the judge is transferred or elevated, and the new judge asks to hear the matter afresh.
+
+On October 9, the Bombay High Court began hearing challenges to Maharashtra’s 10% Maratha reservation law afresh, for the third time since 2024. The previous bench sat for nearly 20 hearings, and the petitioners and the State had finished their arguments, before its presiding judge was elevated. In Bengaluru, the Gauri Lankesh murder trial, which began in 2022, came before its eighth presiding judge this October.
+
+The two situations differ. A new high court bench may need to hear arguments afresh, while a successor trial judge can generally rely on evidence already recorded. But both raise the same question: how do courts preserve progress when the judge hearing a matter moves on?
+
+A problem wider than the courts
+
+Transfers and retirements are part of any institution, and no judge should be expected to refuse an elevation over an unfinished matter.
+
+The difficulty goes beyond the judiciary. Hospital staff trained on specialised equipment are transferred, and the equipment lies unused. In the private sector, a project leader’s departure triggers a handover: the successor is briefed, and the outgoing person stays available. Lawyers about to join the bench conclude their matters or hand them to colleagues. Courts need the same discipline.
+
+Indian courts are courts of record, and the system assumes a new judge can read the file and catch up. Often, the file is not enough. Pleadings, evidence, and orders rarely show which questions were explored at a hearing or which arguments have been dealt with. In a long-running criminal matter, years can pass in summons, bail, and preliminary applications before the trial gathers pace. A new judge should not have to reconstruct that history from scattered file entries.
+
+When delay becomes an advantage
+
+The longer a case runs, the more exposed it is to changes on the bench. So, the most important reform is also the simplest: cases should not take so many years.
+
+Lawyers also know that different judges approach the same issue differently. In a long case, one side often benefits from prolonging matters until the roster changes, while the other pushes for a quick hearing.
+
+Courts cannot turn history into an alibi: Why delays undermine disability rightsParties deserve a fair chance to present their case, but a slow system turns delay itself into a litigation strategy.
+
+For a business trying to recover money or enforce a contract, each extra hearing postpones a commercial decision and adds to legal costs. But speed alone is not justice: the quality of legal reasoning matters equally, and a judgment that skips legal safeguards risks being overturned on appeal, adding another round of proceedings.
+
+Build a system that remembers
+
+First, shorten timelines. A case that ends quickly passes through fewer judges. But speed must come with quality: a quick judgment that skips legal requirements will simply be set aside on appeal.
+
+Second, build a shared knowledge system for judges. Justice should not depend on the individual resources or expertise of each judge or lawyer. Large law firms back their lawyers with research teams and knowledge databases. The judiciary should have the same support. The narrower the gap between one judge and the next, the less a change of bench matters.
+
+Third, keep a better record of hearings. Courts can now produce searchable transcripts and summaries of what was argued and which issues remain open. AI tools can help prepare these, much as they now produce meeting minutes. Such records must be checked for accuracy, shared with the parties where appropriate and protected in sensitive cases. They should help an incoming judge understand the case, not replace the judge’s duty to hear and decide it.
+
+Courts should also plan transitions. When a transfer or elevation is known in advance, a handover period would let a judge avoid starting long new hearings, finish what can be completed, and leave a note of what remains.
+
+We cannot remove every difference in how judges think. We can reduce how much justice depends on who happens to be on the bench. A change of judge should be an administrative transition, not a reason for a case to lose years of progress.
+
+Anand Prasad is Senior Partner at AP & Partners, Co-Founder of Trilegal, and author of Unshackling the Elephant. (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/judicial-transfers-must-not-come-at-the-cost-of-speedy-justice-4219716)
+
+---
+
+### Karnataka Finance Commission reforms need elected councils to work
+*Deccan Herald · Opinion*
+
+The Karnataka government has finally decided to implement the Fifth State Finance Commission (5th SFC) recommendations to improve the functioning of urban local self-governments (ULSGs) “in keeping with the spirit of the 74th Constitutional Amendment” (74th Constitutional Amendment).
+
+Guidelines are to be framed for ULSGs to “implement public needs from the grassroots” through ward sabhas into the state Budget for implementing the ‘People’s Plan’.
+
+But this is slightly ambitious considering that, across Karnataka, 13 of the 18 city corporations, including all five under the Greater Bengaluru Governance Act (GBGA), are running without an elected council.
+
+This has resulted in BBMP alone losing Rs. 964 crore during the XV Union Finance Commission (UFC) period; and though the XVI UFC has allocated approximately Rs 3,700 crore annually for Karnataka’s ULSGs, two-thirds of them risk losing these grants because local elections have not been held.
+
+Chikkamagaluru GPs in fix without grants under 15th Finance CommissionOf the allocated SFC grants, very little remains for new priorities, as a large share is consumed by Guarantee Schemes, salaries, etc., as explained in a Janaagraha report.
+
+In the absence of ULGs, there are no ward committees or Area Sabhas to do the people’s planning. The Area Sabhas (parallel bodies to the Grama Sabhas in rural areas), mandated in the Karnataka Municipal Corporations (KMC) Act, are not constituted anywhere except in Mangaluru, and even there they are non-functional. The GBGA has done away with the Area Sabhas altogether.
+
+Within the 5th SFC report itself, there appears to be a disconnect between the in-depth situational analyses and what the 5th SFC ultimately recommends. It says that its approach is to achieve “Economic Development and Social Justice”, the chief function of ULSGs as mandated by the 74th CA.
+
+It details the state’s initiatives for localising the achievement of Sustainable Development Goals (SDGs) by local governments, which, if adopted, would go a long way toward fulfilling the 74th CA goals.
+
+The 5th SFC has, in fact, made the suggestion to the XVI Union Finance Commission (UFC) that gaps/distance in attainment of SDG goals, Human Development Indicators (HDI), magnitude of Multi-Dimensional Poverty, etc. should be the alternative devolution criteria to be adopted by the XVI UFC while deciding the resource transfers from the Union to the states.
+
+However, the levels of SDGs and Multi—Dimensional Poverty are not mentioned as criteria that the SFC itself will adopt for devolution of funds to the LSGs. It adopts the four criteria – population, area, SC/ST and slum population for devolution to ULSGs, which do not completely fulfil the criteria required to fulfil the chief aim of the 74th CA.
+
+A reason for this failure may lie in the fact that, under the list of 18 functions to be devolved to ULSGs — as per the 12th Schedule under the 74th CA — “planning for economic and social development” itself and other important functions are categorised in the Karnataka laws as only “discretionary functions” of ULSGs, which the SFC seems not to have contested.
+
+Thus, ULSGs focus predominantly only on roads, drains, garbage, etc. If the SFC had recommended that these functions be made ‘obligatory’ and made this a conditionality for devolution of SFC’s funds to ULSGs, along with suitable ‘Activity Mapping’ of these responsibilities between the state and ULSGs, the long-delayed achievement of the 74th CA aims could have been expedited.
+
+Rural LSGs at least have a mechanism to achieve the true aim of the 73rd Amendment through the mandated ‘Mission Antyodaya’ by the Union Ministry of Rural Development. SDG achievement by the grassroots bodies is built into it. It requires framing a five-year Gram Panchayat Development Plan (GPDP) through household surveys of citizens’ needs and assessment of social, physical, and environmental levels through Panchayat Advancement Indices.
+
+A desirable recommendation of the 5th SFC to the state government could have been to extend ‘Mission Antyodaya’ and SDG localisation to ULSGs, enabling bottom-up planning by Area Sabhas and Ward Committees as envisaged for PRIs.
+
+The questionnaire set by the 5th SFC to assess ULSGs is mostly limited to collecting data on how much of the grant money was utilised. The questionnaire should have asked for statistics on outcomes achieved on specific indicators, as per the Performance Management System and Outcome-Based Planning measures already mandated for the PRIs.
+
+Linking SFC grants to achieving outcomes against targets would have incentivised LSGs to perform better.
+
+The 5th SFC has recommended that funds to LSGs should not be withheld by the UFCs if elections have not been held for them, as it is not the fault of LSGs if state governments have failed to hold elections for them.
+
+In that case, would it be fairer for the Union government and UFCs to withhold a percentage of grants to states if they fail to hold elections to ULSGs and constitute Metropolitan/District Planning Committees, ward committees, and Area Sabhas, etc.?
+
+A significant and much—needed recommendation of the 5th SFC is that a High—Level Expert Committee should be constituted to recommend required amendments to the various ULSG Acts “keeping in view the true spirit of the 74th CA”.
+
+The writer is the Executive Trustee of CIVIC-Bangalore.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/karnataka-finance-commission-reforms-need-elected-councils-to-work-4219542)
+
+---
+
+### Price of prediction | Not every future should be tradable
+*Deccan Herald · Opinion*
+
+Surprising shifts in voter sentiment led to unexpected results in the recently concluded United States midterm elections. The results have also helped to strengthen the efficacy of prediction market platforms like Polymarket and Kalshi, both of which have claimed 98% accuracy. While these claims can be contested, the influence of their probability-based forecasts across sports, financial markets, entertainment, and geopolitics is undeniable.
+
+On Polymarket, which emerged from the cryptocurrency ecosystem, or Kalshi, born out of a derivatives exchange, almost anything can become a financial wager: whether red will be the colour of the season, the fall of a government, an election result, an interest-rate decision, or the outcome of a cricket match.
+
+By bringing together many independent bettors, limiting individual influence, and tying predictions to real-world events, prediction markets harness the wisdom of the crowds.
+
+At face value, such platforms can minimise uncertainty around critical issues like monsoon rainfall, commodity prices, inflation or changes in interest rates. In a country like India, where agricultural output and food prices are closely tied to weather, much has to be gained from better forecasting.
+
+Mahadev betting app case: CBI searches in 6 states lead to recovery of digital devices, key docsBut the case for improving forecasts does not automatically justify allowing unrestricted betting on every conceivable event. Picture markets on riots, epidemics, court rulings, and border clashes, each pricing the decisions of a few insiders, each open to anonymous crypto wallets, manoeuvred by agencies with a commercial stake. When a useful information tool and a speculative gambling product share the same mechanism, ethical frameworks tend to get compromised. Consequently, the powerful get to monetise the process.
+
+The political subtext of such platforms cannot be overlooked. Donald Trump Jr has invested in Polymarket through his venture-capital firm, 1789 Capital, and joined its advisory board. He has also served as a strategic adviser to Kalshi. These relationships invite scrutiny of the overlap between private financial interests, political influence, and regulatory decisions.
+
+Seemingly, India has secured itself with the Promotion and Regulation of Online Gaming Act, 2025 and subsequent enforcement measures targeting prediction platforms offering real-money contracts on the wrong side of the law. In April, the Ministry of Electronics and Information Technology warned VPN providers against facilitating access to platforms such as Polymarket and Kalshi.
+
+However, in a global scenario, blocking a website does not eliminate demand. As evidenced on their platforms, users did manage to get around restrictions through VPNs and alternative web addresses.
+
+Polymarket's published market data recorded approximately $7 million in cumulative trading volume on the 2026 West Bengal Assembly election and $23 million on Tamil Nadu. There are similar instances, like the Sunrisers Hyderabad and Rajasthan Royals playoff, which reportedly generated $28 million in betting on Kalshi. While these figures reflect activity on a global platform, participation by Indian residents remains unconfirmed.
+
+Though recent updates affirm the blocking of both sites in India, homegrown start-ups like Agara, an instance-based prediction platform where users can trade and forecast across categories ranging from politics to sports and entertainment, are cautiously entering the predictive market space, tiptoeing around regulatory restrictions.
+
+CCI closes real money games-related case against GoogleOver time, proscribing prediction platforms entirely seems unfeasible. Instead, regulatory strictures need to be put in place, including prohibiting betting on issues having global or national consequences. The insidious practice of media groups taking financial favours from betting companies to advertise fake odds should be severely penalised. Advocacy by financial regulators warning people that betting on events is a financial risk should be reinforced.
+
+What needs to be remembered is that while predictive markets may be remarkably effective in anticipating the price of wheat, oil, or other commodities, we cannot allow them to govern, anticipate, and potentially shape our political and collective futures.
+
+Such practices encourage a disturbing tendency to monetise outcomes where political upheaval, economic uncertainty, and social conflict become tradable propositions. Those having money, privileged information, or access to influential networks will then manipulate perceptions for financial gain. Vested power-centres will use these platforms to amplify selective narratives and influence the very outcomes they purport to predict.
+
+A prediction market may put a price on the future, but it cannot confer the authority to decide whose interests that future should serve. That is an imminent danger which needs to be averted.
+
+(Sayantan Nandi is a former corporate executive)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/price-of-prediction-not-every-future-should-be-tradable-4219708)
+
+---
+
 ## 15 November 2026
+
+### A step back: On Trump’s no-war, no-deal approach against Iran
+*The Hindu · Editorial*
+
+Before the November 3 midterm elections, U.S. President Donald Trump had repeatedly threatened to “destroy” Iran unless it entered into a deal with the U.S. to end the war. Since the elections, in which Mr. Trump’s Republican Party suffered a massive defeat, the U.S. President appears to have toned down his rhetoric. Last week, he said he had decided against escalating the military conflict with Iran following requests from America’s Gulf allies. But the U.S. would maintain the naval blockade of the Islamic Republic. Mr. Trump also pulled Vice President J.D. Vance off negotiations with Iran, as the Qatar-mediated talks made no real progress. Iran wants the U.S. to lift the blockade, unfreeze its frozen assets, issue sanctions relief and pull back from the Persian Gulf for direct negotiations on the nuclear programme to restart. The U.S., which calls Iran’s demands “outrageous”, has now adopted a no-war, no-deal approach, hoping that the economic blockade would force Tehran to offer concessions in the near future. Mr. Trump’s retreat from the threats reflects the realities on the ground. Before the U.S. and Israel launched this war by assassinating Iran’s Supreme Leader on February 28, Tehran was ready to make concessions. The U.S. and Israel carried out heavy bombing for 40 days but achieved none of their declared objectives. There is no guarantee that another round of strikes would force Iran to change its position. And the war, as the midterm results show, remains very unpopular in America.
+
+Mr. Trump has only himself, and Benjamin Netanyahu, to blame for the predicament he is in. He is the one who sabotaged a functioning Obama-era nuclear deal in 2018 that had denied Iran a path towards the nuclear bomb. Mr. Trump joined Israel’s unprovoked war on Iran in June 2025 and declared that he had “obliterated” Iran’s nuclear programme. And the same Mr. Trump started the current war, just eight months later, over the same nuclear programme. The Iranian state has survived, though Iranians are facing enormous economic woes. Tehran shut the Strait of Hormuz, pumping up global energy prices. Iran’s counterattacks have either destroyed or damaged America’s bases in the Persian Gulf. High oil prices and inflation turned the American electorate against the Republican party, while in Israel, Mr. Netanyahu, despite war rhetoric and racist attacks on the country’s Arab minorities, lost the governing majority. The setbacks are there for anyone to see. Yet, Mr. Trump does not seem to have grasped the seriousness of the situation. His no-war, no-deal approach risks a resumption of hostilities as Iran has pledged to break the siege. The U.S. has few clear military options unless it is prepared to launch a ground invasion, which would be disastrous. A more rational way forward is to end the war through diplomacy. But for that, Mr. Trump must first accept the strategic reality that he has lost the war.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/a-step-back-on-trumps-no-war-no-deal-approach-against-iran/article71704752.ece)
+
+---
+
+### Stoop to conquer: On the Opposition’s seat-sharing ahead of U.P. polls
+*The Hindu · Editorial*
+
+As Uttar Pradesh heads to the polls in early 2027, a familiar seat-sharing tussle has emerged within the Opposition. The Samajwadi Party and the Congress share an understanding forged during the Lok Sabha elections that earned them a good share of the State’s seats, but the Congress is now reportedly seeking 181 seats, nearly 45% of the 403 Assembly constituencies. It is the latest instance of the dilemma facing the Congress as it seeks revival in States where it has become a marginal force: how to strike a favourable bargain with stronger partners without weakening the coalition against the Bharatiya Janata Party. With discontent rising against the BJP, which still occupies a hegemonic position in the party system, the Opposition feels a wind behind its sails, and its major parties agree that the only way to take on the BJP is a formidable coalition with a compelling, unified message. But the Congress’s attempt to rebuild itself in the Hindi heartland and in States where it once held sway has strained that unity. In Bihar, the Mahagathbandhan failed to reap the benefits of anti-incumbency against the Janata Dal (United)-BJP alliance, partly because it could not tap the full support of the social forces behind the Rashtriya Janata Dal and the Congress, and partly because the Congress took too long to settle seat-sharing for the campaigns to gel. In Tamil Nadu, the Congress held out for more seats from the Dravida Munnetra Kazhagam and delayed the alliance, while infighting produced a lacklustre campaign that left it with the lowest vote share, in the seats it contested, among the alliance partners.
+
+Uttar Pradesh need not go the same way. The demand for 181 seats is overly ambitious for a party that managed a mere 2.33% of the votes in the 399 seats it contested in 2022, when the SP won 111 of the 347 seats it contested with a 32% vote share. The Congress has a point that the variables have changed since. In 2024, the SP and the Congress together won 43 of U.P.‘s 80 Lok Sabha seats with a 43.2% vote share, just short of the BJP-led alliance’s 43.7%. The Congress won only six of the 17 seats it contested, but its vote share in those six, 44.2%, was marginally ahead of the SP’s 43.4%. The party could also argue that its national campaigns on youth concerns and the state of India’s electoral democracy give it the heft to seek more. But its lack of an efficient State-wide organisation suggests that 181 is too high. The SP remains the strongest Opposition party, having assiduously built a new social coalition of backward classes, Dalits and minorities to take on the majoritarian BJP through local mobilisations. The 2024 arrangement, in which the Congress contested a fifth of the seats, is a more reasonable guide. A well-targeted 100 or so seats would make for a more coherent campaign and a better showing alongside the SP.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/stoop-to-conquer-on-the-oppositions-seat-sharing-ahead-of-up-polls/article71704746.ece)
+
+---
+
+### DC Edit | Perils of Big Tech Monopoly
+*Deccan Chronicle · Editorial*
+
+The massive outage of Microsoft services, which disrupted Outlook, Teams, and other applications worldwide between November 12 and 14, has once again exposed the dangers of overreliance on a handful of service providers. This incident affected people and businesses who rely on these services for their everyday operations, raising serious questions about the consequences of allowing a few corporations to exercise near-monopolistic control over essential services.
+
+Over the last two decades, Microsoft, Google, Amazon and other technology companies have effectively become public utilities, as indispensable to modern life as electricity, telecommunications and banking. They are no longer merely commercial enterprises. As such, any disruption in their operations can have far-reaching consequences for economic activity, governance and public services.
+
+This transformation will place an extraordinary responsibility on the companies to ensure that their services remain as far as possible uninterrupted. However, as no technological system can be made entirely failure-proof, companies controlling critical digital infrastructure must maintain the highest standards of reliability, redundancy and disaster recovery. Technical failures cannot be treated as mere inconveniences when their consequences extend across national boundaries.
+
+Nevertheless, the Microsoft outage has also highlighted the advantages of decentralised infrastructure. Organisations operating services on independent servers, without relying on Microsoft’s cloud infrastructure, were better insulated from the disruption. This evidence should prompt governments and businesses to reconsider the wisdom of placing all digital operations in the hands of a few service providers.
+
+This incident carries an important lesson for India to protect the interests of 140 crore people. The government should insist that technology giants providing critical services maintain adequate infrastructure on Indian soil, with independent operational and disaster-recovery capabilities. Merely storing Indian data on domestic servers — as mandated by the government — would not suffice if the services themselves remained dependent on centralised systems located abroad.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-perils-of-big-tech-monopoly-2004675)
+
+---
+
+### Sub-national Ties The Missing Piece In The Partnership of India, Australia
+*Deccan Chronicle · Opinion*
+
+When Chris Minns, premier of New South Wales in Australia, and Devendra Fadnavis, chief minister of Maharashtra in India, signed a renewed sister-state agreement in Mumbai this September, the focus areas were clean energy, advanced manufacturing, technology, critical minerals and mining expertise, and education and skills. The two governments also agreed to produce a joint action plan within 90 days. It was a sensible deal. But ask who will scrutinise whether it is delivered, and the answer is awkward: no legislator in either state has a formal role.
+
+That gap is the weak point of the India-Australia partnership, and it is widening as the relationship deepens.
+
+Agreements written in capitals, delivered in states: July’s joint declaration on defence and security cooperation commits both countries to resilient supply chains, critical minerals and clean energy technologies. Read the list again and ask who actually controls the levers. In India, land, water and agriculture are state subjects, and states shape the investment climate through power tariffs, permits and industrial policy. In Australia, the states own and regulate onshore minerals, run universities’ and TAFE colleges' funding frameworks, and administer planning. A summit can announce a critical-minerals corridor. Only a state can approve the mine, the land or the training pipeline.
+
+The asymmetry, then, is: Australia has standing India friendship groups at both its federal parliament and (in some cases) state parliaments; India has the new friendship-group mechanism only at the Union or Parliament level, and at the state level relies on ad hoc MoUs signed during individual visits rather than any institutionalised legislative body for ongoing engagement.
+
+Yet the engagement architecture stops at the national door. Executives sign sister-state memoranda. Legislatures, which write the laws at the state level, that make those memoranda real, are absent.
+
+Two dormant forums: At the national level, the picture is not much better. In February, the Lok Sabha Speaker Om Birla constituted Parliamentary Friendship Groups with more than 60 countries, Australia included. Within months, MPs were complaining of no communication or word of future activities since February. Such groups are also co-terminus with the tenure of the Lok Sabha, so they vanish with each House. Australia’s parliamentary country group for India has, by most accounts, been equally quiet.
+
+The one genuine legislature-to-legislature instrument is a 2017 memorandum on parliamentary cooperation between Maharashtra’s Legislative Council (Upper House) and the New South Wales Parliament. It is a single bilateral pact, hosted under an executive framework, and it has no successors. It is the exception that proves the rule. However, the legislative council is not as powerful as the legislative assembly, where members are chosen by the larger electorate in the state.
+
+What legislators see that ministers do not: Legislators sit where complaints land. They hear from the student whose course credit was not recognised, the exporter stuck in a licensing queue, a municipal council struggling with a waste contract. They are the first to spot where a Victorian rule collides with a Karnataka one, and where a summit promise is lying quietly dormant in a state government department.
+
+Both federations also give state legislatures a formal part in national law-making. In India, Article 252 lets state legislatures pass resolutions asking Parliament to legislate on matters within state competence. In Australia, Section 51(xxxvii) of the Constitution allows states to refer powers to the Commonwealth (federal government). Both countries rely heavily on concurrent jurisdiction. Each has hard-won experience in managing overlaps, and neither has compared notes.
+
+Then there is accountability. Intergovernmental deals negotiated by executives deserve democratic scrutiny, particularly where they touch land, water and minerals. A standing legislative forum would give citizens, not just ministers and investors, a view of what has transpired at the state level.
+
+A modest design: Nobody needs a supranational body, and the Union List will rightly keep foreign policy in Delhi and likewise in Canberra. What is needed is a structured channel, built in four parts:
+
+•An annual dialogue of select Indian state legislators and Australian state and territory parliamentarians, hosted alternately in each country, perhaps through the existing Commonwealth Parliamentary Association branches rather than a new bureaucracy.
+
+•Thematic committees on topics such as mining and critical minerals, education and skills, water, health and clean energy, each reporting to both sets of legislatures.
+
+•Model-law exchange, so that a state drafting a mining-safety or skills-recognition statute can see how a counterpart handled it.
+
+•Twinning of complementary economies, such as a mineral-rich Indian state paired with Western Australia, or a...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sub-national-ties-the-missing-piece-in-the-partnership-of-india-australia-2004715)
+
+---
+
+### The Election Before The Election In Uttar Pradesh
+*Deccan Chronicle · Opinion*
+
+Much before contests in the polling booths the preliminary round of the Uttar Pradesh election will be fought on the battleground of the SIR voter rolls. The final round is likely to be announced in mid-January by the Election Commission of India (ECI).
+
+Many figures and estimates of voter deletions in the SIR rolls of UP have emerged. There is a small window from November 17 to December 16, for the deleted voters to get themselves re-enrolled using Form 6. This is when the “pre-election” battle is likely to take place as different political parties attempt to get deleted supporters back into the voter rolls.
+
+Estimates of the number of voters dropped vary from 2.04 crore to four crore.
+
+The ECI and the chief election officer (CEO) of UP pegged the figure at 2.88 to 2.89 crore in January 2026 in the ECI Draft Roll, taking into account initial deletions prior to the objections phase. In April 2026, they reduced the estimate to 2.04 crore — bringing down the pre-SIR roll of 15.44 crore to a final SIR roll of 13.39 crore.
+
+Media estimates vary. One calculation of 2.80 crore is based on the estimated adult population (16.2 cr) minus the final SIR electoral roll (13.4 cr). Another estimate of 3.38 crore deletions is based on the difference between UP Panchayat/Local Body rolls (16.90 crore) and the Assembly election rolls (13.52 crore). An earlier claim was also made by chief minister Yogi Adityanath in December 2025, while the SIR was still underway, that four crore voters were unaccounted for.
+
+Moving away from overall numbers, however, parties are concerned with the impact of deletions on their politically defined constituencies. Yogi Adityanath has now claimed that 1.27 crore Hindu voters have been deleted. If the chief minister’s estimate of ‘deleted Hindu voters’ is correct then who are the rest of the deleted voters varying from 77 lakh to 1.6 crore? Are they legitimate administrative removals of deceased, duplicate and shifted voters across all communities? Samajwadi Party chief Akhilesh Yadav and the Congress Party have accused election officials of deliberately removing a disproportionate number of Muslim, Dalit and OBC voters.
+
+A media investigation in October 2026 by The Reporters’ Collective showed that ECI software auto-generated over 87,000 Form-7 deletion requests. The UP CEO admitted that over 200 such mass deletions targeting Muslim voters were made. A third category of deletions could be of women voters moving away due to marriage migration. Data from the revision rolls showed that female voter deletions outnumbered male voter deletions significantly in cities with high migrant populations.
+
+The UP Assembly election will be held on the basis of a final electoral roll scheduled to be published on January 4, 2027. This will be generated through an SSR or Summary Revision of Rolls with the April 2026 post-SIR roll serving as the baseline. On November 17, the ECI will publish an Integrated Draft Roll. Then a “Claims and Objections Window” will be open till December 16 for deleted voters for re-enrolling using Form-6.
+
+Meanwhile, there is a parallel legal process ongoing. While the Supreme Court has upheld the legality of the SIR exercise requiring the 2.04 crore net deletions to reapply, it has mandated some safeguards. The mass deletions using Form-7 in UP that were flagged automatically will have to be verified manually and corrected. The apex court has fixed November 17 for the next hearing against the CEC and ECI orders. This will coincide with the release of the Integrated Draft Rolls for UP by the ECI.
+
+The court hearing on November 17 could enforce further procedural safeguards for re-enrolling deleted voters. That day the political parties in UP will have to get into battle-mode to facilitate re-enrolment of their deleted supporters into the voter lists.
+
+If political parties lose this battle their chances of winning the electoral war will be impacted especially as reports suggest that the number of excluded voters in a large number of UP Assembly constituencies dwarfs the previous victory margins of sitting MLAs. In over 100 Assembly constituencies it is said that post-SIR deletions exceeded the 2022 Assembly victory margins by two to 150 times. Other reports point out that in 2022, about 99 seats in UP were decided by less than 10,000 votes and 15 among them by less than 1,00 votes or less. The SIR deletions in these very constituencies ranged from 27,000 to over 3 lakh voters.
+
+The one-month complaints window for re-enrolling voters is the final opportunity for political parties to protect their baseline voter shares even before campaigning begins. They are, therefore, already going for full organisational mobilisation of their election machinery.
+
+The BJP has, for example, suspended all other party programmes in UP and launched a “Matdata Jodo Abhiyan” (Voter Addition Campaign), setting a target of adding 50 voters per booth (i.e. 10,000-25,000 per constituency). Booth-level teams have ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/the-election-before-the-election-in-uttar-pradesh-2004689)
+
+---
 
 ### Global cloud has a local thirst
 *Deccan Herald · Opinion*
@@ -21587,207 +21915,6 @@ The larger test is not whether Usha Vance eventually converts. It is whether she
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/usha-vance-s-faith-tests-us-pluralism-4114583)
-
----
-
-## 17 August 2026
-
-### ​United and free: on the Prime Minister’s Independence Day speech
-*The Hindu · Editorial*
-
-Prime Minister Narendra Modi’s Independence Day speech, his thirteenth, was delivered within an entirely new political context, shaped by the recent student protests that led to the resignation of his Education Minister. The protests may have waned, but their underlying and lingering reasons for the unrest remain a matter of serious concern for the country. Mr. Modi sought to offer hope, inspiration and purpose on the one hand while, on the other, built a new phantom labelled ‘dimagi naxals’, who, he said, influenced policymaking and required purging. The speech was specifically addressed to the young citizens of the nation. Mr. Modi repeatedly stressed the need for big dreams, firm resolve and rapid execution, arguing that India could no longer think in incremental terms. He promised skill training for one crore youth over the next year to prepare India for the artificial intelligence era; free online coaching for competitive examinations to reduce the burden on families and improve access to opportunities; and renewed the government’s emphasis on innovation, quantum technology, space, robotics, data centres and other emerging sectors. Mr. Modi reiterated his commitment to self-reliance in defence production, including advanced technologies such as drones and next-generation defence systems. All Indians would naturally appreciate these promises and the statement of purpose.
-
-Whether Mr. Modi wanted, or tried, to build a unified national approach towards these challenges and their management is doubtful. India’s progress is a continuum that should ideally have a compounding effect with each subsequent year. Comparing, in absolute terms, achievements before and after 2014, when he became Prime Minister, is neither statistically relevant nor politically prudent. The fact about India as it enters the 80th year as a free nation that fought off colonialism is that its challenges are unprecedented. It has a massive young population entering the workforce even as technology is disrupting life and work as never before. What India needs is an all-hands-on-the-deck approach, requiring a unified political will among parties and stakeholders that is unaffected by electoral contests. India also needs an indigenous understanding and philosophy of development rather than trying to mimic the techno-capitalism that is rattling advanced economies. This is a point that was underlined by the Rashtriya Swayamsevak Sangh chief Mohan Bhagwat in his Independence Day speech. Mr. Modi clearly sees the challenges; but he also sees, unfortunately, an enemy in every critic. As he leads the country into a new year of independence, perhaps he could consider new ideas, including those from his critics, instead of amplifying divisive ones.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/united-and-free-on-the-prime-ministers-independence-day-speech/article71352939.ece)
-
----
-
-### DC Edit | As NTA Stumbles Again, Time For A Total Overhaul
-*Deccan Chronicle · Editorial*
-
-The announcement by the National Testing Agency (NTA) cancelling the English, commerce and sociology papers of the UGC-NET examination held in June this year is yet another example of the callous way the national agency went about its job and took the young people of this country for a ride. The Union government must at least now look seriously into its functioning and make transformational changes instead of opting for quick fixes and ad hoc measures.
-
-Post-graduate students across the country take the UGC-NET examination with the hope that it could open to them the world of academia. An enormous amount of effort goes into preparing for it as the national test is intended to select some of the best candidates who will direct research and teaching in this country. Unfortunately, the NTA, the government agency which conducts this test, does not approach the examination with the same seriousness as the students. It may be remembered that the NTA had released the answer key of this year’s UGC-NET examination one-and-a-half months after the examination against the usual timeframe of a couple of weeks.
-
-The decision to cancel the examination has come after a committee appointed by the NTA to examine several complaints about multiple errors in these papers submitted a report that should make everyone associated with the agency hang their heads in shame. The papers had “many factual, typographical, and translation errors including misspelt names of prominent scholars, garbled book titles, errors in the stem wording of questions, grammatical errors, gender and number agreement errors, punctuation mistakes, and non-standard coined terms for established concepts, as well as repetition of a significant number of questions previously administered.” The agency conceded that “papers carrying such defects do not meet the standards of fairness and error-free examination, and defects of this extent cannot be cured merely by dropping questions after the challenge process,” and hence ordered a re-test.
-
-The NTA’s inability to conduct a series of important examinations efficiently has been discussed exhaustively in this country for several years. The 2024 question paper leak in the Neet had prompted the government to take two steps: one, to appoint a committee of experts to strengthen the agency and two, to tighten the law and increase the punishment for the wrongdoers convicted of messing up with examinations. The government took a similar step after this year’s massive bungling in several examinations without bothering to take the corrective steps suggested by the K. Radhakrishnan committee which made a slew of recommendations to avoid the mistakes.
-
-It may be recalled that the CBI which investigated the leak in the Neet question papers found that the rot in the agency had set in so deeply that that people who have access to the question papers, including those who set them, were involved in the leak. It has emerged as a porous, shaky and untrustworthy organisation entrusted with the job of selecting the brightest students for the country’s most important and critical educational institutions. The government owes the young people of this country proper corrective action to ensure that this year’s lapses are never repeated.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-as-nta-stumbles-again-time-for-a-total-overhaul-1979965)
-
----
-
-### DC Edit | Heed Ground Realities, Deal With Gen Z Priorities Better
-*Deccan Chronicle · Editorial*
-
-The Jantar Mantar agitation may have yielded an immediate result in the form of the resignation of a mighty minister from the Union Cabinet but its reverberations have not yet ceased; in fact, they have only started, shaking the foundations of the thought processes of the political class. Every party is making attempts to connect with the generation which is on a warpath against deep-rooted systemic problems, asking fundamental questions. Prime Minister Narendra Modi’s address to the nation on the Independence Day is reflective of this desperate attempt by the Indian politicians to engage with this section of the citizenry.
-
-The Prime Minister has sought to address the Generation Z offering them schemes that would at best pretend to address issues in the conventional manner. Mr Modi has offered to make available free online tuitions for competitive examinations. It is a solution a politician typically offers when he hears that young people are angry that several students committed suicide when the Neet examination for admission to medical courses got cancelled. That those who cannot afford coaching centres again can make use of the government offer would have been the thought the government. This, however, hardly addresses the problem as the students are asking for quality schools which employ quality teachers, something that free online entrance examination coaching can hardly replace. Time the government looked at what is fundamentally wrong with the education system.
-
-Unemployment, too, is staring one of the world’s fastest growing economies, and artificial intelligence is unlikely to help the scene. Economists talk of jobless growth in a country whose Prime Minister often talks of the fact that more than half its population is aged less than 30 and the country is on brink of a harvest of this demographic dividend. Training in AI is not the solution to unemployment but focusing on areas which can generate jobs for the masses is. An honest attempt to understand the ground reality and formulate policies to create more sustainable jobs must be on top of the government’s agenda. There are no ad hoc solutions to a real, live issue. Yet all those seven programmes the Prime Minister offered the Gen Z appear to suffer from this disconnect.
-
-The government has claimed success in eliminating Maoism from the country after setting a deadline of March 31, 2026. Maoists mounted an armed and violent challenge to the country’s institutionalised democracy. But the government refuses to acknowledge the fact that Maoism has thrived due to institutionalised inequality, elimination of which would have cut the roots of all such forces. Instead of addressing it, the government now wants to label those who question government policies as ‘intellectual Naxalites’ and take them on. In this way it believes it can put down not just the streams of thought that militate against a system which sustains itself on institutionalised exploitation but also the political opposition. However, this announcement by the Prime Minister betrays the political bankruptcy of the BJP, instead. Anti-intellectualism has been a hallmark of all fascist regimes; it is for the BJP to decide if it wants its government to turn into one.
-
-The Congress, the principal Opposition party, appears to be equally clueless about the tectonic shift that has of late visited the country’s politics. It has failed to empathise meaningfully with the sentiments that powered the Jantar Mantar agitation; it is yet to demonstrate that it has got wind of the thought process of a generation which asks questions. It thinks it can survive on the privilege and honour of being the Opposition but that is unlikely to work, too.
-
-Verbal solutions are unlikely to gratify the youth, but actions could. So, politicians of all hues would better learn the language of the generation with which they seek to engage.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-heed-ground-realities-deal-with-gen-z-priorities-better-1979716)
-
----
-
-### DC Edit | Wake-up Call For Airport Security
-*Deccan Chronicle · Editorial*
-
-The accidental discharge of a licensed firearm at Varanasi’s Lal Bahadur Shastri International Airport on Sunday cannot be dismissed as a mere procedural lapse or accident — it is, in fact, a wake-up call for Indian aviation security.
-
-According to reports, the passenger, who followed all standard declaration protocols, mistakenly believed that his pistol was unloaded and pulled the trigger, leaving two airport staff members wounded. This act, despite being unintentional, raises several questions: Does the airport not have a mechanism or technology to check whether a firearm is loaded? What prompted him to pull the trigger? How did this crucial security aspect escape scrutiny by the Bureau of Civil Aviation Security?
-
-Under the current Bureau of Civil Aviation Security rules, passengers are allowed to carry licensed firearms with up to 50 cartridges. The mandated procedure includes advance intimation to the airline about the passenger’s intention to carry a licensed gun as checked-in baggage, a declaration at check-in, and the screening and packing of the firearm after the cartridges have been separated from the weapon in an isolated bay at the airport.
-
-Though the passenger followed all the rules and the incident occurred in the secluded, designated screening area, it is an undeniable fact that he passed through the check-in area, which was crowded with general passengers, airline employees and airport staff. If a person with malicious intentions had such access to the airport, they could have created mayhem.
-
-When passengers are not allowed to carry matches in their carry-on luggage, how can the airport allow them to enter check-in bays with guns—loaded or unloaded? It is time to treat all firearms with absolute caution by removing them entirely from the general airport environment. If passengers want to carry firearms, CISF personnel should take possession of the firearms outside the airport complex and hand them over to the airport logistics team. The goal of airport security is to mitigate risk, not merely manage the aftermath when security fails. Let this be the last time a “declaration” at an airline counter results in a trip to the trauma centre.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-wake-up-call-for-airport-security-1979955)
-
----
-
-### Kamal Davar | Time To Rebuild Relationship With Dhaka, With Eye On China & Pak
-*Deccan Chronicle · Opinion*
-
-In a world which is virtually at war with itself, South Asia remains one of the world’s most geopolitically stressed regions.India, the leading military and economic power in South Asia, faces two major adversaries: China and Pakistan. Now, another one may be emerging.
-
-Bangladesh, our once friendly eastern neighbour which the Indian Army had helped to liberate in December 1971, has, forget about gratitude, turned openly anti-India with the forced ouster of Prime Minister Sheikh Hasina in August 2024. That these developments took India’s diplomats and intelligence agencies by surprise should be a matter of concern for New Delhi.
-
-One wonders how ordinary Bangladeshis, including radical elements, can forget the brutal terror unleashed by the West Pakistan forces on them over 50 years ago: one of the worst genocides in human history in 1970-71. How can they forget the over two million East Pakistanis killed, lakhs of women raped or violated, and the insulting treatment of their hero Sheikh Mujibur Rahman, who was actually elected Prime Minister of Pakistan?
-
-Can Bangladesh ever forget around 4,000 Indian soldiers had laid down their lives to liberate their homeland? In the decades that followed, successive Indian governments have gone out of their way to help Bangladesh, economically and otherwise.
-
-The current anti-India feelings fanned by the Jamaat and other radical elements are thus hard to fathom. There are also student activists and others working as proxies of China and Pakistan’s ISI, with suspected encouragement by the United States, which is supposedly India’s strategic partner.
-
-It is also true that all through these decades since 1971, and despite their role in war crimes and other atrocities, Pakistan’s ISI and the military have maintained close contacts with Bangladesh’s Directorate-General of Forces Intelligence. Were the Indian intelligence agencies sleeping?
-
-Did successive governments in India make a strategic mistake by putting all their eggs in one basket: that of Sheikh Hasina and her Awami League? It might have been better to establish and maintain contacts with the Bangladesh Nationalist Party and even the Jamaat-e-Islami.
-
-After the outbreak in Dhaka in July-August 2024 forced Sheikh Hasina to flee to New Delhi and seek shelter, the condition of the minorities in Bangladesh -- Hindus, Christians, Buddhists -- worsened considerably, with frequent killings, torching of their temples, homes and businesses. The interim administration of Muhammad Yunus was as radicalised as the Jamaat and didn’t act in time to quell the violence.
-
-Many Hindu families are reportedly waiting to cross the border
-
-into India. Hindus constitute nearly eight per cent of the nation’s population; and Buddhists and Christians together comprise just one per cent; with their numbers gradually declining over the years, with many seeking shelter in India. Earlier, Bengali pride often transcended religious affiliations; but that is unfortunately no longer the case. Ther is no doubt that Pakistan is now busy fanning anti-India sentiments.
-
-Given this anti-India climate in Bangladesh, what really are the options open to New Delhi?
-
-The simmering student protests that led to regime change has now quietened, but violent radicalism is still on the rise. The pro-India Awami League was banned from contesting the general election, which eased the way for Tarique Rahman’s BNP to win and for him to become Prime Minister.
-
-An urgent priority for India will be to swiftly reinforce the vulnerable Siliguri Corridor, also known as “Chicken’s Neck”, a 22x60-km stretch at its narrowest point and the only land link from India’s mainland to the Northeast. India shares a 4,086-km boundary with Bangladesh, nearly 80 per cent of which is fenced; while 800 km remains to be fenced, mostly in riverine and difficult areas. In case of any mischief by Dhaka, at the prompting of Islamabad, India may have to take some kinetic action. The point to remember in our security calculus is that China and Pakistan will always try to expand their military and economic footprint inside Bangladesh to influence the eastern front, which also impacts India’s Northeast.
-
-India must unequivocally convey to Bangladesh in clear-cut terms that it doesn’t covet even an inch of Bangladeshi soil. Also, India has been more than accommodating in negotiations over Ganga river waters (called Padma in Bangladesh), water- sharing, the differences over the Farakka Barrage and over land transfers in the border region. In December 2026, the Ganga river waters treaty is due to expire, and Dhaka is extremely keen to renew it. However, India too requires more water for its agricultural needs.
-
-New Delhi must also convince Washington that it should not encourage Pakistan to meddle in Bangladesh. Notwithstanding the unpredictability of US President Donald Trump’s and his ever-changing geopolitical positions, India must influence the US establishment to be wary of China’s games in this...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/kamal-davar-time-to-rebuild-relationship-with-dhaka-with-eye-on-china-pak-1979711)
-
----
-
-### Proving ‘Stridhana’: Reality Must Trump Rigidity
-*Deccan Chronicle · Opinion*
-
-Even while coming out of prison, inmates are entitled to take back all their belongings deposited and inventoried at the time of incarceration. But in many matrimonial homes in which brides may be confined, why should it be a struggle to get back their belongings or ‘stri-dhana’ (as the term suggests, the wife’s personal articles) when they exit?Aside of criminal cases filed under Section 316 of the Bharatiya Nyaya Sanhita, 2023, where entrustment and dishonest appropriation and conversion can be proved, cases for return of ‘stridhana’ are intensely fought in Family Courts and higher echelons. The bone of contention is invariably over proof of belongings. ‘You brought nothing’ or ‘You didn’t bring this or that’ or ‘How many Karats was that ornament ’ punctuate common domestic arguments.Wedding photographs with the bride usually decked up with jewellery are a good starting point. Bills, online or hard copies, for the purchase of gold or silver or consumer durables constitute obvious proof. Often, invoices are delivered by the business establishments along with the products to the destination address. In such cases, corresponding bank statements are other possible records.Undeniably, in certain communities, marriages cannot take place unless a fixed minimum amount of gold, usually handed down from one generation to another, and other articles are brought in. Wouldn’t the principle of ‘Res Ipsa Loquitur’ (The thing speaks for itself) apply in these instances? For ancestral jewellery passed on across generations, bills may just not be available.A bride does not enter a matrimonial home with an evidence-gathering mindset. Neither can she be expected to carry a body camera, NYPD style! There are two brilliant judgments that address this point.The Supreme Court in MG Vs ASB (2025) raised practical questions. “Is it reasonable to expect that a woman who is freshly married and is intending to live in the same house and under the same roof with her husband, to keep her belongings like jewellery etc under her own lock and key, thus showing a spirit of distrust to the husband right after the moment she gets married?” The apex court added that the “very concept of marriage rests on the inevitable mutual trust of the spouses, which conjugality necessarily involves.” The court further reasoned that such matrimonial matters are not a criminal trial where the “mode and manner of acquisition” and “chain of circumstances” need to be “conclusively proved without any missing link.”There just cannot be rigid legal proof of ‘stridhana’. A Division Bench of the Kerala High Court in RR Vs KKG (2025) factored in this difficulty. It rightly held that “due to private and often informal nature of such transfers, it becomes merely impossible for women to produce documentary evidence proving ownership or misappropriations. In such situation the courts must rely on the principle of preponderance of probabilities to deliver justice.” The role of courts in recognising truth in its “real context”, the Bench nailed it succinctly.“The gold given to a bride at the time of marriage is often kept by the husband or his family under the guise of safekeeping of family customs. The woman rarely gets a written record or receipt for such transfers and the woman's access to her own ornaments can be restricted. When disputes arise, especially in cases of domestic violence, dowry harassment or divorce, the woman may claim that her gold ornaments have been misused or never returned. However, since she seldom receives the list or acknowledgment of the items given to her, proving ownership becomes difficult.”‘Stridhana’ is not a caution deposit. Or a donation to the marital home. In many cases, apart from the monetary security it offers, it is also of sentimental value symbolising sacrifices made by parents - especially when wedlock becomes a deadlock.(The writer is an advocate practising at the Madras high court, legal columnist & author of 4 books. This column is only to spread legal awareness)
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/proving-stridhana-reality-must-trump-rigidity-1979793)
-
----
-
-### Bills without debate diminish democracy
-*Deccan Herald · Editorial*
-
-The near washout of the monsoon session of Parliament is yet another reminder of the mortal threat to the country’s most important institution of parliamentary democracy.
-
-The numbers about its performance are stark.
-
-In the 25-day session, the Lok Sabha functioned for barely 19% and the Rajya Sabha for around 39% of their scheduled time. Twelve Bills were passed by both Houses, but only one saw substantive discussion. Nine Bills were passed without any MP, other than the minister concerned, speaking on them. This poor performance is not just a statistical failure. It shows the inability and refusal of both the government and the Opposition to engage each other, marking the breakdown of dialogue and civility in public life.
-
-The ruling party has blamed the Opposition, particularly the Congress, for repeated disruption of the House. The Opposition has accused the government of avoiding accountability on issues such as the police action against protesting students in Delhi and the theft of donations at the Ram temple.
-
-The result was a paralysis of Parliament. While both sides share responsibility, the government bears the greater burden. It must ensure that the House functions and discussions are held; yet it resisted debates on the important issues that the Opposition wanted to raise. By the time Home Minister Amit Shah offered to debate the students’ protest, it was too late. Even then, conditions were laid down for his statement. Politically, it was a defensive, even evasive, move.
-
-CJP says three sets of questions on youth protests disallowed in Lok SabhaPrime Minister Narendra Modi, who is the Leader of the House in the Lok Sabha, and Amit Shah appeared in the House just for a few minutes in the 25-day session. That absence inevitably signals scant commitment to the House. The confrontation in the House spilled beyond the House, with MPs facing off with placards outside Parliament.
-
-Parliament has reached a stage where its basic functionality has come to be questioned. Legislation passed without a debate may be legal, but it will lack legitimacy. All important issues of the nation need to be discussed in Parliament.
-
-The nation is yet to receive answers to questions about the use of force against students and the theft of donations at the Ram temple in Ayodhya. Parliament is meant for dialogue, not for a monologue. The government should facilitate discussions and accommodate the Opposition. Otherwise, it cannot expect co-operation.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/bills-without-debate-diminish-democracy-4113421)
-
----
-
-### KSPCB is not a parking lot for politicians
-*Deccan Herald · Editorial*
-
-Karnataka appears set to repeat a mistake it has made too often: considering a political appointee to head the Karnataka State Pollution Control Board (KSPCB).
-
-For nearly 25 years, the post has gone to retired bureaucrats or political nominees, with the last technical chairperson being H C Sharatchandra, a scientist and environmentalist.
-
-This pattern has produced more controversy than governance. Vaman Acharya, an MBBS doctor and BJP leader, resigned midway through a tumultuous term, following friction with the government. His successor, Lakshman, a Congress appointee, faced an Income Tax raid.
-
-In 2019, Congress MLA K Sudhakar was appointed chairman, as part of efforts to placate dissident legislators. He quit a few months later after becoming a minister. The most serious episode followed the appointment of M Sudheendra Rao, who was removed by the Yediyurappa government within three months. He alleged that certain party leaders demanded Rs 16 crore to allow him to continue in office, triggering a major political storm.
-
-Another BJP appointee, Shanth A Thimmaiah, faced court cases over the legality of his tenure and was eventually removed amid allegations of serious irregularities. The KSPCB needs an environmental guardian at the helm, not another political tenant.
-
-The political utility of the post is hard to miss. It has repeatedly been used to accommodate politicians denied ministerial berths or as a stopgap arrangement. Even P M Narendraswamy, appointed chairman in February 2025, resigned after becoming a minister recently.
-
-A regulatory institution cannot become a parking place for political aspirants. The deeper problem is that the Centre and the state have diluted the technical threshold despite the Supreme Court’s emphasis in Techi Tagi Tara vs Arunachal Pradesh on expertise in pollution control bodies.
-
-Nine resorts in Koppal operating without permission from KSPCB ordered to shutThe Centre’s amendment and Karnataka’s rules broadened eligibility, allowing administrative or public experience to substitute for specialised qualifications. That may ease political appointments, but it weakens the institution.
-
-The KSPCB is not an administrative office. Industrialisation brings complex chemical effluents, hazardous waste, and toxic emissions. Bengaluru’s air and noise pollution require scientific monitoring and interpretation. Environmental impact assessments and industrial clearances handled without adequate technical scrutiny risk becoming routine exercises in rubber-stamping, weakening public-health protection.
-
-Karnataka’s expanding footprint of resource-intensive data centres makes domain expertise even more urgent. Climate change further demands knowledge in carbon accounting, industrial decarbonisation, and circular economy practices. The government should stop treating the KSPCB chairmanship as a rehabilitation centre and appoint a qualified, independent expert. A body charged with safeguarding the ecology cannot afford to have its own integrity polluted by political expediency.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/kspcb-is-not-a-parking-lot-for-politicians-4113419)
-
----
-
-### Rescue must begin before the disaster
-*Deccan Herald · Opinion*
-
-At 6 am on July 31, my phone began to buzz. The calls were about an unfolding operation in Kerala, and what followed was a reminder of a simple truth: the most successful rescue is often the one that begins before the disaster does.
-
-By the time the heavy rain set in, over the first five days of August, the National Disaster Response Force (NDRF) personnel were already on the ground. As part of the pre-monsoon preparedness mechanism, 11 teams (a full NDRF team is 47 personnel) had been pre-positioned across the state ahead of it. Their deployment was not a reaction to a disaster that had already happened; it was a response to the possibility of one.
-
-The decisive work of disaster management happens largely unseen, well before the first rescue call is made — in forecasting, the pre-positioning of resources, evacuation planning and coordination.
-
-A rainfall figure, on its own, rarely tells the whole story. When the heavy rain arrived, it had to be read together with the state of the reservoirs, because rain running into catchments that are already brimming behaves very differently from the same rain on empty ground.
-
-The dam bulletin reaching the state emergency operations centre tells its own story: in Idukki, Lower Periyar is at its full reservoir level, Kallarkutty has crossed 96%, and several major reservoirs remain in the red, still spilling water through their gates more than a week after the downpour.
-
-With the dams this full, even the light-to-moderate rain is not a small matter. It is the two readings together, rainfall and reservoir level, that show where the danger lies. Kautilya understood this 2000 years ago: his Arthashastra speaks of preparing the counter to an adversity before it arrives, vinipāta-pratīkāra. Do not wait for the crisis to prepare for it.
-
-Brief downpour floods roads, disrupts traffic in BengaluruThe clearest lesson of the operation was the value of having specialised forces already in place. The NDRF teams were positioned in advance, with the State Disaster Response Force, Fire and Rescue Services and Civil Defence volunteers ready to reinforce them.
-
-Many of those volunteers had come through NDRF training programmes run across several states in the preceding months, and the Kerala State Disaster Management Authority had run multi-agency tabletop exercises before the monsoon so that when the calls came, most of those in the room had, in effect, already rehearsed the day once.
-
-All of this buys the thing that matters most in a flood: time. When a settlement is cut off, the difference between a team already in the district and one still being moved from far away is measured in lives. The point is not more personnel on paper, but the right people and expertise in the right place before conditions turn.
-
-Rescue makes the news, but it is the wrong yardstick. The better measure is how many people never had to be rescued at all, because they were moved out in time. Through those five days of heavy rain, more than 3,000 people were evacuated to safety in coordinated moves involving the the NDRF, the SDRF, Civil Defence and the district administration. A reactive system counts the people it has to pull out of danger; an anticipatory one counts the people it can move to safety before the danger reaches them. The second count is the one that should define the work.
-
-No single agency handles a major disaster on its own. This response held because the district administration, the NDRF, the SDRF, Fire and Rescue Services, Civil Defence and the meteorological and dam-monitoring agencies were working on the same page. At its best, coordination of this kind becomes something more deliberate: fusion.
-
-In the older model, uniformed forces are called in only after local capacity is already overwhelmed; civil–military fusion turns that around. It has the civil administration and the uniformed forces, the NDRF, the state forces, and, in larger emergencies, the armed forces, planning together and operating as one system from the first hour, rather than as separate columns that meet for the first time in the middle of a crisis. That integration cannot be assembled once the water is rising. It has to be built earlier, in agreed command arrangements, standing liaison and joint rehearsals. Kerala’s pre-monsoon deployment, cross-state training and tabletop drills were exactly this groundwork.
-
-Incidents like this one should not stay as isolated lessons. They should shape a broader disaster-management doctrine built on four plain steps: forecast, prepare, pre-position and evacuate, held together by fusion between civilian and uniformed responders. Technology helps at every step, from real-time reservoir data to interoperable communications, but technology alone does not save lives; institutional preparedness, and the willingness to act on it, do.
-
-(The writer is an assistant commandant, National Disaster Response Force)
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/rescue-must-begin-before-the-disaster-4113429)
 
 ---
 
