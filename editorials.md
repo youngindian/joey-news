@@ -1,8 +1,246 @@
 # Editorials
 
-_Last updated: 2026-11-16 08:26 UTC_
+_Last updated: 2026-11-17 09:39 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 17 November 2026
+
+### Clear the path: On SCO Civilisational Dialogue Forum in New Delhi
+*The Hindu · Editorial*
+
+While maintaining its hard stance on cross-border terrorism, India has an opportunity to recognise that many of its other interests still merit sustained cooperation with Pakistan as the latter’s climate minister Musadik Masood Malikprepares to attend the Shanghai Cooperation Organisation (SCO) Civilisational Dialogue Forum in New Delhi. India’s official position since the Pahalgam attack and the ensuing confrontations along the border is that terrorism and bilateral talks cannot coexist. A month later, Prime Minister Narendra Modi signalled that India’s relations with Pakistan would remain subordinate to its demands on cross-border terrorism by extending the condition to trade and water. South Asia is already one of the least economically integrated regions worldwide, with intra-regional trade at around 5%, and, as Chatham House has inferred, strained ties between India and its neighbours have created diplomatic vacuums that Beijing has taken advantage of through trilateral and regional groupings. Now, by inviting all SCO members to the national capital and participating in meetings ahead of the August 2027 Islamabad Summit, New Delhi has shown some maturity as a convening power. Islamabad is also being pragmatic in keeping channels open during its SCO chairmanship by participating in an initiative championed by Mr. Modi.
+
+The pursuit of regionwide water security remains particularly fluid, with India seemingly overlooking the fact that it is upstream of Pakistan and Bangladesh and downstream of China. After India stopped sharing routine hydrological data of the Indus river and approved the Chenab-Beas link tunnel project, Mr. Malik fanned the flames saying Pakistan would “cut off those hands” seeking to restrict its share of the water. Yet China has now restricted the same data vis-à-vis the Brahmaputra while it builds the Medog mega-dam in Tibet. India has also protested the proposed Padma Barrage in Bangladesh, which has been increasing its alignment with China, echoing India building the Farakka Barrage over East Pakistan’s objections in 1961. Climate change is rendering cooperation more essential to manage the integrity of contested geographies, the willingness of border populations to engage, and the potential to generate hydroelectric power. New Delhi should retreat from the notion that working together on the Indus will be a concession to Islamabad and see in the Dialogue an opportunity to restore the necessary channels. Suspending ties may communicate political resolve but will not diminish terrorists’ capabilities in the region or improve India’s security. It has already compromised India’s ambitions to regional leadership, which require the ability to keep engaging even with difficult neighbours. India should go beyond using multilateral fora to assert its national position and start identifying areas where bilateral cooperation serves its interests, including with Pakistan.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/clear-the-path-on-sco-civilisational-dialogue-forum-in-new-delhi/article71708024.ece)
+
+---
+
+### Outlook outage: On Microsoft and dangers of centralising digital systems
+*The Hindu · Editorial*
+
+Last week, Microsoft’s suite of productivity and email software, which businesses, governments, hospitals and a host of other organisations rely upon round-the-clock, abruptly stopped working globally, affecting tens of millions of people around the world. The company has cited a network upgrade gone awry as the root cause of the incident. Incidents such as the Microsoft 365 outage are a natural consequence of businesses and governments allowing key digital systems to become centralised all over the world. The internet remains, and was pioneered as, a network of networks. If one business’s networks went down, the reasoning went, others would not fall like dominos: everyone was, after all, connected to everyone else. But the economics have long been prohibitive, with dedicated servers and web-connected infrastructure infeasible for all but the largest businesses, with even those firms seeking the enticing cost savings from socialised infrastructure. That made sense: the internet made shared infrastructure more economical, allowing hardware and maintenance costs to be spread so far and wide that at a per-user level prices have been negligible. Competition among major cloud providers, the few that remain at Microsoft’s scale, have kept prices affordable for enterprise software for all shades of organisations.
+
+Digital services have grown more sophisticated, and more deeply integrated into the economy as this centralisation unfolded. But the downside is that, regardless of the sophistication and professionalism of any company, mistakes happen, and the scale of these mistakes can quickly cascade over to the entire economy. There are societal and organisational lessons to be gleaned from these episodes. There is no such thing as a reliable vendor. Governments must also draw a cyber sovereignty lesson here that does not simply entail swapping a global vendor for a domestic one. It is the subversion of the internet’s architecture that is at the root of these incidents. Investing in resilience — and shielding critical operations from destabilising disruptions, no matter how improbable — should inform attitudes to digital systems. As a new generation of AI data centres is poised to supercharge the centralised systems of yesteryear, it is all the more imperative to mitigate even occasional vagaries of large systems.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/outlook-outage-the-hindu-editorial-on-microsoft-and-dangers-of-centralising-systems/article71708179.ece)
+
+---
+
+### India’s equity market: The cost of taxation, policy uncertainty and lost investor confidence
+*The Hindu · Opinion*
+
+The sudden infusion of ₹15,000 crore into India’s equity markets after the U.S. midterm election results should not be allowed to obscure a more fundamental policy question: has India’s investment policy environment become increasingly difficult for global capital to navigate? And is this hurting our economy?
+
+A recent table doing the rounds on social media shows that, over the last two years, investors in South Korea’s KOSPI Index gained 160%, Pakistan’s KSE-100 grew 107%, Taiwan’s TAIEX gained 105%, Japan’s Nikkei-225 increased 70%; even the struggling economies of Europe gave their investors 30% (Germany’s DAX) and 26% (UK’s FTSE100), but India’s Nifty 50 returned minus 14%. This weakness in Indian equities is the cumulative outcome of taxation, regulatory uncertainty, liquidity constraints, the cost of capital, corporate earnings pressures and, yes, the volatile priorities of international investors.
+
+[Read full article](https://www.thehindu.com/opinion/lead/indias-equity-market-the-cost-of-taxation-policy-uncertainty-and-lost-investor-confidence/article71707819.ece)
+
+---
+
+### DC Edit | Food Inflation Exposes Limits Of RBI Rate Hikes
+*Deccan Chronicle · Editorial*
+
+For the first time in two years, India’s retail inflation has breached the RBI’s upper tolerance limit of six per cent, underscoring renewed price pressures. Food prices, particularly those of vegetables, drove the increase, with food inflation reaching 8.94 per cent. In October 2024, the spike was primarily driven by food prices, especially vegetable prices, which rose at their fastest pace in nearly four years.
+
+The burden was greater in rural India, where retail inflation stood at 6.63 per cent, against 5.41 per cent in urban areas. State-wise, inflation was highest in Tamil Nadu at 7.29 per cent, followed by Telangana at 7.26 per cent, Andhra Pradesh at 7.25 per cent, Madhya Pradesh at 7.19 per cent and Odisha at 7.17 per cent. Food inflation remained highest in southern India, with all five states topping the list. Monsoon-affected AP was the worst affected at 13.23 per cent, followed by TN, Karnataka, Telangana and Kerala.
+
+According to the Household Consumption Expenditure Survey (HCES) for 2023-24, a poor family spends between 40 and 47 per cent of its monthly expenditure on food. Rising food bills leave poorer households with less money for education, healthcare and other necessities.
+
+Six per cent is the upper tolerance limit for retail inflation set for the Reserve Bank of India (RBI), which has an inflation target of 4 per cent, with flexibility of two percentage points on either side. One of the instruments available to the RBI to control inflationary expectations is the repo rate.
+
+In October, the RBI increased the repo rate by 25 basis points to 5.5 per cent in view of widening price pressures and adopted a stance of calibrated tightening, explicitly leaving a hike or a pause as its near-term choices. Higher inflation could, therefore, force the RBI-led Monetary Policy Committee to increase the repo rate further at its December meeting, even though the underlying pressures largely originate from supply constraints.
+
+The two main drivers of retail inflation are a deficient monsoon caused by El Nino conditions and the West Asia conflict. While the deficient monsoon disrupted farming operations, the West Asian crisis has raised fuel prices. As demand for food and fuel is price-inelastic, increases in their prices will have a cascading effect on other prices, affecting the overall economy.
+
+However, the RBI’s monetary tightening cannot fix these issues. Higher borrowing costs caused by higher interest rates squeeze household budgets, discourage investment and burden smaller businesses even as higher interest rates cannot replenish vegetable supplies or repair a failed monsoon.
+
+The Centre and states must complement monetary policy with measures that improve supplies and ease essential commodity prices. Apart from taking steps to lower prices, including releasing food buffers, they should also try to address energy and food supply issues. On the energy front, the government should encourage transportation that runs on alternative fuels. On the food front, it should develop and promote relatively drought-resistant crop varieties. In the wake of uncertain climatic conditions, the country could also explore acquiring strategic overseas food buffers by encouraging large-scale farm leasing in African countries.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-food-inflation-exposes-limits-of-rbi-rate-hikes-2005042)
+
+---
+
+### DC Edit | Lalit Modi Beyond India’s Reach
+*Deccan Chronicle · Editorial*
+
+The colourful founder of cricket’s Indian Premier League, Lalit Modi, has acquired UK citizenship and may have placed himself beyond the reach of India so far as extradition goes. Of all the men in self-imposed exile from India for various reasons, the scion of the Modi business and industrial family may have spent years living his life openly in London, hobnobbing with socialites and partying occasionally with fellow stakeholder in IPL cricket, Vijay Mallya.
+
+UK citizenship does not per se preclude his extradition but, considering that it is 16 years since he left these shores and 14 years have gone by since official India claimed to have first sought his return to answer charges of money laundering, etc. it is best to conclude that he has flown the coop forever, cutting the bonds to his homeland in which he had founded the IPL that has flowered one of the world’s most valuable professional sports leagues.
+
+Unlike Modi, there have been many who may have stayed on in India to fight charges of financial misdemeanour and who may have experienced the investigative and judicial processes that appear to be the punishment itself, besides losing property pledged as collateral. Those like Modi and Mallya who could afford to fly away have similarly used expensive lawyers to keep the hunters at bay, only they had to leave their country to keep their own comfort levels.
+
+Modi may even have been in the crosshairs of the betting and fixing mafia that operated so freely in the IPL as to have brought the wrath of the Supreme Court on a couple of franchises as well as a few team owners. Despite all his exhortations of innocence and becoming a marked man for his handling of the Kochi team’s expulsion, it is also said there was a serious charge against him of having rerouted certain IPL funds running into hundreds of crores.
+
+If there is anything to be learned from various failures, invariably financial, that cost the Indian public their money which is never fully recovered by banks, it is that the country’s systemic checks are lax. Those who are charged with losing thousands of crores even in legitimate business are usually better off fleeing than facing a tortuous legal system. To Modi’s credit, he leaves behind a very valuable sports league out of whose riches Indian cricket has grown manifold.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-lalit-modi-beyond-indias-reach-2005053)
+
+---
+
+### The Americans Push Back: How Corruption Cost Trump & GOP
+*Deccan Chronicle · Opinion*
+
+Democracies correct themselves through elections. The leadership of all nations is imperfect and the problems become especially visible when strongman leaders take charge. With great power comes great overreach and with overreach comes pushback. The American population has pushed back against its President and his functioning.
+
+It may surprise some of us, certainly it did me, that the number one factor for the Republicans losing both the House and Senate was not inflation or the dumb war in Iran. Both of these ranked high, but the most important reason voters punished Trump’s party was corruption and their unease at the way government was run by the wealthy for the wealthy. Some nine in 10 voters put that on top of the things they were concerned about.
+
+The President’s sons have made thousands of crores while he is in office and are making more. Trump’s son-in-law has made thousands of crores as well, while holding an unofficial position as envoy, negotiating with the same Gulf nations that he is taking money from. The President himself has zoned out and is focussed on things like the 600-metre-long reflecting pool between the Lincoln Memorial and the Washington Monument (that long Egyptian-style obelisk) and an arch. Photographs show that his 90,000-square-foot ballroom is now larger than the White House itself, let alone the East Wing that it replaced.
+
+Daily reporting on all of this coming at a time when fuel prices are high and inflation is on the rise was the last straw for many Americans and they have brought Trump down a notch. What happens from here is a few things. The first is that there is now pressure on Trump to conclude the war and normalise the price and flow of fuel. This might be difficult to achieve given that the only way it seems doable is to return to the surrender document that he signed at Versailles on 17 June. This lifted sanctions on Iran and gave it control over Hormuz. Trump was fine with it till he was shamed into pulling out of the MOU by the warmongers he is surrounded by, who work for Israel’s interest.
+
+That is the second thing that has now changed. The sweeping victories by the Democratic Party’s left wing show that Israel is an unpopular cause among Americans. Two-thirds of Americans think poorly of Israel, including three-fourths of those under 29. Meaning that long term, Israel will not be able to rely on America to fight its wars. The most influential lobby group, the American Israel Public Affairs Committee, said on October 21, that it would stop endorsing candidates or giving them money directly. This happened after Republicans begged it to stay away from their races, a remarkable turnaround.
+
+Along with their antipathy to foreign wars, the left wing also pushes strongly for policies like Medicare for All. This is to make healthcare accessible in the country where it is the most expensive in the world. It is hard to see how this does not become the consensus view of both parties over time.
+
+The President has appointed his most hawkish anti-immigration supporter as his chief of staff, a man named Stephen Miller. But the brutality of the entity enforcing immigration law, called ICE, has meant there has been blowback from ordinary Americans. There is a feeling that other than criminals, undocumented immigrants (what are called ‘illegal’ by the unsympathetic) should be allowed to stay and given a pathway to citizenship. Some movement on policy may be expected there as well over time.
+
+The last thing that will change is Trump’s stranglehold on his party. He draws his power from the fact that those he backs usually win their Republican primaries (the step before the election). As he staggers into the final two months as president, those seeking to replace him and challenge him will assert themselves as they have not done since 2016.
+
+America has shifted course through elections before. Republican George W. Bush was replaced by a Democrat, the first African American President Barack Obama, because Americans had tired of the Iraq and Afghanistan wars. Democratic president Lyndon Johnson, otherwise one of the most accomplished leaders given his record on civil rights, was succeeded by Richard Nixon who finally ended the Vietnam adventure.
+
+The erosion of the Republican Party in this month’s elections came also in the deep south. Places like Mississippi and Texas, without which the party cannot win the presidency in 2028 given the narrow path to 270 electoral college votes. This is bound to force a change on the party and its leaders as they chart a path for survival.
+
+The world will benefit from the correction America is going through. Less violent foreign intervention will mean less suffering, both direct and indirect, for all of us. Democracies correct themselves through elections. But for that to happen, elections must be fair and they must be free. Where elections are no longer seen as legitimate, the desire for correction expresses itself in other forms as we are seeing...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/the-americans-push-back-how-corruption-cost-trump-gop-2005034)
+
+---
+
+### A track change for Bengaluru's metro viability
+*Deccan Herald · Editorial*
+
+Namma Metro’s expansion to 103.6 km, with the opening of the Pink Line’s elevated section, has restored Bengaluru’s position as India’s second-largest operational Metro network after Delhi. Yet the milestone is also a reminder of how slowly the project has progressed.
+
+The foundation stone for Phase I was laid in 2006; two decades later, the network has just crossed the 100-km mark. Chief Minister D K Shivakumar’s ambition to expand it to 500 km is welcome, but achieving it requires sustained execution and innovative financing.
+
+Even the current milestone has been overshadowed by an unseemly dispute between the Centre and the state over funding. Bengaluru Metro Rail Corporation Ltd (BMRCL) is a special purpose vehicle with equal Centre-state equity participation of Rs 9,164 crore each.
+
+But the funding burden is far from equal. Karnataka estimates that it will shoulder Rs 65,291 crore, or 83.8% of the Rs 77,891-crore outlay for Phases 1, 2, 2A, 2B, and 3, compared with the Centre’s Rs 12,600 crore, or 16.2%.
+
+Equal ownership, unequal funding: Minister flags Centre's 'paltry' 16.2% metro shareBharatiya Janata Party (BJP) MP Tejasvi Surya disputes this, arguing that the Centre’s share rises to 53.35% when sovereign-guaranteed foreign loans worth Rs 28,958 crore are included. Karnataka has dismissed this as accounting gymnastics, noting that since BMRCL cannot meet repayment obligations from its own revenues, the state bears a substantial debt burden.
+
+Even excluding loans, Karnataka contributes about three-fourths of direct project funding, besides bearing land acquisition costs and BMRCL’s losses. This makes it imperative for BMRCL to extract greater value from its assets. Non-fare revenue cannot rely mainly on advertising or one-time deals. Station-naming rights may offset capital costs but offer little recurring income.
+
+BMRCL should instead monetise its real estate through retail and office space. Long-term commercial leasing can create a steady revenue stream. Hong Kong’s MTR offers a useful model.
+
+Through its Rail plus Property approach, it captures part of the property-value gains created by Metro connectivity through development rights and partnerships with private developers. Bengaluru can adopt these principles.
+
+A 500-km Metro network cannot be built on announcements alone. BMRCL needs stable leadership, not the frequent shifting of managing directors. Bengaluru is an economic powerhouse whose prosperity benefits both Karnataka and the Union exchequer.
+
+The Centre must view Metro investment not as a favour to the state but as a national economic imperative. Equally, both governments must move beyond partisan score-settling and work together to build the world-class, liveable city that Bengaluru’s citizens deserve.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-track-change-for-bengalurus-metro-viability-4220521)
+
+---
+
+### El Niño adds to the price pressure
+*Deccan Herald · Editorial*
+
+High retail inflation felt by households for weeks, if not months, has been confirmed in official data. Measured by the Consumer Price Index (CPI), inflation stood at 6.09% last month, the highest level since October 2024, and above the Reserve Bank of India (RBI)’s upper tolerance limit of 6%. Food prices, which account for nearly 37% of the price index, contributed most to the rise in prices.
+
+The prices of vegetables, pulses, and groceries have gone up; grains, oilseeds, and sugar have also reported a jump in prices. Food inflation accelerated to 8.94%. It is also the highest since the 9.04% recorded in November 2024. In January 2026, inflation in “food and beverage serving services” in restaurants was 2.88%. It has gone up to 10.09%.
+
+Organisations urge Karnataka govt to be prepared to face Super El Nino conditions in 2027Wholesale inflation has been growing at double-digit or near double-digit levels for the past few months. Items such as clothing, housing, healthcare, education, and communication have also become more expensive. Inflation has taken generic proportions, affecting all sections. It is even being contended that the actual rate may be higher than what is being recorded.
+
+Elevated crude prices and rising commodity prices have also been contributing factors. Brent crude prices have come down to $95-96 per barrel from the $118 levels recorded last month. The rupee has also strengthened to 94.2 against the dollar after going beyond the 96-mark last month.
+
+But the impact of El Niño is rendering all the moderating factors irrelevant. The deficit monsoon has affected not only the farm economy but all other sectors. Many agricultural commodities, including edible oils, pulses, maize, cotton, and sugar, may have to be imported.
+
+The RBI had expected inflation to peak at 6% in the third quarter and then moderate over the next two quarters. But if the present trend is any indication, that is unlikely to happen. The Monetary Policy Committee (MPC) meeting scheduled early next month may see another hike in policy rates. It could raise borrowing and mortgage costs, affecting demand.
+
+The Central government should prioritise measures to address the emerging situation. Imports should be secured well in time to avert shortages. Steps should ensure there is no artificial scarcity, hoarding, or profiteering.
+
+Diversion of food crops to the biofuel economy should be monitored. Inflation is unequal – high prices disproportionately affect people in the poorest strata of society. All measures should be taken to protect them.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/el-nino-adds-to-the-price-pressure-4220519)
+
+---
+
+### Comfort of growth narratives meets the reality of rising prices
+*Deccan Herald · Opinion*
+
+The Union government’s November 12 press release on the October consumer price index (CPI) inflation was quite low-key. It stated, matter-of-factly, that retail inflation in October 2026 was 6.09% and food inflation was 8.94%.
+
+Consumer inflation crossed 6% for the first time in nearly two years — which is a very material and concerning development. The government and the Minister concerned ignored it. The newspapers and television media bemoaned that inflation had crossed the ‘RBI’s tolerance limit’ and that an annoyed RBI would now have to wield the interest-rate-hike sledgehammer.
+
+The inflation target limit of 4% plus or minus 2% has been fixed by the government; the RBI must implement it.
+
+Retail inflation is a crucial ingredient of the GDP deflator for determining real GDP growth and, in turn, purchasing power parity (PPP) for measuring reduction in poverty. With consumer inflation rising, both these important feel-good parameters for the government are at risk.
+
+Will consumer inflation stick in the 6%-plus groove? Will other inflation indices — such as the wholesale price index (WPI) and its substitute, the producer price index (PPI) — complicate the situation further? Is real GDP growth under threat? And, will poverty increase?
+
+Likely to stay elevated
+
+Three constituents of the CPI — food and beverages (34.78% of the index), paan and tobacco (1.54%), and food and beverage serving services (3.33%), together ~40% — drove retail inflation the most in October at 8.94%, 7.78%, and 10.09%, respectively. As these constituents were subdued during the last two years, their base effects will keep food inflation elevated for at least a year.
+
+A poor monsoon will also keep the inflation pot boiling for longer. The RBI’s rate hikes (even if attempted) will have no impact on food inflation. The government’s subsidy tools (buying at high prices and selling to vocal urban consumers at lower prices) have limited firepower.
+
+Another item forming the CPI, ‘other personal effects’ (1.39%) — which includes all types of jewellery and watches as its main constituents — has seen massive inflation of ~71% in less than two years (25.44% inflation year-on-year in October 2026). Gold prices have eased off by now, and this high inflationary item will cool off gradually.
+
+The operation of personal transport equipment (5.04%) has a high inflation of 7.52%, but the inflation of electricity, gas, and other fuels (5.36%) is low at 3.71%; passenger transport services (2.57%) inflation at 4.02% is also relatively low. With the government deciding to absorb much of the impact of high and volatile crude oil and gas prices, the fuel-based (11%) inflation is likely to stay contained.
+
+Services inflation, including rentals for housing (weightage 10.88%, inflation 2.36%), health services (weightage 6.10%, inflation 2.05%), personal care (weightage 3.46%, inflation 2.52%), and others, has been well-contained. Most of these services are publicly provided or cannot pass on the increase in costs. This is likely keeping inflation benign. Education services (3.33%) have witnessed upward inflation (4.02% in October) as these are increasingly private sector-provided.
+
+On the whole, the inflation dynamics of the constituents of the CPI suggest that retail inflation would most likely remain above 6% on average for quite some time, irrespective of the RBI and government measures.
+
+WPI/PPI inflation a bigger worry
+
+The WPI inflation for October 2026, released on November 16, at 12.29%, continues to be extremely high. The government has started publishing the PPI as well, separately for both output and input goods (at the factory gate; the WPI captures inflation in wholesale markets for all commodities, whether inputs or outputs, within a single index). A limited services inflation index has also been introduced.
+
+The output PPI inflation has closely aligned with the WPI (both stood at 11.39% in September 2026). The input PPI inflation is, however, much lower (6.1% in September relative to the base year FY2023). The government has begun using output and input PPI data for GDP computation.
+
+A very high WPI/PPI inflation is increasingly getting passed on to consumers, and will continue to keep the CPI elevated.
+
+Government’s feel-good factors
+
+The Q2 FY2027 GDP data will be announced at the end of this month. In Q1 FY2027, the GDP inflation (deflator) was only 2.6%. The government took advantage of the divergence in input and output PPI to project high growth in manufacturing (9.2%). The deflator will have to be much higher for Q2 FY2027 GDP, considering that both CPI and WPI will have witnessed very high inflation. Let us see how it affects the Q2 FY2027 GDP growth outcome.
+
+The World Bank uses the inflation differential between the US and India to adjust the 2021 PPP for India (Rs 20.728 per USD in 2021). India’s PPP has appreciated to Rs 20.09 in 2025. With India’s inflation relative to the US likely to be much higher this year, the 2021 PPP rate for India will also depreciate. Poverty might begin to rise in India going forward.
+
+Both in a spot of bother
+
+With both CPI and WPI/PPI inflation shooting up and likely to stay elevated for quite some time, consumers and businesses are in for a difficult time.
+
+The government is also likely to be in a spot of bother with respect to its GDP growth and poverty-reduction narratives.
+
+Subhash Chandra Garg is former Finance & Economic Affairs Secretary, and author of ‘The Great Indian Budget: How the Government of India Spends Your Money’, and ‘We Also Make Policy’.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/comfort-of-growth-narratives-meets-the-reality-of-rising-prices-4220923)
+
+---
+
+### Rohit Sharma’s lean run in New Zealand is no cause for alarm
+*Deccan Herald · Opinion*
+
+If he felt any stress after an underwhelming series with the bat, there was no outward sign. Rohit Sharma was the quintessential family man at the Tauranga Airport on Monday afternoon, carrying his two-year-old son on his hip, taking great pride in Ahaan’s ‘sharp memory’, and showing him around the tiny arrival/departure area with only one conveyor belt.
+
+Like for most batters from both sides, the One-Day International series in New Zealand was a huge challenge for the former India captain. In four innings, he managed only 30 runs, including two ducks. But where in the past this might have led to an orchestrated demand for him to be axed, his ordinary returns have been accepted in the spirit they ought to be because the dice were loaded too heavily in front of the bowlers.
+
+Rohit Sharma brushes aside retirement talk, says focus remains on representing India It wasn’t just the challenge of seam and bounce that batters were confronted with. At all venues except Mount Maunganui, which hosted the last two matches of the five-game showdown, rain hampered pitch preparation. Because the surfaces were covered for large periods, they became damp, which in turn ensured that the tracks were two-paced, the ball sat on the deck after pitching and, therefore, added another new dynamic to batting.
+
+Sharma had struck a purple patch in the lead-up to the New Zealand series. Starting with the final ODI against England at Lord’s in July, he strung together a sequence of 138, 32, 101, and 92 before the Auckland outing, where he courted a first-over nought.
+
+At the Hnry Stadium in Wellington, Sharma looked most assured and at his attacking best, even though batting was the trickiest there. He breezed to 23, playing the pull shot with his trademark chutzpah, but the promise of a substantial knock was nipped in the bud by Kyle Jamieson.
+
+Premature exit stories were written ahead of the Lord’s ODI, with whispers gathering pace that it would be his last international appearance until, in an unprecedented move, secretary of the Board of Control for Cricket in India Devajit Saikia stepped in to clear the air. He said that Lord’s would not be Sharma’s swansong, a development that was probably the final precipitating factor in Ajit Agarkar choosing not to seek an extension as chairman of selectors. Saikia’s proclamation was the ultimate confirmation that Sharma was very much in the scheme of things for the 50-over World Cup next year in South Africa, Zimbabwe, and Namibia, and the classy right-hander responded in style with a series of wonderful knocks that reiterated that he has not lost his mojo.
+
+Talk with close friend Virat Kohli led to Kane Williamson's international retirement Not too much should be read into the New Zealand misadventure. While it is true that New Zealand, more than any other country, is best suited to mirror the likely conditions in South Africa during the World Cup, the unseasonal rain that influenced how the pitches behaved was an unforeseen factor that is unlikely to interrupt the World Cup. Pace and bounce have never troubled Sharma, who has forever been a strong backfoot player with a penchant for the horizontal-bat stroke. If anything, it is lack of pace that has sometimes worked to his detriment because he has been early into his shots.
+
+Sharma is determined to make his final year in international cricket one to savour. He has made no secret of the fact that the elusive 50-over World Cup winner’s medal is his prime motivation at this stage of a celebrated career. The last two World Cups have been fantastic for him; in England in 2019, he smacked an unparalleled five centuries, but India fell in the semifinal to New Zealand. Three years back, he led from the front with one stunning salvo after another to haul his team to the final, undefeated, where they caught a Tartar in Australia.
+
+He is, therefore, justified in feeling that he has unfinished business to attend to. By the time the World Cup starts, he will be five months past his 40th birthday, but he has worked relentlessly on his fitness and is batting as well as ever, the last fortnight notwithstanding. Don’t rule out a rip-roaring return to run-scoring ways next month at home, against Sri Lanka.
+
+R Kaushik is a Bengaluru-based sports writer with 35 years' experience. X: @kausheek68.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/rohit-sharmas-lean-run-in-new-zealand-is-no-cause-for-alarm-4220916)
+
+---
 
 ## 16 November 2026
 
@@ -29,6 +267,35 @@ A curious and potentially dangerous element the BJP faces in the state is the le
 The Samajwadi Party which leads the INDIA bloc in the state has many an element to look forward to, including the sense of anti-incumbency, the alleged scam around the Ram temple and the disillusionment in the BJP rank and file. The results of the election to the legislative council have come as a shot in the arm for the party which still has a solid vote base on which it can weave a success story. However, the Congress, the minor ally of the party in the state, is in no mood to concede the space the SP ought to have: it has been consistently making a demand that it must get 180-200 of the total 403 seats to contest. That its vote share in the state hit a double digit several elections ago has not deterred the Congress from making unrealistic claims when the alliance has a chance this time around. The Opposition bloc will also have to contend with the mega-plans of the AIMIM to contest the elections, which could, in all likelihood, cut into its vote share. Its chances depend on how the SP manages its unrealistic ally, the Congress, and how it can lessen the impact of the vote-cutter AIMIM in alliance with Chandrashekhar Azad’s Aazad Samaj Party.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sp-sees-momentum-amid-bjp-challenges-cong-wish-2004747)
+
+---
+
+### Mistrust Fractures West As Trump Looks To China Meet
+*Deccan Chronicle · Opinion*
+
+One head has rolled already, that of Jensen Huang, whiz-kid CEO and joint founder of Nvidia. Others could follow. At the same time, the Democrats used the mid-term polls to elect Scott Colom, Mississippi’s first Black senator in nearly 150 years and the third in the state’s history.
+
+It’s a mix of good and bad. Although Europeans and Americans lament the uncertainty of a lame-duck US President, Donald Trump’s actual position recalls the Bengali saying that even a dead elephant is worth a lakh. True, inflation has greatly reduced the rupee’s value and a lakh is nowadays a mere trifle. But the residual influence of Mr Trump’s executive veto is borne out by the failure of moves to impeach his defence secretary, Pete Hegseth. The real trouble is that the President’s followers in a fluid scenario apparently don’t know how much to trust him.
+
+Mr Trump’s appointment of Stephen Miller, key architect of his hardline immigration policies, as the new White House Chief of Staff, is a straw in the wind. The world at large — especially large and populous countries like India whose economic and strategic policies cannot altogether ignore majority thinking in the US Congress — must not only take note of high-profile issues such as Israeli rampaging against Gaza’s defenceless Palestinians but also acknowledge less visible critical areas such as economic sanctions, export and technology controls, Customs compliance, investment and anti-corruption enforcement.
+
+India has historic ties with the Democrats who have secured control of Congress and may exert significant influence over White House initiatives on international trade and tariffs, regulatory, and national security matters, immigration and foreign students. Miller’s appointment raises Indian concerns regarding US trade policies, H-1B visas, and India’s continued purchase of Russian oil, while the views of the US President’s son-in-law, Jared Kushner, a Jewish convert, warn that there can be no meaningful discussion of European security whilst Russia wages war against Ukraine.
+
+Unlike Mr Trump, Europeans are acutely aware that Ukraine’s invasion exposed Vladimir Putin as the aggressor who violated agreements — such as the Helsinki Accords — and who scuppered the mechanisms in place before 2022 — such as the Nato-Russia Council — to cope with external aggression. Despite his seemingly placatory approach to Russia, Mr Trump cannot concede the demand by Ursula von der Leyen, the European Commission president, for a ceasefire in Ukraine first unless the ceasefire includes total Russian withdrawal.
+
+European Union members also object to German Chancellor Friedrich Merz seeking to block the EU budget if certain countries are exempted from aiding Kyiv. Last year, Hungary, Slovakia and the Czech Republic secured an exemption from contributing to the 90-billion-euro loan. Bulgaria has since joined them with the European Council president, António Costa, promising to “leave room for discussions on Ukraine” at a later date. Every actor (or actress) in the drama also represents a secondary private cause, the Nato chief being expected to weld these strands into a single policy that strengthens the Western alliance instead of weakening it.
+
+Even the Abu Dhabi negotiations, spread out conspiratorially in different rooms, proclaim mistrust and disunity.
+
+Europe apart, national security advisers from France, Germany, the United Kingdom and Italy have been invited with von der Leyen’s chief of staff, Bjoern Seibert, leading the EU delegation. Intriguingly, Mr Kushner who is leading the negotiations alongside the property developer, Steve Witkoff, says on X, “We are working hard to find a negotiated solution that can guarantee lasting peace and create the conditions for a sovereign, secure and prosperous Ukraine within a more stable European security framework.”
+
+Acknowledging that “reaching a comprehensive and lasting agreement will also require direct engagement between Russia and our European partners on the broader security arrangements that concern them”, he mentions “a broader multilateral process” which the EU welcomes providing it stops short of capitulation. Mr Kushner’s principles and mechanisms — regular consultations, reliable communication in the event of a crisis, greater military transparency, as well as respect for each country’s sovereignty and decision-making autonomy — are probably also acceptable to Europeans.
+
+However, even with Israel’s hardline Benjamin Netanyahu gone, at least for now, the political bill for the Iran war can be crippling for Washington. Iran, by contrast, has not been broken by months of bombing, sanctions, and a naval blockade. On the contrary, its rival factions have coalesced around a strategy of staying the course — planning to ultimately drive Americans out of West Asia.
+
+There are other side shows, some arising from Republican losses in the mid-term elections, some attributable only to Trump’s folie de grandeur, and some the result of...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/mistrust-fractures-west-as-trump-looks-to-china-meet-2005027)
 
 ---
 
@@ -21605,316 +21872,6 @@ Only a mind that is purified by a determined effort to disentangle itself from a
 The sanctity of the sacred springThe Gita now elaborates on this further. “All beings are born with the dualities of attraction and repulsion – raga and dvesha," it says. It notes that this tendency to gravitate towards things that give pleasure and happiness and detest those that cause pain and revulsion is inborn in man. As a corollary to this, when man’s efforts to realise his desires meet with obstacles or failure, they turn into anger and hatred. Here, the Gita brings in the two concepts of avarana, or concealment, and vikshepa, or wrong projection. Both these are the offshoots of man’s ignorance. If avarana conceals the real nature of a thing that man desires, making him believe that it will bring him happiness, vikshepa outwardly projects a façade of stability and comfort, while it actually is something more sinister, like a whirlpool projecting itself as the placid surface of the river. In the words of the revered Swami Chinmayananda, "The ultimate aim of all spiritual practice – sadhana – is to free oneself from the grip of these two dualities of attraction and repulsion. By birth, all beings are enveloped in this shroud of ignorance. But, by conscious effort, man can move towards true knowledge and a meaningful life."
 
 [Read full article](https://www.deccanherald.com/opinion/towards-a-meaningful-life-4116008)
-
----
-
-## 18 August 2026
-
-### Awaiting answers: On the student protests in Jharkhand
-*The Hindu · Editorial*
-
-When the route up the economic ladder in society is limited to an ever-narrowing range of options in the public sector, and the process of gaining entry through entrance examinations becomes tainted, angst and agitation are the results. This is why students in Jharkhand, loosely organised into two platforms — the Jharkhand Public Service Commission (JPSC)-Jharkhand Staff Selection Commission (JSSC) Abhyarthi Nyay Manch and the JPSC-JSSC Reform Manch — have been protesting in Ranchi for over three weeks. The trigger was the July 2 result of the JPSC’s 14th Combined Civil Services preliminary examination, which shortlisted 2,204 candidates from about 3.5 lakh aspirants for 103 posts. Aspirants pointed to undisclosed category-wise cut-offs, oddities in the merit list, a widely circulated OMR sheet on which an ostensibly successful candidate had attempted fewer than half the questions, and the fact that the conducting agency had been blacklisted in May 2025. The two platforms differ in their political leanings and have sought to negotiate separately with the government, but both want the cancellation of the disputed JPSC and JSSC exams, a CBI investigation and prosecution of officials, besides the reconstitution of commissions and a predictable examination calendar. The Jharkhand Mukti Morcha-led coalition government has responded with CID raids, arrests, resignations in the JPSC, and a cabinet committee. On Monday it went further, announcing the cancellation of all examinations conducted since 2014 by the outsourced agency, TSR Data Processing, which might help assuage the agitating students but could leave those who cleared the examinations fairly in the lurch.
-
-The rot in the exam system is deep-rooted. Since the State’s formation in 2000, results have frequently been delayed and cycles have been bunched up many times. In a recent JSSC exam, an SIT reported no organised leak despite CID reports that described money changing hands for pre-examination access. These have eroded students’ trust in the government; hence the demand for a CBI probe. The 2003 and 2005 exams were subject to CBI scrutiny but the cases are still pending. Yet, the Hemant Soren-led government should concede this politically unpalatable demand, along with other steps, including a fixed exam calendar, and fair and transparent marking with clear cut-offs and time-bound results. Jharkhand is one of India’s poorest States, and its mineral wealth has not led to sufficient employment. With youth forced to rely on monsoon-dependent agriculture and allied activities, a government job offers a steady option. Aspirants spend years in coaching centres and libraries in pursuit of this. The youth deserve not only a fair recruitment system but also a government that diversifies their options for gainful employment.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/awaiting-answers-on-the-student-protests-in-jharkhand/article71357240.ece)
-
----
-
-### Losing forest for trees: On the CAG’s audit of the Green India Mission
-*The Hindu · Editorial*
-
-A performance audit by the Comptroller and Auditor General (CAG) of the Green India Mission (GIM) has found that a scheme conceived to heal India’s forests had, across a decade, achieved almost nothing it set out to do. Instead of improving forest quality over 1.4 million hectares, the mission only managed 0.11 million — not even a tenth of the target. On expanding forest cover, the mission barely scraped together four per cent. The Compensatory Afforestation Fund Management and Planning Authority (CAMPA) channels money collected from industry for diverting forest land into afforestation, while the Mahatma Gandhi National Rural Employment Guarantee Scheme, now rebranded as VB-G RAM G funds rural wage labour that can be used for plantation and land-restoration works, but GIM’s intended convergence with these schemes never materialised. The mission was one of the eight pillars of the National Action Plan on Climate Change, unveiled in 2008, and the instrument through which India promised the Paris Agreement an additional carbon sink of 2.5 billion to 3 billion tonnes by 2030. Its animating idea was ecological — biodiversity, water, sequestration, and the revival of habitat. GIM however seems to be on the back burner and, for all practical purposes, replaced by a tree plantation drive called ‘Ek Ped Maa Ke Naam (A Tree in the Name of Mother)’. Launched in 2024, the government reports planting 140 crore saplings so far, but the latest forest data expose the gulf between a tree and a forest. The India State of Forest Report 2023 records a gain of 1,445 square kilometres in green cover but only 156 sq km of it is true forest. The rest, 1,289 sq km, is ‘tree cover outside recorded forests.’ Within the recorded forests, dense canopy is thinning into scrub. Ergo, India is planting more and foresting less.
-
-Few examples encapsulate this as much as the controversy over the Aravallis. Arguably the country’s most degraded range — its hillocks quarried away, its native growth overrun by the invasive ‘vilayati kikar’ (Prosopis juliflora) — it is now to be rescued by a ‘Green Wall’ of fresh planting. But these arboreal conscripts cannot undo the damage from years of mining, halt encroachment, or summon back an ecosystem that took millennia to form. Restoration is not landscaping. The CAG’s instrument is accountancy: it can count hectares and rupees, not the worth of a living forest; and its assessment cannot always capture the practical challenges of implementing missions. However, its verdict still lands. A mission to restore India’s forests has been allowed to wither while the state busies itself counting trees.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/losing-forest-for-trees-on-the-cags-audit-of-the-green-india-mission/article71356794.ece)
-
----
-
-### Taxing ‘frivolous’ industries will not fund India’s science
-*The Hindu · Opinion*
-
-Whenever concerns are raised about the lack of funding for Indian science, a solution often put forward is to tax “unintellectual” industries such as cinema, tourism, apparel, and perfumes. For example, only recently, an academic from one of India’s leading research institutes suggested taxing the Indian Premier League (IPL), which, he argued, would magically generate “₹15 billion” for scientific pursuits; the “stroke of genius” was duly fawned over.
-
-This reflects a common instinct: it is naturally hard not to want a share of the cake for a ‘nobler’ cause, when a ‘frivolous’ business makes profit in plain view.
-
-A flawed propositionIt is equally easy to overlook the economic cascade effects of such frivolities. Organised sport, for example, generates employment across a multitude of allied industries: merchandise, food and beverage, broadcasting, physiotherapy and rehabilitation (sports science is a science too). This investment has undeniable trickle-down benefits, across more sports than one and beyond major cities.
-
-Though well-intentioned, the myopic and fallacious “tax-this-to-fund-that” proposition needs to be dispelled immediately.
-
-If ‘profit’ in the sports or film industries necessarily came at the expense of science, then the exercise in financial imputation should be very simple: of the $5 billion in profit earned by a match or a movie, $1 billion was made because a laboratory fell short of centrifuges. If that were true, then all scientists should refrain from watching movies or sports on government-subsidised campus Wi-Fi, as this would imply scientific funding flowing back to the entertainment industry. Luckily for them, the empirical evidence does not hold up: countries boasting a high expenditure on sport do not necessarily have poor scientific output, and vice versa. Besides, science is not an isolated pursuit: significant scientific input goes into making films or manufacturing textiles.
-
-The disastrous economic experiments in India and around the world in the 20th century demonstrated that wealth is not a fixed, zero-sum pie: progress in X does not necessarily come at the expense of Y. As academics, we must refrain from making sweeping moralistic remarks, as though we know the right level of wealth surplus and how it should be spent better than the market does. Millions of dispersed individual decisions made by ordinary people contain more information than centralised academic or bureaucratic intelligence.
-
-Moreover, how do we know that the state can reliably direct the proceeds towards science? Government spending is the prerogative of bureaucrats and politicians, who are inevitably insulated from the consequences of such expenditure.
-
-Should the money be directed towards science, must it be distributed equally among all institutes and laboratories across the country, or apportioned according to productivity? If the latter, how will productivity be measured, and by whom? Some scientists appointed as advisers to the Department of Science and Technology? Would they not favour their colleagues and collaborators?
-
-But, why only science? Just as scientists can make a fair claim for the setting up of state-of-the-art research laboratories, surgeons could demand better hospitals in Tier-3 towns, and policemen could call for better protective gear. Given the same pool of government money, how does one choose among these equally valid, competing claims? Politicians are notorious for basing such decisions on the electoral strength of each group, while academics form factions among themselves: microbiologists might grumble about theoretical physicists receiving disproportionately high funding, much to the delight of funding agencies.
-
-If ‘only science’, then what kind of science? Should the money go towards buying more microscopes, gene sequencers, or chromatography equipment?
-
-Most scientists would, credulously, want these decisions to be left to scientists themselves: a grand delusion, for no subsidy is ever unconditional. A government that provides a fertilizer subsidy will ensure that it is used only to purchase fertilizers, and will go to extreme lengths to define what a fertilizer is. The subsidy giver has historically viewed the subsidy recipient as a potential embezzler. State funding for science is no different.
-
-What is ‘allowed’ instead of ‘needed’Government funding for science is, by definition, categorised into watertight compartments, for example, electronics, chemical reagents, consumables, travel grants, and equipment. Laboratories that do not need that extra bottle of hydrogen chloride but desperately need a computer monitor are often unable to make the purchase because the money has been rigidly earmarked. Once, a laboratory was allowed to purchase a server under “electronics”, but not a graphics card because, for some inexplicable reason, it fell under “consumables” rather than “electronics”. If a scientist does not spend all the money allocated to her in a financial year, she may receive less funding in the next one. This absurd incentive produces colossal wastage, as what is “allowed” is bought instead of what is “needed”, often at the cheapest possible price.
-
-Consequently, precious time is wasted learning tricks to circumvent these restrictions, much like companies did during the Licence Raj. Experiments are often put on hold while scientists navigate cumbersome procurement rules, particularly towards the end of each financial year.
-
-Steps to takeTheoretically, the money is there, but it is squandered because its expenditure is predetermined by archaic rules that the bureaucracy has little incentive to change. Removing these restrictions would free up considerable resources for their intended use. Procurement aside, even the recruitment of scientists is governed by the archaic University Grants Commission Act (1956), contributing to India losing some of its best scientists to opportunities overseas.
-
-Another indirect and “less bad” measure for expanding available funds would be to remove the Goods and Services Tax and steep import duties on scientific equipment. The rent on knowledge creation slows research and stagnates the circulation of money, which ultimately returns to the government.
-
-Right now, India also places crippling restrictions on private investment in science. Strict compliance requirements under CSR rules incentivise short-term, low-risk research projects. Foreign Contribution (Regulation) Act procedures remain tedious, and many laboratories struggle to navigate the paperwork required to attract foreign funding. This is unfortunate, as private endowments have a greater stake in the success of research than any anonymous bureaucrat ever would.
-
-In a bid to promote domestic manufacturing, the government has resorted to import substitution, a measure that serves only to insulate local industries from global competition while failing to deliver world-class products.
-
-The mandatory adoption of the Government e-Marketplace (GeM) has been a death knell, further delaying procurement and forcing scientists to settle for cheaply made Indian equipment that looks identical on paper but falls short of international standards. Often, they spend time identifying “features” available only in foreign-made products so that they can be allowed to purchase them.
-
-If a venture can be a great success in attracting international talent by virtue of being taxed less, so can other endeavours. For India to be at the forefront of science, the mechanism is to liberalise the bottlenecks through which money and capital somehow manage to trickle into academia and reduce dependence on the government, rather than taxing the few geese that lay the golden eggs.
-
-Ritvik Chaturvedi is Senior Research Fellow, Centre for Earth Sciences, Indian Institute of Science (IISc), Bengaluru. Website (www.ritvikc.com)
-
-[Read full article](https://www.thehindu.com/opinion/lead/taxing-frivolous-industries-will-not-fund-indias-science/article71357138.ece)
-
----
-
-### Aakar Patel | Without Freedom, Does The Word ‘Independence’ Really Mean Much?
-*Deccan Chronicle · Opinion*
-
-The term “independence” is linked to “freedom” and is a meaningless word without it. A few years ago I had surveyed the state of freedom in India as the world saw it. I had done this for one of my books, but periodically I revisit this list of indices to see what changes have come.
-
-On Independence Day last Saturday, I thought it would be apposite to do this. Some of the organisations which are referred to here may be unfamiliar to readers but they are reputable and their findings are respected. We shall look at what the government says about them at the end. Let us start.
-
-The Pew Research Centre is an American organisation that monitors long term trends. It reviews government restrictions and social hostilities around the world. Its latest finding is that India has high levels of the former and “very high” levels of social hostilities. By 2019, India was in the top 10 in each of the following categories:
-
-*Countries with high levels of social hostilities related to religious norms;
-
-*Countries with high levels of inter-religious tension and violence;
-
-*Countries with high levels of religious violence by organised groups;
-
-*Countries with high levels of individual and social group harassment.
-
-CIVICUS is the global alliance of civil society organisations. It monitors freedom of association, of peaceful assembly and expression. In its rating India’s civic space fell from “Obstructed” to “Repressed”. It says that the “deterioration of India’s civic space is alarming” -- particularly its assault on freedom of expression using an array of restrictive laws and its attempts to impede human rights groups.” Because of this, its report says that “India has been added to a watchlist of countries that have seen a rapid decline in civic freedoms”.
-
-The Economist Intelligence Unit is a part of the Economist magazine based in the UK. It publishes a Democracy Index in which it classifies India as a “flawed democracy”. It says this is the "result of democratic backsliding under the leadership of Narendra Modi" and the "increasing influence of religion under Modi, whose policies have fomented anti-Muslim feeling and religious strife, has damaged the political fabric of the country”.
-
-Founded in 1941, Freedom House says it is "the oldest American organisation devoted to the support and defence of democracy around the world”.
-
-In its Freedom in the World report, India fell from “free” in 2014 to “partly free”. Kashmir, which is rated separately, is “not free”.
-
-It says that the “BJP has presided over discriminatory policies and a rise in persecution affecting Muslims”.
-
-The Washington-based World Justice Project says it is an “independent, multidisciplinary organisation working to advance the rule of law worldwide”. Its Rule of Law Index monitors accountability, just law, open government, and accessible and impartial justice. India fell from 66th in the world to 77th in 2022 to 86th now.
-
-Reporters Without Borders is based in Paris and produces an annual World Press Freedom Index. India is ranked 157th in the world and the reasons cited include a "rise in violence against journalists, highly concentrated media ownership, and outlets with increasingly overt political alignment”.
-
-Founded in Washington in 1977, the Cato Institute says its vision is “a free and open society in which liberty allows every individual to pursue a life of prosperity and meaning in peace”.
-
-In its Human Freedom Index, India has fallen from 87th to 110th in the world, with low scores on personal freedom and economic freedom.
-
-Berlin-based Transparency International says it “holds the powerful and corrupt to account, by exposing the systems and networks that enable corruption”. India’s rank has fallen in its Corruption Perceptions Index from 85th to 91st. Its survey says that 39 per cent of Indians had to pay a bribe in the last 12 months.
-
-The International Food Policy Research Institute in Washington publishes the Global Hunger Index. India is ranked 102 with a hunger ranking that is “serious”.
-
-The University of Gothenburg produces the Varieties of Democracy (V-Dem) Index which examines institutional democracy and “autocratisation”. After 2014, it says India has seen “one of the most dramatic shifts among
-
-all countries in the world over the past 10 years”. India lost its status as a democracy and was classified as an “electoral autocracy”, joining nations like Hungary and Turkey. On freedom of expression, media and civil society, India was “as autocratic as is Pakistan, and worse than both Bangladesh and Nepal”. India had introduced “discrimination by religion” through its citizenship laws.
-
-In 2020, concerned by the findings, the government ordered that a “single, informative dashboard” be prepared for 32 global indices. This monitoring exercise was “not just to improve rankings but to improve systems and drive reforms to attract investments and to shape India’s perception globally”. Later, the government said it would launch “a massive publicity...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-without-freedom-does-the-word-independence-really-mean-much-1979986)
-
----
-
-### Sanjeev Ahluwalia | Trouble At Bombay House? Tata Titans Locked In Tussle
-*Deccan Chronicle · Opinion*
-
-A face-off between two sets of storied owners of an unlisted, private holding company, Tata Sons, established in 1896, which controls twenty-six listed Tata companies with a combined market valuation of about $328 billion, or seven per cent of the market cap of Sensex (2025), annual aggregate revenues of $180 billion and about a million employees, is big and unsettling news. The group’s operations span a hundred countries and six continents.
-
-The twist is the ownership structure of the holding company: Tata Sons. Two Tata Trusts control two-thirds of its equity. The Shapoorji Pallonji group — a legacy construction company and close associates of the Tata family — has held another 19 per cent since 1930. Together, these three trusts are the majority owners of Tata Sons. The Tata companies are well governed. Each operates independently under the guidance and supervision of its own board of directors. The problem is backseat driving by the trusts owning Tata Sons often muddies top-down signals.
-
-The most recent such incident is the lack of unanimity about extending the term of Natarajan Chandrasekaran, chairman of Tata Sons, beyond February 2027 when it ends. Noel Tata — Ratan Tata’s half-brother, who now controls the Tata Trusts after the demise of Ratan Tata in October 2024 — is opposed to Mr Chandrasekaran’s extension. The clash might be personal. Ratan ushered in Mr Chandrasekaran, a technologist with the Tata group for three decades, as a trusted chairman to replace chairman Cyrius Mistry, who was removed by a board resolution in 2017. In doing so, Ratan Tata overlooked Noel Tata then and again in 2022, whilst anointing Mr Chandrasekaran for a second term. This must have hurt.
-
-There are also substantive disagreements around Tata strategy going forward. Ratan Tata had a flair for the big game. Not all his bets paid off. Investments in JLR, Corus Steel in Europe, Air India and Tata motors have not been multi-baggers. Legacy investments in steel and chemicals remain slow on growth. But investments in TCS have paid off. It contributes 17 per cent of Tata group revenue but 59 per cent of group profits. The Midas touch explains the bond between Ratan and Mr Chandrasekaran, who was earlier Chairman TCS and the first non-Parsi to be chairman of Tata Sons.
-
-Noel groupies however point out that more recently, between 2017 and 2025, TCS market value increased by 126 per cent — slower than the market cap of Sensex which increased by 176 per cent. They apprehend that the proposed entry into a full-stack AI model for investments is more than what the Tata group can chew.
-
-Investment is heavy as is obsolescence (three years) and the returns increasingly uncertain. AI still flounders for a viable use case. It is, however, also true that Noel’s professional experience is mostly in investment light, quick return retail, where he excelled in making Trent, a fashion retailer, and Titan, a jewellery brand, highly profitable. His approach is pragmatic.
-
-Mr Chandrasekaran shares Ratan’s visionary approach like founder Jamshedji Tata and J.R.D. Tata, the nationalist entrepreneur who mothered Air India.
-
-Dissonance between the Tata Sons owners has been rife since Ratan, at age 75, chose Cyrus Mistry, scion of the Shapoorji Pallonji group, co-owners of Tata Sons, to succeed him. Earlier the redoubtable J.R.D. Tata, also without any direct heirs, had chosen Ratan in 1991 as the successor. After a one-year transition period as deputy chairman starting November 2011, Cyrus Mistry replaced Ratan Tata as Tata Sons chairman in December 2012 at age 43 — the youngest-ever chair and only the second person outside the Tata family in that position.
-
-Ratan Tata became chairman emeritus of Tata Sons and started overtly distancing himself from day-to-day management. But this was not to be. Either Cyrus Mistry was imprudently impatient in forcing the sedate pace of change in Bombay House or Ratan Tata had not quite delinked from his industrial “babies” as cleanly as he wished to.
-
-The titans then fell out. A no-holds-barred corporate war ensued. It ended badly for Cyrus Mistry. He was voted out as chairman in October 2016, just short of four years since he took over. Subsequent litigation in the NCLT between the SP group, contesting the abrupt removal of Mr Mistry, and Tata companies supporting it, unearthed slanderous allegations on both sides. Most remain unsubstantiated. Mr Mistry got no NCLT relief. However, his subsequent appeal to the NCALT was a triumph, securing a dismissal of the board resolution ending his chairmanship. But it proved a pyrrhic victory. In the Supreme Court on appeal by the Tata Group, Mr Mistry’s plea for a stay on the order removing him was not allowed. In May 2021 the Tata group’s appeal finally prevailed and the NCLAT order favouring the SP group was overturned without any relief.
-
-CJI Bobde and Justices Bopanna and Ramasubramanian offered practical advice to the litigants. They astutely pointed out that it took...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjeev-ahluwalia-trouble-at-bombay-house-tata-titans-locked-in-tussle-1979975)
-
----
-
-### Essential regulation, credible concerns
-*Deccan Herald · Editorial*
-
-The objective behind the proposed Karnataka Regulation of Use of Government Premises and Public Property Bill, 2026, is understandable. Public land, roads, parks, playgrounds, and government buildings cannot become the preserve of private groups or be used without regard for traffic, safety, property or public order. A clear, uniform statutory regime can bring much-needed consistency to a system that has lacked a single law governing such use.
-
-The Bill, which replaces a 2025 Government Order that the High Court stayed, requires organisers to seek permission at least seven days before an event, with approval deemed granted if authorities fail to respond within that period. This provision curbs bureaucratic discretion from becoming an indefinite barrier, while the right to appeal against rejection adds another safeguard.
-
-However, the legislation must be judged not only by its intent but also by the discretion it confers on the state. Authorities may reject applications citing public safety, law and order, communal harmony or traffic disruption.
-
-These are legitimate concerns, particularly when large gatherings strain infrastructure and risk stampedes. But the breadth of these grounds could invite inconsistent interpretation. The experience of the 2025 order warrants particular caution.
-
-Karanataka: NMPT fire personnel rescue bull from noose-like rope tied around its neckThe High Court stayed it over concerns about fundamental rights, its sweeping definition of gatherings, and the attempt to criminalise procedural lapses. The new bill addresses an important infirmity by giving the framework statutory backing and explicitly excluding funerals, marriages, informal recreation, and routine schooling activities.
-
-The provision making offences cognisable and non-bailable, with imprisonment of up to three years for a first offence and five years for a repeat offence, appears severe when the violation may involve unauthorised use rather than violence or damage. Though the provision for warrantless arrest raises valid concerns, the government maintains it is vital for prompt enforcement.
-
-Even so, the power to deprive citizens of liberty must be exercised sparingly and with mechanisms against arbitrary action. The political controversy surrounding the bill, with the Bharatiya Janata Party (BJP) alleging that it is aimed at restricting RSS activities, makes neutrality more essential. Home Minister Priyank Kharge says the law applies equally to all.
-
-That claim must be demonstrated in practice. The state has every right to protect its property, but public spaces also belong to citizens. A credible law must regulate their use without turning permission into a tool of control. Clear definitions, proportionate penalties, transparent criteria, and checks against selective enforcement would make this legislation more credible and constitutionally sound.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/essential-regulation-credible-concerns-4114619)
-
----
-
-### Mining reform amid federal unease
-*Deccan Herald · Editorial*
-
-With the passage of the Mines and Minerals (Development and Regulation) Amendment Bill, 2026, the Union government aims to supplement the mining sector with a more predictable fiscal regime, encouraging investment.
-
-The Centre’s stated rationale is that different state-level taxes and levies created uncertainty. However, the bill has caused concern among states as it takes away some of the powers they enjoyed – the amendments curb their right to impose taxes, cesses or other levies on minerals sourced in their territory.
-
-The bill was passed in parliament amid protests by the Opposition and the rejection of demands for a referral to a parliamentary standing committee.
-
-A uniform fiscal structure is expected to promote ease of doing business for mining groups. However, facilitating this ease infringes on state governments’ right to collect charges that the Supreme Court sanctioned. In an important judgment in 2024, a nine-judge bench of the apex court ruled that states had the power to levy taxes on mineral rights. It also allowed state governments to recover dues on mineral rights dating back to April 1, 2005.
-
-The Court held that the royalty claimed by the state is not a tax but a contractual and financial consideration paid by the lessee to the lessor. The Bill conflicts with this judgment, stating that “no tax, cess or such other levy (by whatever name called) shall be imposed by the state government on mineral rights”.
-
-Jharkhand CM Soren urges PM Modi to reconsider mining bill, flags impact on state's financesThe Constitution allows states to tax mineral extraction, though this power is subject to limits set by Parliament. The government has used this provision to bring forward the amendments. Parliamentary powers to enact legislation do not necessarily mean they should be exercised, especially when such legislation goes against the interests of states.
-
-Notably, no consultation was held with the states on an issue that potentially carries serious financial repercussions for them. States such as Jharkhand, Odisha, Andhra Pradesh, Karnataka, Madhya Pradesh, and Rajasthan will be adversely affected by the legislation as it will deny them a significant part of their revenues. Jharkhand and Odisha generate as much as 75-80% of their non-tax revenue from mining. Some of the states have criticised the Bill.
-
-With key resources drying up, many states are under severe strain. The amended bill, while drawing on principles of stability, takes away from the states their revenue-generating powers at a crucial time. Read along with the Centre’s earlier decisions that conflicted with states’ interests, this presents an extended pattern of disrupted fiscal federalism.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/mining-reform-amid-federal-unease-4114624)
-
----
-
-### China hunts for scientific talent. The US makes it easier
-*Deccan Herald · Opinion*
-
-Who’s got the talent? In the competition for scientific and technological supremacy, that question rises above the rest. Not long ago, the answer was unequivocal: the United States.
-
-But while it remains the world’s leading destination for ambitious scientific minds, a combination of funding cuts, restrictive immigration policies and suspicion of Chinese-born scientists is eroding its advantage just as China, despite serious shortcomings of its own, is becoming a credible alternative.
-
-The appeal of each country can be seen in two events of the past few months. The four winners of this year’s Fields Medal, one of mathematics’ highest honours, included two scholars born in China who had come to the United States for advanced studies. They flourished in — and remain in — the West.
-
-Then there is Zhilin Yang. Like many Chinese, he came to the United States for his graduate degree. But rather than stay, he returned to China to start Moonshot AI. In July, his company released an impressive open-source AI model, called Kimi K3, that comes close to the performance of the best models made in America — at a lower cost.
-
-Yang had no shortage of opportunities in the US when he received his doctorate from Carnegie Mellon in 2019. But he told Ruslan Salakhutdinov, a computer science professor and his doctoral thesis adviser, that he was determined to build a company in China.
-
-“The US still has a big, big advantage. We get the best people,” Salakhutdinov said. “But China will become more attractive. In the AI space, it is becoming very very clear.”
-
-China has also become more successful at recruiting academic scientists from abroad. Omar Yaghi, who shared last year’s Nobel Prize in chemistry, left the University of California, Berkeley, for Tsinghua University, where he will lead an institute using AI to accelerate the discovery of new materials. Since last year, universities in mainland China and Hong Kong have recruited at least eight prominent mathematicians from Western institutions. Joshua Zahl, who collaborated with Hong Wang, one of the Fields Medal winners this year, took a full-time professorship at Nankai University. He declined to discuss his move.
-
-These are significant wins for a country where Tu Youyou was the only scientist working in the mainland to have received a Nobel Prize in a scientific category.
-
-The biggest change in China’s recruiting power is money, said Dong Jielin, who researches Chinese science and technology policy. Two decades ago, she said, scientists returning from abroad were expected to sacrifice financially in the name of serving the country. Now Chinese universities can offer salaries that are competitive with those in Europe, along with generous relocation packages.
-
-Still, after the Fields Medal winners were announced, one question emerged in the extensive Chinese media coverage and an outpouring of online discussion: Can China’s academic system give unproven young researchers the freedom, patience and tolerance for failure they need to become exceptional?
-
-The two Chinese-born winners, Wang and Yu Deng, entered Peking University in 2007. Deng, an International Mathematical Olympiad gold medallist, received direct admission to the university’s mathematics programme. After his sophomore year, he transferred to the Massachusetts Institute of Technology, earned his doctorate from Princeton and became a professor at the University of Chicago.
-
-India twice lead China but settle for 2-2 draw in World Cup openerHe said pursuing doctoral study abroad was common among Chinese students in basic science at the time. Chinese mathematics has improved substantially since then, he said, and publications by China-based researchers in leading mathematics journals have risen markedly.
-
-Wang, 35, entered Peking University at 16 to study earth and space sciences and transferred into mathematics a year later.
-
-She went to the École Polytechnique near Paris before doing further graduate studies at MIT. In a video, she described how her doctoral adviser at MIT had listened patiently when she disagreed with others. “It helped me to gain confidence,” said Wang, now a professor at both New York University and the Institut des Hautes Études Scientifiques in France. She declined requests to be interviewed.
-
-In a video posted by the Simons Foundation after the Fields Medals were announced, she said she felt “a little discouraged” but found professors in France and the United States who helped her gain confidence. Wang was not criticising Peking University, but her remark resonated widely in China, where many people treated “discouraged” as shorthand for their own experiences in a highly competitive education system shaped by punishment and shame. The hashtag “discouraged” remains censored on the social media platform Weibo.
-
-“If they had not left China at 20, would they still be standing on that prize stage today?” asked a YouTube commentator who goes by Laozhou Hengmei. China’s scientific achievements, he argued, still did not match its economic size and abundance of talent.
-
-China can increasingly match the funding and infrastructure that attract prominent scientists. What it has more difficulty reproducing are the freedom, trust and institutional stability that allow young talent to flourish. Those remain among America’s strongest advantages, and the very advantages its current policies are putting at risk.
-
-“The US used to be sort of the default, the no-brainer option,” Terence Tao, an Australian-born Fields medallist who is a professor at the University of California, Los Angeles, said in a video.
-
-Last year, the Trump administration’s suspension of federal funding to UCLA affected both his personal grant and an institute he helps lead. The funding was reinstated after a successful lawsuit. But he has warned that abrupt funding disruptions can derail multiyear projects and damage researchers’ trust in the system.
-
-“The best and brightest may not automatically come to the US as they have
-
-for decades,” he said.
-
-Foreign students received nearly 44% of the STEM doctorates awarded by American universities in 2023. Students from China earned 17% of all US doctorates in science and engineering in 2020, and about 87% of Chinese recipients from 2005 to 2015 intended to stay, a 2023 study found.
-
-The United States is now making that pipeline less dependable. The number of visas issued to international students fell by roughly one-third in 2025.
-
-Last month, the Trump administration finalised a rule limiting how long foreign students can remain without applying for an extension. Announcing the measure, Homeland Security Secretary Markwayne Mullin said it would keep them focussed on their “primary purpose: completing their studies and returning home.”
-
-Deng, 37, the 2026 Fields medallist, said many universities in China, the United States and elsewhere had contacted him. He was considering his options but will remain at the University of Chicago for now. His research, collaborators and quality of life would all influence his decision, he said.
-
-I asked whether, if he were 20 today, he would still leave China for the United States. He noted the cuts to research funding and knowledge of the people affected by visa problems.
-
-“If I were making the decision in China today,” he said, “I would think much more carefully about whether to come to the United States.”
-
-[Read full article](https://www.deccanherald.com/opinion/china-hunts-for-scientific-talent-the-us-makes-it-easier-4114602)
-
----
-
-### Having the courage to hop out of hesitation
-*Deccan Herald · Opinion*
-
-I have been consistently using this carefully maintained, nearly quarter-century-old, vegetable-chopping-cum-coconut-grating device for years. Last week, when it became wobbly because its wooden edges had worn out, I had no choice but to switch to another. I had to make a conscious effort to overcome the initial discomfort of getting used to the glossy new gadget. Perhaps I missed my old prized possession so much that even trying out the new one felt like a chore.
-
-Certainly, I did not want to agree with the oft-repeated saying, “Change is the only constant in life.” True, whatever the context or stage of life, there is a certain comfort in staying within the familiar zone.
-
-But, lo and behold! The sleek new model, with its sharp cutting edge, made chopping quicker and saved considerable time. This small experience set me thinking. Perhaps it is our own apprehension that often gets in the way of progress.
-
-The sanctity of the sacred springWhether it is changing careers, joining a new class that sparks creativity, trying out a different recipe or even opting for a new hairstyle, there is often a moment of hesitation. At times, our attachment to the things we believe offers us comfort and can make us overlook opportunities that may come our way only once.
-
-Recently, an acquaintance was advised to take up more arduous gym workouts to achieve the weight she had aimed to reach. Which all along she avoided, being amply intimidated by an array of unfamiliar gym equipment and amazing anatomies around her. Somehow, sloughing off all her inhibitions, she started slogging at the gym with determination. Today, her commitment to fitness has helped her stay in a fabulous shape, and more importantly, fostered a feisty confidence in her.
-
-Once, during a stroll through sprawling green spaces, much against my stubborn spirit, I had to swerve away from my ‘usual’ stretch, since soil surface there was sodden, being slathered with slimy slush, due to incessant showers. But it was sheer serendipity, stepping onto another stretch, where I stood stupefied -- a splendid setting sun, the fragrance of flowers, and the soothing chirp of sundry birds-- a stupendous scene I had never noticed before.
-
-Perhaps there is a simple truth in all this: stepping away from what is familiar can sometimes open us to experiences we would otherwise miss. We may not always know what awaits us beyond our comfort zone, but sometimes, all it takes is the courage to take a different route.
-
-[Read full article](https://www.deccanherald.com/opinion/having-the-courage-to-hop-out-of-hesitation-4114584)
-
----
-
-### Usha Vance’s faith tests US pluralism
-*Deccan Herald · Opinion*
-
-Does the religious identity of prominent Indian Americans ever become an albatross around their neck? In Usha Vance’s case, it increasingly looks that way. The wife of Vice President J D Vance was raised Hindu and has not indicated any intention of converting to Christianity. Her faith has become a revealing fault line in American politics — one where religion, race, marriage and political power collide.
-
-Usha Vance’s Hindu identity has been discussed intensely because her husband’s political trajectory has placed their interfaith marriage under a national spotlight. Vance, a Catholic convert and one of the leading figures in the Republican Party, is widely viewed as a potential contender for the 2028 presidential nomination.
-
-In October 2025, at a Turning Point USA event in Mississippi attended by thousands, Vance was asked about his interfaith marriage and the religious upbringing of his children. He said that Usha accompanies him to church on most Sundays and that he hoped she would eventually be “moved” by the same Christian faith that had moved him. He also acknowledged that she has free will and that her not converting would not create a problem for their marriage.
-
-The episode was striking partly because of the history of their relationship. When Vance married Usha in 2014, he was not yet a Catholic; he had described himself at the time as agnostic or atheist. The couple held both Christian and Hindu wedding ceremonies, with the Hindu ceremony blessed by a Hindu priest. Five years later, in 2019, Vance converted to Catholicism.
-
-Usha, meanwhile, has accompanied him to Mass while retaining her own religious identity. Their four children are being raised in the Christian faith. The arrangement is ordinary for the compromises interfaith couples make. Yet because her husband is now vice president, the private question of religious difference has acquired a public dimension.
-
-'Obsessed with Usha': JD Vance reveals what drew him to second lady in new memoirVance’s memoir, Communion: Finding My Way Back to Faith, published in June this year, has made faith even more central to his public persona. While promoting the book, Vance again defended his hope that Usha might one day share his faith, saying that when a person believes something deeply, it is natural to want loved ones to share that belief. His position may be understandable as personal conviction, but the attention reveals how little room American public life sometimes leaves for religious ambiguity.
-
-Usha is hardly a passive figure whose identity can be reduced to her husband’s politics. A Yale-trained lawyer, she clerked for Chief Justice John Roberts before joining Munger, Tolles & Olson, where she represented some of the country’s leading corporations. She has a formidable record and a mind of her own. Yet that has not shielded her from scrutiny. Nick Fuentes, the white supremacist and far-right commentator, has questioned whether a politician with an Indian wife can genuinely support “White identity”. He also mocked Vance’s decision to name his son Vivek. Vance has defended his wife against such attacks.
-
-This leaves Vance caught between two impulses within his own political coalition: one that wants his wife to become Christian, and another that regards her Indian identity as evidence that she does not belong. Usha’s predicament is not unique. Nikki Haley converted from Sikhism to Christianity before entering electoral politics. Bobby Jindal converted from Hinduism to Catholicism, and his Hindu-born wife also converted. Kamala Harris grew up with both Hindu and Black Baptist influences, reflecting the layered identity of an Indian American raised in the United States. Vivek Ramaswamy, meanwhile, has remained Hindu while building a national political profile.
-
-All these cases raise the same uncomfortable question: must the faith of a candidate—or of a candidate’s spouse—be made to resemble whatever the electorate considers familiar and acceptable?
-
-America’s founders sought to prevent precisely such a religious qualification for public office. Article VI, Clause 3 of the US Constitution prohibits a religious test for federal office, while the First Amendment bars government from establishing religion or prohibiting its free exercise. These principles emerged from a country wary of religious establishment and coercion.
-
-The larger test is not whether Usha Vance eventually converts. It is whether she remains free not to. Her faith is hers to keep, change or reconcile in her own way. The real measure of American pluralism may be whether the country — and especially the political movement her husband leads — can accept that choice without demanding that she first become someone else.
-
-(The writer is a Delhi-based journalist)
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/usha-vance-s-faith-tests-us-pluralism-4114583)
 
 ---
 
