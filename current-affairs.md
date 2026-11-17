@@ -1,3 +1,641 @@
+## 17 November 2026
+
+### Bank Nifty hits record high; Sensex gains 640 points, Nifty crosses 25,450
+*Anupama Ghosh · business*
+
+Markets extended their morning gains sharply through the mid-session on Tuesday, with the Bank Nifty hitting a fresh all-time high and the Nifty50 climbing above the key 25,400 resistance level, backed by broad-based institutional buying and easing crude oil prices.
+
+At 1 pm, the BSE Sensex was up 640.08 points or 0.78 per cent at 82,744.87, while the NSE Nifty50 gained 159.65 points or 0.63 per cent to trade at 25,450.75. Bank Nifty broke above the 61,800 mark to post a fresh all-time high, with ICICI Bank, Axis Bank and SBI emerging as the top three index contributors.
+
+## Auto, PSU banks and Realty lead sectoral gains
+
+Sectoral performance was largely positive. Auto, PSU Banks and Realty each gained over 1 per cent, while the Nifty Capital Markets index was the best-performing sector. Nifty Energy was the worst performer, weighed down by sliding crude oil prices and losses in energy stocks. IT stocks witnessed modest profit-taking.
+
+Among the top Nifty50 gainers, Asian Paints rose 3.11 per cent to ₹2,653, Mahindra & Mahindra advanced 2.21 per cent to ₹3,412.80, Axis Bank climbed 2.15 per cent to ₹1,371.30, Eicher Motors gained 2.13 per cent to ₹7,760.50, and IndiGo added 1.86 per cent to ₹5,647.
+
+On the losing side, Coal India was the biggest decliner, down 1.89 per cent to ₹390. Power Grid fell 1.81 per cent to ₹257.45, HCL Technologies slipped 1.61 per cent to ₹1,362.30, ONGC declined 1.15 per cent to ₹224.37, and Infosys shed 1.02 per cent to ₹1,133.40.
+
+## Market breadth remains positive
+
+Market breadth on the BSE was positive, with 2,152 stocks advancing against 1,133 declining. As many as 71 stocks hit 52-week highs, while 42 touched 52-week lows. The total market capitalisation of BSE-listed companies stood at ₹5,10,81,896.77 crore, equivalent to $5.43 trillion.
+
+## Banking stocks benefit from record FPI inflows
+
+Pranay Aggarwal, Director and CEO of Stoxkart, attributed the banking sector’s outperformance to a combination of factors. ...”The sharp rally in the banking sector has been driven primarily by a strong comeback of FPIs into Indian equities after months of selling. Banking stocks, which form a large portion of FPI holdings, emerged as key beneficiaries of these record November inflows.”... He added that credit growth at around 19 per cent, strong deposit mobilisation aided by FCNR inflows and stable asset quality near multi-year lows had reinforced the sector’s fundamentals.
+
+On IT, Aggarwal noted that the sector’s recovery would hinge on deal conversions. ...”The sustainability of this recovery will depend on stronger deal wins, improved client spending and consistent earnings growth.”... For FMCG, he said ...”Rising commodity and packaging costs, coupled with uneven rural demand, have weighed on profitability and investor sentiment.”...
+
+## Crude oil declines; rupee strengthens
+
+In commodities, crude oil continued to retreat. WTI crude was trading in the $84–85 per barrel range, while MCX crude November futures were down approximately 1.5 per cent to ₹7,960. The Indian rupee strengthened further to 93.66 against the dollar, supported by lower oil prices and FPI inflows.
+
+## Gold and silver recover from Monday’s losses
+
+Gold and silver staged a partial recovery. COMEX gold futures were trading around $3,875, up 0.6 per cent, while COMEX silver rose 1.2 per cent to approximately $47.45. On the MCX, December gold was up 0.3 per cent to around ₹1,35,000 per 10 grams, and MCX silver recovered 0.6 per cent to approximately ₹1,68,900 per kg, partly paring Monday’s steep declines.
+
+## Nifty support at 25,280; resistance at 25,610
+
+SBI Securities flagged 25,280–25,300 as the key support zone for the Nifty, with resistance at 25,590–25,610. A move above 25,610, it noted, could extend the rally toward 25,760, while meaningful call writing at the 25,500 and 25,600 strikes pointed to near-term caution at higher levels. On Sensex, the brokerage placed support at 82,200 and resistance at 83,100. The Nifty’s advance-decline ratio stood at 34:16 at the time of reporting.
+
+Published on November 17, 2026
+
+---
+
+### DP World launches second weekly service between Cochin and Colombo
+*BL Kochi Bureau · business*
+
+##### SENSEX   82,551.58
+
++ 446.79
+
+##### SILVER   169,850.00
+
++ 1,987.00
+
+##### SENSEX   82,551.58
+
++ 446.79
+
+1.  Home 
+2.  Economy 
+3.  Logistics 
+
+## The new service, operated by Bengal Tiger Line, aims to offer businesses in southern India greater cargo movement flexibility and improved access to international shipping networks.
+
+Updated - November 17, 2026 at 01:36 PM.
+
+The additional sailing offers businesses in southern India greater flexibility in planning cargo movements while improving access to regional and international shipping networks.
+
+DP World has strengthened maritime connectivity between India and Sri Lanka with the introduction of a second weekly service connecting Cochin and Colombo.
+
+The additional sailing offers businesses in southern India greater flexibility in planning cargo movements while improving access to regional and international shipping networks.
+
+The new service, SIS, operated by Bengal Tiger Line (BTL), follows the Mangalore–Cochin–Colombo–Mangalore rotation. It calls at DP World’s International Container Transshipment Terminal (ICTT) in Kochi, facilitating cargo movement in both directions between Mangalore and Kochi.
+
+The inaugural vessel, MV TC SYMPHONY, berthed at DP World Cochin with a capacity of approximately 1,000 twenty-foot equivalent units (TEUs).
+
+Hemant Kumar Ruia, Country Manager, Subcontinent (India), DP World, said the introduction of the second weekly Kochi–Colombo service marked another step towards strengthening regional trade links. It would offer businesses greater flexibility, improved access to international shipping networks and more reliable supply chains.
+
+The additional service is expected to enhance cargo movement between India and Sri Lanka, create new opportunities for businesses to access global markets and further strengthen DP World Cochin’s position as a gateway for southern India’s trade through Colombo.
+
+Published on November 17, 2026
+
+THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.
+
+THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.
+
+---
+
+### Mastercard launches largest Asia Pacific innovation hub in Singapore
+*BL Mumbai Bureau · business*
+
+Mastercard opened its largest Innovation Centre of Excellence (ICoE) in Asia Pacific in Singapore on November 17, 2026, a 7,200-square-foot facility designed to accelerate the development of AI, cybersecurity, and digital commerce solutions across more than 40 regional markets.
+
+The centre currently employs over 55 specialists and will add more than 250 roles by 2029. It houses four units: an AI Centre of Excellence, a Fusion Centre for cyber and fraud intelligence, a Mastercard Experience Centre for partner engagement, and a Makerspace for rapid prototyping.
+
+Singapore’s Minister for Energy, Trade and Industry, Dr Tan See Leng, and Singapore Economic Development Board Chairman Png Cheong Boon both attended the launch, highlighting the facility’s role in positioning Singapore as a regional payments innovation hub and high-value job creator.
+
+The investment comes as Mastercard projects that by 2030, agentic AI could influence between $3 trillion and $5 trillion in global consumer commerce, with over one in ten online shoppers routinely using AI agents for purchases. The company cited cybercrime accounting for over 30 per cent of recorded crime in Asia Pacific as a key driver for expanded security capabilities.
+
+Mastercard currently employs more than 850 people in Singapore, home to its Asia Pacific headquarters. That figure is expected to surpass 1,000 by end-2029. Richard Wormald, President of Asia Pacific, said the ICoE would help the region convert emerging technology into scalable, real-world solutions.
+
+Published on November 17, 2026
+
+---
+
+### Veranda Learning’s commerce vertical JK Shah Classes to list on November 18
+*BL Chennai Bureau · business*
+
+Suresh S Kalpathi, Chairman and Managing Director, Veranda Learning
+
+J.K. Shah Commerce Education Limited (JKSCEL), the commerce education company recently demerged from Chennai-based Veranda Learning Solutions will debut on the stock exchanges tomorrow (November 18). 
+
+The company has received all the regulatory approvals from SEBI, NSE and BSE and was in the process of fixing an appropriate date for the listing ceremony.
+
+Under the Scheme of Arrangement, shareholders of Veranda Learning as on the record date October 6, 2026 will receive one fully paid-up equity share of JKSCEL for every one equity share held in Veranda Learning. 
+
+JKSCEL brings together established commerce education brands, including J.K. Shah Classes, BB Virtuals, Navkar Digital Institute, Tapasya College of Commerce and Logic School of Management. 
+
+Veranda Learning had to decide to demerge the commerce vertical to build an independently listed entity that will be better positioned to pursue expansion opportunities, strengthen its academic offerings and scale its presence. It expects the verticals to reach revenues of ₹1,000 crore by FY30, growing at a CAGR of about 35 per cent.
+
+Founded nearly four decades back as a CA coaching major, JK Shah Classes was acquired by the Chennai-based company in 2022.
+
+Suresh S Kalpathi, Chairman and Managing Director, Veranda Learning had earlier told _businessline_ that the frim is expecting a strong listing for its commerce vertical despite volatile market conditions given JK Shah’s pedigree as the undisputed leader in the commerce education segment in the country 
+
+“Commerce education has significant potential, and we believe an independent platform will enable JKSCEL to pursue that opportunity more effectively. It also allows shareholders to participate directly in the growth journey of a specialised Commerce education business,” Kalpathi said in a media release.  
+
+“We have spent decades establishing academic credibility and earning the trust of students pursuing professional qualifications. Bringing complementary education businesses together under one platform creates an opportunity to build on that legacy, expand our reach and deliver quality education to a much wider student community,” J.K. Shah, Chairman and Managing Director, J.K. Shah Commerce Education Limited added.
+
+Published on November 17, 2026
+
+---
+
+### Acquisition of Germany’s impacx to be great add-on to existing AI journey, says Fusion CX
+*Mithun Dasgupta · business*
+
+Fusion CX Co-Founder, MD and CEO Pankaj Dhanuka
+
+Global customer experience solutions provider Fusion CX said Germany’s impacx would be a great add-on to the existing AI journey of the company, as it would augment the ongoing and present AI products and tools.
+
+Kolkata-based Fusion recently announced that it had signed a binding agreement to acquire impacx solutions GmbH, tel-inform solutions GmbH and impacx services GmbH (together, impacx), a customer experience group based in Kleve, Germany. The acquisition marks the company’s foray into the German market.
+
+During an earnings conference call on the Q2FY27 results, Fusion said it expects to integrate impacx into its platform over the next six to eight months.
+
+“Good part is it will give access into one of the front-end German languages, and the company has both operations in Germany that is onshore, and they also have operations in Greece, which is regarded as near shore,” Fusion CX Co-Founder, MD and CEO Pankaj Dhanuka told analysts.
+
+“They have already been using AI since 2018. They have a platform called Data Hub, and they also have a brand through which they service more than 250 micro and small customers in the area of reception and support, and they all do that in German language,” Dhanuka said.
+
+Commencing operations in 2004, Fusion CX began investing in AI around five years ago. Currently, the company is present in 14 countries with 42 delivery locations.
+
+“As of now, we have around 750 customers that we service across the globe. We are AI-first omni-channel customer experience shop. There is a vast spectrum of services we provide across customer acquisition, customer service, order fulfilment, payment collections, customer retention, tech support, and so on. And what is important to note is the services that we provide are embedded with our in-house developed and nurtured AI tools and platform,” Dhanuka added.
+
+During the second quarter this fiscal, the company’s revenue from operations stood at ₹525.30 crore, registering a growth of 22.1 per cent on a year-on-year basis. EBITDA stood at ₹97.60 crore, a growth of 15.2 per cent y-o-y with an EBITDA margin of 18.6 per cent. Net profit grew 31.3 per cent y-o-y at ₹58.60 crore.
+
+Published on November 17, 2026
+
+---
+
+### No Mobile Towers, No Satellite – Yet Soldiers Stay Connected? How 2 Students Built This Radio For The Indian Army
+*Parishmita Saikia · general*
+
+Two BITS students have developed a pocket-sized radio that could help Army soldiers communicate even without mobile towers or satellite networks. How does this technology work?
+
+[Read full article](https://www.news18.com/cities/hyderabad-news/no-mobile-towers-no-satellite-yet-soldiers-stay-connected-how-2-students-built-this-radio-for-the-indian-army-ws-l-10428638.html)
+
+---
+
+### Dr. Agarwal’s Eye Hospital amalgamation with Dr. Agarwal’s Health Care effective from Nov 1
+*BL Chennai Bureau · business*
+
+Dr. Agarwal’s Health Care Ltd (AHCL) on Tuesday said that its Scheme of Amalgamation with Dr. Agarwal’s Eye Hospital Ltd (AEHL) has become effective and operative from November 1.
+
+NCLT, Chennai Bench, sanctioned the Scheme through an order dated September 30, 2026. Following other procedures, the amalgamation has taken effect, AHCL said.
+
+The amalgamation brings the two listed entities together within Dr. Agarwal’s Health Care Ltd, simplifying the Group’s corporate structure as it continues to expand its eye-care network. The combined structure provides a more unified framework for governance, capital allocation and long-term business planning.
+
+The Board has fixed Wednesday, November 18, 2026 as the record date for determining eligible shareholders of Dr. Agarwal’s Eye Hospital Ltd who will receive shares of Dr. Agarwal’s Health Care Ltd pursuant to the Scheme.
+
+The consolidation will help support closer alignment across investments in hospitals, clinical capabilities, technology and talent, while providing shareholders and investors with a clearer view of the combined organisation.
+
+“Our focus remains on creating long-term value through disciplined expansion, stronger operating performance and continued investment in clinical excellence. We believe the combined structure will support greater organisational alignment as we scale across markets,” Adil Agarwal, Chief Executive Officer, Dr. Agarwal’s Health Care Ltd said.
+
+Under the approved share exchange ratio, eligible AEHL shareholders will receive 23 fully paid-up equity shares of AHCL of face value ₹1 each for every 2 fully paid-up equity shares of AEHL of face value ₹10 each held. This is equivalent to 11.5 AHCL shares for every one AEHL share.
+
+Published on November 17, 2026
+
+---
+
+### Gold lingers near more-than-one-year low on Fed hike bets
+*Reuters · business*
+
+Gold prices ticked up on ​Tuesday, but remained near the more-than-one-year low touched ⁠in the previous session due to a firmer US dollar and growing expectations of a Federal Reserve rate hike next month.
+
+Spot gold ‌was up 0.5% at $3,874.41 per ounce by 0634 GMT, after hitting its lowest level since ‌October 2025 on Monday, while US gold futures for ‌December ⁠delivery rose 0.6% to $3,876.70.
+
+The dollar scaled a fresh ⁠19-month peak on Tuesday, making greenback-priced bullion more expensive for buyers overseas.
+
+"Gold is trading as a function of expectations for US Fed policy next ​year and the market ‌trying to work out how high interest rates in the States can go," said Kyle Rodda, senior financial market analyst at Capital.com.
+
+"Essentially, the big selloff we saw ‌last night in gold is a reflection of that ​and today's bounce is just a slight reversal of it."
+
+Markets see a 95.4% chance of ⁠a 25-basis-point rate hike in December, while the probability of a larger 50-basis-point move at 4.6%, according to CME's FedWatch ‌tool.
+
+Higher interest rates increase the opportunity cost of holding non-yielding bullion, reducing its appeal to investors.
+
+Market participants now await the minutes of the latest Fed Open Market Committee meeting, due on Wednesday, for further clues on the monetary policy trajectory.
+
+"Demand has stayed resilient so far, but ‌mounting macro headwinds could erode investment demand, leaving the market without a ​key pillar of support," analysts at ANZ said in a note.
+
+"Silver remains a high-beta play on ⁠gold. With its own demand fundamentals soft, any sustained rebound will ⁠depend on a gold recovery," the note added.
+
+Spot silver climbed 1.1% to $47.50 per ounce, after hitting its ‌lowest level since late October 2025 in the previous session.
+
+Platinum gained 1.2% to $1,467.29 and palladium rose 0.8% to $976.58.
+
+Published on November 17, 2026
+
+---
+
+### Millions App launches US Stock and ETF access for Indian investors
+*BL Mumbai Bureau · business*
+
+Mumbai-based investment platform Millions, operated by Raise Financial Services, has launched US stocks and ETF investing for Indian users, the company announced on Tuesday. The offering operates through the GIFT City International Financial Services Centre (IFSC) framework, under oversight of the IFSCA and in compliance with applicable RBI and FEMA requirements.
+
+The platform enables fractional investing, allowing users to buy portions of US stocks rather than whole shares. It also supports Systematic Investment Plans (SIPs) at daily, weekly, or monthly intervals, letting investors build positions gradually. Fund transfers are integrated with five banks — HDFC Bank, ICICI Bank, Kotak Mahindra Bank, Axis Bank and IDFC FIRST Bank — with more partners expected to be added.
+
+Trade execution and payment infrastructure is supported by India INX, ViewTrade and GlomoPay. The platform presents stocks in curated thematic collections to help first-time global investors navigate unfamiliar markets.
+
+Pravin Jadhav, Founder and CEO of Raise Financial Services, said the launch addresses growing demand for portfolio diversification beyond domestic markets, with US investing becoming increasingly relevant for Indian investors.
+
+Millions currently offers mutual funds, stocks, ETFs, IPOs and NFOs on its platform, with zero brokerage, no account opening fees, and no annual maintenance charges. The company positions the product as a tool for investors taking their first steps into international markets.
+
+Published on November 17, 2026
+
+---
+
+### India hits out at Turkey for 'blatant and intentional' exclusion from UN talks
+*India Today World Desk · general*
+
+## India voted against the draft resolution, which was adopted by the UN General Assembly on Monday with 112 votes in favour, six against and 39 abstentions. Armenia, Cyprus, Greece, Israel and the US also voted against it. Iraq introduced the resolution, while Turkey served as its facilitator.
+
+India Slams Turkey At UN For 'Deliberately' Excluding It From OIC Resolution Talks. (File photo: AP)
+
+United Nations,Nov 17, 2026 13:07 IST
+
+India has strongly objected to Turkey’s “blatant and intentional” decision to exclude New Delhi and several other UN member states from consultations on a resolution concerning cooperation between the UN and the Organisation of Islamic Cooperation (OIC), news agency Press Trust of India reported.
+
+India voted against the draft resolution, which was adopted by the UN General Assembly on Monday with 112 votes in favour, six against and 39 abstentions. Armenia, Cyprus, Greece, Israel and the US also voted against it. Iraq introduced the resolution, while Turkey served as its facilitator.
+
+India’s Deputy Permanent Representative to the UN, Ambassador Yojna Patel, said the OIC’s Permanent Observer Mission had excluded the Indian delegation and several other countries while circulating successive drafts of the resolution, according to PTI.
+
+Explaining India’s vote, Patel criticised the working methods adopted by the facilitator and called for an investigation into the process.
+
+“My delegation has voted against this resolution not only because of its substantive aspects, but also for an even more concerning matter regarding the working methods adopted by the facilitator who convened negotiations on the same thing,” she said.
+
+Expressing “deep dismay” over the lack of inclusive negotiations, Patel said the OIC’s Permanent Observer Mission “chose to exclude not only my delegation but a number of other countries when circulating successive drafts of the resolution."
+
+“This is not only shocking but also sets a bad precedent of delegations excluding specific member states to enable their agendas,” she said.
+
+Patel said that even after some delegations raised objections in later rounds, the facilitators did not include certain countries. She added that basic procedures, including acknowledging inputs, were “blatantly disregarded, indicating that it was done by design rather than by mistake."
+
+She said it was “unfortunate that there are member states who publicly profess commitment to multilateralism and completely turn a blind eye to its core guiding principles."
+
+Patel said the UN was founded on sovereign equality, inclusivity and multilateral cooperation. Differences among member states were part of multilateral diplomacy and “cannot, in themselves, justify blatant and intentional exclusion from the consultations on matters before the General Assembly”, she added.
+
+“My delegation strongly objects to such working methods that try to hoodwink excluded delegations into believing that this was just a technical update, which it was not,” Patel said. India called on the UN General Assembly president “to investigate this and prevent its recurrence."
+
+India also questioned the substance of the resolution, which sought to expand the OIC’s role in finding solutions to other conflicts. “The rationale for seeking to extend the role of the OIC in this manner is unclear. The OIC is not a regional organisation,” Patel said.
+
+New Delhi also expressed concern over the resolution’s reference to the ninth session of the OIC Ministerial Conference on Women, held in Islamabad in July. The declaration adopted at the conference referred to Jammu and Kashmir. Patel said India rejected both the declaration and the accompanying resolution adopted at the conference.
+
+“The resolution contains reference to documents and statements that have unwarranted and factually incorrect references to my country. Such documents, unfortunately, reflect the continued misuse of the OIC platform for narrow political ends. The OIC has no locus standi to comment on India’s internal affairs,” Patel said.
+
+In an apparent reference to Pakistan, India said it regretted that the OIC had “once again allowed itself to be systematically misused by one Member State to weaponise OIC resolutions and declarations against India through false and baseless allegations”. Pakistan is a founding and prominent member of the 57-member OIC.
+
+“India calls upon the OIC to uphold the principles of objectivity, constructive dialogue, and mutual respect, and to ensure that its outcomes do not become a vehicle for the pursuit of narrow political agendas,” Patel said.
+
+She added: “India believes that sovereign member states take care of the interests of their citizens, regardless of their faith. We do not recognise that only co-religionists can protect the interests of adherents of their faith. Such regressive views have no place in today’s world, and especially at this forum.”
+
+Cyprus also expressed deep regret over the “lack of transparency and inclusivity by Turkey as the facilitator of this resolution throughout the negotiation process." Its delegate said Cyprus had repeatedly been excluded from communications and negotiations despite requests to be included.
+
+“Despite our best efforts and requests, inclusion of all UN Member States in this negotiation process is not a matter of political discretion of the facilitator, but a principle enshrined in the UN Charter,” the Cyprus delegate said.
+
+Greece raised “serious concerns” over the conduct of negotiations under Turkey’s facilitation. Its delegate said the European Union had submitted comments and amendments in good faith, but these were neither meaningfully addressed nor accompanied by substantial explanations for their rejection. Revised drafts were also circulated without adequate consultation, the delegate said.
+
+Greece also objected to its exclusion, along with some other delegations, from the circulation of draft texts. “Such practices fall short of the transparency, inclusivity and good faith expected in General Assembly negotiations. We strongly believe they are not representative of our member states,” its delegate said.
+
+The US said it hoped future versions of the OIC resolution would “eliminate excessive and redundant language and contentious issues and instead focus on direct and concrete areas of cooperation that can achieve consensus”.
+
+Ireland, speaking on behalf of the European Union, said the bloc and its member states regretted the “lack of transparency and inclusivity throughout the negotiation process”, despite requests to be included in the consultations. “The EU and several of its member states were excluded from relevant communications and were consequently not afforded a meaningful opportunity to participate in the negotiations,” it said.
+
+The resolution was ultimately adopted by the General Assembly, but India and several other countries opposed it over both its content and the way the consultations were conducted. India also asked the General Assembly president to investigate the exclusions and prevent a recurrence.
+
+\- Ends
+
+---
+
+### Govt to seek public comments on SAF policy in one to two weeks: K Rammohan Naidu
+*PTI · business*
+
+File Photo: Civil Aviation Minister K Rammohan Naidu | Photo Credit: PTI
+
+The government plans to put out the draft sustainable aviation fuel policy for public comments in one to two weeks, Civil Aviation Minister K Rammohan Naidu said on Tuesday, as he highlighted that SAF presents an economic opportunity for the country.
+
+The country has the potential to produce about 10 million tonnes of SAF annually by 2040, which will require $70-85 billion investment.
+
+While highlighting the benefits of using Sustainable Aviation Fuel (SAF), Naidu said it can help reduce the country's fuel import bill.
+
+According to him, the draft SAF policy would be put out for public comments in one or two weeks.
+
+He was speaking at the India Sustainable Aviation Summit organised by the industry body FICCI and the civil aviation ministry.
+
+The civil aviation ministry has circulated the draft National Policy on SAF, which mandates the use of only indigenously manufactured SAF to be blended with Aviation Turbine Fuel (ATF).
+
+Taxation support, including GST exemption or reduction, as well as viability gap funding, green financing instruments and refinery retrofitting support, among other measures, would be considered to incentivise SAF production.
+
+Published on November 17, 2026
+
+---
+
+### PM Modi visits 124-year-old Khalsa Diwan Gurudwara in Manila, Lays foundation for redevelopment; See pics
+*Anshika Pandey · general*
+
+## PM Modi visits 124-year-old Khalsa Diwan Gurudwara in Manila, Lays foundation for redevelopment; See pics
+
+PM Modi in Manila laid the foundation stone for the redevelopment of the 124 year old Khalsa Diwan Gurudwara, the oldest gurudwara in the Philippines, during his visit for the ASEAN Summit.
+
+Prime Minister Narendra Modi visited the oldest gurudwara in the Philippines during his Manila trip. He offered prayers and laid the foundation stone for the redevelopment of the historic Khalsa Diwan Gurudwara. The visit was emotional for the Sikh community in Manila, which has kept this place alive for more than a century.
+
+## **A very special day**
+
+PM Modi reached Manila on Monday for a three-day visit from November 15 to 17 and visited the Gurudwara Khalsa Diwan on Tuesday. He called November 17 a very special day, saying the over a century-old gurudwara holds immense spiritual significance and praising the Sikh community for its service inspired by the teachings of the Guru Sahibs.
+
+> November 17, 2026
+
+## **A century-old bridge between two countries**
+
+First founded in 1901, the Khalsa Diwan Gurudwara was fully organised in 1903. In 1924, it was registered under the name Khalsa Diwan. The Ministry of External Affairs claims that the gurudwara serves the Sikh community and other communities in Manila in a spiritual, cultural, and charitable capacity. It referred to the organisation as a crucial link between Philippine society and the Indian Sikh population. This gurudwara serves as more than just a place of devotion for many families in Manila. People congregate there, celebrate holidays, lend a hand to those in need, and maintain ties to their heritage.
+
+## **PM Modi in Manila**
+
+PM Modi is in Manila for the ASEAN and East Asia Summits, hosted by the Philippines under the theme Navigating Our Future, Together. Talks cover security, trade, the South China Sea and Myanmar. He also met the diaspora and was welcomed with cultural performances.
+
+---
+
+### Sensex surges over 600 points: 4 reasons why Dalal Street is on a roll
+*Koustav Das · general*
+
+The bulls are back on Dalal Street, and this time the rally has some powerful triggers behind it. The Sensex surged over 600 points on Tuesday, extending gains for a second consecutive session as foreign investors returned to domestic equities, crude oil prices cooled and banking stocks powered ahead.
+
+At 1:04 pm, the 30-share BSE Sensex was trading at 82,726.40, up 621.61 points, or 0.76%. The NSE Nifty 50 stood at 25,442.50, gaining 151.40 points, or 0.60%. The banking rally was particularly strong, with the Bank Nifty touching a fresh record high of 62,414.90.
+
+The advance was broad-based, with all sectoral indices trading in the green. PSU banks, realty, automobiles, metals and IT stocks were among the leading gainers.
+
+Here are four reasons behind the latest market rally.
+
+### 1\. Foreign investors are pouring money back into domestic equities
+
+One of the biggest drivers of the rally has been the return of foreign portfolio investors (FPIs), who had pulled money out of domestic equities over the previous two months.
+
+The reversal has been striking. Foreign investors bought domestic equities worth Rs 4,864.68 crore on Monday, according to exchange data. Their cumulative investment in domestic equities during November has also climbed sharply, with NSDL data cited by market reports putting the inflow at around Rs 89,856 crore.
+
+The renewed buying has helped lift market sentiment and provided support to heavyweight stocks.
+
+VK Vijayakumar, chief investment strategist at Geojit Investments, said the combination of stronger foreign inflows, improving earnings and a firmer rupee was strengthening the outlook for domestic equities.
+
+The return of overseas money is significant because sustained FPI buying can support valuations and improve liquidity, particularly in large-cap stocks.
+
+### 2\. Falling crude oil prices offer relief to India
+
+The decline in crude oil prices is another important tailwind.
+
+Brent crude, the global oil benchmark, slipped below $92 per barrel, as expectations of a global supply surplus and recovering exports from the Middle East outweighed concerns over geopolitical tensions and attacks on shipping routes.
+
+For India, which imports a large part of its crude oil requirements, cheaper oil can have a meaningful impact.
+
+Lower crude prices can reduce the country's import bill, ease pressure on inflation and help limit costs for businesses that depend on fuel and petroleum-based inputs. Oil marketing companies, airlines, tyre manufacturers and paint companies are among the sectors that can benefit from softer oil prices.
+
+The easing of crude prices has also helped improve sentiment around the rupee, making domestic equities more attractive to overseas investors.
+
+### 3\. Banking stocks are leading the charge
+
+The rally has received a significant boost from banking stocks, with the Bank Nifty hitting a fresh record high.
+
+The index climbed more than 800 points during the session, reflecting strong buying in both public and private sector lenders. Punjab National Bank, Canara Bank, Bank of Baroda, AU Small Finance Bank and IDFC First Bank were among the prominent gainers in the banking pack.
+
+ICICI Bank, State Bank of India and Axis Bank were also among the major contributors to the broader market's gains.
+
+The strength in banking stocks is important because financial services companies carry significant weight in benchmark indices. A sustained rally in lenders can therefore provide considerable support to the Sensex and Nifty.
+
+Investors are also watching loan growth, asset quality and credit demand as banks report their quarterly performance.
+
+### 4\. Corporate earnings are keeping investor confidence alive
+
+The latest rally is also being supported by improving corporate earnings.
+
+The second-quarter results season has offered investors signs of resilience in several parts of the economy, helping improve confidence in India's domestic growth story.
+
+Stronger earnings can make stock valuations more attractive and encourage investors to return to sectors and companies where business performance is holding up.
+
+There is also a broader shift in global investor positioning. Technology stocks have faced pressure in the US and other Asian markets amid concerns over AI valuations and fresh restrictions on access to advanced chips. While this has weighed on global sentiment, some analysts believe India could benefit from investors reassessing their exposure to other markets.
+
+However, the global backdrop remains uncertain. Major Asian markets, including Japan and South Korea, were trading lower on Tuesday, showing that the rally in domestic equities is not part of a broader regional surge.
+
+### CAN THE RALLY SUSTAIN?
+
+The latest gains have strengthened the near-term mood on Dalal Street, but investors will be watching whether foreign inflows continue and crude prices remain under control.
+
+Technical levels will also matter. Analysts have identified the 25,400 zone as an important resistance area for the Nifty, with sustained trading above it needed to strengthen the bullish momentum.
+
+For now, the combination of foreign money returning, lower oil prices, banking stocks hitting new highs and resilient corporate earnings has given domestic equities several reasons to cheer. Whether these triggers can sustain the rally will depend on how the global environment and domestic earnings evolve in the coming sessions.
+
+\- Ends
+
+---
+
+### Modi calls for cooperation, not competition, to shape India-ASEAN future
+*Amiti Sen · business*
+
+In this screengrab from a video posted on Nov. 17, 2026, Prime Minister Narendra Modi addresses the 23rd ASEAN-India Summit, in Manila, Philippines. | Photo Credit: via PTI Photo
+
+Prime Minister Narendra Modi on Tuesday called on India and ASEAN to shape the region’s future through cooperation rather than competition, saying the two sides had the collective strength and resolve to make the Indo-Pacific a symbol of peace and stability.
+
+Modi also emphasised that cooperation between the two sides was expanding into emerging areas such as digital technology, defence and space.
+
+## Cooperation key to regional peace and stability
+
+Addressing the 23rd ASEAN-India Summit in Manila, the PM said the world had experienced one crisis after another in recent years and needed peace, stability and predictability more than ever. Against this backdrop, he said, this year’s summit theme, “Navigating Our Future, Together”, assumed particular significance.
+
+“India and ASEAN together represent nearly one-fourth of the world’s population. It is therefore essential that our future is determined not by competition but by cooperation,” he said, adding that both sides had the capability and determination to make the region an example of peace and stability.
+
+## Partnership expands into new areas
+
+Modi said India’s Act East Policy had given fresh momentum and depth to its relations with ASEAN over the past years. “Our partnership is now moving beyond shared culture and heritage to encompass new dimensions in areas such as digital technology, defence and space,” he said
+
+Highlighting the people-to-people dimension, he said India had undertaken more than 100 initiatives since 2014 to strengthen ties, launched nearly 250 Quick Impact Projects and provided over 10,000 skill-building scholarships. Direct flights between India and nine ASEAN countries, along with growing tourism, further evidenced closer ties, he added.
+
+## India’s development linked to ASEAN’s prosperity
+
+The Prime Minister said India’s development and ASEAN’s prosperity were closely interlinked, underlining the strategic importance New Delhi attaches to the 11-member grouping. This was his 13th interaction with ASEAN leaders in this format and his third visit to an ASEAN country this year.
+
+He said the ASEAN Community Vision 2045 and India’s Viksit Bharat 2047 vision could play an important role in realising both sides’ shared aspirations.
+
+“Over the past twelve years, we have given fresh momentum to our partnership. Now, we must together give a new direction to the future of our region,” Modi said, reaffirming India’s unwavering commitment to ASEAN unity and centrality.
+
+He expressed confidence that the summit would take the Comprehensive Strategic Partnership to new heights and help build a secure, inclusive and prosperous Indo-Pacific.
+
+Published on November 17, 2026
+
+---
+
+### Aman Arora Woos UAE Investors at Dubai Summit; Assures Seamless Clearances, Robust Infra & Full Support
+*India Today Web Desk · general*
+
+## Industries Minister Arora calls on Secretary General UAEIIC H.E. Abdulla Ahmed Al Suwaidi; Pitches Punjab as Next Investment Hotspot for UAE Capital
+
+New Delhi,Nov 17, 2026 13:03 IST
+
+In a major outreach to attract global capital and boost industrial development as envisioned by Chief Minister Bhagwant Mann, Punjab Industries and Commerce Minister Mr Aman Arora on Monday met H.E. Abdulla Ahmed Al Suwaidi, Secretary General of the UAE International Investment Council (UAEIIC), on the sidelines of the Annual Investment Meeting (AIM) in Dubai to discuss expansive opportunities for mobilising investments into the state.
+
+During the high-level meeting, the Industries Minister apprised H.E. Abdulla Ahmed Al Suwaidi of Punjab’s vast economic potential and invited UAE investors to tap into high-growth sectors through government, semi-government and private sector partnerships.
+
+Reiterating the state government’s resolve, Mr Aman Arora assured the UAEIIC of complete administrative support, handholding and logistical facilitation from the Punjab Government for global enterprises seeking to set up or expand operations in the state. He emphasised that under the visionary leadership of Chief Minister Bhagwant Mann, Punjab is keen to build long-term, mutually beneficial partnerships with UAE-based investors and institutional funds.
+
+Highlighting the state’s investor-centric reforms, the Minister underscored the ease of doing business facilitated through ‘Invest Punjab’—the state’s unified single-window platform that delivers prompt statutory approvals and clearances to ensure a smooth, hassle-free investment journey.
+
+“Punjab offers a highly conducive entrepreneurial ecosystem, excellent multimodal connectivity, skilled technical manpower, and a transparent governance framework. We invite UAE business leaders to become active partners in Punjab’s transformative economic growth story,” Mr Aman Arora said.
+
+The UAE International Investment Council (UAEIIC), which unites the UAE’s public and private entities to channel outward foreign direct investment (FDI), welcomed the state delegation's proactive outreach. The engagement focused on establishing robust institutional linkages to enable direct capital inflows and joint ventures between the UAE and Punjab.
+
+Expressing confidence in the discussions, Mr Aman Arora noted that this engagement marks a significant milestone that will pave the way for deeper bilateral economic cooperation, stronger business ties and substantial investment pipelines in Punjab.
+
+**_Information received from Information and Public Relations Department, Punjab_**
+
+**_Disclaimer:_ The material, content, and/or information contained within this impact feature are published strictly for advertorial purposes. T.V. Today Network Limited hereby disclaims any and all responsibility, representation, or endorsement with respect to the accuracy, reliability, or quality of the products and/or services featured or promoted herein. Viewers or consumers are strongly advised to conduct their own due diligence and make independent inquiries before relying on or making any decisions based on the information or claims presented in the impact feature. Any reliance placed on such content is strictly at the individual’s own discretion and risk.”**
+
+\- Ends
+
+---
+
+### Cyclone Akvan Alert: Andhra Pradesh braces for very severe storm, landfall on November 20
+*DNA Web Team · general*
+
+Cyclone Akvan is likely to make landfall between Nellore and Tuni on November 20 as a very severe cyclonic storm, bringing winds up to 145 kmph and extremely heavy rainfall.
+
+Cyclone Akvan Alert: Andhra Pradesh braces for very severe storm, landfall on November 20 (Filephoto)
+
+Cyclone Akvan is likely to make landfall along the Andhra Pradesh coast on November 20 as a 'very severe cyclonic storm', with the India Meteorological Department (IMD) warning of extremely heavy rainfall, strong winds and potential damage across coastal districts.
+
+According to the IMD, the cyclonic storm is expected to cross the coast between Nellore and Tuni, covering parts of Andhra Pradesh and Yanam, around noon on Friday. Wind speeds are likely to reach 120-130 kmph, with gusts of up to 145 kmph.
+
+The weather system was centred over the central and adjoining west-central Bay of Bengal at 5:30 am on Tuesday, approximately 610 km east of Chennai, 660 km southeast of Machilipatnam and 670 km south-southeast of Visakhapatnam.
+
+The IMD said the storm is likely to intensify into a severe cyclonic storm by Tuesday evening and further strengthen into a very severe cyclonic storm by November 19.
+
+##  **Heavy rainfall warning for Andhra Pradesh, neighbouring states**
+
+The weather department has forecast extremely heavy rainfall, exceeding 21 cm at isolated places in north coastal Andhra Pradesh on November 19 and 20.
+
+Several districts have been placed under orange and yellow alerts. Alluri Sitharama Raju, Kakinada, Parvathipuram Manyam, Srikakulam and Vizianagaram are among the districts under an orange alert for November 20.
+
+The impact is also expected to extend to neighbouring states. North Tamil Nadu, Puducherry and Karaikal are likely to receive heavy rainfall at isolated places between November 17 and 20, with heavy to very heavy rainfall forecast on November 19.
+
+Parts of Telangana are likely to receive heavy to very heavy rainfall on November 20 and isolated heavy rainfall on November 21. Gangetic West Bengal may also experience heavy rainfall at isolated places on November 19 and 20.
+
+## **Odisha, Andhra Pradesh step up cyclone preparedness**
+
+With Cyclone Akvan approaching, the Odisha government has stepped up precautionary measures, deploying 74 rescue teams and initiating evacuation plans for vulnerable areas in southern districts.
+
+The state administration will begin evacuating residents from vulnerable locations on Tuesday. Leave for government officials has also been cancelled in eight districts, including Koraput, Rayagada, Gajapati, Sundargarh, Malkangiri, Kandhamal, Ganjam and Puri.
+
+In Ganjam, authorities have identified landslide-prone and low-lying areas. As many as 107 pregnant women have already been shifted to safer locations, while residents of landslide-prone areas are also being evacuated.
+
+Meanwhile, Andhra Pradesh Chief Minister N Chandrababu Naidu held a teleconference on Tuesday to review preparedness. He directed officials to regularly communicate weather warnings to residents and ensure that fishermen do not venture into the sea.
+
+##  **Potential damage from Cyclone Akvan**
+
+The IMD has warned that the storm could cause major damage to kutcha houses and huts, while vulnerable structures, tin-roofed and asbestos-roofed houses could also be affected.
+
+Strong winds may damage power and communication poles, uproot trees and affect coastal crops, plantations and orchards.
+
+Andhra Pradesh and Odisha are preparing for their third cyclone in three weeks, having already experienced Cyclones Arnab and Murasu, which caused damage and loss of life.
+
+---
+
+### J&K encounter: Probe finds slain terrorist sheltered LeT commander months before joining terror ranks
+*PTI · general*
+
+Kulgam: Umar Nisar Dar, one of the terrorists involved in the November 11 attack on CRPF personnel here, allegedly provided shelter and logistical support for nearly six months to terrorist commander Lateef Bhat and the duo conducted reconnaissance before executing their plan, according to officials.
+
+Dar, a former bread-maker who had been reported missing by his family, was killed in an encounter with the security forces here on Monday, barely a week after he allegedly joined The Resistance Front (TRF), an offshoot of the Pakistan-based Lashkar-e-Taiba (LeT).
+
+Both Dar and LeT commander Bhat were traced to Laru bypass, leading to an encounter that left the former dead. Bhat, one of the most wanted and the only surviving local terrorist in Kashmir valley, managed to escape. A massive search operation continued in a vast area around the encounter site for the second day on Tuesday to track and neutralise him.
+
+  
+
+The officials said that according to the investigation, Dar had been working closely with Bhat and had allegedly provided him shelter and logistical support for almost six months before the duo undertook reconnaissance and carried out the attack on the CRPF party in Akhran village, leaving three troopers injured.
+
+An analysis of CCTV footage from November 10 and 11 showed that both Dar and Bhat were captured on multiple cameras installed at the identified locations, the officials said.
+
+They said the footage documented their movements while conducting reconnaissance and subsequently fleeing after the attack.
+
+The duo had conducted reconnaissance at multiple locations, including Mir Bazar, Akhran, Hablish and Kilam, on November 10, apparently to identify potential targets and plan strikes against the security forces, the officials said.
+
+Following Dar's disappearance, his family had lodged a missing report at the Kulgam police station. The subsequent investigation established that he had joined the TRF immediately after the November 11 attack, they said.
+
+After days of intense search, the officials said the Army and the Special Operations Group of Jammu and Kashmir Police launched a cordon and search operation after local police received intelligence inputs that two youths suspected of involvement in the attack were moving near the Laru bypass on Monday.
+
+On noticing the movement of the security forces, the two suspects fled to two nearby schools located near an apple orchard, where students were present.
+
+After being alerted, nearby Army units and the CRPF joined the operation and an initial cordon was established. The immediate priority was to evacuate the children from the two schools to prevent any civilian casualties, a process that took around 90 minutes, the officials said.
+
+After the area was cleared of civilians, the security forces launched the operation, killing Dar, a resident of Arreh village, who was earlier involved in a stone-pelting incident on the security forces, they said.
+
+Bhatt has not been traced so far and is believed to have sustained bullet injuries.
+
+The officials said the latest findings have provided investigators with crucial leads into the sequence of events leading up to the Akhran attack, the alleged support network behind it and the subsequent movement of the suspects.
+
+They said the joint search operation for Bhat continued uninterrupted through the night, with troops remaining deployed across the area to prevent his escape and trace his possible movement.
+
+Drones and sniffer dogs have been deployed as part of the extensive search operation, while security personnel are conducting systematic searches of suspected hideouts and other vulnerable locations. Additional forces have also been deployed to strengthen the cordon and ensure that no possible escape route remains unguarded, they said.
+
+The officials said the search operation has been extended to dozens of villages surrounding the site of Monday's encounter, with security forces maintaining heightened surveillance and carrying out door-to-door searches at identified locations.
+
+The area has been placed under close watch as teams work to establish Bhat's possible route of escape and whereabouts.
+
+Senior police and security officials are personally monitoring the operation and maintaining close coordination among the forces on the ground, the officials said.
+
+---
+
+### ‘Cancer wasn't her whole story’: Colombian influencer Catalina Fernández dies at 25 after cancer battle
+*Shilpasree Mondal · business*
+
+Colombian actress and social media influencer Catalina Fernández Gómez, known online as Cata Amatista, has died at the age of 25 after battling brain cancer for more than three years. Her family and talent agency, Lilo Management, announced her death in a social media statement.
+
+In a lengthy farewell message, her family remembered and wrote, “Cancer wasn't her whole story. Her story was one of love.”
+
+  
+
+## Catalina Fernández’s family shares emotional farewell
+
+The family shared a tribute on social media after Fernández’s death. They thanked the people who supported her during her illness.
+
+  
+
+The caption reads as; “Today, Cata has departed from this earthly plane. Her body has found rest, but her light, her love and all the wonderful things she sowed in this world remain forever in each of us. Cata was, and will always be, an extraordinary being of light. A little girl full of love, life, joy, dreams and a very beautiful way of finding magic in the smallest things.”
+
+“Until her last second, she taught us to live, to be thankful, to enjoy, to hug tight and to understand that life is a gift that deserves to be celebrated every day. She taught us that love has no conditions, that hope can bloom even in the most difficult times and that true light does not depend on circumstances, but on what we carry inside," it added.
+
+“Today we want to give thanks. To her family, to her friends, to every person who was present, who accompanied her, who gifted her a word, a prayer, a smile or a hug. To those who were part of her process and to those who, from their homes and through these networks, listened to her, sending her so much love.
+
+“Thank you for making her feel that she was never alone. Thank you for loving her so much and for being part of her story.
+
+“And if we want anything to take away from Cata, it's this: cancer wasn't her whole story. Her story was one of love,” they wrote.
+
+The family also expressed comfort in the belief that Catalina was now at peace.
+
+“As a family, today we find comfort in knowing that, on the other side, wherever the soul continues, Cata is being happy. We imagine her soul free, calm, full of peace, joy and that light so hers that will never be extinguished,” they said.
+
+“We don't want to remember her from absence, but from everything she gifted us,” they added. “Because there are people who do not need to stay physically to stay eternally.”
+
+## When was Catalina Fernández diagnosed with brain cancer?
+
+Fernandez was diagnosed with a brain tumour in March 2023. She was suffering from really bad headaches when she was doing exercise. The tumour was about 4cm and a cerebellar medulloblastoma as per the Ib Times.
+
+She had two operations, chemo and radiotherapy. The cancer went on to progress and spread to her spine and other areas of her CNS.
+
+In February 2026 she told Noticias Caracol that she had waited three months for a reply from her health insurance company (Servicio Occidental de Salud) before she could start the next phase of her chemotherapy.
+
+As per El Colombiano, a fundraising drive was set up to raise 250 million Colombian pesos in order to enable her to access specialised treatment in Argentina.
+
+---
+
+### Bengal minister halts Chhath Puja inspection to rescue dog from drowning in Ganga
+*India Today Trending Desk · general*
+
+## West Bengal Sports Minister Indranil Khan alerted the NDRF after spotting a dog struggling in the Ganga. The swift response during a Chhath Puja inspection brought the animal safely ashore.
+
+Kolkata,Nov 17, 2026 12:58 IST
+
+An early-morning inspection of Chhath Puja arrangements at Kolkata's Babughat turned into a rescue operation after West Bengal Sports Minister Dr Indranil Khan spotted a dog struggling in the Ganga and immediately called for help.
+
+The dog was close to drowning when Khan noticed it during his inspection of the ghat. He alerted the National Disaster Response Force (NDRF), which quickly deployed a rescue team to reach the animal and bring it back to safety.
+
+In the video circulating on social media, NDRF personnel are seen using rafts to reach the stranded dog in the river. After getting close to the animal, the rescuers pull it onto the boat and carefully bring it towards the shore.
+
+Once the dog is brought back to land, Khan is seen wrapping it in a towel and gently drying it. He also offers the exhausted animal food and water as it gradually recovers from the ordeal.
+
+Watch the video here:
+
+The minister stayed at the spot until the dog had recovered. This is how routine inspection of the arrangements for Chhath Puja at Babughat thus turned into an unexpected rescue mission, with the early intervention preventing the already struggling animal from being swept away.
+
+The rescue also garnered users' attention online, with the footage showing the coordinated effort between the minister and NDRF personnel to bring the dog out of the river safely. The animal was eventually given warmth, food and water after being rescued.
+
+\- Ends
+
+
+---
+
 ## 16 November 2026
 
 ### 'Don't Lecture Them': Giorgia Meloni's Party Leader Defends India's Democracy Amid 'Vote Chor' Row
