@@ -1,8 +1,159 @@
 # Editorials
 
-_Last updated: 2026-11-17 09:39 UTC_
+_Last updated: 2026-11-18 08:57 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 18 November 2026
+
+### Elusive peace: On Kashmir terror attack
+*The Hindu · Editorial*
+
+Three months of lull established by security forces in Jammu and Kashmir was rattled by the back-to-back incidents of violence in the past six days. On November 11, a terror attack on a checkpoint manned by the personnel of the Central Reserve Police Force (CRPF) in Kulgam left three jawans injured. On November 16, a local, whom the police suspected of having joined the terror ranks a few days ago, was killed after six days of a siege-like anti-terror operation in residential areas of Kulgam. In Jammu’s Kishtwar, two Special Police Officers (SPOs) of the J&K Police were found dead with bullet wounds, a day after they were reported missing in a forest range on November 11. The police and the Army, however, remain tight-lipped about the circumstances around the killing of these SPOs, and there are conflicting reports on the circumstances that led to their deaths. The anti-terror operation in civilian areas of Kulgam has raised concerns. Former J&K Chief Minister and PDP president Mehbooba Mufti described the operation, spread over six days, as “collective punishment that only breeds alienation and resentment,” while NC spokesman Imran Nabi Dar suggested that entire villages were put under prolonged restrictions for days. The Omar Abdullah government, because of limited powers and no jurisdiction over the police in J&K, a Union Territory since 2019, finds itself hamstrung. The iron hand policy to stamp out terrorism and separatism has been effective from a strictly security perspective — terror attacks as well as local recruitments into terror ranks have declined. According to the police, local recruits have come down to single digit or fewer than 10 in Kashmir.
+
+That said, the decline in terrorist incidents and the silence of the streets should not be mistaken for peace. The current situation demands a political reach-out by the Centre to all the stakeholders of J&K. It has to begin with the much-promised restoration of Statehood, which will give the voters a sense that their mass participation in the 2024 Assembly elections allowed their elected leaders to hold institutions accountable, and they were able to work freely to protect the interests of the region. Though the security agencies need to be focused on Pakistan-backed terrorism, it should not come at the cost of re-inflicting psychological scars within Kashmir, which could turn into a powder keg if left unattended. Healing through both political and security processes has to be complementary rather than conflicting. Allowing the political class of J&K to establish its writ and providing room to security agencies to combat challenges are not contradictory.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/the-hindu-editoral-on-kashmir-terror-attack/article71713251.ece)
+
+---
+
+### All-too fallible: On India’s vote against moratorium on death penalty
+*The Hindu · Editorial*
+
+India’s vote against a proposed global moratorium on the death penalty at the UN is consistent with its position at the forum; it has defended its retention of the penalty as a sovereign decision backed by judicial safeguards, including the “rarest of rare” condition and sessions courts’ sentences requiring a High Court’s confirmation. At the same time, the Supreme Court has increasingly restricted capital punishment and research has failed to find evidence of additional deterrence over life imprisonment. India’s distinction between judicial executions and extrajudicial killings is legally valid but its further claim that due process protects people facing execution is less so. While India last executed convicts in 2020, for the Delhi gang-rape and murder, Parliament expanded the number of capital offences under the Bharatiya Nyaya Sanhita — a form of penal populism that projects the political attractiveness of the state’s response to public outrage, especially in cases of sexual violence, without addressing the poor policing and low conviction rates that actually undermine deterrence. The country had 574 people on death row on December 31, 2025, the highest since 2016, thanks to trial court rulings, challenging claims about judicial safeguards in practice. The report of the 2015 Law Commission headed by Justice A.P. Shah said the death penalty “fails to achieve any constitutionally valid penological goals” and recommended abolishing it for all crimes except terrorism and waging war.
+
+Only a small group of countries worldwide are executing more people. In India, per Project 39A, the Supreme Court released 38 persons from death row in 2016-2025 after they had spent eight years there on average. Some have endured more than two decades. The punishment requires a measure of infallibility that the criminal justice system cannot supply. The safeguards neither deter convictions in cases with flawed evidence, false testimony, and so on nor remedy unequal access to competent legal representation among those facing the penalty. India should formally suspend executions and commission a review of penalty statutes and the treatment of prisoners on death row. Second, it should spare offences that do not involve intentional killing from the penalty. Research suggests meting out excessively harsh punishments for non-fatal crimes could incentivise offenders to escalate their violence, including to kill potential witnesses. The greater goal should be to abolish the practice in law while improving investigative and prosecutorial practices and access to legal aid.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/the-hindu-editorial-on-indias-vote-against-moratorium-on-death-penalty/article71713256.ece)
+
+---
+
+### Transgender rights, healthcare should not be compromised
+*The Hindu · Opinion*
+
+Parliament passed the Transgender Persons (Protection of Rights) Amendment Act, 2026 earlier this year. The new Act represents a significant shift from the Transgender Persons (Protection of Rights) Act, 2019. The 2026 amendment removes the principle of self-identification and demands a medical board’s recommendation; a selection from prescribed categories; and certification by a District Magistrate. It fundamentally changes legal recognition for transgender persons from self-identification to medical assessment. While the 2026 Act does increase protection, it changes the philosophical foundation of transgender rights — from recognition based substantially on autonomy and self-identification towards recognition mediated by medical and administrative authorities.
+
+The definition of “transgender” as introduced in the Amendment Act is in contradiction to established international evidence and guidelines laid down in the World Health Organization ICD-11 and the World Professional Association for Transgender Health Standards of Care Version 8.
+
+[Read full article](https://www.thehindu.com/opinion/lead/transgender-rights-healthcare-should-not-be-compromised/article71713242.ece)
+
+---
+
+### The price of distrust in arbitral awards
+*Deccan Herald · Editorial*
+
+A recent judgment by the Supreme Court dismissing the Union government’s challenge of two arbitral awards and its related observations underline the government’s conflicting approach to its stated policy on arbitration.
+
+A bench of Justices J B Pardiwala and Manmohan not only dismissed the government’s challenge of the foreign awards in favour of Vedanta Limited and Ravva Oil (Singapore), but also sharply criticised its tendency to challenge adverse awards after the arbitration process and the scrutiny of the awards by foreign courts are over.
+
+The Court noted that contesting the enforcement of awards after many years of litigation would lead to a loss of trust. The government has consistently favoured arbitration as a legal and alternative process of dispute settlement. But it has also refused to accept unfavourable arbitral decisions.
+
+Supreme Court bars arbitrators from rewriting contract, directs refund with interestThe case involves a 32-year-old dispute over a production-sharing contract with a consortium to develop oil and gas fields in the Krishna-Godavari basin. An arbitration panel seated in Kuala Lumpur decided in favour of the two companies over the government’s $99-million demand.
+
+The government challenged the award but failed in a second round of arbitration, appeals in Malaysian courts, and in the Delhi High Court, which rejected its objections on multiple grounds, including the tribunal’s jurisdiction, in July 2026.
+
+The High Court held that courts could not reopen discussions on the merits of the underlying dispute or revisit the arbitral tribunal’s findings merely because the government disagreed with them.
+
+The government then appealed to the Supreme Court and has now been reprimanded for “frustrating” the enforcement of the arbitral award. The Court said: “And we talk about all of this arbitration and seat and this and that?... Nobody will trust you.”
+
+A government’s credibility and policy consistency are critical in international business and commerce. A system that refuses to accept an adverse outcome of legal processes it has itself endorsed diminishes its credentials.
+
+The government has been pitching India as a potential arbitration hub, but its response in multiple cases conflicts with this objective. According to a study, the government and its entities accounted for more than 40% of the challenges against arbitration awards before the Delhi High Court between 2021 and 2024.
+
+A self-serving attitude towards arbitration has affected the country’s bilateral investment treaties. The Supreme Court’s ruling should serve as a warning to the government against adopting an obstructionist course on a matter that also involves ease of doing business in the country.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-price-of-distrust-in-arbitral-awards-4221888)
+
+---
+
+### Water tourism in Karnataka and the safety imperative
+*Deccan Herald · Editorial*
+
+The death of two tourists in the Harangi backwaters in Kodagu, despite both wearing life jackets, is a grim reminder that water-based recreational activities carry risks that safety equipment alone cannot eliminate. The Gujarat couple drowned after a speedboat capsized on November 13, while their two children survived.
+
+The tragedy should prompt a wider review of safety standards across Karnataka's growing adventure and tourism sector, especially where operators flout regulations. Few examples illustrate that concern more starkly than the illegal coracle rides in Hampi.
+
+In 2005, the Karnataka High Court banned coracles on the Tungabhadra stretch at this UNESCO World Heritage Site, holding that they were not river-worthy given the treacherous waters, strong currents, and dangerous whirlpools.
+
+Despite the court’s direction that only certified motorboats be permitted, illegal coracle operations continue. Operators even offer thrill-seeking spins near whirlpools. Tourists pay anywhere from Rs 1,000 to Rs 3,000 for an hour-long ride.
+
+Karnataka: After death of Gujarat couple, water adventure in Harangi backwaters suspended Overcrowding, the absence of life jackets, and risks to wildlife when boats illegally enter the nearby reserve forest make this both a safety and environmental concern. The apparent inability of authorities to enforce a two-decade-old court order raises questions about official indifference and possible connivance.
+
+However, banning coracles across Karnataka would be neither practical nor desirable. For generations, they have served as essential transport for riverside communities, helping villagers reach neighbouring settlements, ferry agricultural produce, and pursue fishing. In places without bridges, they remain a lifeline.
+
+Their use for everyday connectivity must not be equated with commercial joyrides that expose paying tourists to avoidable dangers. Coracle operators in Hampi also argue that the activity has sustained their families for decades without the pollution associated with motorised boats.
+
+In this context, Hogenakkal in neighbouring Tamil Nadu offers important lessons. Following several accidents, including the 2015 drowning of six members of a family, authorities introduced compulsory life jackets, passenger limits, fixed tariffs, GPS-based monitoring, and restrictions when water levels become dangerous. However, such measures are effective only when enforced consistently. Karnataka, too, needs a state-wide regulatory framework.
+
+Traditional village crossings should be protected, while commercial operations must be licensed, inspected, and subject to stringent safety norms, including certified vessels, capacity limits, trained operators, and mandatory life jackets. Rides must cease during hazardous water conditions.
+
+At Hampi, the High Court's directions must be implemented without delay, alongside protection of the ecologically sensitive river stretch. Livelihoods deserve consideration, but they cannot come at the cost of human lives.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/water-tourism-in-karnataka-and-the-safety-imperative-4221889)
+
+---
+
+### How Sanskrit ‘experts’ keep twisting Vedic meanings
+*Deccan Herald · Opinion*
+
+The Rigveda is the oldest surviving religious text of India, composed between 1500 and 1000 BCE in a Sanskrit so archaic that by the time Yaska wrote the Nirukta, its words already needed a glossary. Yaska even records a sceptic, Kautsa, who argued that the mantras had no meaning at all. Yet the Veda has been cited, translated, and waved about as authority ever since. For ritual. For philosophy. For nationalism. For social reform. Put one verse in front of three translators and something uncomfortable becomes clear. The Veda does not mean one thing. It means what the translator, his patron, and his political moment need it to mean.
+
+Take Rigveda 5.29.8. Indra is preparing to fight the serpent Vritra. The vocabulary leaves little room: Tri shata mahishanam (three hundred buffaloes) / Aghah (he ate) / Tri saramsi (three lakes) / Apah (he drank). The verse just before it (5.29.7), settles any doubt, because there Agni cooks the 300 buffaloes for his friend Indra. Cooked meat, then eaten meat. Sayana, the 14th-century commentator at the Vijayanagara court whose bhashya is still the standard traditional reading, saw no problem. In his gloss, Maghavan devours the flesh of 300 buffaloes and drinks three lakes of Soma to build strength before killing Vritra. Bibek Debroy, in his translation, says the same thing in plain English.
+
+From bhajan colonisation to bhajan clubbing: How 19th-century Sanatan reform sanitised Hindu devotionThen come Swami Satya Prakash Sarasvati and Satyakam Vidyalankar, translating in 1977 from inside the Arya Samaj. In their hands, Indra consumes the energy of 300 buffaloes. Mahisha is traced back to mahat (great or powerful). The buffalo stops being an animal and becomes an adjective, a unit of vital force. The lakes of Soma become clouds or weather systems. A war god's gory feast turns into a clean transaction in cosmic energy. Nobody bleeds.
+
+This is a replacement dressed up as translation, and the motive is political. Dayananda Sarasvati founded the Arya Samaj in 1875 on the claim that the Vedas taught one God, reason, and a vegetarian diet. Animal sacrifice, in his telling, was a later corruption. So, every verse that mentioned meat had to be dragged back to its root and read by etymology instead of usage. Dig deep enough and any animal dissolves into an adjective. Any feast becomes a metaphor. The Veda was made to say nothing that would embarrass a reform-minded Hindu of the 19th century.
+
+The Valmiki Ramayana got the same treatment. Crossing the Ganga on her way to exile, Sita promises the river a thousand pots of sura and rice cooked with meat when she returns: sura-ghata-sahasrena mamsa-bhuta-odanena. Nothing in those compounds is ambiguous. P V Kane renders them as they stand. So does the IIT Kanpur team. So does Debroy.
+
+Romesh Chunder Dutt, writing in 1899 for Victorian readers who wanted Indian epics to read like Sunday sermons, drops both. In their place, Sita offers a hundred thousand spotless cows as charity to Brahmins. The wine is gone. The meat is gone. A Kshatriya woman's vow to a river goddess is now a donation to priests. The colonial moment needed Hindu civilisation to look vegetarian, sober, and morally superior, and the text was trimmed to fit.
+
+It is tempting to tell this as a tidy story of three ages. Sayana had nothing to hide, because the ritual world he served accepted animal sacrifice as dharma, so literalism cost him nothing. The colonial translators had a reputation to protect, first in Western eyes and then in the eyes of an Indian middle class that had swallowed Western judgements whole. The moderns, free of that anxiety, went back to the plain text. Kane spoils the story. He was born in 1880, wrote most of his History of Dharmasastra under the Raj, and did not flinch at meat or wine. The dividing line was never colonial versus post-colonial. It was whether the translator needed the text to defend something. Kane, a jurist, wanted to know what the law had been. Dayananda wanted to decide what Hinduism should become.
+
+So, the Veda behaves less like scripture and more like disputed land. Everyone claims the title. Its authority is invoked constantly, and its content is always up for negotiation. The literalist who keeps the buffalo and the wine is making a choice. The allegorist who turns them into energy and clouds is making another. Oddly, the Victorian who simply deletes them is the most honest of the lot. His silence admits that the text does not say what his age needed it to say.
+
+The Veda means what the moment demands. It always has.
+
+Devdutt Pattanaik is the author of more than 50 books on mythology. X: @devduttmyth.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/how-sanskrit-experts-keep-twisting-vedic-meanings-4222353)
+
+---
+
+### The room where nobody has to buy anything
+*Deccan Herald · Opinion*
+
+Walk into a café, and the first question is what you will order. Walk into a mall, and the welcome depends on how you look. A library asks nothing of the person who enters, and perhaps that is why it so often loses when space is being divided up.
+
+On November 16, the Supreme Court told the Centre that the books of the Central Secretariat Library must stay where they are until the next hearing on November 20. The library was set up in Calcutta in 1891, followed the capital to New Delhi and has occupied Shastri Bhawan since 1969. That building is due for demolition under the Central Vista plan.
+
+The book collection runs past 8.5 lakh volumes, including rare books, gazettes, and official records. The culture ministry sought about 5,466 square metres in the new complex; the Directorate of Estates proposed two rooms of roughly 300 square metres. A court-appointed amicus who visited a storage facility in RK Puram found books left there for nearly 15 years in “atrocious” condition. The housing ministry says space has been provided and construction is under way.
+
+A library has no revenue line. Land in Central Delhi carries a price per square centimetre, and shelves cannot meet it, so the library turns into a problem of area, solved by subtraction. Nobody needs to dislike books for this to happen. It is enough to use the one unit of measure the spreadsheet offers.
+
+‘What’s the point of books if you can’t share them?’: Bengaluru educator starts free libraryThat unit leaves out what such places do. The retired clerk with a newspaper, the student with no desk at home, the child with a bat and no club membership, and the woman who wants an hour in which nobody asks her to account for herself all turn up, and they share a room because nothing at the entrance sorted them. Payment is a filter, and it works so quietly that those who clear it seldom notice it exists.
+
+A single life runs through the same pattern. At six, a playground. At 16, a library table with no price on it. At 60, a park bench and a free hour. When these places thin out, the needs stay and return as invoices: a coaching centre, a gym membership, a reading lounge billed by the hour. Each is a fair price for a fair service. Added together, they become a toll on ordinary life, and it falls hardest on people with the least to spare.
+
+Such spaces are seldom abolished. They are deferred. By one legislator’s count in 2021, Bihar had 51 public libraries left, down from 540 in the 1950s. Down To Earth reported that Bihar puts 0.01% of its education budget into libraries, while Kerala puts in about 3%. Only six southern states levy a library tax, and 17 states have no library law at all.
+
+Mumbai has 2,360 plots reserved for gardens, parks, and playgrounds, many of them undeveloped, and open space per resident runs from 9.4 square metres in one ward to 0.5 in another. The World Health Organization recommends at least nine. Land is set aside on paper, space is “provided for”, and the paper outlasts the use.
+
+Shastri Bhawan can go, and governments do need offices. What matters is what the city keeps in exchange for the room it takes. Private substitutes exist: paid reading lounges, lawns inside apartment compounds, turf rented by the hour. They serve their members well, which lets a planner look at them and conclude the need has been met. It has been met for people who could already pay.
+
+Kerala tied its public library movement to its literacy campaign, so a reading room counted as part of the work itself. Where a library is treated as a tenant, it is welcome only while there is room.
+
+A city can add towers and malls for decades and grow richer for it. What it cannot easily buy back is the habit of sharing a room with strangers, and that habit is formed in places that do not charge at the door. Two rooms can hold a catalogue. They leave little space for the person who arrives on a Tuesday afternoon with nowhere else to be.
+
+Amit Kumar works in the corporate sector, and writes on politics and society.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-room-where-nobody-has-to-buy-anything-4222355)
+
+---
 
 ## 17 November 2026
 
@@ -39,6 +190,19 @@ A recent table doing the rounds on social media shows that, over the last two ye
 
 ---
 
+### DC Edit | EC Volte-face On SIR Illegal
+*Deccan Chronicle · Editorial*
+
+Every piece of information that comes out now on the special intensive revision (SIR) across India proves a single point: The Election Commission, entrusted with the conduct of elections and mandated to ensure the sanctity of the electoral roll, made it an exclusionary process, and not an inclusive one. Thus, it stripped millions of Indians of their voting rights. This is nothing less than a crime against the republic.
+
+The latest is its admission before the Supreme Court that people who have been removed from the electoral rolls can get back on them by filing Form 6, legislatively intended for new voters. The EC has assured the court that it will not pursue such persons legally. This is necessitated because bona fide voters have been removed illegally, unconstitutionally and undemocratically; the lawmakers had not imagined the EC would ever act in such a manner that voters removed from the list would need to return and hence had not provided for such an option. Yet while the EC is in fact mandated to prosecute those who make false claims upon filing information before it, now it says it will not do so. This is the sum total of the illegal measures the EC has taken with respect to the SIR.
+
+The EC may somersault on its positions in order to seem to make up for its lapses but the judiciary and the legislature must move in quickly to ensure that the voters’ list remains one that contains the names of all and only eligible voters. They should ensure that no agency of the state gets to play around with it. The solution is not short-circuiting the law and allowing Form 6 to be used in an illegal way, but asking those who orchestrated the mess to all go home, roll back the SIR and entrust a team committed to the Constitution and the law to take up the process from scratch. For, one wrong cannot undo another.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-ec-volte-face-on-sir-illegal-2005307)
+
+---
+
 ### DC Edit | Food Inflation Exposes Limits Of RBI Rate Hikes
 *Deccan Chronicle · Editorial*
 
@@ -62,6 +226,29 @@ The Centre and states must complement monetary policy with measures that improve
 
 ---
 
+### DC Edit | Fresh Impetus For Quad A Plus From Manila Summit
+*Deccan Chronicle · Editorial*
+
+Looking east has become the preferred choice of most countries. It was in the east that, in a hectic week for global diplomacy, multilateral platforms presented valuable opportunities to compare notes with countries spanning a wide spectrum of interests and orientations. And India was at the centre of it all in Manila until the US President Donald Trump, on his way to China for a tripartite meeting with China and Russia, turned up as the banquet guest of honour.
+
+The Quad (Quadrilateral Security Dialogue) summit, which brought together four leaders who must see a compelling need to shape and share a vision for the Indo-Pacific, was being revived after December 2024 when it was held in Delaware in the US. If there were any doubts about the intent of Mr Trump who helmed the meeting, they were dispelled by the positivity with which he spoke of Quad’s revival to promote security and economic cooperation in the Indo-Pacific region.
+
+Considerably weakened the US President might be in the wake of his Republicans taking a tumble in the midterm polls, it was still up to Mr Trump to infuse life into Quad. He may be hamstrung domestically after the midterms, but the US President, who can still steer foreign affairs with much freedom, sounded gung-ho about where Quad would be heading in security matters, and especially now that SI — Superior intelligence — will be driving it. He was emphatic that advanced SI would be bigger than the Industrial Revolution and that the Quad members would also benefit from it.
+
+With the leaders fondly recalling Quad’s association with Manila where representatives first met in 2007 and where the grouping made a major attempt at revival in 2017 when Mr Trump was the US President, the positive vibes went to show that there is greater seriousness now about cooperation in maritime security, supply chains, particularly in rare earths and regional stability.
+
+Mr Trump spoke of the Quad having to concentrate more on anti-submarine operations (in the Indo-Pacific) that were recently simulated during a joint exercise run by what he termed as a very important grouping of nations. The US made a $10 million commitment to build facilities in India and Asean countries to recover critical minerals from waste. There would also be a meeting of business leaders of the four nations next year, Mr Trump revealed.
+
+The need to keep shipping safe everywhere, including through the now contentious sea lanes through the Strait of Hormuz, the Red Sea and the Bab-el Mandeb Strait, was stressed. It needs no elaboration that the US can do a lot about it if it settles the Iran war. Mr. Trump did speak about finding peace through strength.
+
+Manila, which has emerged as a venue with a special attachment to Quad, was also the host for the Asean, Asean-India, East Asia and Asean-US summits, all of which have provided credible platforms for interaction. Prime Minister Narendra Modi’s call for world peace and stability would have gone down well with leaders of the 11 Asean nations that are also equally affected by the constraints in oil and gas supply from the Arabian Gulf.
+
+The benefits of co-chairing the Asean-India summit as Prime Minister may take time to get visible, but this was a valuable excursion in terms of facing a multipolar world in which multilateralism has become more vital to all nations. The focus will shift to the APEC meeting and the China-US-Russia trilateral in Shenzhen where the talks may have an even more vital bearing for the world.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-fresh-impetus-for-quad-a-plus-from-manila-summit-2005359)
+
+---
+
 ### DC Edit | Lalit Modi Beyond India’s Reach
 *Deccan Chronicle · Editorial*
 
@@ -76,6 +263,66 @@ Modi may even have been in the crosshairs of the betting and fixing mafia that o
 If there is anything to be learned from various failures, invariably financial, that cost the Indian public their money which is never fully recovered by banks, it is that the country’s systemic checks are lax. Those who are charged with losing thousands of crores even in legitimate business are usually better off fleeing than facing a tortuous legal system. To Modi’s credit, he leaves behind a very valuable sports league out of whose riches Indian cricket has grown manifold.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-lalit-modi-beyond-indias-reach-2005053)
+
+---
+
+### India, Bangladesh Fight Ghost War, Hasina The Target
+*Deccan Chronicle · Opinion*
+
+There is an ongoing war, minus the guns, fighter planes and bombs, between India and Bangladesh. Sheikh Hasina, Bangladesh’s former Prime Minister, is the target. The country’s new PM, Tarique Rahman, is the battle’s political adversary, even as New Delhi stands as Ms Hasina’s increasingly uncomfortable custodian.
+
+Hasina fled Dhaka on August 5, 2024, aboard a military aircraft and landed in India. Since then, the 79-year-old leader has lived under heavy security at an undisclosed location, politically isolated and cut off from her former colleagues. Sources close to her say that she wants to return home. Her reported attempts to renew her passport and obtain a national identity card suggest that the desire is real. But there are questions about her safety in Bangladesh, which witnessed massive protests against Hasina that resulted in regime change.
+
+The new Tarique Rahman government, too, wants Hasina to come back home, via an extradition as she was sentenced to death in absentia by Bangladesh’s International Crimes Tribunal. Thus, India is caught in a diplomatic triple trap — Ms Hasina’s security, Ms Hasina’s wish and Mr Rahman’s politics. According to senior diplomatic sources, New Delhi explored the possibility of relocating Ms Hasina to another country, but finding a willing destination proved difficult. Another option: India has simultaneously sent a blunt message to Bangladesh: Your nation sent Hasina to India you must take her back. Sources close to Hasina say she wants New Delhi to negotiate with Dhaka for her return with an assurance that she will not be executed.
+
+All this is happening amidst Mr Rahman’s outreach to China, Pakistan and Turkey, which is a cause for concern in New Delhi. Pakistani military delegations held discussions with Bangladesh’s armed forces on intelligence-sharing, border security, joint exercises and training. The historical rupture of 1971 between these two nations — Bangladesh was born out of Pakistan — no longer prevents military engagement. Hence, India’s diplomatic machinery is under additional pressure.
+
+External affairs minister S. Jaishankar and foreign secretary Vikram Misri face a tough assignment. Gujarati-turned-Bengali high commissioner Dinesh Trivedi, according to sources, is bypassing the foreign ministry, and reporting directly to the PMO. The stakes are high. This is the ghost war: no bullets, no declared enemy, but a war over influence, security and the future balance of power in South Asia.
+
+The Republic of Additional Charges
+
+The Union government’s bureaucracy is increasingly relying on additional charge arrangements to keep key offices running. Three IAS officers now have multiple responsibilities after three retirements on October 31, 2026. Vacancies at the top, at the secretary level, are being filled by giving additional charges to existing bureaucrats, rather than immediate full-time replacements.
+
+Manoj Govil, a 1991-batch Madhya Pradesh cadre officer and secretary (coordination), Cabinet Secretariat, got additional charge of secretary, transport and logistics planning, in the same secretariat. The assignment is significant as the government recently approved the Integrated Transport and Logistics Authority to coordinate planning across transport sectors. Rajendra Kumar, a 1992-batch Tamil Nadu cadre officer and secretary, department of border management, was assigned additional charge of secretary, Inter-State Council Secretariat.
+
+Sandeep Pondrik, a 1993-batch Bihar cadre officer and secretary, ministry of steel, got extra charge in the ministry of heavy industries. All the three orders, which were approved by the Appointments Committee of the Cabinet, state that the officers will hold the additional charges until regular appointments are made or further orders issued.
+
+The official explanation is continuity, to ensure there is no gap after a senior officer retires. But giving portfolios to serving secretaries raises the question whether temporary arrangements will become routine. Additional charge prevents disruption but prolonged reliance blurs accountability. For a government that prizes speed and coordination, the test is whether these stopgaps remain brief — or become the norm.
+
+Himachal wants few, others want more
+
+Himachal Pradesh’s stated policy that the state cannot afford the existing administrative setup stands in sharp contrast to the expansion sought or secured by other states. HP chief minister Sukhvinder Singh Sukhu proposes cutting IAS strength from 153 to 130 and IFS strength from 118 to 83. In contrast, Gujarat secured 15 additional IAS posts in February 2026, taking its sanctioned cadre to 328, Haryana’s cadre rose from 215 to 226 in June 2026.
+
+Comparing the Centre’s 2019 cadre figures with sanctioned strength on January 1, 2025, Uttar Pradesh increased its IAS cadre from 621 to 652; Rajasthan from 313 to 332; Maharashtra from 415 to 435; Tamil Nadu from 376 to 394; Madhya Pradesh from 439 to 459;...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/india-bangladesh-fight-ghost-war-hasina-the-target-2005299)
+
+---
+
+### Israel, Iran and US Freedom To Choose
+*Deccan Chronicle · Opinion*
+
+Nearly two decades ago, while at the Royal College of Defence Studies (RCDS) in London, I wrote an essay that asked a basic question. What was the cost to the US, in terms of its international standing, of supporting Israel? That question has acquired new urgency. President Donald Trump said he would hold off on fresh strikes against Iran after appeals from Gulf governments, while maintaining the American naval blockade. If Washington sees an opening for negotiations, will it ask Israel to refrain from military action that could derail them?
+
+My earlier essay examined the influence of organised pro-Israel advocacy in Washington. The relationship also rests on longstanding security cooperation, congressional support and constituencies that extend well beyond any single community. The diplomatic cost arises when other governments believe Washington will defend Israeli decisions regardless of their consequences. That perception makes it harder for American diplomats to secure cooperation from Gulf governments that value their ties with the US and have security interests of their own.
+
+The Republican defeat in the midterms has brought some of these costs into American politics. The incoming Democratic majorities can scrutinise military assistance and the conduct of the Iran war through hearings and spending debates. Unease about the conflict extends to parts of the Republican Party. Mr Trump still directs American foreign policy, and Congress faces limits on what it can compel. A President who chooses to press Israel for restraint may now find more support in Washington for doing so.
+
+Benjamin Netanyahu’s bloc lost its governing majority in the October election, and his political rivals have called for rebuilding bipartisan support in the United States. A hard line on Iran may help Mr Netanyahu rally nationalist voters and potential coalition partners. Any Israeli government also needs to consider how its decisions will be received by American legislators whose influence on aid and oversight will outlast the current administration. A close relationship with one President offers less protection when his room for manoeuvre narrows.
+
+France’s recognition of Palestine in September 2025 illustrates how a partner can exercise independent judgment. Paris continued to support security guarantees for Israel and worked with Saudi Arabia on a framework that included them. It judged that recognising Palestine could help preserve the prospect of a political settlement. Washington faces a different question over Iran. It too can decide what course best serves its own interests while maintaining its commitment to Israel’s security.
+
+The immediate pressure on Washington has come from the Gulf. Mr Trump cited appeals from Qatar, Saudi Arabia and other governments when he announced the pause. Their ports, energy exports and shipping routes remain exposed. Attacks on vessels continued even as traffic through the Strait of Hormuz picked up. A pause in major strikes gives diplomacy time. Renewed fighting could prompt investors to defer commitments and shipping companies to suspend sailings or raise charges, increasing costs for economies that depend on Gulf trade.
+
+At the World Summit on Counter-Terrorism in Herzliya in 2018, I was told that Iran’s ability to stockpile and use missiles and rockets was, in the assessment I heard, almost unlimited. I had followed Iran’s missile development while serving in the Indian Army, chiefly to estimate the risk of weapons reaching any elements hostile to India. For Israel the threat was immediate. Washington’s private exchanges with Tehran should test whether greater transparency about military activity could help reduce the risk of miscalculation. Iran’s relative strategic confidence comes from that arsenal of which exists little transparency.
+
+If negotiations advance, Washington will have to be specific about what it asks of Israel. It could reaffirm its commitment to Israel’s defence and make clear that it would withhold support for a renewed offensive while talks are making progress. Israel would want to know what American backing it could count on if Iran attacked. Washington would want to know whether Israel would give talks time to produce terms that address its security concerns. Tehran would need to know what concrete steps Washington expects and how progress will be judged.
+
+Each side could read an American request for restraint differently. Iran might conclude it can hold out for better terms. Israel might see it as a warning that American support is becoming less dependable. A request to hold back would carry more weight if Washington remained in active consultation with Israel. Gulf governments seeking a durable settlement would also need to know what commitments each party would be expected to honour and how those commitments would be monitored.
+
+Israel’s policy of nuclear ambiguity gives the question of American backing a longer horizon. Israel does not publicly acknowledge...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/israel-iran-and-us-freedom-to-choose-2005321)
 
 ---
 
@@ -21587,291 +21834,6 @@ The Odyssey speaks of the importance of being modest. Arrogance and pride invite
 We, in this modern world, need to learn each of these virtues--perseverance and patience which are virtually absent with focus on instantaneous results. And rare is the person who is loyal either to principles or persons. Hospitality now has shifted from homes and is expected and restricted to hotels. We are too busy and look at guests as unwelcome intrusions.
 
 [Read full article](https://www.deccanherald.com/opinion/the-journey-matters-as-much-as-the-goal-4117362)
-
----
-
-## 19 August 2026
-
-### Beyond America: On the Arab states, their security needs
-*The Hindu · Editorial*
-
-Donald Trump’s threat to bomb Oman, a long-standing American ally in the Persian Gulf, reflects both his administration’s deepening frustration with the war against Iran and Washington’s declining influence in the region. This is the second time that the U.S. leader has threatened to attack Oman, which hosted talks between Washington and Tehran before he launched the war on February 28. When Mr. Trump backed down from a threatened escalation after 13 days of bombing on Iran in July, he said the U.S. and Iran were close to a deal on reopening the Strait of Hormuz, which was closed by Iran after it was attacked. But Iran never said that it had agreed to a deal with the U.S. over the Strait and instead issued several demands, including releasing frozen funds and issuing sanctions relief, as preconditions for any agreement. Ever since, Oman, under U.S. influence, has been talking to Iran seeking a settlement. As Iran, which survived two rounds of U.S. bombings, refused to offer major concessions, the U.S.’s frustration with Oman has deepened. Mr. Trump has repeatedly claimed that the Strait of Hormuz was open, but traffic through the waterway, through which one-fifth of the world’s seaborne oil passed before the war, is nowhere near its pre-war levels.
-
-The war has raised questions about America’s regional security strategy and its commitment to the security of its allies. Over the years the U.S. had built military bases across the Persian Gulf. However, Tehran has turned these bases into a liability by repeatedly striking them and their host countries. At least 15 American bases, including the Fifth Fleet Headquarters in Bahrain, are either damaged or destroyed, which has substantially reduced the U.S.’s strategic presence. But Mr. Trump does not seem to grasp the seriousness of the situation. Instead of reassuring the allies, he is now threatening to bomb them because they are not able to deliver on his push for a face-saving deal with Iran. From day one of the war, his threats and rhetoric did little to advance America’s strategic goals or deter Iran. But Mr. Trump, stuck deep in the Persian sands, appears unable to change tack. Whether he acknowledges America’s growing limitations in West Asia or not, countries in the region confront a new strategic reality: the foundations of the old security architecture have been shaken. In their hour of need, American bases have turned out to be a liability. They should also recognise that the decades-old policy of containing Iran has failed. To ensure their own security and regional stability, the Persian Gulf countries need to look beyond the American security umbrella and lay the foundations for a new regional order, shaped by a cold peace between the Arab states and Iran.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/beyond-america-on-the-arab-states-their-security-needs/article71360986.ece)
-
----
-
-### ​Time to push back: On India and the continuing U.S. pressure
-*The Hindu · Editorial*
-
-The latest accusation levelled by the United States against India has the potential to be the most harmful to the Indian economy. A recent White House report, naming around 40 countries in all, has said that India ranks among the top ‘enablers’ of China’s evasion of U.S. tariffs. The accusation is that India and these other countries are importing Chinese goods, making minor modifications to them, and then exporting them to the U.S. at lower tariffs than what Chinese goods would have faced. The fact that Chinese imports form a significant pillar of Indian manufacturing is no secret. Yet, the nature of these imports is slowly changing. India is gradually moving away from importing finished products, making cosmetic changes, and selling them. Instead, the share of intermediate goods in Indian imports from China has been steadily rising. That is, India is doing much of its own assembly and manufacturing in several sectors now, relying on China and other countries for the parts needed. This shift is an important step towards full-scale manufacturing in India. The U.S. has not yet announced punitive actions based on its assessment of apparent Chinese tariff evasion, though that eventuality is conceivable. However, should it do so, India must resist bowing to U.S. pressure on this issue. As even the government has admitted, Chinese imports right now are an important part of the Make in India story.
-
-The fear of India bowing to U.S. pressure is based on precedent. In his first term as U.S. President, Donald Trump railed against India’s tariffs on high-end motorcycles. In 2018, India cut these tariffs to 50% from the earlier 60%-75%, and then cut them further to 40% in February 2025, before trade deal talks had even started. Similarly, it slashed the import duties on shrimp feed and its components in the February 2024 Budget, a key ask of the U.S. It did the same with tariffs on frozen duck and turkey. The pressure of the 50% punitive tariffs pushed India to diversify away from Russian oil, despite India’s strident claims of energy sovereignty and the discount it was receiving. Russia’s share in India’s oil imports fell to below 20% in January 2026, from nearly double that when the 50% tariffs were imposed six months earlier. This had happened with Venezuelan oil in 2019 as well. It was the West Asia crisis, and the U.S.’s temporary reprieve, that has seen India turning back to Russian oil. Allowing FDI in the e-commerce inventory model, as India recently did, was something Amazon had been lobbying for for a decade, and a dilution of India’s long-held stance. The U.S. can wield immense pressure and so concessions are understandable. But that has emboldened it to make increasing demands. India needs to start pushing back.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/time-to-push-back-on-india-and-the-continuing-us-pressure/article71360916.ece)
-
----
-
-### Employment guarantee has slipped into limbo
-*The Hindu · Opinion*
-
-Rural workers are paying a heavy price for the Union Government’s ill-conceived tinkering with India’s employment guarantee law. Indeed, evidence is mounting of an unprecedented crash in employment generation under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) and its successor, the Viksit Bharat–Guarantee for Rozgar and Ajeevika Mission (Gramin) alias VB-G RAM G Act.
-
-One aspect of this crash has been widely noted: the 50% decline in employment generation under VB-G RAM G in July 2026, vis-à-vis MGNREGA in the same month last year. The 50% estimate is actually based on a premature figure of 7.7 crore person-days for July 2026. The latest figure is 8.3 crore, and the final figure is likely to be around 9 crore according to the Ministry of Rural Development. But even if we accept this anticipated total for July, the decline vis-à-vis July 2025 would be above 40%, which is a massive setback.
-
-Misleading excuseThe Ministry of Rural Development made a lame attempt to attribute this setback to the fact that a few States explicitly suspended VB-G RAM G in parts of July 2026 under Section 6 of the Act, but this is the mother of all red herrings. For one thing, these States account for a small share of total MGNREGA employment, and the July 2026 decline looks much the same in proportionate terms when these States are left out. For another, the July decline is just the continuation of a crisis that began earlier.
-
-Related StoriesWorker rolls shrink by 67.6 lakh in first fortnight after MGNREGS transition, finds LibTech
-
-First instalment of ₹25,863 crore under VB-GRAM G released
-
-₹95,962 crore set aside for VB-G RAM G
-
-Playing hide and seek on employment guarantee
-
-The deliberate unmaking of India’s ‘right to work’
-
-With new Bill, demand-led rural jobs scheme set to turn supply-driven
-
-Some background may help. A Bill paving the way for the replacement of MGNREGA with VB-G RAM G was rushed through Parliament in December 2025. The Rural Development Minister announced, at that time, that the replacement would take place on April 1, 2026. However, nothing of the sort happened on April 1. Evidently, the Ministry was not ready for the transition. The Rules, in particular, had not been framed. MGNREGA continued, by default.
-
-On May 22, 2026, the Ministry released draft VB-G RAM G Rules for public consultation. These Rules are mainly a rehash of MGNREGA rules and orders. Release of the final Rules began at the end of June, just on time for the official replacement of MGNREGA with VB-G RAM G on July 1. VB-G RAM G wage rates were also notified on June 30, with a minimum norm of ₹300 per day — much the same as the earlier MGNREGA norm of ₹100 per day at 2009-10 prices.
-
-The transition, the ground realityDuring the first three months of this financial year (April to June), confusion prevailed. To paraphrase Gramsci, the old world of MGNREGA was dying, and the new world of VB-G RAM G was struggling to be born. In some districts, MGNREGA functionaries refused to open new works. In many areas, there was no MGNREGA work at all. This was a serious lapse, as MGNREGA is normally at a peak during these summer months (a slack agricultural season in large parts of India). The limbo continued in July 2026, when VB-G RAM G made a faltering start.
-
-In 2024-25 and 2025-26, the first four months of the financial year (April to July) accounted for nearly 50% of annual employment generation — 128 crore and 119 crore person-days, respectively. In 2026-27, however, MGNREGA and VB-G RAM G generated only 70 crore person-days of employment in the same months — a decline of 43% from the average of the preceding two years.
-
-Employment declined in all major States, but the decline was far from uniform across States (see chart). It was relatively small in a few States (example, Andhra Pradesh, Assam and Telangana), but larger than 40% in most States. In 10 out of 19 major States, the decline ranged between 60% and 85%. States where employment generation came to a virtual standstill in April-July 2026 include Madhya Pradesh, Uttar Pradesh and Jharkhand, some of India’s largest and poorest States.
-
-In Focus podcast | VB-GRAMG Bill: Will it destroy the world’s most successful workfare program?This crash in employment is all the more startling as the transition to VB-G RAM G was supposed to lead to a huge increase in employment generation. The VB-G RAM G allocation in the 2026-27 Union Budget is ₹95,692 crore — a little more than the actual MGNREGA expenditure in 2025-26. The total VB-G RAM G budget, inclusive of State contributions (40% of the total for most States), was due to shoot up to ₹1.5 lakh crore or so — an increase of about 70% vis-à-vis MGNREGA expenditure in 2025-26. With wages more or less unchanged in real terms, one would expect this enhanced budget to trigger a big increase in employment generation. Instead, the first four months of 2026-27 witnessed an unprecedented crash.
-
-An uncertain road aheadIt is, of course, too early to pass judgement on VB-G RAM G. But the launch is certainly a damp squib as things stand. The fact that employment generation has been virtually nil for months in some of India’s largest and poorest States is particularly alarming.
-
-VB GRAM G vs MNREGA: Which burdens States more? | In Focus PodcastThe situation may improve in the next few months, but it is hard to see how the projected VB-G RAM G expenditure of ₹1.5 lakh crore in 2026-27 is going to materialise. Wage payments may face serious problems too, with the imposition of facial recognition at the worksite and Centre-State cost-sharing. The outlook is bleak.
-
-Jean Drèze is an independent scholar based in Ranchi, Jharkhand; Mohammad Zameer is an independent scholar based in Ranchi, Jharkhand
-
-[Read full article](https://www.thehindu.com/opinion/lead/employment-guarantee-has-slipped-into-limbo/article71361563.ece)
-
----
-
-### DC Edit | Can New-look BJP Hear Gen Z?
-*Deccan Chronicle · Editorial*
-
-Alerted by the sharp message emerging from the Gen Z-led protests, the BJP now appears to be recalibrating. The organisational changes carried out on Monday signal more than a routine redistribution of posts.
-
-Under its 45-year-old president Nitin Nabin, the BJP has attempted to balance continuity with a clear infusion of younger leadership. The reshuffle is also an acknowledgement that the nation's vocabulary is changing and that the new generation cannot be addressed in the tired and cliched political language of the past.
-
-While retaining several experienced leaders, the new 65-member national team marks a generational shift, with 51 new office bearers. Six are below 40 and another 15 are in the 40-49 age bracket. Yet, the party has not purged the old guard wholesale. Instead, it has brought back leaders like Vasundhara Raje, Ram Madhav, and Smriti Irani who were kept at a distance from the party's central structure. This signals the party's intent to use the mass appeal of Ms Raje and Ms Irani, while Ram Madhav could serve as the crucial bridge between the party and the RSS.
-
-With social media emerging as the new political battleground, removing BJP's IT cell chief Amit Malviya is one of the most telling changes. Following the Jantar Mantar protest, Mr Malviya's style attracted criticism from within the Sangh clan. There was also a growing view that his aggressive social media approach was proving counterproductive.
-
-Mr Malviya has been replaced by mild-mannered 58-year-old chemistry professor-turned-politician Deepak Mhaskey from Chhattisgarh. The inclusion of Priti Gandhi, BJP social media communicator; Alok Bhatt, digital influencer; Shiwanand Dwivedi, researcher and ideological communicator; and Arun Yadav, BJP's former Haryana IT cell chief, indicates the BJP's attempt to reorient its political narrative in the digital space.
-
-The appointment of 35-year-old Vadodara MP Hemang Joshi as BJP's youth wing chief suggests that the party is now looking beyond a handful of high-profile leaders. Yet the real test lies ahead. Will the younger new team be allowed to develop an independent political voice or will it be confined to the timeworn, traditional scripts doled out by a tightly centralised party? More importantly, will the powerful old guard, with its entrenched grip over the organisation, continue to crack down on dissent and turn a deaf ear to the voices rising from the streets?
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-can-new-look-bjp-hear-gen-z-1980338)
-
----
-
-### DC Edit | Youth Power Triumphs, In Ranchi As At Jantar Mantar
-*Deccan Chronicle · Editorial*
-
-The power of youth as exhibited in their right to protest — under Article 19 of the Constitution as the Supreme Court reminded the authorities — has prevailed in spectacular fashion.
-
-From Jantar Mantar to Jharkhand, the protesters, be they students, job aspirants or a collective of young people gathering under the banner of the Cockroach Janta Party, achieved their aims in bringing about the resignation of the Union education minister and the cancellation of the JSSV-CGL and TDPL-conducted recruitment examinations in Jharkhand.
-
-The students and youth braved the power of the state that manifested in brutal methods of crowd control like lathi charges, baton strikes, pellet guns, water cannons and iron barricades, protesters’ names mentioned in FIRs following the use of surveillance methods like facial recognition, etc. With fasting leaders and fearless frontliners in protest action they drove home their point about the fecklessness of governments in handling subjects that hold great significance for young people like entrance exams and recruitment tests.
-
-A movement that amalgamated around a march to Parliament may not end with Jantar Mantar and Jharkhand. Both protests, which ran in the face of government reluctance to hold parleys early with the protesters to find out their grievances only to bend when there was no alternative to conceding justifiable demands may be just the beginning of a display of the power of young people who are riddled with anxieties and doubts over their future.
-
-The history of youth struggles goes back a long way in India too, beginning with youth participation in the freedom struggle and the ringing in of a change of guard in Tamil Nadu with the anti-Hindi agitation in the 1960s. The CJP and student union-led protests in Delhi and Ranchi will go down in history as an inflection point in which the young people found their voice to protest blatant injustice as in exam paper leaks and state-driven recruitment processes for government jobs in which politicians also meddle.
-
-It is the life of students, which is at stake, top court judges said. It is not as if political leaders were unaware of this when so many instances of shoddy conduct of examinations, paper leaks and corruption by mafia had popped up periodically to remind them that the system was sporting gaping holes and that not enough was being done by government agencies that have taken over centralised tests that are supposed to determine merit among millions of aspirational young Indians.
-
-The fundamental error of the state was in tackling the protests as a law and order problem rather than the outpouring of genuine student grievances. Exam reforms are being talked about now and enquiry panels being formed to probe the excesses of the Delhi police – not that the Jharkhand police were any less in demonstrating brutality or registering cases against protesters — after the demonstrators had withstood nearly a whole month of privation just to register their angst over an uncaring system.
-
-A stubborn Union ministry that refused to see quickly enough the reason behind the unrest and a vacillating state chief minister who trotted out pedantic excuses for not cancelling the exams earlier were symptomatic of the response of authority to the expression of dissent. The political implications for governments that get elected for five-year terms should not matter here so much as the establishment of a renewed force in India of a youth empowered in its awakening from a slumber of decades.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-youth-power-triumphs-in-ranchi-as-at-jantar-mantar-1980328)
-
----
-
-### K.C. Singh | Iran War Stymieing New India-Taliban Relations
-*Deccan Chronicle · Opinion*
-
-The Taliban government’s second term in Afghanistan, after being ejected by the US in 2001, completed five years on India’s Independence Day. Their first term began after capturing Kabul in 1996, with Pakistan’s active support. India and Iran opposed their rise by extending military and political support to the Northern Alliance led by Ahmad Shah Massoud.
-
-India then saw the Taliban as a Pakistani ally, if not proxy. Besides Pakistan, only two countries then recognised the Taliban regime, Saudi Arabia and the United Arab Emirates.
-
-After a 20-year US military presence in Afghanistan, the Trump administration during its first term signed a conditional peace agreement with the Taliban in Doha on February 29, 2020. The deadline for the withdrawal of the US and coalition forces was May 1, 2021. It was contingent on the Taliban desisting from attacking US forces and constraining the operations of Al Qaeda and other terrorist groups. The deal eventually landed on the desk of President-elect Joe Biden, who implemented it rather hurriedly. Consequently, the US left behind a huge arsenal of weapons, armed vehicles, drones and helicopters. They probably calculated that President Ashraf Ghani’s government, excluded from the Doha talks, would arrange with the Taliban a collaborative interim government. However, the popular support for the Ghani regime collapsed quickly, leading to Taliban seizing power on August 15.There are multiple dimensions to the Taliban story. First comes the domestic scenario. Because of sanctions and Afghanistan’s severance from the global banking regime the economy is struggling. Also, since October 2025 critical border crossings with Pakistan, for people and traders, have been blocked. Open hostilities with Pakistan since February 2026 have worsened the scenario. Pakistani airstrikes have killed nearly 500 civilians. And since February 28 the Iran war has disrupted Afghanistan’s communication routes via Iran. Also impacted is humanitarian and development aid from abroad. From $4 billion worth in 2020 it has slumped to $1.2 billion in 2025.
-
-Afghanistan is also coping with over four million Afghan refugees repatriated by Iran and Pakistan, constituting almost 10 per cent of its 45 million population. The Economist magazine argues that despite the economic and strategic challenges the Taliban has ensured stability and domestic peace, after decades of terrorism. It adds that the Taliban are “running a modern state” much better than they did during their first term (1996-2001). One reason is that the civil servants running affairs during the Ghani regime were not entirely purged. Most stayed on, providing administrative continuity.
-
-However, the Taliban's main domestic problem emanates from their ideological approach to women. Over 160 decrees have been passed to deny women the rights to act independently, travel, study and work. According to a recent UN Women report, after surveying 5,000 Afghans, 55% of men and 65% of women felt worse off than they did pre-August 2021. Because women can no longer study to become doctors, a mounting shortage of female doctors is reducing female access to medical treatment. Female mental health is also suffering. According to Unesco, due to the bar on females attending schools after age 12, their “future becomes increasingly dark”.
-
-In July, protests broke out in Herat, a western city with a large population of Shias and Tajiks. Popular chants sought “education, work, freedom”. The Taliban government is, apparently, not a monolith as it has many factions. But the supreme leader Sheikh Haibatullah Akhundzada, based in Kandahar like Mullah Omar in the 1990s, has centralised control. Using undeclared income from mining he has built an 8,000-member force loyal to him. So, for the foreseeable future, the regime is unlikely to evolve or liberalise.
-
-As a landlocked country, Afghanistan’s relations with its two immediate neighbours, Iran and Pakistan, assume importance. During Taliban’s first term, maltreatment of Shia Hazaras, killings of some Iranian diplomats and the history of Iranian support to their opponents the Northern Front, affected relations with Iran. In fact, the two almost went to war. After the US’s troop withdrawal, the interests of both governments converged over suppressing the terrorist Islamic State of Khorasan Province (IS-KP). Iran also provided Afghanistan access for trade and supplies after the latter’s relations with Pakistan collapsed. Iran maintains active and diplomatic channels without recognising the Taliban regime.
-
-Taliban-India relations have gone through a similar cycle. During the Taliban's first term, India was upset over their role in the IC-814 hijacking which ended at Kandahar. Additionally, there was the 2008 lethal attack on the Indian embassy in Kabul. India was also concerned about terrorist training camps in Afghanistan of ISI-sponsored groups targeting India. Thus, India was relieved when the US and its allies ejected...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/kc-singh-iran-war-stymieing-new-india-taliban-relations-1980316)
-
----
-
-### BCI overreach raises deeper questions
-*Deccan Herald · Editorial*
-
-Last week, the Bar Council of India (BCI) directed its state bodies not to enrol graduates from the 2026 batch of the National Academy of Legal Studies and Research (NALSAR) University of Law, Hyderabad.
-
-The directive – issued by BCI chairman Manan Kumar Mishra and subsequently withdrawn, along with an apology – came as punishment to students who objected to Chief Justice of India (CJI) Surya Kant attending their convocation as the chief guest. Mishra’s apology does not mute questions related to the Council’s powers, the chairman’s prerogative in exercising them and, more importantly, the undermining of the right to freedom of speech.
-
-Even after backtracking, the Council noted that most students were not part of the protest campaign, calling them “innocent”. Does that imply the others are not? Is it stating that opposition to the CJI constitutes an offence?
-
-TISS replaces CJI Surya Kant as chief guest for 86th convocation amid NALSAR row, reschedules event over 'protest fears'The BCI’s primary role involves prescribing standards for professional conduct and legal education. Its threat to disallow the enrolment of students amounted to using powers it did not possess. Barring professionals from practice for engaging in peaceful protest threatens the constitutionally guaranteed rights-based regime. Custodians of the legal profession should be at the forefront, defending those rights. Instead, they attempted to silence the students.
-
-The BCI’s original directive provides context as it comes days after student protests in Delhi transformed into a movement about the right to dissent – protests led by an outfit that, ironically, originated as a response to the CJI’s remarks.
-
-In the apology, the BCI chairman – also a Bharatiya Janata Party (BJP) MP in the Rajya Sabha – did not cite the directive's illegality or arbitrariness. Instead, he chose to talk about “hurting the feelings” of the students. This is not an issue of hurt sentiments. It is about a statutory body violating its code and disrespecting students' rights as citizens. After this violation, Mishra’s continuance as the Council's chairman has become untenable. His 14-year tenure at the helm has also raised questions.
-
-The CJI did well to rebuke the BCI and its chairman over the issue. However, the Council’s directive and its hasty retreat do not mask the reality that students are confronting the CJI’s positions or that the protest is finding new venues, such as Bengaluru’s National Law School of India University (NLSIU), where students have objected to the CJI attending the university’s convocation.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/bci-overreach-raises-deeper-questions-4116022)
-
----
-
-### Forest killing: Let the evidence speak
-*Deccan Herald · Editorial*
-
-The killing of three men in an alleged exchange of fire with forest personnel inside the Cauvery Wildlife Sanctuary in Chamarajanagar district has quickly escalated into a political and linguistic flashpoint. This is precisely why all parties concerned must resist the temptation to draw conclusions before the facts are established.
-
-The Forest Department claims its personnel confronted suspected poachers early on August 15 following a tip-off about armed men entering the Shagya forest range. The men allegedly opened fire, and the personnel retaliated. Firearms and about 34.5 kg of suspected wild animal meat were recovered from the spot.
-
-The families, however, reject the charge, saying the three men had gone into the forest searching for missing cattle. They alleged the victims were shot at close range and questioned why warning shots were not fired. A murder case has been registered, and a magisterial inquiry ordered. Forest Minister Ramalinga Reddy has said the officials opened fire in self-defence.
-
-Only an impartial inquiry can establish the sequence of events: who fired first, whether the use of force was proportionate or whether this was a cold-blooded killing. If the latter is established, it must determine whether there was any personal motive. Unfortunately, the incident is being politicised, with the Opposition accusing the government of “killing innocent farmers”.
-
-'Poachers' killing | Fourth accused Mahima Das releases video; seeks protectionMoreover, the fact that the victims were Tamil-speaking residents of Karnataka's border villages has allowed it to acquire a Tamil-Kannada dimension. Tamil Nadu Chief Minister C Joseph Vijay has described the incident as a “massacre” and rejected the Forest Department's explanation. The central question thus risks drifting from facts, law, and accountability to emotive politics.
-
-History also casts its shadow here. These forests were once Veerappan's territory. He began as a small-time offender before expanding into large-scale killing of elephants and smuggling sandalwood. This should serve as a reminder that illegal activity in protected forests cannot be allowed to flourish unchecked. At the same time, if forest officials exceeded their mandate, they must face legal consequences; conversely, if a poaching network is confirmed, its wider links must be exposed.
-
-The government should therefore refrain from releasing large compensation before the inquiry, as such a gesture can prejudge culpability and undermine the investigation's credibility. If families face immediate hardship, modest interim relief may be justified on humanitarian grounds, without implying liability. The responsible course now is to let an impartial inquiry establish the truth, free of political and linguistic distortions.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/forest-killing-let-the-evidence-speak-2-4116182)
-
----
-
-### Closing in on digital arrest scams
-*Deccan Herald · Opinion*
-
-A glimmer of hope has emerged in India’s battle against one of the most disturbing forms of cyber fraud. The status report filed by the Indian Cybercrime Coordination Centre (I4C) before the Supreme Court suggests that the response to ‘digital arrest’ scams is becoming more organised and effective. Complaints on the national cybercrime portal fell from more than 1.23 lakh in 2024 to around 58,000 in 2025 and roughly 16,000 by the end of June 2026. During the same period, Rs 18.05 crore was restored to victims in more than 36,000 cases.
-
-Behind the numbers lie painful human stories. The proceedings before the apex court were triggered by the case of an elderly couple from Haryana who lost Rs 1.05 crore after fraudsters impersonated officials from multiple government agencies and used forged documents. Similar cases have surfaced nationwide.
-
-The pattern is chillingly familiar. An unexpected call. A stern voice claiming to be from the police. An accusation that your identity has been linked to a crime. Panic replaces rational thinking, and savings begin to disappear. Criminals posing as police officers, CBI officials, Enforcement Directorate personnel or even judges exploit fear, convincing victims that immediate payment is the only way to avoid arrest or prosecution.
-
-Digital arrest scams succeed not because victims lack intelligence but because they exploit trust, fear and the instinct to obey authority. Deepfake video feeds and spoofed local numbers can make the deception appear convincing. Many syndicates reportedly operate from scam compounds across Southeast Asia, making transnational enforcement difficult.
-
-Encouragingly, the status report points to a shift from fragmented responses towards a more integrated national framework. Banks, regulators, law-enforcement agencies, telecommunications providers and technology platforms are working together through shared information systems and common response protocols. Grievance-redressal mechanisms now extend to more than 1.23 lakh bank branches across 69 banks, while money-restoration initiatives involve 57 participating banks.
-
-In cybercrime, every minute matters. Criminals move stolen funds across multiple accounts within moments. The faster authorities can identify suspicious transactions, freeze funds and alert agencies, the greater the possibility of limiting losses.
-
-Digital arrest scams | Supreme Court gives RBI four weeks to adopt SOP for banksA proposed standard operating procedure could enable banks to place temporary debit holds on accounts suspected to be linked to cyber-enabled financial fraud. Such operations often rely on interconnected ‘mule accounts’ used to disperse illicit funds across borders. AI-driven monitoring and a uniform banking response could improve recovery while helping investigators trace fraudulent transactions.
-
-Reporting mechanisms are also becoming faster. Wider adoption of the e-Zero FIR system and the operationalisation of cybercrime coordination centres across the states could reduce delays in registering complaints and launching investigations.
-
-Beyond enforcement, victim restitution deserves equal attention. For many families, stolen money represents retirement savings, a child’s education, medical security or decades of hard work. Prompt restoration of recovered funds strengthens confidence in digital payments and financial institutions.
-
-Public awareness remains the first line of defence. Citizens should remember two rules: no police officer, CBI agent or judge will conduct an arrest over a video call, and no government agency will demand an immediate online fund transfer to ‘verify’ money or clear a person’s name.
-
-Awareness, however, must also give people the confidence to pause. When confronted by an intimidating caller claiming to represent the police, a court or a government agency, the safest response is verification. End the call, contact the institution through an official channel and speak to someone you trust before taking financial action. A few minutes of hesitation can prevent years of financial and emotional distress.
-
-Stronger safeguards must also respect privacy, due process and legitimate digital interactions. Security measures are most effective when transparent and proportionate. Building confidence in the digital ecosystem requires striking that balance.
-
-Digital arrest scams are unlikely to disappear overnight. Criminals will continue to adapt as technology evolves. The question is whether institutions can stay one step ahead. Recent progress suggests that India is moving towards an integrated system combining prevention, faster response, stronger coordination and improved victim restitution.
-
-Digital arrest scams are not merely assaults on bank accounts; they undermine public confidence in the digital ecosystem. Technology may be the weapon, but fear is the trigger and trust the target. India may have begun to turn the tide. The challenge now is to keep moving forward.
-
-(The author is an independent writer)
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/closing-in-on-digital-arrest-scams-4116017)
-
----
-
-### Facing quagmire in Iran, Trump turns to Kim Jong Un
-*Deccan Herald · Opinion*
-
-The last time President Donald Trump vowed to halt a country’s nuclear weapons programme, he held three face-to-face meetings with Kim Jong Un of North Korea, declared that the two men had developed a “great relationship” and walked away empty-handed.
-
-That was in Trump’s first term. Not only did the diplomatic effort fail, but Kim immediately hit the accelerator on his programme and today possesses roughly 60 nuclear weapons, by some estimates, as well as missiles that appear capable of reaching the United States — exactly the combination Trump had vowed to dismantle.
-
-For months now, proliferation experts have questioned whether Trump could also end up walking away from his efforts to check Iran’s nuclear programme — especially now that he appears to be more focused on getting the Strait of Hormuz open than on dealing with Iran’s stockpiles of uranium, which are buried under rubble after the US bombed them in June 2025.
-
-Stymied in Iran, Trump is increasingly turning his sights back to North Korea, even though analysts see little hope of quickly dismantling that country’s growing nuclear arsenal.
-
-Trump’s social media declaration Sunday night, praising Kim and publicly ordering Defence Secretary Pete Hegseth to diminish the United States’ role in an annual military exercise with South Korea, a US ally in the Pacific, appeared intended to signal that he wants to resume negotiations. A day later, it remained unclear just how the Pentagon would scale back its role in the 11-day exercise, and a one-line statement sent to reporters by the Pentagon press office Monday afternoon did not provide any clarity.
-
-“The Department of War is actively working on executing the commander in chief’s directive,” the statement said, using the Trump administration’s name for the Department of Defence.
-
-Robert Litwak, a scholar at George Washington University who has written about the nuclear programmes in both North Korea and Iran, called the contrast between Trump’s approaches to those two countries “an incredible tale of two rogue states.”
-
-Trump shares map showing Strait of Hormuz as US territory“We’re at war with Iran, a nuclear-threshold state,” he said. “But with North Korea, we are placating a dictator who can target the US homeland with nuclear weapons.”
-
-Trump’s outburst was also aimed at punishing the South Koreans for declining to join in the war against Iran, a position that deeply angered Trump. It was a point he made in the same social media post and reiterated to reporters in the Oval Office on Monday.
-
-The president has also been angry that Seoul has been slow to deliver on what the White House believes is a $350 billion promise for new investments, including in shipbuilding. Last October, Trump visited South Korea and celebrated its future investments in the United States, including a promised multibillion-dollar expansion of Samsung’s chipmaking plant in Texas.
-
-“Trump defaults back to the complaint about South Korean free-riding” on the US troop presence on the Korean Peninsula, said Scott A Snyder, the president and CEO of the Korea Economic Institute of America, “and he uses the security relationship as a lever to put more pressure on the South Korean government.”
-
-Looming over the tensions is Trump’s inability to extract the US from the Iran war. He has hinted at his eagerness in recent months to move on from that conflict and return to dealing with Kim — who indulged Trump’s desire for leader-to-leader talks with those summits during Trump’s first term.
-
-President Lee Jae Myung of South Korea said in June that Trump appeared to want to resume talks with Kim, and Trump posted a picture of himself with the North Korean leader on social media at least twice in recent months. “Kim Jong Un and I get along GREAT!” Trump wrote alongside a photograph he posted Saturday of their meeting at the border between North and South Korea in 2019.
-
-Trump followed that up with another chummy post Monday, this one a meme showing Kim making a phone call with military officers standing behind him. The caption read, “Hey Donald, we cool … right?”
-
-The North Korean nuclear programme has been a deep concern since the late 1980s, long before Iran’s nuclear programme was on the radar. In 1994, during a crisis triggered by North Korea’s expulsion of international nuclear inspectors, the Clinton administration debated a military strike on the North Korean facility at Yongbyon. But it held back, and later that year, former President Jimmy Carter struck a deal with Kim Il Sung, the grandfather of the current North Korean leader, to end the nuclear programme in return for help building civilian nuclear reactors.
-
-It all fell apart, and subsequent efforts to bring the North Korean programme under control failed. In 2006, the North conducted its first nuclear test, and followed with five more, the most recent in 2017.
-
-The next year, having labelled Kim “Little Rocket Man,” Trump met the North Korean leader in Singapore. After their encounter, he told a New York Times reporter that he expected that the North would dismantle its programme fast. “It’s going to go very quickly,” he said after the summit. “I really believe that it’s going to go fast. And it is a very substantial arsenal. There’s no question about it.”
-
-But while Trump recalls the encounters fondly — during the first term, he would bring out Kim’s letters to him and read excerpts to visitors in the Oval Office — they went down in history as a diplomatic failure. A second summit, in Vietnam, ended with a collapse of the talks. Trump went into the sessions ill-prepared, his national security adviser at the time, John Bolton, said later, and the effort fell apart when Kim refused to dismantle facilities outside the main enrichment and reprocessing centre at Yongbyon.
-
-Some fear the same thing could happen again. “Another Trump-Kim summit, which is what the president seems to be angling for, could be a disaster,” said Joel S Wit, a former State Department diplomat who was involved in early talks with the North and wrote a history of the effort, Fallout: The Inside Story of America’s Failure to Disarm North Korea.
-
-“Trump doesn’t seem to realise that the Kim Jong Un of today isn’t interested in better relations with the United States,” Wit said. “He is hellbent on keeping his nuclear weapons, sending troops to Ukraine to support his Russian ally and threatening South Korea.”
-
-On Monday, critics of Trump’s foreign policy quickly attacked the president for undercutting a key alliance. Senator Jack Reed of Rhode Island, the top Democrat on the Armed Services Committee, said Trump had made “another inane, haphazard decision” that punished South Korea “for no reason beyond Trump’s ego.”
-
-Victor D Cha, a Georgetown University professor who worked on Asia policy in the George W Bush White House, described Trump’s social media outburst as a symptom, at least in part, of the president’s frustration over Iran. He noted that Trump’s charm offensive directed at Kim came as the president tried to maintain his hard line against Tehran, a study in contrasts in Trump’s approach to perhaps the world’s two most vexing nuclear proliferation challenges.
-
-“He’s kind of trending in two opposite directions,” Cha said. “He’s trending in the direction of pragmatically negotiating with a nuclear North Korea. But in the case of Iran, he’s taken an absolutist stance.”
-
-Trump defended his approach to North Korea in the Oval Office on Monday. Asked by a reporter whether he was prioritising the interests of US adversaries over allies, the president shot back, “I’m making it much safer.”
-
-“Kim Jong Un has always treated me with great respect,” the president added. “I understand him. He understands me.”
-
-But Kim is also closely watching Trump’s war on Iran, analysts say. That war has shown North Korea, Cha said, “that they are right to pursue nuclear weapons to avoid a military strike.”
-
-[Read full article](https://www.deccanherald.com/opinion/facing-quagmire-in-iran-trump-turns-to-kim-jong-un-4116014)
-
----
-
-### Towards a meaningful life
-*Deccan Herald · Opinion*
-
-After speaking about the human tendency to get lured by the sensory attractions of the world and thus its inability to recognise its inherent divinity, the Bhagavad Gita says that this veil of ignorance enshrouds man’s mind, benumbing it from the fact that this creation in all its variegated forms is but a manifestation of the omniscient supreme power, having been there in the past and in the present and which will be there in the future also.
-
-Only a mind that is purified by a determined effort to disentangle itself from all worldly pulls will be able to discern the eternal, internal flame of divinity. Those who are able to achieve this are the Mahagnanis, the realised beings for whom there is no rebirth, those whom the world reveres as Mahatmas in the true sense of the word. Does this mean that all lesser mortals have to abandon their worldly responsibilities and take to a life of asceticism? No, the Gita holds out the encouragement that even small efforts in this direction will still yield significant results in the form of a more balanced, emotionally stable life conducive to material progress. This in itself is more than enough for most people.
-
-The sanctity of the sacred springThe Gita now elaborates on this further. “All beings are born with the dualities of attraction and repulsion – raga and dvesha," it says. It notes that this tendency to gravitate towards things that give pleasure and happiness and detest those that cause pain and revulsion is inborn in man. As a corollary to this, when man’s efforts to realise his desires meet with obstacles or failure, they turn into anger and hatred. Here, the Gita brings in the two concepts of avarana, or concealment, and vikshepa, or wrong projection. Both these are the offshoots of man’s ignorance. If avarana conceals the real nature of a thing that man desires, making him believe that it will bring him happiness, vikshepa outwardly projects a façade of stability and comfort, while it actually is something more sinister, like a whirlpool projecting itself as the placid surface of the river. In the words of the revered Swami Chinmayananda, "The ultimate aim of all spiritual practice – sadhana – is to free oneself from the grip of these two dualities of attraction and repulsion. By birth, all beings are enveloped in this shroud of ignorance. But, by conscious effort, man can move towards true knowledge and a meaningful life."
-
-[Read full article](https://www.deccanherald.com/opinion/towards-a-meaningful-life-4116008)
 
 ---
 
