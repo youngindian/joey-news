@@ -1,3 +1,866 @@
+## 18 November 2026
+
+### Indian economic growth seen at annual 7.6% in July-September quarter, economists say
+*Reuters · business*
+
+BENGALURU, - India's economy likely maintained strong momentum in the July-September quarter, with resilient consumer demand helping offset inflationary pressures and limit the impact of geopolitical tensions, a Reuters poll of economists found.
+
+Elevated crude oil prices due to the war on Iran and a deficient monsoon have pushed inflation higher, adding pressure to household budgets. Yet consumption has held up, aided by earlier tax measures and, in part, greater household borrowing.
+
+  
+
+Strong passenger vehicle sales and bank credit growth pointed to continued strength, economists said.
+
+Gross domestic product likely grew 7.6% from a year earlier in the last quarter - the fastest pace among major economies - according to the median forecast in a November 13-18 Reuters poll of 43 economists.
+
+Forecasts for the data due on November 30 ranged from 6.6% to 8.2%.
+
+The economy expanded 7.8% in the April-June quarter. Analysis of Reuters poll data shows economists have underestimated India's economic growth in 10 of the past 12 quarters.
+
+Economists forecast gross value added (GVA), which they consider a more stable measure of economic activity, to grow 7.7%, a modest slowdown from the 8.2% expansion in the previous quarter.
+
+"The geopolitical scenario has not affected us much. Inflation is going up, but that is not impacting growth because consumption is still going strong," said Madhavankutty G, chief economist at Canara Bank.
+
+He said 7.5% had become something of a "default" growth rate for India, with households increasingly using debt to support spending. He said the agriculture sector, which employs about half of India's workforce, remained the main weak spot.
+
+Private investment, a laggard in India's recovery, is also showing signs of improvement. Economists said stronger corporate earnings and sustained government capital spending were supporting business investment.
+
+"Growth is very broad-based, with almost all the engines firing simultaneously...(and) it appears that capital expenditure has remained on a stronger footing," said Abhishek Upadhyay, co-head of economics and fixed income research at ICICI Securities Primary Dealership.
+
+Most economists in the poll forecast the Reserve Bank of India would hike rates in December, by at least 25 basis points to 5.75%.
+
+They expect economic growth to moderate in the second half of the April-March fiscal year as the boost from earlier tax cuts fades and higher borrowing costs weigh on household budgets and corporate profit margins.
+
+The poll shows India's GDP is forecast to grow 7.2% in the fiscal year ending March 2027 and then 7% over the next two years.
+
+"The effects of the GST cuts should progressively fade, while the impact of El Nino is expected to begin to weigh on growth. Tighter monetary conditions and a slower fiscal impulse would also impinge on growth," noted Sajjid Chinoy, chief India economist at J.P. Morgan.
+
+---
+
+### Exclusive: Yogi Adityanath Defends SIR, Says Every Eligible Voter Will Make It to Final List
+*News · politics*
+
+Uttar Pradesh Chief Minister Yogi Adityanath on Wednesday defended the Special Intensive Revision (SIR) of electoral rolls, describing it as a “laudable effort” to ensure that only eligible citizens are included in voter lists.He also assured that the exercise would be carried out transparently and ...
+
+[Read full article](https://www.news18.com/videos/politics/exclusive-yogi-adityanath-defends-sir-says-every-eligible-voter-will-make-it-to-final-list-10430545.html)
+
+---
+
+### Cooling crude lifts bond prices, but inflation may prompt 50-bps RBI rate hike: PGIM India's Puneet Pal
+*Kshitij Anand · business, finance*
+
+Indian bond markets have witnessed a sharp recovery in the first half of November as falling crude oil prices and a strengthening rupee improved investor sentiment. However, persistent domestic inflationary pressures could prompt the Reserve Bank of India (RBI) to continue raising interest rates, with the possibility of a 50-basis-point hike in the next monetary policy meeting, according to Puneet Pal, Head-Fixed Income at PGIM India Mutual Fund.
+
+While markets are currently factoring in a 25-basis-point rate hike, Pal said he would not be surprised if the central bank opted for a steeper increase as food inflation remains elevated and underlying price pressures are showing signs of firming up.
+
+"We believe that MPC will continue to increase policy rate next month as domestic inflation pressures continue," Pal said.
+
+India bonds rise tracking easing crude oil, US Treasury yields
+
+The Indian bond market is experiencing a positive shift, with bond yields decreasing as oil prices and Treasury yields fall. The 2036 benchmark bond yield is now at 7.2393%, reflecting a minor drop. Additionally, crude oil prices have plummeted more than 20% since their October peaks, providing a temporary buffer against inflation.
+
+He also pointed to the changing interest-rate outlook in the US, where expectations of further Federal Reserve rate hikes have increased. Although the rupee has stabilised recently, narrowing interest-rate differentials could pose a challenge for Indian policymakers, particularly with the RBI running a short position of close to $240 billion in the forward market.
+
+According to Pal, the RBI could also consider widening the monetary policy corridor by keeping liquidity tight and increasing the Marginal Standing Facility (MSF) rate.
+
+  
+
+## Bond yields fall as crude prices correct
+
+Indian bond yields declined sharply during the first fortnight of November, reversing the upward trend witnessed over the previous two months. The correction in crude oil prices following the US midterm elections and the revival in foreign portfolio investor (FPI) flows supported the recovery in the domestic debt market.
+
+Brent crude fell below $100 per barrel to close at $95.84, marking a decline of more than 18% as concerns over the Middle East conflict eased. The rupee also appreciated, ending the week at Rs 94.25 against the US dollar.
+
+FPI inflows into Indian debt and equity markets together exceeded $10 billion during November, adding to the improvement in market sentiment.
+
+The benchmark 10-year government bond yield declined 11 basis points to close at 7.30%, nearly 20 basis points below the high of 7.48% recorded last month.
+
+Yields softened across the curve as lower crude prices and the appreciation in the rupee improved the macroeconomic outlook. Improved banking system liquidity also helped neutralise short positions in the bond market, Pal noted.
+
+However, the improvement in domestic bond sentiment comes against a contrasting backdrop in the US, where bond yields moved higher following an inflation reading that exceeded market expectations.
+
+## Food inflation remains a concern for RBI
+
+Despite the recent moderation in crude oil prices, domestic inflation remains a key concern for monetary policymakers.
+
+India's Consumer Price Index (CPI) inflation surged to a two-year high of 6.09%, driven by accelerating food inflation, which rose to 8.50% year-on-year. Core inflation also increased to 4.50% in October from 4.30% in September.
+
+Core inflation excluding precious metals climbed to 3.80% from 3.20% in the previous month, indicating that price pressures are not limited to food.
+
+Given the broad-based increase in food inflation and the firming up of core inflation, Pal expects headline CPI inflation to remain above 6% until the end of the current financial year.
+
+The persistence of inflationary pressures could make it difficult for the RBI to shift towards a more accommodative monetary policy stance, even as lower crude prices provide some relief to the external sector.
+
+## Trade deficit widens despite record exports
+
+India's merchandise trade deficit widened to a one-year high of $39.90 billion in October 2026, compared with $30 billion in September.
+
+However, the increase came alongside strong export performance. Merchandise exports rose 45% year-on-year to a record $49.50 billion, while imports increased 16%.
+
+Gold imports surged 206% to $5.5 billion, while non-gold imports grew 32% year-on-year, pointing towards resilient domestic demand and festive-season-
+
+Oil exports increased 43% month-on-month, while other export categories also recorded healthy growth. Electronics exports rose 63% year-on-year, engineering goods exports increased 36%, and textiles exports grew 55%.
+
+The combination of strong exports and rising imports reflects both improving external trade activity and resilient domestic consumption, although the widening trade deficit remains an important macroeconomic variable to monitor.
+
+## Yield curve likely to flatten as rates rise
+
+Looking ahead, Pal expects the Indian yield curve to continue flattening as policy rates move higher.
+
+The money market and Overnight Indexed Swap (OIS) curves have already witnessed some moderation following the decline in crude prices.
+
+The one-year OIS yield declined 22 basis points to 6.50%, while the five-year OIS yield fell 26 basis points to 6.60%. The OIS curve also outperformed the sovereign bond curve during the period.
+
+Against this backdrop, Pal believes investors should consider shorter-maturity investments while gradually increasing their exposure to longer-duration funds as yields rise.
+
+"Investors can look to allocate in 1-2 months maturity segment and reallocate to the longer duration funds in a staggered manner as yields rise," he said.
+
+## US rate expectations add to global bond market uncertainty
+
+International bond markets have also come under pressure as stronger-than-expected US inflation increased expectations of further monetary tightening.
+
+Markets are now pricing in a cumulative 50-basis-point increase in the US policy rate by the end of March 2027, according to the analyst note.
+
+Japanese bond yields also moved higher alongside a weakening yen, while European bond yields remained broadly stable.
+
+The higher US rate expectations could further complicate the RBI's policy decisions by narrowing the interest-rate differential between India and the US.
+
+For Indian bond investors, the near-term outlook therefore presents competing forces: lower crude prices and a stronger rupee are supportive of bond prices, but persistent domestic inflation and higher global interest-rate expectations could keep yields elevated.
+
+Pal's assessment suggests that investors may need to remain cautious on duration in the near term while gradually positioning for longer-duration opportunities as yields adjust to the evolving rate cycle.
+
+_(Disclaimer: Recommendations, suggestions, views, and opinions given by experts are their own. These do not represent the views of the Economic Times)_
+
+---
+
+### Xi warns against trade protectionism, Putin slams sanctions ahead of Trump meet
+*Reuters · general*
+
+## Xi Jinping, Vladimir Putin and Donald Trump are due to meet on the sidelines of the APEC Summit in Shenzhen on Thursday and potentially discuss Russia's war with Ukraine and the US war in Iran, as well as other flashpoints such as trade, AI and nuclear weapons.
+
+Xi Jinping and Vladimir Putin targeted the West ahead of their meeting with Donald Trump. (Reuters photo)
+
+Shenzhen,Nov 18, 2026 12:50 IST
+
+China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, while his Russian counterpart Vladimir Putin criticised Western sanctions as the two set the stage for a high-stakes trilateral meeting with Donald Trump.
+
+They delivered their speeches at an Asia-Pacific Economic Cooperation summit in the southern Chinese tech hub of Shenzhen, ahead of US President Trump's arrival from Manila, where he was meeting key regional allies.
+
+The three men are due to meet on the sidelines on Thursday and potentially discuss Russia's war with Ukraine and the US war in Iran, as well as other flashpoints such as trade, AI and nuclear weapons.
+
+The meeting has drawn comparisons with the 1945 Yalta Conference between the US, Britain and the Soviet Union that formalised spheres of influence, set the stage for the post-World War Two order and became shorthand for great-power deals imposed on smaller countries.
+
+It has also unnerved leaders of smaller economies, particularly in Europe and Asia, who fear the world's greatest military powers will disregard their interests.
+
+In his opening address, Xi urged support for what he called "free and open trade," trying to portray his country as a stable partner on the global stage, in contrast with main economic rival the US, which has raised tariffs and adopted a more muscular foreign policy under Trump.
+
+### MESSAGE RESONATES WITH GLOBAL SOUTH
+
+Xi's remarks came after Washington announced further restrictions on China's access to advanced AI chips from companies such as Nvidia, which could further complicate a fragile trade truce with Beijing. China has pledged to retaliate.
+
+"We must firmly uphold the rules-based multilateral trading system with the World Trade Organization at its core, support free and open trade and investment, maintain the stability and smooth operation of global industrial and supply chains," Xi told an audience of business executives.
+
+Western trade partners have criticised China for running annual trade surpluses in excess of $1 trillion through policies that support its manufacturing sector at the expense of its consumers.
+
+Beijing says its growth model is appropriate for an economy still catching up with the world's richest, but Washington, Brussels and others are concerned about China's supply chain dominance providing the country with geopolitical leverage and say its policies threaten their industries and jobs.
+
+Xi said China will continue to invest in its industrial complex and develop new technologies that would also benefit other countries. The world's second-largest economy will lower tariffs and further open up its markets, while standing up against protectionism and unilateralism, he added.
+
+His message is likely to resonate with many Global South countries and reinforce Beijing's effort to contrast its technology strategy with that of Washington," said George Chen, partner and chair of digital practice at The Asia Group.
+
+Trump's trip to Asia is his first since his Republican Party's defeat in the midterm elections, while allegations involving Nvidia founder Jensen Huang and a suspected Chinese spy add to the tension.
+
+Still, most analysts expect Washington and Beijing to keep ties relatively stable as Trump and Xi are set to follow their Thursday meeting in Shenzhen with their fourth of the year at the Group of 20 gathering in Miami in December.
+
+### HIGH-STAKES MEETING
+
+Putin, who was speaking after Ukraine destroyed the vital Kerch road bridge linking Crimea to Russia in a major blow to his four-year-old war, followed Xi on stage with a speech that described Western powers as "former hegemons."
+
+He said Europe was in a "humiliating decline" and that anti-Russian sanctions imposed after his invasion of Ukraine had backfired, instead making his country stronger.
+
+"Experience has shown that the traditional tools of economic dominance and de facto coercion have largely run their course, having lost much of their intimidating power," Putin said.
+
+"While sanctions, tariffs, and export restrictions may still exert a certain deterrent effect, they are incapable of halting growth—let alone crushing the economies of competitors."
+
+In a bilateral meeting later, Xi and Putin praised each other for a partnership they said was working "steadily and positively on the international stage" and pledged more measures that advance a "multipolar world."
+
+In Manila, Trump vowed to deepen defence cooperation with the Philippines, amid its growing friction with Beijing over disputed features in the South China Sea. Earlier, he floated the possibility that he might meet North Korean leader Kim Jong Un in China, but that has not been confirmed.
+
+The Kremlin this week dismissed comparisons with the Yalta Conference as "games of political scientists," but said the meeting will have a major impact on global affairs. Beijing said the trilateral will promote world peace.
+
+On Tuesday, Taiwan and Japan flagged incursions by Russian aircraft into their airspace.
+
+Putin described the world as "turbulent" but said disagreements between countries can be addressed by "sitting at the table."
+
+"I therefore expect big potential benefit from the upcoming trilateral meeting between the leaders of Russia, China and the United States," he said.
+
+\- Ends
+
+---
+
+### SIP investment: Are retail investors helping FIIs exit Indian stocks? 4 myths explained - Are your SIPs funding foreign investors' exit?
+*ET Online · finance*
+
+Nov 18, 2026, 12:49:28 PM IST
+
+1/7
+
+## Are your SIPs funding foreign investors' exit?
+
+With the rupee under pressure and foreign institutional investors (FIIs) selling Indian equities, some market voices argue that domestic mutual fund SIP inflows are providing an easy exit to foreign investors.
+
+But is this criticism justified? Are retail investors indirectly helping FIIs exit the Indian market, and are SIPs contributing to the rupee's fall? Let's examine four common myths.
+
+ET Online
+
+2/7
+
+## Myth 1: Are SIP investors providing an easy exit to FIIs?
+
+Domestic mutual fund inflows can absorb shares sold by FIIs, promoters, private equity (PE) investors or companies raising fresh capital. However, these transactions have different economic implications.
+
+● Fresh capital raised by companies: Can fund productive investments and create long-term value if returns exceed the cost of capital.  
+● Existing shareholders selling shares: Primarily transfers ownership. The company does not receive fresh money.  
+The real question is whether the capital being invested will generate sustainable wealth, not simply who is buying from whom.
+
+Getty Images
+
+3/7
+
+## Myth 2: Do SIP investments cause FII outflows and rupee depreciation?
+
+An SIP is an investment of domestic rupee savings in Indian mutual funds. The dollars that leave the country through FII selling are the foreign investors' own. The rupee's value depends on several factors, including the current account deficit, crude oil prices and the global strength of the dollar. FII selling is only one of them.
+
+Domestic inflows can also cushion stock prices during periods of foreign selling. Investors who continue investing through market corrections may benefit when foreign investors return during economic recoveries.
+
+Getty Images
+
+4/7
+
+## Myth 3: Is promoter or PE investor selling at high valuations a red flag?
+
+Promoter selling does not automatically indicate trouble. Investors may sell shares for legitimate reasons, such as portfolio diversification or succession planning. Similarly, a fresh issue of shares does not guarantee value creation. Poor capital allocation or excessive valuations can hurt investors.
+
+What matters is the price retail investors pay and whether the company can create value through innovation, productivity and higher returns on capital.
+
+Getty Images
+
+5/7
+
+## Myth 4: Do fund managers and distributors earn at investors' expense?
+
+Fund houses and distributors earn fees based on assets under management. Their earnings increase as assets grow, but they do not share investors' losses or guarantee returns. Investors who do not want distributor services can also choose direct mutual fund plans.
+
+Fund managers, distributors and brokers are service providers, not investment partners. Investors bear the risks and receive the gains. Transparency and acting in investors' best interests remain important.
+
+Getty Images
+
+6/7
+
+## Are SIPs safe? Do they guarantee returns?
+
+A SIP is an investment method, not an asset class or a guarantee of returns. Unlike recurring bank deposits, equity mutual fund SIPs do not offer assured returns and remain exposed to market fluctuations.  
+
+Getty Images
+
+7/7
+
+## SIPs: Boon or bane for long-term wealth creation?
+
+SIPs offer a disciplined way to participate in India's long-term growth, average purchase costs across market cycles and work towards financial goals. However, investors must understand the risks, assess valuations and question the incentives of financial intermediaries.
+
+Ultimately, the purpose of investing is not to provide an exit to FIIs or enrich intermediaries. It is to build wealth and secure your financial future.
+
+Getty Images
+
+---
+
+### Father carried sacks, sold land for our dreams: Bihar porter's sons crack NEET, JEE
+*India Today Education Desk · general*
+
+## Gaya brothers Sonu Raj and Monu Raj cleared NEET and JEE after their father, a porter, sold a piece of agricultural land to fund their coaching in Kota. India Today Digital spoke to the brothers about their journey from financial hardship to securing admission to CAPFIMS, Delhi, and BIT Mesra.
+
+Gaya porter's sons crack NEET, JEE after he sells farmland to fund coaching (AI-treated image)
+
+New Delhi,Nov 18, 2026 12:47 IST
+
+"Our parents have done so much for us. Now it is our turn to give back to them," say Gaya brothers Monu Raj and Sonu Raj. For the two brothers, cracking two of India's toughest entrance examinations is more than an academic achievement. It is a way of acknowledging the sacrifices their parents made to give them a better future.
+
+Their father, Manoj Kumar, works as a porter in Gaya's grain market in Bihar. Knowing that sending his sons to Kota, Rajasthan, for competitive exam preparation would be expensive, he made a difficult decision: he sold one of the family's two small plots of agricultural land to arrange money for their education.
+
+Their years of hard work and perseverance have finally paid off. The elder brother, Sonu Raj, secured 636 marks in NEET UG 2026, earning a place at a medical institute in Delhi. Monu Raj, meanwhile, scored 93 percentile in JEE Main and secured admission to the Chemical Engineering programme at Birla Institute of Technology (BIT), Mesra.
+
+The road to success, however, was far from easy. The brothers spent two years in Kota, away from their family, preparing for their respective entrance examinations. They faced financial constraints, health problems and the pressure of fulfilling their parents' expectations. But their determination, coupled with their parents' unwavering support, kept them going.
+
+Two years of struggle, sacrifice and determination in Kota (AI-generated illustration)
+
+### A PORTER FATHER'S TWO JOBS AND ONE BIG DREAM
+
+For Manoj Kumar, supporting his family has always meant taking up multiple jobs. Apart from working as a porter in Gaya's grain market, he helps farmers sell their produce and earns a commission. He has also worked as a daily-wage labourer under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA).
+
+His wife, Reshmi Devi, is a homemaker who has consistently encouraged her sons to pursue their education.
+
+"There were times when managing expenses was difficult, but we never wanted money to become a barrier to our children's education. Their father worked very hard, and we both did everything possible to support their dreams," says Reshmi Devi.
+
+Despite their limited resources, Manoj and Reshmi were determined not to let their financial circumstances come in the way of their children's ambitions.
+
+### WHAT MADE MONU DREAM OF KOTA?
+
+Monu began considering engineering as a career after hearing about students from Gaya who had moved to Kota to prepare for JEE and NEET. Several of them went on to become doctors and engineers, inspiring him to follow a similar path.
+
+Monu has consistently been a good academic performer, scoring 96 percent in Class 10 and 84.5 percent in Class 12.
+
+"I had seen several students from Gaya move to Kota for JEE and NEET preparation and eventually fulfil their dreams of becoming engineers and doctors. Their success made me believe that I could achieve something similar. I spoke to some of them before deciding to go to Kota," says Monu.
+
+For him, Kota represented an opportunity to access better coaching, guidance and an academic environment that could help him realise his engineering ambitions.
+
+Inspired by local success stories, Monu set his sights on Kota and an engineering career.(AI generated illustration)
+
+### A FATHER'S SACRIFICE: SELLING LAND TO FUND KOTA COACHING
+
+Sending his sons to Kota came with a financial challenge. With limited earnings and household expenses to manage, arranging money for coaching and living expenses was not easy for the family.
+
+The family owned two small plots of agricultural land, which helped meet their food requirements. They also sold a portion of their produce to earn some additional income. However, when Monu expressed his desire to prepare for JEE in Kota, Manoj decided to sell one of the plots to arrange the money.
+
+It was not an easy decision. The land represented a source of security for the family, but Manoj was willing to part with it rather than let financial difficulties stand in the way of his son's education.
+
+For him, the sacrifice was an investment in a future he hoped would be better than the present.
+
+Monu says he remains conscious of what his father gave up to help him pursue his ambitions. He believes that building a successful career and ensuring his parents never have to struggle financially would be the best way to honour that sacrifice.
+
+"I don't think I can ever fully repay what my parents have done for us. My father gave up a valuable piece of land because he believed education could give us a better future. For me, the biggest way to honour his sacrifice is to work hard, become successful and ensure that my parents never have to struggle for basic needs again. I want them to feel proud of the decision they made," says Monu.
+
+### FIGHTING ILLNESS WHILE PREPARING FOR JEE
+
+The brothers' two years in Kota came with their share of challenges. Monu, while preparing for JEE Main at ALLEN, contracted typhoid and later developed jaundice. He also experienced episodes of rapid heartbeat and suffered from fever for nearly three months.
+
+Despite these health setbacks, he continued attending classes and remained focused on his studies. "I continued attending classes despite my health problems and stayed focused on my preparation," Monu says.
+
+The brothers supported each other through two challenging years in Kota.(AI generated illustration)
+
+Looking back at his two years in Kota, Monu says the experience taught him the importance of patience and consistency. Moving away from home, adjusting to a new environment and dealing with prolonged health problems were difficult, but he learnt not to let temporary setbacks affect his larger goals. "I would tell my younger self to keep going because consistency and patience matter more than temporary setbacks. The sacrifices and hard work will eventually make sense," he says.
+
+Living together in Kota also meant the brothers could support each other through the demands of competitive exam preparation. While Monu battled health problems during his preparation, his elder brother Sonu remained focused on his own NEET journey. The two continued to motivate and support each other while living away from home.
+
+Their efforts eventually paid off, with Sonu securing admission to CAPFIMS in Delhi and Monu gaining admission to BIT Mesra.
+
+For their parents, the results mark the fulfilment of a dream they worked hard and made sacrifices for.
+
+### NOW IT IS OUR TURN TO GIVE BACK TO OUR PARENTS
+
+For Sonu, the achievement is not just about moving closer to his dream of becoming a doctor. It is also about acknowledging everything his parents have done to make this possible.
+
+"We worked tirelessly to fulfil our parents' dreams, and we are happy that our efforts have paid off. They have made countless sacrifices for us, and now we want to give back by building a better future for our family and contributing to society. The academic environment and guidance we received in Kota played an important role in our journey," says Sonu.
+
+Monu, too, has similar aspirations. Securing admission to BIT Mesra is only the beginning of a larger journey for him. He hopes to make the most of this opportunity, develop his professional skills and become financially independent so that he can support his family.
+
+Their father, Manoj Kumar, sees the results as the reward for years of struggle and determination.
+
+Sonu and Monu hope to repay their parents' sacrifices by building a better future for the family (AI generated illustration)
+
+"I am proud of both my sons. They worked very hard to reach this stage, and seeing their dreams come true is the happiest moment for our family. I am thankful to everyone in Kota who guided and supported them throughout their preparation," says Manoj.
+
+Having experienced financial constraints and health challenges during his preparation, Monu also has a message for students who come from financially weaker backgrounds. He believes a lack of resources should not discourage them from pursuing their ambitions.
+
+Monu says that staying focused and working consistently can help overcome challenges, even when resources are limited. He emphasises the importance of self-belief and remaining confident in one's abilities.
+
+### MORE THAN TWO EXAM RESULTS: A FATHER'S DREAM FINALLY TAKES SHAPE
+
+For Manoj Kumar, the decision to sell a piece of agricultural land was a leap of faith. For Reshmi Devi, it meant standing by her children's ambitions despite the family's financial limitations. And for Sonu and Monu, it meant carrying their parents' hopes with them through classrooms, health setbacks and the pressures of competitive examinations.
+
+One son is now on the path to becoming a doctor, while the other is set to pursue engineering. Their journeys may lead them in different directions, but both began with the same sacrifice.
+
+A father who spent his days carrying sacks in a grain market gave up a piece of land so his sons could carry forward dreams that once seemed beyond the family's reach.
+
+Now, as the brothers prepare for the next chapter of their lives, they have one promise to fulfil: to give back to the parents who put their future before everything else.
+
+\- Ends
+
+---
+
+### Did PM Modi ride a Made-in-Pakistan auto at ASEAN Summit?
+*India Today News Desk · general*
+
+## PM Narendra Modi, along with several other world leaders, took a ride in specially decorated three-wheelers as they arrived for the gala dinner in Manila. Several Pakistani handles called it a Pakistani-made vehicle. But the truth is very different.
+
+PM Modi in Manila for the ASEAN Summit
+
+New Delhi,Nov 18, 2026 12:52 IST
+
+Pakistan is known for exporting terror. But since when did it start exporting e-rickshaws? Pakistani social media handles have found a new way to embarrass themselves, claiming that Prime Minister Narendra Modi rode a "Made-in-Pakistan" auto-rickshaw at the ASEAN Summit in Manila. The truth, however, is quite different. The vehicle was a custom-decorated three-wheeler made by India's Bajaj Auto.
+
+On Tuesday, PM Modi, along with several other world leaders, took a ride in specially decorated three-wheelers as they arrived for the gala dinner in Manila. The colourful vehicles, which featured Filipino jeepney-inspired artwork, were arranged by the host country as part of the summit. Such abstract artwork can be found on public vehicles in the Philippines.
+
+The Prime Minister was seen wearing the traditional Filipino outfit, called the Barong Tagalog, as he arrived for the dinner. The attire featured intricate tonal embroidery with elaborate floral motifs.
+
+### TRUTH BEHIND PM MODI'S AUTO RIDE
+
+As videos of PM Modi riding in the decorated three-wheeler went viral, some Pakistani handles attempted to pass it off as a Pakistani-made vehicle. "Narendra Modi takes a ride in a Made-in-Pakistan e-rickshaw at the ASEAN Summit," tweeted one, Hammad Hassan, a Lahore-based journalist. Several other accounts also amplified the claim.
+
+The claims appear to rest on one thing. Last month, Pakistani auto firm Sazgar, which manufactures three-wheelers, opened its first overseas manufacturing facility in Laguna, Philippines. It was part of the firm's plans to expand into Southeast Asia.
+
+However, the three-wheelers used to ferry world leaders at the ASEAN Summit were manufactured by Indian automobile major Bajaj. Close-up videos of the modified autos clearly showed the Bajaj logo on their digital instrument clusters.
+
+Needless to say, Indian social media handles had a field day mocking their Pakistani counterparts.
+
+"Imagine being so desperate to claim India's achievements that even a three-wheeler has to correct their national identity crisis. India manufactures. Pakistan misidentifies," one user tweeted.
+
+Another posted, "Bajaj Auto: Made in India, roasted whole Pakistan."
+
+Bajaj, which entered the Philippines market in 2015, has since gone on to become an established name in the country's three-wheeler market. It has several assembly facilities and a network of dealers. It exports its vehicles to more than 70 countries.
+
+The reality will be tough to stomach for Pakistan, the masters at launching propaganda campaigns. The latest episode shows how quickly such propaganda can fall apart once the facts are checked.
+
+PM Modi takes part in the Quad summit on sidelines of ASEAN in Manila (AP)
+
+### WHAT DID PM MODI SAY AT ASEAN SUMMIT?
+
+The Prime Minister had a jam-packed schedule during his two-day visit to the Philippines, where he also attended the East Asia Summit and a meeting of the Quad leaders, involving Donald Trump and his counterparts from Japan and Australia.
+
+At the ASEAN Summit, PM Modi proposed several key initiatives, including a long-term maritime cooperation plan to boost connectivity and ensure seafarers' security. He also proposed free e-visas for tourists from ASEAN countries, a joint cyber forensics training program, and cooperation on mining and critical minerals.
+
+"Together, India and ASEAN represent nearly a quarter of the population. It is essential to ensure that our future is shaped by cooperation rather than competition," PM Modi said.
+
+The issue of seafarers featured prominently in his address at the East Asia Summit (EAS). The Prime Minister announced the launch of a first-of-its-kind "seafarers' safety initiative" among EAS members to enhance cooperation in emergency response.
+
+The emphasis on seafarers is important. Since the US-Iran conflict broke out in February, several commercial ships with Indians on board have been caught in the crossfire. At least 22 Indian nationals have been killed since the war began.
+
+\- Ends
+
+---
+
+### Xiaomi 18 Pro and 18 Pro Max launched globally, India launch remains a mystery
+*Divya Bhati · general*
+
+Xiaomi launched its new flagship smartphones, the Xiaomi 18 Pro and Xiaomi 18 Pro Max, in Paris last night. And these phones have quite a few things going for them. For starters, they come with a second screen on the back. Yes, alongside the main display, Xiaomi's latest flagships pack a secondary screen that can do much more than just show notifications. The phones also feature Leica-branded dual 200-megapixel cameras, and the power of Qualcomm's latest Snapdragon processors. And a lot more AI features running on HyperOS 4.
+
+But before we get too hyped, there's one thing to keep in mind. Xiaomi has not revealed an India launch date or confirmed whether both models will make it to the country. And looking at what these flagships bring to the table, we certainly hope they make their way to India soon.
+
+So, what exactly do the Xiaomi 18 Pro and 18 Pro Max offer? Let's take a quick glance.
+
+### Xiaomi 18 Pro and 18 Pro Max get a second screen on the back
+
+The biggest talking point is undoubtedly the secondary display on the back. The Xiaomi 18 Pro gets a 2.7-inch rear display, while the Pro Max has a slightly larger 2.9-inch screen. Both support a 1-120Hz refresh rate and up to 4,000 nits peak brightness. The display also comes with several useful features. And Xiaomi says this isn't just another screen added for the sake of it.
+
+For starters, it can double up as a viewfinder, allowing users to take selfies, group photos and vlogs using the powerful 200-megapixel rear cameras. It also offers a real-time preview while recording videos, including 8K videos at up to 30fps.
+
+The secondary screen can also show call alerts, navigation directions, ride-hailing and food delivery updates. Xiaomi says users can also pin useful information, such as boarding passes, QR codes, text and images, to the second display for quick access.
+
+And then there's AI. Both phones run Xiaomi's latest HyperOS 4 and come packed with a few AI features for the rear display. They have an AI Interpreter that uses both screens to translate face-to-face conversations in 29 languages. They also have GenAI Apps, which lets users create mini apps for the rear display simply by describing what they want. Users can even create AI-generated group photo wallpapers featuring pets, celebrities or fictional characters.
+
+### Dual 200MP Leica cameras for the love of photography
+
+And of course, Xiaomi is also going big on photography. Again. The new flagships feature a Leica dual-200-megapixel camera system, comprising a 200-megapixel main camera and a 200-megapixel periscope telephoto camera. The Xiaomi 18 Pro Max gets an upgraded Light Fusion 960L main sensor, while the telephoto camera offers up to 150mm optical-level zoom and a 12cm telemacro mode for close-up shots. The phones also get a 50-megapixel ultra-wide camera and a 50-megapixel front camera.
+
+There are a few software additions for more tricks. Users get Leica-inspired shooting styles, including B&W Film, Iconic CCD and Modern Vintage. Xiaomi has also added effects that recreate the look of 35mm documentary and 75mm portrait lenses. For video, both phones support 8K recording at 30fps and 4K Dolby Vision recording at up to 120fps.
+
+### Power of the mighty new Snapdragon processors
+
+Under the hood, the Xiaomi 18 Pro and Pro Max use Qualcomm's latest flagship processors. The Pro gets the Snapdragon 8 Elite Gen 6, while the Pro Max is powered by the Snapdragon 8 Elite Extreme Gen 6. Both chipsets are built on TSMC's 2nm process and feature Qualcomm's Oryon CPU architecture.
+
+The Pro Max also gets an upgraded cooling system, which Xiaomi says improves heat dissipation by up to 50 per cent compared with the previous generation. According to the company, this should help the phone maintain performance during demanding tasks such as gaming and other heavy workloads.
+
+Both phones also come with an IP68 rating for dust and water resistance.
+
+### Xiaomi brings built-in privacy display technology
+
+And there are more display tricks. Xiaomi has also introduced its Privacy Display technology, designed to stop people nearby from peeking at your screen. Feeling deja vu? Well Samsung has already introduced a similar feature with its Galaxy S26 Ultra. Xiaomi is now bringing its own version to the 18 Pro series.
+
+Xiaomi says its technology uses dedicated pixels to limit side-angle visibility. Users can enable it for selected apps and notifications. There is also a Privacy Notice feature that alerts users when someone nearby is detected.
+
+### Big batteries and bright displays
+
+As for the display size, the Xiaomi 18 Pro gets a 6.4-inch screen, while the Pro Max has a larger 6.9-inch panel. Both use LTPO technology, support adaptive refresh rates of up to 120Hz and offer peak brightness of up to 4,000 nits.
+
+Battery capacity is another area where Xiaomi is pushing the limits. The Xiaomi 18 Pro packs a 6,000mAh battery with 90W wired charging, while the Pro Max gets a much larger 7,050mAh battery with 100W wired charging. Both support 50W wireless charging.
+
+The Xiaomi 18 Pro Max also gets a few extras, including a triple-speaker system, an upgraded haptic motor and Xiaomi Privacy Call.
+
+### Xiaomi 18 Pro and 18 Pro Max price and availability
+
+The Xiaomi 18 Pro starts at EUR 1,399 (roughly Rs 1.44 lakh), while the Xiaomi 18 Pro Max starts at EUR 1,599 (roughly Rs 1.65 lakh). Both phones come in Black, White, Cosmic Blue and Velvet Red colour options.
+
+All sounds good, but what about the India launch? Well, there is still some waiting to do. Xiaomi has not announced a launch date for the Xiaomi 18 Pro and Pro Max. We expect the phones to arrive in the coming months, though. And, of course, we'll keep you updated as soon as we hear more.
+
+\- Ends
+
+---
+
+### What Did SP's Three Leaders Say That Adityanath Wants UP's Brahmins To Know Ahead Of 2027 Polls?
+*Apoorva Misra · general*
+
+By bringing up the remarks, the CM has sought to turn the spotlight on what he describes as a contradiction between the SP's political outreach and the statements by its leaders
+
+[Read full article](https://www.news18.com/india/what-did-sps-three-leaders-say-that-adityanath-wants-ups-brahmins-to-know-ahead-of-2027-polls-ws-l-10430446.html)
+
+---
+
+### Microsoft launches 7 AI models focused on coding, takes on OpenAI and Anthropic challenge
+*Krishna Goswami · general*
+
+Microsoft has long relied on OpenAI to power its artificial intelligence tools. Now, the software giant is proving it can build its own powerful tech. At its Ignite conference in San Francisco, Microsoft announced six new in-house AI models. These models are designed to rival top offerings from companies like OpenAI and Anthropic, but at a much lower cost.
+
+The main goal behind these new models is simple: give businesses high-performance AI without the massive price tag. Instead of building one giant model that tries to answer every possible question, Microsoft has created smaller, specialized models. These are laser-focused on specific tasks like writing code, cybersecurity, and editing images.
+
+### Cheap, fast, and highly specialized
+
+Microsoft AI CEO Mustafa Suleyman explained that they achieved these massive price drops by packing more knowledge into a smaller space. By focusing on a single task, the models can match the performance of heavyweights in that specific area while keeping costs down.
+
+However, there is a catch. Because these models are highly specialized, a model built for everyday software coding will not be good at solving advanced math problems or doing deep scientific research. Suleyman noted that the setup perfectly balances price and performance for businesses that just need to get specific jobs done.
+
+### Meet the new Microsoft AI models
+
+Microsoft has rolled out several models to tackle different needs across the tech industry. The flagship coding model is called MAI Code 2. Microsoft claims it delivers 98 per cent of the performance seen in OpenAI's GPT-6.1 Sol, but it costs only 40 per cent as much.
+
+When compared to Anthropic's Claude Opus 5.5, it reportedly gives 96 per cent of the performance at just 5 per cent of the cost.
+
+There is also a smaller and faster version called MAI Code 2 Flash. Microsoft says this model matches OpenAI's GPT-6 Luna at 65 per cent of the price and Anthropic's Claude Haiku 5.5 at just 20 per cent of the cost.
+
+For digital security, the company introduced MAI Cyber 2 Flash. Microsoft states that this cybersecurity model actually beats OpenAI's GPT-6 Astra on a major security test while costing less than 2 per cent per task.
+
+Beyond coding and security, the company launched MAI Image 2.7, which Microsoft claims ranks first in image editing. They also introduced new audio and decision-making tools, including MAI Realtime 1 for fast voice processing and MAI Transcribe 2 for healthcare transcriptions.
+
+### The race for Superintelligence
+
+While these specialized models are making headlines, Microsoft is not giving up on building a massive, all-around AI. Suleyman confirmed that his team is actively working on a general-purpose "frontier" model to compete across a broader range of tasks. He said they are making strong progress and stated clearly that his team is building true superintelligence.
+
+The competition is not sitting still, though. Just as Microsoft announced its new lineup, OpenAI revealed its own updates, launching GPT-6.2 Astra and GPT-6.2 Sol. To stay competitive on pricing, OpenAI made the new Astra model 20 per cent cheaper than its previous version.
+
+### What this means for users
+
+These new models will start rolling out soon and could change how Microsoft works with outside AI companies. MAI Code 2 will be available in GitHub Copilot, which means developers will use Microsoft's own AI to help write software.
+
+For big businesses, Microsoft is offering the ability to license these models. Enterprise customers can customize the AI using their own private data, as long as they run it securely within Microsoft Azure. Suleyman said this approach will give companies a feel similar to open-source software, but with much greater control and security over their information.
+
+\- Ends
+
+---
+
+### GTA 6 takes over workplaces as companies announce gaming breaks
+*India Today Education Desk · general*
+
+## Companies in India, Japan, and the US are making room for GTA 6 fever, offering employees time off or pausing operations as workers prepare for the highly anticipated game's November 19 release.
+
+GTA 6 fever hits workplaces as companies give employees time off to play
+
+New Delhi,Nov 18, 2026 12:47 IST
+
+The wait for a new Grand Theft Auto game has lasted 13 years, and for some fans, playing it on launch day is becoming more important than showing up at work. With GTA 6 set to release on November 19, 2026, employees are planning their leave, while some companies are taking an unusual approach: giving their workers time off to enjoy the game.
+
+From a Japanese gaming studio offering a five-day break to an Indian company declaring a holiday for employees, interns, and freelancers, excitement around the upcoming release is seeping into workplace policies. Even global technology company Logitech has introduced a dedicated gaming day for its workforce.
+
+### LOGITECH INTRODUCES A DEDICATED GAMING DAY
+
+Computer peripherals maker Logitech has announced a new employee initiative called 'Logi Game Day', giving its employees a dedicated day off to play video games.
+
+The initiative marks the first company-wide gaming day in its history. Employees can use the additional day off to play a game of their choice, with the company scheduling a special gaming event at its San Jose headquarters on November 19.
+
+The announcement comes just ahead of GTA 6's release. Logitech CEO Hanneke Faber said it was time to move beyond the stereotype that gaming is a waste of time. The company also highlighted the potential benefits of gaming, including strategic thinking, problem-solving and confidence.
+
+### JAPANESE GAMING STUDIO OFFERS FIVE DAYS OFF
+
+Logitech is not the only company embracing the gaming excitement. Pocketpair, the Japanese developer behind Palworld, has announced a special five-day holiday for employees planning to play GTA 6.
+
+In a post on X on November 12, the company said its employees had been granted special leave for an urgent 'business trip to Vice City', referring to the fictional location in the game.
+
+According to the company's announcement, employees intending to play GTA 6 will be excused from regular duties between November 19 and November 23.
+
+The announcement was also reported by gaming publication PC Gamer.
+
+Screengrab of Palworld's tweet.
+
+### INDIAN COMPANY DECLARES NOVEMBER 19 A HOLIDAY
+
+The GTA 6 excitement has also reached Indian workplaces. Interior design firm Inde by ChairsCarte has announced a company-wide holiday on November 19 for its employees, interns and freelancers.
+
+In an Instagram announcement, founder and CEO Kishore Shanmugam said the company was making an exception for a game that employees had waited years to play.
+
+The announcement referred to the nostalgia associated with earlier Grand Theft Auto titles, including Vice City and GTA V. The company said November 19 would not be treated like an ordinary Thursday.
+
+Screengrab of Indebychairscarte's Instagram post.
+
+### COMPANIES RESPOND AS EMPLOYEES PLAN LEAVE
+
+The excitement is not limited to employers announcing holidays. Employees are also adjusting their schedules around the launch.
+
+According to _Reuters_, citing data from HR software company BambooHR, paid time-off requests for November 19 are 13% higher than on a typical November day. Reuters also reported that around one-third of surveyed Gen Z workers planned to take the day off.
+
+Another company, California-based Burger Motorsports, announced a temporary company-wide operational pause on November 19 after receiving an unusually high volume of employee leave requests linked to the game's release, as reported by _PC Gamer_.
+
+With companies making room for gaming and employees planning their schedules around it, GTA 6's launch is turning into an unusual workplace event even before players enter Vice City.
+
+\- Ends
+
+---
+
+### Gourmet Popcornica aims ₹1,500 cr revenue by FY30 amid rising demand
+*PTI · business*
+
+Gourmet Popcornica Managing Director Pattabhi Rama Rao
+
+Chennai-based agri-to-consumer company Gourmet Popcornica is targeting revenue of Rs 1,500 crore by the 2029-30 fiscal year, driven by rising demand and ongoing capacity expansion, a top company executive said.
+
+Gourmet Popcornica Managing Director Pattabhi Rama Rao said the company aims to close the current financial year at Rs 500 crore, up significantly from Rs 350 crore recorded in FY26, while simultaneously expanding its farmer network, contract farming acreage and operational capacity to support this growth.
+
+"We aim to onboard 50,000 farmers and expand our cultivated area to 1.5 lakh acres by FY30. Currently, we have agreements with 17,500 farmers cultivating 48,000 acres across Andhra Pradesh, Chhattisgarh, Maharashtra, Madhya Pradesh and Telangana for corn procurement," Rao told _PTI_.
+
+Gourmet Popcornica currently has a market share of 48 per cent in the country and aims to grow it to around 60 per cent by 2029-30, Rao noted.
+
+"Our installed popcorn processing capacity is approximately 600 tonnes per day, or around 1.8 lakh tonnes annually, after accounting for holidays. We are currently producing 60,000 tonnes a year. We plan to upgrade the units, install better-quality machinery and improve operational efficiencies. So, we won't increase the capacity of the processing plant, but the acreage will keep growing," Rao said.
+
+On the seasoning business, Rao said the company relies on contract manufacturers and will scale up production capacity as and when required.
+
+When asked about the company's plans on exports, Rao said they have began exploring markets in the neighbouring countries. "We have started exploratory conversations in Sri Lanka. However, nothing has been decided yet," he added.
+
+Rao said that the company has also entered the seeds and oil palm plantation business.
+
+"We have expanded beyond popcorn into oil palm and seeds. We have about 8,000 acres under oil palm contract farming in Kapileswarapuram in East Godavari district in Andhra Pradesh and Kalahandi district in Odisha. We aim to expand this to around 50,000 acres by 2032," he said.
+
+The company expects to set up its first oil mill in two years in Odisha and soon thereafter in Andhra, Rao stated.
+
+In the seeds business, he said the company is involved in multiple seed breeding activities.
+
+"Having set up a breeding division for popcorn, we've gone into breeding of mustard seed. We are also working with the government on different paddy varieties. We're also working on breeding in oats and peanuts. We expect to start seeing turnover from the seeds business in the current financial year. As for the oil palm, the first oil palm mill will be set up in 2028 and the second mill will be set up in 2030," he added.
+
+The company has spent over Rs 100 crore on seeds and the oil palm business so far.
+
+"Over the next five years, to achieve our target, we'll probably have to do a little more than Rs 150 crore, which will be funded either through shareholders or internal accrual," he added.
+
+Published on November 18, 2026
+
+---
+
+### What is one light day? The distance from Earth Voyager 1 will reach today
+*India Today Science Desk · general*
+
+## Nasa's Voyager 1 is expected to reach one light-day from Earth today, travelling nearly 25.9 billion kilometres after a journey of almost 50 years.
+
+An artist's concept of Nasa's Voyager spacecraft with its antenna pointing to Earth. (Photo: Nasa)
+
+Nasa’s Voyager 1 is expected to reach a distance of one light-day from Earth on Wednesday, November 18, becoming the first human-made object to travel so far into space.
+
+At that point, the spacecraft will be about 25.9 billion kilometres from Earth; so distant that even a signal travelling at the speed of light will take a full 24 hours to reach it.
+
+The milestone is expected at 3:46 pm IST, nearly 50 years after Voyager 1 began its journey.
+
+It is the farthest-travelling human-made object, and its achievement will pave the way to understanding the enormous distances that need to be traversed in space exploration.
+
+An artist's concept of Voyager 1 travelling throguh space. (Photo: Nasa)
+
+### WHAT IS A LIGHT DAY?
+
+A light-day is not a measure of time but instead describes the distance light travels in one day, or 24 hours.
+
+Light moves at about 2,99,000 kilometres every second. Over a full day, it covers roughly 25.9 billion kilometres.
+
+The term works much like a light-year, which is the distance light travels in a year.
+
+Astronomers use such measures because distances in space are so vast that kilometres can become difficult to picture.
+
+At one light-day away, a message sent from Earth to Voyager 1 takes 24 hours to arrive. A reply would take another 24 hours to return, meaning a simple exchange could take about two days.
+
+### THE LONG JOURNEY OF VOYAGER 1
+
+Nasa launched Voyager 1 on September 5, 1977, to study Jupiter and Saturn.
+
+Nasa's Voyager 1 spacecraft is seen launching from Florida in 1977. (Photo: Nasa)
+
+It flew past Jupiter in 1979 and Saturn in 1980, sending back close-up observations that helped scientists learn more about the planets, their moons and their rings.
+
+The spacecraft also captured the famous “Pale Blue Dot” image of Earth in 1990, showing our planet as a tiny speck against the darkness of space.
+
+In 2012, Voyager 1 became the first spacecraft to enter interstellar space, the region beyond the vast bubble of particles and magnetic fields created by the Sun.
+
+Despite operating for far longer than its original mission, Voyager 1 is still sending scientific and engineering data to Earth.
+
+Engineers secure the cover over the Voyager 1 Golden Record. (Photo: Nasa)
+
+It also carries a Golden Record, a gold-plated disc containing sounds and images from our planet, intended as a message from humanity to any life that might encounter it.
+
+Travelling at about 61,000 kilometres per hour, Voyager 1 has taken nearly five decades to cover a distance light crosses in a single day.
+
+\- Ends
+
+---
+
+### Asus Expands TUF Gaming Lineup in India With Three New Gaming PCs
+*Shaurya Tomer · technology*
+
+The TUF Gaming A15 is being introduced in Made in India configurations as part of the company's efforts to expand its local manufacturing operations.
+
+[Read full article](https://www.gadgets360.com/laptops/news/asus-tuf-gaming-f16-2026-a15-t700-mini-desktop-price-in-india-launch-sale-features-specifications-12342744)
+
+---
+
+### SEBI weighs tighter margin trading rules, rules out longer market hours
+*India Today Business Desk · general*
+
+## SEBI Chairman Tuhin Kanta Pandey said that extending market trading hours would require a strong business case, particularly given the growing cyber risks. He said he did not see the feasibility of extending trading hours in India.
+
+The regulator is reviewing the existing framework as it looks to support leveraged trading while keeping risks to the market in check.
+
+New Delhi,Nov 18, 2026 12:41 IST
+
+The Securities and Exchange Board of India (SEBI) is considering proposals to strengthen the margin trading facility (MTF), but has not taken a final decision yet, Chairman Tuhin Kanta Pandey said on Wednesday, reported Reuters.
+
+The regulator is reviewing the existing framework as it looks to support leveraged trading while keeping risks to the market in check.
+
+MTF allows investors to buy shares by borrowing money from their brokers. It enables them to take larger positions than they could with their available funds, but also increases their exposure to market losses.
+
+### SEBI WEIGHS CHANGES TO MARGIN TRADING RULES
+
+SEBI had earlier proposed widening the sources of funding available to brokers and easing some operational requirements under the MTF framework.
+
+However, the regulator has also been considering additional safeguards. These could include limits on fresh margin-funded positions in stocks where exposure crosses a certain threshold linked to their free float.
+
+Free float refers to the shares of a company that are available for trading in the market.
+
+The proposed changes are aimed at strengthening the MTF framework while ensuring that higher levels of leveraged trading do not create risks for the market.
+
+### SEBI CHAIRMAN SEES LITTLE SCOPE FOR LONGER MARKET HOURS
+
+Pandey also said that extending market trading hours would require a strong business case, particularly given the growing cyber risks. He said he did not see the feasibility of extending trading hours in India.
+
+The debate over longer trading hours has gained attention as global exchanges and market participants explore extended or near-round-the-clock trading. Such moves are aimed at making markets more accessible to investors across different time zones.
+
+India's regular equity market trading session runs from 9:15 am to 3:30 pm IST.
+
+Meanwhile, the NSE International Exchange (NSE IX) announced on November 3 that it had extended its trading hours to 23.5 hours a day.
+
+\- Ends
+
+---
+
+### TVK leader accused of bribery, indecent behaviour with woman expelled from party
+*Pramod Madhav · general*
+
+## TVK expelled its Vadavalli town secretary Prakash after a woman entrepreneur accused him of harassment. The action followed controversy over allegations of misconduct, bribery and repeated intimidation.
+
+TVK leader expelled over bribery and harassment allegations.
+
+Chennai,Nov 18, 2026 12:39 IST
+
+A TVK functionary in Tamil Nadu's Coimbatore has been permanently expelled from the party after a woman entrepreneur accused him of harassment and behaving inappropriately with a two-wheeler showroom owned by her husband.
+
+Prakash, who was serving as the Vadavalli Town Secretary of the party, was also accused by the woman's husband, Maharajan, of taking a bribe on the promise of securing him a party post.
+
+When they later demanded the money back, Prakash allegedly picked a quarrel with them and behaved inappropriately with his wife, Divya.
+
+Divya claimed that Prakash visited their showroom and sat in front of her with his trousers improperly worn and his pant's zipper open.
+
+She also said that certain TVK members were posting defamatory comments about her on social media.
+
+The couple further alleged that they were repeatedly targeted and harassed and that their showroom was vandalised.
+
+However, it is not clear who was behind the incident or whether Prakash had any role in it.
+
+Maharajan said they had approached several party functionaries, including the district secretary and the union secretary, with their complaints, but no appropriate action had initially been taken.
+
+The allegations triggered a controversy, following which TVK Coimbatore North District Secretary Rajkumar ordered Prakash's permanent expulsion from the party.
+
+\- Ends
+
+---
+
+### Mahanadi Coalfields’ Rs 8,981 crore IPO: GMP at 3% as issue set to open on November 19. Check key details
+*Veer Sharma · finance, ipo*
+
+The much-anticipated Rs 8,981-crore IPO of Mahanadi Coalfields (MCL) is set to open for subscription on Thursday, November 19. Ahead of the issue, the grey market premium (GMP) indicates a potential listing gain of around 3% over the IPO price band of Rs 129-136 per share.
+
+The IPO will be open for subscription from November 19 to November 23, 2026. The issue is a book-built offering of 66.18 crore equity shares and comprises an offer for sale (OFS) by existing shareholders.
+
+## Mahanadi Coalfields IPO
+
+As the IPO is entirely an OFS, Mahanadi Coalfields will not receive any proceeds from the issue. The entire amount raised will go to the selling shareholders.
+
+The basis of allotment is expected to be finalised on November 25, 2026, while the company's shares are scheduled to list on the BSE and NSE on November 27, 2026.
+
+Mahanadi Coalfields has set the price band at Rs 129-136 per equity share, with a face value of Rs 2 per share. The floor price represents 64.50 times the face value, while the upper end of the price band is 68 times the face value.
+
+  
+
+## Mahanadi Coalfields IPO numbers
+
+Mahanadi Coalfields Ltd. reported a 3% year-on-year increase in total income to Rs 33,899 crore in FY26, compared with Rs 33,029 crore in FY25. However, its profit after tax (PAT) declined 1% to Rs 10,698 crore from Rs 10,825 crore in the previous financial year.
+
+Interestingly, this will mark the third Coal India subsidiary to make its stock market debut this year. The group's two previous listings in 2026 delivered sharply different outcomes.
+
+Bharat Coking Coal (BCCL) made a blockbuster debut on January 19, with its shares listing on the NSE at Rs 45 apiece against the IPO price of Rs 23, translating into a premium of 95.65%. The strong listing followed an overwhelming response to its Rs 1,071.11-crore IPO, which was subscribed 146.87 times overall.
+
+In contrast, Central Mine Planning & Design Institute (CMPDI) had a weak market debut on March 30. Its shares opened at Rs 160 on the NSE, 6.98% below the issue price of Rs 172. The company's Rs 1,842.12-crore IPO received an overall subscription of just 1.05 times, with demand primarily coming from qualified institutional buyers (QIBs).
+
+Incorporated in April 1992, MCL is India's largest coal producer and a wholly owned subsidiary of Coal India Ltd. The company is primarily engaged in mining and producing non-coking coal across the Talcher and Ib Valley coalfields in Odisha. It supplies coal to the power sector and industries such as cement, steel, aluminium, sponge iron and paper. As of June 30, 2026, MCL operated 17 mines, comprising 14 opencast and three underground mines.
+
+MCL follows a highly mechanised mining model and operates coal handling, rapid loading and evacuation infrastructure, along with the 10-million-tonne-per-annum Ib Valley Coal Washery. Its coal transportation network includes railway connectivity, dedicated corridors and road infrastructure. The company supplies coal to customers across multiple states through long-term Fuel Supply Agreements (FSAs) and focuses on operational efficiency, technological advancement, research and development and sustainable practices, including solar power projects.
+
+_Disclaimer: This article has been written by Veer Sharma, who is not a SEBI-registered Research Analyst or an Investment Adviser. Veer Sharma and his/her ‘relative(s)’ (as defined under Section 2(77) of the Companies Act, 2013) do not hold any financial interest in the companies mentioned in this article as of the date of publication. The views/recommendations mentioned in this article, wherever applicable, are those of the respective SEBI-registered Research Analyst/brokerage and have been reproduced/reported with due attribution. They should not be construed as the views or recommendations of The Economic Times Digital or the journalist. Readers are advised to consider the original research report and make their investment decisions based on their own assessment. Brokerage disclaimers here_
+
+---
+
+### Groundwater extraction violations: Government offers up to 75% relief under settlement scheme
+*PTI · business*
+
+The government has introduced a one-time settlement scheme offering 30 to 75 per cent relief in environmental compensation imposed on industries, infrastructure projects, mining units and other groundwater users for extracting the resource without mandatory permissions, delayed renewal of permits or extracting it beyond the permitted limit.
+
+The Ground Water Charges (Dispute Resolution) Scheme, 2026, notified by the Ministry of Jal Shakti on November 12, aims to encourage project proponents to regularise groundwater extraction, bring more users into the regulatory framework and facilitate settlement of disputes and pending litigation over environmental compensation.
+
+The scheme will remain in force for one year from the date of its publication in the official gazette and will cover projects in 19 states and Union Territories where groundwater regulation is being carried out by the Central Ground Water Authority (CGWA).
+
+According to the notification, the scheme has been conceived as a “voluntary, one-time strategic resolution and settlement mechanism” with the primary objective of achieving wider regulatory compliance.
+
+The notification said substantial environmental compensation liabilities had discouraged several project proponents from voluntarily entering the regulatory framework, while a significant number of cases remained entangled in prolonged representations and litigation, delaying recovery of compensation.
+
+## Three categories of groundwater violations covered
+
+The scheme provides relief in three categories of violations -- existing projects extracting groundwater without a valid No Objection Certificate (NOC), projects applying late for renewal of NOCs and projects extracting groundwater beyond the quantity permitted under their NOCs.
+
+The maximum relief of 75 per cent will be available to projects that have extracted groundwater in excess of the permitted quantity, while those applying late for renewal of NOCs can get relief ranging from 40 to 70 per cent. Projects operating without NOCs will be eligible for 30 to 60 per cent relief.
+
+The extent of relief will depend on the groundwater assessment category of the area and the quantity of groundwater extracted by a project.
+
+The notification classifies assessment units into five categories -- safe, semi-critical, critical, over-exploited and saline -- and prescribes different rates of concessions based on groundwater consumption slabs of less than 200 kilolitres per day (KLD), 200 to less than 1,000 KLD, 1,000 to less than 5,000 KLD and 5,000 KLD or above.
+
+For existing projects operating without NOCs, the relief will range from 60 per cent in safe and saline assessment units to 30 per cent in over-exploited areas for projects extracting 5,000 KLD or more.
+
+In the case of delayed NOC renewals, the relief will range from 70 per cent in safe and saline areas to 40 per cent in over-exploited areas for projects extracting 5,000 KLD or more.
+
+For projects extracting groundwater beyond the permitted quantity, the relief will range from 75 per cent to 45 per cent, depending on the assessment category and consumption level.
+
+## Projects must register on BhuNeer portal and pay in one transaction
+
+The scheme will cover both fresh and renewal applications. Projects whose applications were rejected earlier for any reason and those pending with the CGWA, where environmental compensation is applicable, will also be eligible. It will extend to all types of projects, including infrastructure, industrial, mining and others, across all five groundwater assessment categories, subject to fulfilment of the basic eligibility criteria under the existing guidelines.
+
+Project proponents will have to register on the BhuNeer app portal to avail the benefits. The payable amount will be communicated through the portal and the registered email address of the applicant, and the entire amount will have to be deposited in a single transaction.
+
+Applicants will have 60 days from the communication of the charges to make the payment. Failure to deposit the amount within the prescribed period will render them ineligible for the relief, and no representation will be entertained in this regard.
+
+## Pending court cases require undertaking to withdraw proceedings
+
+Project proponents with pending cases before courts, tribunals or other competent authorities will have to furnish an irrevocable undertaking on non-judicial stamp paper agreeing to withdraw or get the proceedings disposed of in accordance with law after acceptance of the settlement.
+
+A provisional settlement order will be issued after receipt of payment, while a final settlement order will follow only after satisfactory documentary proof of withdrawal or disposal of the pending proceedings is furnished within the prescribed period.
+
+The benefits, however, will not be available in cases where environmental compensation has already been finally adjudicated by a court or tribunal.
+
+This includes compensation imposed by the National Green Tribunal in matters presently under challenge before the Supreme Court.
+
+## Scheme described as last opportunity to regularise extraction
+
+The notification makes it clear that the scheme is a “last and final opportunity” for project proponents to regularise groundwater abstraction and avail relief in environmental compensation.
+
+It also clarifies that the scheme neither condones past violations nor creates any vested right to similar relief in future. After its expiry, environmental compensation will be applicable under the existing guidelines without any relaxation or rebate.
+
+Any subsequent non-compliance by projects after availing the benefits will attract strict enforcement action, including full environmental compensation, applicable penalties and sealing of borewells.
+
+The CGWA will constitute a Scheme Implementation Committee under the chairmanship of its Member Secretary to oversee implementation, maintain the portal and act as an appellate forum for grievance redressal.
+
+The scheme seeks to balance the government’s Ease of Doing Business initiative with the mandate of sustainable development of groundwater and inter-generational equity, the notification said.
+
+Published on November 18, 2026
+
+
+---
+
 ## 17 November 2026
 
 ### Bank Nifty hits record high; Sensex gains 640 points, Nifty crosses 25,450
