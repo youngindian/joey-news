@@ -1,3 +1,500 @@
+## 19 November 2026
+
+### NLC India Renewables files for ₹3,300-crore IPO
+*Reuters · business*
+
+NLC India has been transferring renewable ‌assets to the unit ahead of its planned listing as it pursues a capacity expansion target of 18 gigawatts of renewable energy by 2032.
+
+State-run miner NLC India’s unit NLC India Renewables ​has filed for an initial public ‌offering, according to draft papers.
+
+NLC India, the state-run ⁠lignite miner and power producer that operates under the Ministry of Coal, ‌is offloading 10 crore shares in its green energy ‌unit, according to the prospectus ‌dated ⁠Wednesday.
+
+NLC India Renewables ⁠plans to sell new shares worth ₹3,300 crore ($353.14 million) in the offering ​and the proceeds ‌are earmarked for debt repayment.
+
+The green-energy arm develops solar and wind projects as part of ‌its parent’s push to ​expand renewable capacity and diversify beyond its traditional lignite ⁠mining and thermal power businesses.
+
+NLC India has been transferring renewable ‌assets to the unit ahead of its planned listing as it pursues a capacity expansion target of 18 gigawatts of renewable energy by 2032.
+
+The ‌stake sale is part of ​New Delhi’s broader divestment strategy to generate revenue, widen shareholding ⁠in public-sector firms and improve governance ⁠practices.
+
+SBI Capital Markets, HDFC Bank, IDBI Capital Markets & Securities ‌and IIFL Capital Services are managing the IPO.
+
+Published on November 19, 2026
+
+---
+
+### 'As long as we’re in charge, all will be fine': Trump hails 'special relationship' with Xi Jinping
+*ET Online · business*
+
+Ahead of a trilateral meeting with Russian President Vladimir Putin, US President Donald Trump on Thursday hailed his "special relationship" with Chinese President Xi Jinping, expressing confidence that the two countries would maintain strong ties as they held bilateral talks on the sidelines of the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Summit in Shenzhen. "It's an honor to be with you, you're my friend, and we have a very special relationship, and I think as long as you and I are in charge of things, we'll never have a problem. We're never gonna have a problem," Trump said during his meeting with Xi.
+
+---
+
+### 'As long as we’re in charge, all will be fine': Trump hails 'special relationship' with Xi Jinping
+*ET Online · world*
+
+Ahead of a trilateral meeting with Russian President Vladimir Putin, US President Donald Trump on Thursday hailed his "special relationship" with Chinese President Xi Jinping, expressing confidence that the two countries would maintain strong ties as they held bilateral talks on the sidelines of the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Summit in Shenzhen. "It's an honor to be with you, you're my friend, and we have a very special relationship, and I think as long as you and I are in charge of things, we'll never have a problem. We're never gonna have a problem," Trump said during his meeting with Xi.
+
+---
+
+### South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom
+*Reuters · business*
+
+Asia’s fourth-largest economy, home to leading ‌chipmakers Samsung ⁠Electronics and SK Hynix, is riding the ⁠global boom in AI investment that is fuelling exports and investments. | Photo Credit: REUTERS/KIM HONG-JI
+
+South ​Korea's exports so far for this year have exceeded $1 ‌trillion, driven by a global AI chip boom, ​making it the fourth country in ⁠the world to reach the milestone after Germany, the United States and China.
+
+Exports passed the $1 trillion mark as ‌of 0509 GMT on Thursday, compared with last year's record of $709 billion, the trade ministry ‌said.
+
+Asia's fourth-largest economy, home to leading ‌chipmakers Samsung ⁠Electronics and SK Hynix, is riding the ⁠global boom in AI investment that is fuelling exports and investments.
+
+Still, domestic demand remains weak with the benefits of the export ​boom yet to ‌trickle down to many households. Consumer sentiment has been hurt by high interest rates and prices, as well as unprecedented volatility in the domestic ‌stock market.
+
+Asia’s fourth-largest economy, home to leading ‌chipmakers Samsung ⁠Electronics and SK Hynix, is riding the ⁠global boom in AI investment that is fuelling exports and investments. | Photo Credit: REUTERS/Dado Ruvic
+
+"Now, we need to turn ​this achievement into sustainable growth. We will enhance the competitiveness of major industries and grow ⁠future growth engines, such as AI and bio," President Lee Jae Myung said in a social ‌media post on X.
+
+"Most of all, the achievement in exports should improve the lives of the people. We will create 'growth for all', sharing the opportunities and fruits of growth with big and small companies as well as the capital area ‌and regional areas," Lee said.
+
+The Lee administration plans to ​create a 162.3 trillion won ($121.94 billion) Future Response Fund to funnel excess tax revenue ⁠from the chip boom toward growth industries, young people, ⁠regional development and education.
+
+South Korea's economic growth is expected to quicken to the mid-3% ‌range this year on record chip exports, after expanding 1% last year, the country's finance ​minister said last month.
+
+Published on November 19, 2026
+
+---
+
+### India’s fuel demand outlook: Diesel consumption to remain strong through December
+*Rishi Ranjan Kala · business*
+
+Diesel demand in India is expected to remain firm through November and December, supported by agricultural, industrial and freight activity. | Photo Credit: Ashok Bhaumik
+
+India’s fuel demand is expected to remain strong during the remaining two months of the 2026 calendar year, with major growth coming from diesel consumption, which is expected to sustain at 2.1-2.2 million barrels per day (mb/d).
+
+Kpler pointed out that seasonal agricultural requirements, including Rabi sowing and irrigation, along with sustained freight movement and industrial activity, should continue to support diesel consumption.
+
+Relatively stable domestic retail fuel prices should also help cushion demand from elevated international oil prices. Gasoline demand is expected to remain resilient, supported by continued passenger mobility and travel activity, it added.
+
+“We expect India’s fuel demand to remain relatively firm through November and December, with gasoil continuing to be one of the key growth drivers. Gasoil demand is expected to average around 2.1–2.2 mb/d, while gasoline demand is likely to remain around 1–1.1 mb/d over the remainder of the year,” Sumit Ritolia, Kpler’s Lead Research Analyst for Refining & Modelling, told businessline.
+
+## Higher power demand may boost diesel use
+
+Higher electricity demand and growing pressure on power availability could further support gasoil consumption. With electricity requirements remaining relatively strong even after the summer months and coal inventories reportedly under pressure at several power plants, he anticipated potential for increased diesel use in backup and captive power generation, particularly across industrial and commercial sectors.
+
+This could support gasoil demand through the remainder of Q4 2026, especially if power supply constraints persist, he added.
+
+“Overall, we expect India’s fuel demand to remain healthy through the end of the year, supported by industrial activity, freight movement, agricultural consumption, passenger mobility and incremental power generation requirements. However, October’s particularly strong year-on-year gasoil growth may moderate somewhat as festive-
+
+## October demand
+
+On petroleum product consumption during October 2026, the Kpler analyst pointed out that the key highlight has been the continued strong growth in gasoil (diesel) demand, which increased by around 215,000 b/d Y-o-Y, marking the highest monthly year-on-year increase recorded so far this year.
+
+“This growth has been supported by several factors, including relatively stable domestic retail diesel prices, sustained industrial and manufacturing activity, increased freight movement, and seasonal agricultural demand. Together, these factors have helped maintain healthy diesel consumption despite elevated international oil prices and ongoing geopolitical uncertainties,” he added.
+
+Second, industrial and manufacturing activity continues to support diesel consumption. India’s manufacturing PMI stood at 54.7 in October, down from 55.1 in September, but remained firmly in expansionary territory. This indicates continued growth in manufacturing activity, supporting freight transportation and associated diesel consumption.
+
+“Seasonal factors have also played an important role. Increased freight movement ahead of the festive season, alongside agricultural activity and preparations for the Rabi sowing season, has provided additional support to diesel demand,” Ritolia noted.
+
+At the same time, weaker monsoon conditions, partly linked to El Niño, have increased irrigation needs in some regions. Weather-
+
+## Petrol, aviation fuel and LPG trends
+
+Petrol demand also remained resilient, reaching around 1.03 mb/d in October, up about 31,000 b/d Y-o-Y, while remaining broadly flat M-o-M. Festive-
+
+On the other hand, jet fuel demand remained broadly flat both Y-o-Y and M-o-M at around 205,000 b/d, with elevated aviation fuel prices likely weighing on consumption growth, he said.
+
+LPG demand continued to decline, falling by around 95,000 b/d Y-o-Y, while remaining broadly unchanged M-o-M at around 970,000 b/d. The decline is largely driven by lower import volumes from the Middle East amid ongoing geopolitical disruptions, which have constrained supply.
+
+Published on November 19, 2026
+
+---
+
+### SC will take up pleas challenging marital rape for final hearing in December
+*India Today News Desk · general*
+
+## The petitions raise whether a husband should be protected from prosecution for rape if he forces his adult wife to have sex. The exception existed under Section 375 of the now-repealed Indian Penal Code and has been retained in the Bharatiya Nyaya Sanhita, 2023.
+
+The SC will take up petitions challenging the marital rape exception for final hearing in Dec.
+
+New Delhi,Nov 19, 2026 12:42 IST
+
+The Supreme Court on Thursday said it would list a batch of petitions on the marital rape exception for final hearing in December, news agency Press Trust of India reported.
+
+The petitions raise the question of whether a husband should be protected from prosecution for rape if he forces his adult wife to have sex. The exception existed under Section 375 of the now-repealed Indian Penal Code and has been retained in the Bharatiya Nyaya Sanhita, 2023.
+
+The petitions came up before a bench of Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V Mohana.
+
+Senior advocate Indira Jaising, appearing in the matter, told the court that the bench was scheduled to hear a partly heard case at 2 pm. She requested that the marital rape petitions be listed in December as they might not be taken up during the day.
+
+“We will either have it on December 2-3 or on December 9-10. Today, it is not possible. We are trying to finish the part-heard matter today,” the Chief Justice said.
+
+After a lawyer appearing in the marital rape case requested that the petitions be listed on December 9 and 10, the bench said, “We will fix it on December 9 or December 10.” It added, “We will try to hear it before the winter break.”
+
+The Supreme Court's winter break will begin on December 21.
+
+Under the exception to Section 375 of the Indian Penal Code, which has been repealed and replaced by the Bharatiya Nyaya Sanhita, sexual intercourse or sexual acts by a man with his wife did not amount to rape if the wife was not a minor.
+
+Exception 2 to Section 63 of the new law, which deals with rape, states that “sexual intercourse or sexual acts by a man with his own wife, the wife not being under eighteen years of age, is not rape."
+
+On September 9, the Centre told the bench that its earlier response in the main case could also be treated as its reply to the other petitions, according to PTI. The bench then said it would examine whether prosecution could continue if the marital rape exception remained in force and whether the exception was constitutionally valid.
+
+On January 16, 2023, the Supreme Court sought the Centre's response to petitions challenging the IPC provision that protected a husband from prosecution for forced sexual intercourse with his adult wife. It later issued notice to the Centre on a similar petition challenging the corresponding provision of the Bharatiya Nyaya Sanhita.
+
+The Bharatiya Nyaya Sanhita, the Bharatiya Nagarik Suraksha Sanhita and the Bharatiya Sakshya Adhiniyam came into effect on July 1, 2024, replacing the Indian Penal Code, the Code of Criminal Procedure and the Evidence Act.
+
+One of the petitions before the Supreme Court arose from the Delhi High Court's split verdict on May 11, 2022. The appeal was filed by a woman who was among the petitioners before the High Court.
+
+Justices Rajiv Shakdher and C Hari Shankar agreed to allow the petitioners to approach the Supreme Court as the case involved substantial questions of law that required a decision by the top court.
+
+Justice Shakdher, who headed the division bench, favoured striking down the marital rape exception as “unconstitutional”. He said it would be “tragic if a married woman's call for justice is not heard even after 162 years” since the IPC was enacted.
+
+Justice Shankar, however, held that the exception under the rape law was not “unconstitutional and was based on an intelligible difference."
+
+In a separate case, the Karnataka High Court had earlier said that exempting a husband from allegations of rape and unnatural sex with his wife went against Article 14 of the Constitution, which guarantees equality before the law.
+
+\- Ends
+
+---
+
+### Instagram Direct App in Development: Meta Tests Messaging Without Requiring An Instagram Account
+*Waquar Haider · technology*
+
+Meta is testing a separate messaging app called Direct, which aims to take Instagram's chat features away from the main platform. The move could provide users with a dedicated space to communicate, without having to scroll through posts, Reels and other content on Instagram. The app is also designed to let people sign up and message each other without an Instagram account.
+
+Instagram launched its Direct messaging feature in 2013 when co-founder Kevin Systrom unveiled a way for users to privately share messages, photos and videos with individuals or groups. Meta’s latest experiment is based on Facebook Messenger, which was detached from Facebook's main app to focus solely on conversations.
+
+> Instagram introduces “Direct”, a new standalone messaging app designed for one-on-one and group conversations with friends and family 👀 It offers a dedicated messaging experience separate from the main Instagram app. 🧵 https://t.co/oElCXolpmJ
+> 
+> — ㆅ (@howfxr) November 17, 2026
+
+## Instagram Direct App: Features and How It Works
+
+This new Direct application is designed specifically for those users who keep in touch with their relatives and friends via Instagram but do not use it for content consumption. By shifting communication to a different platform, Meta tries to provide its users with a more specialized environment free of any Instagram news feed distractions.
+
+The application will provide users with the possibility to send direct messages and have one-to-one and group conversations. There will be some features that will be inherited from the Instagram messaging feature such as Draw for drawing in the conversation, Notes for sending short updates, personalized Stickers, Voice Effects, and chat Themes. The test launch of Direct is being carried out right now in Turkey and Thailand among the Instagram users in these countries by providing them with an ability to use their current accounts for access to the new application.
+
+People without an Instagram account can join by logging in via their phone number or email. However, their ability to send messages will be restricted to the contacts saved on their mobile device. They can start talking or add them to a group from these connections. In order to add anyone manually, their precise username is needed. QR codes can also be used for adding any one to private conversation.
+
+According to Meta, there are features in Direct which will help to avoid any unwanted conversations. Users cannot get any message or invitations in groups from strangers. People who do not want to talk with someone anymore can simply block or report them. Additionally, some safety measures have been developed for younger users. These features will help to detect and manage any kind of inappropriate messages sent by any teenager. Direct will be only available to people above the age of 13 years.
+
+**Also See: PM Modi Reacts to GTA 6 Launch, Highlights India's Transformation Since GTA 5**
+
+---
+
+### From Ax-4 to Gaganyaan: Indian astronaut Shubhanshu Shukla in TIME100 Next India 2026
+*India Today Science Desk · general*
+
+## Shubhanshu Shukla has been named to TIME100 Next India 2026 after his historic Axiom-4 mission. The recognition highlights his role in India's expanding human spaceflight ambitions and preparations for Gaganyaan.
+
+Astronaut and IAF Group Captain Shubhanshu Shukla during the release of his memoir. (Photo: PTI)
+
+New Delhi,Nov 19, 2026 12:41 IST
+
+Indian astronaut Group Captain Shubhanshu Shukla has been featured in TIME100 Next India 2026, recognising his contribution to India's growing human spaceflight ambitions and his journey from a fighter test pilot to one of the country's most prominent faces in space exploration.
+
+Shukla made history in June 2025 when he travelled to the International Space Station (ISS) as part of the Axiom-4 mission, becoming the first Indian astronaut to visit the orbiting laboratory and the second Indian to travel to space after Rakesh Sharma's historic 1984 flight.
+
+TIME's feature highlights the significance of his journey against the backdrop of India's space programme, which was built by scientists working with limited budgets and resources while navigating international sanctions and technological restrictions.
+
+"His journey is a milestone in a country where local scientists working on shoestring budgets first built a space program while navigating international sanctions," the magazine noted.
+
+Shukla's journey to space was the culmination of years of preparation. An officer in the Indian Air Force, he was selected as one of the astronaut-designates for India's Gaganyaan human spaceflight programme in 2019. He subsequently underwent astronaut training in Russia and at the Indian Space Research Organisation's facilities.
+
+During the Axiom-4 mission, Shukla spent approximately 18 days in space, conducting scientific experiments and participating in research activities aboard the ISS. The mission provided Indian researchers an opportunity to conduct microgravity experiments across areas including biology, agriculture, materials science and human health.
+
+Shubhanshu Shukla's journey to space was the culmination of years of preparation. (Photo: PTI)
+
+His flight was also significant for India's space ambitions, offering valuable operational experience in human spaceflight, astronaut training, mission management and life-support systems.
+
+However, the Axiom-4 mission is only one chapter in Shukla's journey. His next challenge is even more ambitious: preparing for India's first independent human spaceflight programme.
+
+TIME noted that Shukla is training for the country's Gaganyaan mission, which is expected to launch its first crewed test flight in 2027. The programme aims to demonstrate India's capability to independently send astronauts into low Earth orbit and safely bring them back.
+
+Gaganyaan is a major milestone in India's long-term space ambitions, with the country also working towards establishing the Bharatiya Antariksh Station, its proposed space station, by 2035 and sending an Indian astronaut to the Moon by 2040.
+
+Shukla's inclusion in TIME100 Next India places him among the emerging personalities shaping India's future. His journey also reflects the country's transition from a modest space programme built under technological constraints to an ambitious spacefaring nation preparing to independently send humans beyond Earth.
+
+\- Ends
+
+---
+
+### Godzilla El Nino to become most powerful ever: Why food security is at risk in 2027
+*India Today Science Desk · general*
+
+The world could be heading towards one of its strongest El Nino events on record, raising concerns over food production and the availability of staple crops as climate-
+
+The latest advisory from the US National Oceanic and Atmospheric Administration, or Noaa, puts the chances of the developing El Nino becoming a historic event at around 60%, with strong-to-very-strong conditions likely to persist into early 2027.
+
+In its latest update, Noaa said temperatures in the central and eastern equatorial Pacific Ocean had risen significantly above normal.
+
+The temperature difference in the Nino 3.4 region, a key area used to monitor El Nino, reached 2.5 degrees Celsius above average.
+
+The agency also sees more than a 79% chance of strong-to-very-strong conditions continuing through January-March 2027.
+
+The growing concern, however, goes beyond rising ocean temperatures.
+
+The changing weather patterns associated with El Nino could threaten harvests, disrupt food supplies and deepen hunger in regions already struggling with food insecurity.
+
+### HOW CAN EL NINO THREATEN FLOOD ON YOUR PLATE?
+
+El Nino is a natural climate phenomenon in which parts of the Pacific Ocean become warmer than usual, changing wind patterns and the movement of rain-bearing clouds around the world.
+
+Farmers tend to their farms ahead of El Nino rains in Kiambu County, Kenya. (Photo: AP)
+
+These changes can bring prolonged dry spells to some agricultural regions while causing excessive rainfall and flooding in others.
+
+Both can damage crops, disrupt planting and harvesting seasons, reduce water availability and affect livestock.
+
+The consequences are particularly concerning for farmers who depend on seasonal rainfall.
+
+A failed rainy season or prolonged drought can leave fields without enough water, while floods can destroy standing crops and damage agricultural land. Higher temperatures can also increase water demand and place additional stress on crops.
+
+People wait for food aid distributed by the World Food Program in Honduras, after El Nino induced drought. (Photo: AP)
+
+The Food and Agriculture Organisation (FAO), in its November 17 assessment, warned that the strengthening El Nino is increasing risks to staple crop production and food security across several regions.
+
+Countries already affected by conflict, displacement and high food prices face the greatest risks because communities have fewer resources to cope with another agricultural shock.
+
+### MILLIONS COULD NEED SUPPORT
+
+The scale of concern is reflected in preparations by the FAO and the World Food Programme (WFP).
+
+Kitchen utensils hang on a wall in a house of a person who received food aid. (Photo: AP)
+
+The two agencies have launched a $202 million anticipatory action appeal to protect nearly 9 million people across 22 high-risk countries from potential climate-
+
+The proposed support includes helping farmers access drought-resistant and flood-resistant seeds, protecting livestock, improving water storage and providing assistance before extreme weather damages livelihoods.
+
+The European Commission's Joint Research Centre has also highlighted risks to agricultural production in several regions.
+
+> Through most of 2026, the sea surface temperatures of the equatorial Pacific Ocean have seen significant warming, greatly influenced by the presence of a very strong El Nio. This imagery from GOES-West over the past eight months observes this progression of the Pacific Ocean. https://t.co/sdrIQo17vR— CIRA (@CIRA\_CSU) November 18, 2026
+
+In southern Africa, below-normal rainfall and above-normal temperatures could threaten maize production through March 2027.
+
+Parts of East Africa and Central America are also facing agricultural and food security concerns.
+
+### WHY IS INDIA CLOSELY WATCHING EL NINO?
+
+India, the world's most populous country, and therefore, the largest number of people to feed, is closely monitoring the developing event.
+
+El Nino has historically been associated with weaker southwest monsoon rainfall, although its influence is not uniform and other ocean and atmospheric conditions can change the outcome.
+
+A weaker monsoon could affect rain-fed farming, water availability and agricultural production, particularly if rainfall deficits coincide with high temperatures.
+
+Andhra Pradesh CM N Chandrababu Naidu at a high-level review meeting on the state's preparedness for El Nino. (Photo: PTI)
+
+With the current event expected to remain strong into early 2027, its influence on India's June-September monsoon will be closely watched.
+
+This powerful and historic El Nino is set to extend well beyond the weather, reaching farms, food markets and households already struggling to afford necessities.
+
+\- Ends
+
+---
+
+### International Men’s Day 2026: Know Theme, History, Significance And More
+*Mashable News Staff · technology*
+
+International Men’s Day is being celebrated today on November 19, 2026, a day dedicated to the resilience and responsibility carried out by the male species. This year’s theme is “_The Future is Everyone_.” This year marks the 28th observance since it was started. The day celebrates the positive value men bring to the world, their families, and communities. It also aims to raise awareness of men’s well-being and to highlight positive role models. On the occasion, the International Council for Men and Boys (ICMB) launched its first Global State of Men and Boys Report 2026 to coincide with the day.
+
+The report looks at 12 disparities affecting men and boys and draws on evidence from more than 50 countries. The ICMB describes it as an annual assessment. Education, health, fatherhood, and homelessness are among the areas. The list also covers the criminal system, partner abuse, workplace issues, and media.
+
+> Celebrating all our amazing men this International Men’s Day 🧡 pic.twitter.com/BG0qkWBTPU
+> 
+> — SunRisers Hyderabad (@SunRisers) November 19, 2026
+
+> This International Men’s Day, UCO Bank celebrates the strength, dedication and contributions of men who inspire progress, nurture relationships and make a difference every day.
+> 
+> Here’s to resilience, responsibility and the power of being your authentic self.…
+> 
+> pic.twitter.com/u3xslsYPAZ
+> 
+> — UCO Bank (@UCOBankOfficial) November 19, 2026
+
+## International Men’s Day: History
+
+Dr Jerome Teelucksingh, a history lecturer at the University of the West Indies, revived International Men’s Day in Trinidad and Tobago in 1999. Earlier a similar event was inaugurated by Thomas Oaster on February 7, 1992, but the endeavor had grown quieter over the years.
+
+Teelucksingh picked November 19 as the day for observance, as it was his father’s birthday. It is also the date in 1989 when Trinidad and Tobago’s football team united the country with its World Cup qualifying push. Teelucksing clarified that the day is no rival to International Women’s Day. Its stated objectives include promoting positive role models and improving gender relations. They also include celebrating men’s positive contributions and creating a safer, more peaceful world.
+
+Universal Children’s Day follows on November 20.
+
+Cover: illustrative via Pexels
+
+---
+
+### Indian hockey goalkeeper Savita named in TIME100 Next: India list
+*PTI · business*
+
+##### SENSEX   82,491.50
+
++ 459.69
+
+##### CRUDEOIL   7,787.00
+
++ 93.00
+
+##### SILVER   161,251.00
+
++ 517.00
+
+##### SENSEX   82,491.50
+
++ 459.69
+
+##### CRUDEOIL   7,787.00
+
++ 93.00
+
+##### CRUDEOIL   7,787.00
+
++ 93.00
+
+1.  Home 
+2.  News 
+3.  Variety 
+
+## The Padma Shri awardee shares the recognition with leading sportspersons, including Harmanpreet Kaur, D Gukesh, Mirabai Chanu and Sania Mirza
+
+Updated - November 19, 2026 at 12:36 PM.
+
+| New Delhi
+
+FILE PHOTO: Indian women’s hockey goalkeeper Savita has been named in the inaugural TIME100 Next: India list in the ‘Leaders’ category. | Photo Credit: SHAILENDRA BHOJAK
+
+Indian women’s hockey team goalkeeper Savita has been named in the inaugural TIME100 Next: India list, which recognises 100 people shaping the country’s future across fields.
+
+Savita was picked in the ‘Leaders’ category of the list, which TIME has brought out for India for the first time.
+
+The Padma Shri awardee features alongside other top sportspersons, including cricketers Harmanpreet Kaur and Vaibhav Sooryavanshi, boxer Lovlina Borgohain, weightlifter Mirabai Chanu, chess world champion D Gukesh and former tennis star Sania Mirza.
+
+## Recognition belongs to Indian hockey, says Savita
+
+“It is an incredible honour. I feel grateful and humbled to be included among such inspiring individuals who are contributing to India’s future in different ways,” Savita said in a Hockey India release.
+
+“This recognition is not just personal but also belongs to Indian hockey, my teammates, coaches and everyone who has supported me throughout my journey. I hope this inspires more young girls to take up sport, dream big and believe that they too can make a difference on the biggest stages.”
+
+Actors Alia Bhatt and Vicky Kaushal, and singer-actor Diljit Dosanjh are also on the list.
+
+Published on November 19, 2026
+
+THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.
+
+THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.
+
+---
+
+### iPhone 18, iPhone 18e And iPhone Air 2 Launch Timeline Revealed: Here’s When To Expect Them
+*Priya Singh · technology*
+
+Apple skipped the standard iPhone 18 at its September 'Surprise and Shine' launch event, introducing only the iPhone 18 Pro and iPhone 18 Pro Max. While the company has yet to share any details about the regular model, a fresh report indicates that the iPhone 18 and second-generation iPhone Air could arrive in early 2027. Samsung Display and LG Display are reportedly expected to supply the screens for both upcoming smartphones.
+
+## iPhone 18 And iPhone Air 2 Could Launch In March 2027
+
+Apple could be preparing to release the standard iPhone 18 and second-generation iPhone Air in March 2027, according to a report by ETNews. The possible launch timeline is based on display production plans shared by industry sources. Samsung Display is expected to begin manufacturing panels for the iPhone 18 in January, while LG Display could start production towards the end of this year. Samsung Display may also get exclusive responsibility for supplying screens for the iPhone Air 2. Apple has not confirmed either the launch date or these production arrangements.
+
+> Apple’s iPhone 18 and iPhone Air 2 could launch in March 2027 LG Display is reportedly starting OLED panel production later this year, while Samsung Display will begin in January. Interestingly, Samsung could be the sole display supplier for the Air 2, with both Samsung and LG supplying the standard iPhone 18. Apple seems to be preparing its next spring launch!
+> 
+> — TechiBoy (@techiboy96) November 19, 2026
+
+## iPhone Air 2 May Get Limited Production As Apple Reuses OLED Panels
+
+The iPhone Air 2 could see relatively modest production numbers, as the first-generation iPhone Air reportedly received a lukewarm response from buyers. Apple is said to have kept manufacturing volumes of the original model limited, and a similar approach could continue with its successor. The report suggests that Apple may retain the existing display specifications instead of introducing major changes to the screen. This could allow the company to use its available OLED panel inventory rather than placing fresh, large-scale orders with display manufacturers.
+
+## Apple Could Follow A New iPhone Launch Schedule In 2027
+
+A March 2027 launch would further indicate Apple's move towards splitting its annual iPhone releases into different windows. The company broke away from its traditional September launch strategy this year by introducing the iPhone 18 Pro and iPhone 18 Pro Max alongside the iPhone Duo, while keeping the standard iPhone 18 for a later release. The expected spring launch of the regular model and iPhone Air 2 could continue this staggered approach, although Apple is yet to announce its plans officially.
+
+## iPhone 18 And iPhone Air 2: Expected Specifications
+
+Leaks suggest that the standard iPhone 18 could retain a 6.3-inch ProMotion display and feature Apple's upcoming A20 chipset. Other rumoured specifications include 9GB of RAM, a C2 modem and an 18-megapixel front camera. The rear setup could include two 48-megapixel sensors, one primary and another with an ultra-wide lens. The phone is also tipped to support 40W wired and 25W wireless charging. Meanwhile, the iPhone Air 2 could feature a 6.55-inch flat OLED screen, a 48-megapixel primary rear camera and an additional ultra-wide camera. These specifications remain based on leaks and should be treated as unconfirmed.
+
+**ALSO SEE: GTA 6 Released After 13 Years: What’s New In The Game, From Vice City Map To Characters**
+
+---
+
+### Is Your Console Ready for Grand Theft Auto 6? 10 Things to Check Before Playing
+*Manas Mitul · technology*
+
+Grand Theft Auto 6 is now out on PS5 and Xbox Series S/X. Is your console ready for the game?
+
+[Read full article](https://www.gadgets360.com/games/features/gta-6-10-things-to-check-ps5-xbox-series-s-x-console-ready-12347764)
+
+---
+
+### ASK Asset Management appoints Akhil Chaturvedi as CEO
+*BL Mumbai Bureau · business*
+
+Akhil Chaturvedi  | Photo Credit: Akhil Chaturvedi /X
+
+ASK Asset Management, part of ASK Group backed by Blackstone, has appointed Akhil Chaturvedi as its Chief Executive Officer.
+
+In his new role, Chaturvedi will lead the asset management business where he will be focusing on building a differentiated investment platform, strengthening distribution capabilities and driving sustainable business growth.
+
+He has over 26 years of experience in the financial services and asset management industry.
+
+Prior to joining ASK, he was associated with Motilal Oswal AMC as Executive Director and Chief Business Officer, where he spent over 13 years.
+
+During his tenure, he played a key role in driving the organisation’s business growth, overseeing sales, distribution, business development, product strategy, marketing and operations.
+
+Earlier in his career, Chaturvedi held leadership positions at Daiwa Asset Management, Birla Sun Life AMC and Birla Global Finance. He holds an MBA in Marketing and a master’s degree in accounting and finance from the University of Leeds, UK and is a Certified Financial Planner (CFP).
+
+Sameer Koticha, Founder & Chairman, ASK Group said he brings deep industry experience, a strong understanding of the financial markets and consumer needs.
+
+He has also demonstrated capabilities in building and scaling successful businesses and his leadership will be instrumental in taking the ASK Asset Management business forward, he added.
+
+Akhil Chaturvedi, Chief Executive Officer, ASK Asset Management Company said the fund house has built a strong legacy in investment management, backed by a disciplined, research-led approach and a long-term commitment to wealth creation.
+
+ASK’s robust platform in the asset management business presents a significant growth opportunity in the fast paced continuously evolving spectrum of investors in the Indian financial landscape, he added.
+
+ASK Group received SEBI’s registration in February 2026 to commence its mutual fund business in India.
+
+Published on November 19, 2026
+
+---
+
+### HDFC Bank shares recover marginally as sellers dominate trading
+*Anupama Ghosh · business*
+
+FILE PHOTO: HDFC Bank shares gained 0.33 per cent to ₹810.80 on Thursday, even as selling pressure persisted in the stock. | Photo Credit: Dado Ruvic
+
+HDFC Bank shares managed a modest recovery on Thursday, rising 0.33 per cent to ₹810.80 on the NSE by late morning, though the gains came against a backdrop of overwhelming sell-side dominance and no fresh corporate catalysts to drive conviction.
+
+The stock opened at ₹807.20, touched a high of ₹812 and a low of ₹804.20. Despite the marginal uptick, sellers accounted for over 77 per cent of total traded quantity, the heaviest sell skew in three sessions, with traded value at ₹684.93 crore on volume of 84.71 lakh shares, notably lower than recent days.
+
+This week’s disclosures, the re-appointment of Executive Director V. Srinivasa Rangan on November 13 and the grant of stock options and restricted stock units on November 17, have done little to shift the stock’s trajectory in either direction.
+
+The longer-term picture remains difficult. HDFC Bank is down 18.23 per cent year-to-date and 18.51 per cent over one year, against a Nifty 50 decline of around 3 per cent. The stock trades at a P/E of 15.57, well off its 52-week high of ₹1,017.50 from December 2025.
+
+Bank Nifty, meanwhile, consolidated around the 62,000 mark after its recent record-breaking run, with the index holding above key support at 61,800. HDFC Bank’s underperformance against the sector remains the defining story.
+
+Published on November 19, 2026
+
+---
+
+### Mega International Commercial Bank applies for GIFT City entry; 3rd Taiwanese lender to step in to Gujarat
+*Avinash Nair · business*
+
+The proposed entry follows Taiwan’s Financial Supervisory Commission (FSC) granting approval in April 2026 for Mega International Commercial Bank to apply to Indian authorities for establishing a branch in GIFT City. 
+
+Taiwanese lender Mega International Commercial Bank Co. Ltd. has applied to set up an IFSC Banking Unit (IBU) at Gujarat International Finance Tec-City (GIFT City), adding to the growing interest among international banking institutions in India’s international financial services hub.
+
+According to details of the application submitted to International Financial Services Centres Authority (IFSCA), the bank has proposed to establish its IBU in a 315 square-metre office space within GIFT SEZ. The premises have been earmarked by co-developer Waystar Properties LLP. The proposed unit plans to undertake permissible banking activities with funding to be sourced from its head office in Taiwan. The bank has proposed an initial workforce of seven employees.
+
+The proposed entry follows Taiwan’s Financial Supervisory Commission (FSC) granting approval in April 2026 for Mega International Commercial Bank to apply to Indian authorities for establishing a branch in GIFT City. The October application marks a further step towards its proposed entry into the Indian financial hub, although the bank will need to secure the requisite regulatory approvals before commencing operations.
+
+If approved, Mega International would become the third Taiwanese banking institution to establish an authorised banking presence at GIFT City, following CTBC Bank and Taipei Fubon Commercial Bank. CTBC Bank became the first Taiwanese lender to commence operations at GIFT City, with its IBU beginning operations in March 2026. Taipei Fubon Commercial Bank Co. Ltd. received authorisation from IFSCA in April 2026.
+
+The entry of another Taiwanese lender comes amid strengthening financial-sector engagement between India and Taiwan, with both jurisdictions working towards greater regulatory cooperation and facilitating cross-border financial activities. On August 28, 2026, Taiwan’s FSC and IFSCA concluded a Cooperation Agreement on Fintech aimed at strengthening collaboration and exchanges on financial technology-
+
+According to the latest available IFSCA bulletin for June 2026, GIFT City’s banking ecosystem comprised 41 IFSC Banking Units, including 20 domestic and 21 foreign banking units. The aggregate assets of these units increased to $120.69 billion in June 2026 from $93.85 billion in June 2025. Commercial loans rose to $65.93 billion in June 2026 from $61.82 billion in March 2026, while external commercial borrowings increased to $44.54 billion from $41.18 billion during the same period.
+
+India accounted for 75.62% of the total credit exposure of IBUs, followed by the US at 6.45%, the UK at 3.03% and Singapore at 2.53%. The services sector constituted the largest share of credit exposure at 52.05%, followed by manufacturing at 19.12% and infrastructure at 13.45%. Trade finance activity also recorded growth, with the number of transactions financed through International Trade Finance Services Platforms (ITFS) increasing to 2,857 in June 2026 from 2,487 in March 2026. The value of financed transactions rose to $126.92 million from $105.75 million during the same period.
+
+Published on November 19, 2026
+
+
+---
+
 ## 18 November 2026
 
 ### Indian economic growth seen at annual 7.6% in July-September quarter, economists say
