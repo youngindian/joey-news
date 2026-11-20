@@ -1,5 +1,323 @@
 # Editorials archive — 2026-08
 
+## 21 August 2026
+
+### Noise annoys: On noise and the Patna High Court order
+*The Hindu · Editorial*
+
+In a February 2025 hearing in the matter of Surendra Prasad vs State of Bihar, the Patna High Court acknowledged DJ trolleys and loudspeakers to be a major source of noise in Patna. After criticising the Bihar State Pollution Control Board (BSPCB) for failing to curb the menace, Justice Rajiv Roy directed the BSPCB to obtain reports from the police about permissions granted to operators of these noise sources and the action taken. In October, the police said they had seized equipment, levied fines, and so on over three months in Patna, Barh, and Fatuha but had taken no action in Masaurhi, a picture Justice Roy called “unbelievable” for suggesting that there were no noise violations there. In the course of these hearings, Justice Roy also summoned police officers and upbraided boilerplate affidavits, among others. The High Court’s August 14 order was a continuation of this escalation, culminating — for now — in Statewide directives on the emission of high-decibel noise. Effectively, the High Court’s actions illustrate how dismal enforcement has become despite the existence of comprehensive laws. Courts have repeatedly said that people have a right under Article 21 to be protected from unlawful noise. Today, with episodic enforcement having become endemic, the Patna High Court becoming a quasi-regulator is, at least as a stopgap measure, creditable.
+
+It is absurd to expect the public to complain about every DJ or horn before the police can respond. The High Court’s directions to the authorities to pursue routine rather than complaints-based enforcement and to have DJs, sound-system operators, and event halls register themselves with the subdivisional authorities are the sort of proactive enforcement that regulating noise pollution in particular warrants. In fact, the High Court’s order also touched on a practical, everyday understanding of how loud-noise violations occur when it directed loudspeakers to stop playing at 9.55 p.m., five minutes before the law’s 10 p.m. cut-off, effectively allowing time for operators to wind up rather than permit the deceptively innocuous practice of carrying on past 10 p.m. because “it is just a few minutes”. Loud noise is often produced by ordinary social events such as festivals, weddings, political campaigns, and religious events, and enforcing rules creates friction with people who believe they have a right to practise their culture as they deem fit. Also, governments have an incentive to tolerate, rather than antagonise, their constituents. At the same time, having operators register themselves so that officials can regulate all of them equally rather than sporadically can also eliminate selective interventions. In the final analysis, the success of the High Court’s latest order should be measured by whether the State develops a consistent habit of enforcement.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/noise-annoys-on-noise-and-the-patna-high-court-order/article71374274.ece)
+
+---
+
+### Saving faces: On protests, biometric surveillance
+*The Hindu · Editorial*
+
+India appears to be normalising the technical ability to subject political gatherings to searchable biometric surveillance without first having settled, through legislation and judicial oversight, the circumstances in which the state may lawfully do so. While the Delhi Police have continued to deny the use of excessive force and manhandling people involved in the Cockroach Janta Party protests, contrary to protestors’ testimonies, facial recognition equipment was present at the protest site while the demonstrations were on. According to its affidavit to the Supreme Court of India, the police deployed a facial recognition system (including Artificial Intelligence-enabled cameras to scan faces in real-time against a database), a mobile surveillance van and a command and control vehicle, smart spectacles for identifying individuals on the move, and drones and videographers; the van and the spectacles have been tied to private contractors. The police have also not addressed whether actual biometric processing occurred with every individual within the range of cameras. Even if the police discarded the images associated with infructuous checks, that the data may have been accessible to private contractors, whose terms of engagement are unclear, is worrisome. However, no statute governs the use of facial recognition systems; the Digital Personal Data Protection Act, whose data-processing obligations are not yet in force, still makes broad exemptions for state agencies. The Automated Facial Recognition System of the National Crime Records Bureau can be used to identify criminals, unidentified bodies, and so on, and the Criminal Procedure (Identification) Act 2022 expanded the set of records that the police may collect from specified persons. However, these actions are still only allowed vis-à-vis specific groups of people.
+
+Irrespective of the constitutional validity of the police’s actions, the chilling effect on potential participants may also curtail the right to protest. The state has to pass a well-established proportionality test when interfering with the right to privacy. While the first question — the existence of a legitimate objective — already poses important challenges to facial recognition en masse, the technology is indiscriminate at the point of capture. After all, there is a less restrictive but equally effective alternative (e.g., conventional policing). At this time, far too many questions are unanswered — including over the data-processing agreements, access, legal provisions that authorised major decisions, and the expected rate of false positives — for the use of facial recognition with all protesters to be justified.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/saving-faces-on-protests-biometric-surveillance/article71374244.ece)
+
+---
+
+### Socialist surge: On the rise of democratic socialism in the U.S.
+*The Hindu · Editorial*
+
+As the Trump administration persists with its blunderbuss reshaping of American foreign policy — a marriage of hyperimperialism, with wars in West Asia, a de facto capture of power in Venezuela and the strangling of Cuba’s fuel trade, and isolationism, seen in withdrawals from multilateral institutions and tariffs imposed on a whim — the world has been waiting for a political alternative to Trumpism to take shape. After 2024, when a vapid Democratic Party displayed little ideological gumption on foreign policy, welfare or taking on the plutocrats reshaping American democracy, the prospects looked slim. Then, in November 2025, Zohran Mamdani won New York City on a platform of decommodification — placing citizens’ needs above market shibboleths — while openly calling Israel’s war on Gaza a genocide. His victory did more than capture New York’s imagination. It set off an insurgency by democratic socialists within Democratic Party ranks. In Michigan’s August 4 primary, Abdul El-Sayed, a progressive backed by Independent Senator Bernie Sanders, won the Democratic nomination for the Senate despite pro-Israel groups spending heavily against him. Angie Nixon, a three-term State legislator who joined the Democratic Socialists of America in June, has won Florida’s Democratic Senate nomination, having spent merely $60,000 on advertising as opposed to her moderate opponent’s $2.2 million. Such results matter in a country where socialism has been used to evoke the Red Scare, even decades after the Cold War.
+
+Mr. Sanders, whose unabashed democratic socialism is closer to European social democracy than to state ownership of the means of production, ran two presidential campaigns that prepared this ground while the likes of Alexandria Ocasio-Cortez and others showed its electoral viability in Democratic strongholds in House elections. In 2026, a new generation of democratic socialists has sharpened its methods and its reach. The focus on affordability in childcare, rent freeze, Medicare for All and taxing the rich while breaking with the Democratic Party’s foreign policy consensus, including on funding Israel’s military, has carried them beyond strongholds such as New York. The new cohort has not only won primaries but also registered a shift in the political outlook of many Americans. But caution is warranted. Taking on the Republican machine in November will be a far tougher task, especially if the Democratic establishment does not rally around its insurgents against Trumpism. Yet, supporters point to a deeply unpopular Mr. Trump, and a welfare-first message that could cut across the U.S.’s culture wars the Republicans will keep stoking. For the Global South, including Indians, the rise of democratic socialism as a viable force in the U.S. will be welcome, as its emphasis rests on fair trade and multilateral engagement, besides an end to Washington’s forever wars.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/socialist-surge/article71369197.ece)
+
+---
+
+### Trial by fire: On fire accidents in West Bengal
+*The Hindu · Editorial*
+
+What is it with West Bengal and fires? Since 2025, there have been major fires, in hotels and in godowns, claiming some 65 lives, many of them poor and migrant workers and pilgrims. The State seems to be an egregious case of the generally poor fire safety record of Indian factories, industrial facilities as well as cities and towns built on top of greed, a disregard for laws, corruption, and scant respect for lives and property. The Shikha Inn was housed in a century-old building on Mirza Ghalib Street in Kolkata, which apparently had several hotels — on each of its five floors. It was obviously not built to be a hotel. Shikha Inn is typical of what happens in India, where old buildings with electrical systems designed for a certain load are quickly repurposed, and modern equipment is added without any consideration of whether the system can handle the air-conditioners, washing machines, heaters and induction stoves. The August 17 fire in Tarapith was apparently electrical too and the killer was the smoke. The fire spread rapidly because the pilgrim hotel used flammable materials extensively. Rituraj Hotel, which caught fire in April 2025, had also been repurposed. With just one stairway, the fire on the first floor cut off escape, and, just as in the Mirza Ghalib Street fire, smoke trapped those above.
+
+For the new BJP government in West Bengal, the accidents have provided more fodder for its attacks on the TMC. Though Chief Minister Suvendu Adhikari called the Kolkata fire “impossible to ignore”, he nevertheless blamed a “legacy of negligence”. This may well be true but serves little purpose. The present government has, similar to its predecessor, a dedicated Fire Minister. There have been promises of robust action such as a Statewide safety audit, but the focus seems to be more on the TMC than on corrective action. Mr. Adhikari should dismount the campaign horse and look at the elephant in the room — crumbling infrastructure. In its first 100 days, the government has been rather silent on the creaky infrastructure of West Bengal — a State with a rich history of urban life, industrialisation, culture and progressive politics that once led the nation, but now lags behind much of India in roads, buildings, amenities and governance. Urban renewal is the stock-in-trade of the BJP across India and West Bengal will be well served by a State BJP that adopts it. Heritage buildings and conservation have their own value, including for tourism, but require careful planning to suit today’s needs. Mr. Adhikari should place governance above petty politics and focus on infrastructure.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/trial-by-fire-on-fire-accidents-in-west-bengal/article71369212.ece)
+
+---
+
+### Centre’s fiscal outlook faces geopolitical, revenue risks
+*The Hindu · Opinion*
+
+Geopolitical headwinds in the background of recently introduced tax changes would shape the Centre’s fiscal outlook for 2026-27. Despite pressure on tax revenues and subsidies, strong non-tax receipts and policy interventions may keep fiscal outcomes broadly on track.
+
+As per the Controller General of Accounts (CGA) data, the Centre’s gross tax revenues (GTR) grew only by 3.7% in the first quarter of 2026-27. This was the result of subdued revenue performance of personal income tax (PIT) and Goods and Services Tax (GST), both of which were subjected to substantive modifications in 2025-26. In both cases, extensive rate rationalisation was undertaken. In the case of GST, there was a substantive rate reduction. The expectation was that while these reforms would entail an initial revenue sacrifice, subsequent expansion of the tax base would offset the revenue loss over time. PIT revenue growth in 2025-26 was only 0.037%, implying a buoyancy of zero. For the second half of 2025-26, GST revenue growth was 4.67%. The revenue reducing effect of these major tax interventions has continued in 2026-27. PIT shows a growth of 6.8% in the first quarter of 2026-27 while GST revenues showed a contraction of (-)11%.
+
+[Read full article](https://www.thehindu.com/opinion/lead/centres-fiscal-outlook-faces-geopolitical-revenue-risks/article71369976.ece)
+
+---
+
+### Ensuring equity amid India’s educational progress
+*The Hindu · Opinion*
+
+The Unified District Information System for Education Plus (UDISE+) 2025-26 report highlights notable progress in India’s school education system, covering 1.47 million schools, 240 million students, and 10.2 million teachers. Progress has been recorded in gross enrolment, student retention, dropout reduction, teacher availability, and educational infrastructure. However, the report also shows that regional and social disparities persist in access, resources, learning opportunities, and educational outcomes. Disparities in gross enrolment ratios (GER), dropout rates, pupil-teacher ratios, and infrastructure availability across regions and social groups indicate the ongoing challenge of guaranteeing equitable, inclusive, and quality education in India.
+
+Regional and social imbalancesThe report confirms that significant variations exist across socioeconomic groups and geographic regions in terms of various indicators. The distribution of enrolled students shows that Andhra Pradesh leads in Aadhaar seeding (99.6%), followed by Chandigarh (99%), while Meghalaya records the lowest rate (35%), compared with the national average of 90.2%. Uttar Pradesh accounts for the highest share of schools and student enrolment, while Meghalaya and Himachal Pradesh have the lowest shares of schools relative to enrolment, indicating higher student-school ratios.
+
+At the school level, West Bengal has recorded the highest proportion of foundational and preparatory schools (79%) of total, and among the lowest secondary schools (11%); Chandigarh has the highest secondary schools (83%) and the lowest foundational and preparatory schools (5%) of total. The social composition of enrolled students shows significant variation across regions. Chandigarh and Delhi have the highest proportions of General category students, while Lakshadweep, Mizoram, Meghalaya, and Ladakh have high proportions of Schedule Tribe (ST) enrolment. Punjab records one of the highest shares of Scheduled Caste (SC) enrolment, whereas Other Backward Classes representation is particularly high in Tamil Nadu and Gujarat.
+
+At the national level, the GER has recorded highest for OBCs (49%), followed by General (27%), SCs (17%), and STs (10%). Thus, GER indicates large differences in school education enrolment in comparison to their corresponding population of each social group.
+
+The Gender Parity Index across all school levels shows higher girls’ enrolment and participation than boys across most of the States/Union Territories. The UDISE+ data show that students from minority communities account for more than 20% of enrolment, with Muslims and Parsis among the major minority groups. The average enrolment per school shows that Chandigarh registers the highest average enrolment per school (1,194), followed by Delhi (788); while Ladakh records the lowest average enrolment (64), indicating variation in the size of the schools across the country.
+
+The pupil-teacher ratio (PTR) is an important factor influencing students’ performance and achievement. The PTR varies highly, registering lowest in Union Territories and highest in densely populated States. A significant inter-State variation in PTR exists across pedagogical stages; i.e., foundational, preparatory, and middle PTRs are generally lower than secondary across most of the States. Jharkhand records the highest Secondary PTR (43), followed by Uttar Pradesh, signifying a heavy workload on teachers. On the other hand, Sikkim has the lowest secondary PTR (6), followed by Ladakh. The GER varies significantly at the levels of schools and regions across the country. Meghalaya records the highest Foundational GER (131), followed by Mizoram, while Bihar has the lowest GER (24), preceded by Uttar Pradesh. Meghalaya again records the highest Preparatory GER (171), followed by Manipur; whereas Gujarat has the lowest GER (74), preceded by Bihar. Chandigarh and Meghalaya record the highest Middle GER (118), followed by Delhi. On the contrary, Bihar has the lowest GER (70), preceded by Nagaland. Similarly, Chandigarh registers the highest Secondary GER (109), followed by Goa; while Bihar has the lowest GER (48), preceded by Nagaland.
+
+The dropout rate determines the attainment and transition rate to the next stage of schools. Bihar accounts for the highest preparatory dropout rate (7.9%), followed by Meghalaya. On the other hand, many States/Union Territories such as Delhi, Haryana and Maharashtra do not report dropout. Similarly, Bihar records the highest middle-level dropout rate (9%), followed by Uttar Pradesh. While several States/Union Territories such as Chandigarh, Maharashtra and Andhra Pradesh do not register dropouts at this stage, Ladakh records the highest secondary dropout rate (14.8%), followed by Karnataka. West Bengal has the lowest dropout rate (1.5%), preceded by Telangana.
+
+Persistent gapsGenerally, access to schooling has improved significantly over the years. Most children now have a school at a suitable distance, but regional differences continue. Remotely located places, hilly, tribal and border areas still have limited schools and transport facilities, where school-going children face greater difficulties in attending school regularly, such as in Bageshwar district of Uttarakhand, Ganjam and Kandhamal districts of Odisha, Kathua district of Jammu and Kashmir, and Palghar district of Maharashtra. Simultaneously, children from SCs, STs, minorities, and economically poor families have a greater likelihood to face different barriers that limit their enrolment, attendance, and completion of schooling.
+
+School infrastructure has improved in several areas of the country, i.e., access to drinking water and electricity. However, the availability of infrastructure varies regionally across the country. Educationally backward districts are still struggling to provide a learning environment in rural schools in comparison to urban areas.
+
+Teacher availability is a factor that significantly influences educational outcomes. The report shows that many States have recruited qualified teachers, while teacher shortages continue in several regions. Rural and remote schools often face a shortage of teachers performing multiple classes and subjects and many other non-teaching responsibilities allotted by the government. High student-teacher ratios reduce the individual attention students receive and adversely affect the learning process. Despite progress in girls’ schooling, challenges persist in reducing dropout rates, enhancing transition from primary to secondary education, and providing sufficient and suitable facilities for disabled children. Inclusive infrastructure, accessible classrooms, and supportive teaching practices are essential for equitable education.
+
+Targeted investment will helpThe UDISE+ 2025-26 report shows that educational inequality persists across accessibility, infrastructure, teacher availability, digital resources, and social inclusion. Addressing these dimensions collectively is essential for equitable educational development. In line with the National Education Policy (NEP) 2020, targeted investment in educationally deprived regions, improved digital infrastructure, adequate teacher deployment, and stronger support for disadvantaged groups can help bridge persistent gaps.
+
+Regional and social imbalances continue to influence educational opportunities and learning conditions. Reducing these disparities requires a balanced approach that collectively improves infrastructure, promotes equitable teacher deployment, strengthens inclusive social and economic policies, and provides dedicated support for disadvantaged social groups. A regionally and socially balanced approach that integrates educational quality, equity, and accessibility will help create a more inclusive education system, address the paradox of progress in India’s evolving school education landscape, and contribute to the country’s long-term social, economic, and regional development.
+
+Sahab Deen is a Project Scientist at the Remote Sensing Applications Centre, Lucknow, Uttar Pradesh. Navneet Sharma teaches Education at the Central University of Himachal Pradesh, Dharamshala
+
+[Read full article](https://www.thehindu.com/opinion/lead/ensuring-equity-amid-indias-educational-progress/article71374765.ece)
+
+---
+
+### DC Edit | Gen Alpha Joins Gen Z In Questioning Policy Of Govt
+*Deccan Chronicle · Editorial*
+
+The reported plans of the BJP to send a Union minister to a university every day to “interact directly with students and understand their concerns” can be seen as a response to the perceived failure of the party to reads the young minds but the mantris on the mission will do bear in mind the rebuke a vice-chancellor in Kerala received while trying to push the governmental agenda. The attempts by Mohanan Kunnummal, the vice-chancellor of Kerala University of Health Sciences, to extract an answer from students gathered at a function to honour them for their performance in the Class 10 and Class 12 examinations to the effect that they are not “cockroaches” were met with deafening silence. Repeated prodding by Dr Kunnummal to say that they are, in fact, “lions” failed to move them.
+
+The BJP may have started showing the signs of losing to battle to control the larger political narrative which it has been peddling quite successfully for more than a decade for good reasons. The party had started on a winning note against the then United Progressive Alliance government at the Centre. The theme was the alleged massive corruption under the government and the “development history” of Gujarat under Narendra Modi, then the state’s chief minister. After three successive elections to the Lok Sabha and running the government for the last 12 years, the party is now facing tough questions on governance.
+
+Lack of quality education and employment opportunities used to be items on the agenda of political parties during elections till now, but they have lately become the sole agenda of the youth brigade. The Cockroach Janta Party (CJP) which successfully ran a campaign for the resignation of Dharmendra Pradhan as Union education minister for his failures has called for a social audit of government-run schools in all states. The party says it has got massive response from all over the country. There are reports from several states about students hitting the streets demanding better infrastructure for their schools. The poor education facilities in the country are not the responsibility of the BJP alone; it is the collective failure of all the parties which are and were in government. But the BJP may be held answerable because the Generation Alpha has seen the party in power at the Centre and in most states during the larger part of their life.
+
+The real challenge for the BJP will be its inability to flash the communal card as a panacea for every ill in this case; the signs from the youngsters till now have been that they are unwilling to take that bait. They are also unlikely to subscribe to the hate campaign the right wing often unleashes when questioned. The youth ask basic questions on education, healthcare, housing and decent infrastructure and will be satisfied only if they get convincing answers. Narratives that take birth in IT cells and are propagated through WhatsApp may die their natural death soon for actions on the ground alone can see the BJP through. The party should not expect the silence of the students in Kerala everywhere; this bunch can turn vocal in their disagreement with the official story.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-gen-alpha-joins-gen-z-in-questioning-policy-of-govt-1980921)
+
+---
+
+### DC Edit | J&K: US Envoy States The Obvious
+*Deccan Chronicle · Editorial*
+
+The US Ambassador to India Sergio Gor may have stated a self-evident truth in terming Kashmir as an “important part of India”. This may be somewhat at variance with what the official stance of Mr Donald Trump’s US may be, but it comes as a reaffirmation of the fact that the land has historically been an integral part of the Indian nation.
+
+Given its obsessive but impossible dream of possessing the Valley, Pakistan was certain to be riled by what an important envoy who has Mr Trump’s ear may have said on the subject. Its antics over internationalising the issue at the UN over nearly eight decades having failed, Pakistan should know by now that its stand on Kashmir comes as the biggest stumbling block to any talks between the two countries on the tensions that have sporadically led to wars and, most recently, a special operation codenamed Sindoor.
+
+The US envoy’s visit to Kashmir, the first since Article 370 was abrogated, might have been an eye opener for him from the security point of view, which is why he will be recommending a downgrading of the US advisory warning its citizens not to visit J&K. The attractions of the Valley can be seductive to visitors and Mr Gor won’t be the last American to be pleased with what he saw, including how secure the place is despite the occasional incident of Pakistan-sponsored terror or targeted killing popping up.
+
+An offshoot of the latest flare up over Kashmir may have led to tit-for-tat action on Pakistan’s sneaky way of “grabbing territory” in its encroachment of an area around its high commission in New Delhi. Such brazen flouting could be bulldozed away, but not Pakistan’s attitude to India that was reflected in its removing security barricades around the Indian high commission in Islamabad just days ago.
+
+Pakistan would be well advised to look after the people of the territory it seized in what is now Pakistan-occupied Kashmir where the disquiet has led to frequent clashes and loss of lives of residents from excessive use of force and firing. Publicly hankering for Kashmir may suit its domestic politics, but the world tired long ago of listening to Pakistan’s untenable claims on parts of J&K.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-jk-us-envoy-states-the-obvious-1980909)
+
+---
+
+### Farrukh Dhondy | Nathan Cofnas, Race-realist Who Led Witch-hunt Against Jason Arday
+*Deccan Chronicle · Opinion*
+
+“Memory is blessed with all that time we spent
+
+The moments that inevitably went
+
+Into the past. Yes, Time rules all our lives
+
+It’s futile, even silly, to relent.
+
+The moving finger writes — you know the verse
+
+Time is a blessing — not ever a curse
+
+Though human frailty sometimes makes us wish
+
+We could induce Time to work in reverse.”
+
+— From Rubaiyat-e-RumbabaJason Arday took his own life in a London flat last week and this week 30,000 people gathered on the streets of London to hold a vigil in his memory and support his grieving friends and family.
+
+Who was Jason Arday? Why did he take his own life? Why did his suicide induce thousands to express their sympathy on London’s streets and on social media? Very many academics and the Prime Minister, Andy Burnham, expressed their sorrow and condolences.
+
+Jason was a 41-year-old professor of the sociology of education at Cambridge University. He was a fellow of Jesus College, Cambridge, having a doctorate in his subject from one of the Liverpool Universities and having taught at several universities before his appointment.
+
+Yes, people do kill themselves, but thousands don’t gather in vigils for their souls or memories. Neither do Prime Ministers and Chancellors of universities offer their sincere condolences.
+
+So what was so unusual about this suicide? The circumstances that brought it about?
+
+Jason Arday was black. So what? So he was, in his position, hounded because of it and the persecution became a nationally reported affair and led to his fatal despair.
+
+An unusual and monstrous manifestation of racism stepped out of the shadows. Yes, gentle reader, as an Indian ‘immigrant’ I’ve faced all manner of racist discrimination — if you can call being bombed out of your second floor flat by a fire bomb ‘racism’. Then there were other less life-threatening incidents — being turned away by landlords when attempting to rent a room; not being served in pubs; being beaten up by four thugs outside a club where I’d had a pleasant evening with four female, white colleagues…
+
+None of it led me to despair.
+
+So what happened to Jason? It started in July. An ex-academic of Cambridge University, one Nathan Cofnas, who labels himself a ‘race realist’, began the hounding of Jason by publicly accusing him of having constructed his doctorate thesis by plagiarising the work of other scholars. Cofnas alleged that large portions of Arday’s work had been lifted from the research and theses of previous sociologists.
+
+There followed demands for a detailed investigation into Jason Arday’s qualifications and claims of having lectured at other universities before being appointed to the Cambridge post.
+
+As his position and qualifications were questioned, there emerged a demand for an investigation into the academic process through which he was appointed as a professor. It is alleged that Arday achieved the elevation to his professorship through ‘concessional’ considerations.
+
+The ‘Master’ of Jesus College, Cambridge is, since 2019, a lady called Sonita Alleyne who is the first woman and the only black individual to hold that position. It is now alleged that she influenced Arday’s appointment.
+
+Jason Arday replied to the accusation of plagiarism by claiming that he was born autistic and only began to speak at the age of 11 and only learned to read and write at the age of 18. He said he might have, through a lapse of memory during his research, made the mistake of transcribing passages of the work of others or indeed learning from it and justifiably using its arguments.
+
+The central fact to emerge through this affair about plagiarism and false credentials, none of which has been subjected to proper independent scrutiny, is not to do with Arday, but rather to do with the stance and motives of Nathan Cofnas.
+
+Cofnas is an unabashed racist. He has made no secret of his view that black individuals “can only excel at sport and entertainment” and that their promotion through the ranks of Western meritocracy is either undeserved positive-discrimination or some corrupt practice. It’s a very peculiar opinion for a supposed ‘academic’ to hold. I have no access to Master Cofnas, but would like to ask him if his view applies to Asians and to Chinese? Does it apply to the black Nobel prize-winners? To Barack Obama, Nelson Mandela, James Baldwin… (forget it, I can’t be bothered to continue with an endless list!)
+
+What I will say is that in my short and happy life I have come across and befriended several black individuals whose intellect, writing and achievements are outstanding. A few of them were not, in simple terms, startling achievers, but their work and careers certainly intruded into and shaped chunks of history.
+
+C.L.R. James’ books are, to my mind, the best Marxist expositions of his and succeeding generations. Then my late friend Darcus Howe, born in Trinidad and; like myself, an ‘immigrant’ to Britain, contributed in the most distinctive and effective way to the integration and...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/farrukh-dhondy-nathan-cofnas-race-realist-who-led-witch-hunt-against-jason-arday-1981172)
+
+---
+
+### John J. Kennedy | Tech Not Enough; For Effective Exam Reform, Strengthen Capacity of NTA
+*Deccan Chronicle · Opinion*
+
+Public institutions do not usually fail because they lack expert advice. They often fail because they lack the capacity to turn that advice into consistent administrative performance. India’s examination system clearly demonstrates this problem. Despite several rounds of reform, stronger laws, and repeated expert reviews, controversies over public examinations keep recurring. The Union government has now set up a high-level task force under Nandan Nilekani to reform the system. At this crucial juncture, another question must also be asked: Has the debate focused too much on redesigning the system and too little on strengthening the organisation that runs it?
+
+There has been no shortage of reform. Security protocols have been tightened. Parliament passed the Public Examinations (Prevention of Unfair Means) Act in 2024 to deter organised malpractice. After the 2024 Neet controversy, the K. Radhakrishnan Committee reviewed the National Testing Agency (NTA) and submitted 101 recommendations on governance, technology, examination processes, and organisational restructuring. A steering committee was set up to oversee their implementation. Now, in 2026, the law has been amended again to introduce stricter penalties for violations. Each major examination controversy has led to another round of procedural reforms, reflecting the belief that stricter rules and new safeguards are enough to restore public confidence.
+
+The public administration has always distinguished between good policy design and the organisational capacity needed to implement it. Governments often have well-designed policies but struggle to implement them because their institutions lack capacity. When failures come from weak implementation rather than flawed design, more reforms alone will not produce better outcomes.
+
+The NTA illustrates this problem. Since its establishment in 2018, it has become India’s primary testing agency, conducting hundreds of examinations for more than 6.6 crore candidates. According to a reply given in the Rajya Sabha on July
+
+22, 2026, the NTA has filled only 24 of its 39 sanctioned permanent posts. The remaining 15 posts are vacant. The agency also relies on 73 contractual staff and 124 outsourced personnel. Staffing numbers alone do not explain examination failures. However, a ratio of 24 permanent employees to roughly 200 contractual and outsourced staff raises a real question about whether organisational capacity has kept pace with institutional responsibility.
+
+Some critics argue that NTA’s failures stem less from staffing shortages and more from political interference in decisions such as centre allocation, or from corruption at specific points in the system. These factors do matter and should not be dismissed. However, they do not remove the staffing problem. An agency with a thin permanent core is more exposed to both interference and corruption, because it has fewer people with the institutional standing and job security to resist pressure or flag irregularities. The staffing gap and the integrity gap are connected, not separate explanations. The challenge, thus, is not only one of scale. It is one of organisational coherence. Examination policy is designed centrally, but execution depends on a wide network of agencies, state administrations, examination centres and service providers, each operating under different conditions. Maintaining uniform standards across this network is difficult. A public system is only as reliable as its weakest link. This applies across the entire examination supply chain: paper setters, printing facilities, secure storage, transport, digital systems, logistics partners and examination centres. Many reported paper leaks occur within this network, not at the policy level. Effective examination governance requires continuous oversight and accountability at every stage, not only secure procedures on paper. Other countries that run large-scale, high-stakes testing keep a stronger permanent core within their testing bodies, even when they use external vendors for specific tasks such as printing or logistics. This allows a stable group of people to be held accountable for standards across cycles, rather than relying mainly on rotating deputationists and short-term contracts.
+
+Technology can strengthen examination security through artificial intelligence, encryption, biometric verification and digital surveillance. Continued investment in these tools is useful. But technology supports administration; it does not replace it. Secure systems still need competent supervision and clear accountability. Stronger laws provide an important deterrent, but their effect depends on timely detection of violations, impartial investigation and consistent enforcement.
+
+Public examinations depend on trust. Students prepare for years because they believe that effort and merit will decide outcomes. Universities and employers accept examination results because they trust the authority that produces them. This...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/john-j-kennedy-tech-not-enough-for-effective-exam-reform-strengthen-capacity-of-nta-1980918)
+
+---
+
+### Parsa Venkateshwar Rao Jr | Time To Dispel The Myths Over Liberalisation Of 1991
+*Deccan Chronicle · Opinion*
+
+The last week of July went virtually unnoticed by many. It marked 35 years of economic liberalisation. It was on July 24, 1991 that the P.V. Narasimha Rao government announced a new industrial policy which away with licensing for the majority of industries, which meant that no permission was needed to set up new enterprises, or for expanding and upgrading the existing ones, allowing for import of foreign technology, foreign collaboration and foreign funds. This is what is generally celebrated by the naïve enthusiasts of liberalisation, naïve because they do not see the gradual shift in the Industrial Policy Resolution of 1948, 1956, and the Industrial Policy statement of 1973, 1977 and 1980. The propaganda that in 1991, the chains of the licence-permit raj were broken is inaccurate, to the say the least. For example, the 1991 statement said the 1973 Industrial Policy Resolution “identified high-priority industries where investment from large industrial houses and foreign companies would be permitted”. This was a shift from the 1956 Industrial Policy Resolution, which “gave primacy to the role of the State to assume a predominant role and direct responsibility for industrial development.” So, the image of the long, dark ages of socialism from 1947 to 1991 is an intellectual myth. And 1973 is generally identified as the high noon of Indira Gandhi’s romance with socialism. Perhaps the honest question to ask, and which has not been asked, is how closed was the Indian economy at the end of the 1980s. It was not the socialist dystopia that the “andh bhakts” of reforms make it out to be. Economists Suresh D. Tendulkar and T. Bhavani, in their 2007 book, Understanding Reforms Post-1991 India, introduce without elaborating “economic nationalism” along with socialism as an inhibiting factor. It is to be recalled that the fringe organisation called Swadeshi Jagran Manch was a vocal opponent of liberalisation in the early years.
+
+Looking back to 1991 with rose-tinted blinkers even after 35 years is not an intelligent thing to do, but it is what market-friendly economist stalwarts continue to do. There have been honourable exceptions. In 1996, five years after Annus Mirabilis, economists Amit Bhaduri and Deepak Nayyar in their book titled The Intelligent Person’s Guide to Liberalisation, write: “The mood of the moment, among those who make decisions and shape opinions in India, is such that economic liberalisation is perceived as both virtue and necessity. But to the citizen it is obvious that economic liberalization is no panacea. And only the dishonest or the naïve can think of it as a magic wand.”
+
+This observation holds good even today in the middle of rising oil prices, inflation and scarcity of jobs.
+
+Such has been the socialism intellectual hangover that no one paused to ask questions about the challenges that a market economy poses. It is common sense that if the State-controlled Soviet-style socialist economy is held back by inertia, market economies are rocked by volatility in trade and finance, leading to squalls and crises. The first market crisis came with the dotcom bust in 2001.
+
+This was followed by the financial meltdown of 2007-08, which hit India in 2011. As a matter fact, the global markets have not recovered from the 2007-08 shocks, and growth rates everywhere declined, with China moving to the new normal of six per cent growth rate from the 10 per cent average of two decades and more, and Europe is stuck in the low growth rate orbit. One of the ardent, even fanatical, advocate of market economics threw his hand up in bewilderment when faced with the issue of financial derivatives, which led to the fall of investment banks in the United States.
+
+More interestingly, the economic reforms evangelists are not able to make up their mind whether Prime Minister Narendra Modi’s State-driven market economy is a happy model of a free market, and whether this is the reason for sluggish private investment of the last decade. Many of the market-loving economic pundits have gingerly expressed their reservations about the Modi approach, but they have not laid their exact diagnosis of the slow growth of seven per cent, which paradoxically happens to be the fastest among major economies, on the table. The reason is a certain intellectual timidity because the government is still the powerful institution which doles out rewards.
+
+It is also interesting that not many economists are ready to accept that reforms in India have been ushered in stealthily. It is only Bhaduri and Nayyar who point this out, while Tendulkar and Bhavani say that coalition governments with no consensus on reforms pursued the policy from 1991 to 2007. The economists can rightly argue that it is not their business whether the reforms policies were implemented through stealth or transparently.
+
+There is also no interest by a majority of economists to analyse the policy potholes that gave birth to the Rs 4,000-crore stock market scam of Harshad...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-time-to-dispel-the-myths-over-liberalisation-of-1991-1980915)
+
+---
+
+### Engineering education needs a reset
+*Deccan Herald · Editorial*
+
+Karnataka Higher Education Minister Basavaraj Rayareddi’s announcement in the Legislative Council that the state will not establish new government engineering colleges is a welcome recognition of reality. When 28,000 to 30,000 engineering seats remain vacant every year despite multiple admission rounds, adding more institutions serves little purpose. The problem extends beyond Karnataka: across India, 30% to 40% of engineering seats – roughly 3,00,000 to 5,00,000 annually – go unfilled. The country has built an enormous technical education infrastructure over the past three decades, but capacity has expanded far beyond actual demand. Vacancies are particularly acute in regional and rural colleges, where many institutions struggle to attract students. Given this background, Karnataka has repeatedly petitioned the All India Council for Technical Education (AICTE) to impose a moratorium on new private colleges.
+
+Karnataka govt to launch campaign to transform 100 schools in 100 daysA major distortion arises from the artificial demand created by private colleges for computer science and allied courses. To offset vacancies in core streams like mechanical, civil, and electrical engineering, institutions offer multiple variants of essentially similar programmes such as Artificial Intelligence, Data Science, Cybersecurity, and Internet of Things, capitalising on student preferences and market perceptions, often without corresponding investment in faculty or laboratories. This has created an oversupply of narrowly trained software graduates, alongside declining enrolment in fields vital to manufacturing, infrastructure, energy, and semiconductors. Such unchecked expansion risks a market glut. If software hiring slows due to automation or economic cycles, thousands of graduates may face unemployment. Technical education must therefore respond not only to current trends but also to long-term economic needs.
+
+Karnataka’s decision marks a shift from expansion to consolidation. Rather than adding more colleges, the emphasis must be on better utilising existing infrastructure – upgrading institutions for quality rather than quantity, and repurposing underused campuses as centres for skilling, reskilling, and industry-linked training in emerging areas. This approach draws on the findings of an expert committee headed by S Sadagopan, former Director of IIIT-Bengaluru, which found that only about 17% of engineering graduates are readily employable. The committee recommended reducing computer science seats, capping intake in related disciplines, limiting multiple variants of the same course, and integrating AI across branches instead of treating it as a stand-alone specialisation. It also proposed setting up a Karnataka Engineering Education Reforms Authority to oversee these structural changes. Other states facing similar challenges would do well to consider a similar course correction. In higher education, quality, relevance, and employability matter far more than the number of buildings or seats created.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/engineering-education-needs-a-reset-4118724)
+
+---
+
+### Green India Mission: Lost in silos
+*Deccan Herald · Editorial*
+
+The Comptroller and Auditor General (CAG)’s performance audit of the Green India Mission (GIM), tabled in parliament last week, is a severe indictment of the flagship environmental programme. GIM, launched in 2014 with fanfare, aimed to protect, restore and expand forest cover, and improve vegetation and tree cover across the country. It proposed to mobilise targeted efforts to enhance biodiversity and carbon sequestration, and envisioned an expansion of forest-based livelihoods. The report says the mission, which had a target of improving the quality of forests over 1.4 million hectares, could do so only in 0.11 million hectares. A 98% shortfall was reported in efforts towards increasing the forest cover. The CAG examined results across 16 states and union territories between 2015-16 and 2024-25, and reported abject failure in all aspects.
+
+Multiple factors have been cited – from an absence of convergence with relevant programmes to insufficient funding, from weak planning to erratic monitoring systems. The CAG noted that GIM lacked “effective alignment” with CAMPA, MGNREGS, and other programmes tied to afforestation, leaving initiatives such as the Nagar Van Yojana and the School Nursery Yojana to progress in isolation. The mission failed to secure the originally proposed funding support. Financial controls were lax; many states did not maintain annual accounts, while those prepared by the others were often unaudited or contained discrepancies. Annual targets for afforestation were largely non-existent and monitoring remained deficient at all levels. Vulnerability was identified as a key marker for the mission. However, the CAG highlighted poor prioritisation, noting that regions with low- and moderate-level risks were selected over those facing a greater threat from climate change.
+
+India's forests are losing their climate resilienceGIM is an important component in India’s response to climate change and is integral to its national action plan. It was designed to play a crucial role in meeting the country’s commitment to the Paris Agreement on expanding its carbon sink. That a programme of this scope and consequence was handled with such indifference reveals a commitment that does not go far beyond the optics of afforestation drives. There is much talk about the need to plant trees, to improve the state of forests, to revive degraded lands, and to hasten climate action. Millions of saplings are being planted every year. However, official statistics about the extent of forests and tree cover have been consistently questioned. The CAG report encapsulates everything that is wrong with the country’s biggest afforestation programme. Its criticism should form the basis for efforts to repair and rejuvenate the mission.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/green-india-mission-lost-in-silos-4118723)
+
+---
+
+### Building bridges of faith and peace
+*Deccan Herald · Opinion*
+
+Religion is an integral part of human existence. If one wishes to have peace of mind, one must also construct defences of peace in one’s own mind. The world cannot have peace until nations and people begin to reduce their selfish desire for more and more material possessions.
+
+Differences in religious beliefs and practices should not hinder the efforts of various religions working for world peace. They must work in harmony and cooperation in the true spirit of service. Our country, Indian society, is pluralistic in nature. The diversity that exists in India in terms of religion, culture and languages is highly unique. Despite this diversity, the people of this country have been living in peace and harmony.
+
+No religion preaches violence. Vasudhaiva Kutumbakam is the well-known cardinal principle of Hinduism. Swami Vivekananda said, “We believe not only in universal toleration but we accept all religions as true.” Prophet Muhammad taught his followers to make peace and not to hurt the religious sentiments of others. The Quran says, “O mankind, We have created you from male and female” and calls upon humanity to develop a sense of brotherhood.
+
+The journey matters as much as the goalLove and peace are central to the Christian scheme of things. Compassion holds an important position in Buddhism. The Dalai Lama has said that there will be no peace among religions without dialogue.
+
+The value of peace is often underestimated. It does more than prevent destruction. It releases human and material energies for development. Peace redirects those resources towards education, economic growth, science and social welfare. Peace is not weakness; it demands greater courage than confrontation. Development, justice, reform and prosperity cannot be pursued effectively while society remains trapped in conflict. Therefore, religious leaders, political leaders and academics could play a leading role. Interfaith dialogue has immense importance in minimising differences among conflicting parties. Campaigns for peace and humanity should be organised from time to time so that the world can become an embodiment of unity, love, brotherhood, peace and prosperity.
+
+[Read full article](https://www.deccanherald.com/opinion/building-bridges-of-faith-and-peace-4118721)
+
+---
+
+### Surveillance in a legal vacuum
+*Deccan Herald · Opinion*
+
+On August 1, West Bengal’s Special Task Force (STF) arrested Mohammed Hamim Mondal, a Jaish-e-Mohammed operative who, on his Pakistan-based handlers’ instructions, had allegedly planned to breach the Jantar Mantar protest site in New Delhi disguised as a police officer. Months earlier, Delhi Police’s Special Cell and Punjab Police had dismantled an ISI-run espionage network that planted Chinese CCTV cameras near defence installations.
+
+Neither case was cracked by facial recognition; both came from traditional intelligence work. But together, they describe the environment Delhi’s security apparatus operates in: a capital housing Parliament, the diplomatic corps, and India’s most sensitive institutions, exposed to cross-border terrorism, espionage, and organised infiltration of public spaces. Against this backdrop, Delhi Police’s use of facial recognition technology (FRT) at Jantar Mantar deserves to be taken seriously.
+
+Since June, as students protested the NEET-UG paper leak, Delhi Police ran facial recognition at Jantar Mantar against a database of roughly 350,000 criminal records. Between July 20 and 25, the system flagged 2,873 people with criminal antecedents in the protest zone, including 989 suspected of serious offences. Whatever the police inquiry finds, the scale is telling: a protest that drew thousands of peaceful demonstrators also drew a significant shadow population with criminal histories moving through the same crowd. This is exactly what facial recognition exists to surface, separating the protest from those hiding within it.
+
+Jantar Mantar protest offers Kashmir’s youth a new template for mobilisationThis idea is not new to Indian law. The Karnataka Public Safety (Measures) Enforcement Act, 2017, requires commercial establishments, religious sites, hospitals, and “any place of organised congregation where more than 100 people gather at a time” to install and maintain CCTV. Telangana’s Act of 2013 and Gujarat’s of 2022 follow the same template, first set by Andhra Pradesh in 2013, mandating cameras at gatherings above a notified threshold. A Delhi-specific Public Safety Act, enacted by Parliament, could do for Delhi what these states have done for CCTV and explicitly extend it to facial-recognition matching at gatherings above a defined size.
+
+The clearest evidence that facial recognition works, when backed by law, comes from the United Kingdom. The UK Court of Appeal’s 2020 ruling in Bridges v. Chief Constable of South Wales Police struck down an early trial for lacking clear rules on watchlists and officer discretion. London’s Metropolitan Police responded not by retreating but by building a 2024 framework that confines live facial recognition to three defined uses: crime hotspots, protective security at major events, and intelligence-led searches for specific individuals, with senior authorisation and a proportionality check on the impact on protests.
+
+In May 2026, the Met deployed the technology at protest events for the first time, identifying a convicted child sex offender, with only 10 false alerts and roughly 80% public support in its own surveys. London earned these results by legislating around the technology after courts forced the issue, not by avoiding it.
+
+A calibrated response
+
+That is the warning Delhi cannot ignore. In the absence of a law, India’s courts are already being asked to settle this question: petitions by Aishe Ghosh in the Delhi High Court and Rajya Sabha MP A A Rahim in the Supreme Court both argue facial recognition at protest sites has no valid statutory basis. They have a point. Delhi Police’s own RTI response confines its stated mandate to missing persons and unidentified bodies, and no statute authorises the broader use now underway. Left unresolved, that gap invites the kind of judicial intervention that initially shut the technology down in Britain; a court ruling on a practice with no legislative backing is more likely to restrict or ban it outright than craft a calibrated framework. The smarter path is to legislate first, not wait for a court to decide by subtraction.
+
+The elements of that law are not mysterious; states have already written most of them. A Delhi Public Safety Act extended to facial recognition should fix a clear headcount threshold, require senior authorisation for deployments, mandate independently audited accuracy standards, set fixed data retention and deletion timelines, and require public reporting of scans, matches, and outcomes after every operation. Facial recognition has shown what it can do for a capital that cannot afford to guess who moves through its most sensitive spaces. What it needs now is not a defence after the fact, but a law that puts that capability beyond a court’s power to take away.
+
+(Rakshit is an assistant professor in the School of Arts, Humanities, and Social Sciences, Chanakya University; Nirupama is an assistant professor in the School of Law, Governance, and Public Policy at the university)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/surveillance-in-a-legal-vacuum-4118726)
+
+---
+
+### The art of reading social cues
+*Deccan Herald · Opinion*
+
+Today’s children, in my view, are an enviable lot. They enjoy unprecedented freedom and choice. They get the desired exposure, and much more, to the outside world. The inadvertent mention of the word ‘exposure’ covers not just gadgets but also the society they live in. Socialising is the buzzword. Stepping out of the four walls of the house, they have the opportunity to meet people from various walks of life and take part in various cultural events, besides the regular timetable-driven sports and educational activities. This exposure seems to have made children more aware of social cues.
+
+The other day, my colleague’s son was brooding on what to give his friend on his birthday. I travelled back in time to the 1960s, when I had an invite to attend my classmate’s birthday party at home. My daily schedule was well-scripted. Go to school, come back, relax for some time, refresh with some snacks, play with the children in our staff quarters – which, incidentally, had six families, but only two had children of my age – come back, do my homework, help Mother with her domestic chores while she simultaneously told me some stories with a moral in them, have dinner and then retire to bed.
+
+Memories floating on milkweed: Rediscovering childhood magic in natureSharad Jaipuria was my classmate and a good friend. One day he invited me and another of our classmates – Rajiv Razdan – for his birthday party at home. My experience of a birthday celebration outside of our home was limited to my classroom experience: the entire class standing up and singing the ‘Happy Birthday to you’ song, followed by the birthday boy or girl opening a box of chocolates and starting with the class teacher offering the candy to all in the class. For me personally, on my birthday, I would go to the nearby temple with my parents in the evening. This was the first time I had an invite for a birthday party at home.
+
+On the anointed day, Sharad’s car picked me up and then Rajiv from his house. He got a beautifully gift-wrapped Pilot pen set and wanted to know what I was going to present. I got the shock of my life. Little did I know that I should arm myself with a birthday present. Pocket money was unheard of then.
+
+Caught in a fix I entered the party hall and greeted the birthday boy with a handshake while others handed over some gifts before shaking hands. Being the odd one out, I wanted to quietly escape from the place but could not. Overcome by guilt at having come empty-handed, I was crestfallen and stood silently while the birthday cake was cut, balloons were burst, games were played and everyone present rejoiced. Finally, when it was time to leave, I was given a gift – like for all others – and dropped at home. I had my first lesson in the imperative need for socialising.
+
+Children may have their own challenges now, but they seem to pick up social cues much earlier.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/the-art-of-reading-social-cues-4118725)
+
+---
+
 ## 20 August 2026
 
 ### ​Due diligence: On surrogate advertising
