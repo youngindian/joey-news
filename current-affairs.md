@@ -1,3 +1,444 @@
+## 20 November 2026
+
+### BJP slams Rahul Gandhi over 'Compromised PM' post, says 'Paid to defame India'
+*Anshika Pandey · general*
+
+## BJP slams Rahul Gandhi over 'Compromised PM' post, says 'Paid to defame India'
+
+Rahul Gandhi said a "compromised PM" can't sit with Trump, Xi and Putin. BJP hit back, accusing him of defaming India and calling him a "Pakistan fanboy."
+
+A single post by Rahul Gandhi has once again put India's foreign policy in the middle of a political storm. Rahul Gandhi's post on the Trump-Xi-Putin meeting has started a fresh political fight between Congress and BJP.
+
+**What Rahul Gandhi said**
+
+Head of the Opposition Rahul Gandhi posted a picture of the unusual three-way discussions with Russian President Vladimir Putin, Chinese President Xi Jinping, and US President Donald Trump.
+
+On Friday, he posted the following on X along with the picture: "If Congress were in power, India's Prime Minister would be sitting at this table. A compromised PM can never sit at this table." His argument was straightforward. He feels that under PM Narendra Modi, India is not given a voice in important international choices. This occurred a few days after he gave a speech at the University of Chicago in the United States. Gandhi stated there that India has always had its own foreign policy.
+
+>  November 20, 2026
+
+"India has always had a very sophisticated understanding of geopolitics. We had partnerships, we had relationships, but we had a mind of our own," he said. India should be included in all significant international discussions, he continued. However, he claims that India is now a "side player" while Pakistan is occupied with negotiations with Iran and the United States.
+
+## **BJP hits back strongly**
+
+The BJP responded angrily. According to party spokeswoman Tuhin Sinha, Rahul Gandhi appears to be "paid to slander India."Additionally, he returned the accusation of "compromise" to Congress. He discussed the release of Pakistani prisoners of war under Indira Gandhi's Shimla Agreement. Later, he claimed Pakistan spread terror in India. 
+
+Sinha also raised the Sharm-el-Sheikh statement and the 2008 Congress-CCP MoU, calling UPA the most compromised government.RP Singh said Gandhi is spreading a negative story about India, while PM Modi has strong ties with world leaders. Earlier, Pradeep Bhandari had called Gandhi a "Pakistan fanboy" for praising Pakistan's diplomacy. The row shows that foreign policy has become a key battleground for both parties.
+
+---
+
+### Tiger hit by car near Chandrapur, onlookers seen disturbing injured animal | VIDEO
+*Manisha Chauhan · general*
+
+## Tiger hit by car near Chandrapur, onlookers seen disturbing injured animal | VIDEO
+
+A tiger was seriously injured after a car struck it near Khatgaon Phata in Chandrapur district, following an incident involving a two-wheeler on the highway.
+
+The injured tiger is seen baring its teeth and appearing aggressive as the noises continue. (Credit: Twitter)
+
+A tiger was seriously injured after being hit by a car near Khatgaon Phata, close to Sindewahi, on the Nagpur highway in Maharashtra's Chandrapur district on Thursday. The accident took place at around 10.15 am when the animal reportedly pounced on a two-wheeler while crossing the road and then collided with a passing car.
+
+According to _Lokmat_, Ashish Sudhakar Santoshwar, a resident of Ballarpur, was travelling with his family from Nagbhid towards Chandrapur when the tiger suddenly appeared in front of their vehicle. The car struck the animal, leaving it badly injured.
+
+The driver reportedly stopped the vehicle immediately after the collision.
+
+> Today, near Khatgaon Phata, close to Sindewahi, an unidentified vehicle struck a tiger, leaving the animal unable to walk. A large crowd has gathered at the scene, and people are provoking the tiger. #Maharashtra https://t.co/LqwbtcmYUH
+> 
+> — Siraj Noorani (@sirajnoorani) November 19, 2026
+
+**Video shows people making noises near injured tiger**
+
+A video of the injured tiger lying in bushes beside the highway has since surfaced on social media. The footage shows a crowd gathered near the animal. Some people can allegedly be heard making unusual noises in an attempt to provoke it.
+
+The injured tiger is seen baring its teeth and appearing aggressive as the noises continue. However, it remains inside the bushes and does not charge at the people standing nearby.
+
+The incident has raised concerns about the behaviour of onlookers around injured wild animals, particularly when they are already in a vulnerable condition.
+
+**Tiger shifted to Chandrapur treatment centre**
+
+Following the accident, the tiger was first taken to Savargaon, where it received initial medical attention. It was later shifted to the Transit Treatment Centre (TTC) in Chandrapur for further treatment and medical care.
+
+---
+
+### Apple Black Friday Deals on iPhone, Mac and iPad Models Revealed
+*Dhruv Raghav · technology*
+
+Apple Store Black Friday event will run through November 30 in the US.
+
+[Read full article](https://www.gadgets360.com/mobiles/news/apple-black-friday-deals-announced-iphone-17-16-air-macbook-pro-ipad-12352816)
+
+---
+
+### Chennai Unfiltered | When The Keyboard Becomes The Battlefield
+*Pragati Ratti · general*
+
+Political rivalry on social media turning uncivil will help no one, particularly the ruling party
+
+[Read full article](https://www.news18.com/india/chennai-unfiltered-when-the-keyboard-becomes-the-battlefield-ws-l-10433406.html)
+
+---
+
+### 'After 35 Years, Kashmir Free Of India-Born Terrorists': Amit Shah Hails Killing Of Last Known Active Local LeT Terrorist Lateef Bhat
+*Swarajya Staff · politics*
+
+Union Home Minister Amit Shah declared that Kashmir is now free of locally recruited terrorists born in India, marking what he described as a significant milestone after 35 years.
+
+The announcement came following the killing of Mohammad Lateef Bhat, a 22-year-old Lashkar-e-Taiba terrorist from Kulgam district, in an encounter with security forces on 18 November.
+
+Speaking at the inauguration of a two-day anti-terror conference in New Delhi, Shah described the development as a major achievement in the fight against terrorism.
+
+Bhat, who carried a reward of Rs 15 lakh, was wanted in connection with a 11 November attack on a Central Reserve Police Force post that injured three paramilitary personnel.
+
+Security forces neutralised him during a coordinated operation in Zangalpora village, Kulgam.
+
+Jammu and Kashmir Director General of Police Nalin Prabhat had earlier revealed that local terrorist recruitment had fallen to almost zero over the past two years, with only two Kashmiri youths joining terror ranks during this period. Both individuals have since been killed in separate encounters. Security sources confirmed that no fresh local recruitment has been reported in 2026.
+
+Shah emphasised the government's commitment to eliminating terrorism through coordinated efforts between state police forces and central agencies.
+
+He stressed the importance of dismantling terror financing networks and bringing fugitives hiding abroad back to India. Since 2019, authorities have brought back 303 fugitives from 36 countries.
+
+The Home Minister also highlighted successful joint operations, including the dismantling of the Popular Front of India network, as examples of effective inter-agency coordination.
+
+**Please click here to add** _**Swarajya**_ **as your preferred and trusted news source on Google**
+
+---
+
+### Super 30's Anand Kumar says AI is useful but warns against losing thinking skills
+*India Today Education Desk · general*
+
+From missing out on Cambridge University due to financial hardships to building Super 30, Anand Kumar's journey reflects perseverance and a commitment to education.
+
+Speaking at the Aaj Tak Masterclass 2026 event, Super 30 founder Anand Kumar shared lessons from his personal journey, spoke about the changing nature of education, the growing influence of artificial intelligence (AI), and the importance of perseverance, hard work and good teachers.
+
+In a conversation with Aaj Tak Senior Managing Editor Sweta Singh, Kumar also reflected on the experiences that shaped his life and inspired him to establish Super 30. Addressing students from different backgrounds, Kumar said that success was not determined by the resources available to an individual but by their determination to overcome challenges.
+
+“Resources do not matter as much as your determination. Even when circumstances are unfavourable and success does not come easily, the person who continues to fight is the real warrior,” he said.
+
+Asked what the opening scene of a film on his life would look like if he had directed it himself, Kumar recalled a deeply personal memory involving his father.
+
+He said his father would wake up early every morning, prepare two cups of tea and come to wake him up when he was a school student. Before Kumar could touch his father's feet as a mark of respect, his father would touch his feet instead.
+
+“I used to feel embarrassed and ask him why he was doing that. He would tell me, ‘Son, I believe that one day you will become a very big person. People may touch your feet and seek your blessings. Perhaps I may not be around to see that day,’” Kumar recalled.
+
+His father's words, he said, became a source of strength whenever he faced difficulties. Although his father is no longer alive to witness the respect he receives today, Kumar said the memory continues to inspire him.
+
+### ‘NEVER THINK YOU HAVE REACHED THE END’
+
+Reflecting on his journey, Kumar spoke about the challenges that eventually led him to establish Super 30. He recalled receiving admission to Cambridge University but being unable to pursue his studies because he could not afford the airfare.
+
+His father's death during that difficult period further changed the course of his life. Kumar said he had two options: take up a job in place of his father or work at a coaching centre to earn money. Instead, he chose to create an initiative that would give talented students from underprivileged backgrounds an opportunity to pursue their dreams.
+
+Speaking about the students who have passed through Super 30, he cited examples of young people from economically disadvantaged families who went on to build successful careers.
+
+He also explained that the selection process was not based solely on academic performance. The institute looked at students' willingness to learn, their genuine interest in education and whether they came from underprivileged backgrounds.
+
+Kumar said the success of the film based on his life and the recognition that followed, including the Padma Shri, could have been an opportunity to commercialise his work.
+
+“People suggested that I should launch courses for Rs 200 or Rs 500 and earn millions. But I thought about what new work I could do instead,” he said.
+
+He added that the increasing number of students approaching him after the film's release motivated him to work on a free online learning platform, without hidden charges or the sale of courses.
+
+The objective, he said, was to help students overcome their fear of mathematics and develop the ability to think about the how and why behind concepts.
+
+“Never think that you have achieved everything and that your journey is over. Whenever you reach a milestone, think about what new and meaningful work you can do next,” he told the students.
+
+### AI, EDUCATION AND THE IMPORTANCE OF THINKING INDEPENDENTLY
+
+One of the key discussions during the session centred on artificial intelligence and its impact on education and employment.
+
+Asked whether students should increasingly turn to AI instead of teachers to clear their doubts, Kumar said that AI was a useful technology but warned against becoming entirely dependent on it.
+
+He recalled how people had feared that the arrival of computers would eliminate jobs. While computers eventually transformed workplaces and made several tasks easier, he said AI was developing at a much faster pace and could not simply be compared with the computer revolution.
+
+“AI is a very useful thing, but how much we use it is extremely important. Never become completely dependent on AI. Otherwise, your ability to think and understand will not develop,” he said.
+
+Sharing an example, Kumar recalled asking a Class 4 student to write about how he felt during Diwali. Instead of writing independently, the child turned to ChatGPT for an answer.
+
+Kumar said that while he also used AI, students should not allow it to replace their own thinking, observation and creativity.
+
+He also shared an example of a young IIT graduate who had joined him as an assistant. The student initially showed strong abilities but gradually became dependent on AI for assignments and other tasks.
+
+“AI can take away certain jobs, particularly at the entry level. But the bigger concern is that people may become so dependent on it that they are unable to do anything independently,” he said.
+
+Kumar urged students to develop their powers of observation, describing it as an important quality among successful leaders, poets and thinkers.
+
+“Your ability to think is your greatest strength. Never let your thinking die,” he said.
+
+### ‘CHOOSE A GOOD TEACHER, NOT A GOOD POSTER’
+
+Kumar advised students preparing for competitive exams not to let setbacks define their abilities, stressing that missing cut-offs by a few marks did not determine their true potential.
+
+“An examination in this world does not have the power to give a complete verdict on your talent,” he said, urging students to persevere and focus on understanding subjects rather than seeking shortcuts.
+
+On choosing coaching institutes, he said students should prioritise dedicated teachers over flashy advertisements, banners and social media popularity.
+
+He also urged parents to allow children to explore their interests and discover their strengths rather than pressuring them into conventional academic careers.
+
+### ‘HARD WORK AND GOOD BEHAVIOUR CAN TAKE YOU ANYWHERE’
+
+Responding to a question about balancing personal life and career ambitions, Kumar said young people should first work towards building a strong foundation for themselves.
+
+He emphasised that sustained effort, patience and good behaviour were essential to achieving long-term goals.
+
+“Whether it takes one year, two years, four years or even six years, keep working until you achieve what you have set out to do,” he said. Asked about political and corporate offers that he had received, Kumar said he preferred to remain connected with students and continue his work in education.
+
+He said the affection and respect he received from students were more valuable to him than material success or lucrative opportunities.
+
+Kumar also reflected on the changing habits of students, saying that while distractions had always existed, the growing influence of short-form videos and social media had made many young people impatient for quick results.
+
+“Students today want to achieve everything overnight. But there is no substitute for hard work and detailed understanding of a subject,” he said.
+
+Concluding the interaction, Kumar encouraged students to remain curious and keep learning throughout their lives. He recalled his own interest in exploring new ideas, reading books and adopting emerging technologies, including the internet, to expand his knowledge.
+
+The session was part of the Aaj Tak Masterclass 2026, an initiative that brought students and young people into conversation with prominent personalities. When asked to choose between talent and hard work, Kumar picked hard work. Asked whether mathematics or life was more difficult to solve, he chose life.
+
+His final message to students was simple: remain committed to learning, keep faith in your abilities and never allow setbacks or limited resources to stop you from pursuing your dreams.
+
+\- Ends
+
+---
+
+### SpiceJet's revival story eyes another chance with Rs 5,500 crore
+*SECTIONS SpiceJet's revival story eyes another chance · general*
+
+SpiceJet's story is one of repeated setbacks and recoveries, tracing its history to 1993, when it was known as M.G. Express. It later became ModiLuft before adopting the SpiceJet name in 2005. It has since gone through multiple phases of financial stress and revival.
+
+Its first major turnaround under promoter Ajay Singh came in 2015, when the airline was close to shutting down. It returned to profitability within two years.But the grounding of Boeing 737 MAX aircraft in 2019, followed by the Covid-19 pandemic, pushed it into another financial crisis.
+
+The airline raised fresh capital in 2024, settled several old liabilities and reported a profit in FY25. Yet its cash position has weakened again, bringing it back to the market for another large fundraise.
+
+  
+
+Once among India's top airlines, SpiceJet is seeking to raise up to Rs 5,500 crore as it makes another attempt to revive its business, just over two years after raising Rs 3,000 crore, through a qualified institutional placement (QIP) for a similar turnaround.
+
+The airline has moved from the brink of closure to a period of profitability and expansion, only to return to a cash crunch that is now disrupting more than half its scheduled flights.
+
+The latest fundraising proposal, approved by the board on November 18, is aimed at strengthening the airline's finances, rebuilding its fleet and restoring operations. But the proposal comes at a critical time.
+
+ET Online
+
+SpiceJet is operating barely 15 of the around 66 daily flights approved for the winter schedule, while six recently leased aircraft remain grounded over unpaid dues to lessors.
+
+Airline executives have warned that operations could become difficult to sustain without a fresh infusion of funds within a week. The proposed Rs 5,500 crore, however, is not money the airline has already secured. It is another attempt to raise capital after earlier efforts to restore its finances and fleet failed to deliver a sustained recovery.
+
+## **From the 2015 rescue to the MAX and Covid setbacks**
+
+SpiceJet came close to shutting down in 2014, when its market share fell from 20.9% in July to 10.4% in December. It reported a loss of Rs 1,003 crore in FY14 and had just Rs 5 crore in cash by March 2015, with dues of around Rs 1,400 crore.
+
+Ajay Singh returned as promoter in February 2015, acquiring a 58% stake from Kalanithi Maran. Investors committed Rs 1,500 crore, including Rs 500 crore infused by March. The airline returned to profitability, reporting seven consecutive quarters of profit by January 2017, while its market share recovered to 12.8% in November 2016.
+
+The recovery was hit by the global grounding of Boeing 737 MAX aircraft in 2019 and the Covid-19 pandemic. In its September 2024 presentation, SpiceJet said these setbacks, along with higher fuel prices and rising operating costs, had added to its financial burden. Its operational fleet had fallen from 74 aircraft in 2019 to 28 by June 2024, with 36 of its 64 aircraft grounded because of funding constraints and unpaid dues.
+
+The airline also faced mounting lease, maintenance and airport rental costs even as fewer operational aircraft limited its ability to generate revenue.
+
+## **Another attempt to turn the airline around**
+
+By September 2024, SpiceJet had Rs 3,700 crore in outstanding dues to lessors, engineering companies and other creditors, apart from Rs 650 crore in statutory dues, according to its corporate presentation.
+
+The airline raised Rs 3,000 crore through a QIP in September 2024 at Rs 61.60 per share. This came after it had received Rs 678.19 crore from non-promoter investors through a preferential issue during January-August 2024. Its promoter group had also committed Rs 500 crore through shares and warrants. Of this, around Rs 200 crore was received initially, while the remaining Rs 294.09 crore came in March 2025 when the promoter converted 13.14 crore warrants into equity shares.
+
+Together, the QIP and preferential issuances to non-promoter investors and the promoter group amounted to Rs 4,172.28 crore over the broader fundraising period.
+
+Separately, aircraft lessors converted Rs 230.99 crore of outstanding dues into equity in September 2023. This reduced SpiceJet's liabilities but did not bring in fresh cash.
+
+The QIP proceeds were earmarked for several purposes. These included Rs 750 crore to settle dues to lessors, financiers and engineering vendors; Rs 601.5 crore for statutory payments; Rs 410 crore to restore grounded aircraft and maintain the existing fleet; and Rs 370 crore for new aircraft induction.
+
+SpiceJet subsequently reported a standalone profit of Rs 58.07 crore in FY25, compared with a loss of Rs 409.44 crore in FY24. However, this did not signal a sustained operating recovery. The airline continued to report an operating loss of Rs 465.57 crore in FY25, while gains from lessor settlements and restructuring helped lift its net result. ET Bureau had reported that FY25 was its first profitable year since 2019.
+
+## **The cash crunch returns**
+
+The airline's financial difficulties have resurfaced despite the capital raised in 2024. In June 2026, SpiceJet was facing a funding crunch that had delayed pilot salaries, as per an ET Bureau report.
+
+The airline was seeking support under the government's Emergency Credit Line Guarantee Scheme and said that external factors, including the Middle East crisis, were affecting its operations and cash flows.
+
+ET Online
+
+Its scheduled flights fell to 3,053 in May from 4,494 in January, according to data from aviation analytics firm OAG cited by ET. The airline had an operational fleet of 21 aircraft at the time.
+
+The pressure intensified in the following months. ET reported in July that aircraft lessors were seeking repossession over unpaid rentals. By November, the airline was cancelling more than half its scheduled flights daily. Six recently leased aircraft were grounded after it failed to pay lessors, and FLYONE terminated its lease agreement for three aircraft over non-payment of dues.
+
+The airline also faced a setback when Yes Bank declined to extend a Rs 350 crore loan under the Emergency Credit Line Guarantee Scheme, citing previous defaults.
+
+The financial strain has also spilled over into SpiceJet's international operations, with Dubai emerging as a key pressure point. Dubai is one of the airline's important international destinations, making the route particularly important to its overseas business. Dubai Airports suspended check-in services for SpiceJet over unpaid dues of around AED 14 million (approximately Rs 35.85 crore). The move disrupted departures to India, with four flights to Amritsar, Jaipur, Mumbai and Delhi cancelled on November 12.
+
+These developments have brought the airline back to square one. It needs fresh capital to meet obligations, restore aircraft and simply to even operate.
+
+## **What does the Rs 5,500 crore proposal promise?**
+
+The latest proposal is larger than the Rs 3,000 crore QIP raised in 2024. SpiceJet's board has approved raising up to Rs 5,500 crore through equity shares, preference shares, debt securities or other permitted instruments. The company has also approved increasing its authorised share capital from Rs 2,000 crore to Rs 7,500 crore, subject to the required approvals.
+
+The airline has said the funds will help strengthen its balance sheet, rebuild its fleet, restore operations and support expansion.
+
+Chairman and managing director Ajay Singh said that the fundraise would help rebuild the airline. “We believe this fundraise will provide an important opportunity to rebuild the airline, strengthen its operations and restore the brand,” he said.
+
+The latest announcement does not yet provide a detailed breakdown of how the proposed amount will be spent. However, earlier this month, SpiceJet had told ET Online that it is working to improve and address operational issues.
+
+“Our immediate priority is to strengthen operational stability and build greater resilience into our schedules. We are working on improving aircraft availability, optimising resources and ensuring that operational issues are addressed as quickly as possible,” a SpiceJet spokesperson told ET Online.
+
+The difference between the two fundraising efforts is also important. In 2024, SpiceJet raised capital to address accumulated liabilities and bring grounded aircraft back into service. This time, it is seeking a larger amount while facing immediate pressure to keep its existing operations running.
+
+The airline will first need to secure investor commitments and convert the board-approved proposal into actual funds. It will also need to show that the funds can improve aircraft availability, payment discipline and operational reliability.
+
+## **SpiceJet share price: A rally amid a shrinking market share**
+
+SpiceJet's latest fundraising plan comes against the backdrop of a sharp fall in its market position. Its domestic market share stood at just 0.6% in September 2026, down from 1.2% in August and 3.9% in January, according to DGCA data.
+
+The airline carried around 73,000 passengers in September, compared with 5.92 lakh in January, according to DGCA data. Its share of the domestic market has fallen sharply from nearly 15% in 2019.
+
+The decline reflects the impact of a shrinking fleet, flight cancellations and its inability to maintain capacity as aircraft remained grounded.
+
+SpiceJet shares, meanwhile, have seen a recent rally. The stock hit its 5% upper circuit at Rs 9.97 on November 18 and gained around 30% over six trading sessions.
+
+However, the share-price movement comes after a substantial erosion in the stock's value. The September 2024 QIP was priced at Rs 61.60 per share, compared with the November 18 closing price of Rs 9.97.
+
+SpiceJet's revival is important for competition in India's aviation market, where IndiGo and the Tata Group's airlines have gained a larger share. With SpiceJet flying fewer aircraft and operating fewer flights, the market has fewer established players to serve a country of 1.4 billion people.
+
+Bringing that lost capacity back cannot happen overnight, making SpiceJet's return all the more important for the wider market too.
+
+---
+
+### Planning To Gift Mutual Funds To Your Spouse? Don't Ignore These Tax Rules
+*Ankita Verma · business*
+
+Want to gift mutual fund units to your spouse without selling? Check the step-by-step transfer process and key tax rules.
+
+[Read full article](https://www.news18.com/photogallery/business/savings-and-investments/gift-mutual-fund-units-to-spouse-transfer-process-tax-rules-ws-l-10433462.html)
+
+---
+
+### ED summons Rajya Sabha MP Satnam Singh Sandhu
+*PTI · business*
+
+New Delhi: The Enforcement Directorate has summoned nominated Rajya Sabha member Satnam Singh Sandhu for examination in a case linked to alleged multi-crore fraud with investors by a Punjab-based company.
+
+The 57-year-old Sandhu is also the Chancellor of Chandigarh University.
+
+Officials said he was first summoned to appear on November 12, but since he did not appear, he has now been asked to depose on November 25.
+
+  
+
+There was no immediate response from the MP.
+
+Officials said the probe relates to a company named Vuenow, which is alleged to have orchestrated a multi-crore 'Cloud Particle Scam' where the general public's hard-earned money was siphoned off by the accused.
+
+It is alleged by the Enforcement Directorate (ED) that entities linked to Sandhu received certain funds from the Vuenow group companies.
+
+According to officials, Sandhu has been summoned to verify the nature and purpose of these transactions and does not have a direct role in the case.
+
+The ED arrested three persons in this case, including Sukhwinder Singh Kharour, the CEO and founder of Vuenow Group, and his wife, Dimple Kharour.
+
+The agency has been investigating this case since 2024 under both the Prevention of Money Laundering Act and the Foreign Exchange Management Act (FEMA).
+
+---
+
+### ‘India at an exciting moment’: SIAM's Sushant Naik on India's EV push, charging infrastructure
+*ET Online · business*
+
+The Society of Indian Automobile Manufacturers (SIAM) hosted National EV Charging Day alongside the inaugural Growth & Readiness for EV Infrastructure Dialogue (GRID) 2026 in Delhi. Speaking at the event, Sushant Naik, Chairman of SIAM's Electric Mobility Group and senior Tata Motors executive, described India's electric mobility journey as being at an exciting moment. He credited Prime Minister Narendra Modi's leadership and the government's continued policy support for advancing electric mobility ambitions and strengthening the country's domestic EV ecosystem. Naik also highlighted the progress made in translating this vision into reality.
+
+---
+
+### Tata Steel shares slide nearly 2% as EU anti-dumping duty and bearish technicals weigh
+*BL Mumbai Bureau · business*
+
+After bouncing from a 52-week low of ₹160.06 in December 2025, Tata Steel briefly reclaimed ₹190 in early November before sellers pushed it back below key moving averages. | Photo Credit: FRANCIS MASCARENHAS
+
+Shares of Tata Steel fell 1.84 per cent to ₹177.57 on the National Stock Exchange by mid-session on Friday, November 20, 2026, triggered by a new European Union anti-dumping duty on Indian cold-rolled flat steel products announced earlier this week.
+
+The European Commission on November 16 imposed a 9.5 per cent duty on certain cold-rolled flat steel imports from India, covering Tata Steel and JSW Steel among others. The measure followed a 2025 complaint by European steel industry body Eurofer and an investigation into imports from India, Japan, Taiwan, Türkiye and Vietnam.
+
+India’s 9.5 per cent rate compares favourably with Japan’s 27.9 per cent but adds cost pressure on a category of steel used in automobiles, appliances and construction. Tata Steel’s European manufacturing facilities are unaffected as the duty applies only to India-origin imports.
+
+The development compounds headwinds already visible in the company’s second-quarter results for FY2027, where the UK business continued to report EBITDA losses and Netherlands operations remained under regulatory scrutiny. Management had guided for a stronger second half, with India deliveries growing 16 per cent quarter-on-quarter in Q2 and consolidated EBITDA margins improving to 16 per cent.
+
+Technically, the stock faces significant resistance. After bouncing from a 52-week low of ₹160.06 in December 2025, Tata Steel briefly reclaimed ₹190 in early November before sellers pushed it back below key moving averages. The RSI at 44.57 signals renewed bearish momentum. The stock’s 52-week high stands at ₹224.40, hit in May 2026.
+
+Trading volume stood at approximately 3.2 crore shares by midday, with 53 per cent of orders on the buy side against 47 per cent on the sell side.
+
+Published on November 20, 2026
+
+---
+
+### India's wheat area set for biggest drop in 26 years as farmers switch crops
+*Reuters · business*
+
+India’s wheat acreage is poised for its steepest decline in 26 years as fields parched by the weakest monsoon rains in more than a decade spur farmers to switch to competing crops in search of better returns, industry officials told _Reuters_.
+
+The drop in planting, coupled with the risk of lower yields brought by a severe El Niño weather pattern, threatens to curb output in the world’s second-largest wheat producer, in turn boosting prices and complicating efforts to damp food inflation.
+
+“Wheat needs to be irrigated at least four to five times, but we don’t have enough water even to sow the crop,” said farmer Vilas Bhutekar in the Jalna district of the western state of Maharashtra.
+
+“So we chose chickpeas instead, as they require less water.”
+
+India’s main winter-sown crop, wheat usually competes for acreage with rapeseed, chickpeas and corn.
+
+India’s June-September monsoon rains were the lowest in more than a decade as the drying effect of the El Niño drove rainfall as much as 41 per cent below average in key wheat-growing states such as Punjab, Rajasthan, Madhya Pradesh and Maharashtra.
+
+“Wheat needs more water than other competing crops,” said Nitin Gupta, Deputy Country Head at agricultural trader Olam Agri India.
+
+“But water is in short supply in some regions this year, which could mean farmers plant less wheat.”
+
+Wheat was planted across 5 million hectares (12 million acres) by November 13, down 15.3 per cent from a year earlier, government data show.
+
+Planting for the 2026/27 season is expected to fall about 6 per cent from last year’s record of 33.6 million hectares (83 million acres), an average estimate by 10 industry officials shows.
+
+That would be the steepest decline since 2000/01, taking area under the crop to the lowest in four years at 31.58 million hectares (78 million acres).
+
+## Crop shift
+
+Wheat acreage is expected to stay largely steady in the key northern states of Haryana and Punjab, which have access to reliable irrigation.
+
+But farmers in other states are likely to shift from wheat to less-thirsty crops such as chickpea and rapeseed, industry officials said.
+
+Prices of these crops have risen much more than wheat, prompting farmers to shift acreage away from the grain, said Sandeep Bansal, Director of a flour miller based in the northern state of Uttar Pradesh.
+
+“Wheat is usually farmers’ first choice, but this year other crops are giving better returns,” Bansal said.
+
+The state-run Food Corporation of India buys wheat from farmers at the minimum support price, which New Delhi raised this year by just 1 per cent to ₹2,610 per 100 kg, the smallest increase since 2002/03.
+
+“The government typically incentivises wheat planting by raising procurement prices by 5 to 6 per cent annually,” said a New Delhi-based trader with a global trade house.
+
+“This year’s 1 per cent hike is, in fact, discouraging farmers from expanding wheat acreage.”
+
+Published on November 20, 2026
+
+---
+
+### Yashasvi Jaiswal, KL Rahul End India's Three Decade Wait With Terrific Opening Stand vs New Zealand
+*Unknown · sports, cricket*
+
+A blazing 85 off 89 balls from Jaiswal and an unbeaten 52 off 116 deliveries from Rahul lifted India to 159/1 in 39 overs at stumps on Day 2 of the first Test against New Zealand
+
+[Read full article](https://sports.ndtv.com/new-zealand-vs-india-2026-27/yashasvi-jaiswal-kl-rahul-end-indias-three-decade-wait-with-terrific-opening-stand-vs-new-zealand-12353158)
+
+---
+
+### Nepal PM Balen Shah’s First India Visit: Meeting With PM Modi, Big Deals On Agenda
+*Pragati Ratti · general*
+
+The trip assumes significance as both countries seek to give fresh momentum to ties under Nepal’s new government, which has adopted a more assertive approach to its foreign policy
+
+[Read full article](https://www.news18.com/india/nepal-pm-balen-shahs-first-india-visit-on-november-22-23-meeting-with-pm-modi-big-deals-on-agenda-ws-l-10433679.html)
+
+---
+
+### Delhi Weddings Get A Smog Makeover: Why Masks And Air Purifiers Are On The Guest List
+*Parishmita Saikia · general*
+
+Delhi's pollution is changing wedding plans, from air purifiers and covered venues to matching face masks. Could smog become a bigger concern than the winter chill?
+
+[Read full article](https://www.news18.com/cities/new-delhi-news/delhi-weddings-get-a-smog-makeover-why-masks-and-air-purifiers-are-on-the-guest-list-cx-amz-ws-l-10433634.html)
+
+---
+
+### ‘India is a side player’: Rahul Gandhi questions India's Iran-US role, BJP, Shiv Sena hits back
+*ET Online · business*
+
+Lok Sabha Leader of Opposition Rahul Gandhi questioned India's global role, saying it had stepped back while Pakistan negotiated with Iran and the US. Speaking in Chicago, he argued that India, with ties to Washington, Tehran and Moscow, should have a stronger global voice. He invoked India's historic leadership of the Non-Aligned Movement and questioned the focus on personal friendships in diplomacy, citing PM Modi's ties with Donald Trump and Vladimir Putin. His remarks drew criticism from BJP leaders Sudhanshu Trivedi, CR Kesavan and Tarun Chugh, and Shiv Sena leader Anand Dubey.
+
+
+---
+
 ## 19 November 2026
 
 ### NLC India Renewables files for ₹3,300-crore IPO
