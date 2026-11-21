@@ -1,10 +1,116 @@
 # Editorials
 
-_Last updated: 2026-11-20 08:58 UTC_
+_Last updated: 2026-11-21 08:39 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 21 November 2026
+
+### Three to tango: On Trump, Xi, Putin trilateral summit
+*The Hindu · Editorial*
+
+The first trilateral summit between the Presidents of China, the U.S. and Russia, held in Shenzhen on November 19, reflected both the changing global order and the leaders’ shared desire to remain engaged with one another in an increasingly unpredictable world. For U.S. President Donald Trump, the summit was a platform where he could push for joint talks between the world’s three largest nuclear powers on reducing nuclear warheads. After the New START treaty between the U.S. and Russia expired in February 2026, Moscow had signalled that it was ready for talks, but Mr. Trump wanted to involve China as well. For President Xi Jinping, the summit reinforced China’s position as a peer competitor to the U.S. While Russia seeks to deepen partnership with China, the U.S. is looking to build strategic stability. And for Russian President Vladimir Putin, whom the West sought to isolate after he launched the invasion of Ukraine, the summit offered a seat at the high table. The decision to start trilateral talks on nuclear arms and the joint declaration, which stated that ‘a nuclear war cannot be won and must never be fought’, are steps in the right direction. But much will depend on what follows.
+
+Many had compared the meet to the 1945 Yalta Conference, when Russian leader Joseph Stalin, U.S. President Franklin D. Roosevelt and British Prime Minister Winston Churchill met to discuss the future of post-War Europe. But Shenzhen was not a summit of the victors of a major war. This was more about three great powers setting terms of engagement in a changing world. The summit failed to achieve any breakthrough on any of the issues on the agenda — nuclear arms reduction, non-proliferation or the Ukraine war — or even offer a road map for the future. Moreover, it is not clear if the Shenzhen spirit could be sustained in the medium to long-term as another President in the U.S. could take a very different approach towards Russia and China. The three leaders have called for reform of the UN. While it is a welcome move, any attempt to reform the international system and institutions must also involve other powers, particularly rising middle powers such as India, South Africa and Brazil. But the Shenzhen framework could bring greater stability and predictability to great-power relations. This is important given that two of the Big Three are currently waging two separate wars. The leaders should draw up a clear road map for nuclear talks and other key issues outlined in the Shenzhen declaration, with realistic and achievable objectives. Otherwise, the summit would amount to little more than another diplomatic photo-op.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/three-to-tango-on-trump-xi-putin-trilateral-summit/article71725845.ece)
+
+---
+
+### India’s civilisational gambit in China’s backyard
+*The Hindu · Opinion*
+
+There are buildings which hold memories that run deeper than those of the people walking within them. The Purana Qila is one of them. The walls of the Purana Qila were built by Sher Shah Suri during the 16th century, and as per tradition and substantial archaeological evidence, the ancient city of Indraprastha can be found under it. And now, beginning November 20, the Ministers of culture of the Shanghai Cooperation Organisation (SCO), along with dialogue partners from over 25 countries, have gathered within the walls of the Purana Qila for the first Civilisational Dialogue Forum of the SCO. The idea was proposed by Prime Minister Narendra Modi during his visit to Tianjin in 2025, and is being conducted by the Ministry of Culture along with the Ministry of External Affairs.
+
+If one wants to have a better sense of why India wants to host such a forum, one needs to realise that the term ‘civilisation’ has become a contested territory in international politics. In the two decades since the end of the Cold War, the West had a monopoly over the language of universal principles such as democracy, markets and human rights. While the language was meant to be universally applicable, it implicitly belonged to those who had written the textbooks.
+
+Emerging powers while not rejecting the language, have relativised it. Beijing, for example, moved quickly to institutionalise it. Xi Jinping unveiled the Global Civilization Initiative in 2023. One year later, the UN General Assembly, on a Chinese initiative, designated June 10 as the International Day for Dialogue among Civilizations. In association with the 2023 initiative, China also organised a Ministerial-level meeting of the Global Civilizations Dialogue in July 2025, while the Nishan Forum on World Civilizations launched its 12th edition in September 2026 with the theme ‘Civilization, Order, and Justice’ at the birthplace of Confucius. Even the Internet conference at Wuzhen this month featured a sub-forum dedicated to civilisation. Clearly, China is not just experimenting in this area; it is developing a franchise which signals a much-recycled message — that modernity has many addresses.
+
+India has viewed these developments with the look of a man who has found someone selling his family silver at the fair. After all, India has the better claim of being the centre of civilisation than many of the current claimants vying for the position. The conference in Delhi is India’s attempt to set up its own stall in an organisation that has its secretariat in Beijing. It also fits a pattern of agenda-setting, with the AI Impact Summit earlier this year and the BRICS chairmanship now.
+
+The behaviour of a great power is driven more by what it believes about itself than by what it states as its objective. There are three objectives of India here, and only one is explicitly stated: soft connectivity, which includes Buddhist circuits, Sufi lineages and the trade routes that ran from Taxila to Samarkand much before anyone drew maps.
+
+[Read full article](https://www.thehindu.com/opinion/lead/indias-civilisational-gambit-in-chinas-backyard/article71725816.ece)
+
+---
+
+### Snapshots of great power spectacle
+*Deccan Herald · Editorial*
+
+The November 19 trilateral meeting between China’s President Xi Jinping, Russia’s Vladimir Putin, and the United States’ Donald Trump on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen might not have produced much, but it was high on symbolism. In that sense, this meeting was more like a blockbuster potboiler – high on spectacle, low on substance. One of the topics discussed was nuclear disarmament. Other highlights included reforming the United Nations, recognising that the International Criminal Court (ICC) must not “abuse” its power, and increasing fuel production and supply. Surely, a ‘historic’ meeting demanded more concrete decisions than these.
+
+For each of the three strongman leaders, this meeting met different objectives, both internationally and in sending a message to their respective domestic constituencies. For Putin, who has been persona non grata at the global high table since Russia’s invasion of Ukraine, this was a form of redemption. For Trump, the meeting was an opportunity to show, especially to his MAGA supporters, that he is no lame-duck president after the Republicans’ midterm setback. Unlike the other two leaders, both of whom are facing mounting domestic pressure, Xi emerges as a clear winner. By hosting the trilateral, China projects itself as a champion of stability and an indispensable leader in managing global issues. The meeting boosts Xi’s personal authority domestically.
+
+China to host APEC summit in Shenzhen with historic Trump, Xi, Putin trilateral meetComparing the Shenzhen trilateral to the Yalta Conference of 1945, which saw Britain, the Soviet Union, and the US discuss Germany’s defeat and Europe’s postwar reorganisation, is misleading, except for one aspect. In 1945, the Big Three had a common enemy in Nazi Germany; today, there isn’t a common enemy to all three. If two Western democracies and a Communist state met at Yalta, in Shenzhen, the balance has shifted in favour of authoritarian states – and that should concern democracies around the world. It is highly unlikely any other US president would have agreed to this trilateral given the state of US-Russia ties and US-China rivalry.
+
+But Trump is not one to let go of a good photo-op – and that’s where Shenzhen 2026 is similar to Yalta 1945. Post-Yalta, great power co-operation soon ran into the fog of the Cold War, and whether Washington will follow up on Shenzhen will depend on who succeeds Trump in the White House. The photograph of Winston Churchill, Franklin D Roosevelt, and Joseph Stalin was a defining image; the photographs of Trump, Xi, and Putin are likely to remain just snapshots.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/snapshots-of-great-power-spectacle-4225947)
+
+---
+
+### Taxi rules: Reform takes the long route
+*Deccan Herald · Editorial*
+
+The Karnataka government’s decision to revisit its decade-old app-based taxi regulations is overdue; the rules framed in 2016 predate the scale and complexity of ride-hailing. But the changes announced by Transport Minister Byrathi Suresh, including compulsory digital meters in all taxis from 2027, raise an important question: is the government preparing the sector for the future, or regulating it with instruments borrowed from the past? The intention is understandable.
+
+Passengers need protection from arbitrary fares, opaque platform charges, and steep surge pricing. A fare that doubles or triples during rain, peak hours, or late-night travel can make an essential service unaffordable. App-based companies cannot operate as a law unto themselves. Since algorithms determine prices and allocate rides, it is only fair that aggregators are held accountable for services offered under their licences. Yet physical meters may not suit every journey. An app booking typically displays an upfront fare. A meter running alongside it could produce a different amount because of traffic, diversions, or waiting time, leaving passengers and drivers disputing which figure is binding. GPS-based fare calculation, backed by a government-certified digital audit trail, may be more practical.
+
+Bike taxi drivers, ride aggregators push for clear regulations after SC verdictThe experience with autorickshaws shows that hardware alone cannot ensure compliance. Despite mandatory meters, passengers face refusals, arbitrary fares, and unpleasant haggling. Thus, traditional auto drivers cannot attribute all their difficulties to app companies. However, the imbalance in enforcement must be acknowledged. While auto drivers are routinely fined, app-based drivers who often cancel after accepting bookings, and platforms that impose high surge prices, go unpunished. Regulation must apply equally to both. The government’s policies should also reflect market realities. The decision to halt fresh registrations of Green SM, the Vietnamese firm’s electric-vehicle taxi service that offered much lower fares, sends the wrong signal. Blocking lower-cost, cleaner alternatives to shield incumbents hurts commuters and undermines healthy competition.
+
+The government should explore a middle path. It should cap surge pricing through a transparent fare band, regulate platform fees, require itemised disclosure of the final fare (clearly separating the base fare, surge charges, and waiting fees) and penalise unjustified cancellations. When passengers can see exactly how much is charged for distance versus peak demand, hidden mark-ups become harder to disguise and easier for regulators to audit. Regulation should restore fairness and competition, not entrench outdated practices. The commuter, not the competing interests of unions and platforms, must remain at the core of any policy change.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/taxi-rules-reform-takes-the-long-route-4225948)
+
+---
+
+### A home test in climate diplomacy: India's global climate demands need domestic action
+*Deccan Herald · Opinion*
+
+At COP31 in Antalya, Union Environment Minister Bhupender Yadav reiterated India’s case that current warming results from two centuries of unchecked emissions by Global North countries. He argued that asking the Global South to pay for that history in the name of “higher ambition” is therefore unjustified. The minister urged industrialised countries to meet their finance obligations under Article 9.1 of the Paris Agreement “honestly and expeditiously”, and called equitable access to the remaining carbon budget non-negotiable.
+
+The grievance is well-founded. India bears little responsibility for the problem it is being asked to help solve. According to Carbon Brief’s historical emissions estimates, it has contributed about 3% of cumulative global carbon dioxide emissions since 1850, against roughly a quarter for the United States and about a sixth for the European Union. India’s per capita emissions of about 2.2 tonnes remain far below the world average. Rich countries have also been slow to pay. The OECD counted the $100 billion a year promised from 2009 as met only in 2022.
+
+Yet India applies this equity argument only externally. If a carbon budget must be shared fairly among nations, it must also be shared fairly among Indians. But it is not: emissions within India are sharply unequal.
+
+Drawing on World Inequality Lab data, the Observer Research Foundation estimates that the poorest half of Indians emits about 1 tonne of carbon dioxide per person a year, against a national average of 2.2 tonnes and about 8.8 tonnes for the richest tenth. That tenth accounts for roughly 40% of consumption-based emissions. A Research Institute for Humanity and Nature assessment estimated that the top 20% of high-expenditure households generate seven times the emissions of the poorest households.
+
+The reasons are clear. Poor households emit little because their energy use is limited to basic cooking and lighting. Much of the higher consumption among the top decile is associated with private cars, air travel, and large air-conditioned homes kept cool through long summer months. Low emissions among the poor reflect scarcity, while high emissions among the rich reflect choice. India cannot cite the needs of its poor to defend the lifestyles of its rich.
+
+Global South can't bear burden of historical emissions in name of 'higher ambition': India at COP31New Delhi’s commitments leave this inequality untouched. Its 2022 submission to the UN pledges to cut the emissions intensity of GDP by 45% from 2005 levels by 2030. An intensity target allows total emissions to keep rising as the economy grows, but it says nothing about who consumes the carbon space that growth uses.
+
+The 2070 net-zero date gives India decades of leeway. A country that claims this leeway in the name of its poor should be able to show that the poor are its beneficiaries.
+
+Coal illustrates the gap between that claim and the practice. It still supplies about three-quarters of India’s electricity, and annual domestic output crossed one billion tonnes in 2024-25. At Glasgow, India pressed for the final text to say “phase down” instead of “phase out” for unabated coal power. That may be defensible for a developing economy. But it is much harder to defend when the costs of expansion fall on those with the least power to resist it.
+
+In Chhattisgarh’s Hasdeo Arand forest, coal blocks were opened for mining despite sustained opposition from Adivasi residents. A private company, Adani Enterprises, serves as the mine developer and operator for a Rajasthan state utility.
+
+India has shown that it can deliver when it chooses. It reached 50% non-fossil installed power capacity in 2025, five years ahead of its pledge. The same seriousness can be applied to demand. Cities need larger bus and metro systems so that commuters can rely on public transport. Luxury consumption, such as private jets and large sports utility vehicles, can be taxed at higher rates, with the revenue directed to clean cooking and housing. The Carbon Credit Trading Scheme should enforce progressively tighter emissions-intensity targets on heavy industry.
+
+None of this denies India’s right to develop. Hundreds of millions of Indians still need reliable power and safe cooking fuel, and meeting these needs will raise emissions. The question is whether the remaining carbon space is used to meet those needs or to sustain the lifestyles of a privileged minority and the industries that serve them.
+
+India’s diplomats are right to demand that the rich world honour its promises. Their case will carry more weight when New Delhi can show that it keeps similar promises to its own poorest citizens.
+
+(The writer is an assistant professor with the Department of Professional Studies, Christ University, Bengaluru)
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/a-home-test-in-climate-diplomacy-indias-global-climate-demands-need-domestic-action-4225950)
+
+---
+
 ## 20 November 2026
+
+### Going public on AI: On Anthropic IPO
+*The Hindu · Editorial*
+
+The Initial Public Offering (IPO) of Anthropic, PBC is a mile marker in the arms race to develop superintelligent systems driven by generative AI. Traders valued the firm at $1.27 trillion, a denomination that is bound to become more and more familiar in an industry backed by an endless appetite for capital and unprecedented forms of financialisation. Anthropic’s statements emphasise warnings on the safety of its systems and the consequences of unbridled development of advanced systems. In the history of the development of this technology, this PR spin may just be a blip. After all, their testing has led to AI agents that have broken out of sandboxes and infected unsuspecting organisations’ internal systems: a deluge of agentic chaos that is already a reality has led to little signs of the firm backing its words with action. A familiar trend is playing out, with open source LLMs showing frontier capabilities that can back their erratic impulses, appearing in the space of just months, or sometimes weeks. Advocates of pacing the frontier and managing these emerging risks have been marginalised in a way that has little precedent in this century. It is time for governments to get involved, and specifically, for India to raise its voice on these risks, loudly and unequivocally.
+
+While India’s AI industry is nascent, its positions on international forums carry the weight of a sixth of humanity. A mix of cynical calculations and practical considerations have blunted the use of that voice, for example in the U.S.’s hugely destabilising war of choice against Iran, and Israel’s ongoing genocide in Gaza. In taking a strong position on what could be the defining transformation of this decade, India has little to lose, and a lot to contribute. India’s AI policies are geared towards diffusion and research of helpful capabilities that can trickle down to the common citizen. The capabilities that the Union government and State governments seek to boost by leveraging AI are removed from the frontier research wreaking havoc within the information security profession around the world. Out-of-control AI agents promise, moreover, significant disruption to outdated government and private systems online. While India has little commercial leverage to curb San Francisco’s accelerationism, its voice is sure to be noticed. India’s focus on AI in international fora, such as the AI Impact Summit in Delhi, has been on consensus. This approach must change. India cannot be silent amid a U.S.-China technological race which could lead to catastrophic damage. New Delhi must not allow the U.S. to stop it from pushing for AI safety.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/going-public-on-ai-on-anthropic-ipo/article71725849.ece)
+
+---
 
 ### Incomplete remedies: On Special Summary Revision of electoral rolls
 *The Hindu · Editorial*
@@ -60,6 +166,64 @@ But these are all issues that must be explained to the people back in India; it 
 
 ---
 
+### DC Edit | Why Modi Wants Corporate India To Share Its Prosperity
+*Deccan Chronicle · Editorial*
+
+Prime Minister Narendra Modi, widely regarded as business-friendly, delivered one of his sharpest public reprimands to corporate India on Thursday. His criticism was not about the failure of businesses to generate wealth, but about their reluctance to share the benefits of economic reforms with employees and society.
+
+Referring to his government’s decisions to improve Ease of Doing Business, and lowering of tax incidence, Mr Modi asked industrialists whether they had increased employees’ salaries or expanded their workforce. His also bluntly pointed observation that businesses remained perpetually hungry for more profit was unusually candid.
+
+Mr Modi’s speech touched upon a fundamental contradiction in modern capitalism: Governments extend concessions to businesses expecting economic growth, while companies remain accountable to their shareholders.
+
+In capitalism, businesses do not recruit employees as an act of corporate social responsibility. They hire when additional manpower is necessary to expand production, deliver services or sustain operations. Similarly, salaries rise when employers face competition for talent or productivity pressures.
+
+India witnessed substantial salary increases during the influx of foreign investment and expansion of multinational operations before the 2008 global financial crisis. The information technology sector experienced another extraordinary wage cycle during the pandemic, when intense demand for digital services created fierce competition for skilled professionals.
+
+Conversely, when labour is abundant and employment opportunities are scarce, companies have little commercial incentive to raise salaries substantially. While tax concessions alone cannot overturn these market dynamics, businesses, too, must understand this.
+
+Over the past decade, corporate India has benefited from significant policy changes. The reduction in the standard corporate tax rate for eligible domestic companies to 22 per cent. The introduction of GST replaced multiple indirect taxes, reduced cascading taxation through input tax credits and accelerated formalisation of the economy.
+
+Large organised businesses also benefited from the gradual shift of economic activity towards formal channels. These reforms were not intended to merely improve corporate balance sheets but to strengthen the economy as a whole.
+
+The combined profits of companies that the Reserve Bank of India tracks increased over five times, while employment cost increased 1.7 times between 2014 and 2026. Of this, the IT sector has a predominant share. This metric proves what Mr Modi was complaining about.
+
+There is also a larger warning here. Capitalism derives its legitimacy not merely from creating private wealth, but from generating opportunities and prosperity across society. When businesses repeatedly seek concessions while the benefits remain concentrated among shareholders and senior executives, public resentment can grow.
+
+Such resentment could eventually strengthen anti-capitalist sentiment and demands for greater state intervention. A return to the restrictive economic environment associated with the Licence Raj would serve neither businesses nor workers nor the country.
+
+Corporate India must recognise that sharing prosperity is not charity and it is essential to sustaining the economic system that enables businesses to prosper. If you don’t water a tree, you won’t get to enjoy its fruits.
+
+This does not mean that companies must hire unnecessary workers or offer unsustainable salary increases. But it requires a longer-term commitment to fair compensation, workforce development, productive investment and responsible distribution of economic gains.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-why-modi-wants-corporate-india-to-share-its-prosperity-2006413)
+
+---
+
+### DC Edit | Will Myanmar Repent Rohingya Genocide?
+*Deccan Chronicle · Editorial*
+
+After thousands of people belonging to the minority Rohingya were killed, the women raped, the children brutalised and villages burnt in the northern Rakhine state of Myanmar by the military, a verdict of genocide has been handed down by the International Court of Justice.
+
+The mass killings and widespread violence against women perpetrated in 2017 were exposed to the world years ago, and this is the first time that a state — the Republic of the Union of Myanmar — has been found guilty of genocide after a case was filed seven years ago, and evidence gathered expressed was in court and an exhaustive legal process gone through before a considered verdict was delivered.
+
+It is a shame on the Myanmar military that they should have carried out such brutal operations on the minority community with Judge Yuji Iwasawa ruling emphatically that “Myanmar’s forces had killed thousands of Rohingya civilians.”
+
+The violence unleashed would have been so brutal in its targeting of a section of the people that to flee would have been the only option for survivors.
+
+But, in a land in which the military junta virtually rules on, though in the name of democracy after conducting staged polls, it would be unrealistic even to expect expressions of contrition.
+
+Given the opacity of the country in a setting far removed from the normal as seen in the rule of law as it operates in neighbouring nations, it is highly unlikely that there will ever be reparations.
+
+It is also doubtful if the thousands who fled would wish to return to their homeland expecting to be welcomed back with open arms. The question then arises as to what the United Nations can do to render justice to the Rohingya, whether they chose to stay on or left Myanmar in a hurry in 2017.
+
+The ICJ order is not likely to make a great impact though Myanmar has been adjudged guilty whereas in the case of Israel and its actions against the people of Gaza, it has been held guilty only by the UN Independent International Commission of Inquiry and the ICJ is yet to rule finally in the matter.
+
+Beyond the technicalities, what the cases have been able to bring out so far is the sheer inhuman acts on fellow human beings. It would be more of a disgrace if the army as in the case of Myanmar or a nation’s leaders like those of Israel who ordered the carpet bombing of Gaza get away scot-free after abusing the rights of fellow human beings and even massacring them in thousands.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-will-myanmar-repent-rohingya-genocide-2006436)
+
+---
+
 ### America’s Female Surge And India’s Wake-up Call
 *Deccan Chronicle · Opinion*
 
@@ -87,6 +251,65 @@ Anger over Big Tech’s impunity on its tools being used for sexual abuse and...
 
 ---
 
+### As Charles Says ‘So Sorry’, Lenny  Says ‘Show Me The £18 Trillion’
+*Deccan Chronicle · Opinion*
+
+“Memories of when the skies were grey
+
+And yes, also when the sun was bright
+
+No, no regrets for the passing day
+
+But some thoughts bring on emotional blight?”
+
+—From Cull Key Kahani by BachchooKing Charles III, Head of the Commonwealth (for now?) with his Queen Camilla, visited three states of the Caribbean. Addressing their people, he expressed deep sorrow for the involvement of Britain in the slave trade of earlier centuries, the transfer of captive populations to work on the plantations of these islands and in Guyana. He acknowledged that it was a shameful period of British history but avoided saying anything about his contemporary Britain paying ‘reparations’.
+
+Charles implied that this question of reparations, which is a frequently debated subject in these and other territories with populations descended from slaves, and in certain circles in Britain, was a matter for the elected governments of the UK — and not answerable within the powers of its monarch.
+
+The question of reparations is a vexed one (not angry, but complicated to resolve). To whom would the reparations be paid? The generations subjected to the cruelty of slavery are long gone.
+
+And yes, their descendants in the territories, the inheritors of the conditions prevalent in the era of slavery may suffer some of the consequences of having been subject to that history.
+
+One may say the same of the descendants of the peasantry and the working classes of Dickensian Britain!
+
+Now, addressing this question of reparations, the British black comedian Lenny Henry, in collaboration with the writer and TV personality Marcus Ryder, has published a controversial book entitled The Big Payback: The Case for Reparations for Slavery and How They Would Work.
+
+The book suggests several ways in which the British treasury can implement these ‘reparations’. Henry, famous for funny but awful stereotypes of British black and African characters — variously known as Algernon Razzmattaz, Theophillus P. Wildebeest, Trevor McDoughnut — and Ryder calculate that Britain owes £18 trillion in reparations.
+
+How they came to this sum is, to me, a mystery.
+
+I can, of course, in these circumstances, refer you, gentle reader, to their earlier book The Fascinating Sands of Dover Beach, in which they describe standing on the white cliffs of Dover, looking down on the beach and expertly calculating the number of grains of sand on it.
+
+Yes, OK, there’s no such book, but I’m sure you get the point and the absurdity of putting a figure on what the UK owes in reparations — to whom?
+
+Obviously, Henry and Ryder have taken it upon themselves to suggest an answer to the above query. To whom will this money go? One of their suggestions, as careless as the rest, is that the money should be distributed amongst the black population of Britain, most of whom are immigrants, or descendants of immigrants, from the lands of the Caribbean and Africa which would have inherited poverty from the history of slavery. Fair enough?
+
+Let’s do the sums. The black population of Britain amounts to between 2.5 million and 3 million. Let’s take the larger figure. My desk calculator tells me that each person would receive £6 million. So as soon as the distribution takes place, Algernon Razzmatazz, Theophillus P. Wildebeest, Trevor McDoughnut and naturally the tribal African character in a grass skirt with marked body paint, with the favourite, constant punctuation in his speech of the word “Katanga” whom Lenny Henry portrayed on TV, will be millionaires six times over.
+
+Gosh! Unfortunately, India wasn’t a source of slaves — though Indians were indentured — and one may, in our happy world, be able to change gender, but there’s no way I can become racially black or ex-West Indian.
+
+Deprivation, thy initials are F.D.
+
+My late friend, the Trinidadian philosopher C.L.R. James whose biography I have written (and is available on Amazon!) — [How many Fuckleberry Hinng times have I told you, you can’t advertise your rubbish here? — Ed.]
+
+had a very amoralistic, dialectical materialist view of history. He always maintained that slavery, with all its inhuman cruelty was the phase in history which brought African tribals into the Western world and, therefore, into the Western intellectual tradition.
+
+The cruellest manifestation of his belief was when I was, at his behest in his rooms, serving claret to three visiting American black activists, who talked in sentimental terms about the historical outrage of slavery. C.L.R. shut his eyes for a few seconds.
+
+“I know, and I’ve shed my tears over slavery,” he said, “but you know what slavery did in
+
+the material world? It forced the Europeans to build larger ships.”
+
+The Americans, outraged, walked out. I asked him why he’d said that. He said “because it’s true and I’m fed up of victimisation history!”
+
+And then there was the occasion when I was chairing a packed meeting at which C.L.R. was speaking about American women writers.
+
+When the presentation was...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/as-charles-says-so-sorry-lenny-says-show-me-the-18-trillion-2006452)
+
+---
+
 ### Rising Student Suicides Expose Gaps In Strategy For Prevention
 *Deccan Chronicle · Opinion*
 
@@ -105,6 +328,49 @@ A helpline is often the first point of contact, but cannot replace sustained pro
 Educational institutions also have a major responsibility. In July 2025, the Supreme Court issued 15 nationwide directions requiring schools, colleges and coaching centres to provide qualified counsellors, confidential support, referral protocols and staff training. They also prohibit public shaming and academic segregation, and mandate safer residential environments and harassment-reporting systems. Besides, state governments, universities and regulators must monitor compliance and publish anonymised annual reports. Crucially, counselling cannot mean assigning an untrained faculty member. Additionally, academic calendars, assessment schedules, grievance redressal, hostel supervision and teacher conduct also need regular review, with clear and confidential complaint mechanisms for students and parents. However, it is quite unfortunate that recent RTI disclosures have revealed a serious implementation gap: several IITs fall short of the UGC-recommended ratio of one mental ...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/rising-student-suicides-expose-gaps-in-strategy-for-prevention-2006072)
+
+---
+
+### Six Months In, BJP In Bengal Has No Plan B
+*Deccan Chronicle · Opinion*
+
+Like a new car that begins losing value the moment it leaves the showroom, because depreciation sets in,
+
+the truth is that as soon as the Bharatiya Janata Party swept the West Bengal elections, the meter began ticking. The political capital the Suvendu Adhikari administration inherited has eroded over the past six months.
+
+As a brand new party that has never before been in power in West Bengal, there was an expectation BJP would be a real alternative to the homegrown parties, namely the Trinamul Congress and the Communist Party of India (Marxist)-led Left Front coalition. No one under 55 remembers the
+
+Congress as a ruling government.
+
+The drama of politics, which is what voters consume, requires an antagonist. Lacking an Opposition, the BJP is floundering. Decimating the Trinamul Congress, it now appears was not a very good idea. Naming Mr Adhikari as the only alternative was also not a good plan;
+
+without a challenger in sight, the chief minister is like a car without brakes.
+
+The problem is the BJP wanted to win in West Bengal and it needed a “face” to challenge Mamata Banerjee. Therefore, Mr Adhikari was nurtured to serve as a “face”. It did not matter then that he was probably not the best leader to head a government. It matters now, when the BJP has been
+
+in power for six months and Mr Adhikari is unlikely to be disoldged in a hurry.
+
+The BJP administration has certainly proved exceptional, but in ways that have shocked voters, across all classes and even political loyalties.
+
+Never before have Bengalis been required to defend their right to buy and read books. The violence on College Street, over temporary book stalls set up by Left students unions, by Akhil Bharatiya Vidyarthi Parishad cadres with bombs, fire crackers, assaults, even eggs, in full view of the public and the police, who continue to operate as bystanders rather than a preventive force, has reconfirmed that West Bengal is now set on a wholly new trajectory.
+
+College Street with its makeshift-but-sort-of-permanent book stalls is a destination. It is a combination of a site of pilgrimage as well as a metaphor of a deep reverence for education, freedom, rights, protest and culture. Vandalism and violence are not new to College Street; it has a history that predates Independence as a location of nationalist mobilisations and a place where new generations of students engaged in political action. During the heyday of the Naxalite movement, College Street would regularly turn into a battleground for students. Books and bookstalls were never a part of the fight.
+
+No one in living memory recalls episodic acts of violence against Christians in rural and urbanised areas across West Bengal. The state and its nerve centre, Kolkata, have experienced Hindu-Muslim clashes, curfews to bring such clashes under control, even route marches by the army, called in by ruling governments to signal that the toughest measures would be taken if the communal violence did not end.
+
+Winning West Bengal was like sweeping the jackpot. It was the start of what the BJP was expected to deliver to West Bengal as a reward for the popular mandate it won. The list was short and bittersweet. The vote was a negative endorsement of the BJP; voters, overwhelmingly the middle class, wanted a change. The belief was, the BJP was the only alternative.
+
+The goal of the new direction that the Suvendu Adhikari government has ushered in with the backup of “double engine” support from the Narendra Modi-led BJP coalition at the Centre is the transformation of the state. That was the promise by BJP to voters when it canvassed for support. In West Bengal that transformation has key elements, fixed by the history of the state’s economic decline from 1947 and the embedded notion that its decline is, among other things, a product of the Centre’s discrimination.
+
+Economic change, jobs, employment opportunities, more money and greater sense of well-being is how voters measure the performance of governments. West Bengal is not an exception. Emotive as the “Bangladeshi” infiltrators can be and the need to detect and deport them and in doing so rid the Hindu majority West Bengal of
+
+a menace that through political patronage acquired documents that helped them to masqurade as citizens, the issue was always a pressure point, not the substance on which real expectations are founded.
+
+From the BJP, voters wanted a change; an end to the increasingly avaricious Trinamul Congress and the corruption-intimidation culture it had fostered. Six months on, voters and the BJP are dealing with the nexus between cash and politics. The networks of party functionaries engaged in corruption has been acknowledged by the BJP’s state leadership. Show cause notices and expulsions have had no effect.
+
+The BJP as the ruling party has failed to withstand the power of the networks that were six months ago operating in the name of the Trinamul Congress and have now switched loyalties, because wearing the ruling...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/six-months-in-bjp-in-bengal-has-no-plan-b-2006424)
 
 ---
 
@@ -21564,245 +21830,6 @@ For years, governments and corporations believed they could outrun the rising co
 Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
 
 [Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Aug/22/govts-carry-trade-a-rising-global-risk)
-
----
-
-## 22 August 2026
-
-### DC Edit | On Water, Southern States Refuse To See Eye To Eye
-*Deccan Chronicle · Editorial*
-
-It was a peace-making confluence that, ironically, let differences and animosity spill over into the open, giving rise to the doubt if the southern states could ever see eye to eye on issues concerning water. Though Union home minister Amit Shah, the presiding deity of the gathering, batted for better cooperation among the state governments, the chief ministers, whom he was addressing, were in no mood to listen to him but pressed for the long-persisting demands of their states, turning the Southern Zonal Council into an anachronism.
-
-While Amit Shah claimed that the Council resolved 1,445 of 1,869 interstate disputes that came up before it from 2014, the proceedings at the Fishermen’s Cove beach resort on Thursday made an observer doubt if that rate of success — around 80% — could be achieved hereafter.
-
-The issues that were raised at the conclave of chief ministers, lieutenant governors and administrators of the southern states and Union Territories were caused by the same bad blood that had engendered riots, agitations, protracted legal battles and even violence in the past several decades, indicating that no one, particularly politicians, learns from experience.
-
-Kerala has not given up on its demand, raised first in 1979, for the demolition of the over 120-year-old Mullaiperiyar dam located in its territory but providing water to parched districts of Tamil Nadu. Similarly, Karnataka that has been having a running feud with Tamil Nadu over the sharing of River Cauvery was insisting on building another dam across Cauvery at Mekedatu.
-
-That the disputes which broke out during an earlier era dominated by leaders of previous generations continue to resonate at common forums like the Southern Zonal Council, despite several court interventions and other peace initiatives, is a tragedy because even modern-day leaders are seemingly keen on continuing the fights rather than finding solutions to the problems that primarily concern the needs of the common people.
-
-Kerala, in a bid to stop giving water to Tamil Nadu came up with the theory that the Mullaiperiyar dam would give way anytime and wanted it to be decommissioned in 1979 though Tamil Nadu was legally entitled to have the facility till 2885. The fear was spread across Kerala and even a film titled Dam999 (the 999 referring to the 999-year lease period) was released in Malayalam.
-
-Karnataka had been a habitual defaulter in releasing water in the Cauvery to Tamil Nadu despite the Supreme Court fixing a quantum of water to be let into the river from their dams — that was after several tribunals and committees failed to adjudicate on the water sharing process — in the protracted dispute.
-
-When Karnataka wanted to build another dam at Mekedatu, which environmentalists fear would be an ecological disaster and Tamil Nadu saw as a bid to block the last drop coming into the state, there was opposition to it from different quarters. Still the conclave at Kovalam saw Karnataka standing by the project and even predicting that it would help Tamil Nadu solve its water shortage.
-
-With Tamil Nadu insisting on all states adhering to court rulings and tribunal verdicts, it stood on the other side of the fence with no force looking capable of demolishing the fence in sight. Linking great rivers was once again talked about but such gargantuan projects are more akin to castles in the air.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-on-water-southern-states-refuse-to-see-eye-to-eye-1981197)
-
----
-
-### DC Edit | Why Stop Revanth Visit To US?
-*Deccan Chronicle · Editorial*
-
-The denial of routine official clearance by the Union ministry of external affairs for chief minister A. Revanth Reddy’s seven-day official visit to the United States does not augur well for the country’s federal set-up. Though it may sound unusual, Mr Revanth Reddy’s objective in the proposed visit was to meet the top brass of reputed educational institutions and persuade them to establish offshore campuses in Telangana in place of the routine invest-in-Telangana pitch.
-
-The clearance was denied after the chief minister-led official delegation had already reached the United Kingdom for the first leg of the two-nation tour. The MEA stated that political clearance is assessed based on whether the visit is appropriate to the office held and the purpose of the trip, adding that “it was not so in respect of (CM’s) US visit”. This leaves one puzzled as to how clearance was granted for his UK tour, which was being undertaken for a similar purpose.
-
-The Narendra Modi government has often been criticised for targeting Opposition leaders by unleashing agencies like the CBI and ED against them. It has also shown discrimination in granting foreign tour clearances to CMs from non-NDA parties. Earlier, clearances were denied twice for Arvind Kejriwal and once each for Mamata Banerjee and Bhupesh Baghel.
-
-Politically, Revanth Reddy has little to lose and much to gain. The denial elevates him as a key target of the BJP and erases criticism of his alleged hobnobbing with Mr Modi. He can also counter the BRS, which has celebrated the denial as an embarrassment, by questioning whether only the kin of BRS leadership should enjoy the privilege of studying abroad.
-
-Had politics not interfered, and Mr Revanth Reddy succeeded in bringing offshore campuses to India, thousands of Gen Z students could have pursued higher education closer to home at a fraction of the cost of studying abroad — especially at a time when US immigration policies are increasingly turning hostile toward Indian students.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-why-stop-revanth-visit-to-us-1981208)
-
----
-
-### Bhopinder Singh | Our Republic of Perpetual Manufactured Outrage
-*Deccan Chronicle · Opinion*
-
-The recent optics of the Leader of the Opposition mocking the Prime Minister, with a few avoidable insinuations and inelegances thrown in for effect, were hardly edifying. What followed was equally revealing: a predictable eruption of ‘manufactured outrage’ from the ruling establishment and its ecosystem, complete with solemn pronouncements on dignity and democratic norms, as though political memory began only with the latest offending remark. The point is not to excuse the Opposition's lapse; some things are simply better left unsaid. It is to note the extraordinary selectivity with which indignation is deployed. The long record of tasteless and personally disparaging remarks from the ruling side is conveniently forgotten, while the latest indiscretion by the other camp becomes a moral emergency. The outrage is less about standards than about ownership of the moral high ground.Indian politics was always given to drama, noise and decibels. It was never, however, so comically given to self-righteousness. What has intensified in recent years is the theatrical, condescending and patronising showmanship accompanying political disagreement. Minor remarks, obscure social-media posts, and isolated incidents are routinely inflated into national crises, with politicians, television anchors and partisan influencers competing to establish who is most offended.Social media has turbocharged this process. A few carefully selected words are lifted from a speech, stripped of context and amplified until they become the story. The same selective memory governs partisan outrage — an equally foolish or offensive remark by one’s own side is rationalised or forgotten while the opponent’s latest utterance is dissected with theatrical indignation. Soon the substance disappears, replaced by the hapless spectacle of people performing personal offence. Context is always demanded for one’s own camp, and always denied to the other.The media, rather than restoring proportion, has too often become the amplifier of this silly pathos. A press ecosystem that is partisan, timid, or beholden, has little incentive to puncture the performance as it profits from sustaining it. Every grievance becomes ‘Breaking News’, every stray remark a television panel, every manufactured sleight another round of indignation. The distinction between reporting outrage and manufacturing it has become increasingly blurred.The contrast with an earlier generation is striking. Leaders who had participated in the freedom struggle and the arduous business of nation-building, from Nehru and C. Rajagopalachari to Piloo Mody and Atal Behari Vajpayee, operated under very different ideologies and were hardly free of flaws. Yet there was a certain largeness of spirit — an ability to accommodate, engage with and sometimes even celebrate the “other”. Fierce disagreement did not automatically become an affront to patriotism or personal dignity. Even parliamentary adversaries such as Vajpayee, Indira Gandhi, Somnath Chatterjee and Sushma Swaraj could combine ideological combat with wit, civility and an appreciation of the opponent’s stature. That quality seems in short supply today.The citizenry, too, has been conditioned to expect theatricality, particularly on “nationalism”, which increasingly shades into jingoism. Anything short of chest-thumping affirmation risks being treated as suspect. Nuance becomes equivocation, criticism disloyalty and scepticism “anti-national”. Patriotism, which should be capacious enough to accommodate dissent and self-criticism, is reduced to a performance in which volume counts for more than thought.The result is what might be called soap-opera politics — declarations are exaggerated, grievances personalised and political language calibrated for applause rather than persuasion. A politician attempting to make a mark through reason, restraint and prudence risks sounding almost out of place. The prevailing mood seems to beseech ‘manufactured offence’, i.e., to find something, anything, that can be turned into an affront requiring collective indignation. And if all else fails, there is always Pakistan. Invoke the enemy and, remarkably often, the machinery of patriotic outrage starts working again.This has consequences beyond political decorum. The earlier governments of P.V. Narasimha Rao, I.K. Gujral, Vajpayee and Manmohan Singh, despite their considerable differences and imperfections, drew more visibly on economists, administrators, technocrats and domain specialists. Rao had Manmohan Singh; Vajpayee had Jaswant Singh, Yashwant Sinha and Arun Shourie; Manmohan Singh’s Cabinets included P. Chidambaram, Pranab Mukherjee and Montek Singh Ahluwalia in influential roles. These were not interchangeable men, nor were they always right, but they brought intellectual heft, administrative experience and, crucially, a degree of independent political personality to government. Expertise never displaced politics, but competence and independent ministerial...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/bhopinder-singh-our-republic-of-perpetual-manufactured-outrage-1981345)
-
----
-
-### Manish Tewari | Pakistan and Its Quagmire of Alliances
-*Deccan Chronicle · Opinion*
-
-As officials from Ankara, Riyadh and Islamabad extol the virtues of a new tripartite axis — the Mecca Joint Defence Agreement — one could perhaps be forgiven for a profound sense of déjà vu. The pact is a fresh chapter in a long, and largely ironic, chronicle of Pakistan’s strategic forays into West Asia.It is eerily reminiscent of the Cold War’s most flawed constructs. It is born not of an organic confluence of national interests but of a shared, albeit differently perceived, sense of vulnerability. Saudis seek deterrence against a revisionist Iran and a restless Houthi insurgency. Türkiye, ever pursuing its neo-Ottoman ambitions, seeks to deepen its foothold in the Gulf. Pakistan, perennially cash-strapped and strategically isolated, seeks the lifeblood of Gulf petrodollars and a renewed sense of relevance on the world stage. Yet, this transactional foundation is precisely what doomed Pakistan’s earlier ventures. Pakistan, for all its fascination with West Asia, remains fundamentally divorced from the region’s core power dynamics. It has traditionally served not as a net security provider, but as a launchpad for Western strategic projects. In February 1955, the Turco-Iraqi Baghdad Pact created the Middle East Treaty Organisation (Meto). It was preceded by a Turko-Pakistan defence agreement in 1954, signed between Pakistan’s foreign minister Md Zafrulla Khan and Turkish Ambassador Selahattin Refet Arbel. This arrangement, emanating from the overlapping interests of the UK, the US, and Hashemite Iraq, was designed to complete a “Northern Tier” of containment stretching from Turkey to Pakistan.
-
-Subsequently the UK in April, Pakistan in September and Iran in November, joined Meto. Iran’s accession completed the “Northern Belt” along the Turkey-Iraq-Iran-Pakistan line. After the July Revolution in Iraq in 1958, when the government led by Abd al-Karim Qasim withdrew from the pact, Meto was renamed Central Treaty Organisation (Cento).The same strategic mirage reappeared in Southeast Asia. After the French defeat in Indochina in 1954, Washington was keen to deter and contain communism in the region. In September 1954, representatives of eight governments, including Pakistan, met at Manila and formed South East Asia Treaty Organisation (Seato). Pakistan has no connection with South East Asia except that it was a United States Cold War lackey. The alliances, for Pakistan, were a means to an end, the end being a stronger hand against New Delhi, thereby negating its very raison d’être for the Western powers who underwrote it. Ayub Khan of Pakistan, himself an early architect of the US-Pakistan relationship, told The Daily Telegraph in London in January 1962 that Pakistan was losing faith in Cento and Seato. These alliances did not serve any collective security arrangement in the wars of 1965 and 1971. The ultimate humiliation was the 1971 dismemberment of Pakistan and the birth of Bangladesh. Pakistan withdrew from Seato in 1973, and Cento was disbanded in 1979, collapsing under the weight of its own irrelevance.The same pattern appears to repeat with the Organisation of Islamic Cooperation (OIC). Pakistan has been a key part of its militarisation and has used it multiple times to try and internationalise the Kashmir issue, but the OIC has never been inherently suited for a workable strategic alliance, given its multiple internal dissensions amongst Islamic states. The second summit in 1974 was held in Pakistan, at a time when Pakistan still did not recognise Bangladesh. Under pressure from other nations, Pakistan was compelled to invite a delegation from Bangladesh, and it was at this very summit that Pakistan came to recognise the nation. The OIC may offer diplomatic theatre, not strategic substance. Likewise, the Regional Cooperation for Development (RCD), set up in July 1964 by the regional members of Cento (Iran, Turkey, and Pakistan) was intended to strengthen socio-economic development. But financial, political, and administrative difficulties made progress slow. Its political significance grew steadily even as Cento’s declined. Recognising that RCD could not provide an effective military substitute, Iran and Turkey still attached value to Cento. After 12 unsatisfactory years, the three regional heads of state held a summit in Izmir in April 1976, making amendments to the 1964 declaration. The Treaty of Izmir was signed in 1977 as the legal framework for RCD. Yet RCD was unsuccessful, and had to give way to the Economic Cooperation Organisation in 1985. Exhumation of the ghosts of Cento and Seato renders the 2025 Saudi-Pakistan mutual defence pact deeply instructive. Touted as extending a Pakistani nuclear umbrella to Riyadh, the agreement did little to deter Houthi missile attacks on Saudi soil. It was conspicuously impotent when Iranian missiles struck the Prince Sultan airbase and Riyadh airport, and when the Aramco refinery at Ras Tanura was hit in early 2026. It was only in late April 2026 that Islamabad ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/manish-tewari-pakistan-and-its-quagmire-of-alliances-1981347)
-
----
-
-### Ranjona Banerji | Hear This! Vinyl Is Back, and Music Is Cool Again!
-*Deccan Chronicle · Opinion*
-
-I signed up for an experience last week, which both surprised me and outdid my expectations in itself, but also in the reactions I got from other people. I fully expected to be laughed at and mocked or chastised. Instead, those I described my experience to, reacted with wonder.I attended a “listening room” event. An independent coffee roastery in Dehradun, run by a group of young people (this means anyone younger than me), which caters to people interested in music. It was a planned evening, with food done by a local well-known chef and was not cheap.But it was mind-blowing, even if it was simple.The band chosen for the event was Pink Floyd, with some explanations from the organisers as we went through the band’s music, played on vinyl on a great sound system. The room was small, enclosed and soundproofed. The equipment was great quality. Basically, you listened to the music in a dark space, bar some visual effects. It was, to use that much cliched word, “immersive”. Each listening session spread over the evening was between 30 and 45 minutes, with short 15-minute breaks in between. No phones, no distractions, just music.Because it sounds a little poncy or at least fussy and stylised when you first hear of it, I was prepared after the event to be excoriated by my friends. These were the arguments I had worked out: you could have sat at home and listened to music, we used to take records to friends’ homes and listen together (only one person said this), you wasted your money on something very simple and so on.I had my defences ready, which turned out to be unnecessary. Because 99 per cent of the people I spoke to were fascinated. All of them were my age and older. And they all wanted to be part of such an experience.It raised a few questions about what interests us and the life we lead, most of all our inability to disconnect from distractions, particularly the need for constant communication and short bursts of entertainment. The experience of a listening room is not the same as watching a film in a theatre, although similar. There is not story, no dialogue, no thrills and no food. It is just listening. It is a solitary experience enjoyed with other people.Now don’t imagine I’m going to walk down the road to spiritual enlightenment and self-knowledge: I am not that kind of a person. But it is an all-encompassing experience, with subliminal elements. You want to listen, because you have chosen to and have to listen, because of the circumstances. Nuances of music easily lost in the hurly-burly of the outside world are clearer now. There is also the undeniable romance of nostalgia for those old enough. The scratch of the needle on the vinyl and the reality of vinyl recordings — sounds smoothed out by digitisation are now alive. I must make clear this is not an age thing — 40 per cent of my fellow listeners were much younger than the old brigade. There is also the pleasure of meeting people who love music, or your kind of music or any kind of music. And here, nothing matters except that common interest. It has taken me many years to confront my fears of being thrust into a group of strangers. And for the most part, it’s been a liberating experience.Listening rooms are neither new nor unique. They appeared in 1920s Japan, with a suitably expressing Japanese name: onigaku kissa or kissaten, a music café or coffee house. These came up a century ago, when live music was banned in Japan, to listen to classical music and jazz. Perhaps the only constant that remains is vinyl and in our local listening room, a preference for jazz.I would do it again in a heartbeat and I still want to understand why. Why for myself, and why for most people I spoke to. Is it the lack of forced social interaction? Is it the reclaiming of pleasurable isolation in a distracted and distracting world? Is it the rediscovery of sound in the midst of cacophony? Is it the thrill of surrender to your senses? This is not after all one of those pseudo spiritual experiences — forest-bathing or playing whale songs or whatever. Nor is it comparable to the simple pleasure — increasingly a privilege — of listening to birdsong early in the morning. There’s an odd forced element to it, which despite the classroom rules, actually enhances the experience.The choice of music itself did not really matter, enjoyable though it was. Pink Floyd demands a lot from the listener, it is disturbing in music and lyrics and conception. To listen to it together is also an art and a challenge, you have to be like-minded in a sense and prepared for what is ahead of you.But frankly any music would have a similar effect. It is the method which creates the enjoyment. We have lost the art of the “long form”. For those who remember the days of record players or even cassette players, it was very cumbersome to skip from song to song. Stop, lift the needle, go to the next song or stop, fast forward and so on. All manually, no remotes in those days. You just listened to the whole...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/ranjona-banerjihear-this-vinyl-is-back-and-music-is-cool-again-1981341)
-
----
-
-### Shobhaa De | Politics Changed; ‘Gen G’ Must Step Up, Or Go Home
-*Deccan Chronicle · Opinion*
-
-We love Gen Z… but what to do with Gen G (Geriatrics)? Dekho Bhai… one thing the Cockroaches and Dimaagi Naxals have changed forever is the political narrative of India. Nobody can overturn what started at Jantar Mantar on June 6 and then rapidly swept across the country. Today, the ground reality is so dramatically altered, we can pinch ourselves, blink and ask incredulously, ‘’Yeh kya hua? Kab hua? Kaisey hua?’’ Has a miracle taken place? Can India’s youth claim the credit for it?
-
-The answer, without frills, is a simple ‘Yes!’
-
-What exactly this win means in asli terms, cannot be quantified — it’s way too premature to arrive at dramatic conclusions. But morally and psychologically, it’s a triumph. Is it the start of a thought revolution? Will the Cockroaches and Dimaagi Naxals succeed in their stated objectives (better education for our children)?
-
-Or will the initial euphoria and the heady smell of success, derail the fired-up leaders and their fervent followers? Tasting victory on this scale can either bolster the original lot and inspire them to get on with the work to seek educational reforms they so vociferously demanded, or they can get swept away by the tidal wave of fame, adulation, hero worship. At the moment, we shouldn’t deny them their moment of glory — they did what millions wanted, but didn’t have the guts to articulate. As they say in colloquial Hindi: Sarkar ko hila diya.
-
-Now that the sound barrier has been boldly breached, not just by Gen Z but Gen Alpha as well… we can safely assume India’s collective laryngitis issue has been dealt with as well. Indians have broken 12 years of maunvrat. Citizens have rediscovered their voice boxes… and dimaags. Pertinent questions are being fearlessly tabled by countless infuriated and frustrated Indians, asserting their basic constitutional rights from a government that is clearly on the back foot. The history of India will reflect this seminal moment as being the one that separated the pre-2014 era from the one Gen Z gave birth at Jantar Mantar.
-
-What can explain the government’s folly? With all their brain power, financial resources, intelligence networks, undercover operations, threats and other intimidatory tactics, not a single marketing genius pointed out the obvious to netas: A vibrant young India is being run by exhausted geriatrics.
-
-A deliciously youthful nation is at the mercy of men and women in their 70s and 80s. Most are visibly old, senior citizens hopelessly out of touch with today’s rapidly changing world. Stuck in the hoary past, unwilling or unable to accept change, their outdated views of what young India wants, have finally caught up with them. Anachronistic, ancient and obnoxious, their preachy attitude and icky platitudes are backfiring on them. Gen Z and Gen Alpha… both are done with Gen G.
-
-Their advice? Go home, naana-naani, daada-daadi. Aaram karo. We need more than you can possibly deliver.
-
-But also remember — we will not spare you! Sab yaad rakhengey. Where does that leave the bewildered, middle-aged generation? We can’t suddenly reverse time and join the Cockroaches and fight the good battle at the barricades. Neither can we proudly call ourselves ‘Dimaagi Naxals’’ and pose difficult questions to the sarkar. But we can speak up! No age limit for that. No cut off point. For more than 12 years, most of India was on mute. This in itself is such a powerful statement of how an autocracy functions while pretending to be a democracy. Faced with all manner of threats and punishments, false cases and fake allegations, a powerless mass of people across the country chose to suffer in silence, allowing the sarkar to grow more and more despotic, encouraged by the fear psychosis it had systematically and knowingly unleashed. The blatant abuse of power and privilege went unchecked, unquestioned… and soon, apathy set in. If this was our fate…accept the worst and say nothing. Those who sang hosannahs to these netas were richly awarded. Those who objected, were sidelined. Propaganda disguised as patriotism became palatable, even profitable.
-
-Till the cockroaches crawled out of the woodwork. And the manzil shook. The future of the manzil and its occupants is at stake, as we cheer school kids across the country, demanding what is rightfully theirs — quality education. A young girl from Jharkhand put it best when she said, “Jharkhand is 25 years old, but still feels like one.”
-
-Enrolment into government schools dropped by 2.6 crores last year. Twenty-five government schools shut down every day in India. Where are these kids supposed to learn in order to contribute to the Prime Minister’s Viksit Bharat? ‘’Ashikshit’’ kids, without water, benches, classrooms, toilets, blackboards and qualified teachers are being lectured to by leaders who may be semi-literate themselves. The Supreme Court was recently told 326 MPs and 14 CMs have criminal cases against them. Instead of addressing this, and the biggest problem, facing our children by...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/shobhaa-de-politics-changed-gen-g-must-step-up-or-go-home-1981215)
-
----
-
-### Idle fund, damning statements
-*Deccan Herald · Editorial*
-
-The publication of the audited financial statements of the PM CARES (Prime Minister’s Citizen Assistance and Relief in Emergency Situations) Fund for financial years 2023-24 and 2024-25 revives a few familiar and largely unanswered questions. The statements show that the fund had a closing balance of Rs 8,452 crore at the end of FY 2024-25. However, the total spending during the fiscal stood at Rs 87.9 lakh – a mere 0.01% of the corpus. In the previous year, the fund reported spending of Rs 15.6 crore. Both payments were made towards the PM CARES for Children scheme.
-
-PM-CARES fund receives Rs 1,162.92 crore, spends only Rs 16.47 crore during 2023-25: Audit reportThe PM Cares Fund was set up during the Covid years, in 2020, as a public charitable trust to provide relief during health emergencies, natural disasters or man-made calamities. Its stated objectives also included the creation of relevant infrastructure and financial support for research. It is estimated that the fund received about Rs 13,000 crore in its first three years. Domestic donations and foreign contributions declined in 2024-25, but the corpus expanded to Rs 8,452 crore by March 31, 2025. Of this, Rs 7,846 crore is in fixed deposits, earning over Rs 469 crore in interest during the fiscal. Criticism of the relief mechanism has centred on the minuscule spending, given that the country faced multiple challenges over the past six years when contributions from the corpus could have significantly boosted the relief and assistance efforts. The Union government has not been forthcoming about the source of contributions. The lack of transparency regarding the fund’s operational details and areas of expenditure has also been a point of contention; this is the first disclosure of audited financial statements since FY 2022-23.
-
-A fund run on public contributions, operated from the Prime Minister’s Office (PMO) with the Prime Minister and senior cabinet ministers as ex officio trustees, needs more transparency in its working. The government has maintained that the fund does not come under the ambit of the Right to Information (RTI) because it is not a public body defined under the Act. In February this year, the PMO told the Lok Sabha Secretariat that questions about the fund are not admissible in Parliament. This means information would remain limited to what the government chooses to make public. The numbers tell a story of serious inaction. It will take a structural shift towards transparency and accountability to restore public trust. Regular disclosures on contributions and expenditure will be an important first step in that shift.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/idle-fund-damning-statements-4119956)
-
----
-
-### New logins for old governance
-*Deccan Herald · Editorial*
-
-Karnataka presents itself as a leader in digital governance, with 1,981 services available online. Of these, 738 are completely online without citizens having to go to a public office. Yet official data presented in the Legislative Assembly by Chief Minister D K Shivakumar paints a less flattering picture: 67% of services covered by the Sakala Act required applicants to visit government offices in person. These numbers expose a fundamental weakness in the state’s digital transformation. As Melukote MLA Darshan Puttannaiah put it, the government has only changed the medium without changing the process: files that once moved from table to table now move from login to login. The point deserves serious attention. Digitisation cannot mean merely reproducing cumbersome bureaucratic procedures on a screen.
-
-What online?: Citizens visit govt offices in Karnataka for 67% of servicesFor people, the problem is often not unwillingness to use technology but the technology itself. Seva Sindhu, Kaveri, Bhoomi, and other portals can involve slow pages, failed logins, delayed OTPs, broken links, authentication errors, database outages, and poor performance under heavy traffic. In June, a planned 24-hour shutdown of several government portals was required for critical state data centre infrastructure upgrades. Kaveri 2.0, too, suffered a week-long disruption in 2025 following a cyberattack. The e-Swathu property-document process malfunctioned, forcing citizens back to offices and intermediaries. Such a human interface creates precisely the discretion and opacity that digitisation is meant to eliminate. Even applying for the crucial Permanent Resident Certificate, one of the 11 documents listed by the Election Commission for voters left out of the Special Intensive Revision (SIR), was plagued by glitches. This friction imposes a disproportionate burden on rural masses, who are forced to travel to taluk or district headquarters when online services become inaccessible.
-
-e-Governance Minister Priyank Kharge is partially right when he says many still prefer physical interaction and a paper acknowledgement, but this over-simplifies the problem. Some are indeed slow to adapt, but many turn to offices because online services falter or because they believe personal contact is the only way to move a stuck file. Technology-driven governance should, therefore, be measured not by the number of online services but by the proportion completed end-to-end without human intervention. This requires rigorous load testing before launches, interoperable departmental databases, reliable authentication, real-time updation and monitoring, offline fallbacks, and transparent service-level guarantees. Seva Sindhu’s stated goal is faceless and paperless service delivery. The launch-now-fix-later attitude must end. Karnataka has made rapid strides in e-governance; the bigger step is to make it actually work.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/new-logins-for-old-governance-4119957)
-
----
-
-### A hunter, disarmed by words
-*Deccan Herald · Opinion*
-
-Masti Venkatesha Iyengar, the recipient of the Jnanpith Award for his enriching contribution to Kannada literature under the pen name ‘Srinivasa’ and a very close friend of my father Navaratna Rama Rao, was a frequent visitor to our house. Being ardent lovers of literature, they shared a common interest, further strengthening their emotional bond.
-
-During Masti’s one such visit to our house, father had not yet returned from his customary morning walk. He decided to wait for father and asked me to get him a blank sheet of paper and a writing pad.
-
-Preferring to sit on the bench in our garden, he at once started penning his thoughts, which I am sure must have become one of the myriad pages of his enormous literary works.
-
-While he was engrossed thus, I, a boy of eight then, was looking for a hapless bird to get at with my catapult. Soon, an unfortunate mynah became a victim, and the little bird dropped dead right in front of Masti, instantly distracting him. He stared at the dead bird as he uttered, his feeble voice drenched in acute pain, “Ah! Dear God, what am I seeing?" He turned towards me in disbelief. His sharp eyes, which had showered so much of avuncular benevolence whenever we met, now bore a look of sadness and disgust.
-
-I went to my friend’s birthday party empty-handed. I never made that mistake again“Tell me, you brave warrior, why did you kill this innocent, defenceless bird?" It was so unexpected that I didn’t know what to answer.
-
-“Are you going to eat it?” he asked, looking into my eyes. “Ugh, never!” I gasped.
-
-“Did it harm you in any manner?” “No, how could it!” I stammered in confusion.
-
-“Do you hate birds?" he was unrelenting. “No, I love them!” I blurted instinctively.
-
-“Then why did you kill it? Do you harm those you love?” he pursued.
-
-That did it. Engulfed in guilt and remorse, I was hiding my tears when father returned from his walk. As they were entering the house, Masti turned back and gave me a sharp look, the significance of which I could not comprehend then.
-
-Several decades later, I visited him at his residence to express my gratitude for the impressive book he had written in Kannada about the life of my father. After the customary kind enquiries, he suddenly asked me with a twinkle in his eyes, "When did you return from Shivamogga? Your brother told me that you had gone on a hunting safari by jeep around the Sirigere forests. Hope you enjoyed shooting a good number of deer and other hapless ones!”
-
-I instantly knew what had made him ask this and admired his remarkable memory. I explained to him that I did go on a safari with my good friend, who happens to be the divisional forest officer of the region, to shoot the beauty of the wildlife – but with a camera, not with a gun. "I expected it,” he said with a smile. "I knew my words that day had touched your heart when I saw your reaction."
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
-
-[Read full article](https://www.deccanherald.com/opinion/a-hunter-disarmed-by-words-4119951)
-
----
-
-### E20 and some fuel for thought
-*Deccan Herald · Opinion*
-
-Amidst the raging debate on blending petrol with ethanol, two apparent flip-flops draw attention. One is the rather hurried action by automotive manufacturers to withdraw their submission to the government, which expressed concern over the policy to supply E20 petrol due to possible adverse effects on engines. The other is the suggestion by the Chief Economic Advisor (CEA) Anantha Nageswaran that the government could consider supplying E10, with a lower ethanol content, for older vehicles.
-
-How such differentiated supply and usage would be regulated and monitored at the pump level, based on the vehicle’s age, is a smaller concern. The larger issue is that these reactions create the impression that the changeover may have been rushed through without studies or due deliberation. Could this have been handled with less backlash? A quick primer on the industry methodology when managing a change helps explain the dynamics.
-
-E20 switch demands more evidenceThe automotive industry perennially faces the need to modify its strategies, with product and component design at the core. Product and component upgradation is a continuous process, driven by several factors such as enhanced safety, changing customer preferences, cost reduction, regulatory requirements, and technological breakthroughs. If such changes are handled without a plan, they can create losses and risk because the entire pipeline carrying components of a superseded design has to be dealt with appropriately. Action begins at the source of the raw material used to make the component and extends all the way to vehicles already running on the road with that component fitted, together with all work in progress at various stages of manufacturing and supply.
-
-Recognising the complexity in such transitions, the moment a change is initiated, a vigorous change-management drill comes into play. This includes identifying and segregating affected products, extensive trials of the new version, deciding the disposition of older versions, managing work in progress, and monitoring implementation. An essential precaution is to build solutions considering ground-level practices. The objective throughout is to minimise risk, loss, and surprises.
-
-Against this background, it is difficult to comprehend why, after the changeover to higher ethanol blending, we are encountering basic concerns such as contamination at the pump level, higher fuel consumption, and possible damage to engine components. Even assuming these issues are eventually addressed through corrective action, including perhaps tweaking fuel prices to soften the impact on consumers, a more fundamental concern remains. Is there a clearly articulated long-term strategy for selecting India’s future sources of motive power that considers the complete chain of costs, benefits, and unintended consequences?
-
-Today, there is a vast array of options for powering vehicles: LNG, CNG, EVs, hybrids, solar, hydrogen, ethanol, and hydrocarbon-based fuels such as petrol and diesel. Alongside these is an impressive range of performance-enhancing technologies, including turbochargers, superchargers, regenerative braking, and fuel cells. Understandably, every strategy brings promise along with baggage.
-
-Carbon-based fuels are finite, contribute to pollution, and are a drain on foreign exchange. Electric vehicles are noiseless, pollution-free, and eliminate several mechanical components. However, batteries need rare minerals and are expensive, charging infrastructure is inadequate, and disposal of batteries containing chemicals and toxic materials remains a challenge.
-
-Ethanol, despite being cheaper and a means to reduce imports, brings its side effects. Regardless of whether the feedstock is sugarcane, maize or rice, they call for considerable water usage. When water-intensive crops are being discouraged, it would be grotesque if water is diverted to support transportation.
-
-There may be peripheral complications. Food crops, ethanol, sugarcane, and the lucrative alcoholic beverage industry are all intertwined. Governments are hassled over financial incentives, pricing formulas, and allocations. Adding the transport industry will heighten tensions.
-
-Policy of transparency
-
-Every pathway involves economic, environmental, and social trade-offs. The challenge is to evaluate all credible alternatives within a common decision-making framework. We need a comprehensive white paper setting out the strengths, weaknesses, and long-term implications of each strategy, supported by robust data, and a mathematical model evaluating multiple scenarios. Such approaches are routine in industry. Statistical models, operations research, and scenario-planning are widely used for demand forecasting and strategic decision-making under complex conditions. We should apply these rigours to select our mobility strategy.
-
-A transparent, evidence- based framework would help policymakers weigh competing objectives such as energy security, environmental sustainability, agricultural impact, water use, infrastructure investment, foreign exchange, consumer costs, and technological readiness. The hurry to stop the forex haemorrhage is understandable. Let us also analyse and decide.
-
-(The writer was a senior executive in leading automotive organisations for over 40 years)
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
-
-[Read full article](https://www.deccanherald.com/opinion/e20-and-some-fuel-for-thought-4119952)
-
----
-
-### Let truth protect those who protect our forests
-*Deccan Herald · Opinion*
-
-A forest at midnight means darkness, difficult terrain, and split-second decisions. What happened inside the Cauvery Wildlife Sanctuary near Hanur on August 15 must be established by evidence, not rhetoric. Three men died in firing by Forest Department personnel. If unlawful or excessive force was used, those responsible must face the law. But accountability begins with truth, not a verdict.
-
-Sections of the media, public, organisations, and political parties have criticised frontline staff before the inquiry is complete. Accountability is necessary, but assigning blame before findings emerge prejudges the process and risks demoralising them. Equally unfortunate are attempts to give the incident a linguistic or religious colour. Forest and wildlife protection transcend language, religion, caste and community; Karnataka’s Forest Department is known for enforcement without such distinctions.
-
-According to the Forest Department, personnel acting on hunting information found four persons several kilometres inside the sanctuary around midnight, allegedly carrying country-made firearms and suspected deer meat. It says they fired when challenged and personnel returned fire in self-defence. Three died, one escaped, and a forest guard was injured. The families say the men were searching for missing cattle. That deserves investigation. But even assuming they were, the Wildlife (Protection) Act, 1972 applies. Unauthorised sanctuary entry, carrying firearms, illegal hunting, and unauthorised livestock grazing attract penal provisions.
-
-Green India Mission: Lost in silosThe inquiry must establish why they were deep inside the sanctuary around midnight, whether cattle were missing, whether firearms were carried and, if so, fired, whether the meat was wildlife meat, and if the men had any wildlife-offence history.
-
-The families reportedly received financial assistance, including from the government. If true, humanitarian support is understandable; however, public payment before the inquiry concludes should have a clear basis, prejudge neither the firing nor the deceased, and create no unintended precedent before facts are established.
-
-Forensics, including ballistics, gunshot residue, and post-mortem findings, can reconstruct events. The guard’s injury, DNA identification of the meat, and the fourth person could be crucial.
-
-Some argue that the men should have been arrested or shot in the legs. But if the personnel were fired upon first, expecting precise leg shots during a sudden armed threat in darkness may be unrealistic. Whether the threat was imminent and the response justified must be answered by evidence, not hindsight.
-
-Cauvery and MM Hills have long faced wildlife crimes. In June and October 2025, six tigers were poisoned in the MM Hills Wildlife Sanctuary in two incidents. Days before the Hanur incident, a forest watcher was killed by an elephant while tracing suspected sandalwood smugglers, underscoring the need for vigilance.
-
-In March 2017, in the same sanctuary, forest personnel killed a poacher from a gang that, according to the Department, had killed wildlife and fired upon them. His family said he was searching for missing livestock. A murder complaint followed; forest staff reportedly sought transfers. A September 20, 1991, Government Order recognised the morale impact of charges after firing on armed smugglers and poachers. It permitted forest guards and above to use minimum necessary force in specified self-defence circumstances and required a magisterial inquiry where misuse was alleged or suspected. Criminal proceedings cannot begin until the inquiry recommends them. If applicable here, the FIR raises questions of legal tenability.
-
-Seven anti-poaching camps and nine staff quarters in the Cauvery Wildlife Sanctuary, one camp in the MM Hills Wildlife Sanctuary, and a department vehicle were damaged; some camps were allegedly blasted using gelatin and about two hectares of forest were set ablaze – acts unjustifiable as protest. Two persons with wildlife-offence backgrounds were reportedly seen at the protests. This does not establish involvement in later offences, but alongside attacks on anti-poaching infrastructure and reported explosives, warrants investigation.
-
-Authorities must examine whether poachers, smugglers or vested interests exploited the unrest to intimidate the staff and weaken enforcement.
-
-A critical line of defence
-
-Frontline forest personnel face wild-animal attacks, poachers, smugglers, and local and political pressures. In divisions bordering Tamil Nadu and Kerala, many hail from North Karnataka and serve far from their families. Inadequate housing, schooling, and modest pay and benefits compared with equivalent ranks elsewhere add to their challenges. Their morale is vital to wildlife protection.
-
-Forest Minister Ramalinga Reddy has rightly defended the department in the Assembly and in his responses to the media while making clear that established wrongdoing would invite action. He said the magisterial inquiry report would be submitted on August 22. Supporting personnel without shielding wrongdoing is the required balance.
-
-The inquiry must establish whether self-defence arose and scrutinise every shot; subsequent attacks require investigation for links with poaching, smuggling or vested interests. A petition on the incident, attacks on Forest Department infrastructure, and implications for wildlife protection and staff morale has been submitted to the Central Empowered Committee.
-
-If evidence establishes wrongdoing by forest personnel, let the law take its course. If they acted lawfully in legitimate self-defence, the state must stand by them with equal conviction. Laws and boundaries alone cannot protect a forest. Someone must walk into the darkness and enforce them. Hold that person accountable when the law is crossed – but do not condemn them before the truth is known. When those who guard the forest are demoralised into fearing their duty, the forest itself is left unguarded.
-
-(The writer is a wildlife conservationist)
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
-
-[Read full article](https://www.deccanherald.com/opinion/let-truth-protect-those-who-protect-our-forests-4119953)
 
 ---
 
