@@ -1,3 +1,558 @@
+## 21 November 2026
+
+### Ajmer man kills 35-year-old for insulting father, tries to pass it off as accident
+*India Today News Desk · general*
+
+A 20-year-old man was arrested and a minor was detained in Ajmer's Savar area for murdering a 35-year-old man over a past dispute involving the accused's father, police said.
+
+The accused lured the victim to an isolated road on the pretext of drinking alcohol, assaulted him with a stone and left his body at the scene to make the murder appear to be a road accident.
+
+The victim, Rakesh Regar, was killed on November 17. Police said the murder was planned by Ajay Kumar Regar, who held a grudge against Rakesh over an incident in which his father, Sohanlal, was humiliated.
+
+According to the police investigation, the dispute had taken place before Diwali. The incident reportedly angered Ajay, who considered it an insult to his father and subsequently planned to take revenge on Rakesh. He involved a minor acquaintance in the murder conspiracy.
+
+### VICTIM TAKEN TO ISOLATED ROAD ON PRETEXT OF DRINKING
+
+On November 17, around 7.30 pm, Rakesh left his home on a motorcycle. Ajay and his minor accomplice reportedly met him and persuaded him to accompany them for a drink. The three then went to an isolated stretch of a dirt road leading towards Nai Kui, some distance from Tankawas village.
+
+Police said the three consumed country-made liquor at the spot, after which Rakesh became heavily intoxicated.
+
+### ACCUSED KNOCKED VICTIM OFF MOTORCYCLE, ATTACKED WITH STONE
+
+According to the police, when Rakesh attempted to leave on his motorcycle, Ajay kicked the vehicle, causing him to fall. Ajay then sat on Rakesh's chest and attacked him with a stone weighing around three kilograms.
+
+The minor accomplice also participated in the assault. The two struck Rakesh approximately 15 to 20 times on his chest, face and chin. He sustained severe injuries and died at the spot due to excessive bleeding.
+
+#### MURDER PLANNED TO LOOK LIKE ROAD ACCIDENT
+
+After the murder, the accused left Rakesh's body and motorcycle at the scene in an attempt to make the incident appear to be a road accident. They then returned home on foot and went to sleep.
+
+When Rakesh failed to return home, his family began searching for him. His brother, Nandlal Regar, subsequently approached the police and lodged a complaint, naming Ajay as the accused.
+
+### FORENSIC INVESTIGATION EXPOSED MURDER
+
+Police launched an investigation under the supervision of Ajmer Superintendent of Police Harshvardhan Agrawala. A special team was formed under Additional Superintendent of Police Rajesh Kumar Meel and Deputy Superintendent of Police Manoj Kumar Gupta, with Savar Station House Officer Banwari Lal Meena leading the investigation.
+
+Mobile forensic unit personnel, the Mobile Observation Bureau team and a dog squad were also deployed to collect evidence from the crime scene.
+
+The preliminary investigation established that Rakesh's death was caused by a violent assault rather than a road accident. Police subsequently detained Ajay and questioned him. During interrogation, he reportedly confessed to killing Rakesh along with his minor accomplice.
+
+### MAIN ACCUSED ARRESTED, MINOR DETAINED
+
+Ajay Kumar Regar, 20, son of Sohanlal Regar and a resident of Tankawas village, was arrested. The minor involved in the crime was also detained and produced before the Juvenile Justice Board in Ajmer before being sent to a juvenile observation home.
+
+Ajay was produced before a court, which granted police remand for further investigation. Police said the investigation into the case is continuing.
+
+The police team involved in the operation included Station House Officer Banwari Lal Meena, Assistant Sub-Inspector Narayan Singh, Head Constables Kedar Singh and Rangalal, and Constables Shivprakash, Mahendra, Rakesh and Vinod.
+
+\- Ends
+
+With inputs from Chandra Shekhar Sharma
+
+---
+
+### Australian DigiTech Mission explores technology partnerships in Hyderabad
+*BL Hyderabad Bureau · business*
+
+Australian DigiTech Mission representatives at a networking session in Hyderabad, exploring collaboration and commercial partnerships with local technology companies.
+
+The Australian Trade and Investment Commission (Austrade), in association with the Tech Council of Australia, led a mission with 36 companies to Bengaluru and Hyderabad from November 16 to 20.
+
+The Australian DigiTech Mission’s visit to Hyderabad on November 19 and 20 focused on exploring collaboration and commercial partnerships with local companies.
+
+At the Bengaluru Tech Summit 2026, the team showcased Australia’s capabilities in areas like artificial intelligence and machine learning, cybersecurity and digital trust, digital health, and enterprise software.
+
+In Hyderabad, the Mission representatives participated in a networking session organised in association with the National Association of Software and Services Companies (NASSCOM) and the Hyderabad Software Enterprises Association (HYSEA).
+
+“Discussions focused on digital innovation, emerging technologies and opportunities for partnerships, enabling delegates to explore avenues for collaboration, investment and knowledge exchange,” a statement said here on Saturday.
+
+## AI, cybersecurity and digital health offer collaboration opportunities
+
+“Hyderabad’s technology industry, healthcare sector and startup ecosystem offer valuable opportunities for Australian businesses to build partnerships in AI, cybersecurity, digital health and deep tech,” Mary Overington, Austrade’s Trade and Investment Commissioner for South Asia, said.
+
+“By bringing together Australia’s specialised expertise and research strengths with Hyderabad’s engineering talent and industry connections, we can explore solutions for both countries and international markets,” she said.
+
+Published on November 21, 2026
+
+---
+
+### Everyone cannot become an IAS officer: UPSC coach Avadh Ojha's blunt message to youth
+*India Today Education Desk · general*
+
+What does it take to succeed in life? Is academic qualification enough, or do young people need to develop practical skills and learn to adapt to changing circumstances? UPSC coach Avadh Ojha addressed these questions during a conversation with Panini Anand, Managing Editor, TVTN, at the Aaj Tak Masterclass 2026.
+
+Drawing from his own experiences as a teacher and former UPSC aspirant, Ojha spoke about the importance of questioning conventional thinking, understanding subjects rather than memorising them, and developing the ability to navigate life's challenges.
+
+He also urged young people to move beyond the traditional obsession with government jobs and recognise the opportunities available through skill development.
+
+### WHY DOES INDIA NEED MORE SKILLED YOUNG PEOPLE?
+
+Addressing the growing concerns around employment and competition, Ojha said that India does not necessarily have a shortage of jobs but faces a shortage of people with the right skills.
+
+"One of the biggest challenges facing young people today is the shortage of skills. Education should help students become more capable of solving problems, rather than leaving them confused," he said.
+
+He illustrated his argument with the example of a young man he had encountered who had completed an MS degree but was working as a barber after pursuing professional training. According to Ojha, the individual was earning around Rs 50,000 a month.
+
+The example, he explained, demonstrated that practical skills could create meaningful employment opportunities, irrespective of traditional ideas about professional status.
+
+"Everyone cannot become an IAS officer. Someone has to become an entrepreneur, someone has to become a businessman, and someone has to take the first step in a different direction," he said.
+
+Ojha also urged students to overcome what he described as a feudal mindset that makes people look down upon certain professions.
+
+He revealed that he had worked at a restobar for seven months and said nothing was embarrassing about taking up any honest job.
+
+### IS UPSC PREPARATION ABOUT KNOWLEDGE OR UNDERSTANDING?
+
+When asked whether UPSC preparation was more about acquiring knowledge or developing the right mindset, Ojha emphasised that understanding concepts and connecting different subjects were essential.
+
+"UPSC preparation is more about understanding. You have to understand the subject, not just read it," he said.
+
+Explaining his approach, he spoke about how geography, economics, politics and history are interconnected. According to him, understanding these relationships helps aspirants develop a broader perspective, which is particularly important for those who eventually become policymakers.
+
+He explained that geographical conditions influence economic development, which in turn shapes political structures and historical developments.
+
+Ojha also highlighted the importance of getting the basics right. Referring to his 25-year teaching career, he said that students who had a strong understanding of fundamental concepts were better equipped to handle competitive examinations.
+
+"Competition is not the result of hard work alone; it is the result of practice," he said, encouraging aspirants to work through previous years' question papers and strengthen their fundamentals.
+
+### CAN LOVE AND AMBITION EXIST TOGETHER?
+
+The conversation also touched upon relationships, romantic commitments and career aspirations, particularly among young people.
+
+Responding to a question about balancing love, ambition and personal challenges, Ojha said relationships should contribute positively to an individual's growth.
+
+"If your friendship is helping both of you rise, it is a good friendship. If your relationship is elevating both individuals, it is a good relationship," he said.
+
+He further explained that young people should not necessarily avoid relationships while pursuing their ambitions. Instead, they should assess whether their relationships are helping them grow or holding them back.
+
+Using historical references and anecdotes, Ojha discussed the difference between relationships that inspire individuals to achieve more and those that distract them from their goals.
+
+He also cautioned against treating professional ambitions and personal relationships as competing priorities, arguing that both can coexist when individuals have clarity about their goals.
+
+### WHY IS FINANCIAL INDEPENDENCE IMPORTANT FOR FREEDOM?
+
+Highlighting the connection between financial independence and personal freedom, Ojha said economic strength plays an important role in determining the choices individuals can make.
+
+"Financial independence leads to social independence," he said, explaining that economic freedom gives individuals greater control over their personal and professional lives.
+
+He referred to actor Neena Gupta as an example, pointing out that financial independence can provide people with the freedom to make unconventional personal choices despite societal expectations.
+
+According to Ojha, young people should focus on building their abilities and becoming financially independent rather than allowing social pressures to dictate their decisions.
+
+### HOW SHOULD YOUNG PEOPLE DEAL WITH FAILURE?
+
+When asked how students should respond when they continue to work hard but fail to achieve their goals, Ojha challenged the conventional understanding of failure.
+
+"Failure does not exist in the way people think it does. Middle-class people either win or learn," he said.
+
+He stressed that aspirants should not rely on hard work alone but should focus on preparation strategies, conceptual clarity and consistent practice.
+
+He also encouraged young people to recognise when they need to change their approach instead of repeatedly making the same mistakes.
+
+### CAN AI REPLACE THE ROLE OF A TEACHER?
+
+With artificial intelligence providing access to enormous amounts of information, a student asked Ojha how young people could identify what information to trust.
+
+In response, he highlighted the continuing importance of teachers and mentors in the learning process.
+
+"AI may become as advanced as possible, but it will never eliminate the importance of a guru," he said.
+
+According to Ojha, access to information does not automatically translate into understanding. Students need guidance to interpret information, develop perspectives and apply their knowledge effectively.
+
+He also urged young people to keep pace with technological developments, particularly artificial intelligence, and make skill development an integral part of their education.
+
+Concluding his interaction, Ojha urged students to move beyond conventional career expectations, develop practical skills and become financially independent. His central message was that education should not simply prepare young people to clear examinations but should equip them to understand the world, solve problems and make informed decisions.
+
+\- Ends
+
+---
+
+### NCLT disposes of dissolution plea for Zydus Wellness' erstwhile subsidiary Naturell India
+*PTI · business*
+
+The tribunal clarified that the disposal is without prejudice to the right of Naturell (India) Pvt Ltd (NIPL) or its liquidator to file a fresh application.
+
+Zydus Wellness Limited said the National Company Law Tribunal (NCLT) has disposed of the dissolution petition for its erstwhile subsidiary Naturell (India) Pvt Ltd, seeking further clarification and supporting documentary evidence.
+
+In a regulatory filing on Friday, the company said that the order of NCLT's Ahmedabad bench, dated November 18, was received a day later.
+
+The tribunal clarified that the disposal is without prejudice to the right of Naturell (India) Pvt Ltd (NIPL) or its liquidator to file a fresh application, the filing said.
+
+Consequently, the liquidator will file a fresh application for dissolution, along with the necessary clarifications and supporting documentary evidence, Zydus Wellness said.
+
+The liquidator originally filed the petition for NIPL's dissolution on March 25, 2026 under the Insolvency and Bankruptcy Code, 2016.
+
+Earlier, the boards of Zydus Wellness and NIPL approved the voluntary liquidation of NIPL, and its entire business undertaking was distributed on a going-concern basis to Zydus Wellness with effect from September 20, 2025.
+
+Published on November 21, 2026
+
+---
+
+### SpiceJet mess: Tickets on 'sale' for cancelled flights, refunds in limbo
+*India Today News Desk · general*
+
+As budget carrier SpiceJet grapples with one of its worst crises, several passengers have flagged that the airline is still selling tickets for flights it has cancelled or does not intend to operate. The beleaguered airline has cancelled most flights over the past few days amid a severe cash crunch. It has triggered a wave of angry complaints from affected passengers on social media. Refunds are also stuck.
+
+Amid the chaos, SpiceJet's booking practices have come under scrutiny. Several users pointed out that tickets were still being sold on the SpiceJet portal for flights that were unlikely to take off.
+
+### FLIGHTS CANCELLED, BUT BOOKINGS STILL OPEN
+
+For example, Mumbai-Dubai flight SG-5060 has not operated for the past one week, yet tickets were still listed for sale on November 21. The screenshots are included below.
+
+"This is just one exhibit on how SpiceJet is now earning money from passengers in an immoral way. SG-5060 hasn't operated to Dubai for the last 7 days as Dubai airport has suspended operations for payment default," tweeted aviation journalist Arindam Majumder.
+
+"Multiple such flights are open for sale, which the airline didn't intend to operate," he further said.
+
+Since November 12, Dubai Airports has suspended check-in services for SpiceJet over unpaid dues of AED 14 million (around Rs 35.85 crore). The airline failed to clear outstanding payments to ground-handling company DNATA. SpiceJet has said it was working to resolve the issue.
+
+Sanjay Bafna, an entrepreneur, pointed out that despite operating roughly 15 daily flights, SpiceJet was continuing to sell tickets across its full published timetable.
+
+Another harried passenger complained of "experiencing this exact trap". "SpiceJet cancelled my SG-720 flight twice, stranding my family. They stay dead silent on X with dead helplines, while the OTA washes its hands," the user, Shiv Kumar, said.
+
+SpiceJet, however, has not reacted to the issue.
+
+However, it is important to note that booking apps sometimes continue to show tickets as available if flight schedules and booking systems are not updated immediately after cancellations. It could also be a factor.
+
+### GETTING REFUNDS A MAJOR CHALLENGE
+
+Meanwhile, for passengers whose flights have been cancelled, getting refunds has become another ordeal. Several passengers have complained that they have yet to receive refunds even 20 days after their flights were cancelled. One even said he received a message saying the refund would only be credited in January 2027.
+
+One passenger, Jasleen Kaur, said her SpiceJet flight, booked through an online travel agency (OTA), was cancelled by the airline. However, she alleged that when she approached SpiceJet, she was asked to contact the OTA. The booking platform, meanwhile, directed her back to the airline.
+
+Several passengers complained that the SpiceJet customer support was of little help, with automated AI responses being the only option available.
+
+Among them was filmmaker and historian Dr Ramachandran Srinivasan.
+
+"My wife's SpiceJet flight, scheduled on December 2, 2026, from Mumbai to Delhi, was cancelled today by SpiceJet. Upon clicking on the provided link to request a refund, she got a message that 'We are sorry, modification is not allowed. The flight has already been flown'. How can a December 2 flight fly before time?" Dr Srinivasan tweeted.
+
+As per the new DGCA rules, refunds for flight tickets paid through credit cards must be completed within 7 days.
+
+In case of purchase of tickets through a travel agent or portal, airlines have to ensure that the refund process is completed within 14 working days.
+
+### WHAT'S GOING WRONG AT SPICEJET?
+
+Since mid-November, SpiceJet has been cancelling well over half of its scheduled flights daily amid a severe fund crunch.
+
+Of the 66 daily flights approved for its winter schedule, SpiceJet has been operating barely 10-15 flights a day. Even those operating are facing considerable delays, inconveniencing thousands of passengers.
+
+Crucially, these disruptions come ahead of the peak winter travel period.
+
+According to a PTI report, the Centre has received over 7,000 complaints against the airline on its redressal portal, AirSewa.
+
+With the crisis only deepening by the day, the DGCA on Friday issued a show-cause notice to the airline, citing repeated non-compliance with rules, escalating flight disruptions, and unpaid dues. It has given SpiceJet seven days to respond.
+
+There is no single reason behind the mess at SpiceJet, which was the country's second-largest airline with a domestic market share of 15% before the Covid pandemic.
+
+In October, its market share crashed to just 0.6%. Experts have cited liquidity constraints, mounting unpaid dues, grounded aircraft, delayed employee salaries, and widespread flight cancellations as the reasons behind the situation.
+
+\- Ends
+
+---
+
+### Transport sector outlook: Weak rail container volumes, subdued air traffic to weigh, JM Financial says
+*ANI · business*
+
+Passenger traffic across key domestic airports remained under pressure, reflecting continued weakness in domestic travel demand.
+
+Rail container movement and passenger traffic growth are likely to remain areas of concern for India's transportation and logistics sector in the near term, although airport passenger growth could see a recovery after December on a favourable base, according to a research report by JM Financial.
+
+The brokerage said the weakness in rail container volumes persisted in October, even as overall EXIM container activity recorded strong growth, highlighting an uneven recovery across transportation modes.
+
+"Overall rail container volumes came in at 7.9mmt, down 3.3 per cent y-o-y, thereby declining y-o-y for an eighth consecutive month," JM Financial said in its November sector update.
+
+The decline came despite overall container volumes, measured in twenty-foot equivalent units (TEUs), increasing 26.8 per cent year-on-year during the month.
+
+At the Jawaharlal Nehru Port Trust (JNPT), container evacuation through rail increased 6.8 per cent year-on-year to 107,000 TEUs. However, the brokerage noted that the improvement in rail movement remained modest compared with the growth in overall container handling.
+
+Separately, the aviation sector continued to face subdued passenger traffic growth, with organic passenger movement declining 3.9 per cent year-on-year in October 2026.
+
+The weakness was largely driven by domestic passenger traffic, which declined around 5 per cent year-on-year, while international passenger traffic registered a marginal increase of around 1 per cent.
+
+Passenger traffic across key domestic airports remained under pressure, reflecting continued weakness in domestic travel demand.
+
+However, JM Financial expects some improvement in passenger growth after December 2026, supported by a favourable base effect, while cautioning that the prolonged weakness in traffic at certain airports remains a concern.
+
+The brokerage said it remained watchful of passenger traffic trends over the coming months, particularly given the sustained decline in domestic passenger movement.
+
+The contrasting trends in rail and aviation indicate that the recovery across India's logistics and transportation ecosystem remains uneven, with strong EXIM trade and port activity yet to translate into a corresponding improvement in rail container movement and air passenger traffic.
+
+Published on November 21, 2026
+
+---
+
+### Video: Speeding car hits transformer, bursts into fire, occupants jump out to escape
+*India Today News Desk · general*
+
+A speeding car crashed into an electricity transformer in Rajasthan's Khairthal late Thursday night. The impact was so severe that the transformer burst into flames and was uprooted from its base, falling to the ground. The car caught fire soon after.
+
+The six occupants jumped out of the vehicle to save themselves. They managed to escape unharmed.
+
+The accident took place around 2.30 am on Swami Dhyan Giri Marg near Kishangarh Road. A crowd gathered at the spot following the crash. CCTV footage of the incident has also surfaced. It captures the collision and the fire that followed.
+
+### MAJOR POWER CUT IN THE AREA
+
+The accident also disrupted electricity supply in several wards of Anand Nagar Colony. The falling transformer damaged an underground power cable running beneath it. This caused a fault in the electricity line and left several areas without power.
+
+Residents had to spend the night and most of Friday without electricity. The outage added to their problems following the accident.
+
+### POWER SUPPLY RESTORED AT 7 AM
+
+Assistant Engineer Dinesh Bhandana said the car was carrying a temporary registration number. The electricity department has filed a police complaint against the driver.
+
+He said the collision damaged both the transformer and the underground cable. Electricity department staff carried out repair work, which took several hours.
+
+Power supply was finally restored around 7 am on Friday, nearly 16 hours after the accident.
+
+\- Ends
+
+---
+
+### India's manufacturing growth faces skilled workforce challenge, says Rockwell Automation MD
+*PTI · business*
+
+India’s position in the global manufacturing pecking order is evolving quite rapidly, according to Dilip Sawhney, Managing Director, Rockwell Automation India.
+
+Sawhney spoke to PTI on the sidelines of the Rockwell Automation Fair, the company’s annual industrial operations and smart manufacturing event, which took place in Boston from November 16 to 19, with the theme “Future in Focus”.
+
+## India’s growing integration into global manufacturing value chains
+
+Asked about Rockwell’s plans for making India a manufacturing hub, Sawhney said the country’s position, when it comes to the global manufacturing pecking order, is evolving quite rapidly.
+
+“We are seeing new industries evolving and scaling in India, which is getting materially integrated into global value chains. These are all very promising signs,” he said.
+
+“It is by and large now recognized by people globally that India has been delivering sustained growth,” he said.
+
+Rockwell has been in India for 43 years and has made a couple of significant moves, Sawhney said.
+
+“We’ve scaled. In terms of number of people, we’ve gone from close to 1,000 people 10 years ago to close to 5,000 people now,” he said.
+
+A lot of Rockwell’s core company capabilities are residing in India, with manufacturing being a new addition, he said.
+
+“We have now three factories in Chennai, and all are a part of our global integrated supply chain, meaning what we are producing is actually integrating India into the global value chain of some critical industries like semiconductors,” he said.
+
+“Some of the modular enclosures that we are producing are actually going into critical industries like renewables and data centres, increasingly much more into data centres, built in India and shipped all over,” he said.
+
+India is the most populous nation in the world and has a demographic dividend, Sawhney said.
+
+“So if you look at it from a top-down perspective, it does appear that there are a lot of people and a lot of people need jobs. But I can tell you from my conversations with customers who are running operations and factories in industrially advanced states like Tamil Nadu, that their number one problem is getting skilled workforce,” he said.
+
+“It sounds like a dichotomy that there are a lot of people, but there is a question mark on access to skilled workforce that has the competence and the skills,” he said.
+
+As a nation, we need to do what other advanced manufacturing economies have done, which is to place manufacturing jobs really at the top, he said. People should feel that this is an aspirational job, he added.
+
+The issue is how do you attract that workforce to aspire to do jobs which are 
+
+## New manufacturing capacity must focus on competitiveness
+
+“The advantage that India has is that we are building a lot of new greenfield capacity, but the responsibility that we carry is that capacity needs to be built in a manner in which it gives our manufacturing sector competitiveness,” Sawhney said.
+
+“We have a lot of new demand coming in from quick commerce and that is also leading to a lot of expansion in warehouses. That’s the innovation India has done and some people are still not able to believe,” he said.
+
+One of the things that quick commerce has done is that individual consumers have different choices, he said.
+
+The volumes that need to be produced are really huge and the price points in India are very competitive and challenging, he said. That means competitiveness has to be the focus, he added.
+
+“I am very passionate about the impact these technologies, if applied correctly, coupled with a commitment to drive change in the ways of working, can produce game-changing results for the industry.,” Sawhney said.
+
+## Automation can strengthen regulatory compliance and data integrity
+
+Asked what is the biggest challenge on the regulatory front in embracing automation in a job sensitive market like India, Sawhney said there are some industries where regulatory compliance is paramount.
+
+“Regulations are important in all areas. Even if you’re making a can of any drink, it has to have just the right amount of content inside of it. If it is less, then the manufacturer is likely to get into trouble,” he said.
+
+“Now, how do you assure the regulator that everything that you have produced in huge quantities has been in compliance? That requires you to have immaculate records about every single production or a batch that you have produced,” he said.
+
+“To do that manually, which is the way it was previously done, is not only very laborious but extremely error-prone. It is not something which gives confidence to regulators.
+
+“So how do you ensure that you have data integrity that can be demonstrated to a regulator? That’s where the role of purpose-built systems come in, which is what automation systems allow you to achieve,” Sawhney said.
+
+“What it does for you is it not only allows you to execute your production, but at the same time, with no extra effort, it is maintaining all the production records so that when the regulator wants to see those records, it’s available at a click,” he said.
+
+Published on November 21, 2026
+
+---
+
+### From ISI Kolkata to TIFR: How an Indian mathematician solved a decades-old puzzle
+*India Today Education Desk · general*
+
+## From ISI Kolkata to the University of California, Berkeley and Tata Institute of Fundamental Research (TIFR), mathematician Riddhipratim Basu has built a career solving complex problems in probability theory. His work on the decades-old slow-bond problem, random growth and statistical physics has earned him the Infosys Prize 2026 in Mathematical Sciences.
+
+From ISI Kolkata to the University of California, Berkeley and Tata Institute of Fundamental Research (TIFR), mathematician Riddhipratim Basu has built a career solving complex problems in probability theory. (Photo: infosysprize.org | AI-upscaled)
+
+New Delhi,Nov 21, 2026 12:37 IST
+
+Imagine a line of particles moving forward, each waiting for the space ahead to become free. Now introduce a tiny obstruction at just one point. Would it make any difference to the movement of the entire line?
+
+For decades, mathematicians and physicists debated this seemingly simple question. Riddhipratim Basu, an Indian mathematician based in Bengaluru, helped solve it, proving that even a slight obstruction at a single point can slow down the flow across the entire system.
+
+The breakthrough, known as the slow-bond problem, is among the contributions recognised by the Infosys Prize 2026 in Mathematical Sciences, awarded to Basu for his work in probability theory and statistical physics.
+
+### THE PUZZLE THAT REMAINED UNSOLVED FOR DECADES
+
+The slow-bond problem comes from the study of interacting particle systems, where particles move according to certain rules and influence one another.
+
+Imagine vehicles moving along a single-lane road, with each vehicle able to advance only when the space ahead is vacant. If one section of the road has a slightly lower speed limit, does it reduce the overall traffic flow?
+
+Basu, working with mathematicians Vladas Sidoravicius and Allan Sly, proved that the answer is yes, even if the obstruction is very small.
+
+The result settled a longstanding mathematical question. In subsequent work with Sourav Sarkar and Allan Sly, Basu also established Liggett's conjectural description of particle densities on either side of the obstruction.
+
+His research extends to random growth models, percolation theory and the study of rare events, including situations where systems behave very differently from their usual patterns.
+
+### FROM ISI KOLKATA TO BERKELEY AND STANFORD
+
+Basu's academic journey began at the Indian Statistical Institute (ISI), Kolkata, where he completed his Bachelor of Statistics in 2009 and Master of Statistics in 2011.
+
+He then moved to the University of California, Berkeley, where he earned his PhD in Statistics in 2015 under the supervision of Allan Sly.
+
+He spent the next two years at Stanford University as a Szego Assistant Professor before returning to India. He joined the International Centre for Theoretical Sciences (ICTS), part of the Tata Institute of Fundamental Research (TIFR), in Bengaluru in 2017.
+
+He is now an associate professor at ICTS, where his research focuses on probability theory and statistical physics.
+
+### RESEARCH THAT GOES BEYOND ONE MATHEMATICAL PUZZLE
+
+The slow-bond problem is only one part of Basu's work.
+
+In collaboration with Shirshendu Ganguly and Allan Sly, he established an important large deviations result for certain first-passage percolation models that cannot be solved using exact formulas.
+
+He has also settled conjectures about fluctuations and the geometry of optimal paths in last-passage percolation, helping researchers understand how random systems grow and evolve.
+
+His contributions have earned him several honours, including the Ramanujan Fellowship in 2017, the INSA Medal for Young Scientists in 2020 and the NASI Young Scientist Platinum Jubilee Award in 2021. He was elected a Fellow of the Indian Academy of Sciences in 2025.
+
+The Infosys Prize jury recognised his work for advancing probability theory and statistical physics, particularly through methods that help explain random growth, rare events and complex systems. Based in India for much of his research career, Basu has also contributed to mentoring younger mathematicians and strengthening the country's research community.
+
+\- Ends
+
+---
+
+### Google gives IIT Kharagpur $5 million for AI research, Sundar Pichai shares emotional message
+*Kazi Nasir · general*
+
+Google has announced a $5 million (approximately Rs 46.34 crore) funding programme for the Indian Institute of Technology (IIT) Kharagpur to support artificial intelligence research and education. The funding is intended to help the institute work on AI applications in areas such as agriculture, education, materials science and Indian languages. It will also support AI training for students and teachers, while helping IIT Kharagpur strengthen its technology infrastructure.
+
+Google CEO Sundar Pichai -- who is also an alumnus of IIT Kharagpur -- said, “IIT Kharagpur is driving groundbreaking work in areas like Indic languages, agriculture, and education, and Google is excited to help accelerate this impact with a new partnership.” Reflecting on his time at the institute, Pichai wrote, "Looking forward to seeing this collaboration shape the path for the next generation of students, just as IIT Kharagpur shaped my own." He further added, "India is increasingly at the forefront of innovation; programs like this will help implement Prime Minister Modi’s vision that the benefits of AI reach everyone in India.”
+
+### What will Google’s $5 million funding support?
+
+In a blog post, Google revealed that the funding will focus on three main areas, starting with advanced AI research. Researchers at IIT Kharagpur will work on using AI to address real-world challenges in Indic languages, materials science, agriculture and educational technology.
+
+One important focus is Indic languages, where AI could help build better tools and services for people who use different Indian languages. In agriculture, the research could explore ways to apply AI to farming-
+
+The second area is education. Google plans to support AI training and curriculum development for students, faculty members and teachers. This is aimed at helping more people understand and work with AI as the technology becomes increasingly important across industries.
+
+The third pillar is AI capacity building. This will involve supporting IIT Kharagpur's AI frameworks and tools, helping strengthen the technology ecosystem across the campus.
+
+Google's investment in IIT Kharagpur is part of a much bigger push to strengthen its AI presence in India. The company has already committed around $15 billion over five years, from 2026 to 2030, to build an AI hub in Visakhapatnam.
+
+\- Ends
+
+---
+
+### India and Singapore hold defence technology talks in Kochi, focus on underwater domain awareness and quantum tech
+*Unknown · business*
+
+Kochi: Defence researchers and officials from India and Singapore wrapped up a two-day meeting of the India-Singapore Defence Technology Steering Committee (ISDTSC) at the Naval Physical and Oceanographic Laboratory (NPOL) in Kochi on November 18-19, 2026, aiming to deepen bilateral defence research and development cooperation.
+
+According to the Defence Research and Development Organisation (DRDO), the meeting was co-chaired by Dr. Chandrika Kaushik, Director General (Production Coordination & Services Interaction), and Brigadier General Yew Chee Leung, Deputy Secretary (Technology) and Future Systems and Technology Architect (FSTA) at Singapore's Ministry of Defence (MINDEF).
+
+DRDO said its delegation, which included NPOL Director Dr. Duvvuri Seshagiri, Director of International Cooperation Praveen Gopakumar, and subject matter experts from DRDO laboratories, held discussions focused on "Underwater domain awareness, Quantum technologies, Lasers, Microelectronics and Use of test facilities."
+
+  
+
+DRDO stated that the ISDTSC meeting "will provide an impetus to the bilateral defence R&D collaboration in areas of mutual interest including exchange of information, collaborative projects and reciprocal visits to the R&D and testing facilities to enhance the skill and knowledge in Defence R&D."
+
+"India-Singapore Defence Technology Steering Committee (ISDTSC) meeting co-chaired by Dr. (Mrs.) Chandrika Kaushik, Director General (Production Coordination & Services Interaction) and Brig Gen. Yew Chee Leung, Deputy Secretary (Technology) and Future Systems and Technology Architect (FSTA) MINDEF, was held at NPOL Kochi, India during 18-19 November 2026. DRDO delegation including Dr. Duvvuri Seshagiri, Director NPOL, Sh. Praveen Gopakumar, Director International Cooperation, and subject matter experts from labs, held discussions 
+
+Earlier in January, the Parliamentary Standing Committee on Defence (SCoD), chaired by Radha Mohan Singh, undertook an on-the-spot study visit to the Naval Physical and Oceanographic Laboratory (NPOL) of DRDO in Kochi, Kerala.
+
+According to a statement by the Defence Research and Development Organisation (DRDO), the parliamentary committee witnessed underwater sensors and the development of sonar systems for the Indian Navy.
+
+"Parliamentary Standing Committee on Defence (SCoD), under the Chairmanship of Hon'ble Radha Mohan Singh, undertook an on-the-spot study visit to NPOL, Kochi, on January 17, 2026. The committee witnessed underwater sensors and 
+
+NPOL, Kochi, has been conducting oceanographic missions under the Sagar Maitri programme to strengthen scientific cooperation and build capacity among IOR nations. Under the aegis of this programme, DRDO initiated a scientific component titled 'MAITRI (Marine & Allied Interdisciplinary Training and Research Initiative)' to establish long-term collaboration with IOR countries in the field of ocean research and development, the ministry said.
+
+---
+
+### Indian Navy Gets New Indigenous Diving Support Craft Equipped For Underwater Inspection, Salvage And Coastal Operations
+*Swarajya Staff · politics*
+
+The Indian Navy received Diving Support Craft DSC A21 at Naval Dockyard, Mumbai, on 20 November, marking another milestone in the five-vessel diving support programme.
+
+The vessel, designated Yard 326, was indigenously designed and constructed by Titagarh Rail Systems Limited in Kolkata under the Indian Register of Shipping's naval rules and regulations.
+
+The craft features a catamaran hull configuration that provides enhanced stability, enlarged deck area and improved sea-keeping characteristics for its specialist role.
+
+It is equipped with state-of-the-art diving equipment, with hydrodynamic analysis and model testing during the design stage undertaken by the Naval Science and Technological Laboratory in Visakhapatnam.
+
+The five-craft diving support programme represents a total project cost of Rs 174.77 crore, with approximately 70 per cent of the main and auxiliary equipment sourced from Indian manufacturers.
+
+The first vessel, DSC A20, was delivered in September 2025, whilst the final craft, DSC A24, was launched in August 2026.
+
+With the induction of these vessels, the Indian Navy's capabilities in diving support, underwater inspection, salvage assistance and coastal operational deployment will be augmented significantly.
+
+The craft are designed to meet the mission needs of Command Clearance Diving Teams, supporting specialised naval operations in coastal underwater environments.
+
+The delivery aligns with the Government of India's Make in India initiative and the Ministry of Defence's efforts to promote indigenous defence manufacturing and self-reliance in naval shipbuilding capabilities.
+
+**Please click here to add** _**Swarajya**_ **as your preferred and trusted news source on Google**
+
+---
+
+### At 34 weeks pregnant, US woman completes her 7th World Marathon Major of the year
+*India Today Trending Desk · general*
+
+## Deirdre Keane completed the New York City Marathon while 34 weeks pregnant. The race capped her seven World Marathon Majors within a single year.
+
+US woman completes her 7th World Marathon Major of the year (Photos: yo.gomane\_photography, deirdremkeane/IG)
+
+A woman from New York has completed all seven World Marathon Majors in a single year, crossing the finish line of her final race while 34 weeks pregnant. Deirdre Keane, 38, finished the New York City Marathon in 4:06:55 on November 1, making it the seventh marathon she had run during her pregnancy, the _New York Post_ reported.
+
+Keane, a nurse practitioner and management consultant, had already competed in the Tokyo, Boston, London, Sydney, Berlin and Chicago marathons before taking on the New York race. The seven events make up the World Marathon Majors, a series of some of the world's most prominent long-distance races.
+
+Take a look at her post here:
+
+Speaking to the _Associated Press_, Keane admitted she was aware of how unusual it was to run a marathon so late in pregnancy, but said she understood her own fitness and physical limits.
+
+“I knew how bizarre it was to be running a marathon at 34 weeks, but I also knew how fit I was and self-aware of my body at this point,” she said. “And while it is very unusual, I wasn’t the first woman to have ever done this.”
+
+Interestingly, pregnancy had not been part of Keane's plans when she signed up for the races. After marrying her husband, Brian, last year, she expected starting a family might take some time. She therefore planned to make 2026 her year of completing bucket-list challenges, signing up for 11 events, including all seven major marathons, two ultramarathons, an Ironman and a trail marathon in Ireland.
+
+“In my mind, 2026 was going to be my year of bucket list items,” she said. “I was like, this is going to be my last hurrah before settling down and becoming pregnant, becoming a mother.”
+
+However, after completing the Tokyo Marathon in March, Keane began noticing that something felt different during the Boston and London races in April. A pregnancy test confirmed that she was expecting.
+
+Rather than give up running altogether, she decided to continue with her marathon plans, although she dropped the Ironman and one of the ultramarathons. Her husband was initially concerned about the physical demands of running while pregnant.
+
+“Brian was understandably skeptical and worried at first. Neither of us fully understood the physical limitations of pregnancy and why. The research we found was surprisingly limited and frustrating,” Keane said.
+
+The couple eventually decided to approach each race individually, without pushing for faster timings. “So, we decided to take it one marathon at a time, with me not pushing the pace and keeping walking in my back pocket,” she added.
+
+According to the _New York Post_, Keane's OB-GYN cleared her to participate, advising her to stay hydrated, maintain her nutrition and stop exercising if she experienced muscle cramps.
+
+She went on to complete the Sydney Marathon at 25 weeks pregnant, followed by Berlin at 29 weeks and Chicago at 31 weeks, before taking on the New York City Marathon at 34 weeks.
+
+The final race was particularly special, as it was her hometown marathon and her pregnancy was becoming increasingly visible. Friends turned up along the route to cheer her on, while Brian made several stops to bring her water.
+
+The course also passed close to Weill Cornell Medical Center on Manhattan's Upper East Side, where Keane plans to give birth. She joked about the possibility of stopping there during the race.
+
+“The marathon passed a block away from Weill Cornell at mile 16, where I’m delivering, so there were plenty of jokes about just pulling off there to have the baby or testing the medical volunteers’ training on the course with an unusual medical intervention of a delivery,” she told the _Associated Press_.
+
+Keane's marathon record extends well beyond her pregnancy. She has completed 74 marathons and ultramarathons so far, including the World Marathon Challenge in 2023, in which participants run seven marathons across seven continents in seven days. She was the fastest woman to complete the challenge that year.
+
+\- Ends
+
+---
+
+### India-Pakistan shared civilisational links: Musadik Masood Malik shares his perspective
+*ET Online · business*
+
+Pakistani Minister Musadik Masood Malik shares his perspective on the shared civilisational links between India and Pakistan, reflecting on their common history, cultural connections and heritage. His remarks highlight the historical ties that connect the two neighbouring countries.
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/india-pakistan-shared-civilisational-links-musadik-masood-malik-shares-his-perspective/videoshow/136047430.cms)
+
+
+---
+
 ## 20 November 2026
 
 ### BJP slams Rahul Gandhi over 'Compromised PM' post, says 'Paid to defame India'
