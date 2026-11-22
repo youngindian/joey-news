@@ -1,8 +1,156 @@
 # Editorials
 
-_Last updated: 2026-11-21 08:39 UTC_
+_Last updated: 2026-11-22 08:38 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 22 November 2026
+
+### Test of attribution: Can corporations be criminals?
+*Deccan Herald · Opinion*
+
+A major part of the law involves setting standards of responsibility. When people are sent to jail or asked to pay punitive fines for harm caused to others, they are held to be criminally responsible. Criminal liability, because of its more serious consequences and because of its emphasis on moral blame, traditionally requires a ‘guilty mind’ or mens rea.
+
+For a long time, the criminal law had as its model subject an individual with a guilty mind. As corporations came to dominate more of our lives, this model proved inadequate. Many actions that carry criminal responsibility were now being carried out by corporations: money laundering, food adulteration, providing unsafe workplaces, etc.
+
+Why hold corporations criminally responsible for harm when other options exist? One option is to hold an employee or an officer of the corporation who caused the harm responsible. Another is to hold the corporation vicariously liable for the harm caused by its employees. Vicarious liability is a kind of second-hand liability: a corporation is held liable for the actions of its employees. The answer is that these options may not be the best solution from multiple viewpoints. Holding only the employee responsible lets the corporation off the hook when it’s the corporation that created the structure and the systems that made the harm possible. Similarly, vicarious liability has historically been understood as a liability that results in civil responsibility. One person is usually not held vicariously liable for another person’s criminal behaviour.
+
+So, if civil liability options are available, why bother with criminal liability, particularly when a corporate body cannot be sent to jail? The practical answer is that in many cases, a harm can only be redressed through criminal monetary penalties, for which criminal responsibility is a must. Additionally, by holding the company responsible, the law sends out the message that the company as a whole has committed a harm, not just its employees.
+
+How Supreme Court framed attribution of mens rea to companiesHolding companies criminally responsible comes with its own complications. Whose mental attributes can be traced to the corporation? A recent Supreme Court decision, in Sanofi India Ltd v. CBI, provides a detailed guide on solving the attribution problem. Sanofi was prosecuted for conspiring with an employee of the Bhabha Atomic Research Centre over the tendering of some pharmaceutical products. The government did not prosecute any employee or official of the company. Sanofi challenged the prosecution in the Supreme Court, stating that they could not be prosecuted when no employee of theirs was being separately prosecuted.
+
+The Supreme Court laid down a sequential attribution test as a solution. First, look at the constitutional documents or rules of company law to see if an employee is authorised to act on the company’s behalf and if so, that employee’s mental state can be attributed to the company. If such an attribution is not possible, is there an express or implied delegation by the company of a task to a person? If so, that person’s actions and associated mental states can be attributed to the company. Finally, if neither of the two modes of attribution is possible, the court can consider whether an interpretation of the law requires attributing the mental element of a person acting on the company’s behalf to the company.
+
+The Supreme Court concluded that Sanofi could be prosecuted even if no employees were named because attributing a mental element can be considered only at a later stage, when a trial begins. At an early stage, the only necessary consideration was whether there was a prima facie finding of an offence by the company, which was the case here.
+
+The story of corporate criminal liability is not complete yet. What about corporations that use AI systems? In those cases, there may not be any mens rea to speak of. Further, what if companies claim that their AI systems went rogue? There is one solution that has been suggested to these problems even before the advent of AI. Make companies responsible not for the harm itself, but for what they did before and after the harm occurred. Did they put systems in place to minimise the possibility of harm? After the harm was detected, did they take immediate steps to remedy the harm? Were they transparent with their stakeholders and with the authorities about the extent of the harm and the steps taken in response to the harm? Going forward, questions of corporate criminal responsibility are bound to take centre stage in legal debates on criminal liability.
+
+(The writer is a law professor who thinks that the law is too important to be left to the lawyers.)
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/test-of-attribution-can-corporations-be-criminals-4227010)
+
+---
+
+### Three powers, one table and the future of global governance
+*Deccan Herald · Opinion*
+
+The first trilateral meeting between the leaders of China, Russia and the US was held in Shenzhen. The symbolic value of China's desire to set the table and shape the agenda is greater than the immediate substantive achievements. Its impact will depend on the dynamics between the three countries, as well as the reactions of other powers amid geopolitical fragmentation.
+
+Chinese president Xi Jinping called for “maintaining world peace and promoting strategic stability in major power relations” at a meeting of the three largest nuclear powers and permanent members of the UN Security Council.
+
+The leaders - Xi Jinping, Russian president Vladimir Putin and US president Donald Trump - discussed a limited agenda and issued a short “Declaration for Peace”. It identified four areas of understanding: reform of the UN to enable an effective response to global challenges; energy security through increased supplies of refined petroleum and stable energy flows; nuclear restraint, dialogue on nuclear risks and preventing proliferation; and limiting the legal jurisdiction of the International Criminal Court. It reflected intent but lacked substance or a diplomatic breakthrough.
+
+Donald Trump and Xi Jinping should press Vladimir Putin to end war, not appease him, Ukraine says Shenzhen is not Yalta
+
+China’s Global Security Initiative (2022) had prioritised major power diplomacy as a stabilising factor. In contrast, the US National Security Strategy considered China a near-peer economic, technological and Indo-Pacific competitor (2025). Earlier, it had called China the most consequential geopolitical challenge and Russia an acute threat (2022), and described China and Russia as revisionist powers (2017). Relations between China, Russia and the US remain adversarial.
+
+The parallels between Shenzhen and Yalta are weak. At Yalta, the victorious allies restructured the global order after the enemy had been defeated; in Shenzhen, the conflicts are ongoing. Shenzhen's focus was on managing competition between powerful adversarial states in a world increasingly characterised by the rise of emerging powers and multi-alignment.
+
+Rationale for trilateral meet
+
+Domestic compulsions and strategic accommodation between the parties, rather than restructuring of the global system, provide a better understanding of the Shenzhen agenda and objectives. The three leaders had different motivations but a common interest in preventing their strategic competition from escalating into an uncontrollable confrontation.
+
+Xi is arguably the biggest immediate beneficiary. He has placed China at the centre of a new diplomatic initiative, presenting it as a stabilising power in global affairs rather than merely as a challenger to US leadership. The summit avoids commitments that could constrain China's strategic relationship with Russia, its freedom of action in the Indo-Pacific or its expansion of regional influence. This flexibility will be helpful ahead of the crucial CCP plenum in 2027.
+
+China is a formidable economic and technological powerhouse but faces declining growth, external de-risking and domestic struggles. Its relations with the US have been marked by uncertainty over tariffs, technology and Taiwan. A strategic reset at the major power level was necessary.
+
+For Russia, the meeting marks a restoration of great power status. Despite the continuing war in Ukraine and sanctions, Putin’s participation reinforces claims that Russia is an indispensable power. Putin also benefits from direct discussions on Ukraine with the US and China, without Ukraine or Europeans participating in the conversation.
+
+For the US, which remains militarily pre-eminent but faces challenges in sustaining global commitments, the trilateral summit gave Trump space for personal diplomacy. The US demonstrated that it could engage simultaneously with two principal strategic competitors, negotiate energy security for domestic benefit and bring China into discussions on nuclear risk and stability. However, Trump's recognition of Putin and Xi as equal interlocutors prompted Europeans to convene their own summit in Berlin to demonstrate support for Ukraine.
+
+Future of global governance
+
+It is interesting that the three major powers asserted a special responsibility for global affairs, even as it has become evident that India, Japan, Brazil, Europe and others are consequential powers and not passive spectators. It is also ironic that UN reform was addressed in an exclusive format through selective cooperation.
+
+There could be attempts at selective multilateralism by the three powers on nuclear security, energy and other issues while they compete in technology, trade and regional geopolitics. There could also be further weakening of multilateral institutions if the accommodation of major power interests takes precedence over the democratisation of decision-making.
+
+BRICS 2026 | India must be wary of China’s and Russia’s push for ‘global governance’ India factor
+
+For India, the Shenzhen trilateral presents a complex strategic situation. It is simultaneously a challenge, an opportunity and a reminder that the world may be moving towards a more explicit hierarchy of power.
+
+First, India would benefit from a significant expansion of hard power and an active presence in global affairs, making it difficult to ignore the country in any emerging architecture of global governance. Second, India's strategic autonomy is more relevant today than ever. India’s strategic partnerships with all three countries, albeit of different types, could convey that any major power accommodation that disregards India's core concerns would be unacceptable. Third, the China question becomes more complicated if Beijing advances a concept of Asian security and global governance without adequately considering India. The Quad, G20, BRICS and SCO acquire significance in this context. Fourth, India must strengthen its Global South leadership, press for reform of the UN Security Council and be at the centre of shaping the rules of an emerging global order.
+
+There is fascinating continuity and signalling between the Manila Quad summit and the Shenzhen trilateral summit. For India, the question is no longer whether it will emerge as a major power, but whether it will be an indispensable partner in structures of global governance. For now, India must resist both the temptation of joining an exclusive major power arrangement and the danger of being left outside it.
+
+The writer is a former diplomat and currently Professor at the Jindal Global University.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/three-powers-one-table-and-the-future-of-global-governance-4227068)
+
+---
+
+### Stop hoarding profits, start creating jobs
+*The New Indian Express · Opinion*
+
+For the first time since 2014, Prime Minister Narendra Modi demanded that Indian industry pay back what it had received. The captains of commerce had gathered at Bharat Mandapam for Ficci’s centenary convention in a mood of festive complacency. They expected the customary paean to Viksit Bharat and perhaps a fresh sweetener or two. Instead, they got a public dressing-down. Modi asked them: “Have you increased the salaries of your employees? Have you increased the number of people you employ? No… Your appetite is so enormous that no matter how much you are given, it is never enough.”
+
+Had Rahul Gandhi uttered those words, they would have been brushed aside as the ritual rhetoric of opposition. From Modi, the most business-friendly Prime Minister India has known, they carry the weight of a verdict. Modi’s exasperation is not hard to fathom. India is growing at a brisk 7-8 percent, the fastest pace among major economies.
+
+Banks have been nursed back to health and the stock market has minted fortunes beyond imagining. Yet, this glittering growth has stopped at the entrances of the factories and corporate offices across India. The Economic Survey 2024-25 recorded that the profits of Nifty500 companies had swelled to 4.8 percent of the GDP, the highest since 2008. In 2023-24, corporate profits leapt by 22.3 percent while employment crept up by a paltry 1.5 percent. Profits have sprinted while payrolls have plodded.
+
+The result is two Indias living cheek by jowl. According to the World Inequality Report 2026, the richest 1 percent of Indians own about 40 percent of the nation’s wealth and the richest tenth nearly two-thirds. The poorer half of the population makes do with barely 6 percent. These contours belong less to a modern economy than to a feudal estate with a stock exchange attached. The gleaming towers of Gurugram and Bandra-Kurla Complex look down on settlements where young men with degrees deliver groceries and instant food for a pittance.
+
+The billionaire boom tells the same saga from the other end. Nurtured by the ease-of-doing-business ecosystem India’s club of dollar billionaires has swelled to a record 391 from 237 just five years ago. Their combined fortune of Rs 187.5 lakh crore equals almost half the nation’s GDP. The wealth of the 10 richest Indians has multiplied more than sevenfold since 2012. Few would begrudge enterprise its rewards. But when fortunes multiply while payrolls merely inch forward, the miracle begins to look like a mirage.
+
+Massive government largesse is behind corporatists’ affluence. In September 2019, the government slashed the corporate tax rate from 30 to 22 percent and to 15 percent for new manufacturing units. The cut was sold on the solemn promise that companies would plough the savings back into factories and jobs.
+
+Then came the Production-Linked Incentive scheme, a Rs 1.97-lakh-crore bounty across 14 sectors. By March 2026, it had generated production and sales of Rs 22.66 lakh crore, but only about 8.49 lakh direct and indirect jobs. That is a meagre harvest from a lavish sowing. The revenue forgone on specified corporate concessions alone was estimated at about Rs 98,095 crore in 2024-25. That money came from taxpayers. They are entitled to ask what they got in return.
+
+The answer is persecutive. The government built the highway and waited for private capital to drive down it. It is still waiting. Companies unveil investment pledges with drum-rolls at summits, but a memorandum of understanding neither turns a lathe nor pays a wage. The Reserve Bank has repeatedly flagged the fitful course of private corporate investment. Industry blames sluggish demand. Yet, demand will not revive while wages wither and wages will not rise while companies hoard cash like misers guarding a vault.
+
+Registered manufacturing did add over 14 lakh jobs in 2024-25. But India’s employment crisis is about dignity as much as data. The Periodic Labour Force Survey for 2025 put urban youth unemployment at a troubling 13.6 percent. Millions more toil in the twilight zone of informal work, without a steady wage, a contract or a safety net. The statistician counts them as employed, but their mothers know better. Modi struck a raw nerve on quality too. “Do not take 140 crore Indians for granted as an assured market where anything will sell,” he admonished. No nation has become a manufacturing titan by palming off second-rate goods on its own citizens.
+
+The solutions are not mysterious. From now on, concessions must come with strings. Every tax holiday, PLI tranche and tariff shield should be tied to audited targets for investment, employment and wages. The government owes Parliament an honest audit of how many jobs its incentives have actually created.
+
+Listed companies should be legislatively mandated to disclose annually their headcount, their median wages and the ratio of the chief executive’s pay to the median worker’s. And policy must pivot towards small and medium enterprises, the true workhorses of Indian employment, which are starved of credit and strangled by delayed payments. The government, too, must face the mirror, because citizens will ask it the very question it has put to industry.
+
+But the heavier burden rests on the boardrooms. For nearly 13 years, Indian business has basked in the warmest patronage it has ever enjoyed. It has had lower taxes, generous incentives, gleaming infrastructure and a Prime Minister who hailed wealth creators from the ramparts of the Red Fort. India Inc cannot be allowed to prosper on the back of rising unemployment and widening inequality.
+
+A democratic nation where balance sheets bloom while young graduates wilt is sitting on a social tinderbox. No generation of Indian industrialists has been pampered as this one has. It must not betray the government that believed in it.
+
+Gandhi asked the rich to be trustees of the nation’s wealth and the Prime Minister has now asked them to prove it. “If you do not take advantage of all my hard work, who will?” he asked. Industry must answer with expanding payrolls, not perfunctory press releases.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Nov/21/stop-hoarding-profits-start-creating-jobs)
+
+---
+
+### How not to be threatened by memoirs
+*The New Indian Express · Opinion*
+
+The relevance of books is rarely about paper and ink. It is the idea that offends, or makes insecure, thin-skinned authorities and poorly literate leaders who wish to control what society is permitted to absorb, what it is allowed to question and which thoughts must be feared.
+
+One may disagree with an author’s account of a character, question the interpretation of a historical personality, or challenge the accuracy of particular passages; but these are perfectly legitimate responses to a published work. Tearing up a book at a political event is not a literary review.
+
+Authors, especially biographers, take sides, as we all do. They interpret history through their own experiences, prejudices, convictions and political affiliations. Memoirs become subjective documents containing revelations, omissions, personal grievances, interpretations and sometimes even uncomfortable truths.
+
+These claims certainly deserve scrutiny, inaccuracies deserve correction and conclusions can be challenged by historians, writers and witnesses. No memoir is beyond criticism simply because it is written by a prominent person. On the other side, the author cannot offer a version of history to please every political constituency. The politician who destroys a book in front of TV cameras is warning every aspiring writer, publisher, academic, journalist and historian to think twice before approaching a politically sensitive subject.
+
+History offers many instructive episodes. In Renaissance Florence, on February 7, 1497, the Dominican friar Girolamo Savonarola organised the Bonfire of the Vanities, consigning books, paintings, musical instruments, cosmetics, fine clothes and even mirrors to a great public bonfire in the Piazza della Signoria.
+
+Objects were judged not on their artistic or intellectual merit but on whether they conformed to the official conception of religious virtue. In 213 BCE, the Chinese emperor Qin Shi Huang ordered the destruction of books dealing with history and philosophy to eliminate contrary intellectual traditions and consolidate imperial authority. The repeated destruction of the Library of Alexandria over centuries remains one of the great tragedies of the ancient world.
+
+The Mongol sack of Baghdad in 1258 CE devastated a major centre of learning. In Europe, the Catholic church’s Index Librorum Prohibitorum, first published in 1559, institutionalised the prohibition of books considered dangerous to religious doctrine or moral authority. Islamists burn everything in their path, believing the Koran is the only book that should exist.
+
+John Milton, in his 1644 pamphlet Areopagitica, condemned the licensing of publications in England: “Give me the liberty to know, to utter, and to argue freely according to conscience, above all liberties.” That was nearly four centuries ago, but his point remains relevant. On May 10, 1933, the Nazis publicly burned thousands of books by Jewish writers, Marxists, liberals, pacifists and intellectuals considered hostile to Hitler’s ideology.
+
+The warning of the German poet Heinrich Heine was stark: “Where they burn books, they will ultimately burn people too.” During China’s Cultural Revolution, books and cultural artefacts considered incompatible with Maoist ideology were destroyed. In 1981, a Sinhalese mob burned down the Jaffna Public Library in Sri Lanka, which housed some 100,000 Tamil books, manuscripts and historical documents.
+
+In 2012-13, Islamist militants set fire to ancient manuscripts in Timbuktu, Mali, although local librarians and residents managed to rescue hundreds of thousands of them. India, too, has its history of book bans and literary controversy. In 1988, the Rajiv Gandhi government prohibited the import of Salman Rushdie’s The Satanic Verses, making India the first country to do so.
+
+Article 19(2) of the Indian Constitution permits reasonable restrictions on freedom of expression on specified grounds, including the sovereignty and integrity of India, the security of the State, friendly relations with foreign states, public order, decency or morality, contempt of court, defamation and incitement to offence—”reasonable” being the significant word.
+
+Destroying a printed copy of a book is self-defeating, since the book itself is not destroyed: thousands of other copies will be available in digital editions and in libraries around the world. A public destruction actually produces the opposite effect, drawing attention to a work that might otherwise have received considerably less notice. The political spectacle gets publicity, but it does not establish the intellectual invalidity of the book.
+
+The difference between information and knowledge is not a new trope. Information supplies facts, accounts and particulars which, when examined, interpreted, contested and placed in context, become knowledge. A society may be flooded with information and yet remain profoundly ignorant if it loses the freedom to question. Books are among the oldest and most durable instruments through which information becomes knowledge. To attack them is to attack the process by which a society learns to think for itself.
+
+Perhaps the most useful way to judge a democracy is not by how enthusiastically it celebrates books that flatter the establishment, but by how comfortably it accommodates works that challenge it. A society confident in its own history should not be frightened by a memoir. A political movement confident in its heroes should not feel threatened by a different interpretation. The pages torn in Mumbai are replaceable. But any authority, irrespective of political affiliation, that begins to fear books is in reality fearing the questions that keep civilisation alive.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/ravi-shankar/2026/Nov/21/how-not-to-be-threatened-by-memoirs)
+
+---
 
 ## 21 November 2026
 
@@ -31,6 +179,79 @@ India has viewed these developments with the look of a man who has found someone
 The behaviour of a great power is driven more by what it believes about itself than by what it states as its objective. There are three objectives of India here, and only one is explicitly stated: soft connectivity, which includes Buddhist circuits, Sufi lineages and the trade routes that ran from Taxila to Samarkand much before anyone drew maps.
 
 [Read full article](https://www.thehindu.com/opinion/lead/indias-civilisational-gambit-in-chinas-backyard/article71725816.ece)
+
+---
+
+### Fix Education Now Or Lose India’s Future
+*Deccan Chronicle · Opinion*
+
+In the coming decades, India may be a rising superpower, but no nation can build a durable edifice of global power on a crumbling foundation of human capital. If one strips away the glossy rhetoric of policy documents and confronts the stark, unvarnished reality of India’s education system today, a deeply unsettling picture emerges. We are constructing a hollow pyramid: a massive, sprawling infrastructure of mediocrity that fails both our brightest minds and our most vulnerable citizens.
+
+This structural malaise begins with a fundamental failure of state commitment, reflected in our budgetary allocations. For nearly six decades — from the Kothari Commission of 1966 to the National Education Policy of 2020 — India has solemnly pledged to allocate six per cent of its Gross Domestic Product to education. Yet, according to the Economic Survey, direct budgetary expenditure on education has stagnated at a dismal 2.7 per cent of GDP, while combined Centre and state spending hovers at roughly 4.1 per cent. Compare this with our peers across the Global South: Brazil allocates 4.9 per cent of its GDP, and South Africa commits over 10 percent. Even where China spends roughly four per cent of its GDP on education, the sheer scale of its $20 trillion economy means Beijing invests nearly eight times more per student in absolute dollar terms than New Delhi. You cannot build a knowledge superpower on a shoestring budget.
+
+Look next at the apex of our higher education system. In the latest QS World University Rankings 2027, no Indian university figures in the top 100. Even our crown jewels, the Indian Institutes of Technology, languish outside the top hundred, with IIT Kanpur at 221 and the Indian Institute of Science hovering around 254th in global assessments. Contrast this with the relentless march of our Asian peers. China alone commands six universities in the global top 100 — led by Peking and Tsinghua inside the top 15 — alongside five more in Hong Kong. Tiny Singapore boasts two in the top 12, while South Korea and Japan maintain formidable footprints. Unsurprisingly, the global top 100 remains overwhelmingly dominated by the United States with 26 institutions, the United Kingdom with 16, and Australia with nine. While East Asia has systematically invested in research, faculty, and institutional autonomy to break the Western monopoly, India remains content with self-congratulatory domestic rankings.
+
+Beneath this absent apex lies a crisis of both access and quality. Over the past two decades, India has witnessed a chaotic proliferation of private and public higher education institutions — nearly 65,000 registered entities today. Yet, according to the latest All India Survey on Higher Education, our gross enrolment ratio stands at a mere 30 per cent. Seven out of 10 eligible young Indians between the ages of 18 and 23 cannot even enter a college gate. And what of the 4.5 crore students who do get accommodated? Save for a handful of islands of excellence, the quality of instruction imparted across our tier-two and tier-three colleges is abysmal. Those who possess the financial means vote with their feet, sending their children abroad to the US, Britain, Canada, and Australia — draining billions of dollars in foreign exchange and robbing the nation of its brightest talent.
+
+For the millions left behind, the degree they acquire is often little more than a laminated passport to frustration. We are churning out an army of unemployable graduates from mediocre universities, armed with outdated syllabi and zero critical thinking skills. This tragedy is unfolding at the precise historical moment when artificial intelligence and automation are rapidly shrinking traditional avenues of white-collar employment, and major corporations are downsizing rather than hiring.
+
+In 2014, recognising this impending crisis, the government launched the Skill India mission with much fanfare, creating a dedicated Ministry of Skill Development and Entrepreneurship. Over the past decade, the number of Industrial Training Institutes (ITIs) has expanded from 9,776 to nearly 13,900, alongside new Pradhan Mantri Kaushal Kendras and three Indian Institutes of Skills. Yet, despite impressive enrolment numbers on paper, the impact on the ground remains painfully muted. Plagued by obsolete equipment, poorly trained instructors, and a deep disconnect from actual industry requirements, our vocational ecosystem has largely failed to bridge the employability gap.
+
+This failure is compounded by a fundamental macroeconomic structural flaw. The promised transformation of India into a global manufacturing hub — where the sector was supposed to grow to 25 percent of GDP to absorb the millions of unemployed and underemployed youth trapped in low-productivity agriculture — has simply not materialised. Manufacturing remains stubbornly stagnant at around 16 to 17 per cent of GDP, employing barely 12 per cent of our workforce. Without a vibrant, labour-intensive...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/fix-education-now-or-lose-indias-future-2006673)
+
+---
+
+### Maneka Memoir Coming Next? Will Capt. Daughter Get Congress Ticket?
+*Deccan Chronicle · Opinion*
+
+It is a classic case of role reversal. Former Congress Sonia Gandhi is known to be a reserved, reticent person, not given to discussing private matters in public. Her estranged sister-in-law Maneka Gandhi, is reputed to be outspoken and never at a loss of words. Everyone is, therefore, surprised by the candour with which Sonia Gandhi has described her testy relationship with Maneka and the build-up of tensions between them in her memoirs, Belonging: A Journey of Love.
+
+Maneka, on the other hand, has been unusually silent on these critical references though mediapersons have approached her for her side of the story. The Bharatiya Janata Party would have also liked Maneka Gandhi to publicly rebut Sonia Gandhi’s version of events leading to her departure from the Gandhi household but she has held back. In her insider account, Sonia Gandhi writes that Maneka often spoke rudely, used expletives in the presence of Indira Gandhi and was responsible for creating a rift between Sanjay and Rajiv. The book also talks about Maneka’s political ambitions following Sanjay Gandhi’s death and how she spread stories about Rajiv and Sonia’s plans to leave the country when the Congress lost elections. After this, it is perhaps time for Maneka Gandhi to do a book in response to the revelations in Sonia Gandhi’s memoirs.
+
+The formal release of Sonia Gandhi’s memoirs, Belonging: A Journey of Love, last week at a five-star hotel was, predictably, a mega event. And, as expected, there was a scramble for invitations which were handed out sparingly. Leaders and ticket seekers from the poll-bound states of Punjab and Uttar Pradesh were particularly keen that they be seen at this programme. When all efforts failed, they pleaded with Congress general secretary K.C. Venugopal, saying that if they were to be denied a ticket in the upcoming election, they should at least be invited for the book launch. Not everyone succeeded in wrangling an invitation card but the few who did get in were both happy and
+
+Their take: now that we have got an invite, it can be assumed we are not getting a ticket.
+
+Former Punjab chief minister Captain Amarinder Singh’s presence at the launch of Sonia Gandhi’s memoirs last week immediately led to speculation that he is set to rejoin the Congress. Amarinder Singh had walked out of the Congress five years ago as he felt humiliated on being asked to step down as chief minister. He subsequently joined the Bharatiya Janata Party but has never been comfortable there as he believes his views on Punjab are ignored by its leadership. While stories on former chief minister’s future plans are now a perennial, there is a buzz in Delhi that Amarinder Singh prefers that the Congress field his daughter, Jai Inder Kaur, from Patiala in next year’s Punjab Assembly polls. Jai Inder Kaur, who is being groomed as her father’s political heir, is currently with the BJP and leads its women wing in Punjab. Amarinder Singh’s son, Raninder Singh is learned to have lost interest in pursuing a career in politics after he faced defeat in two elections. As for Jai Inder Kaur, it is not clear whether news about her being in line for a Congress ticket is meant to build pressure on the BJP to field her from Patiala.
+
+Sonia Gandhi’s former additional private secretary S.V. Pillai’s son’s wedding reception was held the same evening as her book launch. Pillai and his late colleague P.P. Madhavan wielded immense influence during Sonia Gandhi’s tenure as Congress president and chairperson of the National Advisory Council. Though preoccupied with the book launch, word was sent that Sonia Gandhi would attend the reception, especially since Pillai had a long association with the Gandhi household, dating back to Rajiv Gandhi’s stint as Prime Minister. However, Sonia did not make it and even Priyanka Gandhi, whose team was at the venue to receive her, also failed to turn up. Different explanations were on offer: One was that Sonia Gandhi was tired after the book programme while others said she was upset over Rahul Gandhi's embarrassing remark that she would be perched on Rajiv Gandhi’s lap during meal times.
+
+Though the Bharatiya Janata Party is the senior alliance partner in Karnataka, its junior ally, Janata Dal (S) leader and Union minister H.D. Kumaraswamy, is becoming more assertive. The upcoming by-election in the Hiriyur Assembly constituency is emerging as the latest source of tension between the two allies as both parties are laying claim to this seat for their respective candidates. Kumaraswamy is feeling emboldened after the JD(S) won one of the four seats in the October MLC elections by defeating an established Congress candidate. This victory was also special as the JD(S) candidate had fared disastrously in June MLC election. The JD(S) leader’s confidence also stems from the aggressive role he has been playing in taking on the ruling Congress government while BJP state leaders are virtually invisible. The infighting in the BJP’s...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/maneka-memoir-coming-next-will-capt-daughter-get-congress-ticket-2006697)
+
+---
+
+### Mental Health, Modern Manliness And Movember
+*Deccan Chronicle · Opinion*
+
+Muddling through November as we are now, we know it well, but what on earth’s Movember?
+
+Tis what this penultimate month’s called by the many growing moustaches (mostly male), to raise awareness and funds for men’s health. A moustache in its many manifestations, and how seriously its wearers take them, can be funny, but men’s health, especially mental health, and how often it’s brushed under the shaggy carpet (by men themselves), is no laughing matter. Not having the column space, however, to take a fine-tooth comb to this tangled web, let’s contemplate the hair-raising stuff men cultivate on their upper lips instead, raising Movember’s profile in our own less hirsute way!
+
+Even shorn of the important connection to health, ‘mo’s bristle with historical significance. On the face of it, they might appear merely cosmetic, but the (twirly) point of one goes beyond the easily deciphered. Proud possessor of one of the most famous fictional moustaches, Hercule Poirot, undoubtedly drew strength from the flourishing of his well-tended foliage. So often did his suspects slip up in the face of its magnificence, in Lord Edgeware Dies, clean-shaven Hastings gushes, “I think it is the famous moustaches. She is carried away by their beauty!”
+
+But, perhaps, not enough women were being transported by their tremendousness, compelling ‘mo’s to thin out in the late twentieth century. Having moved on from the prissy, pencil, David Niven tache (clever man but not his moustache), Hollywood hunks, from the pulchritudinous Robert Redford to his pale copy Brad Pitt, sprouted whiskers less and less.
+
+Yet, paired with a beard, it’s back in vogue, particularly post-pandemic, when men downed their razors in protest at life’s vicissitudes. To the extent that, while follicular fashions have forever flowed and faded, ‘mo’s from different epochs co-exist in the present, mushrooming from the identity being embraced or image projected. If Pedro Pascal’s Latin muttonchops add to the macho mien his roles demand, Zohran Mamdani’s lush Mughal garden is the external flowering of his statesmanly traits. (Incidentally, as seen on Diwali, Mamdani’s sheared his beard this Movember, to focus attention on his moustache and men’s health)!
+
+Not that it’s ever fallen out of favour with Subcontinental men. South Indian actoRRRs, such as Ram Charan, have invariably cultivated handlebars, while an afternoon spent watching the IPL, proved that 90% of its players are champions of full facial efflorescence. A tactic, I presume, to hide how adolescent they’d look (even leaving smooth-cheeked Sooryavanshi out of the conversation), but for their swashbuckling stubble and bristling beards.
+
+Slip a mo’s cross-section under the psychological microscope, and its inextricable intertwining with male identity becomes obvious. Like Samson’s locks, without which he was lost, facial hair on men is as much about the projection of power, as internalising that assurance. From Indian politicians to Colombian cartel bosses to American WWE wrestlers, they’re signalling machismo with their greased moustaches!
+
+In life, my father almost always sported one, but in death he was most unfortunately shorn of this trusty adjunct, shaved without warning or reason by a nurse whilst in a coma and unable to protest. An accomplished man with or without it, I still think he would have been happier making his last journey fully equipped!
+
+A man and his moustache must never be parted. We veer too close to emasculation when divesting them of their sundries without their explicit consent. At a time when identity politics is splitting hairs, men’s hirsute exterior as an extension of their masculinity is even ‘mo’ important. Which makes the moustache a potent symbol of another hypermasculine thing they do; keep physical and mental troubles to themselves. Big boys don’t cry we’ve been told repeatedly, and they’re certainly reluctant to ask for the slightest bit of medical or emotional help. So enmeshed with their notions of virility, of not wanting to appear a ‘damsel in distress’, it is a hairier area by far than their upper lip!
+
+I know all about men making light of ailments, refusing to see doctors in consequence, as I have a son and a husband, and the stats support my personal experience. A British survey taken last year found that 48% of men “felt pressure to tough it out” silently, while a third were worried about being seen as weak when reporting illnesses.
+
+It’s undeniable that men frequently leave it too late to get medical help, and that dying early for some is a badge of courage. But it isn’t on battlefields that most pass away these days, for questionable ‘noble’ causes, but from dragging their feet on health problems. Not to mention their bashfulness in confiding in others (said with an entirely justified roll of the eyes)!
+
+Mo reason, therefore, to set aside time, at least a month in the year, to campaign for the health of our millions of good lads and (annoying but loveable)...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/mental-health-modern-manliness-and-movember-2006718)
 
 ---
 
@@ -21637,199 +21858,6 @@ International (Deemed) University, Pune)
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/dimagi-naxals-dissent-under-fire-4121631)
-
----
-
-## 23 August 2026
-
-### DC Edit | Crumbling Under Corrupt Civic Watch
-*Deccan Chronicle · Editorial*
-
-The collapse of a seven-storey building, which was built on a mere 50-square-yard plot in Hyderabad, is not just another construction-related accident. It reflects a deeper malaise in the municipal administration that allowed the construction despite an official order to stop the work. It resulted in the death of two people.This under-construction structure had violated almost every safe construction rule. The building had no setbacks. No safety assessment was made before constructing a tall structure close to a drain. Yet local administrators turned a blind eye.This accident also coincides with deadly fires in Kolkata, where nine people died in a poorly ventilated building due to smoke inhalation. The building had no windows and was built in a congested area where fire engines cannot enter. The primary reason that led to the construction of such a building is corruption among town planning officials.These are not isolated incidents. Every year, hundreds of people die in fire accidents or building collapses, primarily because they compromised on safety standards in order to lower construction costs. Another aspect of this issue is poor maintenance of the existing buildings either due to neglect or lack of funds. Many buildings in old and overcrowded areas across Indian cities are displaying visible symptoms of structural ageing. But neither the government nor politicians intervene because it does not win votes. For politicians, it is easier to announce ex gratia to victims than make efforts to redevelop the area.While it is not easy to convince people to let their houses, to which are attached emotionally, be razed for redevelopment, the government cannot let structurally weak buildings fall like matchboxes. The government should also consider including the concepts on building safety in school curricula to ensure that at least the future generations can build a safe and strong India.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-crumbling-under-corrupt-civic-watch-1981626)
-
----
-
-### DC Edit | Trump Leads America Into Fiscal-Military Quagmire
-*Deccan Chronicle · Editorial*
-
-The American midterms are not far away and US President Donald Trump will be heading into them with more defeats than victories to show in his foreign policy, more failures than successes on the economic front too as high process remain a worry and fights on the tariff front in which the supreme court has reined in his impulsive forays into trade wars.No recent President’s ratings have been lower than Mr Trump’s in his second term, which has led him into revealing his fears that he could be impeached and even imprisoned if he loses the midterms. As the only US President to be impeached twice — only to be acquitted by the Senate — Mr Trump knows what risks the November polls carry for him much more than even his party.While such a doom scenario is unlikely to fructify because the Republicans may still hold on to a slender majority in the Senate as the seats heading to midterm polls are mostly from Red states, it is, however, certain that the grand old party may lose its narrow majority in the House of Representatives.The setbacks have been more prominent in his 15 months in office after he returned to the White House in January 2025 with the promise of playing global peacemaker. He seemed preoccupied with making claims for the Nobel Peace Prize as he kept averring that he had brought the Gaza war to an end and boasted of stopping India and Pakistan from escalating exchanges into a full-blown war.Mr Trump’s greatest folly, especially for a self-confessed peacemaker, was to agree to wage war against Iran on the prompting of his friend Israel Prime Minister Benjamin Netanyahu. Since his February 28 launch of bombing attacks on Iran, including its nuclear fuel enrichment site, he has been bewildered by Iranian resistance and resilience in withstanding the aerial onslaught and precipitating a global oil crisis by threatening the passage of ships through the Strait of Hormuz.The inability to win was not only on the military front. The state of turmoil of the US economy as the bond market yields took off and the government intervened was highlighted in the fact that the gross national debt crossed $40 trillion for the first time. Coming on top of Iran war expenses and the generous tax cuts that the Republicans effected last year, the United States has been pushed into crossing a portentous milestone with interest payments alone to touch $2 tn a year.To conclude that it is all America’s problem might be understating the issues as any trouble that the world’s largest economy faces will have serious repercussions down the line in an interconnected world. The recklessness of Mr Trump’s economic and military moves is what is most worrisome. It is quite another matter that his family has gained enormously from his time in the White House, gathering a cool $2 billion and more in cryptocurrency profits even as most other investors lost.Meanwhile, Mr Trump continues to joust with friends and allies more as in the case of the Canadians on whom he is imposing 50 per cent tariffs and Mr Mike Carney is threatening to retaliate dollar for dollar. Where Mr Trump is leading America, with its rising gas and supermarket prices, makes for a bundle of worries that may go way beyond the prospect of his experiencing his Vietnam moment in the needless Iran war he started and because of which his country is fast running out of missile shields and missiles.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-trump-leads-america-into-fiscal-military-quagmire-1981634)
-
----
-
-### Bharat Bhushan | Vande Mataram Won’t Hide Temple Graft, Gen Z Revolt
-*Deccan Chronicle · Opinion*
-
-In launching a political offensive around singing the full text of ‘Vande Mataram’ the Bharatiya Janata Party (BJP) has reached for its predictable playbook to prepare for the Assembly elections in Uttar Pradesh.The party’s vulnerability became apparent with the donation theft at the Ayodhya Ram Temple exposing cracks in its Hindutva flank. The Ram Temple has been too closely tied to the BJP’s political narrative, for the party to claim that the Temple Trust works independently of the government. Moreover, top members of the Trust are closely associated with the Narendra Modi government.The Gen Z protests, a powerful expression of youth anxieties about unemployment, exam paper leaks and educational inflation exposed other failures of the government. Both its governments at the Centre and in Lucknow seem to have lost political ground on these issues.The party thought it had reset the terrain of the political fight through fierce debate on the national song, equating it with the national anthem and criminalising insults to it. But the Congress stuck to its convention of singing only the first two stanzas, prompting BJP president Nitin Nabin to call it the “new Muslim League”. Home Minister Amit Shah described its position as “sin”.Any deviation from the new Hindutva framing of nationalism is described by the BJP as diversionary.Union Minister J.P. Nadda called Opposition leader Rahul Gandhi’s sit-in demanding an FIR on pellet gun injuries that blinded a Gen Z student as a diversionary tactic to distract public attention from the party’s stand on singing ‘Vande Mataram’. BJP spokesperson Ravi Shankar Prasad also called Mr Gandhi’s protest “anarchic” and tried to bring focus back on the Congress refusal to sing all six stanzas of ‘Vande Mataram’. He said it showed the Congress remained under the influence of the Muslim League and persisted in “pro-Muslim appeasement”.Historically, UP has been the nerve-centre of BJP’s Hindutva nationalism and communal politics. The BJP hopes the controversy will create a sharp emotional divide among the voters before the February 2027 polls. After setbacks in 2024, including losing the Faizabad/Ayodhya Lok Sabha seat, the BJP needed a cultural anchor. By passing a strict law around singing the song, it hopes to revive its old rhetoric of nationalism vs. vote-bank politics. Its aggressive accusation of the Opposition parties as “minority appeasing” is intended to provoke them into taking a public stance, which could break their PDA (pichhda, dalit, alpsankhyak) caste alliance in favour of a larger religiously defined, nationalist identity.The strategy is, however, undermined by the fact that many BJP leaders themselves neither know the words of the entire song nor their meaning. Rural voters could relate to the slogan but the nuances of two versus six stanzas is likely to evade them. Political geography also matters. The BJP was able to use the 150th anniversary of ‘Vande Mataram’ to its advantage in West Bengal.
-
-But it was a song composed in Bengal and carries a regional legacy charged with communal polarisation of the state since 1905.West Bengal was also a state the BJP was trying to break into. In UP it has been in power for a decade. Besides, the donation theft scandal has landed squarely in Faizabad/Ayodhya, territory. The BJP is already in power in UP and cannot avoid responsibility. The issue is a live legislative weapon in the UP Assembly, not just a talking point.The questions being asked of the BJP's governments in Delhi and Lucknow cannot be deflected by calling the Opposition anti-national or pro-Muslim. The BJP does not seem to recognise that when millions of devotees, presumably including its own supporters, feel cheated, that is a different order of political risk than a historical dispute over the acceptability of a song’s lyrics. One is a breach of trust within the BJP’s own ranks; the other is a stick to beat the Opposition with.The ‘Vande Mataram’ narrative may change the media cycle, which the Modi government controls. However, it works in a different register (civilisational, nationalism vs. Congress) from the donation scandal (institutional accountability versus the BJP’s ecosystem). It is farfetched to assume that one will substitute for the other in the voters’ minds. If the Opposition keeps mobilising people’s support on the donation theft issue, the BJP will not be able to relegate it to the background using the ‘Vande Mataram’ narrative.Nor can the ‘Vande Mataram’ issue sweep away Gen Z discontent. The slogans at the Jantar Mantar protest and others that followed across the country show that India's youth prioritise material survival and exam accountability over cultural identity.The offer of a Hindu nationalist identity which worked to break up coalitions based on caste identities cannot work in the same way against the Gen Z narrative. This is not identity or caste-based — it cuts across these divisions, forcing attention onto exam paper leaks,...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/bharat-bhushan-vande-mataram-wont-hide-temple-graft-gen-z-revolt-1981609)
-
----
-
-### Suman Sahai | Ken-Betwa Link: Development or More Mindless Discrimination?
-*Deccan Chronicle · Opinion*
-
-Linking the Ken and Betwa rivers has become an issue once again. Members of the communities living along these rivers are protesting this in novel ways, lying on simulated funeral pyres in the river waters, starting hunger strikes in a submerged state, or standing in the river with nooses around their necks. “We’ll turn into Durga and Kali,” say the women protesting in chest-deep water. The images are powerful, disturbing; they tell you how much this move has upset those who live along the river and venerate it.I have travelled through this landscape a few times over the years. In Panna the Ken River flows with a rare serenity, almost stillness. The forests are alive with biodiversity, the terrain rugged yet beautiful, and the river sustains not only wildlife but entire communities of farmers, fishers, forest dwellers and pastoral families. To stand on the banks of the Ken is to understand that rivers are not merely channels of water to be engineered on drawing boards. They are living ecological systems. Which is why the Ken-Betwa river-linking project is deeply troubling.The project is being promoted as a solution to Bundelkhand’s water crisis, with promises of irrigation and drinking water for drought-prone districts. But beneath the language of development lies a familiar and disturbing reality: forests will be destroyed, the ecology dented. Thousands of people will lose their homes and ancestral lands, and they will lose their livelihoods. India’s track record on rehabilitating persons displaced by dams and development projects is very poor, in fact rehabilitation in India has rarely been just or complete. Rather than equitable development, this project too, like earlier dam projects, will help some and discriminate against many others.Independent estimates suggest that more than 22 villages would be displaced, affecting over 7,000 families in Panna and Chattarpur districts, and of these, 20 villages would be completely submerged by the Ken-Betwa project, many of them Adivasi communities dependent on forests and river ecosystems for survival. The Daudhan dam, the cornerstone of the Rs 45,000 cr Ken-Betwa Link Project (KBLP), alone will submerge large areas, including parts of the Panna Tiger Reserve. The irony is painful: a project meant to solve distress in one region will create another geography of suffering elsewhere.This is a familiar playbook and India has seen it before. When the Bhakra-Nangal dam was built after Independence, it was hailed as one of the “temples of modern India”. It is located on the Sutlej river along Bilaspur in Himachal Pradesh and Rupnagar in Punjab. Yet behind that grand national narrative lay the 371 submerged villages which took away everything from some 36,000 families — their homes, their assets and their livelihoods.Families were promised cultivable land, rehabilitation and a better future. Decades later, many oustees were still fighting legal battles for proper compensation and land rights. Reports have documented how displaced families were pushed onto barren or disputed lands, while many landless workers and labourers were excluded entirely from compensation because they did not possess formal land titles.This pattern repeated itself across India. The Hirakud dam in Odisha displaced more than one lakh people and submerged over 300 villages. Many never received proper rehabilitation. The Pong dam displaced more than 30,000 families from Himachal Pradesh, many of whom were relocated to Rajasthan with promises of fertile agricultural land. Several families reportedly received arid land without irrigation or clear ownership rights. Some are still fighting for justice after half a century.The ⁠Narmada Valley Development Project, which includes large structures like the Sardar Sarovar Dam and other dams on the Narmada river, led to massive displacement. Over two lakh rural and tribal people lost their homes and lands to reservoir submergence without fair compensation. The Narmada project also caused severe environmental damage, like submergence of dense forests, destruction of local wildlife habitats and obstructed the migration paths for fish.Official statements usually assert that rehabilitation has been completed, but independent investigations document missing land allotments, fake registries, uncultivable plots on a large scale and thousands of excluded families. Even today, many displaced families continue to seek their just dues and compensation. This is the history of “development” and discrimination in India.Such discrimination results in livelihood collapse. The forest gatherer loses access to forest produce. The fisher loses the river. Tenant farmers, artisans, cattle grazers, boatmen and agricultural labourers disappear from official compensation records because they do not exist in government records. This is why people in the Ken-Betwa region are anxious. They know of the government’s track record on rehabilitation. They know that promises made at the time...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/suman-sahai-ken-betwa-link-development-or-more-mindless-discrimination-1981619)
-
----
-
-### Of life and hope unbound
-*Deccan Herald · Opinion*
-
-For a word that seems to be strict about defining the perimeter of individual spaces, it’s surprising that the word ‘bound’ should have a life so predicated on the prefix and suffix. In osmotic linguistic cultures like ours, the first time we encounter the word in some form is perhaps in the phrase ‘boundary wall’. It conditions us to map our own bodies, the skin, and then toes and skull, the equivalents of country and continent. When we go to the origin of the word, there’s a surprise – that it came from seemingly opposite directions, bringing together, tying, as in ‘bound’ and ‘binding’, as well as the circumscribing of space, as, say, we find in the way it’s used to characterise a box-like wall inside which sits a cake-like building.
-
-‘Bound’ and ‘bouquet’ share the first three letters. In both, there is tying, collecting, or gathering, whether it’s flowers from neighbouring habitats or pages in what is about to become a book. These flowers or pages could be identical to each other, but that is not usually the case – different paragraphs, different kinds of flowers, what is being brought together is not a family (tree) but an ad hoc arrangement, a semi-permanent companionship between different species, whether it be flowers or thoughts. That they were often understood to be genetically similar is made evident in a semi-stock phrase such as ‘a bouquet of songs and sonnets’ or ‘a bouquet of poems’. A phrase like that would provide the title for poetry collections and anthologies for many generations. That it should be composed of multiple things not necessarily related to each other was inherent in the history of ‘bouquet’ itself. Originally meaning a ‘grove of trees’, it soon became lenient, coming to stand for a ‘cluster’ of trees. I say ‘lenient’, but what I probably mean is an elastic accommodativeness.
-
-Limits of the colonised mindHow then could such a word, that glued disparate things, also come to mean something that kept things out, as in the ‘boundary’ wall? To understand this is to become aware of one’s jaw tightening at the bristly relationship between the outside and inside. The rules inside the ‘boundary wall’ of one’s house – or ‘compound’ – are different from those outside it. The boundary creates restrictions, physical but, more importantly, psychological. Of the kind, say, I feel when writing this ‘column’ – a closed space with well-marked boundaries created by editors and the design team. There’s the word ‘limit’, so that what I say does not spill out of the boundary wall of this column. I am bound by that contract with the editor even as I write from what I might understand as an unbounded spirit.
-
-Why did Shelley feel so emotionally and creatively driven to free Prometheus from Prometheus Bound? Aeschylus had written a trilogy, and Prometheus Unbound had been one of them, but only Prometheus Bound was extant; the other two were lost to history. I’m tempted to see this loss as defining Western civilisation the way the loss of Aristotle’s theory of comedy has – the first censoring audacity of the creative spirit, the second turning the tragic as Western man’s default residency. Prometheus had, as we know, stolen fire for humans, to whom he had also given the arts and sciences – music as much as medicine and metalwork, writing and numbers – for which he’d been punished by Zeus. In Aeschylus’s lost play, there is ‘reconciliation of Jupiter with his victim’, as Shelley put it, and it was this mild reconciliation that the Romantic poet wanted to challenge.
-
-‘I was averse from a catastrophe so feeble as that of reconciling the Champion with the Oppressor of mankind. The moral interest of the fable, which is so powerfully sustained by the sufferings and endurance of Prometheus, would be annihilated if we could conceive of him as unsaying his high language and quailing before his successful and perfidious adversary,’ he wrote in the introduction to his ‘lyrical drama’, a play that was meant more for the ear and the mind than the stage.
-
-What does being unbound mean? ‘To defy power, which seems omnipotent;/ To love, and bear; to hope till Hope creates/ From its own wreck the thing it contemplates;/...Good, great and joyous, beautiful and free;/ This is alone Life, Joy, Empire, and Victory.’ This is a manifesto that the French Revolution – under whose spell Shelley wrote his Prometheus – made possible. I’ve found myself returning to these lines lately, thinking of an India Unbound.
-
-The writer is an author and poet. Her books include How I Became a Tree and Provincials.
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-Write to us at: theprism@deccanherald.co.in
-
-[Read full article](https://www.deccanherald.com/opinion/of-life-and-hope-unbound-4120931)
-
----
-
-### The inherited burden in Dalitality
-*Deccan Herald · Opinion*
-
-In 1969, John Fogerty of Creedence Clearwater Revival wrote Fortunate Son as an indictment of inherited advantage: some are born protected, others are born exposed.
-
-“Some folks are born silver spoon in hand/ Lord, don’t they help themselves”
-
-Suraj Yengde’s Caste: A Global Story reasserts the same indictment, but with a different ethnographic ground and a wider comparative reach. Ranked inequality of a caste-like kind appears in many places, even if India’s version carries what Amartya Sen, in his foreword to the book, calls a “shameful uniqueness”. Yengde’s narrative follows that ranking system as it moves across oceans, archives, and generations.
-
-“It ain’t me, it ain’t me I ain’t no senator’s son/ It ain’t me, it ain’t me I ain’t no fortunate one”
-
-Readers of Yengde’s earlier Caste Matters will recognise the same auto-ethnographic impulse. That earlier book was driven by the lived experience of what he calls ‘Dalitality’ – a term he uses to name the accumulated weight on the being of those born into the lowest rung of the caste ladder. The new book keeps the personal current but then travels with it. The introduction and Chapter 1, ‘Colonial Dalitality’, examine how the British census and official reports first gave administrative shape to Dalit groups by recording their subjection, occupations, and socio-spiritual separateness. Yengde insists that Dalits were never merely passive subjects in these classifications; they also claimed, refused, or reworked the labels imposed upon them.
-
-Chapters 2 and 4 stage the book’s central claim: that caste is not a fixed Indian inheritance but a system of ranking that crosses borders and takes new forms.
-
-In Chapter 2, ‘Affairs of Letters: Dalit Responses to Black Literature’, Yengde shows that the conversation between Dalits and Black Americans did not begin with the Dalit Panthers or in the 1970s. Ambedkar himself was the first major Dalit thinker to engage African American experience systematically, notably in his reply to Lala Lajpat Rai’s comparison of untouchability and American slavery. Later, M N Wankhede, principal of Milind College and founder of the journal Asmita, became the central mediator, introducing Black literature to a generation of Marathi Dalit writers. Janardhan Waghmare, writing from rural Marathwada, pushed the comparison further, treating slave narratives as directly analogous to Dalit conditions and reading the American Dream against Malcolm X’s American nightmare.
-
-What Yengde captures well is both the depth of this one-directional literary solidarity and its limits: after the 1960s, the Black American side remained largely unaware of Dalit developments, language barriers slowed translation, and the relationship stayed more inspirational than reciprocal. The chapter is innovative precisely because it refuses easy romance; it documents a real intellectual genealogy while remaining honest about its asymmetries.
-
-“It ain’t me, it ain’t me I ain’t no millionaire’s son/ It ain’t me, it ain’t me I ain’t no fortunate one”
-
-Chapter 4, ‘The Dalit Republic of Diaspora: A Case Study of Trinidad’, is the book’s most vivid demonstration that caste does not simply dissolve when it crosses the ocean. Drawing on earlier ethnographers and his own fieldwork, Yengde shows that while many lower-caste indentured labourers arrived in Trinidad, hierarchy reasserted itself in new forms. Colin Clarke’s 1964 survey found that only a small fraction of Hindus still knew their caste by name, yet Brahmanical prestige had actually increased rather than faded. Outcastes were still marked – food served on a leaf instead of a plate, subtle exclusions at religious gatherings. Caste survived as a code of identity, prestige, ritual, and endogamy. It underwent what Yengde calls a kind of creolisation: mixed with other groups, reshaped across generations, and kept alive inside Hindu organisations such as the Sanatan Dharma Maha Sabha, where pandit superiority could still surface in the order of the food line. The chapter makes Yengde’s global claim concrete: caste moves, mutates, and finds new institutional homes rather than dissolving.
-
-The book concludes by returning to the author’s notes as archivist and activist. The result is a more ambitious book than Caste Matters. It demonstrates the same urgency of voice, but now, it’s stretched across a larger map.
-
-“Some folks inherit star-spangled eyes/ Ooh, they send you down to war/ And when you ask them, ‘How much should we give?’/ Ooh, they only answer, ‘More, more, more’”
-
-This song still cuts because the structure it named has not disappeared. Yengde’s book demonstrates this on a larger map. In the conclusion, he turns the question back onto the dominant castes themselves: it is we, more than the caste-oppressed, who need to confront the social and religious creeds that cannot tolerate human equality. Some are born protected by the system; others inherit its weight. Yengde, like Fogerty, asks who gets to remain the fortunate one, and at whose expense the protection is maintained.
-
-The writer, as Dr Jekyll, is a Professor of Philosophy, Politics and Law, author and editor of over 20 books and counting, and as Mr Hyde, one of India’s top-ranking Ironman triathletes.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
-
-Write to us at: theprism@deccanherald.co.in
-
-[Read full article](https://www.deccanherald.com/opinion/the-inherited-burden-in-dalitality-4120936)
-
----
-
-### Transition at the Tatas
-*Deccan Herald · Opinion*
-
-I spent eight exciting years with the Tata group in India. I was on my second job there. Yes, in those days, sticking to companies longer was considered a good thing, unlike today, when it’s less fashionable. I had spent the previous eight years with a multinational. I joined the Tatas and realised there is life beyond the multinational.
-
-The Tata group is an interesting study. As of today, the organisation employs 1.16 million people globally, has businesses as diverse as consumer goods, aviation, IT services and emerging electronics, and boasts a turnover that exceeds $185 billion. This is a behemoth of an enterprise for sure.
-
-As I write this, the Tata group is in the middle of a corporate churn. A transition in leadership. N Chandrasekaran, the celebrated Chairman of Tata Sons with almost 10 years at the helm and a total of 40 years in the group, has decided not to renew his availability to be the Chairman for the next tenure of years possible, five or three (whatever that could have been at the behest of the Board and the shareholders).
-
-Chandra, as his friends call him, has called it a day following a set of internal tussles. His current term ends in February 2027. His exit follows a period of substantial growth, profits, and new initiatives that may both contribute and bleed in the short and medium term (Air India, the digital forays, semiconductors, EVs, and more), but promise to insulate the group in the long term. This is a challenge the group will need to brace for.
-
-Tata’s next chairman has a bigger problem than succession: The power to say noThe Tata group has clocked 158 years of existence. This business enterprise precedes the nation by 79 years. Over these tumultuous decades, the group has seen a total of seven chairmen leading it. Chandrasekaran, who took charge in February 2017, was the group’s first Chairman from outside the Tata family. He rose to his present stature through his brilliant steering of the crown jewel of the group – Tata Consultancy Services – to what it is today.
-
-While theories (both real and conspiratorial) exist to explain this leadership jam, much has already been written about it. Therefore, I will not venture into that contentious space in this column for the sake of space. Suffice it to say that at one end of this entire debate are the owners of the group, and at the other is the operational and strategic leadership. The ownership is represented by the philanthropic trusts (which own two-thirds of Tata Sons and work in charity and societal causes), while the operational and strategic leadership is represented by the Chairman and the Board of Directors. Over nearly 16 decades, the privately held company has refined this hugely successful model, positioning itself as an exceptionally consistent enterprise. Noel Tata, representing the owners, has decided to float a search for the next Chairman. The choice is still a matter of conjecture and will hinge on multiple variables, with the only constant being the timeline – by March 2027, Tata Sons will have a new Chairperson.
-
-All change is good, I guess. Leadership is a response to challenges. Every enterprise needs a change at the helm after seven years. These transitions are vital for the long-term health of the enterprise. Business environments evolve continuously, and each distinct era brings a set of fresh hurdles that demand a tailored approach. Because corporate challenges fundamentally shift over a seven-year cycle, executive leadership must adapt accordingly. No single style of leadership can remain effective indefinitely, nor should any organisation expect it to. I make these comments based on my study of leadership styles across 61 corporate enterprises in India and Sri Lanka. I believe that the group is getting into investment-deep years: investment in terms of routes to market, people, technology, energy, and more.
-
-Having worked with the group for eight years, I have witnessed a unique trait that sets it apart from other corporate entities. There exists a distinct ‘Tata way’ of doing business; a framework that defies conventions of corporate practices. It has evolved and endured along with the brand, and has in many ways defined the ethos of the House. As the organisation awaits another transition in leadership, it will bet on its foundational ideals to prevail, carrying forward its legacy.
-
-The writer is an ambassador of brands and a corporate keynote speaker with more than 18,000 hours to date.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
-
-Write to us at: theprism@deccanherald.co.in
-
-[Read full article](https://www.deccanherald.com/opinion/transition-at-the-tatas-4120940)
-
----
-
-### Politicians paid more for less work
-*The New Indian Express · Opinion*
-
-John Locke believed that the purpose of government was to preserve the rights of those who entrusted it with power, while Burke saw representative government as a solemn understanding between the elected and the elector. Neither imagined that democracy would one day acquire the institutional paraphernalia of a corporate establishment, with its own expanding hierarchy of salaries, allowances, vehicles, houses and privileges.
-
-Yet that is precisely the uncomfortable reality India is facing. When Tamil Nadu Chief Minister C Joseph Vijay announced that all 234 of the state’s MLAs would be provided government vehicles, Rs 75,000 a month for fuel, maintenance and driver expenses, and another Rs 25,000 for an assistant, he may have intended to strengthen the capacity of legislators to serve their constituents. It’s going to cost over Rs 200 crore for a full five-year term. With this, Vijay has inadvertently reopened a much larger debate about the price of representative government and, more importantly, about whether the growing cost of political office is acquiring the contours of transactional politics.
-
-There is a perfectly legitimate justification for providing lawmakers sufficient means to perform their responsibilities. An MLA is expected to travel through a constituency, attend public meetings, meet officials, inspect schemes and respond to thousands of individual grievances. Many of Tamil Nadu’s legislators are first-time representatives and may not possess the personal resources of established politicians. But somewhere between legitimate assistance and political largesse lies a line that democratic governments cross with increasing frequency. A facility meant to enable public service can easily become a perk which, once granted, has a remarkable tendency to become an entitlement. The citizen is meanwhile expected to accept that public expenditure must be restrained, subsidies must be rationalised and government departments must economise. The contrast is becoming increasingly difficult to defend.
-
-It’s not a Tamil Nadu phenomenon alone. Bihar provides another revealing example. The ruling political establishment in Bihar has been remarkably expansive. Just before the state elections, it sanctioned additional official accommodation and the construction of new residential facilities for legislators. Governments change, parties change and political rhetoric changes, yet once power is acquired, the political class appears to rediscover a common fraternity: better cars, better houses, better salaries and better facilities for those who occupy legislatures. The citizen is perpetually reminded of fiscal prudence and the legislator, rather more often, of what the public purse can provide.
-
-That is why the question cannot be reduced to whether MLAs or MPs are paid too much. They must be paid adequately. The real issue is whether the compensation attached to public office bears any relationship to the responsibilities discharged by those who receive it. The paradox is that the political class has become more expensive while the legislature itself has become less deliberative.
-
-State Assemblies have, on average, been meeting for only a fraction of the year, with several states recording extraordinarily low numbers of sitting days. Parliament has not been immune to the malaise. Sessions are increasingly punctuated by adjournments, protests, walkouts and partisan confrontation, leaving insufficient time for the sustained examination of legislation, expenditure and executive decisions.
-
-No one should imagine that the quality of democracy can be measured in terms of number of sittings alone. But when legislative time diminishes while political privileges expand, the citizen is entitled to ask whether the two trends can indefinitely coexist. According to unofficial estimates, the exchequer spends over Rs 2,000 crore annually on 4,200-odd MLAs and 788 members of Parliament. In addition, they are also given an amount varying from Rs 1 crore to Rs 5 crore to spend on amenities in their own constituencies. There isn’t any credible evidence whether such a massive discretionary expenditure by each of them has made our villages or small towns a better habitat than before.
-
-But there is an additional irony. The Indian voter is perhaps the most unforgiving auditor of political performance. Sitting legislators are routinely defeated, anti-incumbency remains one of the most powerful forces in Indian electoral politics. Yet the citizen has almost no effective mechanism during the five-year term to demand an account of how much public money is being spent on an elected representative and what measurable public service is being delivered in return.
-
-This does not mean that the answer is austerity for legislators. A poorly-paid politician can become more susceptible to corruption, patronage and private influence. The answer lies in establishing a more credible compact between privilege and performance. If legislators are provided vehicles, their use should be transparent and auditable. If they receive assistants, the expenditure should be accounted for. If constituency funds are placed at their disposal, every project should be traceable.
-
-If salaries and allowances are increased, there should at least be a parallel expectation of attendance, committee participation, legislative scrutiny and productive sitting days. They are leveraging their legal legislative power in their favour. Now, they are paid more for doing less work.
-
-The danger is not that India will be bankrupted by luxurious elected leaders. The danger is that political privilege will gradually become normalised across parties and states until nobody remembers to ask where necessity ends and indulgence begins. The language of public service can then become a convenient vocabulary for private comfort, while the taxpayer is left to finance an increasingly elaborate architecture of power. India must spend money on democracy. But democracy cannot be judged by how generously it treats those who govern. It must ultimately be judged by how responsibly those who govern treat the money, institutions and trust placed in their hands. A mature democracy should not merely ask whether it can afford its politicians; it must periodically ask whether its politicians have earned the extortionate price of being afforded. India’s democracy is staring at a rather contrastive question: does India need a paid or a performing democracy?
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Aug/22/politicians-paid-more-for-less-work)
-
----
-
-### Govts’ carry trade a rising global risk
-*The New Indian Express · Opinion*
-
-Updated on: 22 Aug 2026, 7:07 pm4 min readCopiedNations borrow against tomorrow’s growth. And it would seem tomorrow has arrived for many of them.
-
-On Wednesday, US’s gross federal debt crossed $40 trillion—more than the combined GDP of China, Germany, Japan, India and the UK. Look at the interest cost. The Congressional Budget Office estimates it at $1.039 trillion. That is more than what the US spends on defence, which itself is $900 billion—more than that of the next six countries. In geopolitics and geoeconomics, scale defines attention.
-
-The rise in debt is scarcely a secret. The US Debt Clock updates by the second. Over the past year, the country has added $5.49 million to its debt per minute. The load is worsened by wars and the messy tariff landscape; Friday saw Canada walking out of its trade talks with the US. The $40-trillion milestone sent the yield on US 30-year bonds past 5.33 percent, the highest 19 years. The rate signalled trouble across the economy—from the cost of government borrowing to that of credit card debt. Treasury Secretary Scott Bessent stepped in to declare his department would double its buyback from $2 billion a day to $4 billion. The long bond market rallied to 5.18 percent, only to pop up like a financial whack-a-mole.
-
-The market mocked the intervention, calling it a band-aid on a bullet hole. Bessent, a former hedge fund operator who worked with George Soros, dismissed the retracement, stating, “Anything that happens within a 24-hour period is noise.” The signal went up in smoke. The market found Bessent and Fed Chair Kevin Warsh’s word salads unpalatable. On Friday, the yield on 30-year gilts touched 5.28 percent and nudged the benchmark 10-year to 4.74 percent.
-
-Zoom out, and the American story is a common one of nations living beyond their means. The 10 largest economies—the G7 plus China, Russia and India—account for nearly two-thirds of global GDP at $83 trillion. Not one of them covers spending from total revenues, let alone from taxes alone unless they borrow. It is what punters call a carry trade—borrow at one rate, hold or invest in the hope of higher returns, which in this case is GDP growth. India has its own quiet carry trade within the mechanics of fiscal management. The Reserve Bank transferred a record `2.87 lakh crore—a windfall from foreign exchange operations—to the government, patching up the fiscal gap.
-
-The model for decades was to borrow at yields below nominal GDP growth rate and let growth service the debt—the scope for borrowing went up as interest rates went down after the global financial crisis. Olivier Blanchard told a room of economists in 2019 that public debt is not problematic, as the interest rate paid on it stays below the economy’s growth rate. The equation r<g has been upended. The 2026 Annual Economic Report of the BIS states the rate-growth differential has narrowed. Debt and interest rates are up and growth is sliding. As every punter knows, the carry position is viable until the moment it is not.
-
-Following Covid-19, public debt spiralled to near post-Second World War highs in many economies and GDP growth has also slowed from post-pandemic peaks. Sovereign debt of the G7 plus India, China and Russia, as per IMF data, is at $94 trillion. Data on interest costs as a proportion of GDP illuminates the spectre. Interest cost borne by the top 10 economies is around $2.23 trillion. India carries the extreme version—interest absorbs 25 percent of every rupee spent, the worst ratio of the 10, on the second-narrowest revenue base. Rising debt and deficit catalyses political rhetoric over how much is spent on whom—elections are effectively a contest of schemes.
-
-The debt toll is rising. The world has migrated from demand deficit to supply scarcity, is navigating the punitive impact of wars and paying the price for onshoring capacity via new industrial policies. The trade does not stop at the sovereign. The sovereign is only the first floor. Below it are corporations. JP Morgan estimates the data centre buildout could touch $5 trillion by 2030, with $2 trillion financed in credit markets. JP Morgan CEO Jamie Dimon warned of high levels of margin debt and leverage. Ray Dalio of Bridgewater warned of a debt crisis and advised folks to buy gold.
-
-It is layer upon layer, with lenders and borrowers assuming the asset beneath will retain value. Hedge funds borrowing against Treasuries. Private-credit funds lending against increasingly leveraged companies. Hyperscalers borrowing to finance AI infrastructure. Households borrowing against houses, shares and gold. That is how leverage becomes a pyramid. What happens in the US bond market does not stay in the bond market. Fears of a weaker dollar rattled investors at home and the prospect of higher rates hung over emerging markets. A synchronised selloff—driven by inflation concerns, rise in fiscal deficit and the rush of capex borrowers—sent long bond rates to decadal highs across advanced economies.
-
-The higher cost of money threatens the economic and political model in democracies. The OECD spends nearly 20 percent on welfare. India must fund the world’s largest food, employment, health programmes. Even as democracies tool and retool income security schemes, the fact is that the world is yet to know the impact of AI on jobs. The murmurs of new taxes—on real estate, on billionaires—are smoke signals.
-
-For years, governments and corporations believed they could outrun the rising cost of money. But as the carry trade turns, a delicious irony is emerging. It was once said that socialism runs out of other people’s money. Now, the modern capitalist economy may be discovering that it, too, can run out of cheap money.
-
-Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Aug/22/govts-carry-trade-a-rising-global-risk)
 
 ---
 
