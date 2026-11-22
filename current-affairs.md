@@ -1,3 +1,716 @@
+## 22 November 2026
+
+### Airbnb looks beyond traditional holiday hubs to deepen India presence, bets on homestays
+*PTI · business*
+
+Over 85% of bookings by Indian guests in the first half of 2026 were domestic, while almost 70% of first-time bookers during the period were from Gen Z. | Photo Credit: Dado Ruvic
+
+Global hospitality platform Airbnb is looking to deepen its presence in India by expanding beyond traditional holiday destinations, strengthening the homestay ecosystem and bringing more local entrepreneurs onto its platform to tap the country's growing domestic travel market.
+
+In an interview with _PTI_, Airbnb India Country Manager Amanpreet Bajaj said the company's India growth strategy will focus on expanding quality accommodation supply, enabling more communities to participate in tourism and diversifying its offerings beyond stays through experiences and services.
+
+"We will also continue expanding quality supply, both in traditional leisure markets and metros and in emerging destinations such as spiritual corridors and nature-led locations. We want travellers to have more choices and local communities to benefit from tourism," Bajaj shared.
+
+He highlighted that India is one of Airbnb's fastest-growing origin markets globally, with domestic travel emerging as a major growth driver. Over 85 per cent of bookings by Indian guests in the first half of 2026 were domestic, while almost 70 per cent of first-time bookers during the period were from Gen Z.
+
+The company is looking to expand its reach beyond established leisure destinations such as Goa and hill stations, with growing interest in cultural, spiritual, nature-led and rural tourism.
+
+"We have a presence across India, and the travel map is widening as travellers look beyond traditional tourism hubs for nature, culture, heritage and local experiences," Bajaj said.
+
+Destinations such as Kangra, East Khasi Hills and Srinagar, along with hill stations in Himachal Pradesh and Uttarakhand, are attracting attention, while Varanasi and Amritsar are emerging as important cultural and spiritual tourism destinations, he added.
+
+As demand spreads to newer locations, Airbnb is also focusing on developing accommodation supply and building a stronger host ecosystem in these markets.
+
+Its two-year memorandum of understanding with the Ministry of Tourism is aimed at strengthening India's homestay ecosystem through host training, digital onboarding and destination promotion.
+
+The company also conducts community meet-ups and training programmes to encourage more people to participate in tourism. It has piloted the Airbnb Entrepreneurship Academy in Goa to help prospective homestay hosts learn hospitality best practices and prepare to welcome guests.
+
+Bajaj cited the company's long-standing partnership with the Self-Employed Women's Association (SEWA) in rural Gujarat, under which women have received training to open their homes to visitors.
+
+He stressed that the economic benefits extend beyond the accommodation business.
+
+"Hosts have also told us that welcoming visitors creates opportunities beyond the home: local young people can provide transport, artisans can sell their products, and shops and restaurants can benefit. That is the multiplier effect of tourism on a local economy," Bajaj said.
+
+He shared that Airbnb will keep strengthening its core stays business while expanding what guests can do through experiences and services.
+
+Technology-led initiatives are another part of the strategy, with the company introducing AI-powered tools for searching, filtering and comparing homes, alongside features aimed at simplifying the hosting process.
+
+Airbnb has introduced more than 250 product enhancements for hosts over recent years, including tools for listing homes, pricing guidance, AI-powered photo tours and an interactive earnings dashboard.
+
+The company wants to make hosting simpler while improving the quality and choice of accommodation available to travellers, Bajaj said.
+
+"The goal is not simply to capture more demand, but to meet the evolving needs of a new generation of Indian travellers, with Airbnb options across different price points, places and travel occasions," he observed.
+
+Published on November 22, 2026
+
+---
+
+### Nepal's Balen Shah on India visit. What he's bringing for President Murmu, PM
+*Pankaj Das · general*
+
+Nepal's Balendra "Balen" Shah is set to gift Prime Minister Narendra Modi and President Droupadi Murmu two idols reflecting historical ties between the two countries, during his India visit, which is set to begin on Sunday. The move will mark a departure from the traditional gifts presented by previous Nepali prime ministers.
+
+The Nepal PM, who is arriving in New Delhi on a two-day state visit, is scheduled to hold separate meetings with PM Modi and President Murmu on Monday.
+
+While his predecessors have traditionally presented replicas of the Pashupatinath Temple during visits to India, Shah has chosen gifts that highlight Nepal's historical, cultural and religious ties with India.
+
+He will gift an idol of Rato Machhindranath to PM Modi. The deity is deeply associated with Nepal's religious, cultural and historical identity and is revered as a prominent deity in the Kathmandu Valley.
+
+According to traditional Nepali beliefs, King Narendra Dev of the Licchavi dynasty brought Rato Machhindranath to the Kathmandu Valley from present-day Assam.
+
+Legend has it that the valley was facing a prolonged drought and famine at the time, and rainfall began after the deity was brought to Nepal.
+
+The Nepal PM is also set to gift President Murmu an idol associated with Charumati Vihar in Chabahil, Kathmandu. The monastery's history is linked to Mauryan emperor Ashoka and his daughter Charumati.
+
+According to traditional accounts, Ashoka visited the Kathmandu Valley with his daughter, who later married a local prince, Devpal, and settled in the Devpatan area.
+
+Charumati is believed to have established the monastery in the region, where she is also said to have died.
+
+Through the two gifts, Shah is expected to underscore the centuries-old religious, cultural and civilisational ties between India and Nepal, drawing on shared heritage that extends beyond diplomatic relations.
+
+### BALEN SHAH INDIA VISIT: BRIEF OVERVIEW
+
+Shah is scheduled to visit India from November 22–23 at the invitation of PM Modi.
+
+"The visit continues the tradition of regular high-level exchanges between the two countries and reflects the importance India attaches to its relations with Nepal under its 'Neighbourhood First' policy," the Ministry of External Affairs (MEA) said in a statement earlier this week.
+
+"It will provide an opportunity to further strengthen the bilateral partnership and advance mutually beneficial cooperation," it added.
+
+Nepal holds strategic significance for India in the region, with leaders of both countries frequently underscoring their longstanding cultural and familial ties, often described as the "Roti-Beti" relationship.
+
+As a landlocked country, Nepal depends heavily on India for trade and transit, with the bulk of its imports coming from or routed through India. It also relies on Indian territory for access to the sea.
+
+"India and Nepal share close and friendly relations, rooted in historical, cultural and civilisational links and strong people-to-people ties," the MEA said in its statement.
+
+New Delhi-Kathmandu bilateral ties witnessed some strain in May this year after Balen Shah called for China and the United Kingdom to be involved in resolving the long-standing border dispute between India and Nepal.
+
+India and Nepal have long been locked in a territorial dispute over Lipulekh, Limpiyadhura and Kalapani.
+
+New Delhi has consistently maintained that the territories are part of India.
+
+\- Ends
+
+(With additional inputs from PTI)
+
+---
+
+### EV brand E-Went eyes mass market, to test sodium-ion batteries from December
+*PTI · business*
+
+Saraogi E-Ventures’ revenue crossed ₹50 crore in FY26, and it is targeting ₹65 crore in the current financial year.
+
+Kolkata-based Saraogi E-Ventures, which markets electric two-wheelers under the E-Went brand, sees significant growth opportunities in India's price-sensitive markets, particularly in the sub-₹1 lakh segment, while exploring sodium-ion battery technology as an alternative to conventional lithium-ion batteries, its founder and CEO Umang Kumar Saraogi said.
+
+The company plans to begin trials of sodium-ion battery-powered scooters around December, deploying some vehicles for testing. The technology is being explored for its potential safety advantages over conventional lithium-ion batteries, although its relatively lower energy density makes the battery packs bulkier, Saraogi said.
+
+"It is supposed to be safer. We expect to conduct trials here starting in December and deploy some vehicles with these batteries. The economics and convenience have to be evaluated before we can deploy them in our new product launches. Currently, most of the models use lithium-ion technology," he told _PTI_.
+
+If commercialised successfully, sodium-ion batteries could accelerate India's push to indigenise battery manufacturing by tapping into abundant domestic raw materials, cutting the country's heavy reliance on imported lithium-ion components.
+
+The battery trials form part of its broader product development efforts.
+
+Saraogi said regional electric two-wheeler manufacturers have considerable growth potential as national brands largely focus on premium models, leaving the sub-₹1 lakh segment and smaller towns relatively underserved.
+
+Buyers in tier-three and smaller towns, as well as rural areas and consumers in tier I and II cities, often look for affordable mobility options, creating space for regional players that can build their businesses through local dealer networks, lower ownership costs and word-of-mouth publicity rather than expensive branding campaigns, he said.
+
+"For someone earning ₹30,000–50,000 a month, a high-priced electric scooter is often beyond their consideration. They are looking for a reliable, value-for-money mobility solution that fits within a budget of ₹1 lakh, with minimum maintenance cost over the vehicle’s life," Saraogi said.
+
+"At E-Went, we believe electric mobility should be for every Indian who wants to make a smarter choice, not just those who can afford premium technology," he said.
+
+Saraogi said national manufacturers largely concentrate on tier-one and tier-two cities with relatively expensive models, leaving considerable scope for smaller companies to cater to customers in less penetrated markets.
+
+Rather than pursuing an aggressive pan-India expansion, Saraogi said the company plans to deepen its presence in the states where it currently operates, including West Bengal, Jharkhand, Bihar, Chhattisgarh, Odisha, Assam, Telangana and Andhra Pradesh.
+
+The company has increased its monthly sales from around 100 electric two-wheelers four years ago to 1,000-1,100 units currently, largely through word-of-mouth publicity, he said.
+
+"We don't plan to go national. If we deepen our presence in the states where we are already operating, the market potential itself is very large," he said.
+
+Saraogi E-Ventures' revenue crossed ₹50 crore in FY26, and it is targeting ₹65 crore in the current financial year. The company aims to become profitable by 2028, he added.
+
+Published on November 22, 2026
+
+---
+
+### Chalet Hotels plans ₹3,500 cr capex in 3 years: CEO
+*PTI · business*
+
+Chalet Hotels currently has around 3,300 rooms and an announced pipeline of 2,036 rooms, taking it towards its previously stated target of 5,500 keys by 2030.
+
+Chalet Hotels plans to invest around Rs 3,500 crore over the next three years as it expands its hospitality portfolio, with its upcoming Taj-branded property at Delhi airport now expected to open nearly 200 rooms in the April-June quarter of the next financial year, against an earlier plan of 70 rooms, Managing Director and CEO Shwetank Singh said.
+
+The company's upcoming portfolio includes a 380-room Taj hotel at Delhi International Airport Limited (DIAL).
+
+In an interview to _PTI_, Singh shared that while the DIAL airport Taj is nearing its completion, pollution-linked GRAP restrictions caused some delay.
+
+"Otherwise, our plan was to push in about 70 rooms in the fourth quarter of this financial year. It looks like we'll go into first quarter of next year, but because we have more time on our hands, we will probably bring more number of rooms into play. So instead of 70, we'll probably end up with nearly 200 rooms in that," Singh said.
+
+He said the company expected the airport property to make a meaningful contribution to its overall portfolio, although it was too early to quantify the revenue impact.
+
+"We are expecting Rs 3,500 crore of Capex (capital expenditure) deployment over the next three years," he said.
+
+Chalet Hotels currently has around 3,300 rooms and an announced pipeline of 2,036 rooms, taking it towards its previously stated target of 5,500 keys by 2030.
+
+Singh said the company's other projects were progressing as planned, with several properties at different stages of construction.
+
+The company's Udaipur property is undergoing refurbishment and is expected to come online by FY29. Construction has also started on its Ritz-Carlton project in Hyderabad and a 150-key hotel at Q City in the city, both scheduled for FY29.
+
+The 276-key Hyatt Regency Airoli and its 231-key property in Pune district are expected to be operational by FY30, he shared.
+
+On its expansion strategy, Singh said Chalet Hotels would continue to focus on the luxury and upper-upscale segments and would not look at moving into lower categories.
+
+"The play for Chalet is premiumisation at this stage. So we will continue to stay in the luxury and upper upscale space. We don't want to go below that," he said.
+
+The company is also taking a cautious approach towards expanding its homegrown Athiva brand through management contracts or franchising, saying it first wants to establish the brand's financial viability and consistency in guest experience.
+
+"We are nowhere near taking a decision on management contracts or franchising on Athiva yet. We have yet to prove that Athiva is a successful brand financially because we have just started two hotels and it will take a while," Singh said.
+
+He said Chalet would remain agnostic towards brand choices, selecting operators based on the commercial potential of individual markets. While luxury markets would be served through partnerships with third-party brands, Athiva would be considered for upper-upscale opportunities.
+
+Singh also said the company was not looking at entering the branded residences segment immediately, citing concerns over the viability of the investment model for buyers in India.
+
+On inorganic expansion, Singh said the company continued to evaluate hotel acquisition opportunities and would consider deals that aligned with its development strategy and were available at the right valuation.
+
+He said valuations in the hospitality sector were becoming clearer with more hotel companies getting listed, providing benchmarks for transactions and narrowing the gap between buyer and seller expectations.
+
+"Are we looking at hotels to acquire all the time? We have, at any point in time, several deals that we keep looking at and evaluating," he said.
+
+Singh said the hospitality sector was expected to see a stronger second half of the current financial year, supported by an improvement in foreign tourist arrivals and a revival in corporate group travel.
+
+He said geopolitical uncertainties and higher airfares had affected corporate travel demand, particularly large meetings, incentives, conferences and exhibitions (MICE) groups, as organisations became cautious about spending.
+
+"The large groups on the MICE did slow down. The smaller groups were still moving," he said.
+
+Singh said the company was now seeing signs of improvement as the geopolitical situation eased and corporate group movements resumed.
+
+He expects Chalet Hotels' existing portfolio to grow alongside contributions from new properties and commercial assets, providing a strong growth trajectory over the next eight to 10 quarters.
+
+Published on November 22, 2026
+
+---
+
+### Agniveers Allowed To Marry During Second Tour Of Duty, Sources Clarify
+*Manjiri Joshi · general*
+
+Under the Agnipath scheme launched in 2022, candidates must be unmarried at the time of recruitment and are barred from getting married during their initial four-year term
+
+[Read full article](https://www.news18.com/india/agniveers-allowed-to-marry-during-second-tour-of-duty-sources-clarify-ws-klrt-10435952.html)
+
+---
+
+### Mahindra Last Mile Mobility eyes IPO in 18 months; plans expansion into new products: Chairman
+*PTI · business*
+
+Rajesh Jejurikar, Executive Director and CEO, Auto & Farm Sectors, M&M Ltd | Photo Credit: SUPPLIED PIC
+
+Mahindra Last Mile Mobility Ltd (MLMML) is looking at a public listing in about 18 months to unlock value and fund its next phase of growth, including expansion into new product segments and capacity augmentation, even as it explores potential opportunities in overseas markets, according to the company's Chairman Rajesh Jejurikar.
+
+In an interview to _PTI_, Jejurikar, also the Executive Director and CEO of Mahindra & Mahindra's Auto and Farm Sectors, said Mahindra Last Mile Mobility, which already has a valuation of around $1 billion, has two investors on board, with a third expected to come in shortly.
+
+He, however, clarified that the 18-month timeline is broad and the company has not finalised a listing date, as it does not want the management to get distracted by the process and effort involved in an initial public offering (IPO).
+
+"The funds would be used, of course, partly for value unlocking, but mainly for driving growth in new segments and new products, and also for capacity expansion," he said.
+
+"Mahindra would continue participating in this journey as well. Certainly the idea is not to reduce our stake significantly, and hence to be a part of this growth story," Jejurikar said.
+
+On expansion plans, he said MLMML was looking at opportunities across electric three and four-wheelers in both passenger and cargo segments, while retaining its focus on last-mile transportation within cities rather than intercity mobility.
+
+"I won't get into the specifics of what kind of products, but you're right: three- and four-wheeler electric products, passenger and cargo," he said.
+
+The company is also looking at potential overseas markets, with the Earthshot Prize recognition expected to help it forge global partnerships, particularly in Southeast Asia and Africa, and possibly some Western countries.
+
+Jejurikar, however, said international expansion would take time as each market would require an assessment of product suitability, business potential and the level of electric vehicle penetration, apart from building distribution, spare-parts and service ecosystems.
+
+He said the company had received some enquiries following the award but had not yet undertaken detailed work on its global strategy.
+
+The company will not deploy the one million pounds received as part of the Earthshot Prize towards business expansion. Instead, the amount will be used to support women who want to become drivers and promote women's empowerment, he said.
+
+On demand trends, Jejurikar said passenger electric three-wheelers had so far driven growth, but cargo vehicles were expected to pick up.
+
+"So far, passenger has been very strong, but now we believe that cargo will pick up as well," he said.
+
+Jejurikar said vehicle-price incentives under the FAME and PM E-DRIVE schemes were no longer available for the category, with the production-linked incentive (PLI) scheme being the only remaining support.
+
+He said higher volumes would help optimise material costs, while customers recognising the economic benefits of electric vehicles would provide some headroom for pricing.
+
+"Typically, that comes through a combination of things: as you build volume and scale, you are able to optimise material costs. Plus, customers start seeing value and return from using an electric vehicle, and that gives a little headroom on pricing as well," he said.
+
+Published on November 22, 2026
+
+---
+
+### Anthropic rings the Nasdaq bell and then solves Riemann Hypothesis, what next now?
+*Javed Anwer · general*
+
+Of late we are going through a dry patch as far as breakthrough AI models are concerned. But the world of AI is abuzz with everything else. This week was all about Anthropic IPO and the Nvidia saga, but by the end of the week Claude set the tongues wagging after solving Riemann Hypothesis, a 167 years old problem.
+
+Anthropic had an eventful week. On Thursday, the company rang the bell at Nasdaq and immediately became one of the biggest corporations in the world. It debuted with a market capitalization of little over $1.5 trillion and surged past the $2 trillion mark quickly, before its investors — and possibly thousands of employees who are now millionaires — started a selloff to cash-in on the opportunity. 
+
+ANT, which is the Anthropic stock symbol, did slide in the next 24 hours. It was expected due to profit booking. These are early days and the future looks fairly okay for Anthropic, granted the real-world applications of AI materialise in substantial way in the coming months and years. 
+
+That, though, is not a certainty. The Nvidia saga, discussed in Part III of this newsletter, is casting a shadow on all things AI. Financials are yet not aligned for any AI company. Take Anthropic for example. One calculation by the Financial Times suggests that to justify its valuation, and to help investors earn decent returns, Anthropic will have to quickly race to an annual revenue of $600 billion if it wants at least 20 per cent returns on its estimated $1 trillion proposed investment in AI. In 2026 its revenue is going to be only around $45 billion. 
+
+An annual revenue of $600 billion would not be easy. It is also, given the promise of AI, not that far-fetched. Anthropic founder and CEO Dario Amodei seems to have a plan. On Thursday Dario issued a quick message celebrating his company’s IPO. In that he gave a glimpse of what Anthropic is now chasing. The company does not seem interested in chatbots anymore. Instead, the focus is on institutional users instead of individuals. The idea is that if you have AI smarter than any human, then you deploy it in tackling big challenges. And in the process earn big bucks. 
+
+One area that Anthropic is going after bigly, to borrow a phrase from Donald Trump, is medicine. It is a sector where there is a lot and a lot of money. Just ask Novo Nordisk. In his brief statement Dario said, “I believe sufficiently powerful AI, working in concert with humans, could compress a century of scientific and medical progress into a decade.” He talked of how he lost his father to cancer and how “in the future fewer families miss a cure by just a few years” because AI will make treatments faster. 
+
+Solve big questions, remake the world, and revenue will come — that seems to be the idea. “Medicine is just a particularly vivid example, but there are many others,” said Dario. “Our customers— the world’s most ambitious companies, nonprofits, and individual people — are already applying the intelligence we’ve built to stimulate economic growth, lift people out of poverty, protect democracy and free societies, even make everyday services like the DMV work better.” 
+
+It’s clear: Claude will do heavy lifting. Other AI systems can create images, do homework for students, and do late-night chit-chat with people who probably find them unemployed due to AI.
+
+As if to bolster the argument, Anthropic announced a breakthrough just days after its IPO. It said one of its mathematicians worked with Claude to solve the Riemann Hypothesis. The proof is in over 2.5 lakh pages Claude has written while solving this 167-year-old Mathematical puzzle. Riemann is considered one of the most important mathematical questions of our times given its application in fields like cryptography and computing. 
+
+So far it has been assumed the Hypothesis, which ascribes a pattern to how prime numbers like 1, 2, 3, 5, 7, 11, 13, 17 and so on appear, is accurate. But a conclusive proof that it is indeed true, which is what Claude has apparently found, matters. Over the next few months it will need to be validated but the proposed solution is significant because of two reasons. One, if everything checks out then Riemann Hypothesis has been conclusively proven to be true. Big! And two, it has been solved by AI in a way that is impossible for humans — through brute force with its analysis and solution running into over 2.5 lakh pages.
+
+So, what is next for Anthropic? I believe the company is pivoting towards using AI to tackle big challenges. The results will not be appearing anytime soon. But in another 6 months to one year we will know whether Anthropic is currently overvalued at Nasdaq or undervalued. In this waiting lies the opportunity for punters of the stock market. For the rest of us, it is business as usual for now. 
+
+## Sarvam pivots, sparks a debate on Indian AI
+
+Sarvam started with a bang and a promise. One of its stated aims is to create a frontier model that is completely Indian. The company in July this year announced it was working to create India’s first 1 trillion model. It may not be enough to match the frontier models that nowadays have 2 to 3 trillion parameters, but a well-tuned 1-trillion model will be a breakthrough achievement for any Indian company. We hope this model is still coming. 
+
+Why the hope? Sarvam of late is taking on some side-quests. A few weeks ago, the company announced a partnership with the Indian government to build AI solutions for the Army. This is not a problem per se, but the announcement comes across as a signal that instead of working at the AI frontier, Sarvam is getting into _dhandho_ mode. 
+
+This week the company announced Token Factory, a new service that will see Sarvam pivot to being an inference provider. In simple words it will mean that Sarvam will provide India-based AI infrastructure to allow Indian companies access to open source models, including Chinese models like DeepSeek and Kimi. 
+
+The announcement can be perceived in two ways. One, Sarvam sees a business opportunity in being an India-based inference provider that helps Indians companies safely and securely access the world’s top open-source AI models. Sure, these are not its own AI models. But how does it matter if Sarvam is serving the needs of Indian companies and earning money through that, money which it can then use to R&D its own frontier AI models? 
+
+And two, Sarvam has decided that creating an AI frontier model is an impossibility and that inference business is a low-hanging fruit it should go after. 
+
+The move sparked an online debate. Some people slammed Sarvam, which has received support from the Indian government to build a frontier AI model in India, for its perceived pivot, and exhorted it stay on the mission — that is build India’s AI model that can be similar to what Americans and Chinese have. 
+
+Some others said that work on frontier AI models can continue alongside the inference business. A few others, meanwhile, argued that Sarvam is right in its pivot — at the end of the day it is a business and unlike the US labs, which can raise billions of dollars and then burn that money in chasing chimeras, an Indian company cannot afford to have impossible dreams. 
+
+I wish in the middle of the debate Sarvam had cleared the air. But the company so far has stayed mum. 
+
+## Nvidia continues to slide
+
+Three weeks after the Nvidia founder Jensen Huang became talk of the AI town due to his two extramarital affairs, Nvidia continues to be in doldrums. Jensen has been ousted as the company CEO. Rather, he has been unceremoniously kicked out of the company he founded and grew. This week for the first time since his affair with Alice Huang became public, Jensen put out a statement. He apologised. Several times. He talked of his family. He talked of Nvidia. And then he talked of how he would so-very-much be keen on coming back to Nvidia as CEO. The Nvidia board was quick to react. No way, the board said. 
+
+It is becoming quite clear that Jensen found himself out of Nvidia not only because had a couple of affairs. Sure, morally and ethically he crossed red lines. But something more is going on and there is a whiff of the US government involvement in the whole saga. It seems that some very powerful people, or institutions, wanted Jensen out of Nvidia, arguably the most important company in the world right now due to its key position as an AI leader. 
+
+Whatever the reasons, Nvidia is taking a beating. Some of its employees are grumbling. There are many in the tech world who want Jensen back. Even the US President Donald Trump wants him back as he made clear on Friday. "I think that I would love to see Jensen be given a second chance... I’d like to see Jensen make a big apology and go back," Trump said.
+
+The board is unmoved. Likely because it’s not just about Jensen’s extramarital affairs. Instead, we continue to get a trickle of news stories — all leaked surreptitiously — about what horrible person and boss is Jensen.  
+
+At the same time, the board is finding it difficult to keep the Nvidia juggernaut going. In the last few weeks, the company has lost little over 40 per cent of its market capitalisation! On Friday alone, when the US SEC announced a probe into its books, the company stock went down by little over 10 per cent. 
+
+As Nvidia slides, it can potentially start a chain-reaction that may ultimately doom the entire AI rally we have seen in the last few years in the financial markets. This is a possibility we have discussed several times in this newsletter, and this week’s affairs are making it look more probable. Nvidia and Jensen have been playing the role of kingmaker in the AI space for over several years now. If there is an AI bubble, Nvidia sits in the middle of it. Now that Jensen and Nvidia are in trouble, the whole bubble — if it is indeed a bubble — may end up bursting. 
+
+Though OpenAI CEO Sam Altman is confident that the world will survive without Jensen. Or Nvidia. “I think Jensen has played this extremely special and valuable role as someone to really drive things forward with great vision,” Altman said a few days ago. “(But) the (AI) revenues and demand are growing so strongly that I think the industry will be fine.”
+
+## Panic in China?
+
+The industry might be fine, but Chinese AI space may suffer. This is one part of the AI world that is likely to hit hard because Jensen is no longer in the driving seat. 
+
+The chatter on AI circles on X hint at some serious panic in Chinese AI space. For the last couple of months Chinese AI labs have been rather muted. There have been some new models, but nothing extraordinarily explosive. People suggest OpenAI and Anthropic have become better at stopping Chinese AI labs from distilling (aka copying) their top models. 
+
+Now with Jensen no longer at Nvidia to argue against export ban on  AI chips for China, Chinese AI companies are staring at serious pain. The Nvidia saga is unfolding at the same time when the US is also moving to stop Chinese AI companies from using AI centres in countries like Malaysia and Singapore. On November 18, Tencent president Martin Lau said the new US move “does set everyone back. It sets everyone back in China.” Ouch!
+
+Must Watch
+
+## AI vs humans in KPMG
+
+We learnt in the Part I of this newsletter that AI is extremely good at logic aka mathematics. Is it equally good at stuff that is not logic, something that is intuitive and a domain of humans? Like asking questions during an audit? KPMG believes that it is.
+
+KPMG recently audited a big UK company. In the process it used over 100 AI agents. The whole exercise was named Project Exponential. What did KPMG see? Well, AI did a better job because it “was able to go so much deeper” and asked “better questions.”
+
+But there is a silver lining for humans too. Those 100 plus AI agents were working under the guidance of KPMG employees. In fact, in several instances the AI agents failed and humans had to step in. Yet, KPMG hints, the lessons from Project Exponential indicate that in future fewer people will be needed to conduct audits because AI will do plenty.
+
+## SIX STORIES YOU CANNOT MISS
+
+1.  01Google gives IIT Kharagpur $5 million for AI research, Sundar Pichai shares emotional message
+2.  02This 23-yr-old Indian-origin sold his AI startup for Rs 40,000 crore, now going viral on X
+3.  03Nothing AI device revealed before launch, looks like a voice recorder
+4.  04AI vulnpocalypse has hit banks and grounded flights, experts say outages have one thing in common
+5.  05Google launches Gemini 4 Neon for software workflows, claims 3x faster speed than Carbon
+6.  06Apple is working on its own AI agent that can use apps, browse the web and write code
+
+---
+
+### Leandro Paredes Faints During Live TV Interview After Boca Juniors' Copa Sudamericana Triumph
+*Subhashish Sarkar · sports*
+
+Boca Juniors captain Leandro Paredes suffered a frightening medical episode after his team's Copa Sudamericana triumph, fainting during a live television interview following their 2-0 victory over Atlético Mineiro in the final on Saturday, November 21, 2026.
+
+The Argentine midfielder received immediate medical attention after collapsing in the stadium's mixed zone at the Estadio Metropolitano Roberto Meléndez in Barranquilla, Colombia. He regained consciousness shortly afterwards and was subsequently reported to be in stable condition.
+
+The incident took place while Paredes was speaking to DSports journalist Marcelo Benedetto following the trophy celebrations. The midfielder suddenly lost consciousness and fell to the ground, leaving those present at the scene concerned. Medical personnel quickly stepped in to assist him, while the television broadcast shifted away from the incident.
+
+According to reports from DSports and TyC Sports, Paredes recovered shortly afterwards and was able to walk towards the dressing room with assistance. His family members were also present and accompanied him following the incident.
+
+However, as a precaution, the Boca Juniors captain was taken to a medical facility in Colombia for further examinations. The tests were intended to rule out any potential complications, with initial medical updates indicating that his condition was stable.
+
+**Paredes had struggled with exhaustion during the final**
+
+The collapse came after the midfielder had already experienced physical discomfort during the match. Paredes started the final but struggled with exhaustion and dizziness, eventually requesting a substitution in the 58th minute.
+
+Tomás Belmonte replaced him as Boca Juniors continued to protect their 2-0 lead against Atlético Mineiro.
+
+Reports from the stadium suggested that the conditions in Barranquilla made things particularly difficult for the Argentine midfielder. While sitting on the substitutes' bench, some of his teammates were reportedly seen using shirts and towels to fan him, while ice was applied to help him cool down.
+
+DSports reported that an initial medical assessment suggested a possible drop in blood pressure. The high temperatures, humidity and physical intensity of the final were considered potential contributing factors. However, an official medical report confirming the exact reason behind his collapse was not immediately available.
+
+Weather conditions in Barranquilla were also believed to have played a role. According to reports published by minutouno.com and dsn.pe, temperatures were around 30-35 degrees Celsius, with humidity levels reaching approximately 80 per cent and the perceived temperature reportedly climbing close to 39 degrees.
+
+**Boca coach reveals Paredes' condition before the collapse**
+
+Boca Juniors coach Rodolfo Arruabarrena also provided an update on the midfielder's physical condition after the incident.
+
+According to reports from minutouno.com and Heraldo de México, the coach revealed that Paredes had been struggling even before the interval. He appeared exhausted and dizzy during the first half, although the break initially seemed to help him recover.
+
+However, the midfielder's discomfort continued after the restart, eventually forcing him to ask for a substitution.
+
+Arruabarrena also explained that he only became aware of Paredes' collapse during the television interview after the final. His comments suggested that the midfielder's condition had deteriorated over the course of the match rather than the incident being entirely unexpected.
+
+**Boca Juniors end international trophy drought**
+
+Despite the worrying scenes after the final, Paredes had been part of Boca Juniors' celebrations following their victory over Atlético Mineiro.
+
+The 2-0 triumph secured Boca their third Copa Sudamericana crown, adding to their previous successes in 2004 and 2005. The victory also marked a significant milestone for the Argentine giants, ending an 18-year wait for another international trophy.
+
+The championship success further secured Boca Juniors' qualification for the next edition of the Copa Libertadores.
+
+While the club and its supporters celebrated a memorable night on the continental stage, attention quickly shifted towards Paredes' health, with fans hoping for a full recovery after the frightening incident.
+
+Story first published: Sunday, November 22, 2026, 12:10 \[IST\]
+
+Other articles published on Nov 22, 2026
+
+---
+
+### Reliance Brands FY26 revenue up 3.8% to ₹3,390.9 cr; loss narrows to ₹137 cr
+*PTI · business*
+
+##### SENSEX   83,919.71
+
++ 897.96
+
+##### GOLD   121,808.00
+
+ -5,644.00
+
+##### SILVER   148,325.00
+
+ -9,157.00
+
+##### SENSEX   83,919.71
+
++ 897.96
+
+##### GOLD   121,808.00
+
+ -5,644.00
+
+1.  Home 
+2.  Companies 
+
+## Reliance Brands operates 1,085 Points of Sale across India, including proprietary multi-brand concepts such as The Whitecrow, The Books & Café, and Tank, alongside a portfolio of over 90 partner brands
+
+Updated - November 22, 2026 at 12:09 PM.
+
+| New Delhi, November 22
+
+RBL has six subsidiaries, 11 joint ventures and four associate companies.
+
+Reliance Brands has reported a 3.77 per cent increase in revenue to ₹3,390.89 crore for FY26 and has narrowed its loss to ₹137.04 crore, according to an RoC filing.
+
+Reliance Brands Ltd (RBL), a subsidiary of the country's leading retailer Reliance Retail Ventures Ltd (RRVL), operates business of global fashion and lifestyle brands in India market through strategic partnerships, brand ownership and retail operations.
+
+RBL reported revenue from operations of ₹3,267.66 crore and a profit of ₹237.12 crore in FY25, according to financial data accessed through the business intelligence platform Tofler.
+
+It manages a diverse and expanding portfolio of international and domestic brands across luxury, bridge-to-luxury, premium, and high-street fashion, as well as F&B, eyewear, home & lifestyle, and toys.
+
+"Operating within the discretionary consumption space, the company caters to an affluent customer base in India, estimated at 12–15 million consumers, and has established itself as the partner of choice for leading global brands," said RBL.
+
+As of March 31, 2026, the company operated 1,085 Points of Sale across India, including proprietary multi-brand concepts such as The Whitecrow, The Books & Café, and Tank, alongside a portfolio of over 90 partner brands.
+
+In FY26, RBL further strengthened its Fashion & Lifestyle portfolio by adding three globally recognised brands. It entered into master franchise partnerships with contemporary womenswear brands Stella McCartney and MAX&Co, as well as British luxury footwear and accessories brand Kurt Geiger, thereby enhancing its presence across premium fashion segments.
+
+The company also expanded into the high-growth athleisure and activewear category through a master franchise partnership with Fabletics, launching a new portfolio vertical and reinforcing its commitment to capturing evolving consumer lifestyle trends.
+
+"During the year under review, your company achieved a net turnover of ₹3,390.89 crore as compared to ₹3,267.66 crore during last year. The company registered a loss of ₹137.13 crore as compared to ₹233.79 crore during last year," it said.
+
+RBL has six subsidiaries, 11 joint ventures and four associate companies.
+
+In addition to building international brand partnerships, the company has invested in leading Indian designer labels and made key global acquisitions, including Hamleys, the world's oldest toy retailer, now operating across 13 countries.
+
+Published on November 22, 2026
+
+THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.
+
+THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.
+
+---
+
+### Chennai's ICF To Build 119 Faster AC Rakes For Mumbai Locals Under Rs 26,000-Crore Upgrade
+*Arun Dhital · politics*
+
+Chennai's Integral Coach Factory (ICF) will mass-produce air-conditioned suburban trains for Mumbai with a top speed of 130 kmph and Vande Metro-style amenities, _The New Indian Express_ reported.
+
+Under the Rs 26,000-crore plan to modernise Mumbai's suburban rail system, ICF will build 119 of the 238 rakes slated for induction.
+
+The Rail Coach Factory (RCF) at Kapurthala and the Modern Coach Factory (MCF) at Rae Bareli will together supply the other 119.
+
+According to ICF sources, the unit will first roll out 12-car rakes, with the option of moving to 16-car or 20-car formations later. The Mumbai Railway Vikas Corporation (MRVC) wants the rakes delivered by 2030.
+
+ICF already holds designs for AC local trains, MEMUs and Vande Metro sets. The new AC locals are likely to feature modular bio-vacuum toilets, passenger information systems, CCTV surveillance, mobile charging points, wide panoramic windows, automatic fire detection and alarms, and the Kavach anti-collision system.
+
+Quicker acceleration is expected to cut journey times. Existing Mumbai locals are cleared for up to 110 kmph but usually average 80 to 90 kmph.
+
+"MRVC is finalising the design for the AC local trains. Once it is approved by the Railways, ICF will commence production," an ICF official said.
+
+The Railways had originally intended for MRVC to build the trains within Maharashtra. However, a dedicated factory would have taken close to three years to set up, which could have pushed deliveries to 2034 or 2035.
+
+The tender was recently scrapped, and MRVC was asked to assign all 238 rakes to the three factories instead.
+
+The upgrade falls under the World Bank-backed Mumbai Urban Transport Project-III (MUTP-III), a multi-modal scheme drawn up by the Mumbai Metropolitan Region Development Authority (MMRDA) and Indian Railways.
+
+It also covers platform extensions, yard upgrades, new rail lines and other infrastructure work.
+
+**Please click here to add** _**Swarajya**_ **as your preferred and trusted news source on Google**
+
+---
+
+### China displays advanced AI, robotics, and manufacturing ahead of APEC conference
+*India Today Video Desk · general*
+
+China presents its latest artificial intelligence, robotics, and advanced manufacturing technologies in Shenzhen and Guangzhou, including AI-enabled robots, autonomous electric helicopters, and a partially automated electric vehicle assembly line ahead of the Asia-Pacific Economic Cooperation confer...
+
+[Read full article](https://www.indiatoday.in/technology/video/china-showcases-ai-robotics-and-advanced-manufacturing-in-guangzhou-and-shenzhen-ytvd-3044304-2026-11-22)
+
+---
+
+### Chalet Hotels plans ₹3,500 crore capex over three years: CEO Shwetank Singh
+*Business Standard · business, entrepreneur, finance*
+
+The company's upcoming portfolio includes a 380-room Taj hotel at Delhi International Airport Limited
+
+[Read full article](https://www.business-standard.com/companies/news/chalet-hotels-plans-3-500-crore-capex-over-three-years-ceo-shwetank-singh-126112200183_1.html)
+
+---
+
+### India's Barrier-Free Toll Network Expands As NHAI Activates Third MLFF Plaza In Tamil Nadu
+*Swarajya Staff · politics*
+
+The National Highways Authority of India has implemented its Multi-Lane Free Flow tolling system at the Chennasamudram Toll Plaza in Tamil Nadu's Ranipet district, enabling motorists to pass through without stopping at conventional toll booths.
+
+The barrier-free system, which uses FASTag and Automatic Number Plate Recognition cameras, marks Tamil Nadu's third MLFF deployment following earlier installations at Paranur and Nemili toll plazas.
+
+Located at kilometre 104.900 on National Highway 48 near Walajapet, the Chennasamudram plaza serves the busy Chennai-Bengaluru corridor.
+
+The 46.5-kilometre tollable stretch handles significant daily traffic volumes as vehicles travel between Tamil Nadu's capital and India's technology hub.
+
+The plaza features 12 toll lanes equipped with overhead cameras and RFID readers that automatically detect and deduct toll charges.
+
+The MLFF technology allows vehicles to travel at speeds up to 150 kilometres per hour while toll collection occurs seamlessly.
+
+RFID readers identify FASTag-equipped vehicles, whilst ANPR cameras capture registration plates for vehicles without valid tags.
+
+The system verifies data in real time and processes payments through linked accounts, eliminating the need for vehicles to slow down or queue at physical barriers.
+
+India's first MLFF system launched at Chorayasi Toll Plaza in Gujarat in May 2026, with the technology subsequently expanding to locations across Rajasthan, Haryana and Delhi.
+
+Tamil Nadu joined the rollout when Paranur toll plaza became operational on 1 October 2026, followed by Nemili on 13 November.
+
+NHAI is deploying the system at 16 toll plazas nationwide as part of its phased implementation strategy.
+
+The barrier-free model is expected to reduce fuel consumption and vehicular emissions by eliminating idling at toll plazas.
+
+The technology also lowers operational costs associated with maintaining physical toll infrastructure whilst strengthening transparency in toll operations.
+
+Highway users must maintain valid FASTag accounts with sufficient balance to avoid electronic notices or payment-
+
+**Please click here to add** _**Swarajya**_ **as your preferred and trusted news source on Google**
+
+---
+
+### EPFO: How SWP will ensure regular income for you even after retirement, PM Modi’s minister explains; ‘Gift for workers’ | Mint
+*Shivam Shukla · economy*
+
+## EPFO's proposed Systematic Withdrawal Plan (SWP) will allow retiring PF members to withdraw their savings monthly, quarterly or half-yearly. Find out how the facility will work, who could benefit, and when EPFO subscribers can expect its implementation.
+
+Union Labour Minister Mansukh Mandaviya has highlighted EPFO's proposed Systematic Withdrawal Plan, which will allow retiring members to receive periodic payouts from their provident fund savings.**(Sansad TV)**
+
+The planning for retirement does not end with simply accumulating a sizeable corpus. This is because making sure that you receive a regular flow of income after your retirement is equally important, particularly when salaried employees no longer receive a monthly salary, and with advancing age, the possibility of generating higher income also fades.
+
+To equip Employees’ Provident Fund Organisation (EPFO) members to address such situations, the EPFO is focusing on the Systematic Withdrawal Plan (SWP) as a meaningful way to meet this requirement.
+
+Union Labour and Employment Minister Mansukh Mandaviya highlighted the potential benefit of SWP and the value it adds for EPFO subscribers in a post on X on 21 November, describing it as an important and meaningful change for EPFO members under the leadership of the Prime Minister.
+
+He wrote:
+
+_पीएम मोदी जी के नेतृत्व में EPFO की करोड़ों श्रमिकों को सौगात! जानिए कैसे SWP रिटायरमेंट के बाद भी आपकी नियमित आय सुनिश्चित करेगा।_
+
+### **English translation of tweet:**
+
+_"Under the leadership of PM Modi, EPFO brings a gift for crores of workers!_  
+_Find out how SWP will ensure a regular income for you even after retirement."_
+
+It is vital to keep in mind that the proposal was approved at the 240th meeting of the EPFO’s Central Board of Trustees (CBT), which was chaired by Mandaviya, on 19 November, 2026, as detailed in a press release by the Press Information Bureau (PIB).
+
+As per the proposed arrangement, retiring employees will be able to receive their accumulated Employees’ Provident Fund (EPF) savings in monthly, quarterly or half-yearly instalments instead of withdrawing the entire amount at once.
+
+## **How will EPFO's SWP work?**
+
+The most important advantage of this set-up is that the funds remaining in an individual’s EPF account will continue to generate interest at the applicable EPF rate. This highlights that retirees can access a portion of their savings periodically while allowing the unwithdrawn corpus to continue growing.
+
+This proposed facility is going to offer flexibility to members. They can opt for periodic withdrawals, thus providing them with a platform to potentially combine a lump-sum withdrawal with regular withdrawals and payouts or opt for an interest-only withdrawal option.
+
+Furthermore, the facility is going to be completely voluntary. This means it will allow members to decide whether they want to retain their funds in the EPF system or withdraw them.
+
+Not only that, if a member dies during the withdrawal period, the nominee or dependent will be able to withdraw the remaining balance amount or continue receiving periodic payments, subject to the applicable rules and regulations.
+
+## **When will the facility become available?**
+
+As per the announcement by the government, around 6.32 lakh EPF members aged more than 55 years with provident fund (PF) savings exceeding ₹5 lakh are expected to be among the initial beneficiaries.
+
+Still, the proposal is not yet an operational facility. Necessary amendments to the EPF scheme will be required to be approved and notified before members can begin using it. The withdrawal amounts, applicable timelines, rules and regulations and detailed operating rules are also awaited.
+
+In conclusion, the proposed SWP can result in making retirement savings more prudent, useful and meaningful for eligible EPFO members, by combining regular access to funds with continued interest earnings. It could also reduce the burden on retirees to find other sources, i.e., alternative investments immediately after receiving their PF corpus, while providing them an additional income stream alongside their pension.
+
+### About the Author
+
+Shivam Shukla
+
+Shivam writes on personal finance, equity markets, and mutual funds. He has previously contributed to several leading publications, including Moneycontrol. He can be reached at shivam.shukla@htdigital.in
+
+---
+
+### Lionel Messi hits Throw-In in opponent Player's Face as Ten-men Inter Miami go down 3-0 at Home - Watch
+*MyKhel Staff · sports*
+
+Published: Sunday, November 22, 2026, 12:01 \[IST\]
+
+It was not an ideal night for Lionel Messi and Inter Miami, who suffered a 3-0 defeat at home at the hands of Columbus Crew in a crucial MLS playoff match on Saturday (November 21).
+
+The defeat was humiliating, but it was overshadowed by Lionel Messi's antics on the pitch as the Argentine was involved in not a pretty exchange with an opponent.
+
+Lionel Messi hit a throw-in straight at Gonzalo Tapia's face (Image: AFP)
+
+## What did Lionel Messi do?
+
+Lionel Messi found himself at the centre of a major controversy after throwing the ball into Gonzalo Tapia's face during Inter Miami's 3-0 defeat to Columbus Crew in the opening game of their MLS Cup playoff first-round series.
+
+The incident happened in first-half stoppage time at Nu Stadium, with Miami already trailing 1-0 and playing with 10 men. Messi attempted to take a quick throw-in, but Columbus forward Tapia stood in his way. The Argentine then hurled the ball towards Tapia's face, prompting the Chilean to go down.
+
+Referee Allen Chapman showed yellow cards to both players, although Columbus head coach Laurent Courtois felt Messi deserved a straight red card.
+
+"Everybody knows that he deserved more than a yellow card. It's just really sad," Courtois said after the match.
+
+However, referee Chapman defended his decision, explaining that the force used was negligible and the incident did not reach the threshold for violent conduct.
+
+## Inter Miami humiliated at Home
+
+The controversy overshadowed an impressive performance from Columbus, who secured a commanding 3-0 victory to take the lead in the best-of-three playoff series.
+
+Gonzalo Tapia opened the scoring from the penalty spot in the ninth minute after Miami goalkeeper Dayne St. Clair brought him down inside the box. Miami's situation worsened when Gonzalo Lujan received his second yellow card in the 36th minute, leaving the hosts with 10 players.
+
+Columbus capitalised on their numerical advantage after the break. Taha Habroune doubled the lead in the 52nd minute before Tapia completed his brace six minutes later to seal a convincing victory. Goalkeeper Patrick Schulte also produced several important saves, denying Messi on multiple occasions.
+
+The result puts defending champions Inter Miami under pressure ahead of Game 2 in Columbus on November 27. They must win to keep their MLS Cup title defence alive and force a deciding third game.
+
+Story first published: Sunday, November 22, 2026, 12:01 \[IST\]
+
+Other articles published on Nov 22, 2026
+
+---
+
+### India's oil, gas import bill jumps 60% in Oct as Brent nearly doubles; cooking-gas usage falls
+*PTI · business*
+
+Brent averaged $116.77 in September and $64.75 in October 2025. | Photo Credit: TURAR KAZANGAPOV
+
+India's net oil and gas import bill rose 60 per cent year-on-year to $16 billion in October as Brent crude averaged $124.77 a barrel, almost double that of a year earlier, according to data from the Petroleum Planning and Analysis Cell (PPAC), part of the oil ministry.
+
+The net bill was $10 billion in October 2025. Crude imports alone cost $19.5 billion, against $10.4 billion a year ago, even though volumes rose only 11 per cent to 23.3 million tonnes. LNG imports cost $1.3 billion, and petroleum product exports brought in $6.3 billion.
+
+Brent averaged $116.77 in September and $64.75 in October 2025. The Indian basket averaged $119.91 in October, against $65.08 a year earlier.
+
+Over April-October, the net import bill reached $97.7 billion, up from $70.3 billion a year earlier. Crude imports rose 2.7 per cent in volume but cost $111.0 billion, against $72.3 billion.
+
+Consumption of Liquefied Petroleum Gas (LPG) fell 12.3 per cent in October and 15.1 per cent in April-October. The number of active domestic LPG customers stood at 32.6 crore on November 1, down from 33.4 crore on April 1, the PPAC data showed.
+
+Direct private LPG imports fell 83.8 per cent in October and 97.3 per cent in April-October. Packed domestic LPG sales by state-run companies fell 11.8 per cent in October, and bulk LPG sales fell 49.1 per cent. Auto LPG sales rose 23.9 per cent.
+
+Imports of petroleum products fell 41.2 per cent in October and 49.3 per cent in the fiscal year so far. PPAC attributed the fiscal-year decline mainly to lower imports of LPG, pet coke and fuel oil.
+
+The International Energy Agency said in its World Energy Outlook 2026 that LPG imports fell by over 50 per cent in the first two months of shipping disruption through the Strait of Hormuz.
+
+Other fuels held up better. Diesel consumption rose 12 per cent in October to 8.5 million tonnes, petrol rose 3.5 per cent, and bitumen rose 16.5 per cent. Total petroleum product consumption rose 2.7 per cent to 20.5 million tonnes in October. It was still down 3.2 per cent in April-October at 134.2 million tonnes.
+
+Natural gas consumption fell 7.27 per cent to 5,707 million standard cubic metres in October. LNG imports fell 6.94 per cent to 3,014 million standard cubic metres.
+
+India processed 24.1 million tonnes of crude in October, up 7.1 per cent, or about 5.70 million barrels a day. Of that, 22.0 million tonnes were imported crude, and domestic output was 2.1 million tonnes. Imports met 88.7 per cent of crude consumption in October.
+
+Domestic crude and condensate output was 2.3 million tonnes. Import dependency for natural gas stood at 52.8 per cent in October.
+
+Ethanol blending in petrol stood at 20 per cent in October, PPAC data showed.
+
+Published on November 22, 2026
+
+---
+
+### Crystal Crop Protection IPO allotment likely tomorrow; GMP hints at 5% listing gain. How to check status
+*Eshita Gain · finance, ipo*
+
+The wait is nearly over for investors who subscribed to the Crystal Crop Protection IPO, as the allotment of shares is expected to be finalised on Monday, November 23. The Rs 455.49-crore public issue received an overwhelming response, garnering subscriptions of more than 17 times the total shares on offer.
+
+The agricultural solutions company will subsequently list on both NSE and BSE with a tentative listing date fixed as November 26, 2026.
+
+**What does Crystal Crop Protection IPO GMP signal?**
+
+The grey market premium (GMP) for the Crystal Crop Protection IPO stands at Rs 14.5 as of 9 am, taking the potential listing price to Rs 286.5 against the upper price band of Rs 272.
+
+This means the company is expected to list with modest gains. However, GMP is an unofficial indicator and should not be considered a guarantee of listing performance, as it can fluctuate before the shares debut on the exchanges.
+
+**Which investor categories led the demand for Crystal Crop Protection IPO**
+
+The IPO, which opened for subscription on Nov 18, 2026 and closed on Nov 20, 2026, witnessed strong investor demand, particularly from non-institutional investors (NIIs), whose category was subscribed 37.7 times. Qualified institutional buyers (QIBs) subscribed 15.47 times, while the retail individual investors' portion received bids 9.28 times the shares on offer.
+
+The issue comprises a fresh issue of 1.31 crore shares aggregating to Rs 354.77 crores and an offer for sale of 37.03 lakh shares aggregating to Rs 100.71 crores. The issue price band is set at Rs 259 to Rs 272 per share, and a retail investor needs to invest a minimum of Rs 14,960 to apply for one lot at the upper price band.
+
+IIFL Capital Services Ltd. is the book running lead manager and MUFG Intime India Pvt.Ltd. is the registrar of the issue.
+
+**How can investors check their allotment status for Crystal Crop Protection IPO**
+
+Investors can check their allotment status through any of the following platforms:
+
+**— MUFG Intime India:**
+
+Step 1: First visit the registrar’s IPO allotment page (https://in.mpms.mufg.com/Initial\_Offer/public-issues.html).
+
+Step 2: Select Crystal Crop Protectionfrom the drop-down menu.
+
+Step 3: Enter your PAN, application number, or DP/Client ID.
+
+Step 4: Click Submit to view your allotment status.
+
+**— NSE**
+
+Step 1: Visit the NSE IPO allotment page. (https://www.nseindia.com/invest/check-trades-bids-verify-ipo-bids).
+
+Step 2: Select equity.
+
+Step 3: Choose Crystal Crop Protection from the dropdown list.
+
+Step 4: Enter your application number and PAN to check the status.
+
+**— BSE**
+
+Step 1: Visit the BSE IPO allotment link: (https://www.bseindia.com/investors/appli\_check).
+
+Step 2: Now select equity under issue type.
+
+Step 3: Choose Crystal Crop Protection from the dropdown menu.
+
+Step 4: Enter your application number or PAN.
+
+Step 5: Complete the captcha verification and click Search to view your allotment details.
+
+_(Disclaimer: This article has been written by Eshita Gain, who is not a SEBI-registered Research Analyst or an Investment Adviser. Eshita Gain and his/her ‘relative(s)’ (as defined under Section 2(77) of the Companies Act, 2013) do not hold any financial interest in the companies mentioned in this article as of the date of publication. The views/recommendations mentioned in this article, wherever applicable, are those of the respective SEBI-registered Research Analyst/brokerage and have been reproduced/reported with due attribution. They should not be construed as the views or recommendations of The Economic Times Digital or the journalist. Readers are advised to consider the original research report and make their investment decisions based on their own assessment. Brokerage disclaimers_ here_)_
+
+
+---
+
 ## 21 November 2026
 
 ### Ajmer man kills 35-year-old for insulting father, tries to pass it off as accident
