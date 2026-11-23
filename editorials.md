@@ -1,10 +1,320 @@
 # Editorials
 
-_Last updated: 2026-11-22 08:38 UTC_
+_Last updated: 2026-11-23 09:36 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 23 November 2026
+
+### Core accountability: On core sector performance
+*The Hindu · Editorial*
+
+The core sector performance in October is a good example of how statistical distortions can create incorrect assessments of the economy. The 10.9% growth rate, a series high, has been celebrated as a sign of the Indian economy’s strength and resilience. There is, no doubt, an aspect of this has been reflected in the numbers, especially to do with infrastructure creation. However, the much more impactful factor behind the high core sector growth was a low base effect. The overall Index of Core Industries grew just 0.8% in October 2025 and so, in relation, the performance in October 2026 looked that much faster. This low base effect is even starker when looking at individual sectors within the index. The coal sector grew at a blistering 23% in October, more than twice its growth rate in the previous month. Yet, a large part of this was propelled by the fact that the sector had contracted nearly 8.5% last October. The rest of the sector’s growth was driven by demand of the electricity and iron ore sectors, or so the data show. The electricity sector also grew at a series high of nearly 22% in October, but on the back of a near-7% contraction in October last year. This base effect anomaly is likely down to the fact that the festive season starts at different but similar points every year. As such, a more accurate reading of the economy will be possible once the data for November are available.
+
+The construction-related sectors seem to have seen genuine growth, a reflection of the government’s ongoing infrastructure push. The iron ore sector’s growth rate accelerated to a three-month high of 26.4% in October 2026 as compared to a growth of 8.7% in the same month last year. Steel grew at 7.3% versus 9.5% last year, and cement by 15.4% versus 5.2%. The economy’s dependence on government spending is not going to ease in the near future, and might even intensify as higher costs eat into companies’ profit margins. The core sector data once again highlighted a major reason for these higher costs — the oil and gas sectors. The crude oil sector shrank by 4.1%, its 22nd consecutive month of contraction. The natural gas sector, similarly, contracted 7.6%, a series-worst performance and the 28th straight month of contraction. A major reason behind high inflation in India is the underperformance of these two sectors and the resultant dependence on imported fuel. It is time the Petroleum Ministry candidly explains — to Parliament in December or to the public directly — why India’s fuel output has been continuously falling. If it is a matter of a lack of resources underground, that is one thing, but the underperformance of oil and gas public sector undertakings is quite another. Accountability needs to be set.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece)
+
+---
+
+### Paper tiger: On the Green India Mission
+*The Hindu · Editorial*
+
+That all was not well with the Green India Mission was clear even before its approval. After the UPA-I government announced it in 2008, the Ministry of Rural Development had objected to its financial design much before the Union Cabinet approved it in 2014. But the Environment Ministry proceeded anyway and retained largely the same arrangement when it revised the Mission in 2021. Following the Comptroller and Auditor General’s report, on November 19, the Public Accounts Committee (PAC) upbraided the Ministry for the Mission’s virtual failure and for still not having issued the implementation guidelines for the revised form. The original 10-year vision was to expand forest and tree cover by 5 million hectares (mha), improve forest quality on another 5 mha, improve forest-related livelihoods for 3 million households, and sequester up to 60 million tonnes of carbon dioxide a year. The outlay was ₹46,000 crore. In 2014, the Cabinet approved ₹13,000 crore for 1.4 mha each of the first two objectives by 2018, but to be supported to the tune of 81.5% by Compensatory Afforestation Fund Management and Planning Authority (CAMPA), National Afforestation Programme (NAP), and MGNREGS funds. In 2021-22, the Ministry folded the NAP into the Mission and, in mid-2025, unveiled a revised version with an allocation of ₹12,190 crore to improve forest cover on 25 mha by 2030, including 24 mha through other schemes. The government had thus expanded the primary target but left the Mission responsible for only 1 mha.
+
+Together with the CAMPA, NAP, and MGNREGS funds never materialising, it is no surprise that the programmes to improve forest quality and forest cover have respectively fallen short by 91.8% and 97.5% vis-à-vis the 2014 target. The Environment Ministry had assembled a large programme around resources that it knew it could not control. Pro-climate work in practice ought to span government schemes to deliver action and justice, and the Ministry ought to have formalised the division of responsibilities and accounting system. The PAC’s new demand that the Ministry submit an implementation timetable is insufficient. From the Jal Shakti Abhiyan in 2019 to the Dharti Aaba Janjatiya Gram Utkarsh Abhiyan in 2024, the government has often floated new programmes banking significantly on funds from existing schemes — an untenable policy when the latter also have their own obligations. And if the VB-G RAM G scheme was to also advance climate justice, the government should not have undermined the erstwhile demand-driven funding model and shifted more financial responsibility to the States. Climate action has to be timely, for which the Union government must dedicate adequate resources and proactively ensure that its initiatives are implemented.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/paper-tiger/article71731271.ece)
+
+---
+
+### PM’s critique exposes a deeper policy failure
+*Deccan Herald · Editorial*
+
+Prime Minister Narendra Modi has asked some pertinent questions to Corporate India, though some of them he must answer himself. The questions that he posed to the top leaders of industry and business have a clear accusatory and reprimanding tone, unusual for a prime minister long regarded as business-friendly. Yet, the questions are relevant. He asked whether companies had increased employment and raised wages after the government lowered corporate tax rates, raised the income-tax concession threshold, and made other concessions.
+
+The concessions should have incentivised investment, expanded consumption, and created jobs. Instead, companies strengthened their balance sheets and increased profits without sharing them with society. As Modi put it, industry had an “insatiable hunger for concessions”, but a portion of the resulting profits did not flow back to society. Since these concessions came from public resources, corporate beneficiaries were expected to honour a broader social and economic contract.
+
+'Tax cuts given, but where are the jobs and hikes?' PM Modi asks industry leadersThe Modi government reduced the headline corporate tax rate from 30% to 22% to encourage investment, production, and employment. GST replaced multiple indirect taxes, and further formalised the economy. But many analyses, including government surveys, have shown that corporate profits have grown many times more than wage expenditure. In all these years, the government made little effort to effectively deal with this mismatch. It has not created a suitable environment or adopted policies that would prompt industry to create jobs and increase wages. It has taken credit for the high GDP numbers even as the claimed growth was largely jobless growth. Real incomes stagnated or declined even as inflation went up. Labour-intensive industries needed greater support, skill development programmes required strengthening, and MSMEs should have received better assistance. Instead, demonetisation severely damaged the MSME sector, which provides livelihood and employment to millions of people. It has yet to fully recover. While the wealth got increasingly concentrated, the government did not adopt policies to reduce inequality.
+
+Opposition parties and other critics have long criticised the government for favouring big business, promoting crony capitalism, and failing to create jobs or expand social and economic good. The government has consistently rejected these charges. But the prime minister has now had to accept some of them, though he is blaming the corporate sector for them. He seems eager to shed his ‘pro-corporate’ image and adopt a new image, perhaps in response to Gen Z’s demand for jobs and a shifting political mood.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/pms-critique-exposes-a-deeper-policy-failure-4227721)
+
+---
+
+### Time to give the CM a permanent address
+*Deccan Herald · Editorial*
+
+Few institutions in Karnataka reflect the state's peculiar mix of politics, bureaucracy, and superstition as vividly as the chief minister's residence. For decades, every change of guard in Vidhana Soudha triggered a search for a suitable house, with chief ministers shuttling between government bungalows, guest houses, and private residences because no house was formally designated as the official residence.
+
+Chief Minister D K Shivakumar's move into Ganga, the renovated Kumara Krupa guest house, yet again highlights this anomaly. Early chief ministers K C Reddy, S Nijalingappa, Devaraj Urs, and S R Bommai stayed at Balabrooie on Palace Road, Karnataka's closest equivalent of an official residence. That changed in 1980 when R Gundu Rao rejected Balabrooie on Vastu grounds, moved to Cauvery and built Krishna as a dedicated office complex. His successor, Ramakrishna Hegde, also avoided the colonial-era bungalow. Balabrooie's reputation suffered further after Bommai moved there in 1988, only to lose office within months. No chief minister has lived there since.
+
+CM DK Shivakumar calls ‘Basava Mantapa’ book a mischief, condemns remarksSuperstition and Vastu have often shaped housing choices as much as administrative convenience, with successive chief ministers spending heavily on renovations. Some considered Cauvery unlucky because several occupants failed to complete their terms; others saw it as fortunate. Siddaramaiah completed his first five-year term there and continues to occupy it despite demitting office midway through his second term. Likewise, B S Yediyurappa remained in Cauvery after stepping down, forcing his successor, Basavaraj Bommai, to initially operate from his private residence. The absence of a permanent official residence has also created practical problems. A chief minister receives Z-plus security cover, requiring extensive surveillance, access control, and security infrastructure. The problem is compounded when predecessors refuse to vacate their bungalows. Adapting a new house every few years is costly and inefficient.
+
+The choice of Ganga is not without controversy, with critics questioning alterations to the nearly 160-year-old heritage property. Yet the larger issue is not the building, but the need for permanence. Ganga has been designated the official residence, but its status rests on an executive order that a future government can easily reverse. If it is to remain the chief minister's residence, the Legislature should amend the Karnataka Ministers Salaries and Allowances Act, 1956, and designate it in law. Governments change, political fortunes rise and fall, and beliefs about luck inevitably shift. The state's highest elected office deserves greater permanence. An official residence must belong to the institution, not the individual who temporarily occupies it. That principle should rest on statute, not superstition.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/time-to-give-the-cm-a-permanent-address-4227710)
+
+---
+
+### Modi’s question to corporate India cuts both ways
+*Deccan Herald · Opinion*
+
+Prime Minister Narendra Modi’s address to FICCI on November 19 raised a legitimate question. Having recalled the reduction in corporate tax rates, he asked why industry had not responded with commensurate investment, employment and salary growth.
+
+But the question must also be directed at government. If private investment is not translating into the scale of employment and productive capacity expected, does the State understand why? Does it have reliable channels to hear what businesses experience on the ground? And can entrepreneurs speak candidly about policy without worrying that criticism may complicate their dealings with the administration?
+
+The Finance Minister’s recent media interview that her interaction with industry after the 2019 corporate tax reduction did not have specific answers whether it had helped, raises a troubling question about policy evaluation. A major fiscal intervention was made, but the government appears to have had limited feedback on its actual impact.
+
+Should one perceive Modi’s public challenge to industry as a larger weakness in the relationship between policymaking and enterprise?
+
+Tax concessions cannot substitute for confidence
+
+Corporate balance sheets have strengthened, banking-sector stress has receded, and private corporate investment intentions have shown resilience. Yet the policy debate is increasingly about the breadth, composition, and employment impact of investment. Industry continues to seek tax relief and production incentives. The government wants companies to explain what they have delivered in return. Corporate India must answer that question.
+
+The government, however, must examine its own assumptions. A tax reduction improves post-tax returns. It does not create customers, fill idle factories or guarantee that a company will expand. Investment depends on demand, capacity utilisation, financing, technology, infrastructure, and the confidence that the policy environment will remain predictable. A tax concession is an instrument of economic policy, not an obligation on companies to invest regardless of commercial conditions.
+
+These investment decisions are also being made in a radically more disruptive global environment. Geopolitical conflicts are reshaping supply chains and access to critical resources. Trade barriers, export restrictions, and industrial protectionism are altering the economics of cross-border production. Energy and commodity price volatility is feeding inflationary pressures, while the cost of capital and competition for financing are influencing which projects remain viable. Artificial intelligence is changing production processes, product economics, and the competitive advantage of entire industries.
+
+For Indian companies, these disruptions expose an additional vulnerability: years of relatively poor investment in research, development, and technology have left many sectors dependent on imported capabilities and external innovation. China offers a stark contrast. Over two decades, it built global manufacturing scale while moving into high-value engineering, electric vehicles, batteries, industrial machinery, and advanced technologies. Its industrial strategy connected scale with research, domestic supply chains, technology development, and targeted fiscal support. China’s R&D expenditure reached about 2.7% of GDP in 2024, against India’s 0.84% in FY2024.
+
+India’s corporate tax reform could have been designed with greater industrial ambition. Why were tax concessions not linked more deliberately to incremental R&D investment, indigenous technology, commercially meaningful patents, and industry-led research?
+
+There is also a difference between the ease of starting a business and the experience of running one. Digitisation and simplified procedures have helped, but smaller enterprises continue to face permissions, inspections, delayed payments, compliance demands, and inconsistent administrative interpretations. Large corporations can employ teams of advisers to navigate complexity.
+
+Corruption remains embedded in everyday transactions between enterprise and the State. Its methods may have changed, but its costs remain. Permissions, inspections, certifications, local influence, selective enforcement, and intermediaries can all become points of extraction. For a large corporation, some of these costs may be absorbed through professional arrangements. For a small entrepreneur or street vendor, the burden can be immediate and existential. The cost of doing business is shaped as much by administrative conduct as by the tax rate.
+
+A pro-market economy must widen opportunity
+
+India needs large companies capable of building infrastructure, investing in technology, and competing globally. Supporting national champions in strategic sectors is a legitimate policy objective.
+
+But there is a fundamental distinction between being pro-business and being pro-market. The former can become an exercise in accommodating established interests. The latter requires institutions that allow new businesses to enter, compete, grow, and challenge incumbents.
+
+The prime minister also questioned whether the size of India’s domestic market has made parts of corporate India complacent about quality. Indian consumers should not have to accept products inferior to those companies offer international customers. The challenge extends to India’s ambition to benefit from free trade agreements. Market access alone will not make Indian businesses globally competitive. They need better technology, internationally credible standards, reliable testing infrastructure, competitive pricing, and distribution networks.
+
+There is an asymmetry in how businesses encounter the State. Some appear able to enter strategic sectors, secure the policy environment they need, obtain scale, and move into adjacent opportunities with considerable ease. Tender eligibility, financial thresholds, land access, licensing conditions, regulatory changes, and procurement specifications can create barriers for competitors, intentionally or otherwise. A process may satisfy formal requirements and still produce excessive market concentration. Some eventually sell or even forced to by circumstances, to larger groups better equipped to navigate the system. The real test of competition policy is the market structure it creates, not merely whether a bidding process was conducted.
+
+There is another consequence. Does an entrepreneur feel safe telling government that a policy is flawed or failing? A business may be invited to a consultation and still hesitate to identify the source of its difficulties. It may worry about the consequences for a licence, contract, clearance, or administrative goodwill. Even without explicit retaliation, the perception of risk can silence criticism.
+
+India needs an industrial vision beyond incentives
+
+India’s larger weakness is the absence of a long-term industrial vision that connects today’s incentives with the capabilities the country must build over the next two to three decades. Schemes are announced; sectors are identified. This only brings tactical improvements to show as successes, and not build long-term sustainable expertise. A factory, a supplier ecosystem, or a research capability takes years to develop. Capital will not commit for the long term if industrial priorities change with each budget or policy cycle.
+
+China’s manufacturing rise offers a lesson in sustained ambition. Over two decades, it built scale in manufacturing while moving into advanced engineering, EVs, batteries and industrial technologies. National priorities were translated into local industrial ecosystems through infrastructure, finance, skills, research, and supplier networks. India need not replicate China’s model, including its excesses. But it must recognise that manufacturing leadership is built through sustained co-ordination, not isolated incentives.
+
+This requires the Union and states to work as partners. Land, power, water, logistics, skills, and local clearances determine whether an industrial project succeeds. The Centre can announce a manufacturing ambition, but states must make it viable on the ground. Industrial policy needs national direction, state-level ownership, and continuity across political and budgetary cycles.
+
+The Prime Minister is entitled to demand greater investment ambition from industry. The government must demonstrate equal ambition in building the institutions and federal partnerships that make long-term investment possible. An industrial vision for India, policy continuity, rooting out corruption, and rent-seeking rot in the system that entrepreneurs and businesses still face, and fair competition determine whether it becomes an industrial ecosystem.
+
+Srinath Sridharan is a corporate adviser and independent director on corporate boards. X: @ssmumbai.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/modis-question-to-corporate-india-cuts-both-ways-4228021)
+
+---
+
+### Nvidia's fallout is a gift to billionaires Ambani and Adani
+*Deccan Herald · Opinion*
+
+By Andy Mukherjee for Bloomberg
+
+Silicon Valley’s nightmare week is turning into a windfall for India’s largest conglomerates. With Jensen Huang ousted from Nvidia Corp. following a scandal involving the chipmaker’s Singaporean cloud partner, Washington is slamming the door on Southeast Asian data centers suspected of funneling computing power to China. The crackdown could hand Mukesh Ambani and Gautam Adani an unexpected prize.
+
+The tycoons have pledged more than $200 billion to build artificial-intelligence infrastructure, including vast data centers for US tech giants, and are now suddenly positioned as trusted Asian custodians of cutting-edge Western technology. If their facilities can comply with Washington’s “Pax Silica” initiative — a cornerstone of Secretary of State Marco Rubio’s economic statecraft aimed at China-proofing the AI supply chain — they stand to be among the biggest beneficiaries of the Commerce Department’s new interim rule governing access to advanced semiconductors.
+
+By subjecting Singapore, Malaysia, Thailand, and Indonesia to case-by-case export licensing for high-end chips — and capping remote access for Chinese-linked entities — the US Bureau of Industry and Security has plugged much of the regulatory arbitrage that fueled the region’s data-center boom. India, meanwhile, joined Washington and other Indo-Pacific partners in signing the San Francisco Declaration underpinning Pax Silica, and is absent from the list of high-risk destinations suspected of diverting compute to China.
+
+That gives a leg-up to Ambani, whose Reliance Industries Ltd. has made a 10 trillion rupee ($107 billion), seven-year commitment to a gigawatt-scale AI hub. Not to be left behind, the Adani Group has unveiled a $100 billion data-center bet by 2035. Between them, the pair are turning the arid deserts of Kutch on the India-Pakistan border into some of the world’s largest green-energy projects. While Adani’s solar park is five times the size of Paris, Ambani is developing a complex three times the area of Singapore. Adani controls the power and transmission infrastructure needed to feed energy-hungry data centers, while Ambani has more than 500 million telecom subscribers, a potential market for AI services.
+
+Jensen Huang row: Why a CEO’s affair is not a corporate crimeYet local enterprise demand is too small to absorb the projected growth in AI data-center capacity. Worse, the billionaires’ ambitions will have to jostle for space with neoclouds selected under the government’s IndiaAI Mission. The program’s participants, including Yotta Data Services, Tata Communications Ltd. and E2E Networks, already host more than 44,000 graphics processing units, or GPUs. AdaniConneX will support the mission by renting data-center space to CoreWeave Inc.’s AI cloud.
+
+To prevent billions of dollars of high-end silicon from sitting idle while domestic demand catches up, New Delhi allows state-supported cloud operators to sell spare capacity abroad — effectively exporting AI tokens by running inference and training workloads for overseas customers.
+
+But there is a catch. US authorities suspect Alice Huang, a former executive at Singapore-based Megaspeed International who had a romantic relationship with the ousted Nvidia boss, of spying for China. The affair has turned exporting compute from Asia into a geopolitical minefield.
+
+While US export controls classify silicon by processing density rather than product vintage, Nvidia’s flagship Blackwell processors hit Washington’s new remote-access ceiling with far fewer servers, subjecting even modest clusters to the strictest scrutiny. That gives the tycoons another advantage over standalone neoclouds scrambling for customers whose leases may require individual vetting. Ambani and Adani’s AI hubs are being built around American partners and supply chains from the outset.
+
+China’s spies set sights on AI chips years before Nvidia scandalAdani has anchored his Visakhapatnam center on India’s eastern coast with Alphabet Inc.’s Google — which is landing subsea cables there — and agreed to form an equal joint venture with Florida-based Jabil Inc. to manufacture AI servers and cooling systems locally. On the western coast, where Meta Platforms Inc. is routing intercontinental fiber, Ambani is building a 168-megawatt data center for the social-media behemoth, alongside a separate $100 million partnership to sell the US company’s Llama AI enterprise software across India.
+
+Silicon Valley’s direct involvement is meant to reassure Washington about where the compute ultimately goes. A third player to watch is the Tata Group. The Mumbai-based conglomerate will build a 100-megawatt facility for OpenAI, with an option to scale it to 1 gigawatt. Unlike US neoclouds that rely on vendor financing from Nvidia, large Indian groups can bankroll chip purchases off tens of billions of dollars in annual cash flows from oil refining, telecoms, ports, utilities, and — in Tata’s case — software exports.
+
+Washington has taken notice. Trump 2.0’s punitive tariffs and immigration curbs may have soured bilateral ties, but now the China hawks want to draw India’s industrial titans back into their orbit. During his swing through the South Asian nation last month, Rubio sat down with Adani and Tata Group Chairman N. Chandrasekaran in Mumbai before flying to Gujarat for a tour of Ambani’s Jamnagar complex. From refining Venezuelan crude to hosting AI hardware, the hub can serve US interests across sectors.
+
+All about Alice Huang's ties to China's top spy agency during the Nvidia affairWhether the embrace holds will be tested after President Donald Trump’s high-stakes meeting in Shenzhen with Chinese President Xi Jinping. All eyes will be on how firmly the White House defends Pax Silica, and whether Trump trades away any of the chip-and-compute guardrails in pursuit of a broader trade truce with Beijing.
+
+Even if the US and China reach a détente in their war for tech supremacy, Ambani and Adani cannot afford to treat their server farms as neutral real estate. Foreign data centers are now legally expected to conduct deep know-your-customer audits on every tenant’s corporate ownership to ensure no shell company tied to China or Macau breaches the remote-access ceiling.
+
+US domestic politics adds another wrinkle. Democratic Senators Elizabeth Warren and Richard Blumenthal have previously questioned how the Department of Justice dropped the bribery indictment it had brought against Gautam Adani and his nephew in the final months of the Biden administration. (The Adani Group has consistently denied wrongdoing.) With congressional Democrats set to regain subpoena power in January, scrutiny of a tycoon with close ties to Prime Minister Narendra Modi could return.
+
+Still, the Nvidia saga may have just cleared the decks for India’s richest men to emerge as trusted gatekeepers of American tech. Keeping that franchise will require proving they can enforce Washington’s red lines.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/nvidias-fallout-is-a-gift-to-billionaires-ambani-and-adani-4227933)
+
+---
+
+### The hidden life behind the beautiful tea gardens of Darjeeling
+*Deccan Herald · Opinion*
+
+On November 3, West Bengal Chief Minister Suvendu Adhikari announced Rs 5,000 in assistance for each eligible worker from 21 closed tea gardens in North Bengal. For families whose gardens have shut, the money matters. But relief of this kind also raises a deeper question: why is an industry that is celebrated abroad so fragile at home?
+
+At Fortnum & Mason in London, 125 grams of Darjeeling first flush sells for £14.95, that’s roughly Rs 1,600. Scaled to a kilogramme, the price exceeds Rs 12,800. Joshila Gurung, a tea leaf plucker at a tea estate in Darjeeling, earns Rs 232 for a full day's work.
+
+Between these two numbers lies an economy that has never been asked to explain itself, and this paradox explains why the future of the world’s most celebrated Darjeeling tea is highly uncertain.
+
+Tourists photograph the morning mist over the slopes. What the photographs hide is the structure beneath. Plantations are 'enclave economies', closed systems where one employer controls labour, housing and identity. Workers live on rent-free land inside the estates, which they neither own nor can bequeath. The garden employs and contains them, defining the boundary of what they can imagine.
+
+Here lies the deepest contradiction. In 2004, Darjeeling tea received India's first Geographical Indication (GI) tag, a legal instrument intended to ensure a region’s unique qualities benefit its people.
+
+Darjeeling to Kalimpong: A Himalayan escape where the journey is the destinationInstead, it has captured the premium that Gurung’s labour creates and delivered it to estates, exporters, and London retailers, while Gurung cannot afford the Rs 400 carpool to the nearest hospital in Siliguri. The brand is protected; the person behind it is not.
+
+Tea plucking is classified as unskilled, and the label is not descriptive; it is a mechanism. By treating embodied knowledge, endurance and years of practised precision as unskilled, the industry suppresses wages while the product commands premium prices.
+
+Over 50 per cent of tea plantation workers in North Bengal are women, and their legal minimum wage is regularly undercut. That is not merely a welfare question; it is an accounting sleight of hand performed in plain sight.
+
+When gardens close, the arithmetic collapses. The Rs 5,000 announced this month equals about 21 days of Gurung’s wages, set against a crisis decades in the making. A nutritional survey conducted after a worker's death at Garganda Tea Estate found that nearly 38 per cent of the workers surveyed were undernourished, with 24 per cent categorised as severely thin, with a BMI below 17.
+
+Between 2000 and 2015, 1,400 people died across 17 closed tea gardens in North Bengal, with severe malnutrition as the primary cause. These are not deaths from drought or disaster; they are deaths from a system in which workers own neither the land nor a real claim to their hard labour.
+
+Ecology compounds the problem. Tea is largely a monoculture reliant on fertilisers and pesticides that degrade the soil and strip the biodiversity it depends on, even as climate pressure mounts. For every 1°C rise in temperature, tea yield in Assam falls by 0.087 tonnes per hectare.
+
+A 2018 survey found 88 per cent of plantation managers and 97 per cent of smallholders already identified climate as a definite operational threat. When yields fall, wages follow, or gardens close. Workers absorb ecological and market shocks together, with little protection from either. Meanwhile, in 2024, India exported 254 million kg of tea to become the world’s second-largest exporter.
+
+Young people are leaving the hills for informal, exhausting, poorly paid work: delivery in Siliguri, construction in Bengaluru, domestic work in Delhi. Most workers now educate their children and send them away and send them away. What is fracturing is the enclave's core mechanism: its power to make the garden the only imaginable world. The industry has no serious answer because it was never designed to ask the question.
+
+Almost three decades ago, Amartya Sen argued that development must be measured in real freedom: the ability to seek medical care without it costing a day's wage, to keep children in school, to leave without facing destitution.
+
+The GI tag was meant to be one such freedom, a mechanism to turn geographical identity into economic dignity. Instead, it has made Darjeeling tea a globally protected luxury brand while leaving Joshila Gurung outside every protection the brand generates.
+
+The Rs 5,000 will help, once. The question that remains is why the woman who makes the mist-wrapped gardens beautiful cannot afford to reach a hospital, and why, two decades after India's first act of geographic justice, we have not thought to ask.
+
+Satyajeet Gupta is Senior Advisor, Center of Excellence in Chemical Ecology, UAS-GKVK, Bangalore, and Consultant, Indian Institute for Human Settlements (IIHS), Bengaluru. Shatarupa Sarkar is a doctoral student at the Department of Forest Genetics and Physiology, Czech University of Life Sciences, Prague, Czechia. Priya Karhar is a MA student at the Indian Institute for Human Settlements (IIHS), Bengaluru.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-hidden-life-behind-the-beautiful-tea-gardens-of-darjeeling-4228191)
+
+---
+
 ## 22 November 2026
+
+### A louder gavel to bridge India’s justice deficit
+*The Hindu · Opinion*
+
+On October 9, 2026, while at Nuremberg’s Courtroom 600, the birthplace of international criminal justice, Judge Navanethem ‘Navi’ Pillay was announced as the 2026 Nobel Peace Prize laureate. Dedicating the award to “the survivors of international crimes” and those ensuring that “impunity will not be allowed to reign”, she called for upholding the promise to save the “world of tomorrow” from war and injustice — a call that demands deep introspection.
+
+Let us begin at home: India’s domestication of international criminal law (ICL).
+
+International criminal justice exists to secure not only ‘international’ but also ‘domestic’ criminal justice; the qualification ‘international’ concerns gravity, not geography. India accepts that accountability for mass atrocity crimes is not a state’s ‘internal affair’ but concerns the international community as a whole and humankind as a collective in its own right. India ratified the 1948 Genocide Convention and 1949 Geneva Conventions, which apply to wholly domestic situations and recognise every ratifying state’s interest in others’ compliance. India also voted for Security Council resolutions deeming internal crises threats to ‘international peace and security’ (Somalia (1992), Libya (S/RES/1970, 2011), Côte d’Ivoire (2011)).
+
+The ‘internal affairs’ defence is thus wholly invalid. The further claim that international criminal justice is Anglospherical and thus India need not domesticate ICL is a regrettable excuse.
+
+All citizens and state actors must, in good conscience, assert their own interest in preventing their state apparatus from being used by fellow citizens and state actors to commit, or abet, mass atrocity crimes. Refusing to acknowledge and criminalise them domestically protects none other than the perpetrators.
+
+[Read full article](https://www.thehindu.com/opinion/lead/a-louder-gavel-to-bridge-indias-justice-deficit/article71731884.ece)
+
+---
+
+### DC Edit | Rural Warning For Rajasthan BJP
+*Deccan Chronicle · Editorial*
+
+If elections to the rural local bodies in Rajasthan are taken as a pre-poll survey, they surely give some ominous signs to the ruling BJP while offering the Opposition Congress some reason to cheer. However, seeing the way the two parties manage elections, it is eminently possible that the BJP will be able to analyse the losses at the grassroot level and make up for them ahead of the Assembly polls there which are two years away. The Congress, on its part, remains prone to nurturing dissidence out of victories as always.
+
+In the elections held to the district panchayats and the village panchayats, the Congress has far outdone the BJP. It has won 3,758 of 7,520 village panchayat samiti seats against the BJP’s 2,213; its tally in the district panchayat elections is 794 of the total 1,271 seats for which results were declared, the BJP winning 357 seats. So the Opposition party is set to wrest control of 23 of the 37 district panchayats for which results have been declared.
+
+The trend is clear: The people who overwhelmingly voted for the BJP in the last Assembly and Lok Sabha elections have sent a message to the Bhajan Lal Sharma government in the state that they not exactly happy with the way his government is functioning. There may be an argument that the results do not reflect the thought of the whole of the state as the BJP had an edge in the municipal polls held shortly ago. However, the details do not offer much consolation for the saffron party as its lead in popular vote against the Congress was less than one per cent.
+
+The BJP had chosen to instal greenhorns as chief ministers in several states where it won Assembly polls the last time; Bhajan Lal Sharma was a first-time legislator when he was made Rajasthan chief minister. The BJP will have to do a rethink of its choices not only in Rajasthan but in other states as well if the trend is sustained while the Congress will have to fight a tough battle to retain its edge till the Assembly elections are over.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-rural-warning-for-rajasthan-bjp-2006969)
+
+---
+
+### DC Edit | Siang Dam: Assess Benefits Versus Risks Before Deciding
+*Deccan Chronicle · Editorial*
+
+It is best that the Centre treads cautiously on the Siang dam issue as the 11,200 MW hydropower and water storage proposal named Siang Upper Multipurpose Project (SUMP) has brought to the fore the clash between national strategic goals and local rights.
+
+The Home minister’s offer to start a dialogue with those opposing the dam, particularly people of the Adi and Galo communities, is a start though the locals rejecting talks outright means the standoff persists despite a generous offer of the best possible rehabilitation and resettlement process.
+
+What the resistance movement to the dam that has taken the key border state by storm signifies is the locals have huge concerns over the displacement of people who have lived in the river zone for decades and who fear losing their ancestral lands to a modern development project. And then there is the issue of submergence of entire villages as well as forest reserve land.
+
+Whatever be the need for advanced projects for water management, particularly in view of China taking up a massive 60,000 MW hydropower dam project further upstream on the Yarlung Tsangpo River which becomes the Siang on entering Arunachal Pradesh, concerns remain over damage to the river ecosystem. The agitation has brought enormous pressure on the Pema Khandu government.
+
+Project planners have never been able to forecast or explain the possible effects of massive dams though Chinese experiments in this have largely been thought to prove that the benefits may just about outweigh the deleterious effects on ecology, particularly when the flow of rivers is interfered with.
+
+The building of dams and creation of reservoirs are known to inundate vast forest areas, grassland, and agriculture while breaking up habitats and reducing connectivity for terrestrial and aquatic species. Habitat fragmentation is known to have cascading effects on the many functions of ecosystems that there is no knowing if the benefits outweigh the negative effects.
+
+Concerns are also being expressed in Assam where the crucial water source which is the Brahmaputra gets around a third of its flow from the Siang River and tributaries. Given the history of problems in water sharing with lower riparian states always at loggerheads whenever states create dams upstream, there might be another major water problem that a river authority or the judiciary may be called upon to rule.
+
+The positive side of the argument towards building the dam is to do with fears over how the Chinese may act in matters like sudden water release, which if it becomes unhinged in times of excess flow can pose a grave threat to the people of Arunachal Pradesh.
+
+Arunachal Pradesh chief minister Pema Khandu calls the Chinese dam a “water bomb” to support his cause of a dam to control the flow and create a layer of water security in controlled release. Of course, the dam will make up for any deficit against Arunachal’s current peak demand of around 180 MW, which is only around 60 MW.
+
+Not having taken the people into confidence before taking up the survey process, the government may have added to the resistance already building up. The Centre and state would be well advised to assess the implications of a large dam project and rely more on being transparent in the runup to the project.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-siang-dam-assess-benefits-versus-risks-before-deciding-2006949)
+
+---
+
+### Global Churn And New Islamic Pacts: What They In Fact Mean For India
+*Deccan Chronicle · Opinion*
+
+It will be stating the obvious when we recall that never since the end of World War 2 has the world been so much at war with itself.
+
+Many kinetic conflicts are raging at unexpected places, the world vastly fragmented, unprecedented geopolitical churning taking place, severe energy crisis impacting the whole world in some way or the other, global supply chains disrupted and wars continuing with unabated fury. A dispassionate analysis will reveal that there are going to be no clear winners in the ongoing conflicts — destruction and human misery without any tangible reasons is being unleashed indiscriminately owing to the misplaced ambitions of individual leaders to whom their personal interests transcend national interests or even human calling. We are living in troubled times with no end in sight.
+
+The US-Israel military campaign against Iran, launched in late Feb 2026 has not delivered the swift political transformation its architects may have planned for; on the other hand, it has exposed the limits of coercive power, deepened economic insecurity and raised the political costs of foreign policy adventurism. Thus, it is imperative that we in India remain ready — politically, militarily, technologically and economically to tackle any challenges to our security, sovereignty and well-being.
+
+With so much geopolitical churning underway, alliances between many nations appear to be the flavour of the season. The last two on the cards has been the Mecca Accord (signed on August 7, 2026, and headquartered in Riyadh) between Saudi Arabia, Turkey and Pakistan which appears to have raised many hackles in the region including in India. The other one whose impact, perhaps, has not be analysed fully so far has been the Badr MoU between Turkey and Pakistan again and also includes Qatar and Indonesia. Both these alliances differ in concept and content as understood from the wordings of these alliances as spelt out publicly — but the fact remains that they will, in all certainty impact India.
+
+Traditionally, India has not been much into alliances as it had followed the principles of non-alignment conceived by its first PM, Pt Jawaharlal Nehru and adopted as a cardinal of our foreign policy by successive PMs even of different political hues — even today India endeavours to follow the principle of multi-alignment. Both non-alignment and multi-alignment have as their main pillar strategic autonomy which is undoubtedly the best policy for India. However, India’s western adversary, Pakistan, has since its inception been a willing member of many military pacts like the SEATO, CENTO, the Baghdad Pact, etc.
+
+With India’s major adversary China, Pakistan is very strongly militarily and economically aligned. And now having played an interlocutor in the ongoing US cum Israel vs Iran conflict, Pakistan with its precarious financial state has naturally found it wise and expedient to join up with these two Islamic-oriented alliances, the Mecca Accord and the Badr MoU.
+
+The Mecca Accord includes a 16-article framework featuring a Nato Article 5 style collective defence clause, intelligence sharing, counter terrorism and defence cooperation. It builds on the earlier Saudi Arabia-Pakistan Strategic Mutual Defence Agreement signed between Turkey and Pakistan signed in August 2025. Each nation is directed to assist each other militarily if attacked by any other nation.
+
+There are reports which no one could ever dream of — that even Shia Iran may be invited to join this predominantly Sunni Islamic gathering. Any way this Accord represents a major diplomatic shift in the Middle East. It signals that Saudi Arabia is willing to engage Iran through a structured regional framework rather than relying only on US led security arrangements as hitherto fore. For Iran such an accord, in case they are officially called, and Iran agrees to join it, would be strategically valuable. It could reduce isolation, legitimise Iran’s regional role and weaken the narrative that Iran is a permanent outlier.
+
+A cursory look reveals that there is no anti India agenda on the surface as regards the Mecca Accord jointly but Pakistan will definitely try to push its own agenda and positioning vis a vis India using Saudi financial assistance to it and exploiting Turkey’s technological prowess and obtaining military hardware from them. The Accord clearly spells out the parameters of joint military assistance to each other.
+
+On the other hand, the Badr MoU is a quadrilateral defence-industrial cooperation agreement signed on 21 Oct 2026 in Doha, Qatar between Turkey, Pakistan, Qatar and Indonesia. There are no mutual defence obligations spelt out officially between these signatories unlike in the Mecca Accord. In a nutshell, the Badr MoU does not pose an immediate military threat or act as a collective security bloc against India but it introduces several strategic and commercial considerations for Delhi.
+
+However, some basic aspects are reasonably clear as to...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/global-churn-and-new-islamic-pacts-what-they-in-fact-mean-for-india-2006928)
+
+---
+
+### Profits Up, Wages Down: India Inc. Faces Mirror
+*Deccan Chronicle · Opinion*
+
+In what was clearly his most consequential speech in recent months Prime Minister Narendra Modi has put the Indian corporate sector on notice. Addressing the annual general meeting of the Federation of Indian Chambers of Commerce and Industry (Ficci) last week, Prime Minister Modi challenged Indian business with a very John Kennedy-like poser — ask not what the government can do for you, ask what you can do for the country.
+
+Recalling Mahatma Gandhi’s call to Ficci in the 1920s to be a partner in the freedom struggle, Mr Modi reminded his audience that two decades later India won her freedom from colonialism. If ours has to become a developed economy by 2047 we have two decades ahead of us to become ‘Viksit Bharat’. The government will play its part, said the PM, asking for suggestions on how to enhance the ‘ease of doing business’. But what about the private sector? What would its contribution be towards Viksit Bharat?
+
+Mr Modi reminded his corporate audience that almost a decade back his government had reduced the corporate tax rate and brought about tax reforms which together contributed to an increase in corporate profits. Yet, a ‘greedy’ business class pocketed these earnings without passing them on to their salaried employees and wage-earning workers, thereby not enabling an increase in domestic demand.
+
+The Union government’s chief economic advisor, V. Ananta Nageswaran, has been saying as much recently. The facts stare us in the face. Corporate profits as a share of national income have been estimated to be 4.8%, an all-time high, with profits of about 4,000 listed companies rising 22.3% in the financial year 2023-24. However, employment in the corporate sector grew by a mere 1.5%. Average monthly earnings of regular salaried workers, adjusted for inflation, in fact fell between 2017-18 and 2023-24, dropping 6.4% for male workers and 12.5% for female workers.
+
+Prime Minister Modi recently claimed that his policies had helped reduce poverty to an all-time low. This may have happened both on account of overall growth and targeted income and welfare schemes. However, last week he was conceding that even as poverty has declined, inequalities have increased. The wage-profit differential clearly demonstrates that.
+
+It was the Polish economist Michal Kalecki who first demonstrated, in the 1940s, the relationship between changes in wage-profit balance and national income growth. A stagnation or decline in the share of wages in national income contributes to a decline in the rate of growth of consumption thereby creating a demand constraint that in turn hurts profitability. However, if capitalists create structures, increasing what Kalecki termed as ‘the degree of monopoly’, protecting their profits, there would be a further decline in aggregate demand, limiting the incentive to invest. Extending Kalecki’s argument one could suggest that in an open economy an increase in the share of profits in national income would contribute to an increase in imports of goods consumed by the profit-earning classes. That has been happening.
+
+Neither Prime Minister Modi nor his chief economic adviser may have read Kalecki but they were essentially offering a Kaleckian explanation for the stagnation of private corporate investment over the past decade. Mr Modi’s criticism of Indian business went far beyond upbraiding them for their greediness. He warned them of the consequences of not becoming globally competitive. The latter warning comes on the eve of India entering into a series of trade agreements with developed economies — Britain, European Union and, perhaps, the United States.
+
+In 1991 when Prime Minister Narasimha Rao opened up the economy to greater competition, at home and externally, the so-called ‘captains of Indian industry’, led by the late Rahul Bajaj, cried foul and sought a level playing field that would enable them to compete with global firms. The same argument is trotted out even today. While some businesses have become globally competitive, most still seek protection. In fact, the Modi government has increased the level of protection offered between 2014 and 2020. It is only now that the PM has realised that this has neither helped Make in India, nor has it made many firms globally competitive.
+
+One can only hope that the PM does not stop with his wake-up call but will proceed to take concrete steps aimed at improving the ‘ease of doing business’, encourage greater employment generation and skill building and push Indian firms into becoming globally competitive. The corporate sector needs a few like Rahul Bajaj who never shied away from speaking truth to power. Recall the event in Pune when Mr Bajaj told the Union Home minister Amit Shah how businesspersons ‘lived in fear’. Many continue to do so except that they do not have Mr Bajaj’s courage to speak up.
+
+The most important consequence of 1991 was that it unleashed what the economist John Maynard Keynes termed as ‘the animal spirits of enterprise’....
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/profits-up-wages-down-india-inc-faces-mirror-2006963)
+
+---
 
 ### Test of attribution: Can corporations be criminals?
 *Deccan Herald · Opinion*
@@ -21744,120 +22054,6 @@ Many wiser birds have found greener pastures and have fled to better lakes near 
 All birds, big and small, huddle around the small patches of water to hunt their food. No territorial fights, no senior prey domination. No one seems to be in a hurry, yet all get their food. “A healthy social life is found only when, in the mirror of each soul, the whole community finds its reflection and when, in the whole community, the virtue of each one is living,” says Rudolf Steiner.
 
 [Read full article](https://www.deccanherald.com/opinion/no-one-is-equal-until-we-are-all-equal-4122889)
-
----
-
-## 24 August 2026
-
-### Core concerns: On the Indian economy, the road ahead
-*The Hindu · Editorial*
-
-The slowdown in the growth of India’s core industrial sectors in July was not surprising, with other indicators predicting easing demand conditions as well. Growth in the index of core industries (ICI) slowed to 5.4% in July from 6% in the previous month. This was in keeping with the Manufacturing Purchasing Managers’ Index, which in July eased to its lowest level since August 2021 due to weak domestic demand conditions. While July’s growth in the ICI was the second-highest growth rate in the last seven months, the data nevertheless highlight some concerning aspects of the Indian economy. The first has to do with the fact that a large part of even this slower growth seems to be based on a statistical low base effect. The coal sector, for example, grew at an 11-month high of 7.6% in July, but this was based on a contraction of 12.3% in July of last year. Similarly, the refinery products sector snapped a three-month streak of contraction to grow at 2.7%, but this too was based on a contraction in July 2025. The iron ore sector, however, grew at a very robust 29.5%, albeit slower than a blistering 44.5% in June. This seems heartening regardless of the contractions of 16.4% and 7.1% in June and July of last year, respectively. But the steel sector slowed drastically in July to 2.9% from 5.6% in June and 15.7% in July of last year.
-
-The domestic crude oil and natural gas sectors have been lasting drags on the economy. Both have contracted continuously for at least the last 14 months for which the new series of the ICI has data. India’s crude oil imports rose 13.3% in volume terms in July, while Liquefied Natural Gas (LNG) imports grew a more marginal 1.5%, showing that the economy’s appetite is being whetted from abroad. This external dependence is proving very expensive. High oil prices have meant that the crude oil import bill jumped 41% in July. The 100% tariffs that the United States is preparing to levy on countries such as India that import Russian oil will once again burden Indian exporters. Moving to 20% ethanol-blending has not yet impacted oil imports materially. Within the ICI, the only two bright spots of the economy were the cement and electricity sectors. The electricity sector grew at a robust 9% in July, although this was slower than the two consecutive months of double-digit growth in May and June thanks to the prevalent heatwave conditions in many parts of the country. The cement sector sped up to 13.1%, a welcome acceleration. Such positive trends were few and far between. Overall, the Indian economy looks to be in for a period of slack demand, higher costs, and moderating growth.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/core-concerns-on-the-indian-economy-the-road-ahead/article71381278.ece)
-
----
-
-### Triple test, adrift: On the ruling on definition of ‘industry’
-*The Hindu · Editorial*
-
-On August 20, a nine-judge Bench of the Supreme Court of India delivered a judgment on the correctness of the ruling in Bangalore Water Supply and Sewerage Board vs A. Rajappa (BWSSB) (1978). In that judgment, Justice V.R. Krishna Iyer had laid down what was called the “Triple Test” on what counts as an “industry” under Section 2(j) of the Industrial Disputes (ID) Act, 1947 (ID Act). Three conditions were to be met for an industry — a systematic activity, employer-employee cooperation, and production/distribution of goods and services to satisfy human wants other than those that are purely religious or spiritual. Profit motive was irrelevant; what mattered in this determination was the nature of the activity, and only “sovereign functions” stood outside it. A five-judge Bench in State of U.P. vs Jai Bir Singh (2005) raised a doubt about this definition and a seven-judge Bench sent it to the current nine-judge Bench. This Bench, led by Chief Justice of India Surya Kant, left the Triple Test standing for all pending disputes under the older ID Act, which was repealed on November 21, 2025 when the Industrial Relations Code, 2020 (IRC) came into force. However, a majority of the nine-judge Bench also ruled that BWSSB will not be a “sheet anchor” for interpreting Section 2(p) of the IRC. That is a mistake. In her dissenting opinion, Justice B.V. Nagarathna held that the reference itself was unnecessary and that the Triple Test requires no interference — a view shared by three other judges. Her reasoning is compelling. Since 1978, and particularly after the liberalisation and privatisation reforms of 1991, a far higher number of workers have moved to the private sector, out of the security of public employment. An expansive definition of industry, as entailed in the Triple Test, is therefore even more necessary now as a bulwark for the worker.
-
-Yet, Section 2(p) of the IRC does not move away from Justice Krishna Iyer’s Triple Test formula in BWSSB and reproduces much of its essence. It is therefore difficult to understand why BWSSB has to be set aside when Section 2(p) itself comes up for interpretation. The Triple Test was also not merely a pro-labour device. An expansive definition of industry brought with it not just the ID Act’s protections but also its restrictions — for instance, a regulated route to retrenchment and closure for the employer, and a bar on workers striking at will. In essence, the Triple Test allowed for industrial peace rather than worker welfare alone. Severing that principle from the IRC, as the majority has done, cuts away the interpretive framework that allowed such disputes to be resolved. With the essence of the Triple Test carried into Section 2(p), it is now incumbent upon courts and tribunals to ensure that a change of statute is not read as a change of intent even if the majority judgment has removed the anchor to do so.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/triple-test-adrift-on-the-ruling-on-definition-of-industry/article71381252.ece)
-
----
-
-### Not ‘delulu’ — an AI tutor for every child in India
-*The Hindu · Opinion*
-
-Indian students rank among the top students almost anywhere in the world. The joke is that, from the womb to the afterlife, they are taught to study maths and science which serves them well throughout life. A report by Redseer says that India’s test-preparation market has been estimated at $14.8 billion in FY26, projected to reach $23-$26 billion by FY30 (12%-15% CAGR), with around 2,00,000 coaching centres nationwide. There are 65 million students in classes 9-12, of whom around 27 million attend government schools. A 2025 National Statistical Office survey found that 27% of students were taking or had taken private coaching in the academic year (30.7% urban, 25.5% rural). Across datasets, coaching incidence is around 27%-30%, implying that 17 million to 20 million students in classes 9-12 participate in some form of test-prep coaching.
-
-No single private platform has the capacity or curriculum breadth to serve as the sole national provider. PhysicsWallah, for example, has around 4.9 million paid online users — while the target population is 10 to 100 times larger. This needs to be built as a platform and network play, not a vendor contract.
-
-Better learning, better outcomesHow can the government take the help of Artificial Intelligence (AI) to deliver a free coach and tutor to every Indian child? The objective should not be to bring down the private coaching industry but to improve the learning standards and examination outcomes of the last child in the line who today spends thousands of rupees on dubious coaching centres without achieving the necessary results. Bring the industry in as suppliers, or they will lobby against it and the reputational risk of failing completely, is high for the government to sustain.
-
-We should not nationalise coaching. Build a public rail, private engines model: the state supplies the digital public infrastructure (identity, payments, discovery, data, credentialing) and aggregates demand; the private sector — star teachers, ed-tech firms, local tutors — supplies content and last-mile delivery shared by both. Government becomes the platform and market-maker, not the content producer. This is exactly how UPI beat closed payment apps and how the pen Network for Digital Commerce is attempting to beat closed commerce: unbundle the monopoly, open the protocol, let a thousand providers compete on an open network.
-
-The Indian coaching industry charges high fees because it bundles four things that do not have to be bundled: content; doubt-solving/mentoring; peer group and discipline, a credible signal of quality. DPI lets us unbundle these and drive the marginal cost of the first two toward zero. This can be anchored in an existing centre of excellence such as Bodhan.ai at IIT Madras (which has a ₹500 crore, five year government grant) or a similar National Payments Corporation of India (NPCI)-like body that needs to be created for education (a Section 8 not-for-profit steward).
-
-Where it should beginIt should start with the National Eligibility cum Entrance Test (Undergraduate), or NEET, and the Joint Entrance Examination, the two most widely taken examinations in India. JEE/NEET are objective, machine-gradable, and high-volume. The content is already freely available on YouTube; what is scarce is a trusted, standardised rank signal and personalised doubt-solving.
-
-An IIT professor who teaches students who have cleared JEE 30 years ago may not be the best option for teaching test prep. Today’s test prep skill and requirement is in a very different age, time, and pedagogy. Several, including this writer, who have cleared the IAS, GMAT, GRE, and IIT examinations, would shudder to take it again, much less teach it.
-
-Government aggregates demand thereby drives down the customer acquisition cost for the private sector and owns the rails and the trust layer; the private sector and star teachers compete to deliver content and mentoring on an open network; the student owns the data and carries a voucher (optional). That is how you turn a $15b paywall industry into free, plural, high-quality prep — without the state trying to become the teacher.
-
-As with any private good using public rails, it will use Aadhaar/DigiLocker for student sign-up and to de-duplicate; APAAR ID to tie learning to the academic record. Along with this will be a curated content registry, an open catalogue where any accredited provider publishes lessons, problem sets, and mock tests against a standard syllabus taxonomy (NEET/JEE topic tree) and open metadata (language, difficulty, medium, accessibility tags). The government will set the taxonomy and standards for the content and ensure interoperability.
-
-Content interoperability is the whole game — a student’s progress in one provider’s module must be portable to another’s. There shall be a discovery layer, a government-run reference app plus open APIs so third parties (including the DIKSHA app, state apps, even Google/YouTube) can surface the same content — multiple front ends, one network. For example, PhysicsWallah, Vedantu, Allen or Narayana could offer their material for free and charge for doubt-solving or premium sessions with ranked professors. IIT professors could also upload their lectures and be rated and ranked on the platform. Adaptive personalisation should be a core feature and as a network service, an open recommendation/diagnostic engine that routes say a weak-in-organic-chemistry student to the best-rated module on that topic, regardless of provider. These will be accompanied by a learning wallet and a progress ledger, a student-owned record of what they have studied, mock scores, and mastery per topic, consent-gated through the DEPA/Account Aggregator pattern. The student — not the ed-tech firm — owns the data, which is the single biggest structural break from today’s walled-garden apps. Lastly, while the platform will be mostly free at the point of use, UPI-plumbed premium add-ons (live mentoring, graded assignments) can be micro-charged or voucher-funded, should the government wish to create a DBT-like e-Shiksha wallet. Deliberately thin the government software: The state builds protocols and a reference app; it does not try to build the best learning app. It will not win that race and should not try this. Government alone can aggregate the demand and credential the supply and outcomes — that is all it should do. It should auto-invite every registered Class 11-12 student through schools, CBSE/State boards, and the DIKSHA install base. The system should guarantee reach through free data-light streaming, downloadable content for low-bandwidth areas, and distribution through the five lakh-plus Common Service Centres and school computer labs for students without personal devices. Equity is the mandate — the ₹60,000 crore industry already serves the affluent; the gap is everyone else.
-
-Government should publish open ratings and outcome data: publish, per provider and per module, how students who used it scored on official mocks and the real exam. Quality signal becomes objective, not marketing. This is the credential the coaching industry currently monopolises. Government alone can ensure independent accreditation of providers (content accuracy, no misleading claims), with delisting teeth. Further there should be a no-lock-in rule to ensure that providers cannot hold a student’s progress data hostage; portability is enforced at the protocol level.
-
-Models on offerThere is no dearth of content, good and bad, on YouTube but where an AI tutor helps is in practice, doubt solving and adaptive personalisation, which only AI can do. There are good open-source models such as Gemma, which give a million tokens for about 20 to 30 cents or 10,000 tokens per day or 3.6 million tokens per year for just ₹100. Further, every AI minute is equivalent to 1,000 voice minutes of a human; frontier tech companies such as Meta and Google are paying star Kota teachers $25 to $30 per hour for commoditising their content. Further, their models will get trained on it and Generative Inference will do the rest on top of it.
-
-We should not be delulu — as Gen Z would put it — government should not become the AI tutor itself. It should only enable the AI tutor through the blueprint given.
-
-Srivatsa Krishna is an IAS officer. The views expressed are personal
-
-[Read full article](https://www.thehindu.com/opinion/lead/not-delulu-an-ai-tutor-for-every-child-in-india/article71381725.ece)
-
----
-
-### Pellet gun FIR mirrors Pradhan’s forced exit
-*Deccan Herald · Editorial*
-
-The registration of an FIR over the use of pellet guns against a youth at the July 20 students’ protest at Jantar Mantar in New Delhi is as much a forced gesture as Union Education Minister Dharmendra Pradhan’s resignation in the wake of the protests. Both the police and Dharmendra Pradhan conceded only under pressure to demands that were fair and legitimate. Just as the minister resisted demands for his resignation for weeks, the police refused to file an FIR despite a youth suffering an eye injury from pellet firing. Dharmendra Pradhan should have resigned on moral grounds for the paper leak, and the police was duty-bound to register a case once a complaint was lodged. Both cases underscore accountability and responsibility in a democracy governed by the rule of law; but in both cases, decisions had to be extracted from unwilling authorities through popular pressure.
-
-Delhi Police register FIR over pellet injuries to youth during July 20 stir following Rahul Gandhi's dharnaIt reflects poorly on law enforcement that the police agreed to a normal legal procedure, which is every citizen’s right, only after Leader of the Opposition in the Lok Sabha Rahul Gandhi sat on a six-hour dharna on August 21. Sahil Lochab, the student allegedly hit by pellets, had submitted a written complaint on August 14 and pursued his request every day. There was no justifiable reason for the police to refuse to file an FIR, especially when it had filed hundreds of cases against protesting students. Rahul Gandhi took up the case when the police failed to do its duty. The BJP’s criticism that he was resorting to ‘’cheap and diversionary politics’’ and was promoting anarchy is not valid. It was the police that presented a case to be picked up by the Opposition leader, and protests seeking justice and fair State action cannot be dismissed as anarchic.
-
-The government and the police have denied the charges about excessive use of force during the July 20 protests. Yet evidence of brutal and disproportionate force was evident, including the use of pellet guns. The Delhi Police initially denied it, but references later surfaced in a police diary. The Supreme Court has since appointed a high-powered committee led by Justice R Subhash Reddy to investigate allegations of excessive force and mistreatment of women by the police. The committee’s findings will be crucial in establishing the truth, fixing accountability, and addressing the violence unleashed on protesting students. It is the sense of accountability that the police tried to avoid in the case of the FIR.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/pellet-gun-fir-mirrors-pradhans-forced-exit-4121627)
-
----
-
-### Textbook fiasco exposes systemic lapses
-*Deccan Herald · Editorial*
-
-Two months into Karnataka’s academic year, several textbooks are still not in the hands of children. Even State-run institutions have not received their full requirement in any taluk, while private schools await several titles despite having paid in advance. Teachers and pupils are left to manage with photocopies of last year’s books. The Karnataka Textbook Society (KTS), tasked with supplying them, owes the public an explanation. With the academic calendar fixed and known well ahead, such lapses are indefensible. Uniforms, bags, and shoes for government schoolchildren and those admitted to private institutions under the Right to Education (RTE) Act have also been delayed. This amounts to a breakdown of administration and accountability.
-
-The irony is difficult to miss. The State has announced eight education guarantees aimed at transforming learning: filling teacher vacancies, allowing greater choice of medium of instruction, providing free transport for public school students, introducing computer education from Grade 1 and artificial intelligence from Grade 3, appointing specialist teachers for art, music, and physical education, providing staff for non-teaching work, strengthening assessments and parent-teacher engagement, and introducing skill education and competitive-examination preparation from Grade 6. It has set ambitious targets: making its institutions the best in India within three years and enrolling five million children within five years. The 2026 results give reason to be optimistic: the SSLC pass rate hit a record 94.10%, while the PUC rose to 86.48%. The standout feature was the strong performance of State-run institutions. The government even took the unusual step of advertising its schools to attract enrolments.
-
-Delayed textbook supply worries students and teachers in Karnataka's VijayapuraPrecisely because of these gains, the textbook fiasco cannot be brushed aside. Textbooks are not optional; they are the foundation of teaching and learning. Each day without them disrupts lesson plans, strains teachers, and places an unfair burden on children, particularly those from disadvantaged families who depend most on public institutions. Lost classroom time cannot be recovered by rushing through chapters before examinations. The authorities must take responsibility for this avoidable failure, and disciplinary action should be initiated against KTS officers. Merely ordering an inquiry after the damage is done will not suffice. An administration that promises to build the country’s best education system must ensure that children have their textbooks, uniforms, bags, and shoes on the first day. Education cannot be transformed through promises on paper while the most basic requirements of schooling remain undelivered.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/textbook-fiasco-exposes-systemic-lapses-4121628)
-
----
-
-### 'Dimagi Naxals': Dissent under fire
-*Deccan Herald · Opinion*
-
-In his Independence Day speech on August 15, Prime Minister Narendra Modi used the phrase ‘Dimagi Naxals’. In a 2014 interview as the BJP’s prime ministerial candidate, Modi had rejected the term Naxal/Naxalism and instead called for the use of Maoism. In his latest address, the prime minister said the government had succeeded in freeing the nation from armed Naxals, but cautioned the country, especially its youth, against the dangers posed by ‘Dimagi Naxals’.
-
-The Congress said Modi’s remark was aimed at Opposition; former Union Home Minister P Chidambaram even responded, “I am proud to be a Dimagi Naxal.” Members of the Cockroach Janta Party interpreted the comment as a swipe at educated youth against the backdrop of the Jantar Mantar protests. Later, Union Parliamentary Affairs Minister Kiren Rijiju issued a statement clarifying the prime minister’s intent, saying it referred only to those who (i) support Maoists and reject the Indian Constitution, (ii) stand with separatists and back Article 370, and (iii) want to cut the ‘chicken neck’ to separate the Northeast from India.
-
-In Hindi, ‘dimagi’ refers to someone who thinks independently, without being influenced by popular or majoritarian opinions. Phrases like ‘dimag nahi hai kya?’ are common in everyday speech, often directed at someone acting without much thought. The ability to distinguish between right and wrong, truth and falsehood, and belief and reason are considered the main attributes of a ‘dimagi’, who is understood as an intellectual or a person of wisdom. The second word, Naxal/Naxali, has been in use since 1967, following the Naxalbari uprisings in West Bengal’s Darjeeling.
-
-Over 2 lakh followers, suspension and back online: Entry of 'Dimagi Naxal Party' amid row over PM Modi’s I-Day speech makes buzzSignificantly, the term was used to describe a political ideology of Marx-Lenin-Mao (MLM), which sought the seizure of power through the barrel of a gun rather than the ballot box. Modi’s remark referred to this kind of violent mindset of bringing change in society. It can be understood as ‘intellectuals with a violent mindset’. The call to isolate ‘Dimagi Naxals’ is at the right place only when seen from the perspective of democracy’s rejection of violence. In a democratic system, there can be no place for violent methods. So far, this is fine; however, the real problem with the prime minister’s remark lies in the threat posed by loosely labelling intellectuals as those with a violent mindset. Many intellectuals in the country have firmly rejected Maoist violence, yet questioned governments over failures in governance and development.
-
-Notably, figures such as K Balagopal, K G Kannabiran, Fr Stan Swamy, and S R Sankaran rejected violent means of societal transformation. Even during the peak of the Naxalite movement in the mid-1980s in undivided Andhra Pradesh, they stood for and worked towards the peaceful resolution of political conflict.
-
-The ‘Dimagi Naxals’ remark needs to be understood from the perspective of the State’s security governance that will evolve over the next two decades. The BJP’s aim is to sustain political power and build a democratically unchallenged fortress. Having already dismantled hard-core Maoist leadership in most states, the Union government is now focusing on individuals who remain active in terms of Maoist political beliefs and ideology. Isolating such individuals from power corridors and policymaking may be desirable, but it is difficult to achieve without sensitive, responsive, and humane governance in the country.
-
-The rise in Unlawful Activities (Prevention) Act (UAPA) cases since 2014 is not a mere coincidence; it reflects the political intent of National Democratic Alliance (NDA) governance, which has focused on stifling dissenting voices. The NDA government has succeeded in curbing armed Maoist ideologues to a large extent in the central and eastern states. Politically, Modi’s remark was meant to send a message to all those who express dissent against the government. This includes student associations, activists, writers, thinkers, intellectuals, academicians, farmers, trade unions, civil society organisations, and think tanks. In 2014, one of the BJP’s electoral slogans was ‘minimum government, maximum governance’. With the remark on ‘Dimagi Naxals’, the government’s intent appears reversed — to ‘maximum government, minimum governance’.
-
-The remark is politically strategic, aimed at sustaining power with minimal scope for democratic dissent. It’s a caution issued with a threat to all dissenting voices, resisting individuals and democratic defenders in the emerging reality of governance. It sends dangerous signals to democratic traditions and customs, effectively violating Article 19(1)(a), (b) and (c) of the Constitution of India, and risks turning the system into an elected autocracy.
-
-(The writer is an assistant professor at Symbiosis Law School, Symbiosis
-
-International (Deemed) University, Pune)
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/dimagi-naxals-dissent-under-fire-4121631)
 
 ---
 
