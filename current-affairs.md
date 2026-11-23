@@ -1,3 +1,653 @@
+## 23 November 2026
+
+### From monthly payouts to easier withdrawals: what EPFO’s changes mean | Mint
+*Aprajita Sharma · economy*
+
+EPFO has given in-principle approval to invest up to 3% of fresh accretions in eligible alternative investment funds, within its existing overall investment ceiling.**(Mint)**
+
+Summary
+
+EPFO has approved changes to withdrawals, voluntary contributions and investments. Here is what they mean for members, and what remains to be clarified before implementation.
+
+The 240th meeting of the Employees’ Provident Fund Organisation’s (EPFO) Central Board of Trustees (CBT), held on 19 November 2026, approved several changes, including systematic withdrawals for retiring members, easier premature withdrawal rules and direct voluntary contributions.
+
+What do these decisions mean for existing EPF subscribers? Who stands to benefit, when will the revised rules take effect, and what should members keep in mind before dipping into their retirement savings? We explain the key announcements and their implications.
+
+## Monthly payouts
+
+The board has approved a proposal to introduce a systematic withdrawal plan (SWP) for retiring EPF members. Instead of withdrawing their entire accumulated corpus at once, members will be able to receive their savings in periodic instalments, such as monthly, quarterly or half-yearly payments.
+
+The remaining balance will continue to earn interest, allowing members to supplement their pension income during retirement.
+
+“EPF has been built in a way that it first accumulates funds and pays out at once. A lumpsum at 58 is exposed to poor investment choices, mis-selling and family pressure. SWP will allow members to withdraw gradually, offering a safeguard,” said Kunal Arora, advocate and principal consultant, SKVC Consulting.
+
+However, the proposed withdrawal period and the treatment of the remaining corpus need greater clarity.
+
+“There are reports that say the withdrawal window will be 20 years. Retiring at 58, the corpus runs out at about 78, exactly when health costs rise. Members need a longer tenure, an interest-only option or an undrawn reserve. Some reports claim that an interest-only option will be given. We have to wait and watch for the final notification,” Arora said.
+
+The rules also provide that if a member dies during the payout period, the nominee or dependent can withdraw the remaining balance or continue receiving periodic payments. This could create disputes among nominees.
+
+"The rules need a clear default for hard cases: one nominee wants the balance and another wants instalments, a nominee is a minor, or there is no valid nomination. Death claims are already the slowest category," Arora said.
+
+Tax treatment is another concern. Under the existing framework, interest on EPF balances may become taxable three years after retirement or cessation of employment.
+
+“The government is expected to clarify the tax treatment of interest earned on the balance retained with EPFO after retirement or cessation of employment, as such interest may be taxable under the present framework,” said Puneet Gupta, partner, EY India.
+
+Gupta added that while eligible EPF withdrawals are generally tax-exempt after five years of continuous service, the same treatment for SWP instalments will depend on the proposed amendment to the income-tax law and the detailed rules.
+
+## **Lower balance limit**
+
+Earlier this year, EPFO simplified premature withdrawals by grouping them into three broad categories: illness, education and marriage. Members could withdraw up to 75% of their balance but had to retain at least 25%. Before this change, different withdrawal categories had separate limits.
+
+The board has now approved a proposal to reduce the minimum balance requirement from 25% to 10%, making up to 90% of the corpus available for withdrawal.
+
+“I am not sure whether reducing the minimum balance requirement to 10% will be beneficial or lead to misuse. With 90% of the corpus now available for withdrawal, more members may drain their PF accounts without realising the long-term compounding and tax benefits,” said Kunal Kabra, co-founder, Kustodian.Life.
+
+Gupta agrees. “Premature withdrawals reduce not only the principal but also the benefit of long-term compounding. Members should ideally use the liberalised withdrawal facility only for genuine financial needs,” he said.
+
+## **Faster settlement**
+
+The board has also approved a proposal to allow members who leave their jobs and remain unemployed to apply for full EPF settlement after two months.
+
+Earlier this year, the waiting period had been extended to 12 months. The latest decision proposes to restore the earlier two-month period.
+
+“This was surprising news, but is a welcome change. Someone who loses a job needs their savings to meet household expenses and pay EMIs until they find new employment. A 12-month waiting period created unnecessary hardship. Bringing it back to two months will provide much-needed support when members need it most,” said Kabra.
+
+## **Gig worker access**
+
+Among the other proposals, the board has approved a mechanism for direct voluntary EPF contributions through a member’s Universal Account Number (UAN). It also proposes to enable third-party micro-contributions, such as customer tips, independently of traditional employer payroll systems.
+
+“This matters most for workers whose income does not come through a regular salary like gig and platform workers, delivery partners, drivers and those who move between jobs. Until now, EPF savings were tied to a formal employer. This opens the door for such workers to build a retirement corpus at EPF interest rates, at their own pace,” said Anurag Jain, co-founder and partner, ByTheBook Consulting LLP.
+
+However, several details remain unclear.
+
+“One open question that EPFO must answer is whether there will be a cap on contributions, how tax-free interest limits on large employee contributions (the ₹2.5 lakh threshold under the Income Tax law) will apply, and how third-party money such as tips will be verified,” Jain said.
+
+Arora highlighted two caveats. Unlimited contributions could create fiscal and asset-liability mismatch risks for EPFO. Further, the benefits may be limited if voluntary contributions remain subject to the usual withdrawal restrictions.
+
+“If voluntary money is locked under the normal withdrawal rules (minimum balance, service conditions, purpose categories), it becomes illiquid for gig workers,” he said.
+
+## **AIF exposure**
+
+The board has given in-principle approval for EPFO to invest up to 3% of fresh accretions in eligible alternative investment funds (AIFs), within the existing overall investment ceiling. Initially, investments are expected to be routed through government-backed entities.
+
+Gupta said the proposal needs to be read alongside the notification dated 29 April 2021, which permitted investments in units of Sebi-regulated Category I and Category II AIFs within the broader 5% allocation prescribed for asset-backed, trust-structured and miscellaneous investments.
+
+“While the investment pattern permits an overall allocation of up to 5% to the broader category, the latest CBT decision reportedly proposes an initial investment of up to 3% of fresh accretions in eligible AIFs,” he said.
+
+"The proposed allocation appears aimed at improving diversification and long-term returns. However, AIFs can carry higher liquidity, valuation and performance risks than government securities and conventional debt investments," Gupta added.
+
+## What members should know
+
+The proposed changes could create multiple categories of money within a member’s EPF account, including mandatory contributions, voluntary contributions above the wage ceiling, voluntary provident fund (VPF) contributions through payroll and direct UAN-linked deposits.
+
+“Each may carry different tax and withdrawal rules. Unless the passbook separates them, grievances will follow,” Arora said.
+
+Importantly, these are proposals approved by the CBT and will require the necessary notifications and amendments to the EPF Scheme before they become fully effective. No implementation dates have been announced yet.
+
+EPFO is moving towards a more flexible retirement-income option, rather than remaining solely a lump-sum savings vehicle. Whether subscribers use the additional flexibility to manage retirement income or access funds for shorter-term needs will depend on the final rules and how they are implemented.
+
+### About the Author
+
+Aprajita Sharma
+
+A financial journalist and certified financial planner, Aprajita Sharma brings clarity and depth to the complex world of money. With over 12 years of experience across digital, print, and broadcast media, she has built a reputation for explaining personal finance in a way that is both practical and relatable.<br><br>She is working with Mint as an Assistant Editor and has previously worked with leading publications such as The Economic Times, Business Today, Fortune India, Outlook Money and Business Standard. She is also the co-author of “The Big Bull of Dalal Street”, a Penguin bestseller that chronicles the life of renowned investor late Rakesh Jhunjhunwala. She was also selected among a small group of journalists for the Asia Journalism Fellowship, underscoring her credibility in the field.<br><br>Aprajita is known for advocating unbiased, fee-only financial advice and for her sharp understanding of investor behaviour. Through her writing and storytelling, she continues to empower individuals to make more informed, confident financial choices. She is also a Kathak enthusiast.
+
+---
+
+### FSSAI suspends licenses of five nutraceutical, health supplement makers
+*Meenakshi Verma Ambwani · business*
+
+##### CRUDEOIL   7,748.00
+
++ 53.00
+
+##### GOLD   125,300.00
+
++ 3,522.00
+
+##### SILVER   153,601.00
+
++ 5,788.00
+
+##### CRUDEOIL   7,748.00
+
++ 53.00
+
+##### CRUDEOIL   7,748.00
+
++ 53.00
+
+##### GOLD   125,300.00
+
++ 3,522.00
+
+1.  Home 
+2.  Companies 
+
+## Licences of Vedant Remedies, Lucid Health Care Pvt Ltd, Ambico Ayurvedic Healthcare, Vitamedic Health Nutraceuticals and Adorreal Healthcare were suspended
+
+Updated - November 23, 2026 at 01:06 PM.
+
+The Food Safety and Standards Authority of India (FSSAI) on Monday said that it has suspended licenses of five nutraceuticals and health supplement manufacturers over serious safety violations. These include Vedant Remedies, Lucid Health Care Pvt Ltd, Ambico Ayurvedic Healthcare, Vitamedic Health Nutraceuticals and Adorreal Healthcare. 
+
+The regulator said that the license of Vedant Remedies Pvt Ltd has been suspended after violations 
+
+Similarly, premises of Lucid Health Care Pvt Ltd were found to have poor hygiene, inadequate lighting, improper storage and faulty pest control arrangements. “ Ayurvedic and Nutraceutical products were manufactured within the same premises, with inadequate segregation and storage facilities. Food handlers lacked proper hygiene facilities, protective equipment and mandatory FoSTaC training Mandatory food safety, testing and maintenance records were not properly maintained,” it noted 
+
+The food safety regulator noted that that Adorreal Healthcare’s license was suspended after it was found that its licensed premises was found to be non-operational, with construction work underway. The FBO continued to hold an active FSSAI license against a non-existent/disposed premises and was found to have furnished false/misleading information. “Due to serious regulatory violations, the FSSAI license of M/s. ADORREAL HEALTHCARE has been suspended with immediate effect under the FSS Act, 2006,” it said in its social media post.
+
+FSSAI also said that license of Vitamedic Health Nutraceutivals has been suspended as the company was found to have shifted from its licensed premises without endorsement of the new address on the existing FSSAI license.  “The shifted premises was also found to be shared with another active food processing unit, M/s Myyo Foods India Private Limited, engaged in meat processing,” it added.
+
+Ambico Ayurvedic Healthcare’s premises were also found to be lacking in hygiene, sanitation and other violations, which led to suspension of its license, the regulator added. 
+
+Published on November 23, 2026
+
+THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.
+
+THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.
+
+---
+
+### TRUST Mutual Fund names Anup Seth as CEO, Bagla moves to group role
+*BL Mumbai Bureau · business*
+
+##### CRUDEOIL   7,748.00
+
++ 53.00
+
+##### GOLD   125,300.00
+
++ 3,522.00
+
+##### SILVER   153,601.00
+
++ 5,788.00
+
+##### CRUDEOIL   7,748.00
+
++ 53.00
+
+##### CRUDEOIL   7,748.00
+
++ 53.00
+
+##### GOLD   125,300.00
+
++ 3,522.00
+
+1.  Home 
+2.  Companies 
+
+## Seth joins from Edelweiss Life Insurance, where he served as Director and Chief Distribution Officer, overseeing distribution, strategy, marketing and digital initiatives
+
+Updated - November 23, 2026 at 01:04 PM.
+
+TRUST Mutual Fund has appointed Anup Seth as its Chief Executive Officer with effect from November 20, 2026.
+
+TRUST Mutual Fund has appointed Anup Seth as its Chief Executive Officer with effect from November 20, 2026, the asset management company announced on Monday.
+
+Seth joins from Edelweiss Life Insurance, where he served as Director and Chief Distribution Officer, overseeing distribution, strategy, marketing and digital initiatives. He brings over 26 years of experience across financial services, retail and digital platforms. Prior to Edelweiss, he held senior roles at Reliance Nippon Life, HDFC Life, IDBI Federal Life and Future Group, and was a co-founder of digital venture Inmatch Internet Ventures.
+
+Outgoing CEO Sandeep Bagla, who has led the fund house since inception, moves to TRUST Group as President — Strategy & Synergies. The company credited Bagla with establishing TRUST Mutual Fund as a fast-growing player in the Indian mutual fund industry.
+
+Seth’s stated priorities include widening the investor base, strengthening multi-channel distribution, refining the product mix, and expanding the brand and partnership ecosystem. The fund house indicated it aims to deepen retail participation and extend its reach beyond major cities.
+
+TRUST Mutual Fund is sponsored by Trust Investment Advisors Private Limited and managed by TRUST Asset Management Private Limited. Its parent, TRUST Group, was founded in 2001 and operates across debt capital markets, wealth management, portfolio management and alternative assets.
+
+Published on November 23, 2026
+
+THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.
+
+THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.
+
+---
+
+### Gangajal from Triveni, Rudraksh and Chandan from Pashupatinath: PM Modi, Nepal PM exchange gifts
+*Aadrita Halder · regional, india*
+
+PM Modi, Balen Shah exchange gifts
+
+NEW DELHI: Prime Minister Narendra Modi on Monday gifted his Nepali counterpart Balendra Shah a kalash of Gangajal from Triveni, while Balen Shah presented him with Rudraksh and Chandan from the sacred Pashupatinath Temple, ahead of their bilateral talks at Hyderabad House in New Delhi.The two leaders held discussions to review India-Nepal relations and explore ways to strengthen cooperation across key sectors.The talks are expected to focus on economic cooperation, particularly in trade, transportation, investment and infrastructure development. The two sides are also expected to exchange memorandums of understanding (MoUs) in areas of mutual interest, including education, health, agriculture, sports, disaster management and human resource development.Connectivity and energy cooperation are also likely to feature prominently during the visit. The two countries are expected to inaugurate several completed projects in these sectors and lay the foundation stones for upcoming initiatives.
+
+The visit will also include a Nepal-India Business Forum aimed at attracting Indian investment to Nepal. The forum will provide a platform for business representatives from both countries to explore opportunities for collaboration and strengthen commercial ties.
+
+PM Modi will host an official luncheon for Shah and his 34-member government delegation.The Nepalese delegation includes finance minister Swarnim Wagle, foreign Mminister Shishir Khanal, chief advisor to the Prime Minister Kumar Byanjankar and other senior officials.Earlier on Monday, Balen Shah paid tribute to Mahatma Gandhi at his memorial in Raj Ghat, laying a wreath and signing the visitors' book.He also received a ceremonial Guard of Honour at Rashtrapati Bhavan, with PM Modi in attendance.The two-day state visit provides an opportunity for the two sides to review their bilateral partnership, take stock of ongoing cooperation and explore ways to expand engagement across areas of shared interest.
+
+---
+
+### Gold price crash with 31% correction: Why investors should wait for November 25, December 4 and 9 - What’s special? | Mint
+*Shivam Shukla · economy*
+
+## Gold has fallen sharply from its January record. Check the 3 US dates, 25 Nov, 4 Dec and 9 Dec, that could decide gold’s next move in India.
+
+Gold prices have corrected nearly 29% from their January peak. US inflation data, employment figures and the Federal Reserve's December policy decision could influence bullion's next move. (AI-generated image for representational purposes only)
+
+Gold has corrected sharply from its record high earlier this year, leaving investors and jewellery buyers wondering whether the worst is over. Its next move could depend on three US economic events in the coming weeks: the October PCE inflation report on 25 November, the November jobs report on 4 December and the US Federal Reserve’s policy decision on 9 December.
+
+All three could shape the Fed’s interest rate path and outlook, which in turn affects global bullion prices.
+
+Gold has fallen about 31.7% from its January record of ₹1.83 lakh per 10 grams. On 23 November, 99.9% pure gold traded at ₹1,25,030 per 10 grams in New Delhi, a minor recovery after seven straight sessions of losses.
+
+A stronger US dollar, rising Treasury yields and expectations of further Fed rate hikes have weighed on gold and the wider bullion market. Gold pays no interest, unlike bank fixed deposits and similar investments, so higher interest rates generally reduce its appeal.
+
+With these core fundamentals in mind, here are the three dates investors should watch over the next few weeks.
+
+View full Image
+
+Note: These are extremely important upcoming events that could affect precious metal prices. Hence, investors should follow them diligently.
+
+The October Personal Consumption Expenditures (PCE) inflation report is scheduled for release on Wednesday, 25 November. This will provide investors with clear clues about the underlying US price pressure. Core PCE inflation will be a key focus for top investors worldwide. This metric excludes food and energy prices and provides real insights. It is released by the US Bureau of Economic Analysis (BEA).
+
+Then next will be the November employment report, which will be released on Friday, 4 December. This is yet another critical report that will indicate whether the US labour market continues to hold and stays resilient. This is a vital metric because strong job creation could reinforce expectations of tighter monetary conditions, whereas signs of weakness may support the bullion market and gold demand.
+
+After these two important events, the most closely watched will be the Federal Reserve’s policy announcement, scheduled for Wednesday, 9 December. During this, investors will analyse and assess not just the interest rate decision but also policymakers’ guidance on future rate movements.
+
+## **What should Indian gold buyers watch?**
+
+For Indian gold investors and aspiring buyers, it is essential to keep in mind that domestic gold prices are influenced by international bullion rates, the rupee-dollar exchange rate and import duties. Hence, movements in the US dollar and global gold prices, along with how geopolitical developments 
+
+Moreover, any further correction in precious metal prices, especially gold, might offer aspiring jewellery buyers and investors an opportunity to invest at lower levels. Still, investors should remember that volatility and significant price fluctuations can continue around major economic announcements and geopolitical developments.
+
+These three dates could show whether gold’s correction extends or gives way to a recovery. Rather than assuming prices have bottomed out, investors should track the data and the Fed’s signals, and seek professional advice before investing.
+
+_Disclaimer: This article is for general information only and not investment advice. Gold prices are subject to market fluctuations and may rise or fall depending on economic conditions and global developments._
+
+### About the Author
+
+Shivam Shukla
+
+Shivam writes on personal finance, equity markets, and mutual funds. He has previously contributed to several leading publications, including Moneycontrol. He can be reached at shivam.shukla@htdigital.in
+
+---
+
+### Why India could be a major winner in the global AI revolution
+*ANI · business*
+
+Artificial intelligence is expected to create opportunities across banking, healthcare, education and agriculture, with India’s digital infrastructure and technology workforce supporting wider adoption. | Photo Credit: iStockphoto
+
+India could emerge as one of the biggest long-term beneficiaries of the global artificial intelligence (AI) revolution, driven by its large population, expanding digital infrastructure, technology workforce and growing demand for AI-based services across sectors, according to a report by Deutsche Bank.
+
+The report argues that India does not necessarily need to develop the world’s most advanced AI models or compete directly with the United States and China in semiconductor manufacturing to benefit from the technology. Instead, its biggest opportunity lies in adopting existing AI technologies and deploying them across its economy to improve productivity and address longstanding challenges in healthcare, education, banking and agriculture.
+
+## AI adoption is accelerating faster than previous technologies
+
+Highlighting the speed of AI adoption compared with previous technological revolutions, the report noted that it took around 80 years for steam power to reach lower-income countries, 40 years for electricity and 20 years for the internet. However, ChatGPT achieved extensive usage in just six months.
+
+The report said, “AI could be the key to unlock new growth in India and other emerging markets. You don’t need the latest AI model to enable millions of people and enterprises to become substantially more productive by giving them access to unprecedented amounts of tailored knowledge and skills at minimal cost. You don’t even need to invent it.”
+
+## Population and digital infrastructure offer an advantage
+
+According to the report, India’s population is expected to reach 1.5 billion by 2028, creating a massive potential market for AI adoption. The country also has significant unmet demand across several sectors, where AI can help provide affordable services to millions of people.
+
+The report highlighted that India’s digital infrastructure, including affordable internet connectivity, smartphones, Aadhaar, Jan Dhan accounts and the Unified Payments Interface (UPI), provides a strong foundation for large-scale AI adoption.
+
+Internet access in India has increased from 15 per cent to 70 per cent over the past decade, while bank account ownership has risen from slightly over half of the population in 2014 to nearly 90 per cent currently.
+
+This existing digital infrastructure can help businesses and government institutions deploy AI-based services without having to build entirely new systems.
+
+## Banking, healthcare, education and agriculture among key beneficiaries
+
+The report identified banking, healthcare, education and agriculture as sectors that could benefit significantly from AI adoption.
+
+Agriculture is another major area of opportunity. AI-enabled precision farming could help farmers forecast crop yields, identify pests and diseases and improve farming practices.
+
+## Technology workforce and data centres add to India’s potential
+
+The report also highlighted India’s large technology workforce as an important advantage in implementing AI solutions.
+
+According to the report, India produces approximately 11 million graduates annually, providing a substantial talent pool to support the development and deployment of AI applications.
+
+The report also highlighted the potential of India becoming a major global data centre hub, supported by investments from domestic business groups and international technology companies.
+
+Published on November 23, 2026
+
+---
+
+### EVs make up for decline in PV sales as retail number hit record: FADA
+*BL New Delhi Bureau · business*
+
+Close to one in ten festive vehicles sold this season was electric: FADA | Photo Credit: REUTERS/ANUSHREE FADNAVIS
+
+The recently concluded 42-day festival season auto retail sales hit a record with more than 55 lakh vehicles being sold aided by electric vehicles (EVs) surpassing the 5 mark for lakh mark for the first time and making up for the decline in passenger vehicle (PV) numbers.
+
+Federation of Automobile Dealers Associations (Fada) noted that the total vehicle retail sales stood at 55,25,490 units during the 42-day festive period of 2026—the highest-ever on record.
+
+“The defining story of this festival is electric. EV retails surged 52.62 per cent to cross five lakh units in a single festive for the first time ever—an all-time high—led by e-Two-Wheelers (61.10 per cent Y-o-Y) and Electric Passenger Vehicles (72.91 per cent Y-o-Y), with Electric Commercial Vehicles more than doubling,” the industry body said.
+
+Close to one in ten festive vehicles sold this season was electric, it highlighted.
+
+FADA President Sai Giridhar said “The turnaround is written in the numbers, a Passenger Vehicle segment that was down over 18 per cent at the Navratri stage closed the full festive with its deficit more than halved, and the overall market swung from negative at Navratri into positive territory.”
+
+Measured on an annual basis, the growth was broad-based and led from the heartland. Two-Wheelers grew 3.67 per cent, Commercial Vehicles 7.13 per cent, Three-Wheelers 5.32 per cent, Tractors 2.24 per cent and Construction Equipment a standout 26.06 per cent.
+
+Passenger Vehicles declining by 7.16 per cent Y-o-Y was the one segment still lapping last year’s exceptional GST-driven surge, yet even here the two-year picture is strongly positive at 16.43 per cent, with a healthy pipeline of festive bookings still converting into deliveries, FADA claimed.
+
+This season reaffirms a simple truth that the fundamentals of Indian auto retail are strong and broadening, the industry body stressed.
+
+Affordability anchored by GST 2.0, a resilient Bharat-led consumer, an expanding multi-powertrain choice, and the aspiration of a young, confident India are together carrying the sector to new heights, it added.
+
+“As we step out of the festive and into the final stretch of the year, India stands on the cusp of a historic milestone—its first-ever year of over 3 crore vehicle retails. This festive season has set the stage for it,” Giridhar emphasised.
+
+It is a fitting reflection of the wider India growth story and the nation’s march towards a Viksit Bharat, he added.
+
+Published on November 23, 2026
+
+---
+
+### Indian InvITs hit ₹1 lakh crore in cumulative distributions as unitholder base doubles
+*BL Mumbai Bureau · business*
+
+##### CRUDEOIL   7,755.00
+
++ 60.00
+
+##### GOLD   125,013.00
+
++ 3,235.00
+
+##### SILVER   153,226.00
+
++ 5,413.00
+
+##### CRUDEOIL   7,755.00
+
++ 60.00
+
+##### CRUDEOIL   7,755.00
+
++ 60.00
+
+##### GOLD   125,013.00
+
++ 3,235.00
+
+1.  Home 
+2.  Economy 
+
+## Quarterly distributions to unitholders stood at ₹7,659 crore in Q2 FY27, up 69% from ₹4,507 crore in Q2 FY26 and 29% higher than Q1 FY27
+
+Updated - November 23, 2026 at 12:52 PM.
+
+India’s Infrastructure Investment Trusts crossed a significant milestone in the second quarter of FY27, with cumulative distributions to unitholders surpassing ₹1 lakh crore since inception. | Photo Credit: AROYBARMAN bl-online Administrator
+
+India’s Infrastructure Investment Trusts crossed a significant milestone in the second quarter of FY27, with cumulative distributions to unitholders surpassing ₹1 lakh crore since inception, according to data released by Bharat InvITs Association (BIA) on Monday.
+
+Quarterly distributions to unitholders stood at ₹7,659 crore in Q2 FY27, up 69 per cent from ₹4,507 crore in Q2 FY26 and 29 per cent higher than Q1 FY27. The sector’s assets under management rose to ₹7.6 lakh crore, a 4.68 per cent increase from ₹7.26 lakh crore in Q1 FY27 and 14.5 per cent higher than the ₹6.63 lakh crore recorded in Q2 FY26. Market capitalisation stood at ₹3.11 lakh crore.
+
+The unitholder base reached 7.46 lakh, doubling year-on-year and rising 14 per cent over Q1 FY27. BIA attributed the growth to lower minimum investment thresholds, broader availability on broking platforms, and sustained investor education efforts.
+
+NS Venkatesh, CEO of BIA, said the doubling of unitholders over the past year indicated growing investor confidence, particularly among retail participants who view InvITs as instruments for regular income and portfolio diversification.
+
+India currently has 28 registered InvITs spanning roads, power, telecom, renewable energy, warehousing, and logistics. BIA, established in March 2024, serves as the apex industry body representing the sector.
+
+Published on November 23, 2026
+
+THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.
+
+THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.
+
+---
+
+### IT holds firm as banks, metals drag Nifty below 25,600
+*Anupama Ghosh · business*
+
+The advances-declines ratio on the Nifty stood at 16:34
+
+Benchmark indices reversed their morning gains sharply by midday Monday, with the Sensex trading at 82,926.09, down 993.62 points or 1.18 per cent, and the Nifty 50 at 25,507.05, falling 293.55 points or 1.14 per cent, as of 12.30 pm. Both indices had opened with a gap-up, the Sensex at 84,421.97 and the Nifty at 25,929.15, before selling pressure erased all gains and pushed them into negative territory.
+
+The mid-session reversal was broad-based, with 2,692 stocks declining on the BSE against 1,547 advancing and 270 unchanged, out of 4,509 stocks traded. The advance-decline ratio on the Nifty stood at 16:34. A total of 213 stocks hit the lower circuit, against 167 in the upper circuit. Meanwhile, 129 stocks touched 52-week lows, slightly more than the 122 that hit 52-week highs.
+
+Banking stocks bore the brunt of the sell-off. Axis Bank fell 2.79 per cent to ₹1,405.70 from a previous close of ₹1,446, on volumes of 76.08 lakh shares worth ₹1,076.92 crore. HDFC Bank dropped 2.31 per cent to ₹826.45 from ₹846, with a heavy turnover of 360.85 lakh shares amounting to ₹3,018.67 crore, among the highest by value on the exchange. The Nifty Bank index declined more than 1 per cent, reflecting broad weakness across private sector lenders.
+
+Metals continued to slide. Tata Steel was the steepest loser on the Nifty 50, plunging 8.20 per cent to ₹163.40 from a previous close of ₹178, on massive volumes of 1,064.26 lakh shares worth ₹1,781.47 crore. Hindalco fell 2.14 per cent to ₹909.60 from ₹929.50, with 71.25 lakh shares traded worth ₹648.28 crore. Tata Motors’ passenger vehicle subsidiary (TMPV) declined 2.05 per cent to ₹260.90 from ₹266.35.
+
+IT stocks bucked the trend, with the Nifty IT index gaining over 1 per cent. TCS was the top gainer on the Nifty 50, rising 3.18 per cent to ₹2,451.80 from ₹2,376.20, with an unusually high volume of 45.37 lakh shares worth ₹1,119.02 crore. Tech Mahindra gained 2.40 per cent to ₹1,788.10 from ₹1,746.20, on volumes of 20.93 lakh shares worth ₹375.20 crore. Shriram Finance rose 3.05 per cent to ₹1,001.65 from ₹972, with 68.17 lakh shares traded worth ₹679.96 crore. Maruti Suzuki added 1.71 per cent to ₹14,251 and Apollo Hospitals gained 1.20 per cent to ₹9,310.
+
+On the technical side, SBI Securities flagged 25,410–25,430 as a crucial support zone for the Nifty, with resistance at 25,720–25,740. A slip below 25,410 could expose the next support band of 25,240–25,260. Options data reinforced caution, with meaningful call writing at the 25,600 and 25,700 strikes, while the 25,500 put held substantial open interest.
+
+In commodities, WTI crude traded around $83.20, down approximately 0.5 per cent, while the Indian rupee strengthened marginally to around 92.56 against the dollar, extending its recent run of lower closes. COMEX Gold held around $3,600, up roughly 2.5 per cent, recovering from its steepest weekly fall in eight months. MCX Gold was up approximately 1.9 per cent at ₹1,24,120, while MCX Silver outperformed at ₹1,51,450, up around 2.5 per cent.
+
+The session’s ability to hold the 25,500 mark on the Nifty and 82,700 on the Sensex, cited as key supports, will likely determine whether broader selling accelerates into the second half of the session. With November F&O expiry falling today and global risk sentiment remaining fragile after last week’s sharp US technology-led selloff, traders will watch institutional flows and crude price moves closely through the afternoon.
+
+Published on November 23, 2026
+
+---
+
+### Toyota Innova Hycross to launch this week: All you need to know
+*Auto Today · general*
+
+Toyota is set to launch the facelifted Innova Hycross in India on November 25. The updated MPV is expected to receive revised exterior styling, minor cabin changes and potentially a new flex-fuel strong-hybrid powertrain capable of running on ethanol blends of up to E85.
+
+The facelift will be the first major update for the Innova Hycross since its introduction in India. While the overall design and silhouette are expected to remain largely unchanged, Toyota is likely to introduce a series of cosmetic revisions and feature updates to keep the MPV fresh.
+
+Here's everything you need to know about the upcoming Toyota Innova Hycross facelift.
+
+### Toyota Innova Hycross facelift: Expected design changes
+
+The updated Innova Hycross is expected to receive a redesigned front fascia, with changes to the grille, lighting elements and front bumper. Patent images and sightings of test vehicles suggest that the grille could get a revised pattern with a perforated central section integrated into the bumper.
+
+The side profile is likely to remain largely unchanged, although Toyota could introduce new alloy wheel designs. Changes to the rear bumper and tail-lamp detailing are also possible.
+
+Overall, the facelift is expected to be an evolutionary update rather than a complete design overhaul, retaining the MPV's familiar proportions.
+
+### Cabin could get feature updates
+
+Inside, the Innova Hycross facelift is expected to retain the existing dashboard layout and overall cabin architecture. The raised centre console, automatic gear selector and door-mounted seat adjustment controls are likely to continue.
+
+However, Toyota could introduce fresh upholstery options and additional features. There is also the possibility of an updated infotainment system, although details about the screen and software changes remain unclear.
+
+More information about the equipment list and cabin updates is expected at the launch.
+
+### E85 flex-fuel strong-hybrid powertrain expected
+
+One of the biggest talking points surrounding the Innova Hycross facelift is the possibility of a flex-fuel strong-hybrid powertrain.
+
+Toyota had previously showcased an Innova Hycross-based flex-fuel prototype capable of running on petrol-ethanol blends of up to 85% ethanol (E85). The prototype used a modified 2.0-litre, four-cylinder petrol engine paired with an electric motor.
+
+To accommodate higher ethanol concentrations, Toyota made several changes to the engine and fuel system. These included revised spark plugs and piston rings, an ethanol sensor, an updated fuel pump and filter, and ethanol-compatible materials for the fuel tank and fuel lines.
+
+The prototype also featured a cold-start system and revised catalyst programming to address starting and emission requirements associated with higher ethanol blends.
+
+If introduced in the production model, this setup could make the Innova Hycross Toyota's first flex-fuel passenger vehicle in India. However, the company has not yet confirmed whether the E85-compatible powertrain will make it to the facelifted MPV.
+
+### Current Toyota Innova Hycross engine and specifications
+
+Currently, the Innova Hycross is offered with two 2.0-litre petrol powertrain options. The naturally aspirated petrol engine is paired with a CVT, while the strong-hybrid version combines a petrol engine with an electric motor and an e-CVT.
+
+The petrol and strong-hybrid versions deliver ARAI-certified fuel efficiency figures of 16.13kmpl and 23.24kmpl, respectively. Both powertrains are compatible with E20 fuel.
+
+The introduction of an E85-compatible flex-fuel hybrid option would expand the MPV's fuel compatibility, allowing it to operate on petrol-ethanol blends containing significantly higher ethanol content.
+
+### Toyota Innova Hycross facelift launch date
+
+Toyota will launch the updated Innova Hycross in India on November 25. The company is yet to reveal the complete specifications, variant-wise features and powertrain details of the facelift.
+
+While the exterior and cabin revisions are expected to refresh the MPV, the possible addition of a flex-fuel strong-hybrid powertrain could be the most important development.
+
+****Subscribe to Auto Today Magazine****
+
+\- Ends
+
+---
+
+### Mahanadi Coalfields IPO Last Date: Should You Apply? Check GMP, Subscription Status, Recommendations
+*Mohammad Haris · business*
+
+Mahanadi Coalfields IPO GMP: Its unlisted shares trade at Rs 136.6 apiece, compared with the upper IPO price of Rs 136, indicating flat or negative listing on November 27.
+
+[Read full article](https://www.news18.com/business/ipo/mahanadi-coalfields-ipo-last-date-should-you-apply-check-gmp-subscription-status-recommendations-ws-l-10437043.html)
+
+---
+
+### India bonds give up marginal opening gains as profit booking takes over
+*Reuters · business, finance*
+
+Indian government bonds turned lower on Monday, unable to hold on to opening gains triggered by a US Treasury rally, as traders booked profits after last week's run, and as the rupee plunged sharply.
+
+The benchmark 6.94% 2036 bond yield was at 7.2185% as of 10:30 a.m. IST, after closing at 7.1868% on Friday. Earlier in the day, it had hit a low of 7.1678%. Indian debt markets will be closed on Tuesday for a local holiday.
+
+Last week, the 10-year bond yield had dropped 12 basis points, mainly tracking lower US yields and a rally in the rupee against the US dollar.
+
+India bonds give up marginal opening gains as profit booking takes over
+
+Indian government bonds fell after initial gains due to profit booking by traders and a sharp rupee decline. The benchmark yield of the 6.94% 2036 bond increased to 7.2185% during trading hours. Last week, the yield had dropped significantly due to lower US Treasury yields and a stronger rupee. Investors now focus on the upcoming Reserve Bank of India's policy decision on December 4.
+
+"Bond bulls had already turned cautious as benchmark yield neared the 7.15% handle, but the reversal in rupee allowed profit booking to take over, pushing yield above 7.20%," a trader with a primary dealership said.
+
+The Indian rupee fell sharply and was on its way to touch the 93 per US dollar mark after briefly rising above 92.50 briefly and after closing at 92.67 on Friday.
+
+Bonds started the day with gains after US Treasury yields tumbled on Friday as investors sought safety from equities, with the benchmark 10-year yield posting its biggest weekly drop since early April 2025.
+
+The 10-year yield hovered around 4.90% in Asian trading, amid growth expectations of a more measured Fed stance in December also eased fears of an outsized rate hike.
+
+Brent crude held near $92 a barrel, supported by concerns over escalating US-Iran tensions and positioning ahead of Thursday's Thanksgiving holiday.
+
+Persistently high oil prices pose risks for major importer India, threatening to widen its current account deficit, weaken the rupee and fuel inflation.
+
+Investors will now focus on the Reserve Bank of India's policy decision due on December 4, where a majority of economists surveyed by Reuters expect the central bank to raise the repo rate by 25 basis points.
+
+## RATES
+
+Overnight index swap rates were trading lower, as receiving interest in the longer end helped.
+
+The one-year rate and the two-year rate were not yet traded after ending at 6.47%, and 6.43%. The more liquid five-year rate was lower at 6.43%.
+
+---
+
+### Nepal PM Balendra Shah gifts Rudraksha mala to PM Modi
+*ET Online · business*
+
+Nepal Prime Minister Balendra Shah presented a Rudraksha mala to Indian Prime Minister Narendra Modi during their interaction. The symbolic gift highlighted the cultural and spiritual connections shared by India and Nepal. The exchange also drew attention to the relationship between the two neighbou...
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/nepal-pm-balendra-shah-gifts-rudraksha-mala-to-pm-modi/videoshow/136093260.cms)
+
+---
+
+### Mediation fails in Kalyani family's Rs 1 lakh crore inheritance dispute: SC told
+*SECTIONS Mediation fails · business*
+
+New Delhi: Mediation to resolve the long-running inheritance dispute over the Kalyani family's ancestral wealth, estimated at over Rs 1 lakh crore, has failed, the Supreme Court was informed on Monday by former apex court judge Justice L Nageswara Rao, who was appointed mediator.
+
+A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana asked the parties to explore appointment of a sole arbitrator to adjudicate all disputes.
+
+"As per the report sent, mediation has failed. We impress upon the parties to explore arbitration by a sole arbitrator. Counsel for petitioner and respondent no.5 have no objection. Let Dr Abhishek Singhvi (on behalf of other contesting respondents) have instructions if all disputes can be referred to a sole arbitrator," the bench said while posting the matter after two weeks.
+
+  
+
+The top court had on July 13 appointed Rao as the sole mediator to explore an amicable resolution of the dispute over the Kalyani family's ancestral wealth.
+
+It had urged a battery of senior lawyers representing Bharat Forge chairman Baba Kalyani and his sister Sugandha Hiremath respectively to explore mediation to resolve their inheritance dispute.
+
+Senior advocates Abhishek Singhvi, Kapil Sibal and Aryama Sundaram had appeared for the Kalyani family, while senior advocate Shyam Divan represented Sugandha Hiremath.
+
+The dispute concerns claims relating to the Kalyani family's ancestral assets, reportedly valued at over Rs 1 lakh crore, and has been the subject of proceedings before multiple judicial forums.
+
+---
+
+### Intellect bets on AI offerings Purple Fabric and MSOCK to fuel next phase of growth
+*Rohan Das · business*
+
+Arun Jain (left), CMD, Intellect Design Arena Ltd, and Deepak Dastrala, CEO, Purple Fabric, during an interaction with _businessline_. | Photo Credit: Bijoy Ghosh
+
+**Purple Fabric clocks ₹200 crore in revenue, contributes 8% to Intellect’s topline**
+
+Intellect Design Arena’s decision to carve out its AI platform offerings, Purple Fabric, as a separate unit and subsequently launch the AI-native engineering system MSOCK is bringing in results, as the firm currently counts 40-50 customers working with Purple Fabric. Similarly, MSOCK has generated 70 customer conversations within just 60 days of its launch.
+
+Purple Fabric already contributes around ₹200 crore in revenue (7-8 per cent of total revenue) while the more recently launched MSOCK could have a revenue potential of up to ₹1000 crore, Arun Jain, CMD, Intellect Design Arena, told _businessline_ in an interaction.
+
+Purple Fabric is an enterprise AI platform, primarily for banking and financial services entities, that lets them build and run specialized AI agents to automate work and make decisions using their own data. MSOCK, on the other hand, acts as a ‘context layer’ by integrating all enterprise information, including old databases, documents, legacy tech systems and traditional business logic.
+
+“The sales are doing very well. Decision cycles are slightly longer because the platform is still at an early stage and customers often have that buy versus build dilemmas. But a lot of good conversations are happening and many customers are already signed up,” Jain said. He also noted an investment of ₹100 crore every year in Purple Fabric.
+
+## MSOCK could drive bigger growth over next 24 months
+
+He believes MSOCK will be the bigger revenue driver over the next 24 months and could prove to be the ‘Trojan horse’ for the Chennai-based software product company to land bigger BFSI customers.
+
+On queries of revenue cannibalisation with Intellect’s current products, Jain said the products are more complementary than competitive.
+
+“A lot of people have a challenge in modernisation...First, we will use MSOCK as a knowledge harness for them to understand the legacy systems. After this, when they want to modernise and migrate to a new system, you take eMACH and our other offerings,” he said.
+
+## AI platforms target large financial services market
+
+Deepak Dastrala, CEO of Purple Fabric, believes the market size for a knowledge harness like MSOCK is extremely large and needed across every kind of financial institution.
+
+“Even for the best of the banks, the technology spend is anywhere between 11 to 17 per cent, but their operational spend is between 40 to 46 per cent,” he said, speaking of the need for Purple Fabric. Intellect’s pedigree in building products for a highly regulated industry such as banking will prove to be a differentiator, he added.
+
+## Intellect explores acquisitions to expand AI reach
+
+Meanwhile, Intellect is also eyeing acquisitions to expand the geographic reach of its AI products.
+
+Jain said they are evaluating markets where it has little or no existing presence, such as Latin America, parts of Europe, Japan and South Korea. “We are looking to see if we can have legacy companies who already have customers in these geographies so that we can approach these,” he said.
+
+## Q2 revenue rises 12 per cent
+
+Intellect posted revenues of ₹847 crore for the second quarter ending September 2026, up 12 per cent year-on-year from the previous year. Net profit stood at ₹104 crore as against ₹102 crore.
+
+The duo also said that while separating the AI business ,such as Purple Fabric, into a standalone company could be considered in the future, there are no immediate plans to spin it off.
+
+Published on November 23, 2026
+
+---
+
+### India-China power gap narrows, PM Modi second only to Xi in Asian leadership: Lowy Institute
+*Sushim Mukul · general*
+
+The power gap between India and China has narrowed to its lowest level in eight years, said Australian think tank Lowy Institute, even as it assessed Prime Minister Narendra Modi as the second-most "effective" leader in Asia. In its 'India Gains Influence' report, Lowy said the country had consolidated its position as a major Asian power despite a challenging year.
+
+The Asia Power Index 2026, which has placed PM Modi only behind Chinese President Xi Jinping, said India had "consolidated its position as a major power" in 2026, although China's overall power remained 80% higher. The report also noted that expert assessments of PM Modi's regional leadership had "improved markedly".
+
+The findings are part of the 2026 Asia Power Index, released by the Sydney-based Lowy Institute on Sunday (November 22). **India retained its position as Asia's third-most powerful country**, behind the United States and China, with its overall score rising to 40.5 points. The US is included in the rankings because the index measures power and influence in the Indo-Pacific region, not just Asia.
+
+The Lowy Institute is an independent Australian think tank specialising in international affairs and foreign policy. Its annual Asia Power Index, first published in 2018, assesses countries' resources and influence across eight measures, including economic capability, military strength, diplomatic influence and defence networks.
+
+The Lowy Institute's 2026 Asia Power Index shows India narrowing its power gap with China while improving its regional influence. (Graphic: India Today Digital/ AI-generated)
+
+### INDIA NARROWS POWER GAP WITH CHINA: LOWY
+
+The Lowy Institute's report, titled "India gains influence", said India's comprehensive power score rose by 0.5 points to 40.5 in 2026, consolidating its position as a major Asian power.
+
+The difference between India and China's overall power scores narrowed to its smallest since the index began in 2018. However, the report added that China remained substantially more powerful.
+
+India's improved standing came despite a difficult economic year and domestic challenges. Its economic capability score declined to 26.4 points, although the country retained third place in the category.
+
+The institute attributed the decline partly to a weakening rupee, changes in the International Monetary Fund's methodology for measuring economies, and a nearly $20-billion reduction in India's outbound investment, said that report.
+
+India's future resources score, however, rose to 56.2 points, supported by an improved economic outlook.
+
+A look at India's rankings across eight measures of power in the Lowy Institute's 2026 Asia Power Index. (Graphic: India Today Digital/ AI-generated)
+
+### DECLINE IN PERCEPTION DUE TO STANCE ON IRAN WAR: LOWY
+
+One of the report's most significant findings concerned Prime Minister Narendra Modi's regional leadership.
+
+Expert assessments of Modi improved enough to lift India three places on the regional leadership indicator. The improvement came even as the institute recorded weaker perceptions of his global leadership and strategic ambition.
+
+"Expert appraisals of Prime Minister Narendra Modi’s regional leadership improved markedly, lifting India three places. He is now judged to be the second-most effective regional leader, behind Chinese President Xi Jinping," the report noted.
+
+The Lowy Institute linked the decline in perceptions of Modi's global leadership and strategic ambition to India's "lower diplomatic profile" during the war in the Middle East. It particularly flagged India's "muted response" to the sinking of an Iranian naval vessel by a US submarine. The warship was returning from a military exercise hosted by India.
+
+### IMPROVEMENT IN PM MODI'S ASSESSMENT DUE TO STABILITY, CONTINUITY: LOWY
+
+Speaking to Australia's ABC News on Sunday, Lowy Institute analyst Jack Sato attributed the improvement in Modi's regional assessment largely to stability and continuity.
+
+"For the assessment of Modi's regional leadership, it's largely stability at a time of upheaval," Sato said.
+
+The analyst said India's Minister of External Affairs, S Jaishankar, had also established himself in the role.
+
+"A key factor we've found is continuity. Both Prime Minister Modi and External Affairs Minister S Jaishankar have established themselves in their roles," Sato told ABC News.
+
+Meanwhile, Pakistan climbed to 16th place in the Lowy Institute's 2026 Asia Power Index. It said that Pakistan's diplomatic influence was boosted by its role in US-Iran ceasefire talks. However, the report added that Pakistan would "unlikely... sustain this score in future editions."
+
+The report also highlighted India's growing defence engagement in Southeast Asia. India's defence networks score increased to 18.6 points, helping it climb two places to ninth. The institute credited stronger regional defence cooperation and BrahMos missile sales to Southeast Asian countries for the improvement.
+
+Overall, the report pointed to India's growing regional influence, even as China continued to hold a substantial lead in power and PM Modi's improving regional leadership assessment.
+
+\- Ends
+
+
+---
+
 ## 22 November 2026
 
 ### Airbnb looks beyond traditional holiday hubs to deepen India presence, bets on homestays
