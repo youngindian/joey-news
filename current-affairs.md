@@ -1,3 +1,549 @@
+## 24 November 2026
+
+### Shrinking lakes, stagnant prices squeeze Vally’s lotus stem harvesters
+*Gulzar Bhat · business*
+
+Increasing pollution and the shrinking lake have taken a toll on lotus stem production, affecting the livelihoods of families dependent on its harvesting. | Photo Credit: Tanushree Ghosh \_12395
+
+Amid sub-zero temperatures, Nazir Ahmad rows his boat through the waters of Srinagar’s Aanchar Lake to harvest lotus stems, locally known as _nadru,_ a delicacy widely consumed in Kashmir.
+
+Ahmad’s family has been engaged in harvesting _nadru_ for generations. However, over the past few years, increasing pollution and the shrinking lake have taken a toll on lotus stem production, affecting the livelihoods of families dependent on its harvesting.
+
+The declining yield has added to the challenges faced by traditional harvesters, who fear that continued degradation of the lake could further threaten their age-old occupation.
+
+“Despite the rising levels of pollution, we make efforts to keep the lake clean,” said another farmer.
+
+He, however, said that the dumping of plastic waste and other pollutants into the lake had made it increasingly difficult for them to maintain its cleanliness.
+
+“The accumulation of waste not only affects the lake’s ecosystem but also poses a threat to lotus stem production, on which several families depend for their livelihood,” he added.
+
+Over the years, the lake has not only witnessed increasing pollution but also steady encroachment, which has gradually reduced its water spread and shrunk its overall area.
+
+The Jammu and Kashmir Legislative Assembly’s House Committee on Environment recently said that Anchar Lake had shrunk from 19.4 square kilometres to just 4.5 square kilometres.
+
+The scale of deterioration is not limited to Anchar Lake. According to a CAG audit, 315 of the 697 lakes recorded in Jammu and Kashmir in 1967 have completely disappeared, while another 203 have shrunk.
+
+The disappearance of these lakes has resulted in a loss of 1,537.07 hectares, while the shrinking of 203 others has reduced their area by another 1,314.19 hectares.
+
+The audit found that a total of 518 lakes, accounting for nearly 74 percent of the water bodies recorded in 1967, have either disappeared or shrunk.
+
+## Affecting livelihoods
+
+An estimated 3,000 farmers around Dal Lake and another 600 around Anchar Lake depend on lotus stem cultivation for their livelihoods. Around 250 cultivators have also come together under the Dal Lake Lotus Stem Farmers Producer Organisation to organise their activities and strengthen the sector.
+
+Farmers said the shrinking water body and declining availability of lotus stems had made harvesting increasingly difficult, with many reporting a fall in their daily collection. 
+
+“The occupation, once a dependable source of income for several families, is becoming less rewarding as we have to spend longer hours on the lake to gather smaller quantities of produce”, said Bashir Ahmad, a farmer from who harvests  lotus stems from Dal Lake. 
+
+He said the prices of lotus stems have remained almost unchanged over the years, despite the rising costs and difficulties involved in harvesting them. 
+
+“With production declining and expenses increasing, it has become increasingly difficult for us to sustain our livelihoods,” Ahmad said.
+
+Published on November 24, 2026
+
+---
+
+### Los Angeles couple Andrew and Brigid Elrod won $7.65 million after a jury heard their Koreatown landlord's former manager say the boss suggested staff wear fake ICE uniforms to scare Latino tenants out
+*TOI World Desk · politics*
+
+Fake ICE uniforms were used to scare Latino tenants into leaving. Representational photo
+
+A Los Angeles couple have been awarded $7.65 million after winning a legal battle against the company that owned their former apartment building in Koreatown. The case involved allegations that the landlord used intimidation, rent increases and poor living conditions to push residents out of their homes.Andrew and Brigid Elrod took legal action against K3 Holdings after becoming involved in efforts to organise tenants living in the building. According to LA Times, they alleged that the company retaliated against residents who challenged its practices and wanted tenants paying lower rents to leave so that the apartments could be rented at higher rates.The case took a significant turn during the trial when a former employee of K3 Holdings gave evidence about a suggestion allegedly made by the company's principal, Nathan Kadisha.
+
+According to the former asset manager, Kadisha had proposed that employees wear fake Immigration and Customs Enforcement (ICE) uniforms to frighten Latino tenants into leaving a building. The former employee also testified that Kadisha did not want African Americans to rent the company's properties.The jury ultimately found the landlord responsible for harassing and retaliating against the Elrods. It also found that the company had failed to maintain the apartment building properly.
+
+The couple received $4.5 million for the impact of their experience, including anxiety, humiliation, grief, inconvenience and emotional distress. A further $3.15 million was awarded as punitive damages against K3 Holdings and three 
+
+## **Tenants challenged property management**
+
+The Elrods' involvement in the dispute dates back to 2021, when a limited liability corporation controlled by K3 Holdings purchased their apartment building at 974 S. Gramercy Place in Koreatown.After the acquisition, the couple joined other residents in setting up a tenants' association. They also became active in the K3 Tenant Council, which was affiliated with the Los Angeles Tenants Union.Their organising activities were followed by a confrontation with the landlord over construction work at the property.
+
+The residents raised concerns about what they described as illegal and unsafe construction practices. The Elrods later took part in a sit-in protest against the work.Rose Lenehan, an organiser with the Tenants Union, said the couple were served eviction notices after participating in the protest. They continued to face eviction threats and eventually left the apartment in 2023.The couple alleged that these actions were part of a wider effort to remove tenants who were paying rents below the prevailing market rates.
+
+According to their claims, K3 Holdings used maintenance problems, construction activities and intimidation to encourage residents to accept buyout offers and vacate their homes.The company's property portfolio included 39 buildings. However, the jury's verdict in the Elrods' case concerned only the Koreatown property.
+
+## **Emails and messages presented during trial**
+
+The jury also considered communications involving Kadisha during the proceedings. These included text messages and emails that formed part of the evidence against the property company.One message discussed how construction-
+
+Its 30-page verdict included findings on several questions relating to the landlord's conduct.It found that K3 Holdings and its subsidiaries had raised rents and reduced utility services as ways of putting pressure on tenants to move out. The jury also concluded that the companies had engaged in conduct covered by Los Angeles' 2021 Tenant Anti-Harassment Ordinance.Jacob Woocher, one of the lawyers representing the Elrods, said the evidence was not limited to the couple's individual experience.He said the trial had presented material about the company's practices across several properties, even though the verdict itself covered only the building where the couple had lived.
+
+## **Other tenants settled, but Elrods continued lawsuit**
+
+The Elrods were among several tenants involved in a 2022 lawsuit against K3 Holdings. According to Lenehan, a number of the other residents eventually settled their claims.The couple decided to continue pursuing their case instead.
+
+Their legal team included the Los Angeles Center for Community Law and Action and Alfredo Nava of the Law Office of Alfredo Nava.Their decision meant that the allegations were examined in a trial, where the jury heard testimony from a former company employee and considered internal communications and other evidence.The final award included both compensation for the harm suffered by the couple and punitive damages against the companies. The $4.5 million in non-economic damages covered the past and future impact of the alleged harassment, while the additional $3.15 million was imposed as punishment.
+
+---
+
+### Lodha Developers sitting on inventory worth ₹2 lakh crore, to invest less on land acquisition
+*PTI · business*
+
+Lodha Developers Ltd will focus less on land acquisition, as it has a total inventory worth a whopping ₹2 lakh crore across its ongoing and future housing projects, a senior company official said.
+
+Mumbai-based Lodha Developers, which sells properties under the Lodha brand, is one of the leading real estate companies in the country.
+
+In an interview with PTI, Lodha Developers Executive Director-Finance Sushil Modi noted that housing demand remains strong for large, branded companies, which have been outperforming the overall market.
+
+Outlining the company's growth strategy, he said the focus is on generating free cash flow, reducing debt, improving profit margins and enhancing execution capabilities.
+
+“Now the focus will be less on business development because we are already sitting with ₹2 lakh crore inventory and thereby the significant operating cash flow that we will generate will convert into free cash flow and chart the path for the company to become a net cash positive company," Modi said.
+
+Already, he said, the investment on land has fallen 40 per cent in the first half of this fiscal to ₹2,000 crore.
+
+Lodha Developers invested ₹7,000 crore on land acquisition last fiscal, he said, adding that the FY27 outflow will be lower.
+
+Modi said the company has added projects worth ₹7,000 crore in the April-September period of this fiscal. During the last fiscal, Lodha Developers was aggressive on land acquisition, adding ₹60,000 crore worth of future projects.
+
+“So, the kind of significant GDV (Gross Development Value) of asset base that we are sitting with, be it under construction or yet to be launched, there is no need to carry the similar intensity when it comes to business development as we have shown in the previous years," Modi said.
+
+He informed that inventories worth around ₹40,000 crore are in projects already launched.
+
+However, Modi clarified that the company would continue to buy good quality land parcels if they are at the right locations with potential to create high profit margins.
+
+He mentioned that the company's net debt would decline significantly at March-end, driven by higher internal cash flow and lesser investment on land.
+
+"In 2-3 years we are certain that in the housing business we will be a net cash positive company," Modi said.
+
+On sales bookings, he expressed confidence that the company would meet the target of ₹24,000 crore in the 2026-27 fiscal.
+
+The realty firm sold properties worth ₹20,530 crore in the preceding financial year.
+
+Already, the company's sales bookings or pre-sales in the first six months of this fiscal have risen 7 per cent to ₹9,670 crore.
+
+Lodha Developers currently has a significant presence in Mumbai Metropolitan Region (MMR), Pune and Bengaluru. It has entered the Delhi-NCR market with the launch of a commercial project in Gurugram.
+
+Last month, Lodha Developers reported a 28 per cent increase in its consolidated net profit to ₹1,013.5 crore for the quarter ended September on higher income.
+
+Its net profit stood at ₹789.8 crore in the year-ago period.
+
+Total income rose to ₹4,584.9 crore in the second quarter of this fiscal from ₹3,878.9 crore in the corresponding period a year ago.
+
+Since inception, Lodha Developers has completed more than 100 million sq ft of area across various projects.
+
+Published on November 24, 2026
+
+---
+
+### An Australian woman's Doberman fell nearly six metres into an abandoned mineshaft while chasing a rabbit and was pulled out alive by rescuers; remarkably, another of her dogs had needed a similar rescue years earlier
+*World Desk · politics*
+
+a representative image (credit: Canva AI)
+
+The thing about magic is that it can be found in the most unexpected of places. Sometimes, it even comes with four legs, a wagging tail and a rather unfortunate habit of chasing rabbits.
+
+In Western Victoria, Australia, a rabbit chase by a dog named Magic ended in a frightening situation after she fell into an abandoned mineshaft on Monday, November 16.According to ABC News, in a report dated November 20, 2026, the Doberman was reportedly trapped nearly six metres below ground before a specialist rescue team was called in to bring her back to safety. Fortunately, following the team's rescue efforts, Magic was reunited with her owner, and no injuries were reported.
+
+## Rescue operation
+
+The incident required the involvement of Fire Rescue Victoria (FRV), whose specialist high-angle rescue team was brought in to retrieve the stranded dog. Unlike a situation where an animal can simply be reached and lifted out, a deep and narrow mineshaft presents a rather different challenge, requiring rescuers to carefully navigate the space before they can bring the animal to the surface.A member of the rescue team had to enter the shaft, secure a harness around Magic and help prepare her for the journey upwards.
+
+The high-angle team then hoisted her nearly six metres to safety, bringing an end to what could have been a considerably more distressing situation for both the dog and her owner. While the circumstances surrounding her fall were certainly frightening, the operation was successful, and she was brought out of the mineshaft alive.
+
+However, what made the incident notable was not simply that a dog had fallen into an abandoned mine, but that this was not the first time the same owner had experienced something similar.
+
+## A similar case before
+
+ABC News reported how the rescue seemed like a case of déjà vu for Invermay Country Fire Authority (CFA) firefighter Daryl Rowe, who was reminded of a similar operation. As it turned out, another dog belonging to the same owner had also fallen into a mineshaft approximately 10 years earlier and required rescuers to intervene.Speaking to ABC News, Rowe described the situation as a familiar one, with the owner having experienced an almost identical predicament years earlier.
+
+Although it might seem like an extraordinary coincidence for the same household to have two dogs fall into abandoned mineshafts, the firefighter explained that the surrounding region makes such incidents less surprising than they might initially appear."There are thousands of mineshafts up there," Rowe told ABC News, explaining that they are scattered throughout the area. He added that rescuers had encountered situations involving both animals and people falling into these openings, requiring emergency teams to arrange their safe removal.
+
+## The hidden dangers of Ballarat's mining landscape
+
+The Ballarat region has a long association with gold mining, particularly dating back to the historic gold rush of the 1850s. Although much of that mining activity belongs to the past, its physical remnants have not entirely disappeared. Disused mineshafts remain scattered across the landscape, posing challenges for local authorities and emergency services alike.One of the difficulties, as Rowe explained, is that identifying and securing every abandoned shaft is far from simple.
+
+Locating each one is a major undertaking, while the expense involved in covering every opening would also be prohibitive. In his conversation with ABC News, he pointed out that it was not practical to prevent people from enjoying walks through the bush simply because these hazards existed.Some mineshafts can be identified through a slight depression in the ground, but this alone does not make them easy to recognise.
+
+An opening can be concealed by its surroundings, making it difficult to distinguish from the natural landscape.For this reason, Rowe advised visitors unfamiliar with the region to remain on formed pathways, designated bicycle tracks and roadways rather than wandering through unfamiliar sections of bushland. The recommendation is particularly relevant in an area where the remnants of historic mining activity can still be encountered.
+
+Magic's rescue, therefore, is not just an account of an adventurous dog getting into trouble and being fortunate enough to find help. It also draws attention to an unusual hazard that continues to exist in parts of western Victoria, even decades after the mining activity that created it has ended.
+
+---
+
+### Scientists discover most distant quasar yet, dating back 630 million years after Big Bang
+*AP- PTI · business*
+
+An illustration of a distant quasar powered by a massive black hole, dating back to just 630 million years after the Big Bang. (A representative image) | Photo Credit: NASA
+
+Scientists have discovered the most distant quasar yet, the core of a galaxy with a slow-chomping black hole at its centre dating back to nearly the dawn of the universe.
+
+The quasar formed within 630 million years of the universe-forming Big Bang, a German-led team reported Tuesday. That’s considered a very early development in the 13.8 billion-year history of the cosmos, and it smashes previous records.
+
+## A giant leap back in cosmic time
+
+“This time the leap in cosmic time is huge!” the European Southern Observatory’s Julien Wolf, who led the study, said in an email. “The previous two records each took us back by about 15 million years or less. This one takes us back by nearly 40 million years, the biggest advance in nearly a decade!”
+
+Wolf and his team spotted the quasar while digging through millions of observations made by the European Space Agency’s Euclid telescope. Launched in 2023, Euclid is surveying galaxies in an effort to shed light on the dark matter and dark energy that fill so much of the universe and keep it expanding.
+
+Finding a quasar so early in the universe is rare, according to Wolf. What makes this one even rarer, he said, is the massive size of its black hole, despite being such a relatively slow eater of everything around it. Scientists are seeing it as it was 13.1 billion years ago -- when the universe was less than 5 per cent of its current age.
+
+## Quasar named after an ancient Irish fort
+
+Wolf nicknamed the quasar Dun Aonghasa after the prehistoric stone fort in Ireland’s Aran Islands. His wife and daughter are Irish, and he was awestruck when they visited the fort -- a frontier holding “the promise of a vast horizon still to explore,” just like this quasar.
+
+## Black hole weighs as much as 360 million suns
+
+His team’s findings were corroborated by the Hubble and Webb space telescopes as well as other observatories on and off Earth. Thanks to Webb, scientists learned that the black hole powering this quasar is equivalent in mass to 360 million of our suns, an astounding amount so early in time. The final results appear in the journal Astronomy & Astrophysics.
+
+“Dun Aonghasa gives us a new deadline” for the early universe, Wolf said. “About 630 million years after the Big Bang, its black hole had already grown to about 360 million times the mass of the sun. But how?”
+
+Their prowling of the cosmic dawn continues.
+
+“Honestly, the record could fall again in a few months or it could stand for years,” Wolf said.
+
+Published on November 24, 2026
+
+---
+
+### SpiceJet operations shrink to six aircraft, just over 20 daily flights
+*Rohit Vaid · business*
+
+SpiceJet’s operations have further shrunk, with the airline now down to only six aircraft and operating a little over 20 flights a day. | Photo Credit: AMIT DAVE
+
+Embattled carrier SpiceJet’s operations have further shrunk, with the airline now down to only six aircraft and operating a little over 20 flights a day, sources told _businessline_.
+
+According to sources, SpiceJet promoter Ajay Singh on Monday met with Ministry of Civil Aviation officials to update them on the airline’s situation.
+
+The airline’s operational fleet comprises two Q400 turboprops and four Boeing 737 NG aircraft. It is operating a handful of services include flights on the Delhi–Mumbai, Delhi–Srinagar and Delhi–Dharamshala, Patna and Darbhanga  routes, among others, sources said.
+
+The meeting between Singh and MoCA comes amid continued operational disruptions and mounting passenger grievances, with the Directorate General of Civil Aviation (DGCA) issuing a show-cause notice to the airline last week.
+
+The Ministry of Civil Aviation’s AirSewa dashboard listed 8,671 grievances against SpiceJet in data dated November 22, the latest available on the dashboard.
+
+The figure compares with 7,674 grievances listed in data dated November 19.
+
+The DGCA’s November 17 show-cause notice sought detailed responses on rising flight cancellations, operational disruptions linked to delayed payments and alleged regulatory violations. The airline was given seven days to respond.
+
+The regulator also observed that a majority of SpiceJet’s fleet remained grounded and that the airline had failed to submit a credible plan to bring these aircraft back into service.
+
+The notice flagged repeated non-compliance with Route Dispersal Guidelines, failure to meet eligibility requirements for scheduled international operations, non-payment of a penalty imposed in May and uncertainty regarding the renewal of mandatory insurance coverage.
+
+At present, the airline has been operating its limited flights on a cash-and-carry basis, making upfront payments to airport operators and fuel companies each time it uses their facilities or purchases fuel.
+
+Consequently, even the Airline Pilots’ Association of India (ALPA India) has written to the Ministry, seeking an urgent examination of the safety implications of financial distress at SpiceJet and similarly affected operators.
+
+In its November 17 letter, reviewed by businessline, the association sought enhanced oversight of maintenance resources, timely payment of crew salaries and an expedited release or no-objection certificate mechanism where employers have demonstrably defaulted on contractual obligations.
+
+As per ALPA India, persistent salary delays create financial insecurity, psychological stress and distraction among pilots and cabin crew, potentially affecting alertness, concentration and decision-making.
+
+It said that financial constraints could affect payments to maintenance organisations, spare-part suppliers and essential service providers, potentially resulting in aircraft groundings, operational disruptions and increased pressure on engineering personnel.
+
+The association also questioned what it described as an apparent inconsistency in the DGCA’s enforcement of employment-
+
+It alleged that the regulator enforced notice-period and NOC requirements when pilots sought to leave an airline, while employees facing salary defaults were reportedly told that it could not intervene in contractual matters.
+
+Accordingly, ALPA India argued that if notice periods were justified on flight-safety grounds, persistent non-payment of salaries should also be recognised as a safety concern.
+
+The developments come as SpiceJet seeks fresh funding.
+
+On November 18, its board approved a proposal to raise up to ₹5,500 crore to strengthen its financial position and support its revival, subject to the necessary shareholder and regulatory approvals.
+
+The board was apprised of investment discussions with prospective investors and directed the management to work towards closing them expeditiously.
+
+In addition, it approved an increase in the company’s authorised share capital from ₹2,000 crore to ₹7,500 crore, subject to the necessary approvals.
+
+Published on November 24, 2026
+
+---
+
+### GMR Hyderabad airport enhances cargo-handling capacity
+*BL Hyderabad Bureau · business*
+
+GMR Hyderabad International Airport (GHIAL) has enhanced its cargo handling infrastructure with the commissioning of an upgraded Elevated Transfer Vehicle (ETV)-based storage system at the Cargo Terminal. 
+
+The upgraded facility increases the storage capacity within the existing terminal footprint and strengthens capabilities for temperature-controlled and specialised cargo.
+
+The upgraded system has increased the terminal’s Unit Load Device (ULD) storage capacity from 33 to 80 ULDs, representing a more than double increase. The additional capacity provides greater flexibility to manage multiple freighter operations simultaneously and supports future cargo growth.
+
+“This enhancement enables airlines, freight forwarders and logistics partners to move cargo with greater speed, reliability and flexibility, while supporting the growing demands of global trade,” Kadhir Kadhiravan, CEO, GMR Hyderabad International Airport, said in a release on Tuesday. 
+
+Published on November 24, 2026
+
+---
+
+### India, China set for record Russian oil imports in 2026 amid Iran war
+*Business Standard · business, entrepreneur, finance*
+
+Seaborne Russian oil shipments to the two countries averaged 3.4 million barrels per day through mid-November, up 530,000 bpd from a year earlier, but are expected to ease in 2027
+
+[Read full article](https://www.business-standard.com/economy/news/china-india-set-for-record-russian-oil-imports-in-2026-amid-iran-war-126112400502_1.html)
+
+---
+
+### Congress questions JP Nadda as report flags Gujarat’s high anaemia burden
+*India Today News Desk · general*
+
+## Congress questioned Union Health Minister J P Nadda over Gujarat's anaemia figures. The findings challenge claims surrounding the state's development record.
+
+The report's findings on Gujarat prompted the Congress to target the Union health minister, even as the nationwide survey recorded a lower prevalence of anaemia than earlier national surveys. (Photo: ITG)
+
+New Delhi,Nov 24, 2026 15:08 IST
+
+The Congress on Tuesday cited a Union Health Ministry report showing a high prevalence of anaemia in Gujarat between 2023 and 2025 and questioned Union Health Minister JP Nadda over its findings, news agency Press Trust of India reported.
+
+Congress general secretary in charge of communications Jairam Ramesh said the report, titled "Anaemia and Micronutrient Deficiencies Across the Life Course in India", had been released by the Union Ministry of Health and Family Welfare.
+
+Ramesh said on X that anaemia affected 61.4 per cent of adolescent girls aged 10 to 19, 63.8 per cent of adult women aged 20 to 59, and 66.2 per cent of women of reproductive age aged 15 to 49 in Gujarat during 2023-25.
+
+"Only Chhattisgarh fared worse. The corresponding figures for the best performing state Kerala were 21.4 per cent, 28 per cent and 29.1 per cent, no doubt high but nowhere near the levels prevailing in Gujarat, which for some years has been propagated as a model state by the prime minister and his cheerleaders," Ramesh said.
+
+> , ‘ ’ 2023 2025 61.4% (10-19 ), 63.8% (20-59 ) (15-49 ) 66.2% ( ) , 21.4%, 28% 29.1% , , , , 12-59 (56.5%) , (14.5%) ? https://t.co/ACEgJIJyYy— Jairam Ramesh (@Jairam\_Ramesh) November 24, 2026
+
+He added that Gujarat had the highest prevalence of anaemia among children aged 12 to 59 months, at 56.5 per cent, while Kerala recorded the lowest, at 14.5 per cent. "Will the genial Union Health Minister survive the release of this damning report?" Ramesh asked.
+
+According to PTI, the Indian Council of Medical Research's SAMPADA survey, released on Monday, found that the prevalence of anaemia in India was lower than that reported in previous national surveys. Severe anaemia accounted for less than 2 per cent of cases across most age groups.
+
+SAMPADA, or the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry, was conducted during 2023-25. It covered more than two lakh people from over 81,000 households across 183 districts in 35 states and Union Territories. More than 1.7 lakh blood samples were analysed to estimate haemoglobin levels across different age, sex and physiological groups.
+
+The Department of Health Research said most anaemia cases were mild, indicating scope for early intervention. The report's findings on Gujarat prompted the Congress to target the Union health minister, even as the nationwide survey recorded a lower prevalence of anaemia than earlier national surveys.
+
+\- Ends
+
+---
+
+### Khalistan, Sikh Pilgrims, Kartarpur: Pakistan's Gurpurab Pressure Campaign Against India | Exclusive
+*Apoorva Misra · general*
+
+The Kartarpur Corridor was inaugurated in November 2019 to mark the 550th birth anniversary of Guru Nanak Dev Ji
+
+[Read full article](https://www.news18.com/india/khalistan-sikh-pilgrims-kartarpur-pakistans-gurpurab-pressure-campaign-against-india-exclusive-ws-l-10438838.html)
+
+---
+
+### LeT, JeM proxies exposed, ISI eyes revival of 19 dormant terror outfits in Jammu and Kashmir
+*Abhishek Mishra · politics*
+
+How ISI plans to rebuild terror networks in J&K
+
+Pakistan's Inter-Services Intelligence (ISI) is exploring a shift in its strategy in Jammu and Kashmir, with plans to bring back dormant terror outfits in the Valley as its existing proxy groups face increased scrutiny from the security agencies, news agency IANS reported.Pakistan's ugly motive is to create a network of revived terror outfits that can operate without any apparent links to established Pakistan-based organisations such as the Lashkar-e-Taiba (
+
+LeT
+
+) and
+
+Jaish-e-Mohammed
+
+(
+
+JeM
+
+), according to officials cited by IANS.The Hafiz Saeed-led LeT has been operating through The Resistance Front (TRF), while Masood Azhar's JeM has been linked to proxy outfits such as the People's Anti-Fascist Front (PAFF),
+
+Kashmir
+
+Tigers (KT) and Lashkar-e-Mustafa.However, investigations by agencies such as the Jammu and Kashmir Police and the National Investigation Agency (NIA) have increasingly exposed the links between these outfits and their parent organisations. The agencies have gathered evidence indicating that the different names are being used to mask the involvement of the LeT and JeM.An official told IANS that the ISI has now advised these groups to reconnect with former members of terror organisations that have been inactive in Jammu and Kashmir for years.
+
+Several of these outfits emerged during the 1990s and early 2000s, when militancy was at its peak in the Valley. However, as the ISI concentrated its operations around the LeT, JeM and Hizbul Mujahideen, many smaller groups gradually became inactive.Some ran out of funds, while others lost their operatives to security force operations, the official said.
+
+## **19 dormant terror outfits on ISI radar**
+
+According to data cited by IANS, Jammu and Kashmir currently has 10 active terror groups, while 19 outfits remain inactive.
+
+Among the dormant organisations are the Kashmir Jehad Force (KJF) and Tehrik-e-Jihad (TeJ).An Intelligence Bureau official said the ISI is likely to focus on locating former members of these groups and encouraging them to rebuild their networks."These members would be told to look out for potential recruits and then revive these terror groups. There would be no direct link between these groups and the existing terror outfits.
+
+This helps the ISI in covering its tracks when an investigation into a terror attack is launched," the official said.A major consideration behind the proposed strategy is that several of these organisations are homegrown rather than Pakistan-based. Their revival could make it more difficult for investigators to establish direct links with established terror outfits operating from across the border, the report said.
+
+## **Local recruitment, infiltration among key concerns**
+
+The ISI is also expected to draw on the experience of former members in areas such as recruitment and logistics. Although many of them are now older, officials believe their knowledge of local networks could prove useful in rebuilding the outfits.
+
+The agency is likely to focus on recruiting local youth, while Pakistan continues to explore ways to increase infiltration into Jammu and Kashmir through multiple routes, an official told IANS.Another official said the ISI is keen to restore militant activity in the Valley. However, the recent killing of Lashkar commander Lateef Bhat has dealt a setback to its plans and could delay efforts to revive terror networks for some time.The revived groups could be used for both ground operations and information warfare, including disinformation and propaganda campaigns, officials said.This would require security agencies to tackle not only possible terror operations but also coordinated attempts to influence public opinion through propaganda, adding to the security challenges in Jammu and Kashmir, the report said.
+
+---
+
+### Bengaluru couple shares detailed expenses of moving into a new 3BHK apartment
+*India Today Trending Desk · general*
+
+## Ana Mishra, a digital creator, explained that while her partner Ishan relocated from Kolkata to Bengaluru, she moved from her old apartment in the city.
+
+Bengaluru couple shares detailed expenses of moving into a new 3BHK apartment (Photos: Ana Mishra/Instagram)
+
+A woman has shared a detailed breakdown of how much she and her partner spent moving into a new 3BHK apartment in Bengaluru as their total expenses touched Rs 2.53 lakh. From the security deposit and brokerage to shifting furniture from Kolkata, the couple's video offers a glimpse into the costs involved in setting up a new home.
+
+Ana Mishra, a digital creator, explained that while her partner Ishan relocated from Kolkata to Bengaluru, she moved from her old apartment in the city. The biggest expense was the security deposit, for which they paid Rs 1.5 lakh for their new apartment in South Bengaluru.
+
+The couple then spent Rs 37,000 on brokerage, equivalent to one month's rent. Ana said they could have found an apartment without a broker but chose to seek professional help rather than handle the entire process themselves.
+
+Moving their furniture from Kolkata to Bengaluru cost them another Rs 60,000. The couple hired packers and movers to transport their bed, shoe rack, dining table and king-size sofa. Everything arrived safely, without any breakage or scratches.
+
+Meanwhile, shifting her personal belongings from her previous Bengaluru apartment to the new home cost Ana Rs 3,000. She used Porter to move her clothes, personal items and a few kitchen essentials.
+
+The couple also rented three appliances – a washing machine, refrigerator and water purifier – at a combined monthly cost of Rs 2,800. Relocating their Wi-Fi connection to the new apartment cost them another Rs 700.
+
+Adding up all these expenses, the couple spent Rs 2,53,500 on the move-in process. Ana clarified that this amount did not include the additional money they spent on home decor and other miscellaneous purchases, which she plans to cover in a subsequent video.
+
+The breakdown has offered viewers a look at the various expenses that can add up when moving into a new apartment, particularly when relocating furniture between cities.
+
+\- Ends
+
+---
+
+### India's GalaxEye signs biggest private space deal to power next 30 satellites
+*India Today Science Desk · general*
+
+## GalaxEye has partnered with Bellatrix Aerospace to supply propulsion systems for its next 30 Drishti Gen-II satellites, marking a major deal between two Indian private space companies.
+
+GalaxEye and Bellatrix are also strengthening India's ability to build and operate satellite networks independently. (Photo: GalaxEye)
+
+New Delhi,Nov 24, 2026 15:01 IST
+
+In a major boost to India's private space industry, Bengaluru-based GalaxEye has partnered with Bellatrix Aerospace to equip its next 30 satellites with Indian-built propulsion systems.
+
+The agreement is the largest business-to-business order between two Indian private space companies by satellite count since the sector opened to private players in 2020.
+
+Announced at the 5th India International Space Conclave in New Delhi, the multi-year agreement will see Bellatrix design, build and deliver its Arka Hall-effect propulsion systems for GalaxEye's upcoming Drishti Gen-II satellite constellation.
+
+GalaxEye's Mission Drishti launched world's first OptoSar satellite combining optical cameras and all-weather radar. (Photo: PTI)
+
+### WHY DO SATELLITES NEED PROPULSION SYSTEMS?
+
+Satellites need small engines to move into their assigned positions, maintain their distance from other spacecraft and avoid collisions with space debris. These systems also help guide satellites out of orbit safely when their working lives end.
+
+Bellatrix's Arka systems use electricity to accelerate charged particles and generate thrust, allowing satellites to make these movements while using less fuel than conventional engines.
+
+For GalaxEye, which plans to operate a network of 30 Earth-observation satellites, keeping spacecraft in their correct positions is particularly important.
+
+> Not an upgrade. Not a variation. Something entirely new. Mission Drishti lifted off as the world's first OptoSAR satellite. Now it's time to break down what OptoSAR really is. Stay tuned. #OptoSAR #MissionDrishti #SpaceTech #EarthObservation #DeepTech https://t.co/nfju3Eqjcs— GalaxEye (@GalaxEye) November 13, 2026
+
+It will help ensure the satellites follow predictable paths and regularly capture images of the same locations on Earth.
+
+Bellatrix's propulsion technology has already been tested in space. Its Arka and Rudra systems completed in-orbit tests aboard Isro's PSLV-C58 mission in January 2024, while Rudra was tested again in January 2025.
+
+### WHAT IS GALAXEYE BUILDING?
+
+GalaxEye is developing Drishti, an Earth-observation constellation that combines two types of imaging technology: radar and optical cameras.
+
+While conventional optical cameras struggle to capture clear images through clouds, smoke or darkness, radar can observe the Earth's surface in these conditions.
+
+Combining the two allows GalaxEye to provide images in different weather and lighting conditions.
+
+Its first satellite, Mission Drishti, was launched aboard a SpaceX Falcon 9 rocket on May 3, 2026, and became the world's first satellite to combine these two imaging technologies in orbit.
+
+However, contact with the spacecraft was lost following a geomagnetic storm.
+
+### INDIA'S SPACE INDUSTRY GETS A BOOST
+
+The agreement reflects a growing shift towards Indian space companies sourcing critical technology from one another rather than depending entirely on overseas suppliers.
+
+Bellatrix Aerospace's ARKA Hall-effect thruster is seen on display. (Photo: Bellatrix Aerospace)
+
+India's space sector was opened to greater private participation through reforms introduced in 2020.
+
+The government aims to build a $44 billion space economy by 2033, with domestic companies playing a larger role in manufacturing satellites and their components.
+
+By sourcing propulsion systems locally, GalaxEye and Bellatrix are also strengthening India's ability to build and operate larger satellite networks independently.
+
+\- Ends
+
+---
+
+### Bengaluru to get 10 tree parks under Karnataka's Rs 150-crore greening plan
+*Sagay Raj · general*
+
+The Karnataka government has proposed a Rs 150-crore urban forestry project to boost Bengaluru's shrinking green cover, conserve biodiversity and counter the environmental impact of rapid urbanisation. The plan envisages developing 10 tree parks, arboretums and natural woodlands across the city and its outskirts, covering a total of 3,271 acres.
+
+Of this, 1,303 acres will be developed as tree parks with regulated public access, while the remaining 1,968 acres will be preserved as natural ecosystems for plants and wildlife.
+
+The proposal, prepared by the Forest, Ecology and Environment Department, comes amid concerns over Bengaluru's declining vegetation. Citing Indian Institute of Science (IISc) studies, the project document notes that the city's green cover plunged from 68 per cent in 1973 to less than 3 per cent in 2020.
+
+With Bengaluru's population expected to exceed 1.4 crore in 2026, the document highlights the shortage of large public green spaces, identifying Cubbon Park and Lalbagh as the city's two major public lung spaces.
+
+The 10 proposed sites include Turahalli Reserved Forest Woodland, Turahalli Minor Forest Arboretum, Kalkere Forest Ecosystems Centre, Doresanipalya Research and Extension Centre and Panathur Nagarvana Biodiversity Park within Greater Bengaluru Authority (GBA) limits.
+
+Outside GBA limits, the locations are Marasandra Biodiversity Park, Manduru Bambusetum, Jarakabande Nagarvana (B Block), Centre of Arboriculture at Jarakabande (A Block) and Vishwaguru Basavanna Biodiversity Park at Madappanahalli. Three existing parks -- Turahalli Minor Forest, Panathur and Jarakabande Nagarvana -- are proposed for upgradation.
+
+The parks will feature native plantations, biodiversity zones, herbal gardens, grasslands, forest trails, cycling tracks and nature-walk pathways. Visitor facilities will include amphitheatres, children's play areas, yoga platforms, gazebos and interpretation centres.
+
+At Turahalli Reserved Forest, the plan includes 50 acres of native plantations, a five-acre herbal garden, eight acres of grassland and the rejuvenation of two ponds. Panathur Nagarvana will have 68 acres of native plantations, alongside the conservation of sacred groves.
+
+The proposed Vishwaguru Basavanna Biodiversity Park will feature a 116-acre afforestation landscape with around 745 plant species across different ecological zones.
+
+Water conservation measures, including groundwater recharge pits, wetlands, check dams and water-storage facilities, are also planned, along with the restoration of existing water bodies.
+
+The project will be implemented in phases, with Corporate Social Responsibility (CSR) and Corporate Environmental Responsibility (CER) funding expected to support its development and maintenance.
+
+Besides expanding public green spaces, the initiative aims to improve groundwater recharge, moderate rising temperatures, reduce the urban heat island effect and strengthen Bengaluru's ecological resilience.
+
+\- Ends
+
+---
+
+### Car bomb injures 20 in Colombia ahead of 10th anniversary of FARC peace deal
+*Karan Manral · politics*
+
+Police patrol the area where a bomb exploded near a police station in Cali, Colombia, Thursday, November 12 (AP Photo/Santiago Saldarriaga)
+
+Around 20 people were injured when a car bomb exploded in the central Colombian city of Villavicencio, with President Abelardo de la Espriella blaming "narco-terrorists" for the attack.The explosion, which occurred on Monday, also destroyed the regional governor's office and damaged several nearby buildings."They have just carried out a bombing attack on the Meta Governor's Office," De la Espriella wrote on X, referring to Colombia's central province of Meta. He confirmed that there were no casualties in the incident."I warn the narco-terrorists responsible: you will answer for every drop of blood you have spilled and every business and property you have destroyed.
+
+We will deploy the full power of the state to hunt you down, dismantle your organizations and take you out," he added.No group has claimed responsibility for the attack.De la Espriella, a right-wing leader who took office as Colombia's president in August, has launched a major crackdown on the country's drug trade as left-wing FARC rebels have intensified attacks over the past two years.
+
+### Bombing coincides with peace deal anniversary
+
+The bombing came on the eve of the 10th anniversary of the peace agreement signed between the Colombian government and FARC.
+
+The deal brought an end to FARC's campaign of bombings, assassinations and hostage-taking. However, violence has surged again over the past two years as remaining guerrilla factions and drug cartels compete for control of the cocaine trade, illegal gold mines and extortion rackets.
+
+He has argued that the arrangement fostered a culture of impunity.Minutes before the blast, the president had criticised the peace agreement, describing it as "false peace" in a post on X."False peace, the squandering of public resources, and corruption scandals during Petro's administration are what have brought Colombia to ruin," he wrote.De la Espriella has vowed to put all remaining armed groups, including breakaway FARC factions, "in a tomb or in prison" and has stepped up military bombardments of their positions.(With AP inputs)
+
+---
+
+### Is Rohit Pawar Being Sidelined In NCP (SP)? Delimitation Debate Deepens Rift Over Party’s Stance On BJP
+*Apoorva Misra · general*
+
+For Rohit, the challenge is no longer just to take on the BJP-led government but also to establish how much space he commands within his own party
+
+[Read full article](https://www.news18.com/india/is-rohit-pawar-being-sidelined-in-ncp-sp-delimitation-debate-deepens-rift-over-partys-stance-on-bjp-ws-l-10438829.html)
+
+---
+
+### Kerala court grants bail to Sri Lankan accused in LTTE revival conspiracy case
+*India Today News Desk · general*
+
+## The Kerala High Court granted conditional bail to Sri Lankan national Muhammed Asmin. His approver status prompted witness-protection directions while immigration proceedings remain unaffected.
+
+The court said the justice system could function effectively only when people who assist administration of justice were assured of safety. (Representative Image)
+
+Kochi,Nov 24, 2026 15:00 IST
+
+The Kerala High Court has granted bail to Sri Lankan national Muhammed Asmin, who is accused of living illegally in India and playing a significant role in a transnational conspiracy to finance and facilitate the revival of the banned Liberation Tigers of Tamil Eelam through violent and unlawful means, news agency Press Trust of India reported.
+
+A bench of Justices Raja Vijayaraghavan V and K V Jayakumar said Asmin's continued detention could not be justified as a special National Investigation Agency court had granted him pardon and he had agreed to assist the prosecution as an approver.
+
+“Taking into account the period of incarceration already undergone, the grant of pardon, the fact that some of the co-accused have been enlarged on bail in connected cases and the legal position discussed, we are of the view the appellant is entitled to be released on bail, subject to appropriate conditions to ensure his availability for the proceedings, protect the integrity of the prosecution and safeguard the interests of justice,” the bench said.
+
+The High Court also said Asmin should be considered for protection under the Kerala Witness Protection Scheme. It directed the Secretary to the Kerala government's Home Department to take immediate steps to bring him under the scheme and provide the protection considered necessary.
+
+The court said the criminal justice system could function effectively only when people who came forward to assist the administration of justice, often at considerable personal risk, were assured that their safety would not be compromised because of their willingness to testify.
+
+It said witness protection was not merely a matter of individual security but an essential requirement for the fair and effective administration of criminal justice. “A system which expects witnesses to come forward and assist in the prosecution of offenders must also ensure that they are not left vulnerable to threats, intimidation or retaliation,” the court added.
+
+The bench directed Asmin to execute a bond of Rs 1 lakh and provide two solvent sureties of the same amount, subject to the special court's satisfaction. He must surrender his passport and give his complete residential address and current mobile phone number to the NIA investigating officer.
+
+Asmin must remain within Ernakulam district and cannot leave without the special court's prior permission. He must also be available for questioning or any other lawful requirement of the investigation or trial whenever called by the investigating officer.
+
+The High Court clarified that the bail order did not give Asmin any right to remain in India. It would also not prevent the Foreigners Regional Registration Office or any other competent authority from initiating or continuing proceedings against him under laws relating to foreigners.
+
+The court said the authorities could take lawful measures regarding his immigration status, including regulating or restricting his movement and requiring him to live at a place designated by them.
+
+Asmin must appear before the investigating officer or a designated NIA officer in Ernakulam every Saturday between 10 am and 11 am until further orders. He has also been barred from contacting any other accused in the case or trying to influence, intimidate, induce, threaten or otherwise interfere with any prosecution witness.
+
+The court further directed him not to hold a press conference, interact with the media or make any public statement about the case.
+
+According to the NIA, Asmin was part of a major transnational conspiracy involving foreign drug lords and key operatives of the LTTE, PTI reported. The alleged conspirators had joined international criminal groups operating across Pakistan, Sri Lanka and India to finance and facilitate the LTTE's revival through violent and unlawful means.
+
+The NIA told the High Court that the conspirators held secret meetings at beachfront properties in Chennai and detention facilities in Trichy. It alleged that they planned to bring large quantities of illegal drugs and sophisticated weapons into the region.
+
+The alleged conspiracy came to light after authorities intercepted and seized more than 300 kg of heroin, AK-56 assault rifles and 1,000 rounds of live ammunition, the bench noted.
+
+The NIA alleged that Asmin helped move drug consignments, handled proceeds from unlawful transactions through hawala channels and converted criminal proceeds into cryptocurrency to finance terrorist activities.
+
+In granting bail, the High Court cited Asmin's time in custody, the pardon granted to him and his decision to assist the prosecution, while imposing conditions on his movement, conduct and availability for the case and directing the state to consider witness protection for him.
+
+\- Ends
+
+
+---
+
 ## 23 November 2026
 
 ### From monthly payouts to easier withdrawals: what EPFO’s changes mean | Mint
