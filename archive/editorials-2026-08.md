@@ -1,5 +1,333 @@
 # Editorials archive — 2026-08
 
+## 25 August 2026
+
+### Escape velocity: On what India’s space sector must focus on
+*The Hindu · Editorial*
+
+For much of the 20th century, a rocket tearing a white seam through the sky did for India roughly what football did for Argentina and Brazil. Nations shut out of the councils where economic and strategic weight was measured found, in a game of European origin, an arena where their poverty did not disqualify them. Mastery was open to anyone with nerve and skill. Space was other things but also India’s football. A famished, newly independent republic that could barely feed itself nevertheless chose to gamble on rockets and atomic piles — an expensive bet on a future it could not yet see. In that era of a controlled economy and state broadcaster monopoly, a launcher rising was its own justification. The utility of its payload was secondary, in the eyes of the masses, to the veneer of technological competency. Today, rockets and satellites are no longer emblems; they are the plumbing of the information age, the unglamorous scaffolding beneath navigation, banking, weather and war. On the third National Space Day — the anniversary of Chandrayaan-3’s touchdown in the lunar south polar region — Prime Minister Narendra Modi urged 20 space-startup founders to build an “aura” that would draw the world’s talent to India. But that might be a wrong framing married to the old view of space. A private space sector cannot harvest success merely because its wares are called rockets and launch vehicles; the romance that carried the state programme will not carry a business.
+
+A recent peer-reviewed analysis in Economics Letters by Alessio Terzi and Francesco Nicoli finds that it cost $13,302 to loft a kilogram into low-earth orbit on an Indian rocket in 2025 — costlier than China ($5,809), Japan, Russia, Europe and the United States ($3,225), and well above the global average of $3,868. That is because India launches too rarely and uneconomically to rapidly build the required reputation for reliability. There were only five launches in 2025, against the 30 that were projected. The consequence is visible. GSAT-N2, at 4,700 kg too heavy for ISRO’s LVM-3, went up on a Falcon 9; Pixxel and Digantara — two of the 20 at Mr. Modi’s meeting — rode SpaceX to orbit. SpaceX alone put three-quarters of the world’s payload into orbit in 2025, underlining its near monopolistic stranglehold but also pointing to opportunities. The value of India’s space sector can no longer rely on aura but in jobs, in long-term capital and the tax revenues that follow and, in heavy-lift launches that undercut SpaceX and China. Moon bases with NASA and interplanetary reveries belong to the new imagination of space, and they matter — but they are the ornament, not the engine.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/escape-velocity-on-what-indias-space-sector-must-focus-on/article71389175.ece)
+
+---
+
+### Invisible actors: On bulk applications, voter name deletion
+*The Hindu · Editorial*
+
+The Election Commission of India (ECI)’s Special Intensive Revision (SIR) of electoral rolls has seen allegations of bulk filing of applications seeking to delete voters’ names from draft lists using Form 7 in Rajasthan, Gujarat, Uttar Pradesh and, more recently Uttarakhand. Ground reports by The Hindu from Karnataka, Rajasthan and Gujarat noted that these forms were often filed in bulk fraudulently using names of people who were unaware of the filing. In several instances, hundreds of objections were filed under a single person’s name. Form 7 is filed to object to an existing name — or to request its deletion — on the electoral rolls for reasons such as death, shifting, or ineligibility. The ECI’s Booth Level Officer or the Electoral Registration Officer (ERO) has to conduct an inquiry on the application and issue a notice to the voter before taking any action. While Booth Level Agents (BLA) of political parties can file up to 10 Form 7s a day, totalling 30, there is no limit on how many forms an individual registered as a voter from the same constituency can submit. To prevent misuse, the ECI has said that if a person files more than five objections, it will trigger a mandatory review by the ERO to ensure the legitimacy of the claims.
+
+The Opposition parties have alleged that the form was being misused through “systemic and coordinated efforts” to delete names of eligible voters and embolden the BJP’s efforts to wrongfully gain electoral advantage. In the case of Uttarakhand, the Congress has alleged that the manner in which the bulk forms were submitted online pointed to “institutional” access being granted to some in the process. These parties have also sent delegations and submitted representations to the ECI. What is important to note is that in most cases, voters were unaware that applications for deletion of their names had been filed at all, leaving it to workers of political parties active in the constituency to bring it to their notice. According to ECI data, for the third phase of the SIR covering 16 States/three Union Territories there are 3,42,409 BLAs of political parties for an electorate of 36,73,87,831 or one BLA for approximately 1,073 voters. These numbers include agents from ruling and Opposition parties. In such a situation, it is incumbent upon the ECI to step in and protect the voting rights of an individual rather than leave it to the grassroot strength of political parties. The ECI should thus take immediate steps to address this concern. Abnormal patterns should be investigated and the process should be monitored, with a uniform, country-wide Standard Operating Procedure, requiring verification of identity and constituency of the objector and the following of due process before any elector is deleted pursuant to a Form 7.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/invisible-actors-on-bulk-applications-voter-name-deletion/article71385049.ece)
+
+---
+
+### ​Perfect host: On India as host of the 2026 BWF World Championships
+*The Hindu · Editorial*
+
+The 2026 BWF World Championships in New Delhi marked the rise of France as an on-court force and of India as a capable host. Alex Lanier’s triumph in singles, and Thom Gicquel and Delphine Delrue’s in mixed doubles, were the first golds in France’s history. It was just over three months ago that the European nation finished a worthy runner-up to China in the Thomas Cup, the de facto World Cup in badminton. The Worlds success has established France as a serious contender in a sport otherwise dominated by Asian countries. In fact, Lanier is just the third non-Asian this century — after Spain’s Carolina Marin and Denmark’s Viktor Axelsen — to win the singles gold at the World Championships. The 21-year-old did that at a spruced-up Indira Gandhi Indoor Stadium, which was in the dock earlier in January when pigeons and monkeys intruded into the arena during the India Open. The massive facelift ensured that the marquee event’s return to India after 17 years would be long remembered. An Se-Young will also go back with happy memories after reclaiming the women’s singles crown from three-time titlist Akane Yamaguchi. The victory extended the 24-year-old reigning Olympic champion’s stellar 2026, during which she has won an Uber Cup gold medal, and the individual and team trophies at the Badminton Asia Championships.
+
+For India, the competition was the 12th straight edition where it secured at least one medal, with Gayatri Gopichand and Treesa Jolly bagging a bronze in women’s doubles. The performance is the latest in a series of good outcomes for Indian badminton after an ordinary 2025, where Satwiksairaj Rankireddy and Chirag Shetty’s World Championships doubles bronze was the best result. This year, Lakshya Sen reached the All England Open final, and Ayush Shetty at the Badminton Asia Championships. P.V. Sindhu’s victory at the Japan Open Super 750 last month was only her second Tour title in the last four years, and there were also triumphs for Satwiksairaj and Chirag at Singapore Open Super 750, and for Devika Sihag, Tanvi Sharma and Ashmita Chaliha at the Super 300 level. Yet, the feeling is unmistakable that India should have done better at a home World Championships, with Lakshya’s second-round defeat to the unheralded American teenager Garret Tan the most disappointing. There is no questioning the 25-year-old’s capability; he is a World Championships bronze medallist, a two-time All England finalist and finished an agonising fourth at the Paris 2024 Olympics. But no Indian men’s singles player has won an elite BWF Super 1000-level title since K. Srikanth in 2017. A swift end to this drought is essential for the overall health of the sport.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/perfect-host-on-india-as-host-of-2026-bwf-world-championships/article71384749.ece)
+
+---
+
+### Root causes: On India’s youth crisis
+*The Hindu · Editorial*
+
+It has been a few weeks since the youth agitation forced the resignation of then Union Education Minister Dharmendra Pradhan. The government conceded the students’ demands for examination reform, which found an echo in the Prime Minister’s Independence Day address, when he announced free online coaching for competitive examinations using India’s digital public infrastructure. MoSPI’s survey data bears out why this would be welcome to students — private coaching costs 16% of what an Indian family spends on a child’s education, against 12.5% in 2018, and nearly a quarter of that budget by the higher secondary years which is when the student prepares for competitive exams. Cheaper coaching is of limited value as quality professional education remains confined to a handful of institutions. For instance, over 22 lakh candidates appeared in this year’s medical entrance exam for about 1.4 lakh undergraduate seats with fewer than 10,000 of them at the top 50 colleges. The situation is similar to the Joint Entrance Examination for engineering colleges. That is perhaps why, for the first time since the All India Survey on Higher Education began in 2011, undergraduate enrolment fell by 93,322 in 2023-24, particularly among young men. The fall was the sharpest in Uttar Pradesh, where The Hindu’s analysis found undergraduate enrolment down 1.53 lakh even as diploma enrolment rose 1.38 lakh. An analysis of Periodic Labour Force Survey unit-level data found that of every 100 graduates aged 15 to 29 in 2025, only 26 were in regular salaried employment, and just four had a salaried job with a contract and social security. The youth employment crisis therefore has two ends — in the preparation for jobs, and in jobs themselves. Mere free coaching would address neither.
+
+The structural problems in the Indian economy, despite the government’s touting of 6%-6.5% growth, are now too obvious to ignore. Manufacturing, the job sector best placed to absorb India’s college graduates, remains at around a sixth of gross value added, nowhere near the quarter of the economy the government has long promised. Meanwhile, the private sector has been retreating from its task as corporate investment has fallen from 17.3% of GDP in 2007-08 to 10.3% in 2024-25, unmoved by the cut in corporate tax from 30% to 22% in 2019. The steps required of the Union government are clear: public investment in industrial capacity, support for industry disciplined by export performance rather than domestic protection, and tempering a regulatory and enforcement zeal that seems to selectively target enterprises, affecting the jobs-catering medium-sized companies in particular. This route has a better chance of delivering jobs for the youth at the scale needed and as countries such as Vietnam have shown.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/root-causes-on-indias-youth-crisis/article71389888.ece)
+
+---
+
+### Labour rights beyond the shadow of BWSSB
+*The Hindu · Opinion*
+
+On August 20, 2026, the Supreme Court of India delivered its judgment on the Reference made on the correctness of the judgment in Bangalore Water Supply and Sewerage Board vs A. Rajappa (BWSSB), 1978, particularly the test for determining whether an activity falls within the definition of “industry” under Section 2(j) of the Industrial Disputes (ID) Act, 1947. A brief history of the Reference. In State of U.P. vs Jai Bir Singh (2005), 5 SCC 1, a five-judge Bench referred the seven-judge Bench decision in BWSSB for reconsideration. A seven-judge Bench was constituted and, by order dated January 2, 2017, referred the matter to a nine-judge Bench. By order dated February 16 2026, the nine-Judge Bench framed four questions concerning the correctness of the test in BWSSB, the impact of the 1982 Amendment and the Industrial Relations Code (IRC), 2020, whether government welfare activities count as “industrial activities,” and the scope of “sovereign functions” under Section 2(j).
+
+By the time the questions were framed, the IRC, 2020 had been brought into force from November 21, 2025, also repealing the ID Act, 1947. By virtue of this repeal, the Reference had effectively been rendered otiose. Even so, the nine-judge Bench proceeded to hear the matter.
+
+Judges and reactionsOf the nine judges, Justice D. Datta and Justice U. Bhuyan held that “the reference requires no answer”. Justice B.V. Nagarathna found the exercise “unnecessary and only academic in nature”. Justice P.S. Narasimha held that “an authoritative interpretation of the definition industry’ was compelling at the time of the Reference”, but “such a determination has now become unnecessary, with the repeal of the said provision.”.
+
+Importantly, even the opinion written by the Chief Justice of India (CJI) for four judges acknowledges this. Even as it sought to re-formulate the Triple Test laid down by BWSSB, it describes its reformulation of the Triple Test as merely “hypothetical”, and expressly states that it will not apply to any pending case. The ID Act has been repealed, and there can be no future cases under it either. Even the reformulated test framed by four judges was prospective and would not alter pending disputes, which would continue to be governed by the BWSSB framework, and since the ID Act, 1947 has been repealed, there can be no future cases under it.
+
+The four questions framed on February 16, 2026 concern only Section 2(j) of the ID Act. The interpretation of Section 2(p) of the IRC was not before the Court.
+
+The CJI, writing for four judges, recognises that the IRC “is an independent legislative enactment and must be interpreted on its own terms, having regard to its text, scheme, and object”. At the same time, the same opinion says, in view of the reformulated Triple Test in their opinion, the principles laid down in BWSSB shall not be regarded as the “sheet anchor for the interpretation of the IRC should such a question arise in the future”. While on the one hand it refuses to construe a provision, in the same breath it rules on how BWSSB, as a precedent, may not be used to construe it. This in itself is a form of construing it, and is an attempt to police the tools available for a future interpretive exercise.
+
+Justice Narasimha also says that it is important to ensure that the interpretation of the definition of “Industry” under the IRC “is not burdened by the existing interpretations” under the ID Act, 1947. Justice Nagarathna’s opinion on this issue is important. While affirming the judgment in BWSSB, she recognised that the extent to which its reasoning carries over to the interpretation of “industry” under the IRC is to be tested by comparing the actual text of the two provisions. Such a comparison can be meaningfully undertaken only in a case arising under Section 2(p), and not in the abstract.
+
+The interpretation of the definition of industry under the IRC cannot be seen in abstract and would have to be understood in light of the rich jurisprudence that has developed with BWSSB and after.
+
+The importance of BWSSBThere is a deeper thread — an anxiety about the judgment in BWSSB, which needs to be addressed. This anxiety is what gave rise to the Reference itself. The five-Judge Bench in Jai Bir Singh (2005) questioned the correctness of BWSSB, observing that its “worker-oriented approach” was “unmindful of the interests of the employer or owner of the industry”.
+
+This finds an echo in the CJI’s opinion. Having hypothetically reformulated the tests in BWSSB, and having stated that BWSSB shall not be regarded as the sheet anchor for the interpretation of the IRC, the opinion of the CJI, for four judges, speaks of the judgment finally lifting a “burden” and permitting the law to “move forward unencumbered”.
+
+This again finds echo in the judgment of Justice Narasimha, who states that the interpretation of the definition of “industry” under the IRC, 2020 “must be freed of the bondage of ratio” in BWSSB. In this light, it is essential to recognise what “burden” of BWSSB causes such anxiety.
+
+There can be no dispute about the asymmetry between capital and labour, or the imbalance in their respective bargaining power. Justice Bagchi recognises this when he reminds us that one must always “bear in mind that a workman seldom enters the field of negotiation as an equal....” The Constitution recognises this, with Article 42 requiring the state to secure “just and humane conditions of work,” while Article 23 prohibits “traffic in human beings”, “begar, and other forms of forced labour”. The conditions that necessitated these protections have simply changed form.
+
+Labour legislation recognised this extreme imbalance and sought to ensure a modicum of bare protection. This is not a “pro-worker” understanding of the law, but just a check against the imbalance tilting toward the employer. The fact that such bare protection is described as “pro-worker” says less about the protection than about where the baseline has been unfortunately naturalised. While the freedom to dismiss without explanation is part of the ordinary run of business, a requirement to explain is called a burden. The warning of Dr. B.R. Ambedkar rings true — liberty from the control of the state is another name for “the dictatorship of the private employer”.
+
+The 13-judge Bench decision in Kesavananda Bharati (1973) recognised that justice, social, economic and political, formed part of the Constitution’s basic structure. The underlying inequality between employer and workman has not narrowed since 1947. In fact, the policy of “ease of doing business” has widened it. This is exactly why the social justice vision of Part IV of the Constitution calls for more protection now, not less.
+
+The issue of labour rightsThe ID Act, 1947 — to maintain industrial peace — provided basic protections and a forum for adjudicating disputes, where the labour courts and tribunals have been given wide powers to adjudicate on the same. To be excluded from its definition of “industry” is to be excluded from that bare minimum protection, and from the remedy available under it. The significance of BWSSB’s definition of “industry” lay in ensuring that this protection reached everyone the Act was meant to cover, rather than excluding workers from the one recourse the law offered them.
+
+Given the overarching objective of industrial peace, there was never a reason to treat BWSSB’s interpretation as a burden rather than as the Act doing precisely what it was designed to do. The anxiety surrounding it has always rested on the same premise: an eagerness to remove workers from the protection of the law.
+
+As the ID Act stands repealed and the IRC takes its place, it is necessary to return to the promise of social justice in the Constitution. The labour codes that have replaced the ID Act, including the IRC, are built on a premise of exclusion — narrowing who falls within the protection of the law — and will have to answer to that mandate.
+
+V. Gopala Gowda is a former Judge of the Supreme Court of India. Maitreyi Krishnan is a practising advocate
+
+[Read full article](https://www.thehindu.com/opinion/lead/labour-rights-beyond-the-shadow-of-bwssb/article71385565.ece)
+
+---
+
+### DC Edit | Dropping Site Of Greenfield Airport Will Cost Chennai
+*Deccan Chronicle · Editorial*
+
+Dropping the Greenfield airport project, which was to come up at Parandur in Kancheepuram district, like a hot potato could be glad tidings to those who opposed it vehemently for various reasons. But how much the move will impact future industrialisation in Tamil Nadu is not clear.
+
+All those who have been watching the developments around Parandur in the political, social and other spheres since 2022 when a 5,000-acre land parcel was earmarked as the site for Chennai’s ambitious greenfield airport know very well that the decision to scrap the project by chief minister C Joseph Vijay was inspired more by political considerations.
+
+While persistent protests by potential land losers of the 13 revenue villages that raged for months were justified at one level because they were raising concerns like large scale displacement of the rural community, ecological degradation, losing precious natural water bodies and depriving farmers’ livelihoods, the decimation of the scheme without identifying an alternative site could be detrimental to industrial progress.
+
+Potential investors may think twice before coming to the state where government decisions are altered by political expediency because scrapping the Parandur project was an election promise that the TVK fulfilled on coming to power in May. Since it has not been made clear by the new government if the land — 1,700 acres of which has already been acquired — would be left undisturbed to allow the people continue with agriculture, it has given rise to rumours that the land could be utilised for industrial development.
+
+Whatever happens in Parandur after the government has reneged on its plans, the decision might not augur well to establish investor confidence in the government that now comes across as one that could change colours with every election. Because, the Parandur project was basically a DMK brainchild and its killing is attributed more to political expediency than to conflicting economic policies.
+
+As even Mr Vijay mentioned in his announcement in the Assembly, the need for a second airport in Chennai, which has emerged as a throbbing industrial hub, cannot be questioned. All that he wanted was that the airport should not come up in Parandur. He wants to look for an alternative site that would entail less loss of agricultural land and reduced adverse impact on people’s livelihoods.
+
+The alternative site for the second airport, too, must be close to Chennai since access to the city is imperative. The government has taken upon itself the onerous task of identifying a parcel of land that would least affect human settlements and agricultural fields. Wherever the land is identified, there is no guarantee that the people who will lose their houses and agricultural land because of it would not raise a hue and cry and stall the project like the potential land losers of Parandur and surrounding villages did.
+
+It would not be fair on the part of the TVK to say that the people on the new site chosen for constructing the airport should put up with displacement, loss of land and livelihood in the overall interest of the state’s development and industrial growth. Even the Parandur project proposal was born of the same aspiration.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-dropping-site-of-greenfield-airport-will-cost-chennai-1982009)
+
+---
+
+### DC Edit | SC Solves A Definition Problem
+*Deccan Chronicle · Editorial*
+
+The nine-judge Supreme Court bench, which reviewed the 1978 seven-judge apex court bench’s definition of industry, may not have produced a single doctrinal answer to the referred matter, but it arrived at the most practical conclusion: to leave the definition, as determined by the 48-year-old triple test formulation, unchanged.
+
+This judgment ends confusion that began in 2005, when the Supreme Court’s five-judge bench referred the current case to a larger bench. All pending cases instituted under the now-repealed Industrial Disputes Act, 1947, will now continue to be decided under it, and as per the “triple test” laid down in the 1978 Bangalore Water Supply judgment.
+
+For four decades until the Industrial Relations Code, 2020 was enacted, courts, employers and workers relied on the triple test to determine whether an establishment constituted an industry. It covers all systematic activity organised through cooperation between employers and employees for producing or distributing goods or services intended to satisfy human wants.
+
+Thousands of cases were filed across India based on this triple definition, framed by none other than the top court of the land. Lakhs of people would get affected if the Supreme Court suddenly decides to change the definition retrospectively.
+
+Any change in policy applied retrospectively either by law or court verdict does not bode well for the country’s long-term development. Policy stability is one of the important requirements an investor looks for before taking an investment decision. However, if the law can be changed retrospectively in a country, investors consider investment in that country as a risky proposition.
+
+Any decision to redefine the industry would have led to the reassessment of cases filed under the old law and could have bogged down courts burdening an already strained judicial infrastructure. Now that the issue is settled, the judiciary must expeditiously clear old cases to consign the triple test to legal history.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sc-solves-a-definition-problem-1981995)
+
+---
+
+### DC Edit | Taste Of Sugar Not So Sweet This Season
+*Deccan Chronicle · Editorial*
+
+Sugar has an important part to play in the lives and lifestyles of Indians. Millions of diabetics, moms who are trying to wean children off high sugar diets and fitness fanatics who follow strict regimens based on dietary guidelines may make a sizeable segment who might view refined sugar in an entirely different light.
+
+For a billion others, at least ‘thoda mitha’ in almost everything is the norm, be it a celebratory occasion with sweetness conferring a symbolic blessing or just people gorging on sweetmeats. What is not so sweet this season, however, is the price of sugar that has shot up nearly 40 percent.
+
+Blaming the dramatic price rise on a poor monsoon for agriculture thanks to the El Nino effect or the pests that get at the crop is based on facile assumptions. However, it is the government that must take the major blame for misjudging the sugar crop this year to the extent that it had to take drastic U-turns, from allowing sugar exports based on expectations of good production to permitting import of a million tonnes free of duty before October 31.
+
+The government is not in the business of growing sugar but it must take the blame for the current situation since it controls almost everything else — from ordering how much will go to the market, how much stockholding is permitted, how much can be exported to how much can be diverted for ethanol production.
+
+The contrast is noticeable in a market that was supposed to have enough to permit diversion to exports and ethanol, besides allowing two million tonnes for export to one where the authorities are worried about releasing a higher quota to the market in the festive season that begins with Onam and runs into the New Year with the next major harvest season.
+
+The government may have been misled by over optimistic forecasts of sugar output by industry bodies at the beginning of this sugar season last year, but then it claims that it has its own agencies guiding it in the matter of assessing national output before taking a call on exports. The July 2025 outlook by a sugar manufacturing association weakened with time and the projected production fell by more than six million tonnes after 2.4 million tonnes were said to have been diverted to ethanol.
+
+The 20 per cent ethanol-blended petrol not only brings down your car mileage but also affects sugar prices, especially in a tight market, which straightaway adds to the government mismanagement quotient because the much-vaunted savings in import of crude were prioritised thus affecting the dynamics of food production. The drop in mileage might also mean that more crude would have to be imported thus defeating the arguments for the E-20 mix, but that is another matter altogether.
+
+What the sugar crisis of 2026, which will spill over into next year as the opening stock for the new sugar season is likely to be lesser than in Oct. 2025, portrays is that excessive government control in anything leads to even more problems than what market forces may bring, including its perennial habit of speculative hoarding of stock.
+
+Emergency relief measures like the ordering of an additional 10 lakh tonnes of sugar is not a band-aid solution. But the sugar situation that is threatening to turn bitter this season must serve as a lesson for the government to be far more proactive in getting its numbers right and planning smartly in a commodity that is also tied to India’s cultural roots. There is a lot to learn from the failures on the sugar front, for the government as well as the market.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-taste-of-sugar-not-so-sweet-this-season-1982247)
+
+---
+
+### DC Edit | Trump’s Fresh H1-B Play
+*Deccan Chronicle · Editorial*
+
+Despite repeated legal reversals, US President Donald Trump appears unwilling to reconsider his administration’s relentless campaign against immigration. Each time a court strikes down one measure, the Trump administration seems to search for another route to achieve almost the same objective.
+
+The White House is now planning to introduce a fee exceeding $103,265 for new H-1B petitions after a federal court declared an earlier presidentially imposed levy unlawful. The proposed fee, according to the US Citizenship and Immigration Services, would help cover the costs of multiple federal agencies under the Homeland Security department — a legal alibi for defending a patently discriminatory treatment of this category of immigrant visa.
+
+Unlike the previous proposal for the $100,000 fee, the current one makes the H-1B visa difficult for the foreigners who are already living in the United States. Such broader tightening of wage, eligibility and scrutiny requirements could make employment visas harder to obtain even for foreign graduates and professionals.
+
+Every government is duty-bound to prioritise the welfare of its citizens and its country over foreigners. However, the Trump administration has produced no scientific study or evidence to show that the United States can meet the staffing requirements of its booming technology industry, without tapping the overseas talent.
+
+Only days ago, another federal court struck down the administration’s suspension of immigrant visas for citizens of 75 countries. Yet, instead of absorbing the message, the administration has reportedly prepared to revoke as many as 200,000 B1 business and B2 tourist visas held by people who have applied for asylum.
+
+This step goes against the United States’ long projected image as the leader of the free world. As the leader, the US has a special obligation to treat those escaping tyrannical regimes with humanity. While border control is a sovereign right, collective suspicion is not sound policy. A powerful democracy must enforce its laws without extinguishing the compassion and responsibility that give those laws legitimacy.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-trumps-fresh-h1-b-play-1982295)
+
+---
+
+### Aakar Patel | Faith Vs Law & The Absurd Politics Of Ghar Wapsi
+*Deccan Chronicle · Opinion*
+
+Headline from this week: “Pune Police withdraws conversion law provisions from 2 cases after officials find Act not in force yet.”
+
+Our ever-vigilant law enforcers have not only sorted out and solved the problems of previous laws but also future ones. The new law referred to has since come into effect and is one of the gifts the BJP has given India since 2018 when the first such law came in Uttarakhand. Freedom to propagate religion is both a fundamental right in India (Article 25) and a criminal offence. This might puzzle some people about what we are actually trying to do but the mother of democracy is wise and knows how to keep her children in line.
+
+I have written here before about the specific problems these laws have and I will not repeat them. But we should take a look at what the problem actually is that these laws are attempting to solve. How big an issue is religious conversion in India?
+
+Conversions in India have happened historically through communities. It is difficult for an individual to change her faith in India because ties to community and family are strong. For this social reason as well as the restrictions placed on the freedom of religion, the numbers of conversions in India are quite low. In its issue of September 15, 1981, India Today reported that “figures painstakingly tabulated by the Home ministry showed that in the past 14 months the number of conversions recorded — mostly of Harijans to Islam — numbered no more than 5,000”. It added that though some conversions had been reported from north India, they were happening primarily in Tamil Nadu where, including the 1,100 in Meenakshipuram, around 2,000 people had switched religions during the last eight months against less than 1,500 between 1944 and 1980.
+
+On March 7, 2017, Malayalam Manorama reported the research by a non-profit organisation (Media Development and Research Foundation, Kozhikode) which showed 60 per cent of those who had converted in Kerala between January 2011 and December 2017 chose to become Hindus. Gazette records of changed names showed that 8,334 people had converted in the seven-year period, of whom 4,968 chose to become Hindu, of which the vast majority, 4,756, were Christian and 212 Muslim. Of the total, the number of women was 2,244 and the men 2,724.
+
+Of the 1,864 who became Muslim, 78 per cent were previously Hindu, again with men and women converts being roughly equal. And of the 1,496 who became Christian, 95 per cent were Hindu, with 720 women and 776 men. Six individuals chose to become Buddhist, of whom five were Hindu, one was Christian and there were a total of two women and four men. There is no official data from the state on this. However, a report in the Times Of India a couple of years before that (‘Nearly 6,000 converted to Islam in Kerala in five years: Report’, July 15, 2016) quoted an “intelligence report” filed by the police showing that 5,793 people had converted between 2011 and 2015. Of them, about half were men and half women. Hindus converting were 4,719 with 1,074 being Christians. These numbers over the years, whether from Tamil Nadu, Gujarat or Kerala pale before the conversions done by the VHP.
+
+On October 26, 2019, PTI reported the VHP saying it had converted 25,000 Muslims and Christians, mostly Adivasis, to Hinduism in 2018. On January 8, 2016, PTI reported VHP leader Pravin Togadia claiming at a rally that his organisation had converted more than five lakh Christians and 2.5 lakh Muslims to Hinduism in the last ten years. “In the last 10 years, we did ghar wapsi of more than five lakh Christians and 2.5 lakh Muslims. Our rate of ghar wapsi used to be around 15,000 each year. But last year, we crossed the mark of 40,000, which is excluding the figures of RSS,” Togadia said, adding “if Hindus need to be in majority in India and to save our religion, we have to engage in many more ghar wapsi drives to bring crores of others into our religion”. To this end, he said the VHP “wants a bill which will make it difficult to convert people to other religions”.
+
+On December 13, 2015, Rediff interviewed the man who would go on to become chief minister of Uttar Pradesh (“Yogi Adityanath proposes anti-conversion law, without ban on ‘reconversion’”). “We have reconverted several lakh Muslims and Christians over the past 10 years,” he claimed, speaking of the activities of his organisation, the Hindu Yuva Vahini. “What I am doing is simply taking such people back to their old home from where they were weaned away through inducement or coercion.” He explained why he wanted the exemption for his own conversions from the law: “So what if someone’s ancestors were converted to Islam or Christianity several hundred years ago? Time is of no consequence. Therefore, all those Hindus who were compelled to switch over to Islam during Mughal emperor Aurangzeb’s rule — when the maximum mass conversions took place — should get exemption under the new law that the BJP wants to legislate.”
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-faith-vs-law-the-absurd-politics-of-ghar-wapsi-1981972)
+
+---
+
+### Abhijit Bhattacharyya | Is China Silently Occupying Arunachal To Shame India?
+*Deccan Chronicle · Opinion*
+
+According to the Hindu Saka calendar, the month of Bhadra (Bhado) spans August 22 to September 22. However, there’s also the possibility of these dates moving owing to shift in the lunar cycle. For believers though, the Bhadra month is best avoided when it comes to any auspicious activity. Bhadra, considered the daughter of Lord Surya and the sister of Shani (Saturn), possesses a none-too-pleasant temperament. Hence the widespread belief across India not to hold weddings, house-warming (grihapravesh), business deal signing or any important functions during this Indian month.
+
+In tune with India’s inherent spirit of unity in diversity, the Bengali San calendar marks Bhadra mid-August to mid-September when all positive, auspicious or new work are invariably postponed or kept in abeyance.
+
+The lines above, however, do not necessarily mean that a vast India should follow a uniform script of belief or behaviour. What’s surprising, though, is that this year’s Bhadra has brought a bewildering inventory of disturbing pan-India developments. Suddenly, India faces fresh a multi-front combination of severe internal and external turbulence. From internal politics, domestic market pressure and upheaval in the voting process to the younger generations’ mass movement on the streets, Gulf war disruptions, foreign currency volatility, rupee depreciation, a yawning foreign trade balance of payment deficit and now the several unofficial reports on Chinese army’s unusual and overactive movements leading to perceived transgression into India’s northeastern province of Arunachal Pradesh. What’s cooking?
+
+Why local people of Arunachal are increasingly vocal about Chinese troops’ penetration into Upper Subansiri district of border state is the most intriguing question. And, too, why is the local establishment coy about sharing those details? Shouldn’t the Indian state step in to officially clarify the matter? If there’s nothing in it, announce it to the public. But, if there is any substance in the reports of the local people, take action decisively. Will it be wise to keep quiet to avoid incurring Chinese displeasure owing to the impending 18th Brics Leaders’ Summit in New Delhi because, in the foreign minister’s own eyes, China is stronger than India?
+
+Yet should New Delhi suffer and tolerate Beijing’s brazenly illegal claim over Arunachal Pradesh which is indisputably an inalienable and integral part of India’s sovereign territory? Beijing may try and give any name like Zangnan to Indian land, but that does not give any legitimacy to licentious gunboat gangsterism to the Dragon and its ilk. China may like to quench its thirst for land and water by sending its gunboatwallahs to other smaller, weaker and proximate points, but let India take a stand and not get trapped in the repeated deception and web of false diplomacy of the Chinese dictator.
+
+It has been our experience that whenever New Delhi takes a big step in the diplomatic arena, clandestine attempts are invariably made by China to show it in poor light. Therefore, is there a similar idea-to-implementation plan to embarrass us during the 18th Bric Summit of September 12-13 in New Delhi which also incidentally falls in the “inauspicious” month of Bhadra? In fact, India does face an uphill task of making the 18th Brics Summit a success owing to a variety of internal and external forces in play.
+
+Let’s delve into a few (albeit known) factors which could effectively force India’s hand. Instances galore exist showing how India got trapped into territory loss, trade deficit, banking retreat and industrial decimation. The latest open-source info provided by Indian missions in Beijing/Shanghai says: “Many Indian banks had established their presence in mainland China through branches or representative offices in major cities. However, most of them have closed their ops in recent years and presently only SBI and ICICI branches function in Shanghai.”
+
+Mark the words on Indian banks: “closed ops”. Beijing, on other hand, ensured that two of its “heavyweight” banks, the Industrial & Commercial Bank of China (ICBC) and the Bank of China are continuing uninterrupted business in Mumbai since, respectively, 2011 and 2018. Unlike India in China, Chinese banks have not closed in India. Some prominent Indian private players are still floating in China alright, but how much is India gaining as a nation? Should laissez faire be allowed to go berserk at the cost of the interests of a vast majority of Indians? Is it fair? Should India imitate the reckless capitalism of the United States? Shouldn’t the State assume some role and responsibility to control and keep a portion of the revenue originating from foreign countries to facilitate a better utilisation and distribution of the fruits of today’s global financial apparatus?
+
+The Indian mission in China candidly narrated in its website a reality rarely reflected by New Delhi’s blockbuster media moguls: “Though India-China bilateral trade...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/abhijit-bhattacharyya-is-china-silently-occupying-arunachal-to-shame-india-1982272)
+
+---
+
+### Anil Tyagi | Can A Geriatric Admin Respond To The Needs Of Gen Y & Z?
+*Deccan Chronicle · Opinion*
+
+Recent events at Capital Jantar Mantar and Gen Z’s so-called political maturity has triggered several thought processes within the government, the BJP and among the party’s Members of Parliament. One of them relates to leadership. Of course, no one dares to question the ‘might-and-right’ of the Prime Minister. But it is the dependence on, or rather the composition of, the second layer, the so-called implementers, which is being debated. The discussions are getting louder by the day, even as the high-pitched decibel levels at Jantar Mantar are fading away.
+
+Take the case of those saddled in the Prime Minister’s Office, with the sole intention of translating the leader’s vision into an active mission. While Prime Minister Narendra Modi is 75 years old, PMO’s principal secretary P.K. Mishra is 78, and national security adviser Ajit Doval, at 81, is an octogenarian. An ageing, if efficient, administrative group. Add to them the older loyalist cabinet ministers — external affairs minister S. Jaishankar, 71 years, petroleum minister Hardeep Singh Puri, 74, and Arjun Ram Meghwal, law and justice, 72.
+
+For many BJP MPs, and party politicians, the ageing executive-legislative ecosystem, though visionary, may be outdated. With a majority of voters in the next national elections expected to be Gen Z and millennials (Gen Y), this circle of governance may not be able to feel the “pulse of the nation”. If the upper echelons of governance comprise elderly civil servants, technocrats, and ministers, who help the Prime Minister shape decisions, there may be a disconnect. The electoral and political fissures and cracks were visible after the events at Jantar Mantar last month.
+
+BJP MPs are concerned about the information disruptions within the government. The Bhupender Yadav episode is symbolic. After members of the personal staff, who worked with the environment minister, were removed on July 3, he reportedly told a senior BJP leader that he did not have “an iota of an idea” about it. This begs a question — why are orders issued to MPs from the highest places, like regularly dispatching them to their respective constituencies after the end of each Parliament Session?
+
+Shivakumar’s Super-Shifts
+
+Most new chief ministers either opt for a bureaucratic cleansing or shakeup, or continuity. There is rarely a middle ground. But D.K. Shivakumar, the chief minister of Karnataka, chose a third ‘mixed’ option since he took over on June 3, 2026. While retaining the original set-up, he focused on a new command structure within, and around, the chief minister’s office (CMO). This contrasts with his predecessor’s (Siddaramaiah) strategy, which was for status quo. Mr Shivakumar shifted Tushar Giri Nath to the CMO as additional chief secretary. He replaced Anjum Parwez, who had served with Siddaramaiah. Munish Moudgil got concurrent charge as principal secretary to the CM for programme and project implementation, a signal that the CM wants a tight monitoring of projects. CM’s six-member governance committee is headed by former chief secretary S.V. Ranganath, and comprises retired civil servants, which denotes a dependence on institutional memory and experiences.
+
+However, chief secretary Shalini Rajneesh retained her position in Shivakumar’s regime. A 1989-batch IAS officer, she assumed the post under Siddaramaiah in August 2024 and will retire in June 2027. L.K. Atheeq, who worked with the previous CM, was appointed as financial adviser to the new CM. The picture is becoming clear. Use every positive and advantage within the state civil services to deliver results. But the test will emerge when the next chief secretary is chosen. It will truly indicate CM Shivakumar’s real gameplan.
+
+Trivedi’s ‘Middle’ Tarique with Modi?
+
+Many successes in the intriguing and mysterious world of diplomacy are related to Track-II efforts initiated by powerful Track-I actors. Hence, many eyes are fixed on Dinesh Trivedi, the newly appointed high commissioner to Bangladesh. This is especially crucial in the light of sensitive, even controversial, India-Bangladesh relations. Mr Trivedi’s aim seems to be to create a direct link between Prime Minister Narendra Modi, and Tarique Rahman, his Bangladeshi counterpart, bypassing the official, established and rooted diplomatic channels. The off-road diplomatic paths to Indian corridors of power need to be open.
+
+One of the first clues comes from a recent high-level private meeting between Mr Trivedi and Mr Rahman in Dhaka. In an unusual turn of expected protocol, during the discussion, Mr Trivedi asked his deputy, Pawan Badhe, to leave the room. The symbolism was a powerful one. A diplomat and a head of state talked about issues that only they were privy to. More importantly, Mr Badhe is known to be a key cog within the official wheel of the Indian external affairs ministry.
+
+Obviously, the exclusion from the meeting had the tongues wagging. Questions were raised. Has Mr Trivedi decided to run a semi-official, but...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/anil-tyagi-can-a-geriatric-admin-respond-to-the-needs-of-gen-y-z-1982255)
+
+---
+
+### Sanjeev Ahluwalia | Yuan Presents A Renewed Challenge To Dollar Order
+*Deccan Chronicle · Opinion*
+
+Replace the words “Yuan” and “China” in the title with “Dollar” and “America” and you have what US treasury secretary John Connally said in 1971 to European finance ministers. The adage remains true, except that there are now two currencies the world must worry about.
+
+The US dollar — curated over eight decades of careful branding as a reference currency, central to a stable, global financial system and now the contender — the yuan, held steady by the trade competitiveness of China and a closely managed exchange rate regime. The yuan depreciated by 15 per cent against the US$ over the period 2014 to 2024, even as China contributed one third (US$1.2 trillion) to the global increase in merchandise export. It also has the largest reserves in the world, about US$ 3.4 trillion.
+
+China’s trade policies are devious (think non-trade measures and barriers) but relatively kosher. Being the most competitive manufacturer helps. Acting in national interest, it scuppered competing exports by subsidising export manufacture and infrastructure whilst skimping on consumer benefits and welfare. China does not encourage consumption, in keeping with its per capita income levels, by defraying the cost of living or exceptional life events, accessing education, healthcare or old age pensions. The average Chinese consumer must save for these eventualities.
+
+Hyper domestic savings are partly the result of financial repression. Regulated purchase of government bonds by Chinese banks — like the RBI’s Statutory Liquidity Ratio, which sequesters 18 per cent of a bank’s net liabilities into cash, gold or government bonds, low interest rates for domestic savers and exchange controls to dissuade capital flight, all generate a flood of enforced savings. These are funnelled by Chinese banks into manufacturing, creating over-capacity and a frenzy of hyper competition with exports the only option. Rock bottom export prices destroy competing trade, creating global imbalances in market access- a masterful version of state supported capitalism.
+
+The paltry scale of personal consumption in China — 31 per cent of GDP — in a nearly high-income economy, comes as a surprise. Compare this with the United States where consumption accounts for 68 per cent of GDP. Even in Iower-middle income India, it is 62 per cent. Americans might be spendthrifts given that their per capita income is 8X of China’s. But it is not just the Americans. Closer home, Malaysia has a per capita national income lower than China (0.9x) but consumption is, like India, at 62 per cent of GDP.
+
+Exceptionally low consumption in China is not driven by the lack of resources. It is a policy designed to divert savings into investments for exports. The Chinese could have consumed more, like the Malaysians, if they had access to more public goods like pensions, or good health and education facilities outside major cities, access to which is tightly regulated with penalties for unauthorised entry. Unsurprisingly, “save baby save” is the lot of the average Chinese consumer.
+
+In India, State policy transferring income to families is more generous and the “bite” of tough but inequitable laws is masked by poor implementation. Squatting on urban public land — for a price paid informally — is a safety valve for rural folk to self-urbanise, hoping a kindly government might legitimise their stake. Government schemes for subsidised food are now portable.
+
+Entry to cities is open for all with no travel restrictions. Travel by rail (general glass) whilst of indifferent quality, is compensated by ubiquitous cross-country connectivity, frequent services and rock bottom ticket prices making it cheaper than travel by public bus. Unsurprisingly, much of the travel is from rural areas to cities, to avail better work opportunities, education or medical care.
+
+Why did India not adopt an economically efficient path as China has since the 1980s? One admits it grudgingly, but India never had China’s trump card — a disciplined one-party system — socially oppressive but highly, albeit often coldly, efficient. China copied and scaled up, the subsidised manufacturing and export production model from the 1960s developmental policy of Japan and subsequently South Korea. What is solely Chinese is their long-term vision of global political and economic dominance — targeting America’s dominant position post 1945 till the 1960s and again its unipolar moment post 1989, once the Soviet Union splintered.
+
+China is unlike any other country, in moulding public behaviour via a curious melange of mass subservience mixed with public faith in a top-down system, which dextrously decentralises political responsibility and fiscal power for economic development. This builds widespread support for the party.
+
+The most egregious, cases of public corruption, are carefully distanced from the party and punished. Selectively but routinely, sacrificing inconvenient insiders, reinforces the public’s trust in the party.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjeev-ahluwalia-yuan-presents-a-renewed-challenge-to-dollar-order-1981987)
+
+---
+
+### Census must retain its compact of trust
+*Deccan Herald · Editorial*
+
+The scope of India’s upcoming population census is more expansive and its design more detailed than the 2011 exercise. With the number of questions increased from 29 to 40, the 2027 census now covers the respondent’s Aadhaar, voter identity and passport details, driving licence, phone numbers, permanent address, nationality, parents’ religions and other details, bank accounts, vaccination records, educational qualifications, and digital literacy. It also comes with an open-ended column to record caste. Most of the data sought in the new questionnaire is in the domain of privacy. These details currently exist in separate records; the census proposes to bring them all under one consolidated data unit. They are protected by the Registrar General of India, which is oath-bound to the confidentiality of census data, but the risks of a system breach also warrant caution.
+
+At the centre of the apprehension is the possibility of this information pool being repurposed as an update on the National Population Register (NPR), and supplementing efforts towards a National Register of Citizens (NRC). A census assesses an overall demographic landscape through aggregate data to facilitate policy planning, formulation of welfare schemes, etc. The collation of personal data and micro-level identifiers mapping individual citizens to meet policy requirements is contentious. A combination of data relating to religion, caste, economic status, family, region, and unique personal identification can be vulnerable to political intervention. These details can aid state surveillance and profiling. Interlinked identifiers can take the form of citizenship filters. With millions of phones, computers, and other digital devices involved in the exercise, the risk of violation is real – sensitive data may land in the wrong hands, leading to impersonation, fraud, and other offences.
+
+Teachers on census work deemed to be on school duty; can't refuse assignment: Calcutta High CourtEnumerating caste through an open-ended question is a flawed approach. The process requires the enumerators to register what the respondents say, not to record them as belonging to a recognised caste category. The absence of a dropdown or a comprehensive caste classification can make the results a complex jumble of castes, subcastes, surnames, and other divisions. Enumeration can become meaningless without standardisation in a country that has about 46 lakh ‘caste names’. This number will increase substantially when respondents misspell the names. The data overload involved in the exercise will place a heavy burden on the enumerators. Many citizens are likely to resist giving away sensitive personal data. An efficient and credible census should be a transparent exercise that evokes the trust of citizens and does not leave them with fears of their rights being infringed on.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/census-must-retain-its-compact-of-trust-4122891)
+
+---
+
+### State subverts a vital green law
+*Deccan Herald · Editorial*
+
+The legislative assembly’s passage of the Bill to amend the Karnataka Government Parks (Preservation) Act, 1975, to permit diversion of up to 5% of park and garden land for public infrastructure warrants unequivocal condemnation. Diluting an Act designed precisely to safeguard parkland is shortsighted, reckless, and undermines one of the state’s most important environmental safeguards. The immediate trigger appears to be Lalbagh, where the proposed 17-km Hebbal-Central Silk Board tunnel road requires roughly six acres of land temporarily and one acre permanently. But in effect, the amendment would create a statutory route to alienate around 12 acres of the 240-acre park. It is widely seen as an attempt to get around legal challenges that the tunnel project violates the existing Act.
+
+The amendment seeks to override the blanket prohibition contained in Section 4(2) of the Act, which currently renders any such alienation null and void. The Bill’s stipulation that transfers be permitted only to government departments does little to address the central concern, as it does not render the loss of green spaces any less permanent. The implications extend far beyond Lalbagh or Bengaluru and would apply across Karnataka. A committee headed by an Additional Chief Secretary-rank officer, with domain experts, would scrutinise proposals, but such oversight does not mitigate the danger. Once the law creates a statutory opening, future governments will find ways to present encroachments as public utility. Roads, tunnels, parking facilities, and other projects that are difficult to accommodate elsewhere can gradually eat into green spaces. The history of Cubbon Park should serve as a warning: its area has shrunk from about 300 acres to 197 acres as land has been ceded to government buildings and private clubs.
+
+Karnataka Assembly passes Bill allowing govt to use portion of parks for infrastructure; BJP alleges CM Shivakumar colluded with AdaniParks provide shade, groundwater recharge, biodiversity, recreation, and crucial relief from the heat and pollution of expanding cities – a value that only grows with the threat of climate change. By weakening statutory protection in the name of infrastructure, what should be an exceptional diversion could become an accepted practice. The opposition, too, has blood on its hands. It let a Bill with such far-reaching consequences pass unanimously without debate, choosing instead to continue its protest in the well of the House, demanding the resignation of Minister B Nagendra, accused in the Valmiki Corporation corruption scam. The assembly has signed the death warrant for the state’s parks, and every single legislator who allowed this Bill to pass without a debate must bear responsibility for the consequences.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/state-subverts-a-vital-green-law-4122892)
+
+---
+
+### No one is equal until we are all equal
+*Deccan Herald · Opinion*
+
+Karna, one of the silent heroes of Mahabharata, a skilled warrior, a loyalist and a generous soul, met social rejection very early in life. His education under sage Parashurama became possible because of a lie. Blessed with archery skills at par with Arjuna, Karna found his recognition in Duryodhana’s camp. Being a loyalist, he had no choice but to take sides with adharma and fight for the Kauravas. His story inspires us to never give up even if the odds are against you.
+
+Sometime back, a small video clip of a little Japanese macaque drew the attention of millions from around the world to this small zoo in Japan. Baby Punch, abandoned by its mother at birth, found rejections by all other macaques. Macaques live in their own troops and refuse anyone else entry into them. The video shows this emotional, hurt monkey being pushed away every time he tried to mingle with others. The zookeepers gifted a big orangutan stuffed toy to help it cope with the emotional stress.
+
+The ‘Ora Mama’ teddy has now become its emotional companion. He drags it with him wherever he goes. Any society can make progress only when all hold hands and walk together. Lending a helping hand to the less fortunate can make a significant difference. To quote Elizabeth Nyamayaro, ‘No one is equal until we are all equal.’
+
+Every morning, walking to a nearby lake and back, I see people from several walks of life walk along me. And also, some are fast, others slow; some come to catch up with their friends while others hurry past to get to their destination. The lake is also a home to hundreds of birds, big and small, either chirping on trees or swimming in the lake.
+
+The summer’s heat has evaporated much of its water, and fewer rainfalls have left it almost dry.
+
+Many wiser birds have found greener pastures and have fled to better lakes near by. The lake has reduced considerably. Yet, I can see some still holding onto this. Mornings are never dull by the lake. As the saying goes, the early bird catches the worm.
+
+All birds, big and small, huddle around the small patches of water to hunt their food. No territorial fights, no senior prey domination. No one seems to be in a hurry, yet all get their food. “A healthy social life is found only when, in the mirror of each soul, the whole community finds its reflection and when, in the whole community, the virtue of each one is living,” says Rudolf Steiner.
+
+[Read full article](https://www.deccanherald.com/opinion/no-one-is-equal-until-we-are-all-equal-4122889)
+
+---
+
 ## 24 August 2026
 
 ### Core concerns: On the Indian economy, the road ahead
