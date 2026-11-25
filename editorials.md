@@ -1,8 +1,312 @@
 # Editorials
 
-_Last updated: 2026-11-24 11:29 UTC_
+_Last updated: 2026-11-25 10:16 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 25 November 2026
+
+### Beyond generosity: on India-Nepal ties
+*The Hindu · Editorial*
+
+The state visit of Nepal Prime Minister Balendra Shah to Delhi, eight months after he was voted to power as leader of the ‘GenZ’ movement that ousted the previous government, was anticipated as a chance to reset the turbulent India-Nepal relationship. Bringing Mr. Shah to India for a state visit, his first, was particularly important, given the Modi government’s tense ties with his predecessor K.P. Sharma Oli’s government; Mr. Oli was not invited to Delhi more than a year into his term and travelled to Beijing instead. Initially, Mr. Shah had also given New Delhi some worrying moments, with comments about boundary disputes, and a refusal to confirm a meeting with Foreign Secretary Vikram Misri, which led to the cancellation of his visit in May. Subsequently, some of the realities of governance, particularly after the massive flash flood in August, have warmed Delhi-Kathmandu relations. Following talks with Prime Minister Narendra Modi, Mr. Shah thanked India for its immediate and unstinting support in the flood relief and rescue operations. Mr. Modi’s praise for Mr. Shah indicated the forging of a personal rapport on which to build the road map for ties. India announced a Development Cooperation Package — a generous ₹15,000 crore (about $1.6 billion) — for reconstruction and long-term development in Nepal. Another announcement, to offer Nepal access to Indian ports in Gujarat and Odisha, will go a long way in helping land-locked Nepal, particularly given the bilateral bad blood over the 2015 trade blockade. The inauguration of bridges, roads, trains, energy and fuel lines, an Integrated Check post (ICP) and an agreement to set up an IIT (its third offshore campus) are all signs of concrete plans to improve relations, as outlined in the joint statement titled “Viksit Bharat and Samunnat Nepal: Re-imagining the Partnership”.
+
+Despite some of the heated rhetoric over ties, both sides appeared to have decided to deal with areas of differences in a less public manner. Mr. Shah’s persistent comments on the boundary dispute, and long-pending request for overflight access for two debt-ridden airports, were not dealt with directly, but in a broad reference about resolving “all outstanding matters” through dialogue. While the joint statement also said they would review all bilateral treaties, New Delhi’s contention that the “Eminent Persons Group” (EPG) report that suggested important changes to the 1950 Friendship treaty, is now “not relevant”, will ruffle feathers in Kathmandu which has been keen to update the treaty. The government must remember that along with the grand gestures, it is important to keep a close eye on Nepal’s grievances as well. If disregarded, these can trip up the broader progress and conception of the bilateral relationship, as spelt out by both leaders.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/beyond-generosity-on-india-nepal-ties/article71738937.ece)
+
+---
+
+### Spinning wheels: on urban mobility in Karnataka
+*The Hindu · Editorial*
+
+While Karnataka has spent years disputing motorcycle owners’ right to carry paying passengers, Bengaluru — with the dubious distinction of having one of the world’s highest travel times per unit distance — struggles with inadequate public transport capacity and lacklustre intermediate options. The Supreme Court ruling on November 20 to dismiss Karnataka’s appeal was thus straightforward, allowing motorcycles to be registered as transport vehicles. The State has often called bike taxis unsafe, yet has not improved the prospects of safer options. Earlier this year, the Centre for Science and Environment estimated the number of buses in urban centres nationwide to be 70% short of the Ministry of Housing and Urban Affairs benchmark and that 400 cities with populations between a lakh and 10 lakh altogether lacked organised bus services. In March, the BMTC reported a fleet of around 7,000 buses in Bengaluru, versus the 13,000 by 2025 envisaged by the Comprehensive Mobility Plan. Expanding the number of Metro stations also creates more demand for travel to and from stations, but the operating costs of the public transport corporation expected to serve that demand are not covered by the resulting increase in rail ridership.
+
+Overall, Karnataka has struggled to set up a consistent transport policy. An expert committee recommended against bike taxis in Bengaluru for first- and last-mile connectivity and in favour of better walking infrastructure and bicycle rentals in 2019, only for the State to launch the electric bike-taxi scheme in 2021, then rescind it in 2024 over safety concerns and drivers’ disputes. The market for short booked journeys is also dysfunctional. But while allowing bike taxis could temper autorickshaw fares, the State must investigate drivers’ operating costs, the difference between the paid and the received amounts, and prevent large platforms from exploiting the market. Finally, while the Union Road Transport Ministry has reported that 46.2% of all road deaths involved two-wheeler users, two-wheelers’ safety relative to autorickshaws and cabs, by the number and distance of journeys, is unclear. The State should require aggregators to report injuries and fatalities and investigate the consequences of drivers’ earnings being linked to the number of trips undertaken. The Union government’s 2025 Motor Vehicle Aggregator Guidelines already address passenger security, fares, and insurance while allowing States to authorise privately registered motorcycles through aggregators. Karnataka should exercise this additional power. A large national programme is required to address funding for public transport, which is necessary even when it is not immediately profitable.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/spinning-wheels-on-urban-mobility-in-karnataka/article71738822.ece)
+
+---
+
+### Who pays for climate change is a federal question
+*The Hindu · Opinion*
+
+In the 1990s, several U.S. States sued the tobacco companies to hold them accountable for the health hazards of cigarettes. This litigation led to a 1998 Master Settlement Agreement, under which the companies committed at least $206 billion over 25 years as compensation for the harmful effects of cigarettes. Inspired by the famous tobacco litigation case of the 1990s, a small county called Boulder in Colorado, U.S., initiated a major litigation under the State law, in 2018, to fix liability on major oil and gas companies for the impact of climate change.
+
+The suit claimed compensation for recovering the costs of coping with wildfires, floods and heat by building a case on public nuisance and consumer protection. In May 2025, the Colorado Supreme Court allowed the suit to proceed, holding that federal law did not pre-empt Boulder’s claims for damages under State law.
+
+The oil companies, now backed by the Donald Trump administration, argue that federal law, including the Clean Air Act and the very structure of the American Constitution, forbids a State from applying its own law to global emissions.
+
+They argue that a State cannot use its own tort law to make companies pay for harm from global emissions. This case has now ended up in the U.S. Supreme Court which recently heard arguments on the most important question in climate governance: who pays for climate disasters, and whether States have a role in formulating climate policy?
+
+Since climate change is an international phenomenon, the issue in the U.S. has a direct nexus with India. When climate disasters affect India, its States are left to its own devices, with little help from any direction. When landslides tore through Mundakkai and Chooralmala in Wayanad on July 30, 2024, the Keralam government reported 298 deaths and 32 missing people. The Union took nearly five months to declare the tragedy a “disaster of severe nature”, and when assistance for rehabilitation came, it came not as a grant but as a 50-year interest-free loan of ₹529.50 crore. After the 2023 floods in Himachal Pradesh, the State government pegged the losses at ₹9,042 crore. Even though the Union Government released ₹633.73 crore in NDRF assistance for immediate relief, it sanctioned only a meagre ₹2,006.40 crore for recovery and reconstruction plan nearly two years after the disaster. In Punjab, after the floods of August and September 2025, the State government demanded ₹20,000 crore in immediate relief. The Union government announced only ₹1,600 crore as the relief. Like in Boulder, the governments that bear the costs of climate disasters are not the ones that control the climate policy.
+
+[Read full article](https://www.thehindu.com/opinion/lead/who-pays-for-climate-change-is-a-federal-question/article71739568.ece)
+
+---
+
+### DC Edit | AI Pantheon: Why White House Forgave Nvidia Chief
+*Deccan Chronicle · Editorial*
+
+This is the new America. It has been metamorphosing into that since Jan. 2025 when President Donald Trump was sworn in to his second term. It is only in America, run by a real estate mogul turned politician, that a corporate honcho who was asked to leave his company not for his indiscretions with women but for breaching national security could have been reinstated in a matter of 11 days with everyone rejoicing over it.Jensen Huang is back at the top of Nvidia as president and CEO and those dabbling in the stock market must be pleased what with Nvidia stocks that were in free fall rising 31 per cent in one trading session and taking AI stocks along for a breezy ride into the stratosphere from where it cannot afford to fall.
+
+In this imbroglio caused by the selling of chips to China with a unique solution of an executive being recalled, it is no insignificant fact that the US President is said to hold $600 million in Nvidia stock. And yet Mr Trump could be said to have been acting for the whole community of stockholders, including people with 401k pensions, traders who use the bourses like a casino and investors with intentions well-meaning enough to warrant a measure of protection.
+
+“Too big to fail” may have entered the lexicon of the world of high finance during the subprime crisis of 2008, which led to a stock market crash, and which saw several banks and financial behemoths in the money lending business being rescued by the US government with trillions of dollars. The Nvidia CEO is the first human being who is being propped up now into the same category of institutions whose fall may be too damaging to the whole of a capitalist society with huge repercussions for the rest of the world as well.
+
+Lost amidst a much-hailed recall action is the fact that the US, including politicians at its highest echelons, allowed sales of $12 billion worth advanced Nvidia chips to China which has been unable to replicate them and hence was lagging in the AI race. However, also considering that Mr Huang was no mere CEO of a multi-trillion-dollar company overseeing production of high-power computing chips but was also the architect of a series of circular financing arrangements propping up the entire AI industry through the data centres it needs, he could not simply be put out to grass for an overactive libido.
+
+Never mind that one of his paramours was in touch with the Chinese establishment rather prone to spying on the world and actively helped it circumvent chip sales restrictions through her company in Singapore. Also to be ignored were his ways of operating — finalising deals with a mere handshake and mistreating employees with a sadistic touch. While CEO comebacks are not unknown — as in the case of Steve Jobs at Apple and Sam Altman at OpenAI — no one had sexual baggage nor national security infringements to carry.
+
+The move has pleased the stock markets with America’s S&P 500 jumping 4.7% and Nvidia gaining enough to raise market capitalisation by $952 billion. That has pleased the White House, the prime mover behind Mr Huang’s comeback, the capitalist economy, the AI industry and, if you believe Mr Trump, the world itself. Only time will tell if this AI-induced super-optimism is a bubble and AI changing the world is a myth. Right now, principles are being ignored as AI is worshipped as god of the economy and Jensen Huang the demigod who regained his place in the pantheon.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-ai-pantheon-why-white-house-forgave-nvidia-chief-2007688)
+
+---
+
+### DC Edit | Congress Gets Real In UP
+*Deccan Chronicle · Editorial*
+
+The seat-sharing talks between the Samajwadi Party (SP) and the Congress have started off on a realistic note with the Congress dropping its ambitious plans to contest half the seats in the 403-member Assembly and the SP making an offer based on ground-level realities. It is now for the parties to reconcile to the facts, and winnability, and come to an understanding ahead of the poll, slated to be held in February next year.
+
+The SP-Congress alliance has a chance to put up a realistic fight against the BJP which is seeking a hat-trick win in the most populous state in the country. The signs the saffron party is gaining from the grassroots, as reflected in the various polls are not all that rosy, giving the Opposition the confidence to enter the field with some grit.
+
+The Congress’ track-record of working with allies is not all that great except in a few states such as Kerala, where it has run coalitions for decades. Worse, the party has made its allies complain that it was responsible for the defeat they faced despite their individual scores in many a state election. This stems from the fact that the grand old party often snatches a share of seats that is much beyond its legitimate right from its partners. No alliance can work unless the Congress chooses to keep off the practice this time around.
+
+The SP has not yet showed an inclination to give into this tactic and has instead stood its ground. The party apparently has communicated to the Congress that the electoral arithmetic in the state could work for the alliance as it can cover the demographic spectrum smartly and beat the BJP in its own game. It is up to the Congress to take the right cues and act accordingly, instead of playing the big daddy of the house which it is no more, at least not in UP.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-congress-gets-real-in-up-2007675)
+
+---
+
+### Behind The Doval Summons: Legal Battle Or Contest For Influence?
+*Deccan Chronicle · Opinion*
+
+In spying and espionage, power rarely announces its arrival, or begins instantly. It accumulates over decades, via access, networks and intelligence-sharing. But when a participant becomes too influential, the adverse message can arrive from an unexpected quarter. The system is inevitably larger than an individual. It is in this context that one can view how an American courtroom has opened a gaping hole in India’s national security ecosystem. Summons issued against national security adviser Ajit Doval, and former RAW chief Samant Goel in the Gurpatwant Singh Pannun case comprise civil proceedings but the implications are wider.
+
+In New Delhi, there is talk of a turf battle between external affairs minister S. Jaishankar and Mr Doval. Prime Minister Narendra Modi is aware of the differences between the two. Mr Jaishankar represents the country’s diplomacy and foreign policy. He enjoys a reputation among the world’s diplomats and foreign ministers. Mr Doval is central to Mr Modi’s national security strategy. In a conclave in the capital in March 2025, Mr Doval brought together US intelligence director Tulsi Gabbard, Canada intelligence chief Daniel Rogers, and the then Britain MI6 chief Richard Moore. Others included Russia SVR chief Sergei Naryshkin, Russia FSB director Alexander Bortnikov, France DGSE director Nicolas Lerner and Saudi Arabia intelligence chief Khalid bin Ali Al Humaidan. Both Mr Jaishankar and Mr Doval enjoy proximity to global and Indian oligarchs.
+
+Enter Gurpatwant Singh Pannun, an American citizen and Khalistan separatist. He accused Mr Doval and Mr Goel of plotting his assassination in New York in 2023. The US court authorised summons on Mr Doval and RAW’s Goel through Indian channels. India rejected the allegations as fabricated and malicious. There is no evidence that Washington funded Pannun or engineered the lawsuit. But the timing has got tongues wagging. Is it only a legal battle, a diplomatic warning or a covert contest for influence? After all, sections in the US seem uncertain about the future of Indian politics.
+
+Bureaucracy’s political compass
+
+A crucial issue hangs over the heads of senior bureaucrats in New Delhi. Given the recent unpredictable political developments and forthcoming elections in 940 Assembly constituencies across seven states in 2027, the civil servants await further twists and turns in the changing political equations. For them, the electoral cycle is not merely a contest between political parties. It is a test of governance, administrative continuity, postings, and accountability. The five states of Uttar Pradesh, Punjab, Uttarakhand, Goa and Manipur, which are due for polls early next year, account for 690 seats. Gujarat and Himachal Pradesh, which will follow suit later, for the rest.
+
+The Election Commission of India directed the five states to transfer election-linked officers posted either in their home districts or having completed three years in a district. Chief secretaries and DGPs must report compliance. At the Centre, the extensions of Cabinet Secretary T.V. Somanathan and Home secretary Govind Mohan by a year each reinforced continuity and diminished uncertainty at the top apart from counters related to succession and career progression of the juniors. Mr Somanathan urged senior secretaries to stop “playing safe”, delegate authority, and build trust in junior officers. He reminded them that civil servants must remain neutral, and learn administrative skills from the political leaders.
+
+The deeper apprehension among the bureaucrats is not only about possible regime changes. It is the ambiguity about where authority will reside, whose orders will prevail, and whether recorded professional advice will protect an officer. Hence, they are watching the environment for signals, and not endorsements. In this climate, files may move cautiously, decisions climb higher and career calculations overshadow initiative. It is a test for the bureaucracy. They can take responsibility and serve the Constitution or get busy anticipating the next political cues.
+
+Green Belts: Who guards the guardians?
+
+Of Haryana’s 41 Indian Forest Service cadre officers, 32 were caught in a reshuffle after the felling of around 2,000 trees in the Alipur-Shikargah Reserved Forest. The recovery of 19 truckloads of timber from Punhana, which weighed 2,724 quintals, reveals the scale. The cosy security of a state posting turned into a career risk. It is unclear if the scale of the reshuffle represents an administrative exercise, or an attempt to contain a scandal that shook the forest department. Chief conservator of forests Subhash Chander Yadav, a 2010-batch forest officer, was shifted from Gurugram to headquarters and the central circle, Rohtak. His transfer came after he submitted an earlier report that flagged the irregularities. At the top of the administrative level stands Sudhir Rajpal, IAS, additional chief secretary of Haryana’s environment, forest and wildlife...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/behind-the-doval-summons-legal-battle-or-contest-for-influence-2007677)
+
+---
+
+### The Siang Dam Deadlock: Security vs Domestic Fears
+*Deccan Chronicle · Opinion*
+
+The mighty Siang River in Arunachal Pradesh is becoming the centrepiece of a complicated geopolitical and domestic dilemma. On one side is an increasingly assertive China, building what could become the world’s largest hydropower project on the Yarlung Tsangpo in Tibet, just before the river enters India. On the other is India’s ambitious response: the proposed 11,200 MW Siang Upper Multipurpose Project (SUMP) in Arunachal Pradesh. And caught in the middle of this strategic contest are the indigenous communities whose lives, livelihoods, history and cultural identity are inextricably intertwined with the river.
+
+This is no ordinary debate over a hydroelectric project. It is about India’s strategic interests in the eastern Himalayas. China’s intentions cannot be viewed in isolation from its larger territorial ambitions. Beijing has consistently maintained that Arunachal Pradesh is part of what it calls South Tibet or Zangnan. It has repeatedly issued lists of purportedly standardised Chinese names for places within Arunachal Pradesh, including a significant exercise in May 2025 covering 27 locations. India’s rejection of those claims has been unequivocal.
+
+The latest development on the Yarlung Tsangpo is particularly significant. China formally began construction of its massive hydropower project in July 2025 at the river’s Great Bend in Medog County. The project is expected to comprise five cascade power stations and generate approximately 300 billion units of electricity annually. While Beijing maintains that the project is intended to meet its energy requirements and promote clean power, downstream countries have legitimate reasons to worry about its implications.
+
+For India, the concern goes beyond the possibility of disruption to water flows. An upstream country controlling a river that sustains millions downstream possesses considerable strategic leverage. Questions about sudden releases of water, seasonal variations in discharge, sediment movement, ecological disruption and the availability of hydrological data cannot be wished away.
+
+There is another compelling reason why India cannot afford to remain passive in the matter of the Brahmaputra’s waters. India and China have no comprehensive, legally binding water-sharing treaty governing the utilisation of the Brahmaputra. Their cooperation has instead rested on limited memorandums of understanding, primarily concerning the exchange of hydrological information during the flood season. Even this arrangement has suffered interruptions. The Brahmaputra data-sharing MoU expired on June 5, 2023, and hydrological data sharing was suspended from that month.
+
+Hence, India must demonstrate that it is an active and responsible riparian nation with legitimate interests in the utilisation and management of the river’s waters. Developing its own hydropower and water-storage infrastructure is not simply an exercise in generating electricity. It is also about establishing India’s capacity to harness its share of the river’s resources, strengthen its water security and protect its downstream interests.
+
+The proposed 11,200 MW SUMP is thus envisaged not merely as a power-generation facility but also as a possible instrument for water storage, flood moderation and managing the consequences of China’s upstream interventions. Arunachal Pradesh chief minister Pema Khandu has argued that around 65 per cent of the Siang’s water originates in China and that India cannot afford to remain unprepared for developments upstream.
+
+But there is another side to this story. For the indigenous Adi people, the Siang is not simply a river whose waters can be harnessed to generate electricity. It is Aane Siang — Mother Siang. It is woven into their collective memory, traditional belief systems, agriculture, folklore and identity. To speak of submerging ancestral villages, agricultural fields and sacred spaces is, therefore, to speak of something much deeper than the displacement of households.
+
+The opposition led by organisations such as the Siang Indigenous Farmers’ Forum and sections of the Adi Bane Kebang is rooted in these anxieties. The fear is that a project of this magnitude could submerge villages, destroy livelihoods, disrupt established social structures and permanently alter the cultural landscape of the valley.
+
+The Adi community has its own traditional institutions of decision-making and these institutions are not ornamental remnants of a bygone era. They are an important expression of community authority and collective consent. Therefore, the people who stand to lose their homes, land and cultural inheritance must have a meaningful place at the negotiating table.
+
+This is where the government’s handling of the project becomes critical. There is a welcome acknowledgement by Mr Khandu that the concerns of the people must be heard. In his open letter of November 3, he addressed the protesters as his Adi brothers and assured them that their voices, homes, land and Aane...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/the-siang-dam-deadlock-security-vs-domestic-fears-2007691)
+
+---
+
+### Climate impasse and the missing urgency
+*Deccan Herald · Editorial*
+
+The collapse of the UN COP31 climate summit in Antalya, Türkiye, was unexpected, although there were misgivings about its outcome, given the conflicting interests at play.
+
+There have been near-breakdowns in past events, such as COP15 at Copenhagen, but extended sessions and hard bargaining have somehow salvaged those summits.
+
+The Antalya talks broke down on the issue of fossil fuels; this was the first such failure after the adoption of the Paris Agreement. While the European Union (EU) and many smaller countries opposed an agreement that did not mention transitioning away from fossil fuels, oil-producing countries led by Saudi Arabia did not want any such mention.
+
+Most countries find it difficult to look at climate change in isolation from their own interests.
+
+The rejected cover text acknowledged that warming will pass 1.5° Celsius above pre-industrial levels and 2.6° Celsius even after fully implementing national plans. There was no dispute over these projections, which signal a serious impact on life on Earth.
+
+The text also estimated that developing countries need over $305 billion a year to adapt until 2035. But the meeting, once described as the “Implementation COP”, could not get participants to agree on global climate action pathways. The oil-producing countries were unwilling to make a commitment to move away from oil.
+
+'Unbridgeable red lines': Fossil fuel, strained diplomacy & what else led to failed climate talks at COP31The developed world, including the EU, which insisted on the transition, also refused to extend committed financial support to developing countries and did not agree to include a $120-billion annual adaptation finance target for 2035 in the draft agreement. This was as much a failure as the disagreement over fossil fuels.
+
+India aligned with countries that did not want any explicit reference to oil in the cover text. The country is aware that at its present stage of development, and with its large population, it cannot do without hydrocarbons. But India is also a large producer of clean energy. It has stood with countries that wanted a balance between climate ambition and developmental needs. It is the contradiction between these two priorities at the implementation level that invariably derails climate talks.
+
+But gains do emerge even amid the failures.
+
+As the summit failed to produce an overarching agreement, countries adopted separate decisions in select areas such as adaptation and decided to carry over the unresolved issues to COP32 in Addis Ababa, Ethiopia, in 2027.
+
+But these steps still appear detached from the inescapable possibility of climate change outpacing negotiations to counter it.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/climate-impasse-and-the-missing-urgency-4230006)
+
+---
+
+### Value ASHA work, honour the promise
+*Deccan Herald · Editorial*
+
+The day-and-night protest by Accredited Social Health Activists (ASHA) at Bengaluru's Freedom Park since November 17 reflects the disconnect between their contribution to public healthcare and their working conditions.
+
+Their demands for remuneration, timely payments, and social security are neither new nor unreasonable. That successive governments have failed to address them despite repeated assurances makes the impasse unfortunate. Karnataka's 41,000 ASHA workers link communities with the public health system.
+
+They track pregnancies, facilitate institutional deliveries, monitor newborns, mobilise families for immunisation, distribute medicines, and assist in disease surveillance. Their work during the COVID-19 pandemic underscored the importance of healthcare workers. Yet they continue to be treated as honorary volunteers rather than public health professionals, even as their responsibilities expand.
+
+The trigger for the agitation is the demand to raise the fixed monthly honorarium from Rs 5,000 to Rs 15,000. Although performance-based incentives take average earnings to around Rs 8,000, these payments are neither assured nor proportionate to the workload.
+
+Workers are also seeking timely payment of incentives and arrears, retirement benefits, and maternity and medical leave. Their grievances are compounded by expectations for app-based reporting without support, such as smartphones. Their refusal to accept another verbal assurance is understandable.
+
+Karnataka minister U T Khader urges ASHA workers to wait for 12 days, promises ‘good news’An earlier protest was called off in January 2025 after a promise to raise the honorarium to Rs 10,000, a commitment that remains unfulfilled. The government, however, faces genuine constraints. Regularising their services would create substantial recurring expenditure and could trigger similar demands from Anganwadi workers, mid-day meal cooks, and other scheme-based workers.
+
+Their community-based selection and local responsibilities also do not fit neatly into conventional government service structures. Even so, these challenges cannot justify a system that relies on poorly paid workers to deliver public services.
+
+A pragmatic solution need not begin with wholesale regularisation. The government should honour its earlier commitment by raising the honorarium to Rs 10,000, while laying out a roadmap towards the workers' demand for Rs 15,000. Clearing arrears, guaranteeing payments by a fixed date, providing digital tools, and introducing retirement and health benefits should follow.
+
+The Centre, too, must support a revision of incentives under the National Health Mission. A system that depends on ASHA workers for everything from maternal care to disease surveillance cannot continue treating them as an afterthought.
+
+The government must move beyond periodic assurances and deliver a settlement backed by policy and funding. Anything less will deepen distrust and weaken the foundation of community healthcare.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/value-asha-work-honour-the-promise-4230005)
+
+---
+
+### Behind the Shenzhen bonhomie, the contest for Afghanistan continues
+*Deccan Herald · Opinion*
+
+In the Western commentariat, Marc Chapman, the London-based Bloomberg Opinion columnist, wrote that at its core, the trilateral summit of the United States, Russia, and China at Shenzhen on November 19 was evidence that Washington is increasingly treating not only Beijing but also Moscow as peer powers. Its outcome, he added, marked the passing of the old, liberal world order. Calling the summit “a major political win” for Russian President Vladimir Putin, Chapman left a sobering thought that the brief joint statement issued after the summit, nonetheless, shows that the three leaders “had not carved up the world, Yalta-style.”
+
+In reality, the very idea of ‘sphere of influence’ is an absurd notion. Pray, is Bangladesh within India’s sphere of influence? What about Iran, a country with fiercely independent foreign policies? The same can be said about Afghanistan.
+
+Russia and Pakistan have been cozy with each other ever since Islamabad forced the vacation of the US occupation of Afghanistan. But Pakistan, which is back in the US’ favour, is now beginning to resent the deepening ties between the Taliban authorities and Moscow. A commentary by RT, a Kremlin-supported media outfit, speculated that Pakistan’s unease could be attributed to the Durand Line issue and Moscow’s intentions.
+
+Historically, Moscow regarded Afghanistan as part of Central Asia, whose security and stability impact Russia’s Muslim Republics. The mutual animosity between the Taliban and Pakistan is such that attempts by Russia to reconcile the protagonists by hosting a meeting within the ambit of the so-called Moscow Format on October 5 ended inconclusively.
+
+The Kremlin’s special representative for Afghanistan, Zamir Kabulov, has since clarified that Moscow is prepared to assist “either independently or in conjunction with our other partners”, singling out China as partner while underscoring that any Western participation is “out of the question.”
+
+Afghanistan’s foreign minister Amir Khan Muttaqi stayed on in Moscow after the regional meet and met with Russia’s security czar Sergei Shoigu on November 6. Shoigu told Muttaqi that Russia is interested in a “united and peaceful” Afghanistan and is ready to co-operate in strengthening Kabul’s counterterrorism potential through logistical and expert assistance, as well as through contacts between the intelligence and security agencies of the two countries.
+
+The sense of urgency on the Russian side is palpable given the acute limitations to the Taliban government’s capacity to counter the Islamic State-Khorasan (ISIS-K). In an interview with Tass news agency last Thursday, Alexander Zuev, Acting UN Under-Secretary-General for Counter-Terrorism, warned that ISIS-K is rebuilding its operational capabilities and has gained access to modern military equipment, including drones, raising concerns about potential attacks inside and beyond the country.
+
+It is well-known that ISIS fighters were airlifted to Afghanistan from Iraq by helicopters without markings. Evidently, the covert Western support for ISIS-K is continuing. A recent UN Security Council report identified ISIS-K as the most serious security threat to the Taliban authorities and the wider region. Citing information provided by regional members, it said the ISIS-K cadre are also receiving training in urban combat and drone operations.
+
+The worsening security situation is delaying the implementation of Russia’s Afghan projects, especially the construction of the Trans-Afghan Railway and an oil refinery by several years. Russia’s Deputy Prime Minister Alexey Overchuk led a 70-member delegation to Kabul on November 12 on a working visit to spur trade and economic co-operation. From the Afghan side, Mullah Baradar, who has emerged as a powerful figure in the Taliban hierarchy, conducted the negotiations. Overchuk underscored that Moscow is prepared to establish “a serious and long-term presence” in Afghanistan and build a “pragmatic dialogue”.
+
+Russia’s worst-case scenario could be that the US-Turkish-Pakistan axis may attempt a regime change in Afghanistan, as happened in Syria two years ago, by navigating the ISIS-K. Türkiye and Pakistan are traditional allies of the US with a shared history of interference in Afghanistan.
+
+When a Russian journalist close to the Kremlin circles asked Putin last week in Shenzhen why he was heading “in the middle of the night” for Tajikistan after the APEC summit, he candidly admitted that it was “primarily” about Afghanistan.
+
+From Shenzhen, a mixed message: Peace rhetoric amid global power rivalriesSuo moto, Putin added: “As you know, we have the 201st military base there, which, in my opinion, is a very good, real guarantor of security in the region. And we need to talk about this issue; that is, we need to discuss security issues, including the continued operation of this base.”
+
+The intriguing part of this choreographed media exchange was that Putin was also prompted by the Russian journalist, inter alia, to acknowledge that in another setting 25 years ago, he happened to be in Shanghai for another APEC summit where he had met with then US president George W Bush, from where he flew directly to Dushanbe “in the middle of the night” on October 21, 2001, to discuss Afghanistan. That was in the wake of al-Qaeda’s 9/11 attacks.
+
+Bush announced after that meeting that the US and Russia were moving "beyond the Cold War" as allies against a common threat. And the two leaders agreed on a Joint Declaration on Combating International Terrorism. But history shows that Cold War rivalries resurfaced shortly thereafter. In fact, it was Bush who ordered the 2003 invasion of Iraq, an old Soviet ally, and who rammed through the NATO statement at the alliance’s summit in Bucharest in 2008 that Ukraine and Georgia "will become members of NATO", opening Pandora’s box. Putin, who was invited to the Bucharest summit as a special guest, protested but in vain. Bush personally intervened with German Chancellor Angela Merkel, who feared — with great prescience — that such a provocative statement would jeopardise European security.
+
+Afghanistan is nobody’s sphere of influence. But it has a severely contested geography. Incidentally, during the October-November period, there have been two high-level visits to Central Asia by top US diplomats — Secretary of State Marco Rubio in October and Deputy Secretary of State Christopher Landau in November (just before the Shenzhen summit).
+
+The bonhomie at the Shenzhen trilateral notwithstanding, the heart of the matter is that the US is unwilling to purge its hegemonistic instincts. In this respect, there is no daylight between the US and its European allies. It is happening in the Black Sea, Transcaucasia and Caspian and in Central Asia.
+
+A few days back, the EU joined the US in sanctioning Unistream, a Russian bank through which Tajik migrant workers remit their savings home. The remittances account for 56% of Tajikistan’s GDP. Through such crude pressure tactics, the US and EU expect Dushanbe to downsize its ties with Moscow.
+
+Again, the timing of the massive missile strike at the Kerch rail bridge connecting Crimea to Russia, which was meticulously planned, coincided with the Shenzhen trilateral. Wasn’t Trump aware? The missiles were provided by the Netherlands, while Starlink technology fine-tuned the precise targeting. An unprecedented number of NATO spy planes, including American, appeared in the skies above the Black Sea to monitor the attack.
+
+M K Bhadrakumar is a former diplomat.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/behind-the-shenzhen-bonhomie-the-contest-for-afghanistan-continues-4230373)
+
+---
+
+### India’s holiday travelers face another airline crisis
+*Deccan Herald · Opinion*
+
+Last December, India’s airports were a chaotic mess as IndiGo, the nation’s largest carrier, canceled thousands of flights because of a pilot shortage. This year, it's the turn of another airline to leave passengers stranded — SpiceJet Ltd.’s cash crunch is so severe that it is unable to operate more than half of its scheduled journeys, according to The Economic Times.
+
+New Delhi ended its monopoly over the domestic skies in the 1990s, which is when SpiceJet — then known as ModiLuft — took off. That arrangement with Deutsche Lufthansa AG unraveled quickly. In 2005, a former government adviser and businessman Ajay Singh took charge of the defunct airline, revived and sold it five years later, only to reacquire it in 2015. Such cycles of boom, bust and rebirth are hardly unusual in aviation. What is harder to explain is why India still allows unviable airlines to stagger toward collapse in such a disorderly fashion.
+
+For the two dozen or so that went belly up before 2016, there was an excuse. India lacked a modern bankruptcy regime capable of rescuing viable assets from companies drowning in unserviceable debt and putting them in the hands of owners willing to inject fresh equity. But even with an insolvency law in operation for the past decade, not one airline firm has undergone an overhaul while continuing to fly. Jet Airways collapsed in 2019, Go First followed in 2023.
+
+Nearly half of US airline capacity at the time of the Sept. 11, 2001 terror attacks passed through Chapter 11 bankruptcy in the years that followed, allowing carriers to restructure their debt without missing a beat on their day-to-day operations. China, on the other hand, treats its three big state-run carriers as prized national infrastructure, supporting them through turbulence deep and shallow. Even when recasting the overleveraged HNA Group Co., the private entity that once controlled more than a dozen airlines, Beijing ensured that the planes kept flying. During Covid-19, authorities effectively moved into the pilot’s seat at Cathay Pacific Airways Ltd., ensuring that Hong Kong wouldn’t surrender its global connectivity to rivals — mainly Singapore.
+
+In trying to find a middle ground between American-style restructuring and Chinese-style government intervention, India has ended up with the worst of both worlds: A withering of state capacity alongside the rise of a powerful private duopoly.
+
+The one silver lining to IndiGo and Air India — the former national carrier now owned by the Tata Group — controlling 90%-plus of the market is that SpiceJet’s troubles won't trigger a systemic crisis. Much of the attrition in what was once India’s second-largest local airline has already been absorbed by bigger rivals bulking up. SpiceJet’s market share of nearly 4% at the start of the year had dwindled to 0.6% by September.
+
+Yet it was only last week that India’s aviation watchdog asked SpiceJet for an explanation — and a plan for bringing its fleet, the bulk of which is grounded, back into service. More troublingly, while giving the airline a week to explain itself, the regulator allowed it to continue taking new bookings — even as passengers grappled with widespread disruptions and delayed refunds. A pilots’ body, meanwhile, has asked the Directorate General of Civil Aviation for an urgent financial and safety audit of the crisis-hit carrier.
+
+Authorities still seem to be hoping that Chairman Singh, SpiceJet’s controlling shareholder, can engineer a last-minute revival, this time against the added headwind of high oil prices caused by the war in Iran. Last week, the airline’s board approved a 55 billion rupees ($592 million) equity-raising plan. The company in a statement said it was in talks with new investors, without identifying the would-be rescuer. In August, it narrowly averted bankruptcy when — out of eight insolvency petitions brought by aircraft lessors — it settled with one. Other creditors were told their pending legal challenges would be heard afresh.
+
+That brings us to India’s peculiar deference to “promoters,” as the controlling shareholders are known in local securities law. Too often, stakeholders such as employees, vendors, or financial creditors find their claims to be subservient to the enterprise builder’s desire to wield control despite having a sliver of risk capital at stake, and sometimes helped by claims of political proximity. As a result, the normal hierarchy of capitalism is turned on its head. Equity, which is supposed to absorb losses first, is kept alive long after the underlying enterprise has ceased to be viable. Jet Airways remained listed long after its final flight had receded more than five years into the rearview mirror.
+
+The consequences of this warped priority may be manageable in more stable industries, but definitely not in aviation. Aircraft purchase or lease costs are high and denominated in dollars, while domestic carriers’ revenue is in rupees. Although India is one of the world’s fastest-growing markets for air services, exorbitant fuel levies and the ever-present risk of currency depreciation make the economics precarious.
+
+The commercial logic will only get tougher. Once high-speed trains arrive in a meaningful way, airlines will face greater price competition on some of their busiest routes.
+
+That leaves policymakers with a choice. They can encourage well-capitalized conglomerates willing to commit the kind of patient capital the Tata Group has poured into aviation, while strengthening corporate governance and making bankruptcy work as it was intended. Or they can preserve a system that allows “promoters” with thin equity cushions to flourish in good times and eventually disappear when the going gets tough — leaving creditors with losses and angry passengers stranded at airports.
+
+[Read full article](https://www.deccanherald.com/opinion/indias-holiday-travelers-face-another-airline-crisis-4230451)
+
+---
+
+### Trump and Huang put themselves above national security
+*Deccan Herald · Opinion*
+
+By Timothy L. O'Brien for Bloomberg
+
+It would have been a treat to be a fly on the wall when President Donald Trump contacted Nvidia Corp.’s directors and persuaded them to reinstate Jensen Huang as the troubled company’s chief executive officer less than two weeks after he resigned.
+
+Did he threaten them? “I’ll have every federal agency I control investigating you. Have you heard of Stephen Miller?” Or did he enlighten them? “You all said last week that you weren’t reinstating Jensen, but I know you want him back. Reel him in and blame me.” Trump also relied on Vice President JD Vance to lobby the board, according to the New York Times and Bloomberg News. The White House reportedly closed the deal by assuring Nvidia’s directors that Huang hadn’t imperiled national security or broken the law.
+
+And what was in it for the president? Money is usually the first answer to that question. Trump and some of those he leans on for advice owned Nvidia shares or were otherwise invested in the company’s success (particularly Commerce Secretary Howard Lutnick and his family). Greed is a powerful motivator in Trumplandia, even when wrapped in promises of economic competitiveness and innovation.
+
+A red bra, Nvidia flag and 'bloodied' CEO: Trump hails Jensen Huang's Nvidia comeback with AI photo Still, there is more to consider beyond Trump’s wallet — and his willingness to simply disregard the thumping he received in the midterm elections that arose, in part, from voters’ disgust with the grift and corruption riddling his White House.
+
+After all, the whiplash from Huang’s boomeranging was already jarring enough before Trump chose to cap his successful Nvidia takeover by taking to Truth Social on Monday to have some frat house fun with all of it. He posted a doctored photo of Huang’s face imposed atop the president’s body after he survived an assassin’s bullet in Butler, Pennsylvania, in 2024, standing defiantly on a stage with his fist raised. The HuangTrumpster is waving a red bra over his head in front of an Nvidia flag, signifying ... what, exactly?
+
+It’s certainly not conveying sympathy for all of the women who work at Nvidia and have to resign themselves to the fact that their boss slept with at least one of their co-workers and a suspected Chinese spy. It may be signaling a shared joie de vivre, given that Trump himself is a sexual predator who bridles at being held accountable for his predations. “I see you, Jensen, and I raise this Red Brassiere Flag in your honor.” It’s certainly a big middle finger to anyone who doubts that the world’s most powerful authoritarian revels in getting whatever he wants whenever he wants it.
+
+The HuangTrumpster is also a pointed comeuppance for those of us (including me) who naively thought that Nvidia’s board couldn’t reinstate Huang amid its own internal investigation into whether he compromised his company for shady chip deals and sexcapades. The Securities and Exchange Commission is also reportedly investigating Nvidia for disclosure violations. Huang meets with members of the House of Representatives on Dec. 1 and testifies publicly before the Senate Banking Committee on Dec. 3. The Justice and Commerce departments both said last week that they’re investigating a Singaporean company, Megaspeed International, which is suspected of helping Nvidia sell its prized computer chips to China. Democrats take control of Congress in January, and presumably will want to see for themselves whether Trump, Huang and Nvidia jeopardized national security.
+
+Jensen Huang is back, and so is the open-weight AI debate in WashingtonAll of this attention, in theory, would suggest that the board be more judicious about putting Huang back in charge. But then consider that the Justice and Commerce departments are run by Trump minions who aim to please, and you could understand why their probes, at least, may not have caused Nvidia’s directors to fret. Trump wanted Huang back, and it was probably hard for the board to envision his appointees operating independently of the Oval Office and observing bygone standards like civic obligations, the greater good and the rule of law.
+
+“I think the board acted really responsibly. Some other board would have fought it, and if they would have fought it, it would have been a disaster, in my opinion,” Trump told CNBC on Monday. Huang, the president also advised, “is going to start off at an almost higher level. He’s apologized for indiscretion, which was unfortunate. That was probably that’s what brought it to such a level because sex sells, fellas.”
+
+So one lesson from this latest turn in the Nvidia scandal is that it is no longer disqualifying for a CEO to have an affair with a suspected spy and a subordinate, compromise national security, and reportedly lie to his board and corporate counsel about his assignations. The same well-compensated directors Huang misled turned around and praised him on Monday for his “candor” when they announced he was back as CEO. They made their move, according to Bloomberg News, without consulting Nvidia’s senior leadership.
+
+Nvidia’s directors also noted upon Huang’s return that based on “input” from “senior levels of the United States government,” they were “confident” that his “reinstatement poses no national security risk.”
+
+Who were the senior ranking federal officials reassuring the board about all of that? Vance, all on his own? Attorney General Todd Blanche? FBI Director Kash Patel? Lutnick? CIA Director John Ratcliffe? Director of National Intelligence Jay Clayton? The president himself? Are each of these officials entirely certain and would any of them have said anything other than what Trump told them to say?
+
+Questions abound, including about what Huang expected to get from Nvidia pledging to donate $25 million to the president’s White House ballroom project.
+
+Legal and constitutional guardrails have disappeared so thoroughly in Washington because Trump wanted them gone. The Republican Party stood by as it happened. Set free, Trump has tried sabotaging or co-opting US institutions — the courts; law firms and law enforcement; the media; schools and universities; the science and healthcare communities; and the military and federal agencies, among others.
+
+America’s corporate ecosystem has also landed on the president’s radar, and companies aren’t any more immune to the degradation that can arrive with Trump’s attention than other institutions he’s targeted. In Nvidia’s case, sound corporate governance is a casualty and national security is in play.
+
+Nvidia is an important and fabulous innovator, and its success matters deeply. Even so, its board shouldn’t have brought Huang back, and it’s shambolic and damaging that it did — even if investors get a stock bump along the way. But this is the Trump era, and the guys at the top of the corporate food chain (and it’s mostly guys) get to do what they want, regardless of the consequences.
+
+[Read full article](https://www.deccanherald.com/opinion/trump-and-huang-put-themselves-above-national-security-4230500)
+
+---
 
 ## 24 November 2026
 
@@ -21921,118 +22225,6 @@ Devdutt Pattanaik is the author of more than 50 books on mythology. X: @devduttm
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/how-both-max-mueller-and-dayanand-saraswati-annoyed-sanatani-orthodoxy-4125703)
-
----
-
-## 26 August 2026
-
-### End the culture of secrecy in judicial appointments
-*The Hindu · Opinion*
-
-The debate over transparency in judicial appointments has resurfaced after Justice Ujjal Bhuyan of the Supreme Court of India recently observed that greater openness in the collegium process would strengthen public confidence and help ensure that merit remains the governing principle. Reformers argue that insulation from political interference was never meant to become insulation from constitutional accountability itself — a question that has remained unresolved for three decades.
-
-The collegium is a judicial creation, not a constitutional one. The First Judges Case (1981) gave the executive primacy in appointments; the Second Judges Case (1993 4 SCC 441) shifted primacy to the collectively formed opinion of the Chief Justice of India and senior judges; the Third Judges Case (1998 7 SCC 739) expanded this into today’s five-member collegium. The reasoning was sound, but close to three decades later, the process remains among the least transparent in any major constitutional democracy: no notification of vacancies, no eligibility matrix, no known methodology for assessing candidates. Even Fali Nariman, credited as an architect of the collegium, later turned critic, recalling that it was ‘not receptive at all’ to the Bar. When the system’s own architects concede that it answers to no one, reform can hardly be called interference.
-
-Resolutions without reasonsOne has the example of the collegium’s own record on disclosure, which has moved backwards, not forwards — perhaps the clearest evidence of an institution retreating deeper into opacity. In October 2017, it began publishing resolutions with brief reasons for elevation, a step then hailed as a foundation for transparency.
-
-That practice thinned steadily, and since November 28, 2024, resolutions have stopped naming which members took part in a decision or disclosing any reasoning at all. In November 2025, (then) Chief Justice of India (CJI) B.R. Gavai confirmed that the collegium had resolved to stop publishing detailed reasons altogether, citing concern that disclosure could harm the career prospects of candidates — a rationale that would equally justify withholding reasons from every rejected litigant.
-
-This cannot be seen in isolation: the Court, in the MediaOne judgment (2023), held that sealed-cover secrecy is ‘antithetical to a transparent and accountable system’. If that principle governs the court’s own cases, why should a lesser standard govern its own?
-
-This absence of due process has fuelled a recurring allegation: that opacity has allowed relatives of sitting and retired judges — the so-called ‘Uncle Judges’ — an easier passage to the Bench than first-generation lawyers with no lineage to lean on. It is important to remember this is not a complaint from critics from outside alone: former CJI R.M. Lodha himself remarked that nearly one in three High Court judges could be an ‘uncle’.
-
-The allegation is not anecdotal: in 2018, the Union government flagged 11 of the 33 names recommended by the Allahabad High Court collegium, noting that they were relatives of sitting or retired judges. A broader assessment in 2025 found that nearly 30% of the Supreme Court judges — roughly 10 of 33 — had familial links to former judges. In January 2025, this issue pushed the collegium to consider barring judges’ kith and kin from consideration altogether (the proposal was discussed and in principle it was agreed to have higher scrutiny if candidates are relatives, but legally a bar was not created). That, in itself, is an admission that without a publicly defined selection matrix, there is no objective way to distinguish a meritorious relative from a beneficiary of judicial lineage.
-
-This is where the judiciary’s own jurisprudence turns inward. Articles 14 and 16 guarantee equality and equal opportunity in public employment. In Secretary, State of Karnataka and Others vs Umadevi (2006 4 SCC 1), the Court held that appointments to public office cannot be made through backdoor methods and must ordinarily follow a transparent procedure open to eligible candidates. If constitutional equality demands openness in the recruitment of a clerk or an engineer, why should the highest constitutional offices remain exempt from comparable standards? To be sure, judicial appointments cannot be reduced to a competitive examination; qualities such as independence and temperament resist quantification. But, qualitative judgment does not require the total absence of procedure. It is prudent to note the irony: the Court itself held, in CPIO vs Subhash Chandra Agarwal (2019 3 SCC 1), that the CJI’s office falls within the Right to Information Act — a logic never extended to how judges are appointed.
-
-What other democracies doOther constitutional democracies show that transparency and judicial independence can coexist. In the United Kingdom, the Judicial Appointments Commission publicly advertises vacancies and conducts structured interviews; in South Africa, the Judicial Service Commission invites nominations publicly and conducts televised interviews. None of these systems is flawless, but each rests on a premise that India has yet to accept: independence is strengthened, not weakened, when citizens understand how judges are chosen.
-
-India’s collegium continues to operate as though it belongs to an earlier era of institutional deference. Political theorist Jürgen Habermas argued that democratic legitimacy ultimately rests on the public sphere — an arena where institutions must justify themselves before informed citizens.
-
-This is not abstract: every judicial appointment is now dissected on social media within minutes. The scrutiny of a CJI’s own remark comparing youngsters to ‘cockroaches’ travelled from placards at Jantar Mantar to trending hashtags within hours; it will not take long for such movements to arrive at the doorstep of the higher judiciary itself. Contempt jurisdiction, built for the newsroom and the courtroom gallery, cannot be used to trifle the scrutiny of this scale and anonymity — it is an alarm bell for a system that still keeps its own appointments behind closed doors and resists constructive criticism. Institutions that embrace reform voluntarily emerge stronger; those that resist witness a slow erosion of the legitimacy they seek to protect.
-
-Reform, not retreatNone of this requires dismantling the collegium; it only requires modernising it. A transparent framework could publish anticipated vacancies in advance, invite applications from eligible advocates, disclose objective eligibility criteria, and record reasoned recommendations explaining why one candidate was preferred over another. Confidential inputs on integrity can remain protected — transparency does not demand disclosure of every file, only openness about the process, the criteria and the reasoning behind constitutional appointments.
-
-This is ultimately not a contest between the judiciary and the executive, nor an attempt to weaken judicial independence. It is a question of whether one constitutional value is allowed to eclipse another. The Constitution promises an independent judiciary, but, equally, promises equality, fairness and reasoned decision-making; values that are complementary, not adversarial. The debate of the 1990s was executive versus judiciary. The debate of this decade is opacity versus transparency. Therefore, unless the collegium accepts that independence without accountability breeds the very distrust it was designed to prevent, this asymmetry between what the judiciary demands of every other institution and what it permits of itself will continue to exist.
-
-Puhazh Gandhi P. is a lawyer and political analyst who writes on the Constitution, commerce and policies
-
-[Read full article](https://www.thehindu.com/opinion/lead/end-the-culture-of-secrecy-in-judicial-appointments/article71389685.ece)
-
----
-
-### DC Edit | Goodbye, Queen of the American South
-*Deccan Chronicle · Editorial*
-
-A vibrant voice with deep emotion has fallen silent. Dolly Parton, diva of country music, has left the stage. The microphone has been muted.Having dished out dozens of chartbusters in her lengthy career during which she composed more than 3,000 songs, the US singer-songwriter breathed her last at 80. Aptly so, since it was in the 1980s that she commanded a broader international audience, even as she began her career early, in the 60s.Growing up as the fourth child in a large family with 12 siblings, Dolly saw poverty from close quarters and wrote about it in quite a few of her songs. ‘Coat of Many Colours’, which deals with a jacket her mother stitched out of rags for her, best describes her home situation with lines that go: “Although we had no money, I was rich as I could be; in my coat of many colours, my mama made for me.”‘Jolene’ is another of Dolly’s tearjerkers in which she makes an emotional appeal to another woman to keep away from her man while earnestly praising her rival’s looks with which she admits she can’t compete. Then there is the soulful ‘I Will Always Love You’ that Whitney Houston took to another level altogether, literally. To go with her coat of many colours, Dolly wore many hats as well. She also acted in a few movies, earning nominations for awards.On the philanthropic side, Dolly founded the non-profit Dollywood Foundation in 1988 to improve educational outcomes among children in her home county of Sevier in Tennessee (USA). She also founded the Imagination Library, in honour of her illiterate father. She also worked to raise money for other causes, including the American Red Cross and HIV/AIDS-related charities and made generous donations to children’s hospitals.In response to the Covid-19 pandemic, Dolly donated $1 million towards research at Vanderbilt University Medical Center in Tennessee which funded the early stages of development of the Moderna vaccine. And when she was vaccinated in 2021 at the same university, Dolly injected humour by labelling social media accounts of the occasion “Dolly gets a dose of her own medicine.”Such was her following that she once secretly entered a Dolly Parton lookalike contest... and lost! Let’s celebrate Dolly’s life that was well-lived. If Little Richard were alive today, he might have made us swing to ‘Good Golly Miss Dolly...’
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-goodbye-queen-of-the-american-south-1982571)
-
----
-
-### DC Edit | Sharing Missile Tech With Pvt Sector a Smart Move
-*Deccan Chronicle · Editorial*
-
-It might be somewhat disturbing that a wandering munition is said to have landed on the Kirana Hills, inadvertently of course, near Sargodha where Pakistan is said to have stationed its nukes. The incident reveals how close aerial combat may have come to triggering a nuclear incident that could so easily have led to devastating events.The other point that the wandering drone may have made as it searched for a site to hit during the military exchanges of May 2025 is that drones and missiles make a modern war what it is, and so drastically different from the conventional ones in which boots on the ground fought with artillery tanks in support.The same lessons may have been imparted by the resilience that Ukraine and Iran have displayed in their wars with Russia and USA-Israel respectively in which missiles and drones have played an outsized part that may not have been envisaged until the world slipped into the third decade of the new millennium.Iran’s resistance may have been unfairly dubbed as the waging of asymmetrical warfare. Ukraine has been largely holding off the mighty Russian army on its Donetsk doorstep while being capable of hitting deep inside Russia with drones and has even offered its drone technology in defensive techniques against drones to the free world.We know how modern warfare is going to shape from here. Ever since Operation Sindoor shook up Pakistan and forced it to seek a ceasefire through the DGMO, India has been busy allocating funds and planning time in enhancing its preparations for missiles and drones if indeed wars become necessary in the defence of the nation.It is in this context that the Government of India’s decision to open its missile technology to private firms that can qualify against stringent standards must be welcomed as the best possible initiative to enable the domestic military-industrial complex to transition missile systems from development to industrial production.Access to DRDO-developed technologies should enable private industry to produce at scale, which they are capable of perhaps more than the public sector that despite all the advantages of technology and capital flowing from defence expenditure budgets can be tardy when it comes to production. And, in fact, the private sector is known to be doing the most innovative work in the field of drones for varied uses.Tapping the private sector to speed up the defence effort is not a new concept. India has been at it for years now, but this may be the first time that the willingness to share government-run laboratory technology has been stated openly with a virtual invitation for the inventive private sector to join the effort as a full-fledged production partner. Private firms would, however, have to meet stringent qualifications, certifications and satisfy regulatory requirements, including strategic secrecy, to get on to exciting new projects in missiles and drones in defence of the country.DRDO may have moved to transfer more than 2,000 lines of technology already, but what is being staked now is access to the making of tech-intensive weapons whose development involves streams of technology more intricate than even complex rocket science. There are several indigenously developed programmes like the Agni missiles, Akash and Astra air defence systems, etc., in which the invited private companies are already participating as suppliers, and they get an opportunity to be partners now.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sharing-missile-tech-with-pvt-sector-a-smart-move-1982560)
-
----
-
-### Manash Ghosh | Return of Hasina: Mission Possible?
-*Deccan Chronicle · Opinion*
-
-Sheikh Hasina Wazed’s recent audio address to the world press at the Delhi Foreign Correspondents’ Club, whose forum she used for her outreach to her countrymen and people and governments around the world about her resolve to return home by December, was an astute political move which has turned out to be a resounding success. It provides her people with a roadmap of plans to resurrect Bangladesh from the path of self-destruction. Her message was also aimed at providing succour to her countrymen experiencing extreme privation caused by runaway inflation, scarcity of essential supplies and closure of almost 1,500 garment and other factories. The dire situation has resulted in phenomenal job losses and massive pauperisation of the working class. Even the elite are stressed — the acute energy crisis has crippled daily life with power and gas outages lasting hours on end, bringing Bangladesh to the edge of a precipice.The other objective of Ms Hasina’s roadmap was to surrender to the Dhaka International Crimes Tribunal (DICT) so as to expose the travesty of justice the DICT had committed which had enabled this “corrupt court” to rig her trial and deliver a sham verdict. No wonder over 50 million people, almost half of whom were in Bangladesh, heard Ms Hasina’s voice which was a record of sorts. This has created a massive stir in Bangladesh which is giving the Tarique Rahman-led government sleepless nights.The irony is that though Bangladesh’s domestic media was barred from covering the event, people defied the blanket ban and tuned in to her broadcast, proving that a dethroned Hasina continues to strike terror in the hearts and minds of BNP leaders and the Jamaat. It also proved that her popularity has soared exponentially — from 30% in July 2024 to 80% currently, according to Prothom Alo, a leading Dhaka daily.“This is because her track record proves that only she can save Bangladesh from becoming a failed state. I was once an inveterate critic of Hasina. But now I am her most ardent supporter as her governance skills alone can reverse our nation's current pathetic state. Not long ago she had made Bangladesh one of Asia’s emerging tigers. Our GDP has plummeted from 6.8% in her days to less than 2% now,” said Mohsin Rashid, former president of the Bangladesh Muslim League and also the country’s leading legal luminary.All this gives the lie to Mr Rahman’s assertion that Ms Hasina is politically irrelevant and, therefore, inconsequential. It also indicates that she and the Awami League still remain the pivots around which Bangladesh’s politics revolve. Ms Hasina’s Delhi engagement has completely outsmarted the BNP government’s desperate efforts to prevent her voice from reaching her countrymen. The club’s hour-and-a-half-long event in whiçh Ms Hasina’s son Sajeeb Wazed Joy and her former minister Nowfel, also featured, cautioned how the country’s democratic set up was being threatened by resurgent Islamic militancy, with ISIS and Khilafat followers carrying “hundreds and thousands” of kalma flags with which they regularly stage marches, besides hoisting them at public places in Dhaka and Narayanganj. Both affirmed that their nation had turned into a hub and playground for foreign terrorist groups and Pakistani and Turkish spy agencies. The officer corps of the country’s military, too, had been infiltrated by Pakistani terrorists like Tehrik-e-Taliban Pakistan. All this bode ill for regional security and peace.That Ms Hasina was all for reconciliation between rival parties and groups to restore the country’s stability and progress was emphasised with vigour to dispel the current belief that her return might throw the nation into a renewed cycle of violence. Ms Hasina’s sequential narration of the violent incidents that unfolded since July 16, 2024, which eventually led to her ouster from power, provided her people with a better understanding of the “students revolution”. For instance, the fact that 3,000 policemen (Md Yunus had pegged the figure at just 44) had been killed by cadres of the current ruling party and Islamic terrorists, who also burnt down 461 police and Dhaka Metro stations and looted arms besides freeing hundreds of convicted Islamic terrorists by storming jails as part of their planned strategy to turn Bangladesh into a cocoon of terror, has led many to wonder aloud whether the present rulers in Dhaka wanted to convert Bangladesh into another Afghanistan.The growing Islamisation of the military by renaming their formations after the four Khalifas and setting up Islamic international institutes at considerable costs at military cantonments are unprecedented developments in the three uninformed services. These decisions of the top brass of the army (taken with Mr Rahman’s approval) reflects the mindset of the present regime and coincided with putting out “shikha anirban” (the eternal flame) built in Dhaka cantonment in memory of martyred soldiers of Niyomito Bahini (the military wing of the Mukti...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/manash-ghosh-return-of-hasina-mission-possible-1982538)
-
----
-
-### Sunil Gatade | Saffron Throne Rattled As Dimagi Naxals Lead Opp. Charge
-*Deccan Chronicle · Opinion*
-
-The Prime Minister's reference to his detractors as “dimagi Naxals” in his Independence Day address is indicative of the desperation in which a beleaguered Narendra Modi finds himself.A series of developments have forced Mr Modi to belatedly recognise that the youth, whom he had neglected for a long time, are the flavour of the political season and that they would be in the vanguard of the INDIA march.The leader who used to dictate terms from a position of strength has landed himself in his worst political crisis since he became the PM 12 years ago. Thanks to the Jantar Mantar movement, which has drastically altered the climate.Union minister Kiren Rijiju’s clarification that the Prime Minister’s reference to “dimagi Naxals” was aimed not at Opposition leaders but at specific individuals or groups he defined as supporting anti-national agendas has not helped matters as the damage has been done. The doggedness and determination of the youth under the banner of the Cockroach Janta Party have provided the badly needed adrenaline to the Opposition parties which were helpless till the other day before the BJP’s bulldozer tactics and a hopeless situation.It is hard to believe, but the just-concluded Monsoon Session of Parliament was the worst one for the Modi administration till now, with the Opposition remaining in the driver’s seat from the word go. The Opposition parties are not off the mark when they have dubbed the address a “distress address” rather than a genuine national one and have accused it of being “full of mudslinging and outright lies”. The reasons are not far to seek. A series of developments, from the resignation of education minister Dharmendra Pradhan to the furore over the use of pellet guns on agitating students, the Bankipur and Datia bypoll results and the failure of the PM and home minister Amit Shah to be present in the Lok Sabha and the Rajya Sabha in the just-concluded session, has made a major dent.A weak Cabinet which has so far helped to project Mr Modi as a ‘strong leader’ has further compounded the problem. In fact, the Bankipur bypoll in Bihar has rattled the BJP and the Prime Minister, like the victory of V.P. Singh in the Allahabad Lok Sabha by-election did to Rajiv Gandhi and the Congress some four decades back.Prashant Kishor has made history, as Bankipur is the first Assembly bypoll in independent India that has shaken the world’s largest party to its roots. It has failed to realise what has suddenly gone wrong.What is worse is that Mr Kishor has embarked in right earnest on the campaign for the removal of BJP chief minister Samrat Chaudhary, insisting that the development of the key state is not possible with a man with such a controversial past at the helm. This is hurting the BJP more while it is attempting to stabilise in power.Assembly elections in five states, including in Uttar Pradesh, are on the cards at the start of the New Year, and the signals emanating from the bypolls are disturbing the world’s largest party. The issue of the donation theft from the Ayodhya temple is already snowballing into a major one as the faithful all over are stunned.No Assembly bypoll in the country has had so much of a national impact so far as the one in Bankipur, as the citadel of the BJP in the capital city of Patna was smashed to pieces by an ‘outsider’, wholly. Bankipur had been with the BJP uninterruptedly from 1995 with massive margins.What is worrying for the BJP is that Mr Kishor succeeded in bringing a fresh narrative of jobs and education in an urban constituency, part of the capital city of Bihar, where a sizeable section of people is educated and belong to the middle class.The first fallout of the Allahabad by-election in 1988 was that an alarmed Rajiv Gandhi brought in Sharad Pawar, who had then rejoined the Congress, as the Maharashtra chief minister in a move to set the party house in order. V.P. Singh had earlier parted ways with Congress by resigning as the defence minister after raising the Bofors issue.In fact, the plight of the youth in Bihar due to the absence of any industry has remained the theme song of Mr Kishor since he entered politics some two years ago, focusing on his home turf. He had also taken out a padyatra to the nook and corner of Bihar as part of his outreach. Mr Kishor had been able to set a new narrative in the bypoll that had overshadowed the BJP’s attempts to win back its traditional seat. The sudden entry of the Jan Suraaj founder made it a prestige battle for the BJP, which looks like it has taken the challenge lightly or was under the impression that it would sail through in its stronghold.In the last Assembly polls, the BJP, after a long time, was able to establish its dominance in Bihar, where JD-U leader Nitish Kumar had remained the chief minister for two decades by constantly changing sides and earning the dubious sobriquet of ‘Paltu Ram’. At the same time, Nitish had been known as ‘Sushasan Babu’, too, who had shrewdly forced the BJP and ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/sunil-gatade-saffron-throne-rattled-as-dimagi-naxals-lead-opp-charge-1982532)
-
----
-
-### Monsoon session: Lost in the din
-*Deccan Herald · Editorial*
-
-The Karnataka legislature’s monsoon session, the first since D K Shivakumar assumed office as Chief Minister, ended as a near-washout. At a time when large parts of the state are grappling with drought and other pressing problems, the session – curtailed by three days – produced little meaningful debate. The Opposition deserves censure for failing to devise a strategy to hold the administration accountable, but the treasury benches cannot escape responsibility for exploiting the din to push through important legislation. The immediate flashpoint was the Opposition’s demand for the resignation of B Nagendra, chargesheeted in the Valmiki Corporation scam and recently reinducted into the Cabinet. The demand may not be without merit, but it should not have dominated the session. Once the government refused to concede, the Opposition had no fallback plan.
-
-The drought, the Cauvery dispute, the NICE controversy, and numerous constituency-level concerns that merited discussion were ignored altogether. Legislators travel hundreds of kilometres to participate in the session and rely on Question Hour and Zero Hour to raise matters affecting their constituencies. They were denied that opportunity. A legislature cannot fulfil its constitutional role if its members spend more time in the well of the House than participating in debates. The cost is not merely the loss of sitting days; it is the loss of an opportunity to question the executive, seek explanations, and place public grievances on record. Nor can the government claim victory. Significant legislation was passed amid disorder, including the controversial Bill permitting diversion of up to 5% of parkland for infrastructure. Even more consequentially, the Appropriation Bill, which authorises expenditure under the state budget, was adopted without scrutiny. Passing laws without discussion, particularly those involving public money, may be procedurally valid, but it is a poor advertisement for parliamentary democracy.
-
-Karnataka | The monsoon legislature session that was...or wasn’tExpelled Bharatiya Janata Party (BJP) leader Basanagouda Patil Yatnal has often alleged “adjustment politics” between Opposition leaders and the ruling party, deliberately creating conditions in which the government receives a free pass. This allegation cannot be treated as fact, but it should compel the floor leaders of both Houses, as well as the top brass of the BJP and the Janata Dal (S), to explain this failure. There is an old democratic maxim: the opposition must have its say, but the government must have its way. In this case, the Opposition forfeited its say, while the ruling party made full use of the vacuum. When both sides abdicate their responsibilities, democracy itself is diminished.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/monsoon-session-lost-in-the-din-4124138)
-
----
-
-### The costs of an idle cohort
-*Deccan Herald · Editorial*
-
-NITI Aayog’s latest report highlights an emerging national challenge: an estimated 8.7 crore people in India aged 15-29 are not studying, working or undergoing any employment-related training. Findings in 'Reimagining Skilling for Viksit Bharat@2047’ categorise these youngsters under the acronym NEET (Neither in Education, Employment or Training). The description is ironic, given that the recent youth protests centred on demands for accountability and reforms in the education sector, following the NEET question paper leaks. The findings are based on data from the National Sample Survey of 2021 (78th round); these numbers have likely risen. They provide a reality check for planners and policymakers who bet on India’s young population as a demographic dividend of immense social and economic consequence.
-
-With a large component of the country’s youth remaining outside the productive landscape and dependent on others for their needs, the narratives around demographic dividend demand a reevaluation. These youngsters remain suspended in a system without employment and, crucially, without the requisite qualifications for employment. They point to a systemic failure in channelling human potential. Excluded from a productive labour force, this cohort, which spans about 15 years, comes with an economic cost borne by society. A large section of the youth remaining unemployable can also translate into substantial social and political costs. The report calls the NEET youth “constrained by the absence of income and the sunk cost of prior education”. Its findings indicate that the dividend now risks turning into a liability.
-
-‘Gen Z on the March’ puts youth politics, paper leaks at centre stage in BengaluruNITI Aayog recommends greater emphasis on skilling and vocational education to navigate this challenge. It proposes early-stage skilling embedded in the school system (from grade 6 through grade 12) to ensure employability. The report points out that a stated objective of the National Education Policy (NEP), to integrate skilling and employability into early school years, has not been effectively pursued. The planning body has recommended a shift towards demand-driven skilling aligned to high-growth sectors such as EVs and green industries, and the mainstreaming of apprenticeship programmes. However, skilling will not help if there is no employment requiring those skills. India’s development model has not created jobs on a scale that meets the needs of its burgeoning population. The findings should act as a pivot for the government, helping it shape policies to create jobs in industry, services, and other key sectors. A skilled and unemployed population can be no better than the NEET group.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/the-costs-of-an-idle-cohort-4124143)
-
----
-
-### Righteous rule will return
-*Deccan Herald · Opinion*
-
-The Onam season is Kerala’s evergreen festival. With the monsoon, paddy completes its growth in some fields, as another planting cycle begins in other fields. There is a sense of plenty. And in keeping with Indian culture, there is a looking up to rulers, earthly and divine, both of whom are brought in to animate the Onam legend!
-
-The good king, Mahabali (also known as Maveli ), rules with justice and righteousness – which are the foundations for prosperity and equity, whether under monarchs or under modern Constitutions. On the other hand, Vamana’s is a theocratic world that is often represented as being in a tussle for dominion over the material world of kings, and for the loyalty of their subjects. The Onam narrative suggests that King Mahabali, who ensured order in his earthly kingdom, chose not to disrupt the priest-imposed social order, either. With the confidence that comes from security in one’s own identity, Mahabali acceded to what Vamana wanted, which included Mahabali’s banishment. Onam is the annual return of Mahabali in the season of plenty, in the hearts of common people, as they hold on to the ideal that prosperity is a function of right living, not of power and ceremony. It carries a quiet message, that the principles of justice and righteousness can never be obliterated by demonising those who perform their duties as Mahabali did.
-
-The sweetest Onam story: Payasam sales bring hope to a teen fighting Kidney diseaseIn Jesus’s time, the priests feared that this carpenter would affect their income, with his competent and competing religious teaching. Among other things, they wanted to collect religious taxes from him (Matthew 17:24), and also challenged him on whether his fellow-Jews must pay colonial taxes (Matthew 22:17). Showing a coin that had the imprint of the emperor, Jesus famously said, “Give to the king what belongs to the king, and to God what belongs to God.” More than money, he meant hearts dedicated to God’s definition of justice and righteousness – two of the most-repeated words in the Old Testament. In one of Mahatma Gandhi’s favourite Bible verses, Jesus said, “Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.” While this is a call to just governance, Jesus also implied that he would return, permanently – the divine-king who was called a demon (Luke 11:15), who would wipe away every tear (Revelation 21:4).
-
-[Read full article](https://www.deccanherald.com/opinion/righteous-rule-will-return-4124135)
 
 ---
 
