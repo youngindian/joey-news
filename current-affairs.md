@@ -1,3 +1,424 @@
+## 25 November 2026
+
+### Bikaji enters premium bakery market with Mahè
+*Anupama Ghosh · business*
+
+Bikaji Foods International Limited has entered the premium bakery segment with Mahè, a European-inspired brand under its new Bikaji Bakes platform. The company is working with Master Baker T K Khaleel on the venture, which it will unveil at Bakery Biz Mumbai, running from 25 to 27 November 2026.
+
+The launch marks Bikaji’s entry into the commercial bakery and foodservice space. Mahè’s portfolio will include European viennoiseries, artisan breads, morning goods, savouries and cakes. It will also sell “naked” base products that chefs and foodservice professionals can customise and finish themselves.
+
+The business is backed by a manufacturing facility in Karnataka. The company says the plant is designed to combine artisanal baking with structured production, serving both retail and foodservice customers while keeping product quality consistent. The release did not disclose investment size, product pricing or a rollout timeline.
+
+Deepak Agarwal, Chairman and Managing Director, said bakery offers an opportunity as the company expands beyond its established categories. He added that entering a new category requires respect for its craft, processes and consumer expectations.
+
+Khaleel has more than four decades in the baking industry. He was trained by European master bakers in Qatar and went on to set up and develop several bakery businesses across West Asia.
+
+On the stock market, Bikaji shares traded at ₹524.05 on the NSE at 1:22 pm, up ₹11.90 or 2.32 per cent from the previous close of ₹512.15. The stock hit an intraday high of ₹532.00. Its market capitalisation stood at ₹13,139.84 crore. The shares have fallen 29.08 per cent so far this year and 25.78 per cent over the past year, while gaining 8.92 per cent over the past week. The stock’s 52-week range is ₹446.10 to ₹768.50.
+
+Bikaji describes itself as India’s third-largest ethnic snacks company. As of 31 March 2026, it operated in 27 states and 7 union territories and exported to 47 countries.
+
+Published on November 25, 2026
+
+---
+
+### Indian legacy footwear brands jump on the sneaker bandwagon for next phase of growth
+*Rohan Das · business*
+
+Gully Labs women’s sneakers styled with Kullu fabric from Himachal Pradesh
+
+As a younger generation of Indian customers increasingly move away from traditional brown-black shoes and other mass market footwear, legacy Indian brands are being forced to rethink their positioning.
+
+Companies like Bata and Relaxo Footwear have recently acknowledged the need to keep up with changing consumer preferences towards premium footwear like sneakers and are now looking to move up the value chain and expand their presence in the segment to drive growth.
+
+Sanjay Rao, the newly appointed CEO at Bata India recently flagged in an earnings call that Bata ‘missed the bus’ when it comes to sneakers and did not ‘move in an agile way’ when nimbler players entered the market. 
+
+“We believe that the market opportunity with sneakers is significantly larger than what we have even with the brown and black shoes,” he told presspersons recently. The category currently contributes less than 10 per cent of Bata’s overall business.
+
+Similarly, Gaurav Kumaar Dua, Co-CEO, Relaxo Footwear said despite tailwinds in the footwear industry, the company has not been able to deliver satisfactory growth over recent years.
+
+“The next phase requires us to move beyond this predominantly volume-driven footwear company to become a more consumer-centric and innovation-led footwear organisation” he said. Relaxo has traditionally been a major player in the mass market hawaii segment with brands such as Bahamas and Flite 
+
+Dua mentioned that the company is now endeavouring towards this by expanding its portfolio, rejigging its stores to give more prominence to sneakers and sports shoes. He added that growth in the sneaker segment has also helped Relaxo offset some of the pressure in segments such as Hawaii and open footwear. 
+
+Meanwhile, the sneaker category is also aided by a shift towards premium footwear for younger aspirational customers who are fashion conscious and prioritise design and brand identity. 
+
+Shraddha Kapadia, Lead Institutional Analyst, SMIFS said the trend is not limited to premium sneakers, but also sports-inspired, casual and lifestyle footwear across price points. 
+
+“For established players, this is becoming an important lever for improving ASPs, product mix and brand relevance,” she said.
+
+Kapadia pointed to Campus Activewear whose sneaker portfolio grew 109% YoY in FY26, contributing 12.7% of overall volumes, with realisations of over ₹900 per pair, compared with the company’s overall Average Selling Price of ₹683. As they strive to build a presence in the category, these established players also have to contend with a highly competitive landscape, including foreign brands as well as Indian D2C players. 
+
+“Newer brands such as Comet, Neeman’s and Gully Labs are leveraging trend-led designs, digital-first marketing and sharper positioning to attract younger consumers. Despite this, established players retain advantages in sourcing scale, distribution, retail infrastructure, brand recall and consumer trust. The challenge is to combine these strengths with greater agility and consumer relevance,” Kapadia said.
+
+Published on November 25, 2026
+
+---
+
+### Gold slips as Fed hike bets weigh; silver, crude, base metals also under pressure
+*Anupama Ghosh · business*
+
+Gold prices fell in Wednesday’s afternoon trade as expectations of a US Federal Reserve rate hike in December kept pressure on bullion, even as the metal stayed above its recent 14-month low. | Photo Credit: iStockphoto
+
+Gold prices fell in Wednesday’s afternoon trade as expectations of a US Federal Reserve rate hike in December kept pressure on bullion, even as the metal stayed above its recent 14-month low.
+
+COMEX gold traded near $3,550 an ounce, after opening near $3,560, according to Enrich Money. On the Multi Commodity Exchange (MCX), gold was near ₹1,22,020 per 10 grams, down about 0.25 per cent. Gold fell nearly 2.45 per cent on Tuesday on COMEX and more than 2.9 per cent on MCX.
+
+CME FedWatch shows a 95 per cent chance of a quarter-point hike at the December 8–9 meeting, Enrich Money said. The US Dollar Index was near 103.8, Choice Broking said. CME has raised margin requirements for gold futures from 5 per cent to 6 per cent and for silver from 8 per cent to 9 per cent.
+
+Markets await US PCE inflation and GDP data due later today. Anindya Banerjee, Head of Commodity, Currency and Rate Derivatives at Kotak Neo, said, “When investors face losses across multiple portfolios, they are forced to raise cash by selling whatever remains liquid.”
+
+Banerjee sees major gold support near $3,500, or ₹1,20,000–1,21,000 on MCX, and resistance at $3,700. Ponmudi R, CEO of Enrich Money, placed COMEX support at $3,470–3,500 and resistance at $3,600–3,630.
+
+Manav Modi, Commodities Analyst at Motilal Oswal, said, “The recovery remains fragile.” He noted that China’s gold imports have reached a record $209 billion this year.
+
+Darshan Desai, CEO of Aspect Bullion & Refinery, said, “Purchases remain selective, with consumers closely tracking price movements and looking for favourable buying levels.”
+
+Silver stayed weaker. COMEX silver traded near $40.75, while MCX silver was near ₹1,44,890, down about 0.4 per cent. Kaveri More, Commodity Technical Analyst at Choice Broking, has a downside target of around $38.
+
+Crude oil also declined. MCX crude traded near ₹7,527, down about 0.7 per cent. WTI was near $80.90 and Brent near $90.8, Choice Broking said. More said, “Persian Gulf exports have reportedly reached 74 per cent of pre-war levels,” which has eased some supply concerns despite vessel attacks in the Strait of Hormuz.
+
+Base metals were weak. Copper fell nearly 4 per cent in the previous session to settle below $5.50, Axis Securities said, citing a rise in LME inventories and a firmer dollar.
+
+Banerjee said natural gas may be attempting to form a bottom. “Any meaningful shift towards colder-than-expected conditions could trigger a sharp short-covering rally,” he said.
+
+In currency trade, USD/INR was near 92.75, down about 0.2 per cent, Enrich Money said.
+
+Markets will also watch US jobs data on December 4 and the Fed’s December decision.
+
+Published on November 25, 2026
+
+---
+
+### Walmart-Owned Flipkart CEO Kalyan Krishnamurthy To Step Down After 11 Years
+*Mallika Soni · business*
+
+Kalyan Krishnamurthy led Flipkart through its $16-billion acquisition by US retail giant Walmart in 2018.
+
+[Read full article](https://www.news18.com/business/economy/walmart-owned-flipkart-ceo-kalyan-krishnamurthy-to-step-down-after-11-years-ws-l-10440392.html)
+
+---
+
+### Punjab National Bank's 680-Day FD Scheme:
+*Ankita Verma · business*
+
+Punjab National Bank offers up to 7.65% annual interest on its 680-day special FD. See category-wise rates, online booking channels, and estimated returns on ₹5 lakh and ₹10 lakh.
+
+[Read full article](https://www.news18.com/photogallery/business/savings-and-investments/pnb-680-days-special-fd-interest-rates-returns-ws-l-10439985.html)
+
+---
+
+### How Karnataka Bagged Pixxel’s ₹350-Crore Satellite Manufacturing Investment In Just Two Weeks
+*Manjiri Joshi · business*
+
+From responding to a land request in June to clearing 6-acre proposal in November, Karnataka’s proactive engagement helped Bengaluru beat competition from Andhra, Tamil Nadu
+
+[Read full article](https://www.news18.com/india/how-karnataka-bagged-pixxels-350-crore-satellite-manufacturing-investment-in-just-two-weeks-ws-klt-10440177.html)
+
+---
+
+### Flipkart CEO Kalyan Krishnamurthy set to leave after nearly 10-year run
+*Business Standard · business, entrepreneur, finance*
+
+Balaji Thiagarajan, who is currently chief product and technology officer at the Flipkart, will lead the organisation till the new CEO is announced, the company said
+
+[Read full article](https://www.business-standard.com/companies/news/kalyan-krishnamurthy-exit-flipkart-ceo-ipo-esop-walmart-126112500495_1.html)
+
+---
+
+### Rupee rises to 7-month high of 92.42 per US dollar on strong equity inflows
+*Reuters · business*
+
+Foreign investors have pumped in a record over $14 billion so far this month.
+
+The Indian rupee rebounded sharply a day after a holiday and jumped ​to its highest level in seven months, backed by a revival ‌in foreign investor appetite for local equities and rising ​comfort that the currency’s outlook is turning more ⁠favourable.
+
+The rupee opened higher at 92.74 per US dollar on Wednesday after dropping to 92.91 on Monday and extended its gains as ‌the session progressed to hit a seven-month high of 92.42.
+
+This pushed up the local currency’s gain ‌for November to 2.7 per cent.
+
+Indian financial markets were shut on ‌Tuesday ⁠for a holiday.
+
+“The broader environment is favourable for ⁠the rupee and with the way things are going, we could soon see a test of the 92 levels. Now it (will) likely take a ​significant spike in oil prices ‌or a sustained reversal in foreign flows to change the currency’s direction meaningfully,” a trader with a private bank said.
+
+India’s benchmark equity indices surged on the day, led by banks ‌and IT, as continued foreign inflows and lower ​crude prices helped the market recoup some of Monday’s losses.
+
+Foreign investors bought more than $600 million worth ⁠of Indian shares on a net basis on Monday despite the benchmark stock indexes falling nearly 2 per cent, signalling that foreign funds may ‌be looking beyond short-term market weakness and retaining confidence in India’s longer-term investment case.
+
+They have pumped in a record over $14 billion so far this month. Strong equity inflows tend to boost demand for the rupee.
+
+A marked improvement in foreign investor sentiment has become increasingly visible as they reassess ‌their exposure to tech-heavy markets. India could benefit from this shift if global ​investors diversify from highly concentrated technology positions and increase allocations to other large emerging markets, according to traders.
+
+Monday’s ⁠decline in the rupee interrupted what had been a strong ⁠recent rally, with the pullback driven largely by heavy dollar purchases from corporates and technical signals indicating that the ‌rupee had become excessively overbought, traders said.
+
+Most bankers interpreted the move as a normal consolidation phase rather than a ​meaningful deterioration in the rupee’s outlook.
+
+Published on November 25, 2026
+
+---
+
+### Gujarat coast gets maritime security boost as BSF adds over 25 interceptor boats
+*Jitendra Bahadur Singh · general*
+
+The Border Security Force (BSF) has added more than two dozen interceptor boats to its fleet to step up patrols along Gujarat’s coast and respond faster to suspected infiltration and smuggling by sea.
+
+The new boats will help BSF crews track, pursue and stop suspicious vessels for inspection. Smugglers sometimes use fishing boats or other small vessels that can blend in with regular traffic.
+
+Small, fast boats can also change course quickly, making them harder to track. BSF crews can coordinate with other agencies along the coast if further action is needed.
+
+The BSF can also deploy the interceptors alongside other agencies to reach stranded fishermen, assist vessels involved in accidents and search for people reported missing at sea.
+
+Personnel will receive hands-on training in boat handling, navigation and maintenance. Crews will practise operating in changing weather and water conditions and navigating around other vessels.
+
+### WHY GUJARAT’S COAST MATTERS
+
+Gujarat’s coastline is home to ports and industrial centres, and its waters see regular traffic from commercial ships and fishing boats. Security agencies monitor the coast for smuggling, illegal crossings and potential attacks from the sea.
+
+The BSF patrols stretches of the maritime frontier, including the Harami Nala area near the border with Pakistan.
+
+Shallow waters and changing tides limit where conventional vessels can operate along parts of the coast, so the force uses boats of different sizes and capabilities.
+
+\- Ends
+
+---
+
+### ‘Eradication of Sanatan Dharma’: BJP accuses Vijay govt of SC contempt, draws Shah Bano parallel
+*ET Online · business*
+
+BJP MP Sudhanshu Trivedi has launched a sharp attack on the Congress and the INDIA bloc. Addressing a press conference, Trivedi accused the Tamil Nadu government of not complying with the Supreme Court's order concerning the lighting of the sacred Deepam at Thiruparankundram. Invoking the Shah Bano case, Trivedi warned that the controversy could become another political turning point for the Congress. He alleged that the INDIA bloc's approach reflected a dangerous intent to eradicate Sanatan Dharma and questioned Rahul Gandhi's commitment to the Constitution.
+
+---
+
+### ‘AI adoption is faster than it can be measured and governed’: Siddhant Rastogi & Adhil Shetty
+*ET Online · business*
+
+At the second edition of the Economic Times Future of Knowledge Work Summit 2026, Siddhant Rastogi and Adhil Shetty discuss key findings from the ET AI Adoption Index and examine how Indian businesses are embracing artificial intelligence. From productivity gains and new business opportunities to ROI, governance and workforce transformation, the discussion explores why AI adoption must move beyond experimentation to deliver measurable business outcomes. The speakers also highlight the importance of leadership ownership, responsible AI implementation and India's opportunity to leverage AI for economic growth.
+
+---
+
+### Markets hold ground mid-session; metals drag as Banks, FMCG underpin rally
+*Anupama Ghosh · business*
+
+Among mid-session gainers on the Nifty 50, Bajaj Finserv topped the chart, surging 5.03 per cent to ₹1,974.60 from a previous close of ₹1,880.10, touching a high of ₹1,990.00. | Photo Credit: iStockphoto
+
+Benchmarks pulled back from their morning peaks by early afternoon on Wednesday, November 25, 2026, but held on to solid gains as banking, FMCG and aviation stocks continued to attract buyers while metals and media faced persistent selling.
+
+The Sensex was trading at 83,500.77, up 1,064.78 points or 1.29 per cent, by 1.15 PM, having touched an intraday high of 84,419.78 in the morning session. The Nifty 50 stood at 25,642.75, up 293.10 points or 1.16 per cent, after reaching a session peak of 25,924.95 earlier. SBI Securities noted that HDFC Bank, ICICI Bank and Reliance Industries were the top three contributors to Nifty’s gains at this juncture, with Nifty Finance the best-performing sectoral index. The Nifty’s advance-decline ratio stood at 47:3 on the index, though broader market breadth on the BSE had flipped — 2,432 stocks were declining against 1,835 advancing out of 4,521 traded.
+
+Among mid-session gainers on the Nifty 50, Bajaj Finserv topped the chart, surging 5.03 per cent to ₹1,974.60 from a previous close of ₹1,880.10, touching a high of ₹1,990.00. IndiGo rose 3.73 per cent to ₹5,729.20 from ₹5,523.00. Hindustan Unilever climbed 3.57 per cent to ₹2,091.20 from ₹2,019.10. Trent added 3.20 per cent to ₹3,310.70 from ₹3,208.00, and HDFC Life Insurance gained 3.18 per cent to ₹593.25 from ₹574.95.
+
+Metals were the session’s clear laggard. Tata Steel was the steepest loser on the Nifty 50, falling 2.27 per cent to ₹159.30 from ₹163.00 on the highest traded value of the losers at ₹1,456.65 crore. JSW Steel dropped 2.03 per cent to ₹1,285.30 from ₹1,311.90. Hindalco declined 1.30 per cent to ₹888.70 from ₹900.45. Max Healthcare fell 1.25 per cent to ₹1,075.90 from ₹1,089.55, and Titan slipped 1.18 per cent to ₹4,625.00 from ₹4,680.00. Nifty Media was the worst-performing sectoral index, down more than 2 per cent.
+
+On the currency and commodities front, the Indian rupee firmed to around 92.75 against the US dollar from an open near 92.90, with USD/INR trading well below the 93.00 resistance zone. WTI crude oil eased to around $80.90 per barrel. MCX gold was trading near ₹1,22,020 per 10 grams, down about 0.25 per cent, while MCX silver hovered near ₹1,44,890 per kg, off 0.4 per cent.
+
+SBI Securities placed Nifty’s immediate support at 25,760–25,780 and resistance at 26,070–26,090, with a breach above 26,090 potentially extending the rally to 26,240. On the Sensex, support was identified at 84,000 and resistance at 84,900. On the options front, meaningful call writing was seen at the 26,000 and 26,100 strikes, while substantial put open interest sat at the 25,900 and 25,800 strikes.
+
+The BSE’s total market capitalisation of listed companies stood at ₹5,10,30,849.38 crore, equivalent to $5.5 trillion, with 27.04 crore registered investors on the exchange.
+
+US PCE inflation data, due later in the day, remained the key global trigger that could determine whether the afternoon session sustains current levels or sees fresh selling, particularly in rate-sensitive sectors.
+
+Published on November 25, 2026
+
+---
+
+### Not alliance but thugbandhan: Keshav Maurya takes swipe at SP-Congress pact
+*Press Trust · general*
+
+## Keshav Prasad Maurya attacked the SP-Congress alliance and predicted a third consecutive BJP government in Uttar Pradesh. His remarks highlighted opposition seat-sharing tensions, candidate choices and competing political narratives.
+
+Keshav Prasad Maurya attacked the SP-Congress alliance and predicted a third consecutive BJP government in UP
+
+Lucknow,Nov 25, 2026 13:52 IST
+
+Dubbing the SP-Congress alliance "thugbandhan", Uttar Pradesh Deputy Chief Minister Keshav Prasad Maurya on Wednesday alleged that the two parties represent criminals, rioters and corrupt elements and claimed that the BJP would form the government in the state for the third time with a massive majority.
+
+"That is not an alliance but a 'thugbandhan (alliance of deceivers)' of goons, criminals, corrupt people and rioters. Its condition is neither good today nor is it going to improve in the future," he said, talking to reporters here.
+
+Asked about the Samajwadi Party (SP) announcing the candidature of its five candidates amid seat-sharing discussions with the Congress, Maurya said the issue reflected internal problems of the two opposition parties and would not affect the BJP.
+
+"Such theatrics keep happening between the two parties (SP and Congress), but it will have no impact on the BJP's health," he said.
+
+On Congress MP Imran Masood's remark -- that he was unable to understand whether the SP was fighting against him, the Congress or the BJP, Maurya said, "If he is unable to understand, he should seek an explanation from Rahul Gandhi."
+
+The deputy chief minister said the people of Uttar Pradesh were politically aware and would stand "firmly behind the BJP".
+
+"Voting for the Samajwadi Party is like inviting trouble, while voting for the Congress would once again push the country towards decline. People are standing strongly with the BJP, and the party will form the government in Uttar Pradesh for the third time with a massive majority," he said.
+
+Maurya claimed that the BJP would win irrespective of whether the SP and Congress contest the elections together or separately.
+
+"Nobody from this 'thugbandhan' can stop the BJP's lotus from blooming," he said.
+
+Taking a swipe at the SP for fielding three Muslim candidates among its announced list of five nominees, Maurya accused the party of practising "Muslim appeasement politics".
+
+He alleged that the SP wanted to bring back riots and the dominance of criminals and mafias in Uttar Pradesh, which he described as a "riot-free state for the past 10 years".
+
+"Pressing the lotus button will ensure that Uttar Pradesh remains safe. If people press the bicycle button, goons, criminals and mafia elements will exploit them, grab their land and harass their daughters and women," he alleged.
+
+He appealed to voters to defeat the SP, Congress and their allies and ensure the victory of the BJP-led NDA.
+
+Targeting SP president Akhilesh Yadav, Maurya accused him of indulging in political theatrics over issues such as PDA (Picchda, Dalit, Alpsankhyak), visiting Ayodhya and Mathura, and the religious discourse by Bageshwar Dham preacher Dhirendra Krishna Shastri.
+
+Shastri recently courted controversy due to one of his speeches where he compared the deities Ram and Krishna.
+
+He also accused Yadav of following an anti-Hindu approach.
+
+"If we say 'Jai Shri Ram', Akhilesh Yadav should also say 'Jai Shri Ram'. If we say 'Jai Shri Krishna', he should also say 'Jai Shri Krishna'. If we say 'Radhe Radhe, make the lotus bloom', he can say 'Radhe Radhe, puncture the bicycle'," Maurya quipped.
+
+\- Ends
+
+---
+
+### Microsoft Declares 'Code Red' After Historic Outage, Internal Memos Show
+*Unknown · technology, internet*
+
+Microsoft blamed the outage on an undetected Windows scalability defect introduced in July.
+
+[Read full article](https://www.gadgets360.com/internet/news/microsoft-code-red-after-outlook-outage-internal-memo-12374487)
+
+---
+
+### Flipkart CEO Kalyan Krishnamurthy steps down after 11 years
+*India Today News Desk · general*
+
+Walmart-owned e-commerce major Flipkart is set for a leadership change, with Group CEO Kalyan Krishnamurthy stepping down and leaving the company after more than 11 years.
+
+The company announced the development on Wednesday, November 25. It said a successor would be named in the coming weeks, while Balaji Thiagarajan, currently Flipkart's chief product and technology officer, would lead the organisation in the interim, reported Reuters.
+
+The company did not disclose the reason behind Krishnamurthy's departure.
+
+### KRISHNAMURTHY'S JOURNEY AT FLIPKART
+
+Krishnamurthy took charge as Flipkart CEO in January 2017 and was appointed Group CEO in 2018. During his tenure, he played a key role in steering the company through its expansion across e-commerce, grocery and fintech.
+
+He also led Flipkart through its acquisition by Walmart, the US retail giant, and years of preparations for a much-anticipated initial public offering (IPO).
+
+Before joining Flipkart, Krishnamurthy served as Managing Director at Tiger Global Management, where he oversaw the fund's India portfolio companies. He also held finance roles at eBay Asia Pacific and eBay South Asia, and began his career at Procter & Gamble.
+
+### WALMART REMAINS COMMITTED TO FLIPKART
+
+Flipkart Group is among India's largest e-commerce platforms, with a registered user base of more than 500 million.
+
+In its statement, Walmart said it "remains committed" to Flipkart and its long-term opportunity in India.
+
+The leadership change comes as Flipkart continues to prepare for a potential stock market listing. The company is yet to announce who will take over from Krishnamurthy on a permanent basis.
+
+\- Ends
+
+---
+
+### Industrial parks, renewables, automotive and engineering lead Tamil Nadu’s ₹58,214 crore investment commitments
+*BL Chennai Bureau · business*
+
+Tamil Nadu’s latest round of investment commitments reflects a broad-based expansion of its industrial ecosystem. | Photo Credit: iStockphoto
+
+Tamil Nadu’s latest round of investment commitments reflects a broad-based expansion of its industrial ecosystem, with investments spanning industrial infrastructure, renewable energy, automotive manufacturing, critical engineering, textiles, aerospace and defence, and electronics and semiconductors.
+
+The 78 MoUs signed at the VETTRI Tamil Nadu Investment & Conversion Conclave presided over by Chief Minister C. Joseph Vijay represented ₹58,214 crore in proposed investments and has the potential to generate 65,786 jobs. In addition, the Chief Minister C Joseph Vijay laid the foundation stone for 15 projects, the Industries department said.
+
+In the first 200 days of the TVK Government, a total of 190 MoUs were signed; ₹1.73 lakh crore investment commitment and 1.98 lakh employment commitments. The number of MoUs signed since May 2026 was 112 MoUs with 83 MoUs converted - a conversion rate of 74.1 per cent, the department said.
+
+The top three investors at the second Vettri Conclave were CSE Development (India) Pvt ltd, the Indian project development arm of the Cleantech Solar Group, with ₹8,140 crore commitment, followed by JM Baxi Group (₹5,200 crore) and Avigna (₹5,000 crore).
+
+Industrial Parks and Logistics emerged as the largest investment segment, accounting for ₹15,250 crore across six MoUs, representing 26 per cent of the total investment value. Renewable energy followed with ₹11,142 crore across five MoUs, accounting for 19 per cent of the investment commitments. Other major sectors include automotive, critical engineering, textiles, aerospace and Defence.
+
+**Global investors**
+
+The conclave also witnessed 14 foreign investment MoUs from seven countries: Brazil, Finland, Germany, Singapore, South Korea, Sweden and the United States, representing ₹14,798 crore in proposed investments.
+
+State Industries Minister S Keerthana in her inaugural address said, “”Our real competition is not another state, but the world’s leading manufacturing economies. Tamil Nadu welcomed healthy competition but remained focused on a larger ambition: competing with the world’s leading manufacturing economies.”
+
+“With nine new trade agreements, our real competition is not another state. It is the world’s leading manufacturing economy. For us, investment must translate into productive employment, better incomes and opportunities for our people. We are not chasing jobless growth,” she said.
+
+Industry Secretary S Vijayakumar in his speech, “Our Budget Estimates for the incentives to the industries for this current year is ₹2000 crores. We have exhausted this in 200 days and have requested the government of Tamil Nadu for another ₹1600 crores. I think we will be doubling our targets for the current industrial current financial year.”
+
+Tamil Nadu’s Single Window portal 3.0 is under development and expected to be ready by January 2027. The new Industrial Policy is also under preparation and is expected to be ready by January 2027, he said.
+
+The Tamil Nadu Business Facilitation act has been amended to provide for clearances within 21 days along with a rule provisions for penal action in case of default. The Tamil Nadu Investment Promotion Commission has been notified and its first meeting was held on November 13, he said.
+
+In the meeting, Tamil Nadu’s investment promotion commission approved that industries may self-execute their HT and EHT power connections by procuring the equipment, accessories and installations on their own. The energy department will share the specification for self execution. This is a major shift for what we have been doing so far. In 200 days sir, for major industries out of 1209 applications received, 911 applications have been approved, he said.
+
+On SIPCOT industrial plots, out of the 97 applications received, 72 applications covering approximately 464 acres have been allotted with the process completed within a timeline of 21 days.
+
+On exports, a target of $72 billion has been given to the State by the Centre for this current financial year. We have achieved up to $33 billion up to August and certainly will surpass this target this year as well,” he said.
+
+Published on November 25, 2026
+
+---
+
+### Doctors sit outside liquor shops to counsel drinkers in Madhya Pradesh district
+*India Today Trending Desk · general*
+
+## Madhya Pradesh's Sagar district has stationed doctors outside liquor shops to screen drinkers and raise awareness about the health risks of excessive alcohol consumption.
+
+Health checkups are being done infront liquor shops in Madhya Pradesh's Sagar.
+
+Madhya Pradesh,Nov 25, 2026 13:50 IST
+
+Buying alcohol in Madhya Pradesh's Sagar now comes with an unexpected pit stop: a health check-up.
+
+In an unusual initiative, the district administration has stationed doctors and health teams outside liquor shops to screen drinkers, check their blood samples and warn them about the health risks of excessive alcohol consumption.
+
+The campaign, launched on the District Collector's instructions, is aimed particularly at habitual drinkers and people who continue consuming alcohol despite suffering from serious illnesses.
+
+Joint teams from the Health and Excise Departments have been visiting liquor shops across the district, where people arriving to buy alcohol are being offered health screenings.
+
+The examinations include tests to assess liver and kidney health, with blood samples also being collected. The idea is to identify possible health complications early and encourage people to seek medical advice before their drinking habits take a further toll on their bodies.
+
+Excise Sub-Inspector Shailendra Singh said the initiative was prompted by recent cases in which people suffering from serious illnesses died after consuming excessive amounts of alcohol.
+
+Following directions from senior officials, teams were deployed near liquor shops to examine drinkers and make them aware of the possible consequences.
+
+Dr Dharmendra Singh from the Health Department said the tests were focused on assessing liver and kidney health among people who drink heavily. The screenings are also intended to help people understand their health conditions and the damage that excessive drinking can cause.
+
+Meanwhile, Chief Medical and Health Officer (CMHO) Dr Devesh Pateria said people were being counselled about their health and advised to purchase alcohol only from licensed government liquor shops.
+
+Health teams are also urging them to eat adequately, take care of their well-being and consult doctors if they experience any health problems.
+
+**Watch the video here:**
+
+The initiative comes against the backdrop of a disturbing history of alcohol-
+
+More recently, four people in Bunda, Sagar and Deori died after suffering from serious illnesses, with excessive drinking or continuing to consume alcohol despite their health conditions cited as contributing factors.
+
+With this initiative, the administration is taking health awareness right to the doorstep of liquor shops, hoping that a medical check-up might give habitual drinkers a reason to rethink their choices.
+
+_**(With inputs from Himanshu Purohit)**_
+
+\- Ends
+
+---
+
+### Self-styled Chanakya has failed: Congress's dig as delimitation bill push stalls
+*Press Trust · general*
+
+## Congress accused Amit Shah of unsuccessfully seeking a two-thirds majority for delimitation bills. Jairam Ramesh questioned why the government had ignored Mallikarjun Kharge's dialogue proposal.
+
+Congress's Jairam Ramesh often takes a dig at Union Home Minister Amit Shah by referring to him as "self-styled Chanakya." (PTI)
+
+New Delhi,Nov 25, 2026 13:53 IST
+
+In a swipe at the Modi government, the Congress on Wednesday alleged that the "self-styled Chanakya" resorted to the last three of the 'saam, daam, dand, bhed' precept of Kautilya to achieve a "super-tainted" two-thirds majority in the Lok Sabha but failed.
+
+The four-fold political doctrine was taken from Kautilya's Arthashastra, with 'saam' meaning dialogue, 'daam' referring to financial inducements, 'dand' to punishment or institutional pressure, and 'bhed' to creating division.
+
+"In his desperate search for a super-tainted two-thirds majority in the Lok Sabha to get the diabolical delimitation bills passed, the self-styled Chanakya has been resorting to the last three and has failed," Congress general secretary in-charge, communications, Jairam Ramesh, said, and wondered why no chance was given to the first rule of the doctrine.
+
+"The Congress President Mallikarjun Khargeji has written suggesting this precise route to the PM four times in the past seven months - April 11, July 16, Aug 27 and Oct 16 - but there has not even been a routine acknowledgement to these letters," he said.
+
+Ramesh often takes a dig at Union Home Minister Amit Shah by referring to him as "self-styled Chanakya."
+
+The Congress on Monday claimed that the continued suspense over the Parliament session suggested that either the "PM-HM jodi" is being trapped by its own bluff and bluster or something "truly sinister" is in the works.
+
+The opposition party alleged that either way, the "two GTA (Gyanesh Theft Arrangers)" stars stood brutally exposed and that the institution of Parliament is being diminished greatly by the shenanigans of the "diabolical duo."
+
+The Congress last week said it has been 100 days since the Monsoon Session of Parliament was adjourned sine die, but Prime Minister Narendra Modi and Minister Shah are still in search of a "supertainted" two-thirds majority in Lok Sabha to get the delimitation bill passed.
+
+Ramesh then said it is in the nation's interest to let the current Lok Sabha strength and state-wise configuration continue with one-third reservation for women implemented till the Viksit Bharat objective is achieved.
+
+\- Ends
+
+
+---
+
 ## 24 November 2026
 
 ### Shrinking lakes, stagnant prices squeeze Vally’s lotus stem harvesters
