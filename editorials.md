@@ -1,8 +1,186 @@
 # Editorials
 
-_Last updated: 2026-11-25 10:16 UTC_
+_Last updated: 2026-11-26 09:56 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 26 November 2026
+
+### All to play for: On the World chess championship in Geneva
+*The Hindu · Editorial*
+
+The World chess championship opened in Geneva with a game worthy of the occasion. Both the defending champion, D. Gukesh, and his challenger, Javokhir Sindarov, produced chess of top quality, and the draw was a just result. Given that the Indian was playing with black pieces and that he had gone into the match as the less favoured of the two, Gukesh could be a little happier with the game than his Uzbek rival. The Chennai Grandmaster was in considerable time trouble on multiple occasions, but managed to solve his problems and found proper answers to the questions posed to him on the board by the confident Sindarov. The match has only begun, and there is plenty of chess left. It is a long match of 14 games, played in the classical time control, and the man who reaches 7.5 points will be the champion. The well-contested opening game would have given Gukesh, and his team comprising his coach and ‘seconds’, enough confidence, after several disappointing performances since he became the youngest World champion in history, at 18, by defeating China’s Ding Liren in Singapore two years ago. That match too had gone down the wire, with Gukesh winning the last of the 14 games, thanks to a terrible mistake towards the end by his rival.
+
+Sindarov is just six months older than Gukesh, making the Geneva match the youngest in the 140-year-old history of the World championship: both players are 20. It is remarkable that Gukesh has already seen the highs and lows of life at such a young age. For his opponent, the last one year has been better than a dream: from World No. 26 he has risen to No. 4. Chess is getting younger. The next World championship could also very well have two young contenders. Grandmasters are usually said to peak when they are around 30 and chess is one game that even older players have continued to excel in. Viswanathan Anand was 48 when he won the World rapid chess championship. The match between Gukesh and Sindarov has attracted considerable interest from across the sporting world. After the 1972 match between Boris Spassky and Bobby Fischer — the defining moment of world chess — the World championship has earned a reputation as one of the planet’s most important sporting events. No battle between two of the world’s most talented men in chess has ever disappointed.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/all-to-play-for-on-the-world-chess-championship-in-geneva/article71742697.ece)
+
+---
+
+### Take constitutional patriotism to the people
+*The Hindu · Opinion*
+
+Every November 26, on Constitution Day in India, a striking visual emerges on the political landscape. Opposition leaders, civil rights activists, and citizens step into the public space clutching pocket-sized editions of the Constitution of India — often bound in bright red. Waving these slender volumes is a powerful symbolic gesture that signals a collective resolve to defend the Republic against majoritarian consolidation and the erosion of democratic norms.
+
+While the Opposition and civil society have successfully turned the Constitution into a tactical symbol, they have largely failed to conceive, articulate, and propagate the spirit of constitutional patriotism (Verfassungspatriotismus in German). In treating the Constitution as a legalistic artifact, critics of the ruling regime have left behind a dangerous ideological vacuum. The Rashtriya Swayamsevak Sangh (RSS) and the broader Hindutva movement have stepped into this space — this is a shift from their historical rejection of the text to a strategic use of constitutional language to advance their ideology.
+
+At its core, constitutional patriotism means that a citizen’s primary loyalty should be based not on religion, ethnicity, blood ties or shared history, but on the universal principles, democratic procedures, and fundamental human rights enshrined in a constitutional framework.
+
+Though developed as a political theory in late 20th-century Europe, its intellectual roots can be traced to post-war German thinkers such as Karl Jaspers, Dolf Sternberger and Jürgen Habermas. Amid the rubble of the Second World War, German philosopher Karl Jaspers confronted the failure of volks-nationalism.
+
+In The Question of German Guilt (1946), he argued that a nation could no longer rebuild its identity on ethnic purity or national pride. Instead, Germans had to undergo a profound moral awakening, anchoring their political survival in individual conscience, reason, and the rule of law. Political scientist Dolf Sternberger formally coined Verfassungspatriotismus to mark the 30th anniversary of West Germany’s Basic Law. He sought to rescue the concept of patriotism from fascism, arguing that citizens could — and should — feel a deep, civilised affection for the rules of freedom and democratic institutions rather than an abstract, mystical fatherland.
+
+[Read full article](https://www.thehindu.com/opinion/lead/take-constitutional-patriotism-to-the-people/article71743188.ece)
+
+---
+
+### A message from the grassroots
+*Deccan Herald · Editorial*
+
+Results from Rajasthan’s Zila Parishad and Panchayat Samiti elections strike a note of caution for the ruling Bharatiya Janata Party (BJP) and provide some cheer for the Congress party after a long time.
+
+The Congress swept the elections at all levels of local government across rural areas, sending out an emphatic message. The party has won 794 of the 1,271 ZP seats declared, against the BJP’s 357.
+
+In the Panchayat Samiti elections, it has secured 3,758 seats against the BJP’s 2,213.
+
+The Congress outdid the BJP in 33 of 37 districts where counting was held. This is a clear shift in trends from the Assembly and Lok Sabha elections, where the BJP won impressive victories over the Congress. It remains to be seen how this adverse mid-term verdict will impact the Bhajan Lal Sharma government.
+
+A message from the grassroots
+
+The Congress victory is significant because it comes two months after the BJP emerged victorious in the urban local body elections. But the numbers were not comparable. The BJP won 4,179 wards but the Congress, with 3,613, was not far behind. It secured the majority in only four of the 10 municipal corporations.
+
+Meta officials meet Congress leaders amid Youth Congress protestsThe difference in vote share was marginal: BJP’s 35.18% against the Congress’s 34.24%. The ruling party projected the result as a major victory, calling it the people’s endorsement of the double-engine government's development-oriented policies.
+
+The Congress countered the claims, tracing the result to a self-serving delimitation of wards. The latest results leave no room for such ambiguity.
+
+The party has performed well across the state, including in Bharatpur, the Chief Minister’s home district. Top leaders of the ruling party faced reverses in their regions of influence.
+
+The results should worry the BJP. Rajasthan has a bipolar polity where the BJP and the Congress are evenly poised and have often alternated in government. While these elections are primarily fought on local factors and driven by caste and community equations and everyday issues, larger political considerations do sometimes steer the vote. A dominant trend can reflect these considerations.
+
+The BJP accused the Congress of campaigning on “lies and a fake narrative” about the Election Commission of India (ECI) and vote chori. That may be an acknowledgment of the impact those issues had on the rural voting behaviour, alongside inflation, unemployment, and concerns over the education system.
+
+The BJP has time to study what went against it and the Congress may have found a window to consolidate the win towards bigger battles.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-message-from-the-grassroots-4231331)
+
+---
+
+### Child marriage: Reform to deter
+*Deccan Herald · Editorial*
+
+The persistence of child marriage in Karnataka, despite legal safeguards, exposes the limits of treating an entrenched social practice as merely a law-and-order problem.
+
+According to the Directorate of Child Protection, FIRs fell from 830 in 2023 to 804 in 2024 and 650 in 2025. Yet, the state received 3,044 complaints last year and prevented 2,394 child marriages. Chitradurga recorded the most cases (82), followed by Kolar (66), Shivamogga (65), and Belagavi (64).
+
+No district has been declared child marriage-free. Balod in Chhattisgarh is the only such district in the country, while Kuppahalli gram panchayat in Chikkaballapura taluk is Karnataka’s sole example.
+
+The practice has survived generations, sustained by patriarchal customs, caste boundaries, and anxieties over family honour. Reformers campaigned against it for decades before the Child Marriage Restraint Act, 1929, became the first legislative intervention.
+
+It set the minimum marriage age at 14 for girls and 18 for boys. Amendments in 1949 and 1978 progressively raised these to 18 for girls and 21 for boys.
+
+The Prohibition of Child Marriage Act, 2006, retained these age limits but added stronger provisions for imprisonment, fines, and preventive intervention. Karnataka’s 2016 amendment went further, declaring child marriages void ab initio and empowering the police to act suo motu.
+
+Child marriage still persist in Karnataka despite Centre’s push; activists say more awareness needed National Family Health Survey (NFHS) findings highlight the link between girls’ education and delayed marriage. In rural areas, distant secondary schools and inadequate transport push girls out of education.
+
+Economic insecurity, dowry, and community pressure also lead families to marry daughters early. Some adolescents elope to escape restrictive homes or caste barriers, creating complex situations involving child marriage and POCSO laws.
+
+Whatever the circumstances, child marriage carries huge costs for girls. Early pregnancy increases the risks of anaemia and childbirth complications, while babies born to adolescent mothers are more vulnerable to premature birth and low birth weight.
+
+The loss of education and autonomy, psychological distress, and vulnerability to violence can undermine girls’ prospects and perpetuate deprivation. The state must move from merely stopping individual weddings to preventing the conditions that produce them.
+
+Girls need to remain in school, supported by safe transport, hostels, financial assistance, and counselling. Gram panchayats, teachers, anganwadi workers, and child protection officials must work together to identify vulnerable children and support those rescued.
+
+Sustained social media campaigns using short films and survivor accounts can reach young people where they spend much of their time. Laws can deter offenders; only sustained social change can end the practice.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/child-marriage-reform-to-deter-4231330)
+
+---
+
+### Is the Constitution working for Dalits?
+*Deccan Herald · Opinion*
+
+On a rural pathway outside Pardaha Sumer village in Uttar Pradesh’s Pratapgarh district, police found the body of Jilajit, a 50-year-old Dalit widower who drove a tractor for a local resident. His injuries, police said, suggested he had been beaten with sticks. Two suspects were detained; villagers spoke of a relationship with a woman. In the same news report, a 19-year-old was found hanging from a tree in Ballia. Two deaths, one headline, followed by silence.
+
+Whatever the investigation finds, Jilajit’s case now enters a justice system whose record is known. So, as the Republic marks Constitution Day on November 26, it is worth asking a blunt question: is the Constitution working for Dalits?
+
+The answer: it works at entitlement and fails at enforcement.
+
+On paper, the guarantees are formidable. Article 17 abolishes untouchability. Article 23 prohibits forced labour. The SC/ST (Prevention of Atrocities) Act, 1989, strengthened in 2015, creates special offences and special courts. The 2013 Manual Scavengers Act forbids sending a human being into a sewer unprotected. No Dalit citizen lacks a right. What they lack is a State willing to honour it.
+
+Look at the courts. Data tabled in the Rajya Sabha in July show 2,87,694 atrocity cases against Scheduled Castes awaiting trial at the end of 2024 — up from 1,77,379 in 2020. Only 5,192 cases ended in conviction in 2024. The conviction rate hovers around a third, and roughly 95% of cases in court remain pending. A law whose trials never end is a law that does not deter.
+
+Look at the sewers. Answering a Lok Sabha question this August, the government said 498 sanitation workers died cleaning sewers and septic tanks between January 2019 and June 2026, and that no death had been reported due to manual scavenging. The sleight of hand is definitional: the law ties ‘manual scavenging’ to insanitary latrines, so a man who suffocates in a manhole is filed as a ‘hazardous cleaning’ fatality. A death that cannot be named is not counted, and what is not counted is not prosecuted. In Balram Singh (2023), the Supreme Court fixed compensation at ₹30 lakh for every sewer death. The NAMASTE scheme has profiled 89,915 sewer workers, yet the government has set no deadline to mechanise the work. We know who is sent into the sewers. We know their castes.
+
+This is why B R Ambedkar must be read as a thinker of labour, and not only as the Constitution’s draftsman. In Annihilation of Caste (1936), he argued that caste is not merely a division of labour but a division of labourers. That year he founded the Independent Labour Party, and in 1938 he told Dalit railway workers at Manmad that Brahmanism and capitalism were twin enemies of the working class. For Ambedkar, the Dalit was first a worker: caste decided which work he did, what he was paid, and whether he came home alive. The man driving another man’s tractor and the man lowered into a manhole belong to the same story.
+
+Uttar Pradesh Dy CM calls SP-Congress alliance 'thug-bandhan', says BJP unaffected by such 'theatrics'On November 25, 1949, Ambedkar warned that India was about to enter “a life of contradictions”: equality in politics, inequality in social and economic life. He also cautioned that a Constitution is only as good as those called to work it.
+
+Seventy-seven years later, those who work it treat it as a prop. Every political party now waves the Constitution, at rallies and in Parliament. Opposition leaders brandish pocket copies; the ruling side stages its own Constitution-themed observances. Yet no government has lost an election because atrocity trials rot in special courts, and no municipal commissioner has gone to jail because a worker died in a drain. A question from the Leader of the Opposition produced the figure of 498. It did not produce a deadline.
+
+What would enforcement look like? Time-bound trials, with special courts fully staffed and their pendency published state by state. Every sewer death registered as an offence, with the employer, including the municipality, prosecuted. Mechanisation with a deadline, not a scheme. And a price for failure: any state whose atrocity backlog rises should answer for it on the floor of its legislature.
+
+Entitlement is written once. Enforcement must be done every day: by a police station in Aspur Deosara, a special court in Pratapgarh, and by an engineer standing over an open manhole. Until then, the honest answer this Constitution Day is that the Constitution works for Dalits on paper. On the pathway outside Pardaha Sumer, it is yet to arrive.
+
+Rejimon Kuttappan is an author and a forced labour consultant.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/is-the-constitution-working-for-dalits-4231681)
+
+---
+
+### United 'team UDF' loses sheen, internal dissent tests V D Satheesan’s mass appeal in Keralam
+*Deccan Herald · Opinion*
+
+As his government completed six months in office on November 18, Keralam Chief Minister V D Satheesan claimed that it had laid a strong foundation and would start delivering results in the coming months. But the period since then has seen anti-Satheesan factions in the Congress step up their moves against him.
+
+A delegation comprising veteran leader and former minister K C Joseph and Lok Sabha members Benny Behanan and Shafi Parambil met All India Congress Committee (AICC) president Mallikarjun Kharge to voice their displeasure over Satheesan’s unilateral style of functioning, especially his lack of consultation with the party and alleged neglect of those loyal to former Chief Minister Oommen Chandy.
+
+This was followed by intense online attacks and counterattacks between pro- and anti-Satheesan groups.
+
+AICC general secretary K C Venugopal, who lost the race for the chief minister’s post despite enjoying the support of a majority of Congress legislators, has repeatedly asserted that he would not be drawn into the moves against Satheesan. Yet, he remains a key target of pro-Satheesan groups online.
+
+Heated arguments at the Cabinet meeting on the day the government completed six months further indicated that Satheesan’s rivals in the party were not ready to give up.
+
+The Congress’ coalition partners, too, are expressing their displeasure over the delay in appointing heads to the scores of boards and corporations under the state government, even six months after coming to power. Kerala Congress (Joseph) and the Revolutionary Socialist Party (RSP) are also demanding Cabinet ranks for their veteran leaders.
+
+Honeymoon over for V D Satheesan? Congress leaders seek AICC interventionFurther political battles within the Congress and the ruling United Democratic Front (UDF) therefore seem inevitable.
+
+There are already complaints that Satheesan is favouring the Indian Union Muslim League (IUML), particularly after its leader M K Muneer was appointed chairman of the Administrative Reforms Commission with Cabinet rank, allegedly without consultations within the
+
+As the revolt against him gathers steam, Satheesan, too, appears to be sharpening his key weapon — mass and community support.
+
+He already enjoys good support among Muslims, and the IUML played a crucial role in influencing the AICC leadership to make Satheesan the chief minister, overlooking the greater support received by Venugopal as well as Home Minister Ramesh Chennithala from Congress legislators.
+
+Now Satheesan is trying to enhance rapport with other community leaders. He has ended his years-long differences with the leadership of the Nair Service Society that represents the prominent Hindu-Nair community.
+
+NSS general secretary G Sukumaran Nair, who had even openly flayed Satheesan’s selection as the Chief Minister, has now welcomed Satheesan to the NSS headquarters, stating that the differences were over.
+
+Satheesan’s rapport with NSS leadership assumes more political significance, as the other two contenders to CM post, Venugopal and Chennithala, are also from the Nair community.
+
+Now Satheesan is taking proactive measures to end the years-long feud between the Jacobite and Orthodox factions of the Malankara Syrian Church.
+
+Satheesan’s camp firmly believes that he still continues to have the edge with regard to mass support as evidenced by the swift implementation of popular schemes like the free travel for women in state transport corporation ordinary service buses and enacting the law for the protection and care of elderly persons. An increase in GST revenue is also being highlighted as a key achievement in six months by Satheesan.
+
+But still the government lags behind in announcing any major development projects or even expediting the infrastructure requirements to tap the potential of Vizhinjam International Seaport.
+
+The ongoing internal rifts are nothing new in Keralam politics, as the previous Congress and the CPM governments have witnessed such internal rifts.
+
+Political analysts point out that the difference this time is that the rift is coming out quite earlier, and they blame it on the party.
+
+“It is a weak party setup that causes the ongoing troubles for the Congress. The present Keralam PCC president Sunny Joseph is a minister in the Satheesan cabinet. The AICC should have taken swift measures to revamp the party’s organisational setup by appointing a seasoned leader as president and create a mechanism for party - government coordination,” senior journalist and political analyst B V Pavanan said.
+
+Political analyst Joseph C Mathew said that considering the enormous mass support Satheesan enjoyed, it is too early for any counter moves against him to gain steam. Moreover, his government indeed fulfilled key promises like free travel for women in state transport corporation’s ordinary service buses.
+
+A major drawback Satheesan seems to be still having is the limited influence on AICC leadership. From AICC general secretary in charge of Keralam Deepa Dasmunsi to leader of opposition Rahul Gandhi, Venugopal and Chennithala enjoy more rapport than Satheesan. Venugopal also continues to enjoy the support of a major chunk of Congress legislators in Keralam.
+
+On the other hand, Satheesan does not have clear-cut group support. Many youngsters who used to be his staunch supporters have shifted loyalties.
+
+Hence, Satheesan needs to come out with popular measures that directly give benefits to the people and thereby retain his mass support, which is his key advantage.
+
+[Read full article](https://www.deccanherald.com/opinion/united-team-udf-loses-sheen-internal-dissent-tests-v-d-satheesans-mass-appeal-in-keralam-4231359)
+
+---
 
 ## 25 November 2026
 
@@ -25,6 +203,17 @@ While Karnataka has spent years disputing motorcycle owners’ right to carry pa
 Overall, Karnataka has struggled to set up a consistent transport policy. An expert committee recommended against bike taxis in Bengaluru for first- and last-mile connectivity and in favour of better walking infrastructure and bicycle rentals in 2019, only for the State to launch the electric bike-taxi scheme in 2021, then rescind it in 2024 over safety concerns and drivers’ disputes. The market for short booked journeys is also dysfunctional. But while allowing bike taxis could temper autorickshaw fares, the State must investigate drivers’ operating costs, the difference between the paid and the received amounts, and prevent large platforms from exploiting the market. Finally, while the Union Road Transport Ministry has reported that 46.2% of all road deaths involved two-wheeler users, two-wheelers’ safety relative to autorickshaws and cabs, by the number and distance of journeys, is unclear. The State should require aggregators to report injuries and fatalities and investigate the consequences of drivers’ earnings being linked to the number of trips undertaken. The Union government’s 2025 Motor Vehicle Aggregator Guidelines already address passenger security, fares, and insurance while allowing States to authorise privately registered motorcycles through aggregators. Karnataka should exercise this additional power. A large national programme is required to address funding for public transport, which is necessary even when it is not immediately profitable.
 
 [Read full article](https://www.thehindu.com/opinion/editorial/spinning-wheels-on-urban-mobility-in-karnataka/article71738822.ece)
+
+---
+
+### Transfer assumption: On the SAD(B)-BJP alliance in Punjab
+*The Hindu · Editorial*
+
+Few parties understand the arithmetic of the first-past-the-post (FPTP) system, and the necessity for alliances in States where they are minor players, better than the Bharatiya Janata Party (BJP). The BJP has never shied away from partnerships with little ideological cohesion if they keep it electorally relevant. India’s FPTP system is unforgiving to smaller parties in a crowded polity if their support base is limited and dispersed. Votes translate into seats only if the support crosses a certain threshold. In Punjab, the BJP, despite its best efforts, has remained confined to sections of urban Hindu voters. Even after years of poaching leaders from the perennially fractious Congress, and after polling nearly a fifth of the vote in the 2024 general election without winning a seat, it realises that it cannot be relevant without a partner with a wider rural base. The Shiromani Akali Dal (Badal) walked out of the BJP-led National Democratic Alliance in 2020 over the Centre’s farm laws, which were later repealed, as the farmers’ agitation threatened its base in rural Punjab. But much water has flowed down the many rivers of the northern State since then. The Aam Aadmi Party (AAP) has consolidated its hold in a crowded political space and is set to complete a full term. The Panthic vote, which used to be the SAD(B)’s core support base, has now fragmented. The SAD(B) appears to believe that it can regain ground only by expanding beyond its Panthic and rural constituencies, and that the farmers’ anger against the BJP is baggage from the past. It is this expedient calculation that now binds the two parties, despite six years of bitter attacks against each other. And it is also why the Union Home Minister, Amit Shah, has pointedly called the SAD(B) the “big brother” in Punjab after sealing the alliance.
+
+The SAD(B)’s calculation may not work out as well as it hopes it would. Farmers’ anger against the BJP-led Centre has not entirely dissipated in rural Punjab. In earlier alliances, the two parties transferred votes to each other effectively, partly because their voters had fewer alternatives. But a revived Congress and an entrenched AAP have shown that they can win over urban Hindu voters wary of the Akalis and rural voters who are not inclined to back parties allied with the BJP. That these two sections will simply add up for the alliance is not certain. At best, the alliance consolidates enough of the anti-AAP vote to make this a clear three-cornered contest. Punjab is a sensitive border State and one of India’s granaries. It is also among India’s most indebted States, with a stagnating agrarian economy and a government that has expanded welfare expenditure despite strained finances. It needs a serious competition of ideas on what welfare it can afford and how to revive growth. The SAD(B)-BJP alliance, with its Panthic appeal on one side and Hindu consolidation on the other, instead offers a rehash of familiar identity politics. With AAP failing to deliver on governance, and the Congress stuck in its old ways, Punjab’s voters will have to decide who they dislike the least.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/transfer-assumption-on-the-sadb-bjp-alliance-in-punjab/article71743322.ece)
 
 ---
 
@@ -79,6 +268,15 @@ The SP has not yet showed an inclination to give into this tactic and has instea
 
 ---
 
+### DC Edit | Wunderkind Sooryavanshi One of a Kind
+*Deccan Chronicle · Editorial*
+
+Vaibhav Sooryavanshi is making a mockery of bowling attacks. With a sense of ease that is difficult to comprehend, the 15-year-old makes power-hitting look like child's play. His latest assault, representing India ‘A’ against the UAE in the Asia Cup Rising Stars tournament in Doha, was something straight out of a video game.A mind-boggling 204 off just 53 balls, including 28 sixes, left people struggling to make sense of what they had witnessed. Social media was soon flooded with comparisons to the EA Sports Cricket ’07 video game, with fans joking that Sooryavanshi must have had a cheat code switched on. It was that surreal.He rewrote a string of records with an innings that had everything — brute force, timing and an astonishing range of shots. The UAE bowling attack lacked experience, with only one of their five bowlers having played more than 10 List A matches. But hitting 28 sixes in an innings is no ordinary feat.T20 cricket has changed the way cricket is played, with the range of shots expanding considerably over the years. Sooryavanshi represents a new generation of hitters — fearless, uninhibited and seemingly unbothered by the reputation of the bowler or the occasion.Sooryavanshi’s stocky frame offers little indication of the power he generates. Much of it, according to biomechanics experts, comes from his remarkable hand speed, balance and core strength. He can hit straight, go over the leg side and find the boundary square of the wicket. He has the range to clear the ropes all around the ground. He has already shown that he can take on the best. During the 2026 IPL, he went after world-class bowlers such as Jasprit Bumrah and Pat Cummins without being overawed.The challenge now is to translate that promise into consistency at the international level. With Abhishek Sharma and Sanju Samson providing explosive starts, Sooryavanshi is not yet a regular in India’s T20I playing XI. His opportunities have been limited. In two appearances against New Zealand in the recent series, he managed an eight-ball four and a 19-ball 45. In 10 T20I innings since making his debut in July, he has scored two half-centuries, both against Zimbabwe. His first three outings against England, however, were underwhelming.His international career is still at a nascent stage and there will inevitably be failures along the way. The real test will come when he faces quality attacks in unfamiliar conditions, particularly against established sides. There is no need to rush the verdict on a teenager who has already achieved so much. Sooryavanshi has time on his side.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-wunderkind-sooryavanshi-one-of-a-kind-2007906)
+
+---
+
 ### Behind The Doval Summons: Legal Battle Or Contest For Influence?
 *Deccan Chronicle · Opinion*
 
@@ -101,6 +299,28 @@ Green Belts: Who guards the guardians?
 Of Haryana’s 41 Indian Forest Service cadre officers, 32 were caught in a reshuffle after the felling of around 2,000 trees in the Alipur-Shikargah Reserved Forest. The recovery of 19 truckloads of timber from Punhana, which weighed 2,724 quintals, reveals the scale. The cosy security of a state posting turned into a career risk. It is unclear if the scale of the reshuffle represents an administrative exercise, or an attempt to contain a scandal that shook the forest department. Chief conservator of forests Subhash Chander Yadav, a 2010-batch forest officer, was shifted from Gurugram to headquarters and the central circle, Rohtak. His transfer came after he submitted an earlier report that flagged the irregularities. At the top of the administrative level stands Sudhir Rajpal, IAS, additional chief secretary of Haryana’s environment, forest and wildlife...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/behind-the-doval-summons-legal-battle-or-contest-for-influence-2007677)
+
+---
+
+### Bhopinder Singh | Duty Outranks Power: A Lesson From Arlington
+*Deccan Chronicle · Opinion*
+
+Sometimes, the finest lessons in democracy and constitutional duty come not from the corridors of power, but from a young soldier quietly doing his job. There are moments when a nation’s greatest lessons in democracy, constitutionalism and public service are delivered not by its political leaders, but by an ordinary individual steadfastly discharging his duty.One such moment unfolded at Arlington National Cemetery during a Veterans Day ceremony. Specialist Thomas Iglesias, a sentinel guarding the Tomb of the Unknown Soldier, found himself in a situation that would have tested the composure of many. Among the visitors was the United States secretary of defence, Pete Hegseth, accompanied by his wife and senior Pentagon officials. When the solemnity of the occasion was compromised, Iglesias did what his duty demanded, i.e., he intervened and reprimanded the secretary of defence.Think about the significance of that moment. Here was a young soldier correcting one of the most powerful and controversial civilian officials in America's military establishment. He could not choose whom to correct, nor could he make an exception for someone occupying the highest civilian office in the Department of Defence.His responsibility was greater than the individual standing before him. The Tomb of the Unknown Soldier is not merely a monument. It is a solemn national promise to remember those who gave their lives in service to their country, including those whose identities were never recovered. Its sentinel represents an unbroken tradition of remembrance, discipline and reverence. Silence, dignity and respect are obligations incumbent upon every visitor, irrespective of rank, office or influence.And so, Specialist Iglesias upheld the standard. That is what makes this episode so profoundly moving. In an age when public institutions face mounting pressures of political loyalty and personality-driven authority, Sentinel Iglesias offered a powerful reminder that military professionalism is not about pleasing the powerful. It is about remaining faithful to one's responsibilities.A soldier's oath is not to a political personality, a president or a particular administration. It is to the Constitution. The uniform is worn in service of the republic, not in personal allegiance to those who temporarily govern it. This distinction is fundamental to constitutional democracy.The armed forces must remain politically impartial, professionally disciplined, and loyal to the constitutional order. Their duty is to serve the nation, not the political fortunes of those in power. This principle becomes particularly important during periods of political turbulence. The Trump era and controversies surrounding Pete Hegseth's approach to military leadership have made questions of military professionalism, institutional independence and politicisation particularly consequential. Yet, irrespective of one's political views, what happened next deserves recognition.Hegseth subsequently invited Specialist Iglesias to the Pentagon and presented him with the Joint Service Commendation Medal for his conduct. Indeed, there is something genuinely admirable about that response. It would have been easy for an officeholder accustomed to deference to take offence at being corrected by a junior soldier. Instead, Pete Hegseth chose to recognise and commend the soldier, his fearless professionalism.That gesture deserves acknowledgement. Not because it erases wider questions about political leadership, but because it reflects something enduring about the profession of arms, i.e., the ability to recognise duty even when one finds oneself on the receiving end of its enforcement. It was an act of institutional grace.Authority is not diminished when it submits to principle. It acquires legitimacy. A senior official who recognises the integrity of a junior soldier reinforces the institutional values upon which a professional military depends. Accepting correction, particularly when one occupies a position of considerable power, is itself an expression of leadership.Specialist Iglesias may have been guarding the Tomb of the Unknown Soldier that day, but he was also guarding something larger — the idea that duty must always outrank power! His conduct speaks to every soldier, sailor, airman and marine who has stood a lonely watch, upheld a regulation when it was inconvenient, or refused to compromise a professional obligation because someone influential was involved.It also speaks to civilian leadership. The true test of authority is not whether subordinates salute you, but whether you sustain an institution in which they can discharge their constitutional responsibilities without fear or favour. Honour, discipline, courage and integrity are not ceremonial words. They are standards to be lived, particularly when doing so is uncomfortable or consequential.Perhaps the most enduring image from this episode is not that of a secretary of defence being reprimanded by a young soldier....
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/bhopinder-singh-duty-outranks-power-a-lesson-from-arlington-2007934)
+
+---
+
+### Parsa Venkateshwar Rao Jr | Electrification of Economy Path to Decarbonisation
+*Deccan Chronicle · Opinion*
+
+The United Nations Framework Convention on Climate Change (UNFCCC)’s 31st summit meeting, also known as Conference of Parties (COP), held in Antalya, Turkiye (Turkey) on November 9-20, under the joint presidency of Australia and Turkiye — an interesting story in itself of the tussle at the Belem, Brazil, summit in November 2025 as to who would host COP 31 — ended without reaching a consensus summit statement. The fossil fuel question wrecked the consensus. The silver lining as it were of the doomed summit was the proposal of Turkiye’s minister for environment, urbanisation and climate change Murat Kurum of setting the conference’s goal of 35 per cent of energy consumption to be through electricity by 2035, making for the catchy 35/35 line. There were protests over the proposal, and many of them legitimate.The global energy consumption through electricity stands at 23 per cent in 2026, and it is indeed a steep climb from 23 to 35 in a matter of less than nine years. The European Union (EU) insisted that it has to be “clean electricity”, that is electricity generated from non-fossil fuel or renewable sources. The EU has a point. There is no point in generating electricity from coal-fired plants. The developing countries bluntly insisted on the need to increase financial aid and transfer of technology. It is the old battle of who will pay to transit to a green economy.The developed countries have not kept their promise of transferring $300 billion, which was agreed at Baku in November 2024, while the demand was for $1.3 trillion. It was indicated that the rest of the needed money should be raised through public and private sources, including multi-lateral development banks (MDBs) like the World Bank. This is a deadlock between the governments of the developed and developing economies.Meanwhile, India seems to be perched comfortably on the issue of clean energy goals. India had undertaken to have an installed power capacity of 50 per cent by 2030, but it has reached the goal four years ahead of the deadline. But the catch is that of the 300 GW of installed power from renewable sources, led by solar power (164 GW), only 29.2 per cent power consumption is from clean energy sources, and coal is the fallback fossil fuel resource for 70 per cent of electricity consumption. India would be able to meet the target of 35 per cent energy consumption through electricity by 2035. It is certainly gratifying that India meets the climate summit goals, though it is despairing to watch the energy consumption patterns, and the complicated subsidy patterns that underlie them. According to an International Institute for Sustainable Development (IISD) report of April 2026, titled “India’s Energy Policy 2026”, the energy subsidy that the central and state governments provide reveal an interesting pattern. Oil subsidies account for 58 per cent of the total energy subsidy bill, natural gas subsidy share is 17 per cent and clean energy sources absorb 10 per cent of the total. Whatever its share of energy consumption, clean energy decreases oil import bill and also the carbon emission levels.In this century, carbon emissions fell in 2009 due to the financial meltdown which put a brake on economic activity, in 2020 due to Covid-19 and in 2026 due to hike in oil prices due to the US-Iran war. The decrease in emission. 0.4 per cent was rather small compared to the total emission number, which is projected to be about 43.3 billion tonnes. It is recorded that the emissions have increased 0.8 per cent every year between 2019 and 2025. A Nature Climate Change article, “A further acceleration of clean energy is needed for global CO2 emissions to peak and decline”, in its November 9 issue, argues that the CO2 emissions avoided by energy consumption through clean energy sources is as high as 70 per cent. That is, the carbon emissions that would have happened if petrol and diesel dependent vehicles were plying would have been avoided by the use of electric vehicles. But the share of transport sector in terms consumption and emissions is small though proportionately significant.An overwhelmingly large proportion of CO2 emissions are due to industrial activity, and the contribution of the transport sector is around 10 per cent of the total emissions.
+
+So, electrification of industrial processes like in the manufacture of steel and aluminum will be needed to effect a bigger reduction in emissions.
+
+But the electrification of transport sector will mark a significant reduction in the emission levels. The share of EVs (electrical vehicles) in Indian transport sector reached about 11.43 per cent in the first half of 2026. The Indian transport sector’s share of carbon emissions is 12 per cent in 2026, and 90 per cent of it is through road transport. So, EVs would have avoided about one per cent of the transport sector emissions, which in turn would mean a fraction of one per cent in the total emission levels of the country.What India seems to need is a...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-electrification-of-economy-path-to-decarbonisation-2007920)
 
 ---
 
@@ -186,6 +406,75 @@ The Centre, too, must support a revision of incentives under the National Health
 The government must move beyond periodic assurances and deliver a settlement backed by policy and funding. Anything less will deepen distrust and weaken the foundation of community healthcare.
 
 [Read full article](https://www.deccanherald.com/opinion/editorial/value-asha-work-honour-the-promise-4230005)
+
+---
+
+### A commitment to strengthen our Constitution
+*Deccan Herald · Opinion*
+
+On November 26, 1949, the Constituent Assembly adopted our Constitution. Today, we remember Rajendra Prasad, B R Ambedkar, and every member of the Constituent Assembly. Their greatness lay in drawing extensively from the rich traditions and civilisational wisdom of India while framing a modern Constitution.
+
+For a nation as diverse as India, with its numerous faiths, languages, customs and schools of thought, it is important for the Constitution to have a resonance far beyond the precincts of Parliament and the courts.
+
+'Living document': Constitution's 106 amendments mirror India's socio-political evolutionOur endeavour has been to deepen its connect with the collective consciousness of our people — especially our youth — and strengthen the spirit of unity essential to India’s bright future. That is why over a decade ago, our Government decided to mark November 26 as Constitution Day.
+
+For crores of Indians, including me, the Constitution of India is an inseparable part of our life journeys. Whenever I look back at my childhood, the humble circumstances in which I grew up, the struggles that were a part of everyday life, I am filled with an overwhelming sense of gratitude towards our Constitution.
+
+That a child born into a family of modest means, with no privileges or advantages of birth, could one day be entrusted with the responsibility of serving the world's largest democracy speaks volumes about how extraordinary our Constitution is. It is due to our Constitution that circumstances of one's birth no longer determine the limits of one's future.
+
+In our own humble way, we have sought to repay this debt of gratitude by strengthening our Constitution.
+
+The distinguished constitutional scholar Granville Austin described our Constitution as “first and foremost a social document”. The quest for social and economic justice runs through the very fabric of our Constitution. Thus, what can be more satisfying than working towards the realisation of this cherished vision of the makers of our Constitution?
+
+A recent World Bank report highlights that nearly 50 crore Indians have moved out of poverty. Breaking free from generations of deprivation, crores of parents can now dream of a better future for their children.
+
+When the PM Awas Yojana ensures a family moves from a thatched roof to a pucca home, the constitutional promise of dignity acquires meaning.
+
+When the Ujjwala Yojana frees a mother from the hardships of a smoke-filled kitchen, we advance the ideals of equality and well-being.
+
+When Ayushman Bharat enables a poor family to access quality healthcare without the fear of debt, social justice becomes a lived reality.
+
+When MUDRA and PM-SVANidhi provide collateral-free credit to small entrepreneurs and street vendors, economic justice finds expression.
+
+When digital technology and platforms like UPI transcend all divides and place opportunities once available to a privileged few within the reach of every citizen, we advance the constitutional ideal of inclusivity.
+
+There are many more manifestations of this constitutional vision. The list of amendments we brought can be viewed through the same prism. The 101st Amendment ushered in GST, a long-awaited reform. The 102nd Amendment granted constitutional status to the National Commission for Backward Classes, fulfilling a long-standing dream of the marginalised sections of society.
+
+The 103rd Amendment received broad social acceptance. By providing reservation to Economically Weaker Sections, it addressed the long-overlooked aspirations of economically disadvantaged families from communities outside the existing reservation framework.
+
+For the first time since 1950, an updated version of our Constitution is now available in all 22 languages of the Eighth Schedule. This has brought our Constitution closer to the people.
+
+Even after our Constitution came into force in 1950, we continued to be governed by the colonial penal code dating back to the 1860s. With the Bharatiya Nyaya Sanhita, we have sought to bring about a fundamental shift in our criminal justice system, moving from the colonial emphasis on punishment to a citizen-centric pursuit of justice.
+
+Over the past decade, we have laid special emphasis on "kartavya", or the duties of a citizen. Our civilisation has always emphasised the responsibilities that accompany every role in society. The spirit of "kartavya" has found expression in several mass movements, from Swachh Bharat to water conservation and environmental protection.
+
+However, there is another reality that I feel compelled to share. There have been occasions in our history when those entrusted with upholding the Constitution chose to weaken it. Ironically, they are the same people who had the opportunity to govern India for five decades.
+
+This year marks 75 years since the First Amendment of 1951, when a government that was not popularly elected used its majority in the Provisional Parliament to restrict fundamental freedoms. Its timing, barely months before India’s first general election, proves that it was intended to influence the electoral process and stifle public opposition.
+
+It is also 50 years since the 42nd Amendment at the height of the Emergency. This curtailed judicial review and fundamentally altered the balance of institutional powers. I would also urge youngsters to study the 38th and 39th Amendments to know what a power-hungry and anti-constitutional leadership can do.
+
+The repeated misuse of Article 356 to dismiss elected state governments presents another troubling chapter. One party has the dubious record of imposing Article 356 almost a hundred times and one former Prime Minister has scored a half-century in this field.
+
+The makers of our Constitution had hoped that it would be implemented in letter and spirit across India. But, for over 70 years, Articles 370 and 35A did not allow the full Constitution to be implemented in Jammu and Kashmir, thus trampling over the rights of SC, ST, OBC communities, and women. It was only in 2019 that this historical wrong was corrected.
+
+For decades, in several parts of India, particularly in tribal areas, Naxalites used the might of the gun to deny the poorest people the rights guaranteed to them by our Constitution. The successful elimination of Naxalism this year is particularly heartwarming because it has ensured that the poorest of the poor can finally exercise their constitutional rights without fear. Now, we are left only with "Dimagi Naxals", far removed from the realities of our times but persistent in their efforts to derail our growth trajectory.
+
+It is most appalling that the biggest party in the Opposition wants to reduce OBC reservation and bring Muslim reservations, something the makers of our Constitution, notably Ambedkar, were totally against.
+
+The journey of our Constitution would be incomplete without recognising the remarkable women who helped shape it. But what happened earlier this year should fill our hearts with shame.
+
+Legislation aimed at giving women adequate representation in legislative bodies was disallowed from being passed by the one Opposition party, once again showing its disdain for constitutional values. I assure the "Nari Shakti" of India that no force can prevent us from ensuring that justice is done to them.
+
+Our constitutional democracy has a clearly defined role for the Opposition. Sadly, the leading Opposition party seems to have become more of an obstructionist than an Opposition. They should know that disrupting democratic processes is no substitute for discharging constitutional responsibilities.
+
+Today, India stands at a defining moment. As we work towards Viksit Bharat by 2047, two simple-yet-powerful principles can guide our collective endeavours: India First in our thinking and "kartavya" in our actions. With these as our guiding principles and the Constitution as our source of strength, we can secure a bright future for generations to come.
+
+The author is the Prime Minister of India.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/a-commitment-to-strengthen-our-constitution-4231063)
 
 ---
 
@@ -22097,134 +22386,6 @@ Bharat Bhushan is a New Delhi-based journalist
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/mohan-bhagwats-costly-global-gambit-from-under-the-radar-to-under-fire-4126971)
-
----
-
-## 27 August 2026
-
-### Drawing lines: On the India-China 25th Special Representatives’ talks
-*The Hindu · Editorial*
-
-Following Tuesday’s talks between the Special Representatives (SRs) on the boundary question, India and China have agreed to substantial outcomes on managing the disputed border. According to an eight-point consensus released on Wednesday, both countries have agreed to advance discussions on “an early and substantial harvest of boundary delimitation”. They have agreed to hold next month a meeting of an expert-level mechanism on trans-border rivers and to maintain communication on sharing hydrological data, which India has been pushing for. Two additional meeting points to hold talks between top military commanders will be set up, along with two new channels of hotlines in the Eastern and Middle Sectors. National Security Adviser Ajit Doval and China’s Foreign Minister Wang Yi reaffirmed the efforts taken over the past two years to keep the peace along the Line of Actual Control, and committed to continuing the on-going normalisation in relations. That the NSA’s visit to Beijing took place before India hosts the BRICS Summit, on September 12, underlined both sides’ keenness to continue with this process of re-engagement, with the expected visit of Chinese President Xi Jinping after a gap of seven years. An October 2024 meeting between Prime Minister Narendra Modi and Mr. Xi kickstarted this calibrated effort towards normalcy, and a 2025 meeting in Tianjin helped continue the momentum. It is apparent that both sides see continued engagement at the highest level as key to sustaining this process of normalisation.
-
-The dual tracks of the SR meetings and the Working Mechanism for Consultation and Coordination on border affairs, a body comprising diplomats and military officials, have worked well towards keeping the borders generally stable over the past two years. The latest outcomes will certainly help in keeping the peace. Less clear is how both sides intend to take up the task of border delimitation. Neither side has explained which parts of the border they plan to delimit, or whether they are reconsidering the 2005 agreement on Political Parameters and Guiding Principles, under which the SRs were tasked with first agreeing a framework to settle the boundary. While both sides in Beijing reaffirmed the 2005 agreement, Article 10 of its text notes that it is only on the basis of the framework that both sides can delineate the boundary. Tangible progress on the border dispute must certainly be welcomed. However, agreements made without public visibility, notwithstanding their merit, may invite suspicion. As India and China continue negotiating their long-running boundary question, it is imperative that they bring their publics along.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/drawing-lines-on-the-india-china-25th-special-representatives-talks/article71392887.ece)
-
----
-
-### Grounded: On Tamil Nadu’s Parandur airport project
-*The Hindu · Editorial*
-
-The Tamilaga Vettri Kazhagam (TVK)-led government, in dropping the ₹27,400-crore greenfield airport project at Parandur near Chennai, appears to have considered the opposition to the project without weighing the consequences. The decision follows an electoral promise made by Chief Minister C. Joseph Vijay, who had visited the protesters in January 2025 to express his solidarity. The government says the move is aimed at protecting the interests of farmers and local residents. It has also cited the presence of waterbodies and has alleged commercial motives behind the site selection under the previous DMK government. Notwithstanding these official reasons, all valid to varying degrees, it became clear from the day Mr. Vijay became Chief Minister, on May 10, 2026, that the decision was merely a formality. In fact, much before the announcement, on August 24, work on the project had come to a halt. However, the move is likely to have adverse consequences for Tamil Nadu. The move risks creating a general perception that Tamil Nadu is unstable in its infrastructure policy, which the TVK government should have avoided, given its goal of making the State a $1.5 trillion economy by 2036.
-
-While Mr. Vijay has spoken of identifying a new airport site, his proposal for a Terminal 5 at the existing airport is necessary and welcome. However, it is common knowledge that a greenfield airport will take years to materialise, even with unwavering government attention — the idea for a second airport had been under consideration for over 25 years. At one stage, the Union government had wanted it to be developed on a build, operate and transfer mode. Unfortunately, the project was caught in the game of political one-upmanship between the two Dravidian majors. Meanwhile, Bengaluru and Hyderabad have had new second airports since 2008, despite regime changes. Passenger traffic here has grown at Tamil Nadu’s expense — at an annual average rate of 10% during 2016-26 compared with 2.4% in Chennai. Parandur received the Union government’s final nod in July 2024, after much groundwork. When the State government is not the ultimate authority in airport site selection, it would not be appropriate to attribute motives to the DMK. Land for any mega project has always faced landowner resistance and the TVK regime may experience this while identifying a new site. No development project can take place without disturbing the environment and certain sections of society. Even Amsterdam’s busy Schiphol airport sits over an area that was once a lake. At the existing airport in Chennai, a runway was affected by the severe floods in 2015. What policymakers should bear in mind is the need to balance development and climate change challenges. Chennai needs more runways, not just new terminals.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/grounded-on-tamil-nadus-parandur-airport-project/article71392944.ece)
-
----
-
-### The high cost of India’s private health-care boom
-*The Hindu · Opinion*
-
-For crores of Indian families, the financial shock of hospitalisation — especially in a private hospital — begins even before treatment is complete. The Parliamentary Standing Committee on Health and Family Welfare, in its 176th Report tabled in Parliament on August 7, 2026, noted that the average cost of hospitalisation is ₹50,508 in a private facility, compared with ₹6,631 in a government facility. For childbirth, the average out-of-pocket medical expenditure in private facilities is ₹37,630, against ₹2,299 in public facilities.
-
-Some of the contradictionsThe committee has made 368 recommendations, including standardised package rates and mandatory pre-treatment cost estimates. Among the widely reported proposals is that basic room tariffs in metropolitan private hospitals should not exceed the average tariff of three-star hotels that are nearby. It has also suggested that large corporate hospitals earning from medical tourism, foreign patients and high-net-worth individuals should cross-subsidise poorer Indians and reserve beds for Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) beneficiaries at regulated rates. Yet, there is a contradiction. India wants more private and foreign capital in health care, particularly in Tier-2, Tier-3 and rural areas, while simultaneously asking the government to review foreign direct investment rules related to the acquisition and management of existing hospitals.
-
-There is a strong case for continued investment in Indian health care. Hospitals require substantial capital. Land, equipment, intensive care units, digital systems, laboratories and trained personnel are expensive. Public hospitals cannot currently meet all demand for secondary and tertiary care. Private hospitals therefore fill an important gap. Foreign investors and private-equity funds can bring capital, managerial capacity, technology and the capacity to expand hospital networks. India also needs investment in pharmaceutical and medical-device manufacturing. If regulation becomes excessively restrictive or unpredictable, some investment may move elsewhere. This could slow capacity expansion and delay the development of better health-care infrastructure in cities and districts where need is genuine.
-
-Related StoriesPanel seeks review of FDI in private hospitals, warns of aggressive corporatisation, rising healthcare costs
-
-When the plug gets pulled: India’s healthcare sovereignty is at stake
-
-From insurance-driven private health care to equity
-
-Women account for 49% of hospital admissions under AB-PMJAY: National Health Authority report
-
-Building health for 1.4 billion Indians
-
-However, in all sectors, capital comes with expectations of returns. In health care, it creates a special concern because patients are not ordinary consumers. A patient rarely decides independently whether an MRI is required, whether hospital admission should continue for two more days, or whether a procedure is necessary. Health care is shaped by what economists call information asymmetry: the provider knows more than the patient. Therefore, when financial incentives become too strong, they can influence not just the price of care but also how much care is delivered.
-
-A closer look at private careThis is where the role of private equity and venture capital in health care deserves closer attention. Corporate hospital groups increasingly compete for well-known specialists, sophisticated technology and premium infrastructure. These can improve quality, but also create a high-cost ecosystem. Hospitals that pay very high salaries to senior specialists and super-specialists, acquire expensive equipment and operate under pressure to increase revenue must eventually recover these costs. Revenue targets, procedure-linked incentives, higher occupancy expectations and higher revenue per bed can gradually influence institutional behaviour. Most doctors act in patients’ interests. Yet, systems shape behaviour. If hospitals and doctors are rewarded for doing more, the direction becomes predictable.
-
-No shortcuts to hiking health spend to 2.5% of GDPThe result is not only higher cost but also a worrying medicalisation. Lab investigations may detect abnormalities that would never have caused harm. More screening can lead to unnecessary follow-up tests. A patient who could be managed as an outpatient may be admitted. Caesarean sections, angioplasties, intensive-care admissions, diagnostic packages and long lists of medicines must therefore be seen not only as individual clinical decisions but also within the incentive structure of the health system. This does not mean these interventions are usually unnecessary. It means that a system rewarding interventions and procedures needs strong safeguards against unnecessary prescriptions, surgeries, investigations and medications.
-
-That is why a review of FDI in the acquisition of existing hospitals is justified. Domestic investors can be equally profit-oriented, while foreign investment can create valuable capacity. The more useful question is about what an investment does to the health system. Does it create new beds or simply acquire existing ones? Does it improve competition or lead to market concentration? Does it enter an underserved district or add another high-end facility in a metro? If an investor receives concessional land, tax benefits or other public support, are there enforceable obligations related to affordable beds or participation in public insurance schemes? India should encourage greenfield investment and manufacturing, while scrutinising acquisitions that reduce competition or raise the risk of excessive pricing.
-
-How AI can be optimised for better healthcarePrice regulation also needs to be approached carefully. The proposal to link hospital room charges to nearby three-star hotels is easy to understand, but cannot by itself solve the affordability problem. A hospital room includes nursing, infection-control and emergency support that a hotel room does not. More importantly, if one component of the bill is capped, hospitals may increase charges elsewhere. India’s experience with coronary stent price regulation showed that government intervention can reduce excessive mark-ups. But hospital care is more complex; what matters is the total cost of an episode. Package rates, transparent estimates, billing standards and audit mechanisms are therefore more useful than isolated caps on individual components. There is also an established approach to such payments: Diagnosis-Related Groups (DRG). A DRG is a patient-classification system that standardised hospital reimbursement by paying a fixed, predetermined amount for an inpatient stay based on the diagnosis and procedures, rather than reimbursing each service separately.
-
-Focus on public healthThere is a larger policy question. India cannot regulate its way out of weak public health care. If government hospitals remain overcrowded, understaffed or difficult to access, citizens will continue to depend heavily on private providers. Experience from OECD countries has shown that one effective form of regulation is a strong public health system that provides a credible alternative.
-
-Related StoriesIMA flags threats to nation’s affordable, accessible health system
-
-Prioritising health for a sustainable future
-
-Private healthcare needs reform in public interest
-
-Public hospitals must therefore become a genuine option, not merely the last resort for those who cannot afford private care. Primary health care needs strengthening so that disease is prevented, detected and treated early. Insurance systems, including AB-PMJAY, should reward appropriate care rather than simply higher volumes of procedures. Clinical audits, evidence-based treatment protocols and transparent billing can protect both patients and doctors from commercial pressures.
-
-The Parliamentary Committee is right to focus attention on affordability and to question whether the current pattern of investment in private health care aligns with public interest. Price caps and an FDI review are reasonable starting points, but India needs a wider conversation about the kind of health-care system it is building. Private investment will remain essential, and profit by itself is not the problem.
-
-The problem begins when the pursuit of returns starts a key influence. A health-care system should attract capital, but its clinical priorities must still be set by medical need. The true measure of India’s health-care progress will not be how much money flows into hospitals or what is the annual compounded growth rate in medical tourism, but whether Indian citizens can enter them with confidence that they will receive what they need. No more, no less.
-
-Chandrakant Lahariya is a practising physician specialising in preventive and cardio-metabolic medicine, whose upcoming book, Pill-Free: You Don’t Need Everything You Have Been Prescribed, will be released in September 2026
-
-[Read full article](https://www.thehindu.com/opinion/lead/the-high-cost-of-indias-private-health-care-boom/article71393651.ece)
-
----
-
-### Fire safety cannot be an afterthought
-*Deccan Herald · Editorial*
-
-The death of three newborn babies in a neonatal intensive care unit of a government women’s hospital in Maharashtra’s Amravati is a reminder of the poor safety systems and protocols in our hospitals, and another call for urgent corrective measures. While the hospital staff rescued 36 babies in the unit, six of them are undergoing specialised treatment in other hospitals. The unit treats premature, low-weight, and critically ill infants, many of whom were brought there from other hospitals. The fire broke out early Monday morning. It is reported that most of the babies were rescued due to prompt action by the nurses and other hospital staff. While the staff deserve appreciation for their efforts, the hospital management and the state government should be held accountable.
-
-According to preliminary reports, an explosion or short circuit in a ventilator at the facility caused the fire. The presence of oxygen cylinders in the room likely hastened the spread of the fire. Questions must be asked about the maintenance of electrical systems, the effectiveness of fire warnings, alarms and smoke detectors, and emergency response protocols followed at the hospital. The fire audit had reportedly expired, and the electrical audit was due. In 2021, a fire at a newborn care unit of the district general hospital in Maharashtra’s Bhandara killed 10 infants. Clearly, no lessons have been learnt. The Opposition’s demand for a state-wide audit of hospitals must be considered. Monday’s fire underlines a fundamental principle in fire safety and prevention – preparedness cannot stop; emergency response cannot end with the event.
-
-Three newborns die in fire at Maharashtra’s Amravati hospital, 36 rescuedThe Amravati fire is not an isolated incident. Over decades, hundreds of lives have been lost in hospital fires in the country, revealing persistent gaps in the systemic response to such disasters. A hospital must be a place of safety for patients, caregivers, and medical staff, and ensuring that safety is the responsibility of the authorities. India has the laws, regulations, and safety protocols, but preventable tragedies repeat because of poor enforcement. The state government has announced compensation for the affected families and ordered an investigation into the causes of the fire, the hospital’s preparedness for emergencies, and its post-event response. Yet such inquiries often become routine exercises, with their findings remaining isolated instead of informing a broader strategy. Accountability must be fixed, and those responsible must face consequences. Action must be prompt, certain, and strong enough to make negligence and complacency costly.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/fire-safety-cannot-be-an-afterthought-4125320)
-
----
-
-### SIR: Response window must be extended
-*Deccan Herald · Editorial*
-
-Karnataka’s Special Intensive Revision (SIR) of electoral rolls has reached a stage where procedural haste could cost genuine voters their most fundamental democratic right. With the draft rolls published, more than 1.07 crore names have been marked under the categories of absent, shifted, duplicate, dead, and others (ASDDO), shrinking the electorate to 4.46 crore. Another 43.81 lakh voters are likely to receive notices over logical discrepancies or an inability to be mapped to the 2002 rolls. More troublingly, voters have only seven days from the generation of a notice to respond – an unreasonably short window. Chief Minister D K Shivakumar has written to Chief Election Commissioner Gyanesh Kumar seeking an extension of the claims-and-objections period to three or four weeks, along with more electoral registration officers (EROs) and district election officers (DEOs). These requests merit serious consideration.
-
-ASDDO cases account for 19.48% of the existing electorate, but only a small fraction is due to duplication (1.28%) or death (2.96%). The bulk comprises voters marked as permanently shifted, absent, or untraceable. Shivakumar has pointed out that one reason is that people who had shifted were not allowed to fill out the enumeration form at their new place of residence. The process was complicated from the outset by the requirement that voters be mapped to the 2002 rolls – a baseline for which, an RTI response has revealed, the Election Commission has no documented rationale. Those who could not be mapped must produce one of 11 specified documents. But what of those without such documents, or the means to procure them? Notably, Home Minister Priyank Kharge has told the legislature that the SIR exercise has found no Bangladeshi or other foreign national on the electoral rolls – meaning over a crore Indians will now have to produce paperwork and stand in long queues merely to prove they are Indian.
-
-SIR has redrawn Bengaluru's electoral reality — without moving a single ward boundaryThe correction process compounds the problem, placing the burden of proof on the voter. A rejected claim can be appealed to the DEO and then the Chief Electoral Officer – but expecting senior citizens, persons with disabilities, migrant workers, or labourers to travel to district headquarters or to Bengaluru for such appeals is unreasonable. The entire process should happen locally to the greatest extent possible. The Commission must extend the notice-and-response period by at least a month and ensure adequate assistance on the ground. As the Chief Minister rightly put it, mobility, poverty, absence of documentation, or lack of information must not become reasons for disenfranchisement.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/sir-response-window-must-be-extended-4125315)
-
----
-
-### How both Max Mueller and Dayanand Saraswati annoyed Sanatani orthodoxy
-*Deccan Herald · Opinion*
-
-Swami Dayanand Saraswati and Friedrich Max Müller were near contemporaries. Over a 100 years ago, both interpreted the Vedas. But they approached the enterprise in very different ways. Orthodox Sanatani Brahmin scholarship viewed both with suspicion, though not equally, and for reasons that differ from those assumed by modern Sanatanis.
-
-Dayanand Saraswati employed the yaugika approach, prioritising etymology (meaning-making) over conventional usage. He argued that a word's meaning derives from its verbal root, rather than from its actual historical application. While Yaska's Nirukta permits this, it is typically reserved for obscure terms whose ordinary sense has been lost. He, however, extended this method universally, particularly where the literal sense challenged his thesis. Conversely, where convention suited him, as with the term Aghanya, he retained it. This suggests his method was adapted to fit a predetermined conclusion, rather than the conclusion emerging from the method. He began with certainties: the Vedas are monotheistic, ethically pure, scientifically prescient, and free of animal sacrifice, then interpreted the text retrospectively to support these assertions.
-
-This approach led to two main problems. Firstly, anachronism: he identified statecraft in hymns about horses and modern science in agricultural verses, superimposing 19th-century categories onto archaic texts. Secondly, and more profoundly, he rejected internal evidence. The Brahmanas and Srauta Sutras meticulously describe Vedic ritual in procedural detail, treating sacrifice as a physical act, not a metaphor. Dayanand Saraswati dismissed this entire corpus as post-Vedic corruption. This was the significant price of his allegorical interpretation. Nevertheless, his achievements were also substantial. He repositioned the Veda at the core of Hindu self-understanding precisely when Christian missionaries were using Sayana's literal commentary to denigrate Hindu rituals as primitive. His reading, though apologetics disguised as philology, served a vital purpose.
-
-Is Sanatan Dharma only 200 years old?Müller, in contrast, approached the Veda from the opposite direction. He treated it as a historical document, evidence of a religion evolving over time, rather than as an eternal revelation delivered in its entirety. He edited the seminal critical Rig Veda, basing his edition on Sayana's 14th-century commentary. Sayana lived in times of the Vijayanagar empire and was a Vedic scholar of great acclaim, advising the royal family.
-
-Müller applied comparative Indo-European philology, whereas Dayanand Saraswati employed etymological force. Where Dayanand Saraswati found timeless monotheism, Müller proposed henotheism — the worship of one god at a time without denying the existence of others. Where Dayanand Saraswati banished sacrifice, Müller documented it, following Sayana's ritual interpretation rather than erasing it. His flaws differed from Dayanand Saraswati’s but were no less significant. His framework was Christian and evolutionary, often portraying Vedic religion as an early stage on a civilisational ladder. The Aryan migration theory he popularised was later appropriated for purposes he never intended.
-
-Here lies the crucial point often overlooked by most Sanatanis. Müller's approach aligns more closely with the traditional Indian commentarial lineage than Dayanand Saraswati’s, as he built upon Sayana, who stands within an unbroken chain of Brahminical interpretation extending through the Puranas and ritual manuals. Dayanand Saraswati, conversely, constructed his interpretation by severing this chain. He declared Sayana's commentary corrupted by later ritualism and subsequently dismissed the Brahmanas as evidence entirely. Philologically, Müller was the more conservative reader; Dayanand Saraswati was the radical.
-
-Yet, popular Sanatani opinion is reversed. Dayanand Saraswati is celebrated as the authentic voice, while Müller is dismissed as a colonial outsider with a hidden Christianising agenda. The reasons for this are not philological. Dayanand Saraswati was Indian, founded a reform movement, publicly challenged missionaries, and presented Hindus with a Veda that required no apology, no animal blood, no polytheism — nothing a Victorian might scorn. Authenticity, in this narrative, means an Indian articulating what a Hindu wishes to hear, rather than a foreigner reconstructing what the text conveys through its oldest available commentary. Müller's fidelity to Sayana, ironically the very commentator Dayanand Saraswati rejected as corrupted, is interpreted as evidence of foreign bias rather than scholarly conservatism.
-
-For the Mimamsa pandits observing both men from within the tradition, this popularity contest would have seemed absurd. Both readers stood outside sampradaya, the teacher-to-student transmission that alone establishes meaning. Dayanand Saraswati attracted sharper censure, as he attacked image worship, hereditary caste, and the ritual authority of the priesthood from within Hindu identity itself. Müller was a foreigner working in good faith but without initiation.
-
-In the traditional view, neither philology nor nationalism unlocks the Veda; only lineage does. Dayanand Saraswati was seen as Gujarati vegetarian Brahmin and so became seen as more ‘authentic’ than the meat-eating German funded by the British. So Dayanand Saraswati could get away equating buffaloes to dark rain clouds. Müller remained the secret agent of missionaries in conspiracy theories.
-
-Devdutt Pattanaik is the author of more than 50 books on mythology. X: @devduttmyth.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/how-both-max-mueller-and-dayanand-saraswati-annoyed-sanatani-orthodoxy-4125703)
 
 ---
 
