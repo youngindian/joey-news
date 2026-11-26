@@ -1,3 +1,625 @@
+## 26 November 2026
+
+### BharatGen launches Indian vision language model Patram 1.5
+*BL Bengaluru Bureau · business*
+
+BharatGen evaluated Patram 1.5 on 49 tests: 34 public benchmarks and 15 tasks from PatramBench, its own benchmark built from 8,773 pages of Indian documents, which will be released on Hugging Face in the coming days.
+
+BharatGen, the AI company backed by the Department of Science and Technology (DST) and the IndiaAI Mission, MeitY, has launched Patram 1.5, an indigenous vision-language foundation model.
+
+Banks, insurers, hospitals and government offices in India handle large volumes of scanned, stamped, handwritten and mixed-language documents every day, from KYC submissions and bank statements to medical reports and government circulars. Patram 1.5 has been designed for such documents, including those with images, photographs, tables, charts, forms, signatures, seals and poor-quality scans.
+
+## How does a vision-language model work?
+
+Most document systems today rely on Optical Character Recognition (OCR), which converts a page into plain text. To answer questions about that text, the output is often passed to a large language model (LLM), which can reason over words but cannot see the page itself. Anything lost in the OCR step, such as the layout of a table, a stamp or a handwritten note, never reaches the LLM.
+
+A vision-language model (VLM) such as Patram 1.5 looks at the page as an image and reads and reasons over it in a single step, so these details remain part of what it understands.
+
+Patram 1.5 also introduces OCR 3.0. Earlier OCR returns all the text on a page in a fixed way, or in formats decided by the system, usually through a pipeline of separate tools. With OCR 3.0, this is built into the model itself: users describe in plain language only the information they need, and the model returns it in the format and structure their own systems use.
+
+The model has also been trained to recognise when it cannot answer. If a field is blank or a figure is illegible, it says what it cannot read and why, instead of guessing; where a reasonable guess is possible, it shares the guess and flags it for a person to check. This matters in financial services, healthcare and governance, where one wrong entry can affect a decision.
+
+BharatGen evaluated Patram 1.5 on 49 tests: 34 public benchmarks and 15 tasks from PatramBench, its own benchmark built from 8,773 pages of Indian documents, which will be released on Hugging Face in the coming days. The evaluation covered 20 other AI models that read images, both specialist and general-purpose, of up to 763 billion parameters, and seven specialist OCR systems.
+
+## What is BharatGen Playground?
+
+On the BharatGen Playground, people can work with Patram 1.5 through chat. The Playground also offers ready-to-use solutions for common document tasks (Parse, Extract, Classify, Split and Section, with Digitize, Translate and Edit coming soon), which can be combined into workflows, such as sorting a set of KYC documents and cross-checking them before a person signs off, with templates for finance, healthcare and legal use.
+
+Rishi Bal, Chief Executive Officer, BharatGen, said, “A model alone can only take you so far. The BharatGen Playground gives the world a full stack for document intelligence, with models, solutions and workflows working together.”
+
+Established in October 2024, BharatGen is a Section 8 not-for-profit AI company which was also selected for the IndiaAI Mission under MeitY. It is anchored at IIT Bombay and draws on a consortium of nine of India’s top academic institutions.
+
+Prof. Ravi Kiran Sarvadevabhatla, Consortium Member, BharatGen, and Professor at IIIT Hyderabad, said, “WithPatram 1.5 and BharatGen Playground, we chart a new capability frontier for sovereign vision models and document understanding workflows.”
+
+## Where to get Patram 1.5?
+
+Patram 1.5 is available as open weights on Hugging Face. At 7 billion parameters, it is compact enough for banks, hospitals and government departments to run on their own infrastructure, so sensitive documents need not leave their systems. It can also be tried on the BharatGen Playground.
+
+Patram 1.5 is the latest in BharatGen’s Patram family, which began with Patram 1 in June 2025.
+
+Published on November 26, 2026
+
+---
+
+### Shaktipeeth Expressway row: Why Maharashtra farmers are up in arms against the proposed project - what we know | Mint
+*Livemint · industry, economy*
+
+Opposition to Maharashtra's proposed Shaktipeeth Expressway has intensified, with farmers in Sangli and Kolhapur districts confronting officials conducting land surveys and staging protests against the acquisition of agricultural land.
+
+The agitation escalated on Tuesday, with Swabhimani Shetkari Sanghatana president Raju Shetti leading an eight-hour sit-in protest at Mahuli village in Sangli's Khanapur taluka. Police also detained several protesters as tensions mounted over the ongoing surveys, _The Indian Express_ reported.
+
+Farmers from Mahuli, Nagewadi and Bhagyanagar villages have opposed the proposed alignment, arguing that the project threatens fertile agricultural land on which their families have depended for generations.
+
+During the protests, some demonstrators damaged surveying equipment brought by the official team.
+
+A similar confrontation took place in Konavade village in Kolhapur's Bhudargad taluka, where farmers objected to an early-morning land survey being conducted under police protection. The survey was scheduled to cover Konavade, Mhaswe, Nilpan and Nadhavade, among other villages.
+
+As tensions escalated, protesters reportedly seized a survey tripod and set it on fire.
+
+## Why farmers are opposing the Shaktipeeth Expressway
+
+Farmers have argued that acquiring agricultural land for the highway would threaten their livelihoods and disrupt farming activities in the region.
+
+They also questioned the government's decision to pursue the project despite their opposition, saying they did not want the Shaktipeeth Expressway to pass through their village.
+
+## Supriya Sule questions project spending, backs farmers
+
+The opposition to the expressway has also drawn political attention, with NCP (SP) MP Supriya Sule questioning the government's approach to the project.
+
+Speaking about the agitation, Sule said senior political leaders, including Jayant Patil, Raju Shetti and Satej Patil, had been leading the protests against the proposed highway.
+
+According to a _PTI_ report, Sule urged the Maharashtra government to take the farmers' concerns seriously.
+
+She clarified that her party was not against infrastructure development but argued that the state's financial position should be considered before taking up large projects.
+
+"The NCP (SP) is not opposed to development. We are not against development, but the state's present financial condition must also be taken into consideration while pursuing development projects," she said.
+
+Sule added that addressing farmers' concerns should be the government's priority at present.
+
+## What is the Shaktipeeth Expressway project?
+
+The Shaktipeeth Expressway is a proposed six-lane greenfield highway intended to connect Pavnar in Wardha district to Patradevi in Sindhudurg, near the Maharashtra-Goa border.
+
+The project is expected to pass through 12 districts and link several important religious destinations, while improving road connectivity between eastern Maharashtra and the Konkan region.
+
+In July, the Maharashtra government approved a revised alignment that extended the proposed highway's length by 54 km to 856.7 km. The changes also increased the estimated project cost from around ₹80,000 crore to approximately ₹1 lakh crore, according to _The Indian Express_.
+
+The revised route includes a 40-km stretch through Satara district, covering Gondawale and Shikhar Shinganapur. Changes have also been made to the alignment through Nanded, Hingoli, Parbhani, Solapur, Sangli and Kolhapur.
+
+The project is expected to require the acquisition of approximately 8,760 hectares of land.
+
+Once completed, the expressway is expected to reduce travel time between Nagpur and Goa from around 18 hours to eight hours.
+
+### About the Author
+
+Livemint
+
+For about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on all the listed companies on BSE and NSE, startups, mutual funds, Union ministries, geopolitics, and untapped human interest stories from around the world, helping our readers to stay informed on the latest developments around the globe. Our Coverage Areas 1. Companies: Comprehensive news and analysis on listed and unlisted companies, corporate announcements, corporate chatter, C-suite, business trends, hiring alerts, layoffs, work-life balance, world's top billionaires and richest and more. 2. Personal finance: Insights into mutual funds, small savings schemes like - PPF, SSY, post office savings scheme, stock to watch, personal loans, credit cards, top bank FDs, real estate, income tax and more. 3. Politics: Comprehensive coverage of general elections, state elections and bypolls, Lok Sabha, Vidhan Sabha, Parliament, PMO, PIB, finance ministry, home ministry, among other union ministries and government departments. 4. National News: From metro cities like Delhi, Mumbai, and e to untapped stories from rural India, we cover human interest, health, education, crime and courts, and law and order, among other areas of public interest. 5. Economy: In-depth analysis of India's macro and micro-economic indicators like- GDP, inflation, forex, fiscal deficit, current account deficit, interest rate cycle, economic recovery, RBI circulars, indirect taxes, GST, Insolvency and Bankruptcy imports, exports and everything that impacts Indian economy. 6. Geopolitics: Well-rounded and deeply researched coverage on US News, Oval Office European Union, Ukraine Russia War, middle-east crisis, royal families and global leaders like - Donald Trump, Vladimir Putin, Kim Jong Un, Xi Jinping and premiers of other leading economies in the world. Meet the Team 1. Gulam Jeelani, Political Affairs Editor 2. Sugam Singhal, Senior Assistant Editor 3. Chanchal, Assistant Editor 4. Sanchari Ghosh, Chief Content Producer 5. Pratik Prashant Mukane, Chief Content Producer 6. Sayantani Biswas, Chief Content Producer 7. Ravi Hari, Deputy Chief Content Producer 8. Garvit Bhirani, Deputy Chief Content Producer 9. Akriti Anand, Senior Content Producer 10. Jocelyn Felix Fernandes, Senior Content Producer 11. Swastika Das Sharma, Content Producer 12. Mausam Jha, Content Producer 13. Riya R Alex, Trainee Content Producer
+
+---
+
+### Father dies dancing at daughter's wedding, family hides news from bride
+*Unknown · general*
+
+Father dies dancing at daughters wedding family hides news from bride
+
+[Read full article](https://www.indiatoday.in/newsmo/short-videos/father-dies-dancing-at-daughters-wedding-family-hides-news-from-bride-3047304-2026-11-26)
+
+---
+
+### Vivo X500 Pro Max review: This photography beast knows how to steal the spotlight
+*Armaan Agarwal · general*
+
+A smartphone can do a lot of things, but at the end of the day, it is a tool for most of us. We use our smartphones to make calls, chat with friends, watch videos, or do some work. But then there are phones that are built for something more, something that makes you pause and take note. Vivo’s X500 Pro Max is one such phone.
+
+Getting noticed is important now more than ever. Phonemakers are no longer shying away from bringing the best of their arsenals to India, from Oppo’s Find X10 series to the upcoming iQOO 16, the flagship market is buzzing. But Vivo knows this, and it seems that it has packed plenty in the X500 Pro Max to fend off rivals. Of course, all that firepower comes at a price.
+
+The Vivo X500 Pro Max costs Rs 1,64,999 in India. Add another Rs 27,999 if you want to go all-in with the teleconverter kit. The question remains, is it worth it? Let’s delve right into our full review here at India Today Tech.
+
+### A design that means business
+
+The Vivo X500 Pro Max is not a phone that you can ignore, and it starts with the design. When most smartphones are sticking to almost similar-looking square or rectangular camera modules, the X500 Pro Max carries the familiar circular arrangement we saw last year. While design is subjective, the X500 Pro Max looks like a device that isn’t trying to fade in the background, even in the Eternal Black shade we have.
+
+The Vivo X500 Pro Max looks and feels premium.
+
+And there is another trick up its sleeve too. The Vivo X500 Pro Max has a split design on the glass back, with the upper portion – which houses the cameras – being raised just slightly via a gentle curve. This adds an element of character to the phone that you appreciate when you hold the device.
+
+Speaking of holding the device, the X500 Pro Max comes with a smooth finish on the back with a subtle pattern. The phone feels great in hand, though it can pick up some fingerprints from time to time. The rectangular frame is made of aluminium. Of course, you get IP68 and IP69 ratings for dust and water resistance, keeping the device safe from the elements.
+
+Moving our attention to the front, the X500 Pro Max has a large 6.85-inch display. Despite the large size, the device is fairly easy to hold in one hand, with your index finger naturally resting below the camera module. Though given the 225 grams of weight and thickness of 8mm, it is a phone you’ll need both hands to do the heavy-lifting.
+
+### Maxxing out the display
+
+The Vivo X500 Pro Max uses a 6.85-inch 2K AMOLED display with a 144Hz refresh rate. The bezels are uniform, and there is a rather fast ultrasonic fingerprint sensor too.
+
+The X500 Pro Max can go from 144Hz to 1Hz.
+
+When it comes to day-to-day use, the X500 Pro Max’s display is impressive. The phone has a peak brightness of 4,400 nits, with a high brightness mode, or HBM, it is 2,000 nits. During my time with the device, I never found myself struggling to see the screen even under direct sunlight. And if you like to doomscroll at night, the screen can drop down to just 1 nit of brightness too.
+
+Moving beyond the brightness, the X500 Pro Max has a 144Hz refresh rate, but that is limited to select first-party apps and some games. Though I found that mostly, the phone stuck to 120Hz for Vivo’s default apps. That is not a dealbreaker though, it is usually the case for most phones.
+
+Coming to colours, the Vivo X500 Pro Max’s screen looks punchy and vivid whenever you are watching something colourful. You get the deep blacks too. The phone also supports Dolby Vision as well as HDR10 Plus on Netflix. Pair this with stereo speakers and Dolby Atmos support, and the X500 Pro Max is a no brainer for binging shows on the move.
+
+Though one thing you will have to do once you set up the X500 Pro Max is to change the resolution to 1440p from 1260p if you really want to make most of the panel. And one more thing. The display is an LTPO panel, so it can switch from 144Hz all the way down to 1Hz to save battery.
+
+### And then we have the cameras
+
+Yes, the cameras. Cameras are what sets apart flagship phones these days, and Vivo has gone all-in with the X500 Pro Max. For starters, the X500 Pro Max uses a 50-megapixel Sony LYTIA L910 main sensor with a 1/1.28-inch sensor size. The 3.5x telephoto is a 200-megapixel Samsung HP0 sensor with a 1/1.4-inch sensor size. A 50-megapixel Samsung JN5 ultrawide with a 1/2.76-inch sensor size rounds up the lineup. You get Zeiss branding and the T-star coating for the lenses.
+
+The Vivo X500 Pro Max has three cameras on the rear with Zeiss branding.
+
+On top of that, the phone also comes with two imaging chips from Vivo – the Vs1 and V3 plus. All of this may sound a bit technical – and it is – but the moment you open the camera app, everything starts to make sense. The Vivo X500 Pro Max is a phone designed to take good photos, but it also pushes you to step out and explore the world around you. Yes you get the basic camera controls and different modes. However, that is just part of the story.
+
+In typical Vivo fashion, the X500 Pro Max comes with tons of features such as various colour styles. Once you start tinkering around with these modes, the magic begins. Using the Pro mode on the X500 Pro Max at Humayun Fort, it was like going back in time, when I was learning how to use a DSLR in college. I never liked the still photography class and I never really paid attention, but the X500 Pro Max made things so simple that I enjoyed playing around with the cameras during my visit.
+
+The main camera captures sharp details with impressive dynamic range. The telephoto – at 3.5x optical zoom – is ideal for portrait shots, and can capture an incredible amount of detail. Even at 10x, images can be usable. Though the telephoto does seem to be on the slightly warmer side in terms of colours. The ultrawide too is able to deliver decent shots that you can actually use without worrying about losing colour accuracy or details. Moving to the 50-megapixel Samsung JN1 selfie shooter and it is a similar story. And selfie portraits look impressive too.
+
+The X500 Pro Max pushes you further. While you will more often than not get reliable pics the moment you click the shutter, the phone rewards you for playing around with it.
+
+**Click on any image below to view the entire gallery**
+
+And all of the effort does not go to waste while posting on social media either. Vivo has partnered with Meta to ensure that details from images shot on the X500 Pro Max do not get compromised while posting on Instagram. Given that most of us love to show off our photos on social media, this is a welcome addition.
+
+There is a lot for video recording too. The Vivo X500 Pro Max can record up to 8K video at 30fps. The videos themselves get new features such as auto framing and vertex shots – the camera rotates up to 360-degree without you having to move the phone – and more. But for creators, the bigger feature is the support for recording log footage, this captures more details for video editing. You can also use custom LUTs for videos. The Pro video mode mimics that of professional cameras, including colour graphs. Slow motion videos can be recorded at 4K up to 240fps.
+
+### Don’t forget performance and battery
+
+Like how a Formula 1 car can make use of its aerodynamics when it has a powerful power unit underneath, a phone can only make most use of its cameras when it has the performance to back it. The Vivo X500 Pro Max uses MediaTek’s latest flagship chipset, the Dimensity 9600 Pro.
+
+The X500 Pro Max comes with MediaTek's latest flagship chipset, the Dimensity 9600 Pro.
+
+The MediaTek Dimensity 9600 Pro is a 2nm chipset, making it one of the most powerful processors out there right now, even outperforming the Snapdragon 8 Elite Gen 5. This chipset is paired with 12GB of LPDDR5X RAM and up to 512GB of UFS 4.1 storage.
+
+This gives the Vivo X500 Pro Max plenty of firepower to make use of everything it has. Regular activities, such as scrolling through social media, reading articles, watching videos, or even switching between apps, everything happens seamlessly. Even while using Origin Workbench - which lets you open 5 apps at once – the phone barely feels the heat.
+
+But of course, thermal management is key when it comes to heat. During my time with the X500 Pro Max, the phone did not get too warm – thanks to the a 5,800 square mm vapour cooling chamber – even during some of my longer gaming sessions on COD Mobile – which runs at up to 120FPS. While using the camera outdoors for extended periods, you may feel the phone getting slightly warm – which is to be expected given the hardware at hand – though in summers, heat generation may be a tad higher.
+
+In terms of benchmarks, the phone scores nearly 4 million on AnTuTu 12. On Geekbench 6, the X500 Pro Max scored 2,640 points in single-core, and 5,558 multi-core.
+
+That being said, all of this does take a toll on battery life. The Vivo X500 Pro Max packs a 7,800mAh battery, making it the largest that we have seen on an X series phone.
+
+While using the X500 Pro Max as my primary phone, I found that the phone delivered decent – but not great – battery life on most days. On workdays, I would easily have about 40 per cent left by bedtime, and the phone would last longer the next day. But the moment you start pushing the phone – photo sessions outdoors or long gaming runs – the battery takes a bit of a hit.
+
+On busier days when I used the cameras extensively, I found the phone dropping to about 10 per cent by the end. Now this does not mean the battery life is bad. The Vivo X500 Pro Max’s hardware consumes more energy than what a midrange phone might consume for instance. As a result, such battery drain is not surprising. Still, for most users, you can expect the X500 Pro Max to last for a day and a half on most occasions.
+
+Then there is charging. The Vivo X500 Pro Max supports 90W wired charging – the charger comes with the phone – and 40W wireless charging. When it comes to wired charging, the phone can go from 20 to 80 per cent in about 40 minutes, with a full charge taking nearly an hour. There is also support for PD 3.0 PPS charging standard if you are using third-party chargers. While Vivo does sell third-party magnetic cases for the X500 Pro Max, the phone still does not come with magnets on the back for Qi2.2 wireless charging – something we feel should become the norm for flagship phones by now.
+
+### OriginOS 7 is feature-packed
+
+While we have discussed almost every hardware aspect about the Vivo X500 Pro Max, the software is just as important. The X500 Pro Max runs on Android 17-based OriginOS 7. While we have seen the latest OriginOS version in the Vivo V80, there is plenty to talk about here.
+
+This is how Origin Workbench looks on the X500 Pro Max.
+
+To begin with, OriginOS on the Vivo X500 Pro Max looks gorgeous. The liquid glass-like animations are across the UI and if it is to your taste, you will find yourself appreciating it here. There are also tons of customisation options for the lockscreen with special effects when you move your phone. There is even a dim Always on display mode that may have been inspired by iOS.
+
+Looks are not all that matter. Vivo has packed in a lot of useful features too. As I mentioned earlier, Origin Workbench lets you run and switch between up to 5 apps. I found this particularly useful while working. I could have email opened on one tab, X on another, with the browser and WhatsApp running too. This allowed me to easily switch apps as I navigated different tasks on each one. Even beyond work, it can be useful for instances when you are trying to book a cab on different apps.
+
+There are also AI features such as AI Snap and Go for adding events to Google Calendar, or smart call assistant for answering calls to unknown numbers, similar to an iPhone. There is also the Jovi AI assistant that can do some tasks for you.
+
+Additionally, the X500 Pro Max can AirDrop files to Apple devices, making connectivity with iPhones simpler. Vivo’s Office Kit too makes things easier, allowing you to even mirror your screen on an iPad, laptop or even a smart TV. Vivo says you can also connect an Apple Watch to the X500 Pro Max and get some health tracking and data.
+
+While OriginOS 7 on the X500 Pro Max is well optimised, Vivo is offering 5 years of OS updates and 7 years of security patches, still a bit behind Samsung and Google who give 7 OS updates, but long enough.
+
+### Should you buy the Vivo X500 Pro Max?
+
+This brings us to the verdict: Is the Vivo X500 Pro Max worth your money? The answer is not so simple. The X500 Pro Max costs a premium but it comes with the features to back that price tag. The display is impressive, and the performance is what you’d expect from an Android flagship today. Of course, the cameras steal the show, giving you lots of room to experiment.
+
+The X500 Pro Max knows how to grab your attention.
+
+And that is what should dictate your call on the X500 Pro Max – how you plan to use it. The Vivo X500 Pro Max is not a phone that you buy just to flex it to your friends or to do the same things you can do on a less expensive device. It is a phone that you get when you want to go all out, when you are ready to go out and touch grass just to see what you can do with the cameras. While I may have not liked still photography in college, with the X500 Pro Max, I almost fell in love with it, which is frankly what makes the phone worth it.
+
+\- Ends
+
+---
+
+### Did Donald Trump's move to bring back Jensen Huang as Nvidia CEO upset Marco Rubio? Here's what we know
+*Monica Singh · general*
+
+Jensen Huang reinstated as Nvidia CEO after secret weekend push by Trump and JD Vance. Move sidelined Marco Rubio, Jay Clayton, Howard Lutnick and exposed rift in Trump team.
+
+Trump brings Jensen Huang back as Nvidia CEO, Rubio left fuming
+
+As news broke on Monday morning that Jensen Huang was being reinstated as Nvidia CEO, US Secretary of State Marco Rubio was seething. After all, it was a memo prepared by Rubio months ago that warned Donald Trump of Jensen's relationship with a suspected Chinese spy (Alice Huang). However, Rubio was nowhere in picture as Trump and Vice President JD Vance led a secret weekend push to bring back Jensen, according to a CBS News report.
+
+Weekend's behind-the-scenes effort to bring back Jensen was led by a small circle involving Trump, Vance and Nvidia's board. Trump wanted Jensen back at Nvidia at all costs. He also dialled Wall Street and Silicon Valley titans to get their backing.
+
+## **How Trump got Huang back at Nvidia?**
+
+Imagine situation. A president calling one of world's most valuable companies and telling its board to reinstate CEO is indeed extraordinary. It's hard to imagine any president other than Trump doing that.
+
+What ultimately clinched Jensen's return was Trump's assurance to Nvidia board that administration would not consider him a national security risk and that he was not target of a Justice Department probe.
+
+However, assurances did not extend to Alice, a former executive at Singapore-based company Megaspeed who is believed to have smuggled Nvidia's AI chips into China. US intel officials believe she was recruited to spy by China's Ministry of State Security (MSS).
+
+Trump later said in an interview with CNBC that Jensen was "exonerated" after a "pretty good investigation".
+
+## **Comeback exposes rift in Trump team**
+
+However, Trump's zeal to bring back Jensen exposed a fault line within his own team.
+
+Director of National Intelligence (DNI) Jay Clayton, who was probing interactions between Jensen and Alice, was not involved in discussions to reinstate Nvidia boss.
+
+US Commerce Secretary Howard Lutnick was also not involved in weekend strategising. This despite Lutnick's department being responsible for enforcing export controls on advanced semiconductor chips. CIA director John Ratcliffe was also kept out of loop, as per CBS report.
+
+Rubio, who doubles up as Trump's national security adviser, conspicuously stayed out. In fact, both Rubio and Treasury Secretary Scott Bessent had voiced concerns about Huang's comeback. But in White House, it's Trump's way or highway.
+
+Late on night of November 22, Nvidia board shared with Trump and Vance that Jensen would be reinstated as CEO and director before markets opened on Monday.
+
+## **Marco Rubio left fuming**
+
+As news flashed on Monday morning, Rubio was particularly angry, CBS reported.
+
+And why not. It was Rubio who had warned Trump about Huang's affair with Alice. His classified memo earlier this year laid out Alice's ties to China's top intel agency. He also briefed Trump directly about it while they were en route to China in May, The New York Times reported. Nvidia boss would later join trio in Beijing.
+
+Yet, Trump seems to have repeatedly brushed off Rubio's warnings.
+
+Despite snub, Rubio has not publicly broken with Trump. However, disappointment was writ large on his face when reporters asked him about Jensen's return on Monday. US Secretary of State, a China hawk, just offered an awkward smile before leaving hurriedly.
+
+Developments come amid strong buzz of Rubio quitting Trump's Cabinet amid differences with president over several issues, including Iran conflict.
+
+## **Why did Trump want Jensen Huang back?**
+
+But why did Trump want Jensen Huang back at Nvidia so badly? So much so that he was willing to ride roughshod over his own officials and even someone as senior as Rubio.
+
+Always there to hog limelight, President has since claimed credit for Jensen's return. He told CNBC that he "convinced them" to rehire him.
+
+"I spoke to them. And I convinced them," Trump told bluntly on his call with Nvidia board. Nvidia had categorically ruled out Jensen's return just days ago.
+
+Behind Trump's concerted effort lies importance of Nvidia to US economy. US President has staked nation's economic growth on artificial intelligence.
+
+Moreover, Jensen's ouster also tanked stock market. Trump might have also feared Nvidia without Jensen risked putting US behind China in race for dominance in AI.
+
+Thus, Jensen back at helm of Nvidia might have given Trump market stability he wanted. But cost was inside administration, with incident exposing tensions within Trump team.
+
+---
+
+### Supreme Court Sets Aside Bihar Government's Remission For Former MP Anand Mohan In 1994 Murder Case
+*Arun Dhital · politics*
+
+The Supreme Court on Thursday (26 November) set aside the Bihar government's decision to grant remission to former MP Anand Mohan, who was convicted in the 1994 killing of Gopalganj District Magistrate G Krishnaiah.
+
+The court held that the state's move to amend its prison manual could not be defended, noting that the government had failed to explain the reasoning behind the change. The amendment, made on 10 April 2023, cleared the way for Mohan's release on 24 April that year.
+
+Mohan has been directed to surrender within a month, and a fresh remission process can begin only after he does so. The court clarified that the state was not barred from granting him remission, provided due process was followed.
+
+It also allowed the petition filed by Krishnaiah's widow challenging Mohan's premature release.
+
+Krishnaiah, a 1985-batch IAS officer of the Bihar cadre, was serving as Gopalganj District Magistrate when he was attacked near Muzaffarpur on 5 December 1994. His car was caught in a crowd accompanying the funeral procession of gangster-turned-politician Chhotan Shukla, who had been killed a day earlier. The officer was pulled out of the vehicle, beaten and shot dead.
+
+Mohan was accused of instigating the mob and was later convicted for his role in the killing. A trial court awarded him the death penalty in 2007, which the Patna High Court reduced to life imprisonment in 2008. The Supreme Court upheld his conviction in 2012.
+
+His release, made possible by the Nitish Kumar government's changes to the state's remission rules, had sparked a political row.
+
+---
+
+### Sharad Pawar admitted to Breach Candy hospital in south Mumbai
+*SECTIONS Sharad Pawar admitted · business*
+
+Sharad Pawar admitted to Breach Candy hospital in south Mumbai
+
+PTILast Updated: Nov 26, 2026, 01:46:00 PM IST
+
+Synopsis
+
+Sharad Pawar, the chief of NCP (SP), was admitted to Breach Candy hospital in Mumbai. His daughter, Supriya Sule, reported his condition was due to dehydration. She noted that he should slow down and travel less. Recently, Pawar was hospitalized for a chest and respiratory infection. Sule left a meeting to be with her father during this time.
+
+Sharad Pawar admitted to Breach Candy hospital in south Mumbai
+
+Mumbai, NCP (SP) chief Sharad Pawar was admitted to a hospital in south Mumbai on Thursday, with his condition appearing to be due to dehydration, his daughter and party MP Supriya Sule said.
+
+"Admitting Baba (father) to Breach Candy hospital. Looks like dehydration. He needs to slow down and travel less. Baba just doesn't listen. He loves his work too much. Thank you for your concern and good wishes," she said.
+
+  
+
+NCP (SP) sources said Sule was at the party office in Nariman Point to attend a meeting called by their state president Shashikant Shinde, but left halfway to be with her father.
+
+Recently, the 85-year-old veteran leader was in hospital for a chest and respiratory infection.
+
+---
+
+### Vivo X500 series launched in India, Pro Max model has top-notch ZEISS camera
+*Armaan Agarwal · general*
+
+We are well into the flagship smartphone season and Vivo has just launched its latest offering, the X500 series. The phonemaker introduced three models – the Vivo x500, x500 Pro, and the X500 Pro Max. The three phones follow the tried-and-tested formula of the X series bringing capable camera hardware paired with top-of-the-line specs. At the same time, Vivo is also entering the smartwatch space with the Watch GT2.
+
+Before we have a deeper look at everything Vivo launched today, you should know that the X500 series follows the X300 devices, as there was no X400 lineup – 4 is considered a bad omen in Chinese culture.
+
+### Vivo X500 series: Design and display
+
+All three models follow the familiar X series design language with large circular camera modules and glass backplates. While the vanilla X500 does change things a bit as its circular cutout is placed on a rectangular camera module, the X500 Pro and X500 Pro Max look similar to last year. The X500 Pro Max does get a slightly raised top half as part of its dual-tone finish.
+
+The Vivo X500 series comes with aluminium frames on all three devices as well as IP69/IP69 ratings for dust and water resistance. The base X500 comes in two colours, Ember Red and Titanium Black. The Pro and Pro Max get Apex Orange and Eternal Black options.
+
+Coming to the display, The X500 Pro Max leads the range with a 6.85-inch LTPO 2K AMOLED display. The display can switch anywhere from 1Hz to 144Hz and has up to 4,500 nits of peak brightness. The X500 Pro switches to a more compact 6.36-inch LTPO 1.5K AMOLED display with the same refresh rate.
+
+Meanwhile, the base X500 opts for a 6.59-inch 1.5K AMOLED display with a 144Hz refresh rate and up to 4,000 nits of peak brightness. Though this is an LTPS panel.
+
+### Vivo X500 series: Cameras
+
+Cameras have always been the highlight of the X series and the case is no different this time around. The X500 Pro Max uses a 50-megapixel Sony LYTIA L910 main sensor with a 1/1.28-inch size. The 3.5x telephoto is a 200-megapixel Samsung HP0 periscope camera with a 1/1.4-inch sensor size. A 50-megapixel Samsung JN5 sensor covers ultrawide shots, while another 50-megapixel camera sits on the front.
+
+The X500 Pro uses the same main and ultrawide sensors as the Pro Max, but opts for a 64-megapixel Sony LYTIA 610 3.5x periscope sensor for the telephoto. The selfie shooter is also the same as the Pro Max.
+
+All three Vivo X500 series phones can also be used with the company’s teleconverter kit, though the 400mm teleconverter unit is exclusive to the Pro Max. Vivo says that the teleconverter kits from the X300 series are also compatible with these models.
+
+On the other hand, the vanilla X500 uses a 50-megapixel Sony LYTIA 828 primary camera, a 64-megapixel telephoto camera and a 50-megapixel Samsung JN1 ultrawide camera.
+
+All three phones come with Zeiss-branding and T-star coating on the lenses. You get multiple colour filters on all cameras as well as various video modes such as portrait video and auto-framing. The Pro models come with a dedicated Pro mode for videos, allowing you to record Log videos or use custom LUTs.
+
+### Vivo X500 series: Performance and battery
+
+The Vivo X500 Pro and the Pro Max use the MediaTek Dimensity 9600 Pro chipset, which is based on a 2nm process. This is paired with 12GB of LPDDR5X RAM and up to 512GB of UFS 4.1 storage. Both phones also get a vapour cooling chamber for thermal management. The base X500 runs on the 3nm-based MediaTek Dimensity 9600M chipset
+
+On the battery front, the Vivo X500 Pro Max uses a 7,800mAh battery with support for 90W wired and 40W wireless charging. The X500 Pro switches to a a 6,510mAh battery while the X500 opts for a 7,500mAh unit. Both phones have the same charging speed as the Pro Max.
+
+All three phones run on Android 17-based OriginOS 7 with Vivo's productivity tools such as Origin Workbench and Officekit. You also get tons of AI features for calls, voice recordings, image erasers, and more. The company is promising 5 years of OS updates and 7 years of security patches.
+
+### Vivo Watch GT2
+
+Alongside the X500 phones, we also have the Vivo Watch GT2. The Watch GT2 has a rectangular 2.07-inch AMOLED display with a resolution of 432 x 514 pixels, a 60Hz refresh rate and up to 2,400 nits of peak brightness. It runs BlueOS 3.0, built on OriginOS.
+
+The Vivo Watch GT2 offers Bluetooth 5.4, GPS and GNSS, NFC, and a microphone and speaker for Bluetooth calls. Its health and fitness features include heart-rate, blood-oxygen, stress and sleep tracking, guided workouts and more than 100 sports modes.
+
+It has a 695mAh battery and promises up to 25 days of battery life. While the Watch GT2 can work with all Android phones, and even iPhones, certain features such as Origin Island for apps require a compatible Vivo or iQOO phone running OriginOS.
+
+### Vivo X500 series and Watch GT2 prices in India
+
+The Vivo X500 is priced at Rs 1,19,999 for the sole 12GB RAM and 256GB storage model. The X500 Pro, on the other hand, is priced at Rs 1,49,999 for the 12GB RAM and 256GB storage variant.
+
+Meanwhile, the X500 Pro Max is priced at Rs 1,64,999 for the 12GB RAM and 256GB storage model. The higher-end 12GB RAM and 512GB storage model is set at Rs 1,79,999. With the teleconverter kit (Photographer Kit), the 12GB + 512GB model costs Rs 2,29,999.
+
+Separately, the 200mm teleconverter extender costs Rs 15,999, the 400mm teleconverter extender costs Rs 27,999, and the Imaging Grip Kit is priced at Rs 11,999. The Vivo Watch GT2 is priced at Rs 14,999.
+
+Both the Vivo X500 series and the Watch GT2 are available for pre-booking starting today (November 26) and go on sale starting December 3, 2026. You can also get up to 10 percent instant cashback or exchange bonus on the X500 series, along with a Rs 1,500 bundle discount on the Watch GT2.
+
+\- Ends
+
+---
+
+### JioStar sale of 7 TV channels may lead to employee transfers, not just layoffs
+*India Today Education Desk · general*
+
+## JioStar is reportedly negotiating the sale of seven television channels, with the deal potentially closing by March 2027. Employees working in these businesses may move to the new owners instead of facing layoffs. Here is what the proposed sale could mean for jobs, salaries and employment continuity.
+
+JioStar is reportedly negotiating the sale of seven television channels, with the deal potentially closing by March 2027.
+
+New Delhi,Nov 26, 2026 13:45 IST
+
+JioStar's next workforce shake-up may not be limited to layoffs. The media giant is preparing to sell seven television channels, and employees working across these businesses could find themselves moving to new employers as part of the deal.
+
+According to a report by Exchange4Media, negotiations for the proposed sale are under way and could be completed by March 2027. The development could trigger another round of changes for JioStar employees, although not everyone affected will necessarily lose their jobs.
+
+The proposed sale comes just days after JioStar announced another workforce reduction. Around 150 employees are expected to leave the company this week, across departments such as marketing, production, studios and operations. The company has acknowledged the restructuring, describing it as a portfolio-rebalancing exercise.
+
+### SEVEN CHANNELS ON THE BLOCK
+
+The channels identified for divestment include Star Jalsha Movies, Star Jalsha Movies HD, Colors Marathi, Colors Marathi HD, Colors Super, Hungama and Super Hungama.
+
+Employees currently working in these businesses are expected to move to the new owners as part of the transactions, rather than automatically being treated as employees facing layoffs, the report said.
+
+The proposed sale marks another major organisational shift for JioStar, which has already been undertaking workforce reductions.
+
+### WHAT HAPPENS TO EMPLOYEES?
+
+For employees, a business sale can mean more than simply changing the name on their appointment letters.
+
+The key questions will be whether existing employees are absorbed by the buyers, whether their salaries and benefits remain unchanged, and whether their years of service are carried forward.
+
+The distinction between a layoff and an employee transfer is important. While a transfer could allow employees to continue working, the terms of employment under the new ownership will determine how much continuity they actually get.
+
+The proposed transactions also raise questions about how many employees will be affected and whether all roles will be retained after the channels change hands.
+
+### ANOTHER WORKFORCE RESET AT JIOSTAR?
+
+The latest development comes amid an ongoing period of restructuring at JioStar. The proposed channel sale could reshape parts of its workforce even if the employees concerned are not directly shown as job cuts.
+
+For now, the negotiations remain under way, with March 2027 emerging as the reported target for completion.
+
+For employees, the bigger question is no longer just whether their jobs survive the restructuring, but also who their next employer will be and on what terms.
+
+\- Ends
+
+---
+
+### EU Parliament votes against inclusion of 2 Alang ship recycling yards in its list of approved recycling facilities
+*T E Raja Simhan · business*
+
+File picture: A cruise ship being dismantled at the Alang Ship Breaking Yard in Gujarat | Photo Credit: VIJAY SONEJI
+
+India’s efforts to get two ship recycling yards at Alang in Gujarat included in the European Union’s list of approved ship recycling facilities has suffered a setback with the European Parliament voting against their inclusion, citing concerns over worker safety and environmental standards.
+
+Of the 615 Members of the European Parliament (MEPs) who voted, 377 supported the objection to the European Commission’s proposal, while 214 voted against it and 24 abstained. The decision means vessels sailing under EU flags will continue to be barred from being dismantled at Indian yards and will have to use facilities on the European List, including those in Turkey.
+
+Shree Ram Vessel Scrap and YSI Recyclers, were proposed for inclusion in the EU list following an independent inspection process. The European Parliament’s Environment Committee (ENVI) had voted against the proposal on November 4, 2026.
+
+The decision came despite a joint appeal by leading global shipping associations, including European Shipowners, BIMCO, Cruise Lines International Association, International Chamber of Shipping and World Shipping Council, urging MEPs to reject the objection.
+
+The associations said the two Indian yards had undergone extensive independent inspections and were found compliant with the EU Ship Recycling Regulation. Their inclusion was also important to address a structural shortage of compliant recycling capacity, particularly with more vessels expected to reach the end of their operational lives over the next decade.
+
+BIMCO estimates that around 16,000 ships will require recycling over the next 10 years. More than 110 Indian ship recycling yards currently hold a Hong Kong Convention Statement of Compliance issued by members of the International Association of Classification Societies.
+
+**Environmental concerns**
+
+Environmental groups, however, maintained that the beaching method followed at Alang does not meet EU requirements.
+
+“MEPs have sent a clear signal to the European Commission: beaching is not compliant with social and environmental standards aimed at protecting workers and ecosystems set by the EU Ship Recycling Regulation,” said Ingvild Jessen, Executive Director and Founder of NGO Shipbreaking Platform.
+
+**Industry disappointment**
+
+Vishaal Raj Soni, CEO of Leela Group of Ship Recycling Yards, said the vote was disappointing, given the substantial investments made by Indian ship recyclers over the past two decades.
+
+“No one is seeking any relaxation of standards, but a fair assessment based on technical merit, actual compliance and ground realities, rather than historical perceptions of Alang,” he said, adding that the setback would not dilute the industry’s commitment to sustainable ship recycling.
+
+Kiran Thorat, Trader at GMS, said the vote did not take away from the progress made by the Indian ship recycling industry through investments in infrastructure, worker safety and environmental protection. The decision could, in the longer run, strengthen the relevance of the Hong Kong Convention as a common global framework, he said.
+
+Thorat also pointed to the distinction between EU-flagged and European-owned vessels. Several European shipowners operate vessels under non-EU flags, while restrictions apply to EU-flagged ships. The vote, therefore, represents a setback to Alang’s efforts to expand access to the EU-flagged vessel market, rather than a new restriction on its existing business, he said.
+
+India’s ambition to emerge as a global ship recycling hub need not be determined by its inclusion in the European List, industry participants said, pointing to opportunities in mechanisation, material recovery and operational efficiency.
+
+Published on November 26, 2026
+
+---
+
+### 93% polling in Bengal Assembly elections victory of Constitution: Suvendu Adhikari
+*SECTIONS · business*
+
+Kolkata: West Bengal Chief Minister Suvendu Adhikari on Thursday said the 93 per cent voter turnout in the 2026 Assembly elections in the state was a "victory" of the Constitution, asserting that a large section of the people believe in constitutional values.
+
+Dismissing the perception that such a high polling percentage was unusual, Adhikari said the people's participation in the electoral process reflected their faith in the Constitution.
+
+He also slammed the Congress over the imposition of the Emergency, claiming that "the biggest blow to the Constitution came during the Emergency".
+
+  
+
+Speaking on the occasion of Samvidhan Diwas, he said the Constitution was the supreme guiding force of the country and that the government should function in accordance with the ideals of Dr B R Ambedkar, the principal architect of the Constitution.
+
+"The majority of the country's people believe in the Constitution. That is why West Bengal witnessed 93 per cent polling. This is a victory of the Constitution," Adhikari said.
+
+He also attacked the Congress, saying those responsible for imposing the Emergency should exercise restraint while speaking about constitutional values.
+
+"The country's Constitution is very strong. The biggest blow to the Constitution came during the Emergency," he said.
+
+"The entire country is governed by the Constitution. There is no other democratic system as large as ours anywhere else in the world. It should be strengthened even further, and the government should run the country on the path shown by Babasaheb Ambedkar," he said.
+
+India observes Constitution Day, also known as Samvidhan Diwas, every year on November 26 to commemorate the Constituent Assembly's adoption of the Constitution on November 26, 1949.
+
+---
+
+### BJP races to seal UP seat-sharing deal to prevent rebellion among NDA allies
+*Ashish Srivastava · general*
+
+With discontent brewing among NDA allies over seat distribution ahead of the 2027 Uttar Pradesh Assembly polls, the BJP is looking to finalise a seat-sharing arrangement soon to prevent the differences from escalating into rebellion.
+
+The ruling party has begun assessing how many seats can be allocated to its four regional allies – the Rashtriya Lok Dal (RLD), Apna Dal (S), Suheldev Bharatiya Samaj Party (SBSP) and Nishad Party – as each pushes for a larger share. The state-level assessment is expected to be sent to the BJP's central leadership, which will take the final call on the arrangement.
+
+The growing unease was evident after SBSP chief and Uttar Pradesh minister Om Prakash Rajbhar announced that he would contest the next Assembly election from the Akbarpur constituency in Ambedkar Nagar district, instead of his current seat, Zahoorabad, in Ghazipur district.
+
+Rajbhar's announcement has added another dimension to the seat-sharing negotiations, with speculation arising that a member of his family could contest from Zahoorabad. Although his stance reportedly softened after a meeting with Chief Minister Yogi Adityanath, the discontent over seat allocation has not entirely subsided.
+
+The Nishad Party, led by Sanjay Nishad, is also pressing for a larger share and has staked claims to several constituencies, including Atraulia in Azamgarh. The SBSP has also sought Atraulia, arguing that it has been working in the constituency for the past two-and-a-half years and has a sizeable Rajbhar vote base there.
+
+The Nishad Party, however, has countered that it has a stronger claim to the seat based on its previous electoral performance. The contest over constituencies where the two parties have overlapping support bases has emerged as a key challenge for the BJP's alliance management.
+
+### HOW NDA'S SEAT-SHARING EQUATION HAS CHANGED?
+
+The BJP's negotiations this time are more complicated than in 2022, when it had only two regional allies in the state. Of the 403 Assembly constituencies, the BJP contested 376, while Apna Dal (S) fought 17 and the Nishad Party contested 10. The BJP won 255 seats, Apna Dal (S) secured 12 and the Nishad Party won six, taking the alliance's tally to 273.
+
+The other two parties now part of the NDA – the RLD and SBSP – had contested the 2022 elections as allies of the Samajwadi Party. The RLD contested 33 seats and won eight, while the SBSP fought 19 constituencies and secured victories in six seats.
+
+Both parties have since switched sides and joined the BJP-led alliance, expanding the number of regional partners the BJP must accommodate in the upcoming election.
+
+Their electoral performance in 2022, along with their respective community support bases, has become an important part of the negotiations.
+
+The Apna Dal (S), led by Union Minister Anupriya Patel, is seeking a larger share than the 17 seats it contested last time. The Nishad Party is also seeking more than the 10 seats it contested independently in 2022, while the RLD and SBSP are pressing for substantial allocations.
+
+The competing demands have made the exercise particularly challenging for the BJP, which also needs to accommodate its own leaders and sitting MLAs who may be affected by seats being handed to allies.
+
+BJP ENGAGING WITH ITS ALLIES
+
+The BJP has assigned senior leaders to negotiate with the four partners.
+
+Chief Minister Yogi Adityanath is handling discussions with RLD chief Jayant Chaudhary, Deputy Chief Minister Brajesh Pathak has been tasked with talks with Apna Dal (S), Deputy Chief Minister Keshav Prasad Maurya is engaging with Rajbhar, while state BJP president Pankaj Chaudhary is handling negotiations with Sanjay Nishad.
+
+A two-day brainstorming session in Delhi on November 28 and 29 is expected to focus on the seat-sharing arrangements. The BJP is keen to settle the matter well before the election campaign gathers pace, as prolonged disagreements could complicate its efforts to retain the alliance's unity in a politically crucial state.
+
+\- Ends
+
+---
+
+### Jewellery brand GIVA raises ₹90 crore from BlackSoil
+*BL New Delhi Bureau · business*
+
+Fine jewellery brand GIVA on Thursday said it has raised ₹90 crore from alternative credit platform BlackSoil. It added that the new fundraise will support its capital expenditure and working capital needs as it continues to expand its retail network and strengthen its omnichannel presence.
+
+The brand operates across online and offline channels, offering design-led jewellery across silver, gold and lab-grown diamond categories.
+
+Ishendra Agarwal, Founder & CEO, GIVA said, “As we continue to grow GIVA’s retail presence, building the right financial and operational capabilities is important to supporting our expansion. Our partnership with BlackSoil will support our store expansion plans and working capital requirements as we scale our omnichannel business. We continue to focus on making design-led jewellery more accessible to consumers while building a wider and stronger retail network across India.”
+
+Ankur Bansal, Managing Director, BlackSoil, said: “GIVA has established a strong brand presence in India’s D2C jewellery space, supported by its product range, growth and omnichannel presence. Its strong brand recognition, performance as well as association with reputed investors made it a compelling prospect to support. The funding from us will enable GIVA to meet its expansion and working capital requirements.”
+
+Established in 2019, GIVA started as a digital-first silver jewellery brand offering modern, design-led pieces. It has since expanded into gold jewellery and lab-grown diamonds and its range now spans across plain silver, gold-plated, rose gold-plated, gold and diamond jewellery. Alongside its online business, the company has been steadily building its offline retail footprint.
+
+Published on November 26, 2026
+
+---
+
+### Exclusive: Delhi Police Overhauls Station Security Protocols Following Jama Masjid Attack
+*News18 · general*
+
+Following an attack at Jama Masjid, Delhi Police issued strict SOPs for all stations, including 24/7 armed guards, restricted gate access, mandatory screening, and CCTV monitoring.
+
+[Read full article](https://www.news18.com/india/exclusive-delhi-police-overhauls-station-security-protocols-following-jama-masjid-attack-ws-l-10441805.html)
+
+---
+
+### Hetero begins phased shipments of generic lenacapavir for HIV prevention to Africa
+*PT Jyothi Datta · business*
+
+Drug maker Hetero has started shipping generic injectable lenacapavir for HIV prevention to Africa, with a planned initial supply of 300,000 vials across Zambia, Uganda and Zimbabwe, making it the first globally to launch a generic version of this breakthrough medicine, it said.
+
+“Hetero expects to introduce its generic oral initiation tablets by January 2027, supporting the complete lenacapavir pre-exposure prophylaxis (PrEP) regimen alongside the injectable formulation. In the interim, oral initiation tablets will continue to be supplied by Gilead, supporting the availability of the oral component required for PrEP initiation, subject to applicable country-level requirements,” it added.
+
+The generic version arrives in Africa approximately one year after the original lenacapavir product’s introduction, it said, following Gilead Sciences’ voluntary licensing, coordinated investment and manufacturing readiness.
+
+Hetero further plans to supply generic lenacapavir to 10 additional African countries in early 2027, the company said, adding that it plans to launch generic lenacapavir in India in the coming months, subject to regulatory approvals. Hetero further added that it was prepared “to supply all other countries covered by its voluntary licence as approvals from national drug regulatory authorities are obtained, subject to procurement arrangements and national introduction plans.”
+
+Injectable lenacapavir is recommended by the World Health Organization (WHO) – administered twice a year, it is an additional PrEP option and has been shown in clinical trials to be highly effective at reducing the risk of HIV acquisition, the company said.
+
+Dr Vamsi Krishna Bandi, Managing Director, Hetero Group of Companies, said the launch of generic lenacapavir in Africa comes as the company prepares to mark 30 years of “expanding access to critical, life-saving medicines across the continent.”
+
+The company had an annual production capacity of 15 million vials of generic lenacapavir, with scope to expand, he said.
+
+In Zimbabwe, Hetero’s generic lenacapavir is being procured through the United Nations Development Programme (UNDP), using Global Fund financing. UNDP serves as the principal recipient of the Global Fund-supported HIV programme in the country, it said.
+
+## Voluntary license
+
+Gilead Sciences had entered into non-exclusive voluntary licensing agreements with six generic manufacturers, for manufacturing and supply of generic lenacapavir across 120 eligible countries.
+
+“In September 2025, Hetero entered into a partnership with the Gates Foundation, supported by upfront funding and volume guarantees, to accelerate the development, manufacturing and affordable supply of generic lenacapavir. The partnership also provides for affordable supply of active pharmaceutical ingredients (APIs) to other generic manufacturers, helping strengthen the broader generic supply ecosystem, the company said.
+
+The Global Fund is supporting accelerated access to generic lenacapavir through its Expert Review Panel (ERP) mechanism, which allows for eligible products “to be procured on a time-limited basis while full regulatory approval or WHO prequalification processes continue,” it said.
+
+“Hetero’s generic injectable lenacapavir and oral initiation tablets have received an ERP recommendation, enabling eligible procurement through applicable Global Fund channels, subject to country-level regulatory and procurement requirements,” it added.
+
+Published on November 26, 2026
+
+---
+
+### India Well-Placed To Navigate US Tariff Hurdles, Industry Veterans Say
+*NDTV Profit News · general, business*
+
+The Donald Trump administration proposed doubling tariffs on India to 25% following a Section 301 investigation into manufacturing overcapacity across 14 countries. However, the proposed tariff rate could come down to 17% if India and the US reach a reciprocal trade agreement.
+
+[Read full article](https://www.ndtvprofit.com/economy/india-well-placed-to-navigate-us-tariff-hurdles-industry-veterans-say-12379615)
+
+---
+
+### European Parliament Blocks Two Indian Ship Recycling Yards At Alang From EU Approved List
+*Arun Dhital · politics*
+
+The European Parliament on Wednesday (25 November) voted 377 to 214, with 24 abstentions, to block a European Commission proposal adding two shipbreaking yards at Gujarat's Alang to the EU's approved ship recycling list, despite New Delhi's backing.
+
+The yards, YSI Recycling Services LLP and Shree Ram Vessel Scrap Pvt Ltd, operate three plots in the Alang-Sosiya cluster. Parliament's environment committee had rejected it on 4 November.
+
+The Commission must now revisit the draft, and EU member states will vote before a final decision. With the India-EU trade pact due for signing in mid-December, the outcome also leaves 32 more Alang plots awaiting inspection in limbo.
+
+The Commission had proposed the listing on 22 July after independent inspections found both yards compliant with EU ship recycling rules. Commerce Department Additional Secretary Darpan Jain had called it a breakthrough after nearly a decade, one that could make India the first non-OECD country with EU-approved yards.
+
+In August, the Directorate General of Maritime Administration called the draft's claim that Indian law had no procedure for approving recycling plans "factually outdated". It also argued a tidal location alone did not prove non-compliance.
+
+The Gujarat Maritime Board backed both yards, and the Ship Recycling Industries Association (India) credited the "proactive support" of the PMO and shipping authorities for improving compliance.
+
+The objection centres on beaching, where ships are run onto intertidal mudflats for dismantling. Belgian non-profit Shipbreaking Platform, which welcomed the vote, says the practice cannot satisfy EU rules requiring impermeable floors and drainage to contain oil and hazardous materials.
+
+Commission officials had said in October that an intact hull could contain waste during initial cutting under strict procedures.
+
+On 24 November, eight global shipping bodies, including BIMCO, urged MEPs to trust the inspection reports, saying the listing would widen recycling options for large vessels.
+
+**Please click here to add** _**Swarajya**_ **as your preferred and trusted news source on Google**
+
+
+---
+
 ## 25 November 2026
 
 ### Bikaji enters premium bakery market with Mahè
