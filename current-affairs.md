@@ -1,3 +1,739 @@
+## 27 November 2026
+
+### After Amazon, Oracle Layoffs: SAP to cut 10,000 jobs; how will it impact Indian employees?
+*Monica Singh · world*
+
+## After Amazon, Oracle Layoffs: SAP to cut 10,000 jobs; how will it impact Indian employees?
+
+German software giant SAP plans to eliminate around 10,000 jobs as it accelerates push into AI. Cuts through layoffs, attrition and voluntary exits.
+
+SAP to cut 10,000 jobs as it accelerates AI push
+
+Europe's largest technology company is preparing for another major workforce shake-up.
+
+German software giant SAP is planning to eliminate around 10,000 jobs as it accelerates its push into artificial intelligence, according to media reports. Move comes less than three years after company announced a separate restructuring programme affecting thousands of employees.
+
+Cuts are expected to happen through a mix of layoffs, attrition and voluntary exits. SAP has not publicly detailed which teams could be affected.
+
+Company employs more than 1,00,000 people globally and is one of world's biggest makers of enterprise software. Its products are used by businesses to manage finance, supply chains, human resources and other critical operations.
+
+## **Why is SAP cutting jobs?**
+
+Like many technology companies, SAP is reshaping its business around artificial intelligence. Demand for AI-powered software tools has surged over past two years, prompting firms to redirect spending and talent toward products that can automate tasks and improve productivity.
+
+SAP has been investing heavily in AI features across its software portfolio. Company has also been integrating AI capabilities into its cloud offerings, an area that has become a key growth engine.
+
+Reports suggest latest job cuts are part of a broader effort to streamline operations and free up resources for AI-
+
+## **Not SAP's first restructuring**
+
+This is not first time SAP has overhauled its workforce. In early 2024, company announced a restructuring plan affecting about 8,000 positions. At time, SAP said it wanted to focus more aggressively on strategic growth areas, particularly business AI.
+
+Despite reducing roles, company has continued hiring in selected high-growth segments. That means some employees may be moved into new positions while others could exit company.
+
+## **How many Indian employees could lose their jobs?**
+
+Indian employees could also be affected by the proposed restructuring, given SAP's significant presence in the country.
+
+The company employs approximately 18,000 people across its Indian operations, including Bengaluru, Gurugram, Mumbai, Pune, Hyderabad, New Delhi and Kolkata.
+
+SAP has not specified any particular office, department, or team in India that is facing confirmed layoffs. Additionally, the company has not disclosed the number of employees in India who might be impacted by the reported restructuring. This uncertainty stems from significant changes in India's technology workforce driven by the adoption of AI and automation.
+
+## **AI is changing hiring across tech**
+
+SAP's plans reflect a wider trend across the technology sector. Industry experts say AI is not just creating new roles, it is also forcing companies to rethink existing ones. Automation is reducing need for some manual and repetitive jobs, while demand is rising for AI engineers, data scientists and cloud specialists.
+
+For SAP, shift is critical as it competes with global rivals like Microsoft, Oracle and Salesforce in AI-driven enterprise software market. While company has not confirmed timeline for cuts, reports suggest process could unfold over coming months as part of its broader AI strategy.
+
+---
+
+### New Mini Cooper SE arrives in India at Rs 53.9 lakh
+*Auto Today · general*
+
+Mini has introduced two Paul Smith Edition models in India, based on the Cooper S and Cooper Convertible. The special editions are priced at Rs 55.75 lakh and Rs 61.50 lakh, respectively (ex-showroom), and bring exclusive styling elements developed in collaboration with British designer Paul Smith. Both models retain the mechanical package of the standard versions, with changes limited to their exterior and cabin detailing.
+
+### Mini Cooper S and Cooper Convertible Paul Smith Edition: Exterior highlights
+
+The two editions are offered in three paint options: Inspired White, Statement Grey and Midnight Black. The Cooper S features a contrasting Nottingham Green roof, while the Convertible gets a black fabric soft-top. Both models ride on 18-inch Night Flash Spoke Black alloy wheels and feature exclusive Paul Smith branding and design accents.
+
+The Convertible's fabric roof comes with one-touch operation and can be opened or closed in 18 seconds at speeds of up to 30kph.
+
+### Mini Cooper S and Cooper Convertible Paul Smith Edition: Interior and features
+
+The special treatment continues inside, with both cabins featuring a knitted dashboard finished in Paul Smith Black and Grey. The seats are upholstered in Nightshade Blue and get matching blue contrast stitching. The circular OLED infotainment display also receives a dedicated Paul Smith-themed interface.
+
+Other distinguishing elements include a specially detailed steering wheel, dark-finish interior trim, illuminated door sills carrying Paul Smith branding and floor mats bearing the designer's insignia. An LED projection that displays 'Hello' on the floor when the doors are opened adds another bespoke touch to the package.
+
+### Mini Cooper S and Cooper Convertible Paul Smith Edition: Engine and performance
+
+Powering both special editions is a 2.0-litre, four-cylinder turbo-petrol engine producing 204bhp and 300Nm of torque. The engine is paired with a 7-speed dual-clutch automatic transmission, which drives the front wheels.
+
+The Cooper S Paul Smith Edition has a claimed 0-100kph acceleration time of 6.6 seconds, while the Convertible completes the same sprint in 6.9 seconds. There are no mechanical changes over the regular models.
+
+****Subscribe to Auto Today Magazine****
+
+\- Ends
+
+---
+
+### Fifth S-400 System To Guard Pakistan Border After Russian Delivery In Early 2027: Report
+*Arun Dhital · politics*
+
+India will station its next S-400 air defence system along the border with Pakistan once Russia delivers it by February 2027, _Hindustan Times_ reported.
+
+The fifth unit, expected to arrive in January or February 2027, will complete the $5.43-billion agreement India and Russia signed in 2018 for five S-400 systems. Citing senior military sources, the newspaper said a team of Indian officials will travel to Russia in December to inspect the system before it is dispatched.
+
+The long-range S-400 can track and shoot down hostile aircraft, missiles and drones, and is reported to have a range of up to 400 km.
+
+India has so far received four of these systems. Three are positioned along the western front facing Pakistan, while the fourth is based in the eastern sector.
+
+The S-400 played a significant part in Operation Sindoor in May 2025, when India struck terror infrastructure in Pakistan and Pakistan-occupied Kashmir in response to the Pahalgam terror attack.
+
+The S-400 Triumf (Sudarshan Chakra in India) is a mobile, long-range surface-to-air missile (SAM) system developed by Russia's Almaz-Antey. Entered into Russian service in 2007, it is designed to detect and destroy aircraft, drones, cruise missiles, and ballistic missiles within a 400 km radius.
+
+**Please click here to add** _**Swarajya**_ **as your preferred and trusted news source on Google**
+
+---
+
+### Parliament session: Rijiju flags 'important business', Sule refuses to comment on delimitation bill
+*ET Online · business*
+
+The upcoming Special Session of Parliament has triggered speculation over the possible introduction of the Delimitation Bill. Responding to opposition leaders' remarks, Parliamentary Affairs Minister Kiren Rijiju said special sessions are convened whenever necessary and appealed to all members to en...
+
+[Read full article](https://economictimes.indiatimes.com/news/india/parliament-session-rijiju-flags-important-business-sule-refuses-to-comment-on-delimitation-bill/videoshow/136215269.cms)
+
+---
+
+### SC grants three weeks interim bail to AAP leader in money laundering case
+*SECTIONS SC grants three weeks interim bail · business*
+
+New Delhi: The Supreme Court on Friday gave three weeks interim bail to Aam Aadmi Party (AAP) leader Deepak Singla in a money laundering case arising from a 2018 CBI complaint 
+
+A bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana took note of the submissions of senior advocate Vikas Singh, appearing for Singla, that he had been in jail for more than six months and there was a family medical emergency as his father had undergone a "high risk liver transplant".
+
+The apex court asked the Punjab and Haryana High Court to decide his plea for regular bail in two weeks from today and said the gravity of the offence can be taken to a logical conclusion in the trial.
+
+  
+
+"We have not expressed any observations on the merits of the case," the CJI said and disposed of the plea.
+
+Singla's plea was opposed by Additional Solicitor General S V Raju, appearing for the Enforcement Directorate, who said Rs 155 crore bank money was found deposited in his bank accounts.
+
+Singh countered this by saying that a key accused, Ashok Kumar Mitta, is already out on bail.
+
+"Then let him also remain in jail for 11 months," the law officer replied.
+
+The senior advocate said the Punjab and Haryana High Court has so far not heard Singla's main plea seeking regular bail in the case.
+
+The AAP leader had contested the Delhi Assembly elections from Vishwas Nagar constituency and taken on organisational roles in Delhi, Goa, and Maharashtra.
+
+The plea, filed through lawyer Rajat Bhardwaj, had sought setting aside of the Punjab and Haryana High Court's refusal of bail.
+
+According to the plea, the ED arrested him eight years after the original FIR, with no fresh evidence and no permission from the trial court.
+
+Singla challenged the high court's September 9 order dismissing his regular bail plea under the Prevention of Money Laundering Act (PMLA).
+
+The plea sought interim bail while the appeal is pending and said he was not an accused in the CBI's main case. He was also not named in the ED's 2019 ECIR, its July 20, 2022 prosecution complaint or its September 1, 2025 supplementary complaint, it said.
+
+---
+
+### Chennai industrialist donates 121 kg gold worth Rs 160 crore to Tirupati temple
+*Unknown · general*
+
+Chennai industrialist donates  kg gold worth Rs  crore to Tirupati temple
+
+[Read full article](https://www.indiatoday.in/newsmo/short-videos/chennai-industrialist-donates-121-kg-gold-worth-rs-160-crore-to-tirupati-temple-3048196-2026-11-27)
+
+---
+
+### Robert Pattinson may be the tragic, broken James Bond Ian Fleming always imagined
+*Radifah Kabir · general*
+
+A man lies on a narrow bed in a grey Paris room, smoking, while a caged bird chirps beside him. Rain presses against the window. For long minutes, nothing happens, and yet everything has already been decided. This is the opening of _Le Samourai_, a 1967 French crime film by director Jean-Pierre Melville, and the man on the bed is Jef Costello, a silent, solitary hitman played by the French screen legend Alain Delon.
+
+It is the image that returned to me the day Robert Pattinson was revealed as the next James Bond. In the first-look picture, he stepped out of the shadows in a dinner jacket, gun in hand, with eyes that seemed to guard a secret grief. I did not see a playboy. I saw a man like Costello. I saw, perhaps at last, the James Bond that Ian Fleming, the British author who created him, actually wrote.
+
+### WHO IS THE NEW JAMES BOND?
+
+Amazon MGM Studios, which now controls the Bond franchise, announced on November 16 that Pattinson would be the next 007. At 40, he is the seventh actor to play the role in the official series made by Eon Productions, the company behind every Bond film since 1962. He succeeds Daniel Craig, whose run ended with _No Time to Die_ in 2021.
+
+> New Bond. Piccadilly, London https://t.co/9w0Rzu7v5t— James Bond (@007) November 17, 2026
+
+In the studio's announcement, Pattinson called the role "the honour of a lifetime". Denis Villeneuve, the Canadian director of _Dune_, will direct Bond 26 from a script by Steven Knight, creator of the series _Peaky Blinders_. Villeneuve said his star "has the timeless soul of 007 and brings a spirit that is completely new".
+
+### WHAT KIND OF 007 COULD ROBERT PATTINSON BE?
+
+If his past is any guide, a wounded one. Most audiences first met Pattinson as Cedric Diggory, the golden boy who dies in Harry Potter and the _Goblet of Fire_, and then as Edward Cullen, the brooding vampire of _Twilight_, which made him, at 22, one of the most hunted faces on the planet.
+
+Then he did something few stars dare to do. He walked away from the spotlight and chose small, strange films made by some of cinema's boldest directors.
+
+Robert Pattinson as a reclusive Bruce Wayne in The Batman (2022). (Image: IMDb)
+
+He played a cold, hollow billionaire in _Cosmopolis_, a desperate small-time robber in _Good Time_, a prisoner drifting through deep space in _High Life_, and a lighthouse keeper’s assistant sliding into madness in _The Lighthouse._
+
+Even his blockbusters bruise. His Bruce Wayne in _The Batman_ (2022) was a sleepless recluse, more ghost than saviour. In Christopher Nolan's _Tenet_ (2020), he played Neil, a witty, mysterious spy who already knew how his own story would end. Again and again, he has played men who carry their wounds quietly. That may be exactly what Bond needs.
+
+### WHO IS ALAIN DELON, AND WHY COMPARE HIM WITH PATTINSON?
+
+Delon was the biggest star of French cinema in the 1960s and 1970s, so strikingly handsome that he was often called the most beautiful man in film. He died on August 18, 2024, aged 88.
+
+What made him remarkable was not his beauty but what he did with it. He turned that perfect face into a locked door. In _Purple Noon_ (1960), he played Tom Ripley, a charming young man who kills a rich friend and steals his life. Audiences could never tell what he was thinking, and that was the thrill.
+
+In _Le Samourai_, he went further. As the hitman Jef Costello, he barely speaks. He slips on white gloves before every job and lives alone with his bird.
+
+French actor Alain Delon as the silent hitman Jef Costello in Le Samourai (1967). (Image: IMDb)
+
+The film opens with a line about loneliness that Melville invented and attributed to an ancient samurai code: “There is no greater solitude than that of the samurai unless it is that of the tiger in the jungle... perhaps.” The American film critic Roger Ebert wrote that Delon was so handsome that “his best strategy for dealing with his looks was to use a poker face.”
+
+That is precisely Pattinson’s gift. He, too, is a matinee idol who keeps hiding behind his own face.
+
+Villeneuve, for his part, admires Melville. Speaking about his thriller Sicario at the Cannes Film Festival in 2015, he said: “Frankly, the person I had in mind was Jean-Pierre Melville.”
+
+His films since, _Arrival, Blade Runner 2049_ and _Dune_, have trusted silence and stillness. Place Pattinson’s guarded face inside that world, and we may well get a Bond who speaks less and feels more.
+
+### HOW CLOSE IS ROBERT PATTINSON TO IAN FLEMING’S JAMES BOND?
+
+Closer, I would argue, than most screen Bonds. Fleming told The New Yorker in 1962 that he wanted Bond to be “an extremely dull, uninteresting man to whom things happened”, “a blunt instrument”. Cinema preferred a peacock. In _Dr No_ (1962), Sean Connery lit a cigarette at a casino table and purred, “Bond. James Bond.” The line became immortal, and the man behind it grew ever more polished.
+
+On the page, Bond was a creature of small rituals. He took his martini “shaken and not stirred”, and in the novel _From Russia, with Love_ (1957), Fleming lingers over his breakfast: a single brown egg, soft-boiled for precisely three and a third minutes. Such fussiness is not vanity. It is the armour of a lonely man clinging to small certainties.
+
+Ian Fleming’s 14 James Bond books, from Casino Royale (1953) to The Living Daylights (1966), portray a far lonelier, more melancholic spy than the one most cinema audiences know. (Image: ianfleming.com)
+
+The books are steeped in sorrow. _Goldfinger_ (1959) opens with Bond brooding at an airport over a man he has killed with his bare hands. In _Casino Royale_ (1953), he falls in love with Vesper Lynd, a fellow agent who betrays him and dies. _On Her Majesty's Secret Service_ (1963) ends with Bond cradling his new bride, Tracy, who has just been shot, whispering, "We've got all the time in the world." _In You Only Live Twice_ (1964), M, his boss at the British Secret Service, fears his finest agent is "going to pieces".
+
+Connery found Bond’s swagger, Roger Moore his humour, Timothy Dalton his anger and Daniel Craig his grief. When a bartender in _Casino Royale_ (2006) asked Craig’s Bond whether he wanted his martini shaken or stirred, he snapped, "Do I look like I give a damn?" Pattinson's Bond may not even hear the question. He could be the first to find Fleming’s loneliness.
+
+### WHEN WILL BOND 26 RELEASE?
+
+Not soon. Amazon MGM took creative control of the franchise in February 2025 and named Villeneuve director that June. It has announced neither a title nor a release date. Trade reports suggest filming in 2027 and a release in 2028, but the studio has confirmed neither.
+
+Some fans have already dismissed Pattinson as too moody for the tuxedo. Let them. Fleming’s hero was never a peacock. He was a solitary man who drank to quieten his ghosts.
+
+_Le Samourai_ ends with Costello walking calmly towards his own death. Villeneuve and Pattinson may give us something just as quiet and just as devastating: a 007 who wins every battle, and is then left alone with the cost.
+
+\- Ends
+
+---
+
+### CISF Finds Hidden Knife In Passenger's Belt At Delhi Airport: What Flyers Can And Cannot Carry
+*News18 · general*
+
+A pocket-sized knife hidden in a belt buckle slipped past the appearance of an ordinary accessory - until an X-ray scan flagged it. What else could get stopped at airport security?
+
+[Read full article](https://www.news18.com/cities/new-delhi-news/cisf-finds-hidden-knife-in-passengers-belt-at-delhi-airport-what-flyers-can-and-cannot-carry-ws-l-10443340.html)
+
+---
+
+### Chemistry is CBSE Class 12's second most popular subject after English, report says
+*India Today Education Desk · general*
+
+Science subjects continue to attract a growing number of CBSE Class 12 students, with Chemistry, Physics and Mathematics witnessing a sharper rise in registrations than commerce subjects, according to an analysis of CBSE examination data reported by The Times of India.
+
+As the Central Board of Secondary Education (CBSE) prepares for its 2027 Class 12 board examinations, Chemistry has emerged as the second most opted subject after English, with around 10.8 lakh registrations. This accounts for nearly 57 per cent of the total examination cohort of approximately 19 lakh students.
+
+English, according to the report, remains the most widely opted subject, with around 18.5 lakh registrations, representing more than 97 per cent of the candidates.
+
+Physics follows Chemistry with approximately 10 lakh registrations, accounting for 52.6 per cent of the candidates. Mathematics has attracted around 8.3 lakh students, representing 43.4 per cent of the examination cohort, as per the report.
+
+### CHEMISTRY REGISTRATIONS RISE 70% IN EIGHT YEARS
+
+The growing preference for science subjects is also reflected in the comparison of registration figures over the past eight years.
+
+Chemistry registrations have increased by 70 per cent since 2019, while Physics has recorded a rise of nearly 58 per cent. Mathematics registrations have also grown by around 55 per cent during the same period.
+
+In comparison, Business Studies and Accountancy have witnessed a growth of approximately 32 per cent each.
+
+The difference between Chemistry and Business Studies registrations has widened considerably, increasing from around 2.9 lakh candidates in 2019 to approximately 6.3 lakh in 2027.
+
+Similarly, the gap between Physics and Accountancy has expanded from around 2.9 lakh to 5.5 lakh candidates.
+
+### ECONOMICS, BUSINESS STUDIES AND ACCOUNTANCY REGISTRATIONS
+
+Among other major subjects, Economics has attracted approximately 5.8 lakh registrations, accounting for nearly one-third of the Class 12 examination cohort.
+
+Business Studies has recorded around 4.51 lakh registrations, while Accountancy has attracted approximately 4.5 lakh candidates. Both subjects account for nearly 24 per cent of the total candidates.
+
+The figures indicate that while commerce subjects continue to draw substantial student interest, their registration growth has been slower than that of core science subjects.
+
+### CBSE CLASS 12 REGISTRATIONS REACH RECORD 19 LAKH
+
+The rise in subject registrations comes alongside an increase in the overall number of students appearing for the CBSE Class 12 examinations.
+
+According to the provisional 2027 registration figures, the board has recorded around 19 lakh candidates, marking a further increase of approximately 2.3 per cent over the 2026 registrations.
+
+Class 12 registrations have increased from around 14.5 lakh in 2022 to 18.6 lakh in 2026, reflecting the steady expansion of the examination cohort.
+
+The growing preference for science subjects also finds a parallel in national school education data. An Education Ministry analysis showed that science accounted for 47 per cent of Class 12 passouts across the country in 2024, compared with 44 per cent in 2023.
+
+For the first time in at least a decade, more girls cleared Class 12 in the science stream than in arts in 2024.
+
+The CBSE registration figures are provisional and may undergo marginal changes.
+
+\- Ends
+
+---
+
+### HMD Rise Arrives in India With 5,000mAh Battery and Unisoc Processor: Price, Specifications
+*Priya Singh · technology*
+
+HMD has introduced the Rise in India as an affordable 4G smartphone, bringing features such as a 5,000mAh battery, a 6.5-inch display and a dual rear camera setup led by a 13-megapixel primary sensor. The phone comes with a dual-tone design and will be available in three colour options. Under the hood, it is powered by a Unisoc processor and also integrates Indus, an AI platform developed by Sarvam AI, with support for 22 Indian languages. The HMD Rise will be sold in a single RAM and storage variant through Flipkart.
+
+## HMD Rise runs on Android 16 Go
+
+The HMD Rise ships with Android 16 Go Edition, Google's lightweight version of Android designed for entry-level smartphones. HMD has confirmed that the device will receive quarterly security updates for two years. On the front, it features a 6.51-inch display with a waterdrop-style notch at the centre, which houses the front camera.
+
+> HMD Rise is heading to India! Key leaked specs: • 6.517-inch HD+ display • Unisoc SC9863A chipset • 4GB RAM + 64GB/128GB storage • 13MP dual rear camera • 5MP selfie camera • 5,000mAh battery • 10W charging • Android 16 Go Edition • IP52 rating Expected to launch via Flipkart. Pricing and launch date remain under wraps. Source: https://t.co/t4XkCGhccq
+> 
+> — C4ETech (@C4ETech) November 26, 2026
+
+## Unisoc processor, 4GB RAM and expandable storage
+
+The smartphone is powered by a Unisoc 9863A chipset paired with 4GB of RAM and 64GB of internal storage. Users who need additional space can expand the available storage up to 128GB using a microSD card. The device also retains a 3.5mm headphone jack alongside a USB Type-C port for connectivity.
+
+## 13MP dual rear camera and 5MP selfie shooter
+
+For photography, the HMD Rise comes with a dual rear camera setup featuring a 13-megapixel primary sensor. On the front, it gets a 5-megapixel camera housed inside the display notch for selfies and video calls. The camera setup is aimed at covering everyday photography and basic video-calling requirements.
+
+## 5,000mAh battery and Indus AI support
+
+The HMD Rise packs a 5,000mAh battery, and the company includes a charger in the retail box. However, HMD has not revealed the phone's supported charging speed. Another highlight is the integration of Indus by Sarvam AI, which offers support for 22 Indian languages. The smartphone also provides access to the government's Sanchar Saathi platform.
+
+**ALSO SEE: iPhone Air Price Gets Upto Rs 32,000 Discount During Reliance Digital Black Friday Sale: Check Offer**
+
+---
+
+### SC to consider plea to extend priority for voter appeals to 6 more civic bodies in WB SIR case
+*SECTIONS SC · business*
+
+New Delhi: The Supreme Court on Friday agreed to consider submissions seeking to extend priority hearing by appellate tribunals of voter appeals arising from West Bengal's Special Intensive Revision (SIR) of electoral rolls to six more poll-bound municipal corporations, besides the Kolkata Municipal Corporation (KMC).
+
+On November 23, a bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana had directed the Election Commission to increase the number of appellate tribunals hearing appeals arising from the SIR of electoral rolls in West Bengal.
+
+The bench's direction had come after consultation with the chief justice of the Calcutta High Court.
+
+  
+
+The court ordered tribunals to prioritise appeals against deletions of voters, especially from assembly constituencies where civic body polls are scheduled.
+
+In the Friday hearing, lawyer Prashant Bhushan and senior lawyer Gopal Sankaranarayanan represented some petitioners.
+
+Bhushan said that the November 23 order named only the Kolkata Municipal Corporation (KMC), although a similar situation exists in six other municipal corporations.
+
+He sought a minor modification so that the order covers the "Kolkata Municipal Corporation and such other municipal corporations where elections are due," seven in all.
+
+Justice Bagchi agreed to consider the submissions, but said piling on urgent matters could make the exercise unrealistic.
+
+"It is a difficult task for the tribunals," he said, adding that the bench would take a pragmatic approach.
+
+"We understand the concern. You have made the application, we'll consider it," he said.
+
+Asked about pendency, Bhushan said about 1.30 lakh appeals are pending in Kolkata and about 75,000 in the other six corporations combined, roughly two lakh in all.
+
+Bhushan also suggested that if appeals remain pending when the civic polls are held, the deleted voters should be allowed to vote.
+
+Sankaranarayanan told the bench that state police have been tasked with visiting the homes of appellants whose cases are pending and asking them to produce documents.
+
+The senior lawyer said they have been told to finish the exercise by November 29 and handed a police checklist to the bench.
+
+Justice Bagchi asked whether the documents were being formally collected and placed before the tribunals. Sankaranarayanan said the EC has told the petitioners it has nothing to do with the exercise and attributed it to the state.
+
+Justice Bagchi noted that many people, at least in the KMC area, hold valid passports, and that tribunals need not take long to decide such cases.
+
+He said the petitioners could approach the high court on the police action. Sankaranarayanan said they would.
+
+The CJI added that the first concern is to ensure the appeals are decided.
+
+Justice Bagchi said the court has already said that appeals seeking inclusion must be decided quickly.
+
+In March, the EC set up 19 appellate tribunals at the apex court's direction.
+
+About 700 judicial officers from West Bengal, Odisha, and Jharkhand were deployed to handle roughly 60 lakh claims and objections arising from the exercise.
+
+On August 25, the apex court had directed the EC to furnish details of pending and disposed-of appeals, including a segregation of cases filed by voters challenging their exclusion or inclusion in the electoral rolls.
+
+It also asked the poll panel to indicate how many additional tribunals would be required to ensure time-bound adjudication.
+
+---
+
+### Can you get Rs 1.5 lakh/month for 20 years from Rs 1.5 crore retirement corpus? See estimates to know - The Economic Times
+*ET Online Follow us Share Font Size Abc Small Abc Medium Abc Large Save Print · general*
+
+When you are planning for retirement, the main objective for you can be to generate the maximum income from your retirement corpus. But if your withdrawal rate is too high compared to growth on the corpus, it can be exhausted before your retirement ends. So, it is important to know the right withdrawal rate.
+
+Suppose, you have a Rs 1.5 crore corpus and plan to generate a Rs 1.5 lakh monthly income from it for 20 years, can you do it? In this write-up, we will present estimates of amounts you can withdraw every month without exhausting your corpus during retirement years.
+
+## Can you get Rs 1.5 lakh/month income from Rs 1.5 crore corpus for 20 years?
+
+When we are talking about withdrawing a monthly amount (fixed or increasing), two things to be considered are the growth on corpus and the withdrawal rate.
+
+For a Rs 1.5 crore corpus, what can be the monthly return and the withdrawal rate to get Rs 1.5 lakh monthly pension?
+
+Since you are investing it for retirement, a good strategy can be to invest it in a low-risk asset(s) so that it can provide you a stable income.
+
+Since we are investing the corpus in a low-risk investment, we can’t expect it to provide 10%, 12% or 15% annualised returns. We assume a 6% annualised return from the Rs 1.5 crore corpus for regular monthly payouts.
+
+Annual return
+
+Withdrawal rate
+
+Annual withdrawal
+
+Monthly withdrawal
+
+Corpus will last
+
+6%
+
+6%
+
+₹9,00,000
+
+₹75,000
+
+49 years
+
+6%
+
+8%
+
+₹12,00,000
+
+₹1,00,000
+
+21 years
+
+6%
+
+10%
+
+₹15,00,000
+
+₹1,25,000
+
+14 years
+
+6%
+
+12%
+
+₹18,00,000
+
+₹1,50,000
+
+10 years
+
+As the above calculations demonstrate, if you are looking to withdraw a Rs 1.5 lakh per month from your Rs 1.5 crore retirement corpus where the annualised return is 6%, your yearly withdrawal rate will be 12% and the money will exhaust in just 10 years, much before your target of 20 years.
+
+Even if you withdraw Rs 1.25 lakh per month under the same growth rate, the corpus will erode in approximately 14 years.
+
+However, if you restrict your monthly withdrawal to Rs 1 lakh, the corpus can last nearly 21 years, where your withdrawal rate will be 8%. At a low withdrawal rate of 6%, you may withdraw Rs 75,000 per month for 49 years.
+
+## Why withdrawals of a fixed amount per month may be insufficient in retirement
+
+Year 1 monthly withdrawal
+
+Increase in withdrawal rate/year
+
+Return from corpus
+
+How long corpus will last
+
+₹50,000
+
+5%
+
+6%
+
+29 years
+
+₹60,000
+
+5%
+
+6%
+
+24 years
+
+₹70,000
+
+5%
+
+6%
+
+20 years
+
+₹80,000
+
+5%
+
+6%
+
+17 years
+
+₹90,000
+
+5%
+
+6%
+
+15 years
+
+₹1,00,000
+
+5%
+
+6%
+
+14 years
+
+As the table above shows that, at a Rs 1 lakh monthly withdrawal, your Rs 1.5 crore corpus can run sufficient for 21 years.
+
+You may consider Rs 1 lakh monthly income a good amount today, but it may be insufficient 10 years down the line because of inflation. At a 5% inflation rate, the value of Rs 1 lakh will be just a little over Rs 61,000. Such an amount may be insufficient for you after a decade.
+
+So, you should set a monthly withdrawal amount where you can increase it every year.
+
+Suppose, you want to start with a Rs 1 lakh monthly withdrawal from a Rs 1.5 crore corpus, increase the withdrawal amount by 5% every year, and get a 6% annualised return from the corpus, the money will last approximately 14 years.
+
+If you keep the initial withdrawal at Rs 90,000 or Rs 80,000 and increase the withdrawal by 5% every year, the amount will still last just 15 and 17 years, respectively.
+
+It means if you want money for 20 years where you also want to increase the amount by 5% every year, you need to keep the monthly withdrawal at less than Rs 80,000.
+
+Our calculations show that if you want a withdrawal for at least 20 years, you need to start with a Rs 70,000 monthly withdrawal and increase the amount by 5% every year.
+
+So, what we learn is that expecting a Rs 1.5 lakh monthly income from a Rs 1.5 crore corpus can be risky since it requires an annualised return of 12%. But if you start with a lower withdrawal amount of Rs 1 lakh per month, it may not be sufficient for beating inflation.
+
+So, you should keep the withdrawal rate at a point from where you can withdraw a monthly amount, increase it every year and still meet your target of 20 years.
+
+Or, if you want to withdraw Rs 1.5 lakh in the first year and increase it every year by 5%, you need a much higher corpus of Rs 3.30 crore.
+
+---
+
+### After Mumbai & Delhi, Nitin Gadkari says it's Kolkata's turn now: Transport Minister plans major makeover with world-class infrastructure; check what's coming
+*Trending Desk · general*
+
+## After Mumbai & Delhi, Nitin Gadkari says it's Kolkata's turn now: Transport Minister plans major makeover with world-class infrastructure; check what's coming
+
+Synopsis
+
+Nitin Gadkari has announced a nearly 250-km-long ring road project for Kolkata at an estimated cost of Rs 14,000 crore to ease traffic congestion and improve connectivity. The announcement follows the launch of 22 road and national highway projects worth over Rs 8,700 crore in West Bengal, along with an additional Rs 1 lakh crore infrastructure package for the state.
+
+Listen to this article in summarized format
+
+Union Minister Nitin Gadkari and West Bengal CM Suvendu Adhikari
+
+Union Road Transport and Highways Minister Nitin Gadkari has announced a nearly 250-km-long ring road project for Kolkata at an estimated cost of Rs 14,000 crore, promising a major push to the city's infrastructure and connectivity. In a message outlining the proposed project, Gadkari said the ring road would help ease traffic congestion, make travel more convenient and improve connectivity across Kolkata. He said the Centre's goal was to build a modern city with world-class urban infrastructure, including better roads, flyovers and transport facilities.
+
+"After Mumbai and Delhi, it is now time to give Kolkata's development fresh momentum. Our goal is a modern Kolkata, better connectivity and a developed West Bengal," Gadkari said.
+
+  
+
+> — nitin\_gadkari (@nitin\_gadkari)
+
+The announcement follows his visit to West Bengal on Thursday, when he laid the foundation stones for and inaugurated 22 national highway and road projects worth more than Rs 8,700 crore in Kolaghat, Purba Medinipur district. During the event, he also announced an additional Rs 1 lakh crore infrastructure package for the state.
+
+  
+
+## Rs 1 lakh crore infrastructure package for West Bengal
+
+Addressing the gathering alongside West Bengal Chief Minister Suvendu Adhikari, Gadkari said projects worth around Rs 2 lakh crore were already under way in the state.
+
+"It's Modi ji and my responsibility to change Bengal's picture. Rs 2 lakh crore projects are already going on. I promise to you today, I announced Rs 1 lakh crore projects for West Bengal," he said.
+
+The 22 projects launched or initiated during the event include the expansion and upgradation of key highway corridors, bridges, flyovers and bypasses. These are aimed at reducing traffic congestion and improving regional connectivity.
+
+## Kolkata ring road project to ease traffic congestion
+
+The proposed 250-km ring road is expected to strengthen Kolkata's road network and make movement across the city easier.
+
+Gadkari said the project was part of a broader effort to modernise the city's infrastructure, following similar development initiatives in Delhi, Mumbai and Pune.
+
+He also stressed the need for modern roads, flyovers and an improved transport system to support Kolkata's development.
+
+## Dilip Ghosh expects progress on pending highway projects
+
+Earlier, West Bengal Minister Dilip Ghosh had expressed hope for fresh infrastructure announcements and progress on pending road projects ahead of Gadkari's visit.
+
+Speaking to reporters in Kolkata, Ghosh praised the Union Minister's work on infrastructure, describing him as "Vishwakarma".
+
+Ghosh said Gadkari had previously sanctioned funds for several projects, including major highways and greenfield roads, but their implementation had been delayed due to a lack of cooperation from the previous state government.
+
+He said the present government wanted to accelerate infrastructure development and that Gadkari's visit would benefit the state.
+
+## Kharagpur-Morgram greenfield road, Farakka bridge among key projects
+
+Ghosh also referred to the proposed Kharagpur-Morgram greenfield road and a major highway route connecting Siliguri and Kharagpur towards Kashi. He said these projects had been announced earlier but required land availability and cooperation from the state government to move forward.
+
+He further highlighted the second bridge over the Kansai River, which connects Medinipur and Kharagpur. According to Ghosh, a sanction of Rs 304 crore had been secured for the project around three years ago, but construction was only now beginning.
+
+Ghosh also said the second bridge at Farakka was due to be inaugurated, along with other infrastructure projects.
+
+_Inputs from agencies_
+
+---
+
+### 8th Pay Commission: 2 pensioners' bodies urge PM to include pre-2026 retirees in pension revision; protest held in Delhi - The Economic Times
+*Shaghil Bilali · general*
+
+The demand for including the pension revision for pensioners who retired before January 1, 2026, to the 8th Pay Commission’s (8th CPC) terms of reference (ToR) has gathered momentum. As many as two pensioners associations, the Forum of Civil Pensioners’ Association (FCPA) and the Bharat Pensioners Samaj (BPS) have written to Prime Minister Narendra Modi to include the pension revision for pensioners retired before January 1, 2026, in the 8th CPC ToR.
+
+The FCPA, in its letter dated November 25, has also requested PM Modi to repeal the the Validation of Pension Rules Act, 2025, which it claims, discriminate against pensioners based on their retirement dates. The FCPA has also sought a meeting with PM Modi and Finance Minister Nirmala Sitharaman to discuss the issue.
+
+Not just that, many organisations, including the FCPA, BPA and Defence Civilian Pensioners, held a protest at Eastern Court, New Delhi, on November 25, 2026, to include such pensioners’ issue to the 8th Pay Commission’s Terms of Reference.
+
+**What pensioners’ bodies are demanding**
+
+The FCPA and the BPS have asked the PM to intervene and amend 8th CPC ToR to include pension revision for pensioners who retired before January 1, 2026.
+
+The 8th CPC ToR, released in November 2025, talks about pension and gratuity revisions of pensioners under the Old Pension Scheme (OPS), National Pension System (NPS) and Unified Pension System (UPS), but it doesn’t talk specifically about pensioners who had retired before January 1, 2026, the date from when 8th CPC conditions are expected to be implemented.
+
+**Does** **pension revision requires** **a specific mention** **in the 8****th** **CPC ToR****?**
+
+The FCPA is providing the background in the form of the Validation of Pension Rules Act, 2025, which it says denies opportunity to pensioners retired before January 1, 2026, to get the same pension revision as for pensioners retired from January 1 onwards.
+
+The FCPA has, thus, demanded to repeal the Validation of Pension Rules Act, 2025, in its entirety and restore the sanctity of the Supreme Court judgements on pension parity.
+
+As per the Validation of Pension Rules Act, 2025, the central government can establish distinctions among pensioners as a general principle. A distinction can be made or maintained amongst pensioners, which may emanate from the accepted recommendations of Central Pay Commissions. In particular, the distinction can be made on the basis of the date of retirement.
+
+The government has enacted the Validation of Pension Rules Act-2025 through the Finance Act 2025.
+
+The FCPA argues that the Act overlooks the Nakara judgement and deny pension revision to pre-2026 pensioners.
+
+**What was DS Nakara judgement?**
+
+In the Supreme Court's landmark D.S. Nakara vs Union of India (1983) judgment, the Apext court said that dividing pensioners into two groups based merely on their retirement dates was arbitrary and violated Article 14 of the Constitution, which guarantees equality before the law and equal protection of laws.
+
+The pensioners’ body fears that the Validation of Pension Rules Act-2025 allows the government to deny equal pension-revision benefits to employees who retired before January 1, 2026.
+
+The FCPA has thus requested PM Modi to repeal the Validation of Pension Rules Act-2025.
+
+---
+
+### Gold price forecast: Fed rate hike in December may limit recovery to ₹1.30 lakh per 10 grams by 2026-end, says expert | Mint
+*Sheetal Goel · economy*
+
+Gold prices are closely linked to US Federal Reserve interest rate decisions. The Fed's next Federal Open Market Committee (FOMC) meeting is scheduled for 8-9 December 2026, with the interest rate decision expected on 9 December.
+
+The Fed last raised interest rates by 25 basis points in September, taking the federal funds target range to 3.75%–4.00%. This was its first rate hike since 2023. At its subsequent October meeting, the FOMC kept rates unchanged at 3.75%–4.00%
+
+A Fed rate hike generally puts downward pressure on gold prices. Gold is a non-interest-bearing asset and does not generate regular income, unlike bonds or bank deposits.
+
+When interest rates rise, interest-bearing investments can become more attractive to investors, reducing gold's appeal. Higher US interest rates can also strengthen the dollar and push bond yields higher, creating further pressure on gold prices.
+
+However, gold prices have recovered over the past two days, after falling to around ₹1.22 lakh per 10 grams from their January peak of ₹1.8 lakh. On 27 November, MCX December gold futures were trading at ₹1,25,354 per 10 grams, up 2.52%, as of 1:24 pm.
+
+With the December Fed meeting approaching, what should Indian investors expect from gold prices? And should they invest now or wait for a correction? Here's what an expert says.
+
+## What is outlook for gold prices amid expectations of Fed rate hike?
+
+Gaurav Garg, Head – Research, Lemonn, a SEBI-registered online broking platform offering stocks, F&O, mutual funds and IPOs, told _LiveMint_ that gold has recovered over the past two sessions, but the sustainability of this rebound remains uncertain. With expectations of a US Federal Reserve rate hike in December and potentially further tightening in early 2027, elevated US bond yields and a stronger dollar could continue to restrict gold’s upside, he said.
+
+He shared that higher interest rates reduced the attractiveness of non-interest-bearing assets such as gold. However, he said that continued central bank purchases, geopolitical uncertainty, and safe-haven demand should provide downside support.
+
+For Indian prices, he said that rupee depreciation against the dollar could cushion any fall in international gold prices, while rupee appreciation could add pressure.
+
+Assuming the current reference price of ₹1,24,952 per 10 grams, Garg's indicative domestic gold price outlook is as follows.
+
+**Timeline**
+
+**Gold price target (per 10 grams)**
+
+**Potential Upside**
+
+End of December 2026
+
+₹1.22–1.30 lakh
+
+\-2.36% to +4.04%
+
+Next 12 months
+
+₹1.35–1.50 lakh
+
++8.04% to +20.04%
+
+This suggests that while gold prices could see further upside by the end of December and over the next 12 months, they are likely to remain below the January peak of ₹1.8 lakh per 10 grams.
+
+“The near-term outlook remains volatile with a cautious bias, while the one-year outlook is moderately positive, subject to a moderation in interest-rate pressures,” he added.
+
+## What should investors do now?
+
+Garg said investors should avoid making lump-sum investments at a time when gold prices remain highly sensitive to interest-rate expectations. If prices rise further, existing investors can maintain their core allocation rather than chase the rally. If gold remains range-bound, systematic and staggered purchases through Gold ETFs or gold funds can help average the acquisition cost, he suggested.
+
+If prices decline further due to a stronger dollar or rising bond yields, long-term investors can gradually accumulate in phases rather than attempt to identify the exact bottom.
+
+“Central-bank demand and geopolitical uncertainty continue to support gold's long-term diversification role. However, investors should maintain a disciplined allocation and avoid excessive exposure to a single asset class,” he added.
+
+_Disclaimer: This story is for educational purposes only. The views and recommendations made above are those of individual analysts or broking companies, and not of Mint. We advise investors to check with certified experts before making any investment decisions._
+
+### About the Author
+
+Sheetal Goel
+
+Sheetal Goel is a Content Producer at Livemint, where she covers corporate developments, personal finance, business trends, markets, and SEBI-
+
+---
+
+### Marital rape: Millions of wives in South Asia unprotected - study
+*Geeta Pandey · general*
+
+South Asia's marital rape laws largely stem from British colonial rule, says Ranjeeta Silwal of Equality Now, a global women's rights group part of Samaj.
+
+The law, dating to 1860 in India and Bangladesh and 1885 in Sri Lanka, lists exceptions to rape - including sex by a man with his adult wife.
+
+Campaigners say the law is outdated and forced sex is rape, regardless of the perpetrator. Experts warn marital sexual violence harms women's physical, psychological, emotional and sexual well-being.
+
+More than 100 countries have criminalised marital rape, including the UK, which changed its law in 1991. But the exemption remains in India, Sri Lanka and Bangladesh.
+
+-   In India, growing clamour to criminalise rape within marriage
+    
+
+-   Marital rape: Delhi high court gives split verdict
+    
+-   India government says criminalising marital rape 'excessively harsh'
+    
+
+Pakistan removed the marital rape exception in 2006, but no higher court has confirmed that rape laws apply within marriage. A recent high court ruling, meanwhile, granted husbands broad immunity for non-consensual sex.
+
+Since returning to power in 2021, the Taliban have steadily dismantled women's protections in Afghanistan.
+
+A new penal code introduced in January made matters worse, Silwal says. Under it, a husband can be prosecuted for violence against his wife only if he causes a broken bone, open wound or severe bruising. Even then, he faces just 15 days in prison if convicted.
+
+Unsurprisingly, the code makes no mention of marital rape. But its narrow definition of punishable violence effectively denies women protection against it.
+
+"The idea comes from the belief that consent for sex is implied in marriage, that marriage is a threshold where consent ends," Silwal told the BBC.
+
+"But it shows a lack of awareness, it shows we are still treating women as property, that we are still very patriarchal."
+
+The report comes amid renewed debate over marital rape across the region.
+
+In India, 10 petitions challenging the law are pending before the Supreme Court, which is due to begin final hearings on 9 December.
+
+Courts have delivered contradictory rulings over the years, with some judges acknowledging the law's archaic nature and urging parliament to criminalise marital rape.
+
+There was outrage last year when a court let go a man whose wife had died after he brutally raped her.
+
+But the Indian government, religious organisations and men's rights activists have opposed petitions in the top court, saying criminalisation of marital rape would be "excessively harsh".
+
+-   India refuses to criminalise marital rape. This new series shines a light on it
+    
+-   India anger as judge frees man accused of raping wife who then died
+    
+
+Rights groups in Bangladesh have also challenged the marital rape exception, arguing it violates constitutional rights to life, liberty and protection from torture and cruel treatment, the report says.
+
+"Those who oppose criminalising marital rape say it would undermine the family unit and break them apart. And family is very important in our countries," Silwal says.
+
+"They say it will affect our religious and cultural values and worry that there would be false accusations against men."
+
+Also a change in law, she says, may not necessarily mean justice for survivors.
+
+Silwal points to Bhutan where marital rape is a criminal offence but it's treated as a petty misdemeanour and is punishable by one month to one year.
+
+In Nepal, the punishment for rape is between six and 20 years, but it's only up to five years for a husband who rapes his wife.
+
+
+---
+
 ## 26 November 2026
 
 ### BharatGen launches Indian vision language model Patram 1.5
