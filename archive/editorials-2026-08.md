@@ -1,5 +1,163 @@
 # Editorials archive — 2026-08
 
+## 29 August 2026
+
+### Unkind cuts: On the Telangana and Karnataka electoral rolls
+*The Hindu · Editorial*
+
+The Special Intensive Revision (SIR) process being conducted by the Election Commission of India (ECI) is increasingly leading to a clear case of disenfranchisement in several parts of India. Marauding on after a judgment by the Supreme Court of India allowed it to proceed, the SIR has now struck out a fifth of the names from the electoral rolls in Telangana and Karnataka — nearly 22% and 19.5% respectively — and among the highest in the country. The cuts are steepest in their capital cities — five constituencies in Bengaluru have lost more than half of their electors while nine of Hyderabad’s 15 have seen deletions of more than 40%. Cuts of this kind cannot simply be a trimming of bloated rolls at the margins. If they are accurate, the ECI’s own summary revision processes were yielding bloated rolls in recent elections, and doing so in the very places with high net in-migration from the rest of India. And if the deletions are to be justified, those struck off the rolls must have left the States — a move within Karnataka or Telangana would only relocate a voter’s name on the same State roll, not remove it altogether. Yet, this is neither borne out by recent survey data nor by the government’s own population estimates.
+
+During the Bihar SIR, the Court asked why political parties had filed so few objections, seeking inclusion of wrongly deleted names; that question might hold true for the Southern States as well. A plausible reason could be that the voter id is useful to a citizen only once in a few years, leading to less alacrity on their part. This may explain why a process that puts the onus on electors yields cuts of this scale. Meanwhile, proving a smoking gun in the data is difficult because of the ECI’s opacity. It has not published the elector-to-population ratio for any State so far during the revision even though doing so is mandatory and is the only test of under-enrolment. The Karnataka Chief Electoral Officer has not even bothered to release a gender-wise breakdown of the deletions, instead scattering the lists across several Google Drive links without the old booth numbers, making verification arduous. The outcome of such shoddiness is visible in West Bengal, where the ECI’s dubious “logical discrepancy” process disenfranchised lakhs of electors, forcing them to seek redress before tribunals set up under the aegis of the Court. Months after the elections, records obtained under a Right to Information request show that barely 82,000 of the nearly 38 lakh appeals before the 19 tribunals have been decided, with more than 90% of those decisions favouring electors seeking restoration. The ECI — an institution once envied even by wealthier democracies for bringing large numbers of Indians to the polling booth — is now an obstacle to universal adult franchise.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/unkind-cuts-on-the-telangana-and-karnataka-electoral-rolls/article71401014.ece)
+
+---
+
+### Five years on, Taliban are still at a fork in the road
+*The Hindu · Opinion*
+
+For a people long regarded as at the crossroads of civilisations, the past five years of the Islamic Emirate of Afghanistan (IEA) under Taliban rule resemble the backwaters. After 47 years of bloodletting, terrorism and foreign occupation, the current “stability” is a respite. But the ongoing time-freeze only postpones an eventual transition to modern universality. So far, the process has been glacial and selective, causing pain and uncertainty. It is time to take stock of the past half-decade and try to fix the broad contours of a foreseeable future.
+
+The IEA’s overall performance since the August 15, 2021 takeover has been a binary. On the positive side, though the IEA 2.0 transition was as chaotic as the IEA 1.0 transition in 1996, it spared the country from mass retribution. Afghanistan is now largely stable and secure. The country’s “Badlands” were long associated with militant groups such as al-Qaeda. Their 9/11 attacks unleashed two decades of bloody U.S. retribution on both al-Qaeda and the IEA 1.0. The IEA 2.0 has disallowed the use of their territory for operations against other countries. During the past five years, an estimated 5.7 million refugees from Pakistan and Iran have returned to Afghanistan. While this return of an eighth of the country’s population has exacerbated the penury, the government has managed it reasonably well. These unmistakable shifts from the ruinous policies of the previous Islamic Emirate (1996-2001) have partially mitigated the world’s concerns.
+
+[Read full article](https://www.thehindu.com/opinion/lead/five-years-on-taliban-are-still-at-a-fork-in-the-road/article71401782.ece)
+
+---
+
+### Much Bickering In Punjab Cong; Datia Loss Feeds Chouhan Hope
+*Deccan Chronicle · Opinion*
+
+Once dismissed as a “Pappu”, Congress leader Rahul Gandhi has finally come into his own. There is all-round agreement that the public perception about the Lok Sabha leader of Opposition is changing and he is now being viewed in a more positive light. This follows Rahul Gandhi’s recent successful efforts to connect with Gen Z. But despite these positives, there is a degree of despondency in the party. Congress insiders maintain that though Rahul Gandhi’s personal popularity is growing, the party organisation continues to be in a mess. Virtually every state unit of the Congress is in the throes of bitter infighting. From Punjab and Himachal Pradesh to Goa and Jammu and Kashmir, factional battles are a regular feature everywhere. Congress members fear the party will lose the momentum generated by Rahul Gandi’s “Chhatron ki Goonj” programmes, if the party fares poorly in next year’s Assembly elections. Poll-bound Punjab and Himachal Pradesh are particularly vulnerable as rival groups in these states are showing no signs of backing down. If the Congress loses in these states, not only will it be wiped out in the entire northern belt, it will also be a setback for Rahul Gandhi. The goodwill he has garnered in recent months could quickly disappear if he fails to deliver electoral victories for the party.
+
+Reports from Punjab are particularly disconcerting for the Congress. The raging battle between the camps headed by the state party chief Amrinder Singh Raja Warring and former chief minister Charanjit Singh Channi could well nix any chance of the Congress ousting the Aam Aadmi Party in next year’s election. Speculation is rife that Mr Channi could float his own party closer to the election and that the Bharatiya Janata Party is not averse to lending him a helping hand in this endeavour. In fact, Union minister Bhupendra Yadav admitted to Congress leaders in an informal conversation during the recent Parliament session that Congress members in Punjab were lining up to join the BJP. Given this state of flux, the Congress Party’s plans to launch its poll campaign with a bus yatra is being constantly delayed. Rahul Gandhi is to flag the yatra but he is learnt to have told Congress Punjab in-charge Bhupesh Baghel that he will only go if the party puts up a united face.
+
+Even after he moved to Delhi and took charge of the agriculture ministry over two years ago,Much Bickering In Punjab Cong; Datia Loss Feeds Chouhan Hope made it a point to visit his home state Madhya Pradesh as often as possible. His regular trips evoked considerable chatter in political circles as it was read as a sign that Mr Chouhan had not reconciled to the loss of the chief minister’s post, having been replaced by the present incumbent Mohan Yadav. Interestingly, the frequency of Mr Chouhan’s visits has increased after the Bharatiya Janata Party lost the recent bypoll in Datia to the Congress. Mr Chouhan even convened a meeting of all Madhya MPs in Bhopal recently. Mr Chouhan perhaps thinks there is still an outside chance that he could return as chief minister. He lives in hope as Mohan Yadav finds himself in the dock after the party’s defeat in Datia.Opposition parties belonging to the INDIA bloc were in an upbeat mood when the Monsoon Session of Parliament came to a close earlier this month. They were particularly happy that they had put up a united front and succeeded in pushing the Modi government on the defensive following the police crackdown on student protesters at Jantar Mantar. But there has been no news of the INDIA bloc since then. The combined Opposition had decided at its last meeting in June that they would meet every two months to chart out a common plan of action to take on the BJP in their respective states. Congress president Mallikarjun Kharge had announced then that the next meeting would be held in Hyderabad in August. This announcement followed complaints from regional parties that instead of meeting once a year, the INDIA bloc should have regular consultations.
+
+As it happens, the month of August is drawing to a close but the Congress Party’s allies, including the Trinamul Congress and the Samajwadi Party, have yet to hear from the party about the proposed conclave. So much for Opposition unity.
+
+Now that the organisational reshuffle in the Bharatiya Janata Party has been completed, conversation in Delhi’s political circles these days is focussed on the much-anticipated Cabinet reshuffle. With Punjab elections due next year, MPs from the state are predictably eyeing a seat at the high table. It is expected that someone from the state will be accommodated especially since Ravneet Singh Bittu resigned on completion of his Rajya Sabha term while Union minister Hardeep Puri’s Rajya Sabha term ends later this year. Former Aam Aadmi Party MP Raghav Chadha is a contender but a case is being made for another former AAP Rajya Sabha member Vikramjit Singh Sahney on the ground that the BJP needs a Sikh to replace Mr Bittu and,...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/much-bickering-in-punjab-cong-datia-loss-feeds-chouhan-hope-1983320)
+
+---
+
+### Susegad, Napcation & Freshly Baked Poee
+*Deccan Chronicle · Opinion*
+
+“Any plans today?” the butler asked, sliding a tray of cut papaya onto my Pool Patio balcony. “None,” I said, and meant it fully. I had come to The Westin Goa for three nights to do the one thing I’m chronically bad at: nothing. This is a napcation, I remind myself, not a vacation. There is a difference, and I intend to honour it, susegad rhythm and all.
+
+We’d landed well past eleven, the kind of hour when even lobby chandeliers seem to dim in sympathy, and by the time the key card slid into my palm it was closer to midnight than not. There was talk of freshening up, of maybe just sleeping straight through, but then dinner arrived anyway, in-room, on a trolley that seemed to know something about jet lag and the hunger it produces. No restaurant, no menu debate, just curry and rice under a silver dome, eaten cross-legged on the bed while Goa introduced itself through an open window, all cicadas and warm salt air, the promise of the trip already, quietly, keeping itself.
+
+It’s 5:45 am on the first proper morning, and I am, against every instinct of a napcation, awake. Not from an alarm, but from a restlessness that only a new bed can produce, and the vague memory of the front desk mentioning an 80-year-old bakery worth losing sleep over. I ask the driver on airport-transfer duty if he knows it, and he does, of course he does, everyone in these parts seems to have grown up on this bread and 20 minutes later I’m standing in Moira, a village known for its colourful Portuguese bungalows and a short drive from the resort, well outside the manicured hush of the property, in front of the Tavares Bakery, a traditional Goan house that now bakes poee for 80 years to feed not just the entire Goa, homes and hotels included, but also some parts of Mumbai.
+
+Poee, for the uninitiated, is Goa’s own hollow, pillowy bread, eaten with sausage curry or simply torn apart and eaten warm, plain, straight off the paddle. Inside, the bakery is dim and furnace-hot, lit mostly by the orange glow of an oven that has, I’m told, not gone cold in 80 years. The bakers assigned for different tasks for different stages of baking, move with the unhurried certainty of someone who has done this 10,000 mornings in a row. They don’t speak much English, and I don’t speak much Konkani, but one of them hands me a poee anyway, still too hot to hold properly, and gestures for me to eat. I do. It’s soft in the centre, faintly charred at the edges, and tastes like nothing I can compare it to except, perhaps, patience itself.
+
+Back at the resort by seven, poee wrapped in paper like contraband, I make it just in time for the buffet breakfast at The Market, the sprawling spread more than a match for anything I could have brought back with me. I do the only sensible thing available to a woman on a napcation after that: I go back to bed.
+
+The Westin’s beds are dangerously good, the kind that make you suspicious of your own mattress at home. I surface only for lunch, a chef-curated meal, once again at The Market, that arrives in unhurried courses, each one better suited to a nap than the last. Later, I let the Heavenly Spa do what its name promises, 45 minutes of being kneaded into something closer to jelly than journalist. Dinner is at Haven, the resort’s Asian dining space, where I share plates I can’t finish over cocktails I definitely can, the evening dissolving into that particular Goan quiet where the loudest sound is cutlery.
+
+The following day brings a Goan thali at lunch, all fresh spice and coastal memory, and by afternoon I’m coaxed out of my pool-patio room for a kayaking session in the Chapora River that I approach the way I approach most exercise: reluctantly, then happily. Ten on ten points for post kayak snacks, a Goan special called alle belle, which are basically soft rice pancakes (or crepes) rolled or folded around a rich, moist filling of freshly grated coconut and jaggery. Dinner that night is at Drift, in-water dining, quite literally, the table lapped by the pool as the sky goes copper over the hills, feet still faintly damp from the paddle earlier. It occurs to me, somewhere between courses, that I have eaten better in three days than I have caring for myself in three months.
+
+I did not see a single fort, market, or waterfall this trip, beyond breakfast. I saw a bakery that has outlived three generations, a spa that undid my shoulders, and more of my own eyelids than the itinerary technically allowed for. Some holidays are checklists. This one was closer to a long, warm exhale — poee in one hand, a cocktail in the other, nothing urgent on the agenda, everything, somehow, accounted for.
+
+Arunima Mazumdar is a Delhi-based independent journalist, writer and literary critic. She is also the founder of Dokusha Book Club, India's first book community dedicated to reading Japanese literature.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/susegad-napcation-freshly-baked-poee-1983332)
+
+---
+
+### The System That Killed The Fearless Bureaucrat
+*Deccan Chronicle · Opinion*
+
+My father, a senior bureaucrat, would tell me a story of the early days after Independence. Pandit Ravi Shankar Shukla, a veteran and respected politician, was the chief minister (CM) of the then state of Central Provinces and Berar, with Nagpur as its capital. In an officer’s meeting, Shukla was keen that a certain decision be taken immediately.
+
+K.B.L. Seth, a highly regarded I.C.S officer, was the chief secretary. He explained to the CM that the decision would be in contravention of certain rules, and it would not be possible to implement it immediately in its current form. This annoyed the CM, and in anger he said: “What do you mean it is not possible?
+
+Everything is possible, even removing you from the service is possible.” Seth calmly responded: “Sir, I am a covenanted officer, and removing me from service for doing my duty would not be possible. However, it is possible for you to appoint another chief secretary, and I am not enamoured of this post.” Shukla instantly calmed down and graciously apologised. The decision was reviewed; Seth remained the chief secretary; and the CM and him enjoyed a relationship of even greater cordiality and mutual respect.
+
+There was a time when a good bureaucrat was expected to possess the ability to say no. Such an officer could disagree with his political superior without regarding disagreement as disloyalty. The politician, for his part would often respect the officer for his courage of conviction.
+
+That compact appears increasingly close to extinction. The administrative services were once described as the “steel frame” of India. It was expected to provide continuity amidst political change; institutional memory amidst political flux; and professional advice even when that advice was inconvenient. The minister represented the political will. The civil servant was expected to explain what was administratively feasible, legally permissible and institutionally prudent.
+
+The relationship was never entirely idealistic. Politicians, of course, have always liked “cooperative officers”. Bureaucrats love to blame politicians but are from blameless themselves. In fact, in all likelihood, it was not the politician who first compromised the bureaucrat, but the bureaucrat who first conveyed to the politician that he was willing to be compromised. This attitude, in turn compromised the dharma of the bureaucracy: that an officer belonged, first and foremost, to the institution he served; his allegiance was to the Constitution, the law and the public interest — not to the individual politician occupying a particular office.
+
+Bureaucratic pliability has verifiable dividends: a desirable posting, an extension of tenure, a promotion, proximity to power, or simply the assurance that one's career will not be obstructed. The result is a damaging condominium of mutual convenience. The politician wants compliance; the bureaucrat wants patronage. Each can supply what the other seeks.
+
+Ethics, or self-esteem don’t matter in this happy ‘relationship’. I recall an incident in New York, when the private secretary (PS) to a minister, a senior IAS officer, arrived five minutes late at the airport to receive the minister’s wife. When he met her, she exploded: “Ullu ke patthe, ye time hai aane ka!: Bloody fool, is this the time to show up!” The officer quietly swallowed the unacceptable insult in order to retain the coveted post of PS to the minister.
+
+It is equally true that the calibre of politician has also dramatically changed, and there are very few left of the ilk of Ravi Shankar Shukla. Alas, this transformation happened quite quickly after 1947.
+
+A well-known politician in the 1970s, who was both a Cabinet minister in the Centre and the CM of an important state, said publicly that he would be willing to give his very skin to make chappals or slippers for then Prime Minister Indira Gandhi. When politician reduce themselves to this kind of abject sycophancy before their political superiors, they expect the same kind of self-debasement and grovelling from the bureaucrats who work under them.
+
+Politicians are unlikely to change, but the willing supplication of covenanted officials is, frankly, shameful. The need for them to reclaim their mandated self-respect is imperative because bureaucracy is where the decisions of government become concrete realities for citizens, be it the acquisition of land, the award of a contract, the allocation of a licence, the transfer of an employee, the demolition of a house, the construction of a road, or the delivery — or denial — of a welfare entitlement.
+
+Corruption thrives when institutions become complicit. A politician who wants an improper favour requires an officer willing to facilitate it. An officer who seeks immunity for overlooking the rules requires a politician to protect him. The two are mutually dependent, and self-perpetuating, isolating the few honest bureaucrats left.
+
+In fact, the honest officer, in such an ecosystem, becomes an...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/the-system-that-killed-the-fearless-bureaucrat-1983314)
+
+---
+
+### Fragile mountains sound another alarm
+*Deccan Herald · Editorial*
+
+Nepal is witnessing a massive humanitarian tragedy unfold, with at least 530 people dead and thousands missing after a wall of ice and rock tumbled from the mountains and cascaded down for miles, destroying everything on the way. It tore through a three-river system, destroying major hydropower plants and a Nepal-China border crossing. Buildings, bridges, and vehicles floated like matchboxes on the roaring waters, underlining the fragility of human lives and constructions before an onslaught by Nature. The collapse, on impact, registered a magnitude of 5.2. Rescue operations are continuing, but hopes for survivors have dimmed over the hours. Many victims were residents of villages on the torrent’s way. Others were pilgrims and tourists, including many Indians. A fresh warning of secondary floods has been issued.
+
+It may take months to ascertain the exact cause of the disaster. However, there are clear signs of Nature responding under pressure, aggravated by climate change. Experts noted that a huge chunk of ice may have broken off a glacier due to the warming of the mountain ecosystem. The Himalayas are the world’s youngest and most fragile mountain range, and they have been warming at a pace several times the global average. It is estimated that Nepal has lost about one-third of its snow cover in the last three decades. The depletion is accelerating, and the fragmentation and detachment of ice from the slopes is the most prominent mode of glacier retreat across the mountain range. The 2023 Glacial Lake Outburst Flood (GLOF) in Sikkim, the 2024 Thame flood near Everest, and many other regional flash floods were triggered by similar glacier disruptions. Many minor events triggered by environmental degradation are happening every day across the range. The Indian Himalayas are estimated to have about 9,500 glaciers. Keeping a watch on them and assessing them continuously is extremely difficult. However, the crisis calls for heightened vigilance. The health of the Himalayas needs to be monitored with greater scientific validation, through international cooperation. Such informed intervention is critical for the region and the livelihoods of millions of people.
+
+The flash floods are yet another reminder of the escalating climate risks in the region and the need to respect and protect nature for our own good. India has done well to take an active role in the rescue and relief efforts after the disaster. There should be better cooperation and coordination among all Himalayan countries in monitoring the state of the mountains and protecting them.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/fragile-mountains-sound-anotheralarm-4127669)
+
+---
+
+### The message from a no-women Cabinet
+*Deccan Herald · Editorial*
+
+Karnataka’s new government has a glaring gender deficit. Nearly three months after D K Shivakumar assumed office as chief minister, not a single woman has been inducted into his council of ministers. The omission became more glaring when MLC Gayathri Shanthegowda, whose name was on the approved list, was dropped at the last minute. This is no aberration. Women have long been marginalised in Karnataka’s ministerial politics, as elsewhere in India. Grace Tucker became the state’s first woman deputy minister only in 1957, a decade after Independence, while Yashodhara Dasappa was the first woman cabinet minister in 1962. S M Krishna’s (1999-2004) ministry remains the state’s high-water mark, with four women ministers.
+
+As early as 1959, a state legislation mandated seats for women in panchayats. Ramakrishna Hegde’s government reserved 25% of seats in 1983. In 2010, the BJP government under B S Yediyurappa raised the quota to 50%, against the 33% stipulated in the 73rd Amendment. His successor, D V Sadananda Gowda, extended it to urban local bodies. Fifteen years of such reservation have created a substantial reservoir of women with experience in local governance, undercutting any claim that the party lacks suitable candidates. The Congress’s own history shows that women are hardly short of leadership ability. The party produced India’s first woman Prime Minister, Indira Gandhi; first woman President, Pratibha Patil; and first woman chief minister, Sucheta Kripalani. As Prime Minister, Rajiv Gandhi pioneered women’s reservation at the grassroots.
+
+The current situation is poor optics for Congress when its leader, Rahul Gandhi, is campaigning to “smash the patriarchy”. Women outnumber men among Karnataka’s voters, yet the state has among the lowest representation of women legislators in the South. The irony is sharper because schemes such as Gruha Lakshmi and Shakti place women at the centre of electoral strategy, even as they remain excluded from executive power. If even a one-third benchmark were applied to a full-strength cabinet of 34, there should be about 11 women ministers. With B Nagendra resigning over his alleged involvement in the Valmiki Corporation scam, the calls for inducting a woman minister will get louder. However, the objective should not be to fill quotas with token appointments or confine women to the familiar Women and Child Development portfolio. Women must not be treated as a checkbox. A government that seeks women’s votes and designs flagship schemes around them cannot keep them outside the room where power is exercised.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-message-from-a-no-women-cabinet-4127670)
+
+---
+
+### Jan Dhan at 12: 59 crore bank accounts, but how many are actually being used?
+*Deccan Herald · Opinion*
+
+The Pradhan Mantri Jan-Dhan Yojana (PMJDY) was launched in August 2014 to help the weaker sections and low-income groups get access to various financial services such as savings bank accounts, need-based credit, and insurance. Twelve years on, the report card looks impressive – over 59 crore accounts with a total amount of over Rs 3 lakh crore, and more than 32 crore female beneficiaries. This deep penetration at an affordable cost was possible only through the effective use of technology.
+
+However, the real story is the yawning gap between access and usage. Opening an account is a necessary first step, but it is not the same as bringing someone into the financial system in any meaningful sense. This is similar to literacy missions claiming that a person is no longer a “financial untouchable” the moment he or she can sign cheques or application forms, even though the person can neither read nor write.
+
+The scheme’s own numbers reveal an uncomfortable truth: roughly 26% of these accounts are dormant, with no transaction recorded for over two years. In some public-sector banks, dormancy runs as high as a third. A dormant account with zero balance does not help a household save, borrow, or insure itself against shocks, or build a credit history. Moreover, high dormancy imposes real costs on banks that must still maintain these accounts.
+
+If Financial Inclusion 1.0 had the goal of providing banking services to every family, Financial Inclusion 2.0 should aim to make every citizen economically strong. The measure of success should not be only the number of bank accounts, but their active use.
+
+On one hand, smartphone penetration has increased, but digital literacy is still limited. Digital frauds have been increasing. Many bank accounts have been opened in the names of women, but these accounts are often operated by other family members. Therefore, the next step of financial inclusion should be to build digital trust and ensure real financial freedom.
+
+The Reserve Bank of India (RBI)’s Financial Inclusion (FI) Index, launched in August 2021, measures the reach of financial services and covers parameters such as banking, investments, and insurance, apart from the postal and pension sectors. Financial inclusion is defined as the availability of affordable financial products and services to meet the needs of individuals and businesses while supporting entrepreneurship and empowering women. The index helps track progress, identify gaps, and nudge banks to open branches in underserved areas. The FI index in March 2026 stood at 70, up from 53.9 in 2021. The growth was witnessed across all three sub-indices of access, usage, and quality.
+
+Germany's INDEX opens Bengaluru tech centre to tap India’s manufacturing pushIndia can learn from successful international examples. Kenya’s flagship model M-Pesa expanded mobile financial services in rural areas and helped people send and receive money directly on phones via SMS, even without a bank account. It enabled farmers to receive loans directly on their phones to buy seeds.
+
+Brazil’s Pix, like UPI in India, made digital payments between people, businesses, and the government fast and affordable. Nearly 80% of the population uses Pix, and it is the most used payment method in the country. India’s strength lies in integrating Aadhaar, UPI, DigiLocker, and banking services into a unified Digital Public Infrastructure, making financial services more accessible, efficient, and inclusive.
+
+The road ahead for the government should be clear. First, we need to increase the active usage of bank accounts. In other words, shift the metric from the number of accounts opened to the number of accounts used. Second, small farmers, rural households, and women in villages should have easier access to loans through formal banking channels – expanding Mudra loans or Kisan credit card linkages is key here. Third, insurance and pension should become integral parts of financial inclusion so that every family is better prepared to face financial crises.
+
+Fourth, digital financial education should be included in school and college curricula. Fifth, we must ensure that women actively use and benefit from their bank accounts. Sixth, enhance the focus on financial literacy drives through self-help groups, panchayats, and community radio, covering areas such as how to use a debit card, how to check balances in an ATM, how to do a UPI transaction, etc.
+
+India stands at a moment of historic opportunity. Financial inclusion should be a tool of economic empowerment, helping the underprivileged live with dignity.
+
+(The writers are former bankers and train young bankers at Manipal
+
+Academy of Higher Education, Bengaluru)
+
+[Read full article](https://www.deccanherald.com/opinion/jan-dhan-at-12-59-crore-bank-accounts-but-how-many-are-actually-being-used-4127672)
+
+---
+
 ## 28 August 2026
 
 ### Danger from above: On the Nepal flood

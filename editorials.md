@@ -1,8 +1,157 @@
 # Editorials
 
-_Last updated: 2026-11-27 10:00 UTC_
+_Last updated: 2026-11-28 09:17 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 28 November 2026
+
+### Fair play: on a hurried delimitation of Lok Sabha constituencies
+*The Hindu · Editorial*
+
+The Bharatiya Janata Party (BJP) appears to have zeroed in on a hurried delimitation of Lok Sabha constituencies as the central piece of its strategy for the next general election, due in 2029. As the current constitutional scheme stands, a fresh delimitation is triggered once the data from the ongoing Census 2027 is published. That default path, which is based on population distribution across States, will considerably cut down the representation of States that have stabilised their population since the last delimitation. The Centre has now proposed to extend the constitutional freeze on inter-State distribution of Lok Sabha seats for another 25 years, until 2051, while increasing the size of the House to a maximum of 850 seats. The demarcation of the boundaries of Lok Sabha constituencies will be based on the 2011 Census within each State. The delimitation exercise will also bring into force 33% reservation for women, which Parliament approved in 2023. Considering the need to balance the ‘one person, one vote’ principle with the principles of federalism, which is about protecting the group rights of States, the proposals are a reasonable way forward for India. That said, the inter-State distribution of Lok Sabha seats is such a central question of democracy and federalism that any changes must be preceded by thoughtful deliberations at multiple levels.
+
+That makes the approach of the Centre, which is trying to pass a constitutional amendment through defections and manipulations, dubious and lacking in good faith. If the Centre has been willing to extend the constitutional guarantee of inter-State distribution of seats on the basis of the 1971 Census, it could have built an all-party consensus on the issue. Instead, in April, it made a deceptive move by promising to maintain the current proportion of seats while the constitutional amendment it moved would have made that promise unconstitutional. At present, when the Centre is keen to appear accommodative, a more appropriate manner to proceed with such a generational measure in India’s federal democracy is to refer the Bills to a parliamentary committee that can examine them in detail and generate a national conversation. A bigger Lok Sabha will create its own challenges, while the case for increasing its size is not entirely without merit as India’s population has grown by at least 2.6 times since the 1971 Census, which forms the basis of the last delimitation of 1973, based on the 1971 Census. The Centre should not rush this vital question, which is not merely about garnering enough votes for passing a Bill. It must be based on consensus, as it happened in 1976 and again in 2001, under a Prime Minister from the Congress and one from the BJP, respectively.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/fair-play-on-a-hurried-delimitation-of-lok-sabha-constituencies/article71751034.ece)
+
+---
+
+### India’s place in the emerging global energy order
+*The Hindu · Opinion*
+
+During this decade, strong cross currents have buffeted the global energy system, causing humongous turbulence. These include the COVID-19 pandemic, the El Niño effect and climate change, the geoeconomics of wars in Ukraine and the Gulf, renewables and the shale phenomenon. Their impact has exposed the inadequacy and the unsustainability of the current fossil fuel-based energy order. The dire and chaotic situation necessitates the invention of a new global energy order. Although its contours are hazy, they are likely to be shaped by concerns for energy’s improved availability, self-sufficiency, security, affordability and environmental friendliness.
+
+The current global energy ecosystem cuts across the following major fault lines. Global energy is a complex function of the rise in global population and energy intensity. Overall energy demand has tripled during the past half a century, with rampant growth in China (a 10-fold increase) and Asia. Yet, 720 million people lack electricity and two billion cook on polluting fuels. At the other extreme, gigawatt-sized data centres are sprouting. Due to global warming, the world now expends more energy cooling than heating. This energy disparity has concomitant development costs for the “South”.
+
+Historically, man has sourced energy largely from nature and fossil fuels, concentrated in some geographies. In 2025, fossil fuels accounted for approximately 86.2% (oil 33.5%, coal 27.7%, natural gas 25.1%) of total global primary energy supply, while low-carbon sources made up the remaining 13.8% (renewables 5.9%, nuclear 5.2%, and hydro 2.7%). This high dependence on fossil fuels has been problematic, causing supply bottlenecks, climate change, pollution, the resource curse and wars. Global warming (a “hoax” to some diehards) in the past two centuries is largely anthropogenic, caused by fossil fuel-burning; we are warned that average global temperatures rising by more than 1.5°C would cause irreversible damage. Yet, the current trend would lead to global temperatures rising by 2.5°C by 2100. The recent failure of COP31 over fossil fuel phase-out and clean technology funding mechanisms underlines this dilemma.
+
+The ongoing wars in central Europe and the Gulf, major hydrocarbon exporting regions, have disrupted an already high-strung global energy situation. In particular, the United States-Israel war against Iran has stymied the Strait of Hormuz, the passage for nearly a fifth of global maritime transport of oil and gas. These wars have so far led to a cumulative loss of 2.8 billion barrels of crude and 60 billion cubic metres of natural gas. The effects of the crisis are global: three-quarters of the world’s population live in oil- and gas-importing countries, while more than four billion people live in countries that depend on the Strait of Hormuz for over 30% of their oil supplies.
+
+Before the Iran war, most of the hydrocarbons and derivatives crossing the Strait of Hormuz were headed to Asia. The remainder mostly met Africa’s basic needs. The crisis worsened the vulnerabilities of two continents, particularly in transportation and agriculture. These two conflicts continue, defying all peace-making attempts, causing supply and price turbulence to this vital commodity. In its recently published annual World Energy Outlook (WEO), the International Energy Agency (IEA) called 2026 “a year of unprecedented disruption”, describing the Strait of Hormuz crisis as “the largest threat to energy security in history”.
+
+[Read full article](https://www.thehindu.com/opinion/lead/indias-place-in-the-emerging-global-energy-order/article71751717.ece)
+
+---
+
+### Relocating elephants is not the answer
+*Deccan Herald · Editorial*
+
+The Karnataka Forest Department's Operation Gaja, intended to move elephants from conflict-hit Hassan towards the Bhadra Wildlife Sanctuary, illustrates the limits of a response driven by immediate pressure rather than ecological assessment.
+
+Following four human deaths in Hassan since August, the department sought to relocate around 50 elephants.
+
+The proposal triggered opposition in neighbouring Chikkamagaluru, with legislators threatening to resign. The operation has since been paused. Their objection is understandable: the plan risks shifting the problem rather than resolving it.
+
+Bhadra is not an enclosed habitat but an open landscape connected to plantations, villages, and forest ranges. Introducing dozens of additional elephants without a rigorous evaluation of herd dynamics and carrying capacity could intensify competition and push animals into surrounding settlements.
+
+The Forest Department argues that the broader Bhadra landscape, extending across roughly 1,000 sq km and already supporting an estimated 500 elephants, can accommodate them.
+
+Relocation also underestimates how deeply elephants have adapted to the plantation landscapes of Hassan and Kodagu. Generations of herds have learnt to use coffee estates as daytime shelter and agricultural fields as feeding grounds at night. Accustomed to roads, vehicles, and human activity, many now regard these plantation mosaics as established home ranges.
+
+Forest department plans to reconstruct elephant corridor: Ramalinga ReddySuch behaviour is passed down across generations. Moving elephants elsewhere does not automatically erase those habits or prevent fresh conflict.
+
+The challenge is compounded by the limitations of early-warning systems. Not all elephants are radio-collared, dense plantations hamper tracking, and poor connectivity delays alerts. Farmers, estate workers, and residents must still travel, guard crops, and tend to their livelihoods, often when elephants are active. Technology can reduce risk, but cannot eliminate it.
+
+The conflict cannot be explained away as a consequence of human encroachment. Many coffee estates in the region predate the present crisis. Equally significant is forest degradation.
+
+Invasive species such as lantana and senna suppress native grasses and bamboo, commercial monocultures reduce fodder diversity, and declining water sources add to ecological stress.
+
+With Karnataka's elephant population estimated at over 6,000, concentrated largely in a few Western Ghats districts, pressure on food, water, and space has grown.
+
+The government must move beyond periodic capture and relocation drives and evolve a long-term strategy. Restoring degraded habitats, removing invasive species, securing corridors, assessing carrying capacity, and creating coexistence zones should form the core of policy.
+
+Operation Gaja must not become a contest between districts. Relocation may sometimes be necessary, but only as part of a science-led assessment that protects both people and wildlife.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/relocating-elephants-is-not-the-answer-4233902)
+
+---
+
+### Sand mining: A window for action
+*Deccan Herald · Editorial*
+
+The recommendation by the Supreme Court of India’s Central Empowered Committee to adopt a three-year roadmap to phase out unsustainable sand extraction from rivers is important for the health of rivers and the natural environment they support.
+
+The recommendations were made in a suo motu case regarding illegal sand mining in the National Chambal Sanctuary.
+
+In October, the Court expanded the scope of the case and directed the Committee to prepare a report on riverbed sand mining. In its report, the Committee stated that excessive sand mining damaged river ecosystems, and reservoirs were losing storage capacity due to accumulated sediment.
+
+It suggested that a national policy be formulated to recover and use suitable sediment as an alternative source of construction material.
+
+According to the Central Water Commission’s assessments, cited by the Committee, 439 reservoirs have lost an average 19.24% of their original gross storage capacity due to sedimentation.
+
+Sand extraction and the harm it has done to rivers and their connected environment have been well documented. The Sustainable Sand Mining Management Guidelines, 2016, laid down comprehensive rules for sand extraction, but states have failed to enforce them effectively.
+
+Another set of guidelines, framed in 2020 to strengthen the regulatory regime under the 2016 guidelines, has also had little impact. Extraction with excavators and heavy machinery is rampant across the country, eroding river banks, damaging riverbeds, and affecting the ability of rivers to hold water.
+
+The flora and fauna supported by the rivers are also facing the threat of irreversible damage.
+
+NHAI to use excavated silt from rivers, water bodies to build highways in Bihar: Nitin GadkariThe Supreme Court-appointed Committee has, in its report, identified multiple issues as enforcement failures. These include outdated district survey records and replenishment studies, and poorly demarcated boundaries.
+
+It stated that scientific desiltation of dams and reservoirs can provide an alternative source of sand. Accumulated silt affects irrigation, hydropower generation, and drinking water supply.
+
+The removal of silt, sand, clay, and other sediments and debris can restore the holding capacity of the reservoirs and provide sand for use in construction and other industries.
+
+The report also recommends strengthening the regulatory framework for sand extraction and developing alternatives to sand. Its findings are yet to receive an official endorsement from the Court.
+
+But these recommendations should be studied and acted on by governments and local self-government authorities, who have the most critical role in preventing sand mining. Residents of areas adjoining the rivers and conservation organisations should also exercise vigilance against the extraction.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/sand-mining-a-window-for-action-4233901)
+
+---
+
+### AI and the problem with perfect answers
+*Deccan Herald · Opinion*
+
+We are entering an age in which machines can predict more and more of what comes next: the next word, the next image, the next line of code, even a plausible-sounding answer to a difficult question.
+
+AI might make our work faster, more precise, and remarkably efficient. But regardless, there is a question we should be asking before we celebrate the idea of a perfectly optimised world: what happens when we begin to believe that everything in life should be predictable, precise, and immaculate?
+
+Human beings do not grow that way. Some of the most important life lessons come from getting things wrong. We make the wrong decision, misunderstand someone, choose the wrong career path, fail an examination, lose a relationship, say something we regret, or pursue an idea that does not work.
+
+The mistake itself may be painful, but what follows is often more valuable: reflection. What did I miss? Why did I make that choice? What could I have done differently? That process builds judgement, resilience, and perspective. It teaches us to understand people, read situations, and recognise consequences.
+
+A mistake is therefore not simply an error in the system. It is information about the system, and often information about ourselves.
+
+Science has never progressed through a perfectly optimised sequence of correct answers either. Consider the history of geometry. For centuries, mathematicians questioned whether Euclid's parallel postulate was genuinely necessary.
+
+In 1733, Girolamo Saccheri explored what would happen if the postulate were rejected. He ultimately tried to prove the alternatives contradictory, but the questions he explored became part of the intellectual path towards non-Euclidean geometry, later developed systematically by Gauss, Lobachevsky, and Bolyai. That geometry eventually became part of the mathematical foundation relevant to Einstein's general theory of relativity.
+
+The lesson is not that Saccheri accidentally discovered Einstein's mathematics. It is that questioning an accepted assumption can create a path towards discoveries that the original questioner never anticipated.
+
+Chemistry offers similar examples. In 1856, 18-year-old William Henry Perkin was trying to synthesise quinine and instead produced mauveine, helping launch the synthetic dye industry.
+
+Prussian blue emerged from an accidental chemical process in the early 18th century and later became an important pigment in art, including Hokusai's The Great Wave off Kanagawa. Discovery rarely arrives wearing a name tag that says discovery. Sometimes, it arrives disguised as failure.
+
+This matters because prediction and discovery are not the same thing. A predictive system is designed to identify what is likely based on patterns in what has already been observed. That is precisely why AI is so powerful.
+
+Give it enough data and computing power, and it can recognise patterns, generate language, summarise information, write code, and produce remarkably plausible-sounding solutions.
+
+But the most interesting human discoveries often begin when someone asks a question that does not fit the existing pattern. Research by Benjamin Baird and Roger Beaty has explored how mind-wandering and interactions among brain networks associated with imagination, salience, and executive control can contribute to creative thinking.
+
+Teenage Indian AI entrepreneur takes selfie with Russian President Vladimir Putin, goes viralThe human mind sometimes needs room to move away from the immediate problem. That is precisely what an optimisation mindset tends to eliminate. We become uncomfortable with uncertainty, silence, and detours because they appear inefficient. Yet those detours are often where perspective develops. And let’s not confuse generating an answer with understanding it. Science is not just about getting the answer. It's about knowing why it's true.
+
+Let machines handle more of the repetitive and precision-critical work where consistency genuinely matters. Let them identify patterns and help us make better decisions. But let's not apply the same philosophy to human life. A child learns social skills by saying the wrong thing and seeing what happens.
+
+A teenager learns about friendship by misunderstanding someone and fixing it. A young professional learns judgement by handling a difficult conversation badly and remembering it next time. We learn empathy when our actions have consequences we did not expect. We learn resilience when failure forces us to try again. These experiences cannot be optimised, and that is exactly why they matter.
+
+Certainty is not the goal
+
+If every decision is handed to an algorithm designed to avoid mistakes, we may get better at avoiding them without getting better at understanding them. The goal should not be to eliminate every mistake, but to know which mistakes matter. Use AI to prevent unnecessary errors in medicine, engineering, and finance, where precision can save lives. But preserve our freedom to make the mistakes through which we develop judgement, character, and wisdom.
+
+This matters more for the next generation. Children naturally begin life with an appetite to explore, create, wonder, and question. They spend years learning to walk and talk, playing make-believe, and asking us the most embarrassing questions in public. We need to continue nurturing this natural inclination to prepare our children for their futures.
+
+Our children will grow up with machines capable of answering questions before they have finished asking them. They will have access to extraordinary computational power, but their real challenge will be learning when to trust the machine, when to question it, and when to walk in a direction the machine would never recommend.
+
+A civilisation that cannot tolerate failure eventually stops experimenting. A person who is never allowed to be wrong may never discover anything new. We should give the next generation permission to be curious, uncertain, occasionally wrong, and willing to learn from the consequences. Because mistakes do more than tell us where we went wrong.
+
+They give us perspective on where to go next. And perhaps that is the real promise of AI: not that it will make human life perfectly efficient, perfectly predictable, or perfectly correct, but that by taking care of more of what machines do better, it might give us more time to do what humans do best. Think. Wonder. Create. Experiment. And occasionally get things wonderfully wrong.
+
+(The writers are AI and tech leaders) (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/ai-and-the-problem-with-perfect-answers-4233911)
+
+---
 
 ## 27 November 2026
 
@@ -14,6 +163,17 @@ By defying the Supreme Court’s one-time direction to also light the ceremonial
 Against this backdrop, last year, the Madras High Court’s Madurai Bench, relying on the 1931 Privy Council ruling on ownership of the hills, held that “for the sake of protecting its property, the [Subramania Swamy] temple management is obliged to light the festival lamp at the Deepathoon” . The DMK government defied the order. Later, a Division Bench upheld the verdict. While staying this order recently, the Supreme Court cited the festival’s proximity to permit the lamp to be lit at the Deepathoon this year alone, clarifying that this did not constitute “essential religious practice”. The State filed a review petition, arguing when no right is recognised prima facie, a direction altering the existing position lacks judicial foundation. On Karthigai Deepam day, November 24, with the review pending, the government walked a tightrope. The Collector assured the High Court of compliance. Yet, the lamp was lit only at the traditional spot. The Collector has now apologised to the Court, blaming the temple’s Board of Trustees for not authorising the proposed lighting team at the Deepathoon. The administration has thus attempted to distinguish its proclaimed intent to comply with judicial directions from customs governed by the trustees. But it remains exposed to the charge of colluding with the temple authorities to breach a judicial mandate. The Deepathoon may be a mischievous prop deployed by self-serving Hindu groups, but the pillar stands on temple property. The State could have permitted the limited lighting, leaving the onus on the Court, without endorsing the Deepathoon claim or compromising religious amity. A democracy can remain healthy only when its constitutional pillars do not collide with one another.
 
 [Read full article](https://www.thehindu.com/opinion/editorial/indefensible-defiance-on-tamil-nadu-and-courts-thirupparankundram-order/article71747044.ece)
+
+---
+
+### Lifting off: on China’s launch of Pakistan’s first astronaut
+*The Hindu · Editorial*
+
+The economic and diplomatic consequences of India’s efforts to estrange Pakistan often overshadow the costs distributed between them. For example, Pakistani space scientists can today access facilities in China whereas Indian space scientists can access facilities in the United States and Europe. But Indian scientists studying environmental conditions in Pakistan and Pakistani scientists studying conditions in India have far fewer alternatives. The latter matters much more for regional development and stability. On November 25, Beijing’s ‘Space Silk Road’ diplomacy and the strain on New Delhi’s hedging strategies converged in the Shenzhou-24 mission as China launched Pakistan’s first astronaut, Muhammad Zeeshan Ali, to the Tiangong space station. Pakistan had offered in 2015 to contribute to India’s proposed SAARC satellite and wanted the project administered under SAARC, but India insisted on operating it as largesse to its neighbours. If it had really been SAARC’s satellite, ISRO and its Pakistani counterpart, SUPARCO, could have developed an institutional relationship and India could have influenced its neighbour’s space programme through a multilateral mechanism. But today, India’s ability to engage Pakistan on regional matters has increasingly depended on negotiating with powers beyond South Asia, in institutions with other agendas.
+
+Even as spaceflight emerges as a new geopolitical realm, its substantial scientific component affords countries opportunities to engage independently of interstate relations in other domains. The Shenzhou-24 experience will be significant for SUPARCO just as the Axiom-4 mission in the U.S. was for ISRO, helping to significantly lower Islamabad’s cost to access similar future opportunities, especially those under the Asia-Pacific Space Cooperation Organization, which also includes Bangladesh, and the Belt and Road Initiative’s Space Information Corridor. There is no question that Indian spaceflight is technologically superior to that of Pakistan, but the Shenzhou-24 mission is a reminder that China’s technological superiority vis-à-vis India’s leaves India with an unequal contest. India has been ceding the neighbourhood to China’s space networks, and by squandering the opportunities afforded by science diplomacy, it has left Pakistan to look to China even on problems it shares with India. The Apollo-Soyuz interaction during the Cold War and India and Pakistan working together to respond to a locust outbreak barely a year after the Balakot crisis (2019) are testament to the ability of science-based diplomacy to clear room for bilateral engagement with guardrails, without compromising the counter-terrorism agenda. India should revive such engagement.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/lifting-off-on-chinas-launch-of-pakistans-first-astronaut/article71751065.ece)
 
 ---
 
@@ -42,6 +202,46 @@ Tribal land protection in northeast India rests on constitutional provisions and
 For the local communities of Arunachal Pradesh, the mountains and valleys provide water, food, medicinal plants and other essential resources while sustaining cultural practices, customary laws and collective identity. The Siang River, revered as Anni (Mother), holds deep cultural and spiritual significance. The valley contains sacred sites, burial grounds and historical landscapes that sustain indigenous traditions and customary institutions. The financial compensation cannot adequately address the consequences of submerging ancestral villages. Their concerns are about losing their social networks, cultural continuity and ecological relationships, and becoming landless communities in unfamiliar areas — an extension of similar stories of existential crisis experienced now by tribal communities in Jharkhand, Madhya Pradesh and Great Nicobar.
 
 [Read full article](https://www.thehindu.com/opinion/lead/the-siang-dam-strategic-ambition-ecological-fallout/article71747632.ece)
+
+---
+
+### DC Edit | Battle Lines Drawn On Delimitation Bill
+*Deccan Chronicle · Editorial*
+
+With the government calling for a special session of Parliament from Monday to consider a constitutional amendment for the delimitation bill, with which the women’s reservation bill runs again as twin legislation, the battle lines are drawn. It is hard to imagine that the ruling NDA would bring the bills back to Parliament after having failed to pass them on April 17 in a 298-230 Lok Sabha vote.
+
+Armed with the promised support of the DMK, NCP (SP) as well as breakaway factions of TMC and the Shiv Sena and the YSRCP among others, the ruling alliance is hoping to muster the magic two-thirds majority number in a Lok Sabha of 540 (of 543) if all MPs are present and voting. It is a different matter whether taking up the bill in a heavily polarised political environment to expand the Lok Sabha by 50 per cent to around 850 seats is wise at this juncture and make it applicable for the 2029 general elections.
+
+While delimitation has its own merits considering the burgeoning population which is now 140-crore plus and a voting population near enough to 100 crores, the proposal must be based on a proportional increase of MPs for all states rather than based on population because the more populous north Indian states would claim a numerical superiority. It is, however, clear that the BJP-led NDA is willing to sacrifice the known north Indian bias to have the bills passed and let the work of delimitation of constituencies begin in time for 2029.
+
+There is no doubt over the proposal of one-third of the seats in an expanded Parliament reserved for women receiving all-party support. In fact, such a bill was already passed in Parliament with only reluctance from a male-dominated political landscape holding back on its implementation. It was in combining the women’s reservation with the delimitation that the ruling dispensation came a cropper in April.
+
+A second defeat would be unthinkable for the rule of Prime Minister Narendra Modi who may have lost some of the perception battle after the exam paper leaks and the uproar over the denial of the rights of a considerable number of genuine voters. The matter of having the bills ratified by the states is another challenge but which will see an easing out if the delimitation proposal goes through.
+
+The gerrymandering exercise, which usually hands the advantage to the ones doing the delimitation, cannot be done without a fair representation of Opposition members who are also stakeholders in the nation. Of course, that would be subject to the delimitation bill passing the constitutional test of a two-thirds vote. Several Opposition parties, barring the Congress, the SP and AAP, are inclined to support delimitation which might see them gain seats and MPs, have laid conditions like a 25-year freeze on seats to try and ensure they get places on the committee.
+
+It cannot be said that in proportional increase for all states and UTs there will be an advantage for the ruling combine in the new Parliament. In that sense, the proposal may just about pass the fairness test, plus a positive in women getting to play a significant role in legislative business. It cannot be assumed that by retaining the same proportion of seat allocations, the numerical strengths of the more populous states will continue to tilt the scales in favour of the ruling alliance. Political circumstances change and delimitation is a necessity to ensure that people get more representatives in the legislature in a large country.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-battle-lines-drawn-on-delimitation-bill-2008621)
+
+---
+
+### DC Edit | Tatas: Listing Rift Deepens
+*Deccan Chronicle · Editorial*
+
+After weeks-long public discourse on corporate governance at Tata Sons and rights of its shareholders, Sir Dorabji Tata Trust (SDTT) and R.D. Tata Trust (RDTT) — two charitable trusts under the Tata Trusts umbrella — have moved the Bombay High Court to protect its interests in the company where they own 66 per cent stake.
+
+The petition comes four days before a meeting of Tata Sons’ board of directors, where the issue of the RBI-mandated public listing is expected to be discussed. The issue stems from a notification of the Reserve Bank of India issued in September 2022 classifying Tata Sons in the Upper Layer of NBFCs, which are expected to be listed publicly by September 2025.
+
+Though Tata Sons under its patriarch Ratan Tata resolved against listing, the board got divided after his death, with a majority of independent directors and one director appointed shareholders (trusts) preferring listing.
+
+However, two trusts, which collectively own 66 per cent stake in Tata Sons, as evidenced by the petition in the Bombay High Court, are opposed to the listing. Therefore, they sought interim and permanent injunctions restraining Tata Sons and its directors from acting on resolutions that lack the requisite affirmative votes.
+
+Affirmative vote is a crucial mechanism incorporated in the Articles of Association (AoA), which is akin to the founding constitution of a company, to protect the interests of the shareholders. Adjudicating TCS Ltd vs Cyrus Investments Pvt Ltd (2020), the Supreme Court approved the legitimacy of the Article 121 of Tata Sons AoA.
+
+The camp that opposes listing had proposed an alternative solution which, according to them, addresses the issues raised by the RBI. Tata Sons is the promoter of over 100 companies, including around 30 publicly listed entities, and Tata Trusts funds hundreds of charitable works. Tata Group, therefore, must resolve their differences amicably, which is in the interests of both charitable institutes and shareholders in particular and the country in general.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-tatas-listing-rift-deepens-2008625)
 
 ---
 
@@ -98,12 +298,84 @@ Just picture a bench of 11 judges from Asia, America, Australia and Europe prepa
 
 ---
 
+### Burnham Pushes Closer EU Ties As Debate Over ‘Rejoin’ Ignites
+*Deccan Chronicle · Opinion*
+
+“Yes, a walk on the water generates faith
+
+Such beliefs are but a spectre, a wraith
+
+— On what is evident reality
+
+O Bachchoo marvel at mud breeding leaves
+
+Which nurture the creature who now conceives
+
+—How, but not why, we have come to be!”
+
+—From Brewed in the Paagal Pan by BachchooUK’s current PM, Andy Burnham, recently attended a conference with the leaders of the European Union to negotiate a new relationship between Britain and Europe. Britain remained a member of the Union until, in 2016, David Cameron called a referendum on membership and a narrow majority, just over 51%, voted to leave.
+
+The campaign he triggered was bitter. Cameron himself was in favour of ‘Remain’, and he called the referendum in the hope that Remain would win.
+
+Boris Johnson on the other hand, was a Remainer, but calculated that the anti-Johnny Foreigner vote might just about prevail and he switched his allegiance to Leave and became one of its main advocates.
+
+The most prominent Leaver was Nigel Farage who started the United Kingdom Independence Party (UKIP) with the single policy of getting Britain out of the European Union. Their campaign, backed by Boris Johnson, spread what has now proved to be — let’s call it “disinformation” — perhaps not quite on the scale of Goebbels — about the millions that Britain would retrieve for the National Health Service each week if people voted Leave.
+
+The Leave campaign’s slogans were chauvinistically ‘nationalist’. There was “take back control” with the subtext that we don’t want foreigners making regulations and laws that we have to follow, even if we have a prominent place at the table which makes those. Then there was the control of fishing waters — the implication that we don’t want all those alien fishing boats harvesting the cod and plaice off the coasts of Britain — our territorial waters….
+
+What the Leave campaign didn’t want the voters to know in 2016 was the disastrous damage that leaving the EU would do to the British economy including restricting Britain’s control over international security, immigration control — of, say, boats crossing the English Channel with asylum seekers from Europe — and even of cultural opportunities for musicians and artists to avail of European venues and grants.
+
+Burnham is being careful. He has negotiated several changes to the vengeful bureaucracy the EU imposed on Britain when (and perhaps because?) it voted to Leave. 45% of all British exports go to Europe. These have been subject to checks and form-filling of a punitive nature. Burnham’s desire for closer ties, backed now by up to 60% of British voters, has persuaded the leaders and spokespersons of the EU to co-operate and agree to closer union and even, in the intermediate, to alleviate the obstacles and bureaucracy of imports and exports of agro-products between the EU and the UK and the export of that 45% of British manufactures, which bring in a revenue of £89 billion.
+
+Official agencies such as the Office for Budget Responsibility now estimate that rejoining the EU would boost the UK’s GDP by at least four per cent.
+
+The abolition of customs checks and the cost of the bureaucracy on importing the vast amount of food that Britain does from the 30 European countries, will make the cost of food, and therefore the overall cost of living, cheaper.
+
+Though Burnham won’t publicly say so — he evades all media and Opposition questions which put it to him directly — he wants Britain to rejoin the EU. The polls all say that if he initiates a referendum on the subject, there will almost certainly be a rerun of the bitter 2016 debate, but this time Rejoin, as opposed to Stay Out will win.
+
+Several factors contribute to this conclusion. The damage that Brexit has done to the British economy and political and cultural life is considerable, and people now know it. Then there is the fact that ten years ago older voters brought about Leave’s victory. That generation is, even partially, naturally, dead (RIP?) and has been replaced in voting proportion by those who have grown from eight to 18 years old and don’t suffer from the prejudices and xenophobia that the older generation did.
+
+Burnham, encouraged by these facts will almost certainly, in the Labour manifesto towards the 2029 general election, include an intention to hold a referendum on rejoining, with a promise to implement the democratic decision.
+
+The cry-baby past Prime Ministers — Theresa May, Boris Johnson, David Cameron, Rishi Sunak — some of whom are charlatans and liars, some Uncle Toms and Aunty Thomasinas, are all against such a referendum. They don’t want a democratically decided future, using the argument that 2016 was a democratically decisive past.
+
+Gentle reader, I don’t manufacture anything and sell it to the EU; the price of imported strawberries doesn’t bother me much. My reasons for supporting Rejoin are abstractly political.
+
+The EU was formed with the noble aim of never having wars within Europe again. Shouldn’t...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/burnham-pushes-closer-eu-ties-as-debate-over-rejoin-ignites-2008657)
+
+---
+
 ### Pradeep C. Nair | ICJ’s Myanmar Ruling: India Caught Between Law, Geopolitics
 *Deccan Chronicle · Opinion*
 
 The International Court of Justice’s (ICJ) judgment of November 19, 2026, has reopened a fundamental question: Can the international community pursue accountability in Myanmar without abandoning the engagement needed to influence events there? The Court found Myanmar responsible for genocide against the Rohingyas during military operations in 2017. Yet within days, different international responses revealed a familiar divide between the demands of international law and the compulsions of geopolitics.The judgment in The Gambia versus Myanmar is legally consequential. It requires Myanmar to prevent recurrence, investigate and punish perpetrators, provide restitution including conditions for the safe and voluntary return of displaced Rohingyas, and pay compensation, modalities of which will be addressed subsequently. The ruling establishes state responsibility, not the individual criminal guilt of Myanmar’s current President Min Aung Hlaing, who was then the military chief. Nor can the ICJ itself deploy sanctions or enforce repatriation. Its authority is judicial; implementation depends on governments, international institutions and, crucially, those controlling territory inside Myanmar.Britain responded immediately, by expelling Myanmar’s defence attaché, summoning its diplomatic representative and seeking urgent consideration by the UN Security Council. London’s action thereby targeted the military representation while keeping communication channels open. Other European governments (largely, the EU) have endorsed accountability, but whether they replicate Britain’s measure remains uncertain. Targeted sanctions and diplomatic restrictions, as and when they come by, will be the consequences of the judgment.Does the British move amount to double standards, particularly when Asean has chosen “constructive engagement”, very recently? Britain’s actions, actually invites scrutiny of the consistency of Western responses to grave humanitarian violations. While London has sanctioned certain Israeli ministers, restricted some arms exports and recognised Palestine, it has maintained substantial diplomatic and defence relationships with Israel despite the devastation in Gaza and a UN Commission of Inquiry’s finding of genocide.Asean, however, lives with the direct consequences of Myanmar’s instability: refugees, cross-border crime, economic disruption and conflict spillovers. Importantly, Asean’s decision on November 15 preceded the ICJ judgment. Its approach was neither unconditional recognition nor a complete reversal of earlier restrictions. Asean retained limits on Myanmar’s political representation while offering a phased route towards fuller participation, contingent on sustained progress under its Five-Point Consensus. This reflects a belief that exclusion alone cannot stop violence or create a negotiating process. The ICJ judgment now sharpens Asean’s challenge, which is, engagement needs measurable humanitarian and political outcomes, if it is to avoid becoming normalisation without accountability.Washington presents a still more revealing contradiction. The United States recognised the military’s treatment of the Rohingya as genocide in 2022, yet its recent contacts with Myanmar have coincided with interest in the country’s heavy rare-earth deposits. A reported US state department strategy links peace diplomacy with expanded influence and possible mineral access, partly in response to China’s commanding position in processing these resources. After the ICJ ruling, Washington said it was studying the decision rather than immediately announcing fresh measures. Its response illustrates how strategic competition can complicate legal condemnation into policy.Minerals, however, do not offer an easy diplomatic bargain. Important deposits lie in areas influenced or controlled by ethnic armed organisations, notably the Kachin Independence Army. Naypyitaw cannot necessarily deliver access merely by signing an agreement. China likewise has relationships, infrastructure and commercial leverage that cannot be displaced quickly. Going ahead therefore, the American policy may combine existing sanctions with selective engagement; an unqualified embrace of Myanmar’s authorities would carry its own reputational and operational costs. Anyway, under the Trump administration, the US has already gained a reputation that no US citizen can be proud of.The greatest obstacle to implementing the ICJ verdict, however, lies in Rakhine itself. The Arakan Army controls most of the state, including areas from which Rohingya families fled, and faces allegations of abuses against the community. A promise of repatriation from Naypyitaw is insufficient without credible arrangements involving those actually controlling the villages, roads and border approaches. For Bangladesh, hosting a vast refugee population, legal vindication changes little unless security, citizenship-related protections, freedom of movement and livelihoods can be assured on...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/pradeep-c-nair-icjs-myanmar-ruling-india-caught-between-law-geopolitics-2008395)
+
+---
+
+### Tech’s Brassiest Comeback, Mushiest Politics At Home
+*Deccan Chronicle · Opinion*
+
+“I made some terrible mistakes,” admitted Jensen Huang, 11 days after he was caught with his track pants down. Yes, Bro. Those “mistakes” cost you a mere 11 days of unpaid leave at the CEO job at Nvidia. But it cost the astonished world much more than your brief unemployed stint. We get your pain! Eleven days of no leather jackets! But baby, all hail the President of the United States of America! Everything is clearly forgiven, given the perverse presidential seal of approval of your vile deeds.Commander-in-chief Donald Trump (and Huang’s chuddi buddy) called the fallen Jensen Huang (possibly the most dangerous techie on earth), a “Great patriot and a national treasure”. Choke on that! It gets worse. The supreme compliment came after Trump shared an AI generated meme on his X account, that showed the badnaam CEO (who’d stepped down after four known sexual affairs hit headlines around the world) triumphantly waving a red bra, surrounded by security personnel. This was not just a cheeky presidential endorsement of a disreputable CEO whose trillion-dollar company holds the world’s secrets in chips, but a self-referencing tribute to himself. Recall that Trump moment on 13th July 2024, after he survived an assassination attempt… there he was, fist in the air… defiant… gloating. Well, in the latest version, the red bra not only cocks a snook at puritans/critics shocked by Jensen’s abominable conduct, but also exonerates the man. What more does a philanderer billionaire need when the Prezzie himself is no better?
+
+This entire sordid drama reminded me of the Book of Genesis from the Bible. More specifically of ‘Sodom and Gomorrah’.
+
+Wherein it is stated that God destroys with fire and sulphur, when a society descends into debauchery, depravity and decadence… divine judgement steps in to stop further moral corruption. It goes on to highlight the price that must be paid for “heartlessness, arrogance, attempted sexual assault and sexual transgressions”.
+
+Jensen Huang’s religious affiliations remain undisclosed. But he did share that his mother worked as a maid in a Catholic household after his family moved to America. He himself attended a Baptist school in Kentucky. The absence of a moral compass has never been this brazenly flaunted by any previous American leadership (if one can make liberal concessions for the Kennedy years). But this is a significantly different era. And glorifying a man whose multiple sexual transgressions have shocked the world, is worrying on several fronts. The memes say it all. “Diversified portfolio”, mocked a viral one, which showed Huang surrounded by four multi-racial young women. Another summed up Jensen’s affairs with him having the last laugh. The caption read: “Erection. Correction… and Resu-erection.” Misogynistic humour at its crudest.Women in the workforce across the world are gobsmacked by the audacity of the Jensen bounceback. How easily has this man slid back into his old job without as much as a scratch! He claims he’s in daily therapy — all 90 minutes of it — and hey, it’s really okay for everyone to move on. Besides, Alice Huang (no relation), Jensen’s Megaspeed Chinese girlfriend has also come out of the scandal unscathed, smelling of jasmines and magnolias.
+
+US officials claim they’ve found no evidence that Alice was directed by Beijing to spy on Nvidia CEO Jensen. If this is accurate, then it’s worth asking who spread the lethal canard in the first place. And why? The Russians? Clumsy! Obviously, those guys didn’t watch Dhurandhar.While the mystery unravels, those following the sordid saga will no doubt, keep probing. After all, we now know that Alice has a husband. A certain Kang Wei, who is an “asset” (spy, to you and me) for China’s ministry of state security. To add to the American chopsuey, we now have a desi player (ex-Nvidia) named Ajay ‘Jay’ Puri who is now married to (ex-Super Micro Computer), Cenly Chen. Facing a chip-smuggling probe. These Chinese chicas sure know how to entice! Jaaney bhi do yaaron. When the chips are down… we’ll finally know who was foolish enough to meddle in the great American cover-up.
+
+But ended up getting scorched instead.
+
+Besides… look no further than India’s own corporate backyards. We have several Jensen Huangs running around exploiting their far younger female colleagues. Bengaluru and Santa Clara have a lot more in common than just good wine. Both are infested with male techie bosses on steroids and other stimulants. Bachke reh na…
+
+It’s official. Happily married couples across India are booking dinner reservations with clear instructions: “Table for two. Chair for one,” read the witty caption. Bollywood’s “vahini” (Genelia Deshmukh) and her husband Riteish Deshmukh’s recent Insta post showed them recreating the much talked about Rajiv-Sonia pose (“Mummy sat on Pappa’s lap everyday... at every meal…”). Enough said already about that lovey-dovey viral moment shared by Rahul Gandhi at ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/techs-brassiest-comeback-mushiest-politics-at-home-2008644)
 
 ---
 
@@ -22140,164 +22412,6 @@ Urban wages tell a similar story, squeezed by rising costs even as pay stalls. A
 Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
 
 [Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Aug/29/k-shaped-shopping-basket-in-two-speed-economy)
-
----
-
-## 29 August 2026
-
-### Unkind cuts: On the Telangana and Karnataka electoral rolls
-*The Hindu · Editorial*
-
-The Special Intensive Revision (SIR) process being conducted by the Election Commission of India (ECI) is increasingly leading to a clear case of disenfranchisement in several parts of India. Marauding on after a judgment by the Supreme Court of India allowed it to proceed, the SIR has now struck out a fifth of the names from the electoral rolls in Telangana and Karnataka — nearly 22% and 19.5% respectively — and among the highest in the country. The cuts are steepest in their capital cities — five constituencies in Bengaluru have lost more than half of their electors while nine of Hyderabad’s 15 have seen deletions of more than 40%. Cuts of this kind cannot simply be a trimming of bloated rolls at the margins. If they are accurate, the ECI’s own summary revision processes were yielding bloated rolls in recent elections, and doing so in the very places with high net in-migration from the rest of India. And if the deletions are to be justified, those struck off the rolls must have left the States — a move within Karnataka or Telangana would only relocate a voter’s name on the same State roll, not remove it altogether. Yet, this is neither borne out by recent survey data nor by the government’s own population estimates.
-
-During the Bihar SIR, the Court asked why political parties had filed so few objections, seeking inclusion of wrongly deleted names; that question might hold true for the Southern States as well. A plausible reason could be that the voter id is useful to a citizen only once in a few years, leading to less alacrity on their part. This may explain why a process that puts the onus on electors yields cuts of this scale. Meanwhile, proving a smoking gun in the data is difficult because of the ECI’s opacity. It has not published the elector-to-population ratio for any State so far during the revision even though doing so is mandatory and is the only test of under-enrolment. The Karnataka Chief Electoral Officer has not even bothered to release a gender-wise breakdown of the deletions, instead scattering the lists across several Google Drive links without the old booth numbers, making verification arduous. The outcome of such shoddiness is visible in West Bengal, where the ECI’s dubious “logical discrepancy” process disenfranchised lakhs of electors, forcing them to seek redress before tribunals set up under the aegis of the Court. Months after the elections, records obtained under a Right to Information request show that barely 82,000 of the nearly 38 lakh appeals before the 19 tribunals have been decided, with more than 90% of those decisions favouring electors seeking restoration. The ECI — an institution once envied even by wealthier democracies for bringing large numbers of Indians to the polling booth — is now an obstacle to universal adult franchise.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/unkind-cuts-on-the-telangana-and-karnataka-electoral-rolls/article71401014.ece)
-
----
-
-### Five years on, Taliban are still at a fork in the road
-*The Hindu · Opinion*
-
-For a people long regarded as at the crossroads of civilisations, the past five years of the Islamic Emirate of Afghanistan (IEA) under Taliban rule resemble the backwaters. After 47 years of bloodletting, terrorism and foreign occupation, the current “stability” is a respite. But the ongoing time-freeze only postpones an eventual transition to modern universality. So far, the process has been glacial and selective, causing pain and uncertainty. It is time to take stock of the past half-decade and try to fix the broad contours of a foreseeable future.
-
-The IEA’s overall performance since the August 15, 2021 takeover has been a binary. On the positive side, though the IEA 2.0 transition was as chaotic as the IEA 1.0 transition in 1996, it spared the country from mass retribution. Afghanistan is now largely stable and secure. The country’s “Badlands” were long associated with militant groups such as al-Qaeda. Their 9/11 attacks unleashed two decades of bloody U.S. retribution on both al-Qaeda and the IEA 1.0. The IEA 2.0 has disallowed the use of their territory for operations against other countries. During the past five years, an estimated 5.7 million refugees from Pakistan and Iran have returned to Afghanistan. While this return of an eighth of the country’s population has exacerbated the penury, the government has managed it reasonably well. These unmistakable shifts from the ruinous policies of the previous Islamic Emirate (1996-2001) have partially mitigated the world’s concerns.
-
-[Read full article](https://www.thehindu.com/opinion/lead/five-years-on-taliban-are-still-at-a-fork-in-the-road/article71401782.ece)
-
----
-
-### Much Bickering In Punjab Cong; Datia Loss Feeds Chouhan Hope
-*Deccan Chronicle · Opinion*
-
-Once dismissed as a “Pappu”, Congress leader Rahul Gandhi has finally come into his own. There is all-round agreement that the public perception about the Lok Sabha leader of Opposition is changing and he is now being viewed in a more positive light. This follows Rahul Gandhi’s recent successful efforts to connect with Gen Z. But despite these positives, there is a degree of despondency in the party. Congress insiders maintain that though Rahul Gandhi’s personal popularity is growing, the party organisation continues to be in a mess. Virtually every state unit of the Congress is in the throes of bitter infighting. From Punjab and Himachal Pradesh to Goa and Jammu and Kashmir, factional battles are a regular feature everywhere. Congress members fear the party will lose the momentum generated by Rahul Gandi’s “Chhatron ki Goonj” programmes, if the party fares poorly in next year’s Assembly elections. Poll-bound Punjab and Himachal Pradesh are particularly vulnerable as rival groups in these states are showing no signs of backing down. If the Congress loses in these states, not only will it be wiped out in the entire northern belt, it will also be a setback for Rahul Gandhi. The goodwill he has garnered in recent months could quickly disappear if he fails to deliver electoral victories for the party.
-
-Reports from Punjab are particularly disconcerting for the Congress. The raging battle between the camps headed by the state party chief Amrinder Singh Raja Warring and former chief minister Charanjit Singh Channi could well nix any chance of the Congress ousting the Aam Aadmi Party in next year’s election. Speculation is rife that Mr Channi could float his own party closer to the election and that the Bharatiya Janata Party is not averse to lending him a helping hand in this endeavour. In fact, Union minister Bhupendra Yadav admitted to Congress leaders in an informal conversation during the recent Parliament session that Congress members in Punjab were lining up to join the BJP. Given this state of flux, the Congress Party’s plans to launch its poll campaign with a bus yatra is being constantly delayed. Rahul Gandhi is to flag the yatra but he is learnt to have told Congress Punjab in-charge Bhupesh Baghel that he will only go if the party puts up a united face.
-
-Even after he moved to Delhi and took charge of the agriculture ministry over two years ago,Much Bickering In Punjab Cong; Datia Loss Feeds Chouhan Hope made it a point to visit his home state Madhya Pradesh as often as possible. His regular trips evoked considerable chatter in political circles as it was read as a sign that Mr Chouhan had not reconciled to the loss of the chief minister’s post, having been replaced by the present incumbent Mohan Yadav. Interestingly, the frequency of Mr Chouhan’s visits has increased after the Bharatiya Janata Party lost the recent bypoll in Datia to the Congress. Mr Chouhan even convened a meeting of all Madhya MPs in Bhopal recently. Mr Chouhan perhaps thinks there is still an outside chance that he could return as chief minister. He lives in hope as Mohan Yadav finds himself in the dock after the party’s defeat in Datia.Opposition parties belonging to the INDIA bloc were in an upbeat mood when the Monsoon Session of Parliament came to a close earlier this month. They were particularly happy that they had put up a united front and succeeded in pushing the Modi government on the defensive following the police crackdown on student protesters at Jantar Mantar. But there has been no news of the INDIA bloc since then. The combined Opposition had decided at its last meeting in June that they would meet every two months to chart out a common plan of action to take on the BJP in their respective states. Congress president Mallikarjun Kharge had announced then that the next meeting would be held in Hyderabad in August. This announcement followed complaints from regional parties that instead of meeting once a year, the INDIA bloc should have regular consultations.
-
-As it happens, the month of August is drawing to a close but the Congress Party’s allies, including the Trinamul Congress and the Samajwadi Party, have yet to hear from the party about the proposed conclave. So much for Opposition unity.
-
-Now that the organisational reshuffle in the Bharatiya Janata Party has been completed, conversation in Delhi’s political circles these days is focussed on the much-anticipated Cabinet reshuffle. With Punjab elections due next year, MPs from the state are predictably eyeing a seat at the high table. It is expected that someone from the state will be accommodated especially since Ravneet Singh Bittu resigned on completion of his Rajya Sabha term while Union minister Hardeep Puri’s Rajya Sabha term ends later this year. Former Aam Aadmi Party MP Raghav Chadha is a contender but a case is being made for another former AAP Rajya Sabha member Vikramjit Singh Sahney on the ground that the BJP needs a Sikh to replace Mr Bittu and,...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/much-bickering-in-punjab-cong-datia-loss-feeds-chouhan-hope-1983320)
-
----
-
-### Susegad, Napcation & Freshly Baked Poee
-*Deccan Chronicle · Opinion*
-
-“Any plans today?” the butler asked, sliding a tray of cut papaya onto my Pool Patio balcony. “None,” I said, and meant it fully. I had come to The Westin Goa for three nights to do the one thing I’m chronically bad at: nothing. This is a napcation, I remind myself, not a vacation. There is a difference, and I intend to honour it, susegad rhythm and all.
-
-We’d landed well past eleven, the kind of hour when even lobby chandeliers seem to dim in sympathy, and by the time the key card slid into my palm it was closer to midnight than not. There was talk of freshening up, of maybe just sleeping straight through, but then dinner arrived anyway, in-room, on a trolley that seemed to know something about jet lag and the hunger it produces. No restaurant, no menu debate, just curry and rice under a silver dome, eaten cross-legged on the bed while Goa introduced itself through an open window, all cicadas and warm salt air, the promise of the trip already, quietly, keeping itself.
-
-It’s 5:45 am on the first proper morning, and I am, against every instinct of a napcation, awake. Not from an alarm, but from a restlessness that only a new bed can produce, and the vague memory of the front desk mentioning an 80-year-old bakery worth losing sleep over. I ask the driver on airport-transfer duty if he knows it, and he does, of course he does, everyone in these parts seems to have grown up on this bread and 20 minutes later I’m standing in Moira, a village known for its colourful Portuguese bungalows and a short drive from the resort, well outside the manicured hush of the property, in front of the Tavares Bakery, a traditional Goan house that now bakes poee for 80 years to feed not just the entire Goa, homes and hotels included, but also some parts of Mumbai.
-
-Poee, for the uninitiated, is Goa’s own hollow, pillowy bread, eaten with sausage curry or simply torn apart and eaten warm, plain, straight off the paddle. Inside, the bakery is dim and furnace-hot, lit mostly by the orange glow of an oven that has, I’m told, not gone cold in 80 years. The bakers assigned for different tasks for different stages of baking, move with the unhurried certainty of someone who has done this 10,000 mornings in a row. They don’t speak much English, and I don’t speak much Konkani, but one of them hands me a poee anyway, still too hot to hold properly, and gestures for me to eat. I do. It’s soft in the centre, faintly charred at the edges, and tastes like nothing I can compare it to except, perhaps, patience itself.
-
-Back at the resort by seven, poee wrapped in paper like contraband, I make it just in time for the buffet breakfast at The Market, the sprawling spread more than a match for anything I could have brought back with me. I do the only sensible thing available to a woman on a napcation after that: I go back to bed.
-
-The Westin’s beds are dangerously good, the kind that make you suspicious of your own mattress at home. I surface only for lunch, a chef-curated meal, once again at The Market, that arrives in unhurried courses, each one better suited to a nap than the last. Later, I let the Heavenly Spa do what its name promises, 45 minutes of being kneaded into something closer to jelly than journalist. Dinner is at Haven, the resort’s Asian dining space, where I share plates I can’t finish over cocktails I definitely can, the evening dissolving into that particular Goan quiet where the loudest sound is cutlery.
-
-The following day brings a Goan thali at lunch, all fresh spice and coastal memory, and by afternoon I’m coaxed out of my pool-patio room for a kayaking session in the Chapora River that I approach the way I approach most exercise: reluctantly, then happily. Ten on ten points for post kayak snacks, a Goan special called alle belle, which are basically soft rice pancakes (or crepes) rolled or folded around a rich, moist filling of freshly grated coconut and jaggery. Dinner that night is at Drift, in-water dining, quite literally, the table lapped by the pool as the sky goes copper over the hills, feet still faintly damp from the paddle earlier. It occurs to me, somewhere between courses, that I have eaten better in three days than I have caring for myself in three months.
-
-I did not see a single fort, market, or waterfall this trip, beyond breakfast. I saw a bakery that has outlived three generations, a spa that undid my shoulders, and more of my own eyelids than the itinerary technically allowed for. Some holidays are checklists. This one was closer to a long, warm exhale — poee in one hand, a cocktail in the other, nothing urgent on the agenda, everything, somehow, accounted for.
-
-Arunima Mazumdar is a Delhi-based independent journalist, writer and literary critic. She is also the founder of Dokusha Book Club, India's first book community dedicated to reading Japanese literature.
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/susegad-napcation-freshly-baked-poee-1983332)
-
----
-
-### The System That Killed The Fearless Bureaucrat
-*Deccan Chronicle · Opinion*
-
-My father, a senior bureaucrat, would tell me a story of the early days after Independence. Pandit Ravi Shankar Shukla, a veteran and respected politician, was the chief minister (CM) of the then state of Central Provinces and Berar, with Nagpur as its capital. In an officer’s meeting, Shukla was keen that a certain decision be taken immediately.
-
-K.B.L. Seth, a highly regarded I.C.S officer, was the chief secretary. He explained to the CM that the decision would be in contravention of certain rules, and it would not be possible to implement it immediately in its current form. This annoyed the CM, and in anger he said: “What do you mean it is not possible?
-
-Everything is possible, even removing you from the service is possible.” Seth calmly responded: “Sir, I am a covenanted officer, and removing me from service for doing my duty would not be possible. However, it is possible for you to appoint another chief secretary, and I am not enamoured of this post.” Shukla instantly calmed down and graciously apologised. The decision was reviewed; Seth remained the chief secretary; and the CM and him enjoyed a relationship of even greater cordiality and mutual respect.
-
-There was a time when a good bureaucrat was expected to possess the ability to say no. Such an officer could disagree with his political superior without regarding disagreement as disloyalty. The politician, for his part would often respect the officer for his courage of conviction.
-
-That compact appears increasingly close to extinction. The administrative services were once described as the “steel frame” of India. It was expected to provide continuity amidst political change; institutional memory amidst political flux; and professional advice even when that advice was inconvenient. The minister represented the political will. The civil servant was expected to explain what was administratively feasible, legally permissible and institutionally prudent.
-
-The relationship was never entirely idealistic. Politicians, of course, have always liked “cooperative officers”. Bureaucrats love to blame politicians but are from blameless themselves. In fact, in all likelihood, it was not the politician who first compromised the bureaucrat, but the bureaucrat who first conveyed to the politician that he was willing to be compromised. This attitude, in turn compromised the dharma of the bureaucracy: that an officer belonged, first and foremost, to the institution he served; his allegiance was to the Constitution, the law and the public interest — not to the individual politician occupying a particular office.
-
-Bureaucratic pliability has verifiable dividends: a desirable posting, an extension of tenure, a promotion, proximity to power, or simply the assurance that one's career will not be obstructed. The result is a damaging condominium of mutual convenience. The politician wants compliance; the bureaucrat wants patronage. Each can supply what the other seeks.
-
-Ethics, or self-esteem don’t matter in this happy ‘relationship’. I recall an incident in New York, when the private secretary (PS) to a minister, a senior IAS officer, arrived five minutes late at the airport to receive the minister’s wife. When he met her, she exploded: “Ullu ke patthe, ye time hai aane ka!: Bloody fool, is this the time to show up!” The officer quietly swallowed the unacceptable insult in order to retain the coveted post of PS to the minister.
-
-It is equally true that the calibre of politician has also dramatically changed, and there are very few left of the ilk of Ravi Shankar Shukla. Alas, this transformation happened quite quickly after 1947.
-
-A well-known politician in the 1970s, who was both a Cabinet minister in the Centre and the CM of an important state, said publicly that he would be willing to give his very skin to make chappals or slippers for then Prime Minister Indira Gandhi. When politician reduce themselves to this kind of abject sycophancy before their political superiors, they expect the same kind of self-debasement and grovelling from the bureaucrats who work under them.
-
-Politicians are unlikely to change, but the willing supplication of covenanted officials is, frankly, shameful. The need for them to reclaim their mandated self-respect is imperative because bureaucracy is where the decisions of government become concrete realities for citizens, be it the acquisition of land, the award of a contract, the allocation of a licence, the transfer of an employee, the demolition of a house, the construction of a road, or the delivery — or denial — of a welfare entitlement.
-
-Corruption thrives when institutions become complicit. A politician who wants an improper favour requires an officer willing to facilitate it. An officer who seeks immunity for overlooking the rules requires a politician to protect him. The two are mutually dependent, and self-perpetuating, isolating the few honest bureaucrats left.
-
-In fact, the honest officer, in such an ecosystem, becomes an...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/the-system-that-killed-the-fearless-bureaucrat-1983314)
-
----
-
-### Fragile mountains sound another alarm
-*Deccan Herald · Editorial*
-
-Nepal is witnessing a massive humanitarian tragedy unfold, with at least 530 people dead and thousands missing after a wall of ice and rock tumbled from the mountains and cascaded down for miles, destroying everything on the way. It tore through a three-river system, destroying major hydropower plants and a Nepal-China border crossing. Buildings, bridges, and vehicles floated like matchboxes on the roaring waters, underlining the fragility of human lives and constructions before an onslaught by Nature. The collapse, on impact, registered a magnitude of 5.2. Rescue operations are continuing, but hopes for survivors have dimmed over the hours. Many victims were residents of villages on the torrent’s way. Others were pilgrims and tourists, including many Indians. A fresh warning of secondary floods has been issued.
-
-It may take months to ascertain the exact cause of the disaster. However, there are clear signs of Nature responding under pressure, aggravated by climate change. Experts noted that a huge chunk of ice may have broken off a glacier due to the warming of the mountain ecosystem. The Himalayas are the world’s youngest and most fragile mountain range, and they have been warming at a pace several times the global average. It is estimated that Nepal has lost about one-third of its snow cover in the last three decades. The depletion is accelerating, and the fragmentation and detachment of ice from the slopes is the most prominent mode of glacier retreat across the mountain range. The 2023 Glacial Lake Outburst Flood (GLOF) in Sikkim, the 2024 Thame flood near Everest, and many other regional flash floods were triggered by similar glacier disruptions. Many minor events triggered by environmental degradation are happening every day across the range. The Indian Himalayas are estimated to have about 9,500 glaciers. Keeping a watch on them and assessing them continuously is extremely difficult. However, the crisis calls for heightened vigilance. The health of the Himalayas needs to be monitored with greater scientific validation, through international cooperation. Such informed intervention is critical for the region and the livelihoods of millions of people.
-
-The flash floods are yet another reminder of the escalating climate risks in the region and the need to respect and protect nature for our own good. India has done well to take an active role in the rescue and relief efforts after the disaster. There should be better cooperation and coordination among all Himalayan countries in monitoring the state of the mountains and protecting them.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/fragile-mountains-sound-anotheralarm-4127669)
-
----
-
-### The message from a no-women Cabinet
-*Deccan Herald · Editorial*
-
-Karnataka’s new government has a glaring gender deficit. Nearly three months after D K Shivakumar assumed office as chief minister, not a single woman has been inducted into his council of ministers. The omission became more glaring when MLC Gayathri Shanthegowda, whose name was on the approved list, was dropped at the last minute. This is no aberration. Women have long been marginalised in Karnataka’s ministerial politics, as elsewhere in India. Grace Tucker became the state’s first woman deputy minister only in 1957, a decade after Independence, while Yashodhara Dasappa was the first woman cabinet minister in 1962. S M Krishna’s (1999-2004) ministry remains the state’s high-water mark, with four women ministers.
-
-As early as 1959, a state legislation mandated seats for women in panchayats. Ramakrishna Hegde’s government reserved 25% of seats in 1983. In 2010, the BJP government under B S Yediyurappa raised the quota to 50%, against the 33% stipulated in the 73rd Amendment. His successor, D V Sadananda Gowda, extended it to urban local bodies. Fifteen years of such reservation have created a substantial reservoir of women with experience in local governance, undercutting any claim that the party lacks suitable candidates. The Congress’s own history shows that women are hardly short of leadership ability. The party produced India’s first woman Prime Minister, Indira Gandhi; first woman President, Pratibha Patil; and first woman chief minister, Sucheta Kripalani. As Prime Minister, Rajiv Gandhi pioneered women’s reservation at the grassroots.
-
-The current situation is poor optics for Congress when its leader, Rahul Gandhi, is campaigning to “smash the patriarchy”. Women outnumber men among Karnataka’s voters, yet the state has among the lowest representation of women legislators in the South. The irony is sharper because schemes such as Gruha Lakshmi and Shakti place women at the centre of electoral strategy, even as they remain excluded from executive power. If even a one-third benchmark were applied to a full-strength cabinet of 34, there should be about 11 women ministers. With B Nagendra resigning over his alleged involvement in the Valmiki Corporation scam, the calls for inducting a woman minister will get louder. However, the objective should not be to fill quotas with token appointments or confine women to the familiar Women and Child Development portfolio. Women must not be treated as a checkbox. A government that seeks women’s votes and designs flagship schemes around them cannot keep them outside the room where power is exercised.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/the-message-from-a-no-women-cabinet-4127670)
-
----
-
-### Jan Dhan at 12: 59 crore bank accounts, but how many are actually being used?
-*Deccan Herald · Opinion*
-
-The Pradhan Mantri Jan-Dhan Yojana (PMJDY) was launched in August 2014 to help the weaker sections and low-income groups get access to various financial services such as savings bank accounts, need-based credit, and insurance. Twelve years on, the report card looks impressive – over 59 crore accounts with a total amount of over Rs 3 lakh crore, and more than 32 crore female beneficiaries. This deep penetration at an affordable cost was possible only through the effective use of technology.
-
-However, the real story is the yawning gap between access and usage. Opening an account is a necessary first step, but it is not the same as bringing someone into the financial system in any meaningful sense. This is similar to literacy missions claiming that a person is no longer a “financial untouchable” the moment he or she can sign cheques or application forms, even though the person can neither read nor write.
-
-The scheme’s own numbers reveal an uncomfortable truth: roughly 26% of these accounts are dormant, with no transaction recorded for over two years. In some public-sector banks, dormancy runs as high as a third. A dormant account with zero balance does not help a household save, borrow, or insure itself against shocks, or build a credit history. Moreover, high dormancy imposes real costs on banks that must still maintain these accounts.
-
-If Financial Inclusion 1.0 had the goal of providing banking services to every family, Financial Inclusion 2.0 should aim to make every citizen economically strong. The measure of success should not be only the number of bank accounts, but their active use.
-
-On one hand, smartphone penetration has increased, but digital literacy is still limited. Digital frauds have been increasing. Many bank accounts have been opened in the names of women, but these accounts are often operated by other family members. Therefore, the next step of financial inclusion should be to build digital trust and ensure real financial freedom.
-
-The Reserve Bank of India (RBI)’s Financial Inclusion (FI) Index, launched in August 2021, measures the reach of financial services and covers parameters such as banking, investments, and insurance, apart from the postal and pension sectors. Financial inclusion is defined as the availability of affordable financial products and services to meet the needs of individuals and businesses while supporting entrepreneurship and empowering women. The index helps track progress, identify gaps, and nudge banks to open branches in underserved areas. The FI index in March 2026 stood at 70, up from 53.9 in 2021. The growth was witnessed across all three sub-indices of access, usage, and quality.
-
-Germany's INDEX opens Bengaluru tech centre to tap India’s manufacturing pushIndia can learn from successful international examples. Kenya’s flagship model M-Pesa expanded mobile financial services in rural areas and helped people send and receive money directly on phones via SMS, even without a bank account. It enabled farmers to receive loans directly on their phones to buy seeds.
-
-Brazil’s Pix, like UPI in India, made digital payments between people, businesses, and the government fast and affordable. Nearly 80% of the population uses Pix, and it is the most used payment method in the country. India’s strength lies in integrating Aadhaar, UPI, DigiLocker, and banking services into a unified Digital Public Infrastructure, making financial services more accessible, efficient, and inclusive.
-
-The road ahead for the government should be clear. First, we need to increase the active usage of bank accounts. In other words, shift the metric from the number of accounts opened to the number of accounts used. Second, small farmers, rural households, and women in villages should have easier access to loans through formal banking channels – expanding Mudra loans or Kisan credit card linkages is key here. Third, insurance and pension should become integral parts of financial inclusion so that every family is better prepared to face financial crises.
-
-Fourth, digital financial education should be included in school and college curricula. Fifth, we must ensure that women actively use and benefit from their bank accounts. Sixth, enhance the focus on financial literacy drives through self-help groups, panchayats, and community radio, covering areas such as how to use a debit card, how to check balances in an ATM, how to do a UPI transaction, etc.
-
-India stands at a moment of historic opportunity. Financial inclusion should be a tool of economic empowerment, helping the underprivileged live with dignity.
-
-(The writers are former bankers and train young bankers at Manipal
-
-Academy of Higher Education, Bengaluru)
-
-[Read full article](https://www.deccanherald.com/opinion/jan-dhan-at-12-59-crore-bank-accounts-but-how-many-are-actually-being-used-4127672)
 
 ---
 
