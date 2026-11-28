@@ -1,3 +1,425 @@
+## 28 November 2026
+
+### Understanding Different Approaches to Hair Loss: What Works and What to Expect
+*Unknown · regional*
+
+Hair loss is one of those problems that seems simple on the surface but rarely is. Most people try a new shampoo, maybe a hair oil, and hope for the best. When that doesn't work, they move on to something else. The cycle continues, and months pass without real progress. The truth is, what approach works for hair loss depends almost entirely on what's causing it in the first place. 
+
+**Why Hair Loss Is Not a One-Size-Fits-All Problem** 
+
+Before jumping into solutions, it helps to understand why hair falls out in the first place. Hair loss medically referred to as alopecia happens for a wide range of reasons. It could be hormonal shifts, nutritional deficiencies, scalp conditions, chronic stress, autoimmune responses, or even genetics. Each of these has a different mechanism, and each requires a different approach. 
+
+For example, hair thinning caused by low iron or B12 behaves very differently from hair loss triggered by high DHT (dihydrotestosterone), which is the hormone responsible for pattern baldness. Treating one with the protocol meant for the other rarely works. This is exactly why so many people end up frustrated after spending money on products that weren't designed for their specific type of hair loss. 
+
+**Common Approaches and What They Actually Do** 
+
+There are several broad categories of hair loss treatments available today. Understanding what each one targets helps set realistic expectations. 
+
+-   **Topical treatments** like minoxidil work by improving blood circulation to the scalp and extending the hair growth phase. They can slow shedding and stimulate regrowth in some cases, but they need consistent use and don't address underlying causes. 
+    
+
+-   **Nutritional supplementation** (iron, zinc, biotin, vitamin D) addresses deficiency-
+    
+
+-   **Ayurvedic or herbal formulations** often work on inflammation, scalp health, and stress pathways. Some herbs like ashwagandha, brahmi, and bhringraj have demonstrated effects on stress hormones and scalp circulation. 
+    
+
+-   **Prescription medications** like finasteride block DHT conversion and are primarily used for androgenetic alopecia (genetic hair loss). They are effective but come with side effects that need medical supervision. 
+    
+
+-   **PRP (Platelet-Rich Plasma) therapy** involves injecting growth factors from your own blood into the scalp. It can stimulate dormant follicles but typically works best in early to mid-stage hair loss. 
+    
+
+None of these is universally superior. The right choice depends on the person's hair loss type, lifestyle, and overall health picture. 
+
+**The Role of Internal Health in Hair Recovery** 
+
+This is the part that gets overlooked most often. Hair is not just a cosmetic issue. It's a signal. When your body is under stress, undernourished, or dealing with hormonal imbalance, hair is often one of the first things to suffer because it's not essential for survival. The body redirects nutrients and energy away from non-critical functions like hair growth. 
+
+This is why people experiencing thyroid disorders, polycystic ovarian syndrome (PCOS), or gut absorption issues often see significant hair thinning. Treating the scalp alone in these cases will almost never deliver lasting results. Recovery comes when internal health is addressed alongside external care. 
+
+**How Personalized Treatment Differs From Generic Products** 
+
+Generic hair loss products are designed to appeal to the broadest possible audience. That means they're built around average assumptions not your specific blood markers, scalp condition, or hair loss pattern. Personalized approaches, on the other hand, start with a diagnosis before recommending anything. 
+
+This is what makes root-cause-based programs more effective for chronic hair loss. Platforms that offer a combination of dermatologist-led assessment, internal supplementation, and topical care tend to show better outcomes over time. For anyone seriously looking into this model, understanding how Traya hair treatment works and what it costs can help set realistic financial and outcome-based expectations before starting. 
+
+**What to Realistically Expect From Any Hair Loss Treatment** 
+
+This part is important. Hair grows slowly roughly 1 to 1.5 centimeters per month. Even with the most effective treatment plan, visible results typically take three to six months of consistent use. Most people quit before they reach that window. 
+
+There are a few things worth keeping in mind when starting any approach: 
+
+-   Increased shedding in the first few weeks is often normal, especially with minoxidil or when nutritional deficiencies are being corrected 
+    
+
+-   Results are progressive, not dramatic or immediate 
+    
+
+-   Maintenance matters stopping treatment often reverses gains 
+    
+
+-   Getting baseline blood tests (ferritin, thyroid panel, vitamin D, DHT levels) gives you something concrete to measure against 
+    
+
+**Final Thoughts** 
+
+The most important shift in thinking about hair loss is moving away from "which product should I try" to "what is actually causing this." That question alone changes the quality of decisions you make. Whether you eventually use a clinical treatment, an Ayurvedic protocol, or a combination approach through a platform like Traya, the foundation should always be understanding your body first. Hair loss that is caught early, properly diagnosed, and treated with consistency has a genuinely good chance of meaningful recovery. It just takes patience and the right starting point. 
+
+### Read Latest News and Breaking News at The Quint, browse for more from brandstudio
+
+### Topics:  Haircare
+
+---
+
+### Passenger finds large metal bolt inside vada served on Vande Bharat, IRCTC responds
+*India Today Trending Desk · general*
+
+## A passenger found a large metal bolt in a vada served aboard a Vande Bharat train. The discovery prompted an IRCTC apology, punitive action and tighter kitchen checks.
+
+Passenger finds large metal bolt inside vada served on Vande Bharat (Photos: @SamKodial/X)
+
+New Delhi,Nov 28, 2026 13:19 IST
+
+A Vande Bharat passenger travelling from Bengaluru to Belagavi was in for an unpleasant surprise after finding a large metal bolt inside a vada served as part of the train meal.
+
+The passenger shared a video of the foreign object in his food, prompting the Indian Railway Catering and Tourism Corporation (IRCTC) to apologise and announce punitive action against the service provider.
+
+X user Samarth Kodial shared the video on his account, showing the vada broken into two pieces on his plate, with a large bolt placed beside it. He also recorded the surroundings, establishing that he was travelling aboard a Vande Bharat train when the incident occurred.
+
+Calling it a serious lapse in food quality, Kodial wrote, "A large bolt found in Vada in the Vande Bharath meal while travelling from Bengaluru to Belagavi today. This is a huge lapse in food quality. Please look into this matter."
+
+Take a look at the post here:
+
+IRCTC responded to the post, regretting the inconvenience caused and confirming that action had been taken against the concerned service provider.
+
+The incident also garnered criticism from social media users, with several questioning how such a foreign object could end up in a passenger's meal. One user sarcastically called it an "iron supplement" and questioned when food served on Indian trains would meet international standards.
+
+Another person argued that passengers continued to receive poor-quality food regardless of how much they paid, suggesting that only the packaging differed.
+
+Some raised questions about the absence of metal detectors at the kitchen facility and asked why such checks had not been in place to prevent the incident.
+
+\- Ends
+
+---
+
+### iPhone users are being hacked: Telegram CEO warns iPhone users of possible security attacks
+*Kazi Nasir · general*
+
+If you think your iPhone is safe just because you haven't clicked on a suspicious link or downloaded an unknown app, Telegram CEO Pavel Durov has a warning that might make you think twice. He says iPhones running outdated versions of iOS could be vulnerable to attacks that may begin with something as simple as visiting a website.
+
+"iPhone users are being hacked on a massive scale. If your iOS is even slightly outdated, all your data is at risk. Just opening a website can be enough to get you hacked. We're sending this warning to all our users on older iOS versions," Durov wrote in a recent X post.
+
+The Telegram founder's warning is particularly concerning because it points to a type of attack where users may not have to do much to put their devices at risk. You don't necessarily have to download a suspicious file or tap on a strange link. In some cases, visiting a compromised website could be enough if your device has an unpatched security flaw.
+
+> iPhone users are being hacked on a massive scale. If your iOS is even slightly outdated, all your data is at risk. Just opening a website can be enough to get you hacked. We're sending this warning to all our users on older iOS versions: https://t.co/k2BKf5N5ua— Pavel Durov (@durov) November 27, 2026
+
+### Telegram is warning users
+
+Telegram has reportedly started sending in-app security warnings to users who are running older versions of Apple's mobile operating system. However, Durov has not named the specific iOS versions affected, identified the vulnerability being exploited or shared details about the number of users who may have been targeted.
+
+There is also an important distinction here. Durov has issued a serious warning, but Apple has not announced a new widespread attack against iPhones running updated software. Nor has the company released a new security patch specifically in response to his post.
+
+It’s worth noting that the warning comes after another security incident involving malicious scripts on popular websites. A few days ago on November 17, attackers reportedly injected malicious JavaScript through the Optimizely platform into 178 websites associated with organisations including Zoom, HSBC, CNN, Salesforce and Ikea.
+
+Reuters reported that the scripts attempted to steal payment information, cookies, and screenshots, and to deliver exploit code targeting Apple devices. Optimizely confirmed that attackers had exploited a vulnerability in its platform and said it had fixed the issue and removed the malicious code.
+
+Apple told Reuters that the vulnerabilities targeted in that incident had already been fixed the previous year. However, there is no confirmed link between that attack and Durov's latest warning.
+
+### How to update your iPhone and stay protected
+
+So, what should you do? Start by checking whether your iPhone has a pending software update. Open Settings, go to General and tap Software Update. If an update is available for your device, download and install it.
+
+As of November 28, Apple's latest public release is iOS 27.2.1, which was released on November 9. Older iPhone models may receive separate security updates instead, depending on which versions they support.
+
+You can also turn on Automatic Updates so your iPhone installs security fixes when they become available.
+
+\- Ends
+
+---
+
+### Heritage Foods CEO Srideep Kesavan resigns
+*BL Hyderabad Bureau · business*
+
+Srideep Madhavan Nair Kesavan
+
+Srideep Madhavan Nair Kesavan has resigned as Chief Executive Officer of Heritage Foods Limited, citing personal reasons.
+
+The Hyderabad-based dairy company told the stock exchanges on Saturday that Kesavan would leave at the close of business on December 31. Its board noted his resignation in a circular resolution passed on Friday.
+
+Kesavan, who took charge in August 2021, addressed his November 27 resignation letter to Brahmani Nara, the company’s Executive Director.
+
+He said Heritage had become a “consumer-centric dairy FMCG enterprise” during his tenure and that repeat purchase rates for its brands were “among the highest in the industry”.
+
+“Today, despite the industry headwinds, I believe Heritage Foods is in its strongest position yet,” he said.
+
+He added that he was committed to a smooth handover of his responsibilities.
+
+Published on November 28, 2026
+
+---
+
+### JEE route confirmed for new IIT courses in Robotics, Physical AI and Space Technology
+*Mridusmita Deka · general*
+
+The upcoming undergraduate programmes in Robotics, Physical AI and Space Engineering at the Indian Institutes of Technology (IITs) will admit students through the Joint Entrance Examination (JEE), with all the proposed seats being additional to the existing IIT intake, the Bhupat and Jyoti Mehta Family Foundation has clarified.
+
+The clarification comes days after the foundation announced its plan to create around 6,000 new seats across undergraduate, postgraduate and doctoral programmes in partnership with multiple IITs over the next eight to ten years. The first batches are expected to begin in 2027.
+
+Speaking about the admission process and expansion plans with India Today, Rahul Mehta, founder of the Bhupat and Jyoti Mehta Family Foundation, says undergraduate admissions to the new programmes would be through JEE, while additional opportunities would also be created at the Master's and PhD levels.
+
+"All 6,000 seats will be additional to the IITs' existing intake. The initiative will expand their overall academic capacity without reducing or replacing seats in conventional engineering disciplines," Mehta says.
+
+The proposed 6,000 seats will be distributed across two domains: Robotics and Physical AI, which will account for 5,000 seats, and Space Engineering and Technology, with 1,000 seats.
+
+Of the 5,000 seats planned in Robotics and Physical AI, 2,500 will be at the BTech level, 1,200 at the Master's level and 1,300 at the PhD level. The Space Engineering and Technology domain will have 500 BTech seats, 300 Master's seats and 200 PhD seats.
+
+This takes the total proposed undergraduate intake to 3,000 seats, while Master's and doctoral programmes will account for 1,500 seats each. The expansion will be introduced in phases over the next eight to ten years.
+
+### IITS YET TO FINALISE INSTITUTE-WISE SEAT ALLOCATION
+
+The Foundation is currently in discussions with multiple IITs on institutional participation, programme structures and the distribution of seats. The names of the participating institutes and the programmes planned at each campus will be announced once these discussions are concluded.
+
+"These seats will be introduced in phases, with the institute-wise distribution determined in consultation with the participating IITs and based on their respective academic plans," Mehta adds.
+
+The Foundation has previously partnered with six IITs – IIT Madras, IIT Kanpur, IIT Guwahati, IIT Roorkee, IIT Palakkad and IIT Indore – to establish eight schools and centres in areas including Artificial Intelligence, Data Science, Biomedical Engineering and Sustainability.
+
+Through these partnerships, it has supported more than 4,000 admissions across undergraduate, postgraduate and doctoral programmes since 2019.
+
+### WHY DEDICATED PROGRAMMES ARE BEING PLANNED
+
+Explaining the need for specialised programmes, Mehta says traditional robotics education has largely been rooted in mechanical and electrical engineering, but the field is increasingly bringing together several disciplines.
+
+"While these disciplines remain important, the next generation of robotics combines physical hardware with artificial intelligence, computer vision, sensors, software and advanced AI models. This requires a different approach to engineering education, with students learning how to build machines that can process information and respond dynamically to their environment," he notes.
+
+He adds that existing engineering programmes provide a strong foundation, but dedicated interdisciplinary courses are needed to prepare students for emerging technologies and the industries they will shape.
+
+The new academic ecosystem is expected to be supported by more than 120 dedicated faculty members. Research areas will include foundation models, simulation-to-real-world transfer, digital twins, humanoid and legged robots, swarm robotics and soft robotics.
+
+The programmes will also focus on practical industry exposure. Each programme will include a fourth-year capstone project as a core graduation requirement, with students expected to work with industry on projects addressing real-world requirements.
+
+"A paid industry-residency semester is also under discussion. Creating industry advisory councils as part of the schools will ensure hands-on experience for the students as part of their core education," Mehta says.
+
+The initiative aims to prepare engineers and researchers for emerging opportunities across manufacturing, agriculture, healthcare, defence and the expanding space technology sector.
+
+"Our vision goes well beyond creating 6,000 seats. We want these graduates to become contributors to India's next phase of industrial and technological growth," Mehta further adds.
+
+\- Ends
+
+---
+
+### Anant Ambani performs Govardhan Parikrama in Vrindavan, credits grandparents' blessings
+*India Today News Desk · general*
+
+## Anant Ambani offered prayers before undertaking the Govardhan Parikrama in Vrindavan. He credited his grandparents' blessings and prayed for India's prosperity.
+
+Before starting the circumambulation, Anant Ambani offered prayers at the Shri Giriraj Ji Mukharvind Temple.
+
+New Delhi,Nov 28, 2026 13:07 IST
+
+Reliance Industries Executive Director Anant Ambani arrived in Vrindavan on Friday to take part in the Govardhan Parikrama. Devotees and locals welcomed him warmly at several points along the route.
+
+**Prayers at Giriraj Ji Mukharvind Temple**
+
+Before starting the circumambulation, Ambani offered prayers at the Shri Giriraj Ji Mukharvind Temple. He then set out on the parikrama of Giriraj Ji, also known as Govardhan Parvat, and was received by devotees in the traditional manner.
+
+**Krishna Leela Performances Along the Route**
+
+The parikrama route showcased Braj's cultural and devotional heritage. Local artists staged scenes from Krishna Leela, depicting episodes from the life of Lord Krishna. Ambani was seen watching the performances with evident fascination.
+
+**"Because of My Grandparents"**
+
+Ambani said he was performing the full parikrama and spoke of the joy of being at the feet of Lord Giriraj Dharan. He thanked the people of Braj for their hospitality.
+
+"It is because of my grandparents that I am here today," he said. He added that their blessings and guidance had brought him there. He said they were delighted when he told them of his plan, and that he was offering his respects on their behalf as well.
+
+**A Prayer for the Nation**
+
+Describing the experience as beyond words, Ambani spoke of the unique atmosphere of devotion and spirituality at the shrine. He prayed for everyone's well-being and, in particular, for the prosperity of India.
+
+**Temple Priest on the Family's Bond with Giriraj Ji**
+
+Ganesh, a priest at the temple, said Ambani's visit had brought great joy. He noted that Ambani's parents and grandparents share a deep connection with Giriraj Ji and have regularly made offerings and donations at temples there. He wished the family ever-growing renown and prosperity.
+
+\- Ends
+
+---
+
+### Committed to promise made to our Nari Shakti: PM Modi as Delimitation Bill gets backing
+*India Today News Desk · general*
+
+## Prime Minister Narendra Modi reiterated his commitment to women's reservation, saying no obstacle would prevent greater participation of women in Parliament and state assemblies. His remarks come as the Centre pushes revised legislation linking the 33% quota with delimitation.
+
+PM Modi assured that the govt is doing everything to make sure the status of women improve in the Parliament. (File Photo: ITG)
+
+Prime Minister Narendra Modi on Saturday vowed to remove all hurdles to women's reservation in Parliament and state legislatures, reiterating his government's commitment to the 33 per cent quota.
+
+The statement comes as the Centre seeks to move ahead with its revised Delimitation and Women's Reservation Bills in Parliament.
+
+In a post on X, Modi said the fight for women's political representation had continued for decades and that several women had raised the issue with him through letters and personal interactions.
+
+He assured women across the country that his government would remove every hurdle preventing the implementation of the reservation.
+
+"The parties opposing women's reservation will never be able to stop the country's Nari Shakti from increasing their participation in Parliament and Legislative Assemblies. It is just a matter of time," he said.
+
+Modi added that the government's resolve was firm and that it had the support of women across the country.
+
+### WOMEN'S RESERVATION LINKED TO DELIMITATION EXERCISE
+
+The Prime Minister's remarks come a day after the Union Cabinet cleared a fresh set of legislative proposals aimed at implementing the 33 per cent reservation for women in the Lok Sabha and state legislative assemblies.
+
+The package includes the Constitution (132nd Amendment) Bill, 2026, and the Delimitation (Second) Bill, 2026.
+
+The Constitution (106th Amendment) Act, 2023, commonly known as the Women's Reservation Act, provides for reserving one-third of seats for women in the Lok Sabha and state assemblies.
+
+However, its implementation was linked to a delimitation exercise following the publication of the relevant Census figures.
+
+The Centre's revised proposal seeks to bring the quota into effect through delimitation while increasing the strength of the Lok Sabha and state assemblies by 50 per cent.
+
+The maximum strength of the Lok Sabha is proposed to be raised to 850, comprising 815 seats for states and 35 for Union Territories.
+
+The maximum strength of state assemblies would also increase to 650.
+
+The revised formula also seeks to address concerns raised by southern states over losing their share of parliamentary representation due to population-based delimitation. It proposes retaining the existing proportional distribution of Lok Sabha seats among states until 2051.
+
+### EARLIER WOMEN'S RESERVATION BILL FAILED TO PASS
+
+The fresh legislative push follows the defeat of an earlier constitutional amendment Bill in the Lok Sabha in April. The proposal received 298 votes in favour and 230 against but failed to secure the required two-thirds majority of members present and voting.
+
+The Opposition had questioned the government's decision to link women's reservation with delimitation, arguing that the quota should be implemented without waiting for the exercise to redraw constituencies.
+
+Several parties had also raised concerns about the possible impact of population-based seat redistribution on the representation of states that had successfully controlled population growth.
+
+The revised proposals are scheduled to be taken up during the special sitting of Parliament beginning November 30. The Lok Sabha is expected to meet for four days, while the Rajya Sabha will reconvene on December 2.
+
+\- Ends
+
+---
+
+### Bisleri seeks FSSAI review over conflicting test results for Bengal batch
+*Business Standard · business, entrepreneur, finance*
+
+The company said two independent, FSSAI-recognised laboratories found no coliform bacteria in batch PB201, which the regulator had prohibited from sale in August
+
+[Read full article](https://www.business-standard.com/companies/news/bisleri-fssai-review-coliform-bacteria-west-bengal-water-batch-126112800322_1.html)
+
+---
+
+### Technosport targets ₹1,000 crore revenue in FY27, plans 130 exclusive stores
+*T E Raja Simhan · business*
+
+The company, which currently operates through a network of around 15,000 general trade retailers, is also accelerating its exclusive brand outlet (EBO) expansion. (Photo: Technosport website)
+
+Technosport, the Tiruppur-based activewear brand, is targeting revenue of ₹1,000 crore in FY27, up from around ₹600 crore in the previous financial year, driven by expansion across retail channels, higher garment volumes and growing demand in smaller towns and cities.
+
+The company expects to sell more than 35 million garments this financial year, compared with around 25 million units last year, said Puspen Maity, CEO, Technosport. “We are pretty much on track to achieve our goals this year. Growth is coming across all channels, including general trade, modern retail, exclusive brand outlets, e-commerce and quick commerce,” he told _businessline_.
+
+The company, which currently operates through a network of around 15,000 general trade retailers, is also accelerating its exclusive brand outlet (EBO) expansion. From 50 stores at the end of last fiscal, it is set to open its 100th store in Tiruppur on Sunday and plans to end have 130 stores by next year, he said.
+
+Technosport is also strengthening its manufacturing capacity. It signed an MoU with Odisha government to invest around ₹100 crore in a facility to intially focus on cutting and stitching, with plans to subsequently add knitting capabilities, he said.
+
+In Tiruppur, Technosport has made investments in a manufacturing facility at Perundurai, where the first phase is fully operational. The second phase is under implementation with an investment of about ₹100 crore, Maity said.
+
+The company sells all its products only in India under its own brand, and will continue to prioritise the domestic market. There is significant untapped opportunity across India, he said.
+
+Maity said 70 per cent of its business by value comes from general trade, which has helped the brand penetrate Tier-II and Tier-III markets and rural areas. Exclusive brand outlets are largely concentrated in Tier-I and Tier-II cities, while e-commerce caters to consumers across different city categories. Online sales currently contribute around 10 per cent of the business, with the remaining revenue coming from offline channels.
+
+The company is also broadening its product portfolio beyond its traditional strength in men’s topwear, including T-shirts, polo shirts and sweatshirts, to track pants, joggers and other categories .Women’s wear, though still accounting for a high single-digit share of the business, has registered growth of around 30-40 per cent or more, Maity said. The average selling price at the retail level is around ₹550, he added.
+
+On the supply side, the company has faced challenges from higher raw material prices, Rupee depreciation and logistics disruptions, including container availability. However, it has so far avoided significant price increases to protect its positioning as an affordable activewear brand, he said.
+
+Technosport raised its last funding round in 2024 from A91 Partners. Maity said an initial public offering was not on the company’s immediate agenda.
+
+Published on November 28, 2026
+
+---
+
+### EC hikes honorarium for SIR tribunal judges
+*Bharti Jain · regional, india*
+
+The higher honorarium will serve as an incentive for other ex-judges to sign up for the additional tribunals, said an officer.
+
+NEW DELHI: The Election Commission on Friday enhanced the honorarium payable to judges of tribunals hearing appeals against inclusions and exclusions made in West Bengal’s electoral roll during the special intensive revision (SIR) exercise.
+
+With this, one of the key grievances aired by the tribunals and endorsed by a committee led by chief justice of the Calcutta High Court, has been resolved.All former high court judges assigned to SIR tribunals shall now receive a monthly honorarium of Rs 2.5 lakh, while a judge who has been a former Chief Justice of a High Court would be paid Rs 10,000 over and above this amount. The revised honorarium would be effective from Nov 20, 2026.As per the original EC order dated April 7, 2026, honorarium was payable to the tribunal judges on a weekly basis: Rs 1.5 lakh to former HC judges and Rs 1.6 lakh to former HC chief justice for base two weeks and Rs 25,000 per week thereafter.The Supreme Court had on Nov 23 directed EC to increase the number of tribunals. The higher honorarium will serve as an incentive for other ex-judges to sign up for the additional tribunals, said an officer.
+
+The apex court had earlier issued a directive for addressing the SIR tribunals’ administrative and infrastructure bottlenecks, to expedite the disposal of appeals. An internal committee of the Calcutta HC recently recommended the hiked compensation for the tribunals judges, communicated to EC by the HC registrar general on Nov 20, which the commission accepted in toto.Sources in the poll panel told TOI that almost all the grievances and issues raised by the tribunal judges have been addressed by EC. These include tweaking the SIR tribunals portal to enable the judges to login and issue orders with their digital signature certificate, allowing additional documents to be uploaded on the portal, and enabling judges to save the order as draft and edit it before issuing the final order, etc.
+
+Also, the judges have been allowed to work from alternative sites -- rather than the assigned office in Joka -- including their home or a place closer to their home. The staffing issues have also been suitably addressed.
+
+---
+
+### Gen Z now part of our dictionaries, reels are new kind of pen: Kalli Purie at Sahitya AajTak 2026
+*India Today News Desk · general*
+
+## The growing influence of Gen Z and the challenges posed by AI to creativity and literature will be the focus of the ninth edition of Sahitya AajTak 2026, which was inaugurated by India Today Group Vice-Chairperson and Executive Editor-in-Chief Kalli Purie on Friday.
+
+India Today Group Vice Chairperson and Executive Editor-in-Chief Kalli Purie
+
+New Delhi,Nov 28, 2026 13:36 IST
+
+Gen Z is changing how India speaks and writes, while AI presents both opportunities and challenges for artists, India Today Group Vice-Chairperson and Executive Editor-in-Chief Kalli Purie said, as she highlighted the changing literary landscape in the country. Inaugurating the ninth edition of Sahitya AajTak 2026 on Friday in New Delhi, Purie underlined that this year's event was all about new voices, emerging talent and first-timers.
+
+In fact, she pointed out that of the more than 300 speakers and performers at the event, 90% were first-timers. "After all, this has been the year of first-timers. Whether it was the Asian Games, Bollywood or politics, it was the underdogs who surprised everyone. This year's Sahitya AajTak has also been inspired by the same spirit," Purie said.
+
+### 'GEN Z PART OF OUR DICTIONARIES'
+
+Purie said many believed Gen Z had no interest in national issues, but that changed when they raised their voices this year.
+
+"The echoes were heard by everyone. Gen Z has now become part of all our dictionaries. Reels and memes have become a new kind of pen," Purie said.
+
+She was referring to the massive Gen Z protests that gripped Delhi earlier this year against exam paper leaks. The sustained protests eventually forced Dharmendra Pradhan to resign as the Union Education Minister.
+
+Reflecting on AajTak's 25-year journey, Purie said sustaining its position in an era of "instant fame" and being forgotten just as quickly was an achievement in itself.
+
+"Instant fame and then being forgotten just as quickly - that seems to be the mood of the younger generation. In such times, Aaj Tak holding its ground for 25 years is truly remarkable," Purie said.
+
+### ON AI CHALLENGES TO CREATIVITY
+
+She also touched upon the challenges posed by AI to creativity and the literary world as a whole. While technology opened up new opportunities for artists, Purie underscored that it also raised concerns, particularly over copyright.
+
+"In this new age of AI... artists face several new opportunities and challenges. On one hand, there is empowerment; on the other, there are questions of copyright. The only way to find solutions to these issues is by sitting together and having conversations," she further said.
+
+On previous occassions, Purie has highlighted how the way forward is not to be fearful of AI. She has asserted that AI and human creativity could coexist in what she called an "AI sandwich".
+
+The Sahitya AajTak, India Today Group's flagship literary event, provides a platform for artists across the country to exchange ideas and engage in conversations.
+
+"It is a platform where established, award-winning and celebrated names can share the stage with new content creators and emerging talent," Purie said.
+
+This year's event will feature tributes to legendary singers Asha Bhosle and Bhupen Hazarika. The event will also feature the Sahitya Jagriti Awards, which was launched in 2023 to recognise the country's literary talent. Former Vice-President Venkaiah Naidu is the chief guest of the event.
+
+\- Ends
+
+---
+
+### Bitcoin falls below $60,000, Ethereum nears $1,660 as renewed selling pressure persists despite US tech stocks rebound
+*Surbhi Khanna · general*
+
+Bitcoin slipped below $60,000, while Ethereum retreated towards $1,660, as renewed selling pressure erased much of the recent recovery despite a rebound in US technology stocks. The cryptocurrency was trading at $59,739 mark and Ethereum was at $1,654 mark.
+
+In the past 24 hours, Bitcoin was down 2.3% and Ethereum was down 3.8%. Among the major altcoins, BNB, XRP, Solana, Dogecoin, Tron, Hyperliquid and Cardano corrected upto 2.7%.
+
+Riya Sehgal, Research Analyst, Delta Exchange said despite a rebound in US technology stocks, cryptocurrencies struggled to sustain their gains, highlighting persistent crypto-specific weakness.
+
+Looking ahead, weekend liquidity, month-end positioning and upcoming US employment data could influence market direction. Until Bitcoin and Ethereum reclaim their immediate resistance levels, recovery rallies remain vulnerable to renewed selling, with the broader market outlook likely to remain cautious, Sehgal further said.
+
+The global crypto market capitalisation went down 2% to $2.14 trillion, according to the data on Coingecko.
+
+Nischal Shetty, Founder, WazirX said the broader crypto market showed signs of recovery, with several major digital assets registering gains despite cautious investor sentiment. The global crypto market capitalization reached approximately $2.11 trillion, while the Crypto Fear and Greed Index is at 11, remaining in Extreme Fear territory.
+
+Bitcoin’s immediate support lies at 60,000 - 60,500, with resistance between $62,000 and $64,000. Ethereum’s support stands at 1,680 - 1,700, while resistance is positioned around 1,750- 1,800, Shetty further said.
+
+Over the last week, Bitcoin was up 5.8% and Ethereum was up 5.9%. Among the major altcoins, BNB, XRP, Solana, Dogecoin, Tron, Hyperliquid and Cardano gained upto 10.1%.
+
+Harish Vatnani, Country Head - India, ZebPay said over the past week, the crypto market suffered a sharp flush to its lowest level in more than two years and then stabilised around $60,000. Bitcoin fell 5% on 20 November as the sell-off in Nvidia shares hit risk assets, and dropped to about $55,130 on 21 November, the lowest since September 2024, with about $2.4 billion of mostly long positions liquidated in 24 hours.
+
+Vatnani further said that the daily RSI is near 28, an oversold reading. Support is at $60,000 and then $57,300 to $57,700, with the $55,130 low below it. Resistance is at $62,500, then $64,600 and the 20-day average near $65,100, followed by the 200-week average near $68,200.
+
+_(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)_
+
+
+---
+
 ## 27 November 2026
 
 ### After Amazon, Oracle Layoffs: SAP to cut 10,000 jobs; how will it impact Indian employees?
